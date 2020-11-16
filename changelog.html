@@ -33,13 +33,19 @@ ul {
     </ul></li>
     <li>improved navigation all around the site, making the wiki as a whole more consistent</li>
     <li>added lazy loading for images, so landing pages shouldn't take up nearly as much data, and will load quicker (especially noticeable for the <a href="flash/">Flashes &amp; Games</a> index!)</li>
-    <li>adjusted the styling for grouped listings (previously used only for [[album:unreleased-tracks]]) as they become more common (see data changes)</li>
+    <li>adjusted the styling for grouped listings (previously used only for [[album:unreleased-tracks]]) as they become more common (see data changes section)</li>
+</ul>
+<h3>listings</h3>
+<ul>
+    <li>divided the <a href="list/artists/by-contribs/">Artists - by Contributions</a> and <a href="list/artists/by-latest/">Artists - by Latest Contribution</a> listings into two columns for easier exploring: "Track Contributors" and "Track &amp; Flash Contributors"</li>
 </ul>
 <h3>bug fixes</h3>
 <ul>
-    <li>fixed a bug which meant chronology links (e.g "413th track by Toby Fox") for track artists weren't being displayed anymore</li>
+    <li>fixed a bug where chronology links (e.g "413th track by Toby Fox") for track artists weren't being displayed anymore</li>
     <li>fixed a bug where artists with zero contributions (e.g. only commentary) would display as "( c.)" instead of "(0 c.)" in artist listings</li>
     <li>fixed a bug where flash names would <i>always</i> have the dot at the end of the name removed, instead of only when punctuation follows</li>
+    <li>fixed some bugs with release date code where the <a href="list/artists/by-latest/">Artists - by Latest</a> listing would not count unique dates of cover art contributions (e.g. in anthology projects where fanart is added after the release of the album), and where the cover art release date displayed on album pages was ambiguous (previously it displayed the date of track art for the whole album; now it displays - or, if it is the same as album release, does not display - the date of cover art for the album itself)
+    <li>fixed a bug on artist pages where tracks that are featured in more than one flash would display flashes past the first feature as "1", "2", "3", etc, instead of the actual flash names</li>
 </ul>
 <h3>data changes</h3>
 <ul>
@@ -56,15 +62,6 @@ ul {
             <li>[[artist:elisa-mccabe]] for the track art of [[track:emerald-terror]] (it's actually by [[artist:hamsterparade]])</li>
             <li>[[artist:tristan-scroggins]] for the track art of [[track:phantasmic-youngsters]] (it's actually by [[artist:ari-hunt]])</li>
         </ul></li>
-        <li>renamed the artists... <ul>
-            <li>[[artist:erupan]] (used to be Rebecca Ryberg)</li>
-            <li>[[artist:decon-theed]] (used to be repeatedScales)</li>
-            <li>[[artist:grim-harlequin]] (used to be Mingmingfurb)</li>
-            <li>[[artist:kajoinen]] (used to be Kajoi)</li>
-            <li>[[artist:kezinox]] (used to be Sinister Psyche)</li>
-            <li>[[artist:mathias-ramalho]] (used to be "Matthias", two t's)</li>
-            <li>[[artist:toguchindraws]] (used to be Chelsea Thomas)</li>
-        </li></ul>
         <li>updated the youtube link for [[track:purple-tyrant]] to be the official upload</li>
     </ul></li>
     <li>a bunch of tweaks and reference fixes thanks to an emailer: <ul>
@@ -108,11 +105,19 @@ ul {
     <li>fixed a typo which was keeping [[track:tfw-another-james-roach-track]] from showing up in the feature list of [[flash:fs-vol6]]</li>
     <li>fixed typos which were messing up the durations of [[track:elegy-for-a-thief-dreamscape-remix]] and [[track:i-dont-want-to-miss-a-thing]]</li>
     <li>removed a duplicate youtube link for [[track:split-reality]]</li>
-    <li>renamed some more artists: <ul>
+    <li>renamed the artists: <ul>
+        <li>[[artist:decon-theed]] (used to be repeatedScales)</li>
         <li>[[artist:elly-beck]] (used to be Elly)</li>
+        <li>[[artist:erupan]] (used to be Rebecca Ryberg)</li>
+        <li>[[artist:grim-harlequin]] (used to be Mingmingfurb)</li>
         <li>[[artist:grue]] (used to be Cactuar)</li>
+        <li>[[artist:kajoinen]] (used to be Kajoi)</li>
+        <li>[[artist:kezinox]] (used to be Sinister Psyche)</li>
+        <li>[[artist:kusoro]] (used to be Xoro Laventer)</li>
+        <li>[[artist:mathias-ramalho]] (used to be "Matthias", two t's)</li>
         <li>[[artist:quasar-nebula]] (used to be Florrie Haero)</li>
         <li>[[artist:sylladexter]] (used to be Marina)</li>
+        <li>[[artist:toguchindraws]] (used to be Chelsea Thomas)</li>
     </ul></li>
 </ul>
 
