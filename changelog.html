@@ -29,15 +29,34 @@ ul {
         <li>three groupings for the wiki index: New Releases, Fandom, Official, showing just a few so it's easy to navigate, with new buttons to view a complete grid listing</li>
         <li>moved the "Explore the site!" links over to the newly wiki-wide header, placing albums front and center while leaving navigation links readily accessible</li>
         <li>added a sidebar to the homepage, listing recent <a href="news/">news entries</a> parallel with albums</li>
-        <li><strong style="color: red">todo: describe this lol</strong></li>
     </ul></li>
-    <li>improved navigation all around the site, making the wiki as a whole more consistent</li>
+    <li>improved navigation all around the site, making the wiki as a whole more consistent <ul>
+        <li>cover art displayed in grid items is smaller across the site, fitting more items on a screen at once and emphasizing the name more than before</li>
+        <li>on the new <a href="albums/official/">Official</a> and <a href="albums/fandom/">Fandom</a> album indexes, the number of tracks and length of the album is displayed as well</li>
+    </ul></li>
     <li>added lazy loading for images, so landing pages shouldn't take up nearly as much data, and will load quicker (especially noticeable for the <a href="flash/">Flashes &amp; Games</a> index!)</li>
     <li>adjusted the styling for grouped listings (previously used only for [[album:unreleased-tracks]]) as they become more common (see data changes section)</li>
+    <li>made links which require JavaScript only show up of JS is actually enabled</li>
+</ul>
+<h3>tags</h3>
+<ul>
+    <li>new feature! tags are used for two things: categorizing track art by character, and displaying content warnings.</li>
+    <li>added a tag list beneath most track and album arts describing characters in the image and linking to their gallery pages</li>
+    <li>added tag gallery pages under the Listings section, showing a grid of all the track and album covers which are tagged with that character</li>
+    <li>added content warnings for common triggers (alcohol, body horror, etc), blurring out the image and showing warning tags until it is clicked and revealed</li>
 </ul>
 <h3>listings</h3>
 <ul>
     <li>divided the <a href="list/artists/by-contribs/">Artists - by Contributions</a> and <a href="list/artists/by-latest/">Artists - by Latest Contribution</a> listings into two columns for easier exploring: "Track Contributors" and "Track &amp; Flash Contributors"</li>
+    <li>added two new listings, for the new tags feature: <ul>
+        <li><a href="list/tags/by-name">Tags - by Name</a></li>
+        <li><a href="list/tags/by-uses">Tags - by Uses</a></li>
+    </ul></li>
+</ul>
+<h3>track pages</h3>
+<ul>
+    <li>made the index of the current track show next to the track name in the navbar</li>
+    <li>made the start and end indexes of each group show next to group names in the sidebar</li>
 </ul>
 <h3>bug fixes</h3>
 <ul>
@@ -46,6 +65,8 @@ ul {
     <li>fixed a bug where flash names would <i>always</i> have the dot at the end of the name removed, instead of only when punctuation follows</li>
     <li>fixed some bugs with release date code where the <a href="list/artists/by-latest/">Artists - by Latest</a> listing would not count unique dates of cover art contributions (e.g. in anthology projects where fanart is added after the release of the album), and where the cover art release date displayed on album pages was ambiguous (previously it displayed the date of track art for the whole album; now it displays - or, if it is the same as album release, does not display - the date of cover art for the album itself)
     <li>fixed a bug on artist pages where tracks that are featured in more than one flash would display flashes past the first feature as "1", "2", "3", etc, instead of the actual flash names</li>
+    <li>fixed a bug where the random official album link in the <a href="list/random/">Random Pages</a> listing would instead open a random track across the whole site</li>
+    <li>made all the links on the <a href="list/random/">Random Pages</a> listing behave more like regular links (ctrl-click works for example)</li>
 </ul>
 <h3>data changes</h3>
 <ul>
@@ -100,6 +121,7 @@ ul {
     <li>added [[track:i-dont-want-to-miss-a-thing-aerosmith]] to [[flash:338]]</li>
     <li>changed the color of the [[album:hiveswap-friendsim]] album to match the Flashes &amp; Games section for that game</li>
     <li>fixed the bandcamp link for [[album:hiveswap-act-1-ost]] and added the missing bandcamp link for [[album:homestuck-vol-10]]</li>
+    <li>fixed the missing track art for [[track:the-mechanism]]</li>
     <li>fixed a bunch more typos in commentary, particularly for albums [[album:one-year-older]], [[album:lofam2]], and [[album:homestuck-vol-10]]</li>
     <li>fixed a typo which was keeping [[track:toccata-and-fugue-in-d-minor]] from showing up in the reference list of [[track:pipeorgankind]]</li>
     <li>fixed a typo which was keeping [[track:tfw-another-james-roach-track]] from showing up in the feature list of [[flash:fs-vol6]]</li>
@@ -115,6 +137,7 @@ ul {
         <li>[[artist:kezinox]] (used to be Sinister Psyche)</li>
         <li>[[artist:kusoro]] (used to be Xoro Laventer)</li>
         <li>[[artist:mathias-ramalho]] (used to be "Matthias", two t's)</li>
+        <li>[[artist:musical-panini]] (used to be Tri-gender Panini)</li>
         <li>[[artist:quasar-nebula]] (used to be Florrie Haero)</li>
         <li>[[artist:sylladexter]] (used to be Marina)</li>
         <li>[[artist:toguchindraws]] (used to be Chelsea Thomas)</li>
