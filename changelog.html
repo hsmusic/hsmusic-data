@@ -36,7 +36,7 @@ ul {
     </ul></li>
     <li>added lazy loading for images, so landing pages shouldn't take up nearly as much data, and will load quicker (especially noticeable for the <a href="flash/">Flashes &amp; Games</a> index!)</li>
     <li>adjusted the styling for grouped listings (previously used only for [[album:unreleased-tracks]]) as they become more common (see data changes section)</li>
-    <li>made links which require JavaScript only show up of JS is actually enabled</li>
+    <li>made links which require JavaScript only show up if JS is actually enabled</li>
 </ul>
 <h3>tags</h3>
 <ul>
@@ -57,6 +57,7 @@ ul {
 <ul>
     <li>made the index of the current track show next to the track name in the navbar</li>
     <li>made the start and end indexes of each group show next to group names in the sidebar</li>
+    <li>divided the sidebar into groups for a bunch of albums (see data changes section)</li>
 </ul>
 <h3>bug fixes</h3>
 <ul>
@@ -65,12 +66,13 @@ ul {
     <li>fixed a bug where flash names would <i>always</i> have the dot at the end of the name removed, instead of only when punctuation follows</li>
     <li>fixed some bugs with release date code where the <a href="list/artists/by-latest/">Artists - by Latest</a> listing would not count unique dates of cover art contributions (e.g. in anthology projects where fanart is added after the release of the album), and where the cover art release date displayed on album pages was ambiguous (previously it displayed the date of track art for the whole album; now it displays - or, if it is the same as album release, does not display - the date of cover art for the album itself)
     <li>fixed a bug on artist pages where tracks that are featured in more than one flash would display flashes past the first feature as "1", "2", "3", etc, instead of the actual flash names</li>
+    <li>fixed a bug on artist pages where co-artists of tracks (but not track art) weren't being displayed anymore</li>
     <li>fixed a bug where the random official album link in the <a href="list/random/">Random Pages</a> listing would instead open a random track across the whole site</li>
     <li>made all the links on the <a href="list/random/">Random Pages</a> listing behave more like regular links (ctrl-click works for example)</li>
 </ul>
 <h3>data changes</h3>
 <ul>
-    <li>four new albums archived: [[album:homestuck-for-the-holidays]], [[album:tomb-of-the-ancestors]], [[album:the-genesis-project-vol1]], [[album:oceanfalls-vol-3]]; plus the single [[album:perfectly-generic-object]]</li>
+    <li>five new albums archived: [[album:hiveswap-act-2-ost]], [[album:homestuck-for-the-holidays]], [[album:tomb-of-the-ancestors]], [[album:the-genesis-project-vol1]], [[album:oceanfalls-vol-3]]; plus the track [[album:perfectly-generic-object]]</li>
     <li>grouped tracks in a bunch of releases: [[album:alternia]], [[album:squiddles]], [[album:alterniabound]], [[album:homestuck-vol-7]], [[album:the-wanderers]], [[album:homestuck-vol-1-4]], [[album:homestuck-vol-8]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:genesis-frog]], [[album:sburb-ost]], [[album:lofam2]], [[album:lofam3]], [[album:beforus]], [[album:ancestral]], [[album:lofam4]], and [[album:hiveswap-act-1-ost]]</li>
     <li>a bunch of additions to [[album:coloUrs-and-mayhem-universe-a]] and various credited artists, working with help from [[artist:nuclear]] and <a href="https://twitter.com/Bamboshu">Bambosh</a>: <ul>
         <li>added bonus art by [[artist:astrom]] to [[track:olive-rogue]]</li>
@@ -127,8 +129,9 @@ ul {
     <li>fixed a typo which was keeping [[track:tfw-another-james-roach-track]] from showing up in the feature list of [[flash:fs-vol6]]</li>
     <li>fixed typos which were messing up the durations of [[track:elegy-for-a-thief-dreamscape-remix]] and [[track:i-dont-want-to-miss-a-thing]]</li>
     <li>removed a duplicate youtube link for [[track:split-reality]]</li>
-    <li>renamed these artists: [[artist:alex-rosetti]], [[artist:decon-theed]], [[artist:elly-beck]], [[artist:erupan]], [[artist:grim-harlequin]], [[artist:grue]], [[artist:kajoinen]], [[artist:kezinox]], [[artist:kusoro]], [[artist:mathias-ramalho]], [[artist:musical-panini]], [[artist:quasar-nebula]], [[artist:rii-abrego]], [[artist:soju]], [[artist:sylladexter]], [[artist:themfish]], [[artist:toguchindraws]]</li>
-    <li>added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:infiniteknife]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:plumegeist]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:tensei]], [[artist:The-Everlasting-Ash]], [[artist:thomas-ferkol]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:viasatellite]], [[artist:vivian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]</li>
+    <li>renamed these artists: [[artist:alex-rosetti]], [[artist:decon-theed]], [[artist:elly-beck]], [[artist:erupan]], [[artist:grim-harlequin]], [[artist:grue]], [[artist:kajoinen]], [[artist:kezinox]], [[artist:kusoro]], [[artist:mathias-ramalho]], [[artist:molly-gur]], [[artist:musical-panini]], [[artist:quasar-nebula]], [[artist:rii-abrego]], [[artist:soju]], [[artist:sylladexter]], [[artist:themfish]], [[artist:toguchindraws]]</li>
+    <li>added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:infiniteknife]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:koukouvayia]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:molly-gur]], [[artist:plumegeist]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:temmie-chang]], [[artist:tensei]], [[artist:The-Everlasting-Ash]], [[artist:thomas-ferkol]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:viasatellite]], [[artist:vivian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]</li>
+    <li>added a bunch of new artist pages for those whose contributions are showing up on the wiki for the first time (e.g. several contributors to [[flash:hiveswap-act-1]])</li>
 </ul>
 
 <h2 id="10-oct-2020" class="major-release"><a href="#10-oct-2020">10 October 2020 - autumnal polish haul</a></h2>
