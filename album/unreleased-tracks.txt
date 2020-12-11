@@ -194,9 +194,9 @@ FG: #78df56
 Track: Single Female Lawyer
 Artist: Alex Rosetti
 Duration: 1:16
+References: Seer of Same-Color Scalemate Combos
 URLs:
 - https://www.youtube.com/watch?v=4Q2dS1Z2p9g
-- https://soundcloud.com/albatrosssoup/seer-of-same-color-scalemate-combos
 -------------------------------------------------------------------------------
 Track: DaJam
 Artist: Alex Rosetti
@@ -318,6 +318,10 @@ References: Crustacean
 Commentary:
     <i>James Roach:</i>
     there are a handful of people out there who really thought we were just gonna put karkalicious in there.
+-------------------------------------------------------------------------------
+Track: DRONE_PQ
+Artist: James Roach
+Has URLs: no
 -------------------------------------------------------------------------------
 Track: CH3CK TH3 M3T4D4T4
 Artist: James Roach
@@ -973,6 +977,19 @@ Artist: The Flintstones
 Duration: 0:35
 URLs: https://www.youtube.com/watch?v=2s13X66BFd8
 -------------------------------------------------------------------------------
+Track: Megalovania
+Directory: megalovania-halloween
+Artist: Toby Fox
+Duration: 1:59
+URLs: https://www.youtube.com/watch?v=iIowwZThIXM
+-------------------------------------------------------------------------------
+Track: MEGALOVANIA
+Directory: megalovania-undertale
+Artist: Toby Fox
+Duration: 2:36
+References: track:megalovania-halloween
+URLs: https://www.youtube.com/watch?v=c5daGZ96QGU
+-------------------------------------------------------------------------------
 Track: Menu (Full)
 Artist: Toby Fox
 Duration: 0:32
@@ -1039,6 +1056,11 @@ Track: Objection! 2001
 Artist: Ace Attorney
 Duration: 1:13
 URLs: https://www.youtube.com/watch?v=_I34nshlOPk
+-------------------------------------------------------------------------------
+Track: Old Friends
+Artist: Darren Korb
+Duration: 3:51
+URLs: https://www.youtube.com/watch?v=ql8K3KJyWgY
 -------------------------------------------------------------------------------
 Track: Onett Theme
 Artist: Earthbound
@@ -1121,6 +1143,13 @@ Track: Science Blaster
 Artist: SpellingPhailer
 Duration: 2:21
 URLs: https://www.youtube.com/watch?v=quxzJ5xyuC4
+-------------------------------------------------------------------------------
+Track: Seer of Same-Color Scalemate Combos
+Artist: Alex Rosetti
+Duration: 1:16
+References: The Lemonsnout Turnabout
+URLs:
+- https://soundcloud.com/albatrosssoup/seer-of-same-color-scalemate-combos
 -------------------------------------------------------------------------------
 Track: September Pumpkin
 Artist: Touhou Project
