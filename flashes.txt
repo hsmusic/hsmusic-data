@@ -1,6 +1,8 @@
 ACT: Act 1 - The Note Desolation Plays
 FG: #7799ff
 Anchor: a1
+Jump: Side 1 (Acts 1-5)
+Jump Color: #4ac925
 ------------------------------------------------------------------------------
 Flash: John: Examine games on CD rack.
 Page: 31
@@ -780,6 +782,8 @@ URLs:
 ACT: Act 6 Act 1 - Through Broken Glass
 FG: #7799ff
 Anchor: a6a1
+Jump: Side 2 (Acts 6-7)
+Jump Color: #1076a2
 ------------------------------------------------------------------------------
 Flash: [S] ACT 6
 Page: 4113
@@ -1391,6 +1395,7 @@ URLs:
 ACT: Hiveswap
 FG: #33cc77
 Anchor: hiveswap
+Jump: Hiveswap
 ------------------------------------------------------------------------------
 Flash: Hiveswap Act 1
 Directory: hiveswap-act1
@@ -1572,6 +1577,7 @@ Tracks:
 ACT: Hiveswap Friendsim
 FG: #d3ff8f
 Anchor: friendsim
+Jump: Hiveswap Friendsim
 ------------------------------------------------------------------------------
 Flash: Of Bloodthurst and Bratwurst
 Contributors:
@@ -1788,6 +1794,7 @@ Tracks: WORST END
 ACT: Pesterquest
 FG: #71daff
 Anchor: pesterquest
+Jump: Pesterquest
 ------------------------------------------------------------------------------
 Flash: Magic Is Fucking Real
 Contributors:
