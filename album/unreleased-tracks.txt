@@ -11,12 +11,150 @@ FG: #ff5599
 Track: Problem Sleuth Theme
 Artist: Mark Hadley
 Duration: 1:06
-URLs: https://www.youtube.com/watch?v=DAj-vYcKNYY
+URLs: https://www.youtube.com/watch?v=OtFH_VaHFwY
 -------------------------------------------------------------------------------
 Track: Windchime Foley
 Artist: Clark Powell
 Duration: 1:00
 URLs: https://www.youtube.com/watch?v=CSMMmOtRLiU
+-------------------------------------------------------------------------------
+Track: 01
+Directory: phat1
+Artist: Andrew Hussie
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=6
+-------------------------------------------------------------------------------
+Track: 02
+Directory: phat2
+Artist: Andrew Hussie
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=16
+-------------------------------------------------------------------------------
+Track: 03
+Directory: phat3
+Artist: Gabe Nezovic
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=29
+-------------------------------------------------------------------------------
+Track: 04
+Directory: phat4
+Artist: Gabe Nezovic
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=40
+-------------------------------------------------------------------------------
+Track: 05
+Directory: phat5
+Artist: Gabe Nezovic
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=50
+-------------------------------------------------------------------------------
+Track: 06
+Directory: phat6
+Artist: Robert J! Lake
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=63
+-------------------------------------------------------------------------------
+Track: 07
+Directory: phat7
+Artist: Robert J! Lake
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=71
+-------------------------------------------------------------------------------
+Track: 08
+Directory: phat8
+Artist: xerxes333
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=81
+-------------------------------------------------------------------------------
+Track: 09
+Directory: phat9
+Artist: xerxes333
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=90
+-------------------------------------------------------------------------------
+Track: 10
+Directory: phat10
+Artist: Kalibration
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=103
+-------------------------------------------------------------------------------
+Track: 11
+Directory: phat11
+Artist: Gabe Nezovic
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=116
+-------------------------------------------------------------------------------
+Track: 12
+Directory: phat12
+Artist: Robert J! Lake
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=131
+-------------------------------------------------------------------------------
+Track: 13
+Directory: phat13
+Artist: Robert J! Lake
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=140
+-------------------------------------------------------------------------------
+Track: 14
+Directory: phat14
+Artist: Robert J! Lake
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=152
+-------------------------------------------------------------------------------
+Track: 15
+Directory: phat15
+Artist: Robert J! Lake
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=164
+-------------------------------------------------------------------------------
+Track: 16
+Directory: phat16
+Artist: Robert J! Lake
+Duration: 0:28
+URLs: https://youtu.be/S4x2-mkXgGI?t=175
+-------------------------------------------------------------------------------
+Track: cp_close.mp3
+Artist: Captain Planet
+Duration: 1:01
+URLs:
+- https://hsmusic.github.io/misc/cp_close.mp3
+- https://www.youtube.com/watch?v=v1QYQpHdzpw
+Commentary:
+    <i>Quasar Nebula:</i>
+    cp_close.mp3 is a track referenced in the flash file for [[flash:338]]. an emailer sent a whole bunch of neat information about the context around this flash, so instead of rewording all that, here's their quote with all the details!
+    ---
+    Your track listing for Dave's Phat Beat Machine, aka <a href="http://www.mspaintadventures.com/test_index.php?s=6&p=002238">this page</a>, is kind of incorrect as listed in the music wiki at [[flash:338]]. Maybe you already know this stuff, but I'm breaking it down Just In Case.
+    So here's the thing: the secret buttons with extra music you find after selecting the four corner buttons on the machine are actually broken due to link rot. Somewhat unusually, the flash does indeed pull music directly from external sites which have stopped working over the years. By looking into the flash itself you can see the intended music for each button. From left to right:
+    - <a href="http://www.mspaintadventures.com/storyfiles/hs2/00253/mspa_harlequin.mp3">http://www.mspaintadventures.com/storyfiles/hs2/00253/mspa_harlequin.mp3</a><br> This one still works, as it links back to MSPA. Reused from the Act 2 walkaround, actually.
+    - <a href="http://www.turner.com/planet/mp3/cp_close.mp3">http://www.turner.com/planet/mp3/cp_close.mp3</a> The Captain Planet theme song, or closing credits apparently or whatever. Idk, never watched it. Visiting this link now redirects you to a redesigned Warner page instead.
+    - <a href="http://fozzy42.com/SoundClips/Themes/Movies/Ghostbusters.mp3">http://fozzy42.com/SoundClips/Themes/Movies/Ghostbusters.mp3</a> Ghostbusters theme song from some random-ass page that no longer exists.
+    - <a href="http://pasko.webs.com/foreign/Aerosmith_-_I_Dont_Wanna_Miss_A_Thing.mp3">http://pasko.webs.com/foreign/Aerosmith_-_I_Dont_Wanna_Miss_A_Thing.mp3</a> Same deal as above, but for I Don't Wanna Miss A Thing (as an Armageddon reference).... wait, that's weird. Why does that link play JOHN DO THE WINDY THING? Someone actually purchased the site domain once it expired to make it play a different song ;).
+    My point is that if you want to be accurate then you should probably be listing the music that Hussie originally put into the flash, since it's What He Intended, and omitting the replacement song, since for all we know it could be replaced any day with a medley of farts or whatever by the new site owner. As an extra I'm attaching the original tracks so you can check them out. If you want to verify you can open the flash in a decompiler program like JPEXS and check out where it links to.
+    ---
+    i did end up keeping [[JOHN DO THE WINDY THING]] in the featured tracks list since it's what's current and has presumably been around for a while, and is a curious case of a fan track sneaking into official media (however arbitrarily so). if it gets replaced by farts and the reference list needs an update, so be it! :P
+-------------------------------------------------------------------------------
+Track: Ghostbusters
+Artist: Ghostbusters
+Duration: 4:03
+URLs: https://www.youtube.com/watch?v=m9We2XsVZfc
+-------------------------------------------------------------------------------
+Track: I Don't Want to Miss a Thing
+Artist: Diane Warren
+Contributors: Aerosmith (performance in Armageddon)
+Duration: 4:54
+Directory: i-dont-want-to-miss-a-thing-aerosmith
+URLs: https://www.youtube.com/watch?v=JkK8g6FMEXE
+-------------------------------------------------------------------------------
+Track: Flute Performance
+Artist: Jan van den Hemel
+Has URLs: no
+-------------------------------------------------------------------------------
+Track: How Do I Live
+Artist: Diane Warren
+Contributors: Trisha Yearwood (performance in Con Air)
+Duration: 3:55
+URLs: https://www.youtube.com/watch?v=Sjx-T7_CGQA
 -------------------------------------------------------------------------------
 Track: Hero's Growth
 Artist: Solatrus
@@ -28,6 +166,12 @@ Track: Nic Cage Romance
 Artist: Toby Fox
 Duration: 1:19
 URLs: https://www.youtube.com/watch?v=fvDpDxXXZog
+------------------------------------------------------------------------------
+Track: Miracles
+Directory: miracles-icp
+Artist: Insane Clown Posse
+Duration: 4:22
+URLs: https://www.youtube.com/watch?v=8GyVx28R9-s
 -------------------------------------------------------------------------------
 Track: Secret ROM
 Artist: Toby Fox
@@ -55,6 +199,10 @@ Artist: Toby Fox
 Duration: 3:16
 References: Secret ROM
 URLs: https://www.youtube.com/watch?v=wY2nX_b9Gm4
+-------------------------------------------------------------------------------
+Track: Goat Foley
+Artist: Toby Fox
+Has URLs: no
 -------------------------------------------------------------------------------
 Track: Anbroids
 Artist: Malcolm Brown
@@ -227,6 +375,18 @@ URLs: https://www.youtube.com/watch?v=wc5iruoYLXM
 Group: Tracks featured in Pesterquest
 FG: #71daff
 -------------------------------------------------------------------------------
+Track: Friendvangelion Rebuild
+Artist: James Roach
+Track Art: Homestuck
+Duration: 2:55
+References: Homestuck
+URLs:
+- https://soundcloud.com/jamesroachmusic/the-note-desolation-plays
+- https://www.youtube.com/watch?v=hnBMOTxQfJ4
+Commentary:
+    <i>James Roach:</i>
+    how mysterious
+-------------------------------------------------------------------------------
 Track: sometimes i call andrew hussie 'andy' and so far he hasn't corrected me
 Artist: James Roach
 Track Art: Homestuck
@@ -319,8 +479,10 @@ Commentary:
     <i>James Roach:</i>
     there are a handful of people out there who really thought we were just gonna put karkalicious in there.
 -------------------------------------------------------------------------------
-Track: DRONE_PQ
+Track: the drone rhythmic motif which can be found in act 1 and act 2
+Directory: drone-pq
 Artist: James Roach
+Track Art: Homestuck
 Has URLs: no
 -------------------------------------------------------------------------------
 Track: CH3CK TH3 M3T4D4T4
@@ -335,18 +497,33 @@ Commentary:
     <i>James Roach:</i>
     dont actually do that you clowns
 -------------------------------------------------------------------------------
+Track: it's a cover of 'made of time'
+Artist: James Roach
+Track Art: Homestuck
+Duration: 1:44
+References: Made of Time
+Has URLs: no
+-------------------------------------------------------------------------------
 Track: yeah, it is
 Artist: James Roach
 Track Art: Homestuck
 Contributors: Tamara Fritz (vocals)
 Duration: 5:41
+References:
+- it's a cover of 'made of time'
+- MeGaLoVania
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-aradias-theme-yeah-it-is
 - https://www.youtube.com/watch?v=MDqXkGBFPg0
-References: MeGaLoVania
 Commentary:
     <i>James Roach:</i>
     big ups to Tamara "TOTALSPIFFAGE" Fritz for really knocking it outta the park with these vocals.
+-------------------------------------------------------------------------------
+Track: IT'S NOTHING
+Artist: James Roach
+Track Art: Homestuck
+Duration: 1:39
+Has URLs: no
 -------------------------------------------------------------------------------
 Track: KWCOM DOT WAV
 Artist: James Roach
@@ -354,7 +531,7 @@ Track Art: Homestuck
 Duration: 4:53
 URLs: https://www.youtube.com/watch?v=zrtnPsoAkQg
 -------------------------------------------------------------------------------
-Track: THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)
+Track: Busker's Theme mk II
 Artist: James Roach
 Track Art: Homestuck
 Duration: 3:58
@@ -363,7 +540,11 @@ URLs:
 - https://www.youtube.com/watch?v=sw8smnspCmU
 Commentary:
     <i>James Roach:</i>
+    (<a href="https://soundcloud.com/jamesroachmusic/pesterquest-this-time-its-eridan-i-forgot-what-i-named-this">SoundCloud</a>)
     in its base form this song used to be about a cat and is like more than a decade old
+    (<a href="https://mkteres.tumblr.com/post/182160729885/jamesroachmusic-originally-there-was-a-troll-in">Tumblr</a>)
+    Originally there was a troll in act 2 code named "Busker" that was the alternian version of those like.. one man bands you see when you go to venice beach <a href="https://www.youtube.com/watch?v=PfINfEhxnLA">or like on the subway or w/e</a>. Just him and his weird accordion that also somehow made all these extra sounds.
+    Anyway if you went up to him and did the right dialogue he would play you his song, which was this. I think he got written out because he was kind of a <i>one note character</i> ',:^]
 -------------------------------------------------------------------------------
 Track: i guess
 Artist: James Roach
@@ -416,6 +597,23 @@ Commentary:
 Group: Other Homestuck tracks
 FG: #ff7bf7
 -------------------------------------------------------------------------------
+Track: 暗闇の中の光
+Directory: canwave3-track6
+Artist: SplitSuns
+Duration: 7:45
+References: Voidlight
+URLs: https://soundcloud.com/splitsuns/light-in-the-darkness
+Commentary:
+    <i>SplitSuns:</i>
+    ...When the hell did I get 100 followers?? I give my thanks to all of you for listening to my shitty music, haha.
+    This is one of my tracks for the CaNMT's almost-vaporware all-vaporwave album, CANWAVE 3. In its current iteration it's a take on 2814's sample-free approach to the vapor aesthetic through ambient and techno albums such as 新しい日の誕生 and Rain Temple. It's one of my most complex songs yet and it took a lot of work to make, but the end result is something very awe-inspiring, even to me.
+    (Originally this song was a straight-up cover of Voidlight that was much more laid-back and repetitive, but I scrapped it in favor of this version. Maybe I'll upload that old version somewhere along the line.)
+-------------------------------------------------------------------------------
+Track: Aradia's Theme (Pre-Death)
+Artist: Toby Fox
+Duration: 2:06
+URLs: https://www.youtube.com/watch?v=4deATGJcM4A
+-------------------------------------------------------------------------------
 Track: Arisen Anew (Remaster)
 Artist: Tensei
 Duration: 2:58
@@ -435,6 +633,15 @@ Artist: Robert J! Lake
 References: Boy Skylark (Brief)
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/boy-skylark
+-------------------------------------------------------------------------------
+Track: Calming Quartz (Beta)
+Artist: PoisonedElite
+References: Land of Quartz and Melody
+URLs:
+- https://soundcloud.com/poisonedelite/calming-quartz-beta/s-2FvRp
+Commentary:
+    <i>PoisonedElite:</i>
+    The first Version of Calming Quartz, my song for the album Xenoplanetarium, a Homestuck Fan Album. I wasn't happy with this version so I redid the entire song. This song references Land of Quartz and Melody by Thomas Ferkol.
 -------------------------------------------------------------------------------
 Track: Cascade (Director's Cut)
 Artist: Tensei
@@ -529,6 +736,13 @@ Duration: 0:08
 References: Penumbra Phantasm
 Directory: null-toby-fox
 URLs: https://www.youtube.com/watch?v=sIgtSvgERB4
+------------------------------------------------------------------------------
+Track: Patient
+Artist: Toby Fox
+Duration: 0:59
+References: Doctor
+URLs:
+- https://youtu.be/HNdCAUpmXws
 -------------------------------------------------------------------------------
 Track: Penumbra Phantasm
 Artist: Toby Fox
@@ -562,6 +776,13 @@ Track: Sea of Derse
 Artist: Erik Scheele
 Duration: 2:48
 URLs: https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F092%20Sea%20of%20Derse.mp3&mode=default
+-------------------------------------------------------------------------------
+Track: Seer of Same-Color Scalemate Combos
+Artist: Alex Rosetti
+Duration: 1:16
+References: The Lemonsnout Turnabout
+URLs:
+- https://soundcloud.com/albatrosssoup/seer-of-same-color-scalemate-combos
 -------------------------------------------------------------------------------
 Track: Shooting Star
 Artist: Hilary Troiano
@@ -632,6 +853,13 @@ URLs: https://www.youtube.com/watch?v=x6NrArPldZo
 Group: Other tracks originating outside of Homestuck
 FG: #90c000
 -------------------------------------------------------------------------------
+Track: リサフランク420 / 現代のコンピュー
+Directory: lisa-frank-420-modern-computing
+Artist: Macintosh Plus
+Duration: 7:21
+References: It's Your Move
+URLs: https://www.youtube.com/watch?v=aQkPcPqTq4M
+-------------------------------------------------------------------------------
 Track: 69423
 Artist: Michael Guy Bowman
 Duration: 4:03
@@ -646,6 +874,16 @@ Track: Ah! vous dirai-je, maman
 Artist: Wolfgang Amadeus Mozart
 URLs:
 - https://en.wikipedia.org/wiki/Ah!_vous_dirai-je,_maman
+-------------------------------------------------------------------------------
+Track: Airwaves
+Artist: Michael Guy Bowman
+Duration: 3:02
+URLs: https://bowman.bandcamp.com/track/airwaves
+-------------------------------------------------------------------------------
+Track: All Star
+Artist: Smash Mouth
+Duration: 3:56
+URLs: https://youtube.com/watch?v=L_jWHffIx5E
 -------------------------------------------------------------------------------
 Track: Amen, Brother
 Artist: The Winstons
@@ -692,6 +930,11 @@ Artist: Castlevania
 Duration: 3:25
 URLs: https://www.youtube.com/watch?v=AxQGB7a-6xQ
 -------------------------------------------------------------------------------
+Track: Bodies
+Artist: Drowning Pool
+Duration: 3:21
+URLs: https://www.youtube.com/watch?v=iYcbfc_UB6M
+-------------------------------------------------------------------------------
 Track: Bowman Remix
 Artist: Michael Guy Bowman
 Duration: 2:23
@@ -712,9 +955,19 @@ Artist: Splatoon
 Duration: 3:18
 URLs: https://www.youtube.com/watch?v=k4k1NdUEUP4
 -------------------------------------------------------------------------------
+Track: Can You Feel the Love Tonight
+Artist: Elton John
+Duration: 4:01
+URLs: https://www.youtube.com/watch?v=fTtgVSxfr5M
+-------------------------------------------------------------------------------
 Track: Canon in D
 Artist: Johann Pachelbel
 URLs: https://www.youtube.com/watch?v=JvNQLJ1_HQ0
+-------------------------------------------------------------------------------
+Track: Careless Whisper
+Artist: George Michael
+Duratoin: 5:01
+URLs: https://www.youtube.com/watch?v=izGwDsrQ1eQ
 -------------------------------------------------------------------------------
 Track: Carol of the Bells
 Artist: Mykola Leontovych
@@ -724,11 +977,6 @@ Track: Chrono Trigger
 Artist: Chrono Trigger
 Duration: 2:00
 URLs: https://www.youtube.com/watch?v=g-s-VQBoUdc
--------------------------------------------------------------------------------
-Track: CORE
-Artist: Toby Fox
-Duration: 2:46
-URLs: https://www.youtube.com/watch?v=tDuEWw648jo
 -------------------------------------------------------------------------------
 Track: Corridors of Time
 Artist: Chrono Trigger
@@ -740,26 +988,6 @@ Artist: JoJo's Bizarre Adventure
 Duration: 2:38
 URLs: https://www.youtube.com/watch?v=Rpc8K-zQoYM
 -------------------------------------------------------------------------------
-Track: cp_close.mp3
-Artist: Captain Planet
-Duration: 1:01
-URLs:
-- https://hsmusic.github.io/misc/cp_close.mp3
-- https://www.youtube.com/watch?v=v1QYQpHdzpw
-Commentary:
-    <i>Quasar Nebula:</i>
-    cp_close.mp3 is a track referenced in the flash file for [[flash:338]]. an emailer sent a whole bunch of neat information about the context around this flash, so instead of rewording all that, here's their quote with all the details!
-    ---
-    Your track listing for Dave's Phat Beat Machine, aka <a href="http://www.mspaintadventures.com/test_index.php?s=6&p=002238">this page</a>, is kind of incorrect as listed in the music wiki at [[flash:338]]. Maybe you already know this stuff, but I'm breaking it down Just In Case.
-    So here's the thing: the secret buttons with extra music you find after selecting the four corner buttons on the machine are actually broken due to link rot. Somewhat unusually, the flash does indeed pull music directly from external sites which have stopped working over the years. By looking into the flash itself you can see the intended music for each button. From left to right:
-    - <a href="http://www.mspaintadventures.com/storyfiles/hs2/00253/mspa_harlequin.mp3">http://www.mspaintadventures.com/storyfiles/hs2/00253/mspa_harlequin.mp3</a><br> This one still works, as it links back to MSPA. Reused from the Act 2 walkaround, actually.
-    - <a href="http://www.turner.com/planet/mp3/cp_close.mp3">http://www.turner.com/planet/mp3/cp_close.mp3</a> The Captain Planet theme song, or closing credits apparently or whatever. Idk, never watched it. Visiting this link now redirects you to a redesigned Warner page instead.
-    - <a href="http://fozzy42.com/SoundClips/Themes/Movies/Ghostbusters.mp3">http://fozzy42.com/SoundClips/Themes/Movies/Ghostbusters.mp3</a> Ghostbusters theme song from some random-ass page that no longer exists.
-    - <a href="http://pasko.webs.com/foreign/Aerosmith_-_I_Dont_Wanna_Miss_A_Thing.mp3">http://pasko.webs.com/foreign/Aerosmith_-_I_Dont_Wanna_Miss_A_Thing.mp3</a> Same deal as above, but for I Don't Wanna Miss A Thing (as an Armageddon reference).... wait, that's weird. Why does that link play JOHN DO THE WINDY THING? Someone actually purchased the site domain once it expired to make it play a different song ;).
-    My point is that if you want to be accurate then you should probably be listing the music that Hussie originally put into the flash, since it's What He Intended, and omitting the replacement song, since for all we know it could be replaced any day with a medley of farts or whatever by the new site owner. As an extra I'm attaching the original tracks so you can check them out. If you want to verify you can open the flash in a decompiler program like JPEXS and check out where it links to.
-    ---
-    i did end up keeping [[JOHN DO THE WINDY THING]] in the featured tracks list since it's what's current and has presumably been around for a while, and is a curious case of a fan track sneaking into official media (however arbitrarily so). if it gets replaced by farts and the reference list needs an update, so be it! :P
--------------------------------------------------------------------------------
 Track: Creeping in My Soul
 Artist: Cryoshell
 Duration: 3:59
@@ -769,11 +997,6 @@ Track: Danger! High Voltage
 Artist: Electric Six
 Duration: 3:31
 URLs: https://www.youtube.com/watch?v=d2KgoVyloPo
--------------------------------------------------------------------------------
-Track: Death by Glamour
-Artist: Toby Fox
-Duration: 2:14
-URLs: https://www.youtube.com/watch?v=2TgO-tN5wAM
 -------------------------------------------------------------------------------
 Track: Deck the Halls
 Artist: Lost in History
@@ -795,7 +1018,7 @@ Duration: 3:26
 URLs: https://www.youtube.com/watch?v=2lrxaY-hcvA
 -------------------------------------------------------------------------------
 Track: Eight Melodies
-Artist: Earthbound
+Artist: EarthBound
 Duration: 2:20
 URLs: https://www.youtube.com/watch?v=JC-w9OPgRbA
 -------------------------------------------------------------------------------
@@ -823,6 +1046,10 @@ Artist: Chrono Trigger
 Duration: 1:49
 URLs: https://www.youtube.com/watch?v=9YsAyO9oW00
 -------------------------------------------------------------------------------
+Track: Frosty the Snowman
+Artist: Walter Rollins, Steve Nelson
+URLs: https://en.wikipedia.org/wiki/Frosty_the_Snowman
+-------------------------------------------------------------------------------
 Track: Fruity Pebbles Jingle
 Artist: Scott Stutzman
 Duration: 5:55
@@ -833,19 +1060,24 @@ Artist: N.W.A.
 Duration: 5:45
 URLs: https://www.youtube.com/watch?v=ADdpLv3RDhA
 -------------------------------------------------------------------------------
-Track: Greensleeves
-Artist: Lost in History
-URLs: https://en.wikipedia.org/wiki/Greensleeves
--------------------------------------------------------------------------------
-Track: Ghostbusters
-Artist: Ghostbusters
-Duration: 4:03
-URLs: https://www.youtube.com/watch?v=m9We2XsVZfc
+Track: Giorgio by Moroder
+Artist: Daft Punk
+Duration: 9:13
+URLs: https://www.youtube.com/watch?v=zhl-Cs1-sG4
 -------------------------------------------------------------------------------
 Track: God Rest You Merry, Gentlemen
 Artist: Lost in History
 URLs:
 - https://en.wikipedia.org/wiki/God_Rest_You_Merry,_Gentlemen
+-------------------------------------------------------------------------------
+Track: Got It?
+Artist: Michael Guy Bowman
+Duration: 2:52
+URLs: https://bowman.bandcamp.com/track/got-it
+-------------------------------------------------------------------------------
+Track: Greensleeves
+Artist: Lost in History
+URLs: https://en.wikipedia.org/wiki/Greensleeves
 -------------------------------------------------------------------------------
 Track: Guile's Theme
 Artist: Street Fighter
@@ -856,17 +1088,6 @@ Track: Historia Crux
 Artist: Final Fantasy
 Duration: 4:28
 URLs: https://www.youtube.com/watch?v=FWHJRNT8gcs
--------------------------------------------------------------------------------
-Track: Hopes and Dreams
-Artist: Toby Fox
-Duration: 3:01
-URLs: https://www.youtube.com/watch?v=tz82xbLvK_k
--------------------------------------------------------------------------------
-Track: How Do I Live
-Artist: Diane Warren
-Contributors: Trisha Yearwood (performance in Con Air)
-Duration: 3:55
-URLs: https://www.youtube.com/watch?v=Sjx-T7_CGQA
 -------------------------------------------------------------------------------
 Track: Howl
 Artist: Allen Ginsberg
@@ -882,12 +1103,10 @@ Artist: M.O.O.N.
 Duration: 4:50
 URLs: https://www.youtube.com/watch?v=SNE2oCZH_4k
 -------------------------------------------------------------------------------
-Track: I Don't Want to Miss a Thing
-Artist: Diane Warren
-Contributors: Aerosmith (performance in Armageddon)
-Duration: 4:54
-Directory: i-dont-want-to-miss-a-thing-aerosmith
-URLs: https://www.youtube.com/watch?v=JkK8g6FMEXE
+Track: I'm A Believer
+Artist: Smash Mouth
+Duration: 3:04
+URLs: https://youtu.be/0mYBSayCsH0
 -------------------------------------------------------------------------------
 Track: Icirrus City
 Artist: Pokémon
@@ -899,10 +1118,23 @@ Artist: Edvard Grieg
 Duration: 2:40
 URLs: https://www.youtube.com/watch?v=kLp_Hh6DKWc
 -------------------------------------------------------------------------------
+Track: Isle Unto Thyself
+Artist: Tally Hall
+URLs: https://www.youtube.com/watch?v=ctRembqQCcw
+-------------------------------------------------------------------------------
+Track: It's Your Move
+Artist: Diana Ross
+URLs: https://www.youtube.com/watch?v=wngfhydvZpk
+-------------------------------------------------------------------------------
 Track: It Don't Mean a Thing (If It Ain't Got That Swing)
 Artist: Duke Ellington, Irving Mills
 Duration: 2:45
 URLs: https://www.youtube.com/watch?v=qDQpZT3GhDg
+-------------------------------------------------------------------------------
+Track: Ithaca
+Artist: Michael Guy Bowman
+Duration: 4:04
+URLs: https://bowman.bandcamp.com/track/ithaca
 -------------------------------------------------------------------------------
 Track: Jet Black
 Artist: Jawbreaker
@@ -937,6 +1169,11 @@ Track: Life in Technicolor
 Artist: Coldplay
 Duration: 2:30
 URLs: https://www.youtube.com/watch?v=sPD59NTahc0
+-------------------------------------------------------------------------------
+Track: Light Of Apollo
+Artist: Michael Guy Bowman
+Duration: 4:11
+URLs: https://bowman.bandcamp.com/track/light-of-apollo
 -------------------------------------------------------------------------------
 Track: Mad About the Boy
 Artist: Dinah Washington
@@ -983,18 +1220,6 @@ Artist: Toby Fox
 Duration: 1:59
 URLs: https://www.youtube.com/watch?v=iIowwZThIXM
 -------------------------------------------------------------------------------
-Track: MEGALOVANIA
-Directory: megalovania-undertale
-Artist: Toby Fox
-Duration: 2:36
-References: track:megalovania-halloween
-URLs: https://www.youtube.com/watch?v=c5daGZ96QGU
--------------------------------------------------------------------------------
-Track: Menu (Full)
-Artist: Toby Fox
-Duration: 0:32
-URLs: https://www.youtube.com/watch?v=brP9Q08kEfk
--------------------------------------------------------------------------------
 Track: Moon Over the Castle
 Artist: Gran Turismo
 Duration: 5:20
@@ -1010,29 +1235,6 @@ Artist: My Little Pony
 Duration: 1:55
 URLs: https://www.youtube.com/watch?v=QP_rIAkb_v8
 -------------------------------------------------------------------------------
-Track: Santa Claus Is Comin' to Town
-Artist: John Frederick Coots, Haven Gillespie
-URLs: https://en.wikipedia.org/wiki/Santa_Claus_Is_Comin%27_to_Town
--------------------------------------------------------------------------------
-Track: Silent Night
-Artist: Franz Xaver Gruber
-URLs: https://en.wikipedia.org/wiki/Silent_Night
--------------------------------------------------------------------------------
-Track: Spider Dance
-Artist: Toby Fox
-Duration: 1:46
-URLs: https://www.youtube.com/watch?v=YZ3XjVVNagU
--------------------------------------------------------------------------------
-Track: Spooktune
-Artist: Toby Fox
-Duration: 0:23
-Directory: spooktune-undertale
-URLs: https://www.youtube.com/watch?v=K1qjt_1geiI
--------------------------------------------------------------------------------
-Track: The First Noel
-Artist: Lost in History
-URLs: https://en.wikipedia.org/wiki/The_First_Nowell
--------------------------------------------------------------------------------
 Track: Tempus adest floridum
 Artist: Lost in History
 URLs: https://www.youtube.com/watch?v=zv8PgukSLX0
@@ -1047,6 +1249,11 @@ Artist: Pokémon
 Duration: 4:27
 URLs: https://www.youtube.com/watch?v=nXipo_gVMCs
 -------------------------------------------------------------------------------
+Track: Noisemaster Theme
+Artist: Toby Fox
+Duration: 1:46
+URLs: https://www.youtube.com/watch?v=iPT_YvaM7vc
+-------------------------------------------------------------------------------
 Track: Nyanyanyanyanyanyanya!
 Artist: daniwellP
 Duration: 3:47
@@ -1057,13 +1264,18 @@ Artist: Ace Attorney
 Duration: 1:13
 URLs: https://www.youtube.com/watch?v=_I34nshlOPk
 -------------------------------------------------------------------------------
+Track: Old Buggy Now
+Artist: Michael Guy Bowman
+Duration: 3:35
+URLs: https://bowman.bandcamp.com/track/old-buggy-now
+-------------------------------------------------------------------------------
 Track: Old Friends
 Artist: Darren Korb
 Duration: 3:51
 URLs: https://www.youtube.com/watch?v=ql8K3KJyWgY
 -------------------------------------------------------------------------------
 Track: Onett Theme
-Artist: Earthbound
+Artist: EarthBound
 Duration: 2:24
 URLs: https://www.youtube.com/watch?v=7y5RRgjfNek
 -------------------------------------------------------------------------------
@@ -1072,10 +1284,20 @@ Artist: The Rolling Stones
 Duration: 3:46
 URLs: https://www.youtube.com/watch?v=O4irXQhgMqg
 -------------------------------------------------------------------------------
+Track: Piss
+Artist: Neil Cicierega
+Duration: 4:57
+URLs: https://www.youtube.com/watch?v=mk6lDkTO0Nw
+-------------------------------------------------------------------------------
 Track: Polovtsian Dances
 Artist: Alexander Borodin
 Duration: 12:00
 URLs: https://www.youtube.com/watch?v=QWU1uj9WmOM
+-------------------------------------------------------------------------------
+Track: Polyominoes
+Artist: Michael Guy Bowman
+Duration: 3:56
+URLs: https://bowman.bandcamp.com/track/polyominoes
 -------------------------------------------------------------------------------
 Track: Potato Knishes
 Artist: Ratboy Genius
@@ -1087,6 +1309,11 @@ Artist: The Mountain Goats
 Duration: 3:59
 Directory: prana-ferox-the-mountain-goats
 URLs: https://www.youtube.com/watch?v=j2NwP64RoG8
+-------------------------------------------------------------------------------
+Track: Purgatory
+Artist: Michael Guy Bowman
+Duration: 5:20
+URLs: https://bowman.bandcamp.com/track/purgatory
 -------------------------------------------------------------------------------
 Track: Pushing Onwards
 Artist: VVVVVV
@@ -1122,12 +1349,16 @@ Artist: Toto
 Duration: 5:27
 URLs: https://www.youtube.com/watch?v=qmOLtTGvsbM
 -------------------------------------------------------------------------------
-Track: Rude Buster
-Artist: Toby Fox
-Duration: 1:15
+Track: Roundabout
+Artist: Yes
+Duration: 8:30
+URLs: https://www.youtube.com/watch?v=DwPWGUhEtP0
+-------------------------------------------------------------------------------
+Track: Running Hell
+Artist: Cave Story
+Duration: 2:28
 URLs:
-- https://tobyfox.bandcamp.com/track/rude-buster
-- https://www.youtube.com/watch?v=GPL5Hkl11IQ
+- https://www.youtube.com/watch?v=VQPqmS5iGzY
 -------------------------------------------------------------------------------
 Track: Ryuunosuke Akutagawa's "Kappa" ~ Candid Friend
 Artist: Touhou Project
@@ -1139,27 +1370,38 @@ Artist: Avatar: The Last Airbender
 Duration: 0:20
 URLs: https://www.youtube.com/watch?v=lOgFt70GB4c
 -------------------------------------------------------------------------------
+Track: Santa Claus Is Comin' to Town
+Artist: John Frederick Coots, Haven Gillespie
+URLs: https://en.wikipedia.org/wiki/Santa_Claus_Is_Comin%27_to_Town
+-------------------------------------------------------------------------------
 Track: Science Blaster
 Artist: SpellingPhailer
 Duration: 2:21
 URLs: https://www.youtube.com/watch?v=quxzJ5xyuC4
--------------------------------------------------------------------------------
-Track: Seer of Same-Color Scalemate Combos
-Artist: Alex Rosetti
-Duration: 1:16
-References: The Lemonsnout Turnabout
-URLs:
-- https://soundcloud.com/albatrosssoup/seer-of-same-color-scalemate-combos
 -------------------------------------------------------------------------------
 Track: September Pumpkin
 Artist: Touhou Project
 Duration: 5:00
 URLs: https://www.youtube.com/watch?v=JjHPGJ3wr5E
 -------------------------------------------------------------------------------
+Track: Silencio
+Artist: Alias Conrad Coldwood
+Duration: 0:56
+URLs: https://www.youtube.com/watch?v=7koXN8M6rZc
+-------------------------------------------------------------------------------
+Track: Silent Night
+Artist: Franz Xaver Gruber
+URLs: https://en.wikipedia.org/wiki/Silent_Night
+-------------------------------------------------------------------------------
 Track: Sleeping Terror
 Artist: Touhou Project
 Duration: 4:30
 URLs: https://www.youtube.com/watch?v=tcpTuxh7E34
+-------------------------------------------------------------------------------
+Track: Smiles and Tears
+Artist: EarthBound
+Duration: 5:49
+URLs: https://www.youtube.com/watch?v=HdSoxoBYE7g
 -------------------------------------------------------------------------------
 Track: Space Jam
 Artist: Space Jam
@@ -1170,6 +1412,11 @@ Track: Stone Tower Temple
 Artist: The Legend of Zelda
 Duration: 2:00
 URLs: https://www.youtube.com/watch?v=wz_NK5HgR6Q
+-------------------------------------------------------------------------------
+Track: Suicide Hotline
+Artist: Insane Clown Posse
+Duration: 3:32
+URLs: https://www.youtube.com/watch?v=PSIL044YwQ0
 -------------------------------------------------------------------------------
 Track: Summer
 Artist: Noah Noble
@@ -1185,6 +1432,11 @@ Artist: Set It Off
 Duration: 4:14
 Directory: swan-song-set-it-off
 URLs: https://www.youtube.com/watch?v=bzSoICQLf-Q
+-------------------------------------------------------------------------------
+Track: Take Me Away
+Artist: Insane Clown Posse
+Duration: 4:39
+URLs: https://www.youtube.com/watch?v=gbkh9NVpn-s
 -------------------------------------------------------------------------------
 Track: Terra
 Artist: Solatrus
@@ -1219,15 +1471,28 @@ Artist: Final Fantasy
 Duration: 2:00
 URLs: https://www.youtube.com/watch?v=lxKb48wvt60
 -------------------------------------------------------------------------------
+Track: The First Noel
+Artist: Lost in History
+URLs: https://en.wikipedia.org/wiki/The_First_Nowell
+-------------------------------------------------------------------------------
 Track: The Little Sprite
 Artist: Secret of Mana
 Duration: 0:51
 URLs: https://www.youtube.com/watch?v=WCVqfgc2730
 -------------------------------------------------------------------------------
+Track: The New Window
+Artist: Michael Guy Bowman
+Duration: 2:26
+URLs: https://bowman.bandcamp.com/track/the-new-window
+-------------------------------------------------------------------------------
 Track: The Number of the Beast
 Artist: Iron Maiden
 Duration: 4:52
 URLs: https://www.youtube.com/watch?v=7-iRf9AWoyE
+-------------------------------------------------------------------------------
+Track: The One Horse Open Sleigh
+Artist: James Lord Pierpont
+URLs: https://en.wikipedia.org/wiki/Jingle_Bells
 -------------------------------------------------------------------------------
 Track: The Primal Scene of Japan the Girl Saw
 Artist: Touhou Project
@@ -1249,10 +1514,20 @@ Artist: Lemon Demon
 Duration: 3:35
 URLs: https://www.youtube.com/watch?v=z4UYpDB7J-s
 -------------------------------------------------------------------------------
+Track: The Witch
+Artist: Insane Clown Posse
+Duraiton: 3:16
+URLs: https://www.youtube.com/watch?v=CAAD3yi_Hyo
+-------------------------------------------------------------------------------
 Track: Theme of Eastern Story
 Artist: Touhou Project
 Duration: 3:00
 URLs: https://www.youtube.com/watch?v=qGwASZn0ZKA
+-------------------------------------------------------------------------------
+Track: This Is America
+Artist: Childish Gambino
+Duration: 3:45
+URLs: https://www.youtube.com/watch?v=3P3w9Y50cxU
 -------------------------------------------------------------------------------
 Track: To Make the End of Battle
 Artist: Ys
@@ -1313,6 +1588,11 @@ Track: Westminister Quarters
 Artist: Lost in History
 URLs: https://en.wikipedia.org/wiki/Westminster_Quarters
 -------------------------------------------------------------------------------
+Track: What is a Juggalo?
+Artist: Insane Clown Posse
+Duration: 3:57
+URLs: https://www.youtube.com/watch?v=iNRRQI6NtoQ
+-------------------------------------------------------------------------------
 Track: Wind-up Storm
 Artist: Llyona Fang
 Duration: 3:29
@@ -1328,17 +1608,32 @@ Artist: Blackhole
 Duration: 3:04
 URLs: https://soundcloud.com/blackholesc/winterfall
 -------------------------------------------------------------------------------
+Track: Wonderwall
+Artist: Oasis
+Duration: 4:18
+URLs: https://www.youtube.com/watch?v=ZrOKjDZOtkA
+-------------------------------------------------------------------------------
+Track: Wrong Or Right
+Artist: Michael Guy Bowman
+Duration: 4:22
+URLs: https://bowman.bandcamp.com/track/wrong-or-right
+-------------------------------------------------------------------------------
 Track: Yahoos and Triangles
 Artist: King of the Hill
 Duration: 2:12
 URLs: https://www.youtube.com/watch?v=BbnzBO6odgw
 -------------------------------------------------------------------------------
 Track: You Gained a Level!
-Artist: Earthbound
+Artist: EarthBound
 Duration: 0:23
 URLs: https://www.youtube.com/watch?v=1SxWzCPf9Dw
 -------------------------------------------------------------------------------
-Track: Your Best Friend
-Artist: Toby Fox
-Duration: 0:23
-URLs: https://www.youtube.com/watch?v=83jGCWCcBzc
+Track: You're A Mean One, Mr. Grinch
+Artist: Albert Hague (music), Theodor Geisel (lyrics)
+Duration: 3:00
+URLs: https://www.youtube.com/watch?v=3Hj3U18FHgQ
+-------------------------------------------------------------------------------
+Track: You're Standing On My Neck
+Artist: Splendora
+Duration: 2:56
+URLs: https://www.youtube.com/watch?v=Yu_Rxqtq3ng

@@ -39,7 +39,7 @@ URLs:
 Flash: [S] ==>
 Page: 137
 Date: May 9, 2009
-Tracks: Sburban Jungle
+Tracks: Sburban Jungle (Brief Mix)
 URLs:
 - https://youtu.be/IBqARyNMonk
 - https://www.bgreco.net/hsflash/002037.html
@@ -79,11 +79,22 @@ Flash: [S] ==>
 Page: 338
 Date: July 4, 2009
 Tracks:
-- 01, 02 (by Andrew Hussie)
-- 03, 04, 05, 11 (by Gabe Nezovic)
-- 06, 07, 12, 13, 14, 15, 16 (by Robert J! Lake)
-- 08, 09 (by xerxes333)
-- 10 (by Robert Blaker)
+- track:phat1
+- track:phat2
+- track:phat3
+- track:phat4
+- track:phat5
+- track:phat6
+- track:phat7
+- track:phat8
+- track:phat9
+- track:phat10
+- track:phat11
+- track:phat12
+- track:phat13
+- track:phat14
+- track:phat15
+- track:phat16
 - Harlequin
 - cp_close.mp3
 - Ghostbusters
@@ -188,7 +199,7 @@ Anchor: a3
 Flash: [S] Jade: Play a silly flute refrain.
 Page: 769
 Date: October 15, 2009
-Tracks: Flute performance (by Jan Van Den Hemel)
+Tracks: Flute Performance
 ------------------------------------------------------------------------------
 Flash: [S] Jade: Play a hauntingly relaxing bassline.
 Page: 822
@@ -461,6 +472,11 @@ URLs:
 - https://youtu.be/zZIyQuHn0Ag
 - https://www.bgreco.net/hsflash/004526.html
 ------------------------------------------------------------------------------
+Flash: Vriska: What's his deal????????
+Page: 2672
+Date: September 26, 2010
+Tracks: How Do I Live
+------------------------------------------------------------------------------
 Flash: [S] Vriska: Watch street tough maverick with nothing to lose
 Page: 2787
 Date: October 19, 2010
@@ -499,6 +515,11 @@ Contributors:
 - Richard Gung (art)
 - Hanni Brosh (art)
 - Vivian Ng (art)
+------------------------------------------------------------------------------
+Flash: Dave: Answer Gamzee.
+Page: 2818
+Date: October 31, 2010
+Tracks: track:miracles-icp
 ------------------------------------------------------------------------------
 Flash: [S] Jade: Wake up.
 Page: 2848
@@ -616,7 +637,7 @@ Tracks:
 - Nepeta's Theme
 - Blackest Heart (With Honks)
 - Midnight Calliope
-- Miracles (by ICP, Toby Fox)
+- Miracles
 URLs:
 - https://www.bgreco.net/hsflash/005338.html
 Contributors:
@@ -742,10 +763,7 @@ Flash: [S] Cascade.
 Page: 4109
 Date: October 25, 2011
 Tracks:
-- Cascade (Beta)
-- Flare
-- Savior of the Dreaming Dead
-- Black Hole / Green Sun
+- Cascade
 URLs:
 - https://youtu.be/FDt-SLyEcjI
 - https://www.bgreco.net/hsflash/006009.html
@@ -796,7 +814,7 @@ URLs:
 Flash: [S] ==>
 Page: 4275
 Date: December 7, 2011
-Tracks: Foley (by Toby Fox)
+Tracks: Goat Foley
 ------------------------------------------------------------------------------
 Flash: [S] Jane: Get mail.
 Page: 4282
@@ -1006,7 +1024,6 @@ Flash: [S][A6I3] ==>
 Page: 5426
 Date: October 27, 2012
 Jiff: Yeah
-Tracks: <span class="loading">Loading</span>
 ------------------------------------------------------------------------------
 Flash: [S][A6I3] MINISTRIFE!!!
 Page: 5427
@@ -1544,11 +1561,13 @@ Contributors:
 Tracks:
 - On-Time Departure
 - Lunch Break
+- DRONE
 - Above Sea Level
 - Studio Space
 - Raw Honey
 - Homestead
 - Shell Game
+- CLOWNFUCKER
 - track:ticket-to-ride-rusty
 - track:ticket-to-ride-quadrant-confusion
 - The Prince of All Mustardbloods
@@ -1557,22 +1576,21 @@ Tracks:
 - Objection
 - Cross Examination
 - Cornered
+- VALID END
+- yall know i just do the music right
 - track:ticket-to-ride-the-other-half
+- turns out its like the shoe
 - track:ticket-to-ride-down-with-the-clown
-- Conductor's Cabin
-- track:old-secret-act2
-- Ghost Train
-- Fight of the Bumblebee
+- take me to clown church
 - track:dark-carnival-rusty
 - track:dark-carnival-quadrant-confusion
 - track:dark-carnival-trial-variation
 - track:dark-carnival-the-other-half
-- DRONE
-- CLOWNFUCKER
-- take me to clown church
 - the final clowntdown
-- turns out its like the shoe
-- VALID END
+- Conductor's Cabin
+- track:old-secret-act2
+- Ghost Train
+- Fight of the Bumblebee
 ------------------------------------------------------------------------------
 ACT: Hiveswap Friendsim
 FG: #d3ff8f
@@ -1850,7 +1868,7 @@ Contributors:
 - Mint Chipleaf (programming)
 Directory: pq-vol5
 Date: October 16, 2019
-Tracks: track:crustacean-pq, DRONE_PQ, Darling Kanaya
+Tracks: 2chords, track:crustacean-pq, track:drone-pq, Darling Kanaya
 ------------------------------------------------------------------------------
 Flash: Clowns and Corsairs
 Contributors:
@@ -1872,7 +1890,7 @@ Contributors:
 - Mint Chipleaf (programming)
 Directory: pq-vol7
 Date: November 13, 2019
-Tracks: CH3CK TH3 M3T4D4T4, Indigo Heir
+Tracks: 2chords, CH3CK TH3 M3T4D4T4, Indigo Heir
 ------------------------------------------------------------------------------
 Flash: Team Charge
 Contributors:
@@ -1884,7 +1902,10 @@ Directory: pq-vol8
 Date: December 5, 2019
 Tracks:
 - Bronze Rebel
+- it's a cover of 'made of time'
 - yeah, it is
+- IT'S NOTHING
+- END OF FRIENDVANGELION
 ------------------------------------------------------------------------------
 Flash: Blood and Binary
 Contributors:
@@ -1896,7 +1917,7 @@ Contributors:
 - Mint Chipleaf (programming)
 Directory: pq-vol9
 Date: December 20, 2019
-Tracks: track:requiem-labyrinths-heart, KWCOM DOT WAV
+Tracks: 2chords, track:requiem-labyrinths-heart, KWCOM DOT WAV
 ------------------------------------------------------------------------------
 Flash: Wow Pesterquest Your Mom Lets You Have Two Fish ?
 Contributors:
@@ -1908,7 +1929,8 @@ Contributors:
 Directory: pq-vol10
 Date: January 15, 2020
 Tracks:
-- THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)
+- 2chords
+- Busker's Theme mk II
 - The La2t Frontiier
 - Love You (Feferi's Theme)
 ------------------------------------------------------------------------------
@@ -1920,7 +1942,7 @@ Contributors:
 - Adelaide Killigan (prorgamming)
 Directory: pq-vol11
 Date: February 5, 2020
-Tracks: i guess
+Tracks: 2chords, i guess
 ------------------------------------------------------------------------------
 Flash: Thats right ADVENTURE!!!!
 Contributors:
@@ -1930,7 +1952,7 @@ Contributors:
 - Andrew D. (programming)
 Directory: pq-vol12
 Date: February 19, 2020
-Tracks: Riches to Ruins Movement II
+Tracks: 2chords, Riches to Ruins Movement II
 ------------------------------------------------------------------------------
 Flash: Friendship Wozard
 Contributors:
@@ -1941,6 +1963,7 @@ Contributors:
 Directory: pq-vol13
 Date: March 4, 2020
 Tracks:
+- 2chords
 - Would you believe this was for something else
 - Even in Death (T'Morra's Belly Mix)
 ------------------------------------------------------------------------------
@@ -1954,6 +1977,7 @@ Contributors:
 Directory: pq-vol14
 Date: April 1, 2020
 Tracks:
+- 2chords
 - Stress
 - Beatup
 - Unite Synchronization
