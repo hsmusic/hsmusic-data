@@ -45,6 +45,23 @@ Content:
     - Email - it's towerofnix at gmail dot beans! (Same domain everyone else uses.) Old-fashioned, but personally our favorite of them all, and certainly practical if you're sending a longer-form message.
     Thanks so much for sharing your feedback!
 -------------------------------------------------------------------------------
+Name: Secret Test Page
+Directory: secret-test-page
+Listed: no
+Content:
+    <i>site changes</i> <!-- no semantic significance to <i> - this is just because we don't have <h3> support in non-document multiline content yet! -->
+    - added wallpaper and refined site layout
+        - <a href="media/misc/changelog/bg-january.jpg">the current wallpaper</a> is pulled from <a href="https://www.homestuck.com/info-more">More from Homestuck</a> and might be changed or expanded upon in future updates
+        - a margin has been applied to the whole site layout, centering content to better visually balance it
+        - "skip to content" and "skip to sidebar" buttons have been added, and show up when navigating using the tab key
+    - tweaked the homepage with updated links, e.g. to new <a href="discord/">Discord</a> and <a href="donate/">Donate</a> pages, and updated wording across existing info pages
+        - here is another indent
+    <i>more shenanigans</i>
+        - uwu
+        - oh yeah
+        - we goin
+      - spooky back down
+-------------------------------------------------------------------------------
 Name: Changelog
 Directory: changelog
 Treat as HTML: yes
