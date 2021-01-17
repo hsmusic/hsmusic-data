@@ -70,8 +70,7 @@ Content:
 Name: Changelog
 Directory: changelog
 Treat as HTML: yes
-Content:
-    <style>
+Style:
     h2:not(.major-release) {
         font-size: 1.1em;
     }
@@ -93,8 +92,7 @@ Content:
         margin-top: 0.2em;
         margin-bottom: 0.6em;
     }
-    </style>
-
+Content:
     <h2 id="12-jan-2021" class="major-release"><a href="#12-jan-2021">12 January 2021 - traversing fandom</a></h2>
     <h3>site changes</h3>
     <ul>
