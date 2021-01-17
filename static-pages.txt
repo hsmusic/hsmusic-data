@@ -49,7 +49,7 @@ Name: Secret Test Page
 Directory: secret-test-page
 Listed: no
 Content:
-    <i>site changes</i> <!-- no semantic significance to <i> - this is just because we don't have <h3> support in non-document multiline content yet! -->
+    <h3>site changes</h3>
     - added wallpaper and refined site layout
         - <a href="media/misc/changelog/bg-january.jpg">the current wallpaper</a> is pulled from <a href="https://www.homestuck.com/info-more">More from Homestuck</a> and might be changed or expanded upon in future updates
         - a margin has been applied to the whole site layout, centering content to better visually balance it
