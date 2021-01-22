@@ -1,0 +1,28 @@
+Sidebar:
+    <h1>Get involved!</h1>
+    - <a href="feedback/">Send feedback</a></li>
+    - <a href="discord/">Join the Discord server</a></li>
+    - <a href="donate/">Donate</a> (<a href="https://www.patreon.com/qznebula">Patreon</a>, <a href="https://liberapay.com/nebula">Liberapay</a>)</li>
+    <hr>
+    [[news]]
+------------------------------------------------------------------------------
+Row: New Releases
+Type: albums
+Group: new-releases
+Count: 4
+------------------------------------------------------------------------------
+Row: Fandom
+Type: albums
+Group: Fandom
+Count: 6
+Albums: Unreleased Tracks
+Actions:
+- <a href="group/fandom/gallery/">Explore Fandom!</a>
+- <a href="feedback/">Share an album!</a>
+------------------------------------------------------------------------------
+Row: Official
+Type: albums
+Group: Official
+Count: 11
+Actions:
+- <a href="group/official/gallery/">Explore Official!</a>
