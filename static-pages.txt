@@ -92,6 +92,138 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="12-feb-2021" class="major-release"><a href="#12-feb-2021">12 February 2021 - retrace, retexture</a></h2>
+    <h3>site changes</h3>
+    - added per-album wallpapers
+        - many albums have these, e.g. [[album:homestuck-vol-5]]; check "data changes" section for full list
+        - archive and restore the original presentation of album releases while still keeping a unified design across the whole wiki
+        - much thanks to [[artist:niklink]] for help collecting and editing these, as well as originally suggesting this feature in December; as well as to the rest of the <a href="discord/">Discord</a> community for suggestions and feedback!
+    - added per-album commentary pages
+        - no-distraction, complete collections of all commentary for each album, divided by track
+        - based upon and replaces the old "All Commentary" listing, which was always too long for its own good
+        - e.g. [[album-commentary:genesis-frog]], [[album-commentary:lofam4]]
+    - added distinct news entry pages
+        - much like "All Commentary", a solitary news page would quickly become unwieldy for most browsers!
+        - <a href="news/">news index</a> now shows headings and short passages instead
+    - added footer to all pages of the site
+        - contains feedback and donate links for now; this is totally customizable (see below!)
+    - added <i>Psycholonials</i> row to homepage
+        - will be updated as new chapters are released, in independent updates from the main coming March/April releases
+        - no information for tracks currently unreleased, but we'll revisit this when all chapters and the full soundtrack have been released
+    - many, many internal changes
+        - almost all content across the wiki is now totally dynamic; e.g, wiki name and color scheme are stored in a data file
+        - static pages like Changelog and Donate are no longer hard-coded and can be added or removed without editing the wiki code
+        - homepage rows can also be customized; while there's only one type of row available currently (albums from list or group and optionally action links), the foundations are there to add more in the future
+        - most site features, e.g. <a href="flash/">Flashes &amp; Games</a>, <a href="list/">Listings</a>, and <a href="news/">News</a>, can now be selectively enabled and disabled
+        - a variety of changes to the internal text transformer, making longform text in data files (e.g. commentary, lyrics, static pages) much easier to read and write
+        - <a href="https://git.ed1.club/nebula/hsmusic-wiki/">code</a> and <a href="https://git.ed1.club/nebula/hsmusic-data/">data</a> repositories have been separated (media as well, but it's not pushed online anywhere yet); CLI tool for actually building the site has been updated accordingly
+        - all these changes are in service of making running your own wiki off the same codebase accessible and powerful; there's still much to be done before it's totally ready, though
+    <h3>albums</h3>
+    - added another set of new albums, summarized below
+    - from [[group:michael-guy-bowman]]:
+        - [[album:ithaca]]
+        - [[album:comfortable-bugs]]
+        - [[album:hush]]
+        - [[album:archive]]
+        - [[album:electric-daydreams]]
+        - [[album:look-on-my-works-ye-mighty-and-despair]]
+        - [[album:gravity-makes-the-flame-rise]]
+    - from [[group:desynced]]:
+        - [[album:desynced-vol-1]]
+        - [[album:desynced-vol-2]]
+        - [[album:election-season]]
+    - from [[group:psycholonials]]:
+        - [[album:psycholonials-ep-1]]
+    - added a new group, [[group:homestuck-gaiden]], and moved albums there from [[group:unofficial-mspa-fans]]
+    <h3>listings</h3>
+    - as detailed in "site change" section, removed the "All Commentary" listing, replacing it with individual per-album commentary pages
+    - there is a new and refined <a href="commentary/">Commentary</a> index though!
+    <h3>data changes</h3>
+    - added wallpapers to the following albums:
+        - official: [[album:homestuck-vol-5]], [[album:alternia]], [[album:squiddles]], [[album:the-felt]], [[album:homestuck-vol-6]], [[album:alterniabound]], [[album:medium]], [[album:homestuck-vol-7]], [[album:the-wanderers]], [[album:homestuck-vol-8]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:homestuck-vol-9]], [[album:symphony-impossible-to-play]], [[album:one-year-older]], [[album:genesis-frog]]
+        - fandom: [[album:archive]], [[album:lofam4]], [[album:gristmas-carols]], [[album:cosmic-caretakers]], [[album:look-on-my-works-ye-mighty-and-despair]], [[album:moons-of-theseus]], [[album:friendsymphony]]
+    - went through all existing warnings for misspelled tracks and fixed 'em:
+        - [[track:let-me-dance-let-me-glisten]] now featured in [[track:the-light-forms-us]]
+        - [[track:giorgio-by-moroder]] now featured in [[track:the-dave-strider-experience]]
+        - [[track:what-is-a-juggalo]] now featured in [[track:the-dave-strider-experience]]
+        - [[track:verdancy-bassline]] now featured in [[track:study-for-eclectic-bass-1984-1]]
+        - [[track:virgin-orb]] now featured in [[track:recordare-virgo-mater]]
+        - [[track:dissension-original]] now featured in [[track:the-puppet-master]]
+        - [[track:nova-solis]] now featured in [[track:singularity]]
+        - [[track:showtime-original-mix]] now featured in [[track:skaian-dreams-remix]]
+        - [[track:skies-of-skaia]] now featured in [[track:skaian-dreams-remix]]
+        - [[track:softbit-original-version]] now featured in [[track:softbit]]
+        - [[track:outer-reaches]] now featured in [[track:emissary-of-dance]]
+        - [[track:layers-upon-layers]] now featured in [[track:emissary-of-dance]]
+        - [[track:cumuloseerus]] now featured in [[track:emissary-of-dance]]
+        - [[track:on-golden-dreams]] now featured in [[track:emissary-of-dance]]
+        - [[track:metamorphic-choices]] now featured in [[track:horizontal-headshot]]
+        - [[track:gods-of-the-new-world]] now featured in [[track:dance-of-the-dead]]
+        - [[track:the-mituna-method]] now featured in [[track:the-gemoni-mustard-blood]]
+        - [[track:upward-movement-dave-owns]] now featured in [[track:collision-course-davepetas-movement]]
+        - [[track:frost-vol6]] now featured in [[track:a-farewell-to-arms]]
+        - [[track:dissension-original]] now featured in [[track:a-farewell-to-arms]]
+        - [[track:beatdown-strider-style]] now featured in [[track:a-farewell-to-arms]]
+        - [[track:lulling-lutescent]] now featured in [[track:on-golden-dreams]]
+    - did the same for altogether missing tracks, too:
+        - [[track:brobot-scrimmage]] now featured in [[track:constituent-hearts]]
+        - [[track:character-theme-for-dirk-strider]] now featured in [[track:constituent-hearts]]
+        - [[track:chucklevoodoo-waltz]] now featured in [[track:phantasmagoria]]
+        - [[track:contact]] now featured in [[track:revisit-rewind]]
+        - [[track:contra]] now featured in [[track:revisit-rewind]]
+        - [[track:dave-striders-cool-mixtape]] now featured in [[track:the-lights-rebellion]]
+        - [[track:s-dirk-unite-synchronization-with-lyrics]] now featured in [[track:constituent-hearts]]
+        - [[track:distortion-navigator]] now featured in [[track:optic-duelist]]
+        - [[track:fate-of-the-heir]] now featured in [[track:optic-duelist]]
+        - [[track:four-kids-and-a-game-they-play-together]] now featured in [[track:four-kids-and-a-game-they-played-together]]
+        - [[track:good-morning-dirk]] now featured in [[track:constituent-hearts]]
+        - [[track:heart-beat]] now featured in [[track:constituent-hearts]]
+        - [[track:i-am-an-island]] now featured in [[track:constituent-hearts]]
+        - [[track:intro-canwave2]] now featured in [[track:omega-timeline]]
+        - [[track:intro-canwave2]] now featured in [[track:revisit-rewind]]
+        - [[track:isnt-this-is-this-the-end-again]] now featured in [[track:is-this-the-end]]
+        - [[track:lord-spanish]] now featured in [[track:revisit-rewind]]
+        - [[track:midnight-suffer]] now featured in [[track:midnight]]
+        - [[track:muse-of-nanchos]] now featured in [[track:revisit-rewind]]
+        - [[track:moshi-moshi]] now featured in [[track:while-the-irons-hot]]
+        - [[track:moshi-moshi]] now featured in [[track:horizontal-headshot]]
+        - [[track:moshi-moshi]] now featured in [[track:one-and-a-half-midnight]]
+        - [[track:moshi-moshi]] now featured in [[track:revisit-rewind]]
+        - [[track:rematch]] now featured in [[track:constituent-hearts]]
+        - [[track:sburban-resolution]] now featured in [[track:horizontal-headshot]]
+        - [[track:shut-me-down]] now featured in [[track:constituent-hearts]]
+        - [[track:stay-in-touch]] now featured in [[track:horizontal-headshot]]
+        - [[track:smackdown]] now featured in [[track:thyme-on-my-fries]]
+        - [[track:synchronize-fansong]] now featured in [[track:constituent-hearts]]
+        - [[track:the-engineer]] now featured in [[track:constituent-hearts]]
+        - [[track:tick]] now featured in [[track:revisit-rewind]]
+        - [[track:unintentional-touhou]] now featured in [[track:revisit-rewind]]
+        - [[track:celestial-fantasia]] now featured in [[track:raise-of-the-conductors-baton]]
+        - [[track:thunderhead]] now featured in [[track:infinitys-lament]]
+    - added and updated lyrics for a bunch of tracks from [[group:homestuck-gaiden]], courtesy as ever of [[artist:niklink]]:
+        - from [[album:homestuck-for-the-holidays]]: [[track:time-for-a-story]], [[track:a-skaian-christmas]], [[track:the-squiddles-save-christmas]], [[track:billy-the-bellsuit-diver-has-something-to-say]], [[track:squiddly-night]], [[track:the-santa-claus-interdimensional-travel-sleigh]], [[track:candlelight]], [[track:oh-no-its-the-midnight-crew]], [[track:let-it-snow]], [[track:shit-lets-be-santa]], [[track:choo-choo]], [[track:oh-god-christmas]], [[track:a-very-special-time]]
+        - from [[album:jailbreak]]: [[track:drillgorg]], [[track:retrobution]], [[track:a-common-occurrance-every-night-to-be-exact]]
+        - from [[album:lofam]]: [[track:sadomasopedorobonecrobestiality]], [[track:nakkadile]], [[track:jack-and-black-queen]], [[track:sweet-bro-and-hella-jeff-show]]
+        - from [[album:tomb-of-the-ancestors]]: [[track:eternal-suffering]], [[track:spider8ite]]
+    - we will thankfully never have to do either of the above again
+    - added lyrics to [[track:carefree-victory-remix]], courtesy of [[artist:foreverflummoxed]] and nata
+    - added missing bonus tracks to [[album:jailbreak]]
+    - added [[flash:namco-high]] and its tracks as part of [[album:unreleased-tracks]]
+    - moved [[track:a-baby-legend]] to [[album:unreleased-tracks]], since it's not actually part of the original [[album:the-baby-is-you]] release
+    - added [[track:a-history-of-babies]] to the reference list of [[track:a-baby-legend]]
+    - added [[track:english]] to the reference list of [[track:the-puppetmaster]]
+    - added [[track:flare-cascade]] and [[track:savior-of-the-dreaming-dead-cascade-cut]] to the reference list of [[track:cascade]]
+    - added art content warnings for [[track:black]], [[track:blackest-heart]], [[track:clockwork-reversal]], [[track:trails]], [[track:temporal-piano]], [[track:time-paradox]], [[track:english]]
+    - credited original track art of [[track:killed-by-br8k-spider]] to [[artist:lexxy]] instead of [[artist:homestuck]]
+    - credited original track art of [[track:the-blind-prophet]] to [[artist:hanni-brosh]] instead of [[artist:homestuck]]
+    - changed the youtube playlist link for [[album:jailbreak]]
+    - fixed description of [[group:the-genesis-project]] missing correctly formatted split
+    - removed bancamp links for [[album:labyrinths-heart]]
+    - removed wikipedia links across the site, replacing with youtube video links where relevant
+    - updated flash credits for [[flash:8127]] and [[flash:8130]]
+    <h3>bug fixes</h3>
+    - fixed certain tracks <a href="media/misc/changelog/duplicate-contribs.png">showing up twice</a> in artist track lists
+
     <h2 id="12-jan-2021" class="major-release"><a href="#12-jan-2021">12 January 2021 - traversing fandom</a></h2>
     <h3>site changes</h3>
     - added wallpaper and refined site layout
