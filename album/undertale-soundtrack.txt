@@ -151,6 +151,7 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Snowdin Town
 Duration: 1:16
+References: Snowy
 URLs:
 - https://tobyfox.bandcamp.com/track/snowdin-town
 - https://youtu.be/z6LmMCuGjfA
@@ -466,7 +467,11 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Death by Glamour
 Duration: 2:14
-References: It's Showtime!, Another Medium, Metal Crusher
+References:
+- CORE
+- Another Medium
+- Metal Crusher
+- It's Showtime!
 URLs:
 - https://tobyfox.bandcamp.com/track/death-by-glamour
 - https://youtu.be/2TgO-tN5wAM
@@ -502,7 +507,10 @@ URLs:
 -------------------------------------------------------------------------------
 Track: The Choice
 Duration: 2:12
-References: Once Upon a Time, His Theme
+References:
+- Undertale
+- Once Upon a Time
+- His Theme
 URLs:
 - https://tobyfox.bandcamp.com/track/the-choice
 - https://youtu.be/C4Wv5M9JPao
@@ -596,7 +604,11 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Hopes and Dreams
 Duration: 3:01
-References: Once Upon a Time, Your Best Friend, Snowdin Town
+References:
+- Once Upon a Time
+- Undertale
+- Your Best Friend
+- Snowdin Town
 URLs:
 - https://youtu.be/tz82xbLvK_k
 -------------------------------------------------------------------------------
@@ -608,7 +620,10 @@ URLs:
 -------------------------------------------------------------------------------
 Track: SAVE the World
 Duration: 1:53
-References: Once Upon a Time, Your Best Friend
+References:
+- Hopes and Dreams
+- Once Upon a Time
+- Your Best Friend
 URLs:
 - https://youtu.be/mZRP7nQkfrM
 -------------------------------------------------------------------------------
@@ -619,7 +634,9 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Final Power
 Duration: 0:19
-References: Once Upon a Time
+References:
+- Hopes and Dreams
+- Once Upon a Time
 URLs:
 - https://youtu.be/6nQbkE1DS0o
 -------------------------------------------------------------------------------
@@ -632,7 +649,7 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Menu (Full)
 Duration: 0:32
-References: Once Upon a Time
+References: Start Menu, Once Upon a Time
 URLs:
 - https://youtu.be/brP9Q08kEfk
 -------------------------------------------------------------------------------
@@ -661,7 +678,10 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Last Goodbye
 Duration: 2:15
-References: Once Upon a Time, Your Best Friend
+References:
+- SAVE the World
+- Once Upon a Time
+- Your Best Friend
 URLs:
 - https://youtu.be/5P8V4mP5RLg
 -------------------------------------------------------------------------------
