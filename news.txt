@@ -1,3 +1,52 @@
+Name: Retrace, Retexture
+Date: February 12, 2021
+Directory: retrace-retexture
+Body:
+    <i>Album wallpapers, internal changes, and more!</i>
+    Hi again! We hope the month's been as kind as possible to you all. As planned, we have a new monthly update! The wiki's undergoing some significant internal improvements, but we have a host of new features, and, of course, wonderful albums and artists to share, as well. Thanks go out to our very first patrons - details of all past the split!
+    <hr class="split">
+    <i>As ever, thank you to everyone who sent feedback and kind messages during development! We're also very grateful for all <a href="donate/">supporters of the wiki</a>, including: Nights, enchantingHunter, and Alyssa!</i>
+    This update is another code-heavy one internally, with lots of changes and additions to make improving the wiki easier - and there's still more to come! But first, here's a summary of the new music shared on the wiki this release (check 'em out!):
+    - From [[group:michael-guy-bowman]]:
+        - All of his albums! He's created some really wonderful music, and we're super happy to share it here.
+        - [[album:mobius-trip-and-hadron-kaleido]] is now part of the new <i>solo musician</i> "group" linked above, as are...
+        - [[album:ithaca]], which features a diverse set of contributions from familiar names on the Homestuck music team
+        - [[album:comfortable-bugs]]
+        - [[album:hush]]
+        - [[album:archive]], which is absolutely worth a purchase for more obscure tracks like [[track:aba-daba-honeymoon-archive]]
+        - [[album:electric-daydreams]]
+        - [[album:look-on-my-works-ye-mighty-and-despair]]
+        - and [[album:gravity-makes-the-flame-rise]], his latest release from January this year, an absolutely powerful album, and a timely for for the year it was created through!
+        - (Seriously, this album owns. Listening to it is like finding that perfectly rageful respite in having a chat with someone who's been through their own flavor of just the same year as you.)
+    - From [[group:desynced]]:
+        - [[album:desynced-vol-1]]
+        - [[album:desynced-vol-2]]
+        - [[album:election-season]]
+        - These are all soundtracks for the fanventure <a href="https://desynced.xyz/">Desynced</a>. We haven't read the comic yet, but all the tracks here - and their art! - are really excellent!
+    - From [[group:psycholonials]]:
+        - Just the first release, [[album:psycholonials-ep-1]], for now!
+        - These show up in a new row on the homepage. We'll add more EPs as they're released, in distinct updates from the main wiki releases!
+        - No information on unreleased tracks or references to previous releases for now, but we'll come back to this once the full game and soundtrack have been released in April.
+        - In case you missed it, the entirety of the game is composed by [[artist:clark-powell]]!
+    The biggest feature addition this release, as you might've already spotted, is wallpapers for albums! These are easiest to explain by showing them off - some of my favorites are [[album:homestuck-vol-5]], [[album:coloUrs-and-mayhem-universe-a]], and [[album:cosmic-caretakers]]. Album wallpapers are a way to revive the original themes of albums released on Bandcamp and give album and track pages their own personal flare, while still leaving the main design of the site untouched, aiming for a cohesively creative look! Much thanks go to Niklink for suggesting this back in December, and helping with research as well as editing throughout the whole process.
+    Besides album wallpapers, there are a few other smaller additions too:
+    - As evident in where you're reading this now, news entries now have their own pages!
+    - Building on the code for above, we've replaced the old, gargantuan "All Commentary" page with individual commentary pages for each album. (Check out the <a href="commentary/">Commentary</a> index to explore!) These are a distraction-free way to browse the commentary for an album; it's great if you're listening to a whole release and want to follow its commentary alongside playback. Plus it shows off the new album wallpapers. :)
+    - There's a footer on all pages now too, thanking supporters and contributors and linking people back to the support and feedback pages. It'll hopefully help show that the wiki really is a group project, and encourage interested folks to get involved!
+    Finally, there have been a bunch of internal changes. I won't bore you with the technical details - those are in the <a href="changelog/#12-feb-2021">changelog</a>! :)
+    But here, I do want to share a little about the goals we're working towards (and that this code is a big part of). Together - both the dev and the community of contributors! - we've created a really fantastic and powerful music wiki I know I'm proud of, seeing how it's grown and improved since it started! As that development continues, we've been facing a few big questions about the grander context of the wiki.
+    Here's the one we focused on this update: This wiki has a clear, defined scope. However, the underlying <i>software</i> is a featureful, powerful creation in its own right. <b>Could the wiki code be generalized to act as a basis for other wikis?</b>
+    Hence began the <a href="https://www.youtube.com/watch?v=HhGI-GqAK9c">Generalized It</a> project, which I focused on for most of the first half of the month of development time. It's still a work in progress, but we made pretty big progress: we've separated almost all content specific to any wiki from the main code (meaning it can be customized across any version of your own wiki), updated the CLI tooling to make swapping wikis for development easy, and put together two experimental demo wikis! If you're curious, check 'em out: <a href="https://nebula.ed1.club/skeleton-wiki/">Skeleton</a>, <a href="https://nebula.ed1.club/flora-wiki/">Floraverse</a>!
+    Although it's still in progress, I hope in the future anyone with the interest and time will be able to create their own wikis based on the code here. There's still much documentation to be written (and probably tooling to be improved) before it's really ready for use, but if you'd like to explore the code anyway, <a href="https://git.ed1.club/nebula/hsmusic-wiki/">it's all public!</a> (So's <a href="https://git.ed1.club/nebula/hsmusic-data/">the HSMusic source data</a> if you're curious!)
+    There are still many exciting things to come, and plenty more internal changes as foundation for 'em. It takes a while to design and implement any large change like this - but when it's ready, I hope you'll be excited to see!
+    <hr>
+    As in last month's entry: the meta around the wiki! :)
+    - Again, thanks graciously to our first supporters on <a href="https://www.patreon.com/qznebula">Patreon</a> and <a href="https://liberapay.com/nebula">Liberapay</a>! I really didn't expect it to step up from the ground so quickly. In case you missed it, we updated the tiers on Patreon; the profile names of supporters will show up as part of news entries, as well as on the <a href="about/">About &amp; Credits</a> page.
+    - The <a href="discord/">Community Discord Server</a> grew pretty significantly over the development of this release! Working with everyone there was a blast. Thanks to feedback, we restructured the wiki a little, too: there are new #devblog, #devblog-discussion, and #git-update channels, all for keeping up with and discussing particular progress on the wiki! No more need to go through chat backlog; the info's all here. :3
+    - <a href="https://leo60228.space/">leo homestuck</a> released an awesome tool called <a href="https://leo60228.space/hsmusicifier-automatically-add-track-art-to-id3-tags-including-fan-anthologies-and-post-2019-bandcamp/">hsmusicifier</a>! It adds track art and artist information from HSMusic to your own music library, and has <a href="https://leo60228.space/hsmusicifier-0-2-0-add-track-art-and-artist-info-to-your-homestuck-music-collection-in-any-format/">a bunch</a> of <a href="https://leo60228.space/hsmusicifier-0-3-0-split-up-bundled-albums-with-additional-flexibility-for-art/">other utilities</a> too. Our car dashboard shows track art for what's currently playing; it's been a wonder to have the original art restored, as well as the anthology fanart for albums like [[album:homestuck-vol-5]] and [[album:beyond-canon]] show up there!
+    As ever, thank you for the support and feedback. Besides the Discord, <a href="feedback/">our usual channels remain open</a>, so you're much encouraged to share any comments or music suggestions for the coming releases!
+    <i>~ Quasar Nebula</i>
+-------------------------------------------------------------------------------
 Name: Traversing Fandom
 Date: January 12, 2021
 Directory: traversing-fandom
@@ -24,7 +73,7 @@ Body:
     - From [[artist:toby-fox]]:
         - (2010) [[album:the-baby-is-you]], the infamous pinnacle of T. ("Radiation") F. content, a shitpost we mere mortals are blessed by the birth of
         - (2015) [[album:undertale-soundtrack]], complete with interactive reference info just like the rest of HSMusic, courtesy of <a href="https://undertale.fandom.com/wiki/Leitmotifs">the Undertale Wiki</a>
-        - (2018) [[album:deltarune-ch1-ost]], also with leitmotif information thanks to <a href="https://deltarune.fandom.com/wiki/Leitmotifs">the Deltarune Wiki</a></ul>
+        - (2018) [[album:deltarune-ch1-ost]], also with leitmotif information thanks to <a href="https://deltarune.fandom.com/wiki/Leitmotifs">the Deltarune Wiki</a>
     - From [[artist:nuclear]]:
         - (2021) [[album:inhospitable-delisted]], a re-release of the now-delisted INHOSPITABLE Vol. 1 from 2017, featuring music from the original release of their comic, [[group:inhospitable]]
     Phew! That's a lot of music. In fact, <a href="group/fandom/gallery/">the Fandom gallery</a> is starting to become <i>kind of crowded!</i> How is anyone supposed to find what they're looking for now?? (Or so we hypothetically project you asking.)
