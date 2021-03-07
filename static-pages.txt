@@ -73,7 +73,7 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
-    <h2 id="12-feb-2021" class="major-release"><a href="#12-feb-2021">12 February 2021 - retrace, retexture</a></h2>
+    <h2 id="12-feb-2021" class="major-release"><a href="#12-feb-2021">[[date:12 February 2021]] - retrace, retexture</a></h2>
     <h3>site changes</h3>
     - added per-album wallpapers
         - many albums have these, e.g. [[album:homestuck-vol-5]]; check "data changes" section for full list
@@ -219,7 +219,7 @@ Content:
     <h3>bug fixes</h3>
     - fixed certain tracks [[root:media/misc/changelog/duplicate-contribs.png|showing up twice]] in artist track lists
 
-    <h2 id="12-jan-2021" class="major-release"><a href="#12-jan-2021">12 January 2021 - traversing fandom</a></h2>
+    <h2 id="12-jan-2021" class="major-release"><a href="#12-jan-2021">[[date:12 January 2021]] - traversing fandom</a></h2>
     <h3>site changes</h3>
     - added wallpaper and refined site layout
         - [[root:media/misc/changelog/bg-january.jpg|the current wallpaper]] is pulled from <a href="https://www.homestuck.com/info-more">More from Homestuck</a> and might be changed or expanded upon in future updates
@@ -311,7 +311,7 @@ Content:
     - miscellaneous artist name fixes
     - added [[tag:shrek]]
 
-    <h2 id="12-dec-2020" class="major-release"><a href="#12-dec-2020">12 December 2020 - launch of hsmusic.wiki</a></h2>
+    <h2 id="12-dec-2020" class="major-release"><a href="#12-dec-2020">[[date:12 December 2020]] - launch of hsmusic.wiki</a></h2>
     <h3>site changes</h3>
     - redesigned the homepage from the ground up to be a better landing page for the wiki!
         - three groupings for the wiki index: New Releases, Fandom, Official, showing just a few so it's easy to navigate, with new buttons to view a complete grid listing
@@ -407,7 +407,7 @@ Content:
     - added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:fenkko]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:infiniteknife]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:koukouvayia]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:molly-gur]], [[artist:plumegeist]], [[artist:rah-bop]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:temmie-chang]], [[artist:tensei]], [[artist:the-everlasting-ash]], [[artist:thomas-ferkol]], [[artist:toastyglow]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:viasatellite]], [[artist:vivian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]
     - added a bunch of new artist pages for those whose contributions are showing up on the wiki for the first time (e.g. several contributors to [[flash:hiveswap-act1]])
 
-    <h2 id="10-oct-2020" class="major-release"><a href="#10-oct-2020">10 October 2020 - autumnal polish haul</a></h2>
+    <h2 id="10-oct-2020" class="major-release"><a href="#10-oct-2020">[[date:10 October 2020]] - autumnal polish haul</a></h2>
     <h3>new features</h3>
     - artist links will now have icons to jump directly to their personal websites most places they're linked
     <h3>flash pages</h3>
@@ -438,7 +438,7 @@ Content:
     - renamed the ambiguous artist "Kat" to [[artist:kato]] in [[track:the-obsidian-towers]], and to [[artist:nyanface]] in [[track:gilded-sands]], [[track:cumulating-dreams]], [[track:buy-NAK-sell-DOOF]], [[track:Nakkadile]], [[track:planet-in-shadow]], and [[track:paradoxical-meteor-shower]]
     - added artist links for [[artist:bea]], [[artist:pride]], [[artist:kato]], and [[artist:shad-andrews]] (per credits in [[album:prospit-and-derse]] Bandcamp release)
 
-    <h2 id="24-july-2020" class="major-release"><a href="#24-july-2020">24 July 2020 - recompose, refine</a></h2>
+    <h2 id="24-july-2020" class="major-release"><a href="#24-july-2020">[[date:24 July 2020]] - recompose, refine</a></h2>
     <h3>new features</h3>
     - two new albums archived, both from <a href="https://casualsunday.bandcamp.com/">Casual Sunday</a> (a group of the artists behind countless homestuck tracks): [[album:Shortcuts]] and [[album:p-s]]
     - added durations to every track, and rough total sums to album and artist pages
@@ -491,7 +491,7 @@ Content:
     - added a new track [[Onett Theme]] to the list of tracks referenced in [[Secret ROM]]
     - hid [[album:Unreleased Tracks]] from the [[site:list/albums/by-date/|Albums - by Date]] and [[site:list/tracks/by-date/|Tracks - by Date]] listings
 
-    <h2 id="12-jun-20" class="major-release"><a href="#12-jun-20">12 June 2020 - happy birthday karkat</a></h2>
+    <h2 id="12-jun-20" class="major-release"><a href="#12-jun-20">[[date:12 June 2020]] - happy birthday karkat</a></h2>
     <h3>homepage</h3>
     - a new [[static:changelog|Changelog]] page! you are probably reading it now.
     - two new albums: [[album:Rust Apocalypse]] by Willow Ascenzo, and the follow-up to [[album:Beforus]], [[album:Ancestral]]!
@@ -509,11 +509,11 @@ Content:
     - on top of redoing the sidebar-header layout, changes to styling (collapsing the sidebar when the screen isn't very wide, for example) have made the site usable on mobile devices now!
     - also, some changes to the way pages are generated, to make the site usable from hit command-line web browser <a href="https://lynx.browser.org/">Lynx</a>
 
-    <h2 id="2-jun-20"><a href="#2-jun-20">2 June 2020 - track art for beyond canon</h2>
+    <h2 id="2-jun-20"><a href="#2-jun-20">[[date:2 June 2020]] - track art for beyond canon</h2>
     - thanks to the folx who contributed art to and organized the <a href="https://hsfanmusic.skaia.net/post/619761136023257089/unofficialmspafans-we-are-proud-to-announce-the">Beyond Canon Track Art Anthology</a>, the [[album:Beyond Canon]] album now has track art!
     - this anthology also came with a commentary booklet, and that (alongside the sketches contained!) has been transcribed into the wiki!
 
-    <h2 id="25-may-20" class="major-release"><a href="#25-may-20">25 May 2020 - albums, artists, and urls</a></h2>
+    <h2 id="25-may-20" class="major-release"><a href="#25-may-20">[[date:25 May 2020]] - albums, artists, and urls</a></h2>
     <h3>homepage</h3>
     - another four new fandom albums! [[album:Sburb OST]], [[album:Beforus]], [[album:Strife 2]], [[album:Perfectly Generic Album]]
     - the entire homepage has been restructured, placing official albums from the music team for <i>Homestuck^2: Beyond Canon</i> front and center, and generally adding flare to the rest of the page too
@@ -530,22 +530,22 @@ Content:
     - many, many artists whose names are either typo'd or out of date or otherwise duplicate have been updated, making artist pages a considerably more reliable resource than they were before
     - behind the scenes, lots of code changes to make accidentally typo'd or duplicate artist names much more difficult
 
-    <h2 id="15-apr-20"><a href="#15-apr-20">15 April 2020 - chronology links</a></h2>
+    <h2 id="15-apr-20"><a href="#15-apr-20">[[date:15 April 2020]] - chronology links</a></h2>
     - "chronology links" have been added to the bottom of the sidebar on track pages
     - these let you follow through the history of an artist's contributions without having to navigate back and forth between their own artist page
 
-    <h2 id="13-apr-20"><a href="#13-apr-20">13 April 2020 - beyond canon</a></h2>
+    <h2 id="13-apr-20"><a href="#13-apr-20">[[date:13 April 2020]] - beyond canon</a></h2>
     - the new official album [[album:Beyond Canon]] has been transcribed! pretty minimal commentary and no track art, as yet.
     - pages for the routes of Hiveswap: Friendsim and Pesterquest were added to the [[site:flash/|Flashes]] page!
     - the new "flash" pages contain full credits for their authors and asset artists, and these can be explored like any other link
 
-    <h2 id="31-mar-20"><a href="#31-mar-20">31 March 2020 - typo fixes from foreverFlummoxed</a></h2>
+    <h2 id="31-mar-20"><a href="#31-mar-20">[[date:31 March 2020]] - typo fixes from foreverFlummoxed</a></h2>
     - per foreverFlummoxed's <a href="https://forum.homestuck.xyz/viewtopic.php?f=7&t=151&sid=4d28b089724502b9019dd52c0fc7cdb2&start=20#p14209">excellent page-checking</a>, a bunch of typos and missing track art around the site have been fixed!
 
-    <h2 id="18-mar-20"><a href="#18-mar-20">18 March 2020 - more sburb commentary</a></h2>
+    <h2 id="18-mar-20"><a href="#18-mar-20">[[date:18 March 2020]] - more sburb commentary</a></h2>
     - the [[album:Sburb]] solo album was rereleased by its artist, so Bandcamp links have been copied to its track pages, as have the new commentary released with it
 
-    <h2 id="16-mar-20" class="major-release"><a href="#16-mar-20">16 March 2020 - Land of Fans and Music <small>(and References and Randomness and Art and Also Some Other Stuff)</small></a></h2>
+    <h2 id="16-mar-20" class="major-release"><a href="#16-mar-20">[[date:16 March 2020]] - Land of Fans and Music <small>(and References and Randomness and Art and Also Some Other Stuff)</small></a></h2>
     <h3>homepage</h3>
     - four new albums archived (and their booklets transcribed): [[album:Land of Fans and Music]], [[album:Land of Fans and Music 2]], [[album:Land of Fans and Music 3]], and [[album:Land of Fans and Music 4]]
     - (the commentary booklets transcribed here are hilarious and very insightful and there are a bunch of easter eggs - check them out!)
@@ -564,7 +564,7 @@ Content:
     - a new feature acknowledgements section has been added to the [[static:about|About &amp; Credits]] page
     - a bunch of code changes to make expanding the wiki a fair bit less difficult
 
-    <h2 id="1-mar-20" class="major-release"><a href="#1-mar-20">1 March 2020 - embracing fanon</a></h2>
+    <h2 id="1-mar-20" class="major-release"><a href="#1-mar-20">[[date:1 March 2020]] - embracing fanon</a></h2>
     <h3>homepage</h3>
     - the homepage is now split into two sections: "Fandom" and "Official"
     - only one fandom album now, [[album:Diverging Delicacies]], but more to come soon
@@ -574,7 +574,7 @@ Content:
     <h3>flashes</h3>
     - a CSS change targeting the homepage inadvertently made the headings on the flash index look very fancy, and i kept this because it looks cool
 
-    <h2 id="7-feb-20" class="major-release"><a href="#7-feb-20">7 February 2020 - flash pages</a></h2>
+    <h2 id="7-feb-20" class="major-release"><a href="#7-feb-20">[[date:7 February 2020]] - flash pages</a></h2>
     <h3>homepage</h3>
     - link to the new [[site:flash/|Flashes]] index page
     <h3>flash pages</h3>
@@ -591,7 +591,7 @@ Content:
     - switched a couple artist names around, for consistency with credits in the latest release ([[album:Homestuck Vol. 10]])</a>
     - added a new [[static:feedback|Feedback]] page, with links to contact me; this is also linked from the homepage
 
-    <h2 id="14-jan-20"><a href="#14-jan-20">14 January 2020 - commentary for Sburb</a></h2>
+    <h2 id="14-jan-20"><a href="#14-jan-20">[[date:14 January 2020]] - commentary for Sburb</a></h2>
     - copied commentary for the [[album:Sburb]] album, per descriptions of the YouTube videos
 
     <h2 id="6-dec-19"><a href="#6-dec-19">6 December 2019 - commentary for [S] Collide.</a></h2>
