@@ -45,7 +45,7 @@ Content:
     - <a href="https://forum.homestuck.xyz/viewtopic.php?f=7&t=151">HomestuckXYZ</a> - A public forum thread for the wiki.
     - <a href="https://twitter.com/sapphicGnostic">Twitter</a> - DMs for discussion or feedback are open! (It might go a while unnoticed, though - the site only indicates message requests when it's manually checked, and we're pretty terrible at remembering to do that!)
     - <a href="https://types.pl/@quasar">Mastodon</a> - Same as birdsite but a moderately less terrible platform :)
-    - Email - it's towerofnix at gmail dot beans! (Same domain everyone else uses.) Old-fashioned, but personally our favorite of them all, and certainly practical if you're sending a longer-form message.
+    - Email - it's <s><code>towerofnix at gmail dot beans</code></s> <b>now been revised</b> to <code>qznebula at protonmail dot com</code>! (We'll still get messages at the old address, though.) Old-fashioned, but personally our favorite besides the Discord, and certainly practical if you're sending a longer-form message.
     Thanks so much for sharing your feedback!
 -------------------------------------------------------------------------------
 Name: Changelog
@@ -73,6 +73,85 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="10-mar-2021" class="major-release"><a href="#12-mar-2021">[[date:12 March 2021]] - translation &amp; renovation</a></h2>
+    (news entry: [[news-entry:translation-renovation]])
+    <h3>site changes</h3>
+    - translation/localization support:
+        - nearly all static text on the wiki has been replaced with strings specified in a plain JSON file
+        - default language for a wiki is generated at the root directory (/) as usual; new languages are in subdirectory (e.g. "/jp/album/diverging-delicacies")
+        - no languages are newly supported yet, but the localization system is totally tested; see [[news-entry:translation-renovation|the news entry]] for details on contributing translations!
+    - thumbnail support:
+        - small images (250x250) are used in grids (on homepage, album/artist galleries, etc)
+        - medium images (400x400) are used on pages with larger cover art (individual track/album pages, etc)
+        - full-size images (usually 600x600-1200x1200, pulled from public bandcamp listings) are no longer embedded at all, but can still be viewed by clicking on cover arts to zoom in
+        - previously, <em>every</em> image on the site was full-size! this was particularly terrible for people with slow connections or limited bandwidths
+        - example stats: download size of scrolling entire homepage reduced from 3.8mb to 0.6mb
+    - internal renovation across build file:
+        - (<a href="https://youtu.be/6G6_vo50OBo">before</a>, <a href="https://youtu.be/1dqP4Vrjp3c">after</a>)
+        - url system restructured:
+            - link-related bugs are much harder to run into
+            - link references in content (e.g. "\[[album:foo-bar]]") are modularized and can more easily link to anywhere across the wiki
+            - codebase forks can easily adjust url specification to move parts of the site to different paths (though this isn't yet possible via data file)
+            - site build time is significantly reduced (since there are far fewer redundant calls to path.relative)
+        - page write functions restructured
+            - data required during a page write is gathered once, and then reused across all languages that page is built in, significantly reducing build time across multiple languages
+            - writePage itself is broken into a few different chunks, which can be referenced individually when needed
+            - changes tie nicely into url system restructure as well
+        - shared data variables and functions organized and tidied for simpler access across code
+        - miscellaneous arguments and specifications across code have been restructured to prefer explicit description before unnecessarily compact formats
+            - this has the side-effect of making a fair amount of the build logic simpler!
+        - significantly expanded data validation which happens before any site pages are written
+    <h3>albums</h3>
+    - besides additions for [[group:psycholonials]], no new music shared on the wiki this month, as translation and renovation changes took an especially long time to design and implement
+    <h3>artist pages</h3>
+    - added total duration of music contributed to an album next ot the album date
+    - display "cover art" and "wallpaper art" lines at the top of an album art contribution list, rather than at the bottom (this had been an accidental code error)
+    - display flash/game date range next to the "act" (or flash group label), rather than showing every date next to each flash, to make this section much visually cleaner
+    - removed "Featured in" links, since these were taking up a lot of visual space
+        - this has been added to [[listing:tracks/in-flashes/by-album|Tracks - in Flashes &amp; Games (by Album)]] instead
+    <h3>commentary pages</h3>
+    - cleaned [[commentary-index:_|commentary index]] layout and strings (e.g. before: "19/20 entries; 8.4k words", after: "8.4k words across 19 entries")
+    <h3>track pages</h3>
+    - reference list is only divided into "fandom" and "official" if a group with directory "official" is present in the first place
+        - this is essentially hard-coded, but is a quick and simple fix for all references on wikis without the concept displaying as "fandom" references
+    <h3>listings</h3>
+    - generally tweaked strings to be more consistent across listings and the site
+    - added gallery link to [[listing:groups/by-name|Groups - by Name]] and [[listing:groups/by-category|Groups - by Category]] listings
+    - added flash links to [[listing:tracks/in-flashes/by-album|Tracks - in Flashes &amp; Games (by Album)]]
+    - added album links to [[listing:tracks/in-flashes/by-flash|Tracks - in Flashes &amp; Games (by Flash)]]
+    - added number of uses to [[listing:tags/by-name|Tags - by Name]]
+    - implemented [[listing:random|Random Pages]] as an actual listing via the same system as all others
+        - this is just generally better practice
+        - it also fixes the Random Pages link not being bold when selected though!
+    <h3>data changes</h3>
+    - dozens of internal changes using new link syntax, as well as other internal fixes without user-visible changes
+    - contributor list changes for consistency across wiki and to remove redundant credit info:
+        - [[track:showtime-piano-refrain]]:
+            - credit [[artist:kevin-regamey]] only as artist, not contributor
+            - remove [[artist:malcolm-brown]], originally included for composing [[track:showtime-original-mix]]
+        - [[track:aggrieve-violin-refrain]]:
+            - credit [[artist:andrew-huo]] only as artist, not contributor
+            - credit [[artist:gabe-nezovic]] only as contributor, not artist
+        - [[track:sburban-countdown]]:
+            - credit [[artist:mark-hadley]] only as artist, not contributor
+            - remove [[artist:michael-guy-bowman]], originally included for composing [[track:sburban-jungle]]
+        - [[track:showtime-imp-strife-mix]]:
+            - credit [[artist:buzinkai]] and [[artist:curt-blakeslee]] only as artists, not contributors
+            - remove [[artist:malcolm-brown]], originally included for composing [[track:showtime-original-mix]]
+        - [[track:requiem-for-an-exile]]: remove [[artist:james-dever]], originaly included for composing [[track:requiem]]
+        - [[track:spider8ite]]: credit [[artist:kalibration]] for composition as well as choir
+        - [[track:stress]]:
+            - credit [[artist:buzinkai]] for composition
+            - place [[artist:buzinkai]] before [[artist:toby-fox]] (but leave toby in the artist list)
+        - [[track:solar-voyage]]: credit [[artist:marcy-nabors]] for composition as well as arrangement and vocals (and move to top of list)
+        - [[track:renewed-return]]: credit [[artist:marcy-nabors]] for composition as well as bass clarinet (and move to top of list)
+        - [[track:youre-a-mean-one-mr-slick]]: credit [[artist:whatislostinthemines]] for composition as well as lyrics (and move to top of list)
+        - [[track:violet-and-gold]]: credit [[artist:veritas-unae]] for composition as well as lyrics (and move to top of list)
+    - fixed duplicate commentary entries in [[track:doctor-vol-1-4]] and [[track:endless-climb-vol-1-4]]
+    - removed some old commentary from [[track:sports]]. <a href="https://web.archive.org/web/20210310160447/https://hsmusic.wiki/track/sports/">RIP</a>
+    - clarified wallpaper contributions that said "edits" (e.g. [[album:homestuck-vol-5]]) to say "edits for wiki"
+    - album and flash data additions for [[group:psycholonials]] over the course of the month
+
     <h2 id="12-feb-2021" class="major-release"><a href="#12-feb-2021">[[date:12 February 2021]] - retrace, retexture</a></h2>
     (news entry: [[news-entry:retrace-retexture]])
     <h3>site changes</h3>
