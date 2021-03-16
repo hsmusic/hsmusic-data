@@ -73,6 +73,10 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="16-mar-2021"><a href="#16-mar-2021">[[date:16 March 2021]] - "random" link fixes</a></h2>
+    <h3>bug fixes</h3>
+    - fixed "random" links (e.g. on album pages and [[listing:random|Random Pages]] listing) redirecting to "undefined" URLs instead of the appropriate type directory (track, group, etc)
+
     <h2 id="12-mar-2021" class="major-release"><a href="#12-mar-2021">[[date:12 March 2021]] - translation &amp; renovation</a></h2>
     (news entry: [[news-entry:translation-renovation]])
     <h3>site changes</h3>
