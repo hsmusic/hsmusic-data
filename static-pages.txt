@@ -689,15 +689,15 @@ Content:
     <h2 id="14-jan-20"><a href="#14-jan-20">[[date:14 January 2020]] - commentary for Sburb</a></h2>
     - copied commentary for the [[album:Sburb]] album, per descriptions of the YouTube videos
 
-    <h2 id="6-dec-19"><a href="#6-dec-19">6 December 2019 - commentary for [S] Collide.</a></h2>
+    <h2 id="6-dec-19"><a href="#6-dec-19">[[date:6 December 2019]] - commentary for [S] Collide.</a></h2>
     - copied commentary from James Roach on twitter about his contributions to the [[album:[S] Collide.]] album
 
-    <h2 id="3-dec-19"><a href="#3-dec-19">3 December 2019 - commentary &amp; lyrics</a></h2>
+    <h2 id="3-dec-19"><a href="#3-dec-19">[[date:3 December 2019]] - commentary &amp; lyrics</a></h2>
     - copied over official commentary booklets for three official albums - [[album:AlterniaBound]], [[album:One Year Older]], [[album:Homestuck Vol. 10]] - beginning a long tale of booklet transcription going forward
     - added a new section to track pages for lyrics, e.g. on [[Temporal Shenanigans]]
     - added two new listing pages: [[site:list/tracks/with-lyrics/|Tracks - with Lyrics]] and [[site:list/all-commentary/|All Commentary]]
 
-    <h2 id="24-nov-19" class="major-release"><a href="#24-nov-19">24 November 2019 - so many new pages</a></h2>
+    <h2 id="24-nov-19" class="major-release"><a href="#24-nov-19">[[date:24 November 2019]] - so many new pages</a></h2>
     <h3>homepage / "About &amp; Credits"</h3>
     - moved the intro message to a new [[static:about|About &amp; Credits]] page
     - structured the site credits list more nicely there
@@ -716,18 +716,18 @@ Content:
     - [[site:list/tracks/by-album/|Tracks - by Album]]: every track, grouped by album
     - [[site:list/tracks/by-date/|Tracks - by Date]]: every track, grouped by release date
 
-    <h2 id="19-nov-19"><a href="#19-nov-19">19 November 2019 - grouped artist listings</a></h2>
+    <h2 id="19-nov-19"><a href="#19-nov-19">[[date:19 November 2019]] - grouped artist listings</a></h2>
     - artist page credit listings have been sigificantly restructured ([[root:media/misc/changelog/old-artist-page.png|before]], [[root:media/misc/changelog/new-artist-page.png|after]])
     - contributions are now grouped by album (or more specifically, by release date, which is noteworthy in the case of [[album:Homestuck Vol. 1-4]], which was originally released over a period of four distinct dates, plus one for the final compiled album release)
     - because it's easy to see where tracks are referenced now, dim contribution lines (showing tracks which reference a track by the specific artist, but were not otherwise contributed to by them) have been removed
     - the lists aren't numbered anymore because, with this grouping, it was sort of ambiguous whether that referred to a track's position in the album or if it was a continuous counter of the artist's contributions (it was the latter); both such counters can now be displayed by holding still the cursor over a contribution line for a moment
     - removed a few referenced-track contributions i'd missed switching to the new format (distinct reference lists) earlier
 
-    <h2 id="18-nov-19"><a href="#18-nov-19">18 November 2019 - high-res cover art</a></h2>
+    <h2 id="18-nov-19"><a href="#18-nov-19">[[date:18 November 2019]] - high-res cover art</a></h2>
     - copied cover art from <a href="https://www.reddit.com/r/homestuck/comments/dn2s69/i_was_prepared_for_this_eventuality_and_also/">this archive</a>, which was originally compiled by clicking each cover art off the bandcamp to get a higher-resolution cover art (it is intentionally still less than the resolution gotten in purchased album downloads, for particularly high-res art)
     - commentary for [[album:Hiveswap Act 1 OST]]
 
-    <h2 id="16-nov-19" class="major-release"><a href="#16-nov-19">16 November 2019 - track references &amp; commentary</a></h2>
+    <h2 id="16-nov-19" class="major-release"><a href="#16-nov-19">[[date:16 November 2019]] - track references &amp; commentary</a></h2>
     <h3>homepage</h3>
     - got rid of the twitter link on my name and added two links in its place - my twitter and reddit accounts - as well as a note that suggestions and feedback are welcome
     <h3>track pages</h3>
@@ -743,7 +743,7 @@ Content:
     - a new section for commentary
     - a "jump to" paragraph at the top, to quickly scroll to any of the track/art/commentary sections
 
-    <h2 class="major-release" id="15-nov-19"><a href="#15-nov-19">15 November 2019 - initial release</a></h2>
+    <h2 class="major-release" id="15-nov-19"><a href="#15-nov-19">[[date:15 November 2019]] - initial release</a></h2>
     <h3>initial release of the website</h3>
     - published <a href="https://github.com/hsmusic/hsmusic.github.io/">on github</a> with code under the GPL; hosted on hsmusic.github.io
     - advertised exclusively <a href="https://www.reddit.com/r/homestuck/comments/dwtc4w/i_made_a_wiki_for_homestuck_albums_including/">on reddit</a>
