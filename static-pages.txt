@@ -73,6 +73,70 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="12-apr-2021" class="major-release"><a href="#12-apr-2021">[[date:12 April 2021]] - solo albums aplenty</a></h2>
+    (news entry: [[news-entry:solo-albums-aplenty]])
+    <h3>site changes</h3>
+    - added per-album banners, as a compliment to wallpapers (from February)
+        - currently only show up on album index pages, not track pages, since they can push the content pretty far down
+        - thanks to Niklink for helping archive and double-check these!
+    - made background for the content area a glossy, rather than solid, gray; particularly notable on albums with custom wallpapers
+    - removed <i>Psycholonials</i> row from homepage and replaced New Releases with New Additions, a new type of row showing a diverse selection of the latest albums to be added to the wiki
+    - added data files for tracks, accessible at <code>/data/track/&lt;directory&gt;/data.json</code> ("directory" means the name of the track as it shows up in permalink URLs, e.g. <code>bl1nd-just1c3-1nv3st1g4t1on</code>)
+        - will be extended to albums, artists, etc soon!
+        - can be accessed from external programs via HTTP request
+        - will probably also exist as a complete package download for offline use, though this hasn't been done yet
+    - internal changes as foundations for future updates
+        - tweaks and improvements to the CLI site build tool
+        - made the URL/path system generally less complex (and accidentally spent way too long on this!)
+        - more translation additions and brainstorming for how to work them into more of the site
+        - implemented the basic design and functionality for info (hover) cards, which are functional but not quite complete and will show up in a release soon
+            - you can try them out by setting <code>localStorage.tryInfoCards = true</code> in your browser console!
+            - only implemented for tracks so far; make use of the data files described above
+    <b>albums</b>
+    - another lovely selection of albums, all from solo artists, summarized below
+    - from [[group:cristata]]:
+        - [[album:are-you-lost]]
+    - from [[group:funk-mclovin]]:
+        - [[album:the-funk-mclovin-homestuck-experience]]
+        - [[album:class-act]] and [[album:class-act-b-side]]
+        - [[album:the-baby-is-june]]
+    - from [[group:nuclear333]]:
+        - [[album:nuclears-explosion-1]]
+        - [[album:chilled-processor]]
+        - [[album:ava]]
+        - [[album:old-world]]
+        - [[album:losing-heart]]
+    - from [[group:what-is-lost-in-the-mines]]:
+        - [[album:what]]
+        - [[album:triassic-slump]]
+        - [[album:bashful-hearts-out]]
+    - also, new albums from [[group:psycholonials]]:
+        - [[album:psycholonials-ep-5]]
+        - [[album:psycholonials-ep-6]]
+        - [[album:psycholonials-ep-7]]
+    <h3>album pages</h3>
+    - added banners to album index pages, as mentioned and listed in site changes and data changes sections, respectively
+    - added new line showing the date the album was added to the wiki near the end of the page (below track listing and above artist commentary)
+    <h3>artist pages</h3>
+    - added an info line showing which groups an artist has contributed tracks and art under
+    <h3>data changes</h3>
+    - added wallpapers for [[album:act-7]], [[album:p-s]], [[album:shortcuts]], [[album:tomb-of-the-ancestors]], [[album:deltarune-ch1-ost]], and [[album:undertale-soundtrack]]
+    - added banners for [[album:alterniabound]], [[album:cherubim]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:genesis-frog]], [[album:homestuck-vol-5]], [[album:homestuck-vol-6]], [[album:homestuck-vol-7]], [[album:homestuck-vol-8]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:squiddles]], [[album:symphony-impossible-to-play]], [[album:the-wanderers]], [[album:ancestral]], [[album:beforus]], [[album:cosmic-caretakers]], [[album:diverging-delicacies]], [[album:friendsymphony]], [[album:gristmas-carols]], [[album:jailbreak]], [[album:labyrinths-heart]], [[album:lofam]], [[album:lofam2]], [[album:lofam3]], [[album:lofam4]], [[album:moons-of-theseus]], [[album:oceanfalls-vol-1]], [[album:p-s]], [[album:sburb-ost]], [[album:shortcuts]], [[album:tomb-of-the-ancestors]], [[album:weird-puzzle-tunes]], [[album:xenoplanetarium]], and all [[group:psycholonials]] albums
+    - updated description of [[group:inhospitable]] group, courtesy of nuclear333's input
+    - fixes for [[album:unreleased-tracks]], courtesy of foreverFlummoxed:
+        - added missing durations for [[track:archagent-everlasting]], [[track:boy-skylark]], [[track:calming-quartz-beta]], [[track:chalk-emerald]], [[track:isle-unto-thyself]], [[track:its-your-move]], and [[track:the-witch]]
+        - added artist links for [[artist:tally-hall]] and [[artist:vvvvvv]]
+    - fixes for miscellaneous data, courtesy of Niklink:
+        - added full lists of featured tracks to [[flash:psycholonials]] flashes (instead of just the tracks corresponding to each chapter's album)
+        - fixed [[track:your-universe]] being credited to "Marcus Citrine" rather than [[artist:marcus-carline]] (who also wrote [[track:the-leaving]] from [[album:beyond-canon]]!)
+        - credited cover and wallpaper art for [[album:hiveswap-act-1-ost]] and cover art for [[album:hiveswap-act-2-ost]] to [[artist:mallory-dyer]]
+        - credited wallpaper art for [[album:hiveswap-friendsim]] to [[artist:danny-cragg]], for [[album:the-felt]] to [[artist:molly-gur]], and for [[album:the-wanderers]] to [[artist:lauren-ross]]
+        - (all artworks above were previously credited to the catch-all [[artist:homestuck]])
+    <h3>bug fixes</h3>
+    - fixed artist pages no longer sorting tracks according to their original release date (e.g. on [[artist:nuclear333]], tracks from [[album:inhospitable-delisted]] were being sorted according to the album rerelease in 2021, rather than the original track releases in 2017)
+    - fixed sidebar of [[album:unreleased-tracks]] all being one color, instead of applying distinguishing colors for each track group (thanks, foreverFlummoxed!)
+    - fixed a few dates at the end of the changelog being formatted inconsistently with the rest of the wiki
+
     <h2 id="16-mar-2021"><a href="#16-mar-2021">[[date:16 March 2021]] - "random" link fixes</a></h2>
     <h3>bug fixes</h3>
     - fixed "random" links (e.g. on album pages and [[listing:random|Random Pages]] listing) redirecting to "undefined" URLs instead of the appropriate type directory (track, group, etc)
