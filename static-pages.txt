@@ -73,6 +73,10 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="17-apr-2021"><a href="#17-apr-2021">[[date:17 April 2021]] - album links on tag pages fix</a></h2>
+    <h3>bug fixes</h3>
+    - fixed links to album cover art featuring characters on tag pages being broken (thanks, Megatti!)
+
     <h2 id="12-apr-2021" class="major-release"><a href="#12-apr-2021">[[date:12 April 2021]] - solo albums aplenty</a></h2>
     (news entry: [[news-entry:solo-albums-aplenty]])
     <h3>site changes</h3>
