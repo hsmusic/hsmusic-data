@@ -73,6 +73,33 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="12-may-2021" class="major-release"><a href="#12-may-2021">[[date:12 May 2021]] - NAME</a></h2>
+    <h3>data changes</h3>
+    - art tag fixes from LowDeath675 in a whole host of albums:
+        - [[album:alternia]] ([[track:walls-covered-in-blood]])
+        - [[album:ancestral]] ([[track:signless-protection-squad]])
+        - [[album:beyond-canon]] ([[track:crystal-hung-in-firmaments-descent]])
+        - [[album:coloUrs-and-mayhem-universe-a]] ([[track:jade-sylph]], [[track:violet-prince]], [[track:nine-lives-one-love]])
+        - [[album:coloUrs-and-mayhem-universe-b]] ([[track:cyan-beast]], [[track:battle-brotocol]], [[track:rustless-fall]])
+        - [[album:genesis-frog]] (album art, [[track:our-glorious-speaker]], [[track:prospitian-folklore]], [[track:consorts-intermezzo]], [[track:frogs-intermezzo]])
+        - [[album:homestuck-vol-5]] (album art, [[track:clockwork-melody]], [[track:octoroon-rangoon]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:ectobiology]], [[track:homestuck]])
+        - [[album:homestuck-vol-7]] ([[track:terezi-owns]], [[track:trial-and-execution]], [[track:play-the-wind]])
+        - [[album:homestuck-vol-8]] ([[track:terraform]], [[track:arcade-thunder]])
+        - [[album:homestuck-vol-9]] ([[track:anbroids-v2]], [[track:trepidation]], [[track:despot]], [[track:negative-aperture]], [[track:stargaze]])
+        - [[album:homestuck-vol-10]] ([[track:skaian-happy-flight]])
+        - [[album:lofam2]] ([[track:embittered-shore]], [[track:ugly-story]])
+        - [[album:lofam3]] ([[track:medium]], [[track:courtroom-shuffle]], [[track:retrobution-ohgodwhy-remix]], [[track:insomniac]])
+        - [[album:lofam4]] ([[track:scales]], [[track:altitude]], [[track:aura-of-colour]], [[track:thyme-on-my-fries]], [[track:collision-course-davepetas-movement]], [[track:skaian-rebirth]])
+        - [[album:prospit-and-derse]] ([[track:darkened-streets]])
+        - [[album:rust-apocalypse]] (album art)
+        - [[album:the-wanderers]] ([[track:ruins-rising]])
+        - [[album:vaporwave-2016]] (album art)
+        - reference fixes in [[track:beforus]] and [[track:forest-fire]] too!
+    - and from foreverFlummoxed as well:
+        - [[album:beforus]] ([[track:disc2-beforus]], [[track:times-apostate]], [[track:antevorta]], [[track:with-the-fishes]], [[track:timeout]], [[track:voided]], [[track:the-light-forms-us]], [[track:motions-of-infinity]])
+        - typo fixes in [[track:funeral-march-of-the-avenging-dead]] commentary too!
+    - plus art tags for [[album:mobius-trip-and-hadron-kaleido]]
+
     <h2 id="17-apr-2021"><a href="#17-apr-2021">[[date:17 April 2021]] - album links on tag pages fix</a></h2>
     <h3>bug fixes</h3>
     - fixed links to album cover art featuring characters on tag pages being broken (thanks, Megatti!)
