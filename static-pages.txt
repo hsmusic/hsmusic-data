@@ -74,6 +74,25 @@ Style:
     }
 Content:
     <h2 id="12-may-2021" class="major-release"><a href="#12-may-2021">[[date:12 May 2021]] - NAME</a></h2>
+    <h3>site changes</h3>
+    - a whole variety of updates and improvements to album sidebars:
+        - got rid of the right-hand sidebar, as it was taking up considerable horizontal space; with the new free space, album and track art is featured at a much larger size, as originally intended (same for lyrics, commentary, etc!)
+        - moved the group boxes that were on the right into the left-sidebar, above the track list on album pages and in a newly compressed view beneath the track list on track pages
+        - made the track group headings collapsible/openable ("accordion" layout using <code>&lt;details&gt;</code> elements), so any track can easily be visited from any other track in the same album
+        - made track groups default to all collapsed on the album page, since a view of all the track groups in full is visible in the main content area (as before), and the collapsed overview makes it easier to quickly jump to tracks in any section
+        - much thanks to Niklink, for the general proposal of making more room for album art as well as miscellaneous feedback, and megatti, for suggesting the combined group view on track pages!
+    - banner dimensions are now specified in album data files and included as part of HTML, keeping the layout on album pages with banners from flickering or shifting on slower connections
+    - a bunch more internal changes:
+        - began breaking the colossal single source file for the entire site build process into a number of more focused modules, making the codebase as a whole easier to work with; more work to be done here in the future
+        - rewrote the entire inline parser and transformer for all text content on the site, using a new manual parsing method (rather than pure regexes) which supports nested tags but is still just as performant operating on huge amounts of data
+            - this will basically enable support for more complex templating down the line, as well as accessing localization strings inside of content areas (like static pages, album commentary, artist contributions, and more)
+        - JSON data files are now generated for albums and artists as well, although these aren't used anywhere on the site yet, and the data format is subject to change with more brainstorming
+    <h3>albums</h3>
+    - the new [[album:psycholonials]] full album release, as well as the new EPs leading up to it: [[album:psycholonials-ep-8]] and [[album:psycholonials-ep-9]]
+    - since-unlisted albums from [[group:clark-powell]], as the original releases for music from [[album:psycholonials]]:
+        - [[album:we-are-all-satellites]]
+        - [[album:namesake]]
+        - [[album:someday]]
     <h3>data changes</h3>
     - added artist commentary for [[album:alternia]], transcribed from album-release commentary booklet
     - fixed commentary not showing up at all in [[track:megadancevania]]
@@ -108,7 +127,7 @@ Content:
         - typo fixes in [[track:funeral-march-of-the-avenging-dead]] commentary too!
     - plus art tags for [[album:mobius-trip-and-hadron-kaleido]]
     - added [[track:say-i-gotta-believe]] to references for [[track:gamebro-original-1990-mix]]
-        - credits to niklink for noticing makin for noticing someone else noticing
+        - credits to niklink for noticing makin for noticing someone else noticing this
 
     <h2 id="17-apr-2021"><a href="#17-apr-2021">[[date:17 April 2021]] - album links on tag pages fix</a></h2>
     <h3>bug fixes</h3>
@@ -133,7 +152,7 @@ Content:
         - implemented the basic design and functionality for info (hover) cards, which are functional but not quite complete and will show up in a release soon
             - you can try them out by setting <code>localStorage.tryInfoCards = true</code> in your browser console!
             - only implemented for tracks so far; make use of the data files described above
-    <b>albums</b>
+    <h3>albums</h3>
     - another lovely selection of albums, all from solo artists, summarized below
     - from [[group:cristata]]:
         - [[album:are-you-lost]]
