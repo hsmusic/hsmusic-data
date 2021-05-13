@@ -73,8 +73,36 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
-    <h2 id="12-may-2021" class="major-release"><a href="#12-may-2021">[[date:12 May 2021]] - NAME</a></h2>
+    <h2 id="12-may-2021" class="major-release"><a href="#12-may-2021">[[date:12 May 2021]] - the my ex-wife is a real bitch update</a></h2>
+    <h3>site changes</h3>
+    - a whole variety of updates and improvements to album sidebars:
+        - got rid of the right-hand sidebar, as it was taking up considerable horizontal space; with the new free space, album and track art is featured at a much larger size, as originally intended (same for lyrics, commentary, etc!)
+        - moved the group boxes that were on the right into the left-sidebar, above the track list on album pages and in a newly compressed view beneath the track list on track pages
+        - made the track group headings collapsible/openable ("accordion" layout using <code>&lt;details&gt;</code> elements), so any track can easily be visited from any other track in the same album
+        - made track groups default to all collapsed on the album page, since a view of all the track groups in full is visible in the main content area (as before), and the collapsed overview makes it easier to quickly jump to tracks in any section
+        - much thanks to Niklink, for the general proposal of making more room for album art as well as miscellaneous feedback, and megatti, for suggesting the combined group view on track pages!
+    - banner dimensions are now specified in album data files and included as part of HTML, keeping the layout on album pages with banners from flickering or shifting on slower connections
+    - a bunch more internal changes:
+        - began breaking the colossal single source file for the entire site build process into a number of more focused modules, making the codebase as a whole easier to work with; more work to be done here in the future
+        - rewrote the entire inline parser and transformer for all text content on the site, using a new manual parsing method (rather than pure regexes) which supports nested tags but is still just as performant operating on huge amounts of data
+            - this will basically enable support for more complex templating down the line, as well as accessing localization strings inside of content areas (like static pages, album commentary, artist contributions, and more)
+        - JSON data files are now generated for albums and artists as well, although these aren't used anywhere on the site yet, and the data format is subject to change with more brainstorming
+    <h3>albums</h3>
+    - the new [[album:psycholonials]] full album release, as well as the new EPs leading up to it: [[album:psycholonials-ep-8]] and [[album:psycholonials-ep-9]]
+    - since-unlisted albums from [[group:clark-powell]], as the original releases for music from [[album:psycholonials]]:
+        - [[album:we-are-all-satellites]]
+        - [[album:namesake]]
+        - [[album:someday]]
+    - also, [[album:entertaining-sound]] by [[artist:jan-misali]]
     <h3>data changes</h3>
+    - added artist commentary for [[album:alternia]], transcribed from album-release commentary booklet
+    - fixed commentary not showing up at all in [[track:megadancevania]]
+    - banner refinements and updates from Niklink across many albums:
+        - better upscale: [[album:homestuck-vol-5]], [[album:homestuck-vol-6]], [[album:homestuck-vol-7]], [[album:homestuck-vol-8]], [[album:homestuck-vol-9]], [[album:symphony-impossible-to-play]], [[album:one-year-older]], [[album:genesis-frog]], [[album:cherubim]], [[album:tomb-of-the-ancestors]], [[album:sburb-ost]], [[album:lofam2]], [[album:lofam3]], [[album:beforus]], [[album:weird-puzzle-tunes]], [[album:ancestral]], [[album:lofam4]], [[album:xenoplanetarium]], [[album:moons-of-theseus]]
+        - extend background horizontally: [[album:gristmas-carols]], [[album:cosmic-caretakers]], [[album:diverging-delicacies]], [[album:friendsymphony]], [[album:shortcuts]], [[album:p-s]]
+        - reconstruct: [[album:alterniabound]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:psycholonials]] (and EPs)
+        - draw more background: [[album:lofam]], [[album:jailbreak]], [[album:ancestral]]
+        - font reconstruction: [[album:homestuck-vol-5]], [[album:homestuck-vol-6]]
     - art tag fixes from LowDeath675 in a whole host of albums:
         - [[album:alternia]] ([[track:walls-covered-in-blood]])
         - [[album:ancestral]] ([[track:signless-protection-squad]])
@@ -86,7 +114,6 @@ Content:
         - [[album:homestuck-vol-7]] ([[track:terezi-owns]], [[track:trial-and-execution]], [[track:play-the-wind]])
         - [[album:homestuck-vol-8]] ([[track:terraform]], [[track:arcade-thunder]])
         - [[album:homestuck-vol-9]] ([[track:anbroids-v2]], [[track:trepidation]], [[track:despot]], [[track:negative-aperture]], [[track:stargaze]])
-        - [[album:homestuck-vol-10]] ([[track:skaian-happy-flight]])
         - [[album:lofam2]] ([[track:embittered-shore]], [[track:ugly-story]])
         - [[album:lofam3]] ([[track:medium]], [[track:courtroom-shuffle]], [[track:retrobution-ohgodwhy-remix]], [[track:insomniac]])
         - [[album:lofam4]] ([[track:scales]], [[track:altitude]], [[track:aura-of-colour]], [[track:thyme-on-my-fries]], [[track:collision-course-davepetas-movement]], [[track:skaian-rebirth]])
@@ -94,11 +121,15 @@ Content:
         - [[album:rust-apocalypse]] (album art)
         - [[album:the-wanderers]] ([[track:ruins-rising]])
         - [[album:vaporwave-2016]] (album art)
-        - reference fixes in [[track:beforus]] and [[track:forest-fire]] too!
-    - and from foreverFlummoxed as well:
+        - plus, reference fixes in [[track:beforus]], [[track:forest-fire]], [[track:daywalker-rise]], [[track:upward-meowvement-davepetasprite2-owns]], and [[track:requited-dirtiest-remix]]...
+        - as well as typo fixes in [[track:the-land-of-wind-and-shade]], [[track:vigilante-cornered]], [[track:atomik-meltdown]], [[track:starkind]], [[track:vigilante]], [[track:the-drawing-of-the-four]], [[track:reconciled]], [[track:emerald-cinders]], [[track:prospitian-monody]], [[track:ultimate-alchemy]], [[track:exsanguinated]], [[track:premortem]], and [[track:revisit-rewind]] commentary too!
+    - art tag fixes from foreverFlummoxed as well:
         - [[album:beforus]] ([[track:disc2-beforus]], [[track:times-apostate]], [[track:antevorta]], [[track:with-the-fishes]], [[track:timeout]], [[track:voided]], [[track:the-light-forms-us]], [[track:motions-of-infinity]])
         - typo fixes in [[track:funeral-march-of-the-avenging-dead]] commentary too!
     - plus art tags for [[album:mobius-trip-and-hadron-kaleido]]
+    - added [[track:say-i-gotta-believe]] to reference list for [[track:gamebro-original-1990-mix]]
+        - credits to niklink for noticing makin for noticing someone else noticing this
+    - added [[track:showtime-original-mix]] and [[track:the-beginning-of-something-really-excellent]] to reference list for [[track:confrontation]] (thanks, Mixolydian!)
 
     <h2 id="17-apr-2021"><a href="#17-apr-2021">[[date:17 April 2021]] - album links on tag pages fix</a></h2>
     <h3>bug fixes</h3>
@@ -123,7 +154,7 @@ Content:
         - implemented the basic design and functionality for info (hover) cards, which are functional but not quite complete and will show up in a release soon
             - you can try them out by setting <code>localStorage.tryInfoCards = true</code> in your browser console!
             - only implemented for tracks so far; make use of the data files described above
-    <b>albums</b>
+    <h3>albums</h3>
     - another lovely selection of albums, all from solo artists, summarized below
     - from [[group:cristata]]:
         - [[album:are-you-lost]]

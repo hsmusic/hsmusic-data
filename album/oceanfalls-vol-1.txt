@@ -3,6 +3,10 @@ Artist: nights
 Cover Art: nights
 Track Art: nights
 Banner Art: nights
+Banner Dimensions: 975x180
+Banner Style:
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Date: May 17, 2017
 Date Added: January 12, 2021
 Color: #f5d906
