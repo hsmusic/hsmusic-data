@@ -73,6 +73,21 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="13-may-2021"><a href="#13-may-2021">[[date:13 May 2021]] - tMEWIARBu next-day patch</a></h2>
+    <h3>site changes</h3>
+    - made the primary color of a page "bleed" into its backdrop area, subtly tinting pages across the site
+    - removed the <code>backdrop-filter</code> CSS effect, which previously would the wallpaper behind the page container to create a "glossy glass" effect, but isn't suported consistently across browsers yet
+    <h3>data changes</h3>
+    - grouped the tracks in [[album:diverging-delicacies]] according to the corresponding portion of the homestuck epilogues (thanks, Niklink and FF!)
+    - added a Color tag to [[album:the-baby-is-you]], so links to it don't just inherit the color of the containing page (e.g. track reference in [[track:the-bad-time-is-you]] previously looking green; thanks, Low!)
+    - added soundcloud links for [[track:star-i-never-caught]], [[track:someday]], and [[track:harrigan]] (thanks, FF!)
+    - data fixes/tweaks throughout [[album:entertaining-sound]]:
+        - [[track:2016-but-all-the-best-memes-happen-at-the-same-time]] references [[track:good-night-undertale]] (not [[track:good-night]]) and [[track:snow-halation-love-live]] (not [[track:snow-halation]])
+        - [[track:oh-2017]] references [[track:woah]]
+        - added [[track:sweet-victory]] as the track referenced (i.e. featured) in [[track:what-year-is-it]]
+        - added bandcamp links to all referenced [[artist:silvagunner]] tracks
+        - ty nata for reference fixes and leo for bandcamp links!
+
     <h2 id="12-may-2021" class="major-release"><a href="#12-may-2021">[[date:12 May 2021]] - the my ex-wife is a real bitch update</a></h2>
     <h3>site changes</h3>
     - a whole variety of updates and improvements to album sidebars:
