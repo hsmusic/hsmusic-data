@@ -73,6 +73,35 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="12-jun-2021"><a href="#12-jun-2021">[[date:12 June 2021]] - June Attuned</a></h2>
+    <h3>site changes</h3>
+    - updated CSS styling code to improve site layout on mobile devices
+        - album/track cover art now displays at full width on thin screens, placing main page content beneath (with wider text area)
+        - nav bar now displays as a single column of info rows on thin screens, rather than attempting to show track name and artist chronology links side-by-side
+        - general CSS fixes should help with layout bugs
+    <h3>album pages</h3>
+    - added fallback "Track list" track group when an album isn't divided into groups, ensuring the sidebar track list always defaults to collapsed
+    <h3>group pages</h3>
+    - added "from (group)" accent text on group info page next to albums which are part of more than one group
+    - made sections of group page sidebar collapsible/expandable (like album sidebar)
+    <h3>tag pages</h3>
+    - made cover arts sort by reverse chronological order, placing recent releases near the top
+    <h3>internal changes</h3>
+    - divided much of 6000-line site generation file <code>upd8.js</code> into a number of smaller, better-organized files
+    - separated each page generation function into its own module, reducing redundant maintenance, supporting future uses of these modules, and making the codebase a lot easier to navigate and build upon
+    - begun work on experimental "Thing" class-based (OOP) objects, aiming for better interfacing with objects and to support neat extensible ways of working with objects, data loading, and page generation in the future
+    <h3>data changes</h3>
+    - added new [[group:beyond]] group, and moved many groups previously categorized under [[group:fandom]] here
+        - more general group for musical expanse beyond Homestuck official and fandom discographies
+    - reference and data fixes, courtesy of Niklink:
+        - new track [[track:floweys-laugh]], referenced by [[track:the-lordling]], [[track:your-best-nightmare]], and [[track:a-very-trickster-mode-christmas-with-fancy-santas]]
+        - [[track:nic-cage-romance]] references [[track:how-do-i-live]]
+        - [[track:kazoostuck]] references [[track:homestuck]]
+        - [[track:a-very-trickster-mode-christmas]] references [[track:the-one-horse-open-sleigh]]
+        - added wallpaper art to [[album:someday]]
+    - [[track:pony-chorale]] now credits [[artist:tavia-morra]] for vocals (thanks, GiovanH!)
+    - [[track:lori-and-erich-baker]] has updated name and listen link (thanks, nuclear333!)
+
     <h2 id="13-may-2021"><a href="#13-may-2021">[[date:13 May 2021]] - tMEWIARBu next-day patch</a></h2>
     <h3>site changes</h3>
     - made the primary color of a page "bleed" into its backdrop area, subtly tinting pages across the site

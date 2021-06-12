@@ -1,3 +1,29 @@
+Name: June Attuned
+Date: June 12, 2021
+Directory: june-attuned
+Body:
+    <i></i>
+    Hello! As is regular now, we've an update short yet sweet to share today. Following personal direction in a hobby project, most wiki work has been put into internal restructuring, though in revisiting each page, we've written a few UI refinements too. Details, as ever, past the split!
+    <hr class="split">
+    <i>As ever, thank you to everyone who sent feedback and kind messages during development! We're also very grateful for all [[static:donate|supporters of the wiki]], including: enchantingHunter, <span style="color: #f1c40f">Gradis</span>, and Nights!</i>
+    As mentioned in the summary, I've been following my own interests in wiki development, so a good deal of the work done this month was on further internal restructuring. For the most part, it's been a big refactor! The focus this month was to break up the giant file responsible for all site generation, <code>upd8.js</code>, into more easily navigable modules and utility files. Though work on that isn't quite complete yet, the progress shows: what was previously just short of 7000 lines of code within a single file has been cut down and sorted away to only 3000 now!
+    (If you're curious, page generation info and templates are all contained within the new <a href="https://git.ed1.club/nebula/hsmusic-wiki/tree/src/page?h=staging&id=ffb9bfd2a8c33f25a19b3b74f1204a5fad575108">src/page</a> directory. The hope is that these modules will be a lot easier to write, maintain, and understand, even for anyone unfamiliar with the wiki codebase!)
+    Of course, while revisiting each page and tweaking generation code all across the site, a few visitor-visible refinements have been worked in, too:
+    - For group pages, we've made the sidebar sections collapsible, just like on album pages! Only the category you're presently perusing is expanded by default; this should make the list more focused, and welcome wandering at your own pace.
+    - Also for groups, exclusive to the Info page, a new "from (other group)" accent has been added. For albums which show in more than a single group, this will show the other most primary: for example, on the [[group:fandom]] info page, each album shows where it was released, such as [[group:unofficial-mspa-fans]] next to [[album:ancestral]], and [[group:cristata]] next to [[album:perfectly-generic-album]].
+    - On tag pages, we've flipped around the entry order; it's now sorted reverse-chronologically, meaning the most recent releases show right at the start. New appearances will be noticed right away!
+    - And for the sidebar of album and track pages, we've made sure the list is always collapsible by showing a faux "Track list" section on albums where the tracks weren't manually grouped. The sidebar listing should no longer be a distraction!
+    Plus, while we haven't added any new albums this update, we've started a new album group titled [[group:beyond]], into which we've moved a bunch of releases taking previous stay under [[group:fandom]]. (Thanks a bunch to the Discord community for helping brainstorm this!) Alongside this are a few new groups for solo artists we'd missed before: [[group:nasqueron]], [[group:tensei]], and [[group:toby-fox]].
+    Last of all, a number of data fixes have been brought from the wiki community! Find details on these, as usual, [[static:changelog#12-jun-2021|in the changelog]].
+    <hr>
+    A quick meta-note on the direction of wiki development: with the last few updates, we've been taking wiki work a bit more easily. (See [[news-entry:the-my-ex-wife-is-a-real-bitch-update|last month's update entry]], and the Discord announcement in April, for more info on our rationale here!) New to note, though, is that we've started our own search in job-hunting; that's an arduous process all its own, so energy for programming and data entry is a tad sapped. We still plan on periodic updates by the month, though their scale will likely be comparable to this release.
+    We've talked about this a good deal in the server, and we're really thankful to feel comfortable trusting you all, the community you've built around the wiki, to understand! It's genuinely an honor to have a kind audience for what's really still our personal hobby at the end of the day, even as we inevitably put more into work and other life focus.
+    So, as ever, thank you for the support and feedback! Besides the Discord, [[static:feedback|our usual channels remain open]], so you're much welcomed to share any comments or feedback for the coming releases. Thank you!
+    <i>~ Quasar Nebula</i>
+    <hr>
+    PS: Happy birthday, Karkat! <code style="color: #26baba">&gt;:]</code>
+
+-------------------------------------------------------------------------------
 Name: the my ex-wife is a real bitch update
 Date: May 12, 2021
 Directory: the-my-ex-wife-is-a-real-bitch-update
