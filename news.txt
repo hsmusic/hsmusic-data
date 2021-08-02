@@ -1,3 +1,55 @@
+Name: Wiki Finalization
+Date: July 7, 2021
+Directory: wiki-finalization
+Body:
+    Thank you to everyone who's supported the wiki, offered feedback, sent kind messages, and visited the wiki.
+    (This is a repost of a post we published earlier this month on Patreon, with a couple added notes.)
+    <hr class="split">
+    > Hey all,
+    > Just a short update here! I haven't had much time or energy to work on the music wiki within the last few weeks (up to a couple months or so), and I don't want to take folk's dollars for a project which is little more than dormant. So, I'm shutting this Patreon page down; I'll unlaunch the page next month, and have billing paused meanwhile (so that everyone has a chance to catch this notice and find out what's up).
+    > I'm undecided on the immediate future of the wiki, but it's still a project really truly dear to me, and the community around it probably even moreso. The community Discord server will stick around, most certainly—even if development were to come to a halt, I think it's fairly obvious to anyone in the space that shutting it down would be snuffing something good for no reason at all.
+    > I also don't yet have concrete plans to altogether abandon wiki development or maintenance. However, as I mentioned, my own time and energy for the project have been lacking; I've felt a building sense of moving on towards other projects and experiences, parallel with having recently finished school and now beginning work. As long as there's <i>something</i> new to share, which there so far has always been, I think I'll continue the monthly updates; detailed news entries and expansive and focused updates alike are all likely a part of the past now, though.
+    > I want to give deeply gracious thanks to everyone for all the support over the last year and a half (and then some), whether you've been a patron or offered suggestions, feedback, data fixes and additions, translation work, server assistance, and even simply—<i>especially</i>—kind comments and messages. You all really mean the world to me!
+    > I know this entry is a little somber, but it's something I've been working up to for a while. I figure it's best to share an official update on where the wiki's at, rather than leave everyone guessing in the dark (and probably seeing most of this coming all the same).
+    > 1. This Patreon is shutting down (billing paused this month, page to be unlaunched some time in July).
+    > 2. Releases will probably remain monthly but aren't likely to carry more than a trace or two new features (with comparatively briefer news entries to match).
+    > 3. I'm not going to shut down the Discord, of course! I don't want to just snuff the community here for no reason.
+    > Thank you for the read, and for everything, across all this time.
+    > ~QN
+    > &lt;3
+    <hr>
+    The above post was originally dated July 1st, 2021, at 12:03 AM (Atlantic time). Since then, we've made the decision to declare the wiki essentially finalized in its current state, as we move on and spend more time just living life, with less internet presence and self-imposed obligations. (This means the parts in the original post about further releases are for the most part moot.)
+    The Discord will still stay up; though we won't be further developing or adding to the wiki any in significant manner, feel free, if you like, to chat with the community there!
+    (NB: While we won't be adding more music to the wiki, data fixes for existing albums and other pages are still welcome. (There were a few [[static:changelog#7-jul-2021|with this release]]!) Changes of artist names/pronouns/etc across the wiki will also be welcomed for as long as the wiki's online (i.e. basically forever), of course!)
+    Thank you again, everyone, for everything you've so generously shared over the last year-and-some. &lt;3
+    <i>~ Quasar Nebula</i>
+
+-------------------------------------------------------------------------------
+Name: June Attuned
+Date: June 12, 2021
+Directory: june-attuned
+Body:
+    Hello! As is regular now, we've an update short yet sweet to share today. Following personal direction in a hobby project, most wiki work has been put into internal restructuring, though in revisiting each page, we've written a few UI refinements too. Details, as ever, past the split!
+    <hr class="split">
+    <i>As ever, thank you to everyone who sent feedback and kind messages during development! We're also very grateful for all [[static:donate|supporters of the wiki]], including: enchantingHunter, <span style="color: #f1c40f">Gradis</span>, and Nights!</i>
+    As mentioned in the summary, I've been following my own interests in wiki development, so a good deal of the work done this month was on further internal restructuring. For the most part, it's been a big refactor! The focus this month was to break up the giant file responsible for all site generation, <code>upd8.js</code>, into more easily navigable modules and utility files. Though work on that isn't quite complete yet, the progress shows: what was previously just short of 7000 lines of code within a single file has been cut down and sorted away to only 3000 now!
+    (If you're curious, page generation info and templates are all contained within the new <a href="https://git.ed1.club/nebula/hsmusic-wiki/tree/src/page?h=staging&id=ffb9bfd2a8c33f25a19b3b74f1204a5fad575108">src/page</a> directory. The hope is that these modules will be a lot easier to write, maintain, and understand, even for anyone unfamiliar with the wiki codebase!)
+    Of course, while revisiting each page and tweaking generation code all across the site, a few visitor-visible refinements have been worked in, too:
+    - For group pages, we've made the sidebar sections collapsible, just like on album pages! Only the category you're presently perusing is expanded by default; this should make the list more focused, and welcome wandering at your own pace.
+    - Also for groups, exclusive to the Info page, a new "from (other group)" accent has been added. For albums which show in more than a single group, this will show the other most primary: for example, on the [[group:fandom]] info page, each album shows where it was released, such as [[group:unofficial-mspa-fans]] next to [[album:ancestral]], and [[group:cristata]] next to [[album:perfectly-generic-album]].
+    - On tag pages, we've flipped around the entry order; it's now sorted reverse-chronologically, meaning the most recent releases show right at the start. New appearances will be noticed right away!
+    - And for the sidebar of album and track pages, we've made sure the list is always collapsible by showing a faux "Track list" section on albums where the tracks weren't manually grouped. The sidebar listing should no longer be a distraction!
+    Plus, while we haven't added any new albums this update, we've started a new album group titled [[group:beyond]], into which we've moved a bunch of releases taking previous stay under [[group:fandom]]. (Thanks a bunch to the Discord community for helping brainstorm this!) Alongside this are a few new groups for solo artists we'd missed before: [[group:nasqueron]], [[group:tensei]], and [[group:toby-fox]].
+    Last of all, a number of data fixes have been brought from the wiki community! Find details on these, as usual, [[static:changelog#12-jun-2021|in the changelog]].
+    <hr>
+    A quick meta-note on the direction of wiki development: with the last few updates, we've been taking wiki work a bit more easily. (See [[news-entry:the-my-ex-wife-is-a-real-bitch-update|last month's update entry]], and the Discord announcement in April, for more info on our rationale here!) New to note, though, is that we've started our own search in job-hunting; that's an arduous process all its own, so energy for programming and data entry is a tad sapped. We still plan on periodic updates by the month, though their scale will likely be comparable to this release.
+    We've talked about this a good deal in the server, and we're really thankful to feel comfortable trusting you all, the community you've built around the wiki, to understand! It's genuinely an honor to have a kind audience for what's really still our personal hobby at the end of the day, even as we inevitably put more into work and other life focus.
+    So, as ever, thank you for the support and feedback! Besides the Discord, [[static:feedback|our usual channels remain open]], so you're much welcomed to share any comments or feedback for the coming releases. Thank you!
+    <i>~ Quasar Nebula</i>
+    <hr>
+    PS: Happy birthday, Karkat! <code style="color: #26baba">&gt;:]</code>
+
+-------------------------------------------------------------------------------
 Name: the my ex-wife is a real bitch update
 Date: May 12, 2021
 Directory: the-my-ex-wife-is-a-real-bitch-update

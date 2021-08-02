@@ -33,7 +33,7 @@ Content:
     - Thanks for pointing out typos, errors in reference lists, and out of date details: cookiefonster, foreverFlummoxed, an emailer, Bambosh, and Niklink.
     <i>Supporter &amp; Patron Thank-yous</i>
     <b>Thank you</b> to all present and past [[static:donate|supporters]] of the wiki, including:
-    - Nights, enchantingHunter, and leo homestuck.
+    - Nights, enchantingHunter, leo homestuck, and Gradis.
 -------------------------------------------------------------------------------
 Name: Feedback &amp; Suggestions
 Directory: feedback
@@ -73,6 +73,66 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="2-aug-2021"><a href="#2-aug-2021">[[date:2 August 2021]]</a></h2>
+    <h3>data changes</h3>
+    - made "reasonpeason" an alias for [[artist:rebecca-peason]], updating art credits for [[track:chaotic-strength]] and [[track:science-seahorse]]
+    - added [[track:black-rose-green-sun]] to the reference list of [[track:orchid-horror]] (thanks, Low!)
+    <h3>bug fixes</h3>
+    - fixed artist pages and chronology links always ordering artworks by a track's release date rather than accounting for later art additions (e.g. anthology projects for [[album:homestuck-vol-5]], [[album:alterniabound]], [[album:beyond-canon]])
+
+    <h2 id="24-jul-2021"><a href="#24-jul-2021">[[date:24 July 2021]]</a></h2>
+    <h3>data changes</h3>
+    - per guidance from the artist, removed listen links from [[album:perfectly-generic-album]] and [[album:perfectly-generic-object]], which are now going offline-only
+
+    <h2 id="18-jul-2021"><a href="#18-jul-2021">[[date:18 July 2021]]</a></h2>
+    <h3>data changes</h3>
+    - better quality cover art for [[album:sburb]], from <a href="https://jamesdever.bandcamp.com/album/sburb">its more recent independent release</a> (thanks, FF!)
+
+    <h2 id="16-jul-2021"><a href="#16-jul-2021">[[date:16 July 2021]]</a></h2>
+    <h3>data changes</h3>
+    - added blood CW tag to [[track:eternity-served-cold]] (thanks, leo!)
+    - added [[track:sburban-jungle]] to reference list of [[track:void-session]] (thanks, Niklink!)
+
+    <h2 id="7-jul-2021"><a href="#7-jul-2021">[[date:7 July 2021]] - Wiki Finalization</a></h2>
+    (news entry: [[news-entry:wiki-finalization]])
+    <h3>site changes</h3>
+    - adjusted phrasing on footer and homepage rows to better reflect the wiki in its essentially finalized state
+    <h3>data changes</h3>
+    - added art tags across [[album:moons-of-theseus]] (thanks, Low!)
+    - fixed various typos throughout [[album:cosmic-caretakers]] (thanks, megatti!)
+    - added [[track:dungeon-theme-zelda1]] to reference list of [[track:an-ascii-image-of-bowsette]] (thanks, Makin!)
+    - updated description for [[group:inhospitable]] (thanks, nuclear333!)
+
+    <h2 id="12-jun-2021"><a href="#12-jun-2021">[[date:12 June 2021]] - June Attuned</a></h2>
+    (news entry: [[news-entry:june-attuned]])
+    <h3>site changes</h3>
+    - updated CSS styling code to improve site layout on mobile devices
+        - album/track cover art now displays at full width on thin screens, placing main page content beneath (with wider text area)
+        - nav bar now displays as a single column of info rows on thin screens, rather than attempting to show track name and artist chronology links side-by-side
+        - general CSS fixes should help with layout bugs
+    <h3>album pages</h3>
+    - added fallback "Track list" track group when an album isn't divided into groups, ensuring the sidebar track list always defaults to collapsed
+    <h3>group pages</h3>
+    - added "from (group)" accent text on group info page next to albums which are part of more than one group
+    - made sections of group page sidebar collapsible/expandable (like album sidebar)
+    <h3>tag pages</h3>
+    - made cover arts sort by reverse chronological order, placing recent releases near the top
+    <h3>internal changes</h3>
+    - divided much of 6000-line site generation file <code>upd8.js</code> into a number of smaller, better-organized files
+    - separated each page generation function into its own module, reducing redundant maintenance, supporting future uses of these modules, and making the codebase a lot easier to navigate and build upon
+    - begun work on experimental "Thing" class-based (OOP) objects, aiming for better interfacing with objects and to support neat extensible ways of working with objects, data loading, and page generation in the future
+    <h3>data changes</h3>
+    - added new [[group:beyond]] group, and moved many groups previously categorized under [[group:fandom]] here
+        - more general group for musical expanse beyond Homestuck official and fandom discographies
+    - reference and data fixes, courtesy of Niklink:
+        - new track [[track:floweys-laugh]], referenced by [[track:the-lordling]], [[track:your-best-nightmare]], and [[track:a-very-trickster-mode-christmas-with-fancy-santas]]
+        - [[track:nic-cage-romance]] references [[track:how-do-i-live]]
+        - [[track:kazoostuck]] references [[track:homestuck]]
+        - [[track:a-very-trickster-mode-christmas]] references [[track:the-one-horse-open-sleigh]]
+        - added wallpaper art to [[album:someday]]
+    - [[track:pony-chorale]] now credits [[artist:tavia-morra]] for vocals (thanks, GiovanH!)
+    - [[track:lori-and-erich-baker]] has updated name and listen link (thanks, nuclear333!)
+
     <h2 id="13-may-2021"><a href="#13-may-2021">[[date:13 May 2021]] - tMEWIARBu next-day patch</a></h2>
     <h3>site changes</h3>
     - made the primary color of a page "bleed" into its backdrop area, subtly tinting pages across the site
@@ -89,6 +149,7 @@ Content:
         - ty nata for reference fixes and leo for bandcamp links!
 
     <h2 id="12-may-2021" class="major-release"><a href="#12-may-2021">[[date:12 May 2021]] - the my ex-wife is a real bitch update</a></h2>
+    (news entry: [[news-entry:the-my-ex-wife-is-a-real-bitch-update]])
     <h3>site changes</h3>
     - a whole variety of updates and improvements to album sidebars:
         - got rid of the right-hand sidebar, as it was taking up considerable horizontal space; with the new free space, album and track art is featured at a much larger size, as originally intended (same for lyrics, commentary, etc!)
@@ -911,11 +972,11 @@ Content:
 Name: Donate
 Directory: donate
 Content:
-    Thank you! There are two places you can support HSMusic:
-    - <a href="https://www.patreon.com/qznebula">Patreon</a>, which should be straightforward to use if you've already set up an account.
-    - <a href="https://liberapay.com/nebula">Liberapay</a>, which is a considerably more reliable platform than Patreon, but might take some setup to get working.
-    As thanks for your support present or past, we'll add your name to a thank-you list on [[static:about]], and feature the names of current supporters as part of each release's news entry. (As far as we know, Liberapay leaves supporters anonymous, so drop us a message if you donate there and would like to be credited!)
-    As additional acknowledgment for donating CA$5 or more a month, we have a shiny <i style="color: #f1c40f">Supporter</i> role on [[static:discord|the Discord server]]! Patreon should give this to you automatically... but it's still a little experimental, so let us know if it doesn't, or if you're donating from Liberapay.
+    Donations for the wiki are now closed. Thank you to everyone who donated over the course of wiki development, including:
+    - Nights
+    - enchantingHunter
+    - leo homestuck
+    - Gradis
 -------------------------------------------------------------------------------
 Name: HSMusic Community Discord Server
 Short Name: Discord
