@@ -7,11 +7,6 @@ Sidebar:
     <hr>
     [[news]]
 ------------------------------------------------------------------------------
-Row: New Additions
-Type: albums
-Group: new-additions
-Count: 6
-------------------------------------------------------------------------------
 Row: Fandom
 Type: albums
 Group: Fandom
@@ -19,7 +14,13 @@ Count: 6
 Albums: Unreleased Tracks
 Actions:
 - [[group-gallery:fandom|Explore Fandom!]]
-- [[static:feedback|Share an album!]]
+------------------------------------------------------------------------------
+Row: Beyond
+Type: albums
+Group: Beyond
+Count: 7
+Actions:
+- [[group-gallery:beyond|Explore Beyond!]]
 ------------------------------------------------------------------------------
 Row: Official
 Type: albums
