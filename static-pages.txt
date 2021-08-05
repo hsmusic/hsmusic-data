@@ -73,6 +73,14 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="5-aug-2021"><a href="#5-aug-2021">[[date:5 August 2021]]</a></h2>
+    <h3>data changes</h3>
+    - a bunch of tag fixes from Low (thank you!):
+        - added blood cw to [[track:pendulum]]
+        - added corpse cw and [[tag:horrorterrors]] tag to [[track:doctor-remix]]
+        - added corpse cw to [[track:underfoot]]
+        - added [[tag:karkat]] tag to [[track:stride]]
+
     <h2 id="2-aug-2021"><a href="#2-aug-2021">[[date:2 August 2021]]</a></h2>
     <h3>data changes</h3>
     - made "reasonpeason" an alias for [[artist:rebecca-peason]], updating art credits for [[track:chaotic-strength]] and [[track:science-seahorse]]
