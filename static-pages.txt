@@ -73,13 +73,38 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="10-aug-2021"><a href="#10-aug-2021">[[date:10 August 2021]]</a></h2>
+    <h3>data changes</h3>
+    - added missing (public!) bonus tracks from [[album:p-s]] (thanks, deesoff!):
+        - [[track:synchronize-instrumental]]
+        - [[track:myststuck-suite-full-version]]
+        - [[track:requiem-for-something-really-excellent-demo]]
+    - added a bunch more tags from Low (thanks again!):
+        - added new [[tag:scalemates]] tag to [[track:the-lemonsnout-turnabout]], [[track:teal-seer]], [[track:trollcops]], [[album:perfectly-generic-album]], and [[track:scales]]
+        - added new [[tag:cats]] tag to [[track:wisest-wizord]], [[track:pumpkin-party-in-sea-hitlers-water-apocalypse]], [[track:pink-cat]], [[track:vodka-mutiny]], and [[track:ectobiology]]
+        - added [[tag:aradia]], [[tag:john]], and [[tag:meenah]] tags to [[album:perfectly-generic-album]]
+        - added [[tag:the-disciple]] and [[tag:mindfang]] tags to [[track:lazutrix]]
+        - added [[tag:doc-scratch]] tag to [[track:disc3-ancestral]] (thanks, FF!)
+        - added [[tag:green-sun]] tag to [[track:black-rose-green-sun]], [[track:forest-fire]], [[track:crystalanachrony]], [[track:i-am-ascending-and-it-is-terrible]], [[track:strife-mayhem]], [[track:emerald-icarus]]
+        - added [[tag:horrorterrors]] tag to [[track:black-rose-green-sun]]
+        - added [[tag:jack-noir]] tag to [[track:moonsweater]]
+        - added [[tag:lil-cal]] tag to [[track:unlabeled]] and [[track:ectobiology]]
+        - added [[tag:pyralspite]] tag to [[track:teal-seer]] and [[track:disc3-ancestral]]
+        - swapped out [[tag:tavros]] tag for [[tag:rufioh]] in [[track:ghost-hole]]
+        - added cw animal death to [[track:death-of-the-lusii]]
+        - added blood cw to [[track:irradiated]], [[track:the-carnival]], [[track:trollian-standoff]], [[track:eternal-suffering]], [[track:subjugglation]], [[track:disc2-ancestral]], [[track:disc3-ancestral]], [[track:walls-covered-in-blood-dx]], [[track:a-rebels-requiem]]
+        - added blood (abstract) cw to [[track:nepetas-theme]] and [[track:fool]]
+        - added body horror cw to [[track:disc2-ancestral]]
+        - added corpse cw to [[track:corpse-casanova]], [[track:disc2-ancestral]], [[track:crockercorpse]], [[track:checkerboard-checkmate]], [[track:a-rebels-requiem]]
+        - swapped out blood (abstract) cw for blood in [[track:cardinal-movement]]
+
     <h2 id="5-aug-2021"><a href="#5-aug-2021">[[date:5 August 2021]]</a></h2>
     <h3>data changes</h3>
     - a bunch of tag fixes from Low (thank you!):
+        - added [[tag:karkat]] tag to [[track:stride]]
         - added blood cw to [[track:pendulum]]
         - added corpse cw and [[tag:horrorterrors]] tag to [[track:doctor-remix]]
         - added corpse cw to [[track:underfoot]]
-        - added [[tag:karkat]] tag to [[track:stride]]
 
     <h2 id="2-aug-2021"><a href="#2-aug-2021">[[date:2 August 2021]]</a></h2>
     <h3>data changes</h3>
