@@ -955,7 +955,7 @@ Artist: Toby Fox
 Duration: 1:05
 URLs:
 - https://www.youtube.com/watch?v=pTk4m0S63Sg
-- https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F517%20Hawkeye.mp3&mode=default
+- /media/misc/archive/Hawkeye.mp3
 -------------------------------------------------------------------------------
 Track: Heart Beat
 Artist: PotatoBoss
@@ -1100,7 +1100,7 @@ References:
 - Dance of Thorns
 - Harlequin
 - track:miracles-icp
-- Where Making This Hapen
+- Where making this hapen
 - Courser
 - Chalk Emerald
 - mIrAcLeS
@@ -1125,7 +1125,7 @@ URLs: https://actomega.bandcamp.com/track/sburban-resolution
 Track: Sea of Derse
 Artist: Erik Scheele
 Duration: 2:48
-URLs: https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F092%20Sea%20of%20Derse.mp3&mode=default
+URLs: /media/misc/archive/Sea%20of%20Derse.mp3
 -------------------------------------------------------------------------------
 Track: Seer of Same-Color Scalemate Combos
 Artist: Alex Rosetti
@@ -1137,7 +1137,7 @@ URLs:
 Track: Shooting Star
 Artist: Hilary Troiano
 Duration: 1:23
-URLs: https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F133%20Shooting%20Star.mp3&mode=default
+URLs: /media/misc/archive/Shooting%20Star.mp3
 -------------------------------------------------------------------------------
 Track: Shut Me Down
 Artist: Tamara Fritz
@@ -1151,13 +1151,13 @@ Track: Skaia Voyages
 Artist: Seth Peelle
 Duration: 1:12
 References: Sburban Jungle, Showtime (Piano Refrain), Skies of Skaia
-URLs: https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F379%20Skaia%20Voyages.mp3&mode=default
+URLs: /media/misc/archive/Skaia%20Voyages.mp3
 -------------------------------------------------------------------------------
 Track: Skaian Shuffle
 Artist: Clark Powell
 Duration: 4:16
 References: Skaian Skuffle
-URLs: https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F059%20Skaian%20Shuffle.mp3&mode=default
+URLs: /media/misc/archive/Skaian%20Shuffle.mp3
 -------------------------------------------------------------------------------
 Track: Stay in Touch
 Artist: Wheals
@@ -1205,7 +1205,7 @@ URLs: https://soundcloud.com/aradia-jones/the-engineer-a-dirk-strider-1
 Track: The Paradox Paradigm
 Artist: Jack McMenamin
 Duration: 3:14
-URLs: https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Fan%20Music%20and%20VA%2FHomestuck%20Fansong%20Archive%20%282011%29%2FHomestuck%20Fan%20Music%20Part%2010%2FThe%20Paradox%20Paradigm.mp3&mode=default
+URLs: /media/misc/archive/The%20Paradox%20Paradigm.mp3
 -------------------------------------------------------------------------------
 Track: The Undying
 Artist: James Dever
@@ -1252,10 +1252,10 @@ Duration: 2:39
 References: Sburban Jungle
 URLs: https://www.youtube.com/watch?v=kdfgB3Gc_pw
 -------------------------------------------------------------------------------
-Track: Where Making This Hapen
+Track: Where making this hapen
 Artist: David Ko
 Duration: 0:28
-URLs: https://archive.homestuck.net/wl/?id=bBs1qkrvHtZIpfhl7XCLoBX7o41d3nEE&path=Homestuck%20Sound%20Test%2F~Disc%203~%20Unreleased%20Homestuck%20Music%20Team%20Music%2F071%20Where%20making%20this%20hapen.mp3&mode=default
+URLs: /media/misc/archive/Where%20making%20this%20hapen.mp3
 -------------------------------------------------------------------------------
 Track: White King
 Artist: Demographerist
@@ -2255,6 +2255,7 @@ URLs: https://www.youtube.com/watch?v=y-1XiWfdDeY
 Track: The Star-Spangled Banner
 Artist: Lost in History, Death to America
 Has URLs: no
+URLs: https://dotherightthing.carrd.co/
 -------------------------------------------------------------------------------
 Track: The Ultimate Showdown of Ultimate Destiny
 Artist: Lemon Demon

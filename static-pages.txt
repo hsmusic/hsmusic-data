@@ -73,6 +73,25 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h2 id="1-sep-2021"><a href="#1-sep-2021">[[date:1 September 2021]]</a></h2>
+    <h3>data changes</h3>
+    - added missing A6I3 "[[track:weird-moody-horse-shit]]" flashes (thanks, FF!)
+    - added missing bonus tracks from [[album:rust-apocalypse]] as re-releases of their original appearances on [[album:coloUrs-and-mayhem-universe-a]] (thanks, deesoff!)
+    - added blood CW to [[track:hauntjam]] (thanks, Low!)
+    - added blood (abstract) CW to [[track:hauntjelly]], too
+    - updated listen links for a number of tracks in [[album:unreleased-tracks]], using local archive uploads rather than relying on a torrent mirror
+        - [[track:hawkeye]] (as heard in [[track:sunsetter]] and [[track:davesprite]])
+        - [[track:sea-of-derse]] (as heard in [[track:breeze]])
+        - [[track:shooting-star]] (as heard in [[track:homefree]])
+        - [[track:skaia-voyages]] (as heard in [[track:creata]] and [[track:skaian-happy-flight]])
+        - [[track:the-paradox-paradigm]] (as heard in a number of [[group:unofficial-mspa-fans]] tracks)
+        - [[track:where-making-this-hapen]] (as heard, probably, in [[track:rex-mille-geromius]] and, maybe, in [[track:revisit-rewind]])
+    - fixed capitalization for [[track:where-making-this-hapen]]
+    <h3>bug fixes</h3>
+    - fixed domain-local URLs crashing a build (i.e. support for updated archive links)
+    - fixed re-release track links never text wrapping, messing up layout on pages such as [[track:three-in-the-morning]]
+    - fixed flash art for [[flash:5426]] (may take a while to load)
+
     <h2 id="10-aug-2021"><a href="#10-aug-2021">[[date:10 August 2021]]</a></h2>
     <h3>data changes</h3>
     - added missing (public!) bonus tracks from [[album:p-s]] (thanks, deesoff!):
