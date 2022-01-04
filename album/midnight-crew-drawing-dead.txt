@@ -100,6 +100,8 @@ URLs:
 Track: Hauntjam
 Artist: Andrew Huo, Michael Guy Bowman
 Duration: 2:16
+References:
+- track:haunt
 Art Tags:
 - cw: blood
 URLs:
@@ -170,8 +172,8 @@ Artist: Andrew Huo, Ian Taylor
 Duration: 2:02
 References:
 - track:hauntjam
-Art Tags:
-- cw: blood (abstract)
+Samples:
+- track:hauntjam
 URLs:
 - https://homestuck.bandcamp.com/track/hauntjelly-2
 - https://youtu.be/MccD13jZSTU
