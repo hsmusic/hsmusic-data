@@ -12,7 +12,8 @@ Track: Harlequin (Rock Version)
 Artist: Michael Guy Bowman, Joseph Aylsworth
 Contributors: Joseph Aylsworth (guitar)
 Duration: 2:48
-References: Harlequin
+References:
+- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/harlequin-rock-version-3
 - https://youtu.be/g5TDTcMEL_c
@@ -20,14 +21,16 @@ URLs:
 Track: Skaian Dreams Remix
 Artist: Bill Bolin
 Duration: 1:30
-References: Showtime (Original Mix), Skies of Skaia
+References:
+- track:showtime-original-mix
+- track:skies-of-skaia
 Has URLs: no
 -------------------------------------------------------------------------------
 Track: Upward Movement (Dave Owns)
 Artist: Kalibration
 Duration: 4:20
 References:
-- Amen, Brother
+- track:amen-brother
 URLs:
 - https://homestuck.bandcamp.com/track/upward-movement-dave-owns-3
 - https://youtu.be/j6UiUu_7LVc
@@ -63,14 +66,16 @@ Has URLs: no
 Track: Showtime Remix
 Artist: Gabe Nezovic
 Duration: 2:02
-References: Showtime (Piano Refrain)
+References:
+- track:showtime-piano-refrain
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-remix-3
 - https://youtu.be/VliU0X6XVpA
 -------------------------------------------------------------------------------
 Track: Aggrieve Remix
 Artist: Gabe Nezovic
-References: Aggrieve
+References:
+- track:aggrieve
 Duration: 2:11
 URLs:
 - https://homestuck.bandcamp.com/track/aggrieve-remix-3

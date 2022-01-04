@@ -61,7 +61,9 @@ Track: Merge
 Artist: Kouta, polysaw
 Track Art: Circlejourney
 Duration: 3:12
-References: Serenade, Beatdown (Strider Style)
+References:
+- Serenade
+- track:beatdown-strider-style
 Art Tags:
 - Davepeta
 URLs:
@@ -119,7 +121,9 @@ Track: Reunited
 Artist: Shandy
 Track Art: nights
 Duration: 4:21
-References: Sburban Jungle, Endless Climb
+References:
+- track:sburban-jungle
+- track:endless-climb
 Art Tags:
 - Rose
 - Roxy
@@ -443,9 +447,9 @@ Artist: SplitSuns
 Track Art: Neiratina
 Duration: 3:08
 References:
-- Chorale for Jaspers
+- track:chorale-for-jaspers
 - Amen, Brother
-- Aggrieve
+- track:aggrieve
 - Battle Against an Unfathomable Enemy
 - At The Price of Oblivion
 Art Tags:
@@ -467,7 +471,7 @@ Duration: 2:21
 References:
 - Black Rose / Green Sun
 - Greensleeves
-- Endless Climb
+- track:endless-climb
 Art Tags:
 - Rose
 - Kanaya
@@ -652,7 +656,7 @@ Track Art: Circlejourney
 Duration: 6:55
 References:
 - Crystamanthequins
-- Sburban Jungle
+- track:sburban-jungle
 - Flare
 Art Tags:
 - WV
@@ -691,7 +695,8 @@ Track: Hiatus
 Artist: Kevin Grant
 Track Art: Trufflemeep
 Duration: 2:45
-References: Upward Movement (Dave Owns)
+References:
+- track:upward-movement-dave-owns
 Art Tags:
 - Gamzee
 - Terezi
@@ -712,36 +717,36 @@ Duration: 6:40
 References:
 - Homosuck Swan Song
 - Homosuck Anthem
-- Upward Movement (Dave Owns)
-- Beatdown (Strider Style)
-- Showtime (Original Mix)
-- Sburban Jungle
+- track:upward-movement-dave-owns
+- track:beatdown-strider-style
+- track:showtime-original-mix
+- track:sburban-jungle
 - Theme
-- Crustacean
+- track:crustacean
 - Walls Covered in Blood
 - The Lemonsnout Turnabout
 - Spider's Claw
 - English
-- Showtime (Piano Refrain)
+- track:showtime-piano-refrain
 - Eternity Served Cold
 - Carne Vale
 - Warhammer of Zillyhoo
-- null
+- track:null-toby-fox
 - Hello Zepp
 - Rabbunctious!
 - The Paradox Paradigm
 - Purple Bard
 - Swing of the Clock
-- Doctor
-- Endless Climb
-- Atomyk Ebonpyre
+- track:doctor
+- track:endless-climb
+- track:atomyk-ebonpyre
 - track:frost-vol6
 - Homestuck
-- Dissension (Original)
+- track:dissension-original
 - Horschestra
 - Jane's Dragon
 - Cascade (Beta)
-- Aggrieve
+- track:aggrieve
 - Oh Hi There, Lil Cal
 Art Tags:
 - John
@@ -787,36 +792,36 @@ Commentary:
     <b>References</b>
     - [[Homosuck Swan Song]] - 0:35-1:04, 3:30-3:59, 4:27-4:42, 5:04-5:12
     - [[Homosuck Anthem]] - 0:50-1:22, 1:31-1:38, 2:07-2:30, 3:09-3:13
-    - [[Upward Movement (Dave Owns)]] - 1:39-1:46, 1:55-2:02, 2:33-2:36
-    - [[Beatdown (Strider Style)]] - 1:47-1:54, 5:12-5:19, 5:34-5:49, 5:52-5:56
-    - [[Showtime (Original Mix)]] - 1:59-2:06
-    - [[Sburban Jungle]] - 2:01-2:06
+    - [[track:upward-movement-dave-owns|Upward Movement (Dave Owns)]] - 1:39-1:46, 1:55-2:02, 2:33-2:36
+    - [[track:beatdown-strider-style|Beatdown (Strider Style)]] - 1:47-1:54, 5:12-5:19, 5:34-5:49, 5:52-5:56
+    - [[track:showtime-original-mix|Showtime (Original Mix)]] - 1:59-2:06
+    - [[track:sburban-jungle|Sburban Jungle]] - 2:01-2:06
     - [[Theme]] - 2:07-2:30
-    - [[Crustacean]] - 2:15-2:19, 2:31-2:36
+    - [[track:crustacean|Crustacean]] - 2:15-2:19, 2:31-2:36
     - [[Walls Covered in Blood]] - 2:36-2:38
     - [[The Lemonsnout Turnabout]] - 2:38-2:40
     - [[Spider's Claw]] - 2:40-2:42
     - [[English]] - 2:42-2:43, 4:57-5:07, 6:13-6:18
-    - [[Showtime (Piano Refrain)]] - 2:44-2:55
+    - [[track:showtime-piano-refrain|Showtime (Piano Refrain)]] - 2:44-2:55
     - [[Eternity Served Cold]] - 2:48-2:55, 4:27-4:42, 5:49-5:56
     - [[Carne Vale]] - 2:55-3:05
     - [[Warhammer of Zillyhoo]] - 3:55-3:59
-    - [[null]] - 4:00-4:08
+    - [[track:null-toby-fox|null]] - 4:00-4:08
     - [[Hello Zepp]] - 4:13-4:27
     - [[Rabbunctious!]] - 4:27-4:31
     - [[The Paradox Paradigm]] - 4:31-4:34, 4:46-4:49 - 5:01-5:04
     - [[Purple Bard]] - 4:35-4:38, 5:49-5:56
     - [[Swing of the Clock]] - 4:38-4:42, 4:53-4:56, 5:08-5:12
-    - [[Doctor]] - 4:42-4:46
-    - [[Endless Climb]] - 4:46-4:49
-    - [[Atomyk Ebonpyre]] - 4:50-4:53
+    - [[track:doctor|Doctor]] - 4:42-4:46
+    - [[track:endless-climb|Endless Climb]] - 4:46-4:49
+    - [[track:atomyk-ebonpyre|Atomyk Ebonpyre]] - 4:50-4:53
     - [[track:frost-vol6]] - 4:53-4:57
     - [[Homestuck]] - 4:57-5:12
-    - [[Dissension (Original)]] - 5:19-5:26
+    - [[track:dissension-original|Dissension (Original)]] - 5:19-5:26
     - [[Horschestra]] - 5:27-5:34, 5:49-5:56
     - [[Jane's Dragon]] - 5:30-5:34
     - [[Cascade (Beta)]] - 5:56-5:58
-    - [[Aggrieve]] - 5:58-6:07
+    - [[track:aggrieve|Aggrieve]] - 5:58-6:07
     - [[Oh Hi There, Lil Cal]] - 6:09-6:12
 -------------------------------------------------------------------------------
 Track: Three in the Morning (Ngame's Bowmix) [Explicit]
@@ -836,7 +841,7 @@ URLs:
 - https://youtu.be/Vo7tZPGX9Sg
 Commentary:
     <i>Ngame:</i>
-    For those not in the know, Michael Guy Bowman is one of the most iconic people associated with Homestuck. You may remember him as the composer of [[Sburban Jungle]], one of the comic's most iconic songs, the angelic voice that captivated your ears in [[How Do I Live (Bunny Back in the Box Version)]], or maybe even as the "face of the fandom" for his famous Homestuck videos and convention appearances.
+    For those not in the know, Michael Guy Bowman is one of the most iconic people associated with Homestuck. You may remember him as the composer of [[track:sburban-jungle|Sburban Jungle]], one of the comic's most iconic songs, the angelic voice that captivated your ears in [[How Do I Live (Bunny Back in the Box Version)]], or maybe even as the "face of the fandom" for his famous Homestuck videos and convention appearances.
     What isn't as well-known is that he's also an incredibly hilarious individual with dozens of sketch comedy videos - often featuring his equally sidesplitting friend, Scott Stutzsman - and I wanted to bring these two worlds together. With the release of Volume 10 in June, and the resulting focus on the Homestuck music team, Bowman appreciation had a resurgence in the fandom (especially one particular video, <a href="https://www.youtube.com/watch?v=6cqZlNGBcwA">Bowman's Credit Score</a>). I got caught up in the fervor as well, and made my first foray into music remixing to put together the first iteration of this tribute to Michael Bowman. The remix includes notable quotes or samples from every video that Michael Bowman and Scott Stutzman collaborated on, as well as many of their individual comedy videos.
     If you liked Bowman's Homestuck stuff, love comedy videos, or were just too damn intrigued by this song to stay out of the loop, I recommend giving <a href="https://youtube.com/playlist?list=PLoOnh0MiKsmJb0CsYOTzkihMcNSl6-ruw">the Stutzbows</a> (as I like to call their videos) a watch. Whether it's Scott singing you the jingle for his favorite breakfast cereal, Bowman informing you about his credit score (spoiler alert: it's 720), or both of them having some good, old-fashioned backyard fun, I'm certain there's something to enjoy for everyone.
 -------------------------------------------------------------------------------
@@ -845,7 +850,9 @@ Directory: schrodingers-harbinger
 Artist: Noisemaker
 Track Art: Benedict Ide
 Duration: 2:21
-References: Aggrieve, Chorale for Jaspers
+References:
+- track:aggrieve
+- track:chorale-for-jaspers
 Art Tags:
 - Rose
 - Jasprose
@@ -880,7 +887,7 @@ Track Art: Phil Gibson
 Duration: 2:32
 References:
 - Spider's Claw
-- MeGaLoVania
+- track:MeGaLoVania
 - Terezi's Theme
 - Spider8ite!!!!!!!!
 - Lotus
@@ -951,7 +958,11 @@ Track: Daydreamer
 Artist: electric lantern
 Track Art: Elanor Pam
 Duration: 1:48
-References: Old Secret, Spider Dance, Atomyk Ebonpyre, Derse Dreamers
+References:
+- track:old-secret
+- Spider Dance
+- track:atomyk-ebonpyre
+- Derse Dreamers
 Art Tags:
 - Joey
 URLs:
@@ -961,7 +972,7 @@ Commentary:
     <i>Elanor Pam:</i>
     For this piece my only goal was to express the same soft dreaminess of the song itself. And to draw Joey, of course. Where's she going in this dream?
     <i><b>ndividedbyzero:</b></i>
-    I was a bit unsure of what to associate this track with at first. Jade is a dead ringer for a daydreamer, but so was Dave before his Derse awakening, implied in the song throuhg Derse Dreamers and Atomyk, but Hiveswap's [[Old Secret]] is referenced in the song's first few seconds...
+    I was a bit unsure of what to associate this track with at first. Jade is a dead ringer for a daydreamer, but so was Dave before his Derse awakening, implied in the song throuhg Derse Dreamers and Atomyk, but Hiveswap's [[track:old-secret|Old Secret]] is referenced in the song's first few seconds...
     I'm personally glad Elanor took the Hiveswap route for this song's track art, because I feel it fits the song so well even beyond Old Secret. The song invokes a calm theme for Joey, and speculation on all of the possible misadventuers she'll have that we'll soon get to see. As of this writing, Hiveswap's definitive release date of September 14th was revealed three days ago, and I hold hope it won't be delayed any longer. In the meantime, Daydream is a theme that embodies thoughts of that wait and that hope, and of course, thoughts of the game itself.
 -------------------------------------------------------------------------------
 Track: Grimbark
@@ -987,7 +998,7 @@ Track Art: CybeR
 Duration: 2:01
 Referenes:
 - Amen, Brother
-- Upward Movement (Dave Owns)
+- track:upward-movement-dave-owns
 - Nepeta's Theme
 Art Tags:
 - Davepeta
@@ -1053,15 +1064,15 @@ References:
 - track:metamorphic-choices
 - Stay in Touch
 - Moshi Moshi?
-- Explore
-- Sburban Jungle
+- track:explore
+- track:sburban-jungle
 - Even in Death
 - Hate You
-- Upward Movement (Dave Owns)
-- MeGaLoVania
+- track:upward-movement-dave-owns
+- track:MeGaLoVania
 - Jungle #3
 - Sburban Resolution
-- Showtime (Original Mix)
+- track:showtime-original-mix
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/horizontal-headshot
 - https://youtu.be/XfBz4kvoU7Q
@@ -1078,11 +1089,11 @@ Duration: 2:22
 References:
 - Liquid Negrocity
 - Amen, Brother
-- Upward Movement (Dave Owns)
+- track:upward-movement-dave-owns
 - Double Midnight
 - I'm a Member of the Midnight Crew
-- Showtime (Original Mix)
-- Beatdown (Strider Style)
+- track:showtime-original-mix
+- track:beatdown-strider-style
 - Freefall
 - Terezi's Theme
 - Unite Synchronization
@@ -1090,7 +1101,7 @@ References:
 - Sunsetter
 - Moshi Moshi?
 - English
-- ~~ADDITIONAL MAYHEM~~
+- track:additional-mayhem-universe-a
 Art Tags:
 - Jack Noir
 URLs:
@@ -1140,11 +1151,11 @@ Contributors: Nick Smalley (additional vocals)
 Track Art: Selan Pike
 Duration: 13:04
 References:
-- Showtime (Piano Refrain)
-- Verdancy (Bassline)
-- Chorale for Jaspers
+- track:showtime-piano-refrain
+- track:verdancy-bassline
+- track:chorale-for-jaspers
 - Tall, Dark and Loathsome
-- Ballad of Awakening
+- track:ballad-of-awakening
 - Versus
 - Skaian Summoning
 - Tangled Waltz
@@ -1191,18 +1202,18 @@ URLs:
 Commentary:
     <i>Veritas Unae:</i>
     I'm really sorry I delayed this album. I hope this is worth it.
-    Originally, when LoFaM 3 wrapped up and we were considering how LoFaM 4 could tie everything up, I approached konec0 about what should be done for the 'dance' track in that album could end up being. One of the original ideas was a song initially called 'Requiem Momentum / Moment of Dance'. Like [[track:garden-of-eden-part-1|Garden of Eden]] and konec0's dance tracks before it, it was going to flow between piano medleys (based around [[Requiem]] from Sburb) and high tempo dance segments. Eventually the ideas drifted towards being a love letter to all of Homestuck music, in particular, one that featured at least one song from every album. (Well... except Act 7, I have to draw lines somewhere; it's here I apologise to anyone expecting me to tackle the CaNMT discography.)
+    Originally, when LoFaM 3 wrapped up and we were considering how LoFaM 4 could tie everything up, I approached konec0 about what should be done for the 'dance' track in that album could end up being. One of the original ideas was a song initially called 'Requiem Momentum / Moment of Dance'. Like [[track:garden-of-eden-part-1|Garden of Eden]] and konec0's dance tracks before it, it was going to flow between piano medleys (based around [[track:requiem|Requiem]] from Sburb) and high tempo dance segments. Eventually the ideas drifted towards being a love letter to all of Homestuck music, in particular, one that featured at least one song from every album. (Well... except Act 7, I have to draw lines somewhere; it's here I apologise to anyone expecting me to tackle the CaNMT discography.)
     From there, konec0's involvement in the fan music scene dropped somewhat, and I was still particularly excited about this idea around the time the ball actually started rolling on LoFaM 4. So I decided to try and revive the dead dance. Humorously, Requiem no longer shows up in the piece, so Dance of the Dead is a bit of a misnomer, but I think the frantic pace and thematic idea of the beta kids and the Midnight Crew jamming together in the Farthest Ring is one we can all appreciate. The choice to go with jazz for the piece is mostly due to how comfortable I feel writing for small jazz ensembles. Another funny thing to note is that I gave anything tricky or unplayable to Jade (consider some of the basslines or the double notes on flute) - she must hve pulled out her dreambot again! (Not withstandding, I think a couple of carapacians picked up some alto saxes.)
     Many thanks to all the amazing fan musicians who populated the sheet music thread back in the day. So amny of those scores were invaluable to me. Also thanks to TheOtherN on musescore for their incredible transcription of Watercolour, Alex Rosetti for the Pondsquatter MIDI, Max Wright for Gods of the New World sheet music, Nate Tronerud for the For Beforus sheet music, Tensei for the Rouge on the Rox MIDI, Circlejourney for the JUST1C3 MIDI, and Marcy for her incredible melody notating skills.
     <i>Selan Pike:</i>
     I think it makes a statement, and that statement is, "I've been playing too much Persona 5", or perhaps "I hate drawing musical isntruments"
     <hr>
     <b>References:</b>
-    - Homestuck Vol. 1 - [[Showtime (Piano Refrain)]] - 00:00-00:37
-    - Homestuck Vol. 2 - [[Verdancy (Bassline)]] - 00:53-01:01
-    - Homestuck Vol. 3 - [[Chorale for Jaspers]] - 01:01-01:17
+    - Homestuck Vol. 1 - [[track:showtime-piano-refrain|Showtime (Piano Refrain)]] - 00:00-00:37
+    - Homestuck Vol. 2 - [[track:verdancy-bassline|Verdancy (Bassline)]] - 00:53-01:01
+    - Homestuck Vol. 3 - [[track:chorale-for-jaspers|Chorale for Jaspers]] - 01:01-01:17
     - Midnight Crew: Drawing Dead - [[Tall, Dark and Loathsome]] - 01:17-01:49
-    - Homestuck Vol. 4 - [[Ballad of Awakening]] - 01:25-01:49
+    - Homestuck Vol. 4 - [[track:ballad-of-awakening|Ballad of Awakening]] - 01:25-01:49
     - Homestuck Vol. 5 - [[Versus]] - 01:41-02:05
     - Alternia - [[Skaian Summoning]] - 02:06-02:55
     - Squiddles! - [[Tangled Waltz]] - 02:23-02:55
@@ -1248,7 +1259,9 @@ Track: Atomyk Clockwyrk
 Artist: Marcy Nabors
 Track Art: dazed-squid
 Duration: 1:56
-References: Endless Climb, Atomyk Ebonpyre
+References:
+- track:endless-climb
+- track:atomyk-ebonpyre
 Art Tags:
 - Dave
 URLs:
@@ -1281,7 +1294,8 @@ Track: Quest Crypt
 Artist: ndividedbyzero
 Track Art: sweetjegus
 Duration: 1:19
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 Art Tags:
 - Jane
 URLs:
@@ -1301,13 +1315,13 @@ Duration: 6:31
 References:
 - Even in Death
 - Another Jungle
-- Beatdown (Strider Style)
+- track:beatdown-strider-style
 - Unite Synchronization
 - Pumpkin Party in Sea Hitler's Water Apocalypse
 - Sunsetter
 - Oppa Toby Style
 - Hate You
-- Ruins
+- track:ruins
 Art Tags:
 - Jane
 - Roxy
@@ -1354,7 +1368,8 @@ Track: Climbing to Infinity
 Artist: SplitSuns
 Track Art: SplitSuns
 Duration: 4:28
-References: Endless Climb
+References:
+- track:endless-climb
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/climbing-to-infinity
 - https://youtu.be/RZmbjMySkJY
@@ -1383,7 +1398,10 @@ Track: Airtime Assault
 Artist: Cerulean
 Track Art: nuclear333
 Duration: 2:52
-References: Beatdown (Strider Style), Doctor, Sburban Jungle
+References:
+- track:beatdown-strider-style
+- track:doctor
+- track:sburban-jungle
 Art Tags:
 - John
 - Dave
@@ -1422,7 +1440,7 @@ Track Art: Griever
 Duration: 3:17
 References:
 - Horschestra STRONG Version
-- Sburban Jungle
+- track:sburban-jungle
 - English
 - Let the Squiddles Sleep (End Theme)
 Art Tags:
@@ -1465,7 +1483,9 @@ Track: Reconciled
 Artist: Shandy
 Track Art: Beta
 Duration: 4:07
-References: Sburban Jungle, Atomyk Ebonpyre
+References:
+- track:sburban-jungle
+- track:atomyk-ebonpyre
 Art Tags:
 - Dave
 - Dirk
@@ -1488,12 +1508,12 @@ Track Art: Rebecca Peason
 Duration: 5:02
 References:
 - The Beginning of Something Really Excellent
-- Sburban Jungle
-- Skies of Skaia
+- track:sburban-jungle
+- track:skies-of-skaia
 - Dawn of Man
-- Doctor
-- Endless Climb
-- Atomyk Ebonpyre
+- track:doctor
+- track:endless-climb
+- track:atomyk-ebonpyre
 - track:frost-vol6
 - Cascade (Beta)
 - Infinity Mechanism
@@ -1515,13 +1535,13 @@ Commentary:
     <hr>
     <b>References:</b>
     - [[The Beginning of Something Really Excellent]] - 0:00-0:42, 4:00-4:20, 4:32-4:42
-    - [[Sburban Jungle]] - 0:43-1:34, 4:21-4:54
-    - [[Skies of Skaia]] - 1:19-1:38
+    - [[track:sburban-jungle|Sburban Jungle]] - 0:43-1:34, 4:21-4:54
+    - [[track:skies-of-skaia|Skies of Skaia]] - 1:19-1:38
     - [[Dawn of Man]] - 1:38-2:47
-    - [[Doctor]] - 2:06-2:09
-    - [[Endless Climb]] - 2:09-2:12
-    - [[Atomyk Ebonpyre]] - 2:13-2:16
-    - [[Frost]] - 2:16-2:23
+    - [[track:doctor|Doctor]] - 2:06-2:09
+    - [[track:endless-climb|Endless Climb]] - 2:09-2:12
+    - [[track:atomyk-ebonpyre|Atomyk Ebonpyre]] - 2:13-2:16
+    - [[track:frost-vol6|Frost]] - 2:16-2:23
     - [[Cascade (Beta)]] - 2:23-2:27
     - [[Infinity Mechanism]] - 2:27-2:29
     - [[Another Jungle]] - 2:47-3:02
@@ -1538,7 +1558,7 @@ Track Art: SmashCooper
 Duration: 8:53
 References:
 - Black Rose / Green Sun
-- Showtime (Original Mix)
+- track:showtime-original-mix
 - English
 - Homestuck Anthem
 Art Tags:
@@ -1568,8 +1588,8 @@ References:
 - Death by Glamour
 - RollerCoaster Tycoon Theme
 - Sunsetter
-- Showtime (Piano Refrain)
-- Endless Climb
+- track:showtime-piano-refrain
+- track:endless-climb
 Art Tags:
 - Caliborn
 - Gamzee
@@ -1656,7 +1676,7 @@ References:
 - I'm a Member of the Midnight Crew
 - Vela-Nova
 - Unite Synchronization
-- MeGaLoVania
+- track:MeGaLoVania
 Art Tags:
 - Dirk
 - Jake
@@ -1683,7 +1703,7 @@ References:
 - Formation
 - Skaia Voyages
 - Cascade (Beta)
-- Sburban Jungle
+- track:sburban-jungle
 - Another Jungle
 - Celestial Fantasia
 - Homestuck Anthem
@@ -1702,7 +1722,8 @@ Track: Radness from Concentrate
 Artist: Whimsy
 Track Art: piskomil
 Duration: 3:19
-References: Beatdown (Strider Style)
+References:
+- track:beatdown-strider-style
 Art Tags:
 - Dave
 URLs:
@@ -1756,7 +1777,7 @@ References:
 - Of Gods and Witches
 - Science Blaster
 - Formation
-- Sburban Jungle
+- track:sburban-jungle
 Art Tags:
 - Terezi
 URLs:
@@ -1887,7 +1908,7 @@ References:
 - Earthsea Borealis
 - English
 - Umbral Ultimatum
-- Endless Climb
+- track:endless-climb
 - Even in Death
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/ultimate-alchemy
@@ -1928,8 +1949,8 @@ Track Art: Griever
 Duration: 4:10
 References:
 - Purple Bard
-- Sburban Jungle
-- Explore
+- track:sburban-jungle
+- track:explore
 - English
 - Eternity Served Cold
 Art Tags:
@@ -1982,7 +2003,11 @@ Track: Everlasting
 Artist: Joe Ouellet
 Track Art: PatManDX
 Duration: 4:40
-References: Sburban Jungle, Doctor, Endless Climb, Even in Death
+References:
+- track:sburban-jungle
+- track:doctor
+- track:endless-climb
+- Even in Death
 Art Tags:
 - Roxy
 URLs:
@@ -2015,8 +2040,8 @@ Artist: ehlsea
 Track Art: Circlejourney
 Duration: 3:14
 References:
-- Black Hole / Green Sun
-- Chorale for Jaspers
+- Black Rose / Green Sun
+- track:chorale-for-jaspers
 - Courser
 - Black Hole / Green Sun
 Art Tags:
@@ -2051,11 +2076,11 @@ References:
 - Flare
 - Eternity Served Cold
 - Carne Vale
-- Showtime (Original Mix)
-- Beatdown (Strider Style)
+- track:showtime-original-mix
+- track:beatdown-strider-style
 - Crystamanthequins
-- Black
-- MeGaLoVania
+- track:black
+- track:MeGaLoVania
 Art Tags:
 - John
 - Rose
@@ -2142,7 +2167,9 @@ Track: Premortem
 Artist: Noisemaker
 Track Art: 0ysTezy, EllenZarael
 Duration: 2:12
-References: Purple Tyrant, Crustacean
+References:
+- Purple Tyrant
+- track:crustacean
 Art Tags:
 - Gamzee
 - Kurloz
@@ -2173,7 +2200,7 @@ References:
 - Menu (Full)
 - Sleeping Terror
 - Homestuck Anthem
-- Upward Movement (Dave Owns)
+- track:upward-movement-dave-owns
 - Calamari Inkantation
 - Feel (Alive)
 - Hopes and Dreams
@@ -2208,7 +2235,7 @@ Commentary:
     - [[Menu (Full)]] - 2:16-2:35
     - [[Sleeping Terror]] - 2:22-2:35
     - [[Homestuck Anthem]] - 2:29-2:35
-    - [[Upward Movement (Dave Owns)]] - 2:35-2:38
+    - [[track:upward-movement-dave-owns|Upward Movement (Dave Owns)]] - 2:35-2:38
     - [[Calamari Inkantation]] - 2:39-2:48
     - [[Feel (Alive)]] - 2:49-2:51
     - [[Hopes and Dreams]] - 2:52-2:55, 2:59-3:02
@@ -2235,7 +2262,8 @@ Track: Blanc
 Artist: Sean Gorter
 Track Art: Daniel McDonald
 Duration: 5:00
-References: Black
+References:
+- track:black
 Art Tags:
 - Midnight Crew
 URLs:
@@ -2252,8 +2280,8 @@ Artist: SplitSuns
 Track Art: Shadok
 Duration: 4:05
 References:
-- Upward Movement (Dave Owns)
-- Beatdown (Strider Style)
+- track:upward-movement-dave-owns
+- track:beatdown-strider-style
 - Sunsetter
 - CORE
 - English
@@ -2278,9 +2306,9 @@ Artist: Aris Martinian
 Track Art: nights
 Duration: 6:13
 References:
-- Doctor
+- track:doctor
 - Cascade (Beta)
-- Sburban Jungle
+- track:sburban-jungle
 - Tick
 - Lord Spanish
 - Fruity Pebbles Jingle
@@ -2290,15 +2318,15 @@ References:
 - Penumbra Phantasm
 - Even in Death
 - Space Jam
-- Chorale for Jaspers
+- track:chorale-for-jaspers
 - At The Price of Oblivion
 - Contra
 - Ascend
-- MeGaLoVania
+- track:MeGaLoVania
 - Moshi Moshi?
 - Unintentional Touhou
 - CONTACT
-- Upward Movement (Dave Owns)
+- track:upward-movement-dave-owns
 - Formation
 - Jungle #3
 - Muse of Nanchos
@@ -2320,9 +2348,9 @@ Commentary:
     <img src="media/misc/nights-revisit-rewind.png" width="435" height="226">
     <hr>
     <b>References:</b>
-    - [[Doctor]] - 0:07-0:29, 1:30-2:18, 2:26-2:48
+    - [[track:doctor|Doctor]] - 0:07-0:29, 1:30-2:18, 2:26-2:48
     - [[Cascade (Beta)]] - 0:15-0:44
-    - [[Sburban Jungle]] - 0:16-0:42, 3:06-3:17, 3:42-3:50
+    - [[track:sburban-jungle|Sburban Jungle]] - 0:16-0:42, 3:06-3:17, 3:42-3:50
     - [[Tick]] - 0:45-0:59
     - [[Fruity Pebbles Jingle]] - 0:45-1:14
     - [[Potato Knishes]] - 1:00-1:14
@@ -2331,14 +2359,14 @@ Commentary:
     - [[Penumbra Phantasm]] - 1:34-2:03
     - [[Even in Death]] - 2:03-2:18
     - [[Space Jam]] - 2:03-2:18
-    - [[Chorale for Jaspers]] - 2:03-2:10
+    - [[track:chorale-for-jaspers|Chorale for Jaspers]] - 2:03-2:10
     - [[At The Price of Oblivion]] - 2:11-2:14
     - [[Contra]] - 2:18-2:48
-    - [[MeGaLoVania]] - 2:50-3:05
+    - [[track:MeGaLoVania|MeGaLoVania]] - 2:50-3:05
     - [[Moshi Moshi?]] - 2:50-3:05
     - [[Unintentional Touhou]] - 3:05-3:20
     - [[CONTACT]] - 3:20-3:50
-    - [[Upward Movement (Dave Owns)]] - 3:35-3:50
+    - [[track:upward-movement-dave-owns|Upward Movement (Dave Owns)]] - 3:35-3:50
     - [[Formation]] - 3:50-4:20
     - [[Jungle #3]] - 4:13-4:20, 4:28-4:35
     - [[Muse of Nanchos]] - 4:20-4:35
@@ -2387,15 +2415,15 @@ Contributors: Tamara Fritz (vocals)
 Track Art: Sam Garcia
 Duration: 8:31
 References:
-- Skies of Skaia
-- Aggrieve
-- Showtime (Original Mix)
+- track:skies-of-skaia
+- track:aggrieve
+- track:showtime-original-mix
 - Gardener
-- Upward Movement (Dave Owns)
-- Beatdown (Strider Style)
+- track:upward-movement-dave-owns
+- track:beatdown-strider-style
 - Even in Death
 - Homestuck Anthem
-- Sburban Jungle
+- track:sburban-jungle
 Art Tags:
 - John
 - Rose

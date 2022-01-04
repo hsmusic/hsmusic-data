@@ -84,7 +84,7 @@ Track: Creation Myth
 Artist: M3l0m4ni4c
 Duration: 2:36
 References:
-- Skies of Skaia
+- track:skies-of-skaia
 - Frostbite
 - a baby is born
 URLs:
@@ -108,7 +108,9 @@ Commentary:
 Track: Strider the Snowman
 Artist: FrostyMac
 Duration: 0:55
-References: Frosty the Snowman, Beatdown (Strider Style)
+References:
+- Frosty the Snowman
+- track:beatdown-strider-style
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/strider-the-snowman
 - https://youtu.be/6XWxat4vn2A

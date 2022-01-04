@@ -44,7 +44,11 @@ Track: At The Price of Oblivion
 Artist: Malcolm Brown
 Track Art: Shelby Cragg
 Duration: 3:23
-References: Chorale for Jaspers, Rex Duodecim Angelus, Black Rose / Green Sun, Aggrieve
+References:
+- track:chorale-for-jaspers
+- Rex Duodecim Angelus
+- Black Rose / Green Sun
+- track:aggrieve
 Art Tags:
 - Rose
 - cw: blood
@@ -65,7 +69,8 @@ Track: Even in Death
 Artist: Clark Powell
 Track Art: Yapoos
 Duration: 2:32
-References: Upward Movement (Dave Owns)
+References:
+- track:upward-movement-dave-owns
 Art Tags:
 - Rose
 URLs:
@@ -76,7 +81,8 @@ Track: Terezi Owns
 Artist: Toby Fox
 Track Art: Angela Sham
 Duration: 1:39
-References: Upward Movement (Dave Owns)
+References:
+- track:upward-movement-dave-owns
 Art Tags:
 - Terezi
 - Pyralspite
@@ -113,7 +119,8 @@ Track: The Carnival
 Artist: Erik Scheele
 Track Art: Carla Bravo
 Duration: 2:15
-References: Harlequin
+References:
+- track:harlequin
 Art Tags:
 - Gamzee
 - cw: blood
@@ -160,7 +167,8 @@ Track: Awakening
 Artist: Erik Scheele
 Track Art: Devin H-S
 Duration: 3:57
-References: Ruins
+References:
+- track:ruins
 Art Tags:
 - John
 URLs:
@@ -225,7 +233,9 @@ Track: WSW-Beatdown
 Artist: Erik Scheele
 Track Art: Devin H-S
 Duration: 3:36
-References: Walk-Stab-Walk (R&E), Beatdown (Strider Style)
+References:
+- Walk-Stab-Walk (R&E)
+- track:beatdown-strider-style
 Art Tags:
 - Karkat
 - Underlings
@@ -237,7 +247,8 @@ Track: Earthsea Borealis
 Artist: Toby Fox
 Track Art: Molly Gur
 Duration: 2:58
-References: Endless Climb
+References:
+- track:endless-climb
 Art Tags:
 - Rose
 - Horrorterrors
@@ -262,7 +273,9 @@ Track: Savior of the Dreaming Dead
 Artist: Malcolm Brown
 Track Art: Left
 Duration: 4:10
-References: Doctor, Penumbra Phantasm
+References:
+- track:doctor
+- Penumbra Phantasm
 Art Tags:
 - Dave
 URLs:
@@ -291,7 +304,8 @@ Track: Sburban Reversal
 Artist: Mark Hadley
 Track Art: Devin H-S
 Duration: 3:51
-References: Sburban Countdown
+References:
+- track:sburban-countdown
 Art Tags:
 - Dave
 URLs:

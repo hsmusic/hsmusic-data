@@ -46,7 +46,7 @@ Track Art: Skylar
 Duration: 7:44
 References:
 - English
-- Sburban Jungle
+- track:sburban-jungle
 - The Paradox Paradigm
 - --Emperical
 Art Tags:
@@ -67,7 +67,8 @@ Track: Jackpot
 Artist: Charles Neudorf, Marcy Nabors
 Track Art: 8bitkitten
 Duration: 3:57
-References: Aggrieve
+References:
+- track:aggrieve
 Art Tags:
 - Roxy
 - Underlings
@@ -85,7 +86,9 @@ Track: Satellite Physician
 Artist: Joe Ouellet
 Track Art: grayscaleOddysey
 Duration: 3:27
-References: Doctor, Penumbra Phantasm
+References:
+- track:doctor
+- Penumbra Phantasm
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/satellite-physician
 - https://youtu.be/RCPevVDN7xE
@@ -99,7 +102,8 @@ Track: A Study In Skaia
 Artist: David Ellis
 Track Art: dodostad
 Duration: 3:02
-References: Skies of Skaia
+References:
+- track:skies-of-skaia
 Art Tags:
 - John
 URLs:
@@ -137,7 +141,10 @@ Track: Rectify
 Artist: Thomas Ibarra
 Track Art: Seth Massey
 Duration: 2:52
-References: Liquid Negrocity, Atomyk Ebonpyre, Showtime (Piano Refrain)
+References:
+- Liquid Negrocity
+- track:atomyk-ebonpyre
+- track:showtime-piano-refrain
 Art Tags:
 - Jack Noir
 URLs:
@@ -208,8 +215,8 @@ Duration: 4:11
 References:
 - Endless Expanse
 - Carapacian Dominion
-- Ruins
-- Growing Up
+- track:ruins
+- track:growing-up
 - Gilded Sands
 - Nightmare
 Art Tags:
@@ -313,7 +320,9 @@ Track: The Ballad of Maplehoof
 Artist: Ian White, Lauren Collis, Mike Anderson
 Track Art: Shoona
 Duration: 5:17
-References: Pony Chorale, Upward Movement (Dave Owns)
+References:
+- track:pony-chorale
+- track:upward-movement-dave-owns
 Art Tags:
 - John
 - Rose
@@ -369,7 +378,7 @@ Artist: Catboss
 Track Art: Amethyst Barron
 Duration: 4:54
 References:
-- Atomyk Ebonpyre
+- track:atomyk-ebonpyre
 - English
 - Liquid Negrocity
 - The Ballad of Jack Noir
@@ -470,7 +479,8 @@ Track: Three in the Morning (Kali's 2 in the AM PM Edit)
 Artist: Kalibration
 Track Art: Toon Lettuce
 Duration: 4:00
-References: Three in the Morning (RJ's I Can Barely Sleep In This Casino Remix)
+References:
+- track:three-in-the-morning-rj
 Art Tags:
 - Snowman
 - The Felt
@@ -489,10 +499,10 @@ Artist: Plumegeist
 Track Art: devonianecho
 Duration: 4:57
 References:
-- Showtime (Original Mix)
-- Showtime (Piano Refrain)
-- Sburban Jungle
-- I Don't Want to Miss a Thing
+- track:showtime-original-mix
+- track:showtime-piano-refrain
+- track:sburban-jungle
+- track:i-dont-want-to-miss-a-thing
 Art Tags:
 - John
 URLs:
@@ -524,15 +534,15 @@ Artist: Kevin Grant
 Track Art: AS
 Duration: 4:04
 References:
-- Doctor
-- Showtime (Original Mix)
-- Beatdown (Strider Style)
+- track:doctor
+- track:showtime-original-mix
+- track:beatdown-strider-style
 - Pumpkin Cravings
-- Chorale for Jaspers
+- track:chorale-for-jaspers
 - BL1ND JUST1C3 : 1NV3ST1G4T1ON !!
-- Atomyk Ebonpyre
+- track:atomyk-ebonpyre
 - Horschestra
-- MeGaLoVania
+- track:MeGaLoVania
 - Spider's Claw
 - Walk-Stab-Walk (R&E)
 - Liquid Negrocity
@@ -555,9 +565,9 @@ Artist: Thomas Ibarra
 Track Art: Spectrumfizz
 Duration: 2:21
 References:
-- Harlequin
+- track:harlequin
 - Liquid Negrocity
-- Sburban Jungle
+- track:sburban-jungle
 - Carefree Action
 Art Tags:
 - John
@@ -576,7 +586,10 @@ Track: He Is Already Here
 Artist: Brenden Cameron
 Track Art: clumsyroyalty
 Duration: 4:11
-References: Rhapsody in Green, English, Sburban Jungle
+References:
+- Rhapsody in Green
+- English
+- track:sburban-jungle
 Art Tags:
 - AH
 - cw: blood
@@ -598,8 +611,8 @@ Duration: 3:01
 References:
 - Courser
 - Earthsea Borealis
-- Upward Movement (Dave Owns)
-- Ruins
+- track:upward-movement-dave-owns
+- track:ruins
 - Dawn of Man
 - the rose rap
 - Cascade
@@ -635,7 +648,10 @@ Track: Sburban Genesis
 Artist: Lark Mordancy
 Track Art: plaidcushion
 Duration: 4:00
-References: Dawn of Man, Sburban Jungle, Exodus
+References:
+- Dawn of Man
+- track:sburban-jungle
+- Exodus
 Art Tags:
 - Genesis Frog
 URLs:
@@ -698,7 +714,9 @@ Track: Prospitian Lullaby
 Artist: Jamie Paige Stanley
 Track Art: Shoona
 Duration: 4:45
-References: Homestuck Anthem, Sburban Jungle
+References:
+- Homestuck Anthem
+- track:sburban-jungle
 Art Tags:
 - Jane
 - Jake
@@ -717,7 +735,9 @@ Track: •~Disk 2~•
 Artist: Veritas Unae
 Track Art: melodiousDiscord
 Duration: 0:20
-References: White King, Sburban Jungle
+References:
+- White King
+- track:sburban-jungle
 Directory: disk2-lofam2
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/o-disk-2-o
@@ -781,12 +801,12 @@ References:
 - Time on My Side
 - Even in Death
 - Gaia Queen
-- Endless Climb
+- track:endless-climb
 - Olive Rogue
-- Ruins
+- track:ruins
 - Lotus
 - BL1ND JUST1C3 : 1NV3ST1G4T1ON !!
-- Chorale for Jaspers
+- track:chorale-for-jaspers
 - Another Jungle
 - Let's All Rock the Heist
 - Derse Dreamers
@@ -800,13 +820,13 @@ References:
 - Infinity Mechanism
 - Ocean Stars Falling
 - Love You (Feferi's Theme)
-- Ohgodwhat
+- track:ohgodwhat
 - Courser
 - Dance of Thorns
 - Unite Synchronization
-- Upward Movement (Dave Owns)
+- track:upward-movement-dave-owns
 - Fly
-- Vagabounce
+- track:vagabounce
 - Cascade (Beta)
 - Flare
 - Savior of the Dreaming Dead
@@ -835,18 +855,18 @@ Commentary:
     - 0:17 - [[Time on My Side]]
     - 0:34 - [[Even in Death]]
     - 0:46 - [[Gaia Queen]]
-    - 0:57 - [[Endless Climb]]
+    - 0:57 - [[track:endless-climb|Endless Climb]]
     - 1:11 - [[Olive Rogue]]
     - 1:26 - [[Ruins (With Strings)]]
     - 1:38 - [[Lotus]]
     - 1:49 - [[BL1ND JUST1C3 : 1NV3ST1G4T1ON !!]]
-    - 2:07 - [[Chorale for Jaspers]]
+    - 2:07 - [[track:chorale-for-jaspers|Chorale for Jaspers]]
     - 2:24 - [[Another Jungle]]
     - 2:30 - [[Let's All Rock the Heist]]
     - 2:47 - [[Derse Dreamers]]
     - 2:57 - [[Carbon Nadsat / Cuestick Genius]]
     - 3:10 - [[Three in the Morning]]
-    - 3:22 - [[Black]]
+    - 3:22 - [[track:black|Black]]
     - 3:33 - [[Trollcops]]
     - 3:57 - [[track:frost-vol6]]
     - 4:08 - [[Rex Duodecim Angelus]]
@@ -854,12 +874,12 @@ Commentary:
     - 4:43 - [[Infinity Mechanism]]
     - 5:06 - [[Ocean Stars Falling]]
     - 5:11 - [[Love You (Feferi's Theme)]]
-    - 5:41 - [[Ohgodwhat]]
+    - 5:41 - [[track:ohgodwhat|Ohgodwhat]]
     - 5:47 - [[Courser]] &amp; [[Dance of Thorns]]
     - 6:15 - [[Unite Synchronization]]
-    - 6:27 - [[Upward Movement (Dave Owns)]]
+    - 6:27 - [[track:upward-movement-dave-owns|Upward Movement (Dave Owns)]]
     - 7:02 - [[Fly]]
-    - 7:13 - [[Vagabounce]]
+    - 7:13 - [[track:vagabounce|Vagabounce]]
     - 7:36 - [[Walk-Stab-Walk (R&E)]] &amp; [[Time on My Side]]
     - 8:57 - [[Cascade (Beta)]]
     - 9:20 - [[Flare]]
@@ -885,9 +905,9 @@ Artist: Brenden Cameron
 Track Art: Racheme
 Duration: 3:09
 References:
-- Showtime (Original Mix)
-- Doctor
-- Sburban Jungle
+- track:showtime-original-mix
+- track:doctor
+- track:sburban-jungle
 Art Tags:
 - John
 URLs:
@@ -922,7 +942,9 @@ Track: I'm The Doctor
 Artist: Veritas Unae
 Track Art: Strideer
 Duration: 2:06
-References: Doctor, Doctor Who Theme
+References:
+- track:doctor
+- Doctor Who Theme
 Art Tags:
 - Doc Scratch
 - Rose
@@ -952,17 +974,17 @@ Artist: Kevin Grant
 Track Art: sketchcomplex
 Duration: 4:22
 References:
-- Upward Movement (Dave Owns)
-- Endless Climb
-- Showtime (Original Mix)
+- track:upward-movement-dave-owns
+- track:endless-climb
+- track:showtime-original-mix
 - Eridan's Theme
-- Doctor
+- track:doctor
 - Sunsetter
-- MeGaLoVania
+- track:MeGaLoVania
 - Pumpkin Cravings
-- Beatdown (Strider Style)
-- Chorale for Jaspers
-- Harlequin
+- track:beatdown-strider-style
+- track:chorale-for-jaspers
+- track:harlequin
 - Liquid Negrocity
 - Crystalanthemums
 - Ocean Stars
@@ -998,8 +1020,8 @@ Artist: Willow Ascenzo, D. Crystal
 Track Art: albel-is-mine
 Duration: 3:19
 References:
-- Chorale for Jaspers
-- Sburban Jungle
+- track:chorale-for-jaspers
+- track:sburban-jungle
 - Carefree Action
 Art Tags:
 - Jade
@@ -1031,13 +1053,13 @@ Artist: Samm Neiland
 Track Art: Reid Slater
 Duration: 5:15
 References:
-- Sburban Jungle
-- Showtime (Original Mix)
-- Endless Climb
-- Doctor
-- Upward Movement (Dave Owns)
+- track:sburban-jungle
+- track:showtime-original-mix
+- track:endless-climb
+- track:doctor
+- track:upward-movement-dave-owns
 - Homestuck Anthem
-- Dissension (Original)
+- track:dissension-original
 Art Tags:
 - John
 - Rose
@@ -1100,7 +1122,8 @@ Track: Red Miles
 Artist: David Dycus
 Track Art: Amethyst Barron
 Duration: 2:25
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 Directory: red-miles-lofam2
 Art Tags:
 - Jack Noir
@@ -1223,7 +1246,8 @@ Commentary:
 Track: Joy And Dreams Eternal
 Artist: Malcolm Brown
 Track Art: Fitzwibble
-References: Ballad of Awakening
+References:
+- track:ballad-of-awakening
 Duration: 2:45
 Art Tags:
 - Jade
@@ -1253,7 +1277,8 @@ Track: Showtime (Svix Mix)
 Artist: Svix
 Track Art: PV
 Duration: 2:51
-References: Showtime (Original Mix)
+References:
+- track:showtime-original-mix
 Art Tags:
 - John
 - John's dad
@@ -1331,10 +1356,10 @@ Artist: Willow Ascenzo
 Track Art: xkoraxayomex
 Duration: 3:48
 References:
-- Doctor
-- Dissension (Original)
-- Aggrieve
-- Atomyk Ebonpyre
+- track:doctor
+- track:dissension-original
+- track:aggrieve
+- track:atomyk-ebonpyre
 Art Tags:
 - Jade
 URLs:
@@ -1390,9 +1415,9 @@ References:
 - At The Price of Oblivion
 - Rex Duodecim Angelus
 - Dance of Thorns
-- Sburban Jungle
+- track:sburban-jungle
 - An Unbreakable Union
-- Mutiny
+- track:mutiny
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-dance-of-oblivion
 - https://youtu.be/dw9fX9Z6jK4

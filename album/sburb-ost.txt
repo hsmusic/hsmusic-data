@@ -29,7 +29,8 @@ Directory: waiting-for-adventure
 Artist: Michael Guy Bowman
 Track Art: Tavia Morra
 Duration: 1:28
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/waiting-for-adventure-loading-screen
 - https://youtu.be/76qyHMO_To4
@@ -39,7 +40,8 @@ Directory: sburban-prelude
 Artist: sidewalkbanana
 Track Art: RunDoubleRun, Emily
 Duration: 6:35
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sburban-prelude-main-menu
 - https://youtu.be/pfN56WauQMc
@@ -77,7 +79,9 @@ Directory: dawn-of-the-end
 Artist: Max Wright
 Track Art: invalidgriffin
 Duration: 3:51
-References: Sburban Jungle, Umbral Ultimatum
+References:
+- track:sburban-jungle
+- Umbral Ultimatum
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dawn-of-the-end-countdown
 - https://youtu.be/1Go4d26_Fc4
@@ -385,7 +389,8 @@ Directory: resurrection
 Artist: Brad Griffin
 Track Art: Kate Holden
 Duration: 2:22
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/resurrection-god-tier
 - https://youtu.be/nikAW_QAZ6U
@@ -420,7 +425,7 @@ Track Art: Dawn Davis
 Duration: 5:08
 References:
 - The Will to Fight (Original Mix) [Denizen Strife]
-- Showtime (Piano Refrain)
+- track:showtime-piano-refrain
 - Waking the Beast [Denizen Encounter]
 Art Tags:
 - Denizens
@@ -575,7 +580,8 @@ Directory: the-will-to-fight-original-mix
 Artist: Kevin Grant
 Track Art: Dawn Davis
 Duration: 4:41
-References: Showtime (Original Mix)
+References:
+- track:showtime-original-mix
 Art Tags:
 - Denizens
 URLs:

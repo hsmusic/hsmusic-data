@@ -17,7 +17,8 @@ Directory: showtime-piano-refrain-vol-1-4
 AKA: track:showtime-piano-refrain
 Artist: Kevin Regamey
 Duration: 2:20
-References: Showtime (Original Mix)
+References:
+- track:showtime-original-mix
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-piano-refrain-3
 - https://youtu.be/DkVQaxrXM_s
@@ -46,7 +47,8 @@ AKA: track:aggrieve-violin-refrain
 Artist: Andrew Huo
 Contributors: Gabe Nezovic (mastering)
 Duration: 1:34
-References: Aggrieve
+References:
+- track:aggrieve
 URLs:
 - https://homestuck.bandcamp.com/track/aggrieve-violin-refrain-3
 - https://youtu.be/lzXuvymrzZg
@@ -56,7 +58,8 @@ Directory: sburban-countdown-vol-1-4
 AKA: track:sburban-countdown
 Artist: Mark Hadley
 Duration: 0:38
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 URLs:
 - https://homestuck.bandcamp.com/track/sburban-countdown-3
 - https://youtu.be/1402jlRYFuw
@@ -75,7 +78,8 @@ Directory: showtime-imp-strife-mix-vol-1-4
 AKA: track:showtime-imp-strife-mix
 Artist: Buzinkai, Curt Blakeslee (fanfare)
 Duration: 1:57
-References: Showtime (Original Mix)
+References:
+- track:showtime-original-mix
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-imp-strife-mix-3
 - https://youtu.be/KBQQj_4t1Uo
@@ -85,7 +89,8 @@ Directory: nannaquin-vol-1-4
 AKA: track:nannaquin
 Artist: Mark Hadley
 Duration: 1:24
-References: Harlequin
+References:
+- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/nannaquin-3
 - https://youtu.be/0hDCamkN5HM
@@ -107,7 +112,8 @@ AKA: track:harlequin-rock-version
 Artist: Michael Guy Bowman, Joseph Aylsworth
 Contributors: Joseph Aylsworth (guitar)
 Duration: 2:48
-References: Harlequin
+References:
+- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/harlequin-rock-version-3
 - https://youtu.be/Yi7Wf-BTpMs
@@ -115,7 +121,9 @@ URLs:
 Track: John Sleeps / Skaian Magicant
 Artist: Toby Fox
 Duration: 0:41
-References: Showtime (Piano Refrain), Skies of Skaia
+References:
+- track:showtime-piano-refrain
+- track:skies-of-skaia
 URLs:
 - https://homestuck.bandcamp.com/track/john-sleeps-skaian-magicant-2
 - https://youtu.be/ZAKLIH_anJI
@@ -126,7 +134,7 @@ AKA: track:upward-movement-dave-owns
 Artist: Kalibration
 Duration: 4:20
 References:
-- Amen, Brother
+- track:amen-brother
 URLs:
 - https://homestuck.bandcamp.com/track/upward-movement-dave-owns-3
 - https://youtu.be/i47-v-eVymk
@@ -152,7 +160,8 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Gardener
 Artist: Steve Everson
-References: The Beginning of Something Really Excellent
+References:
+- track:the-beginning-of-something-really-excellent
 Duration: 1:44
 URLs:
 - https://homestuck.bandcamp.com/track/gardener-2
@@ -168,7 +177,8 @@ Directory: showtime-remix-vol-1-4
 AKA: track:showtime-remix
 Artist: Gabe Nezovic
 Duration: 2:02
-References: Showtime (Piano Refrain)
+References:
+- track:showtime-piano-refrain
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-remix-3
 - https://youtu.be/ENWA9aNEkXk
@@ -177,7 +187,8 @@ Track: Aggrieve Remix
 Directory: aggrieve-remix-vol-1-4
 AKA: track:aggrieve-remix
 Artist: Gabe Nezovic
-References: Aggrieve
+References:
+- track:aggrieve
 Duration: 2:11
 URLs:
 - https://homestuck.bandcamp.com/track/aggrieve-remix-3
@@ -195,7 +206,8 @@ URLs:
 Track: Potential Verdancy
 Artist: Robert J! Lake
 Duration: 3:25
-References: Verdancy (Bassline)
+References:
+- track:verdancy-bassline
 URLs:
 - https://homestuck.bandcamp.com/track/potential-verdancy-2
 - https://youtu.be/2W9Dd4RAiHo
@@ -216,7 +228,8 @@ Directory: harleboss-vol-1-4
 AKA: track:harleboss
 Artist: Malcolm Brown
 Duration: 2:47
-References: Harlequin
+References:
+- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/harleboss-3
 - https://youtu.be/nYaiMTPWh78
@@ -226,7 +239,8 @@ Directory: beatdown-round-2-vol-1-4
 AKA: track:beatdown-round-2
 Artist: Curt Blakeslee
 Duration: 2:27
-References: Beatdown (Strider Style)
+References:
+- track:beatdown-strider-style
 URLs:
 - https://homestuck.bandcamp.com/track/beatdown-round-2-3
 - https://youtu.be/knNKryd8jEU
@@ -245,7 +259,8 @@ Directory: dissension-remix-vol-1-4
 AKA: track:dissension-remix
 Artist: David Ko
 Duration: 2:03
-References: Dissension (Original)
+References:
+- track:dissension-original
 URLs:
 - https://homestuck.bandcamp.com/track/dissension-remix-3
 - https://youtu.be/y36JjcfvM0c
@@ -264,7 +279,8 @@ Directory: ohgodwhat-remix-vol-1-4
 AKA: track:ohgodwhat-remix
 Artist: Michael Guy Bowman
 Duration: 1:05
-References: Ohgodwhat
+References:
+- track:ohgodwhat
 URLs:
 - https://homestuck.bandcamp.com/track/ohgodwhat-remix-3
 - https://youtu.be/KlVkDe0iVUc
@@ -283,7 +299,8 @@ Directory: explore-remix-vol-1-4
 AKA: track:explore-remix
 Artist: Gabe Nezovic
 Duration: 2:00
-References: Explore
+References:
+- track:explore
 URLs:
 - https://homestuck.bandcamp.com/track/explore-remix-3
 - https://youtu.be/Zzf5NwkM8Ys
@@ -303,7 +320,8 @@ AKA: track:pony-chorale
 Artist: Michael Guy Bowman
 Contributors: Tavia Morra (vocals)
 Duration: 1:03
-References: Chorale for Jaspers
+References:
+- track:chorale-for-jaspers
 URLs:
 - https://homestuck.bandcamp.com/track/pony-chorale-3
 - https://youtu.be/B88bE5niVFQ
@@ -324,7 +342,8 @@ Directory: hardlyquin-vol-1-4
 AKA: track:hardlyquin
 Artist: Mark Hadley
 Duration: 1:38
-References: Harlequin
+References:
+- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/hardlyquin-3
 - https://youtu.be/c7fzYfxNQLg
@@ -334,7 +353,8 @@ Directory: carefree-victory-vol-1-4
 AKA: track:carefree-victory
 Artist: Andrew Huo, Toby Fox
 Duration: 1:36
-References: Carefree Action
+References:
+- track:carefree-action
 URLs:
 - https://homestuck.bandcamp.com/track/carefree-victory-3
 - https://youtu.be/ocYQytoPE8M
@@ -362,7 +382,8 @@ Directory: three-in-the-morning-rj-vol-1-4
 AKA: track:three-in-the-morning-rj
 Artist: Robert J! Lake
 Duration: 6:29
-References: Three in the Morning
+References:
+- track:three-in-the-morning
 URLs:
 - https://homestuck.bandcamp.com/track/three-in-the-morning-rjs-i-can-barely-sleep-in-this-casino-remix-3
 - https://youtu.be/NutIhwWDqpc
@@ -373,7 +394,8 @@ AKA: track:doctor
 Artist: Buzinkai
 Contributors: Clark Powell (production), Michael Vallejo (production)
 Duration: 2:37
-References: Doctor (Original Loop)
+References:
+- track:doctor-original-loop
 URLs:
 - https://homestuck.bandcamp.com/track/doctor-3
 - https://youtu.be/EQqnA8Brfcg
@@ -403,8 +425,8 @@ Artist: Toby Fox
 Duration: 2:24
 Art Tags: cw: blood
 References:
-- I'm a Member of the Midnight Crew
-- Liquid Negrocity
+- track:im-a-member-of-the-midnight-crew
+- track:liquid-negrocity
 URLs:
 - https://homestuck.bandcamp.com/track/black-3
 - https://youtu.be/dJ7H7MkL1Yk

@@ -55,7 +55,9 @@ Commentary:
 Track: Courser
 Artist: Seth Peelle, Alex Rosetti
 Duration: 4:37
-References: Sburban Jungle, Lotus
+References:
+- track:sburban-jungle
+- Lotus
 URLs:
 - https://homestuck.bandcamp.com/track/courser-2
 - https://youtu.be/EmdRALDqt7k
@@ -103,7 +105,9 @@ Lyrics:
 Track: Tribal Ebonpyre
 Artist: Erik Scheele
 Duration: 1:48
-References: Atomyk Ebonpyre, Sburban Jungle
+References:
+- track:atomyk-ebonpyre
+- track:sburban-jungle
 URLs:
 - https://homestuck.bandcamp.com/track/tribal-ebonpyre-2
 - https://youtu.be/xStVhvhg1i4
@@ -118,10 +122,10 @@ Artist: Michael Guy Bowman
 Duration: 3:57
 References:
 - track:i-dont-want-to-miss-a-thing-aerosmith
-- Sburban Jungle
-- Showtime (Original Mix)
+- track:sburban-jungle
+- track:showtime-original-mix
 - Squiddles!
-- Explore
+- track:explore
 - How Do I Live
 URLs:
 - https://homestuck.bandcamp.com/track/i-dont-want-to-miss-a-thing-2
@@ -183,7 +187,8 @@ URLs:
 Track: Wacky Antics
 Artist: David Ko, Toby Fox
 Duration: 2:05
-References: Vagabounce
+References:
+- track:vagabounce
 URLs:
 - https://homestuck.bandcamp.com/track/wacky-antics-2
 - https://youtu.be/X7x3cKse9YI
@@ -198,7 +203,8 @@ URLs:
 Track: Heir Transparent
 Artist: Robert J! Lake
 Duration: 4:01
-References: Doctor
+References:
+- track:doctor
 URLs:
 - https://homestuck.bandcamp.com/track/heir-transparent-2
 - https://youtu.be/bcUrTlpTKPU
@@ -213,7 +219,9 @@ URLs:
 Track: Squidissension
 Artist: Mark Hadley
 Duration: 2:44
-References: Dissension (Original), Squiddles!
+References:
+- track:dissension-original
+- Squiddles!
 URLs:
 - https://homestuck.bandcamp.com/track/squidissension-2
 - https://youtu.be/zJ7y3sWT7l0
@@ -262,7 +270,8 @@ Lyrics:
 Track: Phrenic Phever
 Artist: Clark Powell
 Duration: 3:18
-References: Doctor
+References:
+- track:doctor
 URLs:
 - https://homestuck.bandcamp.com/track/phrenic-phever-2
 - https://youtu.be/8rlgjJgyhyw
@@ -270,7 +279,11 @@ URLs:
 Track: 3 In The Morning (Pianokind)
 Artist: Erik Scheele
 Duration: 4:13
-References: Three in the Morning, Doctor, Showtime (Piano Refrain), Aggrieve
+References:
+- Three in the Morning
+- track:doctor
+- track:showtime-piano-refrain
+- track:aggrieve
 URLs:
 - https://homestuck.bandcamp.com/track/3-in-the-morning-pianokind-2
 - https://youtu.be/OesxlnyaBGE
@@ -278,7 +291,8 @@ URLs:
 Track: A Tender Moment
 Artist: Toby Fox
 Duration: 2:17
-References: Atomyk Ebonpyre
+References:
+- track:atomyk-ebonpyre
 URLs:
 - https://homestuck.bandcamp.com/track/a-tender-moment-2
 - https://youtu.be/hyP0FFPcL0c

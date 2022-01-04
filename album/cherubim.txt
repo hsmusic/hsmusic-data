@@ -138,7 +138,9 @@ Track: Constant Conquest
 Artist: Michael Guy Bowman
 Track Art: Elly Beck
 Duration: 4:46
-References: Constant Confinement, Doctor
+References:
+- Constant Confinement
+- track:doctor
 Art Tags:
 - Caliborn
 URLs:
@@ -183,14 +185,14 @@ URLs:
 - https://homestuck.bandcamp.com/track/eternity-served-cold-2
 - https://youtu.be/wg9jows9Yfo
 References:
-- Sburban Jungle
+- track:sburban-jungle
 - English
-- Revelawesome
+- track:revelawesome
 - Black Rose / Green Sun
-- Endless Climb
-- Ruins
+- track:endless-climb
+- track:ruins
 - Penumbra Phantasm
-- Doctor
+- track:doctor
 Commentary:
     <i>Malcolm Brown:</i>
     First off, a thanks to the folk who enjoyed EsC.
@@ -215,15 +217,15 @@ Commentary:
     <b>The track in more detail</b>
     I tried to be a bit more cinematic in my orchestral arrangement here.  It’s far from perfect, but it’s better than previous attempts.  Gotta keep pushin’ yourself I guess.
     Stuff you should be able to hear:
-    - [[Sburban Countdown]] (At the start and occasionally in other places)
+    - [[track:sburban-countdown|Sburban Countdown]] (At the start and occasionally in other places)
     - [[English]] (Should be obvious)
-    - [[Revelawesome]] (ARound 2:40)
+    - [[track:revelawesome|Revelawesome]] (ARound 2:40)
     - [[Black Hole / Green Sun]] (Twisted a bit, but after the Revelawesome section. The music box makes it noticeable, and 'English’ is playing on top of it)
-    - [[Endless Climb]] (Subtly added at 3:37)
-    - [[Ruins]] at 4:03
+    - [[track:endless-climb|Endless Climb]] (Subtly added at 3:37)
+    - [[track:ruins|Ruins]] at 4:03
     - [[Penumbra Phantasm]] and hints of the finale of the SotDD section in [[Cascade]] at the end.
     Stuff you didn’t hear because the track ends before it gets going:
-    - [[Doctor]]
+    - [[track:doctor|Doctor]]
     - Quite a bit of guitar
     So why make another Medley fest? Quite a lot of the HS themes blend really nicely together, and we can associate a lot of events and memories with past flashes (Revelawesome was used as a kind of gag, but here’s it more sinister).  I do like a good Medley, and judging from the reaction of Descend, RDA and the latest Solo Album, you guys do too!
     The track was made in FL Studio. It mostly uses SoundsOnline EWQL VST libraries, namely:

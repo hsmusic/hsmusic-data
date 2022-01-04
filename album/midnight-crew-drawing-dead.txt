@@ -21,7 +21,8 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Blue Noir
 Artist: David Ko
-References: Vagabounce
+References:
+- track:vagabounce
 Duration: 0:55
 URLs:
 - https://homestuck.bandcamp.com/track/blue-noir-2
@@ -148,7 +149,8 @@ URLs:
 Track: Joker's Wild
 Artist: Mark Hadley
 Duration: 2:16
-References: Harlequin
+References:
+- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/jokers-wild-2
 - https://youtu.be/MDaWJUfxFCM
@@ -166,7 +168,8 @@ URLs:
 Track: Hauntjelly
 Artist: Andrew Huo, Ian Taylor
 Duration: 2:02
-References: Hauntjam
+References:
+- track:hauntjam
 Art Tags:
 - cw: blood (abstract)
 URLs:

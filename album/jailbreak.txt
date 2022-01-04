@@ -81,7 +81,7 @@ Artist: Andrew Huo
 Track Art: Robert J! Lake
 Duration: 2:06
 References:
-- Showtime (Original Mix)
+- track:showtime-original-mix
 - The Beginning of Something Really Excellent
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/confrontation
@@ -257,7 +257,9 @@ Track: Dr. Squiddle
 Artist: Andrew Huo
 Track Art: none
 Duration: 0:48
-References: Doctor, Squiddles!
+References:
+- track:doctor
+- Squiddles!
 URLs:
 - https://youtu.be/lDq9alucoMA
 -------------------------------------------------------------------------------
