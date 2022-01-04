@@ -839,7 +839,11 @@ Commentary:
 Track: Cascante
 Artist: Noisemaker
 Duration: 3:05
-References: Sburban Jungle, Cascade (Beta), Showtime (Piano Refrain), Shave and a Haircut
+References:
+- track:sburban-jungle
+- Cascade (Beta)
+- track:showtime-piano-refrain
+- Shave and a Haircut
 URLs: https://coolandnewwebcomic.bandcamp.com/track/cascante
 -------------------------------------------------------------------------------
 Track: Chalk Emerald
@@ -989,7 +993,7 @@ Has URLs: no
 References:
 - Rex Duodecim Angelus
 - Cascade (Beta)
-- Dissension (Original)
+- track:dissension-original
 -------------------------------------------------------------------------------
 Track: Flow
 Artist: Solatrus
@@ -1112,13 +1116,19 @@ URLs: https://coolandnewwebcomic.bandcamp.com/track/lord-spanish
 Track: Madame Controversielle
 Artist: cookiefonster
 Duration: 2:50
-References: Killed by BR8K Spider!!!!!!!!, Vriska's Theme, MeGaLoVania, Crystalanthemums, Cobalt Corsair
+References:
+- Killed by BR8K Spider!!!!!!!!
+- Vriska's Theme
+- track:MeGaLoVania
+- Crystalanthemums
+- Cobalt Corsair
 URLs: https://coolandnewwebcomic.bandcamp.com/track/madame-controversielle
 -------------------------------------------------------------------------------
 Track: Mayorlovania
 Artist: Noisemaker
 Duration: 2:40
-References: MeGaLoVania
+References:
+- track:MeGaLoVania
 Samples: Mayor Maynot
 URLs: https://coolandnewwebcomic.bandcamp.com/track/mayorlovania
 -------------------------------------------------------------------------------
