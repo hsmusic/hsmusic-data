@@ -138,7 +138,8 @@ Track: Sovereign Domain
 Artist: OpsCat
 Track Art: ackro
 Duration: 2:11
-References: MEGALOVANIA
+References:
+- track:megalovania-undertale
 URLs:
 - https://nightslights.bandcamp.com/track/sovereign-domain
 -------------------------------------------------------------------------------

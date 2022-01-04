@@ -23,7 +23,8 @@ Commentary:
 Track: Hardlyquin
 Artist: Mark Hadley
 Duration: 1:38
-References: Harlequin
+References:
+- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/hardlyquin-3
 - https://youtu.be/CN04ruWv30g
@@ -39,7 +40,8 @@ Has URLs: no
 Track: Carefree Victory
 Artist: Andrew Huo, Toby Fox
 Duration: 1:36
-References: Carefree Action
+References:
+- track:carefree-action
 URLs:
 - https://homestuck.bandcamp.com/track/carefree-victory-3
 - https://youtu.be/2z1Rp2UynQE
@@ -82,7 +84,8 @@ URLs:
 Track: Three in the Morning (RJ's I Can Barely Sleep In This Casino Remix)
 Artist: Robert J! Lake
 Duration: 6:29
-References: Three in the Morning
+References:
+- track:three-in-the-morning
 Directory: three-in-the-morning-rj
 URLs:
 - https://homestuck.bandcamp.com/track/three-in-the-morning-rjs-i-can-barely-sleep-in-this-casino-remix-3
@@ -92,7 +95,8 @@ Track: Doctor
 Artist: Buzinkai
 Contributors: Clark Powell (production), Michael Vallejo (production)
 Duration: 2:37
-References: Doctor (Original Loop)
+References:
+- track:doctor-original-loop
 URLs:
 - https://homestuck.bandcamp.com/track/doctor-3
 - https://youtu.be/ve7TB0FggaY
@@ -125,8 +129,8 @@ Artist: Toby Fox
 Duration: 2:24
 Art Tags: cw: blood
 References:
-- I'm a Member of the Midnight Crew
-- Liquid Negrocity
+- track:im-a-member-of-the-midnight-crew
+- track:liquid-negrocity
 URLs:
 - https://homestuck.bandcamp.com/track/black-3
 - https://youtu.be/5NACWZBDtN8

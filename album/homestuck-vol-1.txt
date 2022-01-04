@@ -13,7 +13,8 @@ Group: Main album
 Track: Showtime (Piano Refrain)
 Artist: Kevin Regamey
 Duration: 2:20
-References: Showtime (Original Mix)
+References:
+- track:showtime-original-mix
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-piano-refrain-3
 - https://youtu.be/U5ggzIxfGDs
@@ -49,7 +50,8 @@ Commentary:
 Track: Sburban Jungle (Brief Mix)
 Artist: Michael Guy Bowman
 Duration: 1:36
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 URLs:
 - https://youtu.be/DKmXadfEnog
 -------------------------------------------------------------------------------
@@ -57,7 +59,8 @@ Track: Aggrieve (Violin Refrain)
 Artist: Andrew Huo
 Contributors: Gabe Nezovic (mastering)
 Duration: 1:34
-References: Aggrieve
+References:
+- track:aggrieve
 URLs:
 - https://homestuck.bandcamp.com/track/aggrieve-violin-refrain-3
 - https://youtu.be/h46wSFVeWAs
@@ -68,7 +71,8 @@ Commentary:
 Track: Sburban Countdown
 Artist: Mark Hadley
 Duration: 0:38
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 URLs:
 - https://homestuck.bandcamp.com/track/sburban-countdown-3
 - https://youtu.be/C3cvihYafCs
@@ -89,7 +93,8 @@ Commentary:
 Track: Showtime (Imp Strife Mix)
 Artist: Buzinkai, Curt Blakeslee (fanfare)
 Duration: 1:57
-References: Showtime (Original Mix)
+References:
+- track:showtime-original-mix
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-imp-strife-mix-3
 - https://youtu.be/WQyRS_czmgc
@@ -100,7 +105,8 @@ Commentary:
 Track: Nannaquin
 Artist: Mark Hadley
 Duration: 1:24
-References: Harlequin
+References:
+- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/nannaquin-3
 - https://youtu.be/Pf5YpbDgCSU
@@ -123,6 +129,7 @@ Group: Bonus tracks
 Track: Aggrieve (Violin Redux)
 Artist: Andrew Huo
 Duration: 0:46
-References: Aggrieve (Violin Refrain)
+References:
+- track:aggrieve-violin-refrain
 URLs:
 - https://youtu.be/K0gpSYelM_k

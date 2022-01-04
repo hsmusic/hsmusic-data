@@ -176,7 +176,8 @@ Track: Litrichean Rioghail
 Artist: Malcolm Brown
 Track Art: Hanni Brosh
 Duration: 5:00
-References: Explore
+References:
+- track:explore
 Art Tags:
 - PM
 URLs: https://youtu.be/RtzNs4pH11Y
@@ -196,7 +197,8 @@ Track: Ruins Rising
 Artist: Michael Guy Bowman
 Track Art: Raizor
 Duration: 5:00
-References: Ruins
+References:
+- track:ruins
 Art Tags:
 - WV
 - Jack Noir
@@ -250,7 +252,8 @@ Track: Vagabounce Remix
 Artist: David Ko
 Track Art: Noot
 Duration: 1:55
-References: Vagabounce
+References:
+- track:vagabounce
 Art Tags:
 - WV
 URLs: https://youtu.be/P_pCaNbhExo

@@ -120,7 +120,8 @@ Track: Ugly Betty
 Artist: Robert J! Lake
 Track Art: Tavia Morra
 Duration: 3:22
-References: Aggrieve (Violin Refrain)
+References:
+- track:aggrieve-violin-refrain
 Art Tags:
 - The Condesce
 URLs:
@@ -184,7 +185,9 @@ Track: Another Jungle
 Artist: Michael Guy Bowman
 Track Art: Richard Gung
 Duration: 4:39
-References: Sburban Jungle, Showtime (Original Mix)
+References:
+- track:sburban-jungle
+- track:showtime-original-mix
 Art Tags:
 - Roxy
 - Dirk
@@ -274,18 +277,18 @@ Artist: Clark Powell
 Track Art: Nic Carey
 Duration: 3:43
 References:
-- Beatdown (Strider Style)
-- Atomyk Ebonpyre
+- track:beatdown-strider-style
+- track:atomyk-ebonpyre
 - Magnificat
-- Explore
-- Endless Climb
+- track:explore
+- track:endless-climb
 - Flare
 URLs:
 - https://homestuck.bandcamp.com/track/austin-atlantis-2
 - https://youtu.be/wPfUy4j9V7c
 Commentary:
     <i>Clark Powell:</i>
-    Nothing inspires me more than spaces, regardless of whether they are real or virtual. Examples include cities, mountains, buildings, individual rooms, even entire planets (see [[album:Medium]]).
+    Nothing inspires me more than spaces, regardless of whether they are real or virtual. Examples include cities, mountains, buildings, individual rooms, even entire planets (see [[album:medium|Medium]]).
     Austin is currently my real world home, and to imagine it flooded and empty is a fascinating thing. Should Dirk ever decide to explore beyond Houston, what forgotten worlds would he find in the other lost Texan fortresses?
     The whole song was written to musically explore this sunken Austin, and to deliver a strong atmosphere and sense of place. The parts I used to piece together this portrait are the constituent Homestuck tunes, each of which I chose because of thematic applicability; they include Beatdown, Explore, Flare, and even Atomyk Ebonpyre.
     To capture the same essence visually in the track art, I knew I could trust Tynic. She is an incredible background artist with an uncanny sense for colors and composition! I am so proud of her work here; the song just wouldn’t be the same without the accompanying artwork.
@@ -362,7 +365,10 @@ Track: Encore
 Artist: Malcolm Brown
 Track Art: Bea
 Duration: 3:09
-References: Showtime (Original Mix), Lifdoff, Unite Synchronization
+References:
+- track:showtime-original-mix
+- Lifdoff
+- Unite Synchronization
 Art Tags:
 - Jake
 URLs:
@@ -390,7 +396,9 @@ Track: Expedition
 Artist: Mark Hadley
 Track Art: Kiddy
 Duration: 2:29
-References: English, Explore
+References:
+- English
+- track:explore
 Art Tags:
 - Jake
 URLs:
@@ -849,17 +857,20 @@ Contributors:
 - viaSatellite (guitar & bass)
 - Ian White (trumpet & bass)
 References:
-- Sburban Jungle
+- track:sburban-jungle
 - Penumbra Phantasm
 - Courser
-- Doctor
+- track:doctor
 - Black Rose / Green Sun
 -------------------------------------------------------------------------------
 Track: A Taste for Adventure
 Artist: Seth Peelle
 Track Art: minty
 Duration: 8:24
-References: Dissension (Original), Carefree Action, Showtime (Original Mix)
+References:
+- track:dissension-original
+- Carefree Action
+- track:showtime-original-mix
 Art Tags:
 - Jake
 URLs:
@@ -906,7 +917,8 @@ Track: Frustracean
 Artist: Toby Fox
 Track Art: Homestuck
 Duration: 2:47
-References: Crustacean
+References:
+- track:crustacean
 URLs:
 - https://www.youtube.com/watch?v=om3VC6ru4yk
 - https://youtu.be/om3VC6ru4yk

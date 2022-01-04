@@ -117,7 +117,8 @@ URLs:
 Track: Apocryphal Antithesis
 Artist: Clark Powell
 Duration: 2:51
-References: Endless Climb
+References:
+- track:endless-climb
 URLs:
 - https://homestuck.bandcamp.com/track/apocryphal-antithesis-2
 - https://youtu.be/PTd8rhHHyEs

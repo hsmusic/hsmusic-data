@@ -233,7 +233,8 @@ Commentary:
 -------------------------------------------------------------------------------
 Track: Some Kind of Alien
 Duration: 1:30
-References: Crustacean
+References:
+- track:crustacean
 URLs:
 - https://homestuck.bandcamp.com/track/some-kind-of-alien-2
 - https://youtu.be/PDZfnEW86Qc

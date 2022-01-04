@@ -3,7 +3,7 @@ Directory: about
 Content:
     Welcome to HSMusic, a fan-made Homestuck music wiki!
     <a href="https://www.homestuck.com/">Homestuck</a> has always been an incredible creative collaboration, and especially beloved by the community and critical in that collaboration is the webcomic and world's humongous soundtrack, comprising well over 500 tracks by dozens of musicians and artists. This wiki aims to be an interesting and useful resource for anyone interested in that music, as well as an archive for all things related.
-    Pertaining to the history of this site: it was originally made as a remake of Homestuck's official <a href="https://homestuck.bandcamp.com/">Bandcamp</a>, which saw its content particularly reduced on <a href="https://twitter.com/hamesatron/status/1187842783618297856">10/25/19</a>. This site aims to be a more reliable resource and reference: track art (conspicuously missing from the Bandcamp) is archived here, solo albums (among other missing albums, like [[album:Squiddles!]]) are all indexed in the one place, and URLs will always stay consistent. And of course, also included are links for listening on Bandcamp and other services.
+    Pertaining to the history of this site: it was originally made as a remake of Homestuck's official <a href="https://homestuck.bandcamp.com/">Bandcamp</a>, which saw its content particularly reduced on <a href="https://twitter.com/hamesatron/status/1187842783618297856">10/25/19</a>. This site aims to be a more reliable resource and reference: track art (conspicuously missing from the Bandcamp) is archived here, solo albums (among other missing albums, like [[album:squiddles]]) are all indexed in the one place, and URLs will always stay consistent. And of course, also included are links for listening on Bandcamp and other services.
     Nowadays, HSMusic also operates as a center for all sorts of fan music, a sort-of home where avid listeners can explore, discover, and support artists and albums within the sphere around Homestuck music. We're always looking to share new music here, so if there's anything you'd like to see, please feel encouraged to [[static:feedback|drop a message]]!
     The code for this website is open source (GPL-3.0), and can be explored or forked <a href="https://notabug.org/hsmusic/hsmusic">here</a>. If you want to get in touch with feature requests or comments on the code, our contact info is [[static:feedback|here]]!
     <i>Resource &amp; Author Credits</i>
@@ -15,7 +15,7 @@ Content:
     - The <a href="https://homestuck-and-mspa-music.fandom.com/wiki/Homestuck_and_MSPA_Music_Wiki">Homestuck and MSPA Music Wiki</a> on Fandom: the inspiration for this wiki! I've wanted to make a more complete and explorable wiki ever since seeing it. The Fandom wiki has also been a very handy reference in putting this together, so much thanks to everyone who's worked on it!
     - <a href="https://www.homestuck.com/">homestuck.com</a>: Besides being the home of the comic this whole site is based around, the main wallpaper for the site is pulled from <a href="https://www.homestuck.com/info-more">More from Homestuck</a>.
     - <a href="https://carrd.co/">carrd.co</a>: I stole your icons.svg file. It is mine now. :tobyfox_dog_sunglasses:
-    - All organizers and contributors of the <a href="https://sollay-b.tumblr.com/post/188094230423/hello-a-couple-of-years-ago-allyssinian">Homestuck Vol. 5 Anthology</a> - community-made track art for [[album:Homestuck Vol. 5]]! All of this art is <i>excellent</i>. Each track credits its respective cover artist.
+    - All organizers and contributors of the <a href="https://sollay-b.tumblr.com/post/188094230423/hello-a-couple-of-years-ago-allyssinian">Homestuck Vol. 5 Anthology</a> - community-made track art for [[album:homestuck-vol-5]]! All of this art is <i>excellent</i>. Each track credits its respective cover artist.
     - Likewise for the <a href="https://hsfanmusic.skaia.net/post/619761136023257089/unofficialmspafans-we-are-proud-to-announce-the">Beyond Canon Track Art Anthology</a> as well as <a href="https://alterniaart.tumblr.com/">Alternia/Bound</a>!
     - All comments on the site: I appreciate all feedback a lot! People have shared a ton of ideas and suggestions with me, and I <i>cannot</i> emphasize enough how motivating it is to share a project with like-minded folx interested in making it better with you.
     <i>Feature &amp; Contribution Acknowledgements</i>
@@ -24,7 +24,7 @@ Content:
     - Monckat, for suggesting the album Strife 2 before I'd begun adding fandom-created albums and unofficial releases to this wiki, and for working with an emailer to reupload the original cover art for [[track:the-thirteenth-hour]].
     - Kidpen, for suggesting the "Flashes that feature this track" feature.
     - an emailer, for suggesting the "Random track" feature.
-    - foreverFlumoxed, for pointing out that [[flash:338]] contains reference to [[JOHN DO THE WINDY THING]] (this reminded me to add all the unreleased Flash tracks to the Unreleased Tracks album!), for recommending the restructure to [[album:Unreleased Tracks]], and for going to the massive effort of checking every track page and pointing out a bunch of missing cover arts and title typos!
+    - foreverFlumoxed, for pointing out that [[flash:338]] contains reference to [[JOHN DO THE WINDY THING]] (this reminded me to add all the unreleased Flash tracks to the Unreleased Tracks album!), for recommending the restructure to [[album:unreleased-tracks]], and for going to the massive effort of checking every track page and pointing out a bunch of missing cover arts and title typos!
     - Makin, for various initial help in data collection (especially commentary) and lifting the site off the ground by pinning it to the top of the /r/homestuck subreddit for a while, and for linking me the independent release of <a href="https://jamesdever.bandcamp.com/album/sburb">Sburb</a>.
     - an emailer, for sending a crop of the YT thumbnail art for [[After the Sun]] (plus the SoundCloud link for that track), for reporting the "Random" buttons being broken, and for linking a bunch of resources and various official uploads of tracks and albums.
     - Niklink, for contributing immensely to the existing lyrics on the wiki and transcribing plenty of new ones that had been totally missed before, as well as for help with archiving the early official album releases ([[album:homestuck-vol-1]] through [[album:homestuck-vol-4]]), and suggesting and contributing to the various album wallpapers across the site.
@@ -73,6 +73,10 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h3>data changes</h3>
+    - fixed [[Black Rose / Green Sun]] not being listed in reference list for [[Black Hole / White Door]]
+    - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
+
     <h2 id="1-sep-2021"><a href="#1-sep-2021">[[date:1 September 2021]]</a></h2>
     <h3>data changes</h3>
     - added missing A6I3 "[[track:weird-moody-horse-shit]]" flashes (thanks, FF!)
@@ -763,9 +767,9 @@ Content:
     - moved the "tracks featured in" section above the "contributors" section, since the contributor list gets quite long in some cases
     - plus a variety of additions, see data changes section
     <h3>data changes</h3>
-    - three new solo albums archived: [[album:Labyrinth's Heart]], [[album:I Am Writing Myself A Dream In A Letter]], [[album:Exceptis Excipiendis]]; plus the 2011 collaborative album [[album:jailbreak]]
+    - three new solo albums archived: [[album:labyrinths-heart]], [[album:i-am-writing-myself-a-dream-in-a-letter]], [[album:exceptis-excipiendis]]; plus the 2011 collaborative album [[album:jailbreak]]
     - added track art for [[album:alternia]] and [[album:alterniabound]], brought over from the <a href="https://alterniaart.tumblr.com/">Alternia/Bound</a> track art anthology projects!
-    - added album links to the index pages for [[album:Shortcuts]] and [[album:p-s]], since i forgot them last time (oops!)
+    - added album links to the index pages for [[album:shortcuts]] and [[album:p-s]], since i forgot them last time (oops!)
     - added bandcamp links to the rereleased album [[album:prospit-and-derse]], plus remastered track art for [[track:hallowed-halls]]!
     - added thumbnail art for [[flash:pony2]]
     - added a bunch of pages for artists/contributors that were previously left linkless
@@ -773,7 +777,7 @@ Content:
     - added missing durations on [[track:galaxy-hearts]], [[track:fighting-spirit]], [[track:joy-and-dreams-eternal]], [[track:master-of-puppets]], and Bill Bolin's removed tracks (thanks, foreverFlummoxed!)
     - added better resolution track art for [[track:tomahawk-head]]
     - copied flash art credits info from <a href="https://www.homestuck.com/credits/art">Homestuck's Art Credits page</a>
-    - fixed [[flash:pq-vol9]] featuring [[Requiem]] (from [[album:Sburb]]) instead of [[track:requiem-labyrinths-heart]] (from [[album:Labyrinth's Heart]])
+    - fixed [[flash:pq-vol9]] featuring [[track:requiem]] (from [[album:sburb]]) instead of [[track:requiem-labyrinths-heart]] (from [[album:labyrinths-heart]])
     - fixed [[flash:644]] and [[flash:651]] featuring "John Sleeps - Skaian Magicant" instead of [[track:john-sleeps-skaian-magicant]]
     - fixed contributor credits for [[track:minihoofs-adventure]] to correctly attribute vocals to [[artist:tavia-morra]] (was crediting "Tavio Morra")
     - fixed contributor credits for [[track:renewed-return]] to correctly attribute percussion to [[artist:jamie-paige-stanley]] (was crediting "Jamie Paige Stanely")
@@ -784,12 +788,12 @@ Content:
     - renamed the track [[track:additional-mayhem-universe-a]] (it used to be spelled "aditional")
     - renamed the artist saffronScarf to [[artist:hanni-brosh]] and fixed their DeviantArt link
     - renamed the artist Shad to [[artist:shad-andrews]]
-    - renamed the ambiguous artist "Kat" to [[artist:kato]] in [[track:the-obsidian-towers]], and to [[artist:nyanface]] in [[track:gilded-sands]], [[track:cumulating-dreams]], [[track:buy-NAK-sell-DOOF]], [[track:Nakkadile]], [[track:planet-in-shadow]], and [[track:paradoxical-meteor-shower]]
+    - renamed the ambiguous artist "Kat" to [[artist:kato]] in [[track:the-obsidian-towers]], and to [[artist:nyanface]] in [[track:gilded-sands]], [[track:cumulating-dreams]], [[track:buy-NAK-sell-DOOF]], [[track:nakkadile]], [[track:planet-in-shadow]], and [[track:paradoxical-meteor-shower]]
     - added artist links for [[artist:bea]], [[artist:pride]], [[artist:kato]], and [[artist:shad-andrews]] (per credits in [[album:prospit-and-derse]] Bandcamp release)
 
     <h2 id="24-july-2020" class="major-release"><a href="#24-july-2020">[[date:24 July 2020]] - recompose, refine</a></h2>
     <h3>new features</h3>
-    - two new albums archived, both from <a href="https://casualsunday.bandcamp.com/">Casual Sunday</a> (a group of the artists behind countless homestuck tracks): [[album:Shortcuts]] and [[album:p-s]]
+    - two new albums archived, both from <a href="https://casualsunday.bandcamp.com/">Casual Sunday</a> (a group of the artists behind countless homestuck tracks): [[album:shortcuts]] and [[album:p-s]]
     - added durations to every track, and rough total sums to album and artist pages
     - added keybindings (shift+N, shift+P, shift+R) for common navigation (respectively next, previous, random) on track, album, and flash pages
     - six new listings:
@@ -799,23 +803,23 @@ Content:
         - [[site:list/tracks/by-duration-in-album/|Tracks - by Duration (in Album)]]
         - [[site:list/tracks/in-flashes/by-album/|Tracks - in Flashes &amp; Games (by Album)]]
         - [[site:list/tracks/in-flashes/by-flash/|Tracks - in Flashes &amp; Games (by First Feature)]]
-    - restructured the [[album:Unreleased Tracks]] album to be broken into four reorganized sections
+    - restructured the [[album:unreleased-tracks]] album to be broken into four reorganized sections
     <h3>data changes</h3>
-    - added the track [[Friendship Aneurysm]] to the [[album:Squiddles!]] album
+    - added the track [[Friendship Aneurysm]] to the [[album:squiddles]] album
     - added some unreleased tracks by artists from the music team: [[Arisen Anew (Remaster)]], [[Cascade (Director's Cut)]]
     - added a bunch of commentary for [[Narrative Command]]
     - added lyrics for [[GameBro (Original 1990 Mix)]], [[GameGrl (Original 1993 Mix)]], [[Remember Me When I Am Gone Away]], [[Magical Hopalong Cassidy Station]], and [[An Apple Disaster!!]]
     - renamed the track [[John Sleeps / Skaian Magicant]] (it used to contain a dash)
     - renamed the track [[The Ultimate Showdown of Ultimate Destiny]] (there used to be a typo)
     - added links to youtube pages for tracks, not just albums
-    - added playlist links for [[album:[S] Collide.]] and [[album:Prospit & Derse]]
+    - added playlist links for [[album:s-collide]] and [[album:prospit-and-derse]]
     - added contribution credits to [[Buy NAK Sell DOOF]]
     - tweaked the reference data for [[FIDUSPAWN, GO!]], [[The Blind Prophet]], [[Highland Thunder]], [[Irrelevance Event Horizon]], [[Hero's Growth]], and [[The Brave and the Bronze]] to show more referenced tracks
     - fixed the bandcamp link for [[Another Jungle]] (it was previously linking to <a href="https://homestuck.bandcamp.com/track/skaianet-2">Skaianet</a>)
     - fixed the commentary for [[Princess of Helium]] being attributed to Clark Powell instead of Tavia Morra
     - fixed the commentary for [[Violet Mariner]] being attributed to... "Violet Mariner" instead of Willow Ascenzo
     - fixed the commentary for [[Despot]] not showing up at all
-    - fixed the link formatting in [[album:One Year Older]] commentary, so that they are automatically color-coded
+    - fixed the link formatting in [[album:one-year-older]] commentary, so that they are automatically color-coded
     - fixed a typo in the commentary attribution for [[Another Chance]]
     - fixed the flash [[flash:5308]] incorrectly referencing "G4M3BL0RG" instead of [[G4M38L0RG]]
     - fixed the flash [[flash:5776]] incorrectly being named "[S] WHddddddEEEEE!" and referencing "A Very Trickster Mode Christmas (WHddddddEEEEE!)" instead of [[A Very Trickster Mode Christmas (WHEEEEEEEEEEE!)]]
@@ -836,19 +840,19 @@ Content:
     - added two new flashes, both featuring [[Fear of the Heavens]]: [[flash:3952]] and [[flash:7086]]
     - added another "flash", this one (indirectly) featuring [[Problem Sleuth Theme]]: [[flash:31]]
     - added [[Nic Cage Romance]] to the list of tracks featured in [[flash:2792]]
-    - moved those last two tracks ([[Problem Sleuth Theme]], [[Nic Cage Romance]]) over to the "Tracks featured in Homestuck" section of [[album:Unreleased Tracks]]
+    - moved those last two tracks ([[Problem Sleuth Theme]], [[Nic Cage Romance]]) over to the "Tracks featured in Homestuck" section of [[album:unreleased-tracks]]
     - added a new track [[Onett Theme]] to the list of tracks referenced in [[Secret ROM]]
-    - hid [[album:Unreleased Tracks]] from the [[site:list/albums/by-date/|Albums - by Date]] and [[site:list/tracks/by-date/|Tracks - by Date]] listings
+    - hid [[album:unreleased-tracks]] from the [[site:list/albums/by-date/|Albums - by Date]] and [[site:list/tracks/by-date/|Tracks - by Date]] listings
 
     <h2 id="12-jun-20" class="major-release"><a href="#12-jun-20">[[date:12 June 2020]] - happy birthday karkat</a></h2>
     <h3>homepage</h3>
     - a new [[static:changelog|Changelog]] page! you are probably reading it now.
-    - two new albums: [[album:Rust Apocalypse]] by Willow Ascenzo, and the follow-up to [[album:Beforus]], [[album:Ancestral]]!
+    - two new albums: [[album:rust-apocalypse]] by Willow Ascenzo, and the follow-up to [[album:beforus]], [[album:ancestral]]!
     <h3>flash pages</h3>
     - flash pages now have links at which they can be listened, besides just on homestuck.com! most importantly: links to HD recordings, so they can be watched at good resolution on any device
     <h3>track pages</h3>
     - previously, all tracks required a URL to be added to the wiki; now, for tracks which don't have any links to be listened at online (but are still referenced by other tracks), they have been added alongside a message saying there aren't any listening links
-    - as such, another full pass through <a href="https://homestuck.net/music/references.html">NSND</a> has been completed, and many tracks which weren't present on the wiki before have been added to the newly reorganized [[album:Unreleased Tracks]] album!
+    - as such, another full pass through <a href="https://homestuck.net/music/references.html">NSND</a> has been completed, and many tracks which weren't present on the wiki before have been added to the newly reorganized [[album:unreleased-tracks]] album!
     <h3>listings</h3>
     - the [[site:list/all-commentary/|All Commentary]] listing page has been tweaked so that links in commentary will follow the color of the album the commentary is from
     - the [[site:list/|listing index]] shows its list in the main content area now too, for when the sidebar is collapsed (see below!)
@@ -859,12 +863,12 @@ Content:
     - also, some changes to the way pages are generated, to make the site usable from hit command-line web browser <a href="https://lynx.browser.org/">Lynx</a>
 
     <h2 id="2-jun-20"><a href="#2-jun-20">[[date:2 June 2020]] - track art for beyond canon</h2>
-    - thanks to the folx who contributed art to and organized the <a href="https://hsfanmusic.skaia.net/post/619761136023257089/unofficialmspafans-we-are-proud-to-announce-the">Beyond Canon Track Art Anthology</a>, the [[album:Beyond Canon]] album now has track art!
+    - thanks to the folx who contributed art to and organized the <a href="https://hsfanmusic.skaia.net/post/619761136023257089/unofficialmspafans-we-are-proud-to-announce-the">Beyond Canon Track Art Anthology</a>, the [[album:beyond-canon]] album now has track art!
     - this anthology also came with a commentary booklet, and that (alongside the sketches contained!) has been transcribed into the wiki!
 
     <h2 id="25-may-20" class="major-release"><a href="#25-may-20">[[date:25 May 2020]] - albums, artists, and urls</a></h2>
     <h3>homepage</h3>
-    - another four new fandom albums! [[album:Sburb OST]], [[album:Beforus]], [[album:Strife 2]], [[album:Perfectly Generic Album]]
+    - another four new fandom albums! [[album:sburb-ost]], [[album:beforus]], [[album:strife-2]], [[album:perfectly-generic-album]]
     - the entire homepage has been restructured, placing official albums from the music team for <i>Homestuck^2: Beyond Canon</i> front and center, and generally adding flare to the rest of the page too
     - a &lt;meta&gt; tag has been added to the homepage, so hsmusic's search result that comes up when you look up "homestuck music wiki" is a lot prettier
     <h3>album pages</h3>
@@ -884,7 +888,7 @@ Content:
     - these let you follow through the history of an artist's contributions without having to navigate back and forth between their own artist page
 
     <h2 id="13-apr-20"><a href="#13-apr-20">[[date:13 April 2020]] - beyond canon</a></h2>
-    - the new official album [[album:Beyond Canon]] has been transcribed! pretty minimal commentary and no track art, as yet.
+    - the new official album [[album:beyond-canon]] has been transcribed! pretty minimal commentary and no track art, as yet.
     - pages for the routes of Hiveswap: Friendsim and Pesterquest were added to the [[site:flash/|Flashes]] page!
     - the new "flash" pages contain full credits for their authors and asset artists, and these can be explored like any other link
 
@@ -892,13 +896,13 @@ Content:
     - per foreverFlummoxed's <a href="https://forum.homestuck.xyz/viewtopic.php?f=7&t=151&sid=4d28b089724502b9019dd52c0fc7cdb2&start=20#p14209">excellent page-checking</a>, a bunch of typos and missing track art around the site have been fixed!
 
     <h2 id="18-mar-20"><a href="#18-mar-20">[[date:18 March 2020]] - more sburb commentary</a></h2>
-    - the [[album:Sburb]] solo album was rereleased by its artist, so Bandcamp links have been copied to its track pages, as have the new commentary released with it
+    - the [[album:sburb]] solo album was rereleased by its artist, so Bandcamp links have been copied to its track pages, as have the new commentary released with it
 
     <h2 id="16-mar-20" class="major-release"><a href="#16-mar-20">[[date:16 March 2020]] - Land of Fans and Music <small>(and References and Randomness and Art and Also Some Other Stuff)</small></a></h2>
     <h3>homepage</h3>
-    - four new albums archived (and their booklets transcribed): [[album:Land of Fans and Music]], [[album:Land of Fans and Music 2]], [[album:Land of Fans and Music 3]], and [[album:Land of Fans and Music 4]]
+    - four new albums archived (and their booklets transcribed): [[album:lofam]], [[album:lofam2]], [[album:lofam3]], and [[album:lofam4]]
     - (the commentary booklets transcribed here are hilarious and very insightful and there are a bunch of easter eggs - check them out!)
-    - another new "album", [[album:Unreleased Tracks]], containing tracks which were never released but were either referenced in released tracks or included in flash animations
+    - another new "album", [[album:unreleased-tracks]], containing tracks which were never released but were either referenced in released tracks or included in flash animations
     - the text of the link to the feedback page has been changed from "Feedback" to "Feedback &amp; Suggestions"
     <h3>listings</h3>
     - two new listings: [[site:list/tracks/by-times-referenced/|Tracks - by Times Referenced]] and [[site:list/random/|Random Pages]]
@@ -909,14 +913,14 @@ Content:
     <h3>artist pages</h3>
     - track credit listings already showed collaborators in contribution lines; now cover art credits do too, e.g. the page for [[artist:mika-b]].</a>
     <h3>miscellaneous</h3>
-    - the <a href="https://sollay-b.tumblr.com/post/188094230423/hello-a-couple-of-years-ago-allyssinian">Homestuck Vol. 5 Anthology</a> has been mirrored in the [[album:Homestuck Vol. 5]] album page
+    - the <a href="https://sollay-b.tumblr.com/post/188094230423/hello-a-couple-of-years-ago-allyssinian">Homestuck Vol. 5 Anthology</a> has been mirrored in the [[album:homestuck-vol-5]] album page
     - a new feature acknowledgements section has been added to the [[static:about|About &amp; Credits]] page
     - a bunch of code changes to make expanding the wiki a fair bit less difficult
 
     <h2 id="1-mar-20" class="major-release"><a href="#1-mar-20">[[date:1 March 2020]] - embracing fanon</a></h2>
     <h3>homepage</h3>
     - the homepage is now split into two sections: "Fandom" and "Official"
-    - only one fandom album now, [[album:Diverging Delicacies]], but more to come soon
+    - only one fandom album now, [[album:diverging-delicacies]], but more to come soon
     - the official album grid listing was changed to sort the newest releases closest to the top of the page, as bandcamp orders releases, to keep consistent with the fandom grid listing (where we want new releases to stand out right away)
     <h3>track pages</h3>
     - the "tracks that referenced" list is now grouped into two sections: official and fandom
@@ -937,17 +941,17 @@ Content:
     <h3>artist pages</h3>
     - within the list of tracks an artist has contributed music to, if that track has been featured in any flashes, those will be listed on the track's contribution line
     <h3>miscellaneous</h3>
-    - switched a couple artist names around, for consistency with credits in the latest release ([[album:Homestuck Vol. 10]])</a>
+    - switched a couple artist names around, for consistency with credits in the latest release ([[album:homestuck-vol-10]])</a>
     - added a new [[static:feedback|Feedback]] page, with links to contact me; this is also linked from the homepage
 
     <h2 id="14-jan-20"><a href="#14-jan-20">[[date:14 January 2020]] - commentary for Sburb</a></h2>
-    - copied commentary for the [[album:Sburb]] album, per descriptions of the YouTube videos
+    - copied commentary for the [[album:sburb]] album, per descriptions of the YouTube videos
 
     <h2 id="6-dec-19"><a href="#6-dec-19">[[date:6 December 2019]] - commentary for [S] Collide.</a></h2>
-    - copied commentary from James Roach on twitter about his contributions to the [[album:[S] Collide.]] album
+    - copied commentary from James Roach on twitter about his contributions to the [[album:s-collide]] album
 
     <h2 id="3-dec-19"><a href="#3-dec-19">[[date:3 December 2019]] - commentary &amp; lyrics</a></h2>
-    - copied over official commentary booklets for three official albums - [[album:AlterniaBound]], [[album:One Year Older]], [[album:Homestuck Vol. 10]] - beginning a long tale of booklet transcription going forward
+    - copied over official commentary booklets for three official albums - [[album:alterniabound]], [[album:one-year-older]], [[album:homestuck-vol-10]] - beginning a long tale of booklet transcription going forward
     - added a new section to track pages for lyrics, e.g. on [[Temporal Shenanigans]]
     - added two new listing pages: [[site:list/tracks/with-lyrics/|Tracks - with Lyrics]] and [[site:list/all-commentary/|All Commentary]]
 
@@ -972,14 +976,14 @@ Content:
 
     <h2 id="19-nov-19"><a href="#19-nov-19">[[date:19 November 2019]] - grouped artist listings</a></h2>
     - artist page credit listings have been sigificantly restructured ([[root:media/misc/changelog/old-artist-page.png|before]], [[root:media/misc/changelog/new-artist-page.png|after]])
-    - contributions are now grouped by album (or more specifically, by release date, which is noteworthy in the case of [[album:Homestuck Vol. 1-4]], which was originally released over a period of four distinct dates, plus one for the final compiled album release)
+    - contributions are now grouped by album (or more specifically, by release date, which is noteworthy in the case of [[album:homestuck-vol-1-4]], which was originally released over a period of four distinct dates, plus one for the final compiled album release)
     - because it's easy to see where tracks are referenced now, dim contribution lines (showing tracks which reference a track by the specific artist, but were not otherwise contributed to by them) have been removed
     - the lists aren't numbered anymore because, with this grouping, it was sort of ambiguous whether that referred to a track's position in the album or if it was a continuous counter of the artist's contributions (it was the latter); both such counters can now be displayed by holding still the cursor over a contribution line for a moment
     - removed a few referenced-track contributions i'd missed switching to the new format (distinct reference lists) earlier
 
     <h2 id="18-nov-19"><a href="#18-nov-19">[[date:18 November 2019]] - high-res cover art</a></h2>
     - copied cover art from <a href="https://www.reddit.com/r/homestuck/comments/dn2s69/i_was_prepared_for_this_eventuality_and_also/">this archive</a>, which was originally compiled by clicking each cover art off the bandcamp to get a higher-resolution cover art (it is intentionally still less than the resolution gotten in purchased album downloads, for particularly high-res art)
-    - commentary for [[album:Hiveswap Act 1 OST]]
+    - commentary for [[album:hiveswap-act-1-ost]]
 
     <h2 id="16-nov-19" class="major-release"><a href="#16-nov-19">[[date:16 November 2019]] - track references &amp; commentary</a></h2>
     <h3>homepage</h3>
@@ -1004,7 +1008,7 @@ Content:
     - (and maybe twitter but my account has long been deleted)
     <h3>homepage</h3>
     - an intro message which has since been moved to [[static:about|About &amp; Credits]]
-    - a grid listing for the albums: all official releases, from [[album:Midnight Crew: Drawing Dead]] through [[album:Hiveswap Friendsim]]
+    - a grid listing for the albums: all official releases, from [[album:midnight-crew-drawing-dead]] through [[album:hiveswap-friendsim]]
     <h3>album pages</h3>
     - album name, release date, track listing, cover art &amp; art credits
     - solo albums also show their artist
@@ -1023,6 +1027,7 @@ Content:
 -------------------------------------------------------------------------------
 Name: Donate
 Directory: donate
+Listed: no
 Content:
     Donations for the wiki are now closed. Thank you to everyone who donated over the course of wiki development, including:
     - Nights
@@ -1033,7 +1038,6 @@ Content:
 Name: HSMusic Community Discord Server
 Short Name: Discord
 Directory: discord
-Listed: no
 Content:
     We have a public Discord server - <a href="https://discord.com/invite/6Cyt9TY">you're welcomed to join!</a>
     We mostly discuss work-in-progress site updates here, sharing feedback and suggestions before (and after!) releases go online.

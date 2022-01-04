@@ -31,7 +31,8 @@ Lyrics:
 Track: A Skaian Christmas
 Artist: Mark Hadley
 Duration: 2:22
-References: Skies of Skaia
+References:
+- track:skies-of-skaia
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/a-skaian-christmas
 - https://youtu.be/VPB_PlYW89M
@@ -154,7 +155,7 @@ Duration: 2:15
 References:
 - Santa Claus Is Comin' to Town
 - God Rest You Merry, Gentlemen
-- Sburban Jungle
+- track:sburban-jungle
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/gog-rest-ye-merry-prospitians
 - https://youtu.be/H1s0RX4ikfE
@@ -166,8 +167,8 @@ Duration: 3:44
 References:
 - Carol of the Bells
 - God Rest You Merry, Gentlemen
-- Doctor
-- Showtime (Piano Refrain)
+- track:doctor
+- track:showtime-piano-refrain
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/carolmanthetime
 - https://youtu.be/pCWVB-AjnXk
@@ -286,7 +287,8 @@ Group: Bonus tracks
 Track: Oh God, Christmas!
 Artist: Lost in History
 Duration: 0:40
-References: Ohgodwhat
+References:
+- track:ohgodwhat
 URLs:
 - https://youtu.be/wN6DYiH6aws
 Lyrics:

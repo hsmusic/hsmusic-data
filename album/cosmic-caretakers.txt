@@ -83,7 +83,9 @@ Track: Nanna's New Groove
 Artist: ndividedbyzero
 Track Art: TheChaoMaster
 Duration: 3:48
-References: Homestuck Anthem, Nannaquin
+References:
+- Homestuck Anthem
+- track:nannaquin
 Art Tags: John's nanna
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/nannas-new-groove
@@ -117,7 +119,9 @@ Artist: Chaosvariant
 Track Art: ackro
 Duration: 2:38
 Art Tags: Dave's bro
-References: Beatdown (Strider Style), Umbral Ultimatum
+References:
+- track:beatdown-strider-style
+- Umbral Ultimatum
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/meteor-schmeteor-ill-cut-that-thing-right-in-half
 - https://youtu.be/aYC3XRHFOkQ
@@ -133,7 +137,10 @@ Track: Hunting the Most Dangerous Game
 Artist: Kanishka
 Track Art: Tipsy
 Duration: 3:30
-References: A Taste for Adventure, Dissension (Remix), Old Secret
+References:
+- A Taste for Adventure
+- track:dissension-remix
+- track:old-secret
 Art Tags: Jade's grandpa, Becquerel, cw: animal death
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/hunting-the-most-dangerous-game
@@ -194,8 +201,8 @@ Track Art: gelasticat
 Duration: 3:48
 References:
 - The Thirteenth Hour
-- Endless Climb
-- Aggrieve
+- track:endless-climb
+- track:aggrieve
 - DAVE STRIDER'S COOL MIXTAPE
 Art Tags: Roxy's mom
 URLs:
@@ -216,7 +223,7 @@ Artist: ndividedbyzero
 Track Art: dazed-squid
 Duration: 3:54
 References:
-- Beatdown (Strider Style)
+- track:beatdown-strider-style
 - This Is America
 - Giorgio by Moroder
 - Bodies
@@ -227,7 +234,7 @@ References:
 - What is a Juggalo?
 - Waters of Nazareth
 - SWEET BRO AND HELLA JEFF SHOW
-- Upward Movement (Dave Owns)
+- track:upward-movement-dave-owns
 Art Tags: Dirk's bro
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-dave-strider-experience
@@ -260,10 +267,10 @@ Track Art: Jas
 Duration: 5:09
 References:
 - Rhapsody in Green
-- Verdancy (Bassline)
+- track:verdancy-bassline
 - Skaianet
 - Gardener
-- Mutiny
+- track:mutiny
 - Roundabout
 - Afraid of the Darko
 - Piss
@@ -449,7 +456,8 @@ Track: Arachnida Antecessor
 Artist: arcaneGemini
 Track Art: Caitlin Beamer
 Duration: 2:11
-References: MeGaLoVania
+References:
+- track:MeGaLoVania
 Art Tags: Vriska's lusus, Vriska, cw: arachnid
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/arachnida-antecessor
@@ -508,7 +516,10 @@ Track: Hippocampaternal
 Artist: FrostyMac
 Track Art: Jas
 Duration: 2:35
-References: Eridan's Theme, Chorale for Jaspers, Science Seahorse
+References:
+- Eridan's Theme
+- track:chorale-for-jaspers
+- Science Seahorse
 Art Tags: Eridan's lusus
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/hippocampaternal
@@ -562,10 +573,10 @@ Duration: 4:10
 References:
 - English
 - Afraid of the Darko
-- Aggrieve
-- Beatdown (Strider Style)
-- Dissension (Original)
-- Showtime (Original Mix)
+- track:aggrieve
+- track:beatdown-strider-style
+- track:dissension-original
+- track:showtime-original-mix
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-puppet-master
 - https://youtu.be/hGnSgIGK6HM
@@ -612,7 +623,7 @@ Artist: ndividedbyzero
 Track Art: Aeritus
 Duration: 4:55
 References:
-- Ruins
+- track:ruins
 - track:disc2-cosmic-caretakers
 - Nova Solis
 - Isle Unto Thyself

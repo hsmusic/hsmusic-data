@@ -23,14 +23,16 @@ URLs:
 Track: Configure the Universe
 Artist: Musical Panini
 Duration: 0:32
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 URLs:
 - https://genesis-project.bandcamp.com/track/configure-the-universe
 -------------------------------------------------------------------------------
 Track: Genesiac Jungle
 Artist: Commander Cello
 Duration: 1:24
-References: Ruins
+References:
+- track:ruins
 URLs:
 - https://genesis-project.bandcamp.com/track/genesiac-jungle
 -------------------------------------------------------------------------------
@@ -49,14 +51,17 @@ URLs:
 Track: Showtime (Panini Mix)
 Artist: Musical Panini
 Duration: 2:08
-References: Showtime (Original Mix)
+References:
+- track:showtime-original-mix
 URLs:
 - https://genesis-project.bandcamp.com/track/showtime-panini-mix
 -------------------------------------------------------------------------------
 Track: Skaian Selection
 Artist: Musical Panini
 Duration: 2:34
-References: Skies of Skaia, Sburban Jungle
+References:
+- track:skies-of-skaia
+- track:sburban-jungle
 URLs:
 - https://genesis-project.bandcamp.com/track/skaian-selection
 -------------------------------------------------------------------------------

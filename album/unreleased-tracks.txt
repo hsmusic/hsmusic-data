@@ -232,7 +232,8 @@ URLs: https://www.youtube.com/watch?v=rbpRX42T7Ho
 Track: Crab Waltz
 Artist: Toby Fox
 Duration: 1:59
-References: Crustacean
+References:
+- track:crustacean
 URLs: https://www.youtube.com/watch?v=oVRCbmh-TI4
 -------------------------------------------------------------------------------
 Track: G4M38L0RG
@@ -398,7 +399,9 @@ Duration: 4:34
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me
 - https://www.youtube.com/watch?v=xSrT-SDN-uA
-References: Showtime (Piano Refrain), Homestuck
+References:
+- track:showtime-piano-refrain
+- Homestuck
 Commentary:
     <i>James Roach:</i>
     SO! PesterQuest is out. We've been sitting on this one for a while. This first route has been done for a while. It was supposed to come out back on 6/12 but our new publisher had us sit on it for reasons that are beyond even me. Anyway, big ups to Malcolm and Mark for letting me use their themes.
@@ -411,7 +414,8 @@ Duration: 3:19
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-please-support-the-trevor-project
 - https://www.youtube.com/watch?v=urbot0kfsz8
-References: Endless Climb
+References:
+- track:endless-climb
 Commentary:
     <i>James Roach:</i>
     I wasn't certain how to approach this one. I knew if I was going to use the theme from endless climb it wouldn't feel right accepting any money for it. These things don't exactly pay well to begin with tbh, so i thought I would use the platform i've been given to try and do something... even a little positive.
@@ -424,7 +428,8 @@ Track: 2chords
 Artist: James Roach
 Track Art: Homestuck
 Duration: 1:13
-References: Upward Movement (Dave Owns)
+References:
+- track:upward-movement-dave-owns
 URLs: https://www.youtube.com/watch?v=Q3JQPZ2T03k
 -------------------------------------------------------------------------------
 Track: ill probably just name this one something normal oh no wait oh jeez aw beans
@@ -447,7 +452,10 @@ Duration: 2:51
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-247-lo-fi-anime-beats-to-question-your-sexuality-to
 - https://www.youtube.com/watch?v=0I2ufAhRbf0
-References: 2chords, Upward Movement (Dave Owns), Sburban Jungle
+References:
+- 2chords
+- track:upward-movement-dave-owns
+- track:sburban-jungle
 Commentary:
     <i>James Roach:</i>
     i just wanted to do more than one song so i did two and a half. hope you like it. thanks for all the support! also im in this image can u find me LMAO
@@ -461,7 +469,9 @@ Duration: 6:02
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-james-roach-ft-speak-n-say-carefree-victory-remix
 - https://www.youtube.com/watch?v=c8aZFD8ic9A&
-References: Carefree Action, Carefree Victory
+References:
+- Carefree Action
+- track:carefree-victory
 Commentary:
     <i>James Roach:</i>
     jades theme! wow we've really come a long way huh fellas?
@@ -512,7 +522,8 @@ Duration: 5:28
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-crustacean
 - https://www.youtube.com/watch?v=9hdPSPGCK3Q
-References: Crustacean
+References:
+- track:crustacean
 Commentary:
     <i>James Roach:</i>
     there are a handful of people out there who really thought we were just gonna put karkalicious in there.
@@ -549,7 +560,7 @@ Contributors: Tamara Fritz (vocals)
 Duration: 5:41
 References:
 - it's a cover of 'made of time'
-- MeGaLoVania
+- track:MeGaLoVania
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-aradias-theme-yeah-it-is
 - https://www.youtube.com/watch?v=MDqXkGBFPg0
@@ -625,7 +636,7 @@ References:
 - Homestuck
 - Penumbra Phantasm
 - Unite Synchronization
-- MeGaLoVania
+- track:MeGaLoVania
 - Homestuck Anthem
 - WORST END
 Commentary:
@@ -816,7 +827,10 @@ Commentary:
 Track: Cascade (Director's Cut)
 Artist: Tensei
 Duration: 4:20
-References: Cascade (Beta), Sburban Jungle, Beatdown (Strider Style)
+References:
+- Cascade (Beta)
+- track:sburban-jungle
+- track:beatdown-strider-style
 URLs: https://youtu.be/Ejw-E2HBtlY
 Commentary:
     <i>Tensei:</i>
@@ -856,7 +870,8 @@ URLs:
 Track: Clockwork Apocalypse
 Artist: Thomas Ferkol
 Duration: 1:39
-References: Endless Climb
+References:
+- track:endless-climb
 URLs: https://www.youtube.com/watch?v=e1d8iai1Wlk
 -------------------------------------------------------------------------------
 Track: CONTACT
@@ -1005,7 +1020,7 @@ References:
 - Rex English
 - Unite Synchronization
 - Homestuck Anthem
-- Showtime (Original Mix)
+- track:showtime-original-mix
 URLs:
 - https://www.youtube.com/watch?v=OqT3gaihbPE
 - https://soundcloud.com/dragonxvi/ham-and-steak-unused-homestuck-music
@@ -1028,7 +1043,8 @@ URLs:
 Track: Homestuck Title Screen
 Artist: MK_97
 Duration: 8:28
-References: Skies of Skaia
+References:
+- track:skies-of-skaia
 URLs: https://www.youtube.com/watch?v=N_kGx5RikYA
 -------------------------------------------------------------------------------
 Track: I Am An Island
@@ -1040,7 +1056,9 @@ Track: Intro
 Directory: intro-canwave2
 Artist: Aris Martinian
 Duration: 3:07
-References: The Star-Spangled Banner, Explore
+References:
+- The Star-Spangled Banner
+- track:explore
 URLs: https://coolandnewwebcomic.bandcamp.com/track/intro
 -------------------------------------------------------------------------------
 Track: In the Beginning
@@ -1153,7 +1171,8 @@ URLs: https://www.youtube.com/watch?v=sIgtSvgERB4
 Track: Patient
 Artist: Toby Fox
 Duration: 0:59
-References: Doctor
+References:
+- track:doctor
 URLs:
 - https://youtu.be/HNdCAUpmXws
 -------------------------------------------------------------------------------
@@ -1195,17 +1214,17 @@ References:
 - My Little Pony Theme
 - Karkat's Theme
 - Archagent Everlasting
-- Atomyk Ebonpyre
+- track:atomyk-ebonpyre
 - Terezi's Theme
 - justice must be a serve
 - RollerCoaster Tycoon Theme
 - Dance of Thorns
-- Harlequin
+- track:harlequin
 - track:miracles-icp
 - Where making this hapen
 - Courser
 - Chalk Emerald
-- mIrAcLeS
+- track:miracles
 URLs: https://coolandnewwebcomic.bandcamp.com/track/rex-mille-geromius
 -------------------------------------------------------------------------------
 Track: Ruins
@@ -1257,7 +1276,10 @@ URLs:
 Track: Skaia Voyages
 Artist: Seth Peelle
 Duration: 1:12
-References: Sburban Jungle, Showtime (Piano Refrain), Skies of Skaia
+References:
+- track:sburban-jungle
+- track:showtime-piano-refrain
+- track:skies-of-skaia
 URLs: /media/misc/archive/Skaia%20Voyages.mp3
 -------------------------------------------------------------------------------
 Track: Skaian Shuffle
@@ -1294,7 +1316,8 @@ URLs:
 Track: Strider Showdown
 Artist: Bill Bolin
 Duration: 0:57
-References: Beatdown (Strider Style)
+References:
+- track:beatdown-strider-style
 Has URLs: no
 -------------------------------------------------------------------------------
 Track: Smackdown
@@ -1390,7 +1413,8 @@ Commentary:
 Track: Void Session
 Artist: Ducky Senpai
 Duration: 2:39
-References: Sburban Jungle
+References:
+- track:sburban-jungle
 URLs: https://www.youtube.com/watch?v=kdfgB3Gc_pw
 -------------------------------------------------------------------------------
 Track: Where making this hapen

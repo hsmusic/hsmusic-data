@@ -17,7 +17,7 @@ URLs:
 Commentary:
     <i>Toby Fox:</i>
     Bad news for everyone.
-    This album is not here to explode your pants off. This album is not one that is going to give you a hemmorage from headbanging too much. If you want hard-rocking, excellently mastered, brainkilling tracks, look no further than Tensei's [[album:Strife!]] album. It should wet your whistle for heavy metal, and possibly any other multitude of wind instruments you present to its sweaty, testosterone-laden spray.
+    This album is not here to explode your pants off. This album is not one that is going to give you a hemmorage from headbanging too much. If you want hard-rocking, excellently mastered, brainkilling tracks, look no further than Tensei's [[album:strife]] album. It should wet your whistle for heavy metal, and possibly any other multitude of wind instruments you present to its sweaty, testosterone-laden spray.
     Instead.
     This album is for a special group of people. The people that open the AlterniaBound flashes in one tab and then leave them on repeat, just so they can listen to Horschestra 4000 times. These are the people that complained incessantly when Eridan's theme wasn't on an album, even though it hadn't even existed in the comic yet. Some of these people have named their children after MSPA characters.
     You terrible, wonderful people. This album is your fault.
@@ -64,7 +64,8 @@ Track: Karkat's Theme
 Artist: Toby Fox
 Track Art: gaylalondes
 Duration: 1:58
-References: Crustacean
+References:
+- track:crustacean
 Art Tags:
 - Karkat
 URLs:
@@ -73,7 +74,7 @@ URLs:
 Commentary:
     <i>Toby Fox:</i>
     (Karkat Walkabout)
-    [[album:Alternia]] began when I created [[Crustacean]].
+    [[album:alternia|Alternia]] began when I created [[track:crustacean|Crustacean]].
     AlterniaBound began when Andrew asked me for a looping version of that track - Crustacean - to use in a flash. Initially this song was simply so, but after I learned more about the scope and depth of the AlterniaBound project... I decided that more of a change was in order for the track. (It was at that point that I also decided it would be cool to have some hidden tracks... leading to the early premiere of many tracks that would eventually be on [[album:homestuck-vol-6]].
     A little while ago, I finished the "final version" of this track. It's not incredibly melodic or wrenchingly dire like my usual fare, but it still remains one of my own personal favorites:
     - It's pompous, alien, and goofy - in short, pretty accurate of Karkat and Alternia as a whole
@@ -104,7 +105,7 @@ Commentary:
     So this pretty much happened when Radiation went "yo jit make something" and I was like "okay", and then later I was like "bluuuuuuh don't know what to write", and then Radiation went "do trollcops", and I went "no that's dumb, stupid dumb, what is trollcops even", and Radiation went "DO IT JIT YOU BUTT", and I was like "NO RADIATION I HATE EVERYTHING". And then, Mellotron samples happened, and here we are. Also, it should be pointed out that in the version with vocals, [[Trollcops (Radio Play)]], there's a name drop of the fan music piece that htis is based off of. Yes, it takes this long to re-use things, sometimes.
     Besides that, I dunno, just enjoy it.
     <i>Toby Fox:</i>
-    Don't tell anyone, but this is actually a remix of one of Jit's old fansongs called [[Under the Hat]], which was a battle theme for Dad. So if your heart still pines for him... his soul and pipe are contained deep within this track.
+    Don't tell anyone, but this is actually a remix of one of Jit's old fansongs called [[track:under-the-hat-lofam]], which was a battle theme for Dad. So if your heart still pines for him... his soul and pipe are contained deep within this track.
     So damn catchy and sleuthy.
     <i>Homestuck:</i>
     (<i>original track art</i>)
@@ -114,7 +115,10 @@ Track: BL1ND JUST1C3 : 1NV3ST1G4T1ON !!
 Artist: Malcolm Brown
 Track Art: fenkko
 Duration: 2:48
-References: The Lemonsnout Turnabout, Objection! 2001, Sburban Jungle
+References:
+- The Lemonsnout Turnabout
+- Objection! 2001
+- track:sburban-jungle
 Art Tags:
 - Terezi
 - Vriska
@@ -202,7 +206,11 @@ Track: She's a Sp8der
 Artist: Tensei
 Track Art: gaylalondes
 Duration: 3:05
-References: Spider's Claw, MeGaLoVania, Eridan's Theme, Crustacean
+References:
+- Spider's Claw
+- track:MeGaLoVania
+- Eridan's Theme
+- track:crustacean
 Art Tags:
 - Mindfang
 URLs:
@@ -233,14 +241,14 @@ URLs:
 - https://homestuck.bandcamp.com/track/fiduspawn-go-2
 - https://youtu.be/fCBr-v4JswY
 References:
-- Showtime (Imp Strife Mix)
+- track:showtime-imp-strife-mix
 - Pumpkin Cravings
-- Harlequin
+- track:harlequin
 - Sunslammer
 - dESPERADO ROCKET CHAIRS,
-- MeGaLoVania
-- Vagabounce
-- Beatdown (Strider Style)
+- track:MeGaLoVania
+- track:vagabounce
+- track:beatdown-strider-style
 Commentary:
     <i>David Ko:</i>
     (Tavros' Battle Theme)
@@ -520,7 +528,7 @@ URLs:
 - https://homestuck.bandcamp.com/track/rex-duodecim-angelus-2
 - https://youtu.be/hn6Yl371mIc
 References:
-- Crustacean
+- track:crustacean
 - The Lemonsnout Turnabout
 - dESPERADO ROCKET CHAIRS,
 - Virgin Orb
@@ -537,7 +545,7 @@ Commentary:
     This was designed as music for the EPIC yet only hinted at battle between the Black King and the Trolls at the end of their game. Rather than making it a fast-paced action-centric doom-fest, it ended upmore like some kind of apocalyptic dance number: The Trolls, despite going against fairly tough odds, all banded together under Karkat's leadership into a well oiled, tactical nuclear force that managed to overcome the Black King and beat the game.
     It is, along with the unique 'Black King's theme, more or less a combination of various Troll themes arranged in order of attack. It's probably easier to just explain what's going on where:
     0:00 - We start with the black king's introduction, Aradiabots from doomed timelines teleporting in and assembling, the reckoning beginning, the Vast Glub being suppressed.
-    1:34 - At this point, the fearless leader steps into action as the first to attack ([[Crustacean]]). I like to think this move shreds any sense of doubt they had in Karkat as leader at this point. Karkat's theme's quite fun to work with, so I enjoyed this bit.
+    1:34 - At this point, the fearless leader steps into action as the first to attack ([[track:crustacean|Crustacean]]). I like to think this move shreds any sense of doubt they had in Karkat as leader at this point. Karkat's theme's quite fun to work with, so I enjoyed this bit.
     2:03 - Terezi made sense as a logical follow to Karkat ([[The Lemonsnout Turnabout]]). It starts off quite simple yet more organised than Karkat's section, representing Terezi's initial appearance as a fairly harmless, blind Troll girl, before building up to her surprise attack. I'd already mucked about with Terezi's theme in my other track, but this one I think is a bit more faithful to the original.
     2:34 - The King responds.
     2:56 - Tavros in his Jet Car ([[dESPERADO ROCKET CHAIRS,]]). There's a hint of tragedy to Tavros' character that I think comes through here - His melody kinda builds up but just as he's about to act it kinda fades back down. Ah well... The world's smallest violin is playing the intro trumpet section to Tavros' original theme here.
@@ -690,7 +698,7 @@ Contributors: hank hill & cyclops (everything)
 References:
 - The La2t Frontiier
 - Yahoos and Triangles
-- MeGaLoVania
+- track:MeGaLoVania
 - Courser
 - Guile's Theme
 Art Tags:

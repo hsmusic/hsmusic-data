@@ -277,7 +277,8 @@ URLs:
 -------------------------------------------------------------------------------
 Track: Spookwave
 Duration: 0:25
-References: Spooktune
+References:
+- track:spooktune-undertale
 URLs:
 - https://tobyfox.bandcamp.com/track/spookwave
 - https://youtu.be/o251comtNfk
