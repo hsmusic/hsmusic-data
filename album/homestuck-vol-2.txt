@@ -18,7 +18,7 @@ URLs:
 - https://homestuck.bandcamp.com/track/harlequin-rock-version-3
 - https://youtu.be/g5TDTcMEL_c
 -------------------------------------------------------------------------------
-Track: Skaian Dreams Remix
+Track: Skaian Dreams (Remix)
 Artist: Bill Bolin
 Duration: 1:30
 References:
@@ -68,6 +68,8 @@ Artist: Gabe Nezovic
 Duration: 2:02
 References:
 - track:showtime-piano-refrain
+Samples:
+- track:showtime-piano-refrain
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-remix-3
 - https://youtu.be/VliU0X6XVpA
@@ -75,7 +77,9 @@ URLs:
 Track: Aggrieve Remix
 Artist: Gabe Nezovic
 References:
-- track:aggrieve
+- track:aggrieve-violin-refrain
+Samples:
+- track:aggrieve-violin-refrain
 Duration: 2:11
 URLs:
 - https://homestuck.bandcamp.com/track/aggrieve-remix-3
@@ -91,4 +95,6 @@ URLs:
 Track: Kinetic Verdancy
 Artist: Bill Bolin
 Duration: 1:30
+References:
+- track:verdancy-bassline
 Has URLs: no

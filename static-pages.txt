@@ -30,7 +30,8 @@ Content:
     - Niklink, for contributing immensely to the existing lyrics on the wiki and transcribing plenty of new ones that had been totally missed before, as well as for help with archiving the early official album releases ([[album:homestuck-vol-1]] through [[album:homestuck-vol-4]]), and suggesting and contributing to the various album wallpapers across the site.
     - nuclear333, for a variety of valuable feedback and discussion, as well as for spearheading projects like the <a href="https://twitter.com/nueclear333/status/1336407226492178432">unofficial Pesterquest OST album &amp; metadata</a>.
     - Bambosh, for creating <a href="https://bambosh.github.io/unofficial-homestuck-collection/">The Unofficial Homestuck Collection</a> and integrating data from HSMusic so seamlessly into it, and for sharing a number of handy data fixes and comments.
-    - Thanks for pointing out typos, errors in reference lists, and out of date details: cookiefonster, foreverFlummoxed, an emailer, Bambosh, and Niklink.
+    - Nameless Rumia for providing an initial transcription of the [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele|40+ MINUTE LONG Jailbreak audio commentary]].
+    - Thanks for pointing out typos, errors in reference lists, and out of date details: cookiefonster, foreverFlummoxed, an emailer, Bambosh, Niklink, Leo, Cello, and Sgeo.
     <i>Supporter &amp; Patron Thank-yous</i>
     <b>Thank you</b> to all present and past [[static:donate|supporters]] of the wiki, including:
     - Nights, enchantingHunter, leo homestuck, and Gradis.
@@ -73,9 +74,45 @@ Style:
         margin-bottom: 0.6em;
     }
 Content:
+    <h3>site changes</h3>
+    - (nebula writes about all the site changes here)
+    <h3>albums</h3>
+    - added [[album:lofam5]]!
+        - new artists: [[artist:c4rl3tt]], [[artist:aradiawithgeese]], [[artist:bakustrider]], [[artist:cloudie]], [[artist:crabaqqle]], [[artist:dromswell]], [[artist:fabricio-podest]], [[artist:flaredragon]], [[artist:j-airshiper]], [[artist:l4vo5]], [[artist:mmueoul]], [[artist:momora]], [[artist:monckat]], [[artist:nagunkgunk]], [[artist:pagingpossum]], [[artist:shwan]], [[artist:subversiveasset]], [[artist:sylvarn]], [[artist:tamajikis]], [[artist:v-6]], [[artist:warxtron]]
+            - updated links and names for several artists based on their credits for this album
+        - new [[album:unreleased-tracks|unreleased tracks]] for songs references in the album: [[track:a-very-o-christmas]], [[track:all-alone]], [[track:blankest-stare]], [[track:cascante]], [[track:d-break-the-bow]], [[track:die]], [[track:dwelling-among-the-dream-bubbles]], [[track:eclipse-svert]], [[track:exploring-the-depths-of-sburb]], [[track:five-four-stress]], [[track:flight-of-the-white-wolf]], [[track:gentle-heat]], [[track:in-the-beginning-canwc]], [[track:it-looks-back]], [[track:jittery-optimist]], [[track:madame-controversielle]], [[track:mayorlovania]], [[track:miasmic-decay]], [[track:more-real-than-kraft-mayo]], [[track:saoidfisd]], [[track:slamdown]], [[track:snowfall]], [[track:song-for-rose-lalonde]], [[track:switchback]], [[track:temporal-virtuoso]], [[track:windwielder]]
+        - new [[album:unreleased-tracks|unreleased non-homestuck tracks]] as well: [[track:boss-mode]], [[track:destroy-them-with-lazers]], [[track:lrad]], [[track:my-sharona]], [[track:no-more-elders]], [[track:plur-police]], [[track:schalas-theme]], [[track:shave-and-a-haircut]], [[track:title-mega-man-3]]
+            - new artist entries for these in turn: [[artist:bambosh]], [[artist:braiden-brian]], [[artist:gordian]], [[artist:greentetrahedron]], [[artist:soluslunes]], [[artist:rowyn-berlan]], [[artist:knife-party]], [[artist:mega-man]], [[artist:the-knack]]
+        - [[track:gold-mage-playtime-is-over-mix]] is now in [[album:lofam5|LoFaM5]] instead of [[album:unreleased-tracks]]
+    <h3>other additions</h3>
+    - added eight missing bonus tracks to [[album:strife-2]] (thanks, Cello!)
+        - [[track:the-king-in-red-beta]], [[track:unite-division-beta]], [[track:arachnofunkia-beta]], [[track:heel-girl-beta]], [[track:daet-with-roze]], [[track:dance-of-thorns-karaoke]], [[track:bound-in-blood-beta]], [[track:duet]]
+            - added [[track:thin-red-line]] and [[artist:blazblue]] for references
+    - added [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]] to [[album:jailbreak-vol-1]]
+        - fully transcribed, all 43 minutes of it (thanks Nameless Rumia for the initial transcription!)
+    - added [[track:haunt]] to [[album:unreleased-tracks]]
     <h3>data changes</h3>
+    - added information for separate 'sampling' reference field to many tracks (mainly in [[group:official]], [[group:homestuck-gaiden]], and [[album:lofam5]]), not visible for now until support is implemented
+        - some reference information will have appeared to disappear until then as it has been moved to samples
+    - fixed incorrect title for [[track:skaian-dreams-remix]]
+    - fixed [[track:contention]] not attributing [[group:toby-fox]]
+    - fixed [[track:caramelldansen]] not attributing [[artist:caramell]] (thanks, Leo!)
+    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], and [[track: temporal-shenanigans]]
+    - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
+    - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
+    - fixed [[track:verdancy-bassline]] not being listed in reference list for [[track:kinetic-verdancy]]
+    - fixed [[track:guardian]] not being listed in reference list for [[track:guardian-v2]]
+    - fixed [[track:haunt]] not being listed in reference list for [[track:hauntjam]]
+    - fixed [[track:five-four-stress]] not being listed in reference list for [[track:stress]]
     - fixed [[Black Rose / Green Sun]] not being listed in reference list for [[Black Hole / White Door]]
+    - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
+    - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
+    - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, Leo!)
+    - replaced dead Youtube link to [[track:corridors-of-time]] (thanks, Sgeo!)
+    - directory changed for some [[album:jailbreak-vol-1]] content
+    - art tags for [[album:strife]] and [[album:act-7]]'s covers
+    - added art tags for some Hiveswap characters (unused except for [[tag:jude]])
 
     <h2 id="1-sep-2021"><a href="#1-sep-2021">[[date:1 September 2021]]</a></h2>
     <h3>data changes</h3>
@@ -233,7 +270,7 @@ Content:
         - better upscale: [[album:homestuck-vol-5]], [[album:homestuck-vol-6]], [[album:homestuck-vol-7]], [[album:homestuck-vol-8]], [[album:homestuck-vol-9]], [[album:symphony-impossible-to-play]], [[album:one-year-older]], [[album:genesis-frog]], [[album:cherubim]], [[album:tomb-of-the-ancestors]], [[album:sburb-ost]], [[album:lofam2]], [[album:lofam3]], [[album:beforus]], [[album:weird-puzzle-tunes]], [[album:ancestral]], [[album:lofam4]], [[album:xenoplanetarium]], [[album:moons-of-theseus]]
         - extend background horizontally: [[album:gristmas-carols]], [[album:cosmic-caretakers]], [[album:diverging-delicacies]], [[album:friendsymphony]], [[album:shortcuts]], [[album:p-s]]
         - reconstruct: [[album:alterniabound]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:psycholonials]] (and EPs)
-        - draw more background: [[album:lofam]], [[album:jailbreak]], [[album:ancestral]]
+        - draw more background: [[album:lofam]], [[album:jailbreak-vol-1]], [[album:ancestral]]
         - font reconstruction: [[album:homestuck-vol-5]], [[album:homestuck-vol-6]]
     - art tag fixes from LowDeath675 in a whole host of albums:
         - [[album:alternia]] ([[track:walls-covered-in-blood]])
@@ -315,7 +352,7 @@ Content:
     - added an info line showing which groups an artist has contributed tracks and art under
     <h3>data changes</h3>
     - added wallpapers for [[album:act-7]], [[album:p-s]], [[album:shortcuts]], [[album:tomb-of-the-ancestors]], [[album:deltarune-ch1-ost]], and [[album:undertale-soundtrack]]
-    - added banners for [[album:alterniabound]], [[album:cherubim]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:genesis-frog]], [[album:homestuck-vol-5]], [[album:homestuck-vol-6]], [[album:homestuck-vol-7]], [[album:homestuck-vol-8]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:squiddles]], [[album:symphony-impossible-to-play]], [[album:the-wanderers]], [[album:ancestral]], [[album:beforus]], [[album:cosmic-caretakers]], [[album:diverging-delicacies]], [[album:friendsymphony]], [[album:gristmas-carols]], [[album:jailbreak]], [[album:labyrinths-heart]], [[album:lofam]], [[album:lofam2]], [[album:lofam3]], [[album:lofam4]], [[album:moons-of-theseus]], [[album:oceanfalls-vol-1]], [[album:p-s]], [[album:sburb-ost]], [[album:shortcuts]], [[album:tomb-of-the-ancestors]], [[album:weird-puzzle-tunes]], [[album:xenoplanetarium]], and all [[group:psycholonials]] albums
+    - added banners for [[album:alterniabound]], [[album:cherubim]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:genesis-frog]], [[album:homestuck-vol-5]], [[album:homestuck-vol-6]], [[album:homestuck-vol-7]], [[album:homestuck-vol-8]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:squiddles]], [[album:symphony-impossible-to-play]], [[album:the-wanderers]], [[album:ancestral]], [[album:beforus]], [[album:cosmic-caretakers]], [[album:diverging-delicacies]], [[album:friendsymphony]], [[album:gristmas-carols]], [[album:jailbreak-vol-1]], [[album:labyrinths-heart]], [[album:lofam]], [[album:lofam2]], [[album:lofam3]], [[album:lofam4]], [[album:moons-of-theseus]], [[album:oceanfalls-vol-1]], [[album:p-s]], [[album:sburb-ost]], [[album:shortcuts]], [[album:tomb-of-the-ancestors]], [[album:weird-puzzle-tunes]], [[album:xenoplanetarium]], and all [[group:psycholonials]] albums
     - updated description of [[group:inhospitable]] group, courtesy of nuclear333's input
     - fixes for [[album:unreleased-tracks]], courtesy of foreverFlummoxed:
         - added missing durations for [[track:archagent-everlasting]], [[track:boy-skylark]], [[track:calming-quartz-beta]], [[track:chalk-emerald]], [[track:isle-unto-thyself]], [[track:its-your-move]], and [[track:the-witch]]
@@ -484,7 +521,7 @@ Content:
         - [[track:nova-solis]] now featured in [[track:singularity]]
         - [[track:showtime-original-mix]] now featured in [[track:skaian-dreams-remix]]
         - [[track:skies-of-skaia]] now featured in [[track:skaian-dreams-remix]]
-        - [[track:softbit-original-version]] now featured in [[track:softbit]]
+        - [[track:softbit-original-gfd-please-shut-the-fuckass-mix-by-request-demo-version]] now featured in [[track:softbit]]
         - [[track:outer-reaches]] now featured in [[track:emissary-of-dance]]
         - [[track:layers-upon-layers]] now featured in [[track:emissary-of-dance]]
         - [[track:cumuloseerus]] now featured in [[track:emissary-of-dance]]
@@ -535,7 +572,7 @@ Content:
     - we will thankfully never have to do either of the above again
     - added and updated lyrics for a bunch of tracks from [[group:homestuck-gaiden]], courtesy as ever of [[artist:niklink]]:
         - from [[album:homestuck-for-the-holidays]]: [[track:time-for-a-story]], [[track:the-more-you-know]], [[track:the-squiddles-save-christmas]], [[track:billy-the-bellsuit-diver-has-something-to-say]], [[track:squiddly-night]], [[track:the-santa-claus-interdimensional-travel-sleigh]], [[track:candlelight]], [[track:oh-no-its-the-midnight-crew]], [[track:hella-sweet]], [[track:shit-lets-be-santa]], [[track:choo-choo]], [[track:oh-god-christmas]], [[track:a-very-special-time]]
-        - from [[album:jailbreak]]: [[track:drillgorg]], [[track:retrobution]], [[track:a-common-occurrance-every-night-to-be-exact]]
+        - from [[album:jailbreak-vol-1]]: [[track:drillgorg]], [[track:retrobution]], [[track:a-common-occurrance-every-night-to-be-exact]]
         - from [[album:lofam]]: [[track:sadomasopedorobonecrobestiality]], [[track:nakkadile]], [[track:jack-and-black-queen]], [[track:sweet-bro-and-hella-jeff-show]]
         - from [[album:tomb-of-the-ancestors]]: [[track:eternal-suffering]], [[track:spider8ite]]
     - updated a bunch of references in [[album:undertale-soundtrack]] and [[album:deltarune-ch1-ost]], courtesy of [[artist:foreverflummoxed]]:
@@ -553,7 +590,7 @@ Content:
         - [[track:another-him]] now featured in [[track:darkness-falls]]
         - [[track:determination]] now featured in [[track:the-holy]]
     - added lyrics to [[track:carefree-victory-remix]], courtesy of [[artist:foreverflummoxed]] and nata
-    - added missing bonus tracks to [[album:jailbreak]]
+    - added missing bonus tracks to [[album:jailbreak-vol-1]]
     - added [[flash:namco-high]] and its tracks as part of [[album:unreleased-tracks]]
     - moved [[track:a-baby-legend]] to [[album:unreleased-tracks]], since it's not actually part of the original [[album:the-baby-is-you]] release
     - added [[track:a-history-of-babies]] to the reference list of [[track:a-baby-legend]]
@@ -562,7 +599,7 @@ Content:
     - added art content warnings for [[track:black]], [[track:blackest-heart]], [[track:clockwork-reversal]], [[track:trails]], [[track:temporal-piano]], [[track:time-paradox]], [[track:english]]
     - credited original track art of [[track:killed-by-br8k-spider]] to [[artist:lexxy]] instead of [[artist:homestuck]]
     - credited original track art of [[track:the-blind-prophet]] to [[artist:hanni-brosh]] instead of [[artist:homestuck]]
-    - changed the youtube playlist link for [[album:jailbreak]]
+    - changed the youtube playlist link for [[album:jailbreak-vol-1]]
     - fixed description of [[group:the-genesis-project]] missing correctly formatted split
     - removed bandcamp links for [[album:labyrinths-heart]]
     - removed wikipedia links across the site, replacing with youtube video links where relevant
@@ -767,7 +804,7 @@ Content:
     - moved the "tracks featured in" section above the "contributors" section, since the contributor list gets quite long in some cases
     - plus a variety of additions, see data changes section
     <h3>data changes</h3>
-    - three new solo albums archived: [[album:labyrinths-heart]], [[album:i-am-writing-myself-a-dream-in-a-letter]], [[album:exceptis-excipiendis]]; plus the 2011 collaborative album [[album:jailbreak]]
+    - three new solo albums archived: [[album:labyrinths-heart]], [[album:i-am-writing-myself-a-dream-in-a-letter]], [[album:exceptis-excipiendis]]; plus the 2011 collaborative album [[album:jailbreak-vol-1]]
     - added track art for [[album:alternia]] and [[album:alterniabound]], brought over from the <a href="https://alterniaart.tumblr.com/">Alternia/Bound</a> track art anthology projects!
     - added album links to the index pages for [[album:shortcuts]] and [[album:p-s]], since i forgot them last time (oops!)
     - added bandcamp links to the rereleased album [[album:prospit-and-derse]], plus remastered track art for [[track:hallowed-halls]]!
