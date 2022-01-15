@@ -22,7 +22,8 @@ Major Release: true
 Group: Disc 1
 ---
 Track: '>>DiscOne<<'
-Artist: Tee-vee
+Artists:
+- Tee-vee
 Duration: 0:56
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/discone
@@ -31,14 +32,16 @@ Referenced Tracks:
 - Theme
 ---
 Track: Spare Friendship, Ma'am?
-Artist: pizzagremlin
+Artists:
+- pizzagremlin
 Duration: '2:25'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/spare-friendship-maam
 Has Cover Art: false
 ---
 Track: Here on Alternia
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '4:05'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/here-on-alternia
@@ -53,7 +56,8 @@ Art Tags:
 - Chixie
 ---
 Track: today i put......... JELLY on this hot god
-Artist: Tee-vee
+Artists:
+- Tee-vee
 Duration: '2:01'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/today-i-put-jelly-on-this-hot-god
@@ -62,7 +66,8 @@ Cover Artists:
 - Makin
 ---
 Track: Scrubbing Until Morning
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '3:20'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/scrubbing-until-morning
@@ -72,7 +77,8 @@ Art Tags:
 - Marsti
 ---
 Track: Gravedigger's Dirge
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '1:41'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/gravediggers-dirge
@@ -80,7 +86,8 @@ Cover Artists:
 - Jas
 ---
 Track: Dreams of Flight
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '2:21'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dreams-of-flight
@@ -88,7 +95,8 @@ Cover Artists:
 - Chesswanderlust-sama
 ---
 Track: Desert Daring
-Artist: heir-of-puns
+Artists:
+- heir-of-puns
 Duration: '2:36'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/desert-daring
@@ -98,7 +106,8 @@ Art Tags:
 - Skylla
 ---
 Track: Beneath the Night Sky So Dark
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '3:29'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/beneath-the-night-sky-so-dark
@@ -110,7 +119,8 @@ Art Tags:
 Track: >-
     Hi everyone, Antony Fntano here, Alternia's busiest music nerd, and it's time
     for a review of the new Chixie Roixmr album,
-Artist: Tee-vee
+Artists:
+- Tee-vee
 Duration: '3:06'
 URLs:
 - >-
@@ -127,7 +137,8 @@ Lyrics: |-
 ---
 Track: it's hard, being famous. it's hard and nobody understands
 Directory: its-hard-being-famous
-Artist: astropod
+Artists:
+- astropod
 Duration: '2:15'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/its-hard-being-famous-its-hard-and-nobody-understands
@@ -139,7 +150,8 @@ Referenced Tracks:
 - Gold Pilot
 ---
 Track: leech
-Artist: Gryotharian
+Artists:
+- Gryotharian
 Duration: '2:51'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/leech
@@ -150,7 +162,8 @@ Art Tags:
 - Kuprum
 ---
 Track: assault and battery
-Artist: Gryotharian
+Artists:
+- Gryotharian
 Duration: '2:18'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/assault-and-battery
@@ -163,7 +176,8 @@ Referenced Tracks:
 - leech
 ---
 Track: Carefree Consternation
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '2:05'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/carefree-consternation
@@ -175,7 +189,8 @@ Referenced Tracks:
 - Carefree Action
 ---
 Track: '|||Optic Duelist|||'
-Artist: Andrew "Rainy" Obeng
+Artists:
+- Andrew "Rainy" Obeng
 Duration: '4:00'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/optic-duelist
@@ -191,14 +206,17 @@ Referenced Tracks:
 Group: Disc 2
 ---
 Track: '>>DiscTwo<<'
-Artist: Gryotharian
+Artists:
+- Gryotharian
 Duration: 0:25
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/disctwo
 Has Cover Art: false
 ---
 Track: Marvelous Marauder
-Artist: Andrew "Rainy" Obeng, Tee-vee
+Artists:
+- Andrew "Rainy" Obeng
+- Tee-vee
 Duration: '3:45'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/marvelous-marauder
@@ -210,7 +228,8 @@ Referenced Tracks:
 - Umbral Ultimatum
 ---
 Track: no *kills you*
-Artist: astropod
+Artists:
+- astropod
 Duration: '1:37'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/no-kills-you
@@ -220,7 +239,8 @@ Art Tags:
 - Konyyl
 ---
 Track: Caught in the Facts
-Artist: Panfex
+Artists:
+- Panfex
 Duration: '2:29'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/caught-in-the-facts
@@ -232,7 +252,8 @@ Referenced Tracks:
 - track:old-secret
 ---
 Track: Paradox Pariah
-Artist: Baleish
+Artists:
+- Baleish
 Duration: '2:33'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/paradox-pariah
@@ -244,7 +265,8 @@ Referenced Tracks:
 - Studio Space
 ---
 Track: Mother To Many
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '3:02'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/mother-to-many
@@ -255,7 +277,8 @@ Art Tags:
 - 'cw: eye horror'
 ---
 Track: Improved Acumen
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '3:10'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/improved-acumen
@@ -265,7 +288,8 @@ Art Tags:
 - Lynera
 ---
 Track: oWo
-Artist: Chesswanderlust-sama
+Artists:
+- Chesswanderlust-sama
 Duration: '2:30'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/owo
@@ -275,7 +299,8 @@ Art Tags:
 - Wanshi
 ---
 Track: we waste time JADED
-Artist: Tee-vee
+Artists:
+- Tee-vee
 Duration: '3:46'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/we-waste-time-jaded
@@ -298,7 +323,8 @@ Lyrics: |-
     Wasted time & wasted trolls<br>Enjoy your time before the fall<br>Sneak out of your sacred walls<br>Take my tears, make it worth living<br>Hope lost right out of the womb<br>It's up to us not to succumb<br>No point in fighting to your doom<br>Jade blood, black heart, ch-ch-cherrybomb
 ---
 Track: Naive Harmony
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '3:13'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/naive-harmony
@@ -308,7 +334,8 @@ Art Tags:
 - Lanque
 ---
 Track: '*Legal Fees Pending'
-Artist: Scorpyus
+Artists:
+- Scorpyus
 Duration: '3:28'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/legal-fees-pending
@@ -318,7 +345,8 @@ Art Tags:
 - Tagora
 ---
 Track: Exhausted Hope
-Artist: Gryotharian
+Artists:
+- Gryotharian
 Duration: '3:37'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/exhausted-hope
@@ -330,7 +358,8 @@ Referenced Tracks:
 - Seer of Same-Color Scalemate Combos
 ---
 Track: Bullet Brain
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '3:50'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/bullet-brain
@@ -340,7 +369,8 @@ Art Tags:
 - Tyzias
 ---
 Track: '*teleports behind you*'
-Artist: Gryotharian
+Artists:
+- Gryotharian
 Duration: '3:32'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/teleports-behind-you
@@ -350,7 +380,8 @@ Art Tags:
 - Tegiri
 ---
 Track: Lonely Little Gremlin Girl
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '3:09'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/lonely-little-gremlin-girl
@@ -358,7 +389,8 @@ Cover Artists:
 - Chesswanderlust-sama
 ---
 Track: Middleclass Daydream
-Artist: heir-of-puns
+Artists:
+- heir-of-puns
 Duration: '2:18'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/middleclass-daydream
@@ -372,14 +404,16 @@ Art Tags:
 Group: Disc 3
 ---
 Track: '>>DiscThree<<'
-Artist: Scorpyus
+Artists:
+- Scorpyus
 Duration: 0:48
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/discthree
 Has Cover Art: false
 ---
 Track: Zillow for Evil Lairs
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '2:55'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/zillow-for-evil-lairs
@@ -387,7 +421,8 @@ Cover Artists:
 - Shadok
 ---
 Track: Chelicerae
-Artist: heir-of-puns
+Artists:
+- heir-of-puns
 Duration: '2:32'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/chelicerae
@@ -395,7 +430,8 @@ Cover Artists:
 - Cratmang
 ---
 Track: Pop Pills Get Girls
-Artist: Scorpyus
+Artists:
+- Scorpyus
 Duration: '3:29'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/pop-pills-get-girls
@@ -407,7 +443,8 @@ Referenced Tracks:
 - Superego
 ---
 Track: Blatant Plagiarism
-Artist: Scorpyus
+Artists:
+- Scorpyus
 Duration: '2:46'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/blatant-plagiarism
@@ -419,7 +456,8 @@ Referenced Tracks:
 - track:piwates
 ---
 Track: Dumbass Terminal
-Artist: Tee-vee
+Artists:
+- Tee-vee
 Duration: '6:01'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dumbass-terminal
@@ -436,7 +474,8 @@ Referenced Tracks:
 ---
 Track: growing up
 Directory: growing-up-friendsymphony
-Artist: JulieTunes
+Artists:
+- JulieTunes
 Duration: '1:13'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/growing-up
@@ -445,7 +484,8 @@ Cover Artists:
 ---
 Track: WORST (fri)END
 Directory: worst-friend
-Artist: Gryotharian
+Artists:
+- Gryotharian
 Duration: '1:59'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/worst-fri-end
@@ -456,7 +496,8 @@ Art Tags:
 - Zebruh
 ---
 Track: Sesquipedalian Loquaciousness
-Artist: Tee-vee
+Artists:
+- Tee-vee
 Duration: '2:56'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sesquipedalian-loquaciousness
@@ -467,7 +508,8 @@ Referenced Tracks:
 - Horschestra
 ---
 Track: '*Suplexes piano*'
-Artist: Scorpyus
+Artists:
+- Scorpyus
 Duration: '2:26'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/suplexes-piano
@@ -475,7 +517,8 @@ Cover Artists:
 - Chesswanderlust-sama
 ---
 Track: Sleeping in the cheerful sis's hair
-Artist: Chesswanderlust-sama
+Artists:
+- Chesswanderlust-sama
 Duration: '2:31'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sleeping-in-the-cheerful-siss-hair
@@ -485,7 +528,8 @@ Art Tags:
 - Chahut
 ---
 Track: General Clownery
-Artist: astropod
+Artists:
+- astropod
 Duration: '2:18'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/general-clownery
@@ -495,7 +539,8 @@ Art Tags:
 - Karako
 ---
 Track: Phantasmagoria
-Artist: Scorpyus
+Artists:
+- Scorpyus
 Duration: '3:00'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/phantasmagoria
@@ -508,7 +553,8 @@ Referenced Tracks:
 - Chucklevoodoo Waltz
 ---
 Track: The Show Must Go On
-Artist: Scorpyus
+Artists:
+- Scorpyus
 Duration: '4:02'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-show-must-go-on
@@ -519,7 +565,8 @@ Art Tags:
 - Barzum
 ---
 Track: You're the Whole Circus
-Artist: Tee-vee
+Artists:
+- Tee-vee
 Duration: '3:36'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/youre-the-whole-circus
@@ -529,7 +576,8 @@ Referenced Tracks:
 - CLOWNFUCKER
 ---
 Track: The Puppetmaster
-Artist: Gryotharian
+Artists:
+- Gryotharian
 Duration: '4:22'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-puppetmaster

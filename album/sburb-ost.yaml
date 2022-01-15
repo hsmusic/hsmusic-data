@@ -19,7 +19,8 @@ Group: Disk 1
 ---
 Track: ~~~~DISK 1~~~~
 Directory: disk1-sburb-ost
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: 0:11
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/disk-1
@@ -28,7 +29,8 @@ Has Cover Art: false
 ---
 Track: Waiting For Adventure [Loading Screen]
 Directory: waiting-for-adventure
-Artist: Michael Guy Bowman
+Artists:
+- Michael Guy Bowman
 Duration: '1:28'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/waiting-for-adventure-loading-screen
@@ -40,7 +42,8 @@ Referenced Tracks:
 ---
 Track: SBURBan Prelude [Main Menu]
 Directory: sburban-prelude
-Artist: sidewalkbanana
+Artists:
+- sidewalkbanana
 Duration: '6:35'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sburban-prelude-main-menu
@@ -53,7 +56,8 @@ Referenced Tracks:
 ---
 Track: Meta Choices [Options]
 Directory: meta-choices
-Artist: sidewalkbanana
+Artists:
+- sidewalkbanana
 Duration: '4:56'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/meta-choices-options
@@ -64,7 +68,8 @@ Cover Artists:
 ---
 Track: Ignorance Is Bliss [Tutorial]
 Directory: ignorance-is-bliss
-Artist: Marcy Nabors
+Artists:
+- Marcy Nabors
 Duration: '1:40'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/ignorance-is-bliss-tutorial
@@ -76,7 +81,9 @@ Referenced Tracks:
 ---
 Track: Metamorphic Choices [Kernel Prototyping]
 Directory: metamorphic-choices
-Artist: Veritas Unae, Marcy Nabors
+Artists:
+- Veritas Unae
+- Marcy Nabors
 Duration: '2:49'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/metamorphic-choices-kernel-prototyping
@@ -86,7 +93,8 @@ Cover Artists:
 ---
 Track: Dawn of the End [Countdown]
 Directory: dawn-of-the-end
-Artist: Max Wright
+Artists:
+- Max Wright
 Duration: '3:51'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dawn-of-the-end-countdown
@@ -99,7 +107,9 @@ Referenced Tracks:
 ---
 Track: A Spirited Conversation [Sprite Interaction]
 Directory: a-spirited-conversation
-Artist: Veritas Unae, Charles Neudorf
+Artists:
+- Veritas Unae
+- Charles Neudorf
 Duration: '2:08'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/a-spirited-conversation-sprite-interaction
@@ -111,7 +121,9 @@ Referenced Tracks:
 ---
 Track: Layers Upon Layers [Build]
 Directory: layers-upon-layers
-Artist: Marcy Nabors, Jamie Paige Stanley
+Artists:
+- Marcy Nabors
+- Jamie Paige Stanley
 Duration: '11:47'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/layers-upon-layers-build
@@ -123,7 +135,8 @@ Referenced Tracks:
 ---
 Track: Mysterious Messengers [Exiles]
 Directory: mysterious-messengers
-Artist: Traikan
+Artists:
+- Traikan
 Duration: '2:34'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/mysterious-messengers-exiles
@@ -135,7 +148,8 @@ Art Tags:
 ---
 Track: Overly Ostentatious Ogre [Miniboss]
 Directory: overly-ostentatious-ogre
-Artist: Red Pen
+Artists:
+- Red Pen
 Duration: '1:42'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/overly-ostentatious-ogre-miniboss
@@ -148,7 +162,8 @@ Art Tags:
 ---
 Track: The Porkhollow is Overflowing! [Echeladder]
 Directory: the-porkhollow-is-overflowing
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: '1:23'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-porkhollow-is-overflowing-echeladder
@@ -158,7 +173,8 @@ Cover Artists:
 ---
 Track: Consort Air [Consorts]
 Directory: consort-air
-Artist: Brad Griffin
+Artists:
+- Brad Griffin
 Duration: '1:18'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/consort-air-consorts
@@ -170,7 +186,8 @@ Art Tags:
 ---
 Track: Fraymotif Samba [Consort Shop]
 Directory: fraymotif-samba
-Artist: James Roach
+Artists:
+- James Roach
 Duration: '2:41'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/fraymotif-samba-consort-shop
@@ -182,7 +199,9 @@ Art Tags:
 ---
 Track: Waking the Beast [Denizen Encounter]
 Directory: waking-the-beast
-Artist: Eston Schweickart, Yan Rodriguez
+Artists:
+- Eston Schweickart
+- Yan Rodriguez
 Duration: '4:27'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/waking-the-beast-denizen-encounter
@@ -194,7 +213,8 @@ Art Tags:
 ---
 Track: Glow in the Distance [Save]
 Directory: glow-in-the-distance
-Artist: James Roach
+Artists:
+- James Roach
 Duration: '1:57'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/glow-in-the-distance-save
@@ -204,7 +224,8 @@ Cover Artists:
 ---
 Track: Lulling Lutescent [Prospit Sleep]
 Directory: lulling-lutescent
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: 0:14
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/lulling-lutescent-prospit-sleep
@@ -214,7 +235,8 @@ Cover Artists:
 ---
 Track: On Golden Dreams [Prospit]
 Directory: on-golden-dreams
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: '5:44'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/on-golden-dreams-prospit
@@ -228,7 +250,8 @@ Referenced Tracks:
 ---
 Track: Amongst Smiling Faces [Prospitian Dignitaries]
 Directory: amongst-smiling-faces
-Artist: Tarranon
+Artists:
+- Tarranon
 Duration: '2:10'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/amongst-smiling-faces-prospitian-dignitaries
@@ -242,7 +265,8 @@ Art Tags:
 ---
 Track: Grudge in A Minor [Jack Noir]
 Directory: grudge-in-a-minor
-Artist: Catboss
+Artists:
+- Catboss
 Duration: '3:27'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/grudge-in-a-minor-jack-noir
@@ -257,7 +281,8 @@ Referenced Tracks:
 ---
 Track: Lavender Lullaby [Derse Sleep]
 Directory: lavender-lullaby
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: 0:15
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/lavender-lullaby-derse-sleep
@@ -269,7 +294,8 @@ Referenced Tracks:
 ---
 Track: Planet in Shadow [Derse]
 Directory: planet-in-shadow
-Artist: Catboss
+Artists:
+- Catboss
 Duration: '4:51'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/planet-in-shadow-derse
@@ -279,7 +305,8 @@ Cover Artists:
 ---
 Track: Drolls and Dignitaries [Dersite Agents]
 Directory: drolls-and-dignitaries
-Artist: Catboss
+Artists:
+- Catboss
 Duration: '5:09'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/drolls-and-dignitaries-dersite-agents
@@ -293,7 +320,8 @@ Art Tags:
 ---
 Track: The Ultimate Riddle [Ultimate Riddle]
 Directory: the-ultimate-riddle
-Artist: Marcy Nabors
+Artists:
+- Marcy Nabors
 Duration: '5:26'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-ultimate-riddle-ultimate-riddle
@@ -303,7 +331,8 @@ Cover Artists:
 ---
 Track: Eldritch Murmurs [Horrorterrors]
 Directory: eldritch-murmurs
-Artist: Fuzz
+Artists:
+- Fuzz
 Duration: '1:52'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/eldritch-murmurs-horrorterrors
@@ -315,7 +344,8 @@ Art Tags:
 ---
 Track: Outer Reaches [Veil]
 Directory: outer-reaches
-Artist: Charles Neudorf
+Artists:
+- Charles Neudorf
 Duration: '1:40'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/outer-reaches-veil
@@ -325,7 +355,8 @@ Cover Artists:
 ---
 Track: Inner Depths [Labs]
 Directory: inner-depths
-Artist: Brad Griffin
+Artists:
+- Brad Griffin
 Duration: '2:24'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/inner-depths-labs
@@ -337,7 +368,8 @@ Referenced Tracks:
 ---
 Track: Autogenesis [Ectobiology]
 Directory: autogenesis
-Artist: Red Pen
+Artists:
+- Red Pen
 Duration: '1:58'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/autogenesis-ectobiology
@@ -347,7 +379,9 @@ Cover Artists:
 ---
 Track: Broken Dreams [Prospit's Fall]
 Directory: broken-dreams
-Artist: Veritas Unae, Charles Neudorf
+Artists:
+- Veritas Unae
+- Charles Neudorf
 Duration: '1:45'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/broken-dreams-prospits-fall
@@ -363,7 +397,8 @@ Referenced Tracks:
 ---
 Track: Paradoxical Meteor Shower [Reckoning]
 Directory: paradoxical-meteor-shower
-Artist: Trent West
+Artists:
+- Trent West
 Duration: '3:34'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/paradoxical-meteor-shower-reckoning
@@ -373,7 +408,8 @@ Cover Artists:
 ---
 Track: Emerald Icarus [Green Sun]
 Directory: emerald-icarus
-Artist: Marcy Nabors
+Artists:
+- Marcy Nabors
 Duration: '2:34'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/emerald-icarus-green-sun
@@ -387,7 +423,8 @@ Group: Disk 2
 ---
 Track: ~~~~DISK 2~~~~
 Directory: disk2-sburb-ost
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: 0:09
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/disk-2
@@ -400,7 +437,8 @@ Referenced Tracks:
 ---
 Track: CumuloSeerus [Oracle Clouds]
 Directory: cumuloseerus
-Artist: Brad Griffin
+Artists:
+- Brad Griffin
 Duration: '2:24'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/cumuloseerus-oracle-clouds
@@ -412,7 +450,8 @@ Referenced Tracks:
 ---
 Track: Checkerboard Checkmate [Battlefield]
 Directory: checkerboard-checkmate
-Artist: Tarranon
+Artists:
+- Tarranon
 Duration: '3:15'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/checkerboard-checkmate-battlefield
@@ -426,7 +465,9 @@ Art Tags:
 ---
 Track: Skaiaward [Skaia]
 Directory: skaiaward
-Artist: Marcy Nabors, Solatrus
+Artists:
+- Marcy Nabors
+- Solatrus
 Duration: '2:40'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/skaiaward-skaia
@@ -436,7 +477,8 @@ Cover Artists:
 ---
 Track: Resurrection [God Tier]
 Directory: resurrection
-Artist: Brad Griffin
+Artists:
+- Brad Griffin
 Duration: '2:22'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/resurrection-god-tier
@@ -448,7 +490,8 @@ Referenced Tracks:
 ---
 Track: Land of _____ and Frogs [Frog Gathering]
 Directory: land-of-_____-and-frogs
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: '1:45'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/land-of-and-frogs-frog-gathering
@@ -462,7 +505,8 @@ Referenced Tracks:
 ---
 Track: Rana's Abode [Frog Temple]
 Directory: ranas-abode
-Artist: Yan Rodriguez
+Artists:
+- Yan Rodriguez
 Duration: '1:28'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/ranas-abode-frog-temple
@@ -474,7 +518,9 @@ Art Tags:
 ---
 Track: The Will to Fight Further [Denizen Strife]
 Directory: the-will-to-fight-further
-Artist: Kevin Grant, Catboss
+Artists:
+- Kevin Grant
+- Catboss
 Duration: '5:08'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-will-to-fight-further-denizen-strife
@@ -490,7 +536,8 @@ Referenced Tracks:
 ---
 Track: Barren Session [Game Over]
 Directory: barren-session
-Artist: Brad Griffin
+Artists:
+- Brad Griffin
 Duration: '2:09'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/barren-session-game-over
@@ -502,7 +549,8 @@ Art Tags:
 ---
 Track: Dilemma [The Choice]
 Directory: dilemma
-Artist: Fuzz
+Artists:
+- Fuzz
 Duration: '3:03'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dilemma-the-choice
@@ -514,7 +562,8 @@ Art Tags:
 ---
 Track: Vulcanic Volcano [Forge]
 Directory: vulcanic-volcano
-Artist: Traikan
+Artists:
+- Traikan
 Duration: '3:16'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/vulcanic-volcano-forge
@@ -524,7 +573,8 @@ Cover Artists:
 ---
 Track: Check the Chequered Castle [Battlefield Castle]
 Directory: check-the-chequered-castle
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: '3:53'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/check-the-chequered-castle-battlefield-castle
@@ -534,7 +584,8 @@ Cover Artists:
 ---
 Track: Endgame Execution [Black King Battle]
 Directory: endgame-execution
-Artist: Catboss
+Artists:
+- Catboss
 Duration: '8:50'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/endgame-execution-black-king-battle
@@ -548,7 +599,8 @@ Referenced Tracks:
 ---
 Track: Where ribbIt All Began [Genesis Frog]
 Directory: where-ribbit-all-began
-Artist: Tarranon
+Artists:
+- Tarranon
 Duration: '3:24'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/where-ribbit-all-began-genesis-frog
@@ -560,7 +612,8 @@ Art Tags:
 ---
 Track: Higher Hopes [Game Complete]
 Directory: higher-hopes
-Artist: Tarranon
+Artists:
+- Tarranon
 Duration: '2:21'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/higher-hopes-game-complete
@@ -570,7 +623,8 @@ Cover Artists:
 ---
 Track: Gods of the New World [Universe Creation]
 Directory: gods-of-the-new-world
-Artist: Max Wright
+Artists:
+- Max Wright
 Duration: '7:19'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/gods-of-the-new-world-universe-creation
@@ -584,7 +638,8 @@ Group: Bonus tracks
 ---
 Track: ~~~~BONUS~~~~
 Directory: bonus-sburb-ost
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: 0:17
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/bonus
@@ -596,7 +651,8 @@ Referenced Tracks:
 ---
 Track: The Untold Story [Skaia Exposition]
 Directory: the-untold-story
-Artist: Brad Griffin
+Artists:
+- Brad Griffin
 Duration: '3:39'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-untold-story-skaia-exposition
@@ -614,7 +670,9 @@ Referenced Tracks:
 ---
 Track: Melody && Form && Composition [Alchemiter]
 Directory: melody-form-composition
-Artist: Charles Neudorf, Marcy Nabors
+Artists:
+- Charles Neudorf
+- Marcy Nabors
 Duration: '2:55'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/melody-form-composition-alchemiter
@@ -624,7 +682,8 @@ Cover Artists:
 ---
 Track: Take Flight [Battleship]
 Directory: take-flight
-Artist: Veritas Unae
+Artists:
+- Veritas Unae
 Duration: '2:46'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/take-flight-battleship
@@ -637,7 +696,9 @@ Referenced Tracks:
 ---
 Track: Born to Die [Doomed Timeline]
 Directory: born-to-die
-Artist: ThiefofTruth, Brad Griffin
+Artists:
+- ThiefofTruth
+- Brad Griffin
 Duration: '1:52'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/born-to-die-doomed-timeline
@@ -647,7 +708,8 @@ Cover Artists:
 ---
 Track: The Will to Fight (Original Mix) [Denizen Strife]
 Directory: the-will-to-fight-original-mix
-Artist: Kevin Grant
+Artists:
+- Kevin Grant
 Duration: '4:41'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-will-to-fight-original-mix-denizen-strife
@@ -661,7 +723,8 @@ Referenced Tracks:
 ---
 Track: Prime [Pause]
 Directory: prime
-Artist: Trent West
+Artists:
+- Trent West
 Duration: '2:09'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/prime-pause
@@ -671,7 +734,8 @@ Cover Artists:
 ---
 Track: Godfight [PvP]
 Directory: godfight
-Artist: Catboss
+Artists:
+- Catboss
 Duration: '3:38'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/godfight-pvp

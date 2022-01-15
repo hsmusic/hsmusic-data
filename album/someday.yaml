@@ -1,5 +1,7 @@
 Album: Someday
-Artist: Clark Powell, Astro Kid
+Artists:
+- Clark Powell
+- Astro Kid
 Date: November 21, 2013
 Date Added: May 12, 2021
 Has Track Art: false
@@ -23,7 +25,8 @@ URLs:
 - https://soundcloud.com/plazmataz/someday-feat-astro-kid
 ---
 Track: Someday (Astro Kid Remix)
-Artist: Astro Kid
+Artists:
+- Astro Kid
 Duration: '4:41'
 Has URLs: false
 Referenced Tracks:

@@ -13,7 +13,8 @@ Groups:
 Group: Main album
 ---
 Track: Into the Forest
-Artist: dbnet18
+Artists:
+- dbnet18
 Duration: '2:10'
 URLs:
 - https://nightslights.bandcamp.com/track/into-the-forest
@@ -21,7 +22,8 @@ Cover Artists:
 - OpsCat
 ---
 Track: A Wild Monster Appeared!
-Artist: OpsCat
+Artists:
+- OpsCat
 Duration: '1:17'
 URLs:
 - https://nightslights.bandcamp.com/track/a-wild-monster-appeared
@@ -30,7 +32,8 @@ Referenced Tracks:
 - Wild Battle
 ---
 Track: Moongaze
-Artist: TirantBacon
+Artists:
+- TirantBacon
 Duration: '3:03'
 URLs:
 - https://nightslights.bandcamp.com/track/moongaze
@@ -38,7 +41,8 @@ Cover Artists:
 - Shadok
 ---
 Track: Random Encounter
-Artist: Kusoro
+Artists:
+- Kusoro
 Duration: 0:54
 URLs:
 - https://nightslights.bandcamp.com/track/random-encounter
@@ -46,7 +50,8 @@ Cover Artists:
 - nights
 ---
 Track: Deep Into the Dead Forest
-Artist: Difarem
+Artists:
+- Difarem
 Duration: '1:43'
 URLs:
 - https://nightslights.bandcamp.com/track/deep-into-the-dead-forest
@@ -54,7 +59,8 @@ Cover Artists:
 - Shadok
 ---
 Track: Ghostdog, Good Boy
-Artist: WHATISLOSTINTHEMINES
+Artists:
+- WHATISLOSTINTHEMINES
 Duration: '3:28'
 URLs:
 - https://nightslights.bandcamp.com/track/ghostdog-good-boy
@@ -62,7 +68,8 @@ Cover Artists:
 - OpsCat
 ---
 Track: Long Ago
-Artist: FrostyMac
+Artists:
+- FrostyMac
 Duration: '3:34'
 URLs:
 - https://nightslights.bandcamp.com/track/long-ago
@@ -70,21 +77,24 @@ Cover Artists:
 - penelope
 ---
 Track: Reminiscence
-Artist: WHATISLOSTINTHEMINES
+Artists:
+- WHATISLOSTINTHEMINES
 Duration: '2:42'
 URLs:
 - https://nightslights.bandcamp.com/track/reminiscence
 Has Cover Art: false
 ---
 Track: Aria's House
-Artist: Kusoro
+Artists:
+- Kusoro
 Duration: '1:57'
 URLs:
 - https://nightslights.bandcamp.com/track/arias-house
 Has Cover Art: false
 ---
 Track: Arts and Crafts
-Artist: OpsCat
+Artists:
+- OpsCat
 Duration: '1:18'
 URLs:
 - https://nightslights.bandcamp.com/track/arts-and-crafts
@@ -92,21 +102,24 @@ Cover Artists:
 - yazshu
 ---
 Track: Monstertown
-Artist: Kusoro
+Artists:
+- Kusoro
 Duration: '1:18'
 URLs:
 - https://nightslights.bandcamp.com/track/monstertown
 Has Cover Art: false
 ---
 Track: No Horn No Cash No Service
-Artist: OpsCat
+Artists:
+- OpsCat
 Duration: '2:24'
 URLs:
 - https://nightslights.bandcamp.com/track/no-horn-no-cash-no-service
 Has Cover Art: false
 ---
 Track: Nothing But a Small Request
-Artist: whimsi
+Artists:
+- whimsi
 Duration: '1:36'
 URLs:
 - https://nightslights.bandcamp.com/track/nothing-but-a-small-request
@@ -116,7 +129,8 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: Crystalline
-Artist: Hadron
+Artists:
+- Hadron
 Duration: '3:00'
 URLs:
 - https://nightslights.bandcamp.com/track/crystalline
@@ -124,7 +138,8 @@ Cover Artists:
 - Hadron
 ---
 Track: Encounter with Hostile Maids
-Artist: Interrobang
+Artists:
+- Interrobang
 Duration: 0:35
 URLs:
 - https://nightslights.bandcamp.com/track/encounter-with-hostile-maids
@@ -132,7 +147,8 @@ Cover Artists:
 - yazshu
 ---
 Track: Dear Little Queen
-Artist: Mathias Ramalho
+Artists:
+- Mathias Ramalho
 Duration: '3:20'
 URLs:
 - https://nightslights.bandcamp.com/track/dear-little-queen
@@ -140,7 +156,8 @@ Cover Artists:
 - Shadok
 ---
 Track: Destiny Unfolds
-Artist: FrostyMac
+Artists:
+- FrostyMac
 Duration: '2:42'
 URLs:
 - https://nightslights.bandcamp.com/track/destiny-unfolds
@@ -152,7 +169,8 @@ Referenced Tracks:
 - Spider's Claw
 ---
 Track: Sovereign Domain
-Artist: OpsCat
+Artists:
+- OpsCat
 Duration: '2:11'
 URLs:
 - https://nightslights.bandcamp.com/track/sovereign-domain
@@ -162,14 +180,16 @@ Referenced Tracks:
 - track:megalovania-undertale
 ---
 Track: Remember You
-Artist: Ost
+Artists:
+- Ost
 Duration: '1:38'
 URLs:
 - https://nightslights.bandcamp.com/track/remember-you
 Has Cover Art: false
 ---
 Track: Sage Chains
-Artist: OpsCat
+Artists:
+- OpsCat
 Duration: '3:37'
 URLs:
 - https://nightslights.bandcamp.com/track/sage-chains
@@ -177,14 +197,16 @@ Cover Artists:
 - Sozzay
 ---
 Track: Swaying Chains
-Artist: WHATISLOSTINTHEMINES
+Artists:
+- WHATISLOSTINTHEMINES
 Duration: '2:38'
 URLs:
 - https://nightslights.bandcamp.com/track/swaying-chains
 Has Cover Art: false
 ---
 Track: In Another World
-Artist: FrostyMac
+Artists:
+- FrostyMac
 Duration: '2:19'
 URLs:
 - https://nightslights.bandcamp.com/track/in-another-world
@@ -192,7 +214,8 @@ Cover Artists:
 - Shadok
 ---
 Track: Incompetent Trio
-Artist: OpsCat
+Artists:
+- OpsCat
 Duration: '2:02'
 URLs:
 - https://nightslights.bandcamp.com/track/incompetent-trio
@@ -200,7 +223,8 @@ Cover Artists:
 - OpsCat
 ---
 Track: The Red and the Blue
-Artist: Wheals
+Artists:
+- Wheals
 Duration: '3:34'
 URLs:
 - https://nightslights.bandcamp.com/track/the-red-and-the-blue
@@ -208,7 +232,8 @@ Cover Artists:
 - nights
 ---
 Track: Bubbles in the Breeze
-Artist: Zenith Nadir
+Artists:
+- Zenith Nadir
 Duration: '5:07'
 URLs:
 - https://nightslights.bandcamp.com/track/bubbles-in-the-breeze
@@ -216,7 +241,8 @@ Cover Artists:
 - Whale
 ---
 Track: Snowfalls
-Artist: Hadron
+Artists:
+- Hadron
 Duration: '3:18'
 URLs:
 - https://nightslights.bandcamp.com/track/snowfalls
@@ -224,7 +250,8 @@ Cover Artists:
 - Hadron
 ---
 Track: Restful Wings
-Artist: OpsCat
+Artists:
+- OpsCat
 Duration: '2:50'
 URLs:
 - https://nightslights.bandcamp.com/track/restful-wings
@@ -232,14 +259,16 @@ Cover Artists:
 - yazshu
 ---
 Track: The Fifth Flower
-Artist: Ray Maiky
+Artists:
+- Ray Maiky
 Duration: '1:49'
 URLs:
 - https://nightslights.bandcamp.com/track/the-fifth-flower
 Has Cover Art: false
 ---
 Track: Left in a Forest
-Artist: Kusoro
+Artists:
+- Kusoro
 Duration: '1:21'
 URLs:
 - https://nightslights.bandcamp.com/track/left-in-a-forest
@@ -247,7 +276,8 @@ Cover Artists:
 - yazshu
 ---
 Track: Court of One Thousand and One Pawns
-Artist: Kusoro
+Artists:
+- Kusoro
 Duration: '1:36'
 URLs:
 - https://nightslights.bandcamp.com/track/court-of-one-thousand-and-one-pawns
@@ -256,7 +286,8 @@ Has Cover Art: false
 Group: Bonus tracks
 ---
 Track: Atomic
-Artist: WHATISLOSTINTHEMINES
+Artists:
+- WHATISLOSTINTHEMINES
 Duration: '2:15'
 URLs:
 - https://nightslights.bandcamp.com/track/atomic-bonus-track
@@ -264,7 +295,8 @@ Cover Artists:
 - nights
 ---
 Track: Kiss of Death
-Artist: keyboard cait
+Artists:
+- keyboard cait
 Duration: '2:02'
 URLs:
 - https://nightslights.bandcamp.com/track/kiss-of-death-bonus-track
@@ -274,7 +306,9 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: Kotori With A Gun Fusion Collab
-Artist: SplitSuns, yazshu
+Artists:
+- SplitSuns
+- yazshu
 Duration: '3:16'
 URLs:
 - https://nightslights.bandcamp.com/track/kotori-with-a-gun-fusion-collab-bonus-track
@@ -282,7 +316,8 @@ Cover Artists:
 - yazshu
 ---
 Track: Nuclear Winterfalls
-Artist: Hadron
+Artists:
+- Hadron
 Duration: '1:51'
 URLs:
 - https://nightslights.bandcamp.com/track/nuclear-winterfalls

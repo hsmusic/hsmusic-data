@@ -1,6 +1,7 @@
 Album: DELTARUNE Chapter 1 OST
 Directory: deltarune-ch1-ost
-Artist: Toby Fox
+Artists:
+- Toby Fox
 Date: November 1, 2018
 Date Added: January 12, 2021
 URLs:
@@ -321,7 +322,9 @@ Referenced Tracks:
 - Don't Forget
 ---
 Track: Don't Forget
-Artist: Laura Shigihara, Toby Fox
+Artists:
+- Laura Shigihara
+- Toby Fox
 Duration: 0:51
 URLs:
 - https://tobyfox.bandcamp.com/track/dont-forget

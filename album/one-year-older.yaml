@@ -1,5 +1,6 @@
 Album: One Year Older
-Artist: Erik Scheele
+Artists:
+- Erik Scheele
 Date: August 15, 2012
 Date Added: November 15, 2019
 URLs:
@@ -290,7 +291,8 @@ Commentary: |-
 Group: Bonus tracks
 ---
 Track: Another Chance
-Artist: Eston Schweickart
+Artists:
+- Eston Schweickart
 Duration: '5:01'
 URLs:
 - https://erikscheele.bandcamp.com/track/another-chance-bonus

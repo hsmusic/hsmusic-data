@@ -21,7 +21,8 @@ Banner Style: |-
 Group: Main album
 ---
 Track: Fanfare
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: 0:13
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/fanfare
@@ -30,7 +31,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Jailstuck (Intro)
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '1:39'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/jailstuck-intro
@@ -39,7 +41,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Title Screen
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '1:12'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/title-screen
@@ -48,7 +51,8 @@ Cover Artists:
 - Peter Turner
 ---
 Track: Logorg
-Artist: Luke Benjamins
+Artists:
+- Luke Benjamins
 Duration: '1:20'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/logorg
@@ -57,7 +61,8 @@ Cover Artists:
 - Peter Turner
 ---
 Track: Elf Shanty
-Artist: Mark Hadley
+Artists:
+- Mark Hadley
 Duration: '2:48'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/elf-shanty
@@ -66,7 +71,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Phantom Echoes
-Artist: Andrew Huo
+Artists:
+- Andrew Huo
 Duration: '1:48'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/phantom-echoes
@@ -75,7 +81,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Assail
-Artist: Erik Scheele
+Artists:
+- Erik Scheele
 Duration: '2:41'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/assail
@@ -84,7 +91,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Confrontation
-Artist: Andrew Huo
+Artists:
+- Andrew Huo
 Duration: '2:06'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/confrontation
@@ -96,7 +104,8 @@ Referenced Tracks:
 - The Beginning of Something Really Excellent
 ---
 Track: Rising Water (Oh, Shit!)
-Artist: Peter Turner
+Artists:
+- Peter Turner
 Duration: '1:02'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/rising-water-oh-shit
@@ -105,7 +114,8 @@ Cover Artists:
 - Peter Turner
 ---
 Track: Moment of Pause
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '1:27'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/moment-of-pause
@@ -114,7 +124,9 @@ Cover Artists:
 - Ginnie Sea
 ---
 Track: Bars
-Artist: Robert J! Lake, Luke Benjamins
+Artists:
+- Robert J! Lake
+- Luke Benjamins
 Duration: '1:08'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/bars
@@ -123,7 +135,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Jackknive
-Artist: Erik Scheele
+Artists:
+- Erik Scheele
 Duration: '2:44'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/jackknive
@@ -132,7 +145,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Intestinal Fortification
-Artist: Peter Turner
+Artists:
+- Peter Turner
 Duration: '2:05'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/intestinal-fortification
@@ -141,7 +155,8 @@ Cover Artists:
 - Peter Turner
 ---
 Track: Console Thunder
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '2:57'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/console-thunder
@@ -152,7 +167,9 @@ Referenced Tracks:
 - Arcade Thunder
 ---
 Track: Be the Other Guy
-Artist: James Dever, Perry Sullivan
+Artists:
+- James Dever
+- Perry Sullivan
 Duration: '3:46'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/be-the-other-guy
@@ -161,7 +178,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Softbit
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '3:32'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/softbit
@@ -172,7 +190,8 @@ Referenced Tracks:
 - track:softbit-original-gfd-please-shut-the-fuckass-mix-by-request-demo-version
 ---
 Track: Drillgorg
-Artist: Luke Benjamins
+Artists:
+- Luke Benjamins
 Contributors:
 - Nick Smalley (great ASSet)
 Duration: '1:28'
@@ -192,7 +211,8 @@ Lyrics: |-
     I will drill your ass
 ---
 Track: Retrobution
-Artist: Nick Smalley
+Artists:
+- Nick Smalley
 Contributors:
 - Luke Benjamins
 Duration: '2:22'
@@ -207,7 +227,8 @@ Lyrics: Your mother
 ---
 Track: Game Over
 Directory: game-over-jailbreak
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: 0:31
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/game-over
@@ -216,7 +237,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Is This the End?
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '3:27'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/is-this-the-end
@@ -227,7 +249,8 @@ Referenced Tracks:
 - Isn't This "Is This the End?" Again?
 ---
 Track: This is the End
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '2:30'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/this-is-the-end
@@ -238,14 +261,16 @@ Cover Artists:
 Group: Bonus tracks
 ---
 Track: nsfasoft presents
-Artist: Nick Smalley
+Artists:
+- Nick Smalley
 Duration: 0:03
 URLs:
 - https://youtu.be/F0AMD6mBFO4
 Has Cover Art: false
 ---
 Track: A Common Occurrance (Every Night, To Be Exact)
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: 0:57
 URLs:
 - https://youtu.be/tdTjk-HX2rw
@@ -279,14 +304,16 @@ Lyrics: |-
     I am- your mother- in bed
 ---
 Track: Useful or Otherwise
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '2:15'
 URLs:
 - https://youtu.be/cC20tNgx74M
 Has Cover Art: false
 ---
 Track: Dr. Squiddle
-Artist: Andrew Huo
+Artists:
+- Andrew Huo
 Duration: 0:48
 URLs:
 - https://youtu.be/lDq9alucoMA
@@ -296,35 +323,40 @@ Referenced Tracks:
 - Squiddles!
 ---
 Track: Distanced
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '2:08'
 URLs:
 - https://youtu.be/Tw544rHHSVw
 Has Cover Art: false
 ---
 Track: Mechanic Panic
-Artist: Michael Guy Bowman
+Artists:
+- Michael Guy Bowman
 Duration: '1:42'
 URLs:
 - https://youtu.be/rKe4heghFL4
 Has Cover Art: false
 ---
 Track: i told you about ladders
-Artist: Luke Benjamins
+Artists:
+- Luke Benjamins
 Duration: 0:42
 URLs:
 - https://youtu.be/3kmp-5mEQ24
 Has Cover Art: false
 ---
 Track: b a w s
-Artist: Nick Smalley
+Artists:
+- Nick Smalley
 Duration: '1:17'
 URLs:
 - https://youtu.be/40P_K66XbDY
 Has Cover Art: false
 ---
 Track: Softbit (Original GFD Please Shut the Fuckass Mix By Request Demo Version)
-Artist: Robert J! Lake
+Artists:
+- Robert J! Lake
 Duration: '3:24'
 URLs:
 - https://www.youtube.com/watch?v=GedH5uJhRW4
@@ -334,7 +366,7 @@ Referenced Tracks:
 ---
 Track: Audio Commentary Featuring Robert J! Lake, Nick Smalley, Luke "GFD" Benjamins,
     and Erik "Jit" Scheele
-Artist:
+Artists:
 - Robert J! Lake
 - Nick Smalley
 - Luke Benjamins

@@ -1,5 +1,6 @@
 Album: CLASS ACT
-Artist: Funk McLovin
+Artists:
+- Funk McLovin
 Date: August 31, 2020 12:00:01
 Date Added: April 12, 2021
 URLs:
@@ -46,12 +47,12 @@ URLs:
 - https://funkmclovin.bandcamp.com/track/robots-stole-my-wife
 ---
 Track: Button Eyes
-Duration: 0:58
-URLs:
-- https://funkmclovin.bandcamp.com/track/button-eyes-ft-davi
 Artists:
 - Funk McLovin
 - Davi
+Duration: 0:58
+URLs:
+- https://funkmclovin.bandcamp.com/track/button-eyes-ft-davi
 ---
 Track: Japanese Spider Crab
 Duration: '2:04'
