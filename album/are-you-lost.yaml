@@ -3,14 +3,15 @@ Directory: are-you-lost
 Artist: hywell
 Date: November 22, 2020
 Date Added: April 12, 2021
-Banner Dimensions: 975x180
+URLs:
+- https://smoothiefruitee.bandcamp.com/album/--2
 Has Track Art: false
+Cover Artists:
+- Astroblur
 Color: '#45cef2'
 Groups:
 - Cristata
 - Beyond
-URLs:
-- https://smoothiefruitee.bandcamp.com/album/--2
 Commentary: |-
     <i>hywell:</i>
     ROYAL LABS ENTRY: ██<br>DATE: 20XX
@@ -21,11 +22,10 @@ Commentary: |-
     ENTRY END
     <hr>
     (there are many notes scribbled in the blank areas surrounding the text, but they are impossible to read. is that bad handwriting, or is that a different language...?)
-Cover Artists:
-- Astroblur
-Wallpaper Artists:
-- Astroblur
 Banner Artists:
+- Astroblur
+Banner Dimensions: 975x180
+Wallpaper Artists:
 - Astroblur
 ---
 Track: SIGNAL START
@@ -57,25 +57,25 @@ Referenced Tracks:
 - Moonsetter
 ---
 Track: TRUE AUTUMN
-Artists:
-- hywell
-- Cristata
 Duration: '5:21'
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/true-autumn-ft-cristata
 Referenced Tracks:
 - Quiet Autumn
----
-Track: MEDIUM
-Directory: medium-are-you-lost
 Artists:
 - hywell
 - Cristata
+---
+Track: MEDIUM
+Directory: medium-are-you-lost
 Duration: '6:22'
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/medium-ft-cristata
 Referenced Tracks:
 - CORE
+Artists:
+- hywell
+- Cristata
 ---
 Track: JUDGEMENT
 Duration: '3:31'

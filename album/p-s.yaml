@@ -1,16 +1,17 @@
 Album: P[S]
 Directory: p-s
-Banner Dimensions: 1100x180
-Wallpaper Style: 'opacity: 0.8;'
 Date: June 13, 2018
 Date Added: July 24, 2020
-Color: '#bbc0a8'
+URLs:
+- https://casualsunday.bandcamp.com/album/p-s
 Has Track Art: false
+Cover Artists:
+- Seth Massey
+- climeade
+Color: '#bbc0a8'
 Groups:
 - Casual Sunday
 - Fandom
-URLs:
-- https://casualsunday.bandcamp.com/album/p-s
 Art Tags:
 - WQ
 Commentary: |-
@@ -21,13 +22,12 @@ Commentary: |-
     this is an independent release from the band <a href="http://casualsunday.bandcamp.com/">Casual Sunday</a>!
     please support the group by purchasing the album - it comes with a commentary booklet i don't intend to transcribe here.
     &lt;3
-Cover Artists:
-- Seth Massey
-- climeade
-Wallpaper Artists:
-- Robert J! Lake
 Banner Artists:
 - Robert J! Lake
+Banner Dimensions: 1100x180
+Wallpaper Artists:
+- Robert J! Lake
+Wallpaper Style: 'opacity: 0.8;'
 ---
 Group: Main album
 ---
@@ -45,6 +45,8 @@ Contributors:
 Duration: '7:31'
 URLs:
 - https://casualsunday.bandcamp.com/track/back-to-life
+Referenced Tracks:
+- Cyan Beast
 Lyrics: |-
     Home, in this game we play<br>Stunned, then whisked away<br>Staring out into a nightmare
     Stuck years in the past<br>I stepped through the looking glass<br>And descended to an empty world.
@@ -57,8 +59,6 @@ Lyrics: |-
     Buried under the ground<br>Is there no hope<br>Waiting here to be freed?<br>Like this world we’ll be dead<br>Will we rise up<br>If I planted the seeds...
     When I fall back to sleep and I’m dreaming<br>I’ll look up to the clouds<br>If it’s out there to see, to believe in<br>There’s no reason to doubt
     Step out into the world<br>We're not homestuck<br>Take the chance to be free<br>‘Cause this land can’t be dead<br>We will rise up<br>So I planted the seeds<br>And I’ll bring it back to life.
-Referenced Tracks:
-- Cyan Beast
 ---
 Track: A World Awake
 Artist: David Ellis
@@ -96,27 +96,27 @@ Artist: Malcolm Brown
 Duration: '4:44'
 URLs:
 - https://casualsunday.bandcamp.com/track/apexhalation
-Commentary: |-
-    <i>Malcolm Brown:</i>
-    Couldn't end my run on Homestuck without doing one last John/Showtime track! It's an orchestral smorgasbord of Ballad of Awakening, Lifdoff, Showtime and probably something else I've forgotten. Also makes use of Shepard Tones in the middle to give the impression of a constantly rising melody, (or just to sound annoying)
-    Didn't quite make the Volume 10 cut, but presented here for your enjoyment! :D
-    Alternative name: "Shave and a Heircut"
 Referenced Tracks:
 - Historia Crux
 - track:ballad-of-awakening
 - Lifdoff
 - track:doctor
 - track:showtime-original-mix
+Commentary: |-
+    <i>Malcolm Brown:</i>
+    Couldn't end my run on Homestuck without doing one last John/Showtime track! It's an orchestral smorgasbord of Ballad of Awakening, Lifdoff, Showtime and probably something else I've forgotten. Also makes use of Shepard Tones in the middle to give the impression of a constantly rising melody, (or just to sound annoying)
+    Didn't quite make the Volume 10 cut, but presented here for your enjoyment! :D
+    Alternative name: "Shave and a Heircut"
 ---
 Track: Sburban Metro
 Artist: Veritas Unae
-Duration: '3:16'
 Contributors:
 - Joe Teague (drums)
 - Erik Scheele (piano)
 - Timothy Reed (trumpet)
 - stellamorphine (alto, tenor, and baritone saxophone)
 - Joe Morley (trombone)
+Duration: '3:16'
 URLs:
 - https://casualsunday.bandcamp.com/track/sburban-metro
 Referenced Tracks:
@@ -187,6 +187,10 @@ Artist: Malcolm Brown
 Duration: '5:19'
 URLs:
 - https://casualsunday.bandcamp.com/track/s-ynchronise
+Referenced Tracks:
+- Unite Synchronization
+- Lifdoff
+- track:doctor
 Lyrics: |-
     I’m still wondering,<br>Where to go now,<br>We have seen the highest peak but there was nothing there, no truth, and how<br>I’m wandering,<br>Through all these places,<br>Lands of Little Cubes & Tea, of Wind and Shade, these null spaces.
     I’ve stared at the stars, how they shine verdant dreams,<br>I’ve looked through the void, seen it crack at the seams,<br>I fought every challenge, these Devils and Gods,<br>They won’t know what hit them!
@@ -200,10 +204,6 @@ Lyrics: |-
     ([S]ynchronize) With every BREATH resounding,<br>([S]ynchronize) We’ll see the LIGHT astounding,<br>([S]ynchronize) TIME keeps our heartbeat pounding,<br>([S]ynchronize) Now witness SPACE surrounding!
     ([S]ynchronize) With every BREATH resounding,<br>([S]ynchronize) We’ll see the LIGHT astounding,<br>([S]ynchronize) TIME keeps our heartbeat pounding,<br>([S]ynchronize) Now witness SPACE surrounding!
     This will be the end!<br>Come with me and we’ll Ascend!<br>Solving puzzles Universal,<br>In our Sburban Reversal!<br>All these Ruins we Explore,<br>Could it be there’s something more?<br>Pester me, I’m not alone,<br>I’m just Stuck inside my Home!
-Referenced Tracks:
-- Unite Synchronization
-- Lifdoff
-- track:doctor
 ---
 Track: Bane
 Artist: Mark Hadley

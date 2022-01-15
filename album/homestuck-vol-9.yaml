@@ -1,14 +1,15 @@
 Album: Homestuck Vol. 9
-Banner Dimensions: 1100x203
 Date: June 12, 2012
 Date Added: November 15, 2019
+URLs:
+- https://homestuck.bandcamp.com/album/homestuck-vol-9-10-with-s-collide-and-act-7
+- https://www.youtube.com/watch?v=n1BVIEipjwk
+- https://www.youtube.com/playlist?list=PLy5UGIMKOXpOfcXVfECYjb09aHc2uSEUv
+Cover Artists:
+- Lazylaz
 Color: '#f2a400'
 Groups:
 - Official
-Wallpaper Style: |-
-    opacity: 0.65;
-    background-repeat: repeat;
-    background-size: auto;
 Art Tags:
 - Jane
 - Roxy
@@ -16,27 +17,31 @@ Art Tags:
 - Jake
 - Rabbit
 - Lil Cal
-URLs:
-- https://homestuck.bandcamp.com/album/homestuck-vol-9-10-with-s-collide-and-act-7
-- https://www.youtube.com/watch?v=n1BVIEipjwk
-- https://www.youtube.com/playlist?list=PLy5UGIMKOXpOfcXVfECYjb09aHc2uSEUv
-Cover Artists:
-- Lazylaz
-Wallpaper Artists:
-- Homestuck
 Banner Artists:
 - Lazylaz
+Banner Dimensions: 1100x203
+Wallpaper Artists:
+- Homestuck
+Wallpaper Style: |-
+    opacity: 0.65;
+    background-repeat: repeat;
+    background-size: auto;
 ---
 Group: Main album
 ---
 Track: Crystalmethequins
 Artist: Clark Powell, Astro Kid
 Duration: '5:13'
-Art Tags:
-- Aradia
 URLs:
 - https://homestuck.bandcamp.com/track/crystalmethequins-2
 - https://youtu.be/r8rWfPPrKJ0
+Cover Artists:
+- Richard Gung
+Art Tags:
+- Aradia
+Referenced Tracks:
+- Crystamanthequins
+- Crystalanthemums
 Commentary: |-
     <i>Clark Powell:</i>
     Let me tell you of this song’s origins, for I saw it unfold with mine own eyes.
@@ -44,23 +49,23 @@ Commentary: |-
     Nearly two months later we sat in the back of a van amongst instruments and gear on our way to play another concert, this time at a Houston anime convention. Computers were turned on, headphones were turned up. It was here that Crystalmethequins, begun so many weeks earlier, was finally completed.
     After deciding that the track art would not be a hastily photoshopped image of troll Bryan Cranston, I came to someone I trusted. Richard Gung is unarguably the master, and his track art was well worth the cost he took from me in that dark alley.
     The song was chosen from among its peers to open Volume 9. There it stands proudly to this day.
-Cover Artists:
-- Richard Gung
-Referenced Tracks:
-- Crystamanthequins
-- Crystalanthemums
 ---
 Track: Anbroids V2.0
+Directory: anbroids-v2
 Artist: Malcolm Brown
 Duration: '2:19'
-Directory: anbroids-v2
+URLs:
+- https://homestuck.bandcamp.com/track/anbroids-v20-2
+- https://youtu.be/AVPmUpN_W3o
+Cover Artists:
+- Jonathan Griffiths
 Art Tags:
 - Dirk
 - Squarewave
 - SBaHJ
-URLs:
-- https://homestuck.bandcamp.com/track/anbroids-v20-2
-- https://youtu.be/AVPmUpN_W3o
+Referenced Tracks:
+- Anbroids
+- Davesprite
 Commentary: |-
     <i>Malcolm Brown:</i>
     <code style="color: #e00707">DAVE: we are in the shit now<br>DAVE: we are motherfuckin entrenched in this bitch</code>
@@ -87,90 +92,87 @@ Commentary: |-
     So with that, everything’s shut down, and the song ends.
     Granted, I probably didn’t manage to get this little ‘story’ across with everybody, but this was the general thought process when I was making the thing.  Hopefully if you listen to it now you’ll get some of the ideas I was going for. If not? Well… enjoy it however you like :p Or even come up with your own interpretation that’s better than mine :p
     Johnathan Griffiths was the track art man of the hour - There’s even a mega drive controller there! And how are those shades staying on? All round awesome :)
-Cover Artists:
-- Jonathan Griffiths
-Referenced Tracks:
-- Anbroids
-- Davesprite
 ---
 Track: Trepidation
 Artist: Svix
 Duration: '3:52'
-Art Tags:
-- Squarewave
 URLs:
 - https://homestuck.bandcamp.com/track/trepidation-2
 - https://youtu.be/WxLtO42_AJQ
 Cover Artists:
 - Kiko B.
+Art Tags:
+- Squarewave
 ---
 Track: Firefly
 Artist: Buzinkai
 Duration: '1:08'
-Art Tags:
-- John
 URLs:
 - https://homestuck.bandcamp.com/track/firefly-2
 - https://youtu.be/KC9v0nOnDK8
+Cover Artists:
+- Homestuck
+Art Tags:
+- John
 Commentary: |-
     <i>Buzinkai:</i>
     Firefly is a special song. I was walking through a small lot to my apartment in the summertime, and fireflies were all around me. And I just thought of the -perfect- theme for it, and I rushed in to my apartment as fast as I could to get it down. It's the only song that's come to me like that.
-Cover Artists:
-- Homestuck
 ---
 Track: Whistling Jackhammer
 Artist: Robert J! Lake
 Duration: '3:59'
-Art Tags:
-- Dirk
 URLs:
 - https://homestuck.bandcamp.com/track/whistling-jackhammer-2
 - https://youtu.be/a9ExRM4xlw8
 Cover Artists:
 - Homestuck
+Art Tags:
+- Dirk
 ---
 Track: Ugly Betty
 Artist: Robert J! Lake
 Duration: '3:22'
-Art Tags:
-- The Condesce
 URLs:
 - https://homestuck.bandcamp.com/track/ugly-betty-2
 - https://youtu.be/EdCZ1kKzb8A
+Cover Artists:
+- Tavia Morra
+Art Tags:
+- The Condesce
+Referenced Tracks:
+- track:aggrieve-violin-refrain
 Commentary: |-
     <i>Tavia Morra:</i>
     RJ gave me the reins on this one. At first I was drawing it in the same style as a later track ([[Before the Beginning and After the End]]) I did art for, but then it quickly turned in to a painting. This palette in particular was fun and challenging to work with. I’m happy with the end result, since it looks like the Batterwitch is cackling as the world burns down around her.
-Cover Artists:
-- Tavia Morra
-Referenced Tracks:
-- track:aggrieve-violin-refrain
 ---
 Track: Hate You
 Artist: Toby Fox
 Contributors:
 - Azami (laughter)
 Duration: '2:53'
-Art Tags:
-- Meenah
 URLs:
 - https://homestuck.bandcamp.com/track/hate-you-2
 - https://youtu.be/2gU_54ibyKM
 Cover Artists:
 - MissNK
+Art Tags:
+- Meenah
 Referenced Tracks:
 - Love You (Feferi's Theme)
 ---
 Track: Pumpkin Party in Sea Hitler's Water Apocalypse
 Artist: Malcolm Brown
 Duration: '3:54'
+URLs:
+- https://homestuck.bandcamp.com/track/pumpkin-party-in-sea-hitlers-water-apocalypse-2
+- https://youtu.be/LgG8lAVh-EA
+Cover Artists:
+- Sylladexter
 Art Tags:
 - Roxy
 - Carapacians
 - Cats
 - 'cw: alcohol'
-URLs:
-- https://homestuck.bandcamp.com/track/pumpkin-party-in-sea-hitlers-water-apocalypse-2
-- https://youtu.be/LgG8lAVh-EA
 Commentary: |-
     <i>Malcolm Brown:</i>
     Aaah Pumpkin Party in Sea Hitler’s Water Apocalypse. Or Pumpkin Party in Colony 413 or whatever I was calling it before I decided to go nuts.  The original working title was just “Pumpkin Party”, so at the very least we started somewhere sensible.
@@ -188,8 +190,6 @@ Commentary: |-
     Overall though? It’s a bit of a zany, dance-party track.  Completely juxtapositions the hell-nightmare outside, and in the end that’s the point!  Of course things get worse, but “Red Miles In Sea Hitler’s Water Apocalypse” will have to wait…
     Damn, I just realized I should’ve added some meows.  I’ve got like two cats sitting here ready for a vocal performance as well… Ah well, the road not taken.
     Once again the art is very spiffy so many thanks to Marina! Look at that dude in the corner? That pumpkin is so nom’d! :D
-Cover Artists:
-- Sylladexter
 ---
 Track: Skaianet
 Artist: Mark Hadley
@@ -203,12 +203,17 @@ Cover Artists:
 Track: Another Jungle
 Artist: Michael Guy Bowman
 Duration: '4:39'
-Art Tags:
-- Roxy
-- Dirk
 URLs:
 - https://homestuck.bandcamp.com/track/another-jungle-2
 - https://youtu.be/upRmDHMcREg
+Cover Artists:
+- Richard Gung
+Art Tags:
+- Roxy
+- Dirk
+Referenced Tracks:
+- track:sburban-jungle
+- track:showtime-original-mix
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     Before this track was used in Homestuck along with Beatfox’s “A Taste for Adventure”, it was actually made for a nearly 3-year-old defunct fan project. Housetrapped was a story about an alternate Sburb session and “Another Jungle” was a the-same-but-different theme for the loading screen of that universe’s Sburb client. Sound familiar?
@@ -216,11 +221,6 @@ Commentary: |-
     “Another Jungle” has the benefit of years of experience with production I did not have when Homestuck began, and to me the fidelity difference really shows. Since writing “Sburban Jungle” I’d become far more familiar with automation, recording, eq, mixing, mastering, and all the techniques that polish a music project. “Another Jungle” is far more dynamic than its predecessor, with each subsequent section of the song having its own unique way of using the instruments and sounds in the project.
     My favorite touches to this one are all the very mellow sounds that contrast with the brisk pacing of the track - the various pads, the wah-wah guitar, the echoing melody, all of it underlined by drums and brute synth loops. The sudden change in energy when the guitars duck out in the middle and the melody of “Showtime” whispers in is a favorite moment of mine. The very pop ending with its retro house sound was another choice I wouldn’t have seen myself making three years back. Hope you enjoy this one as much as I do.
     The art for this track is by Richard Gung.
-Cover Artists:
-- Richard Gung
-Referenced Tracks:
-- track:sburban-jungle
-- track:showtime-original-mix
 ---
 Track: GameGrl (Original 1993 Mix)
 Artist: Michael Guy Bowman
@@ -231,6 +231,27 @@ Duration: '3:29'
 URLs:
 - https://homestuck.bandcamp.com/track/gamegrl-original-1993-mix-2
 - https://youtu.be/4kdVpq3bnuY
+Cover Artists:
+- Tavia Morra
+Referenced Tracks:
+- Bro Hop
+- Airtime
+- Afraid of the Darko
+Lyrics: |-
+    Aw yeah! What's up gamers?<br>I'm GameGrl, and I'm here to show you that girls can game too!<br>Don't go easy on me, guys - unless you want to get beat by a GIRL.<br>Are you ready? Let's DO THIS.
+    Yo I'm the GameGrl, and I've got the scores<br>'Cause I woop butt and game hardcore<br>I might look cute but I play to win<br>So get your head in the game, 'cause we're about to begin
+    I got sweet moves and secret skills<br>To pull off the codes, the combos, and kills<br>Tapping my fingers like a maniac<br>This girl's gone bad on a game attack!
+    GAME ATTACK! GAME ATTACK!<br>When I'm on the scoreboard, you sure can tell!<br>GAME ATTACK! GAME ATTACK!<br>Cause I spell my scores "G-R-L!"<br>GAME ATTACK! GAME ATTACK!<br>You gamer guys better take it like a man!<br>GAME ATTACK! GAME ATTACK!<br>If you can't keep up then talk to the hand!
+    I'm the GameGrl!<br>(She's a GameGrl) The best in the world!<br>(She's a GameGrl) Girls rule!<br>(She's a GameGrl) And boys drool!<br>(She's a GameGrl) I'm kickin' rad!<br>(She's a GameGrl) You're super bad!<br>(She's a GameGrl) Better than the rest<br>When you're gaming with the GameGrl you're gaming with the best!
+    When I say "game", you say "girl!"<br>GAME! GRL! GAME! GRL!<br>When I say "best", you say "the world!"<br>BEST IN! THE WORLD! BEST IN! THE WORLD!<br>When I say girls, you say rule!<br>GIRLS! RULE! GIRLS! RULE!<br>When I say boys, you say drool!<br>BOYS! DROOL! BOYS! DROOL!
+    Let's have a dance party RIGHT NOW. Everybody do the wave! Yeah, that's pretty good. Check it out! I'm dancing! I'm dancing! Check this move out! Oh man, oh yeah!
+    Aw yeah. I'm having SO MUCH FUN. This is like a slumber party where there's nothing to do but play games ALL NIGHT LONG. Oh yeah, and NO BOYS ALLOWED. Not that I CARE - I can beat any boy at any game, any time, anywhere!
+    Puzzle games, fighting games, action, rpg,<br>Shoot 'em ups, beat 'em ups, virtual reality,<br>Dating sims, flight sims, CD-rom or console,<br>Handheld, arcade, tabletopping oldschool,<br>Turn-based, card-based, tactical, strategy,<br>Text-based adventure, point-and-click mystery,<br>FPS, racers, platforms, rhythm games,<br>She's the bomb at anything you can name!
+    GAME ATTACK! GAME ATTACK!<br>Gamer guys better run and hide!<br>GAME ATTACK! GAME ATTACK!<br>'Cause I'm the baddest, so step aside!<br>GAME ATTACK! GAME ATTACK!<br>I got the stats, and that's my proof!<br>GAME ATTACK! GAME ATTACK!<br>So come on and RAISE THE ROOF!
+    I'm the GameGrl!<br>(She's a GameGrl) The best in the world!<br>(She's a GameGrl) Girls rule!<br>(She's a GameGrl) And boys drool!<br>(She's a GameGrl) I'm kickin' rad!<br>(She's a GameGrl) You're super bad!<br>(She's a GameGrl) 'Cause I've got the moves<br>So step into my GAMER GROOVE.
+    Don't be a wimp!<br>(She's a GameGrl) Unless you're a shrimp!<br>(She's a GameGrl) I'm the new cool!<br>(She's a GameGrl) You're old school!<br>(She's a GameGrl) Gaming like a pro!<br>(She's a GameGrl) Come on, let's go!<br>(She's a GameGrl) Better than the rest<br>When you're gaming with the GameGrl you're gaming with the best!
+    Awesome! That was totally rad to the max! I could just keep doing this all day... NOT! I've got games to play, and if you think I'm gonna slow down just to talk to a bunch of amateurs, then you need to seriously blow the dust out of your cartridges.
+    But hey, girls, whenever you need to show those creepy boys who's boss, just remember that GameGrl's got your back. Look for me on specially-marked boxes of Betty Crocker brand snacks and have an adult call the toll-free number to subscribe to the exclusive girls-only GameGrl Magazine. Alright, check you later girlfriends!
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     Originally we’d planned on doing a Homestuck album that was devoted entirely to the Sburb Alpha kids and their session, all of us doing tracks that would parallel earlier tracks in a same-but-different fashion. While this album became Homestuck Vol. 9, a lot of analogous tracks remained from the original concept, including this track as an alternative to “GameBro (Original 1990 Mix)” from Homestuck Vol. 6: Heir Transparent.
@@ -255,50 +276,29 @@ Commentary: |-
     <img src="media/misc/overall-quest.jpg" width="331" height="799">
     Eventually we got the overalls and proceeded to take the most fantastic pictures ever. I’ll be posting up some other photos from that day later on so keep your eyes peeled!
     All in all, this track is probably the most involved I’d been on a Homestuck album and am so glad it was this one. I had a blast!
-Lyrics: |-
-    Aw yeah! What's up gamers?<br>I'm GameGrl, and I'm here to show you that girls can game too!<br>Don't go easy on me, guys - unless you want to get beat by a GIRL.<br>Are you ready? Let's DO THIS.
-    Yo I'm the GameGrl, and I've got the scores<br>'Cause I woop butt and game hardcore<br>I might look cute but I play to win<br>So get your head in the game, 'cause we're about to begin
-    I got sweet moves and secret skills<br>To pull off the codes, the combos, and kills<br>Tapping my fingers like a maniac<br>This girl's gone bad on a game attack!
-    GAME ATTACK! GAME ATTACK!<br>When I'm on the scoreboard, you sure can tell!<br>GAME ATTACK! GAME ATTACK!<br>Cause I spell my scores "G-R-L!"<br>GAME ATTACK! GAME ATTACK!<br>You gamer guys better take it like a man!<br>GAME ATTACK! GAME ATTACK!<br>If you can't keep up then talk to the hand!
-    I'm the GameGrl!<br>(She's a GameGrl) The best in the world!<br>(She's a GameGrl) Girls rule!<br>(She's a GameGrl) And boys drool!<br>(She's a GameGrl) I'm kickin' rad!<br>(She's a GameGrl) You're super bad!<br>(She's a GameGrl) Better than the rest<br>When you're gaming with the GameGrl you're gaming with the best!
-    When I say "game", you say "girl!"<br>GAME! GRL! GAME! GRL!<br>When I say "best", you say "the world!"<br>BEST IN! THE WORLD! BEST IN! THE WORLD!<br>When I say girls, you say rule!<br>GIRLS! RULE! GIRLS! RULE!<br>When I say boys, you say drool!<br>BOYS! DROOL! BOYS! DROOL!
-    Let's have a dance party RIGHT NOW. Everybody do the wave! Yeah, that's pretty good. Check it out! I'm dancing! I'm dancing! Check this move out! Oh man, oh yeah!
-    Aw yeah. I'm having SO MUCH FUN. This is like a slumber party where there's nothing to do but play games ALL NIGHT LONG. Oh yeah, and NO BOYS ALLOWED. Not that I CARE - I can beat any boy at any game, any time, anywhere!
-    Puzzle games, fighting games, action, rpg,<br>Shoot 'em ups, beat 'em ups, virtual reality,<br>Dating sims, flight sims, CD-rom or console,<br>Handheld, arcade, tabletopping oldschool,<br>Turn-based, card-based, tactical, strategy,<br>Text-based adventure, point-and-click mystery,<br>FPS, racers, platforms, rhythm games,<br>She's the bomb at anything you can name!
-    GAME ATTACK! GAME ATTACK!<br>Gamer guys better run and hide!<br>GAME ATTACK! GAME ATTACK!<br>'Cause I'm the baddest, so step aside!<br>GAME ATTACK! GAME ATTACK!<br>I got the stats, and that's my proof!<br>GAME ATTACK! GAME ATTACK!<br>So come on and RAISE THE ROOF!
-    I'm the GameGrl!<br>(She's a GameGrl) The best in the world!<br>(She's a GameGrl) Girls rule!<br>(She's a GameGrl) And boys drool!<br>(She's a GameGrl) I'm kickin' rad!<br>(She's a GameGrl) You're super bad!<br>(She's a GameGrl) 'Cause I've got the moves<br>So step into my GAMER GROOVE.
-    Don't be a wimp!<br>(She's a GameGrl) Unless you're a shrimp!<br>(She's a GameGrl) I'm the new cool!<br>(She's a GameGrl) You're old school!<br>(She's a GameGrl) Gaming like a pro!<br>(She's a GameGrl) Come on, let's go!<br>(She's a GameGrl) Better than the rest<br>When you're gaming with the GameGrl you're gaming with the best!
-    Awesome! That was totally rad to the max! I could just keep doing this all day... NOT! I've got games to play, and if you think I'm gonna slow down just to talk to a bunch of amateurs, then you need to seriously blow the dust out of your cartridges.
-    But hey, girls, whenever you need to show those creepy boys who's boss, just remember that GameGrl's got your back. Look for me on specially-marked boxes of Betty Crocker brand snacks and have an adult call the toll-free number to subscribe to the exclusive girls-only GameGrl Magazine. Alright, check you later girlfriends!
-Cover Artists:
-- Tavia Morra
-Referenced Tracks:
-- Bro Hop
-- Airtime
-- Afraid of the Darko
 ---
 Track: ASSAULT
 Artist: Toby Fox
 Duration: '2:21'
-Art Tags:
-- Roxy
-- 'cw: alcohol'
 URLs:
 - https://homestuck.bandcamp.com/track/assault-2
 - https://youtu.be/4u_Gk9bH5_4
 Cover Artists:
 - Maf
+Art Tags:
+- Roxy
+- 'cw: alcohol'
 ---
 Track: A Little Fight Mewsic
 Artist: Thomas Ferkol
 Duration: '2:19'
-Art Tags:
-- God Cat
 URLs:
 - https://homestuck.bandcamp.com/track/a-little-fight-mewsic-2
 - https://youtu.be/O-EtZR02vGA
 Cover Artists:
 - Amethyst Barron
+Art Tags:
+- God Cat
 ---
 Track: Austin, Atlantis
 Artist: Clark Powell
@@ -306,13 +306,6 @@ Duration: '3:43'
 URLs:
 - https://homestuck.bandcamp.com/track/austin-atlantis-2
 - https://youtu.be/wPfUy4j9V7c
-Commentary: |-
-    <i>Clark Powell:</i>
-    Nothing inspires me more than spaces, regardless of whether they are real or virtual. Examples include cities, mountains, buildings, individual rooms, even entire planets (see [[album:medium|Medium]]).
-    Austin is currently my real world home, and to imagine it flooded and empty is a fascinating thing. Should Dirk ever decide to explore beyond Houston, what forgotten worlds would he find in the other lost Texan fortresses?
-    The whole song was written to musically explore this sunken Austin, and to deliver a strong atmosphere and sense of place. The parts I used to piece together this portrait are the constituent Homestuck tunes, each of which I chose because of thematic applicability; they include Beatdown, Explore, Flare, and even Atomyk Ebonpyre.
-    To capture the same essence visually in the track art, I knew I could trust Tynic. She is an incredible background artist with an uncanny sense for colors and composition! I am so proud of her work here; the song just wouldn’t be the same without the accompanying artwork.
-    Additional fun fact: the entire song is played off key, detuned into the spaces between quartertones. The piano itself is significantly flat. This surprised me in how far it went toward making the song sound “sunken.”
 Cover Artists:
 - Nic Carey
 Referenced Tracks:
@@ -322,23 +315,30 @@ Referenced Tracks:
 - track:explore
 - track:endless-climb
 - Flare
+Commentary: |-
+    <i>Clark Powell:</i>
+    Nothing inspires me more than spaces, regardless of whether they are real or virtual. Examples include cities, mountains, buildings, individual rooms, even entire planets (see [[album:medium|Medium]]).
+    Austin is currently my real world home, and to imagine it flooded and empty is a fascinating thing. Should Dirk ever decide to explore beyond Houston, what forgotten worlds would he find in the other lost Texan fortresses?
+    The whole song was written to musically explore this sunken Austin, and to deliver a strong atmosphere and sense of place. The parts I used to piece together this portrait are the constituent Homestuck tunes, each of which I chose because of thematic applicability; they include Beatdown, Explore, Flare, and even Atomyk Ebonpyre.
+    To capture the same essence visually in the track art, I knew I could trust Tynic. She is an incredible background artist with an uncanny sense for colors and composition! I am so proud of her work here; the song just wouldn’t be the same without the accompanying artwork.
+    Additional fun fact: the entire song is played off key, detuned into the spaces between quartertones. The piano itself is significantly flat. This surprised me in how far it went toward making the song sound “sunken.”
 ---
 Track: Despot
 Artist: Erik Scheele
 Duration: '3:36'
-Art Tags:
-- Dirk
-- Sawtooth
 URLs:
 - https://homestuck.bandcamp.com/track/despot-2
 - https://youtu.be/O7CI8okTWSg
+Cover Artists:
+- Tavia Morra
+Art Tags:
+- Dirk
+- Sawtooth
 Commentary: |-
     <i>Erik Scheele:</i>
     Started as a sequel to Upward Movement, before Hussie skipped over that entire sequence, which made me try to build it into a general Dirk theme. Sort of like a rise to power, from princehood to kinghood, or sommat. Maybe even a character theme, though I can’t really make those calls.
     <i>Tavia Morra:</i>
     This picture started with an innocent suggestion from RJ who imagined Dirk riding a <a href="https://en.wikipedia.org/wiki/Super_Hang-On">super hang on motorcycle</a> to this song. I took the idea over to Jit who then helped me develop the picture to what it became, suggesting the <a href="https://www.youtube.com/watch?v=LUUbp-4kKMA">FF7 motorcycle chase</a> as inspiration and to turn the motorcycle in to Sawtooth.
-Cover Artists:
-- Tavia Morra
 ---
 Track: Stress
 Artist: Buzinkai, Toby Fox
@@ -346,12 +346,16 @@ Contributors:
 - Buzinkai (composition)
 - Toby Fox (arrangement)
 Duration: '2:02'
-Art Tags:
-- Dirk
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/stress-2
 - https://youtu.be/RZGdkT96JDs
+Cover Artists:
+- P-RO
+Art Tags:
+- Dirk
+- 'cw: blood'
+Referenced Tracks:
+- Five-Four Stress
 Commentary: |-
     <i>Toby Fox:</i>
     art by P-RO at <a href="https://nomorepros.tumblr.com">nomorepros.tumblr.com</a>. P-RO always does a maximally amazing job so why I asked her to draw the art is a non-question.
@@ -367,21 +371,19 @@ Commentary: |-
     Wow, I really got off track here. But I hope you learned something today.
     * Yes, Bill Bolin also started an arrangement of this piece before he left the team. I think we were both attracted to the same “essence” present in Buzinkai’s piece.
     ** Bonus challenge: See if you can count out how I divided the measures in this song! If you can do this, you can easily understand how to compose in time signatures like this. It’s actually VERY simple and derived directly from the other breakdowns I did.
-Cover Artists:
-- P-RO
-Referenced Tracks:
-- Five-Four Stress
 ---
 Track: Minihoof's Adventure
 Artist: Michael Guy Bowman
 Contributors:
 - Tavia Morra (vocals)
 Duration: '2:47'
-Art Tags:
-- Maplehoof
 URLs:
 - https://homestuck.bandcamp.com/track/minihoofs-adventure-2
 - https://youtu.be/KMyh7F9cyrE
+Cover Artists:
+- Tavia Morra
+Art Tags:
+- Maplehoof
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     I get the feeling that down the line there will be an explanation for why exactly there’s a tiny Maplehoof on Dirk Strider’s desk and it will be one of the biggest plot revelations in all of Homestuck. For me it was a cue that there needed to be a Sburb Alpha universe parallel for the song [[track:maplehoofs-adventure]], which in itself was a spiritual sequel to [[track:pony-chorale]]. It’s sort of a reality check to realize that I have written not one, not two, but three songs for cartoon ponies now - I guess that’s part of this disease we call the Internet.
@@ -391,17 +393,21 @@ Commentary: |-
     The track art was done by Tavia Morra.
     <i>Tavia Morra:</i>
     Bowman and I quickly settled on the idea of a picture emphasizing the size of Minihoof, but couldn’t decide on a specific way to show it. Maybe put a magnifying glass over the little pony? Having her next to Dirk’s hand while he typed on the computer? The energy of the track made us think of little Minihoof running through an obstacle course Dirk set up for her on his desk, thus the stapler, the tacks, the brads, the pencils, and the GameBro Magazines. This was a super fun one for me since I had such a personal investment in it.
-Cover Artists:
-- Tavia Morra
 ---
 Track: Encore
 Artist: Malcolm Brown
 Duration: '3:09'
-Art Tags:
-- Jake
 URLs:
 - https://homestuck.bandcamp.com/track/encore-2
 - https://youtu.be/d8R1N5h3Mzc
+Cover Artists:
+- Bea
+Art Tags:
+- Jake
+Referenced Tracks:
+- track:showtime-original-mix
+- Lifdoff
+- Unite Synchronization
 Commentary: |-
     <i>Malcolm Brown:</i>
     Let’s talk about Encore! Or “Showtime 2: Encore”.
@@ -419,69 +425,68 @@ Commentary: |-
     I pondered adding this for a while, since it felt a bit “Yes, we get it, this is a Showtime thing, y’don’t need to actually add the thing in”, but eventually I liked the idea of it smashing in, completely brazen with its NES-y soundfont and blaring the original track in the last section of the song.  We then wind down with the fast-paced percussion and the starting brass arrangement, just enough time for a post-battle ass-kicking pose, and then “Boom”.
     I think writing tracks for characters like John/Jake’s quite fun in that they’ve got this bottomless optimism and carefree attitude, plus they do silly things. Silly things are quite fun to score...
     And that’s Encore! Hope ya’ll enjoyed that little trip back down memory lane!
-Cover Artists:
-- Bea
-Referenced Tracks:
-- track:showtime-original-mix
-- Lifdoff
-- Unite Synchronization
 ---
 Track: Expedition
 Artist: Mark Hadley
 Duration: '2:29'
-Art Tags:
-- Jake
 URLs:
 - https://homestuck.bandcamp.com/track/expedition-2
 - https://youtu.be/UjUpiHOtjWs
-Commentary: |-
-    <i>Mark Hadley:</i>
-    As I've mentioned before, I really like finding ways to combine themes. In this case, I combined 'Explore' and 'English' in a style inspired by the sailing theme from 'Legend of Zelda: The Wind Waker'. (It's easy to miss the theme from 'English', since it's a lot more upbeat and in a major key.) I don't use brass a lot when I write, but I think it came out well here.
 Cover Artists:
 - Kiddy
+Art Tags:
+- Jake
 Referenced Tracks:
 - English
 - track:explore
+Commentary: |-
+    <i>Mark Hadley:</i>
+    As I've mentioned before, I really like finding ways to combine themes. In this case, I combined 'Explore' and 'English' in a style inspired by the sailing theme from 'Legend of Zelda: The Wind Waker'. (It's easy to miss the theme from 'English', since it's a lot more upbeat and in a major key.) I don't use brass a lot when I write, but I think it came out well here.
 ---
 Track: Elephant Gun
 Artist: Michael Guy Bowman
 Duration: '2:39'
-Art Tags:
-- Jake
 URLs:
 - https://homestuck.bandcamp.com/track/elephant-gun-2
 - https://youtu.be/60Qjl1iyZ4U
+Cover Artists:
+- 8bitkitten
+Art Tags:
+- Jake
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     This is pure Jake strife music - I started this project with the definite goal in mind to make something that sounded purely like video game music for a battle. Jake English is sort of the archetypal Roosevelt-type swashbuckler with all the bravado of a turn-of-the-century primitivist. For him, the palette of sounds is instantaneous: heavy percussion rumbling at a breakneck pace. I threw in chimes, timpani, xylophone, glockenspiel, cymbal crashes, and an uncompromising drum machine to get the atmosphere I wanted.
     I had a nice, retro-sounding portamento synth as a lead, a quick little intro, and a couple of smart little themes going on right at the beginning, and I was all set for this to be one of those simple, memorable themes not unlike one of the previous Strife themes (“Beatdown”, “Showtime”). Then, at 44 seconds in, something snapped - I suddenly decided that what I was writing was boring and that nothing could be normal from that point on. Inspired by a few listens to “Rollo Interior”, I wrote a rhythmically unconventional breakdown followed by the whole song shifting into “Zappa chords” for a little while.
     What was excellent about working on this track is it’s one of the first instances in a while where I had really freed myself from any preconceived goals for the song’s form and just decided to write a track from start to finish and see what felt right. I ended up at sort of the golden length - the song begins to loop at 2:15, making it still functional as video game music, and fades out by 2:39. Tavia pointed out to me that pop songs that run a bit short of 3 minutes tend to be incredibly satisfying, especially for a first time listener, as they ask for your attention for an amount of time that doesn’t wear you down. Out of all my tracks for Vol. 9, this is the one I find the easiest to listen to on a loop.
     The track art is by 8bitkitten.
-Cover Artists:
-- 8bitkitten
 ---
 Track: Miasmajesty
 Artist: Solatrus, Nick Smalley
 Duration: '3:20'
-Art Tags:
-- Dirk
 URLs:
 - https://homestuck.bandcamp.com/track/miasmajesty-2
 - https://youtu.be/cfzEta7PCkk
+Cover Artists:
+- Tavia Morra
+Art Tags:
+- Dirk
 Commentary: |-
     <i>Tavia Morra:</i>
     You ever have one of those days where the pen and photoshop just seem to be behaving? I was having one of those days and as a result this picture of Dirk happened. He’s holding a Derse flag with the pointy end coming at the viewer. This man means business.
-Cover Artists:
-- Tavia Morra
 ---
 Track: Jane Dargason
 Artist: Clark Powell, Robert J! Lake
 Duration: '3:43'
-Art Tags:
-- Jane
 URLs:
 - https://homestuck.bandcamp.com/track/jane-dargason-2
 - https://youtu.be/jSczYjYAaUY
+Cover Artists:
+- Dawn Davis
+Art Tags:
+- Jane
+Referenced Tracks:
+- Jane's Dragon
+- Life in Technicolor
 Commentary: |-
     <i>Clark Powell:</i>
     (<a href="https://plazmataz.tumblr.com/post/25536699941/jane-dargason-it-may-be-a-little-late-by-now-but">Tumblr</a>)
@@ -496,67 +501,66 @@ Commentary: |-
     In short, we have an anthemic Jane tune in the workings!
     <i>Quasar Nebula:</i>
     the track art attached to the audio file on the original tumblr post eventually became the art for [[Princess of Helium]]!
-Cover Artists:
-- Dawn Davis
-Referenced Tracks:
-- Jane's Dragon
-- Life in Technicolor
 ---
 Track: Before the Beginning and After the End
 Artist: Robert J! Lake
 Duration: '4:27'
+URLs:
+- https://homestuck.bandcamp.com/track/before-the-beginning-and-after-the-end-2
+- https://youtu.be/Nab_SoEy8rk
+Cover Artists:
+- Tavia Morra
 Art Tags:
 - Jane
 - Roxy
 - Dirk
 - Jake
-URLs:
-- https://homestuck.bandcamp.com/track/before-the-beginning-and-after-the-end-2
-- https://youtu.be/Nab_SoEy8rk
+Referenced Tracks:
+- Before Before the Beginning
 Commentary: |-
     <i>Tavia Morra:</i>
     This was one of the last track art pieces I did that I had a lot of fun with. I didn’t really know what I was doing when I went in, but as soon as I had laid out what Alpha Kid went where, the colors instantly stood out in my mind. I really like the way this one came out.
-Cover Artists:
-- Tavia Morra
-Referenced Tracks:
-- Before Before the Beginning
 ---
 Track: Bridge of Stars
 Artist: Thomas Ferkol
 Duration: '3:35'
-Art Tags:
-- John
-- Jade
-- Davesprite
 URLs:
 - https://homestuck.bandcamp.com/track/bridge-of-stars-2
 - https://youtu.be/yQSb3LMPk0Q
 Cover Artists:
 - 8bitkitten
+Art Tags:
+- John
+- Jade
+- Davesprite
 ---
 Track: Cumulating Dreams
 Artist: Solatrus
 Contributors:
 - Clark Powell (cello)
 Duration: '3:11'
-Art Tags:
-- Jane
 URLs:
 - https://homestuck.bandcamp.com/track/cumulating-dreams-2
 - https://youtu.be/80ZicKue9yM
 Cover Artists:
 - Nyanface
+Art Tags:
+- Jane
 ---
 Track: Busting Makes Me Feel Good
 Artist: Michael Guy Bowman
 Duration: '3:25'
+URLs:
+- https://homestuck.bandcamp.com/track/busting-makes-me-feel-good-2
+- https://youtu.be/ObxMP2v6ke8
+Cover Artists:
+- Victoria Grace Elliott
 Art Tags:
 - John
 - Jade
 - Davesprite
-URLs:
-- https://homestuck.bandcamp.com/track/busting-makes-me-feel-good-2
-- https://youtu.be/ObxMP2v6ke8
+Referenced Tracks:
+- Ghostbusters
 Lyrics: |-
     Bustin'-bustin'-bustin'-bustin' makes me feel good!
     Bustin' makes me feel good!<br>Bu-bu-bu-bustin'!<br>Bu-bu-bu-bu-bustin'!<br>Bu-bu-bu-bustin' makes me feel good!
@@ -576,25 +580,21 @@ Commentary: |-
     Going off of the notion that there aught to be some music dedicated to the 3 years that John, Jade, and Davesprite spend by killing time in Ghostbusters 2 MMORPG, I recorded myself singing the famous exclamation uttered by Ray Parker Jr partway through the legendary 1984 single. What is the deal with that line, really? Apparently chasing ghosts isn’t just a public service for Mr. Parker - it gets him off.
     The majority of the track is driven by drum and crowd samples with some very funky but intentionally primitive synths on top. I liked the idea of building up to some big climactic house beat, and the climax of the song is sort of an homage to Kalibration and his EDM project Screamcatcher (albeit missing all the cool).
     The art is by Victoria Grace Elliott.
-Cover Artists:
-- Victoria Grace Elliott
-Referenced Tracks:
-- Ghostbusters
 ---
 Track: Everything is Something to Somebody
 Artist: Robert J! Lake
 Duration: '3:06'
-Art Tags:
-- Roxy
-- Carapacians
 URLs:
 - https://homestuck.bandcamp.com/track/everything-is-something-to-somebody-2
 - https://youtu.be/reSPRXEtVmg
+Cover Artists:
+- Tavia Morra
+Art Tags:
+- Roxy
+- Carapacians
 Commentary: |-
     <i>Tavia Morra:</i>
     This is another one that RJ let me do whatever I wanted on. After thinking about the title of the track, I remembered the moment in Homestuck when we all finally found out the answer to the infamous question <a href="https://www.homestuck.com/story/4853">“What Pumpkin?”</a> And what a heartwarming answer it was! To me, this was one of the most gentle tear-jerking moments in the comic to date. It just made sense to draw.
-Cover Artists:
-- Tavia Morra
 ---
 Track: iRRRRRRRRECONCILA8LE
 Directory: iRRRRRRRRECONCILA8LE
@@ -602,19 +602,19 @@ Artist: Michael Guy Bowman
 Contributors:
 - Thomas Ferkol (electric guitar)
 Duration: '1:41'
-Art Tags:
-- Tavros
-- Vriska
 URLs:
 - https://homestuck.bandcamp.com/track/irrrrrrrreconcila8le-2
 - https://youtu.be/IyVUutdaP8E
+Cover Artists:
+- 8bitkitten
+Art Tags:
+- Tavros
+- Vriska
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     Before there was 20+ hours of music in the Homestuck catalog, the music team’s task was to create new themes at a moment’s notice for new elements of the story. When Tavrisprite appeared in the comic, I challenged myself to make a suitable theme at the same pace I might once have cobbled something together back in 2009. I posted the resulting demo track on my Soundcloud the same day as the character made its debut.
     My demo fused the Spanish sounds associated with Tavros and the electric lead guitar associated with Vriska. The result was just over a minute of power-flamenco silliness which I planned to expand upon heavily until suddenly Tavrisprite exploded less than an hour after I uploaded the demo. I decided the song aught to be short and sweet as well, so I asked Thomas Ferkol to play some additional metal guitar at the end before dropping in an explosion effect and a distantly echoing “honk” from a certain codpiece-wearing merchant.
     The track art is by 8bitkitten.
-Cover Artists:
-- 8bitkitten
 ---
 Track: I'm a Member of the Midnight Crew (Post-Punk Version)
 Artist: Michael Guy Bowman
@@ -622,11 +622,15 @@ Contributors:
 - Erik Scheele (piano)
 - Marcy Nabors (thermin & accordian)
 Duration: '3:50'
-Art Tags:
-- Midnight Crew
 URLs:
 - https://homestuck.bandcamp.com/track/im-a-member-of-the-midnight-crew-post-punk-version-2
 - https://youtu.be/nU9YXh_0L4Y
+Cover Artists:
+- Cari Garafalo
+Art Tags:
+- Midnight Crew
+Referenced Tracks:
+- I'm a Member of the Midnight Crew
 Lyrics: |-
     I hate a moral coward, one who lacks a manly spark<br>I just detest a man afraid to go home in the dark<br>I spend my every evening where there's women wine and song<br>But like a man, I always bring my little wife along!
     I'm a member of the Midnight Crew<br>I'm a night owl, a wise bird too<br>Home with the milk in the morning<br>Singing the same old song!<br>Rise with the moon, go to bed with the sun<br>Early to bed, and you'll miss all the fun<br>Bring your wife and trouble, it can never trouble you<br>Make her a member of the Midnight Crew!
@@ -641,72 +645,70 @@ Commentary: |-
     The inspiration for this “post-punk” arrangement comes specifically from the Iggy Pop track “Nightclubbing”, which was produced by David Bowie during their stay in Berlin in 1977. The Iggy Pop and Eddie Morton tracks are very different takes on a night on the town, and I was utterly fascinated by the thought of injecting the old ragtime track with the same seedy atmosphere of Iggy’s sardonic croon.
     I’d been playing this particular arrangement live at live shows for a while, and for this recorded version I brought in bandmates Erik Scheele and Marcy Nabors to record their respective parts. Erik delivers the excellent jazz piano, while Marcy added some amazing textures by playing theremin and accordion. I made full use of the wah pedal on my guitar to deliver the very textured guitar performance, and copied Iggy’s beloved drum machine loop for the main percussion.
     The track art is by Cari Garafalo.
-Cover Artists:
-- Cari Garafalo
-Referenced Tracks:
-- I'm a Member of the Midnight Crew
 ---
 Track: Three in the Morning (Aftermath)
 Artist: Erik Scheele
 Duration: '3:28'
-Art Tags:
-- Roxy
 URLs:
 - https://homestuck.bandcamp.com/track/three-in-the-morning-aftermath-2
 - https://youtu.be/nkRwwNcIkEw
+Cover Artists:
+- Dawn Davis
+Art Tags:
+- Roxy
+Referenced Tracks:
+- Three in the Morning
 Commentary: |-
     <i>Erik Scheele:</i>
     I don’t remember how long ago it was that Plaz asked me to do an improvisation around their Three In The Morning, but I did it, and here it is!
-Cover Artists:
-- Dawn Davis
-Referenced Tracks:
-- Three in the Morning
 ---
 Track: Lancer
 Artist: Clark Powell
 Duration: '3:51'
-Art Tags:
-- DD
-- Midnight Crew
 URLs:
 - https://homestuck.bandcamp.com/track/lancer-2
 - https://youtu.be/C1L6GAcqAVE
 Cover Artists:
 - clorinspats
+Art Tags:
+- DD
+- Midnight Crew
 ---
 Track: Three's a Crowd
 Artist: Robert J! Lake, Thomas Ferkol
 Duration: '3:27'
-Art Tags:
-- DD
-- Midnight Crew
 URLs:
 - https://homestuck.bandcamp.com/track/threes-a-crowd-2
 - https://youtu.be/hBnCIpVQTls
 Cover Artists:
 - ari
+Art Tags:
+- DD
+- Midnight Crew
 Referenced Tracks:
 - Three in the Morning
 ---
 Track: Break Shot
 Artist: Kalibration
 Duration: '3:05'
-Art Tags:
-- Lord English
 URLs:
 - https://homestuck.bandcamp.com/track/break-shot-2
 - https://youtu.be/E07s837gHWE
 Cover Artists:
 - Homestuck
+Art Tags:
+- Lord English
 ---
 Track: Portrait
 Artist: Solatrus
 Duration: '4:13'
-Art Tags:
-- Roxy
 URLs:
 - https://homestuck.bandcamp.com/track/portrait-2
 - https://youtu.be/qkF5HxMd1LA
+Cover Artists:
+- Kate Holden
+Art Tags:
+- Roxy
 Commentary: |-
     <i>Solatrus:</i>
     Honestly, on all three, it was a lot of going with my gut because I hadn’t quite gained the understanding of writing percussion that I now have. Though, having a good instinct for interesting rhythms definitely is why I seem to be so notorious for percussion/drum beats.
@@ -716,30 +718,28 @@ Commentary: |-
     As for everything since Portrait, any weird percussion I do has been completely deliberate and thought out, because, as I said before, I understand my instincts on it. More importantly, I understand why those instincts work.
     TL;DR; In a past life, I was probably a drummer.
     :D
-Cover Artists:
-- Kate Holden
 ---
 Track: Negative Aperture
 Artist: Svix
 Duration: '2:36'
-Art Tags:
-- Sawtooth
 URLs:
 - https://homestuck.bandcamp.com/track/negative-aperture-2
 - https://youtu.be/x15fE5XGk1g
 Cover Artists:
 - Homestuck
+Art Tags:
+- Sawtooth
 ---
 Track: Sweet Dreams, Timaeus
 Artist: Thomas Ferkol
 Duration: '3:19'
-Art Tags:
-- Dirk
 URLs:
 - https://homestuck.bandcamp.com/track/sweet-dreams-timaeus-2
 - https://youtu.be/GhVCvz1sRdw
 Cover Artists:
 - Vivian Ng
+Art Tags:
+- Dirk
 ---
 Track: Red Miles
 Artist: James Dever
@@ -747,6 +747,8 @@ Duration: '3:10'
 URLs:
 - https://homestuck.bandcamp.com/track/red-miles-2
 - https://youtu.be/_7ulwTrNnTE
+Cover Artists:
+- Homestuck
 Commentary: |-
     <i>James Dever:</i>
     <b>History</b>
@@ -765,8 +767,6 @@ Commentary: |-
     The last section that I described as sounding almost like a chase is purposeful. The concept is that Diamond Droog is releasing the miles upon the universe and the different musical sections are the different scenes of destruction. The final scene where everything becomes hectic is suppose to be Dirk flying through crumbling towers and crazy red death tentacles trying to escape a painful death. The sudden cut off was suppose to be kind of a cliffhanger like “where did he go???” but then the final resolution was supposed to sound similar to a big sigh of relief as he narrowly avoids doom.
     <b>Art!</b>
     Originally, the art was to be done by everyone’s favorite person. Because of silly reasons (really silly, the silliest) it didn’t end up happening though. I freaking loved the art too. Instead though, we have a panel from the comic. It just so happens to be the panel where the miles are about to wreck shit at the abode of my favorite Alpha character. I didn’t know this at the time otherwise I’d never make a reference to such a horrible event :P
-Cover Artists:
-- Homestuck
 ---
 Track: The Changing Game
 Artist: Thomas Ferkol
@@ -780,35 +780,35 @@ Cover Artists:
 Track: Requited
 Artist: Clark Powell
 Duration: '4:32'
-Art Tags:
-- The Disciple
 URLs:
 - https://homestuck.bandcamp.com/track/requited-2
 - https://youtu.be/k3QzERACr-Q
+Cover Artists:
+- dodostad
+Art Tags:
+- The Disciple
+Referenced Tracks:
+- Serenade
 Commentary: |-
     <i>Clark Powell:</i>
     Back on Volume 8 I wrote a song called Serenade; the track art for it explains well what the song is about. In a great many ways it was an important song for me. For one, it was the first song I’ve ever written, by which I mean a short, lyrical work written in a structure including verses and choruses. On top of that the music and the melodies came unusually naturally to me, and it all felt organic and expressive of my situation in life at the time of writing. Serenade is by far the closest emotional connection I have to Homestuck.
     Naturally I wanted to do things properly if I was going to revisit a tune so personally significant. As part of a larger project I was tentatively calling “cellostuck” I decided to tackle Serenade and record a version with live cello parts, hopefully bringing rich textures and lyricism to the song to reflect the musical and personal progress I had made since writing the original. It came out beautifully, much more so than the other experiments I had tried with other songs. I called the final mix Requited, implying that the song can be seen from the opposite side.
     Consider Requited the pre-Scratch counterpart to Serenade.
     For the artwork on this track I asked my chum Dodostad to draw something up. Her style of whimsical, faded character art seemed the perfect match for the song, and she did a magnificent job.
-Cover Artists:
-- dodostad
-Referenced Tracks:
-- Serenade
 ---
 Track: Princess of Helium
 Artist: Clark Powell
 Duration: '2:12'
-Art Tags:
-- Jane
 URLs:
 - https://homestuck.bandcamp.com/track/princess-of-helium-2
 - https://youtu.be/mAgr3UH7ywo
+Cover Artists:
+- Tavia Morra
+Art Tags:
+- Jane
 Commentary: |-
     <i>Tavia Morra:</i>
     This was the first track art I had done for Volume 9, but at the time I drew it I didn’t know it was going to be on the upcoming album. Plazmataz played a track they’d been working on outloud for me and asked if I wanted to do art. I jumped on the opportunity and got a lot of painting practice in with this one. I’m super proud of this one, since it was the first picture in a while that had a strong palette.
-Cover Artists:
-- Tavia Morra
 ---
 Track: Moonsetter
 Artist: Toby Fox
@@ -816,24 +816,28 @@ Contributors:
 - Samm Neiland (viola)
 - Clark Powell (cello)
 Duration: '2:21'
-Art Tags:
-- Dirk
 URLs:
 - https://homestuck.bandcamp.com/track/moonsetter-2
 - https://youtu.be/75kJb_aAvKY
 Cover Artists:
 - Hanni Brosh
+Art Tags:
+- Dirk
 ---
 Track: Candles and Clockwork (Alpha Version)
 Artist: James Dever
 Contributors:
 - Alex Rosetti (mixing)
 Duration: '2:28'
-Art Tags:
-- Dave
 URLs:
 - https://homestuck.bandcamp.com/track/candles-and-clockwork-alpha-version-2
 - https://youtu.be/0aPJVZMW4xI
+Cover Artists:
+- Worthikids
+Art Tags:
+- Dave
+Referenced Tracks:
+- Candles and Clockwork
 Commentary: |-
     <i>James Dever:</i>
     <b>History</b>
@@ -848,59 +852,61 @@ Commentary: |-
     As for this name in particular, it should be obvious that it’s the post scratch version of the song (so aimed more at Dirk and Alpha Dave). The working title was also Candles and Clockwork (with the a’s replaced with lower case alpha symbols). Sadly, it doesn’t really differentiate itself from the original. The symbols aren’t separate enough to make it easy to tell the two versions apart.
     <b>Art!</b>
     The art was done by the fantastic Worthikids who I only just recently discovered! They actually made it a while ago for the original Volume 5 version. I messaged them about using it for this version. Go check them out!
-Cover Artists:
-- Worthikids
-Referenced Tracks:
-- Candles and Clockwork
 ---
 Track: Coursing
 Artist: Alex Rosetti
 Duration: '4:17'
-Art Tags:
-- Becquerel
-- God Cat
 URLs:
 - https://homestuck.bandcamp.com/track/coursing-2
 - https://youtu.be/yzfiSLL9vOo
+Cover Artists:
+- Zilleniose
+Art Tags:
+- Becquerel
+- God Cat
+Referenced Tracks:
+- Courser
 Commentary: |-
     <i>Alex Rosetti:</i>
     I wrote it to be the “alpha” version of Courser, another piece by myself and Beatfox. Where Courser is a theme for Bec, Coursing can be thought of as a theme for GCat, though in my mind it encompasses the idea of any First Guardian. It is not a “remix” or even an arrangement of Courser, but it is based off Courser’s material and of course heavily references it and quotes it. I hope you enjoy! The track art is by the amazing Zilleniose. Thanks Zoey!
-Cover Artists:
-- Zilleniose
-Referenced Tracks:
-- Courser
 ---
 Track: Cairo Overcoat
 Artist: Thomas Ferkol
 Duration: '3:43'
-Art Tags:
-- Lord English
 URLs:
 - https://homestuck.bandcamp.com/track/cairo-overcoat-2
 - https://youtu.be/PLYF-Zlfd2c
 Cover Artists:
 - Lauren Ross
+Art Tags:
+- Lord English
 ---
 Track: Battle Against an Unfathomable Enemy
 Artist: Kalibration
 Duration: '3:40'
-Art Tags:
-- Horrorterrors
 URLs:
 - https://homestuck.bandcamp.com/track/battle-against-an-unfathomable-enemy-2
 - https://youtu.be/xtCo--GAAnA
 Cover Artists:
 - Molly Gur
+Art Tags:
+- Horrorterrors
 ---
 Track: Noirscape
 Artist: David Ellis
 Duration: '5:08'
-Art Tags:
-- Jack Noir
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/noirscape-2
 - https://youtu.be/dG5BjK4194A
+Cover Artists:
+- kendle bentley b!
+Art Tags:
+- Jack Noir
+- 'cw: blood'
+Referenced Tracks:
+- Liquid Negrocity
+- Crystalanthemums
+- Descend
 Commentary: |-
     <i>David Ellis:</i>
     This tune got some pretty cool art from kendle bentley b! at electroluxx.tumblr.com. I don’t really know anything other than ‘wow, that’s really cool’.
@@ -914,22 +920,9 @@ Commentary: |-
     Fun if somewhat nerdy fact: The power down sound that leads into the guitar solo section is actually the sound made when the Hammond organ is switched off while holding down the last chord. The tonewheels inside the organ that generate the pitches start to slow down before the amplifier cuts out so you can hear the pitch lower before the sound stops.
     After I posted Noirscape it got added to the tracklist for LOFAM2 and straightfacedgriff had actually started doing art for it before I had the chance to quietly let them know that it wasn’t going to be on the album. The art pretty much sums up the scene the music was meant to be describing at the start though (assuming jack has a few more knives up his sleeve for the other guards) so I thought I’d include it here.
     <img src="media/misc/noirscape.png" width="776" height="776">
-Cover Artists:
-- kendle bentley b!
-Referenced Tracks:
-- Liquid Negrocity
-- Crystalanthemums
-- Descend
 ---
 Track: Dogfight
 Artist: Team Dogfight
-Duration: '3:40'
-Art Tags:
-- PM
-- 'cw: body horror (abstract)'
-URLs:
-- https://homestuck.bandcamp.com/track/dogfight-2
-- https://youtu.be/t7jg87kn5ps
 Contributors:
 - David Dycus (organizer & synths)
 - Willow Ascenzo (orchestra)
@@ -937,8 +930,15 @@ Contributors:
 - DJ最テー (guitar)
 - viaSatellite (guitar & bass)
 - Ian White (trumpet & bass)
+Duration: '3:40'
+URLs:
+- https://homestuck.bandcamp.com/track/dogfight-2
+- https://youtu.be/t7jg87kn5ps
 Cover Artists:
 - Molly Gur
+Art Tags:
+- PM
+- 'cw: body horror (abstract)'
 Referenced Tracks:
 - track:sburban-jungle
 - Penumbra Phantasm
@@ -949,13 +949,13 @@ Referenced Tracks:
 Track: A Taste for Adventure
 Artist: Seth Peelle
 Duration: '8:24'
-Art Tags:
-- Jake
 URLs:
 - https://homestuck.bandcamp.com/track/a-taste-for-adventure-2
 - https://youtu.be/S4kIfIUSV6o
 Cover Artists:
 - minty
+Art Tags:
+- Jake
 Referenced Tracks:
 - track:dissension-original
 - Carefree Action
@@ -964,6 +964,11 @@ Referenced Tracks:
 Track: Stargaze
 Artist: Nick Smalley
 Duration: '1:24'
+URLs:
+- https://homestuck.bandcamp.com/track/stargaze-2
+- https://youtu.be/ZTkdO7c4MEE
+Cover Artists:
+- Tavia Morra
 Art Tags:
 - Jane
 - Roxy
@@ -971,34 +976,29 @@ Art Tags:
 - Jake
 - Lil Cal
 - 'cw: alcohol'
-URLs:
-- https://homestuck.bandcamp.com/track/stargaze-2
-- https://youtu.be/ZTkdO7c4MEE
 Commentary: |-
     <i>Tavia Morra:</i>
     Nick Smalley approached me about this one with a very specific image for this one. He wanted a night time version of Lexxy’s wonderful [[media:misc/together.jpg|Beta Kids image]]. I had a lot of fun sprinkling details in to this image. I think the part that makes me smile most is little Minihoof curled up on Dirk’s chest.
-Cover Artists:
-- Tavia Morra
 ---
 Group: Bonus tracks
 ---
 Track: Another Countdown
 Artist: Michael Guy Bowman
 Duration: '1:20'
-Art Tags:
-- Jane
 URLs:
 - https://homestuck.bandcamp.com/track/another-countdown-2
 - https://youtu.be/e71naCnOdwo
+Cover Artists:
+- Emery Ferguson
+Art Tags:
+- Jane
+Referenced Tracks:
+- Another Jungle
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     I’ve mentioned a few times that Homestuck Vol. 9, in its early planning stages, was conceived as an album that would be dedicated to the new session of Homestuck, and most of the tracks would mimic older songs re-imagined in the new universe presented in Act 6. “Another Countdown” was thus the sister song of “Sburban Countdown” - both are brief arrangements of their parent songs (“Another Jungle” and “Sburban Jungle” respectively) meant to crescendo towards a major climax.
     “Another Countdown” was retooled from its parent track to be far mellower at first - the bass and drum comping is a bit latin in flavor, and much of the song’s first half is almost completely quiet until the explosion that finishes off the track. When the concept of the record was changed, it was decided that this relatively short song would be included as a bonus when you purchase the full album.
     The track art is by Emery Ferguson.
-Cover Artists:
-- Emery Ferguson
-Referenced Tracks:
-- Another Jungle
 ---
 Track: Frustracean
 Artist: Toby Fox
@@ -1006,10 +1006,6 @@ Duration: '2:47'
 URLs:
 - https://www.youtube.com/watch?v=om3VC6ru4yk
 - https://youtu.be/om3VC6ru4yk
-Lyrics: |-
-    That was the plan, to give you a boner<br>And you GOT ONE
-    Ha-HAA
-    boner
 Cover Artists:
 - Homestuck
 Referenced Tracks:
@@ -1017,3 +1013,7 @@ Referenced Tracks:
 Sampled Tracks:
 - Snake Eyes
 - Leaving Las Vegas
+Lyrics: |-
+    That was the plan, to give you a boner<br>And you GOT ONE
+    Ha-HAA
+    boner

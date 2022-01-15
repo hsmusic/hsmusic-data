@@ -1,17 +1,17 @@
 Album: Electric Daydreams
 Artist: Michael Guy Bowman
-Has Track Art: false
 Date: November 22, 2016
 Date Added: February 12, 2021
+URLs:
+- https://bowman.bandcamp.com/album/electric-daydreams
+- https://www.youtube.com/playlist?list=OLAK5uy_mSKmyelfcGkm9w7Ex-cmUC1PI5peXGP4k
+Has Track Art: false
+Cover Artists:
+- Michael Guy Bowman
 Color: '#d15d34'
 Groups:
 - Michael Guy Bowman
 - Beyond
-URLs:
-- https://bowman.bandcamp.com/album/electric-daydreams
-- https://www.youtube.com/playlist?list=OLAK5uy_mSKmyelfcGkm9w7Ex-cmUC1PI5peXGP4k
-Cover Artists:
-- Michael Guy Bowman
 ---
 Track: The Wild Years
 Duration: '3:35'
@@ -78,9 +78,9 @@ Lyrics: |-
     Look where the empty highway meets the sky
 ---
 Track: Touch My Brain
-Duration: '3:15'
 Contributors:
 - Hallie (backup vocals)
+Duration: '3:15'
 URLs:
 - https://bowman.bandcamp.com/track/touch-my-brain
 - https://www.youtube.com/watch?v=lDSFFIwuyRE
@@ -136,12 +136,14 @@ Lyrics: |-
     Get out
 ---
 Track: We Don't Know Anything
-Duration: '4:37'
 Contributors:
 - Hallie (backup vocals)
+Duration: '4:37'
 URLs:
 - https://bowman.bandcamp.com/track/we-dont-know-anything
 - https://www.youtube.com/watch?v=985UOax3Lok
+Cover Artists:
+- Michael Guy Bowman
 Lyrics: |-
     We don’t know anything about love
     We just know what’s on the TV
@@ -214,8 +216,6 @@ Lyrics: |-
     Oh, we don’t know anything at all
     Not the right and not the wrong
     Not the meaning of this song
-Cover Artists:
-- Michael Guy Bowman
 ---
 Track: Wherever We Go
 Duration: '3:09'

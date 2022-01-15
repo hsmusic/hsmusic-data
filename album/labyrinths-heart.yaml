@@ -2,18 +2,18 @@ Album: Labyrinth's Heart
 Artist: Clark Powell
 Date: September 2, 2015
 Date Added: October 10, 2020
-Banner Dimensions: 975x180
+URLs:
+- https://www.youtube.com/playlist?list=PLnVpmehyaOFZhrI8iMi4bMrEyl2ZaWd7R
 Has Track Art: false
+Cover Artists:
+- dodostad
 Color: '#9f887a'
 Groups:
 - Clark Powell
 - Beyond
-URLs:
-- https://www.youtube.com/playlist?list=PLnVpmehyaOFZhrI8iMi4bMrEyl2ZaWd7R
-Cover Artists:
-- dodostad
 Banner Artists:
 - dodostad
+Banner Dimensions: 975x180
 ---
 Track: Getting Lost
 Duration: '1:22'
@@ -39,13 +39,13 @@ Track: Misbegotten
 Duration: '4:20'
 URLs:
 - https://youtu.be/9ai9ETnvXQo
+Referenced Tracks:
+- Pencil Holder (demo version)
+- track:lori-and-erich-baker
 Lyrics: |-
     <i>Countless bodies remain unidentified, some ending up in unmarked graves and small border town cemeteries.</i>
 
     I went out on a forensic case, and the sheriff had a skull on his office desk. It was the skull of a younger person, and he was using it as a pencil holder. He had pens and pencils in the eye socket of this person. So that's when I decided something had to be done.
-Referenced Tracks:
-- Pencil Holder (demo version)
-- track:lori-and-erich-baker
 ---
 Track: Calypso Deep
 Duration: '1:46'
@@ -83,8 +83,8 @@ URLs:
 - https://youtu.be/l_ODZbxdzFg
 ---
 Track: Requiem
-Duration: '4:38'
 Directory: requiem-labyrinths-heart
+Duration: '4:38'
 URLs:
 - https://youtu.be/u4x-_BipEwA
 Referenced Tracks:

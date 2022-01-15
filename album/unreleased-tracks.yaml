@@ -1,14 +1,14 @@
 Album: Unreleased Tracks
-Has Track Art: false
 Date: November 11, 1111
 Date Added: March 16, 2020
-Color: '#ff7bf7'
-Canon: Fanon
+Has Track Art: false
 Cover Artists:
 - Homestuck
+Color: '#ff7bf7'
+Canon: Fanon
 ---
-Group: Tracks featured in Homestuck
 Color: '#ff5599'
+Group: Tracks featured in Homestuck
 ---
 Track: Problem Sleuth Theme
 Artist: Mark Hadley
@@ -161,11 +161,11 @@ URLs:
 - https://www.youtube.com/watch?v=m9We2XsVZfc
 ---
 Track: I Don't Want to Miss a Thing
+Directory: i-dont-want-to-miss-a-thing-aerosmith
 Artist: Diane Warren
 Contributors:
 - Aerosmith (performance in Armageddon)
 Duration: '4:54'
-Directory: i-dont-want-to-miss-a-thing-aerosmith
 URLs:
 - https://www.youtube.com/watch?v=JkK8g6FMEXE
 ---
@@ -417,8 +417,8 @@ URLs:
 Referenced Tracks:
 - Horschestra
 ---
-Group: Tracks featured in Hiveswap Friendsim
 Color: '#78df56'
+Group: Tracks featured in Hiveswap Friendsim
 ---
 Track: Single Female Lawyer
 Artist: Alex Rosetti
@@ -455,8 +455,8 @@ Duration: '1:03'
 URLs:
 - https://www.youtube.com/watch?v=wc5iruoYLXM
 ---
-Group: Tracks featured in Pesterquest
 Color: '#71daff'
+Group: Tracks featured in Pesterquest
 ---
 Track: Friendvangelion Rebuild
 Artist: James Roach
@@ -464,13 +464,13 @@ Duration: '2:55'
 URLs:
 - https://soundcloud.com/jamesroachmusic/the-note-desolation-plays
 - https://www.youtube.com/watch?v=hnBMOTxQfJ4
-Commentary: |-
-    <i>James Roach:</i>
-    how mysterious
 Cover Artists:
 - Homestuck
 Referenced Tracks:
 - Homestuck
+Commentary: |-
+    <i>James Roach:</i>
+    how mysterious
 ---
 Track: sometimes i call andrew hussie 'andy' and so far he hasn't corrected me
 Artist: James Roach
@@ -478,15 +478,15 @@ Duration: '4:34'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me
 - https://www.youtube.com/watch?v=xSrT-SDN-uA
-Commentary: |-
-    <i>James Roach:</i>
-    SO! PesterQuest is out. We've been sitting on this one for a while. This first route has been done for a while. It was supposed to come out back on 6/12 but our new publisher had us sit on it for reasons that are beyond even me. Anyway, big ups to Malcolm and Mark for letting me use their themes.
-    I don't know if I'll have as much time or energy to do the tracks for pesterquest like i did for friendsim since i got a new job. I will try my best.
 Cover Artists:
 - Homestuck
 Referenced Tracks:
 - track:showtime-piano-refrain
 - Homestuck
+Commentary: |-
+    <i>James Roach:</i>
+    SO! PesterQuest is out. We've been sitting on this one for a while. This first route has been done for a while. It was supposed to come out back on 6/12 but our new publisher had us sit on it for reasons that are beyond even me. Anyway, big ups to Malcolm and Mark for letting me use their themes.
+    I don't know if I'll have as much time or energy to do the tracks for pesterquest like i did for friendsim since i got a new job. I will try my best.
 ---
 Track: please support The Trevor Project
 Artist: James Roach
@@ -494,6 +494,10 @@ Duration: '3:19'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-please-support-the-trevor-project
 - https://www.youtube.com/watch?v=urbot0kfsz8
+Cover Artists:
+- Homestuck
+Referenced Tracks:
+- track:endless-climb
 Commentary: |-
     <i>James Roach:</i>
     I wasn't certain how to approach this one. I knew if I was going to use the theme from endless climb it wouldn't feel right accepting any money for it. These things don't exactly pay well to begin with tbh, so i thought I would use the platform i've been given to try and do something... even a little positive.
@@ -501,10 +505,6 @@ Commentary: |-
     suicide is something that is hard for me to talk about. its very personal. i tend to internalize feelings in order not to.. bother anyone. a few months ago i called a suicide hotline when i hit a really low point and i think just the act of calling made me feel... in charge somehow? feelings are fucked up. don't be afraid to talk to someone. even if it is a stranger at the other end of a call. take that step. you're not bad for feeling that way.
     so anyway. endless climb was one of the very first homestuck songs that really drew me in, and doing a cover of it all those years ago really got me back into taking composition seriously. it could easily be argued that this song changed my life for the better.
     if you want to know more about the trevor project, or just suicide prevention in general visit <a href="https://www.thetrevorproject.org/">thetrevorproject.org</a>
-Cover Artists:
-- Homestuck
-Referenced Tracks:
-- track:endless-climb
 ---
 Track: 2chords
 Artist: James Roach
@@ -523,14 +523,14 @@ URLs:
 - >-
     https://soundcloud.com/jamesroachmusic/pesterquest-ill-probably-just-name-this-one-something-normal-oh-no-wait-oh-jeez-aw-beans
 - https://www.youtube.com/watch?v=DREQ4rJUXXQ
-Commentary: |-
-    <i>James Roach:</i>
-    well cats outta the bag i did the dave route. when andrew approached me about writing it i had very little writing experience outside of my personal projects. im glad andrew had faith in me and i hope you guys like it. itll come out at 11 AM EDT.
-    for this one and the next routes music im gonna try and keep with the tradition of uploading it the morning of.
 Cover Artists:
 - Homestuck
 Referenced Tracks:
 - Davesprite
+Commentary: |-
+    <i>James Roach:</i>
+    well cats outta the bag i did the dave route. when andrew approached me about writing it i had very little writing experience outside of my personal projects. im glad andrew had faith in me and i hope you guys like it. itll come out at 11 AM EDT.
+    for this one and the next routes music im gonna try and keep with the tradition of uploading it the morning of.
 ---
 Track: 24/7 lo fi anime beats to question your sexuality to
 Artist: James Roach
@@ -538,16 +538,16 @@ Duration: '2:51'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-247-lo-fi-anime-beats-to-question-your-sexuality-to
 - https://www.youtube.com/watch?v=0I2ufAhRbf0
-Commentary: |-
-    <i>James Roach:</i>
-    i just wanted to do more than one song so i did two and a half. hope you like it. thanks for all the support! also im in this image can u find me LMAO
-    <img src="media/misc/lo-fi-cover.jpg" alt="Pesterquest art of the inside of an Olive Garden, packed with Homestuck team members." width="500" height="500">
 Cover Artists:
 - Homestuck
 Referenced Tracks:
 - 2chords
 - track:upward-movement-dave-owns
 - track:sburban-jungle
+Commentary: |-
+    <i>James Roach:</i>
+    i just wanted to do more than one song so i did two and a half. hope you like it. thanks for all the support! also im in this image can u find me LMAO
+    <img src="media/misc/lo-fi-cover.jpg" alt="Pesterquest art of the inside of an Olive Garden, packed with Homestuck team members." width="500" height="500">
 ---
 Track: CAREFREE VICTORY (REMIX)
 Artist: James Roach
@@ -557,13 +557,11 @@ Duration: '6:02'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-james-roach-ft-speak-n-say-carefree-victory-remix
 - https://www.youtube.com/watch?v=c8aZFD8ic9A&
-Commentary: |-
-    <i>James Roach:</i>
-    jades theme! wow we've really come a long way huh fellas?
-    i always really liked carefree victory and its really one of the only songs that felt like uniquely hers. towards the end i try and do something that like... every homestuck musician i think tries at least once: getting all 4 of the kid's instruments to play something nice together. i think i did alright, i subbed in beatboxing for daves turntables cause its not like you can just carry those anywhere. i guess as opposed to johns piano?? LMAO
-    musically i have jade start on bass, and as more of her friends come in she gets a little more confident in her basslines. anyway thats my fanfic.
-    this is the last new piece i'll be doing for the forseeable future, or until i feel like doing another one which might be immediately. ive been doing this on a largely volunteer basis for a while since the budget constraints were tight and we need to pay the bg and sprite artists a reasonable amount. I wanted all four kids to have music by me and i think we'll be digging into the homestuck archive for other stuff.
-    anyway i hope you've enjoyed the ride! its been a little bittersweet at times for me but i'll miss posting new stuff every two weeks.
+Cover Artists:
+- Homestuck
+Referenced Tracks:
+- Carefree Action
+- track:carefree-victory
 Lyrics: |-
     (<i>Arf</i>)
 
@@ -598,11 +596,13 @@ Lyrics: |-
     (<i>Arf</i>)
 
     Bark
-Cover Artists:
-- Homestuck
-Referenced Tracks:
-- Carefree Action
-- track:carefree-victory
+Commentary: |-
+    <i>James Roach:</i>
+    jades theme! wow we've really come a long way huh fellas?
+    i always really liked carefree victory and its really one of the only songs that felt like uniquely hers. towards the end i try and do something that like... every homestuck musician i think tries at least once: getting all 4 of the kid's instruments to play something nice together. i think i did alright, i subbed in beatboxing for daves turntables cause its not like you can just carry those anywhere. i guess as opposed to johns piano?? LMAO
+    musically i have jade start on bass, and as more of her friends come in she gets a little more confident in her basslines. anyway thats my fanfic.
+    this is the last new piece i'll be doing for the forseeable future, or until i feel like doing another one which might be immediately. ive been doing this on a largely volunteer basis for a while since the budget constraints were tight and we need to pay the bg and sprite artists a reasonable amount. I wanted all four kids to have music by me and i think we'll be digging into the homestuck archive for other stuff.
+    anyway i hope you've enjoyed the ride! its been a little bittersweet at times for me but i'll miss posting new stuff every two weeks.
 ---
 Track: CRUSTacean
 Directory: crustacean-pq
@@ -611,13 +611,13 @@ Duration: '5:28'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-crustacean
 - https://www.youtube.com/watch?v=9hdPSPGCK3Q
-Commentary: |-
-    <i>James Roach:</i>
-    there are a handful of people out there who really thought we were just gonna put karkalicious in there.
 Cover Artists:
 - Homestuck
 Referenced Tracks:
 - track:crustacean
+Commentary: |-
+    <i>James Roach:</i>
+    there are a handful of people out there who really thought we were just gonna put karkalicious in there.
 ---
 Track: the drone rhythmic motif which can be found in act 1 and act 2
 Directory: drone-pq
@@ -632,13 +632,13 @@ Duration: '4:19'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-terezis-theme-ch3ck-th3-m3t4d4t4
 - https://www.youtube.com/watch?v=DuGQM9YsyXo
-Commentary: |-
-    <i>James Roach:</i>
-    dont actually do that you clowns
 Cover Artists:
 - Homestuck
 Referenced Tracks:
 - The Lemonsnout Turnabout
+Commentary: |-
+    <i>James Roach:</i>
+    dont actually do that you clowns
 ---
 Track: it's a cover of 'made of time'
 Artist: James Roach
@@ -657,14 +657,14 @@ Duration: '5:41'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-aradias-theme-yeah-it-is
 - https://www.youtube.com/watch?v=MDqXkGBFPg0
-Commentary: |-
-    <i>James Roach:</i>
-    big ups to Tamara "TOTALSPIFFAGE" Fritz for really knocking it outta the park with these vocals.
 Cover Artists:
 - Homestuck
 Referenced Tracks:
 - it's a cover of 'made of time'
 - track:MeGaLoVania
+Commentary: |-
+    <i>James Roach:</i>
+    big ups to Tamara "TOTALSPIFFAGE" Fritz for really knocking it outta the park with these vocals.
 ---
 Track: IT'S NOTHING
 Artist: James Roach
@@ -687,6 +687,8 @@ Duration: '3:58'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-this-time-its-eridan-i-forgot-what-i-named-this
 - https://www.youtube.com/watch?v=sw8smnspCmU
+Cover Artists:
+- Homestuck
 Commentary: |-
     <i>James Roach:</i>
     (<a href="https://soundcloud.com/jamesroachmusic/pesterquest-this-time-its-eridan-i-forgot-what-i-named-this">SoundCloud</a>)
@@ -694,8 +696,6 @@ Commentary: |-
     (<a href="https://mkteres.tumblr.com/post/182160729885/jamesroachmusic-originally-there-was-a-troll-in">Tumblr</a>)
     Originally there was a troll in act 2 code named "Busker" that was the alternian version of those like.. one man bands you see when you go to venice beach <a href="https://www.youtube.com/watch?v=PfINfEhxnLA">or like on the subway or w/e</a>. Just him and his weird accordion that also somehow made all these extra sounds.
     Anyway if you went up to him and did the right dialogue he would play you his song, which was this. I think he got written out because he was kind of a <i>one note character</i> ',:^]
-Cover Artists:
-- Homestuck
 ---
 Track: i guess
 Artist: James Roach
@@ -724,9 +724,9 @@ Referenced Tracks:
 - Riches to Ruins Movements I & II
 ---
 Track: 'this is like... what was it... > [S] MSPAR: Remember'
+Directory: mspar-remember
 Artist: James Roach
 Duration: '1:06'
-Directory: mspar-remember
 URLs:
 - https://www.youtube.com/watch?v=osip3rTivjM
 Cover Artists:
@@ -741,9 +741,6 @@ Artist: James Roach
 Duration: '1:56'
 URLs:
 - https://soundcloud.com/jamesroachmusic/afterw-rd-theme-normal-song-name#t=0:00
-Commentary: |-
-    <i>James Roach:</i>
-    its over
 Cover Artists:
 - Homestuck
 Referenced Tracks:
@@ -755,9 +752,12 @@ Referenced Tracks:
 - track:MeGaLoVania
 - Homestuck Anthem
 - WORST END
+Commentary: |-
+    <i>James Roach:</i>
+    its over
 ---
-Group: Tracks featured in Namco High
 Color: '#f0650a'
+Group: Tracks featured in Namco High
 ---
 Track: Namco Theme
 Artist: Ryan Francis
@@ -825,6 +825,8 @@ Contributors:
 Duration: '2:43'
 URLs:
 - https://www.youtube.com/watch?v=QuWdIDEwjRk
+Referenced Tracks:
+- Namco Theme
 Lyrics: |-
     Be true to yourself<br>Namco High
     Please have a good time<br>Be satisfied with life<br>Take the high road<br>Remember the moon is watching us
@@ -832,11 +834,9 @@ Lyrics: |-
     (Hey!<br>How's it going?<br>Good! How 'bout you?<br>Geometry's really hard, I think I need help<br>Oh, well, I'm really good at it, so... if you need help just hit me up!<br>Awesome! Yeah, I'll do that)
     Be true to yourself<br>Namco High
     Be true to yourself<br>Namco High
-Referenced Tracks:
-- Namco Theme
 ---
-Group: Other Homestuck tracks
 Color: '#ff7bf7'
+Group: Other Homestuck tracks
 ---
 Track: 暗闇の中の光
 Directory: canwave3-track6
@@ -844,13 +844,13 @@ Artist: SplitSuns
 Duration: '7:45'
 URLs:
 - https://soundcloud.com/splitsuns/light-in-the-darkness
+Referenced Tracks:
+- Voidlight
 Commentary: |-
     <i>SplitSuns:</i>
     ...When the hell did I get 100 followers?? I give my thanks to all of you for listening to my shitty music, haha.
     This is one of my tracks for the CaNMT's almost-vaporware all-vaporwave album, CANWAVE 3. In its current iteration it's a take on 2814's sample-free approach to the vapor aesthetic through ambient and techno albums such as 新しい日の誕生 and Rain Temple. It's one of my most complex songs yet and it took a lot of work to make, but the end result is something very awe-inspiring, even to me.
     (Originally this song was a straight-up cover of Voidlight that was much more laid-back and repetitive, but I scrapped it in favor of this version. Maybe I'll upload that old version somewhere along the line.)
-Referenced Tracks:
-- Voidlight
 ---
 Track: A Baby Legend - The Baby is 2
 Directory: a-baby-legend
@@ -858,6 +858,8 @@ Artist: Toby Fox
 Duration: '1:37'
 URLs:
 - https://youtu.be/j_AHimPxR40
+Referenced Tracks:
+- A History of Babies
 Lyrics: |-
     A HUNDRED THOUSAND YEARS AGO...<br>far in the depths of paradox space<br>a new lifeform is about to be created<br>one whose origin is as enigmatic as the glimmer of a musclebeast's teat
     some are carried in by storks<br>some are recreated from paradox slime<br>others appear wet out of their best friend's magical nonexistant vagina
@@ -866,8 +868,6 @@ Lyrics: |-
     this is the story of one man's search for love and truth<br>in a universe forgotten by time
     the story of those fearful creatures<br>those that we call
     <big><big><i>BABIES</i></big></big>
-Referenced Tracks:
-- A History of Babies
 ---
 Track: A Very "O" Christmas
 Artist:
@@ -910,11 +910,11 @@ Artist: Tensei
 Duration: '2:58'
 URLs:
 - https://youtu.be/wouDFje3RY8
+Referenced Tracks:
+- Arisen Anew
 Commentary: |-
     <i>Tensei:</i>
     The original release version of this song had been mastered at a fairly low volume level in order to match the other songs on the Alterniabound album. I felt that a bouncy electronica song like this warranted a lot more volume and dynamic range compression though, so this version is the song as I had originally intended it. The difference might not be all that noticeable unless you're comparing the versions side by side.
-Referenced Tracks:
-- Arisen Anew
 ---
 Track: Before Before the Beginning
 Artist: Robert J! Lake
@@ -946,24 +946,24 @@ Artist: PoisonedElite
 Duration: '2:13'
 URLs:
 - https://soundcloud.com/poisonedelite/calming-quartz-beta/s-2FvRp
+Referenced Tracks:
+- Land of Quartz and Melody
 Commentary: |-
     <i>PoisonedElite:</i>
     The first Version of Calming Quartz, my song for the album Xenoplanetarium, a Homestuck Fan Album. I wasn't happy with this version so I redid the entire song. This song references Land of Quartz and Melody by Thomas Ferkol.
-Referenced Tracks:
-- Land of Quartz and Melody
 ---
 Track: Cascade (Director's Cut)
 Artist: Tensei
 Duration: '4:20'
 URLs:
 - https://youtu.be/Ejw-E2HBtlY
-Commentary: |-
-    <i>Tensei:</i>
-    A slightly updated/different version of my section of Cascade. The most notable differences are the altered melodies at the start and numerous production improvements such as rerecorded guitars, improved string sections, etc.
 Referenced Tracks:
 - Cascade (Beta)
 - track:sburban-jungle
 - track:beatdown-strider-style
+Commentary: |-
+    <i>Tensei:</i>
+    A slightly updated/different version of my section of Cascade. The most notable differences are the altered melodies at the start and numerous production improvements such as rerecorded guitars, improved string sections, etc.
 ---
 Track: Cascante
 Artist: Noisemaker
@@ -1145,15 +1145,15 @@ Duration: '3:26'
 URLs:
 - https://plazmataz.tumblr.com/post/19774190658/download-flare-cascade-i-have-recut-and
 - https://www.youtube.com/watch?v=hT0ijIKJkbE
+Referenced Tracks:
+- Flare
+- Cascade (Beta)
 Commentary: |-
     <i>Clark Powell:</i>
     I have recut and remastered my track Flare, as it was presented to you in the Cascade flash (rather than the calmed-down album version). I get asked a lot for this, so I decided to give it some extra love and attention.
     I have attempted a number of times to put together a mix of Flare that utilized the distinctive crescendo that is recognizable from Cascade, but it never seems to work well without the cinematic context. The buildup sort of leads to nothing, and then the track either ends awkwardly or fades out, and I have something personal against fade-outs. Maybe I’ll talk about that someday. But not now.
     I gave it another go, this time trying a decrescendo to bring the song back down from all the energy it riles up, then ending it on kind of a creepy note. I had more success here than I ever have in past attempts to cut the song together in this way.
     Flare was a pretty big hit in its own right, so there’s always the pressure coming from the responsibility to handle this properly. I hope you enjoy it!
-Referenced Tracks:
-- Flare
-- Cascade (Beta)
 ---
 Track: Flare (Green Sun Remix)
 Artist: Clark Powell
@@ -1372,9 +1372,9 @@ Duration: '1:53'
 Has URLs: false
 ---
 Track: 'null'
+Directory: null-toby-fox
 Artist: Toby Fox
 Duration: 0:08
-Directory: null-toby-fox
 URLs:
 - https://www.youtube.com/watch?v=sIgtSvgERB4
 Referenced Tracks:
@@ -1399,12 +1399,12 @@ Artist: Willow Ascenzo
 Duration: '3:14'
 URLs:
 - https://soundcloud.com/wellmanicuredman/rust-piano
+Referenced Tracks:
+- Rust Servant
 Commentary: |-
     <i>Willow Ascenzo:</i>
     I'm a little late for 6/12, I know, but I just finished some piano arrangements ([[Rags of Rust]], [[Teal Wings and Scales]], [[Violet Sea Breeze]]) of my tracks from [[album:coloUrs-and-mayhem-universe-a]]. I composed the originals back in January 2012--two and a half years ago! My, how time flies when you're having fun.
     I have to thank my piano professor from last semester for these. No, I can't play these pieces live, not yet at least--but taking a piano course really improved my level of comfort and familiarity with composing for pianos. I just might make sheet music available, though!
-Referenced Tracks:
-- Rust Servant
 ---
 Track: Rematch
 Artist: Pascal van den Bos
@@ -1576,12 +1576,12 @@ Artist: Willow Ascenzo
 Duration: '2:50'
 URLs:
 - https://soundcloud.com/wellmanicuredman/teal-wings-and-scales
+Referenced Tracks:
+- Teal Hunter
 Commentary: |-
     <i>Willow Ascenzo:</i>
     I'm a little late for 6/12, I know, but I just finished some piano arrangements ([[Rags of Rust]], [[Teal Wings and Scales]], [[Violet Sea Breeze]]) of my tracks from [[album:coloUrs-and-mayhem-universe-a]]. I composed the originals back in January 2012--two and a half years ago! My, how time flies when you're having fun.
     I have to thank my piano professor from last semester for these. No, I can't play these pieces live, not yet at least--but taking a piano course really improved my level of comfort and familiarity with composing for pianos. I just might make sheet music available, though!
-Referenced Tracks:
-- Teal Hunter
 ---
 Track: Temporal Virtuoso
 Artist: Pascal van den Bos
@@ -1644,12 +1644,12 @@ Artist: Willow Ascenzo
 Duration: '3:01'
 URLs:
 - https://soundcloud.com/wellmanicuredman/violet-sea-breeze
+Referenced Tracks:
+- Violet Mariner
 Commentary: |-
     <i>Willow Ascenzo:</i>
     I'm a little late for 6/12, I know, but I just finished some piano arrangements ([[Rags of Rust]], [[Teal Wings and Scales]], [[Violet Sea Breeze]]) of my tracks from [[album:coloUrs-and-mayhem-universe-a]]. I composed the originals back in January 2012--two and a half years ago! My, how time flies when you're having fun.
     I have to thank my piano professor from last semester for these. No, I can't play these pieces live, not yet at least--but taking a piano course really improved my level of comfort and familiarity with composing for pianos. I just might make sheet music available, though!
-Referenced Tracks:
-- Violet Mariner
 ---
 Track: Void Session
 Artist: Ducky Senpai
@@ -1677,8 +1677,8 @@ Duration: '4:35'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/windwielder
 ---
-Group: Other tracks originating outside of Homestuck
 Color: '#90c000'
+Group: Other tracks originating outside of Homestuck
 ---
 Track: リサフランク420 / 現代のコンピュー
 Directory: lisa-frank-420-modern-computing
@@ -1743,14 +1743,14 @@ Duration: 0:58
 URLs:
 - https://youtu.be/wa2K_8Ff41M?t=149
 - https://fwugradiation.tumblr.com/post/13528293577/improvised-touhou-music-with-annoying-commentary
+Referenced Tracks:
+- Magical Hopalong Cassidy Station
 Lyrics: |-
     <i>AN APPLE DISASTER!!</i><br>That's the name of her song<br>And her name is Apple Girlington<br>She's the personification of<br>An apple
     This spell card is called <i>THE APPLE WIZARD OF MOUNT FUJI</i><br>It's part of important Japanese folk lore<br>The pre-battle dialogue goes like this:
     <i>You should taste my wonderful apples</i><br><i>No, sorry, I'm watching my weight recently</i><br><i>No!! You have to try the apples or I won't let you through!</i><br><i>Oh, well, I'll give you a diabetes bow tie</i><br><i>[UNTRANSLATABLE JAPANESE IDIOM]</i>
     Then you have a weird chord change<br>Because it's a newer Touhou song
     Then they make a joke about apple pie
-Referenced Tracks:
-- Magical Hopalong Cassidy Station
 ---
 Track: Arms Outstretched
 Artist: Griffin McElroy
@@ -1873,9 +1873,9 @@ URLs:
 ---
 Track: Careless Whisper
 Artist: George Michael
+Duration: '5:01'
 URLs:
 - https://www.youtube.com/watch?v=izGwDsrQ1eQ
-Duration: '5:01'
 ---
 Track: Carol of the Bells
 Artist: Mykola Leontovych
@@ -2027,8 +2027,8 @@ URLs:
 - https://toriscrow.bandcamp.com/track/featherlight
 ---
 Track: Fever
-Artist: Eddie Cooley, Otis Blackwell
 Directory: fever-cooley-blackwell
+Artist: Eddie Cooley, Otis Blackwell
 Has URLs: false
 ---
 Track: File Select (SM64)
@@ -2253,9 +2253,9 @@ URLs:
 - https://www.youtube.com/watch?v=qDQpZT3GhDg
 ---
 Track: Jet Black
+Directory: jet-black-jawbreaker
 Artist: Jawbreaker
 Duration: '5:14'
-Directory: jet-black-jawbreaker
 URLs:
 - https://www.youtube.com/watch?v=Dn3_YzLi_2A
 ---
@@ -2537,9 +2537,9 @@ URLs:
 - https://www.youtube.com/watch?v=IFfLCuHSZ-U
 ---
 Track: Prana Ferox
+Directory: prana-ferox-the-mountain-goats
 Artist: The Mountain Goats
 Duration: '3:59'
-Directory: prana-ferox-the-mountain-goats
 URLs:
 - https://www.youtube.com/watch?v=j2NwP64RoG8
 ---
@@ -2777,9 +2777,9 @@ URLs:
 - https://www.youtube.com/watch?v=Um6KR1rYZ3A
 ---
 Track: Swan Song
+Directory: swan-song-set-it-off
 Artist: Set It Off
 Duration: '4:14'
-Directory: swan-song-set-it-off
 URLs:
 - https://www.youtube.com/watch?v=bzSoICQLf-Q
 ---
@@ -2972,9 +2972,9 @@ URLs:
 - https://www.youtube.com/watch?v=JIZ12EQ2SFg
 ---
 Track: Tomorrow There'll Be More Of Us
+Directory: tomorrow-therell-be-more-of-us-hamilton
 Artist: 'Hamilton: An American Musical'
 Duration: '1:00'
-Directory: tomorrow-therell-be-more-of-us-hamilton
 URLs:
 - https://www.youtube.com/watch?v=Lsbx9MBFAYM
 ---
@@ -3109,8 +3109,8 @@ Duration: '2:56'
 URLs:
 - https://www.youtube.com/watch?v=Yu_Rxqtq3ng
 ---
-Group: Other works originating outside of Homestuck
 Color: '#8ccaf1'
+Group: Other works originating outside of Homestuck
 ---
 Track: 0.5x A Presses
 Artist: pannenkoek2012
@@ -3197,8 +3197,8 @@ URLs:
 ---
 Track: You have got to be about the most superficial commentator on con-langues since
     the idiotic B. Gilson.
+URLs:
+- https://www.youtube.com/watch?v=TOWcRvYq9Fs&lc=UgghJn8puEKm23gCoAEC
 Artists:
 - Anthony McCarthy
 - jan Misali
-URLs:
-- https://www.youtube.com/watch?v=TOWcRvYq9Fs&lc=UgghJn8puEKm23gCoAEC

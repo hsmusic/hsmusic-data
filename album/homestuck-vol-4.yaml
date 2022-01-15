@@ -1,15 +1,15 @@
 Album: Homestuck Vol. 4
 Date: April 13, 2010
 Date Added: December 12, 2020
-Color: '#51a2fd'
-Groups:
-- Official
 URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFYqUMFZtgAHdOcd0txDWSnj
 Cover Artists:
 - Homestuck
 Default Track Cover Artists:
 - Homestuck
+Color: '#51a2fd'
+Groups:
+- Official
 ---
 Track: Revelawesome
 Artist: Malcolm Brown
@@ -29,11 +29,11 @@ Duration: '1:38'
 URLs:
 - https://homestuck.bandcamp.com/track/hardlyquin-3
 - https://youtu.be/CN04ruWv30g
+Referenced Tracks:
+- track:harlequin
 Commentary: |-
     <i>Mark Hadley:</i>
     When Andrew asked us to do something for a shock and surprise for the upcoming reveal of John's Dad's room, this is what I came up with. I slipped some Harlequin in there for good measure. The original version was exactly as it appears in the comic (complete with the record scratch at the end), and I lengthened it for the soundtrack since it was so very, very short. Somehow it came out creepier in that version.
-Referenced Tracks:
-- track:harlequin
 ---
 Track: Mutiny
 Artist: Bill Bolin
@@ -46,12 +46,12 @@ Duration: '1:36'
 URLs:
 - https://homestuck.bandcamp.com/track/carefree-victory-3
 - https://youtu.be/2z1Rp2UynQE
+Referenced Tracks:
+- track:carefree-action
 Commentary: |-
     <i>Andrew Huo:</i>
     Carefree Victory is really Hadley's baby, and I would feel like I'm plagiarizing to really call it my own. I really just dictated his piece, called Carefree Action, put it into PXTone, added some lines, changed the tempo, and added a coda (which wasn't even used in the comic, I think?).
     One of the lines I added, for the intro, was roughly inspired by Cave Story music. I'm pretty Cave Story-influenced, especially with Homestuck stuff.
-Referenced Tracks:
-- track:carefree-action
 ---
 Track: Guardian V2
 Artist: Bill Bolin
@@ -89,9 +89,9 @@ URLs:
 - https://youtu.be/gOSnen64a7M
 ---
 Track: Three in the Morning (RJ's I Can Barely Sleep In This Casino Remix)
+Directory: three-in-the-morning-rj
 Artist: Robert J! Lake
 Duration: '6:29'
-Directory: three-in-the-morning-rj
 URLs:
 - https://homestuck.bandcamp.com/track/three-in-the-morning-rjs-i-can-barely-sleep-in-this-casino-remix-3
 - https://youtu.be/GACczxr7464
@@ -109,14 +109,14 @@ Duration: '2:37'
 URLs:
 - https://homestuck.bandcamp.com/track/doctor-3
 - https://youtu.be/ve7TB0FggaY
+Referenced Tracks:
+- track:doctor-original-loop
 Commentary: |-
     <i>Clark Powell:</i>
     Doctor was originally by Buzinkai and then a now non-active member Michael Vallejo added a few bits of percussion to it. I then put together a larger mix of the tune with shinier production and a glockenspiel tag, and this was the version Andrew used in the end.
     <i>Buzinkai:</i>
     Doctor was written before Homestuck, actually. The only thing I can really remember was that Super Smash Bros Brawl came out right before I finished it. The original loop (which is not the one specifically heard in the comic, but was included in the album release) was directly inspired by music from Cave Story, and I was trying to at the time musically embody how I felt at the time, I think. Though it never seems to come out exactly as I plan it, I enjoyed the results. I will say that I cannot truly believe how many people have remixed it.
     The arpeggio part at the end goes between the left, both, and right speakers sequentially. I was too lazy to set the channel settings manually, so I did each note on a different instrument, which is set to each speaker channel. Not many people know that, and I think it actually made it a living hell for remixers who got a hold of the original file.
-Referenced Tracks:
-- track:doctor-original-loop
 ---
 Track: Endless Climb
 Artist: Buzinkai
@@ -138,11 +138,15 @@ URLs:
 Track: Black
 Artist: Toby Fox
 Duration: '2:24'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/black-3
 - https://youtu.be/5NACWZBDtN8
+Art Tags:
+- 'cw: blood'
+Referenced Tracks:
+- track:liquid-negrocity
+Sampled Tracks:
+- track:im-a-member-of-the-midnight-crew
 Lyrics: |-
     Make her a member of the Midnight Crew!
 
@@ -162,7 +166,3 @@ Lyrics: |-
     I'm a member of the Midnight Crew!
     I'm a- I'm a- I'm a member of the-
     I'm a member of the Midnight Crew!
-Referenced Tracks:
-- track:liquid-negrocity
-Sampled Tracks:
-- track:im-a-member-of-the-midnight-crew

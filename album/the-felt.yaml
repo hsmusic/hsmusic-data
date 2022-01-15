@@ -1,12 +1,6 @@
 Album: The Felt
-Wallpaper Style: 'opacity: 0.25;'
 Date: December 2 2010
 Date Added: November 15, 2019
-Color: '#33aa55'
-Groups:
-- Official
-Art Tags:
-- Snowman
 URLs:
 - https://homestuck.bandcamp.com/album/homestuck-vol-5-6-with-the-felt
 - https://www.youtube.com/watch?v=o76TAd1ExFE
@@ -15,8 +9,14 @@ Cover Artists:
 - Molly Gur
 Default Track Cover Artists:
 - Homestuck
+Color: '#33aa55'
+Groups:
+- Official
+Art Tags:
+- Snowman
 Wallpaper Artists:
 - Molly Gur
+Wallpaper Style: 'opacity: 0.25;'
 ---
 Track: Jade Dragon
 Artist: Robert J! Lake
@@ -33,6 +33,8 @@ Duration: '5:58'
 URLs:
 - https://homestuck.bandcamp.com/track/swing-of-the-clock-2
 - https://youtu.be/kEGailT_BHs
+Referenced Tracks:
+- Three in the Morning
 Commentary: |-
     <i>Solatrus:</i>
     <i>(original commentary)</i>
@@ -59,8 +61,6 @@ Commentary: |-
     <b>Now For Some Trivia!</b>
     Swing of the Clock was the second to last of a very long stretch of original songs I did in the key of F minor. It’s my favorite key to write music in, but I’ve barely touched it since Chartreuse Rewind. (Which is next week..! Er.. I guess this week, since I was late on this. Oops.) Why? Well, too much of a good thing is a bad thing.
     Secondly, Lexxy really dug this song and it made me flip the fuck out when I found out she liked it, because she’s an amazing person!
-Referenced Tracks:
-- Three in the Morning
 ---
 Track: Rhapsody in Green
 Artist: Clark Powell
@@ -79,17 +79,17 @@ URLs:
 Track: Clockwork Reversal
 Artist: Thomas Ferkol
 Duration: '1:41'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/clockwork-reversal-2
 - https://youtu.be/b9BtuKqfPkY
+Art Tags:
+- 'cw: blood'
+Referenced Tracks:
+- Clockwork Apocalypse
 Commentary: |-
     <i>Thomas Ferkol:</i>
     Clockwork Reversal was my second contribution to the Felt.  I love the melody of Endless Climb.  I loved the music box-esque remixes on Volume 5 even more.  Before I got on the team, I had written Clockwork Apocalypse, an orchestrated version of Clockwork Melody.  After realizing Audacity could reverse music, I started experimenting.
     Since the Endless Climb melody was so memorable and it had served as good sort of interlude tracks on Volume 5, I decided to try to make something in a similar vein.  Oddly enough, I think the reversed version of the Clockwork Reversal sounds even better than both Clockwork Reversal and Clockwork Apocalypse.
-Referenced Tracks:
-- Clockwork Apocalypse
 ---
 Track: Chartreuse Rewind
 Artist: Solatrus
@@ -133,11 +133,11 @@ Referenced Tracks:
 Track: Trails
 Artist: Mark Hadley
 Duration: '2:29'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/trails-2
 - https://youtu.be/rzL0-oyDy7s
+Art Tags:
+- 'cw: blood'
 Commentary: |-
     <i>Mark Hadley:</i>
     At its heart, Trails is basically a fugue, with a melodic line being repeated and played over the previous one. Trace and Fin follow past and future trails, so I made the first melody in the first half hollow and somewhat indistinct, since it is a "future trail" for the second melody that will come in a few bars later. In the second half I reverse this and have the indistinct melody come afterwards, a "past trail" of the melody that just played.
@@ -172,28 +172,28 @@ Commentary: |-
 Track: Temporal Piano
 Artist: Erik Scheele
 Duration: '3:49'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/temporal-piano-2
 - https://youtu.be/rzNIMmObP3k
+Art Tags:
+- 'cw: blood'
 ---
 Track: Time Paradox
 Artist: Thomas Ferkol
 Duration: '3:06'
-Art Tags:
-- 'cw: blood'
-- 'cw: corpse'
 URLs:
 - https://homestuck.bandcamp.com/track/time-paradox-2
 - https://youtu.be/96HRN6bFYqU
+Art Tags:
+- 'cw: blood'
+- 'cw: corpse'
+Referenced Tracks:
+- Westminister Quarters
 Commentary: |-
     <i>Thomas Ferkol:</i>
     This was the first piece I submitted for an album once I got on the team.  Basically what happened was: I am visiting somewhere in Chicago with only my phone’s connection to the internet, check the MSPA forums and find a message notification waiting for me.  Radiation congratulates me on getting on the team.  After some moments of sputtering disbelief, I read on.  He says if I want to get started on something, the Squiddles was being finished up and the Felt was on the table.  So, for the next couple hours I was invigorated, consumed wholly during the car ride and time in the hotel before I finally fell asleep with working on a track for the Felt.  Time Paradox was made.
     Originally, I made it imagining the recruitment of the Felt, picturing Doc Scratch warping across time and space, assembling the green goons from who knows where, and then witnessing the construction of the Felt manor.
     It’s a fun track, more energetic than a lot of things I had worked on and definitely influenced by Radiation’s style.  The last two sections are still some of my favorite phrases that I’ve written.
-Referenced Tracks:
-- Westminister Quarters
 ---
 Track: Eldritch
 Artist: Alex Rosetti
@@ -205,11 +205,11 @@ URLs:
 Track: English
 Artist: Toby Fox
 Duration: '3:30'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/english-2
 - https://youtu.be/6zMnNCDaKuE
+Art Tags:
+- 'cw: blood'
 ---
 Track: Variations
 Artist: Robert J! Lake

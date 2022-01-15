@@ -1,15 +1,15 @@
 Album: Oceanfalls Vol. 3
 Date: October 11, 2020
 Date Added: December 12, 2020
-Color: '#ebe0ff'
-Groups:
-- Oceanfalls
-- Beyond
 URLs:
 - https://nightslights.bandcamp.com/album/oceanfalls-vol-3
 - https://www.youtube.com/watch?v=0OCAUpSqkfs
 Cover Artists:
 - nights
+Color: '#ebe0ff'
+Groups:
+- Oceanfalls
+- Beyond
 ---
 Group: Main album
 ---
@@ -24,22 +24,22 @@ Cover Artists:
 Track: The Cavern of Illusions
 Artist: Kusoro
 Duration: '2:00'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://nightslights.bandcamp.com/track/the-cavern-of-illusions
 Cover Artists:
 - nights
+Art Tags:
+- 'cw: blood'
 ---
 Track: Warmistice
 Artist: Hadron
 Duration: '2:56'
-Art Tags:
-- 'cw: body horror (abstract)'
 URLs:
 - https://nightslights.bandcamp.com/track/warmistice
 Cover Artists:
 - Hadron
+Art Tags:
+- 'cw: body horror (abstract)'
 ---
 Track: Rambling
 Artist: Kusoro
@@ -76,13 +76,13 @@ Cover Artists:
 Track: Chased by Spirits
 Artist: Kusoro
 Duration: '3:20'
-Art Tags:
-- 'cw: blood'
-- 'cw: body horror (abstract)'
 URLs:
 - https://nightslights.bandcamp.com/track/chased-by-spirits
 Cover Artists:
 - nights
+Art Tags:
+- 'cw: blood'
+- 'cw: body horror (abstract)'
 ---
 Track: Adventure at Sea
 Artist: OpsCat
@@ -183,12 +183,12 @@ Duration: '4:41'
 URLs:
 - https://nightslights.bandcamp.com/track/ytu-rendy
 - https://soundcloud.com/friendly-coy/ytu-rendy
+Cover Artists:
+- nights
 Commentary: |-
     <i>Mathias Ramalhoy:</i>
     (<a href="https://soundcloud.com/friendly-coy/ytu-rendy">SoundCloud</a>)
     Track's name means "Light from the Waterfalls" in Guaraní. Ytu comes from "y" which is water, it means waterfall. Rendy refers turning on or light in this context. You can also be a funnyman and use the other meaning of Rendy which is saliva, pretty much what I intended "accidentally" lmao.
-Cover Artists:
-- nights
 ---
 Track: Galactic Princess Selene Battle Theme
 Artist: Ray Maiky

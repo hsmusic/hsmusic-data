@@ -1,7 +1,12 @@
 Album: Homestuck for the Holidays
 Date: December 25, 2010
 Date Added: December 12, 2020
+URLs:
+- https://homestuckgaiden.bandcamp.com/album/homestuck-for-the-holidays-unofficial-album
+- https://www.youtube.com/playlist?list=PLLFAMWiDHVM2HPsgWu8_jAgF5qTHgeeOc
 Has Track Art: false
+Cover Artists:
+- Lexxy
 Color: '#b5d5fb'
 Groups:
 - Homestuck Gaiden
@@ -12,11 +17,6 @@ Art Tags:
 - Dave
 - Jade
 - Squiddles
-URLs:
-- https://homestuckgaiden.bandcamp.com/album/homestuck-for-the-holidays-unofficial-album
-- https://www.youtube.com/playlist?list=PLLFAMWiDHVM2HPsgWu8_jAgF5qTHgeeOc
-Cover Artists:
-- Lexxy
 ---
 Group: Main album
 ---
@@ -98,6 +98,8 @@ Duration: '2:46'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/the-squiddles-save-christmas
 - https://youtu.be/YyGhvEWMyd4
+Referenced Tracks:
+- Squiddles!
 Lyrics: |-
     Hey everybody, let's all sing
     'Cause the Squiddles just bought a Christmas tree
@@ -124,8 +126,6 @@ Lyrics: |-
     (GET OUT OF MY LIFE DAD)
 
     (AnD tO aLl A-)
-Referenced Tracks:
-- Squiddles!
 ---
 Track: Billy the Bellsuit Diver Has Something to Say
 Artist: Erik Scheele
@@ -133,6 +133,9 @@ Duration: '3:26'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/billy-the-bellsuit-diver-has-something-to-say
 - https://youtu.be/cRxCQv2nutw
+Referenced Tracks:
+- Tempus adest floridum
+- Squiddles!
 Lyrics: >-
     (Billy the Bellsuit Diver here to wish you all... a merry Christmas. Merry Christmas.
     Merry Christmas. Merry Christmas to you. Merry Christmas. Merry Christmas. Merry
@@ -142,9 +145,6 @@ Lyrics: >-
     Merry Christmas. Merry Christmas. Merry Christmas to you. Merry Christmas. Merry
     Christmas. Merry Christmas. Merry Christmas. [unmuffling] Merry Christmas to you
     and a happy New Year.)
-Referenced Tracks:
-- Tempus adest floridum
-- Squiddles!
 ---
 Track: Squiddly Night
 Artist: David Ko
@@ -152,6 +152,8 @@ Duration: '1:01'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/squiddly-night
 - https://youtu.be/i50tv01mJvI
+Referenced Tracks:
+- Silent Night
 Lyrics: |-
     Squeedle dee dee
     Squeedle dee dum
@@ -162,8 +164,6 @@ Lyrics: |-
     If you just go to sleep
 
     [Indecipherable demonic whispering]
-Referenced Tracks:
-- Silent Night
 ---
 Track: The Santa Claus Interdimensional Travel Sleigh
 Artist: Nick Smalley
@@ -215,14 +215,15 @@ Referenced Tracks:
 Track: Candlelight
 Artist: Robert J! Lake
 Duration: '3:15'
-Art Tags:
-- The Felt
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/candlelight
 - https://youtu.be/9G1ttVEPGN8
-Commentary: |-
-    <i>Robert J! Lake:</i>
-    I ruined this song with my voice
+Cover Artists:
+- Richard Browne
+Art Tags:
+- The Felt
+Referenced Tracks:
+- Candles and Clockwork
 Lyrics: |-
     I forgot to buy my last christmas gift
     The most important one of all
@@ -233,10 +234,9 @@ Lyrics: |-
     The only company I have is me
     I'm sleeping in another bed tonight
     In the space behind the candlelight
-Cover Artists:
-- Richard Browne
-Referenced Tracks:
-- Candles and Clockwork
+Commentary: |-
+    <i>Robert J! Lake:</i>
+    I ruined this song with my voice
 ---
 Track: Oh, No! It's the Midnight Crew!
 Artist: Nick Smalley
@@ -331,6 +331,8 @@ Artist: Lost in History
 Duration: 0:40
 URLs:
 - https://youtu.be/wN6DYiH6aws
+Referenced Tracks:
+- track:ohgodwhat
 Lyrics: |-
     SQUIDDLES: God oh man, oh God oh man... oh God Christmas!
     Oh God, Christmas!
@@ -347,8 +349,6 @@ Lyrics: |-
     Oh God, Christmas!
     Oh God, Christmaaaaas!! Aaaaaahhh!!
     Oh, God... Christmas
-Referenced Tracks:
-- track:ohgodwhat
 ---
 Track: A Very Special Time
 Artist: Lost in History

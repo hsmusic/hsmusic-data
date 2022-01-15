@@ -2,16 +2,16 @@ Album: Strife 2
 Artist: Tensei
 Date: March 13, 2017
 Date Added: May 25, 2020
+URLs:
+- https://tenseimusic.bandcamp.com/album/strife-2
+- https://www.youtube.com/playlist?list=PLnVpmehyaOFbuRKweQO1tS0fWjbYmEFpI
 Has Track Art: false
+Cover Artists:
+- Marimo
 Color: '#a347c5'
 Groups:
 - Tensei
 - Fandom
-URLs:
-- https://tenseimusic.bandcamp.com/album/strife-2
-- https://www.youtube.com/playlist?list=PLnVpmehyaOFbuRKweQO1tS0fWjbYmEFpI
-Cover Artists:
-- Marimo
 ---
 Group: Main album
 ---
@@ -78,13 +78,13 @@ Referenced Tracks:
 ---
 Track: The King in Red
 Duration: '3:49'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://tenseimusic.bandcamp.com/track/the-king-in-red
 - https://youtu.be/2_uFQGP7s9k
 Cover Artists:
 - nights
+Art Tags:
+- 'cw: blood'
 Referenced Tracks:
 - The King in Red (Beta)
 - track:crustacean

@@ -1,23 +1,23 @@
 Album: FriendSymphony
-Banner Dimensions: 1100x180
-Wallpaper Style: 'opacity: 0.8;'
 Date: November 30, 2020
 Date Added: January 12, 2021
-Color: '#3ae0a5'
-Major Release: true
-Art Tags:
-- MSPA Reader
-Groups:
-- Unofficial MSPA Fans
-- Fandom
 URLs:
 - https://unofficialmspafans.bandcamp.com/album/friendsymphony
 Cover Artists:
 - Knil
-Wallpaper Artists:
-- Chesswanderlust-sama
+Color: '#3ae0a5'
+Groups:
+- Unofficial MSPA Fans
+- Fandom
+Art Tags:
+- MSPA Reader
 Banner Artists:
 - Chesswanderlust-sama
+Banner Dimensions: 1100x180
+Wallpaper Artists:
+- Chesswanderlust-sama
+Wallpaper Style: 'opacity: 0.8;'
+Major Release: true
 ---
 Group: Disc 1
 ---
@@ -40,6 +40,10 @@ Has Cover Art: false
 Track: Here on Alternia
 Artist: JulieTunes
 Duration: '4:05'
+URLs:
+- https://unofficialmspafans.bandcamp.com/track/here-on-alternia
+Cover Artists:
+- star-nomad
 Art Tags:
 - MSPA Reader
 - Boldir
@@ -47,10 +51,6 @@ Art Tags:
 - Tyzias
 - Tegiri
 - Chixie
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/here-on-alternia
-Cover Artists:
-- star-nomad
 ---
 Track: today i put......... JELLY on this hot god
 Artist: Tee-vee
@@ -64,12 +64,12 @@ Cover Artists:
 Track: Scrubbing Until Morning
 Artist: JulieTunes
 Duration: '3:20'
-Art Tags:
-- Marsti
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/scrubbing-until-morning
 Cover Artists:
 - shu
+Art Tags:
+- Marsti
 ---
 Track: Gravedigger's Dirge
 Artist: JulieTunes
@@ -90,99 +90,99 @@ Cover Artists:
 Track: Desert Daring
 Artist: heir-of-puns
 Duration: '2:36'
-Art Tags:
-- Skylla
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/desert-daring
 Cover Artists:
 - shu
+Art Tags:
+- Skylla
 ---
 Track: Beneath the Night Sky So Dark
 Artist: JulieTunes
 Duration: '3:29'
-Art Tags:
-- Skylla
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/beneath-the-night-sky-so-dark
 Cover Artists:
 - Chesswanderlust-sama
+Art Tags:
+- Skylla
 ---
 Track: >-
     Hi everyone, Antony Fntano here, Alternia's busiest music nerd, and it's time
     for a review of the new Chixie Roixmr album,
 Artist: Tee-vee
 Duration: '3:06'
-Art Tags:
-- Chixie
 URLs:
 - >-
     https://unofficialmspafans.bandcamp.com/track/hi-everyone-antony-fntano-here-alternias-busiest-music-nerd-and-its-time-for-a-review-of-the-new-chixie-roixmr-album
+Cover Artists:
+- Chesswanderlust-sama
+Art Tags:
+- Chixie
+Referenced Tracks:
+- it be like that sometimes
 Lyrics: |-
     Yo get off my stage and hand back my setlist<br>I'm choke full of rage, I'm sick of this bullshit<br>Swallow my bulge, get off your high hoofbeast<br>How dare you come here and call yourselves artists
     Second verse, it doesn't get better<br>No hemospectrum cred you'd be groupies, motherfuckers<br>You think you're hot shit, you're just some damn cheaters<br>Pretending and posing for 5 likes on Chittr
-Cover Artists:
-- Chesswanderlust-sama
-Referenced Tracks:
-- it be like that sometimes
 ---
 Track: it's hard, being famous. it's hard and nobody understands
 Directory: its-hard-being-famous
 Artist: astropod
 Duration: '2:15'
-Art Tags:
-- Cirava
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/its-hard-being-famous-its-hard-and-nobody-understands
 Cover Artists:
 - ZowerLemon
+Art Tags:
+- Cirava
 Referenced Tracks:
 - Gold Pilot
 ---
 Track: leech
 Artist: Gryotharian
 Duration: '2:51'
-Art Tags:
-- Folykl
-- Kuprum
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/leech
 Cover Artists:
 - Cratmang
+Art Tags:
+- Folykl
+- Kuprum
 ---
 Track: assault and battery
 Artist: Gryotharian
 Duration: '2:18'
-Art Tags:
-- Folykl
-- Kuprum
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/assault-and-battery
 Cover Artists:
 - Nova
+Art Tags:
+- Folykl
+- Kuprum
 Referenced Tracks:
 - leech
 ---
 Track: Carefree Consternation
 Artist: JulieTunes
 Duration: '2:05'
-Art Tags:
-- Zebede
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/carefree-consternation
 Cover Artists:
 - Chesswanderlust-sama
+Art Tags:
+- Zebede
 Referenced Tracks:
 - Carefree Action
 ---
 Track: '|||Optic Duelist|||'
 Artist: Andrew "Rainy" Obeng
 Duration: '4:00'
-Art Tags:
-- Azdaja
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/optic-duelist
 Cover Artists:
 - MarbleMint
+Art Tags:
+- Azdaja
 Referenced Tracks:
 - Distortion Navigator
 - Fate of the Heir
@@ -212,75 +212,81 @@ Referenced Tracks:
 Track: no *kills you*
 Artist: astropod
 Duration: '1:37'
-Art Tags:
-- Konyyl
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/no-kills-you
 Cover Artists:
 - Nova
+Art Tags:
+- Konyyl
 ---
 Track: Caught in the Facts
 Artist: Panfex
 Duration: '2:29'
-Art Tags:
-- Boldir
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/caught-in-the-facts
 Cover Artists:
 - Awkward
+Art Tags:
+- Boldir
 Referenced Tracks:
 - track:old-secret
 ---
 Track: Paradox Pariah
 Artist: Baleish
 Duration: '2:33'
-Art Tags:
-- Charun
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/paradox-pariah
 Cover Artists:
 - shu
+Art Tags:
+- Charun
 Referenced Tracks:
 - Studio Space
 ---
 Track: Mother To Many
 Artist: JulieTunes
 Duration: '3:02'
-Art Tags:
-- Bronya
-- 'cw: eye horror'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/mother-to-many
 Cover Artists:
 - Chesswanderlust-sama
+Art Tags:
+- Bronya
+- 'cw: eye horror'
 ---
 Track: Improved Acumen
 Artist: JulieTunes
 Duration: '3:10'
-Art Tags:
-- Lynera
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/improved-acumen
 Cover Artists:
 - Awkward
+Art Tags:
+- Lynera
 ---
 Track: oWo
 Artist: Chesswanderlust-sama
 Duration: '2:30'
-Art Tags:
-- Wanshi
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/owo
 Cover Artists:
 - Nova
+Art Tags:
+- Wanshi
 ---
 Track: we waste time JADED
 Artist: Tee-vee
 Duration: '3:46'
-Art Tags:
-- Daraya
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/we-waste-time-jaded
+Cover Artists:
+- Chesswanderlust-sama
+Art Tags:
+- Daraya
+Referenced Tracks:
+- (this title was too long)
+- You're Standing On My Neck
+- Darling Dolorosa
 Lyrics: |-
     A life without a goal<br>Sit down, wait for your call<br>If you're not dead by the time<br>You get to leave your hive
     Under pretty dresses and flower crowns<br>There's a fire waiting to burn inside
@@ -290,64 +296,58 @@ Lyrics: |-
     No time to mope around<br>Let's try to break the cast<br>We'll fight the silent strife<br>Or go out in a blast
     Under pretty dresses and flower crowns<br>There's always a fire burning inside
     Wasted time & wasted trolls<br>Enjoy your time before the fall<br>Sneak out of your sacred walls<br>Take my tears, make it worth living<br>Hope lost right out of the womb<br>It's up to us not to succumb<br>No point in fighting to your doom<br>Jade blood, black heart, ch-ch-cherrybomb
-Cover Artists:
-- Chesswanderlust-sama
-Referenced Tracks:
-- (this title was too long)
-- You're Standing On My Neck
-- Darling Dolorosa
 ---
 Track: Naive Harmony
 Artist: JulieTunes
 Duration: '3:13'
-Art Tags:
-- Lanque
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/naive-harmony
 Cover Artists:
 - wumby
+Art Tags:
+- Lanque
 ---
 Track: '*Legal Fees Pending'
 Artist: Scorpyus
 Duration: '3:28'
-Art Tags:
-- Tagora
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/legal-fees-pending
 Cover Artists:
 - Awkward
+Art Tags:
+- Tagora
 ---
 Track: Exhausted Hope
 Artist: Gryotharian
 Duration: '3:37'
-Art Tags:
-- Tyzias
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/exhausted-hope
 Cover Artists:
 - Elanor Pam
+Art Tags:
+- Tyzias
 Referenced Tracks:
 - Seer of Same-Color Scalemate Combos
 ---
 Track: Bullet Brain
 Artist: JulieTunes
 Duration: '3:50'
-Art Tags:
-- Tyzias
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/bullet-brain
 Cover Artists:
 - Awkward
+Art Tags:
+- Tyzias
 ---
 Track: '*teleports behind you*'
 Artist: Gryotharian
 Duration: '3:32'
-Art Tags:
-- Tegiri
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/teleports-behind-you
 Cover Artists:
 - star-nomad
+Art Tags:
+- Tegiri
 ---
 Track: Lonely Little Gremlin Girl
 Artist: JulieTunes
@@ -360,14 +360,14 @@ Cover Artists:
 Track: Middleclass Daydream
 Artist: heir-of-puns
 Duration: '2:18'
-Art Tags:
-- Stelsa
-- Tyzias
-- MSPA Reader
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/middleclass-daydream
 Cover Artists:
 - Tipsy
+Art Tags:
+- Stelsa
+- Tyzias
+- MSPA Reader
 ---
 Group: Disc 3
 ---
@@ -409,24 +409,24 @@ Referenced Tracks:
 Track: Blatant Plagiarism
 Artist: Scorpyus
 Duration: '2:46'
-Art Tags:
-- Remele
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/blatant-plagiarism
 Cover Artists:
 - Awkward
+Art Tags:
+- Remele
 Referenced Tracks:
 - track:piwates
 ---
 Track: Dumbass Terminal
 Artist: Tee-vee
 Duration: '6:01'
-Art Tags:
-- Mallek
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dumbass-terminal
 Cover Artists:
 - shu
+Art Tags:
+- Mallek
 Referenced Tracks:
 - Knife's Edge
 - Arachnofunkia
@@ -447,13 +447,13 @@ Track: WORST (fri)END
 Directory: worst-friend
 Artist: Gryotharian
 Duration: '1:59'
-Art Tags:
-- Zebruh
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/worst-fri-end
 Cover Artists:
 - Gryotharian
 - Chesswanderlust-sama
+Art Tags:
+- Zebruh
 ---
 Track: Sesquipedalian Loquaciousness
 Artist: Tee-vee
@@ -477,46 +477,46 @@ Cover Artists:
 Track: Sleeping in the cheerful sis's hair
 Artist: Chesswanderlust-sama
 Duration: '2:31'
-Art Tags:
-- Chahut
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sleeping-in-the-cheerful-siss-hair
 Cover Artists:
 - Sigourney Martin
+Art Tags:
+- Chahut
 ---
 Track: General Clownery
 Artist: astropod
 Duration: '2:18'
-Art Tags:
-- Karako
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/general-clownery
 Cover Artists:
 - Chesswanderlust-sama
+Art Tags:
+- Karako
 ---
 Track: Phantasmagoria
 Artist: Scorpyus
 Duration: '3:00'
-Art Tags:
-- Barzum
-- Baizli
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/phantasmagoria
 Cover Artists:
 - ZowerLemon
+Art Tags:
+- Barzum
+- Baizli
 Referenced Tracks:
 - Chucklevoodoo Waltz
 ---
 Track: The Show Must Go On
 Artist: Scorpyus
 Duration: '4:02'
-Art Tags:
-- Baizli
-- Barzum
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-show-must-go-on
 Cover Artists:
 - DSNAKE
+Art Tags:
+- Baizli
+- Barzum
 ---
 Track: You're the Whole Circus
 Artist: Tee-vee
@@ -531,6 +531,10 @@ Referenced Tracks:
 Track: The Puppetmaster
 Artist: Gryotharian
 Duration: '4:22'
+URLs:
+- https://unofficialmspafans.bandcamp.com/track/the-puppetmaster
+Cover Artists:
+- CyberSoulgem
 Art Tags:
 - Doc Scratch
 - MSPA Reader
@@ -538,10 +542,6 @@ Art Tags:
 - Mallek
 - Ardata
 - Boldir
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/the-puppetmaster
-Cover Artists:
-- CyberSoulgem
 Referenced Tracks:
 - WORST END
 - the final clowntdown

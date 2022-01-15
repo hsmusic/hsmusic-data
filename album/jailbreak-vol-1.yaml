@@ -1,22 +1,22 @@
 Album: Jailbreak Vol. 1
-Banner Dimensions: 1100x180
-Banner Style: |-
-    image-rendering: pixelated;
-    image-rendering: crisp-edges;
 Date: October 16, 2011
 Date Added: October 10, 2020
-Color: '#ffd052'
-Groups:
-- Homestuck Gaiden
-- Fandom
 URLs:
 - https://homestuckgaiden.bandcamp.com/album/jailbreak-vol-1-unofficial-album
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFa8lNfIzETogLpPBnC_ZIDw
 Cover Artists:
 - Robert J! Lake
+Color: '#ffd052'
+Groups:
+- Homestuck Gaiden
+- Fandom
 Banner Artists:
 - Robert J! Lake
 - Niklink (edits for wiki)
+Banner Dimensions: 1100x180
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 ---
 Group: Main album
 ---
@@ -179,6 +179,8 @@ Duration: '1:28'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/drillgorg
 - https://youtu.be/ddseVIfXERU
+Cover Artists:
+- Peter Turner
 Lyrics: |-
     I, am
     Drillgorg Drillgorg Drill-Drill-Drill-Drill-Drillgorg
@@ -188,15 +190,12 @@ Lyrics: |-
     Drillgorg Drillgorg Drill-Drill-Drill-Drill-Drillgorg
     I am Drillgorg I am Drillgorg
     I will drill your ass
-Cover Artists:
-- Peter Turner
 ---
 Track: Retrobution
 Artist: Nick Smalley
 Contributors:
 - Luke Benjamins
 Duration: '2:22'
-Lyrics: Your mother
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/retrobution
 - https://youtu.be/uCS_Bz-5ocM
@@ -204,6 +203,7 @@ Cover Artists:
 - Robert J! Lake
 Sampled Tracks:
 - Meet the Spy
+Lyrics: Your mother
 ---
 Track: Game Over
 Directory: game-over-jailbreak
@@ -249,6 +249,13 @@ Artist: Robert J! Lake
 Duration: 0:57
 URLs:
 - https://youtu.be/tdTjk-HX2rw
+Has Cover Art: false
+Referenced Tracks:
+- Gust of Heir
+Sampled Tracks:
+- Meet the Spy
+- Drillgorg
+- Your Bed
 Lyrics: |-
     Your mother
     Will drill your ass
@@ -270,13 +277,6 @@ Lyrics: |-
     Drill drill drill drill drill drill drill drill
 
     I am- your mother- in bed
-Has Cover Art: false
-Referenced Tracks:
-- Gust of Heir
-Sampled Tracks:
-- Meet the Spy
-- Drillgorg
-- Your Bed
 ---
 Track: Useful or Otherwise
 Artist: Robert J! Lake

@@ -1,7 +1,13 @@
 Album: Hiveswap Act 2 OST
-Has Track Art: false
 Date: November 26, 2020
 Date Added: December 12, 2020
+URLs:
+- https://homestuck.bandcamp.com/album/hiveswap-act-2-original-soundtrack
+- https://www.youtube.com/playlist?list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn
+Has Track Art: false
+Cover Artists:
+- Mallory Dyer
+- nuclear333 (edits for wiki)
 Color: '#f8f0cb'
 Groups:
 - Official
@@ -12,9 +18,6 @@ Art Tags:
 - Folykl
 - Kuprum
 - Lanque
-URLs:
-- https://homestuck.bandcamp.com/album/hiveswap-act-2-original-soundtrack
-- https://www.youtube.com/playlist?list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn
 Commentary: |-
     <i>James Roach:</i>
     (<a href="http://web.archive.org/web/20201126195133/https://twitter.com/hamesatron/status/1332049319357136898">Twitter (web.archive.org)</a>)
@@ -31,9 +34,6 @@ Commentary: |-
     i wrote some songs for this! if you check it out you might hear why my youtube algorithm recommends me nothing but ace attorney soundtracks now
     <i>Quasar Nebula:</i>
     thanks to [[artist:nuclear333]] for helping out with track metadata and creating a remix of the official cover art which better matches the [[album:hiveswap-act-1-ost]] cover!
-Cover Artists:
-- Mallory Dyer
-- nuclear333 (edits for wiki)
 Wallpaper Artists:
 - Homestuck
 ---
@@ -67,13 +67,13 @@ URLs:
 - https://youtu.be/S42nK1sihuc
 ---
 Track: Studio Space
+Also Released As:
+- Charun's Cave
 Artist: Toby Fox
 Duration: '1:02'
 URLs:
 - https://homestuck.bandcamp.com/track/studio-space
 - https://youtu.be/Rwi2BvZ30SY
-Also Released As:
-- Charun's Cave
 ---
 Track: Raw Honey
 Artist: James Roach, Toby Fox
@@ -85,15 +85,17 @@ Referenced Tracks:
 - Homestead
 ---
 Track: Homestead
+Also Released As:
+- beekeeper who? i dont know her.
 Artist: James Roach
 Duration: '1:42'
 URLs:
 - https://homestuck.bandcamp.com/track/homestead
 - https://youtu.be/xDyuk7rRSVA
-Also Released As:
-- beekeeper who? i dont know her.
 ---
 Track: Shell Game
+Also Released As:
+- SERVICE CAR
 Artist: James Roach
 Duration: '4:05'
 URLs:
@@ -101,8 +103,6 @@ URLs:
 - https://youtu.be/2NolhxSH9I8
 Referenced Tracks:
 - track:ticket-to-ride-rusty
-Also Released As:
-- SERVICE CAR
 ---
 Track: 'Ticket to Ride: Rusty'
 Artist: James Roach
@@ -198,17 +198,17 @@ Referenced Tracks:
 ---
 Track: Old Secret
 Directory: old-secret-act2
+Also Released As:
+- track:old-secret
 Artist: James Roach
 Duration: '4:26'
 URLs:
 - https://homestuck.bandcamp.com/track/old-secret-2
 - https://youtu.be/5BenvLz9Ru4
-Also Released As:
-- track:old-secret
 ---
 Track: Ghost Train
-Duration: '3:04'
 Artist: James Roach
+Duration: '3:04'
 URLs:
 - https://homestuck.bandcamp.com/track/ghost-train
 - https://youtu.be/AJh5dQB0wvM
@@ -219,15 +219,15 @@ Referenced Tracks:
 Group: B-Sides
 ---
 Track: Fight of the Bumblebee
-Duration: '1:47'
 Artist: James Roach, Toby Fox
+Duration: '1:47'
 URLs:
 - https://homestuck.bandcamp.com/track/fight-of-the-bumblebee
 - https://youtu.be/O4TPPgKDa_8
 ---
 Track: The Perfect Cast
-Duration: '1:33'
 Artist: James Roach, Toby Fox
+Duration: '1:33'
 URLs:
 - https://homestuck.bandcamp.com/track/the-perfect-cast
 - https://youtu.be/GMxAjZB1A_g
@@ -235,8 +235,8 @@ Referenced Tracks:
 - Studio Space
 ---
 Track: 'Dark Carnival: Rusty'
-Duration: '4:00'
 Artist: James Roach
+Duration: '4:00'
 URLs:
 - https://homestuck.bandcamp.com/track/dark-carnival-rusty
 - https://youtu.be/xoSPIJC-zt4
@@ -244,8 +244,8 @@ Referenced Tracks:
 - track:ticket-to-ride-rusty
 ---
 Track: 'Dark Carnival: Quadrant Confusion'
-Duration: '4:06'
 Artist: James Roach
+Duration: '4:06'
 URLs:
 - https://homestuck.bandcamp.com/track/dark-carnival-quadrant-confusion
 - https://youtu.be/Be1iIwXP4EY
@@ -253,8 +253,8 @@ Referenced Tracks:
 - track:ticket-to-ride-quadrant-confusion
 ---
 Track: 'Dark Carnival: Trial Variation'
-Duration: '2:27'
 Artist: James Roach
+Duration: '2:27'
 URLs:
 - https://homestuck.bandcamp.com/track/dark-carnival-trial-variation
 - https://youtu.be/qxRN8p6_lWc
@@ -262,8 +262,8 @@ Referenced Tracks:
 - track:ticket-to-ride-trial-variation
 ---
 Track: 'Dark Carnival: The Other Half'
-Duration: '2:00'
 Artist: James Roach
+Duration: '2:00'
 URLs:
 - https://homestuck.bandcamp.com/track/dark-carnival-the-other-half
 - https://youtu.be/HL-l-a6_vG0
@@ -271,8 +271,8 @@ Referenced Tracks:
 - track:ticket-to-ride-the-other-half
 ---
 Track: DRONE
-Duration: '1:20'
 Artist: James Roach
+Duration: '1:20'
 URLs:
 - https://homestuck.bandcamp.com/track/drone
 - https://youtu.be/AGgey4ok3pc

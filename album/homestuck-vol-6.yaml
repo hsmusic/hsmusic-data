@@ -1,15 +1,7 @@
 Album: 'Homestuck Vol. 6: Heir Transparent'
-Banner Dimensions: 1100x216
-Wallpaper Style: 'opacity: 0.4;'
 Directory: homestuck-vol-6
 Date: January 5 2011
 Date Added: November 15, 2019
-Color: '#6699ff'
-Groups:
-- Official
-Art Tags:
-- John
-- Jade
 URLs:
 - https://homestuck.bandcamp.com/album/homestuck-vol-5-6-with-the-felt
 - https://www.youtube.com/watch?v=jrNz5d97JIA
@@ -18,19 +10,29 @@ Cover Artists:
 - Andrew Hussie
 Default Track Cover Artists:
 - Homestuck
-Wallpaper Artists:
-- Andrew Hussie
+Color: '#6699ff'
+Groups:
+- Official
+Art Tags:
+- John
+- Jade
 Banner Artists:
 - Andrew Hussie
 - Niklink (edits for wiki)
+Banner Dimensions: 1100x216
+Wallpaper Artists:
+- Andrew Hussie
+Wallpaper Style: 'opacity: 0.4;'
 ---
 Track: Frost
+Directory: frost-vol6
 Artist: Solatrus
 Duration: '5:05'
-Directory: frost-vol6
 URLs:
 - https://homestuck.bandcamp.com/track/frost-3
 - https://youtu.be/57FwbcQ4LIA
+Referenced Tracks:
+- Flow
 Commentary: |-
     <i>Solatrus:</i>
     <i>(original commentary)</i>
@@ -55,8 +57,6 @@ Commentary: |-
     After the feature, though, I scrambled to improve the song’s quality. I changed around a few things in the first half (most notably making the whole mix a bit quieter), and pushed the melody a bit more forward. The second half, I basically swapped out this very strange sounding piano improvisation I did with the percussion (vibes, glockenspiel) instruments and a saw pad for lead. The replacements work incredibly well for trying to give an icy sound, and I’m pleased with how it turned out.
     I don’t know if I’ll ever go back to doing songs that are this ambient and minimalist, because my composing skills have progressed significantly since then, and I require much more complexity in my work. Also, now that this song is actually over two years old (for me), I’ve noticed how flawed it is.
     But nonetheless, this is probably one of my best songs, and it’s well loved by the Homestuck fandom. That’s good enough for me.
-Referenced Tracks:
-- Flow
 ---
 Track: Courser
 Artist: Seth Peelle, Alex Rosetti
@@ -87,13 +87,8 @@ Duration: '3:24'
 URLs:
 - https://homestuck.bandcamp.com/track/gamebro-original-1990-mix-2
 - https://youtu.be/k_-LPPdHEyA
-Commentary: |-
-    <i>Erik Scheele:</i>
-    <img src="media/misc/gamebro-original-1990-mix.jpg" width="480" height="480">
-    THE GAMES, WILL, NEVER STOP
-    THE GAMES WILL NEVER STOP
-    you know the rest
-    (alternatively: where the heck did that horrible dude come from get him out of the way of the album art jesus)
+Referenced Tracks:
+- Say "I Gotta Believe!"
 Lyrics: |-
     Alright bros, are you ready?<br>It's time for the one, the only, GameBro!<br>He's coming to your screen straight from the magazine<br>The mix meister of Master Swords and mushrooms<br>Are you sure you're ready for this?<br>Well come on, get ready, get set, and here we go
     The GameBro is here and he's got the games<br>All you other lamebrainers better feel the shame<br>He can bend the rules, he's too cool for school<br>And he's got just a few cheat codes for you<br>There ain't nothing that'll ever hold this bad boy down<br>That hat that he's wearing's like his personal crown<br>He's got every game beat and skills that sweet<br>But if you want in his crew, you gotta be elite
@@ -106,8 +101,13 @@ Lyrics: |-
     The games will never stop, the games will never stop<br>(Go, go, go, go, go, go, go GameBro)<br>The games will never stop, the games will never stop<br>(Go, go, go, go, go, go, go GameBro)<br>The games will never stop, the games will never stop<br>(Go, go, go, go, go, go, go GameBro)<br>The games will never stop, the games will never stop<br>(Go, go, go, go, go, go, go)
     The games will never stop, the games will never stop<br>(Go, go, go, go, go, go, go GameBro)<br>The games will never stop, the games will never stop<br>(Go, go, go, go, go, go, go)<br>The games will never stop, the games will never stop<br>(Go, go, go, go, go, go, go GameBro)<br>The games will never stop, the games will never stop<br>(Go, go, go, go, go, go, go)
     Alright!
-Referenced Tracks:
-- Say "I Gotta Believe!"
+Commentary: |-
+    <i>Erik Scheele:</i>
+    <img src="media/misc/gamebro-original-1990-mix.jpg" width="480" height="480">
+    THE GAMES, WILL, NEVER STOP
+    THE GAMES WILL NEVER STOP
+    you know the rest
+    (alternatively: where the heck did that horrible dude come from get him out of the way of the album art jesus)
 ---
 Track: Tribal Ebonpyre
 Artist: Erik Scheele
@@ -115,14 +115,14 @@ Duration: '1:48'
 URLs:
 - https://homestuck.bandcamp.com/track/tribal-ebonpyre-2
 - https://youtu.be/xStVhvhg1i4
+Referenced Tracks:
+- track:atomyk-ebonpyre
+- track:sburban-jungle
 Commentary: |-
     <i>Erik Scheele:</i>
     <img src="media/misc/tribal-ebonpyre.jpg" width="480" height="480">
     naknaknaknaknaknaknaknaknaknak
     Although I didn't think the crocodiles would be so low, but whichever
-Referenced Tracks:
-- track:atomyk-ebonpyre
-- track:sburban-jungle
 ---
 Track: I Don't Want to Miss a Thing
 Artist: Michael Guy Bowman
@@ -130,6 +130,13 @@ Duration: '3:57'
 URLs:
 - https://homestuck.bandcamp.com/track/i-dont-want-to-miss-a-thing-2
 - https://youtu.be/383DEqnj71w
+Referenced Tracks:
+- track:i-dont-want-to-miss-a-thing-aerosmith
+- track:sburban-jungle
+- track:showtime-original-mix
+- Squiddles!
+- track:explore
+- How Do I Live
 Lyrics: |-
     I could stay awake just to hear you breathing<br>Watch you smile while you are sleeping<br>While you're far away and dreaming<br>I could spend my life in this sweet surrender<br>I could stay lost in this moment forever<br>Where every moment spent with you is a moment I treasure
     I don't wanna close my eyes<br>I don't wanna fall asleep<br>'Cause I'd miss you, babe<br>And I don't wanna miss a thing<br>'Cause even when I dream of you<br>The sweetest dream could never do<br>I'd still miss you, babe<br>And I don't wanna miss a thing
@@ -138,20 +145,13 @@ Lyrics: |-
     I don't wanna miss one smile<br>I don't wanna miss one kiss<br>I just wanna be with you<br>Right here, right now, just like this<br>I just wanna hold you close<br>Feel your heart so close to mine<br>And just stay right here in this moment<br>For the rest of time<br>Yeah, yeah, yeah, yeah!
     I don't wanna close my eyes<br>I don't wanna fall asleep<br>'Cause I'd miss you, babe<br>And I don't wanna miss a thing<br>'Cause even when I dream of you<br>The sweetest dream could never do<br>I'd still miss you, babe<br>And I don't wanna miss a thing
     I don't wanna close my eyes<br>I don't wanna fall asleep<br>'Cause I'd miss you, babe<br>And I don't wanna miss a thing<br>'Cause even when I dream of you<br>The sweetest dream could never do<br>I'd still miss you, babe<br>And I don't wanna miss a thing
-Referenced Tracks:
-- track:i-dont-want-to-miss-a-thing-aerosmith
-- track:sburban-jungle
-- track:showtime-original-mix
-- Squiddles!
-- track:explore
-- How Do I Live
 ---
 Track: MeGaLoVania
+Directory: MeGaLoVania
 Artist: Toby Fox
 Contributors:
 - Tensei (guitar)
 Duration: '2:47'
-Directory: MeGaLoVania
 URLs:
 - https://homestuck.bandcamp.com/track/megalovania-2
 - https://youtu.be/xbUTyGfolX0
@@ -177,13 +177,13 @@ Duration: '3:06'
 URLs:
 - https://homestuck.bandcamp.com/track/gaia-queen-2
 - https://youtu.be/MU0eoyziRrU
+Referenced Tracks:
+- Showdown
 Lyrics: |-
     Say your prayers
     Mortal
     Say your prayers
     Impossible
-Referenced Tracks:
-- Showdown
 ---
 Track: Elevatorstuck
 Artist: Tensei
@@ -232,26 +232,26 @@ Duration: '2:44'
 URLs:
 - https://homestuck.bandcamp.com/track/squidissension-2
 - https://youtu.be/zJ7y3sWT7l0
-Commentary: |-
-    <i>Mark Hadley:</i>
-    Not a lot to say here aside from it being a combination of the Squiddles Theme and Dissension. I always enjoy finding ways to combine two themes together, and this worked better than I had hoped. I did have to move the Squiddles to a minor key for it to work though.
 Referenced Tracks:
 - track:dissension-original
 - Squiddles!
+Commentary: |-
+    <i>Mark Hadley:</i>
+    Not a lot to say here aside from it being a combination of the Squiddles Theme and Dissension. I always enjoy finding ways to combine two themes together, and this worked better than I had hoped. I did have to move the Squiddles to a minor key for it to work though.
 ---
 Track: Blackest Heart
 Artist: Mark Hadley
 Duration: '2:32'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/blackest-heart-2
 - https://youtu.be/t12NlwsrlAQ
+Art Tags:
+- 'cw: blood'
+Referenced Tracks:
+- Liquid Negrocity
 Commentary: |-
     <i>Mark Hadley:</i>
     It's extremely subtle, but the cello tremolos are playing a very slow version of the theme from the beginning of Liquid Negrocity (and Black). I wrote this just after Jack Noir retreated from John and the rabbit. I didn't know what he'd be doing at the time, nor what his motivation would be, so I imagined him retreating to some castle and brooding as he contemplated his next move. Later on, Blackest Heart would be applied (rather effectively) to Gamzee instead.
-Referenced Tracks:
-- Liquid Negrocity
 ---
 Track: Nic Cage Song
 Artist: Toby Fox
@@ -259,6 +259,20 @@ Duration: '2:45'
 URLs:
 - https://homestuck.bandcamp.com/track/nic-cage-song-2
 - https://youtu.be/dxVXLeX9FXY
+Referenced Tracks:
+- Drop It Like It's Hot
+- Ah! vous dirai-je, maman
+- Nic Cage Romance
+Sampled Tracks:
+- The Wicker Man
+- The Rock
+- Leaving Las Vegas
+- Vampire's Kiss
+- Gone in 60 Seconds
+- Snake Eyes
+- Matchstick Men
+- 'National Treasure: Book of Secrets'
+- 'Bad Lieutenant: Port of Call New Orleans'
 Lyrics: |-
     You tell me another and I'll arest you myself, that is a promise! Miss...<br>Rose. Sister Rose.<br>Of course. Another plant.<br>What do you say we cut the chit-chat, A-hole!
     (Ha-haa!) I'm a vampire! I'm a vampire!<br>(Ha-haa!) I'm a vampire! I'm a vampire!<br>(Ha-haa!) I'm a vampire!<br>(Ha-haa!) Long as I'm in here, you're just gonna sit out there, aren'tcha?
@@ -274,20 +288,6 @@ Lyrics: |-
     (Ha-haa!) (I'm a vampire!) PISSED, BLOOD?<br>(Can I get my prescription, PLEASE?)<br>(Ha-haa!) (I-I-I-I'm a vampire!) PISSED, BLOOD?<br>(Can I get my prescription, PLEASE?)<br>(Ha-haa!) (I'm a-I'm a vampire!) PISSED, BLOOD?<br>(Ha-haa!) What do you say we cut the chit-chat, A-hole!<br>(I'm a vampi-I'm a vam-I'm-I'm-I'm a vampire!)
     Bangers and mash. Bubbles and squeak. Smoked eel pie. (Sir?) HAGGIS!
     Oh no, not the bees, not the bees!<br>AAAAAAH!
-Referenced Tracks:
-- Drop It Like It's Hot
-- Ah! vous dirai-je, maman
-- Nic Cage Romance
-Sampled Tracks:
-- The Wicker Man
-- The Rock
-- Leaving Las Vegas
-- Vampire's Kiss
-- Gone in 60 Seconds
-- Snake Eyes
-- Matchstick Men
-- 'National Treasure: Book of Secrets'
-- 'Bad Lieutenant: Port of Call New Orleans'
 ---
 Track: Phrenic Phever
 Artist: Clark Powell
@@ -325,6 +325,8 @@ Duration: '4:44'
 URLs:
 - https://homestuck.bandcamp.com/track/crystalanthology-2
 - https://youtu.be/3wsZuqG5IY0
+Referenced Tracks:
+- Crystalanthemums
 Commentary: |-
     <i>Solatrus:</i>
     <i>(original commentary)</i>
@@ -347,5 +349,3 @@ Commentary: |-
     Fun fact, this was the first song I used Gross Beat on. What’s Gross Beat? It’s something a Time Lord of Gallifrey would approve of in music. :D If you listen to the stutter effects heard in the song, mostly in the latter half, that’s where I start using Gross Beat to do some crazy time shifting stuff.
     Man, I really love what I did on this song.
     ...I need to do another Homestuck remix, don’t I?
-Referenced Tracks:
-- Crystalanthemums

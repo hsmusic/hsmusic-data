@@ -2,29 +2,29 @@ Album: Medium
 Artist: Clark Powell
 Date: April 14, 2011
 Date Added: November 15, 2019
+URLs:
+- https://homestuck.bandcamp.com/album/symphony-impossible-to-play-with-medium
+- https://www.youtube.com/playlist?list=PLB9D2EAC43B6195B8
+Has Track Art: false
+Cover Artists:
+- Cindy Dominguez
+Color: '#22ccff'
+Groups:
+- Clark Powell
+- Official
+Wallpaper Artists:
+- Cindy Dominguez
+- Quasar Nebula (edits for wiki)
 Wallpaper Style: |-
     background-color: black;
     background-position: top center;
     background-size: auto;
     background-repeat: no-repeat;
     opacity: 0.8;
-Has Track Art: false
-Color: '#22ccff'
-Groups:
-- Clark Powell
-- Official
-URLs:
-- https://homestuck.bandcamp.com/album/symphony-impossible-to-play-with-medium
-- https://www.youtube.com/playlist?list=PLB9D2EAC43B6195B8
-Cover Artists:
-- Cindy Dominguez
-Wallpaper Artists:
-- Cindy Dominguez
-- Quasar Nebula (edits for wiki)
 ---
 Track: Light
-Duration: '5:36'
 Directory: light-medium
+Duration: '5:36'
 URLs:
 - https://homestuck.bandcamp.com/track/light-4
 - https://youtu.be/WEVS8j6bcvI
@@ -50,8 +50,8 @@ URLs:
 - https://youtu.be/PI785pDsR88
 ---
 Track: Frost
-Duration: '5:54'
 Directory: frost-medium
+Duration: '5:54'
 URLs:
 - https://homestuck.bandcamp.com/track/frost-4
 - https://youtu.be/1Puozp2uaaM

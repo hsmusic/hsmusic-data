@@ -1,21 +1,21 @@
 Album: Ithaca
 Artist: Michael Guy Bowman
-Has Track Art: false
 Date: January 1, 2012
 Date Added: February 12, 2021
+URLs:
+- https://bowman.bandcamp.com/album/ithaca
+Has Track Art: false
+Cover Artists:
+- Michael Guy Bowman
 Color: '#c82537'
 Groups:
 - Michael Guy Bowman
 - Beyond
-URLs:
-- https://bowman.bandcamp.com/album/ithaca
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     <i>Experimental aircraft, lost civilizations, mythic quests, the Philippines, true love, utter loss, and the transience of life - the many subjects of Ithaca, the first independently released Bowman album. Scattergun in its genre and chaotically retro in its fashion, Ithaca is an eclectic mix of songs both personal and abstract. Bowman once again brings his familiar voice and ever-changing production style along with several friends from the Homestuck music project and elsewhere. Ithaca is calling.</i>
     After spending years making music exclusively for Homestuck, I branched out with 2012’s Ithaca, my first independently released album. Following up on my album-within-a-web-comic [[album:mobius-trip-and-hadron-kaleido]], I moved away from my palette of digital synths to focus on a classic rock style. Out come the guitars, the bass, the little toy harp. Shades of Eno, Bowie, The Beatles, Pink Floyd, even a swing tune. It’s a freaky affair.
     The ideas came from everywhere. There’s a song based on something I heard in a dream when I was eight years old, ([[Old Buggy Now]]). There’s one about an engineer who falls in love with an experimental aircraft ([[Tacit Blue]]). There’s a carriage ride through a Manila’s Chinatown district ([[Kalesa In Binondo]]). The title track [[Ithaca]] recalls Odysseus, a bowman himself. All of it is peppered with guest contributions from Internet friends.
-Cover Artists:
-- Michael Guy Bowman
 ---
 Track: Old Buggy Now
 Duration: '3:35'
@@ -38,9 +38,6 @@ Lyrics: |-
     Watches with its lonely eye
 ---
 Track: Ascension
-Artists:
-- Michael Guy Bowman
-- James Dever
 Contributors:
 - Luke Benjamins (eight bit sequencing)
 - Andrew Huo (violin)
@@ -76,14 +73,17 @@ Lyrics: |-
     And thus for now the world is ours
     And though it’s just a legend so they say
     Perhaps they will return again someday
+Artists:
+- Michael Guy Bowman
+- James Dever
 ---
 Track: Come With Me
-Duration: '4:47'
-URLs:
-- https://bowman.bandcamp.com/track/come-with-me
 Contributors:
 - Thomas Ferkol (guitar solo)
 - Tavia Morra (backup vocals)
+Duration: '4:47'
+URLs:
+- https://bowman.bandcamp.com/track/come-with-me
 Lyrics: |-
     Your weak young heart keeps playing its part for show
     And though you never say never you never say yes or no
@@ -107,12 +107,12 @@ Lyrics: |-
     Life in this moment, not in its ending
 ---
 Track: Tacit Blue
-Duration: '2:15'
-URLs:
-- https://bowman.bandcamp.com/track/tacit-blue
 Contributors:
 - Clark Powell (string arrangement and sequencing)
 - Nick Smalley (additional sequencing)
+Duration: '2:15'
+URLs:
+- https://bowman.bandcamp.com/track/tacit-blue
 Lyrics: |-
     Back in the lab I’m running the test
     If you won’t fly then I won’t rest
@@ -148,9 +148,9 @@ Lyrics: |-
     Tacit Blue
 ---
 Track: Rodeo Clown
-Duration: '4:09'
 Contributors:
 - Marcy Nabors (flute)
+Duration: '4:09'
 URLs:
 - https://bowman.bandcamp.com/track/rodeo-clown
 Lyrics: |-
@@ -288,18 +288,18 @@ Lyrics: |-
     My heart still a restless sea where Ithaca is calling
 ---
 Track: Kalesa In Binondo
-Duration: '3:57'
 Contributors:
 - Nick Smalley (kalesa driver, additional sequencing)
+Duration: '3:57'
 URLs:
 - https://bowman.bandcamp.com/track/kalesa-in-binondo
 ---
 Track: Underneath It All
-Duration: '2:33'
 Contributors:
 - Katie Carrell (backup vocals)
 - Tavia Morra (backup vocals)
 - Clark Powell (string arrangement and sequencing)
+Duration: '2:33'
 URLs:
 - https://bowman.bandcamp.com/track/underneath-it-all
 Lyrics: |-
@@ -334,10 +334,10 @@ URLs:
 - https://bowman.bandcamp.com/track/laughing-forest
 ---
 Track: The Roamin' Bowman
-Duration: '3:59'
 Contributors:
 - Erik Scheele (piano)
 - Clark Powell (string arrangement and sequencing)
+Duration: '3:59'
 URLs:
 - https://bowman.bandcamp.com/track/the-roamin-bowman
 Lyrics: |-

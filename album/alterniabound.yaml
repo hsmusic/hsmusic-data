@@ -1,16 +1,17 @@
 Album: AlterniaBound
-Banner Dimensions: 1100x166
 Date: March 14, 2011
 Date Added: November 15, 2019
+URLs:
+- https://homestuck.bandcamp.com/album/alterniabound-with-alternia
+- https://www.youtube.com/playlist?list=PLnVpmehyaOFZWO9QOZmD6A3TIK0wZ6xE2
+Cover Artists:
+- Hanni Brosh
 Color: '#00a4a4'
 Groups:
 - Official
 Art Tags:
 - Karkat
 - Terezi
-URLs:
-- https://homestuck.bandcamp.com/album/alterniabound-with-alternia
-- https://www.youtube.com/playlist?list=PLnVpmehyaOFZWO9QOZmD6A3TIK0wZ6xE2
 Commentary: |-
     <i>Toby Fox:</i>
     Bad news for everyone.
@@ -25,12 +26,11 @@ Commentary: |-
     WILL THEY EVER?
     <i>Quasar Nebula:</i>
     as with [[album:homestuck-vol-5]], track art for [[album:alternia]] and [[album:alterniabound]] is from the <a href="https://alterniaart.tumblr.com/">Alternia/Bound</a> track art anthology projects! original track arts, which were largely (though not entirely) just crops of panels from the webcomic, have been left in the commentary for each track.
-Cover Artists:
-- Hanni Brosh
-Wallpaper Artists:
+Banner Artists:
 - Hanni Brosh
 - Niklink (edits for wiki)
-Banner Artists:
+Banner Dimensions: 1100x166
+Wallpaper Artists:
 - Hanni Brosh
 - Niklink (edits for wiki)
 Default Track Cover Art Date: October 25, 2017
@@ -40,11 +40,22 @@ Group: Main album
 Track: Arisen Anew
 Artist: Tensei
 Duration: '2:55'
-Art Tags:
-- Aradia
 URLs:
 - https://homestuck.bandcamp.com/track/arisen-anew-2
 - https://youtu.be/C0BYVRNGoEo
+Cover Artists:
+- vorpos
+Art Tags:
+- Aradia
+Referenced Tracks:
+- psych0ruins
+- My Little Pony Theme
+Sampled Tracks:
+- Dr. Who
+Lyrics: |-
+    Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>(<i>The princess of time stopped the dog</i>)
+    People assume that time is a strict progression of cause to effect, but actually—from a non-linear, non-subjective viewpoint—it's more like a big ball of wibbly-wobbly... timey-wimey... stuff.
+    Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa
 Commentary: |-
     <i>Tensei:</i>
     (Aradia's Homecoming)
@@ -59,26 +70,19 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/arisen-anew.jpg" width="350" height="350">
-Lyrics: |-
-    Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>(<i>The princess of time stopped the dog</i>)
-    People assume that time is a strict progression of cause to effect, but actually—from a non-linear, non-subjective viewpoint—it's more like a big ball of wibbly-wobbly... timey-wimey... stuff.
-    Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa
-Cover Artists:
-- vorpos
-Referenced Tracks:
-- psych0ruins
-- My Little Pony Theme
-Sampled Tracks:
-- Dr. Who
 ---
 Track: Karkat's Theme
 Artist: Toby Fox
 Duration: '1:58'
-Art Tags:
-- Karkat
 URLs:
 - https://homestuck.bandcamp.com/track/karkats-theme-2
 - https://youtu.be/8M5FxI_p5wg
+Cover Artists:
+- gaylalondes
+Art Tags:
+- Karkat
+Referenced Tracks:
+- track:crustacean
 Commentary: |-
     <i>Toby Fox:</i>
     (Karkat Walkabout)
@@ -92,23 +96,23 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/karkats-theme.jpg" width="350" height="350">
-Cover Artists:
-- gaylalondes
-Referenced Tracks:
-- track:crustacean
 ---
 Track: Trollcops
 Artist: Erik Scheele
 Duration: '2:45'
+URLs:
+- https://homestuck.bandcamp.com/track/trollcops-2
+- https://youtu.be/agUl2xmrBuA
+Cover Artists:
+- Melissa Peebles
 Art Tags:
 - Sollux
 - Terezi
 - Scalemates
 - 'cw: cops'
 - 'cw: hanging'
-URLs:
-- https://homestuck.bandcamp.com/track/trollcops-2
-- https://youtu.be/agUl2xmrBuA
+Referenced Tracks:
+- track:under-the-hat
 Commentary: |-
     <i>Erik Scheele:</i>
     (Alternate Universe Intermission)
@@ -120,20 +124,22 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/trollcops.jpg" width="350" height="350">
-Cover Artists:
-- Melissa Peebles
-Referenced Tracks:
-- track:under-the-hat
 ---
 Track: 'BL1ND JUST1C3 : 1NV3ST1G4T1ON !!'
 Artist: Malcolm Brown
 Duration: '2:48'
-Art Tags:
-- Terezi
-- Vriska
 URLs:
 - https://homestuck.bandcamp.com/track/bl1nd-just1c3-1nv3st1g4t1on-2
 - https://youtu.be/yg41u9AejSs
+Cover Artists:
+- fenkko
+Art Tags:
+- Terezi
+- Vriska
+Referenced Tracks:
+- The Lemonsnout Turnabout
+- Objection! 2001
+- track:sburban-jungle
 Commentary: |-
     <i>Malcolm Brown:</i>
     (Terezi Investigates)
@@ -147,21 +153,20 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/bl1nd-just1c3-1nv3st1g4t1on.jpg" width="350" height="350">
-Cover Artists:
-- fenkko
-Referenced Tracks:
-- The Lemonsnout Turnabout
-- Objection! 2001
-- track:sburban-jungle
 ---
 Track: Terezi's Theme
 Artist: Toby Fox
 Duration: '2:16'
-Art Tags:
-- Terezi
 URLs:
 - https://homestuck.bandcamp.com/track/terezis-theme-2
 - https://youtu.be/IIw4NDK7j4w
+Cover Artists:
+- Kirvia
+Art Tags:
+- Terezi
+Referenced Tracks:
+- The Lemonsnout Turnabout
+- Theme
 Commentary: |-
     <i>Toby Fox:</i>
     (Terezi Walkabout)
@@ -171,20 +176,19 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/terezis-theme.jpg" width="350" height="350">
-Cover Artists:
-- Kirvia
-Referenced Tracks:
-- The Lemonsnout Turnabout
-- Theme
 ---
 Track: Dreamers and The Dead
 Artist: Thomas Ferkol
 Duration: '4:04'
-Art Tags:
-- Aradia
 URLs:
 - https://homestuck.bandcamp.com/track/dreamers-and-the-dead-2
 - https://youtu.be/9PlP0RUzacQ
+Cover Artists:
+- sicklydoodles
+Art Tags:
+- Aradia
+Referenced Tracks:
+- Cuddlefish
 Commentary: |-
     <i>Thomas Ferkol:</i>
     (World of the Afterlife)
@@ -195,19 +199,20 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/dreamers-and-the-dead.jpg" width="350" height="350">
-Cover Artists:
-- sicklydoodles
-Referenced Tracks:
-- Cuddlefish
 ---
 Track: Vriska's Theme
 Artist: Toby Fox
 Duration: '1:43'
-Art Tags:
-- Vriska
 URLs:
 - https://homestuck.bandcamp.com/track/vriskas-theme-2
 - https://youtu.be/LkJHtDiNowk
+Cover Artists:
+- Chumi
+Art Tags:
+- Vriska
+Referenced Tracks:
+- Spider's Claw
+- Theme
 Commentary: |-
     <i>Toby Fox:</i>
     (Vriska Walkabout)
@@ -219,20 +224,22 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/vriskas-theme.jpg" width="350" height="350">
-Cover Artists:
-- Chumi
-Referenced Tracks:
-- Spider's Claw
-- Theme
 ---
 Track: She's a Sp8der
 Artist: Tensei
 Duration: '3:05'
-Art Tags:
-- Mindfang
 URLs:
 - https://homestuck.bandcamp.com/track/shes-a-sp8der-2
 - https://youtu.be/lqMGkbnWOQU
+Cover Artists:
+- gaylalondes
+Art Tags:
+- Mindfang
+Referenced Tracks:
+- Spider's Claw
+- track:MeGaLoVania
+- Eridan's Theme
+- track:crustacean
 Commentary: |-
     <i>Tensei:</i>
     (Adventure on the High Seas)
@@ -243,28 +250,32 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/shes-a-sp8der.jpg" width="350" height="350">
-Cover Artists:
-- gaylalondes
-Referenced Tracks:
-- Spider's Claw
-- track:MeGaLoVania
-- Eridan's Theme
-- track:crustacean
 ---
 Track: FIDUSPAWN, GO!
 Artist: David Ko
-Duration: '1:43'
 Contributors:
 - Toby Fox (arrangement)
 - The_Eighth_Bit (soundfont)
+Duration: '1:43'
+URLs:
+- https://homestuck.bandcamp.com/track/fiduspawn-go-2
+- https://youtu.be/fCBr-v4JswY
+Cover Artists:
+- Phil Gibson
 Art Tags:
 - Tavros
 - Tavros' lusus
 - Karkat
 - Vriska
-URLs:
-- https://homestuck.bandcamp.com/track/fiduspawn-go-2
-- https://youtu.be/fCBr-v4JswY
+Referenced Tracks:
+- track:showtime-imp-strife-mix
+- Pumpkin Cravings
+- track:harlequin
+- Sunslammer
+- dESPERADO ROCKET CHAIRS,
+- track:MeGaLoVania
+- track:vagabounce
+- track:beatdown-strider-style
 Commentary: |-
     <i>David Ko:</i>
     (Tavros' Battle Theme)
@@ -277,26 +288,19 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/fiduspawn-go.jpg" width="350" height="350">
-Cover Artists:
-- Phil Gibson
-Referenced Tracks:
-- track:showtime-imp-strife-mix
-- Pumpkin Cravings
-- track:harlequin
-- Sunslammer
-- dESPERADO ROCKET CHAIRS,
-- track:MeGaLoVania
-- track:vagabounce
-- track:beatdown-strider-style
 ---
 Track: Darling Kanaya
 Artist: Toby Fox
 Duration: '2:07'
-Art Tags:
-- Kanaya
 URLs:
 - https://homestuck.bandcamp.com/track/darling-kanaya-2
 - https://youtu.be/54YThzEi4bk
+Cover Artists:
+- vorpos
+Art Tags:
+- Kanaya
+Referenced Tracks:
+- Virgin Orb
 Commentary: |-
     <i>Toby Fox:</i>
     (Kanaya Walkabout)
@@ -306,20 +310,18 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/darling-kanaya.jpg" width="350" height="350">
-Cover Artists:
-- vorpos
-Referenced Tracks:
-- Virgin Orb
 ---
 Track: Requiem of Sunshine and Rainbows
 Artist: Paige Turner
 Duration: '2:44'
-Art Tags:
-- Kanaya
-- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/requiem-of-sunshine-and-rainbows-2
 - https://youtu.be/erj2UQjMlhs
+Cover Artists:
+- rose-ebottles
+Art Tags:
+- Kanaya
+- 'cw: blood'
 Commentary: |-
     <i>Paige Turner:</i>
     (Rainbow Drinker Kanaya)
@@ -332,19 +334,21 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/requiem-of-sunshine-and-rainbows.jpg" width="350" height="350">
-Cover Artists:
-- rose-ebottles
 ---
 Track: Eridan's Theme
 Artist: Toby Fox
 Contributors:
 - The_Eighth_Bit (soundfont)
 Duration: '2:41'
-Art Tags:
-- Eridan
 URLs:
 - https://homestuck.bandcamp.com/track/eridans-theme-2
 - https://youtu.be/mFLsoipuscM
+Cover Artists:
+- chocolatula
+Art Tags:
+- Eridan
+Referenced Tracks:
+- Catchyegrabber (Skipper Plumbthroat's Song)
 Commentary: |-
     <i>David Ko:</i>
     (Eridan Walkabout)
@@ -364,22 +368,20 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/eridans-theme.jpg" width="350" height="350">
-Cover Artists:
-- chocolatula
-Referenced Tracks:
-- Catchyegrabber (Skipper Plumbthroat's Song)
 ---
 Track: Nautical Nightmare
 Artist: Toby Fox
 Contributors:
 - The_Eighth_Bit (soundfont)
 Duration: '1:50'
-Art Tags:
-- Sollux
-- Eridan
 URLs:
 - https://homestuck.bandcamp.com/track/nautical-nightmare-2
 - https://youtu.be/K5aZ0PdrT3U
+Cover Artists:
+- officialspec
+Art Tags:
+- Sollux
+- Eridan
 Commentary: |-
     <i>Toby Fox:</i>
     (Eridan Boss Battle)
@@ -389,12 +391,15 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/nautical-nightmare.jpg" width="350" height="350">
-Cover Artists:
-- officialspec
 ---
 Track: Nepeta's Theme
 Artist: Toby Fox
 Duration: '1:32'
+URLs:
+- https://homestuck.bandcamp.com/track/nepetas-theme-2
+- https://youtu.be/Q7ZUxyLyIao
+Cover Artists:
+- pbnj-art
 Art Tags:
 - Nepeta
 - Aradia
@@ -403,9 +408,8 @@ Art Tags:
 - Gamzee
 - Nepeta's lusus
 - 'cw: blood (abstract)'
-URLs:
-- https://homestuck.bandcamp.com/track/nepetas-theme-2
-- https://youtu.be/Q7ZUxyLyIao
+Referenced Tracks:
+- Walls Covered in Blood
 Commentary: |-
     <i>Toby Fox:</i>
     (Nepeta Walkabout)
@@ -416,21 +420,22 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/nepetas-theme.jpg" width="350" height="350">
-Cover Artists:
-- pbnj-art
-Referenced Tracks:
-- Walls Covered in Blood
 ---
 Track: Horschestra STRONG Version
+Directory: horschestra-STRONG-version
 Artist: Alex Rosetti
 Duration: '3:23'
-Directory: horschestra-STRONG-version
-Art Tags:
-- Equius
-- 'cw: asphyxiation (abstract)'
 URLs:
 - https://homestuck.bandcamp.com/track/horschestra-strong-version-2
 - https://youtu.be/HHlaLTjv4So
+Cover Artists:
+- chocolatula
+Art Tags:
+- Equius
+- 'cw: asphyxiation (abstract)'
+Referenced Tracks:
+- Horschestra
+- Walls Covered in Blood
 Commentary: |-
     <i>Alex Rosetti:</i>
     (Equius Walkabout)
@@ -445,23 +450,25 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/horschestra-STRONG-version.jpg" width="350" height="350">
-Cover Artists:
-- chocolatula
-Referenced Tracks:
-- Horschestra
-- Walls Covered in Blood
 ---
 Track: Blackest Heart (With Honks)
 Artist: Toby Fox
 Duration: '2:30'
+URLs:
+- https://homestuck.bandcamp.com/track/blackest-heart-with-honks-2
+- https://youtu.be/-lJrvGkxPMI
+Cover Artists:
+- officialspec
 Art Tags:
 - Equius
 - Gamzee
 - The Grand Highblood
 - 'cw: asphyxiation'
-URLs:
-- https://homestuck.bandcamp.com/track/blackest-heart-with-honks-2
-- https://youtu.be/-lJrvGkxPMI
+Referenced Tracks:
+- Blackest Heart
+- La Cucaracha
+- First Call
+- Toreador Song
 Lyrics: |-
     Miracles
     Miracles
@@ -478,23 +485,18 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/blackest-heart-with-honks.jpg" width="350" height="350">
-Cover Artists:
-- officialspec
-Referenced Tracks:
-- Blackest Heart
-- La Cucaracha
-- First Call
-- Toreador Song
 ---
 Track: Midnight Calliope
 Artist: Mark Hadley
 Duration: '1:50'
-Art Tags:
-- Equius
-- Gamzee
 URLs:
 - https://homestuck.bandcamp.com/track/midnight-calliope-2
 - https://youtu.be/owRKKJN5PkE
+Cover Artists:
+- lime-time
+Art Tags:
+- Equius
+- Gamzee
 Commentary: |-
     <i>Mark Hadley:</i>
     (Gamzee the Killer)
@@ -505,18 +507,26 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/midnight-calliope.jpg" width="350" height="350">
-Cover Artists:
-- lime-time
 ---
 Track: Chaotic Strength
 Artist: Thomas Ferkol
 Duration: '2:34'
-Art Tags:
-- Equius
-- Underlings
 URLs:
 - https://homestuck.bandcamp.com/track/chaotic-strength-2
 - https://youtu.be/GUMeMEbJB0M
+Cover Artists:
+- Rebecca Peason
+Art Tags:
+- Equius
+- Underlings
+Referenced Tracks:
+- Chaotic Frenzy
+- The Number of the Beast
+- The Riddle Wants To Be
+Lyrics: |-
+    Yeah!<br>Go, go, go, go!
+    Go!
+    Go, go, go, go, go, go, go, go!
 Commentary: |-
     <i>Thomas Ferkol:</i>
     HOW TO WRITE MUSIC<br>STEP 1: WRITE STRONG GUITAR<br>STEP 2: WRITE STRONG DRUMS<br>STEP 3: YELL INTO THE MICROPHONE<br>STEP 4: FLEX<br>STEP 5: Get a towel because GOD DAMN so much sweat.
@@ -528,28 +538,20 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/chaotic-strength.jpg" width="350" height="350">
-Lyrics: |-
-    Yeah!<br>Go, go, go, go!
-    Go!
-    Go, go, go, go, go, go, go, go!
-Cover Artists:
-- Rebecca Peason
-Referenced Tracks:
-- Chaotic Frenzy
-- The Number of the Beast
-- The Riddle Wants To Be
 ---
 Track: Trollian Standoff
 Artist: Tensei
 Duration: '1:14'
+URLs:
+- https://homestuck.bandcamp.com/track/trollian-standoff-2
+- https://youtu.be/wbYnGg_QKt4
+Cover Artists:
+- atissi
 Art Tags:
 - Vriska
 - Eridan
 - Gamzee
 - 'cw: blood'
-URLs:
-- https://homestuck.bandcamp.com/track/trollian-standoff-2
-- https://youtu.be/wbYnGg_QKt4
 Commentary: |-
     <i>Tensei:</i>
     (Triple Showdown Combo)
@@ -561,12 +563,15 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/trollian-standoff.jpg" width="350" height="350">
-Cover Artists:
-- atissi
 ---
 Track: Rex Duodecim Angelus
 Artist: Malcolm Brown
 Duration: '6:39'
+URLs:
+- https://homestuck.bandcamp.com/track/rex-duodecim-angelus-2
+- https://youtu.be/hn6Yl371mIc
+Cover Artists:
+- floralmarsupial
 Art Tags:
 - BK
 - Karkat
@@ -574,9 +579,17 @@ Art Tags:
 - Kanaya
 - Vriska
 - 'cw: blood'
-URLs:
-- https://homestuck.bandcamp.com/track/rex-duodecim-angelus-2
-- https://youtu.be/hn6Yl371mIc
+Referenced Tracks:
+- track:crustacean
+- The Lemonsnout Turnabout
+- dESPERADO ROCKET CHAIRS,
+- Virgin Orb
+- Horschestra
+- Walls Covered in Blood
+- Keepers
+- The La2t Frontiier
+- psych0ruins
+- Spider's Claw
 Commentary: |-
     <i>Malcolm Brown:</i>
     (Final Battle Against the Black King)
@@ -602,28 +615,19 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/rex-duodecim-angelus.jpg" width="350" height="350">
-Cover Artists:
-- floralmarsupial
-Referenced Tracks:
-- track:crustacean
-- The Lemonsnout Turnabout
-- dESPERADO ROCKET CHAIRS,
-- Virgin Orb
-- Horschestra
-- Walls Covered in Blood
-- Keepers
-- The La2t Frontiier
-- psych0ruins
-- Spider's Claw
 ---
 Track: Killed by BR8K Spider!!!!!!!!
 Artist: Toby Fox
 Duration: '4:20'
-Art Tags:
-- Vriska
 URLs:
 - https://homestuck.bandcamp.com/track/killed-by-br8k-spider-2
 - https://youtu.be/KpnY41JNVbo
+Cover Artists:
+- hellobeau
+Art Tags:
+- Vriska
+Referenced Tracks:
+- Spider's Claw
 Commentary: |-
     <i>Toby Fox:</i>
     (God-Vriska's Finest Hour)
@@ -631,10 +635,6 @@ Commentary: |-
     <i>Lexxy:</i>
     (<i>original track art</i>)
     <img src="media/misc/killed-by-br8k-spider.jpg" width="350" height="350">
-Cover Artists:
-- hellobeau
-Referenced Tracks:
-- Spider's Claw
 ---
 Track: Alternia
 Artist: Seth Peelle
@@ -642,6 +642,10 @@ Duration: '3:57'
 URLs:
 - https://homestuck.bandcamp.com/track/alternia-2
 - https://youtu.be/ouwick_Ii2c
+Cover Artists:
+- Xan Drake
+Referenced Tracks:
+- Theme
 Commentary: |-
     <i>Seth Peelle:</i>
     (Hivebent)
@@ -654,25 +658,25 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/alternia.jpg" width="350" height="350">
-Cover Artists:
-- Xan Drake
-Referenced Tracks:
-- Theme
 ---
 Group: Bonus tracks
 ---
 Track: Trollcops (Radio Play)
 Artist: Erik Scheele
-Cover Art Date: March 14, 2011
 Contributors:
 - Nick Smalley (words)
 Duration: '2:59'
-Art Tags:
-- Aradia
-- 'cw: cops'
 URLs:
 - https://homestuck.bandcamp.com/track/trollcops-radio-play-2
 - https://youtu.be/fGQY8jLZa5w
+Cover Artists:
+- Homestuck
+Cover Art Date: March 14, 2011
+Art Tags:
+- Aradia
+- 'cw: cops'
+Referenced Tracks:
+- Trollcops
 Lyrics: |-
     Alternia: One of the roughest beats in the universe. It's a tough job to keep it safe, and an even tougher job to find people who'll keep it that way. She's a gal with a knack for justice and has the force under her thumb. He's a guy who just joined the APD and finding his bearings is about as easy as feeding a Gyclops his cough syrup. And together, they are Trollcops.
     It isn't going to be easy teaching the rookie the ropes of the force, but she's the only one who can do it without getting him killed. So far the biggest problem they've hit is striking the right chord with each other. It seems like whenever they're partners, there isn't a moment when they're not both at each other's throats. It's gonna take a miracle to find a middle road with this pair, and keep their antics under the hat.
@@ -683,19 +687,17 @@ Commentary: |-
     But you know what? I still love this version for all its campy glory, so here it is as a bonus track!
     ...
     ... AND TOGETHER THEY ARE... TROLL COCKS.
-Cover Artists:
-- Homestuck
-Referenced Tracks:
-- Trollcops
 ---
 Track: Catapult Capuchin
 Artist: Toby Fox
 Duration: '1:58'
-Art Tags:
-- Nepeta
 URLs:
 - https://homestuck.bandcamp.com/track/catapult-capuchin-2
 - https://youtu.be/zOLsLiqSAEo
+Cover Artists:
+- Chumi
+Art Tags:
+- Nepeta
 Commentary: |-
     <i>Toby Fox:</i>
     (I KILL ANIMALS!!!)
@@ -706,17 +708,17 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/catapult-capuchin.jpg" width="350" height="350">
-Cover Artists:
-- Chumi
 ---
 Track: Science Seahorse
 Artist: Toby Fox
 Duration: '3:06'
-Art Tags:
-- Eridan
 URLs:
 - https://homestuck.bandcamp.com/track/science-seahorse-2
 - https://youtu.be/9FsGWsS91r8
+Cover Artists:
+- Rebecca Peason
+Art Tags:
+- Eridan
 Commentary: |-
     <i>Toby Fox:</i>
     (PISCES PRINCESS)
@@ -728,18 +730,18 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/science-seahorse.jpg" width="350" height="350">
-Cover Artists:
-- Rebecca Peason
 ---
 Track: A Fairy Battle
 Artist: Toby Fox
 Duration: '1:37'
-Art Tags:
-- Rose
-- Kanaya
 URLs:
 - https://homestuck.bandcamp.com/track/a-fairy-battle-2
 - https://youtu.be/LHr417f4Y8U
+Cover Artists:
+- kanayamaryamistrans
+Art Tags:
+- Rose
+- Kanaya
 Commentary: |-
     <i>Toby Fox:</i>
     (Kanaya Battle Theme?)
@@ -749,21 +751,38 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/a-fairy-battle.jpg" width="350" height="350">
-Cover Artists:
-- kanayamaryamistrans
 ---
 Track: The Blind Prophet
 Artist: Toby Fox
-Duration: '3:00'
 Contributors:
 - hank hill & cyclops (everything)
+Duration: '3:00'
+URLs:
+- https://homestuck.bandcamp.com/track/the-blind-prophet-2
+- https://youtu.be/nClhUae7DMs
+Cover Artists:
+- Melissa Peebles
 Art Tags:
 - Sollux
 - 'cw: blood'
 - 'cw: eye horror'
-URLs:
-- https://homestuck.bandcamp.com/track/the-blind-prophet-2
-- https://youtu.be/nClhUae7DMs
+Referenced Tracks:
+- The La2t Frontiier
+- Yahoos and Triangles
+- track:MeGaLoVania
+- Courser
+- Guile's Theme
+Sampled Tracks:
+- King of the Hill
+- 'X-Men: Children of the Atom'
+- X-Men vs. Street Fighter
+Lyrics: |-
+    Propane
+    Fight, fight, fight, fight, fight, fight, fight!<br>Optic Blast!<br>Fight, fight, fight, fight, fight, fight!<br>Optic Blast!
+    Do it! Come on! Optic Blast! (Fight, fight, fight, fight!)<br>Do it! Come and get me! C-c-c-come on! (Behold!)<br>Optic Sweep! (Fight, fight, fight, fight!) (Propane)<br>Do it! Come on! Optictictic-Optic Blast! (Come and get me!)<br>(RRGH!) (Fight, fight, fight, fight!) (Propane)<br>Do it! Come on! (RRGH!) C-c-c-come on! Optic Blast! (Fight, fight!)
+    D-d-d-d-do it! RRRRGH!
+    Dreams! Don't die!
+    bobby
 Commentary: |-
     <i>cyclops???:</i>
     my thoughts:
@@ -775,76 +794,57 @@ Commentary: |-
     <i>Hanni Brosh:</i>
     (<i>original track art</i>)
     <img src="media/misc/the-blind-prophet.jpg" width="350" height="350">
-Lyrics: |-
-    Propane
-    Fight, fight, fight, fight, fight, fight, fight!<br>Optic Blast!<br>Fight, fight, fight, fight, fight, fight!<br>Optic Blast!
-    Do it! Come on! Optic Blast! (Fight, fight, fight, fight!)<br>Do it! Come and get me! C-c-c-come on! (Behold!)<br>Optic Sweep! (Fight, fight, fight, fight!) (Propane)<br>Do it! Come on! Optictictic-Optic Blast! (Come and get me!)<br>(RRGH!) (Fight, fight, fight, fight!) (Propane)<br>Do it! Come on! (RRGH!) C-c-c-come on! Optic Blast! (Fight, fight!)
-    D-d-d-d-do it! RRRRGH!
-    Dreams! Don't die!
-    bobby
-Cover Artists:
-- Melissa Peebles
-Referenced Tracks:
-- The La2t Frontiier
-- Yahoos and Triangles
-- track:MeGaLoVania
-- Courser
-- Guile's Theme
-Sampled Tracks:
-- King of the Hill
-- 'X-Men: Children of the Atom'
-- X-Men vs. Street Fighter
 ---
 Track: AlterniaBound
 Artist: Toby Fox
-Cover Art Date: March 14, 2011
 Duration: 0:20
 URLs:
 - https://homestuck.bandcamp.com/track/alterniabound-2
 - https://youtu.be/FD5tJvMtzDo
+Cover Artists:
+- Homestuck
+Cover Art Date: March 14, 2011
+Referenced Tracks:
+- Theme
 Commentary: |-
     <i>Toby Fox:</i>
     These aren't "true" pieces... just jingles based off of "Theme". But I hope that for all their insignificance, they really instill the idea of a game inside of you.
     AlterniaBound is a VERY direct homage to the title screen of EarthBound. If you don't know what EarthBound is... you may be missing out on something.
-Cover Artists:
-- Homestuck
-Referenced Tracks:
-- Theme
 ---
 Track: You Won A Combat
 Artist: Toby Fox
 Duration: 0:08
-Art Tags:
-- Karkat
 URLs:
 - https://homestuck.bandcamp.com/track/you-won-a-combat-2
 - https://youtu.be/heNdjTRVf5U
+Cover Artists:
+- allyssinian
+Art Tags:
+- Karkat
+Referenced Tracks:
+- Theme
 Commentary: |-
     <i>Toby Fox:</i>
     When you win a battle on Alternia, this song plays. No one knows who's singing.
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/you-won-a-combat.jpg" width="350" height="350">
-Cover Artists:
-- allyssinian
-Referenced Tracks:
-- Theme
 ---
 Track: Rest A While
 Artist: Toby Fox
 Duration: 0:09
-Art Tags:
-- Karkat
 URLs:
 - https://homestuck.bandcamp.com/track/rest-a-while-2
 - https://youtu.be/Iq7clpsMTmA
+Cover Artists:
+- scatterpunk
+Art Tags:
+- Karkat
+Referenced Tracks:
+- Theme
 Commentary: |-
     <i>Toby Fox:</i>
     And with that.... good night.
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/rest-a-while.jpg" width="350" height="350">
-Cover Artists:
-- scatterpunk
-Referenced Tracks:
-- Theme

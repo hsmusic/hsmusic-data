@@ -2,18 +2,18 @@ Album: CLASS ACT
 Artist: Funk McLovin
 Date: August 31, 2020 12:00:01
 Date Added: April 12, 2021
-Banner Dimensions: 975x180
+URLs:
+- https://funkmclovin.bandcamp.com/album/class-act
 Has Track Art: false
+Cover Artists:
+- Funk McLovin
 Color: '#ff1e47'
 Groups:
 - Funk McLovin
 - Beyond
-URLs:
-- https://funkmclovin.bandcamp.com/album/class-act
-Cover Artists:
-- Funk McLovin
 Banner Artists:
 - Funk McLovin
+Banner Dimensions: 975x180
 ---
 Track: New Year Boogie
 Duration: '2:16'
@@ -46,12 +46,12 @@ URLs:
 - https://funkmclovin.bandcamp.com/track/robots-stole-my-wife
 ---
 Track: Button Eyes
-Artists:
-- Funk McLovin
-- Davi
 Duration: 0:58
 URLs:
 - https://funkmclovin.bandcamp.com/track/button-eyes-ft-davi
+Artists:
+- Funk McLovin
+- Davi
 ---
 Track: Japanese Spider Crab
 Duration: '2:04'

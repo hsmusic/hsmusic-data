@@ -2,6 +2,13 @@ Album: Alternia
 Artist: Toby Fox
 Date: July 18, 2010
 Date Added: November 15, 2019
+URLs:
+- https://homestuck.bandcamp.com/album/alterniabound-with-alternia
+- https://www.youtube.com/watch?v=FwQNcM_QhYI
+- https://www.youtube.com/playlist?list=PLYhdhHfN2xDpqsbieSVEmK_OYNgAYgZEZ
+Cover Artists:
+- Cindy Dominguez
+- Andrew Hussie
 Color: '#cc44ff'
 Groups:
 - Toby Fox
@@ -9,10 +16,6 @@ Groups:
 Art Tags:
 - Karkat
 - Terezi
-URLs:
-- https://homestuck.bandcamp.com/album/alterniabound-with-alternia
-- https://www.youtube.com/watch?v=FwQNcM_QhYI
-- https://www.youtube.com/playlist?list=PLYhdhHfN2xDpqsbieSVEmK_OYNgAYgZEZ
 Commentary: |-
     <i>Toby Fox:</i>
     Hey, just a brief (LOL JK) message from the guy who made this album - Toby "Radiation" Fox, if for some reason you haven't seen that name anywhere yet.
@@ -45,9 +48,6 @@ Commentary: |-
     <i>-minibiography written by Linnet, and is presumed to be 100% accurate</i>
     <i>Quasar Nebula:</i>
     as with [[album:homestuck-vol-5]], track art for [[album:alternia]] and [[album:alterniabound]] is from the <a href="https://alterniaart.tumblr.com/">Alternia/Bound</a> track art anthology projects! original track arts, which were largely (though not entirely) just crops of panels from the webcomic, have been left in the commentary for each track.
-Cover Artists:
-- Cindy Dominguez
-- Andrew Hussie
 Wallpaper Artists:
 - Cindy Dominguez
 - Andrew Hussie
@@ -57,11 +57,13 @@ Group: Main album
 ---
 Track: Crustacean
 Duration: '1:31'
-Art Tags:
-- Karkat
 URLs:
 - https://homestuck.bandcamp.com/track/crustacean-2
 - https://youtu.be/U5CGEwHZoss
+Cover Artists:
+- Kirvia
+Art Tags:
+- Karkat
 Commentary: |-
     <i>Toby Fox:</i>
     (CG Sprite Theme)
@@ -73,16 +75,16 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/crustacean.jpg" width="350" height="350">
-Cover Artists:
-- Kirvia
 ---
 Track: Showdown
 Duration: '1:43'
-Art Tags:
-- Karkat
 URLs:
 - https://homestuck.bandcamp.com/track/showdown-2
 - https://youtu.be/5mdkmTXDG2I
+Cover Artists:
+- sicklydoodles
+Art Tags:
+- Karkat
 Commentary: |-
     <i>Toby Fox:</i>
     (CG Battle Theme)
@@ -99,17 +101,22 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/showdown.jpg" width="350" height="350">
-Cover Artists:
-- sicklydoodles
 ---
 Track: mIrAcLeS
 Duration: '2:31'
-Art Tags:
-- Gamzee
-- Gamzee's lusus
 URLs:
 - https://homestuck.bandcamp.com/track/miracles-2
 - https://youtu.be/ztovKMiiolU
+Cover Artists:
+- scatterpunk
+Art Tags:
+- Gamzee
+- Gamzee's lusus
+Lyrics: |-
+    Miracles<br>Miracles<br>Miracles
+    Miracles<br>Miracles
+    Miracles<br>Miracles<br>Miracles
+    Miracles
 Commentary: |-
     <i>Toby Fox:</i>
     (TC's Theme)
@@ -118,22 +125,17 @@ Commentary: |-
     So now when people ask you "how does this piece even work, man," you know the answer. It's right up there.
     MIRACLES.
     PS - Andrew wanted to put a ton of honking on this track to the point that the actual music was undiscernable. He actually linked me to some free sound websites and told me to register. I guess in that way, this track is off-character for Gamzee. If he wants the honking he's going to have to do it himself and make it a bonus track; I think I'm more content with this track than any of the other oens and I don't think it needs to be ruined by anything except my own voice saying "MIRACLES..."
-Lyrics: |-
-    Miracles<br>Miracles<br>Miracles
-    Miracles<br>Miracles
-    Miracles<br>Miracles<br>Miracles
-    Miracles
-Cover Artists:
-- scatterpunk
 ---
 Track: The Lemonsnout Turnabout
 Duration: '2:23'
-Art Tags:
-- Terezi
-- Scalemates
 URLs:
 - https://homestuck.bandcamp.com/track/the-lemonsnout-turnabout-2
 - https://youtu.be/pvgyx0w8B1E
+Cover Artists:
+- rose-ebottles
+Art Tags:
+- Terezi
+- Scalemates
 Commentary: |-
     <i>Toby Fox:</i>
     (GC's Courtroom Scene)
@@ -151,17 +153,17 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/the-lemonsnout-turnabout.jpg" width="350" height="350">
-Cover Artists:
-- rose-ebottles
 ---
 Track: Phaze and Blood
 Duration: '1:38'
-Art Tags:
-- Karkat
-- 'cw: blood (abstract)'
 URLs:
 - https://homestuck.bandcamp.com/track/phaze-and-blood-2
 - https://youtu.be/fNsqqoGNLpE
+Cover Artists:
+- floralmarsupial
+Art Tags:
+- Karkat
+- 'cw: blood (abstract)'
 Commentary: |-
     <i>Toby Fox:</i>
     (CG's Medium)
@@ -172,16 +174,16 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/phaze-and-blood.jpg" width="350" height="350">
-Cover Artists:
-- floralmarsupial
 ---
 Track: psych0ruins
 Duration: '2:15'
-Art Tags:
-- Aradia
 URLs:
 - https://homestuck.bandcamp.com/track/psych0ruins-2
 - https://youtu.be/ueccsD074a8
+Cover Artists:
+- porrim-maryam
+Art Tags:
+- Aradia
 Commentary: |-
     <i>Toby Fox:</i>
     (AA Ruins Theme)
@@ -193,17 +195,19 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/psych0ruins.jpg" width="350" height="350">
-Cover Artists:
-- porrim-maryam
 ---
 Track: Walls Covered in Blood
 Duration: '2:00'
-Art Tags:
-- Nepeta
-- Nepeta's lusus
 URLs:
 - https://homestuck.bandcamp.com/track/walls-covered-in-blood-2
 - https://youtu.be/REM1E8wC3Gs
+Cover Artists:
+- lime-time
+Art Tags:
+- Nepeta
+- Nepeta's lusus
+Sampled Tracks:
+- Mario Paint
 Commentary: |-
     <i>Toby Fox:</i>
     (AC's Theme)
@@ -214,18 +218,16 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/walls-covered-in-blood.jpg" width="350" height="350">
-Cover Artists:
-- lime-time
-Sampled Tracks:
-- Mario Paint
 ---
 Track: dESPERADO ROCKET CHAIRS,
 Duration: '1:37'
-Art Tags:
-- Tavros
 URLs:
 - https://homestuck.bandcamp.com/track/desperado-rocket-chairs-2
 - https://youtu.be/KPYJ9TuXZmQ
+Cover Artists:
+- deuxknives
+Art Tags:
+- Tavros
 Commentary: |-
     <i>Toby Fox:</i>
     (AT Desperado Rocket Chair Joust Theme)
@@ -240,18 +242,20 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/desperado-rocket-chairs.jpg" width="350" height="350">
-Cover Artists:
-- deuxknives
 ---
 Track: Death of the Lusii
 Duration: '2:00'
+URLs:
+- https://homestuck.bandcamp.com/track/death-of-the-lusii-2
+- https://youtu.be/mrflmgFRrYo
+Cover Artists:
+- Aeritus
 Art Tags:
 - Gamzee
 - Gamzee's lusus
 - 'cw: animal death'
-URLs:
-- https://homestuck.bandcamp.com/track/death-of-the-lusii-2
-- https://youtu.be/mrflmgFRrYo
+Referenced Tracks:
+- track:crustacean
 Commentary: |-
     <i>Toby Fox:</i>
     (Lusus Death Theme)
@@ -264,18 +268,16 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/death-of-the-lusii.jpg" width="350" height="350">
-Cover Artists:
-- Aeritus
-Referenced Tracks:
-- track:crustacean
 ---
 Track: Virgin Orb
 Duration: '2:23'
-Art Tags:
-- Kanaya
 URLs:
 - https://homestuck.bandcamp.com/track/virgin-orb-2
 - https://youtu.be/mrflmgFRrYo
+Cover Artists:
+- allyssinian
+Art Tags:
+- Kanaya
 Commentary: |-
     <i>Toby Fox:</i>
     (GA's Theme)
@@ -289,16 +291,19 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/virgin-orb.jpg" width="350" height="350">
-Cover Artists:
-- allyssinian
 ---
 Track: The La2t Frontiier
 Duration: '1:50'
-Art Tags:
-- Sollux
 URLs:
 - https://homestuck.bandcamp.com/track/the-la2t-frontiier-2
 - https://youtu.be/aPd9mP7ZrlY
+Cover Artists:
+- Kirvia
+Art Tags:
+- Sollux
+Referenced Tracks:
+- Sunsetter
+- Guile's Theme
 Commentary: |-
     <i>Toby Fox:</i>
     (TA and the Trolls vs. Sgrub)
@@ -316,17 +321,14 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/the-la2t-frontiier.jpg" width="350" height="350">
-Cover Artists:
-- Kirvia
-Referenced Tracks:
-- Sunsetter
-- Guile's Theme
 ---
 Track: Skaian Summoning
 Duration: '2:22'
 URLs:
 - https://homestuck.bandcamp.com/track/skaian-summoning-2
 - https://youtu.be/gWBlVTuyp0s
+Cover Artists:
+- scatterpunk
 Commentary: |-
     <i>Toby Fox:</i>
     (The Day the World Died)
@@ -335,17 +337,19 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/skaian-summoning.jpg" width="350" height="350">
-Cover Artists:
-- scatterpunk
 ---
 Group: Bonus tracks
 ---
 Track: The Thirteenth Hour
-Cover Art Date: July 18, 2010
 Duration: '2:10'
 URLs:
 - https://homestuck.bandcamp.com/track/the-thirteenth-hour-2
 - https://youtu.be/SixKHx18sqk
+Cover Artists:
+- Homestuck
+Cover Art Date: July 18, 2010
+Referenced Tracks:
+- track:sburban-jungle
 Commentary: |-
     <i>Toby Fox:</i>
     (UU's Theme)
@@ -360,16 +364,14 @@ Commentary: |-
     <i>Monckat:</i>
     <img src="media/misc/altcalbinarytrackart.gif" width="350" height="350">
     (the track art anthology for Alternia didn't include a fanart for this track.)
-Cover Artists:
-- Homestuck
-Referenced Tracks:
-- track:sburban-jungle
 ---
 Track: Spider's Claw
 Duration: 0:37
 URLs:
 - https://homestuck.bandcamp.com/track/spiders-claw
 - https://youtu.be/ZA9M-ZpdlC8
+Cover Artists:
+- fenkko
 Art Tags:
 - Vriska
 Commentary: |-
@@ -384,18 +386,18 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/spiders-claw.jpg" width="350" height="350">
-Cover Artists:
-- fenkko
 ---
 Track: Staring
 Duration: '1:21'
+URLs:
+- https://homestuck.bandcamp.com/track/staring
+- https://youtu.be/4TUOfRlT1ks
+Cover Artists:
+- pbnj-art
 Art Tags:
 - Equius
 - 'cw: asphyxiation (abstract)'
 - 'cw: body horror (abstract)'
-URLs:
-- https://homestuck.bandcamp.com/track/staring
-- https://youtu.be/4TUOfRlT1ks
 Commentary: |-
     <i>Toby Fox:</i>
     (CT's Unrevealed Theme)
@@ -407,17 +409,17 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/staring.jpg" width="350" height="350">
-Cover Artists:
-- pbnj-art
 ---
 Track: Keepers
 Duration: '1:55'
-Art Tags:
-- Eridan
-- Feferi
 URLs:
 - https://homestuck.bandcamp.com/track/keepers
 - https://youtu.be/Sy3Au5UsykI
+Cover Artists:
+- frantastically
+Art Tags:
+- Eridan
+- Feferi
 Commentary: |-
     <i>Toby Fox:</i>
     (CC and CA Theme)
@@ -428,16 +430,16 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/keepers.jpg" width="350" height="350">
-Cover Artists:
-- frantastically
 ---
 Track: Theme
 Duration: '1:28'
-Art Tags:
-- Aradia
 URLs:
 - https://homestuck.bandcamp.com/track/theme-2
 - https://youtu.be/S2Pr-_j0qcc
+Cover Artists:
+- Sollay
+Art Tags:
+- Aradia
 Commentary: |-
     <i>Toby Fox:</i>
     (Alternia Theme)
@@ -447,23 +449,21 @@ Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/theme.jpg" width="350" height="350">
-Cover Artists:
-- Sollay
 ---
 Track: Walls Covered in Blood DX
 Duration: '2:01'
+URLs:
+- https://homestuck.bandcamp.com/track/walls-covered-in-blood-dx-2
+- https://youtu.be/WPqca-NWV2k
+Cover Artists:
+- atissi
 Art Tags:
 - Nepeta
 - Nepeta's lusus
 - 'cw: blood'
-URLs:
-- https://homestuck.bandcamp.com/track/walls-covered-in-blood-dx-2
-- https://youtu.be/WPqca-NWV2k
+Referenced Tracks:
+- Walls Covered in Blood
 Commentary: |-
     <i>Homestuck:</i>
     (<i>original track art</i>)
     <img src="media/misc/walls-covered-in-blood-dx.jpg" width="350" height="350">
-Cover Artists:
-- atissi
-Referenced Tracks:
-- Walls Covered in Blood
