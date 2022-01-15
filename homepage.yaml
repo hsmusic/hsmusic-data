@@ -10,7 +10,8 @@ Row: Fandom
 Type: albums
 Group: Fandom
 Count: 6
-Albums: Unreleased Tracks
+Albums:
+- Unreleased Tracks
 Actions:
 - '[[group-gallery:fandom|Explore Fandom!]]'
 ---

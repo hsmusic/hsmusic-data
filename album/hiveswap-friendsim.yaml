@@ -1,12 +1,10 @@
 Album: Hiveswap Friendsim
 Artist: James Roach
-Cover Art: P-PAMda
-Wallpaper Art: Danny Cragg
-Track Art: Homestuck
 Date: December 15, 2018
 Date Added: November 15, 2019
 Color: '#d3ff8f'
-Groups: Official
+Groups:
+- Official
 Art Tags:
 - MSPA Reader
 - Boldir
@@ -27,6 +25,12 @@ URLs:
 Commentary: |-
     <i>Homestuck:</i>
     Maybe the real FRIENDSHIP was the friends we made along the way.
+Cover Artists:
+- P-PAMda
+Default Track Cover Artists:
+- Homestuck
+Wallpaper Artists:
+- Danny Cragg
 ---
 Track: ARTCHOP (APPARENTLY)
 Duration: '1:36'
@@ -43,7 +47,8 @@ Commentary: |-
 Track: Ｍ Ｏ Ｉ Ｓ Ｔ
 Duration: '2:29'
 Directory: moist
-References: Get The Horns
+References:
+- Get The Horns
 URLs:
 - https://homestuck.bandcamp.com/track/-
 - https://soundcloud.com/jamesroachmusic/a-bunch-of-boxes-that-dont-translate-into-a-url
@@ -133,7 +138,8 @@ Commentary: |-
 ---
 Track: Old Secret
 Duration: '4:26'
-References: Old Friends
+References:
+- Old Friends
 URLs:
 - https://homestuck.bandcamp.com/track/old-secret
 - https://soundcloud.com/jamesroachmusic/old-secret
@@ -168,7 +174,8 @@ Commentary: |-
 ---
 Track: SERVICE CAR
 Duration: '4:13'
-References: track:ticket-to-ride-rusty
+References:
+- track:ticket-to-ride-rusty
 URLs:
 - https://homestuck.bandcamp.com/track/service-car
 - https://soundcloud.com/jamesroachmusic/service-car
@@ -185,7 +192,8 @@ Commentary: |-
 ---
 Track: (an ascii image of bowsette)
 Duration: '5:08'
-References: track:dungeon-theme-zelda1
+References:
+- track:dungeon-theme-zelda1
 URLs:
 - https://homestuck.bandcamp.com/track/an-ascii-image-of-bowsette
 - https://soundcloud.com/jamesroachmusic/an-ascii-image-of-bowsette
@@ -235,7 +243,8 @@ Commentary: |-
 Track: CLOWNFUCKER
 Artist: James Roach, Toby Fox
 Duration: '2:52'
-References: take me to clown church
+References:
+- take me to clown church
 URLs:
 - https://homestuck.bandcamp.com/track/clownfucker
 - https://soundcloud.com/jamesroachmusic/clownfucker-by-james-roach-and-toby-fox
@@ -278,7 +287,6 @@ Commentary: |-
 ---
 Track: yall know i just do the music right
 Artist: James Roach, Toby Fox
-Track Art: none
 Duration: '2:40'
 URLs:
 - https://homestuck.bandcamp.com/track/yall-know-i-just-do-the-music-right
@@ -286,9 +294,9 @@ URLs:
 Commentary: |-
     <i>James Roach:</i>
     (Lanque's theme; no commentary)
+Cover Artists: []
 ---
 Track: the final clowntdown
-Track Art: none
 Duration: '3:11'
 URLs:
 - https://homestuck.bandcamp.com/track/the-final-clowntdown
@@ -296,9 +304,9 @@ URLs:
 Commentary: |-
     <i>James Roach:</i>
     (Soleil twins' theme; no commentary)
+Cover Artists: []
 ---
 Track: END OF FRIENDVANGELION
-Track Art: none
 Duration: '3:01'
 URLs:
 - https://homestuck.bandcamp.com/track/end-of-friendvangelion
@@ -307,9 +315,9 @@ References:
 - Homestuck Anthem
 - Joey Claire, Extraordinaire
 - Rustblood
+Cover Artists: []
 ---
 Track: VALID END
-Track Art: none
 Duration: '2:01'
 URLs:
 - https://homestuck.bandcamp.com/track/valid-end
@@ -317,10 +325,14 @@ URLs:
 Commentary: |-
     <i>James Roach:</i>
     (Lanque's other theme; no commentary)
+Cover Artists: []
 ---
 Track: WORST END
 Duration: '2:30'
-References: English, Liquid Negrocity, GRAVEYARD SHIFT
+References:
+- English
+- Liquid Negrocity
+- GRAVEYARD SHIFT
 URLs:
 - https://homestuck.bandcamp.com/track/worst-end
 - https://youtu.be/tf_EvjG7Ir8

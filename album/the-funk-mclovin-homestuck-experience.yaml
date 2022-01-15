@@ -2,7 +2,6 @@ Album: The Funk McLovin Homestuck Experience
 Artist: Funk McLovin
 Date: April 13, 2020
 Date Added: April 12, 2021
-Cover Art: Funk McLovin
 Has Track Art: false
 Color: '#a5f0a7'
 Groups:
@@ -10,6 +9,8 @@ Groups:
 - Fandom
 URLs:
 - https://funkmclovin.bandcamp.com/album/the-funk-mclovin-homestuck-experience
+Cover Artists:
+- Funk McLovin
 ---
 Track: Introduction
 Duration: 0:50
@@ -290,7 +291,8 @@ Lyrics: |-
 ---
 Track: Vriska's Theme (Off The Shits Edition)
 Duration: '3:50'
-References: Vriska's Theme
+References:
+- Vriska's Theme
 URLs:
 - https://funkmclovin.bandcamp.com/track/vriskas-theme-off-the-shits-edition
 - https://www.youtube.com/watch?v=o34votcZmMA

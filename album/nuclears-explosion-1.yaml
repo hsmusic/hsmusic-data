@@ -1,6 +1,5 @@
 Album: Nuclear's Explosion 1
 Artist: nuclear333
-Cover Art: nuclear333
 Has Track Art: false
 Date: April 24, 2017
 Date Added: April 12, 2021
@@ -13,6 +12,8 @@ URLs:
 Commentary: |-
     <i>nuclear333:</i>
     A bunch of unrelated songs I've made over the past half a year. Thanks for supporting me!
+Cover Artists:
+- nuclear333
 ---
 Track: A Little Birdy Told Me
 Duration: 0:58
@@ -42,18 +43,21 @@ URLs:
 - https://nuclear333.bandcamp.com/track/phantasmic-foe
 ---
 Track: Green Mansion [Original]
-Track Art: bobthetacocat
 Duration: 0:25
 URLs:
 - https://nuclear333.bandcamp.com/track/green-mansion-original
+Cover Artists:
+- bobthetacocat
 ---
 Track: Green Mansion [Difarem Arrangement]
 Artist: Difarem
-Track Art: bobthetacocat
 Duration: '2:15'
-References: Green Mansion [Original]
+References:
+- Green Mansion [Original]
 URLs:
 - https://nuclear333.bandcamp.com/track/green-mansion-difarem-arrangement
+Cover Artists:
+- bobthetacocat
 ---
 Track: Where's This?
 Duration: '1:58'
@@ -78,7 +82,8 @@ URLs:
 - https://nuclear333.bandcamp.com/track/stacked-cans
 ---
 Track: Static Shockdown
-Contributors: Pipko Fanfare (guitar)
+Contributors:
+- Pipko Fanfare (guitar)
 Duration: '1:25'
 URLs:
 - https://nuclear333.bandcamp.com/track/static-shockdown
@@ -93,12 +98,12 @@ URLs:
 ---
 Track: Stacked Cans (No DVS Sax Version)
 Duration: '1:09'
-References: Stacked Cans
+References:
+- Stacked Cans
 URLs:
 - https://nuclear333.bandcamp.com/track/stacked-cans-no-dvs-sax-version
 ---
 Track: Main Theme - INHOSPITABLE
-Track Art: nuclear333
 Duration: 0:59
 Commentary: |-
     <i>nuclear333:</i>
@@ -110,6 +115,8 @@ Commentary: |-
     Editor's note: The name is inaccurate.
 URLs:
 - https://nuclear333.bandcamp.com/track/main-theme-inhospitable
+Cover Artists:
+- nuclear333
 ---
 Track: Sponsored Walk Home
 Duration: 0:57
@@ -137,7 +144,9 @@ URLs:
 - https://nuclear333.bandcamp.com/track/a-noble-anthem-one-instrument
 ---
 Track: Red Trail plus Green Mansion
-References: Red Trail, Green Mansion [Original]
+References:
+- Red Trail
+- Green Mansion [Original]
 Duration: 0:26
 URLs:
 - https://nuclear333.bandcamp.com/track/red-trail-plus-green-mansion
@@ -146,10 +155,11 @@ Commentary: |-
     An old version of Red Trail layered over an older version of Green Mansion.
 ---
 Track: Troubled Seas
-Track Art: nuclear333
 Duration: 0:29
 URLs:
 - https://nuclear333.bandcamp.com/track/troubled-seas
+Cover Artists:
+- nuclear333
 ---
 Track: We Have a Problem
 Duration: '1:29'

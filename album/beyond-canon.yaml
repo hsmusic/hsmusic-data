@@ -2,9 +2,9 @@ Album: Beyond Canon
 Date: April 13, 2020
 Date Added: April 13, 2020
 Track Art Date: June 1, 2020
-Cover Art: Xamag
 Color: '#f2a400'
-Groups: Official
+Groups:
+- Official
 Art Tags:
 - Dirk
 URLs:
@@ -28,10 +28,11 @@ Commentary: |-
     <img src="media/misc/beyond-canon-bonus1.jpg" width="536" height="309">
     <img src="media/misc/beyond-canon-bonus2.jpg" width="405" height="373">
     <img src="media/misc/beyond-canon-bonus3.jpg" width="1400" height="1400">
+Cover Artists:
+- Xamag
 ---
 Track: exclusion zone
 Artist: horizon
-Track Art: ZowerLemon
 Duration: '2:22'
 Art Tags:
 - Rose
@@ -57,10 +58,11 @@ Commentary: |-
     <img src="media/misc/exclusion-zone-wip2.jpg" width="387" height="342">
     <img src="media/misc/exclusion-zone-wip3.jpg" width="346" height="346">
     <img src="media/misc/exclusion-zone-wip4.jpg" width="328" height="328">
+Cover Artists:
+- ZowerLemon
 ---
 Track: Now I'm a Villain
 Artist: David Ellis
-Track Art: Jas
 Duration: '4:40'
 Art Tags:
 - Dirk
@@ -75,10 +77,11 @@ Commentary: |-
     It was fun to play lots of nice low 7 string guitar chugs and to try and make it sound as villainous as possible. :)
     <i>Jas:</i>
     <img src="media/misc/now-im-a-villain-wip.jpg" width="981" height="939">
+Cover Artists:
+- Jas
 ---
 Track: Cosmic Carousel
 Artist: polysaw
-Track Art: Rachel Z
 Duration: '3:29'
 Art Tags:
 - Jade
@@ -95,12 +98,14 @@ Commentary: |-
     <img src="media/misc/cosmic-carousel-wip1.jpg" width="437" height="481">
     <img src="media/misc/cosmic-carousel-wip2.jpg" width="460" height="464">
     <img src="media/misc/cosmic-carousel-wip3.jpg" width="482" height="482">
+Cover Artists:
+- Rachel Z
 ---
 Track: Surprise, We're Back
 Artist: Sean Gorter
-Track Art: D'paq
 Duration: '5:21'
-References: End of Act
+References:
+- End of Act
 Art Tags:
 - John
 - Rose
@@ -133,15 +138,17 @@ Commentary: |-
     <img src="media/misc/surprise-were-back-wip1.jpg" width="669" height="319">
     <img src="media/misc/surprise-were-back-wip2.jpg" width="640" height="300">
     <img src="media/misc/surprise-were-back-wip3.jpg" width="605" height="606">
+Cover Artists:
+- D'paq
 ---
 Track: SPLIT REALITY
 Artist: Xauric
-Track Art: Gastlu
 Duration: '5:06'
 URLs:
 - https://homestuck.bandcamp.com/track/split-reality
 - https://youtu.be/XzZ7PNmcHiU
-References: Alphamatic Replacement
+References:
+- Alphamatic Replacement
 Commentary: |-
     <i>Xauric:</i>
     (<a href="https://twitter.com/Xauric/status/1249774701691301894">Twitter</a>)
@@ -157,10 +164,11 @@ Commentary: |-
     <i>Gastlu:</i>
     Originally I had drawn events throughout the timelines, though in my opinion, it looked a bit too much to focus on, so I scrapped that version, and, unfortunately I did not save that version, oops. Either way, I hope my abstract-y space-y art did the job, made a blackhole to represent, well, the blackhole which Alt. Callie turned into, added some green and orange effects for the narrative command battle going, though there's already a track for that, so it is minor, in the background, the real focus are the timelines, meat drips with death, candy is sweet and bright, though they both have some masks for what's really going on, we cannot see though, the reality is split and we're in SPACE.
     <img src="media/misc/split-reality-wip.jpg" width="664" height="664">
+Cover Artists:
+- Gastlu
 ---
 Track: Assembly
 Artist: Erik Scheele
-Track Art: ysh
 Duration: '4:37'
 Art Tags:
 - Rose
@@ -175,10 +183,11 @@ Commentary: |-
     <img src="media/misc/assembly-wip1.jpg" width="329" height="469">
     <img src="media/misc/assembly-wip2.jpg" width="494" height="467">
     <img src="media/misc/assembly-wip3.jpg" width="490" height="471">
+Cover Artists:
+- ysh
 ---
 Track: Not Canon in F major, Op. 69
 Artist: Alex Votl
-Track Art: Spicy Nyx
 Duration: '3:40'
 Art Tags:
 - Rose
@@ -192,11 +201,14 @@ Commentary: |-
     When I listen to the song it makes me think of how much Homestuck has strayed into non-canon and I wanted to draw what's pretty much become the 3 most influential characters of homestuck, looking out at whats to come next has they go further and further out of the canon story.
     <img src="media/misc/not-canon-in-f-major-op-69-wip1.jpg" width="667" height="631">
     <img src="media/misc/not-canon-in-f-major-op-69-wip2.jpg" width="664" height="666">
+Cover Artists:
+- Spicy Nyx
 ---
 Track: The Leaving
 Artist: Marcus Carline
-Track Art: RainbowLustDash
-Contributors: Marc Encabo (bass), Tom Kendall Hughes (drums)
+Contributors:
+- Marc Encabo (bass)
+- Tom Kendall Hughes (drums)
 Duration: '3:33'
 Art Tags:
 - Rose
@@ -223,10 +235,11 @@ Commentary: |-
     <img src="media/misc/the-leaving-wip1.jpg" width="504" height="476">
     <img src="media/misc/the-leaving-wip2.jpg" width="504" height="448">
     <img src="media/misc/the-leaving-wip3.jpg" width="481" height="481">
+Cover Artists:
+- RainbowLustDash
 ---
 Track: Light Burns Out (Gestalt)
 Artist: Waif
-Track Art: Mikkynga
 Duration: '7:16'
 Art Tags:
 - Rose
@@ -251,10 +264,11 @@ Commentary: |-
     <img src="media/misc/light-burns-out-gestalt-wip2.jpg" width="433" height="410">
     <img src="media/misc/light-burns-out-gestalt-wip3.jpg" width="484" height="477">
     <img src="media/misc/light-burns-out-gestalt-wip4.jpg" width="424" height="423">
+Cover Artists:
+- Mikkynga
 ---
 Track: Hometeam Adv8ntage
 Artist: Twirlin' Curtis
-Track Art: Tipsy
 Duration: '3:58'
 Art Tags:
 - Harry
@@ -275,10 +289,11 @@ Commentary: |-
     I was itching to draw something relating to the future kids! My style is very rigid so I wanted to draw something looser this time. This worked best with Vriska. Proud of the grass. The sky is based off of a sunset from Adventure Time. I can't draw cars.  Tavros is cutting loose and unleashing the rebel within.
     <img src="media/misc/hometeam-adv8ntage-wip1.jpg" width="670" height="670">
     <img src="media/misc/hometeam-adv8ntage-wip2.jpg" width="658" height="658">
+Cover Artists:
+- Tipsy
 ---
 Track: After the Sun
 Artist: Circlejourney
-Track Art: zzzealousy
 Duration: '4:13'
 Art Tags:
 - John
@@ -306,10 +321,11 @@ Commentary: |-
     <img src="media/misc/after-the-sun-wip3.jpg" width="313" height="273">
     <img src="media/misc/after-the-sun-wip4.jpg" width="331" height="328">
     <img src="media/misc/after-the-sun-wip5.jpg" width="275" height="303">
+Cover Artists:
+- zzzealousy
 ---
 Track: Narrative Command
 Artist: Sean William Calhoun
-Track Art: Ana
 Duration: '4:13'
 Art Tags:
 - Jade
@@ -334,10 +350,11 @@ Commentary: |-
     <img src="media/misc/narrative-command-wip1.jpg" width="872" height="503">
     <img src="media/misc/narrative-command-wip2.jpg" width="449" height="450">
     <img src="media/misc/narrative-command-wip3.jpg" width="464" height="458">
+Cover Artists:
+- Ana
 ---
 Track: eleventh hour
 Artist: Monobrow
-Track Art: Skyplayer
 Duration: '2:46'
 URLs:
 - https://homestuck.bandcamp.com/track/eleventh-hour
@@ -349,10 +366,11 @@ Commentary: |-
     <img src="media/misc/eleventh-hour-wip2.jpg" width="378" height="378">
     <img src="media/misc/eleventh-hour-wip3.jpg" width="346" height="346">
     <img src="media/misc/eleventh-hour-wip4.jpg" width="300" height="300">
+Cover Artists:
+- Skyplayer
 ---
 Track: Adios, Lost Boys
 Artist: Clark Powell
-Track Art: qsleeper
 Duration: '3:30'
 Art Tags:
 - Tavros
@@ -365,10 +383,11 @@ Commentary: |-
     I was pretty happy when I found out that I'd be drawing a piece for this song, since I've always had a soft spot for Tavros—he's an underappreciated boy! In the end, I didn't really do many different concept sketches for this one. I knew that I wanted a scene of Tavros, in his Peter Pan outfit, staring out as the friends and army they'd worked so hard to gather get eaten by the black hole. The ghosts are just as much the ‘Lost Boys' here as Tav is himself. I was going for a ‘wistful, but resigned' sort of feeling for this, since all Tav can really do now is watch. He knows he's unable to stop everyone from being destroyed—or, as we know now, getting pulled into the new HS^2 universe. So basically, he's just chillin'.
     <img src="media/misc/adios-lost-boys-wip1.jpg" width="570" height="570">
     <img src="media/misc/adios-lost-boys-wip2.jpg" width="570" height="570">
+Cover Artists:
+- qsleeper
 ---
 Track: Moving Onwards
 Artist: Mathias Ramalho
-Track Art: Cratmang
 Duration: '3:15'
 Art Tags:
 - John
@@ -386,10 +405,11 @@ Commentary: |-
     <img src="media/misc/moving-onwards-wip2.jpg" width="377" height="377">
     <img src="media/misc/moving-onwards-wip3.jpg" width="349" height="349">
     <img src="media/misc/moving-onwards-wip4.jpg" width="380" height="380">
+Cover Artists:
+- Cratmang
 ---
 Track: Make a Pretty Picture
 Artist: Tristan Scroggins
-Track Art: Aeritus
 Duration: '2:29'
 Art Tags:
 - Jane
@@ -406,12 +426,14 @@ Commentary: |-
     <img src="media/misc/make-a-pretty-picture-wip3.jpg" width="407" height="398">
     <img src="media/misc/make-a-pretty-picture-wip4.jpg" width="417" height="417">
     <img src="media/misc/make-a-pretty-picture-wip5.jpg" width="404" height="397">
+Cover Artists:
+- Aeritus
 ---
 Track: Four Kids (and a Game They Played Together)
 Artist: Robert J! Lake
-Track Art: star-nomad
 Duration: '4:13'
-References: Four Kids and a Game They Play Together
+References:
+- Four Kids and a Game They Play Together
 Art Tags:
 - John
 - Rose
@@ -465,10 +487,11 @@ Commentary: |-
     <img src="media/misc/four-kids-and-a-game-they-played-together-wip1.jpg" width="448" height="448">
     <img src="media/misc/four-kids-and-a-game-they-played-together-wip2.jpg" width="441" height="441">
     <img src="media/misc/four-kids-and-a-game-they-played-together-wip3.jpg" width="441" height="441">
+Cover Artists:
+- star-nomad
 ---
 Track: crystal hung in firmament's descent
 Artist: Emelia K.
-Track Art: Awkward
 Duration: '3:11'
 Art Tags:
 - Jade
@@ -488,3 +511,5 @@ Commentary: |-
     <img src="media/misc/crystal-hung-in-firmaments-descent-wip.jpg" width="570" height="570">
     <i>Ucklin:</i>
     I just have to jump in and point out that the overall composition of this piece looks like a cherub skull, because awkward didn't mention it! This is the coolest thing!
+Cover Artists:
+- Awkward

@@ -1,12 +1,15 @@
 Album: Homestuck Vol. 3
 Date: December 15, 2009
 Date Added: December 12, 2020
-Cover Art: Homestuck
-Track Art: Homestuck
 Color: '#ef001d'
-Groups: Official
+Groups:
+- Official
 URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFa87NHq4JwUlXbxWWaAqYgN
+Cover Artists:
+- Homestuck
+Default Track Cover Artists:
+- Homestuck
 ---
 Track: Beatdown (Strider Style)
 Artist: Curt Blakeslee
@@ -112,7 +115,8 @@ URLs:
 ---
 Track: Pony Chorale
 Artist: Michael Guy Bowman
-Contributors: Tavia Morra (vocals)
+Contributors:
+- Tavia Morra (vocals)
 Duration: '1:03'
 References:
 - track:chorale-for-jaspers

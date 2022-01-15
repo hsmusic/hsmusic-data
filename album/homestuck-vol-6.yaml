@@ -1,15 +1,15 @@
 Album: 'Homestuck Vol. 6: Heir Transparent'
-Cover Art: Andrew Hussie
-Wallpaper Art: Andrew Hussie
-Banner Art: Andrew Hussie, Niklink (edits for wiki)
+Banner Art:
+- Andrew Hussie
+- Niklink (edits for wiki)
 Banner Dimensions: 1100x216
 Wallpaper Style: 'opacity: 0.4;'
-Track Art: Homestuck
 Directory: homestuck-vol-6
 Date: January 5 2011
 Date Added: November 15, 2019
 Color: '#6699ff'
-Groups: Official
+Groups:
+- Official
 Art Tags:
 - John
 - Jade
@@ -17,11 +17,18 @@ URLs:
 - https://homestuck.bandcamp.com/album/homestuck-vol-5-6-with-the-felt
 - https://www.youtube.com/watch?v=jrNz5d97JIA
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFYpSor-2EQjZx8pG-RNSbp_
+Cover Artists:
+- Andrew Hussie
+Default Track Cover Artists:
+- Homestuck
+Wallpaper Artists:
+- Andrew Hussie
 ---
 Track: Frost
 Artist: Solatrus
 Duration: '5:05'
-References: Flow
+References:
+- Flow
 Directory: frost-vol6
 URLs:
 - https://homestuck.bandcamp.com/track/frost-3
@@ -77,7 +84,8 @@ URLs:
 Track: GameBro (Original 1990 Mix)
 Artist: Erik Scheele
 Duration: '3:24'
-References: Say "I Gotta Believe!"
+References:
+- Say "I Gotta Believe!"
 URLs:
 - https://homestuck.bandcamp.com/track/gamebro-original-1990-mix-2
 - https://youtu.be/k_-LPPdHEyA
@@ -140,7 +148,8 @@ Lyrics: |-
 ---
 Track: MeGaLoVania
 Artist: Toby Fox
-Contributors: Tensei (guitar)
+Contributors:
+- Tensei (guitar)
 Duration: '2:47'
 References:
 - track:megalovania-halloween
@@ -165,7 +174,8 @@ Commentary: |-
 Track: Gaia Queen
 Artist: Toby Fox
 Duration: '3:06'
-References: Showdown
+References:
+- Showdown
 URLs:
 - https://homestuck.bandcamp.com/track/gaia-queen-2
 - https://youtu.be/MU0eoyziRrU
@@ -178,7 +188,8 @@ Lyrics: |-
 Track: Elevatorstuck
 Artist: Tensei
 Duration: '2:09'
-References: Homestuck Anthem
+References:
+- Homestuck Anthem
 URLs:
 - https://homestuck.bandcamp.com/track/elevatorstuck-2
 - https://youtu.be/9namZe_rorQ
@@ -231,8 +242,10 @@ Commentary: |-
 Track: Blackest Heart
 Artist: Mark Hadley
 Duration: '2:32'
-References: Liquid Negrocity
-Art Tags: 'cw: blood'
+References:
+- Liquid Negrocity
+Art Tags:
+- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/blackest-heart-2
 - https://youtu.be/t12NlwsrlAQ
@@ -309,7 +322,8 @@ URLs:
 Track: Crystalanthology
 Artist: Solatrus
 Duration: '4:44'
-References: Crystalanthemums
+References:
+- Crystalanthemums
 URLs:
 - https://homestuck.bandcamp.com/track/crystalanthology-2
 - https://youtu.be/3wsZuqG5IY0

@@ -1,8 +1,7 @@
 Album: Oceanfalls Vol. 1
 Artist: nights
-Cover Art: nights
-Track Art: nights
-Banner Art: nights
+Banner Art:
+- nights
 Banner Dimensions: 975x180
 Banner Style: |-
     image-rendering: pixelated;
@@ -15,6 +14,10 @@ Groups:
 - Beyond
 URLs:
 - https://nightslights.bandcamp.com/album/oceanfalls-vol-1
+Cover Artists:
+- nights
+Default Track Cover Artists:
+- nights
 ---
 Group: Main album
 ---
@@ -76,7 +79,8 @@ URLs:
 ---
 Track: Right Hand
 Duration: '1:39'
-Art Tags: 'cw: blood'
+Art Tags:
+- 'cw: blood'
 URLs:
 - https://nightslights.bandcamp.com/track/right-hand
 ---

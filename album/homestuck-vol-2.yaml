@@ -1,16 +1,20 @@
 Album: Homestuck Vol. 2
 Date: December 14, 2009
 Date Added: December 12, 2020
-Cover Art: Homestuck
-Track Art: Homestuck
 Color: '#cb87f6'
-Groups: Official
+Groups:
+- Official
 URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFY9SqSslc74Bj2yHCKkJh41
+Cover Artists:
+- Homestuck
+Default Track Cover Artists:
+- Homestuck
 ---
 Track: Harlequin (Rock Version)
 Artist: Michael Guy Bowman, Joseph Aylsworth
-Contributors: Joseph Aylsworth (guitar)
+Contributors:
+- Joseph Aylsworth (guitar)
 Duration: '2:48'
 References:
 - track:harlequin
@@ -44,7 +48,8 @@ URLs:
 ---
 Track: Explore
 Artist: Buzinkai, Michael Guy Bowman
-Contributors: Michael Guy Bowman (arrangement)
+Contributors:
+- Michael Guy Bowman (arrangement)
 Duration: '2:28'
 URLs:
 - https://homestuck.bandcamp.com/track/explore-3

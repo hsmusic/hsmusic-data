@@ -1,12 +1,15 @@
 Album: Homestuck Vol. 1
 Date: August 9, 2009
 Date Added: December 12, 2020
-Cover Art: Homestuck
-Track Art: Homestuck
 Color: '#38f43d'
-Groups: Official
+Groups:
+- Official
 URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFZd_GGnccF59ke-y_k-aK4N
+Cover Artists:
+- Homestuck
+Default Track Cover Artists:
+- Homestuck
 ---
 Group: Main album
 ---
@@ -59,7 +62,8 @@ URLs:
 ---
 Track: Aggrieve (Violin Refrain)
 Artist: Andrew Huo
-Contributors: Gabe Nezovic (mastering)
+Contributors:
+- Gabe Nezovic (mastering)
 Duration: '1:34'
 References:
 - track:aggrieve

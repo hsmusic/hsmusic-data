@@ -2,7 +2,6 @@ Album: Strife 2
 Artist: Tensei
 Date: March 13, 2017
 Date Added: May 25, 2020
-Cover Art: Marimo
 Has Track Art: false
 Color: '#a347c5'
 Groups:
@@ -11,6 +10,8 @@ Groups:
 URLs:
 - https://tenseimusic.bandcamp.com/album/strife-2
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFbuRKweQO1tS0fWjbYmEFpI
+Cover Artists:
+- Marimo
 ---
 Group: Main album
 ---
@@ -27,32 +28,37 @@ URLs:
 - https://youtu.be/6Vcp1k7NCFM
 ---
 Track: G4M3 OR D13
-Track Art: nights
 Duration: '3:57'
 URLs:
 - https://tenseimusic.bandcamp.com/track/g4m3-or-d13
 - https://youtu.be/VFDtdGYfYzQ
+Cover Artists:
+- nights
 ---
 Track: Rouge on the Rox
 Duration: '2:48'
-References: JoJo ~Sono Chi no Sadame~
+References:
+- JoJo ~Sono Chi no Sadame~
 URLs:
 - https://tenseimusic.bandcamp.com/track/rouge-on-the-rox
 - https://youtu.be/3hepsdc1xPc
 ---
 Track: Perfect Cascade of the Heart
 Duration: '2:55'
-References: Cascade (Beta), Time on My Side
+References:
+- Cascade (Beta)
+- Time on My Side
 URLs:
 - https://tenseimusic.bandcamp.com/track/perfect-cascade-of-the-heart
 - https://youtu.be/8_iVaqCiRFE
 ---
 Track: Hope Strikes Eternal
 Duration: '3:14'
-Track Art: nights
 URLs:
 - https://tenseimusic.bandcamp.com/track/hope-strikes-eternal
 - https://youtu.be/8nhgZbzaFw8
+Cover Artists:
+- nights
 ---
 Track: Aerosoul
 Duration: '2:33'
@@ -61,16 +67,16 @@ URLs:
 - https://youtu.be/EQfJqxsQ_P8
 ---
 Track: Arachnofunkia
-Track Art: nights
 Duration: '3:21'
 References:
 - Arachnofunkia (Beta)
 URLs:
 - https://tenseimusic.bandcamp.com/track/arachnofunkia
 - https://youtu.be/vIu5V4tuFuA
+Cover Artists:
+- nights
 ---
 Track: The King in Red
-Track Art: nights
 Duration: '3:49'
 References:
 - The King in Red (Beta)
@@ -80,6 +86,8 @@ Art Tags:
 URLs:
 - https://tenseimusic.bandcamp.com/track/the-king-in-red
 - https://youtu.be/2_uFQGP7s9k
+Cover Artists:
+- nights
 ---
 Track: Heel Girl
 Duration: '4:00'
@@ -101,7 +109,8 @@ URLs:
 ---
 Track: Spirit of Storms (Reprise)
 Duration: '1:23'
-References: Spirit of Storms
+References:
+- Spirit of Storms
 URLs:
 - https://tenseimusic.bandcamp.com/track/spirit-of-storms-reprise
 - https://youtu.be/psmbW5obOrQ

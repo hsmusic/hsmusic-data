@@ -1,7 +1,5 @@
 Album: entertaining sound
 Artist: jan Misali
-Cover Art: jan Misali
-Track Art: jan Misali
 Date: December 14, 2017
 Date Added: May 12, 2021
 Color: '#00a38a'
@@ -13,6 +11,10 @@ URLs:
 Commentary: |-
     <i>jan Misali:</i>
     the official Conlang Critic soundtrack
+Cover Artists:
+- jan Misali
+Default Track Cover Artists:
+- jan Misali
 ---
 Track: Secretsh
 Duration: '1:27'
@@ -278,7 +280,8 @@ Commentary: |-
 ---
 Track: A Song About a Circle Constant
 Duration: '2:40'
-References: track:a-song-about-a-circle-constant-vi-hart
+References:
+- track:a-song-about-a-circle-constant-vi-hart
 URLs:
 - https://conlangcritic.bandcamp.com/track/a-song-about-a-circle-constant
 - https://www.youtube.com/watch?v=YpIY61QW56M
@@ -288,7 +291,8 @@ Commentary: |-
 ---
 Track: Malblanka Rozo Verda Stelo
 Duration: 0:35
-References: Black Rose / Green Sun
+References:
+- Black Rose / Green Sun
 URLs:
 - https://conlangcritic.bandcamp.com/track/malblanka-rozo-verda-stelo
 - https://www.youtube.com/watch?v=L98DwKAd3qE

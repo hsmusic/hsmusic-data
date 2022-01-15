@@ -1,12 +1,15 @@
 Album: Homestuck Vol. 4
 Date: April 13, 2010
 Date Added: December 12, 2020
-Cover Art: Homestuck
-Track Art: Homestuck
 Color: '#51a2fd'
-Groups: Official
+Groups:
+- Official
 URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFYqUMFZtgAHdOcd0txDWSnj
+Cover Artists:
+- Homestuck
+Default Track Cover Artists:
+- Homestuck
 ---
 Track: Revelawesome
 Artist: Malcolm Brown
@@ -99,7 +102,9 @@ URLs:
 ---
 Track: Doctor
 Artist: Buzinkai
-Contributors: Clark Powell (production), Michael Vallejo (production)
+Contributors:
+- Clark Powell (production)
+- Michael Vallejo (production)
 Duration: '2:37'
 References:
 - track:doctor-original-loop
@@ -133,7 +138,8 @@ URLs:
 Track: Black
 Artist: Toby Fox
 Duration: '2:24'
-Art Tags: 'cw: blood'
+Art Tags:
+- 'cw: blood'
 References:
 - track:liquid-negrocity
 Samples:

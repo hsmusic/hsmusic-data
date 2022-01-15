@@ -1,11 +1,11 @@
 Album: Sburb
 Artist: James Dever, Erik Scheele
-Cover Art: Vivian Ng
 Has Track Art: false
 Date: July 13, 2011
 Date Added: November 15, 2019
 Color: '#34cdff'
-Groups: Official
+Groups:
+- Official
 Art Tags:
 - John
 - Rose
@@ -37,10 +37,13 @@ Commentary: |-
     Originally written for Homestuck in 2011, Sburb is the first major composition I ever wrote. The pieces were written when I was seventeen, over my junior and senior years of high school and performed and recorded the following summer. The album released about a month before I set off to college and the whole experience was phenomenal.
     While I have long lost track with MSPA, I still am good friends with my fellow musicians from the Homestuck Music team including Erik "Jit" Steele, who performed on these recordings.
     Looking back on it now, I love how obvious my early inspirations are but I do love the work I was able to create during one of the most tumultuous times in my life. Thanks for listening.
+Cover Artists:
+- Vivian Ng
 ---
 Track: The Prelude
 Duration: '1:43'
-References: Homestuck Anthem
+References:
+- Homestuck Anthem
 URLs:
 - https://jamesdever.bandcamp.com/track/prelude
 - https://youtu.be/7k8zCRNxa7k
@@ -123,7 +126,8 @@ Commentary: |-
 ---
 Track: Chronicles
 Duration: '1:42'
-References: Candles and Clockwork
+References:
+- Candles and Clockwork
 URLs:
 - https://jamesdever.bandcamp.com/track/chronicles
 - https://youtu.be/TOtz3MTSeKg
@@ -149,7 +153,8 @@ Commentary: |-
 ---
 Track: Creation
 Duration: '4:02'
-References: Homestuck Anthem
+References:
+- Homestuck Anthem
 URLs:
 - https://jamesdever.bandcamp.com/track/creation
 - https://youtu.be/XorynbzZQpI
@@ -165,7 +170,8 @@ Commentary: |-
 ---
 Track: Revelations I
 Duration: '1:07'
-References: Homestuck Anthem
+References:
+- Homestuck Anthem
 URLs:
 - https://jamesdever.bandcamp.com/track/revelations-i
 - https://youtu.be/YoIYaFyll5Q

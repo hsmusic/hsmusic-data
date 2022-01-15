@@ -1,11 +1,10 @@
 Album: Hiveswap Act 2 OST
-Cover Art: Mallory Dyer, nuclear333 (edits for wiki)
 Has Track Art: false
-Wallpaper Art: Homestuck
 Date: November 26, 2020
 Date Added: December 12, 2020
 Color: '#f8f0cb'
-Groups: Official
+Groups:
+- Official
 Art Tags:
 - Joey
 - Xefros
@@ -32,6 +31,11 @@ Commentary: |-
     i wrote some songs for this! if you check it out you might hear why my youtube algorithm recommends me nothing but ace attorney soundtracks now
     <i>Quasar Nebula:</i>
     thanks to [[artist:nuclear333]] for helping out with track metadata and creating a remix of the official cover art which better matches the [[album:hiveswap-act-1-ost]] cover!
+Cover Artists:
+- Mallory Dyer
+- nuclear333 (edits for wiki)
+Wallpaper Artists:
+- Homestuck
 ---
 Group: Main album
 ---
@@ -73,7 +77,8 @@ URLs:
 Track: Raw Honey
 Artist: James Roach, Toby Fox
 Duration: '2:45'
-References: Homestead
+References:
+- Homestead
 URLs:
 - https://homestuck.bandcamp.com/track/raw-honey
 - https://youtu.be/xAwi2PS382s
@@ -90,7 +95,8 @@ Track: Shell Game
 AKA: SERVICE CAR
 Artist: James Roach
 Duration: '4:05'
-References: track:ticket-to-ride-rusty
+References:
+- track:ticket-to-ride-rusty
 URLs:
 - https://homestuck.bandcamp.com/track/shell-game
 - https://youtu.be/2NolhxSH9I8
@@ -105,7 +111,8 @@ URLs:
 Track: 'Ticket to Ride: Quadrant Confusion'
 Artist: Toby Fox
 Duration: '1:45'
-References: track:ticket-to-ride-rusty
+References:
+- track:ticket-to-ride-rusty
 URLs:
 - https://homestuck.bandcamp.com/track/ticket-to-ride-quadrant-confusion
 - https://youtu.be/12X31slGqKw
@@ -120,7 +127,8 @@ URLs:
 Track: 'Ticket to Ride: Trial Variation'
 Artist: Toby Fox
 Duration: '1:50'
-References: track:ticket-to-ride-rusty
+References:
+- track:ticket-to-ride-rusty
 URLs:
 - https://homestuck.bandcamp.com/track/ticket-to-ride-trial-variation
 - https://youtu.be/_4GmT28X5bc
@@ -128,7 +136,8 @@ URLs:
 Track: Court Begins
 Artist: Clark Powell
 Duration: '4:02'
-References: Cross Examination
+References:
+- Cross Examination
 URLs:
 - https://homestuck.bandcamp.com/track/court-begins
 - https://youtu.be/UH5dFHEJ628
@@ -149,7 +158,8 @@ URLs:
 Track: Cornered
 Artist: Clark Powell
 Duration: '3:26'
-References: Cross Examination
+References:
+- Cross Examination
 URLs:
 - https://homestuck.bandcamp.com/track/cornered
 - https://youtu.be/ooIEh1O4d64
@@ -157,7 +167,8 @@ URLs:
 Track: 'Ticket to Ride: The Other Half'
 Artist: James Roach, Toby Fox
 Duration: '4:35'
-References: track:ticket-to-ride-rusty
+References:
+- track:ticket-to-ride-rusty
 URLs:
 - https://homestuck.bandcamp.com/track/ticket-to-ride-the-other-half
 - https://youtu.be/64GAMIdWxmY
@@ -165,7 +176,9 @@ URLs:
 Track: 'Ticket to Ride: Down with the Clown'
 Artist: James Roach
 Duration: '2:50'
-References: track:ticket-to-ride-rusty, Cross Examination
+References:
+- track:ticket-to-ride-rusty
+- Cross Examination
 URLs:
 - https://homestuck.bandcamp.com/track/ticket-to-ride-down-with-the-clown
 - https://youtu.be/cYebmejzENc
@@ -173,7 +186,9 @@ URLs:
 Track: Conductor's Cabin
 Artist: James Roach, Toby Fox
 Duration: '3:37'
-References: track:ticket-to-ride-rusty, Rustblood
+References:
+- track:ticket-to-ride-rusty
+- Rustblood
 URLs:
 - https://homestuck.bandcamp.com/track/conductor-s-cabin
 - https://youtu.be/t24E34ShFe0
@@ -209,7 +224,8 @@ URLs:
 Track: The Perfect Cast
 Duration: '1:33'
 Artist: James Roach, Toby Fox
-References: Studio Space
+References:
+- Studio Space
 URLs:
 - https://homestuck.bandcamp.com/track/the-perfect-cast
 - https://youtu.be/GMxAjZB1A_g
@@ -217,7 +233,8 @@ URLs:
 Track: 'Dark Carnival: Rusty'
 Duration: '4:00'
 Artist: James Roach
-References: track:ticket-to-ride-rusty
+References:
+- track:ticket-to-ride-rusty
 URLs:
 - https://homestuck.bandcamp.com/track/dark-carnival-rusty
 - https://youtu.be/xoSPIJC-zt4
@@ -225,7 +242,8 @@ URLs:
 Track: 'Dark Carnival: Quadrant Confusion'
 Duration: '4:06'
 Artist: James Roach
-References: track:ticket-to-ride-quadrant-confusion
+References:
+- track:ticket-to-ride-quadrant-confusion
 URLs:
 - https://homestuck.bandcamp.com/track/dark-carnival-quadrant-confusion
 - https://youtu.be/Be1iIwXP4EY
@@ -233,7 +251,8 @@ URLs:
 Track: 'Dark Carnival: Trial Variation'
 Duration: '2:27'
 Artist: James Roach
-References: track:ticket-to-ride-trial-variation
+References:
+- track:ticket-to-ride-trial-variation
 URLs:
 - https://homestuck.bandcamp.com/track/dark-carnival-trial-variation
 - https://youtu.be/qxRN8p6_lWc
@@ -241,7 +260,8 @@ URLs:
 Track: 'Dark Carnival: The Other Half'
 Duration: '2:00'
 Artist: James Roach
-References: track:ticket-to-ride-the-other-half
+References:
+- track:ticket-to-ride-the-other-half
 URLs:
 - https://homestuck.bandcamp.com/track/dark-carnival-the-other-half
 - https://youtu.be/HL-l-a6_vG0
@@ -249,7 +269,10 @@ URLs:
 Track: DRONE
 Duration: '1:20'
 Artist: James Roach
-References: track:drone-pq, Intermission 1, Rustblood
+References:
+- track:drone-pq
+- Intermission 1
+- Rustblood
 URLs:
 - https://homestuck.bandcamp.com/track/drone
 - https://youtu.be/AGgey4ok3pc

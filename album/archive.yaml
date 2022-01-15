@@ -1,7 +1,5 @@
 Album: Archive
 Artist: Michael Guy Bowman
-Cover Art: Hadron
-Wallpaper Art: Hadron
 Wallpaper Style: 'background-position: top center;'
 Has Track Art: false
 Date: July 19, 2016
@@ -16,6 +14,10 @@ URLs:
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     Commissions, novelty tracks, experiments in electronica from 2012-2016. Download features 10 bonus tracks.
+Cover Artists:
+- Hadron
+Wallpaper Artists:
+- Hadron
 ---
 Group: Main album
 ---
@@ -507,7 +509,8 @@ Commentary: |-
 ---
 Track: Awake (2013 Version)
 Duration: '3:28'
-References: Awake (2012 Version)
+References:
+- Awake (2012 Version)
 URLs:
 - https://bowman.bandcamp.com/track/awake-2013-version
 - https://www.youtube.com/watch?v=FmKaslOTrXs
@@ -547,7 +550,8 @@ Group: Bonus tracks
 ---
 Track: Aba Daba Honeymoon
 Directory: aba-daba-honeymoon-archive
-References: track:aba-daba-honeymoon
+References:
+- track:aba-daba-honeymoon
 Duration: '1:27'
 Has URLs: false
 Lyrics: |-
@@ -654,7 +658,8 @@ Lyrics: |-
     (Mwah!)
 ---
 Track: Ismelda The Bearded Mermaid
-Contributors: Erik Scheele (piano)
+Contributors:
+- Erik Scheele (piano)
 Duration: 0:52
 Has URLs: false
 Lyrics: |-
@@ -664,7 +669,8 @@ Lyrics: |-
     (Yes!)
 ---
 Track: Emery's Theme (Fast Version)
-References: Emery's Theme
+References:
+- Emery's Theme
 Duration: 0:57
 Has URLs: false
 ---
@@ -728,7 +734,8 @@ Lyrics: |-
 ---
 Track: Old Buggy Now (Solatrus remix)
 Artist: Solatrus
-References: Old Buggy Now
+References:
+- Old Buggy Now
 Duration: '4:04'
 Has URLs: false
 Lyrics: |-
@@ -774,7 +781,8 @@ Lyrics: |-
 ---
 Track: Ithaca (hrmnzr remix)
 Artist: Jamie Paige Stanley
-References: Ithaca
+References:
+- Ithaca
 Duration: '4:14'
 Has URLs: false
 Lyrics: |-

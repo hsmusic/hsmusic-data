@@ -1,12 +1,11 @@
 Album: Hiveswap Act 1 OST
 Artist: James Roach, Toby Fox
-Cover Art: Mallory Dyer
-Wallpaper Art: Mallory Dyer
 Has Track Art: false
 Date: September 14, 2017 00:00:05
 Date Added: November 15, 2019
 Color: '#33cc77'
-Groups: Official
+Groups:
+- Official
 Art Tags:
 - Joey
 URLs:
@@ -16,6 +15,10 @@ URLs:
 Commentary: |-
     <i>Cohen Edenfield:</i>
     Hey, it’s Cohen. But more interestingly, it’s James and Toby, giving some commentary on the first half of the HIVESWAP: Act 1 soundtrack, available now on Bandcamp or bundled with HIVESWAP: Act 1 on Steam and Humble. We’ve got the first half of the discussion today, with the next half going up next Wednesday. Wait…did I say all this once before already? No. Impossible.
+Cover Artists:
+- Mallory Dyer
+Wallpaper Artists:
+- Mallory Dyer
 ---
 Group: Main album
 ---
@@ -69,7 +72,8 @@ Commentary: |-
 ---
 Track: Relatively Visible Darkness
 Duration: '2:02'
-References: Half-Harley Manor
+References:
+- Half-Harley Manor
 URLs:
 - https://homestuck.bandcamp.com/track/relatively-visible-darkness-2
 - https://youtu.be/7ht1khfdGzo
@@ -82,7 +86,8 @@ Commentary: |-
     We just kept telling each other to add Tuba to things. Like some sort of Will They/Won’t They Tuba standoff.
 ---
 Track: Bedroom for an Annoying Dog
-References: Half-Harley Manor
+References:
+- Half-Harley Manor
 Duration: '3:32'
 URLs:
 - https://homestuck.bandcamp.com/track/bedroom-for-an-annoying-dog-2
@@ -97,7 +102,9 @@ Commentary: |-
 ---
 Track: That's How I Beat Snake
 Duration: '2:11'
-References: SERPENT GENESIS, Half-Harley Manor
+References:
+- SERPENT GENESIS
+- Half-Harley Manor
 URLs:
 - https://homestuck.bandcamp.com/track/thats-how-i-beat-snake-2
 - https://youtu.be/xq9PkYNsTLU
@@ -125,7 +132,8 @@ Commentary: |-
 ---
 Track: Table for Tooth
 Duration: '2:15'
-References: Half-Harley Manor
+References:
+- Half-Harley Manor
 URLs:
 - https://homestuck.bandcamp.com/track/table-for-tooth-2
 - https://youtu.be/iSHxqEXZ_YU
@@ -135,7 +143,8 @@ Commentary: |-
 ---
 Track: Final Spice
 Duration: 0:54
-References: track:alternate-recipe
+References:
+- track:alternate-recipe
 URLs:
 - https://homestuck.bandcamp.com/track/final-spice-2
 - https://youtu.be/xvY_5XLVtj4
@@ -165,7 +174,8 @@ Commentary: |-
 ---
 Track: Singular Peril
 Duration: '1:22'
-References: Half-Harley Manor
+References:
+- Half-Harley Manor
 URLs:
 - https://homestuck.bandcamp.com/track/singular-peril-2
 - https://youtu.be/fQyCThoSwCA
@@ -177,7 +187,8 @@ Commentary: |-
 ---
 Track: A More Defensible Position
 Duration: 0:57
-References: Half-Harley Manor
+References:
+- Half-Harley Manor
 URLs:
 - https://homestuck.bandcamp.com/track/a-more-defensible-position-2
 - https://youtu.be/DhNOD_CRa5c
@@ -189,7 +200,8 @@ Commentary: |-
 ---
 Track: Open The Door
 Duration: '1:01'
-References: track:how-it-could-have-gone
+References:
+- track:how-it-could-have-gone
 URLs:
 - https://homestuck.bandcamp.com/track/open-the-door-2
 - https://youtu.be/VEQt6FPj3-g
@@ -201,7 +213,8 @@ Commentary: |-
 ---
 Track: Keep Your Head Down
 Duration: '1:10'
-References: Rustblood
+References:
+- Rustblood
 URLs:
 - https://homestuck.bandcamp.com/track/keep-your-head-down-2
 - https://youtu.be/47IOSYnYiRc
@@ -217,7 +230,8 @@ Commentary: |-
 ---
 Track: Oh Whoa, What's This
 Duration: '1:05'
-References: Some Kind of Alien
+References:
+- Some Kind of Alien
 URLs:
 - https://homestuck.bandcamp.com/track/oh-whoa-whats-this-2
 - https://youtu.be/a1fm7sHekVE
@@ -263,7 +277,8 @@ Commentary: |-
 ---
 Track: Filthy Nuclear Bunker
 Duration: '4:34'
-References: Rustblood
+References:
+- Rustblood
 URLs:
 - https://homestuck.bandcamp.com/track/filthy-nuclear-bunker-2
 - https://youtu.be/Du1cFu4zl4o
@@ -277,7 +292,8 @@ Commentary: |-
 ---
 Track: SPORTS! Personally, I Love Them.
 Duration: '3:36'
-References: Rustblood
+References:
+- Rustblood
 URLs:
 - https://homestuck.bandcamp.com/track/sports-personally-i-love-them-2
 - https://youtu.be/jNtIznTXLpo
@@ -293,7 +309,8 @@ Commentary: |-
 ---
 Track: Lofted Gunpile
 Duration: '4:08'
-References: Some Kind of Alien
+References:
+- Some Kind of Alien
 URLs:
 - https://homestuck.bandcamp.com/track/lofted-gunpile-2
 - https://youtu.be/zNrEIxvGA8M
@@ -334,7 +351,8 @@ Commentary: |-
 ---
 Track: Wish You Were Here
 Duration: 0:50
-References: Intermission 1
+References:
+- Intermission 1
 URLs:
 - https://homestuck.bandcamp.com/track/wish-you-were-here-2
 - https://youtu.be/GZv2KDakIVs
@@ -379,7 +397,8 @@ Commentary: |-
 ---
 Track: How it Could Have Gone
 Duration: '1:14'
-References: Half-Harley Manor
+References:
+- Half-Harley Manor
 Directory: how-it-could-have-gone
 URLs:
 - https://homestuck.bandcamp.com/track/b-side-how-it-could-have-gone-2
@@ -428,7 +447,9 @@ Commentary: |-
 ---
 Track: SPOOKTUNE
 Duration: 0:50
-References: track:spooktune-undertale, Relatively Visible Darkness
+References:
+- track:spooktune-undertale
+- Relatively Visible Darkness
 Directory: spooktune
 URLs:
 - https://homestuck.bandcamp.com/track/b-side-spooktune-2

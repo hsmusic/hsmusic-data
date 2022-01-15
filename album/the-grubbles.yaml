@@ -1,14 +1,16 @@
 Album: THE GRUBBLES
 Artist: James Roach
-Cover Art: The Grubbels
 Has Track Art: false
 Date: September 14, 2017 00:00:04
 Date Added: November 15, 2019
 Color: '#dd0000'
-Groups: Official
+Groups:
+- Official
 URLs:
 - https://homestuck.bandcamp.com/album/hiveswap-act-1-ost-with-the-grubbles
 - https://www.youtube.com/playlist?list=PLo6jbRGXGrtjQOs-3_TbJ6SvFBUEhztgj
+Cover Artists:
+- The Grubbels
 ---
 Track: Broom Temperature
 Duration: '1:58'
@@ -51,7 +53,8 @@ URLs:
 ---
 Track: Get The Horns
 Duration: '2:15'
-References: Filthy Nuclear Bunker
+References:
+- Filthy Nuclear Bunker
 URLs:
 - https://homestuck.bandcamp.com/track/get-the-horns
 - https://youtu.be/ZZbFo1W1TjQ

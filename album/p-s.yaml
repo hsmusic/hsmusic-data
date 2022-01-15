@@ -1,8 +1,7 @@
 Album: P[S]
 Directory: p-s
-Cover Art: Seth Massey, climeade
-Wallpaper Art: Robert J! Lake
-Banner Art: Robert J! Lake
+Banner Art:
+- Robert J! Lake
 Banner Dimensions: 1100x180
 Wallpaper Style: 'opacity: 0.8;'
 Date: June 13, 2018
@@ -12,7 +11,8 @@ Has Track Art: false
 Groups:
 - Casual Sunday
 - Fandom
-URLs: https://casualsunday.bandcamp.com/album/p-s
+URLs:
+- https://casualsunday.bandcamp.com/album/p-s
 Art Tags:
 - WQ
 Commentary: |-
@@ -23,20 +23,30 @@ Commentary: |-
     this is an independent release from the band <a href="http://casualsunday.bandcamp.com/">Casual Sunday</a>!
     please support the group by purchasing the album - it comes with a commentary booklet i don't intend to transcribe here.
     &lt;3
+Cover Artists:
+- Seth Massey
+- climeade
+Wallpaper Artists:
+- Robert J! Lake
 ---
 Group: Main album
 ---
 Track: First Steps
 Artist: David Ellis
 Duration: '1:28'
-URLs: https://casualsunday.bandcamp.com/track/first-steps
+URLs:
+- https://casualsunday.bandcamp.com/track/first-steps
 ---
 Track: Back to Life
 Artist: David Ellis
-Contributors: Clouds Haberberg (vocals), Adam Beveridge (trumpet)
+Contributors:
+- Clouds Haberberg (vocals)
+- Adam Beveridge (trumpet)
 Duration: '7:31'
-References: Cyan Beast
-URLs: https://casualsunday.bandcamp.com/track/back-to-life
+References:
+- Cyan Beast
+URLs:
+- https://casualsunday.bandcamp.com/track/back-to-life
 Lyrics: |-
     Home, in this game we play<br>Stunned, then whisked away<br>Staring out into a nightmare
     Stuck years in the past<br>I stepped through the looking glass<br>And descended to an empty world.
@@ -53,26 +63,33 @@ Lyrics: |-
 Track: A World Awake
 Artist: David Ellis
 Duration: '7:17'
-References: Cyan Beast
-URLs: https://casualsunday.bandcamp.com/track/a-world-awake
+References:
+- Cyan Beast
+URLs:
+- https://casualsunday.bandcamp.com/track/a-world-awake
 ---
 Track: Blue Blood Group
 Artist: Mark Hadley
 Duration: '3:06'
-References: Spider's Claw, Horschestra
-URLs: https://casualsunday.bandcamp.com/track/blue-blood-group
+References:
+- Spider's Claw
+- Horschestra
+URLs:
+- https://casualsunday.bandcamp.com/track/blue-blood-group
 ---
 Track: Bro Hop
 Artist: Michael Guy Bowman
 Duration: '3:08'
 References:
 - track:aggrieve-violin-refrain
-URLs: https://casualsunday.bandcamp.com/track/bro-hop
+URLs:
+- https://casualsunday.bandcamp.com/track/bro-hop
 ---
 Track: Wily Espionage
 Artist: Thomas Ferkol
 Duration: '3:49'
-URLs: https://casualsunday.bandcamp.com/track/wily-espionage
+URLs:
+- https://casualsunday.bandcamp.com/track/wily-espionage
 ---
 Track: Apexhalation
 Artist: Malcolm Brown
@@ -83,7 +100,8 @@ References:
 - Lifdoff
 - track:doctor
 - track:showtime-original-mix
-URLs: https://casualsunday.bandcamp.com/track/apexhalation
+URLs:
+- https://casualsunday.bandcamp.com/track/apexhalation
 Commentary: |-
     <i>Malcolm Brown:</i>
     Couldn't end my run on Homestuck without doing one last John/Showtime track! It's an orchestral smorgasbord of Ballad of Awakening, Lifdoff, Showtime and probably something else I've forgotten. Also makes use of Shepard Tones in the middle to give the impression of a constantly rising melody, (or just to sound annoying)
@@ -102,18 +120,22 @@ Contributors:
 References:
 - track:sburban-jungle
 - Rosanna
-URLs: https://casualsunday.bandcamp.com/track/sburban-metro
+URLs:
+- https://casualsunday.bandcamp.com/track/sburban-metro
 ---
 Track: Skaianet 2.0
 Artist: Mark Hadley
 Duration: '2:40'
-References: Skaianet
-URLs: https://casualsunday.bandcamp.com/track/skaianet-20
+References:
+- Skaianet
+URLs:
+- https://casualsunday.bandcamp.com/track/skaianet-20
 ---
 Track: Whiteout
 Artist: David Dycus
 Duration: '4:24'
-URLs: https://casualsunday.bandcamp.com/track/whiteout
+URLs:
+- https://casualsunday.bandcamp.com/track/whiteout
 ---
 Track: Requiem for Something Really Excellent
 Artist: Robert J! Lake
@@ -121,36 +143,44 @@ Duration: '3:14'
 References:
 - Requiem for Something Really Excellent (Demo)
 - The Beginning of Something Really Excellent
-URLs: https://casualsunday.bandcamp.com/track/requiem-for-something-really-excellent
+URLs:
+- https://casualsunday.bandcamp.com/track/requiem-for-something-really-excellent
 ---
 Track: Atoms in the Snow
 Artist: David Ellis
 Duration: '1:07'
-References: Blue Atom
-URLs: https://casualsunday.bandcamp.com/track/atoms-in-the-snow
+References:
+- Blue Atom
+URLs:
+- https://casualsunday.bandcamp.com/track/atoms-in-the-snow
 ---
 Track: Web Weaver
 Artist: Seth Massey
 Duration: '3:10'
-URLs: https://casualsunday.bandcamp.com/track/web-weaver
+URLs:
+- https://casualsunday.bandcamp.com/track/web-weaver
 ---
 Track: We Shall Not Cease From Exploration
 Artist: Michael Guy Bowman
 Duration: '2:25'
 References:
 - track:explore
-URLs: https://casualsunday.bandcamp.com/track/we-shall-not-cease-from-exploration
+URLs:
+- https://casualsunday.bandcamp.com/track/we-shall-not-cease-from-exploration
 ---
 Track: The New Crew
 Artist: Thomas Ferkol
 Duration: '3:50'
-URLs: https://casualsunday.bandcamp.com/track/the-new-crew
+URLs:
+- https://casualsunday.bandcamp.com/track/the-new-crew
 ---
 Track: Heir of Grief 8-bit
 Artist: Tensei
 Duration: '3:33'
-References: Heir of Grief
-URLs: https://casualsunday.bandcamp.com/track/heir-of-grief-8-bit
+References:
+- Heir of Grief
+URLs:
+- https://casualsunday.bandcamp.com/track/heir-of-grief-8-bit
 ---
 Track: '[S]ynchronize'
 Artist: Malcolm Brown
@@ -159,7 +189,8 @@ References:
 - Unite Synchronization
 - Lifdoff
 - track:doctor
-URLs: https://casualsunday.bandcamp.com/track/s-ynchronise
+URLs:
+- https://casualsunday.bandcamp.com/track/s-ynchronise
 Lyrics: |-
     I’m still wondering,<br>Where to go now,<br>We have seen the highest peak but there was nothing there, no truth, and how<br>I’m wandering,<br>Through all these places,<br>Lands of Little Cubes & Tea, of Wind and Shade, these null spaces.
     I’ve stared at the stars, how they shine verdant dreams,<br>I’ve looked through the void, seen it crack at the seams,<br>I fought every challenge, these Devils and Gods,<br>They won’t know what hit them!
@@ -177,18 +208,22 @@ Lyrics: |-
 Track: Bane
 Artist: Mark Hadley
 Duration: '6:06'
-URLs: https://casualsunday.bandcamp.com/track/bane
+URLs:
+- https://casualsunday.bandcamp.com/track/bane
 ---
 Track: Interstellar
 Artist: Thomas Ferkol
 Duration: '3:43'
-URLs: https://casualsunday.bandcamp.com/track/interstellar
+URLs:
+- https://casualsunday.bandcamp.com/track/interstellar
 ---
 Track: Bronze Brawling
 Artist: Max Wright
 Duration: '2:44'
-References: Dapper Dueling
-URLs: https://casualsunday.bandcamp.com/track/bronze-brawling
+References:
+- Dapper Dueling
+URLs:
+- https://casualsunday.bandcamp.com/track/bronze-brawling
 ---
 Track: Infinity's Lament
 Artist: Veritas Unae
@@ -201,7 +236,8 @@ References:
 - track:sburban-jungle
 - track:ruins
 - Penumbra Phantasm
-URLs: https://casualsunday.bandcamp.com/track/infinitys-lament
+URLs:
+- https://casualsunday.bandcamp.com/track/infinitys-lament
 ---
 Track: A Farewell to Arms
 Artist: Catboss
@@ -226,12 +262,14 @@ References:
 - Sarabande
 - track:ballad-of-awakening
 - track:upward-movement-dave-owns
-URLs: https://casualsunday.bandcamp.com/track/a-farewell-to-arms
+URLs:
+- https://casualsunday.bandcamp.com/track/a-farewell-to-arms
 ---
 Track: Moving On
 Artist: Robert J! Lake
 Duration: '14:30'
-URLs: https://casualsunday.bandcamp.com/track/moving-on
+URLs:
+- https://casualsunday.bandcamp.com/track/moving-on
 ---
 Group: Bonus tracks
 ---
@@ -240,21 +278,26 @@ Artist: Malcolm Brown
 Duration: '5:22'
 References:
 - '[S]ynchronize'
-URLs: https://casualsunday.bandcamp.com/track/bonus-s-ynchronise-instrumental
+URLs:
+- https://casualsunday.bandcamp.com/track/bonus-s-ynchronise-instrumental
 ---
 Track: Myststuck Suite (Full Version)
 Artist: David Ellis
-Contributors: Clouds Haberberg (vocals), Adam Beveridge (trumpet)
+Contributors:
+- Clouds Haberberg (vocals)
+- Adam Beveridge (trumpet)
 Duration: '16:13'
 References:
 - First Steps
 - Back to Life
 - A World Awake
-URLs: https://casualsunday.bandcamp.com/track/bonus-myststuck-suite-full-version
+URLs:
+- https://casualsunday.bandcamp.com/track/bonus-myststuck-suite-full-version
 ---
 Track: Requiem for Something Really Excellent (Demo)
 Artist: Robert J! Lake
 Duration: '1:45'
 References:
 - The Beginning of Something Really Excellent
-URLs: https://casualsunday.bandcamp.com/track/bonus-requiem-for-something-really-excellent-demo
+URLs:
+- https://casualsunday.bandcamp.com/track/bonus-requiem-for-something-really-excellent-demo

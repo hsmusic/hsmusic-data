@@ -1,7 +1,5 @@
 Album: Strife!
 Artist: Tensei
-Cover Art: Tauhid Bondia
-Track Art: Homestuck
 Date: February 16, 2011
 Date Added: November 15, 2019
 Color: '#e83240'
@@ -15,6 +13,10 @@ URLs:
 - https://tenseimusic.bandcamp.com/album/homestuck-strife
 - https://www.youtube.com/watch?v=Oz2a5VxQZME
 - https://www.youtube.com/playlist?list=PLy5UGIMKOXpMJhJ_NDnOG3_3kzoa48HPM
+Cover Artists:
+- Tauhid Bondia
+Default Track Cover Artists:
+- Homestuck
 ---
 Group: Main album
 ---
@@ -93,8 +95,8 @@ URLs:
 Group: Bonus tracks
 ---
 Track: Make a Wish
-Track Art: none
 Duration: '1:32'
 URLs:
 - https://tenseimusic.bandcamp.com/track/make-a-wish
 - https://youtu.be/P0nogEQf3BI
+Cover Artists: []

@@ -3,9 +3,8 @@ Directory: are-you-lost
 Artist: hywell
 Date: November 22, 2020
 Date Added: April 12, 2021
-Cover Art: Astroblur
-Banner Art: Astroblur
-Wallpaper Art: Astroblur
+Banner Art:
+- Astroblur
 Banner Dimensions: 975x180
 Has Track Art: false
 Color: '#45cef2'
@@ -24,6 +23,10 @@ Commentary: |-
     ENTRY END
     <hr>
     (there are many notes scribbled in the blank areas surrounding the text, but they are impossible to read. is that bad handwriting, or is that a different language...?)
+Cover Artists:
+- Astroblur
+Wallpaper Artists:
+- Astroblur
 ---
 Track: SIGNAL START
 Duration: '3:25'
@@ -54,7 +57,9 @@ URLs:
 - https://smoothiefruitee.bandcamp.com/track/lorem-ipsum-docet
 ---
 Track: TRUE AUTUMN
-Artists: hywell, Cristata
+Artists:
+- hywell
+- Cristata
 Duration: '5:21'
 References:
 - Quiet Autumn
@@ -63,7 +68,9 @@ URLs:
 ---
 Track: MEDIUM
 Directory: medium-are-you-lost
-Artists: hywell, Cristata
+Artists:
+- hywell
+- Cristata
 Duration: '6:22'
 References:
 - CORE

@@ -1,14 +1,17 @@
 Album: Homestuck Vol. 1-4
 Date: October 24 2011
 Date Added: November 15, 2019
-Cover Art: Homestuck
-Track Art: Homestuck
 Color: '#aaccff'
-Groups: Official
+Groups:
+- Official
 URLs:
 - https://homestuck.bandcamp.com/album/homestuck-vol-1-4-with-midnight-crew-drawing-dead
 - https://www.youtube.com/watch?v=9N342A3G5jo
 - https://www.youtube.com/playlist?list=PL6_yub4_EV2R6PzZdPigyPIiCGFfh3Nzb
+Cover Artists:
+- Homestuck
+Default Track Cover Artists:
+- Homestuck
 ---
 Group: From <i>Homestuck Vol. 1</i>
 ---
@@ -45,7 +48,8 @@ Track: Aggrieve (Violin Refrain)
 Directory: aggrieve-violin-refrain-vol-1-4
 AKA: track:aggrieve-violin-refrain
 Artist: Andrew Huo
-Contributors: Gabe Nezovic (mastering)
+Contributors:
+- Gabe Nezovic (mastering)
 Duration: '1:34'
 References:
 - track:aggrieve
@@ -110,7 +114,8 @@ Track: Harlequin (Rock Version)
 Directory: harlequin-rock-version-vol-1-4
 AKA: track:harlequin-rock-version
 Artist: Michael Guy Bowman, Joseph Aylsworth
-Contributors: Joseph Aylsworth (guitar)
+Contributors:
+- Joseph Aylsworth (guitar)
 Duration: '2:48'
 References:
 - track:harlequin
@@ -152,7 +157,8 @@ Track: Explore
 Directory: explore-vol-1-4
 AKA: track:explore
 Artist: Buzinkai, Michael Guy Bowman
-Contributors: Michael Guy Bowman (arrangement)
+Contributors:
+- Michael Guy Bowman (arrangement)
 Duration: '2:28'
 URLs:
 - https://homestuck.bandcamp.com/track/explore-3
@@ -326,7 +332,8 @@ Track: Pony Chorale
 Directory: pony-chorale-vol-1-4
 AKA: track:pony-chorale
 Artist: Michael Guy Bowman
-Contributors: Tavia Morra (vocals)
+Contributors:
+- Tavia Morra (vocals)
 Duration: '1:03'
 References:
 - track:chorale-for-jaspers
@@ -402,7 +409,9 @@ Track: Doctor
 Directory: doctor-vol-1-4
 AKA: track:doctor
 Artist: Buzinkai
-Contributors: Clark Powell (production), Michael Vallejo (production)
+Contributors:
+- Clark Powell (production)
+- Michael Vallejo (production)
 Duration: '2:37'
 References:
 - track:doctor-original-loop
@@ -433,7 +442,8 @@ Directory: black-vol-1-4
 AKA: track:black
 Artist: Toby Fox
 Duration: '2:24'
-Art Tags: 'cw: blood'
+Art Tags:
+- 'cw: blood'
 References:
 - track:liquid-negrocity
 Samples:

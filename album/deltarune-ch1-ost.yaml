@@ -1,8 +1,6 @@
 Album: DELTARUNE Chapter 1 OST
 Directory: deltarune-ch1-ost
 Artist: Toby Fox
-Cover Art: Toby Fox
-Wallpaper Art: Toby Fox
 Wallpaper Style: |-
     image-rendering: pixelated;
     image-rendering: crisp-edges;
@@ -18,6 +16,10 @@ Groups:
 URLs:
 - https://tobyfox.bandcamp.com/album/deltarune-chapter-1-ost
 - https://www.youtube.com/playlist?list=PLBwTHHiRquMtgQwtuL2NGqle9QDguhwvH
+Cover Artists:
+- Toby Fox
+Wallpaper Artists:
+- Toby Fox
 ---
 Track: ANOTHER HIM
 Duration: 0:48
@@ -28,14 +30,18 @@ URLs:
 Track: Beginning
 Directory: beginning-deltarune
 Duration: 0:57
-References: Don't Forget, Once Upon a Time
+References:
+- Don't Forget
+- Once Upon a Time
 URLs:
 - https://tobyfox.bandcamp.com/track/beginning
 - https://youtu.be/OHhgmjijRWg
 ---
 Track: School
 Duration: '1:20'
-References: Don't Forget, Snowdin Town
+References:
+- Don't Forget
+- Snowdin Town
 URLs:
 - https://tobyfox.bandcamp.com/track/school
 - https://youtu.be/MVTmvDQwX2k
@@ -48,7 +54,8 @@ URLs:
 ---
 Track: The Door
 Duration: 0:41
-References: Nightmare Knight
+References:
+- Nightmare Knight
 URLs:
 - https://tobyfox.bandcamp.com/track/the-door
 - https://youtu.be/VuM5pBqV4fM
@@ -61,7 +68,8 @@ URLs:
 ---
 Track: The Chase
 Duration: 0:33
-References: The Door
+References:
+- The Door
 URLs:
 - https://tobyfox.bandcamp.com/track/the-chase
 - https://youtu.be/m9vD-_xYUwI
@@ -81,28 +89,32 @@ URLs:
 ---
 Track: Rude Buster
 Duration: '1:15'
-References: Determination
+References:
+- Determination
 URLs:
 - https://tobyfox.bandcamp.com/track/rude-buster
 - https://youtu.be/xYVhUjee-oM
 ---
 Track: Empty Town
 Duration: '1:23'
-References: The Legend
+References:
+- The Legend
 URLs:
 - https://tobyfox.bandcamp.com/track/empty-town
 - https://youtu.be/MjpukFi_CW0
 ---
 Track: Weird Birds
 Duration: 0:16
-References: One Fateful Night
+References:
+- One Fateful Night
 URLs:
 - https://tobyfox.bandcamp.com/track/weird-birds
 - https://youtu.be/HlcNLYnhb0w
 ---
 Track: Field of Hopes and Dreams
 Duration: '2:41'
-References: Don't Forget
+References:
+- Don't Forget
 URLs:
 - https://tobyfox.bandcamp.com/track/field-of-hopes-and-dreams
 - https://youtu.be/PhhGEA_317w
@@ -116,14 +128,17 @@ URLs:
 ---
 Track: Lantern
 Duration: '1:08'
-References: The Legend, Determination
+References:
+- The Legend
+- Determination
 URLs:
 - https://tobyfox.bandcamp.com/track/lantern
 - https://youtu.be/r9Wc9a2uD3c
 ---
 Track: I'm Very Bad
 Duration: 0:13
-References: track:lancer-deltarune
+References:
+- track:lancer-deltarune
 URLs:
 - https://tobyfox.bandcamp.com/track/im-very-bad
 - https://youtu.be/YetdpAvNPEc
@@ -136,21 +151,25 @@ URLs:
 ---
 Track: Quiet Autumn
 Duration: 0:49
-References: Quiet Water, Scarlet Forest
+References:
+- Quiet Water
+- Scarlet Forest
 URLs:
 - https://tobyfox.bandcamp.com/track/quiet-autumn
 - https://youtu.be/Lyswkjw3U9Q
 ---
 Track: Scarlet Forest
 Duration: '2:08'
-References: Don't Forget
+References:
+- Don't Forget
 URLs:
 - https://tobyfox.bandcamp.com/track/scarlet-forest
 - https://youtu.be/xxSpXQDOcAo
 ---
 Track: Thrash Machine
 Duration: 0:54
-References: track:lancer-deltarune
+References:
+- track:lancer-deltarune
 URLs:
 - https://tobyfox.bandcamp.com/track/thrash-machine
 - https://youtu.be/ONlbHu7aDNI
@@ -166,21 +185,25 @@ URLs:
 ---
 Track: Basement
 Duration: 0:27
-References: Card Castle
+References:
+- Card Castle
 URLs:
 - https://tobyfox.bandcamp.com/track/basement
 - https://youtu.be/9y8UXb7KfgU
 ---
 Track: Imminent Death
 Duration: 0:20
-References: Your Best Nightmare
+References:
+- Your Best Nightmare
 URLs:
 - https://tobyfox.bandcamp.com/track/imminent-death
 - https://youtu.be/nedqvk48HWo
 ---
 Track: Vs. Susie
 Duration: '1:21'
-References: Your Best Nightmare, Susie
+References:
+- Your Best Nightmare
+- Susie
 URLs:
 - https://tobyfox.bandcamp.com/track/vs-susie
 - https://youtu.be/SBHgJzYNR6s
@@ -230,49 +253,59 @@ URLs:
 ---
 Track: Darkness Falls
 Duration: '1:06'
-References: ANOTHER HIM
+References:
+- ANOTHER HIM
 URLs:
 - https://tobyfox.bandcamp.com/track/darkness-falls
 - https://youtu.be/FSn4p1Xx7NU
 ---
 Track: The Circus
 Duration: 0:51
-References: The Legend
+References:
+- The Legend
 URLs:
 - https://tobyfox.bandcamp.com/track/the-circus
 - https://youtu.be/tpIkEnzGd5U
 ---
 Track: THE WORLD REVOLVING
 Duration: '1:41'
-References: The Door, Don't Forget
+References:
+- The Door
+- Don't Forget
 URLs:
 - https://tobyfox.bandcamp.com/track/the-world-revolving
 - https://youtu.be/8gkTtNefxws
 ---
 Track: Friendship
 Duration: '2:40'
-References: Don't Forget
+References:
+- Don't Forget
 URLs:
 - https://tobyfox.bandcamp.com/track/friendship
 - https://youtu.be/l5D6Nfe7AMs
 ---
 Track: THE HOLY
 Duration: 0:48
-References: Determination
+References:
+- Determination
 URLs:
 - https://tobyfox.bandcamp.com/track/the-holy
 - https://youtu.be/1lHuP00QbMU
 ---
 Track: Your Power
 Duration: 0:13
-References: Don't Forget
+References:
+- Don't Forget
 URLs:
 - https://tobyfox.bandcamp.com/track/your-power
 - https://youtu.be/hLG_tNvSHek
 ---
 Track: A Town Called Hometown
 Duration: '1:53'
-References: The Legend, Don't Forget, Snowdin Town
+References:
+- The Legend
+- Don't Forget
+- Snowdin Town
 URLs:
 - https://tobyfox.bandcamp.com/track/a-town-called-hometown
 - https://youtu.be/HMLrsPnk7dg
@@ -300,7 +333,8 @@ Lyrics: |-
 ---
 Track: Before the Story
 Duration: '1:28'
-References: Once Upon a Time
+References:
+- Once Upon a Time
 URLs:
 - https://tobyfox.bandcamp.com/track/before-the-story
 - https://youtu.be/niSJhhpBqjU

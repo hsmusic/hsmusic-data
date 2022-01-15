@@ -1,23 +1,28 @@
 Album: The Felt
-Cover Art: Molly Gur
-Track Art: Homestuck
-Wallpaper Art: Molly Gur
 Wallpaper Style: 'opacity: 0.25;'
 Date: December 2 2010
 Date Added: November 15, 2019
 Color: '#33aa55'
-Groups: Official
+Groups:
+- Official
 Art Tags:
 - Snowman
 URLs:
 - https://homestuck.bandcamp.com/album/homestuck-vol-5-6-with-the-felt
 - https://www.youtube.com/watch?v=o76TAd1ExFE
 - https://www.youtube.com/playlist
+Cover Artists:
+- Molly Gur
+Default Track Cover Artists:
+- Homestuck
+Wallpaper Artists:
+- Molly Gur
 ---
 Track: Jade Dragon
 Artist: Robert J! Lake
 Duration: '3:27'
-References: Viva la Vida
+References:
+- Viva la Vida
 URLs:
 - https://homestuck.bandcamp.com/track/jade-dragon-2
 - https://youtu.be/et0432j4c5s
@@ -25,7 +30,8 @@ URLs:
 Track: Swing of the Clock
 Artist: Solatrus
 Duration: '5:58'
-References: Three in the Morning
+References:
+- Three in the Morning
 URLs:
 - https://homestuck.bandcamp.com/track/swing-of-the-clock-2
 - https://youtu.be/kEGailT_BHs
@@ -73,8 +79,10 @@ URLs:
 Track: Clockwork Reversal
 Artist: Thomas Ferkol
 Duration: '1:41'
-References: Clockwork Apocalypse
-Art Tags: 'cw: blood'
+References:
+- Clockwork Apocalypse
+Art Tags:
+- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/clockwork-reversal-2
 - https://youtu.be/b9BtuKqfPkY
@@ -125,7 +133,8 @@ URLs:
 Track: Trails
 Artist: Mark Hadley
 Duration: '2:29'
-Art Tags: 'cw: blood'
+Art Tags:
+- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/trails-2
 - https://youtu.be/rzL0-oyDy7s
@@ -143,7 +152,9 @@ URLs:
 Track: Scratch
 Artist: David Ko
 Duration: '3:10'
-References: Toccata and Fugue in D minor, Ultimate Koopa
+References:
+- Toccata and Fugue in D minor
+- Ultimate Koopa
 URLs:
 - https://homestuck.bandcamp.com/track/scratch-2
 - https://youtu.be/3OVpWgisy0o
@@ -161,7 +172,8 @@ Commentary: |-
 Track: Temporal Piano
 Artist: Erik Scheele
 Duration: '3:49'
-Art Tags: 'cw: blood'
+Art Tags:
+- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/temporal-piano-2
 - https://youtu.be/rzNIMmObP3k
@@ -169,8 +181,11 @@ URLs:
 Track: Time Paradox
 Artist: Thomas Ferkol
 Duration: '3:06'
-References: Westminister Quarters
-Art Tags: 'cw: blood, cw: corpse'
+References:
+- Westminister Quarters
+Art Tags:
+- 'cw: blood'
+- 'cw: corpse'
 URLs:
 - https://homestuck.bandcamp.com/track/time-paradox-2
 - https://youtu.be/96HRN6bFYqU
@@ -190,7 +205,8 @@ URLs:
 Track: English
 Artist: Toby Fox
 Duration: '3:30'
-Art Tags: 'cw: blood'
+Art Tags:
+- 'cw: blood'
 URLs:
 - https://homestuck.bandcamp.com/track/english-2
 - https://youtu.be/6zMnNCDaKuE
@@ -198,7 +214,11 @@ URLs:
 Track: Variations
 Artist: Robert J! Lake
 Duration: '6:03'
-References: Rhapsody in Green, Jade Dragon, Swing of the Clock, Afraid of the Darko
+References:
+- Rhapsody in Green
+- Jade Dragon
+- Swing of the Clock
+- Afraid of the Darko
 URLs:
 - https://homestuck.bandcamp.com/track/variations-2
 - https://youtu.be/M966V66lLuE

@@ -1,8 +1,7 @@
 Album: Psycholonials EP 9
 Artist: Clark Powell
-Cover Art: Andrew Hussie
-Banner Art: Andrew Hussie
-Wallpaper Art: Andrew Hussie, Niklink (edits for wiki)
+Banner Art:
+- Andrew Hussie
 Banner Dimensions: 1100x180
 Has Track Art: false
 Date: April 20, 2021 12:00:00
@@ -13,6 +12,11 @@ Groups:
 - Psycholonials
 URLs:
 - https://psycholonials.bandcamp.com/album/psycholonials-ep-9
+Cover Artists:
+- Andrew Hussie
+Wallpaper Artists:
+- Andrew Hussie
+- Niklink (edits for wiki)
 ---
 Track: Fix This
 Duration: '1:54'
@@ -21,7 +25,8 @@ URLs:
 ---
 Track: Edge Of Dawn
 Duration: '4:33'
-References: Shoreline
+References:
+- Shoreline
 URLs:
 - https://psycholonials.bandcamp.com/track/edge-of-dawn
 ---

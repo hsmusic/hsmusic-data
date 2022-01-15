@@ -1,14 +1,16 @@
 Album: Song of Skaia
 Artist: Mark Hadley
-Cover Art: minty
 Has Track Art: false
 Date: January 1, 2012
 Date Added: November 15, 2019
 Color: '#02b7ff'
-Groups: Official
+Groups:
+- Official
 URLs:
 - https://parsecproductions.bandcamp.com/album/song-of-skaia
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFbcZ8PWCeZmXZZw0W9HQ_9T
+Cover Artists:
+- minty
 ---
 Track: null
 Duration: '2:32'
@@ -29,7 +31,8 @@ Track: Song of Skaia
 Duration: '6:27'
 References:
 - track:skies-of-skaia
-Contributors: Tarien Ainuvë (lyrics/vocals)
+Contributors:
+- Tarien Ainuvë (lyrics/vocals)
 URLs:
 - https://parsecproductions.bandcamp.com/track/song-of-skaia
 - https://youtu.be/731LkYOajeA

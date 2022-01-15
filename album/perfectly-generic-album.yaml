@@ -2,7 +2,6 @@ Album: Perfectly Generic Album
 Artist: Cristata
 Date: November 10, 2019
 Date Added: May 25, 2020
-Cover Art: Cristata
 Has Track Art: false
 Color: '#1cb611'
 Groups:
@@ -24,6 +23,8 @@ Art Tags:
 Commentary: |-
     <i>Cristata:</i>
     Thank you to the original Homestuck Music Team for inspiring me, and to all the folks in the fandom who wont stop making fan content. You all rock and drive me to make my very best work. Never stop.
+Cover Artists:
+- Cristata
 ---
 Track: New and Improved
 Duration: '1:31'
@@ -40,7 +41,8 @@ Has URLs: false
 ---
 Track: Moondancer
 Duration: '6:01'
-References: Moonsetter
+References:
+- Moonsetter
 Has URLs: false
 Commentary: |-
     <i>Cristata:</i>

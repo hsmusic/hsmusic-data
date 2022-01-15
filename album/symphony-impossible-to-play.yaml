@@ -1,8 +1,8 @@
 Album: Symphony Impossible to Play
 Artist: Clark Powell
-Cover Art: Tavia Morra
-Wallpaper Art: Homestuck, Quasar Nebula (edits for wiki)
-Banner Art: Homestuck, Niklink (edits for wiki)
+Banner Art:
+- Homestuck
+- Niklink (edits for wiki)
 Banner Dimensions: 1100x200
 Wallpaper Style: |-
     opacity: 0.6;
@@ -20,6 +20,11 @@ URLs:
 - https://homestuck.bandcamp.com/album/symphony-impossible-to-play-with-medium
 - https://www.youtube.com/watch?v=CGj-hDDFktI
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFbZGlJ_NhUuG0yPfBRzFpfv
+Cover Artists:
+- Tavia Morra
+Wallpaper Artists:
+- Homestuck
+- Quasar Nebula (edits for wiki)
 ---
 Track: I - Overture
 Duration: '7:00'
@@ -41,7 +46,8 @@ References:
 ---
 Track: II - Sarabande
 Duration: '2:36'
-References: track:sarabande-vol5
+References:
+- track:sarabande-vol5
 Directory: sarabande-symphony
 URLs:
 - https://homestuck.bandcamp.com/track/ii-sarabande-2
@@ -59,7 +65,8 @@ URLs:
 ---
 Track: IV - Anthem
 Duration: '3:48'
-References: Homestuck Anthem
+References:
+- Homestuck Anthem
 Directory: anthem
 URLs:
 - https://homestuck.bandcamp.com/track/iv-anthem-2

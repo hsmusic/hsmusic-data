@@ -2,8 +2,6 @@ Album: Medium
 Artist: Clark Powell
 Date: April 14, 2011
 Date Added: November 15, 2019
-Cover Art: Cindy Dominguez
-Wallpaper Art: Cindy Dominguez, Quasar Nebula (edits for wiki)
 Wallpaper Style: |-
     background-color: black;
     background-position: top center;
@@ -18,6 +16,11 @@ Groups:
 URLs:
 - https://homestuck.bandcamp.com/album/symphony-impossible-to-play-with-medium
 - https://www.youtube.com/playlist?list=PLB9D2EAC43B6195B8
+Cover Artists:
+- Cindy Dominguez
+Wallpaper Artists:
+- Cindy Dominguez
+- Quasar Nebula (edits for wiki)
 ---
 Track: Light
 Duration: '5:36'
@@ -55,7 +58,9 @@ URLs:
 ---
 Track: Clockwork
 Duration: '5:13'
-References: Westminister Quarters, Carol of the Bells
+References:
+- Westminister Quarters
+- Carol of the Bells
 URLs:
 - https://homestuck.bandcamp.com/track/clockwork-2
 - https://youtu.be/AeUNnQ0ZkvA
@@ -68,7 +73,8 @@ URLs:
 ---
 Track: Wind
 Duration: '8:03'
-References: Polovtsian Dances
+References:
+- Polovtsian Dances
 URLs:
 - https://homestuck.bandcamp.com/track/wind-2
 - https://youtu.be/mwFWnxZVIFk

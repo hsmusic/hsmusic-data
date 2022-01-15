@@ -2,8 +2,8 @@ Album: Labyrinth's Heart
 Artist: Clark Powell
 Date: September 2, 2015
 Date Added: October 10, 2020
-Cover Art: dodostad
-Banner Art: dodostad
+Banner Art:
+- dodostad
 Banner Dimensions: 975x180
 Has Track Art: false
 Color: '#9f887a'
@@ -12,6 +12,8 @@ Groups:
 - Beyond
 URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFZhrI8iMi4bMrEyl2ZaWd7R
+Cover Artists:
+- dodostad
 ---
 Track: Getting Lost
 Duration: '1:22'
@@ -82,7 +84,8 @@ URLs:
 ---
 Track: Requiem
 Duration: '4:38'
-References: Serenade
+References:
+- Serenade
 Directory: requiem-labyrinths-heart
 URLs:
 - https://youtu.be/u4x-_BipEwA
