@@ -3,14 +3,14 @@ Artist: Tee-vee
 Date: April 15, 2020
 Date Added: January 12, 2021
 Cover Art: tricky_goddess
-Has Track Art: no
-Color: #957aff
+Has Track Art: false
+Color: '#957aff'
 Groups: Fandom
 Art Tags: Jade
 URLs:
 - https://teeveemusic.bandcamp.com/album/theres-no-place-like-home-a-homestuck-prog-rock-medley
 - https://www.youtube.com/watch?v=qh0YkQn_zLU
-Commentary:
+Commentary: |-
     <i>Tee-vee:</i>
     Free download mirror link : <a href="https://drive.google.com/open?id=1xfwRZ4JIieOptXrmlnQDih848QCEF3_y">Google Drive</a>
     Watch the full playthrough MOIVE of this medley ! <a href="https://www.youtube.com/watch?v=qh0YkQn_zLU">YouTube</a>
@@ -18,9 +18,9 @@ Commentary:
     Homestuck is a webcomic by Andrew Hussie<br><a href="https://www.homestuck.com/">www.homestuck.com</a><br><a href="https://www.homestuck2.com/">www.homestuck2.com</a>
     Cover art by tricky_goddess<br>Instagram : <a href="https://www.instagram.com/tricky_goddess/">www.instagram.com/tricky_goddess/</a>
     Thanks to PotatoBoss for his feedback and help with credits checking<br>HP : <a href="http://potatoboss.net/">potatoboss.net</a><br>Twitter : <a href="https://twitter.com/potatomoosik">twitter.com/potatomoosik</a><br>Youtube : <a href="https://www.youtube.com/channel/UCx8RbZLXx8lcr-yBHPEr_vA">www.youtube.com/channel/UCx8RbZLXx8lcr-yBHPEr_vA</a><br>Bandcamp : <a href="https://potatoboss.bandcamp.com/">potatoboss.bandcamp.com</a>
--------------------------------------------------------------------------------
+---
 Track: Confined
-Duration: 4:04
+Duration: '4:04'
 References:
 - track:sburban-countdown
 - track:sburban-jungle
@@ -30,14 +30,14 @@ References:
 - track:beatdown-strider-style
 URLs:
 - https://teeveemusic.bandcamp.com/track/confined
--------------------------------------------------------------------------------
+---
 Track: 🎼 Fraymotif !
-Duration: 13:11
+Duration: '13:11'
 References:
 - track:overture
 - Play The Wind
 - Terezi's Theme
-- BL1ND JUST1C3 : 1NV3ST1G4T1ON !!
+- 'BL1ND JUST1C3 : 1NV3ST1G4T1ON !!'
 - Hate You
 - GameBro (Original 1990 Mix)
 - Negastrife
@@ -80,9 +80,9 @@ References:
 - I'm a Member of the Midnight Crew
 URLs:
 - https://teeveemusic.bandcamp.com/track/fraymotif
--------------------------------------------------------------------------------
+---
 Track: Beat Mesa Boogie
-Duration: 16:16
+Duration: '16:16'
 References:
 - track:harlequin
 - The Lordling
@@ -130,9 +130,9 @@ References:
 - Sunsetter
 URLs:
 - https://teeveemusic.bandcamp.com/track/beat-mesa-boogie
--------------------------------------------------------------------------------
+---
 Track: Rainbow Rumpus Partytown
-Duration: 7:12
+Duration: '7:12'
 References:
 - Genesis
 - Prospitian Folklore
@@ -157,9 +157,9 @@ References:
 - Darling Dolorosa
 URLs:
 - https://teeveemusic.bandcamp.com/track/rainbow-rumpus-partytown
--------------------------------------------------------------------------------
-Track: 'Til Death, We Grieve
-Duration: 6:48
+---
+Track: '''Til Death, We Grieve'
+Duration: '6:48'
 References:
 - Flare
 - track:frost-vol6
@@ -183,9 +183,9 @@ References:
 - track:aggrieve
 URLs:
 - https://teeveemusic.bandcamp.com/track/til-death-we-grieve
--------------------------------------------------------------------------------
+---
 Track: God Tier
-Duration: 6:09
+Duration: '6:09'
 References:
 - track:sburban-jungle
 - track:verdancy-bassline
@@ -203,10 +203,10 @@ References:
 - Descend
 URLs:
 - https://teeveemusic.bandcamp.com/track/god-tier
--------------------------------------------------------------------------------
+---
 Track: ＭｅＧａＬｏＶａｎｉａ (cover)
 Directory: megalovania-tee-vee
-Duration: 2:51
+Duration: '2:51'
 References:
 - track:MeGaLoVania
 - track:megalovania-undertale

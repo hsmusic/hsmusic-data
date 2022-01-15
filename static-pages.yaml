@@ -1,6 +1,6 @@
 Name: About &amp; Credits
 Directory: about
-Content:
+Content: |-
     Welcome to HSMusic, a fan-made Homestuck music wiki!
     <a href="https://www.homestuck.com/">Homestuck</a> has always been an incredible creative collaboration, and especially beloved by the community and critical in that collaboration is the webcomic and world's humongous soundtrack, comprising well over 500 tracks by dozens of musicians and artists. This wiki aims to be an interesting and useful resource for anyone interested in that music, as well as an archive for all things related.
     Pertaining to the history of this site: it was originally made as a remake of Homestuck's official <a href="https://homestuck.bandcamp.com/">Bandcamp</a>, which saw its content particularly reduced on <a href="https://twitter.com/hamesatron/status/1187842783618297856">10/25/19</a>. This site aims to be a more reliable resource and reference: track art (conspicuously missing from the Bandcamp) is archived here, solo albums (among other missing albums, like [[album:squiddles]]) are all indexed in the one place, and URLs will always stay consistent. And of course, also included are links for listening on Bandcamp and other services.
@@ -35,10 +35,10 @@ Content:
     <i>Supporter &amp; Patron Thank-yous</i>
     <b>Thank you</b> to all present and past [[static:donate|supporters]] of the wiki, including:
     - Nights, enchantingHunter, leo homestuck, and Gradis.
--------------------------------------------------------------------------------
+---
 Name: Feedback &amp; Suggestions
 Directory: feedback
-Content:
+Content: |-
     <strong>Feature requests?<br>Noticed any errors?<br>Itching to see that one album you love on the wiki?</strong>
     Please let us know! We appreciate feedback a lot, and always want to make this site better.
     There are five main channels you can reach the dev through:
@@ -48,10 +48,10 @@ Content:
     - <a href="https://types.pl/@quasar">Mastodon</a> - Same as birdsite but a moderately less terrible platform :)
     - Email - it's <s><code>towerofnix at gmail dot beans</code></s> <b>now been revised</b> to <code>qznebula at protonmail dot com</code>! (We'll still get messages at the old address, though.) Old-fashioned, but personally our favorite besides the Discord, and certainly practical if you're sending a longer-form message.
     Thanks so much for sharing your feedback!
--------------------------------------------------------------------------------
+---
 Name: Changelog
 Directory: changelog
-Style:
+Style: |-
     h2:not(.major-release) {
         font-size: 1.1em;
     }
@@ -73,7 +73,7 @@ Style:
         margin-top: 0.2em;
         margin-bottom: 0.6em;
     }
-Content:
+Content: |-
     <h3>site changes</h3>
     - (nebula writes about all the site changes here)
     <h3>albums</h3>
@@ -1061,21 +1061,21 @@ Content:
     - credits are all in one numbered list; most are just the name of the track contributed to and the album it's from
     - for tracks where an artist made a specific contribution, that's mentioned too, e.g. "Sburban Countdown (arrangement)"
     - if a musician's contribution is simply a track which was referenced, the line for that contribution is slightly dim (it still contributes to the counter)
--------------------------------------------------------------------------------
+---
 Name: Donate
 Directory: donate
-Listed: no
-Content:
+Listed: false
+Content: |-
     Donations for the wiki are now closed. Thank you to everyone who donated over the course of wiki development, including:
     - Nights
     - enchantingHunter
     - leo homestuck
     - Gradis
--------------------------------------------------------------------------------
+---
 Name: HSMusic Community Discord Server
 Short Name: Discord
 Directory: discord
-Content:
+Content: |-
     We have a public Discord server - <a href="https://discord.com/invite/6Cyt9TY">you're welcomed to join!</a>
     We mostly discuss work-in-progress site updates here, sharing feedback and suggestions before (and after!) releases go online.
     There are a few rules you'll have to read and accept before being let in, and we take moderation seriously - but the server is a pretty chill space in general! The rules are just there to ensure it <i>can</i> be safe and relaxed for everyone.

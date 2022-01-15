@@ -3,15 +3,15 @@ Artist: Funk McLovin
 Date: November 23, 2020
 Date Added: April 12, 2021
 Cover Art: Funk McLovin
-Has Track Art: no
-Color: #00c0ff
+Has Track Art: false
+Color: '#00c0ff'
 Groups:
 - Funk McLovin
 - Fandom
 URLs:
 - https://funkmclovin.bandcamp.com/album/the-baby-is-june
 - https://www.youtube.com/watch?v=UVNREaFFhdM
--------------------------------------------------------------------------------
+---
 Track: Meat Nor Candy
 Duration: 0:37
 Contributors:
@@ -20,7 +20,7 @@ Contributors:
 - Bucky Grant (Karkat)
 URLs:
 - https://funkmclovin.bandcamp.com/track/meat-nor-candy
-Lyrics:
+Lyrics: |-
     DAVE: so june
     DAVE: did you pick meat or candy
     JUNE: dave??
@@ -39,16 +39,16 @@ Lyrics:
     DAVE: i can only explain whats happening to me
     DAVE: ngh
     DAVE: in <i>song</i>
--------------------------------------------------------------------------------
+---
 Track: Dave's Ballad
-Duration: 1:54
+Duration: '1:54'
 Contributors:
 - Funk McLovin (Dave)
 - AE (June)
 - Bucky Grant (Karkat)
 URLs:
 - https://funkmclovin.bandcamp.com/track/daves-ballad-2
-Lyrics:
+Lyrics: |-
     I was walkin' down the street practicing some rhymes
     Just like you do when you're the knight of time
     When a realization struck me clear out the blue
@@ -108,14 +108,14 @@ Lyrics:
     You better buy some tiny shoes
 
     JUNE: dave, what the fuck.
--------------------------------------------------------------------------------
+---
 Track: Karkat's Lament
-Duration: 2:44
+Duration: '2:44'
 Contributors:
 - Bucky Grant (Karkat)
 URLs:
 - https://funkmclovin.bandcamp.com/track/karkats-lament
-Lyrics:
+Lyrics: |-
     I'm just a troll, a troll so enamored
     With a man who speaks with that annoying stammer
     In spite of his yammering and habits thereof
@@ -162,15 +162,15 @@ Lyrics:
     With a man who speaks with that annoying stammer
     In spite of his yammering and habits thereof
     I wish there was a way to express my love
--------------------------------------------------------------------------------
+---
 Track: June's Ode
-Duration: 2:44
+Duration: '2:44'
 Contributors:
 - AE (June)
 - Funk McLovin (Dave)
 URLs:
 - https://funkmclovin.bandcamp.com/track/junes-ode
-Lyrics:
+Lyrics: |-
     DAVE: alright youll be able to see the ultrasound image on the monitor
     DAVE: the miracle of life is wonderful dont you agree june
     DAVE: uh
@@ -243,16 +243,16 @@ Lyrics:
     He's swimming in Dave's pee
 
     DAVE: for the last time its not pee
--------------------------------------------------------------------------------
+---
 Track: Off Brand
-Duration: 3:58
+Duration: '3:58'
 Contributors:
 - AE (June)
 - Bucky Grant (Karkat)
 - Funk McLovin (Dave)
 URLs:
 - https://funkmclovin.bandcamp.com/track/off-brand
-Lyrics:
+Lyrics: |-
     JUNE: i hope dave is okay.
     JUNE: what do you think will happen if something goes wrong?
     JUNE: what if i evaporate, like in back to the future?
@@ -357,15 +357,15 @@ Lyrics:
     DAVE: i guess the world will just never know
     [Laughter.]
     JUNE: probably for the best.
--------------------------------------------------------------------------------
+---
 Track: Dave's Ballad Reprise
-Duration: 1:49
+Duration: '1:49'
 Contributors:
 - Funk McLovin (Dave)
 - articulatelyComposed (Rose)
 URLs:
 - https://funkmclovin.bandcamp.com/track/daves-ballad-reprise
-Lyrics:
+Lyrics: |-
     DAVE: so yeah basically uh
     DAVE: i got pregnant with a paradox clone of june
     DAVE: and that was my weekend

@@ -3,19 +3,19 @@ Artist: Funk McLovin
 Date: April 13, 2020
 Date Added: April 12, 2021
 Cover Art: Funk McLovin
-Has Track Art: no
-Color: #a5f0a7
+Has Track Art: false
+Color: '#a5f0a7'
 Groups:
 - Funk McLovin
 - Fandom
 URLs:
 - https://funkmclovin.bandcamp.com/album/the-funk-mclovin-homestuck-experience
--------------------------------------------------------------------------------
+---
 Track: Introduction
 Duration: 0:50
 URLs:
 - https://funkmclovin.bandcamp.com/track/introduction
-Lyrics:
+Lyrics: |-
     Hello everybody!
     My name is Funk McLovin. You might know me as Jojo. I wanna wish everyone a happy 4/13. As you know, this day signifies a very special person's birthday. So, before I start the album, I'd like to sing them a happy birthday right now.
 
@@ -27,14 +27,14 @@ Lyrics:
     If you said "cha cha cha" or ended the song with "and many more," I assign you Dave Kin.
 
     Now please, enjoy: Funk McLovin's Homestuck music album.
--------------------------------------------------------------------------------
+---
 Track: The Strider Rap-Off
-Duration: 3:16
+Duration: '3:16'
 Original Date: April 9, 2020
 URLs:
 - https://funkmclovin.bandcamp.com/track/the-strider-rap-off
 - https://www.youtube.com/watch?v=SkDY73uNxtE
-Lyrics:
+Lyrics: |-
     DIRK: Hey, dude.
     DAVE: hey dirk
     DIRK: I need a second on the rap battle today. You up?
@@ -139,23 +139,23 @@ Lyrics:
     DIRK: Fucking sick.
 
     (<i>Credits to <a href="https://www.youtube.com/channel/UCPFTOXaTJ665xSDVxoV6wgQ">Vinyl</a> for <a href="https://www.youtube.com/watch?v=SkDY73uNxtE&lc=Ugxw9X0PulMJTLiITwV4AaABAg">transcription</a>.</i>)
--------------------------------------------------------------------------------
+---
 Track: Jade Defender
-Duration: 2:21
+Duration: '2:21'
 Original Date: February 21, 2020
 URLs:
 - https://funkmclovin.bandcamp.com/track/jade-defender
 - https://www.youtube.com/watch?v=y0jzBu7IZWU
--------------------------------------------------------------------------------
+---
 Track: GameGoth
-Duration: 1:42
+Duration: '1:42'
 Original Date: January 28, 2020
 References:
 - GameBro (Original 1990 Mix)
 URLs:
 - https://funkmclovin.bandcamp.com/track/gamegoth
 - https://www.youtube.com/watch?v=QLHdyAM4ujs
-Lyrics:
+Lyrics: |-
     (Welcome, mortals, to the best - and last! - game of your life. Mwahahahahahahaaaa!)
 
     I'm the GameGoth, and I don't mess around
@@ -190,14 +190,14 @@ Lyrics:
     I'd say "better luck next time" but that won't be the case
     Another victim claimed to the darkest gaming ace
     Hahahaha!
--------------------------------------------------------------------------------
+---
 Track: Less Pale, More Pail
-Duration: 2:03
+Duration: '2:03'
 Original Date: February 10, 2020
 URLs:
 - https://funkmclovin.bandcamp.com/track/less-pale-more-pail
 - https://www.youtube.com/watch?v=LYQj9F5fLMI
-Lyrics:
+Lyrics: |-
     Don't wanna be your best frieeeeeeeeeeeeeeeeeeeend
     Don't wanna be your moiraaaaaaaaaaaaaaaaaaail
     I wanna climb inside all of your sopor slime
@@ -224,35 +224,35 @@ Lyrics:
     (Oh, baby. Please don't make me beg.
     'Cause I will beg. I don't wanna beg but I will.
     I definitely will beg. If you make me.)
--------------------------------------------------------------------------------
-Track: Steel Bastille: Heart of Light, Crown of Thorns
-Duration: 2:58
+---
+Track: 'Steel Bastille: Heart of Light, Crown of Thorns'
+Duration: '2:58'
 Original Date: February 26, 2020
 URLs:
 - https://funkmclovin.bandcamp.com/track/steel-bastille-heart-of-light-crown-of-thorns
 - https://www.youtube.com/watch?v=8DDPym9XkRk
--------------------------------------------------------------------------------
+---
 Track: Vrissy's Theme
-Duration: 2:29
+Duration: '2:29'
 Original Date: January 2, 2020
 URLs:
 - https://funkmclovin.bandcamp.com/track/vrissys-theme
 - https://www.youtube.com/watch?v=w86Mq0kLnwQ
--------------------------------------------------------------------------------
+---
 Track: Vogue Rogue
-Duration: 2:09
+Duration: '2:09'
 Original Date: January 6, 2020
 URLs:
 - https://funkmclovin.bandcamp.com/track/vogue-rogue
 - https://www.youtube.com/watch?v=ttk-q7BonIE
--------------------------------------------------------------------------------
+---
 Track: Ult!Dirk Can't Rap
 Duration: 0:59
 Original Date: April 3, 2020
 URLs:
 - https://funkmclovin.bandcamp.com/track/ult-dirk-cant-rap
 - https://www.youtube.com/watch?v=btUK0HAPXeQ
-Lyrics:
+Lyrics: |-
     (Awwww yeah. You better synchronize your watches, 'cause it's Dirk time, baby.)
 
     Dirk Strider making bars
@@ -287,9 +287,9 @@ Lyrics:
     I wonder how Jane's doing? God I miss Jake
 
     (--Rose get the fuck out of here!)
--------------------------------------------------------------------------------
+---
 Track: Vriska's Theme (Off The Shits Edition)
-Duration: 3:50
+Duration: '3:50'
 References: Vriska's Theme
 URLs:
 - https://funkmclovin.bandcamp.com/track/vriskas-theme-off-the-shits-edition
