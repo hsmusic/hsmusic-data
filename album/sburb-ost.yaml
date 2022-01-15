@@ -1,7 +1,5 @@
 Album: Sburb OST
 Directory: sburb-ost
-Banner Art:
-- melodiousDiscord
 Banner Dimensions: 1100x203
 Date: November 24, 2012
 Date Added: May 25, 2020
@@ -13,6 +11,8 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/album/sburb-ost
 - https://www.youtube.com/playlist?list=PL2E1aOkERtLXq9YuH-q42kkqvsYGl7fvD
 Cover Artists:
+- melodiousDiscord
+Banner Artists:
 - melodiousDiscord
 ---
 Group: Disk 1
@@ -30,26 +30,26 @@ Track: Waiting For Adventure [Loading Screen]
 Directory: waiting-for-adventure
 Artist: Michael Guy Bowman
 Duration: '1:28'
-References:
-- track:sburban-jungle
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/waiting-for-adventure-loading-screen
 - https://youtu.be/76qyHMO_To4
 Cover Artists:
 - Tavia Morra
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: SBURBan Prelude [Main Menu]
 Directory: sburban-prelude
 Artist: sidewalkbanana
 Duration: '6:35'
-References:
-- track:sburban-jungle
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sburban-prelude-main-menu
 - https://youtu.be/pfN56WauQMc
 Cover Artists:
 - RunDoubleRun
 - Emily
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Meta Choices [Options]
 Directory: meta-choices
@@ -66,13 +66,13 @@ Track: Ignorance Is Bliss [Tutorial]
 Directory: ignorance-is-bliss
 Artist: Marcy Nabors
 Duration: '1:40'
-References:
-- Homestuck Anthem
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/ignorance-is-bliss-tutorial
 - https://youtu.be/yvwYCNet-rg
 Cover Artists:
 - Esabelle Ryngin
+Referenced Tracks:
+- Homestuck Anthem
 ---
 Track: Metamorphic Choices [Kernel Prototyping]
 Directory: metamorphic-choices
@@ -88,38 +88,38 @@ Track: Dawn of the End [Countdown]
 Directory: dawn-of-the-end
 Artist: Max Wright
 Duration: '3:51'
-References:
-- track:sburban-jungle
-- Umbral Ultimatum
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dawn-of-the-end-countdown
 - https://youtu.be/1Go4d26_Fc4
 Cover Artists:
 - invalidgriffin
+Referenced Tracks:
+- track:sburban-jungle
+- Umbral Ultimatum
 ---
 Track: A Spirited Conversation [Sprite Interaction]
 Directory: a-spirited-conversation
 Artist: Veritas Unae, Charles Neudorf
 Duration: '2:08'
-References:
-- Metamorphic Choices [Kernel Prototyping]
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/a-spirited-conversation-sprite-interaction
 - https://youtu.be/wGWHW8Z0I20
 Cover Artists:
 - Adoxographist
+Referenced Tracks:
+- Metamorphic Choices [Kernel Prototyping]
 ---
 Track: Layers Upon Layers [Build]
 Directory: layers-upon-layers
 Artist: Marcy Nabors, Jamie Paige Stanley
 Duration: '11:47'
-References:
-- Waiting For Adventure [Loading Screen]
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/layers-upon-layers-build
 - https://youtu.be/aZk3ZyMZbto
 Cover Artists:
 - Alistair Diszrali
+Referenced Tracks:
+- Waiting For Adventure [Loading Screen]
 ---
 Track: Mysterious Messengers [Exiles]
 Directory: mysterious-messengers
@@ -215,8 +215,6 @@ Cover Artists:
 Track: On Golden Dreams [Prospit]
 Directory: on-golden-dreams
 Artist: Veritas Unae
-References:
-- track:lulling-lutescent
 Duration: '5:44'
 Art Tags:
 - Carapacians
@@ -225,6 +223,8 @@ URLs:
 - https://youtu.be/xWH3oGbPT0I
 Cover Artists:
 - invalidgriffin
+Referenced Tracks:
+- track:lulling-lutescent
 ---
 Track: Amongst Smiling Faces [Prospitian Dignitaries]
 Directory: amongst-smiling-faces
@@ -243,8 +243,6 @@ Cover Artists:
 Track: Grudge in A Minor [Jack Noir]
 Directory: grudge-in-a-minor
 Artist: Catboss
-References:
-- Liquid Negrocity
 Duration: '3:27'
 Art Tags:
 - Jack Noir
@@ -254,18 +252,20 @@ URLs:
 - https://youtu.be/QSRDbMqEKNU
 Cover Artists:
 - melodiousDiscord
+Referenced Tracks:
+- Liquid Negrocity
 ---
 Track: Lavender Lullaby [Derse Sleep]
 Directory: lavender-lullaby
 Artist: Veritas Unae
-References:
-- Planet in Shadow [Derse]
 Duration: 0:15
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/lavender-lullaby-derse-sleep
 - https://youtu.be/IVzdrWlyi2k
 Cover Artists:
 - Phosphorescence
+Referenced Tracks:
+- Planet in Shadow [Derse]
 ---
 Track: Planet in Shadow [Derse]
 Directory: planet-in-shadow
@@ -326,14 +326,14 @@ Cover Artists:
 Track: Inner Depths [Labs]
 Directory: inner-depths
 Artist: Brad Griffin
-References:
-- Outer Reaches [Veil]
 Duration: '2:24'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/inner-depths-labs
 - https://youtu.be/P9sCVSugHJk
 Cover Artists:
 - Tarranon
+Referenced Tracks:
+- Outer Reaches [Veil]
 ---
 Track: Autogenesis [Ectobiology]
 Directory: autogenesis
@@ -348,8 +348,6 @@ Cover Artists:
 Track: Broken Dreams [Prospit's Fall]
 Directory: broken-dreams
 Artist: Veritas Unae, Charles Neudorf
-References:
-- On Golden Dreams [Prospit]
 Duration: '1:45'
 Art Tags:
 - WK
@@ -360,6 +358,8 @@ URLs:
 - https://youtu.be/IXQOYNTjDL0
 Cover Artists:
 - Brad Griffin
+Referenced Tracks:
+- On Golden Dreams [Prospit]
 ---
 Track: Paradoxical Meteor Shower [Reckoning]
 Directory: paradoxical-meteor-shower
@@ -389,26 +389,26 @@ Track: ~~~~DISK 2~~~~
 Directory: disk2-sburb-ost
 Artist: Veritas Unae
 Duration: 0:09
-References:
-- Emerald Icarus [Green Sun]
-- CumuloSeerus [Oracle Clouds]
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/disk-2
 - https://youtu.be/LRgpQv4M61g
 Cover Artists:
 - melodiousDiscord
+Referenced Tracks:
+- Emerald Icarus [Green Sun]
+- CumuloSeerus [Oracle Clouds]
 ---
 Track: CumuloSeerus [Oracle Clouds]
 Directory: cumuloseerus
 Artist: Brad Griffin
 Duration: '2:24'
-References:
-- SBURBan Prelude [Main Menu]
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/cumuloseerus-oracle-clouds
 - https://youtu.be/4-h0cq--6dU
 Cover Artists:
 - Tavia Morra
+Referenced Tracks:
+- SBURBan Prelude [Main Menu]
 ---
 Track: Checkerboard Checkmate [Battlefield]
 Directory: checkerboard-checkmate
@@ -438,20 +438,18 @@ Track: Resurrection [God Tier]
 Directory: resurrection
 Artist: Brad Griffin
 Duration: '2:22'
-References:
-- track:sburban-jungle
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/resurrection-god-tier
 - https://youtu.be/nikAW_QAZ6U
 Cover Artists:
 - Kate Holden
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Land of _____ and Frogs [Frog Gathering]
 Directory: land-of-_____-and-frogs
 Artist: Veritas Unae
 Duration: '1:45'
-References:
-- Frog's Theme
 Art Tags:
 - Frogs
 URLs:
@@ -459,6 +457,8 @@ URLs:
 - https://youtu.be/eWdABIdlYgc
 Cover Artists:
 - Brad Griffin
+Referenced Tracks:
+- Frog's Theme
 ---
 Track: Rana's Abode [Frog Temple]
 Directory: ranas-abode
@@ -476,10 +476,6 @@ Track: The Will to Fight Further [Denizen Strife]
 Directory: the-will-to-fight-further
 Artist: Kevin Grant, Catboss
 Duration: '5:08'
-References:
-- The Will to Fight (Original Mix) [Denizen Strife]
-- track:showtime-piano-refrain
-- Waking the Beast [Denizen Encounter]
 Art Tags:
 - Denizens
 URLs:
@@ -487,6 +483,10 @@ URLs:
 - https://youtu.be/OZXn9yrrvAg
 Cover Artists:
 - Dawn Davis
+Referenced Tracks:
+- The Will to Fight (Original Mix) [Denizen Strife]
+- track:showtime-piano-refrain
+- Waking the Beast [Denizen Encounter]
 ---
 Track: Barren Session [Game Over]
 Directory: barren-session
@@ -536,8 +536,6 @@ Track: Endgame Execution [Black King Battle]
 Directory: endgame-execution
 Artist: Catboss
 Duration: '8:50'
-References:
-- Rex Duodecim Angelus
 Art Tags:
 - BK
 URLs:
@@ -545,6 +543,8 @@ URLs:
 - https://youtu.be/3ubrfmrP_QY
 Cover Artists:
 - shymuffin
+Referenced Tracks:
+- Rex Duodecim Angelus
 ---
 Track: Where ribbIt All Began [Genesis Frog]
 Directory: where-ribbit-all-began
@@ -586,19 +586,24 @@ Track: ~~~~BONUS~~~~
 Directory: bonus-sburb-ost
 Artist: Veritas Unae
 Duration: 0:17
-References:
-- Gods of the New World [Universe Creation]
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/bonus
 - https://youtu.be/r-mC0yxln38
 Cover Artists:
 - Veritas Unae
+Referenced Tracks:
+- Gods of the New World [Universe Creation]
 ---
 Track: The Untold Story [Skaia Exposition]
 Directory: the-untold-story
 Artist: Brad Griffin
 Duration: '3:39'
-References:
+URLs:
+- https://unofficialmspafans.bandcamp.com/track/the-untold-story-skaia-exposition
+- https://youtu.be/IoYq-Alfnr4
+Cover Artists:
+- Brad Griffin
+Referenced Tracks:
 - CumuloSeerus [Oracle Clouds]
 - Check the Chequered Castle [Battlefield Castle]
 - On Golden Dreams [Prospit]
@@ -606,11 +611,6 @@ References:
 - Overly Ostentatious Ogre [Miniboss]
 - Resurrection [God Tier]
 - Gods of the New World [Universe Creation]
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/the-untold-story-skaia-exposition
-- https://youtu.be/IoYq-Alfnr4
-Cover Artists:
-- Brad Griffin
 ---
 Track: Melody && Form && Composition [Alchemiter]
 Directory: melody-form-composition
@@ -626,14 +626,14 @@ Track: Take Flight [Battleship]
 Directory: take-flight
 Artist: Veritas Unae
 Duration: '2:46'
-References:
-- Checkerboard Checkmate [Battlefield]
-- Check the Chequered Castle [Battlefield Castle]
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/take-flight-battleship
 - https://youtu.be/VfjGp71BKt0
 Cover Artists:
 - Pseudonym
+Referenced Tracks:
+- Checkerboard Checkmate [Battlefield]
+- Check the Chequered Castle [Battlefield Castle]
 ---
 Track: Born to Die [Doomed Timeline]
 Directory: born-to-die
@@ -649,8 +649,6 @@ Track: The Will to Fight (Original Mix) [Denizen Strife]
 Directory: the-will-to-fight-original-mix
 Artist: Kevin Grant
 Duration: '4:41'
-References:
-- track:showtime-original-mix
 Art Tags:
 - Denizens
 URLs:
@@ -658,6 +656,8 @@ URLs:
 - https://youtu.be/Vv3q8rSn7Ow
 Cover Artists:
 - Dawn Davis
+Referenced Tracks:
+- track:showtime-original-mix
 ---
 Track: Prime [Pause]
 Directory: prime

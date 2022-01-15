@@ -1,6 +1,4 @@
 Album: Diverging Delicacies
-Banner Art:
-- Ephemerald
 Banner Dimensions: 1100x180
 Date: March 1, 2020
 Date Added: March 1, 2020
@@ -16,19 +14,21 @@ URLs:
 - https://www.youtube.com/playlist?list=PL1fTYKSo2grAJ--CZjFkFeFa3Uy6-xV4x
 Cover Artists:
 - Ephemerald
+Banner Artists:
+- Ephemerald
 ---
 Group: Prologue
 ---
 Track: Greetings from Earth C!
 Artist: pizzagremlin
 Duration: 0:55
-References:
-- Homestuck
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/greetings-from-earth-c
 - https://youtu.be/ZkVkyMJ1DMY
 Cover Artists:
 - Jas
+Referenced Tracks:
+- Homestuck
 ---
 Track: Hauntological Nightmares
 Artist: Kanishka
@@ -40,20 +40,18 @@ Art Tags:
 - Nepeta
 - Terezi
 - Eridan
-References:
-- Heir Transparent
-- Spirit of Storms
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/hauntological-nightmares
 - https://youtu.be/nZnE7pIikmI
 Cover Artists:
 - Tipsy
+Referenced Tracks:
+- Heir Transparent
+- Spirit of Storms
 ---
 Track: The Decision | The Division
 Artist: Viko Riféo
 Duration: '2:01'
-References:
-- The Paradox Paradigm
 Art Tags:
 - John
 - 'cw: blood (abstract)'
@@ -62,24 +60,24 @@ URLs:
 - https://youtu.be/da3L1DMzvUw
 Cover Artists:
 - BlueAmethyst
+Referenced Tracks:
+- The Paradox Paradigm
 ---
 Group: Meat Epilogue
 ---
 Track: '[MEAT EPILOGUE | 🥩]'
 Artist: ndividedbyzero
 Duration: 0:08
-References:
-- The Paradox Paradigm
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/meat-epilogue
 - https://youtu.be/j2t6H7oLODE
 Has Cover Art: false
+Referenced Tracks:
+- The Paradox Paradigm
 ---
 Track: Party God
 Artist: Cristata
 Duration: '3:58'
-References:
-- Umbral Ultimatum
 Art Tags:
 - Jade
 URLs:
@@ -87,11 +85,20 @@ URLs:
 - https://youtu.be/Qd-q9su2Sqg
 Cover Artists:
 - Crystalrina
+Referenced Tracks:
+- Umbral Ultimatum
 ---
 Track: Constituent Hearts
 Artist: Ucklin
 Duration: '2:11'
-References:
+Art Tags:
+- Dirk
+URLs:
+- https://unofficialmspafans.bandcamp.com/track/constituent-hearts
+- https://youtu.be/TLrTXAea_Pw
+Cover Artists:
+- BlueAmethyst
+Referenced Tracks:
 - English
 - Horsecatska
 - track:s-dirk-unite-synchronization-with-lyrics
@@ -116,21 +123,10 @@ References:
 - Good Morning, Dirk
 - Heart Beat
 - The Engineer
-Art Tags:
-- Dirk
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/constituent-hearts
-- https://youtu.be/TLrTXAea_Pw
-Cover Artists:
-- BlueAmethyst
 ---
 Track: The Cyan Experience
 Artist: heir-of-puns
 Duration: '3:44'
-References:
-- Homestuck Anthem
-- Cyan Beast
-- First Steps
 Art Tags:
 - Jane
 URLs:
@@ -138,11 +134,23 @@ URLs:
 - https://youtu.be/EKUHV3OmLS0
 Cover Artists:
 - Jas
+Referenced Tracks:
+- Homestuck Anthem
+- Cyan Beast
+- First Steps
 ---
 Track: THE RAREST. AND MOST INTERPRETIVE. DANCE MEATCABRE.
 Artist: ndividedbyzero
 Duration: '3:03'
-References:
+Art Tags:
+- Caliborn
+- Lil Cal
+URLs:
+- https://unofficialmspafans.bandcamp.com/track/the-rarest-and-most-interpretive-dance-meatcabre
+- https://youtu.be/uP5-_gKkDWM
+Cover Artists:
+- Aeritus
+Referenced Tracks:
 - Singularity
 - HOMOSUCK. DIRECTOR'S CUT, OF THE YEAR EDITION.
 - Eternity Served Cold
@@ -155,27 +163,10 @@ References:
 - The Lyrist
 - The Paradox Paradigm
 - Swing of the Clock
-Art Tags:
-- Caliborn
-- Lil Cal
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/the-rarest-and-most-interpretive-dance-meatcabre
-- https://youtu.be/uP5-_gKkDWM
-Cover Artists:
-- Aeritus
 ---
 Track: Irrelevance Event Horizon
 Artist: Kanishka
 Duration: '4:22'
-References:
-- Ecstasy
-- Even in Death
-- Spider8reath
-- Killed by BR8K Spider!!!!!!!!
-- Penumbra Phantasm
-- Retconjuration
-- Conflict!
-- Homestuck
 Art Tags:
 - Vriska
 - 'cw: blood (abstract)'
@@ -184,13 +175,19 @@ URLs:
 - https://youtu.be/he0MFbIDcLM
 Cover Artists:
 - Jas
+Referenced Tracks:
+- Ecstasy
+- Even in Death
+- Spider8reath
+- Killed by BR8K Spider!!!!!!!!
+- Penumbra Phantasm
+- Retconjuration
+- Conflict!
+- Homestuck
 ---
 Track: Betrayed
 Artist: Joe Ouellet
 Duration: '2:09'
-References:
-- Horschestra
-- Sunsetter
 Art Tags:
 - Dirk
 URLs:
@@ -198,13 +195,13 @@ URLs:
 - https://youtu.be/0u51YWNfNJ8
 Cover Artists:
 - swanfire
+Referenced Tracks:
+- Horschestra
+- Sunsetter
 ---
 Track: Gone in a moment
 Artist: Not Eno
 Duration: '7:12'
-References:
-- track:showtime-piano-refrain
-- Flare
 Art Tags:
 - John
 - 'cw: blood'
@@ -213,18 +210,13 @@ URLs:
 - https://youtu.be/3tE1U0MubAU
 Cover Artists:
 - ricemilk
+Referenced Tracks:
+- track:showtime-piano-refrain
+- Flare
 ---
 Track: I Am Ascending (And It Is Terrible)
 Artist: heir-of-puns
 Duration: '7:09'
-References:
-- Black Rose / Green Sun
-- Lilith in Starlight
-- At The Price of Oblivion
-- track:aggrieve
-- Flare
-- track:endless-climb
-- track:chorale-for-jaspers
 Art Tags:
 - Rose
 - Green Sun
@@ -233,15 +225,18 @@ URLs:
 - https://youtu.be/Bs51Pzlg2oM
 Cover Artists:
 - Spades
+Referenced Tracks:
+- Black Rose / Green Sun
+- Lilith in Starlight
+- At The Price of Oblivion
+- track:aggrieve
+- Flare
+- track:endless-climb
+- track:chorale-for-jaspers
 ---
 Track: Come
 Artist: Grace Medley
 Duration: '3:45'
-References:
-- Limelight
-- Voidlight
-- track:canwave3-track6
-- Glide
 Art Tags:
 - Jade
 - Alternate Calliope
@@ -250,14 +245,16 @@ URLs:
 - https://youtu.be/zLC2UzTf6Oc
 Cover Artists:
 - Mikkynga
+Referenced Tracks:
+- Limelight
+- Voidlight
+- track:canwave3-track6
+- Glide
 ---
 Track: Kamina Burana (Ascend to the highest point of the building)
 Artist: Grace Medley
 Duration: '3:56'
 Directory: kamina-burana
-References:
-- Orange Hat
-- track:upward-movement-dave-owns
 Art Tags:
 - Dirk
 - Jade
@@ -270,12 +267,13 @@ Commentary: |-
     <img src="media/misc/kamina-burana-bonus.jpeg" width="1400" height="1400">
 Cover Artists:
 - Mikkynga
+Referenced Tracks:
+- Orange Hat
+- track:upward-movement-dave-owns
 ---
 Track: Giving Up the Ghost
 Artist: Kanishka
 Duration: '4:59'
-References:
-- Lifdoff
 Art Tags:
 - Terezi
 - Jane
@@ -284,6 +282,8 @@ URLs:
 - https://youtu.be/Rp3KuUqhyew
 Cover Artists:
 - ricemilk
+Referenced Tracks:
+- Lifdoff
 ---
 Track: Pursuit in Polykrome
 Artist: heir-of-puns
@@ -303,12 +303,12 @@ Group: Candy Epilogue
 Track: '[CANDY EPILOGUE | 🍭]'
 Artist: ndividedbyzero
 Duration: 0:08
-References:
-- The Paradox Paradigm
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/candy-epilogue
 - https://youtu.be/C6wP1FPHMKQ
 Has Cover Art: false
+Referenced Tracks:
+- The Paradox Paradigm
 ---
 Track: Athazagoraphobia
 Artist: Toris Crow
@@ -324,10 +324,6 @@ Cover Artists:
 Track: Repentance Galore
 Artist: Kanishka
 Duration: '2:11'
-References:
-- Heir of Grief
-- Theme
-- Purple Bard
 Art Tags:
 - Gamzee
 URLs:
@@ -335,6 +331,10 @@ URLs:
 - https://youtu.be/wBbViIX0mtg
 Cover Artists:
 - cherry bomb bunny
+Referenced Tracks:
+- Heir of Grief
+- Theme
+- Purple Bard
 ---
 Track: RUMBLE IN DA PUMPKIN PATCH
 Artist: pizzagremlin
@@ -351,12 +351,6 @@ Cover Artists:
 Track: Remember Me When I Am Gone Away
 Artist: Kal-la-kal-la
 Duration: '4:28'
-References:
-- Remember
-- Homestuck Anthem
-- Do You Remem8er Me
-- Penumbra Phantasm
-- Infinity Mechanism
 Art Tags:
 - Terezi
 URLs:
@@ -368,12 +362,16 @@ Lyrics: |-
     Yet if you should forget me for a while<br>And afterwards remember, do not grieve:<br>For if the darkness and corruption leave<br>A vestige of the thoughts that once I had,<br>Better by far you should forget and smile<br>Than that you should remember and be sad.
 Cover Artists:
 - Cosmic
+Referenced Tracks:
+- Remember
+- Homestuck Anthem
+- Do You Remem8er Me
+- Penumbra Phantasm
+- Infinity Mechanism
 ---
 Track: Dirk's Dreamers
 Artist: heir-of-puns
 Duration: '2:45'
-References:
-- Derse Dreamers
 Art Tags:
 - Dirk
 - 'cw: hanging'
@@ -383,19 +381,12 @@ URLs:
 - https://youtu.be/IS8RH6q_BT0
 Cover Artists:
 - Skyplayer
+Referenced Tracks:
+- Derse Dreamers
 ---
 Track: Ghost Hole
 Artist: heir-of-puns
 Duration: '4:38'
-References:
-- English
-- The Lemonsnout Turnabout
-- Penumbra Phantasm
-- track:MeGaLoVania
-- track:upward-movement-dave-owns
-- Black Rose / Green Sun
-- Courser
-- Lotus
 Art Tags:
 - Terezi
 - John
@@ -410,13 +401,19 @@ URLs:
 - https://youtu.be/85EflC57Ob0
 Cover Artists:
 - Jas
+Referenced Tracks:
+- English
+- The Lemonsnout Turnabout
+- Penumbra Phantasm
+- track:MeGaLoVania
+- track:upward-movement-dave-owns
+- Black Rose / Green Sun
+- Courser
+- Lotus
 ---
 Track: Heritage for the Future
 Artist: Kanishka
 Duration: '6:30'
-References:
-- Throwdown
-- Homefree
 Art Tags:
 - Harry
 - Tavvy
@@ -427,6 +424,9 @@ URLs:
 Cover Artists:
 - swanfire
 - Jas
+Referenced Tracks:
+- Throwdown
+- Homefree
 ---
 Track: That's Kind of Xenophobic
 Artist: pizzagremlin
@@ -456,8 +456,6 @@ Artist: Kal-la-kal-la
 Contributors:
 - OneDragonArmy (Additional vocals)
 Duration: '4:07'
-References:
-- Galactic Cancer
 Art Tags:
 - Karkat
 URLs:
@@ -471,6 +469,8 @@ Lyrics: |-
     We will paint the firmament in flame,<br>Offer up our blood in sacrifice,<br><i>Sic semper tyrannis</i>, a baptism,<br>In the milk of paradise.
 Cover Artists:
 - Mikkynga
+Referenced Tracks:
+- Galactic Cancer
 ---
 Track: Postscript (Sugar Mix)
 Artist: pizzagremlin

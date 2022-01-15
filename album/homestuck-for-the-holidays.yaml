@@ -44,40 +44,40 @@ Lyrics: >-
 Track: A Skaian Christmas
 Artist: Mark Hadley
 Duration: '2:22'
-References:
-- track:skies-of-skaia
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/a-skaian-christmas
 - https://youtu.be/VPB_PlYW89M
+Referenced Tracks:
+- track:skies-of-skaia
 ---
 Track: Anthem of Rime
 Artist: Solatrus, Nick Smalley
 Duration: '3:22'
-References:
-- Carol of the Bells
-- track:frost-vol6
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/anthem-of-rime
 - https://youtu.be/AS9bJhBFXyY
+Referenced Tracks:
+- Carol of the Bells
+- track:frost-vol6
 ---
 Track: Pachelbel's Gardener
 Artist: Robert J! Lake
-References:
-- Canon in D
-- The Beginning of Something Really Excellent
 Duration: '3:58'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/pachelbels-gardener
 - https://youtu.be/O0Pnv0AKM2U
+Referenced Tracks:
+- Canon in D
+- The Beginning of Something Really Excellent
 ---
 Track: Carefree Perigee
 Artist: Toby Fox
 Duration: '1:38'
-References:
-- Carefree Action
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/carefree-perigee
 - https://youtu.be/sEFEEfJ0Rzk
+Referenced Tracks:
+- Carefree Action
 ---
 Track: The More You Know
 Artist: Nick Smalley
@@ -95,8 +95,6 @@ Lyrics: >-
 Track: The Squiddles Save Christmas
 Artist: Alex Rosetti
 Duration: '2:46'
-References:
-- Squiddles!
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/the-squiddles-save-christmas
 - https://youtu.be/YyGhvEWMyd4
@@ -126,13 +124,12 @@ Lyrics: |-
     (GET OUT OF MY LIFE DAD)
 
     (AnD tO aLl A-)
+Referenced Tracks:
+- Squiddles!
 ---
 Track: Billy the Bellsuit Diver Has Something to Say
 Artist: Erik Scheele
 Duration: '3:26'
-References:
-- Tempus adest floridum
-- Squiddles!
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/billy-the-bellsuit-diver-has-something-to-say
 - https://youtu.be/cRxCQv2nutw
@@ -145,12 +142,13 @@ Lyrics: >-
     Merry Christmas. Merry Christmas. Merry Christmas to you. Merry Christmas. Merry
     Christmas. Merry Christmas. Merry Christmas. [unmuffling] Merry Christmas to you
     and a happy New Year.)
+Referenced Tracks:
+- Tempus adest floridum
+- Squiddles!
 ---
 Track: Squiddly Night
 Artist: David Ko
 Duration: '1:01'
-References:
-- Silent Night
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/squiddly-night
 - https://youtu.be/i50tv01mJvI
@@ -164,6 +162,8 @@ Lyrics: |-
     If you just go to sleep
 
     [Indecipherable demonic whispering]
+Referenced Tracks:
+- Silent Night
 ---
 Track: The Santa Claus Interdimensional Travel Sleigh
 Artist: Nick Smalley
@@ -180,43 +180,41 @@ Lyrics: >-
 Track: Land of Light and Cheer
 Artist: Thomas Ferkol
 Duration: '1:53'
-References:
-- The First Noel
-- Clockwork Apocalypse
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/land-of-light-and-cheer
 - https://youtu.be/fwqFAtNqWhA
+Referenced Tracks:
+- The First Noel
+- Clockwork Apocalypse
 ---
 Track: Gog Rest Ye Merry Prospitians
 Artist: Thomas Ferkol
 Duration: '2:15'
-References:
-- Santa Claus Is Comin' to Town
-- God Rest You Merry, Gentlemen
-- track:sburban-jungle
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/gog-rest-ye-merry-prospitians
 - https://youtu.be/H1s0RX4ikfE
+Referenced Tracks:
+- Santa Claus Is Comin' to Town
+- God Rest You Merry, Gentlemen
+- track:sburban-jungle
 ---
 Track: Carolmanthetime
 Artist: Erik Scheele
 Contributors:
 - Robert J! Lake (intro production)
 Duration: '3:44'
-References:
+URLs:
+- https://homestuckgaiden.bandcamp.com/track/carolmanthetime
+- https://youtu.be/pCWVB-AjnXk
+Referenced Tracks:
 - Carol of the Bells
 - God Rest You Merry, Gentlemen
 - track:doctor
 - track:showtime-piano-refrain
-URLs:
-- https://homestuckgaiden.bandcamp.com/track/carolmanthetime
-- https://youtu.be/pCWVB-AjnXk
 ---
 Track: Candlelight
 Artist: Robert J! Lake
 Duration: '3:15'
-References:
-- Candles and Clockwork
 Art Tags:
 - The Felt
 URLs:
@@ -237,6 +235,8 @@ Lyrics: |-
     In the space behind the candlelight
 Cover Artists:
 - Richard Browne
+Referenced Tracks:
+- Candles and Clockwork
 ---
 Track: Oh, No! It's the Midnight Crew!
 Artist: Nick Smalley
@@ -252,11 +252,11 @@ Lyrics: |-
 Track: Let it Snow
 Artist: Mark Hadley
 Duration: '1:31'
-References:
-- Let it Snow! Let it Snow! Let it Snow!
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/let-it-snow
 - https://youtu.be/BaNH2BKfRKk
+Referenced Tracks:
+- Let it Snow! Let it Snow! Let it Snow!
 ---
 Track: Hella Sweet
 Artist: Nick Smalley
@@ -329,8 +329,6 @@ Group: Bonus tracks
 Track: Oh God, Christmas!
 Artist: Lost in History
 Duration: 0:40
-References:
-- track:ohgodwhat
 URLs:
 - https://youtu.be/wN6DYiH6aws
 Lyrics: |-
@@ -349,6 +347,8 @@ Lyrics: |-
     Oh God, Christmas!
     Oh God, Christmaaaaas!! Aaaaaahhh!!
     Oh, God... Christmas
+Referenced Tracks:
+- track:ohgodwhat
 ---
 Track: A Very Special Time
 Artist: Lost in History
@@ -372,8 +372,8 @@ Lyrics: |-
 Track: Candles and Merry Gentlemen
 Artist: Solatrus
 Duration: '1:02'
-References:
-- Candles and Clockwork
-- Candlelight
 URLs:
 - https://youtu.be/TG0NSG8f1RY
+Referenced Tracks:
+- Candles and Clockwork
+- Candlelight

@@ -1,8 +1,5 @@
 Album: Symphony Impossible to Play
 Artist: Clark Powell
-Banner Art:
-- Homestuck
-- Niklink (edits for wiki)
 Banner Dimensions: 1100x200
 Wallpaper Style: |-
     opacity: 0.6;
@@ -25,6 +22,9 @@ Cover Artists:
 Wallpaper Artists:
 - Homestuck
 - Quasar Nebula (edits for wiki)
+Banner Artists:
+- Homestuck
+- Niklink (edits for wiki)
 ---
 Track: I - Overture
 Duration: '7:00'
@@ -32,7 +32,7 @@ Directory: overture
 URLs:
 - https://homestuck.bandcamp.com/track/i-overture-2
 - https://youtu.be/Fi311fNF09w
-References:
+Referenced Tracks:
 - track:endless-climb
 - Crystalanthemums
 - track:atomyk-ebonpyre
@@ -46,28 +46,28 @@ References:
 ---
 Track: II - Sarabande
 Duration: '2:36'
-References:
-- track:sarabande-vol5
 Directory: sarabande-symphony
 URLs:
 - https://homestuck.bandcamp.com/track/ii-sarabande-2
 - https://youtu.be/iADicSzT0VE
+Referenced Tracks:
+- track:sarabande-vol5
 ---
 Track: III - Serenade
 Duration: '5:44'
-References:
-- Serenade
-- track:ruins
 Directory: serenade-symphony
 URLs:
 - https://homestuck.bandcamp.com/track/iii-serenade-2
 - https://youtu.be/wjvxf4QiHfU
+Referenced Tracks:
+- Serenade
+- track:ruins
 ---
 Track: IV - Anthem
 Duration: '3:48'
-References:
-- Homestuck Anthem
 Directory: anthem
 URLs:
 - https://homestuck.bandcamp.com/track/iv-anthem-2
 - https://youtu.be/FaT8T3030mA
+Referenced Tracks:
+- Homestuck Anthem

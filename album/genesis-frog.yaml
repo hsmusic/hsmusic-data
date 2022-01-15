@@ -1,8 +1,5 @@
 Album: Genesis Frog
 Artist: Alex Rosetti
-Banner Art:
-- Homestuck
-- Niklink (edits for wiki)
 Banner Dimensions: 1100x200
 Wallpaper Style: |-
     opacity: 0.85;
@@ -54,13 +51,14 @@ Cover Artists:
 Wallpaper Artists:
 - Homestuck
 - Quasar Nebula (edits for wiki)
+Banner Artists:
+- Homestuck
+- Niklink (edits for wiki)
 ---
 Group: Main album
 ---
 Track: Prelude
 Duration: '2:03'
-References:
-- Pondsquatter
 Art Tags:
 - Genesis Frog
 URLs:
@@ -71,6 +69,8 @@ Commentary: |-
     This is an album about growth, so I wanted it to start very quiet and exposed. The piece opens with a quartal chord in the harp, and after the atmosphere is established a solo clarinet introduces the main theme of the album.  A portion of the orchestra comes in after that and there’s a small swell before tapering off into a cello solo. The ensemble is pretty scarce in this one due to its subdued nature. There’s not a lot going on in this track overall, but it does its job both as the prelude to Pondsquatter and the album as a whole.
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- Pondsquatter
 ---
 Track: Pondsquatter
 Duration: '5:11'
@@ -88,9 +88,6 @@ Cover Artists:
 ---
 Track: Our Glorious Speaker
 Duration: '5:10'
-References:
-- Pondsquatter
-- Sarabande
 Art Tags:
 - Carapacians
 - Genesis Frog
@@ -103,11 +100,12 @@ Commentary: |-
     The music was representing devotion, so I wanted it to have the warmest, most tranquil tone it could. There are two chorale-like sections, the first being the passage the strings play in the beginning, and then later in the brass when the rest of the orchestra drops out for a while. The style of this piece was inspired by Taku Iwasaki’s scores, which often feature very beautiful and lush string textures. I actually don’t think I captured that very well, and in fact strayed from that idea as the piece went on. But the core of the inspiration remains and I think one can tell if they are familiar with his style. Of note is the last third of the piece which is a self-indulgent, overly-romanticized arrangement of Erik Scheele’s Sarabande. It’s such a beautiful piece and I knew from the day I started working on this that I wanted to include it, no matter how schmaltzy I made it sound. Give me a break, it was fun, okay?
 Cover Artists:
 - Rikuru
+Referenced Tracks:
+- Pondsquatter
+- Sarabande
 ---
 Track: Prospitian Folklore
 Duration: '3:38'
-References:
-- Pondsquatter
 Art Tags:
 - Carapacians
 URLs:
@@ -120,14 +118,11 @@ Commentary: |-
     After the main section is over, the piece shifts into a short woodwind chorale, and then into what I can only call a cadenza made up of tense suspended figures in the strings with an out-of-meter pulse underneath. I kind of wrote this last section accidentally, since it somehow started flowing out of the chorale and I just went with it. It seemed to have an air of urgency and importance to me, so I kept it in to represent “Skaia’s reflection through broken glass”, which is such a fascinating image. Broken glass has been a recurring motif in Homestuck and seems to hold important consequences every time it occurs, and the text implies it will be significant in the Genesis Frog’s final destination. So the atmosphere of this final section felt significant and fitting to me.
 Cover Artists:
 - Rikuru
+Referenced Tracks:
+- Pondsquatter
 ---
 Track: Consorts' Intermezzo
 Duration: 0:28
-References:
-- Buy NAK Sell DOOF
-- Pink Shells
-- Entrance of the Salamanders
-- Thip of the Tongue
 Art Tags:
 - Consorts
 - Frogs
@@ -143,11 +138,14 @@ Commentary: |-
     The character of the music during this section is a bit different than the rest of the album due to the inherent silliness of the creatures it is representing. The Consorts are all also, for lack of a better word, dumb. The music reflects that too. This intermezzo transitions from the serious tone of the first section of the album into the absurd rom that is about to follow. The idea of including two intermezzos in this album came from the Actraiser Symphonic Suite, a collection of orchestrations from the SNES game Actraiser that used this classic "in between" sort of music as a way to reiterate a recurring theme. I use these little movements in a slightly different manner, but the spirit is the same. Musically, this is a simple interlude that states all the Consort themes that are to come in a solo viola accompanied by pizzicato strings.
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- Buy NAK Sell DOOF
+- Pink Shells
+- Entrance of the Salamanders
+- Thip of the Tongue
 ---
 Track: Buy NAK Sell DOOF
 Duration: '3:50'
-References:
-- track:atomyk-ebonpyre
 Directory: buy-NAK-sell-DOOF
 Contributors:
 - Nyanface
@@ -178,11 +176,11 @@ Commentary: |-
     - Katie Caldwell
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- track:atomyk-ebonpyre
 ---
 Track: Pink Shells
 Duration: '3:22'
-References:
-- Pondsquatter
 Art Tags:
 - Consorts
 URLs:
@@ -195,11 +193,11 @@ Commentary: |-
     The middle section is a very loosely based on the Pondsquatter theme, and the high register marimba interjection makes it obvious in case you didn’t pick up on it in the first five notes. This eventually leads back into the main melody of the piece, and a couple sequences later it ends. I wonder how much it shows that I was really short on ideas for this piece. Any time it was playing up the comedy in timing or shifting feel, it felt more like I had no idea what to do and desperately stuck something in so the piece could move on. Maybe I’m being hard on it; I still think it is enjoyable to listen to. But from a compositional standpoint, it is probably the weakest on the album.
 Cover Artists:
 - Rikuru
+Referenced Tracks:
+- Pondsquatter
 ---
 Track: Entrance of the Salamanders
 Duration: '2:56'
-References:
-- Our Glorious Speaker
 Art Tags:
 - Consorts
 URLs:
@@ -212,11 +210,11 @@ Commentary: |-
     I sort of envisioned this composition as a dual piano/organ concerto in terms of how I treated the instruments. Both are featured over the orchestra, and play off it with plenty of silly textures and orchestrations. Stylistically, the oom-pah marching characteristics combined with the instrumentation may call to mind images of a circus, which is in fact how the piece got its name. It’s kind of a veiled reference, but if you know what the title is referring to then it’s easy to figure out why it resembles circus music. And of course in the spirit of things, for one last antic I finished it off with a slide whistle; an instrument I thought represented the salamanders’ bubbles pretty well.
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- Our Glorious Speaker
 ---
 Track: Thip of the Tongue
 Duration: '4:09'
-References:
-- Stoke the Forge
 Art Tags:
 - Consorts
 URLs:
@@ -229,11 +227,11 @@ Commentary: |-
     The second part is where things get interesting. It is the only section of the album where I drop the orchestra shtick completely and use an ensemble of recorders, crumhorns, pipes, and an unconventional rhythm section featuring a dulcimer. I thought about what kind of music the Iguanas would make if given the opportunity. I figured they would have a lot of primitive instruments at hand and would produce simple, joyous music. This whole section is unabashedly a tribute to Kumi Tanioka’s work in Final Fantasy: Crystal Chronicles. It’s a sort of re-imagining of this world of ancient instruments that she created, and it was one of my earliest influences. There are also seeds of Yasunori Mitsuda in here; it is such a fun piece that I don’t mind citing very strong influences here if people want to hear similar music to this.
 Cover Artists:
 - Rikuru
+Referenced Tracks:
+- Stoke the Forge
 ---
 Track: Frogs' Intermezzo
 Duration: 0:14
-References:
-- Pondsquatter
 Art Tags:
 - Consorts
 - Frogs
@@ -249,12 +247,11 @@ Commentary: |-
     This intermezzo changes the tone from the lighthearted Consort music to something more full of wonder to suit the story to come. It is a simple swell based on the Pondsquatter theme, and once it settles down, the texture becomes very sparse so as to lead into Breeding Duties.
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- Pondsquatter
 ---
 Track: Breeding Duties
 Duration: '5:09'
-References:
-- Pondsquatter
-- Prospitian Folklore
 Art Tags:
 - Jade
 - Frogs
@@ -269,10 +266,11 @@ Commentary: |-
     But still, I did have a lot of scenes brewing in my head with this one, so I think it is totally appropriate to imagine a story going along with it. Anyway, the majestic section cuts off for a few seconds, then a booming section based on the opening stumbles in and leaves as fast as it entered. From that point on the material from Pondsquatter comes in and is given the same feel as the rest of this piece, and if there was any one word I had to describe this last section with it would be, “shenanigans”. Incidentally, I consider this and Great LOFAF Expedition of 2009 to be the heart of the album. There will be more on that later in the commentary.
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- Pondsquatter
+- Prospitian Folklore
 ---
 Track: Stoke the Forge
-References:
-- Prospitian Folklore
 Duration: '3:43'
 Art Tags:
 - Frogs
@@ -285,12 +283,11 @@ Commentary: |-
     The piece opens with a brass fanfare based off the Folklore theme interspersed with anvil and bass drum hits. The decision to feature the anvil came from Dave’s denizen, Hephaestus, who is referred to as “Lord of the Forge” with little explanation other than he desired access to Jade’s Forge to repair the Caledfwlch. In fact, the entire piece has the feeling of hammering, since harsh gestures in the brass and strings are common in combination with liberal usage of timpani and bass drum. The entire piece is in Dorian, which is a mode I can rarely resist composing in, and it lends a big sense of adventure to it. Formally there is not a lot going on, other than a melody being repeated several times with different orchestration and transposition. An interesting moment occurs when the entire ensemble drops out and a flute solo comes in playing a lighter, more humorous version of the tune before heading towards the climax. All in all, it is a pretty standard theme with a solid tune despite the fact that nothing extraordinary happens for its duration. But hey, we wouldn’t want overkill would we? I was saving that for the next track.
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- Prospitian Folklore
 ---
 Track: Great LOFAF Expedition of 2009
 Duration: '4:55'
-References:
-- Pondsquatter
-- Our Glorious Speaker
 Art Tags:
 - Jade
 - Frogs
@@ -305,6 +302,9 @@ Commentary: |-
      The music makes a shift into 7/8, though no true pulse is really established. As a result, many different lines of counterpoint come in at disjointed intervals, lending to the image of a lot of different frogs hopping around in the depths of the forest. The pace picks up again when the music shifts back to simple meter and the march rhythm is brought back. There is more counterpoint here with the main motive of the piece; it is overlayed with itself in several different rhythmic rhythmic transpositions over the march ostinato. Then, after a brief interlude, the piece shifts back into 7/8 with more of a pulse, and the Pondsquatter theme is repeated in full followed by a coda based on this piece’s motive. This is one of the few pieces on the album that ends on an unambiguous tonic chord, which I thought was very refreshing at this point. Especially in light of this piece, which I promised would be overkill thanks to all the ridiculous directions it manages to go in for its duration of five minutes.
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- Pondsquatter
+- Our Glorious Speaker
 ---
 Track: The Temple's Withered Bloom
 Duration: '2:55'
@@ -326,10 +326,6 @@ Cover Artists:
 ---
 Track: Bilious
 Duration: '4:05'
-References:
-- Prospitian Folklore
-- Liquid Negrocity
-- The Temple's Withered Bloom
 Art Tags:
 - Jack Noir
 - Genesis Frog
@@ -344,11 +340,13 @@ Commentary: |-
     At this point I figured, what the hell, I’ll quote Black. It actually fits quite well with the “Jack” device from The Temple’s Withered Bloom that I bring back here, thanks to the fact that they both emphasise on the tritone. My own Jack motive begins to take over from Radiation’s, and eventually the strings are playing it in canon as it gets more and more chaotic, until everything drops out and the lower piano register begins an ostinato based on it. The orchestra builds again into more chaotic textures, the tension drops briefly, and then the theme is recapped as the climax. All in all it is probably the most exciting piece on the album, and for my first foray into more action-like music, I think it does its job well.
 Cover Artists:
 - Rikuru
+Referenced Tracks:
+- Prospitian Folklore
+- Liquid Negrocity
+- The Temple's Withered Bloom
 ---
 Track: Speaker (Skaia's Reflection)
 Duration: '2:57'
-References:
-- Pondsquatter
 Art Tags:
 - Genesis Frog
 URLs:
@@ -361,17 +359,11 @@ Commentary: |-
 Cover Artists:
 - Sylladexter
 - Rikuru
+Referenced Tracks:
+- Pondsquatter
 ---
 Track: The Vast Croak
 Duration: '5:08'
-References:
-- Pondsquatter
-- Prospitian Folklore
-- Buy NAK Sell DOOF
-- Pink Shells
-- Entrance of the Salamanders
-- Thip of the Tongue
-- Frogs' Intermezzo
 Art Tags:
 - Genesis Frog
 - 'cw: body horror (abstract)'
@@ -386,17 +378,19 @@ Commentary: |-
     The A section then returns in a transposed form before the piece ends in a very big fashion. When all appears to be said and done and the very last of the reverberation is dying off, the harp comes in. It is followed by clarinet, piano, celesta, and finally the violins playing harmonics; this is the instrumentation the album opened with. This small ensemble plays a subdued arrangement of Pondsquatter, and the album ends as it began in the vastness of paradox space. If you start the album over again, you will find that it flows seamlessly from the ending to beginning. Somewhere in this revelation lies my ultimate artistic intent with Genesis Frog, which probably involves something about infinity’s endless repetition, or life always finding a way forward, or something along those lines depending on how pretentious you want to think of me as.
 Cover Artists:
 - Rikuru
+Referenced Tracks:
+- Pondsquatter
+- Prospitian Folklore
+- Buy NAK Sell DOOF
+- Pink Shells
+- Entrance of the Salamanders
+- Thip of the Tongue
+- Frogs' Intermezzo
 ---
 Group: Bonus tracks
 ---
 Track: Pondsquatter (Live Chamber Version)
 Duration: '6:02'
-References:
-- Prelude
-- Pondsquatter
-- Frogs' Intermezzo
-- Great LOFAF Expedition of 2009
-- Breeding Duties
 URLs:
 - https://youtu.be/l07w1i-C7hs
 Commentary: |-
@@ -406,15 +400,21 @@ Commentary: |-
     During my Junior year of college, I had the opportunity to have one of my pieces read by the acclaimed Talea Ensemble, a chamber group that was visiting my college and doing a performance there. They graciously offered to read through student works and provide commentary for us. I took advantage of this in an odd way and arranged Pondsquatter for Pierrot Ensemble, an instrumentation that consists of piano, violin, cello, flute, clarinet, and in some cases percussion. This recording was made during a runthrough they did of it, and what you should keep in mind is that this was all sightread. Obviously the performance is not perfect, and I’m slightly afraid of sharing this in case I embarrass the ensemble with it, but I can guarantee that had they prepared it beforehand, it would have been perfect. However, even without prior preparation, the performance is astounding and I thank them dearly.
     In case you are reading this online and are unable to buy the album to obtain this bonus track, you can find it on both my website and my music blog, the URLs of which are provided at the end of this commentary.
 Has Cover Art: false
+Referenced Tracks:
+- Prelude
+- Pondsquatter
+- Frogs' Intermezzo
+- Great LOFAF Expedition of 2009
+- Breeding Duties
 ---
 Track: Frogsong
 Duration: '2:24'
-References:
-- Pondsquatter
-- weird moody horse shit
 URLs:
 - https://youtu.be/xINZv3-S6xU
 Commentary: |-
     <i>Alex Rosetti:</i>
     This was originally going to be in the album, but I excluded it because it didn’t fit enough with the orchestral feel and I didn’t really know where to go with it after the first minute. It’s still a very fun piece though, and I thought it was worth including as a little bonus. I may have employed heavy use of certain frog-related sound effects...it’s a bit of a weakness...
 Has Cover Art: false
+Referenced Tracks:
+- Pondsquatter
+- weird moody horse shit

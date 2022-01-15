@@ -1,7 +1,5 @@
 Album: Land of Fans and Music 4
 Directory: lofam4
-Banner Art:
-- Sozzay
 Banner Dimensions: 1100x203
 Date: September 9, 2017
 Date Added: March 16, 2020
@@ -40,13 +38,13 @@ Cover Artists:
 - Sozzay
 Wallpaper Artists:
 - Sozzay
+Banner Artists:
+- Sozzay
 ---
 Group: Disc 1
 ---
 Track: ~~DISC 1~~
 Artist: Lambda Bledsoe, ndividedbyzero
-References:
-- Homestuck Title Screen
 Duration: 0:32
 Directory: disc1-lofam4
 URLs:
@@ -60,13 +58,12 @@ Commentary: |-
     <i>Sozzay:</i>
     This piece was a very unique experience for me because it involved drawing something I was rather unfamiliar with. Before I started this piece I knew from the beginning I wanted something rather dynamic and fun and I feel the result stayed true to the image I had in mind. This piece was certainly difficult, but after some trial and error things eventually started coming together nicely. I ended up having a lot of fun trying out new brushes and mixing my favourite colors together to get a final result I was very pleased with.
 Has Cover Art: false
+Referenced Tracks:
+- Homestuck Title Screen
 ---
 Track: Merge
 Artist: Kouta, polysaw
 Duration: '3:12'
-References:
-- Serenade
-- track:beatdown-strider-style
 Art Tags:
 - Davepeta
 URLs:
@@ -81,13 +78,13 @@ Commentary: |-
     I drew this immediately following [S] Collide. Kouta later asked to use it as the track cover for Merge on SoundCloud, and I was happy to oblige. I'm honoured that they saw it as a fitting image to accompany their (very impressive) track.
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Serenade
+- track:beatdown-strider-style
 ---
 Track: Jungle
 Artist: cookiefonster
 Duration: '4:05'
-References:
-- Another Jungle
-- Oppa Toby Style
 Art Tags:
 - Jane
 - Roxy
@@ -106,6 +103,9 @@ Commentary: |-
     This art is a lovely rendition of Fitzwibble of that bit in [S] Dirk: Unite where Dirk takes Roxy and Jane along for a ride. Unfortunately, due to her foolish boorishness, Jane does not appreciate the joy of flying through the air as a bird would in spring. It is a shame, that such an enlightening experience must go ignored.
 Cover Artists:
 - Fitzwibble
+Referenced Tracks:
+- Another Jungle
+- Oppa Toby Style
 ---
 Track: Frost and Clockwork
 Artist: Circlejourney
@@ -129,9 +129,6 @@ Cover Artists:
 Track: Reunited
 Artist: Shandy
 Duration: '4:21'
-References:
-- track:sburban-jungle
-- track:endless-climb
 Art Tags:
 - Rose
 - Roxy
@@ -145,6 +142,9 @@ Commentary: |-
     Rose and Roxy's interactions are some of my favorite parts of Homestuck, the best of which is their meeting after Game Over. I've resketched and redrawn this way too much since I wanted to give this very nice track some justice. Originally the idea was much more different, I was going to draw Roxy running towards Rose with Skaia in the background, but I changed it to match the canon scene better. Overall I'm pretty happy with the final product, I hope you guys like it too!
 Cover Artists:
 - nights
+Referenced Tracks:
+- track:sburban-jungle
+- track:endless-climb
 ---
 Track: Prospitian Crescent
 Artist: Mmetafour
@@ -186,10 +186,6 @@ Cover Artists:
 Track: Midnight
 Artist: TirantBacon
 Duration: '2:47'
-References:
-- Midnight Suffer
-- Liquid Negrocity
-- Amen, Brother
 Art Tags:
 - Jack Noir
 URLs:
@@ -203,16 +199,14 @@ Commentary: |-
     I chose Midnight as my track art, mostly just because of my love for Intermission. This song is absolutely fantastic, but since I'm not the most creative person around it took me a while to come up with any concrete designs at first. I was originally going to start off with a 50/50 bust drawing of Slick and Jack, but I soon discovered that might be a little too bland. I ended up listening to the song a dozen more times until I sketched out the base idea for the finalized idea. The main challenge had just been lining everything and getting the perspective to look pretty alright, although I'm not really an expert on perspective or composition. Either way, I'm really happy with how the piece turned out, especailly with the lighting on Slick himself.
 Cover Artists:
 - Calicorn
+Referenced Tracks:
+- Midnight Suffer
+- Liquid Negrocity
+- Amen, Brother
 ---
 Track: Dersite
 Artist: Aris Martinian
 Duration: '1:51'
-References:
-- Flare
-- English
-- Derse Dreamers
-- Cascade (Beta)
-- Courser
 Art Tags:
 - Carapacians
 URLs:
@@ -225,14 +219,16 @@ Commentary: |-
     I wonder what life was like for the carapacians, floating out in space away from everything going on on the battlefield as it got prototyped. Seems kind of lonely.
 Cover Artists:
 - plaidcushion
+Referenced Tracks:
+- Flare
+- English
+- Derse Dreamers
+- Cascade (Beta)
+- Courser
 ---
 Track: Pax Condesca
 Artist: Viko Riféo
 Duration: '2:37'
-References:
-- Calamari Inkantation
-- Crystalanthemums
-- Negastrife
 Art Tags:
 - The Condesce
 URLs:
@@ -247,13 +243,14 @@ Commentary: |-
     The image's composition, in which the Condesce is encircled by the planets she has conquered and ruled, is inspired by the Diamond murals from Steven Universe.
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Calamari Inkantation
+- Crystalanthemums
+- Negastrife
 ---
 Track: Blind Pilot
 Artist: Kurtis Burton
 Duration: '4:11'
-References:
-- Gold Pilot
-- The Blind Prophet
 Art Tags:
 - The Psiioniic
 URLs:
@@ -267,12 +264,13 @@ Commentary: |-
     Additional note: this is the first of four Gold Pilot arranges to appear on the album, and boy does it start off the trend well. I hope you enjoy all their unique spins on the original!
 Cover Artists:
 - Adamantist
+Referenced Tracks:
+- Gold Pilot
+- The Blind Prophet
 ---
 Track: Daywalker ~Rise~
 Artist: Catboss
 Duration: '3:12'
-References:
-- track:daywalker-rise-contest
 Art Tags:
 - Kanaya
 URLs:
@@ -286,12 +284,12 @@ Commentary: |-
     This image has three Kanaya Maryams in it. Having two more Kanaya Maryams than Homestuck itself had is a bold creative decision, one which, in my opinion, works out rather well. I very much like the 'Naya in the foreground's halo, illuminating her face, while the Maryam furthest from the front of the scene is relatively shrouded in darkness. Consequently, her bright yellow eyes shine like a wild animal in the dead of night. Cool as hell all around, this image.
 Cover Artists:
 - Emily Jane
+Referenced Tracks:
+- track:daywalker-rise-contest
 ---
 Track: Savior of the Waking World (Cement City Remix)
 Artist: Cement City
 Duration: '5:40'
-References:
-- Savior of the Waking World
 Art Tags:
 - John
 URLs:
@@ -303,6 +301,8 @@ Commentary: |-
     For this track, Chalaite rendered a portrait of John staring down at his deathplace, after being revived by the inscrutable mechanics of sburb. Despite being killed by Bec Noir, her retains his life, and is now more powerful than ever, having attained god tier.
 Cover Artists:
 - Chalaite
+Referenced Tracks:
+- Savior of the Waking World
 ---
 Track: Skaian Dreamers
 Artist: Difarem
@@ -330,8 +330,6 @@ Cover Artists:
 Track: Emerald Waltz
 Artist: Willow Ascenzo
 Duration: '4:13'
-References:
-- Darling Kanaya
 Art Tags:
 - Kanaya
 URLs:
@@ -344,6 +342,8 @@ Commentary: |-
     A little known power held by the clearly very fictional and not at all real troll folklore creatures known as "Rainbow Drinkers" is to create flashing green silhouettes of themselves whenever they dance. This of course, holds no practical purpose whatsoever, except for the theoretical seduction of aliens who happen to resemble flighty broads.
 Cover Artists:
 - Beta
+Referenced Tracks:
+- Darling Kanaya
 ---
 Track: Intermission
 Artist: Joe Ouellet
@@ -366,9 +366,6 @@ Cover Artists:
 Track: Retconjuration
 Artist: ndividedbyzero
 Duration: '2:33'
-References:
-- Windchime Foley
-- Homestuck Anthem
 Art Tags:
 - John
 - Roxy
@@ -383,6 +380,9 @@ Commentary: |-
     I've always loved the 'John's retocn adventures' section of Homestuck, and I think it has to do with how it leads both the characterts and myself along a brisk rollercoaster of twists and turns, through unknown paths - this sense of adventure is what I tried to convey in this art.
 Cover Artists:
 - William Leonard
+Referenced Tracks:
+- Windchime Foley
+- Homestuck Anthem
 ---
 Track: Formation
 Artist: Hadron
@@ -446,11 +446,6 @@ Cover Artists:
 Track: Limelight
 Artist: psithurist
 Duration: '3:11'
-References:
-- The Lyrist
-- Flare
-- Even in Death
-- English
 Art Tags:
 - Alternate Calliope
 URLs:
@@ -463,12 +458,15 @@ Commentary: |-
     Like the song, this fantastic art was originally used for Act 8 Volume 1. It's a pretty stark contrast to the carefree art for Glide immediately before it; Alternate Calliope has now taken off her hood, with a look that indicates that she means business.
 Cover Artists:
 - Jenny
+Referenced Tracks:
+- The Lyrist
+- Flare
+- Even in Death
+- English
 ---
 Track: Bonehead Destiny (LoFaM Cut)
 Artist: Grace Medley
 Duration: '4:16'
-References:
-- Unite Synchronization
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/bonehead-destiny-lofam-cut
 - https://youtu.be/wmJt4OJoI38
@@ -479,16 +477,12 @@ Commentary: |-
     The futility of a sacrifice, the chaos of a final battle, the wrath of an arbiter, the finding of love after death, the absolute ownage of a sharply written missive. All these and more contributed to making the epic ending of Problem Sleuth what it came to be known as: a confusing clusterfuck of hilarious and completely insane shenanigans.
 Cover Artists:
 - Elanor Pam
+Referenced Tracks:
+- Unite Synchronization
 ---
 Track: Stubborn Throes
 Artist: SplitSuns
 Duration: '3:08'
-References:
-- track:chorale-for-jaspers
-- Amen, Brother
-- track:aggrieve
-- Battle Against an Unfathomable Enemy
-- At The Price of Oblivion
 Art Tags:
 - Rose
 - Horrorterrors
@@ -502,14 +496,16 @@ Commentary: |-
     This track received brand new art for its release on LOFAM4, courtesy of the talented Neiratina! With this song portraying Rose succumbing to the broodfester throes and going Grimdark, this art features Rose beginning to slip away to the eldritch Horrorterrors as well. WIth her wand gripped firmly in hand, Rose looks fiercely determined to destroy anything in her path. Her aura of golden is inexorably being snuffed out by the black tentacles that pour out of the image, even interfering with the designs in Rose's shrit and snaking their way into the background. Marked with jagged lines and dripping ink, this piece perfectly caputres Rose's last moments of innocence as she throws caution to the wind and turns herself Grimdark.
 Cover Artists:
 - Neiratina
+Referenced Tracks:
+- track:chorale-for-jaspers
+- Amen, Brother
+- track:aggrieve
+- Battle Against an Unfathomable Enemy
+- At The Price of Oblivion
 ---
 Track: My Lady Greensleeves
 Artist: Shandy
 Duration: '2:21'
-References:
-- Black Rose / Green Sun
-- Greensleeves
-- track:endless-climb
 Art Tags:
 - Rose
 - Kanaya
@@ -524,12 +520,14 @@ Commentary: |-
     This is a solemn artwork that captures a snapshot of Rose and Kanaya in a tender embrace. The piece manages to render the two lovers at their closest, while also highlighting the extremes of both of their characters. Rose's skin is tainted black to indicate her status as Grimdark, while Kanaya is glowing white as rainbow drinkers often do. Although the addition of the titular "greensleeves" to Kanaya's outfit is subtle, it helps tie the artwork even further to its song and turns it into an excellent companion.
 Cover Artists:
 - Shandy
+Referenced Tracks:
+- Black Rose / Green Sun
+- Greensleeves
+- track:endless-climb
 ---
 Track: Highland Thunder
 Artist: Thomas Ferkol
 Duration: '3:20'
-References:
-- Danger! High Voltage
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/highland-thunder
 - https://youtu.be/2sXRcKDYKZM
@@ -540,6 +538,8 @@ Commentary: |-
     At one point I described this as something along the lines of "electric Scottish war music", and that still stands. The melody in this song is absolutely iconic, if you ask me, and it gets INCREDIBLY ampled. Maybe enough to see what lies under that voltaic fault. (Spoiler: It's just a lot of xenon.) Also, the lyrics to this song are "DANGER HIGH VOLTAGE". That is all.
 Cover Artists:
 - Elanor Pam
+Referenced Tracks:
+- Danger! High Voltage
 ---
 Track: Ghosts
 Artist: David Dycus
@@ -560,10 +560,6 @@ Cover Artists:
 Track: Pilotwave
 Artist: Interrobang
 Duration: '2:37'
-References:
-- Gold Pilot
-- Courser
-- Courage
 Art Tags:
 - Jade
 - Becquerel
@@ -578,6 +574,10 @@ Commentary: |-
     This took a really long time.
 Cover Artists:
 - Robin
+Referenced Tracks:
+- Gold Pilot
+- Courser
+- Courage
 ---
 Track: Aura of Colour
 Artist: olegoleg123
@@ -602,8 +602,6 @@ Cover Artists:
 Track: Beyond the Death of the King
 Artist: Seth Massey
 Duration: '3:41'
-References:
-- Orchid Horror
 Art Tags:
 - Calmasis
 URLs:
@@ -618,14 +616,12 @@ Commentary: |-
     I must confess to loving this art style, with mostly aliased lines and two-tone shading, especially in its similarity to some of Andrew Hussie's own art in Homestuck. It's none too common to see fanart of Calmasis, so it's nice to see them rendered in a more dynamic pose than the only canon one, while still clearly recognizable as that same antihero.
 Cover Artists:
 - sailorleo
+Referenced Tracks:
+- Orchid Horror
 ---
 Track: En Masse
 Artist: The Great Anansi
 Duration: '3:38'
-References:
-- Scratch
-- English
-- Rex Duodecim Angelus
 Art Tags:
 - Doc Scratch
 URLs:
@@ -638,6 +634,10 @@ Commentary: |-
     This art primarily focuses on Doc Scratch, his profile taking up most of the canvas. There's a nice contrast between the organic and textured forms of his suit and the precisely geometric shapes such as his cueball head, the triangle cutting through his chest, and the halo of squares over him. The use of recurring motifs such as pool balls, arrows, and brooms help to connect the piece further to Scratch's roots, with the peacock texturing suggesting the foreboding Felt Manor. An interesting artwork for an enigmatic character.
 Cover Artists:
 - rawlithmora
+Referenced Tracks:
+- Scratch
+- English
+- Rex Duodecim Angelus
 ---
 Track: '[GRIEF]'
 Artist: Nicholas Nakano
@@ -676,9 +676,6 @@ Cover Artists:
 Track: Buffskull
 Artist: Noisemaker
 Duration: '2:33'
-References:
-- Spider8reath
-- Spider's Claw
 Art Tags:
 - Vriska
 - Lord English
@@ -692,12 +689,13 @@ Commentary: |-
     Buffskull was originally a part of the CANMT song "7 GRAND END," with the music syncing up to the final Act 7 flash in Homestuck. This part of the song played when Vriska and her army prepared to face off against Lord English, and the art reflects this tense moment. Vriska stands in the middle of the chaos, with the house juju towering behind her. All of this is reflected in the eye of Lord English himself, his normally radiating visage forced into the position of eight-balls. The detail on English's eye is both very sharp and a little unsettling. So although this art mirrors previous scenes in the comic, it adds its own interseting twists to the presentation to make it an exciting and engaging image.
 Cover Artists:
 - Benedict Ide
+Referenced Tracks:
+- Spider8reath
+- Spider's Claw
 ---
 Track: I'm a Member of the Midnight Crew (theh0nestman Version)
 Artist: theh0nestman
 Duration: '4:22'
-References:
-- I'm a Member of the Midnight Crew
 Art Tags:
 - CD
 URLs:
@@ -710,14 +708,12 @@ Commentary: |-
     I was asking around for iconic rock album covers to base the art on since it was rather classic rock take on the midnight crew. Someone said Nirvana's Nevermind and I laughed and laughed and went with it
 Cover Artists:
 - dodostad
+Referenced Tracks:
+- I'm a Member of the Midnight Crew
 ---
 Track: Crystalendofgames
 Artist: Jamie Paige Stanley
 Duration: '6:55'
-References:
-- Crystamanthequins
-- track:sburban-jungle
-- Flare
 Art Tags:
 - WV
 - PM
@@ -734,14 +730,16 @@ Commentary: |-
     This is one part of a larger image formed by the covers of this, [[Ultimate Alchemy]], and [[Black Hole / White Door]].
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Crystamanthequins
+- track:sburban-jungle
+- Flare
 ---
 Group: Disc 2
 ---
 Track: ~~DISC 2~~
 Artist: Lambda Bledsoe, ndividedbyzero
 Duration: 0:16
-References:
-- Jackpot
 Directory: disc2-lofam4
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/disc-2-2
@@ -754,12 +752,12 @@ Commentary: |-
     In my opinion, this track art perfectly fits the "calm before the storm" vibe of a middle before an end, like Disc 2 is before the endgame-themed Disc 3. I'll also note it looks incredibly fitting for the cover of a vinyl record, and with those bright colors and jazzy writing I'd check that hypothetical cover out the moment I saw it.
 Cover Artists:
 - Buck
+Referenced Tracks:
+- Jackpot
 ---
 Track: Hiatus
 Artist: Kevin Grant
 Duration: '2:45'
-References:
-- track:upward-movement-dave-owns
 Art Tags:
 - Gamzee
 - Terezi
@@ -774,44 +772,12 @@ Commentary: |-
     The song was made during the gigapause, if the timestamp on soundcloud was right. So, I drew part of the scene where the gigapause left off aka Terezi getting the shit kicked out of her.
 Cover Artists:
 - Trufflemeep
+Referenced Tracks:
+- track:upward-movement-dave-owns
 ---
 Track: HOMOSUCK. DIRECTOR'S CUT, OF THE YEAR EDITION.
 Artist: ndividedbyzero
 Duration: '6:40'
-References:
-- Homosuck Swan Song
-- Homosuck Anthem
-- track:upward-movement-dave-owns
-- track:beatdown-strider-style
-- track:showtime-original-mix
-- track:sburban-jungle
-- Theme
-- track:crustacean
-- Walls Covered in Blood
-- The Lemonsnout Turnabout
-- Spider's Claw
-- English
-- track:showtime-piano-refrain
-- Eternity Served Cold
-- Carne Vale
-- Warhammer of Zillyhoo
-- track:null-toby-fox
-- Hello Zepp
-- Rabbunctious!
-- The Paradox Paradigm
-- Purple Bard
-- Swing of the Clock
-- track:doctor
-- track:endless-climb
-- track:atomyk-ebonpyre
-- track:frost-vol6
-- Homestuck
-- track:dissension-original
-- Horschestra
-- Jane's Dragon
-- Cascade (Beta)
-- track:aggrieve
-- Oh Hi There, Lil Cal
 Art Tags:
 - John
 - Rose
@@ -889,16 +855,45 @@ Commentary: |-
     - [[Oh Hi There, Lil Cal]] - 6:09-6:12
 Cover Artists:
 - Nick Tucker
+Referenced Tracks:
+- Homosuck Swan Song
+- Homosuck Anthem
+- track:upward-movement-dave-owns
+- track:beatdown-strider-style
+- track:showtime-original-mix
+- track:sburban-jungle
+- Theme
+- track:crustacean
+- Walls Covered in Blood
+- The Lemonsnout Turnabout
+- Spider's Claw
+- English
+- track:showtime-piano-refrain
+- Eternity Served Cold
+- Carne Vale
+- Warhammer of Zillyhoo
+- track:null-toby-fox
+- Hello Zepp
+- Rabbunctious!
+- The Paradox Paradigm
+- Purple Bard
+- Swing of the Clock
+- track:doctor
+- track:endless-climb
+- track:atomyk-ebonpyre
+- track:frost-vol6
+- Homestuck
+- track:dissension-original
+- Horschestra
+- Jane's Dragon
+- Cascade (Beta)
+- track:aggrieve
+- Oh Hi There, Lil Cal
 ---
 Track: Three in the Morning (Ngame's Bowmix) [Explicit]
 Directory: three-in-the-morning-ngames-bowmix
 Artist: Ngame
 Duration: '5:39'
-References:
-- Three in the Morning
-- RollerCoaster Tycoon Theme
-- Fruity Pebbles Jingle
-- Bowman Remix
 Art Tags:
 - Snowman
 URLs:
@@ -911,14 +906,16 @@ Commentary: |-
     If you liked Bowman's Homestuck stuff, love comedy videos, or were just too damn intrigued by this song to stay out of the loop, I recommend giving <a href="https://youtube.com/playlist?list=PLoOnh0MiKsmJb0CsYOTzkihMcNSl6-ruw">the Stutzbows</a> (as I like to call their videos) a watch. Whether it's Scott singing you the jingle for his favorite breakfast cereal, Bowman informing you about his credit score (spoiler alert: it's 720), or both of them having some good, old-fashioned backyard fun, I'm certain there's something to enjoy for everyone.
 Cover Artists:
 - Ngame
+Referenced Tracks:
+- Three in the Morning
+- RollerCoaster Tycoon Theme
+- Fruity Pebbles Jingle
+- Bowman Remix
 ---
 Track: Schrödinger's Harbinger
 Directory: schrodingers-harbinger
 Artist: Noisemaker
 Duration: '2:21'
-References:
-- track:aggrieve
-- track:chorale-for-jaspers
 Art Tags:
 - Rose
 - Jasprose
@@ -933,6 +930,9 @@ Credits: |-
     I can't believe that Roxy thinks that Rose smothering herself in response to the heinous evils of Jasprose is so "wonderful". What a terrible mother/daughter figure.
 Cover Artists:
 - Benedict Ide
+Referenced Tracks:
+- track:aggrieve
+- track:chorale-for-jaspers
 ---
 Track: Listless Squiddly Bliss
 Artist: Marcy Nabors
@@ -953,12 +953,6 @@ Cover Artists:
 Track: All the Luck
 Artist: Kusoro
 Duration: '2:32'
-References:
-- Spider's Claw
-- track:MeGaLoVania
-- Terezi's Theme
-- Spider8ite!!!!!!!!
-- Lotus
 Art Tags:
 - Vriska
 URLs:
@@ -971,6 +965,12 @@ Commentary: |-
     Xoro was working on a little 8-song Vriska album concept for the CANMT, to be released on 8/8/2016. Though the idea never came to be, he made a couple songs for it, which then languished on the main tab of our organization sheet. Reading through the list of semi-abandoned songs there, I convinced him to put it on our Volume 8, so it ended up with some 8-related action. At some point, either the LOFAM judges listened to the album and felt it was a standout track, or Xoro submitted it on his own. The latter is possible since right around then was when Lambda put out an open call on /r/homestuck for song submissions. Either way, Xoro felt the song could bei mproved, so the song as presented here is an even more polished version of the v8lume one. Relistening, many of the changes jump out. Right away you can tell some of the instruments have changed. (Enemy Approaching, the Undertale song, is still an obvious compositional inspiration, even though the instrumentation being less electronic makes this version less similar in that sense.) Some of the mixing is better and more punchy, a skill that Xoro excels at. Terezi's theme opens the bridge, after which the song contains new composition. Returning to the original motifs of the song after the bridge, it continues to put a new spin on them. I never cease to be impressed by the musical improvements of my friends in the Homestuck fanmusic community. And I'm glad that in a managerial role, I can facilitate others' improvement. Let's all give Xoro a thumbsup for the great work here.
 Cover Artists:
 - Phil Gibson
+Referenced Tracks:
+- Spider's Claw
+- track:MeGaLoVania
+- Terezi's Theme
+- Spider8ite!!!!!!!!
+- Lotus
 ---
 Track: Wisest Wizord
 Artist: rilez, Natrox
@@ -1030,11 +1030,6 @@ Cover Artists:
 Track: Daydreamer
 Artist: electric lantern
 Duration: '1:48'
-References:
-- track:old-secret
-- Spider Dance
-- track:atomyk-ebonpyre
-- Derse Dreamers
 Art Tags:
 - Joey
 URLs:
@@ -1048,12 +1043,15 @@ Commentary: |-
     I'm personally glad Elanor took the Hiveswap route for this song's track art, because I feel it fits the song so well even beyond Old Secret. The song invokes a calm theme for Joey, and speculation on all of the possible misadventuers she'll have that we'll soon get to see. As of this writing, Hiveswap's definitive release date of September 14th was revealed three days ago, and I hold hope it won't be delayed any longer. In the meantime, Daydream is a theme that embodies thoughts of that wait and that hope, and of course, thoughts of the game itself.
 Cover Artists:
 - Elanor Pam
+Referenced Tracks:
+- track:old-secret
+- Spider Dance
+- track:atomyk-ebonpyre
+- Derse Dreamers
 ---
 Track: Grimbark
 Artist: Willow Ascenzo
 Duration: '3:37'
-References:
-- Penumbra Phantasm
 Art Tags:
 - Jade
 - 'cw: body horror'
@@ -1067,14 +1065,12 @@ Commentary: |-
     Okay, okay. Before you start listening to this song, just picture in your head the absolute BEST grimdark Jade theme. Then hit play. If you're not confused as to how Ascenzo managed to read your mind, you did something wrong.
 Cover Artists:
 - Amethyst Barron
+Referenced Tracks:
+- Penumbra Phantasm
 ---
 Track: Upward Meowvement (Davepetasprite^2 Owns)
 Artist: LydianChord
 Duration: '2:01'
-Referenes:
-- Amen, Brother
-- track:upward-movement-dave-owns
-- Nepeta's Theme
 Art Tags:
 - Davepeta
 URLs:
@@ -1086,12 +1082,14 @@ Commentary: |-
     Davepetasprite^2, Paradox Space's certified #1 cat-bird, shows us their stabs from a vantage point just beyond the Green Sun. The green and orange hues in this piece are particularly lovely.
 Cover Artists:
 - CybeR
+Referenced Tracks:
+- Amen, Brother
+- track:upward-movement-dave-owns
+- Nepeta's Theme
 ---
 Track: Requited (Dirtiest Remix)
 Artist: David Dycus
 Duration: '5:08'
-References:
-- Requited
 Art Tags:
 - Nepeta
 - Meulin
@@ -1108,12 +1106,12 @@ Commentary: |-
     The picture is all guache on aquarelle paper.
 Cover Artists:
 - Josefin B.
+Referenced Tracks:
+- Requited
 ---
 Track: Expanses of Interstellar Space
 Artist: Elaine Wang
 Duration: '4:14'
-References:
-- Gold Pilot
 Art Tags:
 - PM
 - Jack Noir
@@ -1127,6 +1125,8 @@ Commentary: |-
     A calmer, somewhat less dramatic remix of Gold Pilot. I'd imagine it gets pretty lonely exploring the EXPANSES OF INTERSTELLAR SPACE.
 Cover Artists:
 - yazshu
+Referenced Tracks:
+- Gold Pilot
 ---
 Track: Horizontal Headshot
 Artist: Aris Martinian
@@ -1138,7 +1138,17 @@ Art Tags:
 - Jake
 - 'cw: decapitation (abstract)'
 - 'cw: blood'
-References:
+URLs:
+- https://unofficialmspafans.bandcamp.com/track/horizontal-headshot
+- https://youtu.be/XfBz4kvoU7Q
+Commentary: |-
+    <i>Aris Martinian:</i>
+    Written for the Cool and New Music Team's Cool and New Homestuck 2, this is an attempt to remix Unite Synchronization in a way that fits better thematically with [S] Dirk: Synchronize and [S] Dirk: Unite. Some of the things I worked in were Orange Hat when Dirk wakes up, for example, Metamorphic Choices when the kernelsprite appears, Hate You for Meenah's cameo... Dirk's scateboard-riding I represented with Moshi Moshi?, a theme that's admittedly been a bit of a stickymotif for me (I've used it in way too many compositions). I like Moshi for an umber of reasons, not the least of which is the fact that it goes so well with so many things. What can I say? I like mashing themes together.
+    <i><b>WHATISLOSTINTHEMINES:</b></i>
+    An illustration of the events of both [S] Dirk: Synchronize and [S] Dirk: Unite. As can clearly be seen, the Red Miles tore up the spacetime continuum, resulting in all the events happening concurrently. This is exactly what happened both here and in the flashes, and definitely isn't just a clever tactic by dazed-squid to create a pretty neat track art that depicts a lot of the best parts of said flashes.
+Cover Artists:
+- dazed-squid
+Referenced Tracks:
 - Unite Synchronization
 - Orange Hat
 - track:metamorphic-choices
@@ -1153,21 +1163,21 @@ References:
 - Jungle
 - Sburban Resolution
 - track:showtime-original-mix
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/horizontal-headshot
-- https://youtu.be/XfBz4kvoU7Q
-Commentary: |-
-    <i>Aris Martinian:</i>
-    Written for the Cool and New Music Team's Cool and New Homestuck 2, this is an attempt to remix Unite Synchronization in a way that fits better thematically with [S] Dirk: Synchronize and [S] Dirk: Unite. Some of the things I worked in were Orange Hat when Dirk wakes up, for example, Metamorphic Choices when the kernelsprite appears, Hate You for Meenah's cameo... Dirk's scateboard-riding I represented with Moshi Moshi?, a theme that's admittedly been a bit of a stickymotif for me (I've used it in way too many compositions). I like Moshi for an umber of reasons, not the least of which is the fact that it goes so well with so many things. What can I say? I like mashing themes together.
-    <i><b>WHATISLOSTINTHEMINES:</b></i>
-    An illustration of the events of both [S] Dirk: Synchronize and [S] Dirk: Unite. As can clearly be seen, the Red Miles tore up the spacetime continuum, resulting in all the events happening concurrently. This is exactly what happened both here and in the flashes, and definitely isn't just a clever tactic by dazed-squid to create a pretty neat track art that depicts a lot of the best parts of said flashes.
-Cover Artists:
-- dazed-squid
 ---
 Track: One and a Half Midnight
 Artist: Kusoro
 Duration: '2:22'
-References:
+Art Tags:
+- Jack Noir
+URLs:
+- https://unofficialmspafans.bandcamp.com/track/one-and-a-half-midnight
+- https://youtu.be/Cv6Ca070MPk
+Commentary: |-
+    <i>Selan Pike:</i>
+    LET THEM FIGHT
+Cover Artists:
+- Selan Pike
+Referenced Tracks:
 - Liquid Negrocity
 - Amen, Brother
 - track:upward-movement-dave-owns
@@ -1183,23 +1193,10 @@ References:
 - Moshi Moshi?
 - English
 - track:additional-mayhem-universe-a
-Art Tags:
-- Jack Noir
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/one-and-a-half-midnight
-- https://youtu.be/Cv6Ca070MPk
-Commentary: |-
-    <i>Selan Pike:</i>
-    LET THEM FIGHT
-Cover Artists:
-- Selan Pike
 ---
 Track: Fractal Flowers Nui
 Artist: Kal-la-kal-la
 Duration: '4:43'
-References:
-- Fractal Flowers
-- Creeping in My Soul
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/fractal-flowers-nui
 - https://youtu.be/RN5LBP9kqm0
@@ -1213,16 +1210,15 @@ Commentary: |-
     Look, I should never be allowed to draw Bionicles.
 Cover Artists:
 - Selan Pike
+Referenced Tracks:
+- Fractal Flowers
+- Creeping in My Soul
 ---
 Track: Ringleader
 Artist: Cryptanark
 Contributors:
 - TirantBacon (mastering)
 Duration: '3:07'
-References:
-- English
-- Liquid Negrocity
-- Let's All Rock the Heist
 Art Tags:
 - The Felt
 URLs:
@@ -1235,56 +1231,16 @@ Commentary: |-
     Crypt's songs are always a delight to listen to, I'm so happy I got the chance to do art for one of them. (Plus it's a Crowbar track! Objectively the best Felt member. This is fact not opinion.)
 Cover Artists:
 - nights
+Referenced Tracks:
+- English
+- Liquid Negrocity
+- Let's All Rock the Heist
 ---
 Track: Dance of the Dead
 Artist: Veritas Unae
 Contributors:
 - Nick Smalley (additional vocals)
 Duration: '13:04'
-References:
-- track:showtime-piano-refrain
-- track:verdancy-bassline
-- track:chorale-for-jaspers
-- Tall, Dark and Loathsome
-- track:ballad-of-awakening
-- Versus
-- Skaian Summoning
-- Tangled Waltz
-- Omelette Sandwich
-- A Tender Moment
-- Atomic Bonsai
-- A Fairy Battle
-- Heat
-- Beta Version
-- Let's All Rock the Heist
-- Revelations II
-- Aimless Morning Gold
-- Core of Darkness
-- Escape Pod
-- Skaian Birth
-- Temporal Shenanigans
-- Pendulum
-- Skaianet
-- II - Sarabande
-- Underfoot
-- Pondsquatter
-- Red Sucker
-- Oppa Toby Style
-- Train
-- Penumbra Phantasm
-- Jack and Black Queen
-- Phantom Echoes
-- Spider8ite!!!!!!!!
-- track:gods-of-the-new-world
-- Jade Aubade
-- Bathearst's Theme
-- For Beforus
-- Four Kids and a Game They Play Together
-- Monochromatic Shenanigans
-- Rouge on the Rox
-- JUST1C3 R41NS FROM 4BOV3
-- Daydreamer
-- Sburban Metro
 Art Tags:
 - Midnight Crew
 URLs:
@@ -1347,13 +1303,54 @@ Commentary: |-
     - P[S] - [[Sburban Metro]] - 12:21-13:04
 Cover Artists:
 - Selan Pike
+Referenced Tracks:
+- track:showtime-piano-refrain
+- track:verdancy-bassline
+- track:chorale-for-jaspers
+- Tall, Dark and Loathsome
+- track:ballad-of-awakening
+- Versus
+- Skaian Summoning
+- Tangled Waltz
+- Omelette Sandwich
+- A Tender Moment
+- Atomic Bonsai
+- A Fairy Battle
+- Heat
+- Beta Version
+- Let's All Rock the Heist
+- Revelations II
+- Aimless Morning Gold
+- Core of Darkness
+- Escape Pod
+- Skaian Birth
+- Temporal Shenanigans
+- Pendulum
+- Skaianet
+- II - Sarabande
+- Underfoot
+- Pondsquatter
+- Red Sucker
+- Oppa Toby Style
+- Train
+- Penumbra Phantasm
+- Jack and Black Queen
+- Phantom Echoes
+- Spider8ite!!!!!!!!
+- track:gods-of-the-new-world
+- Jade Aubade
+- Bathearst's Theme
+- For Beforus
+- Four Kids and a Game They Play Together
+- Monochromatic Shenanigans
+- Rouge on the Rox
+- JUST1C3 R41NS FROM 4BOV3
+- Daydreamer
+- Sburban Metro
 ---
 Track: Atomyk Clockwyrk
 Artist: Marcy Nabors
 Duration: '1:56'
-References:
-- track:endless-climb
-- track:atomyk-ebonpyre
 Art Tags:
 - Dave
 URLs:
@@ -1367,6 +1364,9 @@ Commentary: |-
     Fun fact actually, this piece had a couple other variants before this version, which had Dave wearing different colored suits. One was white, and the other was red. However, after dazed-squid was suggested to try a green one instead, it managed to catch the eye quite very well indeed. As such, the green version stuck.
 Cover Artists:
 - dazed-squid
+Referenced Tracks:
+- track:endless-climb
+- track:atomyk-ebonpyre
 ---
 Track: Cleopatra's Cocktail Party
 Artist: Thomas Ferkol
@@ -1388,8 +1388,6 @@ Cover Artists:
 Track: Quest Crypt
 Artist: ndividedbyzero
 Duration: '1:19'
-References:
-- track:sburban-jungle
 Art Tags:
 - Jane
 URLs:
@@ -1403,20 +1401,12 @@ Commentary: |-
     The A6A5A1x2combo is -apart from being a mouthful- a very introspective breath after a wild, high-octane sequence. My early draft for this piece featured all four alpha kids on their respective devices, but it felt too engaged, too connected. I think this song is more reflective of solitude (the solitude that comes despite being in simultaneous chat conversations with two other people), and I hoped to convey that.
 Cover Artists:
 - sweetjegus
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Noble Ascendance
 Artist: WHATISLOSTINTHEMINES
 Duration: '6:31'
-References:
-- Even in Death
-- Another Jungle
-- track:beatdown-strider-style
-- Unite Synchronization
-- Pumpkin Party in Sea Hitler's Water Apocalypse
-- Sunsetter
-- Oppa Toby Style
-- Hate You
-- track:ruins
 Art Tags:
 - Jane
 - Roxy
@@ -1434,12 +1424,20 @@ Commentary: |-
     After her fantastic work on the Volume 5 Anthology, a project to supply Homestuck Volume 5 with unique art for each track, Aeritus supplied this wonderful image. Here, the alpha kids lie in rest, waiting for the future of attaining god tier. It... can't be comfortable to lie in rest on stone slabs. That must be hell on your back.
 Cover Artists:
 - Aeritus
+Referenced Tracks:
+- Even in Death
+- Another Jungle
+- track:beatdown-strider-style
+- Unite Synchronization
+- Pumpkin Party in Sea Hitler's Water Apocalypse
+- Sunsetter
+- Oppa Toby Style
+- Hate You
+- track:ruins
 ---
 Track: Sunslammer (Cement City Remix)
 Artist: Cement City
 Duration: '3:12'
-References:
-- Sunslammer
 Art Tags:
 - Jade
 URLs:
@@ -1462,12 +1460,12 @@ Commentary: |-
     (SFX: Toki yo Tomare.)
 Cover Artists:
 - Cro
+Referenced Tracks:
+- Sunslammer
 ---
 Track: Climbing to Infinity
 Artist: SplitSuns
 Duration: '4:28'
-References:
-- track:endless-climb
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/climbing-to-infinity
 - https://youtu.be/RZmbjMySkJY
@@ -1477,12 +1475,12 @@ Commentary: |-
     The track art is a parody of the cover of the vaporwave album "Shader Complete" by Sacred Tapestry.
 Cover Artists:
 - SplitSuns
+Referenced Tracks:
+- track:endless-climb
 ---
 Track: Beatup (Shutdown)
 Artist: Astro Kid
 Duration: '2:36'
-References:
-- Beatup
 Art Tags:
 - Dave
 - Dave's bro
@@ -1495,14 +1493,12 @@ Commentary: |-
     This art reminds me of what could have been. Oh, Bro. You could have had it all. A sweet hipster ninja buddy just like you who had your back at all times, who enjoyed being with you and never fought against the blade. You could have trained him with such bullshit free discipline mixed with such terror free compassion that his genuine confidence would never let him lose again. Not even to you, the teacher, brother and father. Then you two could stand back to back while this badass music of fraternal teamwork played in the distance, complete with a backdrop of blazing sun and raging meteors. But then you just had to throw the kid off a building and make his daily life hell. Thanks for nothing, man.
 Cover Artists:
 - Beta
+Referenced Tracks:
+- Beatup
 ---
 Track: Airtime Assault
 Artist: Cerulean
 Duration: '2:52'
-References:
-- track:beatdown-strider-style
-- track:doctor
-- track:sburban-jungle
 Art Tags:
 - John
 - Dave
@@ -1518,14 +1514,14 @@ Commentary: |-
     (ps, viko told me to say johndave is canon i guess)
 Cover Artists:
 - nuclear333
+Referenced Tracks:
+- track:beatdown-strider-style
+- track:doctor
+- track:sburban-jungle
 ---
 Track: Robert Jailbreak
 Artist: Mathias Ramalho
 Duration: '2:12'
-References:
-- Pumpkin Cravings
-- Assail
-- Jackknive
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/robert-jailbreak
 - https://youtu.be/BaiE1IJwV_E
@@ -1540,15 +1536,14 @@ Commentary: |-
     W ho Did This
 Cover Artists:
 - Jaspy
+Referenced Tracks:
+- Pumpkin Cravings
+- Assail
+- Jackknive
 ---
 Track: hors
 Artist: Hadron
 Duration: '3:17'
-References:
-- Horschestra STRONG Version
-- track:sburban-jungle
-- English
-- Let the Squiddles Sleep (End Theme)
 Art Tags:
 - John
 - Dave
@@ -1564,15 +1559,15 @@ Commentary: |-
     Jojo and Homestuck sure do have a lot of things in common, don't they? Themes of predestination, weird time shit, luck being used as a weapon, a guy without the use of his legs, horses everywhere in a certain part...it's all kind of weird and interesting. So that's why I did an EPIC JOJOKE for this trackart. If you don't understand what's going on here, read some more Jojo, I guess. Or don't. Look, Hors is a great, funny track, and this is the dank artistry it deserves as accompaniment. You're welcome.
 Cover Artists:
 - Griever
+Referenced Tracks:
+- Horschestra STRONG Version
+- track:sburban-jungle
+- English
+- Let the Squiddles Sleep (End Theme)
 ---
 Track: The Gemoni Mustard Blood
 Artist: cookiefonster
 Duration: '2:04'
-References:
-- track:the-mituna-method
-- The La2t Frontiier
-- The Blind Prophet
-- Gold Mage
 Art Tags:
 - Sollux
 URLs:
@@ -1587,13 +1582,15 @@ Commentary: |-
     Sollux is about to get down. Gotta give out some FRESH BEATS. Gotta JAM YOUR EYEBALLS AND EARHOLES WITH SOME SWEET ASS TUNES. CHECK IT OUT YO.
 Cover Artists:
 - Melissa Peebles
+Referenced Tracks:
+- track:the-mituna-method
+- The La2t Frontiier
+- The Blind Prophet
+- Gold Mage
 ---
 Track: Reconciled
 Artist: Shandy
 Duration: '4:07'
-References:
-- track:sburban-jungle
-- track:atomyk-ebonpyre
 Art Tags:
 - Dave
 - Dirk
@@ -1611,27 +1608,13 @@ Commentary: |-
     Dave and Dirk's reuinion on the spires of LOTAK was serious and poignant, but not without its sillier moments. This art is a mashup and showcase of the most ironic bullshit the Striders had to offer throughout the story. Smuppets galore, their plush rumps and jutting probosices laid alongside such gems as a Game Bro magazine, an artifacted Statue of Liberty, the lovable Squarewave and Sawtooth, and SBaHJ icons including the Big Man himself. And who could forget Guy Fieri's surprise appearance, his scream frozen in place as he prepares to assume the title of the next Antichrist? But that's a story for another time.
 Cover Artists:
 - Beta
+Referenced Tracks:
+- track:sburban-jungle
+- track:atomyk-ebonpyre
 ---
 Track: The End of Something Really Excellent
 Artist: Rhyselinn
 Duration: '5:02'
-References:
-- The Beginning of Something Really Excellent
-- track:sburban-jungle
-- track:skies-of-skaia
-- Dawn of Man
-- track:doctor
-- track:endless-climb
-- track:atomyk-ebonpyre
-- track:frost-vol6
-- Cascade (Beta)
-- Infinity Mechanism
-- Another Jungle
-- Even in Death
-- Lotus
-- Do You Remem8er Me
-- Skaian Skirmish
-- Homestuck Anthem
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-end-of-something-really-excellent
 - https://youtu.be/0XRCD67voTo
@@ -1661,17 +1644,29 @@ Commentary: |-
     - [[Homestuck Anthem]] - 4:42-4:54
 Cover Artists:
 - Rebecca Peason
+Referenced Tracks:
+- The Beginning of Something Really Excellent
+- track:sburban-jungle
+- track:skies-of-skaia
+- Dawn of Man
+- track:doctor
+- track:endless-climb
+- track:atomyk-ebonpyre
+- track:frost-vol6
+- Cascade (Beta)
+- Infinity Mechanism
+- Another Jungle
+- Even in Death
+- Lotus
+- Do You Remem8er Me
+- Skaian Skirmish
+- Homestuck Anthem
 ---
 Track: The Sin and the Salvation
 Artist: psithurist
 Contributors:
 - Lucas Haggett (bass guitar)
 Duration: '8:53'
-References:
-- Black Rose / Green Sun
-- track:showtime-original-mix
-- English
-- Homestuck Anthem
 Art Tags:
 - Gamzee
 - Caliborn
@@ -1689,19 +1684,15 @@ Commentary: |-
     I'm really glad I had the chance to draw track art for a cherub song since Caliborn is probably one of my favorite characters in Homestuck. I tried to fill this up with as many pieces of imagery of the cherub's journeys to god tier, all framed within a beautiful clock ready to be smashed with a crowbar. Side Note: Caliborn's gun was superbly hard to draw and now I can see why Hussie used a jpg image for it as often as he could.
 Cover Artists:
 - SmashCooper
+Referenced Tracks:
+- Black Rose / Green Sun
+- track:showtime-original-mix
+- English
+- Homestuck Anthem
 ---
 Track: Resend
 Artist: Noisemaker
 Duration: '4:48'
-References:
-- Cascade (Beta)
-- Crystalanthemums
-- Showdown
-- Death by Glamour
-- RollerCoaster Tycoon Theme
-- Sunsetter
-- track:showtime-piano-refrain
-- track:endless-climb
 Art Tags:
 - Caliborn
 - Gamzee
@@ -1716,14 +1707,21 @@ Commentary: |-
     originally this song was going to be replaced by ocean man, per my request. it wasn't. fuck you bambosh
 Cover Artists:
 - yazshu
+Referenced Tracks:
+- Cascade (Beta)
+- Crystalanthemums
+- Showdown
+- Death by Glamour
+- RollerCoaster Tycoon Theme
+- Sunsetter
+- track:showtime-piano-refrain
+- track:endless-climb
 ---
 Group: Disc 3
 ---
 Track: ~~DISC 3~~
 Artist: Lambda Bledsoe, ndividedbyzero
 Duration: 0:26
-References:
-- Starblaze
 Directory: disc3-lofam4
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/disc-3-2
@@ -1735,16 +1733,14 @@ Commentary: |-
     We ended up going with Starblaze because it <i>does</i> have original portions and I'm fairly sure was one of those "universal yes" songs among the judges. My second choice would've been [[Fortune Healer]], probably.
 Cover Artists:
 - Matrosha
+Referenced Tracks:
+- Starblaze
 ---
 Track: Pseudumbra Phauxtasm
 Artist: Marcy Nabors, Jamie Paige Stanley
 Contributors:
 - Matt Martin (guitar)
 Duration: '6:30'
-References:
-- Penumbra Phantasm
-- Breath of the Wild Theme
-- Sunsetter
 Art Tags:
 - John
 - Alternate Calliope
@@ -1763,12 +1759,14 @@ Commentary: |-
     While this image wasn't originally made for Pseudumbria Phauxtasm, I think it is a fitting illustration to accompany it: this track is an expansive and beautifully-made arrangement of the elusive Penumbra Phantasm, a track that has been kept under wraps for almost as long as the end of Homestuck itself.
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Penumbra Phantasm
+- Breath of the Wild Theme
+- Sunsetter
 ---
 Track: Crystalmethequins (Broken Bad)
 Artist: Astro Kid
 Duration: '6:33'
-References:
-- Crystalmethequins
 Art Tags:
 - Vriska
 - Aradia
@@ -1784,21 +1782,12 @@ Commentary: |-
     (Note: Don't do drugs, kids. Note 2: Don't even THINK of doing meth, trust on this one, please. Note 3: This isn't actually all-new, it's been around since 2013, but BOY is it still a doozy. Note 4: This is a remix of a remix of a remix. Are you a bad enough dude (or any casual moniker of your choice) to continue the chain? Note 5: I've run out of ntoes, so I guess... enjoy the song?!?!?)
 Cover Artists:
 - tti
+Referenced Tracks:
+- Crystalmethequins
 ---
 Track: Thyme on My Fries
 Artist: SplitSuns
 Duration: '3:24'
-References:
-- Axel F
-- Time on My Side
-- E.T.
-- Smackdown
-- Moonsetter
-- Waters of Nazareth
-- I'm a Member of the Midnight Crew
-- Vela-Nova
-- Unite Synchronization
-- track:MeGaLoVania
 Art Tags:
 - Dirk
 - Jake
@@ -1818,18 +1807,21 @@ Commentary: |-
     Oh, and thanks to Nights for finding the image of the sun for the line in the middle.
 Cover Artists:
 - Ephemerald
+Referenced Tracks:
+- Axel F
+- Time on My Side
+- E.T.
+- Smackdown
+- Moonsetter
+- Waters of Nazareth
+- I'm a Member of the Midnight Crew
+- Vela-Nova
+- Unite Synchronization
+- track:MeGaLoVania
 ---
 Track: Raise of the Conductor's Baton
 Artist: Hadron
 Duration: '3:02'
-References:
-- Formation
-- Skaia Voyages
-- Cascade (Beta)
-- track:sburban-jungle
-- Another Jungle
-- Celestial Fantasia
-- Homestuck Anthem
 Art Tags:
 - Alternate Calliope
 URLs:
@@ -1842,12 +1834,18 @@ Commentary: |-
     This track was amde way back in November for the [S] Finale animation, a culmination of Cool and New Web Comic lore Hadron had been working on for a long time. The track features a bunch of obscure little refefernces like Skaian Voyages and Celestial Fantasia, both amazing Beatfox songs you should probably look up, and Formation, the Hadron song you've already listened to. Beatfox is a music god, and Hadron knew just how to combine all the good leitmotifs in order to make the song feel as grand and epic as humanly possible. I actually named this track, as I feel cool Homestuck quotes like "Raise of the Conductor's Baton" ought to be used when they fit the content (and indeed, Rose raises her wand... conductorly... in the animation mentioned above. Seriously, <a href="https://www.youtube.com/watch?v=Vgw1yxGLStI">go watch</a> [S] Finale when you're done with this album).
 Cover Artists:
 - Hadron
+Referenced Tracks:
+- Formation
+- Skaia Voyages
+- Cascade (Beta)
+- track:sburban-jungle
+- Another Jungle
+- Celestial Fantasia
+- Homestuck Anthem
 ---
 Track: Radness from Concentrate
 Artist: Whimsy
 Duration: '3:19'
-References:
-- track:beatdown-strider-style
 Art Tags:
 - Dave
 URLs:
@@ -1861,6 +1859,8 @@ Commentary: |-
     Radness is a rad song so it needed a rad track art and what is mroe rad than alpha dave saoring through space on unreal air? but there's also a bit of playfulness to the song which is why I added those shitty statues of liberty. Imagine dave with pockets full of shitty statues of liberty just tossing them down on the planet as he flies by.
 Cover Artists:
 - piskomil
+Referenced Tracks:
+- track:beatdown-strider-style
 ---
 Track: Conflict!
 Artist: Emelia K.
@@ -1879,9 +1879,6 @@ Cover Artists:
 Track: Solar Momentum
 Artist: Nicholas Nakano
 Duration: '2:51'
-References:
-- Pushing Onwards
-- Sunsetter
 Art Tags:
 - PM
 - Jack Noir
@@ -1895,18 +1892,13 @@ Commentary: |-
     The pairing of aggressive electric guitar and elegant violin immediately made me think of the similarly aggressive-but-elegant PM, and the snazzy chip tune flair inspired the pixelated art style.
 Cover Artists:
 - Mags
+Referenced Tracks:
+- Pushing Onwards
+- Sunsetter
 ---
 Track: -Omega- Timeline
 Artist: Aris Martinian
 Duration: '3:07'
-References:
-- Gold Pilot
-- English
-- track:intro-canwave2
-- Of Gods and Witches
-- Science Blaster
-- Formation
-- track:sburban-jungle
 Art Tags:
 - Terezi
 URLs:
@@ -1919,15 +1911,18 @@ Commentary: |-
     Omega Timeline is a song about the Game Over timeline, which Terezi heavily assists in healing with a plan she formed herself. Naturally, then, it works for the art to show Terezi in the middle of her final journey in this timeline, inches away from finding her true potential. It fits the adventurous and determined nature of the song pretty well! The fact that the letter Omega is associated with Libra helps too, of course.
 Cover Artists:
 - cobaltmoth
+Referenced Tracks:
+- Gold Pilot
+- English
+- track:intro-canwave2
+- Of Gods and Witches
+- Science Blaster
+- Formation
+- track:sburban-jungle
 ---
 Track: Emerald Cinders
 Artist: Grace Medley
 Duration: '5:12'
-References:
-- Rhapsody in Green
-- Afraid of the Darko
-- Carne Vale
-- English
 Art Tags:
 - Snowman
 URLs:
@@ -1940,6 +1935,11 @@ Commentary: |-
     snowman a la mal from inception. credit to power for the concept!
 Cover Artists:
 - sonotcanon
+Referenced Tracks:
+- Rhapsody in Green
+- Afraid of the Darko
+- Carne Vale
+- English
 ---
 Track: Sugar Cubes
 Artist: Kusoro
@@ -1974,10 +1974,6 @@ Cover Artists:
 Track: Prospitian Monody
 Artist: Viko Riféo
 Duration: '2:04'
-References:
-- Cascade (Beta)
-- Rhapsody in Green
-- Rex Duodecim Angelus
 Art Tags:
 - Carapacians
 - 'cw: blood'
@@ -1995,16 +1991,14 @@ Commentary: |-
     Also johndave is a bad ship suck it viko
 Cover Artists:
 - Jas
+Referenced Tracks:
+- Cascade (Beta)
+- Rhapsody in Green
+- Rex Duodecim Angelus
 ---
 Track: Shatter
 Artist: Kanishka
 Duration: '1:58'
-References:
-- Double Midnight
-- Amen, Brother
-- Penumbra Phantasm
-- A Baby Legend - The Baby is 2
-- Dirgeish
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/shatter
 - https://youtu.be/dxjSHHDLekQ
@@ -2017,6 +2011,12 @@ Commentary: |-
     "Boom boom boom boom<br>I want you in my room<br>Let's spend the night together<br>From now until forever<br>Boom boom boom boom<br>I wanna double boom<br>Let's spend the night together<br>Together in my room" - Vengaboys
 Cover Artists:
 - Andiavang
+Referenced Tracks:
+- Double Midnight
+- Amen, Brother
+- Penumbra Phantasm
+- A Baby Legend - The Baby is 2
+- Dirgeish
 ---
 Track: Denizen
 Artist: Kouta
@@ -2040,13 +2040,6 @@ Artist: Interrobang
 Contributors:
 - Seijen (mastering)
 Duration: '2:20'
-References:
-- Bilious
-- Earthsea Borealis
-- English
-- Umbral Ultimatum
-- track:endless-climb
-- Even in Death
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/ultimate-alchemy
 - https://youtu.be/0mYCTAeiHGw
@@ -2059,6 +2052,13 @@ Commentary: |-
     This is one part of a larger iamge formed of the covers of this, [[Crystalendofgames]], and [[Black Hole / White Door]].
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Bilious
+- Earthsea Borealis
+- English
+- Umbral Ultimatum
+- track:endless-climb
+- Even in Death
 ---
 Track: The Sock Ruse
 Artist: Alex Votl
@@ -2087,12 +2087,6 @@ Cover Artists:
 Track: Juju Breaker
 Artist: ndividedbyzero
 Duration: '4:10'
-References:
-- Purple Bard
-- track:sburban-jungle
-- track:explore
-- English
-- Eternity Served Cold
 Art Tags:
 - The Felt
 URLs:
@@ -2107,6 +2101,12 @@ Commentary: |-
     Oh right, on another note, Crowbar's pretty sweet, I guess. Enjoy.
 Cover Artists:
 - Griever
+Referenced Tracks:
+- Purple Bard
+- track:sburban-jungle
+- track:explore
+- English
+- Eternity Served Cold
 ---
 Track: Tragic Heights
 Artist: Thomas Ferkol
@@ -2147,11 +2147,6 @@ Cover Artists:
 Track: Everlasting
 Artist: Joe Ouellet
 Duration: '4:40'
-References:
-- track:sburban-jungle
-- track:doctor
-- track:endless-climb
-- Even in Death
 Art Tags:
 - Roxy
 URLs:
@@ -2164,13 +2159,15 @@ Commentary: |-
     When I hear the song, it's a no brainer that it was about Roxy in the dreambubbles, being a remix of 'Even in Death' and all. What was tricky was figuring out what exactly to show in the track art: what angle, what aspect of the dreambubbles, and so on. I didn't want to make the art too busy, so I went for a simpler piece that showcased one of the grander moments of the 'Roxy: Sleepwalk' flash—where the music swells as Roxy falls into that dream bubble. Pinks and purples were used cause they pop on the black, and they're nice mysterious colors.
 Cover Artists:
 - PatManDX
+Referenced Tracks:
+- track:sburban-jungle
+- track:doctor
+- track:endless-climb
+- Even in Death
 ---
 Track: Crystalline Repose
 Artist: Willow Ascenzo
 Duration: '5:42'
-References:
-- Corridors of Time
-- Crystalanthemums
 Art Tags:
 - Aradia
 URLs:
@@ -2183,15 +2180,13 @@ Commentary: |-
     Chrono Trigger is a great game. Corridors of Time is a great song. Crystalanthemums is also a great song. Any questions?
 Cover Artists:
 - dodostad
+Referenced Tracks:
+- Corridors of Time
+- Crystalanthemums
 ---
 Track: Black Hole / White Door
 Artist: ehlsea
 Duration: '3:14'
-References:
-- Black Rose / Green Sun
-- track:chorale-for-jaspers
-- Courser
-- Black Hole / Green Sun
 Art Tags:
 - John
 - Rose
@@ -2217,19 +2212,15 @@ Commentary: |-
     The final boss is beaten. The game is won. The lights fade and the world begins to disappear. A gaping maw drags all into it, even the very fabric of reality. In the distance, a door opens.
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Black Rose / Green Sun
+- track:chorale-for-jaspers
+- Courser
+- Black Hole / Green Sun
 ---
 Track: Strife Mayhem
 Artist: Musical Panini
 Duration: '5:39'
-References:
-- Flare
-- Eternity Served Cold
-- Carne Vale
-- track:showtime-original-mix
-- track:beatdown-strider-style
-- Crystamanthequins
-- track:black
-- track:MeGaLoVania
 Art Tags:
 - John
 - Rose
@@ -2278,13 +2269,19 @@ Commentary: |-
     I have wanted to do something like this for a long time. Final Fantasy 6 is a big inspiration for me, particularly the in-battle sprites and backgrounds. Homestuck, with its numerous great designs, seemed like it would be really fun to render in this style. When I saw Strife Mayhem on the song list I knew what I had to do--a large-scale battle with lots of characters to match an amazing battle song with lots of leitmotifs. I pulled a few elements from my previous track arts which were sort of stabs in the same direction, particularly the background from Medium and the handmaid from Maidswap. The GUI is also a bit of a reference to the previous track art for this song on Cool and New Volume 7.
 Cover Artists:
 - Scarodactyl
+Referenced Tracks:
+- Flare
+- Eternity Served Cold
+- Carne Vale
+- track:showtime-original-mix
+- track:beatdown-strider-style
+- Crystamanthequins
+- track:black
+- track:MeGaLoVania
 ---
 Track: Moonsetter (Strider Remix)
 Artist: Cement City
 Duration: '2:26'
-References:
-- Moonsetter
-- Mad About the Boy
 Art Tags:
 - Dave
 - Dirk
@@ -2300,6 +2297,9 @@ Commentary: |-
     Honestly, the head of an ogre doesn't sound like the most comfortable chair to me, but evidently, the Striders disagree. I guess they're too... cool...
 Cover Artists:
 - Kate Griffith
+Referenced Tracks:
+- Moonsetter
+- Mad About the Boy
 ---
 Track: Exsanguinated
 Artist: Seijen
@@ -2321,9 +2321,6 @@ Cover Artists:
 Track: Premortem
 Artist: Noisemaker
 Duration: '2:12'
-References:
-- Purple Tyrant
-- track:crustacean
 Art Tags:
 - Gamzee
 - Kurloz
@@ -2338,32 +2335,13 @@ Commentary: |-
 Cover Artists:
 - 0ysTezy
 - EllenZarael
+Referenced Tracks:
+- Purple Tyrant
+- track:crustacean
 ---
 Track: Fruitjam
 Artist: ndividedbyzero
 Duration: '3:34'
-References:
-- Your Best Friend
-- Softly
-- Fall of Fall ~ Autumnal Waterfall
-- Safe Return
-- The Beginning of Something Really Excellent
-- An Apple Disaster!!
-- Ryuunosuke Akutagawa's "Kappa" ~ Candid Friend
-- Bad Apple!!
-- Native Faith
-- The Primal Scene of Japan the Girl Saw
-- Menu (Full)
-- Sleeping Terror
-- Homestuck Anthem
-- track:upward-movement-dave-owns
-- Calamari Inkantation
-- Feel (Alive)
-- Hopes and Dreams
-- Theme
-- September Pumpkin
-- Theme of Eastern Story
-- Magical Hopalong Cassidy Station
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/fruitjam
 - https://youtu.be/kKKh0izriyc
@@ -2401,6 +2379,28 @@ Commentary: |-
     - [[Magical Hopalong Cassidy Station]] - 3:18-3:29
 Cover Artists:
 - sweetjegus
+Referenced Tracks:
+- Your Best Friend
+- Softly
+- Fall of Fall ~ Autumnal Waterfall
+- Safe Return
+- The Beginning of Something Really Excellent
+- An Apple Disaster!!
+- Ryuunosuke Akutagawa's "Kappa" ~ Candid Friend
+- Bad Apple!!
+- Native Faith
+- The Primal Scene of Japan the Girl Saw
+- Menu (Full)
+- Sleeping Terror
+- Homestuck Anthem
+- track:upward-movement-dave-owns
+- Calamari Inkantation
+- Feel (Alive)
+- Hopes and Dreams
+- Theme
+- September Pumpkin
+- Theme of Eastern Story
+- Magical Hopalong Cassidy Station
 ---
 Track: Lightfall
 Artist: nights
@@ -2420,8 +2420,6 @@ Cover Artists:
 Track: Blanc
 Artist: Sean Gorter
 Duration: '5:00'
-References:
-- track:black
 Art Tags:
 - Midnight Crew
 URLs:
@@ -2434,18 +2432,12 @@ Commentary: |-
     It's been long enough since I made this image that I don't have much that I can remember to say about this, beyond feeling like I really nailed Boxcars' face.
 Cover Artists:
 - Daniel McDonald
+Referenced Tracks:
+- track:black
 ---
 Track: Collision Course (Davepeta's Movement)
 Artist: SplitSuns
 Duration: '4:05'
-References:
-- track:upward-movement-dave-owns
-- track:beatdown-strider-style
-- Sunsetter
-- CORE
-- English
-- Olive Rogue
-- Hardchorale
 Art Tags:
 - Davepeta
 - Lil Cal
@@ -2460,39 +2452,19 @@ Commentary: |-
     <img src="media/misc/collision-course-bonus.png" width="1400" height="1400">
 Cover Artists:
 - Shadok
+Referenced Tracks:
+- track:upward-movement-dave-owns
+- track:beatdown-strider-style
+- Sunsetter
+- CORE
+- English
+- Olive Rogue
+- Hardchorale
 ---
 Track: Revisit/Rewind
 Directory: revisit-rewind
 Artist: Aris Martinian
 Duration: '6:13'
-References:
-- track:doctor
-- Cascade (Beta)
-- track:sburban-jungle
-- Tick
-- Lord Spanish
-- Fruity Pebbles Jingle
-- Potato Knishes
-- The Ultimate Showdown of Ultimate Destiny
-- Rex Mille Geromius
-- Penumbra Phantasm
-- Even in Death
-- Space Jam
-- track:chorale-for-jaspers
-- At The Price of Oblivion
-- Contra
-- Ascend
-- track:MeGaLoVania
-- Moshi Moshi?
-- Unintentional Touhou
-- CONTACT
-- track:upward-movement-dave-owns
-- Formation
-- Jungle
-- Muse of Nanchos
-- Meet the Flintstones
-- track:intro-canwave2
-- RollerCoaster Tycoon Theme
 Art Tags:
 - John
 - Aradia
@@ -2535,15 +2507,40 @@ Commentary: |-
     - [[RollerCoaster Tycoon Theme]] - 5:33-6:12
 Cover Artists:
 - nights
+Referenced Tracks:
+- track:doctor
+- Cascade (Beta)
+- track:sburban-jungle
+- Tick
+- Lord Spanish
+- Fruity Pebbles Jingle
+- Potato Knishes
+- The Ultimate Showdown of Ultimate Destiny
+- Rex Mille Geromius
+- Penumbra Phantasm
+- Even in Death
+- Space Jam
+- track:chorale-for-jaspers
+- At The Price of Oblivion
+- Contra
+- Ascend
+- track:MeGaLoVania
+- Moshi Moshi?
+- Unintentional Touhou
+- CONTACT
+- track:upward-movement-dave-owns
+- Formation
+- Jungle
+- Muse of Nanchos
+- Meet the Flintstones
+- track:intro-canwave2
+- RollerCoaster Tycoon Theme
 ---
 Track: Homestuck Sonata
 Artist: David Ellis
 Contributors:
 - James Ellis (production)
 Duration: '7:46'
-References:
-- Homestuck
-- Penumbra Phantasm
 Art Tags:
 - John
 URLs:
@@ -2556,12 +2553,13 @@ Commentary: |-
     This idea came to me after scrapping a few rought drafts. Originally I planned for an artwork starring an original hero, but decided to change it to something involving John because his associated instrument is a piano. It was a difficult piece to draw, but I am very happy with the finished result and feel I created something really dynamic.
 Cover Artists:
 - Sozzay
+Referenced Tracks:
+- Homestuck
+- Penumbra Phantasm
 ---
 Track: Wicker Kingdom
 Artist: Kurtis Burton
 Duration: '3:58'
-References:
-- White King
 Art Tags:
 - WQ
 - WK
@@ -2576,22 +2574,14 @@ Commentary: |-
     A rhythmic, galloping reel brings to mind our lost monarchs.
 Cover Artists:
 - PatManDX
+Referenced Tracks:
+- White King
 ---
 Track: Skaian Rebirth
 Artist: Kris Flacke
 Contributors:
 - Tamara Fritz (vocals)
 Duration: '8:31'
-References:
-- track:skies-of-skaia
-- track:aggrieve
-- track:showtime-original-mix
-- Gardener
-- track:upward-movement-dave-owns
-- track:beatdown-strider-style
-- Even in Death
-- Homestuck Anthem
-- track:sburban-jungle
 Art Tags:
 - John
 - Rose
@@ -2613,3 +2603,13 @@ Commentary: |-
     P.S. If you don't know what spectograms are... now would be a useful time to learn.
 Cover Artists:
 - Sam Garcia
+Referenced Tracks:
+- track:skies-of-skaia
+- track:aggrieve
+- track:showtime-original-mix
+- Gardener
+- track:upward-movement-dave-owns
+- track:beatdown-strider-style
+- Even in Death
+- Homestuck Anthem
+- track:sburban-jungle

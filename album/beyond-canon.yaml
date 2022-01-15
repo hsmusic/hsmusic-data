@@ -1,7 +1,6 @@
 Album: Beyond Canon
 Date: April 13, 2020
 Date Added: April 13, 2020
-Track Art Date: June 1, 2020
 Color: '#f2a400'
 Groups:
 - Official
@@ -30,6 +29,7 @@ Commentary: |-
     <img src="media/misc/beyond-canon-bonus3.jpg" width="1400" height="1400">
 Cover Artists:
 - Xamag
+Default Track Cover Art Date: June 1, 2020
 ---
 Track: exclusion zone
 Artist: horizon
@@ -69,8 +69,6 @@ Art Tags:
 URLs:
 - https://homestuck.bandcamp.com/track/now-im-a-villain
 - https://youtu.be/-CbjEPNFCqQ
-References:
-- track:showtime-original-mix
 Commentary: |-
     <i>David Ellis:</i>
     (<a href="https://twitter.com/Ducksual/status/1249782135688437761">Twitter</a>)
@@ -79,6 +77,8 @@ Commentary: |-
     <img src="media/misc/now-im-a-villain-wip.jpg" width="981" height="939">
 Cover Artists:
 - Jas
+Referenced Tracks:
+- track:showtime-original-mix
 ---
 Track: Cosmic Carousel
 Artist: polysaw
@@ -104,8 +104,6 @@ Cover Artists:
 Track: Surprise, We're Back
 Artist: Sean Gorter
 Duration: '5:21'
-References:
-- End of Act
 Art Tags:
 - John
 - Rose
@@ -140,6 +138,8 @@ Commentary: |-
     <img src="media/misc/surprise-were-back-wip3.jpg" width="605" height="606">
 Cover Artists:
 - D'paq
+Referenced Tracks:
+- End of Act
 ---
 Track: SPLIT REALITY
 Artist: Xauric
@@ -147,8 +147,6 @@ Duration: '5:06'
 URLs:
 - https://homestuck.bandcamp.com/track/split-reality
 - https://youtu.be/XzZ7PNmcHiU
-References:
-- Alphamatic Replacement
 Commentary: |-
     <i>Xauric:</i>
     (<a href="https://twitter.com/Xauric/status/1249774701691301894">Twitter</a>)
@@ -166,6 +164,8 @@ Commentary: |-
     <img src="media/misc/split-reality-wip.jpg" width="664" height="664">
 Cover Artists:
 - Gastlu
+Referenced Tracks:
+- Alphamatic Replacement
 ---
 Track: Assembly
 Artist: Erik Scheele
@@ -432,8 +432,6 @@ Cover Artists:
 Track: Four Kids (and a Game They Played Together)
 Artist: Robert J! Lake
 Duration: '4:13'
-References:
-- Four Kids and a Game They Play Together
 Art Tags:
 - John
 - Rose
@@ -489,6 +487,8 @@ Commentary: |-
     <img src="media/misc/four-kids-and-a-game-they-played-together-wip3.jpg" width="441" height="441">
 Cover Artists:
 - star-nomad
+Referenced Tracks:
+- Four Kids and a Game They Play Together
 ---
 Track: crystal hung in firmament's descent
 Artist: Emelia K.

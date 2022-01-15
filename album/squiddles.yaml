@@ -1,8 +1,6 @@
 Album: Squiddles!
 Date: August 26, 2010
 Date Added: November 15, 2019
-Banner Art:
-- Cindy Dominguez
 Banner Dimensions: 1100x205
 Wallpaper Style: 'opacity: 0.6;'
 Has Track Art: false
@@ -16,6 +14,8 @@ URLs:
 Cover Artists:
 - Cindy Dominguez
 Wallpaper Artists:
+- Cindy Dominguez
+Banner Artists:
 - Cindy Dominguez
 ---
 Group: Main album
@@ -48,11 +48,11 @@ URLs:
 ---
 Track: Squiddle Parade
 Artist: Ian Taylor
-References:
-- Homestuck Anthem
 Duration: 0:50
 URLs:
 - https://youtu.be/gqd8XTRwzoI
+Referenced Tracks:
+- Homestuck Anthem
 ---
 Track: Squiddle March
 Artist: Erik Scheele
@@ -69,10 +69,10 @@ URLs:
 Track: Sun-Speckled Squiddly Afternoon
 Artist: Alex Rosetti
 Duration: '1:41'
-References:
-- Squiddles!
 URLs:
 - https://youtu.be/faRVzG1TZus
+Referenced Tracks:
+- Squiddles!
 ---
 Track: Squiddles Campfire
 Artist: Erik Scheele
@@ -83,10 +83,10 @@ URLs:
 Track: Friendship is Paramount
 Artist: Seth Peelle
 Duration: '3:43'
-References:
-- Squiddles!
 URLs:
 - https://youtu.be/X0DmGl7AJIU
+Referenced Tracks:
+- Squiddles!
 ---
 Track: Lazybones
 Artist: Steve Everson
@@ -204,8 +204,6 @@ Artist: Alex Rosetti
 Contributors:
 - Toby Fox (Skipper Plumbthroat)
 Duration: '2:51'
-References:
-- Catchyegrabber (Skipper Plumbthroat's Song)
 URLs:
 - https://youtu.be/4PfZu1AWTWI
 Lyrics: |-
@@ -215,27 +213,29 @@ Lyrics: |-
     (Darn those Squiddles, where are my pants?)<br>(I am embarrassed that you Squiddles have had to see my naked body.)
     (I’ll get you yet, you Squiddles!)<br>(Well, EXCUSE me, Squiddles!)<br>(Squiddles! Curse you, Squiddles!)<br>(You have yet to see the power of the Catchyegrabber!)
     (I wish I had a job! I wish I wasn’t such a- [unintelligible] this! [unintelligible] Skipper Plumbthroat!)
+Referenced Tracks:
+- Catchyegrabber (Skipper Plumbthroat's Song)
 ---
 Track: Squiddles the Movie Trailer - The Day the Unicorns Couldn't Play
 Artist: Toby Fox
 Duration: '1:51'
-References:
-- Squiddles!
 URLs:
 - https://youtu.be/9lWRGynBNVs
 Lyrics: |-
     (But... but where are the unicorns today, Mommy? Where are the unicorns?)
     (Someday, when I’m older, I’ll— I’ll find Santa Claus. He’ll bring the unicorns back, won’t he Mommy? Mommy? Where are you, Mommy? Are you with the unicorns?)
     (NOOOOOOOOOOOOOOOO!)
+Referenced Tracks:
+- Squiddles!
 ---
 Track: Carefree Princess Berryboo
 Artist: Alex Rosetti
 Duration: '2:16'
-References:
-- Carefree Action
 URLs:
 - https://youtu.be/_Z8qT1GBhds
 Lyrics: (Well EXCUSE me, Princess Berryboo!)
+Referenced Tracks:
+- Carefree Action
 ---
 Track: Mister Bowman Tells You About the Squiddles
 Artist: Michael Guy Bowman
@@ -272,9 +272,6 @@ Commentary: |-
 Track: Let the Squiddles Sleep (End Theme)
 Artist: Robert J! Lake
 Duration: '5:06'
-References:
-- Squiddles!
-Samples: Squiddles!
 URLs:
 - https://youtu.be/mpn7lahHvEc
 Lyrics: |-
@@ -286,6 +283,10 @@ Lyrics: |-
     Squeedle dee dee<br>Squeedle dee dum<br>Everyone sing a Squiddly song<br>Let's all be friends<br>And work as a team<br>Squiddles for you<br>Squiddles for me!
     Tangle Buddies<br>Let's become<br>Tangle Buddies<br>That's right<br>Tangle Buddies<br>You heard me<br>Tangle Buddies<Br>Tangle Buddies<br>Let's become<br>Tangle Buddies<br>That's right<br>Tangle Buddies<br>You heard me<br>Tangle Bu-
     My tangle[???] Tangle Buddies<br>Tangle Buddies<br>Let's become Tangle Buddies
+Referenced Tracks:
+- Squiddles!
+Sampled Tracks:
+- Squiddles!
 ---
 Group: Bonus tracks
 ---

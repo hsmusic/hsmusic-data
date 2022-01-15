@@ -1,6 +1,4 @@
 Album: The Wanderers
-Banner Art:
-- Lauren Ross
 Banner Dimensions: 1463x270
 Wallpaper Style: |-
     background-size: auto;
@@ -30,6 +28,8 @@ Commentary: |-
 Cover Artists:
 - Lauren Ross
 Wallpaper Artists:
+- Lauren Ross
+Banner Artists:
 - Lauren Ross
 ---
 Group: Main album
@@ -74,8 +74,6 @@ Cover Artists:
 Track: Gilded Sands
 Artist: Nick Smalley, Solatrus
 Duration: '4:00'
-References:
-- Stone Tower Temple
 Art Tags:
 - WV
 - Serenity
@@ -93,6 +91,8 @@ Commentary: |-
     Seriously.
 Cover Artists:
 - Nyanface
+Referenced Tracks:
+- Stone Tower Temple
 ---
 Track: Years in the Future
 Artist: Robert J! Lake
@@ -112,10 +112,6 @@ Cover Artists:
 Track: Mayor Maynot
 Artist: Toby Fox
 Duration: '3:20'
-References:
-- Mailtime
-Samples:
-- Judge Dredd
 Art Tags:
 - WV
 URLs:
@@ -139,6 +135,10 @@ Lyrics: |-
     YER. MAY, YER, MAY YER. (TAIL. MAIL, MAIL, MAY TAIL.)<br>MAY, YER, MAY YERRRRR~! (MAIL, MAIL, MAY MAILLLL~.)
 Cover Artists:
 - Shad Andrews
+Referenced Tracks:
+- Mailtime
+Sampled Tracks:
+- Judge Dredd
 ---
 Track: We Walk
 Artist: Steve Everson
@@ -161,8 +161,6 @@ Cover Artists:
 Track: Requiem for an Exile
 Artist: Solatrus
 Duration: '2:01'
-References:
-- track:requiem
 Art Tags:
 - WV
 - PM
@@ -176,12 +174,12 @@ Commentary: |-
     I’d be a bit flat sounding!
 Cover Artists:
 - Zilleniose
+Referenced Tracks:
+- track:requiem
 ---
 Track: Raggy Looking Dance
 Artist: Alex Rosetti
 Duration: '3:28'
-References:
-- Squiddles!
 Art Tags:
 - WV
 - PM
@@ -190,6 +188,8 @@ URLs:
 - https://albatrosssoup.bandcamp.com/track/raggy-looking-dance
 Cover Artists:
 - Zilleniose
+Referenced Tracks:
+- Squiddles!
 ---
 Track: Riches to Ruins Movements I & II
 Artist: Toby Fox
@@ -204,8 +204,6 @@ Cover Artists:
 Track: Litrichean Rioghail
 Artist: Malcolm Brown
 Duration: '5:00'
-References:
-- track:explore
 Art Tags:
 - PM
 URLs:
@@ -223,12 +221,12 @@ Commentary: |-
     That's really all I have to say on the matter.
 Cover Artists:
 - Hanni Brosh
+Referenced Tracks:
+- track:explore
 ---
 Track: Ruins Rising
 Artist: Michael Guy Bowman
 Duration: '5:00'
-References:
-- track:ruins
 Art Tags:
 - WV
 - Jack Noir
@@ -236,6 +234,8 @@ URLs:
 - https://youtu.be/pDYCL68d3wI
 Cover Artists:
 - Raizor
+Referenced Tracks:
+- track:ruins
 ---
 Track: What a Daring Dream
 Artist: Alex Rosetti
@@ -264,10 +264,6 @@ Cover Artists:
 Track: Nightmare
 Artist: Malcolm Brown
 Duration: '4:13'
-References:
-- Liquid Negrocity
-- Rex Duodecim Angelus
-- Carapacian Dominion
 Art Tags:
 - WV
 - Carapacians
@@ -285,20 +281,24 @@ Commentary: |-
     Also hey, 4:13. Love it when that happens.
 Cover Artists:
 - Left
+Referenced Tracks:
+- Liquid Negrocity
+- Rex Duodecim Angelus
+- Carapacian Dominion
 ---
 Group: Bonus tracks
 ---
 Track: Vagabounce Remix
 Artist: David Ko
 Duration: '1:55'
-References:
-- track:vagabounce
 Art Tags:
 - WV
 URLs:
 - https://youtu.be/P_pCaNbhExo
 Cover Artists:
 - Noot
+Referenced Tracks:
+- track:vagabounce
 ---
 Track: Tomahawk Head
 Artist: Toby Fox, Tensei

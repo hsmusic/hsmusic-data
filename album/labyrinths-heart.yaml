@@ -2,8 +2,6 @@ Album: Labyrinth's Heart
 Artist: Clark Powell
 Date: September 2, 2015
 Date Added: October 10, 2020
-Banner Art:
-- dodostad
 Banner Dimensions: 975x180
 Has Track Art: false
 Color: '#9f887a'
@@ -13,6 +11,8 @@ Groups:
 URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFZhrI8iMi4bMrEyl2ZaWd7R
 Cover Artists:
+- dodostad
+Banner Artists:
 - dodostad
 ---
 Track: Getting Lost
@@ -37,15 +37,15 @@ URLs:
 ---
 Track: Misbegotten
 Duration: '4:20'
-References:
-- Pencil Holder (demo version)
-- track:lori-and-erich-baker
 URLs:
 - https://youtu.be/9ai9ETnvXQo
 Lyrics: |-
     <i>Countless bodies remain unidentified, some ending up in unmarked graves and small border town cemeteries.</i>
 
     I went out on a forensic case, and the sheriff had a skull on his office desk. It was the skull of a younger person, and he was using it as a pencil holder. He had pens and pencils in the eye socket of this person. So that's when I decided something had to be done.
+Referenced Tracks:
+- Pencil Holder (demo version)
+- track:lori-and-erich-baker
 ---
 Track: Calypso Deep
 Duration: '1:46'
@@ -84,11 +84,11 @@ URLs:
 ---
 Track: Requiem
 Duration: '4:38'
-References:
-- Serenade
 Directory: requiem-labyrinths-heart
 URLs:
 - https://youtu.be/u4x-_BipEwA
+Referenced Tracks:
+- Serenade
 ---
 Track: I Miss Being Lost
 Duration: '2:48'

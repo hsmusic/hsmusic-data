@@ -1,9 +1,6 @@
 Album: Weird Puzzle Tunes
 Date: March 10, 2017
 Date Added: January 12, 2021
-Banner Art:
-- Selan Pike
-- ndividedbyzero (asset organizing)
 Banner Dimensions: 1100x203
 Color: '#9e80c0'
 Groups:
@@ -15,18 +12,21 @@ URLs:
 Cover Artists:
 - Selan Pike
 - XenoZane (concept)
+Banner Artists:
+- Selan Pike
+- ndividedbyzero (asset organizing)
 ---
 Group: Main album
 ---
 Track: Compensation, Adequate
 Artist: Aris Martinian
 Duration: '2:12'
-References:
-- Problem Sleuth Theme
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/compensation-adequate
 - https://youtu.be/s_uy3n2cMRk
 Has Cover Art: false
+Referenced Tracks:
+- Problem Sleuth Theme
 ---
 Track: We Have A Problem, Sleuth
 Artist: nuclear333
@@ -58,13 +58,13 @@ Cover Artists:
 Track: Defuse A Bomb
 Artist: nuclear333
 Duration: '1:22'
-References:
-- In the Hall of the Mountain King
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/defuse-a-bomb
 - https://youtu.be/7X9FgQnBWXo
 Cover Artists:
 - nuclear333
+Referenced Tracks:
+- In the Hall of the Mountain King
 ---
 Track: Fractal Flowers
 Artist: Kal-la-kal-la
@@ -96,15 +96,15 @@ Cover Artists:
 Track: You Died, Idiot
 Artist: Grace Medley
 Duration: '1:49'
-References:
-- Negastrife
-- Problem Sleuth Theme
-- DEVILHEAD RISING
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/you-died-idiot
 - https://youtu.be/hz4f-RM3YPY
 Cover Artists:
 - yazshu
+Referenced Tracks:
+- Negastrife
+- Problem Sleuth Theme
+- DEVILHEAD RISING
 ---
 Track: Monochromatic Shenanigans
 Artist: Kusoro
@@ -127,13 +127,13 @@ Cover Artists:
 Track: While the Iron's Hot
 Artist: OpsCat
 Duration: '1:38'
-References:
-- Moshi Moshi?
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/while-the-irons-hot
 - https://youtu.be/-zq98Dcf2H0
 Cover Artists:
 - OpsCat
+Referenced Tracks:
+- Moshi Moshi?
 ---
 Track: Aggress
 Artist: WHATISLOSTINTHEMINES
@@ -169,59 +169,59 @@ Cover Artists:
 Track: Bonehead Destiny
 Artist: Grace Medley
 Duration: '3:44'
-References:
-- Unite Synchronization
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/bonehead-destiny
 - https://youtu.be/6e9V8I9cuKY
 Cover Artists:
 - OpsCat
+Referenced Tracks:
+- Unite Synchronization
 ---
 Track: Semisepulchritude
 Artist: ndividedbyzero
 Duration: '3:16'
-References:
-- Aggress
-- Battle Against An Imaginary Foe
-- Problem Sleuth Theme
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/semisepulchritude
 - https://youtu.be/GDK0Ogot-nA
 Cover Artists:
 - Selan Pike
+Referenced Tracks:
+- Aggress
+- Battle Against An Imaginary Foe
+- Problem Sleuth Theme
 ---
 Track: Replicollision
 Artist: Noisemaker
 Duration: '2:25'
-References:
-- Problem Sleuth Theme
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/replicollision
 - https://youtu.be/E0afAoosOLo
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- Problem Sleuth Theme
 ---
 Group: Bonus tracks
 ---
 Track: Midnight Stew
 Artist: ndividedbyzero
 Duration: '3:50'
-References:
-- Liquid Negrocity
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/bonus-midnight-stew
 - https://youtu.be/QhjKUxa6IhY
 Cover Artists:
 - Selan Pike
+Referenced Tracks:
+- Liquid Negrocity
 ---
 Track: The Point of Going Home
 Artist: nuclear333
 Duration: '1:23'
-References:
-- Go Back
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/bonus-the-point-of-going-home
 - https://youtu.be/J9oHcnqUvw8
 Cover Artists:
 - Selan Pike
 - avocado (concept)
+Referenced Tracks:
+- Go Back

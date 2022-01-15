@@ -1,7 +1,5 @@
 Album: Tomb of the Ancestors
 Artist: Kalibration
-Banner Art:
-- GaMZ
 Banner Dimensions: 1100x203
 Wallpaper Style: |-
     background-repeat: repeat;
@@ -23,13 +21,13 @@ Cover Artists:
 - GaMZ
 Wallpaper Artists:
 - GaMZ
+Banner Artists:
+- GaMZ
 ---
 Group: Main album
 ---
 Track: ETERNAL SUFFERING
 Duration: '2:51'
-Samples:
-- Mischief Makers
 Art Tags:
 - The Signless
 - 'cw: blood'
@@ -39,6 +37,8 @@ URLs:
 Lyrics: (THROUGH FIRE, JUSTICE IS SERVED!)
 Cover Artists:
 - Brianne
+Sampled Tracks:
+- Mischief Makers
 ---
 Track: twoward2 the heaven2
 Duration: '2:22'
@@ -90,8 +90,6 @@ Cover Artists:
 ---
 Track: aN UNHOLY RITUAL,
 Duration: '2:45'
-References:
-- Spider8ite!!!!!!!!
 Art Tags:
 - The Summoner
 - Pyralspite
@@ -100,6 +98,8 @@ URLs:
 - https://youtu.be/BPflUVnQfs0
 Cover Artists:
 - Sylladexter
+Referenced Tracks:
+- Spider8ite!!!!!!!!
 ---
 Track: Immaculate Peacekeeper
 Duration: '3:03'
@@ -259,16 +259,14 @@ Has Cover Art: false
 ---
 Track: Valhalla (Scratched Disc Edit)
 Duration: '3:31'
-References:
-- Valhalla
 URLs:
 - https://youtu.be/9XzsA3Tkock
 Has Cover Art: false
+Referenced Tracks:
+- Valhalla
 ---
 Track: Spider8ite (Thief of Lounge Mix)
 Duration: '3:31'
-References:
-- Spider8ite!!!!!!!!
 URLs:
 - https://youtu.be/K7GUBOtJmwo
 Lyrics: |-
@@ -320,3 +318,5 @@ Lyrics: |-
     (With my spider bite)
     (In my world there...)
 Has Cover Art: false
+Referenced Tracks:
+- Spider8ite!!!!!!!!

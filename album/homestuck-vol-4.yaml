@@ -26,14 +26,14 @@ Commentary: |-
 Track: Hardlyquin
 Artist: Mark Hadley
 Duration: '1:38'
-References:
-- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/hardlyquin-3
 - https://youtu.be/CN04ruWv30g
 Commentary: |-
     <i>Mark Hadley:</i>
     When Andrew asked us to do something for a shock and surprise for the upcoming reveal of John's Dad's room, this is what I came up with. I slipped some Harlequin in there for good measure. The original version was exactly as it appears in the comic (complete with the record scratch at the end), and I lengthened it for the soundtrack since it was so very, very short. Somehow it came out creepier in that version.
+Referenced Tracks:
+- track:harlequin
 ---
 Track: Mutiny
 Artist: Bill Bolin
@@ -43,8 +43,6 @@ Has URLs: false
 Track: Carefree Victory
 Artist: Andrew Huo, Toby Fox
 Duration: '1:36'
-References:
-- track:carefree-action
 URLs:
 - https://homestuck.bandcamp.com/track/carefree-victory-3
 - https://youtu.be/2z1Rp2UynQE
@@ -52,13 +50,15 @@ Commentary: |-
     <i>Andrew Huo:</i>
     Carefree Victory is really Hadley's baby, and I would feel like I'm plagiarizing to really call it my own. I really just dictated his piece, called Carefree Action, put it into PXTone, added some lines, changed the tempo, and added a coda (which wasn't even used in the comic, I think?).
     One of the lines I added, for the intro, was roughly inspired by Cave Story music. I'm pretty Cave Story-influenced, especially with Homestuck stuff.
+Referenced Tracks:
+- track:carefree-action
 ---
 Track: Guardian V2
 Artist: Bill Bolin
 Duration: '1:20'
-References:
-- track:guardian
 Has URLs: false
+Referenced Tracks:
+- track:guardian
 ---
 Track: Contention
 Directory: contention-vol4
@@ -91,14 +91,14 @@ URLs:
 Track: Three in the Morning (RJ's I Can Barely Sleep In This Casino Remix)
 Artist: Robert J! Lake
 Duration: '6:29'
-References:
-- track:three-in-the-morning
-Samples:
-- track:three-in-the-morning
 Directory: three-in-the-morning-rj
 URLs:
 - https://homestuck.bandcamp.com/track/three-in-the-morning-rjs-i-can-barely-sleep-in-this-casino-remix-3
 - https://youtu.be/GACczxr7464
+Referenced Tracks:
+- track:three-in-the-morning
+Sampled Tracks:
+- track:three-in-the-morning
 ---
 Track: Doctor
 Artist: Buzinkai
@@ -106,8 +106,6 @@ Contributors:
 - Clark Powell (production)
 - Michael Vallejo (production)
 Duration: '2:37'
-References:
-- track:doctor-original-loop
 URLs:
 - https://homestuck.bandcamp.com/track/doctor-3
 - https://youtu.be/ve7TB0FggaY
@@ -117,6 +115,8 @@ Commentary: |-
     <i>Buzinkai:</i>
     Doctor was written before Homestuck, actually. The only thing I can really remember was that Super Smash Bros Brawl came out right before I finished it. The original loop (which is not the one specifically heard in the comic, but was included in the album release) was directly inspired by music from Cave Story, and I was trying to at the time musically embody how I felt at the time, I think. Though it never seems to come out exactly as I plan it, I enjoyed the results. I will say that I cannot truly believe how many people have remixed it.
     The arpeggio part at the end goes between the left, both, and right speakers sequentially. I was too lazy to set the channel settings manually, so I did each note on a different instrument, which is set to each speaker channel. Not many people know that, and I think it actually made it a living hell for remixers who got a hold of the original file.
+Referenced Tracks:
+- track:doctor-original-loop
 ---
 Track: Endless Climb
 Artist: Buzinkai
@@ -140,10 +140,6 @@ Artist: Toby Fox
 Duration: '2:24'
 Art Tags:
 - 'cw: blood'
-References:
-- track:liquid-negrocity
-Samples:
-- track:im-a-member-of-the-midnight-crew
 URLs:
 - https://homestuck.bandcamp.com/track/black-3
 - https://youtu.be/5NACWZBDtN8
@@ -166,3 +162,7 @@ Lyrics: |-
     I'm a member of the Midnight Crew!
     I'm a- I'm a- I'm a member of the-
     I'm a member of the Midnight Crew!
+Referenced Tracks:
+- track:liquid-negrocity
+Sampled Tracks:
+- track:im-a-member-of-the-midnight-crew

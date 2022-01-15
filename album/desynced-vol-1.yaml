@@ -17,13 +17,13 @@ Track: Sunrise
 Directory: sunrise-desynced
 Artist: Pascal van den Bos
 Duration: '3:05'
-References:
-- Daughter
 URLs:
 - https://desynced.bandcamp.com/track/sunrise
 - https://www.youtube.com/watch?v=-eJntaowesQ
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Daughter
 ---
 Track: Cutest Companion
 Artist: Pascal van den Bos
@@ -37,38 +37,38 @@ Cover Artists:
 Track: Winds of Change
 Artist: Andrew "Rainy" Obeng
 Duration: '2:43'
-References:
-- Daughter
-- Cooldown
 URLs:
 - https://desynced.bandcamp.com/track/winds-of-change
 - https://www.youtube.com/watch?v=TJc4gcozzkc
 Cover Artists:
 - Siedlag
+Referenced Tracks:
+- Daughter
+- Cooldown
 ---
 Track: Temporal Guardian
 Artist: Pascal van den Bos
 Duration: '2:32'
-References:
-- Bedelia
-- Daughter
 URLs:
 - https://desynced.bandcamp.com/track/temporal-guardian
 - https://www.youtube.com/watch?v=clrX3zdsX94
 Cover Artists:
 - Jules
+Referenced Tracks:
+- Bedelia
+- Daughter
 ---
 Track: Daughter (Short Ver.)
 Artist: Dizzy
 Duration: 0:57
-References:
-- Daughter
-- Cooldown
 URLs:
 - https://desynced.bandcamp.com/track/daughter-short-ver
 - https://www.youtube.com/watch?v=TRQm12ryKEM
 Cover Artists:
 - wumby
+Referenced Tracks:
+- Daughter
+- Cooldown
 ---
 Track: A Very Forgiving Kind of Guy
 Artist: Levc
@@ -91,16 +91,16 @@ Cover Artists:
 Track: Behind the Door
 Artist: Levc
 Duration: '1:32'
-References:
-- Cooldown
-- Temporal Guardian
-- Daughter
-- Desynced Anthem
 URLs:
 - https://desynced.bandcamp.com/track/behind-the-door
 - https://www.youtube.com/watch?v=kK-VJO4x_B8
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Cooldown
+- Temporal Guardian
+- Daughter
+- Desynced Anthem
 ---
 Track: Eclipse
 Artist: Net
@@ -123,28 +123,28 @@ Cover Artists:
 Track: Alpha Admission
 Artist: Pascal van den Bos
 Duration: '3:46'
-References:
-- Temporal Guardian
-- Cooldown
-- Daughter
 URLs:
 - https://desynced.bandcamp.com/track/alpha-admission
 - https://www.youtube.com/watch?v=q3uV9X1Itz4
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Temporal Guardian
+- Cooldown
+- Daughter
 ---
 Track: We'll Be Right Back
 Artist: Chris Hafling
 Duration: '2:06'
-References:
-- Vexation
-- Escapade
-- Liquid Negrocity
 URLs:
 - https://desynced.bandcamp.com/track/well-be-right-back-2
 - https://www.youtube.com/watch?v=GshW0kZKF9Y
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Vexation
+- Escapade
+- Liquid Negrocity
 ---
 Track: Daughter
 Artist: Pascal van den Bos
@@ -158,13 +158,13 @@ Cover Artists:
 Track: Am I You?
 Artist: salex_r3kt
 Duration: '2:57'
-References:
-- Lunar Dance
 URLs:
 - https://desynced.bandcamp.com/track/am-i-you
 - https://www.youtube.com/watch?v=9Z-lbIeoh3o
 Cover Artists:
 - Protomans
+Referenced Tracks:
+- Lunar Dance
 ---
 Track: Lady
 Artist: Levc
@@ -178,24 +178,24 @@ Cover Artists:
 Track: Mother Dearest
 Artist: Andrew "Rainy" Obeng
 Duration: '4:17'
-References:
-- Daughter
 URLs:
 - https://desynced.bandcamp.com/track/mother-dearest
 - https://www.youtube.com/watch?v=5Z145OjEWRI
 Cover Artists:
 - Protomans
+Referenced Tracks:
+- Daughter
 ---
 Track: Noir
 Artist: Pascal van den Bos
 Duration: '2:13'
-References:
-- Escapade
 URLs:
 - https://desynced.bandcamp.com/track/noir
 - https://www.youtube.com/watch?v=ASvQBj3cXlY
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Escapade
 ---
 Track: Lullaby for a Drifter
 Artist: Chris Hafling
@@ -218,26 +218,26 @@ Cover Artists:
 Track: Lunar Dance
 Artist: Pascal van den Bos
 Duration: '4:10'
-References:
-- Desynced Anthem
-- Vexation
-- track:alpha-admission
 URLs:
 - https://desynced.bandcamp.com/track/lunar-dance
 - https://www.youtube.com/watch?v=SJIvrlQuDHA
 Cover Artists:
 - Phos
+Referenced Tracks:
+- Desynced Anthem
+- Vexation
+- track:alpha-admission
 ---
 Track: Escapade
 Artist: Pascal van den Bos
 Duration: '3:22'
-References:
-- Liquid Negrocity
 URLs:
 - https://desynced.bandcamp.com/track/escapade-2
 - https://www.youtube.com/watch?v=UXt6Kx5nGcY
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Liquid Negrocity
 ---
 Track: Desynced Anthem
 Artist: Levc
@@ -253,20 +253,20 @@ Group: Bonus tracks
 Track: Daughter (PX Tone)
 Artist: Chris Hafling
 Duration: '2:18'
-References:
-- Daughter
 URLs:
 - https://www.youtube.com/watch?v=PSRW86lVkxI
 Cover Artists:
 - Dizzy
 - Jules
+Referenced Tracks:
+- Daughter
 ---
 Track: Happy Anthem
 Artist: Levc
 Duration: '1:32'
-References:
-- Desynced Anthem
 URLs:
 - https://www.youtube.com/watch?v=0GT1gfoPYMs
 Cover Artists:
 - Levc
+Referenced Tracks:
+- Desynced Anthem

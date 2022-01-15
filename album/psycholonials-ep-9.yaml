@@ -1,7 +1,5 @@
 Album: Psycholonials EP 9
 Artist: Clark Powell
-Banner Art:
-- Andrew Hussie
 Banner Dimensions: 1100x180
 Has Track Art: false
 Date: April 20, 2021 12:00:00
@@ -17,6 +15,8 @@ Cover Artists:
 Wallpaper Artists:
 - Andrew Hussie
 - Niklink (edits for wiki)
+Banner Artists:
+- Andrew Hussie
 ---
 Track: Fix This
 Duration: '1:54'
@@ -25,10 +25,10 @@ URLs:
 ---
 Track: Edge Of Dawn
 Duration: '4:33'
-References:
-- Shoreline
 URLs:
 - https://psycholonials.bandcamp.com/track/edge-of-dawn
+Referenced Tracks:
+- Shoreline
 ---
 Track: Threshold
 Duration: '1:47'
@@ -36,10 +36,11 @@ URLs:
 - https://psycholonials.bandcamp.com/track/threshold
 ---
 Track: We Were Right About Everything
-AKA: Lunatic
 Duration: '5:51'
 URLs:
 - https://psycholonials.bandcamp.com/track/we-were-right-about-everything
+Also Released As:
+- Lunatic
 ---
 Track: Feeling I Can't Shake
 Duration: '2:26'
@@ -52,10 +53,11 @@ URLs:
 - https://psycholonials.bandcamp.com/track/zhen
 ---
 Track: The Successor
-AKA: Forgotten
 Duration: '4:22'
 URLs:
 - https://psycholonials.bandcamp.com/track/the-successor
+Also Released As:
+- Forgotten
 ---
 Track: Love Song
 Duration: '3:54'
@@ -63,8 +65,8 @@ URLs:
 - https://psycholonials.bandcamp.com/track/love-song
 ---
 Track: 'Ephemeral Muse: Final Remix'
-References:
-- track:ephemeral-muse
 Duration: '4:08'
 URLs:
 - https://psycholonials.bandcamp.com/track/ephemeral-muse-final-remix
+Referenced Tracks:
+- track:ephemeral-muse

@@ -14,7 +14,12 @@ Cover Artists:
 Track: Skanthem
 Artist: Levc
 Duration: '2:48'
-References:
+URLs:
+- https://desynced.bandcamp.com/track/skanthem
+- https://www.youtube.com/watch?v=VJxxa-5Zjm4
+Cover Artists:
+- Dizzy
+Referenced Tracks:
 - Daughter
 - Cooldown
 - Desynced Anthem
@@ -23,22 +28,17 @@ References:
 - A Very Forgiving Kind of Guy
 - Winds of Change
 - Mirror Mirror
-URLs:
-- https://desynced.bandcamp.com/track/skanthem
-- https://www.youtube.com/watch?v=VJxxa-5Zjm4
-Cover Artists:
-- Dizzy
 ---
 Track: Light of the Sun
 Artist: Levc
 Duration: '2:22'
-References:
-- Sunsetter
 URLs:
 - https://desynced.bandcamp.com/track/light-of-the-sun
 - https://www.youtube.com/watch?v=iFA2YHPlICg
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Sunsetter
 ---
 Track: Friends to the End
 Artist: Andrew "Rainy" Obeng
@@ -61,13 +61,13 @@ Cover Artists:
 Track: Heartbreaker
 Artist: Andrew "Rainy" Obeng
 Duration: '2:09'
-References:
-- Mirror Mirror
 URLs:
 - https://desynced.bandcamp.com/track/heartbreaker
 - https://www.youtube.com/watch?v=HiNB-v_kyvU
 Cover Artists:
 - wumby
+Referenced Tracks:
+- Mirror Mirror
 ---
 Track: Tsukuyomi
 Artist: Andrew "Rainy" Obeng
@@ -90,29 +90,29 @@ Cover Artists:
 Track: Do You Dream of Electric Sheep?
 Artist: Andrew "Rainy" Obeng
 Duration: '3:09'
-References:
-- track:asimov-3
 URLs:
 - https://desynced.bandcamp.com/track/do-you-dream-of-electric-sheep
 - https://www.youtube.com/watch?v=zkIYYmuRx0s
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- track:asimov-3
 ---
 Track: Egress
 Artist: Andrew "Rainy" Obeng
 Duration: '2:38'
-References:
+URLs:
+- https://desynced.bandcamp.com/track/egress
+- https://www.youtube.com/watch?v=EmmVlnnO6zk
+Cover Artists:
+- Mikkynga
+Referenced Tracks:
 - Mirror Mirror
 - track:alpha-admission
 - Daughter
 - Mother Dearest
 - Escapade
 - Tsukuyomi
-URLs:
-- https://desynced.bandcamp.com/track/egress
-- https://www.youtube.com/watch?v=EmmVlnnO6zk
-Cover Artists:
-- Mikkynga
 ---
 Track: Chat
 Artist: Levc
@@ -126,37 +126,37 @@ Cover Artists:
 Track: Town of Breath
 Artist: Pascal van den Bos
 Duration: '1:02'
-References:
-- Heart of the Land
 URLs:
 - https://desynced.bandcamp.com/track/town-of-breath
 - https://www.youtube.com/watch?v=2RbQLOr6Pi4
 Cover Artists:
 - Sal
+Referenced Tracks:
+- Heart of the Land
 ---
 Track: Desynsamba
 Artist: Levc
 Duration: '1:47'
-References:
-- Desynced Anthem
-- Light of the Sun
 URLs:
 - https://desynced.bandcamp.com/track/desynsamba
 - https://www.youtube.com/watch?v=ruiZ7CuCtB0
 Cover Artists:
 - Jeremy Boznango
+Referenced Tracks:
+- Desynced Anthem
+- Light of the Sun
 ---
 Track: Her Loving Embrace
 Artist: Andrew "Rainy" Obeng
 Duration: '1:38'
-References:
-- Mother Dearest
-- Daughter
 URLs:
 - https://desynced.bandcamp.com/track/her-loving-embrace
 - https://www.youtube.com/watch?v=NSW2lLe-r6M
 Cover Artists:
 - Mikkynga
+Referenced Tracks:
+- Mother Dearest
+- Daughter
 ---
 Track: Evanhenare1
 Artist: Net
@@ -170,13 +170,13 @@ Cover Artists:
 Track: Temporal Guardian - Electro Swing Remix
 Artist: Spad3s
 Duration: '2:06'
-References:
-- Temporal Guardian
 URLs:
 - https://desynced.bandcamp.com/track/temporal-guardian-electro-swing-remix
 - https://www.youtube.com/watch?v=eZ1Cp6QE_vg
 Cover Artists:
 - Jules
+Referenced Tracks:
+- Temporal Guardian
 ---
 Track: Allegro
 Artist: Andrew "Rainy" Obeng
@@ -210,25 +210,25 @@ Cover Artists:
 Track: Bloodstained Camellias
 Artist: Andrew "Rainy" Obeng
 Duration: '1:40'
-References:
-- Lunar Dance
-- Tsukuyomi
 URLs:
 - https://desynced.bandcamp.com/track/bloodstained-camellias
 - https://www.youtube.com/watch?v=wv4_wSgZyZM
 Cover Artists:
 - Jules
+Referenced Tracks:
+- Lunar Dance
+- Tsukuyomi
 ---
 Track: Inner Demons
 Artist: Andrew "Rainy" Obeng
 Duration: '3:42'
-References:
-- Daughter
 URLs:
 - https://desynced.bandcamp.com/track/inner-demons
 - https://www.youtube.com/watch?v=PnsLHAt_CGM
 Cover Artists:
 - Mikkynga
+Referenced Tracks:
+- Daughter
 ---
 Track: Hell Riders
 Artist: SerialSymphony
@@ -244,109 +244,114 @@ Cover Artists:
 Track: Puppet Master
 Artist: Levc
 Duration: '2:07'
-References:
-- Amalgam
-- A Very Forgiving Kind of Guy
-- Heartbreaker
-- Mirror Mirror
 URLs:
 - https://desynced.bandcamp.com/track/puppet-master
 - https://www.youtube.com/watch?v=aqTzZO7_sD0
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Amalgam
+- A Very Forgiving Kind of Guy
+- Heartbreaker
+- Mirror Mirror
 ---
 Track: Rocket Power
 Artist: Pascal van den Bos
 Duration: '2:28'
-References:
-- Cooldown
-- Escapade
-- Light of the Sun
 URLs:
 - https://desynced.bandcamp.com/track/rocket-power
 - https://www.youtube.com/watch?v=qCL3OxwHfy4
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Cooldown
+- Escapade
+- Light of the Sun
 ---
 Track: ASIMOV 3つの法律 (Lofi Beats to Engineer alone to)
 Directory: asimov-3
 Artist: Andrew "Rainy" Obeng
 Duration: '2:08'
-References:
-- Desynced Anthem
 URLs:
 - https://desynced.bandcamp.com/track/asimov-3-lofi-beats-to-engineer-alone-to
 - https://www.youtube.com/watch?v=qyj6sQKSChY
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Desynced Anthem
 ---
 Track: Pugnae Pythonissam
 Artist: Levc
 Duration: '3:38'
-References:
-- Daughter
-- Cooldown
-- Desynced Anthem
-- Friends to the End
-- Mother Dearest
 URLs:
 - https://desynced.bandcamp.com/track/pugnae-pythonissam
 - https://www.youtube.com/watch?v=wZONu3nHFoQ
 Cover Artists:
 - serpaz
+Referenced Tracks:
+- Daughter
+- Cooldown
+- Desynced Anthem
+- Friends to the End
+- Mother Dearest
 ---
 Track: Void of the Moon
 Artist: Levc
 Duration: '3:00'
-References:
-- Light of the Sun
 URLs:
 - https://desynced.bandcamp.com/track/void-of-the-moon
 - https://www.youtube.com/watch?v=K9PgRllP-gY
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Light of the Sun
 ---
 Track: Desynced
 Artist: Andrew "Rainy" Obeng
 Duration: '2:39'
-References:
-- Desynced Anthem
 URLs:
 - https://desynced.bandcamp.com/track/desynced
 - https://www.youtube.com/watch?v=QiuX1hjknmw
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Desynced Anthem
 ---
 Track: Celestial Blaze
 Artist: Pascal van den Bos
 Duration: '2:47'
-References:
-- Light of the Sun
-- Desynced Anthem
-- Daughter
 URLs:
 - https://desynced.bandcamp.com/track/celestial-blaze
 - https://www.youtube.com/watch?v=TUr_v-Kspbs
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Light of the Sun
+- Desynced Anthem
+- Daughter
 ---
 Track: Vantablack
 Artist: Levc
 Duration: '3:38'
-References:
-- Void of the Moon
-- Desynced Anthem
-- Daughter
 URLs:
 - https://desynced.bandcamp.com/track/vantablack
 - https://www.youtube.com/watch?v=U5SU3rpk-f8
 Cover Artists:
 - Dizzy
+Referenced Tracks:
+- Void of the Moon
+- Desynced Anthem
+- Daughter
 ---
 Track: Arrival
 Artist: Pascal van den Bos
 Duration: '6:56'
-References:
+URLs:
+- https://desynced.bandcamp.com/track/arrival
+- https://www.youtube.com/watch?v=4nButQ164PQ
+Cover Artists:
+- Dizzy
+Referenced Tracks:
 - Daughter (Short Ver.)
 - track:alpha-admission
 - Fate of the Heir
@@ -367,8 +372,3 @@ References:
 - Daughter
 - Desynced Anthem
 - Battle! (Elite Four)
-URLs:
-- https://desynced.bandcamp.com/track/arrival
-- https://www.youtube.com/watch?v=4nButQ164PQ
-Cover Artists:
-- Dizzy

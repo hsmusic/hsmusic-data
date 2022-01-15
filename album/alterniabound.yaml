@@ -1,11 +1,7 @@
 Album: AlterniaBound
-Banner Art:
-- Hanni Brosh
-- Niklink (edits for wiki)
 Banner Dimensions: 1100x166
 Date: March 14, 2011
 Date Added: November 15, 2019
-Track Art Date: October 25, 2017
 Color: '#00a4a4'
 Groups:
 - Official
@@ -34,17 +30,16 @@ Cover Artists:
 Wallpaper Artists:
 - Hanni Brosh
 - Niklink (edits for wiki)
+Banner Artists:
+- Hanni Brosh
+- Niklink (edits for wiki)
+Default Track Cover Art Date: October 25, 2017
 ---
 Group: Main album
 ---
 Track: Arisen Anew
 Artist: Tensei
 Duration: '2:55'
-References:
-- psych0ruins
-- My Little Pony Theme
-Samples:
-- Dr. Who
 Art Tags:
 - Aradia
 URLs:
@@ -70,12 +65,15 @@ Lyrics: |-
     Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa<br>Toki no hime wa inu wo tometa
 Cover Artists:
 - vorpos
+Referenced Tracks:
+- psych0ruins
+- My Little Pony Theme
+Sampled Tracks:
+- Dr. Who
 ---
 Track: Karkat's Theme
 Artist: Toby Fox
 Duration: '1:58'
-References:
-- track:crustacean
 Art Tags:
 - Karkat
 URLs:
@@ -96,12 +94,12 @@ Commentary: |-
     <img src="media/misc/karkats-theme.jpg" width="350" height="350">
 Cover Artists:
 - gaylalondes
+Referenced Tracks:
+- track:crustacean
 ---
 Track: Trollcops
 Artist: Erik Scheele
 Duration: '2:45'
-References:
-- track:under-the-hat
 Art Tags:
 - Sollux
 - Terezi
@@ -124,14 +122,12 @@ Commentary: |-
     <img src="media/misc/trollcops.jpg" width="350" height="350">
 Cover Artists:
 - Melissa Peebles
+Referenced Tracks:
+- track:under-the-hat
 ---
 Track: 'BL1ND JUST1C3 : 1NV3ST1G4T1ON !!'
 Artist: Malcolm Brown
 Duration: '2:48'
-References:
-- The Lemonsnout Turnabout
-- Objection! 2001
-- track:sburban-jungle
 Art Tags:
 - Terezi
 - Vriska
@@ -153,13 +149,14 @@ Commentary: |-
     <img src="media/misc/bl1nd-just1c3-1nv3st1g4t1on.jpg" width="350" height="350">
 Cover Artists:
 - fenkko
+Referenced Tracks:
+- The Lemonsnout Turnabout
+- Objection! 2001
+- track:sburban-jungle
 ---
 Track: Terezi's Theme
 Artist: Toby Fox
 Duration: '2:16'
-References:
-- The Lemonsnout Turnabout
-- Theme
 Art Tags:
 - Terezi
 URLs:
@@ -176,12 +173,13 @@ Commentary: |-
     <img src="media/misc/terezis-theme.jpg" width="350" height="350">
 Cover Artists:
 - Kirvia
+Referenced Tracks:
+- The Lemonsnout Turnabout
+- Theme
 ---
 Track: Dreamers and The Dead
 Artist: Thomas Ferkol
 Duration: '4:04'
-References:
-- Cuddlefish
 Art Tags:
 - Aradia
 URLs:
@@ -199,13 +197,12 @@ Commentary: |-
     <img src="media/misc/dreamers-and-the-dead.jpg" width="350" height="350">
 Cover Artists:
 - sicklydoodles
+Referenced Tracks:
+- Cuddlefish
 ---
 Track: Vriska's Theme
 Artist: Toby Fox
 Duration: '1:43'
-References:
-- Spider's Claw
-- Theme
 Art Tags:
 - Vriska
 URLs:
@@ -224,15 +221,13 @@ Commentary: |-
     <img src="media/misc/vriskas-theme.jpg" width="350" height="350">
 Cover Artists:
 - Chumi
+Referenced Tracks:
+- Spider's Claw
+- Theme
 ---
 Track: She's a Sp8der
 Artist: Tensei
 Duration: '3:05'
-References:
-- Spider's Claw
-- track:MeGaLoVania
-- Eridan's Theme
-- track:crustacean
 Art Tags:
 - Mindfang
 URLs:
@@ -250,6 +245,11 @@ Commentary: |-
     <img src="media/misc/shes-a-sp8der.jpg" width="350" height="350">
 Cover Artists:
 - gaylalondes
+Referenced Tracks:
+- Spider's Claw
+- track:MeGaLoVania
+- Eridan's Theme
+- track:crustacean
 ---
 Track: FIDUSPAWN, GO!
 Artist: David Ko
@@ -265,15 +265,6 @@ Art Tags:
 URLs:
 - https://homestuck.bandcamp.com/track/fiduspawn-go-2
 - https://youtu.be/fCBr-v4JswY
-References:
-- track:showtime-imp-strife-mix
-- Pumpkin Cravings
-- track:harlequin
-- Sunslammer
-- dESPERADO ROCKET CHAIRS,
-- track:MeGaLoVania
-- track:vagabounce
-- track:beatdown-strider-style
 Commentary: |-
     <i>David Ko:</i>
     (Tavros' Battle Theme)
@@ -288,6 +279,15 @@ Commentary: |-
     <img src="media/misc/fiduspawn-go.jpg" width="350" height="350">
 Cover Artists:
 - Phil Gibson
+Referenced Tracks:
+- track:showtime-imp-strife-mix
+- Pumpkin Cravings
+- track:harlequin
+- Sunslammer
+- dESPERADO ROCKET CHAIRS,
+- track:MeGaLoVania
+- track:vagabounce
+- track:beatdown-strider-style
 ---
 Track: Darling Kanaya
 Artist: Toby Fox
@@ -297,8 +297,6 @@ Art Tags:
 URLs:
 - https://homestuck.bandcamp.com/track/darling-kanaya-2
 - https://youtu.be/54YThzEi4bk
-References:
-- Virgin Orb
 Commentary: |-
     <i>Toby Fox:</i>
     (Kanaya Walkabout)
@@ -310,6 +308,8 @@ Commentary: |-
     <img src="media/misc/darling-kanaya.jpg" width="350" height="350">
 Cover Artists:
 - vorpos
+Referenced Tracks:
+- Virgin Orb
 ---
 Track: Requiem of Sunshine and Rainbows
 Artist: Paige Turner
@@ -340,8 +340,6 @@ Artist: Toby Fox
 Contributors:
 - The_Eighth_Bit (soundfont)
 Duration: '2:41'
-References:
-- Catchyegrabber (Skipper Plumbthroat's Song)
 Art Tags:
 - Eridan
 URLs:
@@ -368,6 +366,8 @@ Commentary: |-
     <img src="media/misc/eridans-theme.jpg" width="350" height="350">
 Cover Artists:
 - chocolatula
+Referenced Tracks:
+- Catchyegrabber (Skipper Plumbthroat's Song)
 ---
 Track: Nautical Nightmare
 Artist: Toby Fox
@@ -395,8 +395,6 @@ Cover Artists:
 Track: Nepeta's Theme
 Artist: Toby Fox
 Duration: '1:32'
-References:
-- Walls Covered in Blood
 Art Tags:
 - Nepeta
 - Aradia
@@ -420,13 +418,12 @@ Commentary: |-
     <img src="media/misc/nepetas-theme.jpg" width="350" height="350">
 Cover Artists:
 - pbnj-art
+Referenced Tracks:
+- Walls Covered in Blood
 ---
 Track: Horschestra STRONG Version
 Artist: Alex Rosetti
 Duration: '3:23'
-References:
-- Horschestra
-- Walls Covered in Blood
 Directory: horschestra-STRONG-version
 Art Tags:
 - Equius
@@ -450,15 +447,13 @@ Commentary: |-
     <img src="media/misc/horschestra-STRONG-version.jpg" width="350" height="350">
 Cover Artists:
 - chocolatula
+Referenced Tracks:
+- Horschestra
+- Walls Covered in Blood
 ---
 Track: Blackest Heart (With Honks)
 Artist: Toby Fox
 Duration: '2:30'
-References:
-- Blackest Heart
-- La Cucaracha
-- First Call
-- Toreador Song
 Art Tags:
 - Equius
 - Gamzee
@@ -485,6 +480,11 @@ Commentary: |-
     <img src="media/misc/blackest-heart-with-honks.jpg" width="350" height="350">
 Cover Artists:
 - officialspec
+Referenced Tracks:
+- Blackest Heart
+- La Cucaracha
+- First Call
+- Toreador Song
 ---
 Track: Midnight Calliope
 Artist: Mark Hadley
@@ -511,10 +511,6 @@ Cover Artists:
 Track: Chaotic Strength
 Artist: Thomas Ferkol
 Duration: '2:34'
-References:
-- Chaotic Frenzy
-- The Number of the Beast
-- The Riddle Wants To Be
 Art Tags:
 - Equius
 - Underlings
@@ -538,6 +534,10 @@ Lyrics: |-
     Go, go, go, go, go, go, go, go!
 Cover Artists:
 - Rebecca Peason
+Referenced Tracks:
+- Chaotic Frenzy
+- The Number of the Beast
+- The Riddle Wants To Be
 ---
 Track: Trollian Standoff
 Artist: Tensei
@@ -577,17 +577,6 @@ Art Tags:
 URLs:
 - https://homestuck.bandcamp.com/track/rex-duodecim-angelus-2
 - https://youtu.be/hn6Yl371mIc
-References:
-- track:crustacean
-- The Lemonsnout Turnabout
-- dESPERADO ROCKET CHAIRS,
-- Virgin Orb
-- Horschestra
-- Walls Covered in Blood
-- Keepers
-- The La2t Frontiier
-- psych0ruins
-- Spider's Claw
 Commentary: |-
     <i>Malcolm Brown:</i>
     (Final Battle Against the Black King)
@@ -615,12 +604,21 @@ Commentary: |-
     <img src="media/misc/rex-duodecim-angelus.jpg" width="350" height="350">
 Cover Artists:
 - floralmarsupial
+Referenced Tracks:
+- track:crustacean
+- The Lemonsnout Turnabout
+- dESPERADO ROCKET CHAIRS,
+- Virgin Orb
+- Horschestra
+- Walls Covered in Blood
+- Keepers
+- The La2t Frontiier
+- psych0ruins
+- Spider's Claw
 ---
 Track: Killed by BR8K Spider!!!!!!!!
 Artist: Toby Fox
 Duration: '4:20'
-References:
-- Spider's Claw
 Art Tags:
 - Vriska
 URLs:
@@ -635,12 +633,12 @@ Commentary: |-
     <img src="media/misc/killed-by-br8k-spider.jpg" width="350" height="350">
 Cover Artists:
 - hellobeau
+Referenced Tracks:
+- Spider's Claw
 ---
 Track: Alternia
 Artist: Seth Peelle
 Duration: '3:57'
-References:
-- Theme
 URLs:
 - https://homestuck.bandcamp.com/track/alternia-2
 - https://youtu.be/ouwick_Ii2c
@@ -658,6 +656,8 @@ Commentary: |-
     <img src="media/misc/alternia.jpg" width="350" height="350">
 Cover Artists:
 - Xan Drake
+Referenced Tracks:
+- Theme
 ---
 Group: Bonus tracks
 ---
@@ -667,8 +667,6 @@ Cover Art Date: March 14, 2011
 Contributors:
 - Nick Smalley (words)
 Duration: '2:59'
-References:
-- Trollcops
 Art Tags:
 - Aradia
 - 'cw: cops'
@@ -687,6 +685,8 @@ Commentary: |-
     ... AND TOGETHER THEY ARE... TROLL COCKS.
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- Trollcops
 ---
 Track: Catapult Capuchin
 Artist: Toby Fox
@@ -757,16 +757,6 @@ Artist: Toby Fox
 Duration: '3:00'
 Contributors:
 - hank hill & cyclops (everything)
-References:
-- The La2t Frontiier
-- Yahoos and Triangles
-- track:MeGaLoVania
-- Courser
-- Guile's Theme
-Samples:
-- King of the Hill
-- 'X-Men: Children of the Atom'
-- X-Men vs. Street Fighter
 Art Tags:
 - Sollux
 - 'cw: blood'
@@ -794,13 +784,21 @@ Lyrics: |-
     bobby
 Cover Artists:
 - Melissa Peebles
+Referenced Tracks:
+- The La2t Frontiier
+- Yahoos and Triangles
+- track:MeGaLoVania
+- Courser
+- Guile's Theme
+Sampled Tracks:
+- King of the Hill
+- 'X-Men: Children of the Atom'
+- X-Men vs. Street Fighter
 ---
 Track: AlterniaBound
 Artist: Toby Fox
 Cover Art Date: March 14, 2011
 Duration: 0:20
-References:
-- Theme
 URLs:
 - https://homestuck.bandcamp.com/track/alterniabound-2
 - https://youtu.be/FD5tJvMtzDo
@@ -810,12 +808,12 @@ Commentary: |-
     AlterniaBound is a VERY direct homage to the title screen of EarthBound. If you don't know what EarthBound is... you may be missing out on something.
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- Theme
 ---
 Track: You Won A Combat
 Artist: Toby Fox
 Duration: 0:08
-References:
-- Theme
 Art Tags:
 - Karkat
 URLs:
@@ -829,12 +827,12 @@ Commentary: |-
     <img src="media/misc/you-won-a-combat.jpg" width="350" height="350">
 Cover Artists:
 - allyssinian
+Referenced Tracks:
+- Theme
 ---
 Track: Rest A While
 Artist: Toby Fox
 Duration: 0:09
-References:
-- Theme
 Art Tags:
 - Karkat
 URLs:
@@ -848,3 +846,5 @@ Commentary: |-
     <img src="media/misc/rest-a-while.jpg" width="350" height="350">
 Cover Artists:
 - scatterpunk
+Referenced Tracks:
+- Theme

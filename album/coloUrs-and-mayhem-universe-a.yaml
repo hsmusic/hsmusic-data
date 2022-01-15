@@ -1,8 +1,5 @@
 Album: 'coloUrs and mayhem: Universe A'
 Directory: coloUrs-and-mayhem-universe-a
-Banner Art:
-- Shelby Cragg
-- Niklink (edits for wiki)
 Banner Dimensions: 1100x180
 Date: April 2, 2012
 Date Added: November 15, 2019
@@ -30,19 +27,22 @@ Cover Artists:
 Wallpaper Artists:
 - Shelby Cragg
 - Niklink (edits for wiki)
+Banner Artists:
+- Shelby Cragg
+- Niklink (edits for wiki)
 ---
 Group: Side 1
 ---
 Track: ~~SIDE 1~~
 Artist: Toby Fox
 Duration: 0:09
-References:
-- Liquid Negrocity
 Directory: side-1-universe-a
 URLs:
 - https://homestuck.bandcamp.com/track/universe-a-side-1
 - https://youtu.be/l9hqTE7FCu8
 Has Cover Art: false
+Referenced Tracks:
+- Liquid Negrocity
 ---
 Track: Rust Servant
 Artist: Willow Ascenzo
@@ -169,8 +169,6 @@ Cover Artists:
 ---
 Track: Cobalt Corsair
 Artist: Max Wright
-References:
-- Hallowed Halls
 Duration: '4:14'
 Art Tags:
 - Mindfang
@@ -192,6 +190,8 @@ Commentary: |-
     BRASS | STRINGS | WOODWIND | PERCUSSION AND MISCELLANEOUS <i>(dead dropbox links)</i>
 Cover Artists:
 - Grue
+Referenced Tracks:
+- Hallowed Halls
 ---
 Track: Indigo Archer
 Artist: Rachel Rose Mitchell
@@ -217,8 +217,6 @@ Cover Artists:
 Track: Violet Mariner
 Artist: Willow Ascenzo
 Duration: '2:45'
-References:
-- track:showtime-piano-refrain
 Art Tags:
 - Dualscar
 URLs:
@@ -231,11 +229,12 @@ Commentary: |-
     Violet Mariner was the first song I started working on for the Homestuck music contest that eventually became the coloUrs and mayhem dual album. It’s a song about Dualscar—but it wasn’t always a song about Dualscar. No, it started out as a song about John. This explains the harp/piano section, which plays with the opening melody to Showtime, vaguely darting near it without ever actually producing the exact notes from Malcolm Brown’s original song. I intended it to be more of a hint of John’s original strife theme than a direct reference. In hindsight, keeping the references to existing Homestuck leitmotifs subtle was a smart idea. If I’d been more overt in my references and just made it a straight-up Doctor remix or an explicit arrangement of Showtime, it would have been really hard to reallocate it to a different character. And I’m happy that Violet Mariner is a Dualscar song. Dualscar needs more songs. And also it gave Radiation an excuse to almost name it “Violet Seaman”. And besides, it means I still technically haven’t used the original title, Heirstrike, yet.
 Cover Artists:
 - rumminov
+Referenced Tracks:
+- track:showtime-piano-refrain
 ---
 Track: Fuchsia Ruler
 Artist: Kezinox
 Duration: '4:07'
-Refrences: Liquid Negrocity, twoward2 the heaven2
 Art Tags:
 - The Condesce
 URLs:
@@ -249,19 +248,22 @@ Commentary: |-
     This is my song entry for the Homestuck Music Contest--essentially a dark electro house song for the Condesce. On a technical level this song more or less represents the culmination of all the practice and knowledge I've gained from working with music up until now.
 Cover Artists:
 - Mel
+Referenced Tracks:
+- Liquid Negrocity
+- twoward2 the heaven2
 ---
 Group: Side 2
 ---
 Track: ~~SIDE 2~~
 Artist: Toby Fox
 Duration: 0:10
-References:
-- track:side-1-universe-a
 Directory: side-2-universe-a
 URLs:
 - https://homestuck.bandcamp.com/track/universe-a-side-2
 - https://youtu.be/4yYe9Y0zJwE
 Has Cover Art: false
+Referenced Tracks:
+- track:side-1-universe-a
 ---
 Track: Rust Maid
 Artist: Plumegeist
@@ -445,13 +447,13 @@ Group: Additional Mayhem
 Track: ~~ADDITIONAL MAYHEM~~
 Artist: Toby Fox
 Duration: 0:17
-References:
-- Double Midnight
 Directory: additional-mayhem-universe-a
 URLs:
 - https://homestuck.bandcamp.com/track/universe-a-additional-mayhem
 - https://youtu.be/_cVhbp4Z2sI
 Has Cover Art: false
+Referenced Tracks:
+- Double Midnight
 ---
 Track: Your Universe
 Artist: Marcus Carline

@@ -1,10 +1,6 @@
 Album: Homestuck Vol. 5
 Date: June 13, 2010
 Date Added: November 15, 2019
-Track Art Date: April 13, 2017
-Banner Art:
-- Lexxy
-- Niklink (edits for wiki)
 Banner Dimensions: 1100x203
 Wallpaper Style: 'opacity: 0.6;'
 Color: '#00aaff'
@@ -29,6 +25,10 @@ Cover Artists:
 Wallpaper Artists:
 - Lexxy
 - Niklink (edits for wiki)
+Banner Artists:
+- Lexxy
+- Niklink (edits for wiki)
+Default Track Cover Art Date: April 13, 2017
 ---
 Track: Homestuck Anthem
 Artist: Clark Powell
@@ -47,9 +47,6 @@ Cover Artists:
 Track: Skaian Skirmish
 Artist: Andrew Huo, Toby Fox
 Duration: '2:09'
-References:
-- Skaian Skuffle
-- Lotus
 Art Tags:
 - WV
 - Carapacians
@@ -58,13 +55,13 @@ URLs:
 - https://youtu.be/_EB_Y3biviY
 Cover Artists:
 - seiii-tan
+Referenced Tracks:
+- Skaian Skuffle
+- Lotus
 ---
 Track: Savior of the Waking World
 Artist: Toby Fox
 Duration: '2:26'
-References:
-- track:doctor
-- Penumbra Phantasm
 Art Tags:
 - John
 URLs:
@@ -72,12 +69,13 @@ URLs:
 - https://youtu.be/juQcAEkvzdQ
 Cover Artists:
 - cityinthesea
+Referenced Tracks:
+- track:doctor
+- Penumbra Phantasm
 ---
 Track: Clockwork Melody
 Artist: Clark Powell
 Duration: 0:35
-References:
-- track:endless-climb
 Art Tags:
 - Dave
 - Lil Cal
@@ -87,14 +85,12 @@ URLs:
 - https://youtu.be/0s4JjBz-pr4
 Cover Artists:
 - fizzmouth
+Referenced Tracks:
+- track:endless-climb
 ---
 Track: Heirfare
 Artist: Alex Rosetti
 Duration: '2:42'
-References:
-- track:showtime-original-mix
-- track:showtime-piano-refrain
-- track:harlequin
 Art Tags:
 - John
 - Rose
@@ -108,6 +104,10 @@ Commentary: |-
     This piece is one of the strongest examples of how much better my old music could have been if I had used better samples. But I had nothing but cheap stuff at the time, so I think this one suffers a lot. Personal regret aside, I composed this as an ode to John, so it features the themes from Showtime and Harlequin. I wanted something big and dramatic, so I went the semi-orchestral route, and completely transformed the context of the two melodies I used to suit the mood of the piece. In particular, Harlequin seems almost unrecognizable unless you're paying attention or have a good ear. I think its attempt to come off as big and noble is a little heavy-handed at times, but it would definitely be a fun one to come back to and update.
 Cover Artists:
 - Sollay
+Referenced Tracks:
+- track:showtime-original-mix
+- track:showtime-piano-refrain
+- track:harlequin
 ---
 Track: Jade's Lullaby
 Artist: David Ko
@@ -124,8 +124,6 @@ Cover Artists:
 Track: Aggrievance
 Artist: Mark Hadley
 Duration: '3:01'
-References:
-- track:aggrieve
 Art Tags:
 - Rose
 URLs:
@@ -136,12 +134,12 @@ Commentary: |-
     Since Aggrieve was the first song I wrote for Homestuck, I also imagined it would be the first thing I would remix. That turned out not to be the case (I remixed Harlequin first), but I went ahead with it anyway. I also figured it might come in handy in case there was ever another strife scene with Rose post-entry, but those became rare after a while, except for special situations.
 Cover Artists:
 - rose-ebottles
+Referenced Tracks:
+- track:aggrieve
 ---
 Track: Happy Cat Song!
 Artist: Michael Guy Bowman, Toby Fox
 Duration: 0:34
-References:
-- track:chorale-for-jaspers
 Art Tags:
 - Rose
 - Jaspers
@@ -150,15 +148,14 @@ URLs:
 - https://youtu.be/oLxeExkmGWs
 Cover Artists:
 - strife-kind
+Referenced Tracks:
+- track:chorale-for-jaspers
 ---
 Track: Hardchorale
 Artist: Alex Rosetti, Toby Fox
 Contributors:
 - Michael Guy Bowman (meows)
 Duration: '2:54'
-References:
-- track:chorale-for-jaspers
-- Squiddles!
 Art Tags:
 - 'cw: body horror'
 URLs:
@@ -169,6 +166,9 @@ Commentary: |-
     I've always considered the creation of this song a "classic story". It came about in a strange, almost fateful way, and I think the final product reflects that. It was the first thing that Radiation and I worked on together, and it was through Hardchorale that our friendship started. He approached me with a MIDI file he had made, intending it to be a sort of "boss battle" arrangement of Chorale for Jaspers in the style of Harleboss. He asked if I would be interested in producing it, since at the time he was just starting out and had no means to do so. I agreed, Chorale being one of my favorite Homestuck tunes. So I produced it in a DAW to make it sound "good", and relative to the MIDI file it sounded great, and we were both really happy with it. Radiation got Bowman to record some heavy metal meows, which he apparently almost got kicked out of his apartment for recording and claims to have video of, though I have yet to see it. Once I found out it was going to be on Vol. 5, I added a section to it (roughly the last third of the piece) and at the very end sneaked the Squiddles theme just because I could. I realize that was more of a narrative than a commentary, but it's the history behind this piece that I find fun to talk about more than the piece itself.
 Cover Artists:
 - floralmarsupial
+Referenced Tracks:
+- track:chorale-for-jaspers
+- Squiddles!
 ---
 Track: An Unbreakable Union
 Artist: Kalibration
@@ -185,9 +185,6 @@ Cover Artists:
 Track: Skaian Ride
 Artist: Seth Peelle, Andrew Huo
 Duration: '3:04'
-References:
-- track:aggrieve
-- track:showtime-original-mix
 Art Tags:
 - Jane
 - Jake
@@ -198,12 +195,13 @@ URLs:
 - https://youtu.be/tD_AfVeEyu4
 Cover Artists:
 - awildcale
+Referenced Tracks:
+- track:aggrieve
+- track:showtime-original-mix
 ---
 Track: White
 Artist: Toby Fox
 Duration: '1:25'
-References:
-- Liquid Negrocity
 Art Tags:
 - PM
 URLs:
@@ -211,16 +209,12 @@ URLs:
 - https://youtu.be/AmsR9n_5xKk
 Cover Artists:
 - RainbowCookiz
+Referenced Tracks:
+- Liquid Negrocity
 ---
 Track: Octoroon Rangoon
 Artist: Toby Fox
 Duration: '2:11'
-References:
-- Liquid Negrocity
-- The Ballad of Jack Noir
-- Non Compos Mentis
-Samples:
-- I'm a Member of the Midnight Crew
 Art Tags:
 - Jack Noir
 - Horrorterrors
@@ -230,6 +224,12 @@ URLs:
 Lyrics: Make her a member of the Midnight Crew!
 Cover Artists:
 - enjistier
+Referenced Tracks:
+- Liquid Negrocity
+- The Ballad of Jack Noir
+- Non Compos Mentis
+Sampled Tracks:
+- I'm a Member of the Midnight Crew
 ---
 Track: Pumpkin Cravings
 Artist: Seth Peelle
@@ -249,8 +249,6 @@ Cover Artists:
 Track: Welcome to the New Extreme
 Artist: Robert J! Lake
 Duration: '3:18'
-References:
-- track:sburban-jungle
 Art Tags:
 - Rose
 - Dave
@@ -260,6 +258,8 @@ URLs:
 - https://youtu.be/kWVQH0Z5u08
 Cover Artists:
 - Xagave
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Crystalanthemums
 Artist: Alex Rosetti
@@ -278,8 +278,6 @@ Cover Artists:
 Track: Skaia (Incipisphere Mix)
 Artist: Solatrus
 Duration: '5:06'
-References:
-- track:skies-of-skaia
 URLs:
 - https://homestuck.bandcamp.com/track/skaia-incipisphere-mix-2
 - https://youtu.be/IaT2a68dyJo
@@ -305,6 +303,8 @@ Commentary: |-
     Of course, the comments I see the most on this song are on the improvised piano part. Before I was on the team I started doing a regular broadcast on the skaia.net internet radio, and I’d improvise over this song pretty often back then. I eventually figured out a few parts that I wanted to keep consistent, and I did a bunch of takes to finally get to what you hear in the final song. Of course, MIDI never seems to record very accurately, and I’m not actually the greatest at piano (!!!), so I had to do some fine-tuning on the note timings to make them actually sound precise. But those really fast runs were definitely real, and, no, don’t ask me to play it again. I won’t be able to. It was a really good day for me.
 Cover Artists:
 - razzberrysheep
+Referenced Tracks:
+- track:skies-of-skaia
 ---
 Track: Sarabande
 Artist: Erik Scheele
@@ -327,8 +327,6 @@ Cover Artists:
 Track: Clockwork Sorrow
 Artist: David Ko
 Duration: '1:04'
-References:
-- Clockwork Melody
 Art Tags:
 - Dave
 URLs:
@@ -336,6 +334,8 @@ URLs:
 - https://youtu.be/fMn4Iehh2A4
 Cover Artists:
 - Prince
+Referenced Tracks:
+- Clockwork Melody
 ---
 Track: Phantasmagoric Waltz
 Artist: Alex Rosetti
@@ -361,8 +361,6 @@ Cover Artists:
 Track: Sunslammer
 Artist: Seth Peelle
 Duration: '3:05'
-References:
-- Sunsetter
 Art Tags:
 - Jade
 - Underlings
@@ -371,13 +369,12 @@ URLs:
 - https://youtu.be/DJ5crJDYtDg
 Cover Artists:
 - Aeritus
+Referenced Tracks:
+- Sunsetter
 ---
 Track: Lotus Land Story
 Artist: Toby Fox
 Duration: '1:52'
-References:
-- Lotus
-- track:doctor
 Art Tags:
 - Jade
 URLs:
@@ -385,12 +382,13 @@ URLs:
 - https://youtu.be/O7qf5KhmM-I
 Cover Artists:
 - fenkko
+Referenced Tracks:
+- Lotus
+- track:doctor
 ---
 Track: Chorale for War
 Artist: Steve Everson
 Duration: '1:37'
-References:
-- track:chorale-for-jaspers
 Art Tags:
 - Dave
 - Jade
@@ -403,6 +401,8 @@ Commentary: |-
     This one predates my time on the music team! It started life as a midi called Battle Chorale (obviously, a pun on "battle royale"). It was pretty popular, if I recall correctly, though there wasn’t a lot of fan music around in those days to compare to. Some time after joining the team, one of the other musicians created their own hard rock Chorale remix by that same name! So I updated my old one under a new name, and Albatross and Rad created their Hardchorale remix too. Battle Chorale never made it to publication but these two survived.
 Cover Artists:
 - appulsprite
+Referenced Tracks:
+- track:chorale-for-jaspers
 ---
 Track: Unsheath'd
 Artist: Alex Rosetti
@@ -437,9 +437,6 @@ Contributors:
 - Toby Fox (various material)
 - Erik Scheele (various material)
 Duration: '1:39'
-References:
-- track:doctor
-- Penumbra Phantasm
 Art Tags:
 - John
 URLs:
@@ -447,12 +444,13 @@ URLs:
 - https://youtu.be/VQjHlYSM_jo
 Cover Artists:
 - Meruz
+Referenced Tracks:
+- track:doctor
+- Penumbra Phantasm
 ---
 Track: Bed of Rose's / Dreams of Derse
 Artist: Mark Hadley
 Duration: '1:43'
-References:
-- track:aggrieve
 Art Tags:
 - Rose
 - Horrorterrors
@@ -464,12 +462,12 @@ Commentary: |-
     John had a "sleep and recover hp/mp" type theme, so I wrote one for Rose as well. Naturally it uses part of the theme from Aggrieve. When it came time to put it on the album, I didn't really want to leave it as short as it was, so I added the Dreams of Derse section to lengthen it, imagining what the cold, far orbit of Derse might be like.
 Cover Artists:
 - Seagrot
+Referenced Tracks:
+- track:aggrieve
 ---
 Track: Skaian Flight
 Artist: Kalibration
 Duration: '1:30'
-References:
-- Skaian Ride
 Art Tags:
 - John
 URLs:
@@ -477,14 +475,14 @@ URLs:
 - https://youtu.be/1pXdGOSIvEs
 Cover Artists:
 - Aryll
+Referenced Tracks:
+- Skaian Ride
 ---
 Track: How Do I Live (Bunny Back in the Box Version)
 Artist: Michael Guy Bowman
 Contributors:
 - Nick Smalley (guitar solo)
 Duration: '3:43'
-References:
-- How Do I Live
 Art Tags:
 - John
 - Rose
@@ -506,15 +504,12 @@ Lyrics: |-
     (Oh, it's- it's done. Oh.)
 Cover Artists:
 - copiko-art
+Referenced Tracks:
+- How Do I Live
 ---
 Track: Dupliblaze COMAGMA
 Artist: Toby Fox
 Duration: '2:24'
-References:
-- track:atomyk-ebonpyre
-- track:beatdown-strider-style
-Samples:
-- Drop It Like It's Hot
 Art Tags:
 - Dave
 URLs:
@@ -527,12 +522,15 @@ Lyrics: |-
     Drop it like it's hot<br>Drop it like it's hot
 Cover Artists:
 - Shoutloaf
+Referenced Tracks:
+- track:atomyk-ebonpyre
+- track:beatdown-strider-style
+Sampled Tracks:
+- Drop It Like It's Hot
 ---
 Track: Moonshatter
 Artist: Toby Fox
 Duration: '1:17'
-References:
-- track:harlequin
 Art Tags:
 - Dave
 URLs:
@@ -540,12 +538,12 @@ URLs:
 - https://youtu.be/pGgEeNu-WpY
 Cover Artists:
 - madragingven
+Referenced Tracks:
+- track:harlequin
 ---
 Track: Sunsetter
 Artist: Toby Fox
 Duration: '1:32'
-References:
-- Hawkeye
 Art Tags:
 - Dave
 - 'cw: body horror (abstract)'
@@ -554,6 +552,8 @@ URLs:
 - https://youtu.be/DooIE-BKSGo
 Cover Artists:
 - Raddical
+Referenced Tracks:
+- Hawkeye
 ---
 Track: Lotus
 Artist: Seth Peelle
@@ -569,9 +569,6 @@ Cover Artists:
 Track: Ruins (With Strings)
 Artist: Erik Scheele, Michael Guy Bowman
 Duration: '3:09'
-References:
-- track:ruins
-- track:sburban-jungle
 Art Tags:
 - Jade
 URLs:
@@ -590,6 +587,9 @@ Commentary: |-
     Really, the track should probably be listed simply as “Ruins” if not for the fact that there is not official piano rendition of the piece. I think it would be really cool to hear such a version of the tune if Jit ever found himself recording material in a studio again (as he did for James’s piano suite Sburb).
 Cover Artists:
 - ghostpressure
+Referenced Tracks:
+- track:ruins
+- track:sburban-jungle
 ---
 Track: Ectobiology
 Artist: David Ko
@@ -640,9 +640,6 @@ Cover Artists:
 ---
 Track: Crystamanthequins
 Artist: Erik Scheele
-References:
-- Crystalanthemums
-- Mannequin
 Duration: '3:10'
 Art Tags:
 - Aradia
@@ -660,12 +657,13 @@ Commentary: |-
     Also, as a sidenote, my like for Beck is rather shown in this piece, as is evidenced by my direct attempt to semi-recreate main beat in Replica to transition between the two sections. #MUSICSECRETSSSSSSSS
 Cover Artists:
 - Jenny
+Referenced Tracks:
+- Crystalanthemums
+- Mannequin
 ---
 Track: Endless Climbing
 Artist: Perry Sullivan
 Duration: '2:12'
-References:
-- track:endless-climb
 Art Tags:
 - Rose
 URLs:
@@ -673,17 +671,12 @@ URLs:
 - https://youtu.be/zBh8V5EonSs
 Cover Artists:
 - allyssinian
+Referenced Tracks:
+- track:endless-climb
 ---
 Track: Land of the Salamanders
 Artist: David Ko
 Duration: '1:44'
-References:
-- track:doctor
-- track:sburban-jungle
-- track:showtime-original-mix
-- track:dissension-remix
-- track:aggrieve
-- track:vagabounce
 Art Tags:
 - John
 - Consorts
@@ -692,12 +685,17 @@ URLs:
 - https://youtu.be/bfKXw-kSnq8
 Cover Artists:
 - Kisbys
+Referenced Tracks:
+- track:doctor
+- track:sburban-jungle
+- track:showtime-original-mix
+- track:dissension-remix
+- track:aggrieve
+- track:vagabounce
 ---
 Track: Medical Emergency
 Artist: Alex Rosetti
 Duration: '2:08'
-References:
-- Savior of the Waking World
 Art Tags:
 - John
 - 'cw: blood'
@@ -709,12 +707,12 @@ Commentary: |-
     Radiation gave me a MIDI of Savior of the Waking World to remix shortly before he figured out how to do it himself. It's based on a prototype of that song and goes in a completely different direction, complete with a cheesy electric guitar synth. I think the opening ended up sounding really cool, but the rest of it just sounds kind of dumb in its execution, not that the material itself isn't good.
 Cover Artists:
 - Nolvini
+Referenced Tracks:
+- Savior of the Waking World
 ---
 Track: Clockwork Contrivance
 Artist: Clark Powell
 Duration: '4:33'
-References:
-- Clockwork Melody
 Art Tags:
 - Dave
 URLs:
@@ -722,13 +720,12 @@ URLs:
 - https://youtu.be/b3VZo6aQyoc
 Cover Artists:
 - Ghostcrebs
+Referenced Tracks:
+- Clockwork Melody
 ---
 Track: Get Up
 Artist: Toby Fox
 Duration: '1:18'
-References:
-- Penumbra Phantasm
-- track:doctor
 Art Tags:
 - John
 URLs:
@@ -736,12 +733,13 @@ URLs:
 - https://youtu.be/RG-gwMm7vcg
 Cover Artists:
 - reinardfox
+Referenced Tracks:
+- Penumbra Phantasm
+- track:doctor
 ---
 Track: Vertical Motion
 Artist: Toby Fox
 Duration: '1:32'
-References:
-- track:endless-climb
 Art Tags:
 - Rose
 URLs:
@@ -749,6 +747,8 @@ URLs:
 - https://youtu.be/RCMpwY8pirw
 Cover Artists:
 - inariijane
+Referenced Tracks:
+- track:endless-climb
 ---
 Track: The Beginning of Something Really Excellent
 Artist: Robert J! Lake
@@ -763,8 +763,6 @@ Cover Artists:
 ---
 Track: Pyrocumulus (Kickstart)
 Artist: Robert J! Lake
-References:
-- Skaian Skuffle
 Duration: '3:02'
 Art Tags:
 - John
@@ -773,12 +771,12 @@ URLs:
 - https://youtu.be/KYc4reXiKfE
 Cover Artists:
 - thespacemaid
+Referenced Tracks:
+- Skaian Skuffle
 ---
 Track: Skaian Skuffle
 Artist: Andrew Huo
 Duration: '2:11'
-References:
-- track:skies-of-skaia
 Art Tags:
 - WV
 - Jack Noir
@@ -791,6 +789,8 @@ Commentary: |-
     Skaian Skuffle was made with the intent of turning Skies of Skaia into a battle theme. The bass progression matches Skies of Skaia's, with more bounce to it, and the melody of Skies of Skaia was quantified/simplified into a repeating motif. It was mostly composed by feel the rest of the way. I actually had writer's block for a while after I reached about 1:02, and it never really got resolved, which is why 1:21 onwards feels kinda awkward and not so great. I kinda wish I could go back and redo it so it sounds better. But what Radiation did with it turning it into Skaian Skirmish worked really well. There was some vague artistic direction from the Big Man that helped with this a little bit. If I remember correctly, it was something along the lines of "okay, maybe you can bring it down a bit in the middle, then ramp it up for the big finish." So I tried to do that using a new bassline, using wandering skips of third and fourth rather than downwise step in an attempt to mirror Skies of Skaia's original melody, as well as scrambling the repeating sixteenth note motif based on the original melody. Like I said, though, I would say it worked out awkwardly rather than well. It does create a certain mood, which, like I said, Radiation capitalized on. Whoops, I just repeated myself, but in more detail the second time. What's that called in literary device terms? Amplification? Yeah, let's go with that.
 Cover Artists:
 - innocoussketches
+Referenced Tracks:
+- track:skies-of-skaia
 ---
 Track: Throwdown
 Artist: Steve Everson
@@ -837,8 +837,6 @@ Cover Artists:
 Track: Light
 Artist: Erik Scheele
 Duration: '4:27'
-References:
-- track:showtime-piano-refrain
 Directory: light-vol5
 Art Tags:
 - John
@@ -855,6 +853,8 @@ Commentary: |-
     413 as a motif, I’ve used it in various ways. Not saying anything, though, not even sure about spoiling its use in Light. If you ever analyze various bits of music, though, you might notice it popping up, or other little fun bits. That’s all I’ve got to say about that.
 Cover Artists:
 - allyssinian
+Referenced Tracks:
+- track:showtime-piano-refrain
 ---
 Track: Softly
 Artist: Robert J! Lake
@@ -913,8 +913,6 @@ Cover Artists:
 Track: Snow Pollen
 Artist: Toby Fox
 Duration: '2:10'
-References:
-- Lotus
 Art Tags:
 - Jade
 URLs:
@@ -922,6 +920,8 @@ URLs:
 - https://youtu.be/xFTuVM3nACY
 Cover Artists:
 - Rozenn-blog
+Referenced Tracks:
+- Lotus
 ---
 Track: Candles and Clockwork
 Artist: James Dever
@@ -949,8 +949,6 @@ Cover Artists:
 Track: Plague Doctor
 Artist: Steve Everson
 Duration: '1:13'
-References:
-- track:doctor
 Art Tags:
 - John
 URLs:
@@ -961,13 +959,12 @@ Commentary: |-
     I’m sure you all know the story behind the Doctor remixes. During the Intermission Andrew wanted a remix of that to use for LOWAS and everyone jumped at the chance. This was my contribution. It’s a pretty straight transcription to different instruments. Nowadays I find that a little disappointing. I started writing a new version not long ago; maybe one day I’ll finish it and post it here.
 Cover Artists:
 - ghostecutioner
+Referenced Tracks:
+- track:doctor
 ---
 Track: Enlightenment
 Artist: Steve Everson
 Duration: '1:15'
-References:
-- track:aggrieve
-- track:endless-climb
 Art Tags:
 - John
 URLs:
@@ -975,12 +972,13 @@ URLs:
 - https://youtu.be/h0UVwLDYneI
 Cover Artists:
 - Sigourney Martin
+Referenced Tracks:
+- track:aggrieve
+- track:endless-climb
 ---
 Track: Doctor Remix
 Artist: Gabe Nezovic
 Duration: 0:58
-References:
-- track:doctor
 Art Tags:
 - John
 - Horrorterrors
@@ -991,6 +989,8 @@ URLs:
 - https://youtu.be/EhVwra6X4B0
 Cover Artists:
 - microwavedsoap
+Referenced Tracks:
+- track:doctor
 ---
 Track: Biophosphoradelecrystalluminescence
 Artist: Robert J! Lake
@@ -1024,7 +1024,9 @@ Art Tags:
 URLs:
 - https://homestuck.bandcamp.com/track/descend-2
 - https://youtu.be/HE1JZZYUZYM
-References:
+Cover Artists:
+- queenoftheantz
+Referenced Tracks:
 - track:upward-movement-dave-owns
 - track:sburban-jungle
 - track:beatdown-strider-style
@@ -1052,14 +1054,10 @@ References:
 - track:problem-sleuth-theme
 - track:dirgeish
 - track:fear-of-the-heavens
-Cover Artists:
-- queenoftheantz
 ---
 Track: Homestuck
 Artist: Mark Hadley
 Duration: '2:27'
-References:
-- Homestuck Anthem
 Art Tags:
 - John
 - Rose
@@ -1074,3 +1072,5 @@ Commentary: |-
     Plazmataz came up with a melody to use as an anthem for Homestuck, which they then used in Homestuck Anthem. While that was a very driving melody, I opted to come up with something that might be more suitable for credits (opening or end) or a title screen. I really like how this came out; it sounds a bit moody, but still optimistic, which is what I was aiming for.
 Cover Artists:
 - Snilm
+Referenced Tracks:
+- Homestuck Anthem

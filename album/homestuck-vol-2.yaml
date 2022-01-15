@@ -16,28 +16,28 @@ Artist: Michael Guy Bowman, Joseph Aylsworth
 Contributors:
 - Joseph Aylsworth (guitar)
 Duration: '2:48'
-References:
-- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/harlequin-rock-version-3
 - https://youtu.be/g5TDTcMEL_c
+Referenced Tracks:
+- track:harlequin
 ---
 Track: Skaian Dreams (Remix)
 Artist: Bill Bolin
 Duration: '1:30'
-References:
+Has URLs: false
+Referenced Tracks:
 - track:showtime-original-mix
 - track:skies-of-skaia
-Has URLs: false
 ---
 Track: Upward Movement (Dave Owns)
 Artist: Kalibration
 Duration: '4:20'
-References:
-- track:amen-brother
 URLs:
 - https://homestuck.bandcamp.com/track/upward-movement-dave-owns-3
 - https://youtu.be/j6UiUu_7LVc
+Referenced Tracks:
+- track:amen-brother
 ---
 Track: Vagabounce
 Artist: David Ko
@@ -71,24 +71,24 @@ Has URLs: false
 Track: Showtime Remix
 Artist: Gabe Nezovic
 Duration: '2:02'
-References:
-- track:showtime-piano-refrain
-Samples:
-- track:showtime-piano-refrain
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-remix-3
 - https://youtu.be/VliU0X6XVpA
+Referenced Tracks:
+- track:showtime-piano-refrain
+Sampled Tracks:
+- track:showtime-piano-refrain
 ---
 Track: Aggrieve Remix
 Artist: Gabe Nezovic
-References:
-- track:aggrieve-violin-refrain
-Samples:
-- track:aggrieve-violin-refrain
 Duration: '2:11'
 URLs:
 - https://homestuck.bandcamp.com/track/aggrieve-remix-3
 - https://youtu.be/DpB5llhN2L0
+Referenced Tracks:
+- track:aggrieve-violin-refrain
+Sampled Tracks:
+- track:aggrieve-violin-refrain
 ---
 Track: Verdancy (Bassline)
 Artist: Kalibration
@@ -100,6 +100,6 @@ URLs:
 Track: Kinetic Verdancy
 Artist: Bill Bolin
 Duration: '1:30'
-References:
-- track:verdancy-bassline
 Has URLs: false
+Referenced Tracks:
+- track:verdancy-bassline

@@ -1,8 +1,6 @@
 Album: Homestuck Vol. 8
 Date: October 25, 2011
 Date Added: November 15, 2019
-Banner Art:
-- Homestuck
 Banner Dimensions: 1100x203
 Wallpaper Style: |-
     opacity: 0.6;
@@ -19,17 +17,14 @@ Cover Artists:
 - Homestuck
 Wallpaper Artists:
 - Homestuck
+Banner Artists:
+- Homestuck
 ---
 Group: Main album
 ---
 Track: Calamity
 Artist: Michael Guy Bowman
 Duration: '3:38'
-References:
-- Walk-Stab-Walk (R&E)
-- Warhammer of Zillyhoo
-Samples:
-- Apollo 11 Launch Countdown
 Art Tags:
 - Karkat
 - Gamzee
@@ -47,15 +42,15 @@ Commentary: |-
     The countdown sample is from a NASA recording, I believe it’s the launch of Apollo 11.
 Cover Artists:
 - Tavia Morra
+Referenced Tracks:
+- Walk-Stab-Walk (R&E)
+- Warhammer of Zillyhoo
+Sampled Tracks:
+- Apollo 11 Launch Countdown
 ---
 Track: Do You Remem8er Me
 Artist: Malcolm Brown
 Duration: '4:28'
-References:
-- Lifdoff
-- track:showtime-original-mix
-- Death of the Lusii
-- track:ruins
 Art Tags:
 - John
 - Vriska
@@ -87,6 +82,11 @@ Commentary: |-
     I also fully suspect I missed some ‘8’s somewhere........ This stuff’s harder than it looks.  God help me if I try to commentary another gorram Terezi track ::::p
 Cover Artists:
 - Richard Gung
+Referenced Tracks:
+- Lifdoff
+- track:showtime-original-mix
+- Death of the Lusii
+- track:ruins
 ---
 Track: Flare
 Artist: Clark Powell
@@ -162,8 +162,6 @@ Artist: Michael Guy Bowman
 Contributors:
 - Tavia Morra
 Duration: '3:12'
-References:
-- Ocean Stars
 Art Tags:
 - Squiddles
 URLs:
@@ -177,6 +175,8 @@ Commentary: |-
     This is another example of a song that has the “just right” feeling about its length. I could probably have easily repeated the vocals endlessly as though I was attempting to induce transcendental meditation - it would probably have had the same effect as “Hey Jude” or any number of other great songs. Owing though to my sense that this album was going to be a long one (my contributions alone come out to more than 20 minutes of music) I decided to capitalize on having achieved the harmony and just let it end when its thought was fully expressed, not unlike the original composition by Mark.
 Cover Artists:
 - Richard Gung
+Referenced Tracks:
+- Ocean Stars
 ---
 Track: Escape Pod
 Artist: Michael Guy Bowman
@@ -199,9 +199,6 @@ Cover Artists:
 Track: Davesprite
 Artist: Toby Fox
 Duration: '1:41'
-References:
-- Hawkeye
-- track:atomyk-ebonpyre
 Art Tags:
 - Davesprite
 URLs:
@@ -209,6 +206,9 @@ URLs:
 - https://youtu.be/Iy5fKp-aV4o
 Cover Artists:
 - P-RO
+Referenced Tracks:
+- Hawkeye
+- track:atomyk-ebonpyre
 ---
 Track: Airtime
 Artist: Robert J! Lake
@@ -243,9 +243,6 @@ Artist: Solatrus
 Contributors:
 - Thomas Ferkol (electric guitar)
 Duration: '4:35'
-References:
-- Terra
-- track:frost-vol6
 Art Tags:
 - Jade
 - Dave
@@ -261,12 +258,13 @@ Commentary: |-
     And because the fight of Dave and Jade vs. Jack was an interesting event, so that’s how the song came to be.
 Cover Artists:
 - Richard Gung
+Referenced Tracks:
+- Terra
+- track:frost-vol6
 ---
 Track: Unite Synchronization
 Artist: Malcolm Brown
 Duration: '2:54'
-References:
-- track:showtime-original-mix
 Art Tags:
 - Dave
 - John
@@ -308,15 +306,12 @@ Commentary: |-
     I’d like to see Dave match that. :p
 Cover Artists:
 - melodiousDiscord
+Referenced Tracks:
+- track:showtime-original-mix
 ---
 Track: Homefree
 Artist: Hilary Troiano
 Duration: '4:28'
-References:
-- Shooting Star
-- Homestuck Anthem
-- track:sburban-jungle
-- track:upward-movement-dave-owns
 Art Tags:
 - John
 URLs:
@@ -327,6 +322,11 @@ Commentary: |-
     Someone sent me a PM asking for some commentary about my two MSPA songs, so [[media:misc/hilary-troiano-commentary.mp3|here it is]]. (<a href="https://jaydeis.tumblr.com/post/19609363685/someone-sent-me-a-pm-asking-for-some-commentary">source</a>)
 Cover Artists:
 - Vivian Ng
+Referenced Tracks:
+- Shooting Star
+- Homestuck Anthem
+- track:sburban-jungle
+- track:upward-movement-dave-owns
 ---
 Track: Galaxy Hearts
 Artist: Mark Hadley
@@ -379,9 +379,6 @@ Cover Artists:
 Track: Pyrocumulus (Sicknasty)
 Artist: Robert J! Lake
 Duration: '2:50'
-References:
-- Skaian Skuffle
-- track:skies-of-skaia
 Art Tags:
 - John
 URLs:
@@ -389,6 +386,9 @@ URLs:
 - https://youtu.be/4BqRC-ZPovM
 Cover Artists:
 - Rutares
+Referenced Tracks:
+- Skaian Skuffle
+- track:skies-of-skaia
 ---
 Track: Kingside Castle
 Artist: Clark Powell
@@ -402,8 +402,6 @@ Cover Artists:
 Track: Temporary
 Artist: Robert J! Lake
 Duration: '3:37'
-References:
-- Temporal Piano
 Art Tags:
 - Dave
 - The Felt
@@ -412,6 +410,8 @@ URLs:
 - https://youtu.be/CYh1OlRWzp4
 Cover Artists:
 - Chaz Canterbury
+Referenced Tracks:
+- Temporal Piano
 ---
 Track: Gust of Heir
 Artist: James Dever, Michael Guy Bowman
@@ -446,13 +446,13 @@ Cover Artists:
 Track: Even in Death (T'Morra's Belly Mix)
 Artist: Clark Powell, Tavia Morra
 Duration: '4:08'
-References:
-- Even in Death
 URLs:
 - https://homestuck.bandcamp.com/track/even-in-death-tmorras-belly-mix-2
 - https://youtu.be/9MdltybiL00
 Cover Artists:
 - Tavia Morra
+Referenced Tracks:
+- Even in Death
 ---
 Track: Bargaining with the Beast
 Artist: Thomas Ferkol
@@ -476,19 +476,17 @@ Artist: Toby Fox
 Contributors:
 - Marcy Nabors (flute)
 Duration: '3:51'
-References:
-- Gaia Queen
 URLs:
 - https://homestuck.bandcamp.com/track/frostbite-2
 - https://youtu.be/Gdb_nZs6plw
 Cover Artists:
 - Nic Carey
+Referenced Tracks:
+- Gaia Queen
 ---
 Track: The Lost Child
 Artist: Toby Fox
 Duration: '2:54'
-References:
-- psych0ruins
 Art Tags:
 - The Handmaid
 URLs:
@@ -496,6 +494,8 @@ URLs:
 - https://youtu.be/-OFQHEy5TDw
 Cover Artists:
 - Sarah Fu
+Referenced Tracks:
+- psych0ruins
 ---
 Track: Questant's Lament
 Artist: Thomas Ferkol
@@ -516,8 +516,6 @@ Cover Artists:
 Track: Hussie Hunt
 Artist: Malcolm Brown
 Duration: '2:46'
-References:
-- track:explore
 Art Tags:
 - AH
 - Doc Scratch
@@ -533,6 +531,8 @@ Commentary: |-
     Had quite a bit of fun doin' this one. Also quite proud of the name  Even if I do have to occasionally explain it to people who don't read the comic...
 Cover Artists:
 - Hanni Brosh
+Referenced Tracks:
+- track:explore
 ---
 Track: Havoc
 Artist: Svix
@@ -556,8 +556,6 @@ Contributors:
 - Clark Powell (some production)
 - Toby Fox (climax drum programming)
 Duration: '3:22'
-References:
-- track:atomyk-ebonpyre
 Art Tags:
 - Rose
 - Dave
@@ -572,6 +570,8 @@ Commentary: |-
     And that was how Virginia was founded!
 Cover Artists:
 - Zilon
+Referenced Tracks:
+- track:atomyk-ebonpyre
 ---
 Track: Infinity Mechanism
 Artist: Thomas Ferkol
@@ -588,9 +588,6 @@ Cover Artists:
 ---
 Track: Revered Return
 Artist: Nick Smalley, Michael Guy Bowman
-References:
-- Dirgeish
-- track:sburban-jungle
 Duration: '2:33'
 Art Tags:
 - Terezi
@@ -607,14 +604,15 @@ Commentary: |-
     Remember that thing about ORGMaker? Yeah, this song, too. Except add me asking Andrew Huo to help finish it and Bowman to ramp it up, and you’ve got Revered Return. :3
 Cover Artists:
 - Noot
+Referenced Tracks:
+- Dirgeish
+- track:sburban-jungle
 ---
 Track: Judgment Day
 Artist: Toby Fox
 Contributors:
 - Kelly Sadwin (violin)
 Duration: '2:00'
-References:
-- track:ruins
 Art Tags:
 - John
 URLs:
@@ -622,38 +620,38 @@ URLs:
 - https://youtu.be/MD2TLTtyfDE
 Cover Artists:
 - Lazylaz
+Referenced Tracks:
+- track:ruins
 ---
 Track: Lotus (Bloom)
 Artist: Seth Peelle
 Duration: '4:05'
-References:
-- Lotus
 URLs:
 - https://homestuck.bandcamp.com/track/lotus-bloom-2
 - https://youtu.be/RrIofwv86HM
 Cover Artists:
 - myluckyseven
+Referenced Tracks:
+- Lotus
 ---
 Track: Cascade
 Artist: Toby Fox, Tensei, Clark Powell, Malcolm Brown
 Contributors:
 - Toby Fox (editing)
 Duration: '13:14'
-References:
-- Cascade (Beta)
-- Flare (Cascade)
-- Savior of the Dreaming Dead (Cascade Cut)
-- Black Hole / Green Sun
 URLs:
 - https://homestuck.bandcamp.com/track/cascade-2
 - https://youtu.be/Ckr6KyZoS58
 Has Cover Art: false
+Referenced Tracks:
+- Cascade (Beta)
+- Flare (Cascade)
+- Savior of the Dreaming Dead (Cascade Cut)
+- Black Hole / Green Sun
 ---
 Track: I'm a Member of the Midnight Crew (Acapella)
 Artist: David Ko
 Duration: '2:50'
-References:
-- I'm a Member of the Midnight Crew
 Art Tags:
 - Midnight Crew
 URLs:
@@ -669,14 +667,14 @@ Lyrics: |-
     Make her a member of the Midnight Crew!
 Cover Artists:
 - Vivian Ng
+Referenced Tracks:
+- I'm a Member of the Midnight Crew
 ---
 Group: Bonus tracks
 ---
 Track: How Do I Live (D8 Night Version)
 Artist: Michael Guy Bowman
 Duration: '3:23'
-References:
-- How Do I Live
 Art Tags:
 - John
 URLs:
@@ -698,6 +696,8 @@ Commentary: |-
     I added a new bridge section in so that Thomas Ferkol could have a chance to play some real guitar in this one, and of course he showed his colors as a metal guitarist, sending me a duet between harmonized voices. David Ko also appears on this track as the gently-spoken backup vocalist.
 Cover Artists:
 - Victoria Grace Elliott
+Referenced Tracks:
+- How Do I Live
 ---
 Track: Cascade (Beta)
 Artist: Tensei
@@ -718,9 +718,6 @@ Contributors:
 - Tensei (electric guitar)
 - Kelly Sadwin (violin)
 Duration: '2:30'
-References:
-- Black Rose / Green Sun
-- track:sburban-jungle
 URLs:
 - https://homestuck.bandcamp.com/track/black-hole-green-sun-2
 - https://youtu.be/B6e2XacZSIs
@@ -728,6 +725,9 @@ Commentary: |-
     <i>Malcolm Brown:</i>
     Not much to say on this really except the title is kind of an ode to Soundgarden.
 Has Cover Art: false
+Referenced Tracks:
+- Black Rose / Green Sun
+- track:sburban-jungle
 ---
 Track: Carefree Action
 Artist: Mark Hadley

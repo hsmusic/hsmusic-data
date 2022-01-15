@@ -1,7 +1,5 @@
 Album: 'Homestuck Vol. 7: At the Price of Oblivion'
 Directory: homestuck-vol-7
-Banner Art:
-- Homestuck
 Banner Dimensions: 1100x158
 Wallpaper Style: 'opacity: 0.8;'
 Date: May 31, 2011 00:00:05
@@ -19,6 +17,8 @@ URLs:
 Cover Artists:
 - Homestuck
 Wallpaper Artists:
+- Homestuck
+Banner Artists:
 - Homestuck
 ---
 Group: Main album
@@ -48,11 +48,6 @@ Cover Artists:
 Track: At The Price of Oblivion
 Artist: Malcolm Brown
 Duration: '3:23'
-References:
-- track:chorale-for-jaspers
-- Rex Duodecim Angelus
-- Black Rose / Green Sun
-- track:aggrieve
 Art Tags:
 - Rose
 - 'cw: blood'
@@ -70,12 +65,15 @@ Commentary: |-
     When Andrew told me he was going to use this one for a fight scene I was looking heavily forward to it. Imagine my surprise when just as it's about to kick off... John gets himself stabbed.
 Cover Artists:
 - Shelby Cragg
+Referenced Tracks:
+- track:chorale-for-jaspers
+- Rex Duodecim Angelus
+- Black Rose / Green Sun
+- track:aggrieve
 ---
 Track: Even in Death
 Artist: Clark Powell
 Duration: '2:32'
-References:
-- track:upward-movement-dave-owns
 Art Tags:
 - Rose
 URLs:
@@ -83,12 +81,12 @@ URLs:
 - https://youtu.be/T86uquWB9Mw
 Cover Artists:
 - Yapoos
+Referenced Tracks:
+- track:upward-movement-dave-owns
 ---
 Track: Terezi Owns
 Artist: Toby Fox
 Duration: '1:39'
-References:
-- track:upward-movement-dave-owns
 Art Tags:
 - Terezi
 - Pyralspite
@@ -97,13 +95,12 @@ URLs:
 - https://youtu.be/2pfcakhXhE8
 Cover Artists:
 - Angela Sham
+Referenced Tracks:
+- track:upward-movement-dave-owns
 ---
 Track: Trial and Execution
 Artist: Malcolm Brown
 Duration: '1:29'
-References:
-- The Lemonsnout Turnabout
-- Crystalanthemums
 Art Tags:
 - Terezi
 - Vriska
@@ -125,12 +122,13 @@ Commentary: |-
     The name's fairly obvious - I was trying to work in some kind of "Trial and Error" gag but I guess this works.
 Cover Artists:
 - Shelby Cragg
+Referenced Tracks:
+- The Lemonsnout Turnabout
+- Crystalanthemums
 ---
 Track: The Carnival
 Artist: Erik Scheele
 Duration: '2:15'
-References:
-- track:harlequin
 Art Tags:
 - Gamzee
 - 'cw: blood'
@@ -139,13 +137,12 @@ URLs:
 - https://youtu.be/Q5gjYuJrfbc
 Cover Artists:
 - Carla Bravo
+Referenced Tracks:
+- track:harlequin
 ---
 Track: Spider8reath
 Artist: Tensei
 Duration: '2:44'
-References:
-- Spider's Claw
-- Heir Conditioning
 Art Tags:
 - Vriska
 URLs:
@@ -162,6 +159,9 @@ Commentary: |-
     Really though, the main inspiration for this song simply comes from building on the previous Vriska songs that Radiation did. While the brass was a new, spur-of-the-moment addition, the guitar riffs and melodies were always supposed to be reminiscent of stuff like Spider’s Claw, Killed by Br8k Spider and MeGaLoVaNia. People definitely seem to associate this song with Vriska too now, so mission accomplished I guess?
 Cover Artists:
 - Lazylaz
+Referenced Tracks:
+- Spider's Claw
+- Heir Conditioning
 ---
 Track: Lifdoff
 Artist: Malcolm Brown
@@ -182,8 +182,6 @@ Cover Artists:
 Track: Awakening
 Artist: Erik Scheele
 Duration: '3:57'
-References:
-- track:ruins
 Art Tags:
 - John
 URLs:
@@ -191,6 +189,8 @@ URLs:
 - https://youtu.be/ss0NXbwO_Xs
 Cover Artists:
 - Devin H-S
+Referenced Tracks:
+- track:ruins
 ---
 Track: Havoc To Be Wrought
 Artist: Thomas Ferkol
@@ -253,9 +253,6 @@ Cover Artists:
 Track: WSW-Beatdown
 Artist: Erik Scheele
 Duration: '3:36'
-References:
-- Walk-Stab-Walk (R&E)
-- track:beatdown-strider-style
 Art Tags:
 - Karkat
 - Underlings
@@ -264,12 +261,13 @@ URLs:
 - https://youtu.be/-dusgXh-taQ
 Cover Artists:
 - Devin H-S
+Referenced Tracks:
+- Walk-Stab-Walk (R&E)
+- track:beatdown-strider-style
 ---
 Track: Earthsea Borealis
 Artist: Toby Fox
 Duration: '2:58'
-References:
-- track:endless-climb
 Art Tags:
 - Rose
 - Horrorterrors
@@ -278,6 +276,8 @@ URLs:
 - https://youtu.be/KXgPNyd45A4
 Cover Artists:
 - Molly Gur
+Referenced Tracks:
+- track:endless-climb
 ---
 Track: Warhammer of Zillyhoo
 Artist: Michael Guy Bowman
@@ -297,9 +297,6 @@ Cover Artists:
 Track: Savior of the Dreaming Dead
 Artist: Malcolm Brown
 Duration: '4:10'
-References:
-- track:doctor
-- Penumbra Phantasm
 Art Tags:
 - Dave
 URLs:
@@ -312,6 +309,9 @@ Commentary: |-
     But. After it was used in Cascade, particularly with Rad's additions to the ending and generally going along to the animation of Jade Being Awesome and Universes Being Destroyed it's hard for me not to like it now - Particularly when the end cuts hit and everything's starting to head towards disaster. I don't think it's one of my best, and I would love to go back and try making it better, but I'm happy enough that it was used at one of the biggest moments in the comic, and still stands as a fairly harmless, simple and straightforward bit of music.
 Cover Artists:
 - Left
+Referenced Tracks:
+- track:doctor
+- Penumbra Phantasm
 ---
 Group: Bonus tracks
 ---
@@ -330,8 +330,6 @@ Cover Artists:
 Track: Sburban Reversal
 Artist: Mark Hadley
 Duration: '3:51'
-References:
-- track:sburban-countdown
 Art Tags:
 - Dave
 URLs:
@@ -342,15 +340,12 @@ Commentary: |-
     Not long after I made Sburban Countdown, I made a version that rewinds back to the beginning again and called it 'Sburban Reversal', just in case it might be useful someday. Andrew ended up using part of it in act 2 except for the actual reversing part, but still credited it as 'Sburban Reversal', which had people asking me constantly after that if it's a real song. It wasn't really anything except for the reversing, so I eventually decided to extend it out to a full song. Since it was never actually fully in the comic, I recommended it as a bonus track.
 Cover Artists:
 - Devin H-S
+Referenced Tracks:
+- track:sburban-countdown
 ---
 Track: White Host, Green Room
 Artist: Tensei
 Duration: '3:28'
-Samples:
-- Terezi Owns
-- Cascade (Beta)
-- The King in Red (Beta)
-- Black Rose / Green Sun
 Art Tags:
 - Doc Scratch
 URLs:
@@ -358,3 +353,8 @@ URLs:
 - https://youtu.be/oL3r83dPcMs
 Cover Artists:
 - Al Neun
+Sampled Tracks:
+- Terezi Owns
+- Cascade (Beta)
+- The King in Red (Beta)
+- Black Rose / Green Sun

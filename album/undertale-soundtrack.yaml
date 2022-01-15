@@ -29,11 +29,11 @@ URLs:
 ---
 Track: Start Menu
 Duration: 0:32
-References:
-- Once Upon a Time
 URLs:
 - https://tobyfox.bandcamp.com/track/start-menu
 - https://youtu.be/kRT9vY2f7tg
+Referenced Tracks:
+- Once Upon a Time
 ---
 Track: Your Best Friend
 Duration: 0:23
@@ -62,11 +62,11 @@ URLs:
 ---
 Track: Anticipation
 Duration: 0:22
-References:
-- Enemy Approaching
 URLs:
 - https://tobyfox.bandcamp.com/track/anticipation-2
 - https://youtu.be/t62zFJATVPM
+Referenced Tracks:
+- Enemy Approaching
 ---
 Track: Unnecessary Tension
 Duration: 0:17
@@ -95,28 +95,28 @@ URLs:
 Track: Home
 Directory: home-undertale
 Duration: '2:03'
-References:
-- Once Upon a Time
 URLs:
 - https://tobyfox.bandcamp.com/track/home-2
 - https://youtu.be/5_E_y1AWAfc
+Referenced Tracks:
+- Once Upon a Time
 ---
 Track: Home (Music Box)
 Duration: '2:03'
-References:
-- track:home-undertale
-- Once Upon a Time
 URLs:
 - https://tobyfox.bandcamp.com/track/home-music-box-2
 - https://youtu.be/ANEsXjSiYxI
+Referenced Tracks:
+- track:home-undertale
+- Once Upon a Time
 ---
 Track: Heartache
 Duration: '1:48'
-References:
-- Enemy Approaching
 URLs:
 - https://tobyfox.bandcamp.com/track/heartache-2
 - https://youtu.be/xflkF-sqNaM
+Referenced Tracks:
+- Enemy Approaching
 ---
 Track: sans.
 Duration: 0:50
@@ -138,19 +138,19 @@ URLs:
 ---
 Track: Uwa!! So Holiday♫
 Duration: 0:30
-References:
-- Uwa!! So Temperate♫
 URLs:
 - https://tobyfox.bandcamp.com/track/uwa-so-holiday
 - https://youtu.be/XnG7HG8bmkU
+Referenced Tracks:
+- Uwa!! So Temperate♫
 ---
 Track: Dogbass
 Duration: 0:06
-References:
-- Ghost Fight
 URLs:
 - https://tobyfox.bandcamp.com/track/dogbass
 - https://youtu.be/a1OLiuNLpEs
+Referenced Tracks:
+- Ghost Fight
 ---
 Track: Mysterious Place
 Duration: 0:44
@@ -160,68 +160,68 @@ URLs:
 ---
 Track: Dogsong
 Duration: 0:37
-References:
-- Enemy Approaching
 URLs:
 - https://tobyfox.bandcamp.com/track/dogsong
 - https://youtu.be/woPff-Tpkns
+Referenced Tracks:
+- Enemy Approaching
 ---
 Track: Snowdin Town
 Duration: '1:16'
-References:
-- Snowy
 URLs:
 - https://tobyfox.bandcamp.com/track/snowdin-town
 - https://youtu.be/z6LmMCuGjfA
+Referenced Tracks:
+- Snowy
 ---
 Track: Shop
 Duration: 0:50
-References:
-- Snowdin Town
 URLs:
 - https://tobyfox.bandcamp.com/track/shop
 - https://youtu.be/jCQ_5Gj6jlg
+Referenced Tracks:
+- Snowdin Town
 ---
 Track: Bonetrousle
 Duration: 0:57
-References:
-- Nyeh Heh Heh!
 URLs:
 - https://tobyfox.bandcamp.com/track/bonetrousle
 - https://youtu.be/zdeZwAk6ULE
+Referenced Tracks:
+- Nyeh Heh Heh!
 ---
 Track: Dating Start!
 Duration: '1:56'
-References:
-- Snowdin Town
 URLs:
 - https://tobyfox.bandcamp.com/track/dating-start
 - https://youtu.be/dtYwq4aBr0E
+Referenced Tracks:
+- Snowdin Town
 ---
 Track: Dating Tense!
 Duration: 0:26
-References:
-- Undyne
 URLs:
 - https://tobyfox.bandcamp.com/track/dating-tense
 - https://youtu.be/ShK_Tj-Ee3Y
+Referenced Tracks:
+- Undyne
 ---
 Track: Dating Fight!
 Duration: 0:35
-References:
-- Dating Start!
-- Snowdin Town
 URLs:
 - https://tobyfox.bandcamp.com/track/dating-fight
 - https://youtu.be/JQ8bpWkoC7A
+Referenced Tracks:
+- Dating Start!
+- Snowdin Town
 ---
 Track: Premonition
 Duration: '1:01'
-References:
-- Your Best Nightmare
 URLs:
 - https://tobyfox.bandcamp.com/track/premonition
 - https://youtu.be/sQDiDDb1_9k
+Referenced Tracks:
+- Your Best Nightmare
 ---
 Track: Danger Mystery
 Duration: 0:18
@@ -237,61 +237,61 @@ URLs:
 ---
 Track: Waterfall
 Duration: '2:06'
-References:
-- track:ruins-undertale
-- Another Medium
-- Ooo
 URLs:
 - https://tobyfox.bandcamp.com/track/waterfall
 - https://youtu.be/v712NiVK5uY
+Referenced Tracks:
+- track:ruins-undertale
+- Another Medium
+- Ooo
 ---
 Track: Run!
 Duration: 0:26
-References:
-- Undyne
 URLs:
 - https://tobyfox.bandcamp.com/track/run
 - https://youtu.be/PPapt88_3aU
+Referenced Tracks:
+- Undyne
 ---
 Track: Quiet Water
 Duration: 0:32
-References:
-- track:ruins-undertale
 URLs:
 - https://tobyfox.bandcamp.com/track/quiet-water
 - https://youtu.be/AsvhQ-soLdg
+Referenced Tracks:
+- track:ruins-undertale
 ---
 Track: Memory
 Duration: '1:15'
-References:
-- His Theme
 URLs:
 - https://tobyfox.bandcamp.com/track/memory
 - https://youtu.be/eijdNQMYikY
+Referenced Tracks:
+- His Theme
 ---
 Track: Bird That Carries You Over A Disproportionately Small Gap
 Duration: 0:25
-References:
-- Alphys
 URLs:
 - https://tobyfox.bandcamp.com/track/bird-that-carries-you-over-a-disproportionately-small-gap
 - https://youtu.be/Z51lfE2k7jU
+Referenced Tracks:
+- Alphys
 ---
 Track: Dummy!
 Duration: '2:25'
-References:
-- Ghost Fight
 URLs:
 - https://tobyfox.bandcamp.com/track/dummy
 - https://youtu.be/N3epEVMNJdY
+Referenced Tracks:
+- Ghost Fight
 ---
 Track: Pathetic House
 Duration: 0:38
-References:
-- Ghost Fight
 URLs:
 - https://tobyfox.bandcamp.com/track/pathetic-house
 - https://youtu.be/nu_ruGyTNEs
+Referenced Tracks:
+- Ghost Fight
 ---
 Track: Spooktune
 Directory: spooktune-undertale
@@ -302,19 +302,19 @@ URLs:
 ---
 Track: Spookwave
 Duration: 0:25
-References:
-- track:spooktune-undertale
 URLs:
 - https://tobyfox.bandcamp.com/track/spookwave
 - https://youtu.be/o251comtNfk
+Referenced Tracks:
+- track:spooktune-undertale
 ---
 Track: Ghouliday
 Duration: 0:12
-References:
-- The One Horse Open Sleigh
 URLs:
 - https://tobyfox.bandcamp.com/track/ghouliday
 - https://youtu.be/lWP9s44i-YA
+Referenced Tracks:
+- The One Horse Open Sleigh
 ---
 Track: Chill
 Duration: 0:56
@@ -330,37 +330,37 @@ URLs:
 ---
 Track: Temmie Village
 Duration: 0:57
-References:
-- Enemy Approaching
 URLs:
 - https://tobyfox.bandcamp.com/track/temmie-village
 - https://youtu.be/rNlyF43Te6U
+Referenced Tracks:
+- Enemy Approaching
 ---
 Track: Tem Shop
 Duration: 0:45
-References:
-- Enemy Approaching
 URLs:
 - https://tobyfox.bandcamp.com/track/tem-shop
 - https://youtu.be/y_qHuDjE3CQ
+Referenced Tracks:
+- Enemy Approaching
 ---
 Track: NGAHHH!!
 Duration: '1:22'
-References:
-- Undyne
-- track:ruins-undertale
 URLs:
 - https://tobyfox.bandcamp.com/track/ngahhh
 - https://youtu.be/PLDyWLbuptQ
+Referenced Tracks:
+- Undyne
+- track:ruins-undertale
 ---
 Track: Spear of Justice
 Duration: '1:55'
-References:
-- Undyne
-- track:ruins-undertale
 URLs:
 - https://tobyfox.bandcamp.com/track/spear-of-justice
 - https://youtu.be/qrBB3_rFPjg
+Referenced Tracks:
+- Undyne
+- track:ruins-undertale
 ---
 Track: Ooo
 Duration: 0:14
@@ -376,93 +376,93 @@ URLs:
 ---
 Track: It's Showtime!
 Duration: 0:46
-References:
-- Hotel
 URLs:
 - https://tobyfox.bandcamp.com/track/its-showtime
 - https://youtu.be/9uwEAugeH8w
+Referenced Tracks:
+- Hotel
 ---
 Track: Metal Crusher
 Duration: '1:03'
-References:
-- Noisemaster Theme
 URLs:
 - https://tobyfox.bandcamp.com/track/metal-crusher
 - https://youtu.be/P0PpyUsvT9w
+Referenced Tracks:
+- Noisemaster Theme
 ---
 Track: Another Medium
 Duration: '2:22'
-References:
-- Patient
 URLs:
 - https://tobyfox.bandcamp.com/track/another-medium
 - https://youtu.be/xLsuam9o9BA
+Referenced Tracks:
+- Patient
 ---
 Track: Uwa!! So HEATS!!♫
 Duration: 0:33
-References:
-- Uwa!! So Temperate♫
 URLs:
 - https://tobyfox.bandcamp.com/track/uwa-so-heats
 - https://youtu.be/wyShNqRkQ1I
+Referenced Tracks:
+- Uwa!! So Temperate♫
 ---
 Track: Stronger Monsters
 Duration: '1:03'
-References:
-- Enemy Approaching
 URLs:
 - https://tobyfox.bandcamp.com/track/stronger-monsters
 - https://youtu.be/HnmHqWU0z5M
+Referenced Tracks:
+- Enemy Approaching
 ---
 Track: Hotel
 Duration: '1:27'
-References:
-- Once Upon a Time
 URLs:
 - https://tobyfox.bandcamp.com/track/hotel
 - https://youtu.be/8wSYwqbp4S4
+Referenced Tracks:
+- Once Upon a Time
 ---
 Track: Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything
 Duration: '1:01'
-References:
-- Hotel
-- Once Upon a Time
 URLs:
 - https://tobyfox.bandcamp.com/track/can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything
 - https://youtu.be/wRUdj1WgwIE
+Referenced Tracks:
+- Hotel
+- Once Upon a Time
 ---
 Track: Confession
 Duration: 0:42
-References:
-- Snowdin Town
 URLs:
 - https://tobyfox.bandcamp.com/track/confession
 - https://youtu.be/qzQyP99Q0pE
+Referenced Tracks:
+- Snowdin Town
 ---
 Track: Live Report
 Duration: 0:17
-References:
-- It's Showtime!
 URLs:
 - https://tobyfox.bandcamp.com/track/live-report
 - https://youtu.be/4oi_XcH2sAw
+Referenced Tracks:
+- It's Showtime!
 ---
 Track: Death Report
 Duration: 0:47
-References:
-- Live Report
-- It's Showtime!
 URLs:
 - https://tobyfox.bandcamp.com/track/death-report
 - https://youtu.be/Z3ZULqzMutw
+Referenced Tracks:
+- Live Report
+- It's Showtime!
 ---
 Track: Spider Dance
 Duration: '1:46'
-References:
-- Ghost Fight
 URLs:
 - https://tobyfox.bandcamp.com/track/spider-dance
 - https://youtu.be/YZ3XjVVNagU
+Referenced Tracks:
+- Ghost Fight
 ---
 Track: Wrong Enemy !?
 Duration: 0:58
@@ -478,43 +478,43 @@ URLs:
 ---
 Track: Oh! Dungeon
 Duration: 0:32
-References:
-- Oh! One True Love
 URLs:
 - https://tobyfox.bandcamp.com/track/oh-dungeon
 - https://youtu.be/5aRE_J4UvYM
+Referenced Tracks:
+- Oh! One True Love
 ---
 Track: It's Raining Somewhere Else
 Duration: '2:50'
-References:
-- sans.
 URLs:
 - https://tobyfox.bandcamp.com/track/its-raining-somewhere-else
 - https://youtu.be/zNd4apsr3WE
+Referenced Tracks:
+- sans.
 ---
 Track: CORE Approach
 Duration: 0:12
-References:
-- Hotel
 URLs:
 - https://tobyfox.bandcamp.com/track/core-approach
 - https://youtu.be/qNi_6kXc2cc
+Referenced Tracks:
+- Hotel
 ---
 Track: CORE
 Duration: '2:46'
-References:
-- Another Medium
 URLs:
 - https://tobyfox.bandcamp.com/track/core
 - https://youtu.be/tDuEWw648jo
+Referenced Tracks:
+- Another Medium
 ---
 Track: Last Episode!
 Duration: 0:07
-References:
-- Metal Crusher
 URLs:
 - https://tobyfox.bandcamp.com/track/last-episode
 - https://youtu.be/pzhYcYwg4vE
+Referenced Tracks:
+- Metal Crusher
 ---
 Track: Oh My...
 Duration: 0:14
@@ -524,22 +524,22 @@ URLs:
 ---
 Track: Death by Glamour
 Duration: '2:14'
-References:
+URLs:
+- https://tobyfox.bandcamp.com/track/death-by-glamour
+- https://youtu.be/2TgO-tN5wAM
+Referenced Tracks:
 - CORE
 - Another Medium
 - Metal Crusher
 - It's Showtime!
-URLs:
-- https://tobyfox.bandcamp.com/track/death-by-glamour
-- https://youtu.be/2TgO-tN5wAM
 ---
 Track: For the Fans
 Duration: '1:47'
-References:
-- Oh! One True Love
 URLs:
 - https://tobyfox.bandcamp.com/track/for-the-fans
 - https://youtu.be/6nOHNgotIPM
+Referenced Tracks:
+- Oh! One True Love
 ---
 Track: Long Elevator
 Duration: 0:20
@@ -549,31 +549,31 @@ URLs:
 ---
 Track: Undertale
 Duration: '6:21'
-References:
-- His Theme
-- Once Upon a Time
 URLs:
 - https://tobyfox.bandcamp.com/track/undertale
 - https://youtu.be/EBhFHJMVfiI
+Referenced Tracks:
+- His Theme
+- Once Upon a Time
 ---
 Track: Song That Might Play When You Fight Sans
 Duration: '1:02'
-References:
-- sans.
-- Nyeh Heh Heh!
 URLs:
 - https://tobyfox.bandcamp.com/track/song-that-might-play-when-you-fight-sans
 - https://youtu.be/41YOknSl0zw
+Referenced Tracks:
+- sans.
+- Nyeh Heh Heh!
 ---
 Track: The Choice
 Duration: '2:12'
-References:
-- Undertale
-- Once Upon a Time
-- His Theme
 URLs:
 - https://tobyfox.bandcamp.com/track/the-choice
 - https://youtu.be/C4Wv5M9JPao
+Referenced Tracks:
+- Undertale
+- Once Upon a Time
+- His Theme
 ---
 Track: Small Shock
 Duration: 0:14
@@ -595,111 +595,111 @@ URLs:
 ---
 Track: ASGORE
 Duration: '2:36'
-References:
+URLs:
+- https://tobyfox.bandcamp.com/track/asgore
+- https://youtu.be/hMa4hZQbrms
+Referenced Tracks:
 - Bergentrückung
 - Heartache
 - Determination
 - Undyne
-URLs:
-- https://tobyfox.bandcamp.com/track/asgore
-- https://youtu.be/hMa4hZQbrms
 ---
 Group: Hidden on Bandcamp
 ---
 Track: You Idiot
 Duration: 0:34
-References:
-- Your Best Nightmare
 URLs:
 - https://youtu.be/eOqq5kNBVoM
+Referenced Tracks:
+- Your Best Nightmare
 ---
 Track: Your Best Nightmare
 Duration: '4:00'
-References:
+URLs:
+- https://youtu.be/eUcThHVbrXY
+Referenced Tracks:
 - Flowey's Laugh
 - Your Best Friend
 - Amen, Brother
 - Terezi's Theme
-URLs:
-- https://youtu.be/eUcThHVbrXY
 ---
 Track: Finale
 Duration: '1:52'
-References:
+URLs:
+- https://youtu.be/yWjavxcGfqM
+Referenced Tracks:
 - Your Best Friend
 - Amen, Brother
 - His Theme
-URLs:
-- https://youtu.be/yWjavxcGfqM
 ---
 Track: An Ending
 Duration: '3:28'
-References:
-- track:ruins-undertale
 URLs:
 - https://youtu.be/l3sJ79C1Zyo
+Referenced Tracks:
+- track:ruins-undertale
 ---
 Track: She's Playing Piano
 Duration: 0:18
-References:
-- Alphys
 URLs:
 - https://youtu.be/zEAN2dna9To
+Referenced Tracks:
+- Alphys
 ---
 Track: Here We Are
 Duration: '2:06'
-References:
-- Alphys
 URLs:
 - https://youtu.be/y49b8aiQVBg
+Referenced Tracks:
+- Alphys
 ---
 Track: Amalgam
 Duration: '1:20'
-References:
-- Barrier
 URLs:
 - https://youtu.be/71u0i6J-Qes
+Referenced Tracks:
+- Barrier
 ---
 Track: Fallen Down (Reprise)
 Duration: '2:30'
-References:
-- Fallen Down
-- Once Upon a Time
 URLs:
 - https://youtu.be/cGBMTAGzWPs
+Referenced Tracks:
+- Fallen Down
+- Once Upon a Time
 ---
 Track: Don't Give Up
 Duration: '2:02'
-References:
-- track:ruins-undertale
 URLs:
 - https://youtu.be/B4qdpiad_Q0
+Referenced Tracks:
+- track:ruins-undertale
 ---
 Track: Hopes and Dreams
 Duration: '3:01'
-References:
+URLs:
+- https://youtu.be/tz82xbLvK_k
+Referenced Tracks:
 - Once Upon a Time
 - Undertale
 - Your Best Friend
 - Snowdin Town
-URLs:
-- https://youtu.be/tz82xbLvK_k
 ---
 Track: Burn in Despair!
 Duration: 0:21
-References:
-- Your Best Nightmare
 URLs:
 - https://youtu.be/pumVu-WWhKM
+Referenced Tracks:
+- Your Best Nightmare
 ---
 Track: SAVE the World
 Duration: '1:53'
-References:
+URLs:
+- https://youtu.be/mZRP7nQkfrM
+Referenced Tracks:
 - Hopes and Dreams
 - Once Upon a Time
 - Your Best Friend
-URLs:
-- https://youtu.be/mZRP7nQkfrM
 ---
 Track: His Theme
 Duration: '2:05'
@@ -708,39 +708,41 @@ URLs:
 ---
 Track: Final Power
 Duration: 0:19
-References:
-- Hopes and Dreams
-- Once Upon a Time
 URLs:
 - https://youtu.be/6nQbkE1DS0o
+Referenced Tracks:
+- Hopes and Dreams
+- Once Upon a Time
 ---
 Track: Reunited
 Directory: reunited-undertale
 Duration: '4:44'
-References:
-- Once Upon a Time
-- Snowdin Town
 URLs:
 - https://youtu.be/WgRfPc1lfJk
+Referenced Tracks:
+- Once Upon a Time
+- Snowdin Town
 ---
 Track: Menu (Full)
 Duration: 0:32
-References:
-- Start Menu
-- Once Upon a Time
 URLs:
 - https://youtu.be/brP9Q08kEfk
+Referenced Tracks:
+- Start Menu
+- Once Upon a Time
 ---
 Track: Respite
 Duration: '1:54'
-References:
-- track:ruins-undertale
 URLs:
 - https://youtu.be/E-fyLcHg4iM
+Referenced Tracks:
+- track:ruins-undertale
 ---
 Track: Bring It In, Guys!
 Duration: '4:12'
-References:
+URLs:
+- https://youtu.be/x_P5smsopK0
+Referenced Tracks:
 - Enemy Approaching
 - Nyeh Heh Heh!
 - sans.
@@ -752,50 +754,48 @@ References:
 - Bergentrückung
 - Fallen Down
 - Once Upon a Time
-URLs:
-- https://youtu.be/x_P5smsopK0
 ---
 Track: Last Goodbye
 Duration: '2:15'
-References:
+URLs:
+- https://youtu.be/5P8V4mP5RLg
+Referenced Tracks:
 - SAVE the World
 - Once Upon a Time
 - Your Best Friend
-URLs:
-- https://youtu.be/5P8V4mP5RLg
 ---
 Track: But the Earth Refused to Die
 Duration: 0:34
-References:
-- track:ruins-undertale
 URLs:
 - https://youtu.be/ML6OV8fG74w
+Referenced Tracks:
+- track:ruins-undertale
 ---
 Track: Battle Against a True Hero
 Duration: '2:36'
-References:
-- track:ruins-undertale
 URLs:
 - https://youtu.be/aWBtpBwzzdM
+Referenced Tracks:
+- track:ruins-undertale
 ---
 Track: Power of "NEO"
 Duration: 0:30
-References:
-- Battle Against a True Hero
 URLs:
 - https://youtu.be/mwrUem9vM_A
+Referenced Tracks:
+- Battle Against a True Hero
 ---
 Track: MEGALOVANIA
 Directory: megalovania-undertale
 Duration: '2:36'
-References:
-- track:megalovania-halloween
 URLs:
 - https://youtu.be/c5daGZ96QGU
+Referenced Tracks:
+- track:megalovania-halloween
 ---
 Track: Good Night
 Duration: 0:31
-References:
-- Once Upon a Time
 URLs:
 - https://youtu.be/BGpJrPY563A
+Referenced Tracks:
+- Once Upon a Time

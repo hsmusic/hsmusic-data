@@ -501,16 +501,14 @@ Duration: '4:00'
 URLs:
 - https://bowman.bandcamp.com/track/jungle-boogie
 - https://www.youtube.com/watch?v=Df9m1mux-BU
-References:
-- track:sburban-jungle
 Commentary: |-
     <i>Michael Guy Bowman:</i>
     Outtake from [[album:homestuck-vol-10]], 2016
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Awake (2013 Version)
 Duration: '3:28'
-References:
-- Awake (2012 Version)
 URLs:
 - https://bowman.bandcamp.com/track/awake-2013-version
 - https://www.youtube.com/watch?v=FmKaslOTrXs
@@ -545,13 +543,13 @@ Lyrics: |-
     And time restarts and life resumes
     I rise to meet the coming day
     But someone's laughing far away
+Referenced Tracks:
+- Awake (2012 Version)
 ---
 Group: Bonus tracks
 ---
 Track: Aba Daba Honeymoon
 Directory: aba-daba-honeymoon-archive
-References:
-- track:aba-daba-honeymoon
 Duration: '1:27'
 Has URLs: false
 Lyrics: |-
@@ -592,6 +590,8 @@ Lyrics: |-
     Then the big baboon one night in June
     He married them and very soon
     They went upon their aba daba honeymoon
+Referenced Tracks:
+- track:aba-daba-honeymoon
 ---
 Track: Valentine To Sarah From Julian
 Duration: '2:12'
@@ -669,10 +669,10 @@ Lyrics: |-
     (Yes!)
 ---
 Track: Emery's Theme (Fast Version)
-References:
-- Emery's Theme
 Duration: 0:57
 Has URLs: false
+Referenced Tracks:
+- Emery's Theme
 ---
 Track: Conro Corp Anthem
 Duration: 0:36
@@ -734,8 +734,6 @@ Lyrics: |-
 ---
 Track: Old Buggy Now (Solatrus remix)
 Artist: Solatrus
-References:
-- Old Buggy Now
 Duration: '4:04'
 Has URLs: false
 Lyrics: |-
@@ -778,11 +776,11 @@ Lyrics: |-
     In this old buggy old buggy now
     In this old buggy old buggy now
     In this old buggy old buggy now
+Referenced Tracks:
+- Old Buggy Now
 ---
 Track: Ithaca (hrmnzr remix)
 Artist: Jamie Paige Stanley
-References:
-- Ithaca
 Duration: '4:14'
 Has URLs: false
 Lyrics: |-
@@ -836,3 +834,5 @@ Lyrics: |-
     Although I sing along
     That moment now has gone
     My heart still a restless sea where Ithaca is calling
+Referenced Tracks:
+- Ithaca

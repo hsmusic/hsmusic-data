@@ -3,8 +3,6 @@ Directory: are-you-lost
 Artist: hywell
 Date: November 22, 2020
 Date Added: April 12, 2021
-Banner Art:
-- Astroblur
 Banner Dimensions: 975x180
 Has Track Art: false
 Color: '#45cef2'
@@ -27,44 +25,46 @@ Cover Artists:
 - Astroblur
 Wallpaper Artists:
 - Astroblur
+Banner Artists:
+- Astroblur
 ---
 Track: SIGNAL START
 Duration: '3:25'
-References:
-- ASGORE
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/signal-start
+Referenced Tracks:
+- ASGORE
 ---
 Track: ARE YOU LOST?
 Duration: '4:40'
-References:
-- Fallen Down
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/are-you-lost
+Referenced Tracks:
+- Fallen Down
 ---
 Track: FALLEN
 Duration: '4:51'
-References:
-- Fallen Down
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/fallen
+Referenced Tracks:
+- Fallen Down
 ---
 Track: LOREM IPSUM DOCET
 Duration: '4:13'
-References:
-- Moonsetter
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/lorem-ipsum-docet
+Referenced Tracks:
+- Moonsetter
 ---
 Track: TRUE AUTUMN
 Artists:
 - hywell
 - Cristata
 Duration: '5:21'
-References:
-- Quiet Autumn
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/true-autumn-ft-cristata
+Referenced Tracks:
+- Quiet Autumn
 ---
 Track: MEDIUM
 Directory: medium-are-you-lost
@@ -72,14 +72,14 @@ Artists:
 - hywell
 - Cristata
 Duration: '6:22'
-References:
-- CORE
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/medium-ft-cristata
+Referenced Tracks:
+- CORE
 ---
 Track: JUDGEMENT
 Duration: '3:31'
-References:
-- track:megalovania-undertale
 URLs:
 - https://smoothiefruitee.bandcamp.com/track/judgement
+Referenced Tracks:
+- track:megalovania-undertale

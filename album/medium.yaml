@@ -37,11 +37,11 @@ URLs:
 ---
 Track: Rain
 Duration: '6:34'
-References:
-- track:skies-of-skaia
 URLs:
 - https://homestuck.bandcamp.com/track/rain-2
 - https://youtu.be/WWSphawicMY
+Referenced Tracks:
+- track:skies-of-skaia
 ---
 Track: Frogs
 Duration: '5:06'
@@ -58,12 +58,12 @@ URLs:
 ---
 Track: Clockwork
 Duration: '5:13'
-References:
-- Westminister Quarters
-- Carol of the Bells
 URLs:
 - https://homestuck.bandcamp.com/track/clockwork-2
 - https://youtu.be/AeUNnQ0ZkvA
+Referenced Tracks:
+- Westminister Quarters
+- Carol of the Bells
 ---
 Track: Heat
 Duration: '5:12'
@@ -73,8 +73,8 @@ URLs:
 ---
 Track: Wind
 Duration: '8:03'
-References:
-- Polovtsian Dances
 URLs:
 - https://homestuck.bandcamp.com/track/wind-2
 - https://youtu.be/mwFWnxZVIFk
+Referenced Tracks:
+- Polovtsian Dances

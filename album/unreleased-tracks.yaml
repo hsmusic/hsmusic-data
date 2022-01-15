@@ -184,19 +184,19 @@ URLs:
 Track: Hero's Growth
 Artist: Solatrus
 Duration: '1:54'
-References:
-- You Gained a Level!
-- Eight Melodies
 URLs:
 - https://www.youtube.com/watch?v=fy6SMhEBSBk
+Referenced Tracks:
+- You Gained a Level!
+- Eight Melodies
 ---
 Track: Nic Cage Romance
 Artist: Toby Fox
 Duration: '1:19'
-References:
-- How Do I Live
 URLs:
 - https://www.youtube.com/watch?v=fvDpDxXXZog
+Referenced Tracks:
+- How Do I Live
 ---
 Track: Miracles
 Directory: miracles-icp
@@ -208,20 +208,20 @@ URLs:
 Track: Secret ROM
 Artist: Toby Fox
 Duration: '3:22'
-References:
+URLs:
+- https://www.youtube.com/watch?v=ercVSU3rjrc
+Referenced Tracks:
 - The Little Sprite
 - Onett Theme
 - Terra's Theme
 - Wind Scene
 - Chrono Trigger
-URLs:
-- https://www.youtube.com/watch?v=ercVSU3rjrc
 ---
 Track: Typheus
 Artist: Homestuck
-References:
-- Fear of the Heavens
 Has URLs: false
+Referenced Tracks:
+- Fear of the Heavens
 ---
 Track: I'm a Member of the Midnight Crew
 Artist: Eddie Morton
@@ -232,10 +232,10 @@ URLs:
 Track: XROM
 Artist: Toby Fox
 Duration: '3:16'
-References:
-- Secret ROM
 URLs:
 - https://www.youtube.com/watch?v=wY2nX_b9Gm4
+Referenced Tracks:
+- Secret ROM
 ---
 Track: Goat Foley
 Artist: Toby Fox
@@ -250,61 +250,61 @@ URLs:
 Track: weird moody horse shit
 Artist: Alex Rosetti
 Duration: '1:02'
-References:
-- not a creature was stirring
 URLs:
 - https://www.youtube.com/watch?v=hC2Vdh7WmDc
+Referenced Tracks:
+- not a creature was stirring
 ---
 Track: Darling Dolorosa
 Artist: Toby Fox
 Duration: '2:06'
-References:
-- Darling Kanaya
 URLs:
 - https://www.youtube.com/watch?v=JrXZJkY8eq0
+Referenced Tracks:
+- Darling Kanaya
 ---
 Track: GameGlr
 Artist: Toby Fox
 Duration: '1:31'
-References:
-- GameGrl (Original 1993 Mix)
-- Teal Seer
 URLs:
 - https://www.youtube.com/watch?v=rbpRX42T7Ho
+Referenced Tracks:
+- GameGrl (Original 1993 Mix)
+- Teal Seer
 ---
 Track: Crab Waltz
 Artist: Toby Fox
 Duration: '1:59'
-References:
-- track:crustacean
 URLs:
 - https://www.youtube.com/watch?v=oVRCbmh-TI4
+Referenced Tracks:
+- track:crustacean
 ---
 Track: G4M38L0RG
 Artist: Toby Fox
 Duration: '1:45'
-References:
+URLs:
+- https://www.youtube.com/watch?v=31TcKfXCBVc
+Referenced Tracks:
 - GameBro (Original 1990 Mix)
 - The La2t Frontiier
 - The Blind Prophet
-URLs:
-- https://www.youtube.com/watch?v=31TcKfXCBVc
 ---
 Track: 108 Stars of Density
 Artist: Toby Fox
 Duration: '1:36'
-References:
-- Hate You
 URLs:
 - https://www.youtube.com/watch?v=pyMlQ92eyWs
+Referenced Tracks:
+- Hate You
 ---
 Track: The Brave and the Bronze
 Artist: Yan Rodriguez
 Duration: '1:25'
-References:
-- Bronze Rebel
 URLs:
 - https://www.youtube.com/watch?v=0WNzXUt9suA
+Referenced Tracks:
+- Bronze Rebel
 ---
 Track: Trickster Mode (Engage)
 Artist: Toby Fox
@@ -321,43 +321,43 @@ URLs:
 Track: Kazoostuck
 Artist: Toby Fox
 Duration: 0:38
-References:
-- Homestuck
 URLs:
 - https://www.youtube.com/watch?v=mjKX8H3mSJo
+Referenced Tracks:
+- Homestuck
 ---
 Track: A Very Trickster Mode Christmas
 Artist: Toby Fox
 Duration: 0:08
-References:
-- The One Horse Open Sleigh
 URLs:
 - https://www.youtube.com/watch?v=MaywzJqgyh4
+Referenced Tracks:
+- The One Horse Open Sleigh
 ---
 Track: A Very Trickster Mode Christmas (WHEEEEEEEEEEE!)
 Artist: Toby Fox
 Duration: 0:10
-References:
-- A Very Trickster Mode Christmas
 URLs:
 - https://www.youtube.com/watch?v=91yZRnk3BRA
+Referenced Tracks:
+- A Very Trickster Mode Christmas
 ---
 Track: Warhammer of Zillyhoo (With Mario Paint)
 Artist: Toby Fox
 Duration: 0:49
-References:
-- Warhammer of Zillyhoo
 URLs:
 - https://www.youtube.com/watch?v=hCO-grMys2k
+Referenced Tracks:
+- Warhammer of Zillyhoo
 ---
 Track: A Very Trickster Mode Christmas (With Fancy Santas)
 Artist: Toby Fox
 Duration: 0:08
-References:
-- A Very Trickster Mode Christmas (WHEEEEEEEEEEE!)
-- Flowey's Laugh
 URLs:
 - https://www.youtube.com/watch?v=DydDjMNlBsQ
+Referenced Tracks:
+- A Very Trickster Mode Christmas (WHEEEEEEEEEEE!)
+- Flowey's Laugh
 ---
 Track: Yaldabaoth
 Artist: Homestuck
@@ -366,24 +366,24 @@ Has URLs: false
 Track: Homosuck Anthem
 Artist: Toby Fox
 Duration: '1:51'
-References:
-- Homestuck Anthem
 URLs:
 - https://www.youtube.com/watch?v=sVXPWSvSKGM
+Referenced Tracks:
+- Homestuck Anthem
 ---
 Track: Typheus (Glitched)
 Artist: Homestuck
-References:
-- Typheus
 Has URLs: false
+Referenced Tracks:
+- Typheus
 ---
 Track: Elevatorstuck, with Meows
 Artist: Toby Fox
 Duration: 0:52
-References:
-- Elevatorstuck
 URLs:
 - https://www.youtube.com/watch?v=3Yy_wTW-OJs
+Referenced Tracks:
+- Elevatorstuck
 ---
 Track: not a creature was stirring
 Artist: Alex Rosetti
@@ -394,10 +394,10 @@ URLs:
 Track: Homosuck Swan Song
 Artist: Toby Fox
 Duration: '1:07'
-References:
-- Homestuck Anthem
 URLs:
 - https://www.youtube.com/watch?v=XzEJp5QJ8vE
+Referenced Tracks:
+- Homestuck Anthem
 ---
 Track: Hello Zepp
 Artist: Saw
@@ -412,10 +412,10 @@ Has URLs: false
 Track: Horsecatska
 Artist: James Roach
 Duration: 0:53
-References:
-- Horschestra
 URLs:
 - https://www.youtube.com/watch?v=EjCbsleXpuk
+Referenced Tracks:
+- Horschestra
 ---
 Group: Tracks featured in Hiveswap Friendsim
 Color: '#78df56'
@@ -423,10 +423,10 @@ Color: '#78df56'
 Track: Single Female Lawyer
 Artist: Alex Rosetti
 Duration: '1:16'
-References:
-- Seer of Same-Color Scalemate Combos
 URLs:
 - https://www.youtube.com/watch?v=4Q2dS1Z2p9g
+Referenced Tracks:
+- Seer of Same-Color Scalemate Combos
 ---
 Track: DaJam
 Artist: Alex Rosetti
@@ -461,8 +461,6 @@ Color: '#71daff'
 Track: Friendvangelion Rebuild
 Artist: James Roach
 Duration: '2:55'
-References:
-- Homestuck
 URLs:
 - https://soundcloud.com/jamesroachmusic/the-note-desolation-plays
 - https://www.youtube.com/watch?v=hnBMOTxQfJ4
@@ -471,6 +469,8 @@ Commentary: |-
     how mysterious
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- Homestuck
 ---
 Track: sometimes i call andrew hussie 'andy' and so far he hasn't corrected me
 Artist: James Roach
@@ -478,14 +478,14 @@ Duration: '4:34'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me
 - https://www.youtube.com/watch?v=xSrT-SDN-uA
-References:
-- track:showtime-piano-refrain
-- Homestuck
 Commentary: |-
     <i>James Roach:</i>
     SO! PesterQuest is out. We've been sitting on this one for a while. This first route has been done for a while. It was supposed to come out back on 6/12 but our new publisher had us sit on it for reasons that are beyond even me. Anyway, big ups to Malcolm and Mark for letting me use their themes.
     I don't know if I'll have as much time or energy to do the tracks for pesterquest like i did for friendsim since i got a new job. I will try my best.
 Cover Artists:
+- Homestuck
+Referenced Tracks:
+- track:showtime-piano-refrain
 - Homestuck
 ---
 Track: please support The Trevor Project
@@ -494,8 +494,6 @@ Duration: '3:19'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-please-support-the-trevor-project
 - https://www.youtube.com/watch?v=urbot0kfsz8
-References:
-- track:endless-climb
 Commentary: |-
     <i>James Roach:</i>
     I wasn't certain how to approach this one. I knew if I was going to use the theme from endless climb it wouldn't feel right accepting any money for it. These things don't exactly pay well to begin with tbh, so i thought I would use the platform i've been given to try and do something... even a little positive.
@@ -505,16 +503,18 @@ Commentary: |-
     if you want to know more about the trevor project, or just suicide prevention in general visit <a href="https://www.thetrevorproject.org/">thetrevorproject.org</a>
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- track:endless-climb
 ---
 Track: 2chords
 Artist: James Roach
 Duration: '1:13'
-References:
-- track:upward-movement-dave-owns
 URLs:
 - https://www.youtube.com/watch?v=Q3JQPZ2T03k
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- track:upward-movement-dave-owns
 ---
 Track: ill probably just name this one something normal oh no wait oh jeez aw beans
 Artist: James Roach
@@ -523,14 +523,14 @@ URLs:
 - >-
     https://soundcloud.com/jamesroachmusic/pesterquest-ill-probably-just-name-this-one-something-normal-oh-no-wait-oh-jeez-aw-beans
 - https://www.youtube.com/watch?v=DREQ4rJUXXQ
-References:
-- Davesprite
 Commentary: |-
     <i>James Roach:</i>
     well cats outta the bag i did the dave route. when andrew approached me about writing it i had very little writing experience outside of my personal projects. im glad andrew had faith in me and i hope you guys like it. itll come out at 11 AM EDT.
     for this one and the next routes music im gonna try and keep with the tradition of uploading it the morning of.
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- Davesprite
 ---
 Track: 24/7 lo fi anime beats to question your sexuality to
 Artist: James Roach
@@ -538,16 +538,16 @@ Duration: '2:51'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-247-lo-fi-anime-beats-to-question-your-sexuality-to
 - https://www.youtube.com/watch?v=0I2ufAhRbf0
-References:
-- 2chords
-- track:upward-movement-dave-owns
-- track:sburban-jungle
 Commentary: |-
     <i>James Roach:</i>
     i just wanted to do more than one song so i did two and a half. hope you like it. thanks for all the support! also im in this image can u find me LMAO
     <img src="media/misc/lo-fi-cover.jpg" alt="Pesterquest art of the inside of an Olive Garden, packed with Homestuck team members." width="500" height="500">
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- 2chords
+- track:upward-movement-dave-owns
+- track:sburban-jungle
 ---
 Track: CAREFREE VICTORY (REMIX)
 Artist: James Roach
@@ -557,9 +557,6 @@ Duration: '6:02'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-james-roach-ft-speak-n-say-carefree-victory-remix
 - https://www.youtube.com/watch?v=c8aZFD8ic9A&
-References:
-- Carefree Action
-- track:carefree-victory
 Commentary: |-
     <i>James Roach:</i>
     jades theme! wow we've really come a long way huh fellas?
@@ -603,6 +600,9 @@ Lyrics: |-
     Bark
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- Carefree Action
+- track:carefree-victory
 ---
 Track: CRUSTacean
 Directory: crustacean-pq
@@ -611,13 +611,13 @@ Duration: '5:28'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-crustacean
 - https://www.youtube.com/watch?v=9hdPSPGCK3Q
-References:
-- track:crustacean
 Commentary: |-
     <i>James Roach:</i>
     there are a handful of people out there who really thought we were just gonna put karkalicious in there.
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- track:crustacean
 ---
 Track: the drone rhythmic motif which can be found in act 1 and act 2
 Directory: drone-pq
@@ -632,31 +632,28 @@ Duration: '4:19'
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-terezis-theme-ch3ck-th3-m3t4d4t4
 - https://www.youtube.com/watch?v=DuGQM9YsyXo
-References:
-- The Lemonsnout Turnabout
 Commentary: |-
     <i>James Roach:</i>
     dont actually do that you clowns
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- The Lemonsnout Turnabout
 ---
 Track: it's a cover of 'made of time'
 Artist: James Roach
 Duration: '1:44'
-References:
-- Made of Time
 Has URLs: false
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- Made of Time
 ---
 Track: yeah, it is
 Artist: James Roach
 Contributors:
 - Tamara Fritz (vocals)
 Duration: '5:41'
-References:
-- it's a cover of 'made of time'
-- track:MeGaLoVania
 URLs:
 - https://soundcloud.com/jamesroachmusic/pesterquest-aradias-theme-yeah-it-is
 - https://www.youtube.com/watch?v=MDqXkGBFPg0
@@ -665,6 +662,9 @@ Commentary: |-
     big ups to Tamara "TOTALSPIFFAGE" Fritz for really knocking it outta the park with these vocals.
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- it's a cover of 'made of time'
+- track:MeGaLoVania
 ---
 Track: IT'S NOTHING
 Artist: James Roach
@@ -716,12 +716,12 @@ Cover Artists:
 Track: Riches to Ruins Movement II
 Artist: Toby Fox
 Duration: '1:10'
-References:
-- Riches to Ruins Movements I & II
 URLs:
 - https://www.youtube.com/watch?v=mNu1KAi0Prk
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- Riches to Ruins Movements I & II
 ---
 Track: 'this is like... what was it... > [S] MSPAR: Remember'
 Artist: James Roach
@@ -729,19 +729,24 @@ Duration: '1:06'
 Directory: mspar-remember
 URLs:
 - https://www.youtube.com/watch?v=osip3rTivjM
-References:
+Cover Artists:
+- Homestuck
+Referenced Tracks:
 - Unite Synchronization
 - Penumbra Phantasm
 - Rex Duodecim Angelus
-Cover Artists:
-- Homestuck
 ---
 Track: normal song name
 Artist: James Roach
 Duration: '1:56'
 URLs:
 - https://soundcloud.com/jamesroachmusic/afterw-rd-theme-normal-song-name#t=0:00
-References:
+Commentary: |-
+    <i>James Roach:</i>
+    its over
+Cover Artists:
+- Homestuck
+Referenced Tracks:
 - Rex Duodecim Angelus
 - Moonsetter
 - Homestuck
@@ -750,11 +755,6 @@ References:
 - track:MeGaLoVania
 - Homestuck Anthem
 - WORST END
-Commentary: |-
-    <i>James Roach:</i>
-    its over
-Cover Artists:
-- Homestuck
 ---
 Group: Tracks featured in Namco High
 Color: '#f0650a'
@@ -805,26 +805,24 @@ URLs:
 Track: Upbeat (Half)
 Artist: Ryan Francis
 Duration: '2:33'
-References:
-- Upbeat
 URLs:
 - https://www.youtube.com/watch?v=H_PyGnlM2w4
+Referenced Tracks:
+- Upbeat
 ---
 Track: Boss Theme
 Artist: Ryan Francis
 Duration: '2:08'
-References:
-- Namco Theme
 URLs:
 - https://www.youtube.com/watch?v=Q8ace06keaQ
+Referenced Tracks:
+- Namco Theme
 ---
 Track: Credits
 Artist: Ryan Francis
 Contributors:
 - Mary Thomas (vocals)
 Duration: '2:43'
-References:
-- Namco Theme
 URLs:
 - https://www.youtube.com/watch?v=QuWdIDEwjRk
 Lyrics: |-
@@ -834,6 +832,8 @@ Lyrics: |-
     (Hey!<br>How's it going?<br>Good! How 'bout you?<br>Geometry's really hard, I think I need help<br>Oh, well, I'm really good at it, so... if you need help just hit me up!<br>Awesome! Yeah, I'll do that)
     Be true to yourself<br>Namco High
     Be true to yourself<br>Namco High
+Referenced Tracks:
+- Namco Theme
 ---
 Group: Other Homestuck tracks
 Color: '#ff7bf7'
@@ -842,8 +842,6 @@ Track: 暗闇の中の光
 Directory: canwave3-track6
 Artist: SplitSuns
 Duration: '7:45'
-References:
-- Voidlight
 URLs:
 - https://soundcloud.com/splitsuns/light-in-the-darkness
 Commentary: |-
@@ -851,13 +849,13 @@ Commentary: |-
     ...When the hell did I get 100 followers?? I give my thanks to all of you for listening to my shitty music, haha.
     This is one of my tracks for the CaNMT's almost-vaporware all-vaporwave album, CANWAVE 3. In its current iteration it's a take on 2814's sample-free approach to the vapor aesthetic through ambient and techno albums such as 新しい日の誕生 and Rain Temple. It's one of my most complex songs yet and it took a lot of work to make, but the end result is something very awe-inspiring, even to me.
     (Originally this song was a straight-up cover of Voidlight that was much more laid-back and repetitive, but I scrapped it in favor of this version. Maybe I'll upload that old version somewhere along the line.)
+Referenced Tracks:
+- Voidlight
 ---
 Track: A Baby Legend - The Baby is 2
 Directory: a-baby-legend
 Artist: Toby Fox
 Duration: '1:37'
-References:
-- A History of Babies
 URLs:
 - https://youtu.be/j_AHimPxR40
 Lyrics: |-
@@ -868,6 +866,8 @@ Lyrics: |-
     this is the story of one man's search for love and truth<br>in a universe forgotten by time
     the story of those fearful creatures<br>those that we call
     <big><big><i>BABIES</i></big></big>
+Referenced Tracks:
+- A History of Babies
 ---
 Track: A Very "O" Christmas
 Artist:
@@ -896,25 +896,25 @@ URLs:
 Track: Archagent Everlasting
 Artist: JohnJRenns
 Duration: '2:07'
-References:
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/archagent-everlasting
+- https://www.youtube.com/watch?v=Hh7t7vQbu1I
+Referenced Tracks:
 - Liquid Negrocity
 - Cascade (Beta)
 - Walk-Stab-Walk (R&E)
 - I'm a Member of the Midnight Crew
-URLs:
-- https://coolandnewwebcomic.bandcamp.com/track/archagent-everlasting
-- https://www.youtube.com/watch?v=Hh7t7vQbu1I
 ---
 Track: Arisen Anew (Remaster)
 Artist: Tensei
 Duration: '2:58'
-References:
-- Arisen Anew
 URLs:
 - https://youtu.be/wouDFje3RY8
 Commentary: |-
     <i>Tensei:</i>
     The original release version of this song had been mastered at a fairly low volume level in order to match the other songs on the Alterniabound album. I felt that a bouncy electronica song like this warranted a lot more volume and dynamic range compression though, so this version is the song as I had originally intended it. The difference might not be all that noticeable unless you're comparing the versions side by side.
+Referenced Tracks:
+- Arisen Anew
 ---
 Track: Before Before the Beginning
 Artist: Robert J! Lake
@@ -929,10 +929,10 @@ URLs:
 Track: Boy Skylark
 Artist: Robert J! Lake
 Duration: '7:14'
-References:
-- Boy Skylark (Brief)
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/boy-skylark
+Referenced Tracks:
+- Boy Skylark (Brief)
 ---
 Track: Brobot Scrimmage
 Artist: Pascal van den Bos
@@ -944,37 +944,37 @@ URLs:
 Track: Calming Quartz (Beta)
 Artist: PoisonedElite
 Duration: '2:13'
-References:
-- Land of Quartz and Melody
 URLs:
 - https://soundcloud.com/poisonedelite/calming-quartz-beta/s-2FvRp
 Commentary: |-
     <i>PoisonedElite:</i>
     The first Version of Calming Quartz, my song for the album Xenoplanetarium, a Homestuck Fan Album. I wasn't happy with this version so I redid the entire song. This song references Land of Quartz and Melody by Thomas Ferkol.
+Referenced Tracks:
+- Land of Quartz and Melody
 ---
 Track: Cascade (Director's Cut)
 Artist: Tensei
 Duration: '4:20'
-References:
-- Cascade (Beta)
-- track:sburban-jungle
-- track:beatdown-strider-style
 URLs:
 - https://youtu.be/Ejw-E2HBtlY
 Commentary: |-
     <i>Tensei:</i>
     A slightly updated/different version of my section of Cascade. The most notable differences are the altered melodies at the start and numerous production improvements such as rerecorded guitars, improved string sections, etc.
+Referenced Tracks:
+- Cascade (Beta)
+- track:sburban-jungle
+- track:beatdown-strider-style
 ---
 Track: Cascante
 Artist: Noisemaker
 Duration: '3:05'
-References:
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/cascante
+Referenced Tracks:
 - track:sburban-jungle
 - Cascade (Beta)
 - track:showtime-piano-refrain
 - Shave and a Haircut
-URLs:
-- https://coolandnewwebcomic.bandcamp.com/track/cascante
 ---
 Track: Chalk Emerald
 Artist: Kusoro
@@ -998,19 +998,19 @@ URLs:
 Track: Chucklevoodoo Waltz
 Artist: Elodie Cunningham
 Duration: '2:40'
-References:
-- Purple Tyrant
 URLs:
 - https://soundcloud.com/chemicalwordsmith/chucklevoodoo-waltz
 - https://www.youtube.com/watch?v=J_3j1erEwFE
+Referenced Tracks:
+- Purple Tyrant
 ---
 Track: Clockwork Apocalypse
 Artist: Thomas Ferkol
 Duration: '1:39'
-References:
-- track:endless-climb
 URLs:
 - https://www.youtube.com/watch?v=e1d8iai1Wlk
+Referenced Tracks:
+- track:endless-climb
 ---
 Track: CONTACT
 Artist: Difarem
@@ -1101,11 +1101,11 @@ URLs:
 Track: Double Midnight
 Artist: Toby Fox
 Duration: 0:25
-References:
-- Liquid Negrocity
-- I'm a Member of the Midnight Crew
 URLs:
 - https://www.youtube.com/watch?v=un7k0l8p12U
+Referenced Tracks:
+- Liquid Negrocity
+- I'm a Member of the Midnight Crew
 ---
 Track: Dwelling Among the Dream Bubbles
 Artist: Pascal van den Bos
@@ -1142,9 +1142,6 @@ URLs:
 Track: Flare (Cascade)
 Artist: Clark Powell
 Duration: '3:26'
-References:
-- Flare
-- Cascade (Beta)
 URLs:
 - https://plazmataz.tumblr.com/post/19774190658/download-flare-cascade-i-have-recut-and
 - https://www.youtube.com/watch?v=hT0ijIKJkbE
@@ -1154,6 +1151,9 @@ Commentary: |-
     I have attempted a number of times to put together a mix of Flare that utilized the distinctive crescendo that is recognizable from Cascade, but it never seems to work well without the cinematic context. The buildup sort of leads to nothing, and then the track either ends awkwardly or fades out, and I have something personal against fade-outs. Maybe I’ll talk about that someday. But not now.
     I gave it another go, this time trying a decrescendo to bring the song back down from all the energy it riles up, then ending it on kind of a creepy note. I had more success here than I ever have in past attempts to cut the song together in this way.
     Flare was a pretty big hit in its own right, so there’s always the pressure coming from the responsibility to handle this properly. I hope you enjoy it!
+Referenced Tracks:
+- Flare
+- Cascade (Beta)
 ---
 Track: Flare (Green Sun Remix)
 Artist: Clark Powell
@@ -1165,7 +1165,7 @@ Track: Flight of the White Wolf
 Artist: Malcolm Brown
 Duration: '4:45'
 Has URLs: false
-References:
+Referenced Tracks:
 - Rex Duodecim Angelus
 - Cascade (Beta)
 - track:dissension-original
@@ -1198,14 +1198,14 @@ URLs:
 Track: Ham And Steak
 Artist: Malcolm Brown
 Duration: '8:24'
-References:
+URLs:
+- https://www.youtube.com/watch?v=OqT3gaihbPE
+- https://soundcloud.com/dragonxvi/ham-and-steak-unused-homestuck-music
+Referenced Tracks:
 - Rex English
 - Unite Synchronization
 - Homestuck Anthem
 - track:showtime-original-mix
-URLs:
-- https://www.youtube.com/watch?v=OqT3gaihbPE
-- https://soundcloud.com/dragonxvi/ham-and-steak-unused-homestuck-music
 ---
 Track: haunt
 Artist: Andrew Hussie
@@ -1222,20 +1222,20 @@ URLs:
 Track: Heart Beat
 Artist: Pascal van den Bos
 Duration: '2:49'
-References:
-- Moonsetter
-- Dark Necessities
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/heart-beat
 - https://www.youtube.com/watch?v=Wj_gN138rd4
+Referenced Tracks:
+- Moonsetter
+- Dark Necessities
 ---
 Track: Homestuck Title Screen
 Artist: MK_97
 Duration: '8:28'
-References:
-- track:skies-of-skaia
 URLs:
 - https://www.youtube.com/watch?v=N_kGx5RikYA
+Referenced Tracks:
+- track:skies-of-skaia
 ---
 Track: I Am An Island
 Artist: PhemieC
@@ -1247,11 +1247,11 @@ Track: Intro
 Directory: intro-canwave2
 Artist: Aris Martinian
 Duration: '3:07'
-References:
-- The Star-Spangled Banner
-- track:explore
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/intro
+Referenced Tracks:
+- The Star-Spangled Banner
+- track:explore
 ---
 Track: In the Beginning
 Directory: in-the-beginning-canwc
@@ -1301,31 +1301,32 @@ URLs:
 Track: Lord Spanish
 Artist: Cryptanark
 Duration: '1:12'
-References:
-- English
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/lord-spanish
+Referenced Tracks:
+- English
 ---
 Track: Madame Controversielle
 Artist: cookiefonster
 Duration: '2:50'
-References:
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/madame-controversielle
+Referenced Tracks:
 - Killed by BR8K Spider!!!!!!!!
 - Vriska's Theme
 - track:MeGaLoVania
 - Crystalanthemums
 - Cobalt Corsair
-URLs:
-- https://coolandnewwebcomic.bandcamp.com/track/madame-controversielle
 ---
 Track: Mayorlovania
 Artist: Noisemaker
 Duration: '2:40'
-References:
-- track:MeGaLoVania
-Samples: Mayor Maynot
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/mayorlovania
+Referenced Tracks:
+- track:MeGaLoVania
+Sampled Tracks:
+- Mayor Maynot
 ---
 Track: Mannequin
 Artist: Perry Sullivan
@@ -1373,19 +1374,19 @@ Has URLs: false
 Track: 'null'
 Artist: Toby Fox
 Duration: 0:08
-References:
-- Penumbra Phantasm
 Directory: null-toby-fox
 URLs:
 - https://www.youtube.com/watch?v=sIgtSvgERB4
+Referenced Tracks:
+- Penumbra Phantasm
 ---
 Track: Patient
 Artist: Toby Fox
 Duration: 0:59
-References:
-- track:doctor
 URLs:
 - https://youtu.be/HNdCAUpmXws
+Referenced Tracks:
+- track:doctor
 ---
 Track: Penumbra Phantasm
 Artist: Toby Fox
@@ -1396,14 +1397,14 @@ URLs:
 Track: Rags of Rust
 Artist: Willow Ascenzo
 Duration: '3:14'
-References:
-- Rust Servant
 URLs:
 - https://soundcloud.com/wellmanicuredman/rust-piano
 Commentary: |-
     <i>Willow Ascenzo:</i>
     I'm a little late for 6/12, I know, but I just finished some piano arrangements ([[Rags of Rust]], [[Teal Wings and Scales]], [[Violet Sea Breeze]]) of my tracks from [[album:coloUrs-and-mayhem-universe-a]]. I composed the originals back in January 2012--two and a half years ago! My, how time flies when you're having fun.
     I have to thank my piano professor from last semester for these. No, I can't play these pieces live, not yet at least--but taking a piano course really improved my level of comfort and familiarity with composing for pianos. I just might make sheet music available, though!
+Referenced Tracks:
+- Rust Servant
 ---
 Track: Rematch
 Artist: Pascal van den Bos
@@ -1415,16 +1416,18 @@ URLs:
 Track: Rex English
 Artist: Toby Fox
 Duration: 0:50
-References:
-- Rex Duodecim Angelus
-- English
 URLs:
 - https://www.youtube.com/watch?v=xTQo2rPvEzM
+Referenced Tracks:
+- Rex Duodecim Angelus
+- English
 ---
 Track: Rex Mille Geromius
 Artist: cookiefonster
 Duration: '5:46'
-References:
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/rex-mille-geromius
+Referenced Tracks:
 - Rex Duodecim Angelus
 - My Little Pony Theme
 - Karkat's Theme
@@ -1440,8 +1443,6 @@ References:
 - Courser
 - Chalk Emerald
 - track:miracles
-URLs:
-- https://coolandnewwebcomic.bandcamp.com/track/rex-mille-geromius
 ---
 Track: Ruins
 Artist: Erik Scheele
@@ -1458,11 +1459,11 @@ URLs:
 Track: Savior of the Dreaming Dead (Cascade Cut)
 Artist: Malcolm Brown
 Duration: '4:31'
-References:
-- Savior of the Dreaming Dead
-- Cascade (Beta)
 URLs:
 - https://www.youtube.com/watch?v=h9dF20s8SYo
+Referenced Tracks:
+- Savior of the Dreaming Dead
+- Cascade (Beta)
 ---
 Track: Sburban Resolution
 Artist: Aris Martinian
@@ -1479,10 +1480,10 @@ URLs:
 Track: Seer of Same-Color Scalemate Combos
 Artist: Alex Rosetti
 Duration: '1:16'
-References:
-- The Lemonsnout Turnabout
 URLs:
 - https://soundcloud.com/albatrosssoup/seer-of-same-color-scalemate-combos
+Referenced Tracks:
+- The Lemonsnout Turnabout
 ---
 Track: Shooting Star
 Artist: Hilary Troiano
@@ -1501,20 +1502,20 @@ URLs:
 Track: Skaia Voyages
 Artist: Seth Peelle
 Duration: '1:12'
-References:
+URLs:
+- /media/misc/archive/Skaia%20Voyages.mp3
+Referenced Tracks:
 - track:sburban-jungle
 - track:showtime-piano-refrain
 - track:skies-of-skaia
-URLs:
-- /media/misc/archive/Skaia%20Voyages.mp3
 ---
 Track: Skaian Shuffle
 Artist: Clark Powell
 Duration: '4:16'
-References:
-- Skaian Skuffle
 URLs:
 - /media/misc/archive/Skaian%20Shuffle.mp3
+Referenced Tracks:
+- Skaian Skuffle
 ---
 Track: Slamdown
 Artist: Noisemaker
@@ -1537,18 +1538,18 @@ URLs:
 Track: Stay in Touch
 Artist: Wheals
 Duration: '2:11'
-References:
-- Do You Remem8er Me
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/stay-in-touch
 - https://www.youtube.com/watch?v=ZjFavm2I9o8
+Referenced Tracks:
+- Do You Remem8er Me
 ---
 Track: Strider Showdown
 Artist: Bill Bolin
 Duration: 0:57
-References:
-- track:beatdown-strider-style
 Has URLs: false
+Referenced Tracks:
+- track:beatdown-strider-style
 ---
 Track: Smackdown
 Artist: Noisemaker
@@ -1573,23 +1574,23 @@ URLs:
 Track: Teal Wings and Scales
 Artist: Willow Ascenzo
 Duration: '2:50'
-References:
-- Teal Hunter
 URLs:
 - https://soundcloud.com/wellmanicuredman/teal-wings-and-scales
 Commentary: |-
     <i>Willow Ascenzo:</i>
     I'm a little late for 6/12, I know, but I just finished some piano arrangements ([[Rags of Rust]], [[Teal Wings and Scales]], [[Violet Sea Breeze]]) of my tracks from [[album:coloUrs-and-mayhem-universe-a]]. I composed the originals back in January 2012--two and a half years ago! My, how time flies when you're having fun.
     I have to thank my piano professor from last semester for these. No, I can't play these pieces live, not yet at least--but taking a piano course really improved my level of comfort and familiarity with composing for pianos. I just might make sheet music available, though!
+Referenced Tracks:
+- Teal Hunter
 ---
 Track: Temporal Virtuoso
 Artist: Pascal van den Bos
 Duration: '2:29'
-References:
-- Cascade (Beta)
-- Time on My Side
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/temporal-virtuoso
+Referenced Tracks:
+- Cascade (Beta)
+- Time on My Side
 ---
 Track: The Engineer
 Artist: Aradia Jones
@@ -1612,10 +1613,10 @@ URLs:
 Track: The Uranian
 Artist: James Dever
 Duration: 0:47
-References:
-- The Undying
 URLs:
 - https://youtu.be/gbiS4WkCOVo?t=27042
+Referenced Tracks:
+- The Undying
 ---
 Track: Tick
 Artist: Cryptanark
@@ -1626,11 +1627,11 @@ URLs:
 Track: Unintentional Touhou
 Artist: Cryptanark
 Duration: '3:04'
-References:
-- Liquid Negrocity
-- Oppa Toby Style
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/unintentional-touhou
+Referenced Tracks:
+- Liquid Negrocity
+- Oppa Toby Style
 ---
 Track: Vexation
 Artist: Chris Hafling
@@ -1641,22 +1642,22 @@ URLs:
 Track: Violet Sea Breeze
 Artist: Willow Ascenzo
 Duration: '3:01'
-References:
-- Violet Mariner
 URLs:
 - https://soundcloud.com/wellmanicuredman/violet-sea-breeze
 Commentary: |-
     <i>Willow Ascenzo:</i>
     I'm a little late for 6/12, I know, but I just finished some piano arrangements ([[Rags of Rust]], [[Teal Wings and Scales]], [[Violet Sea Breeze]]) of my tracks from [[album:coloUrs-and-mayhem-universe-a]]. I composed the originals back in January 2012--two and a half years ago! My, how time flies when you're having fun.
     I have to thank my piano professor from last semester for these. No, I can't play these pieces live, not yet at least--but taking a piano course really improved my level of comfort and familiarity with composing for pianos. I just might make sheet music available, though!
+Referenced Tracks:
+- Violet Mariner
 ---
 Track: Void Session
 Artist: Ducky Senpai
 Duration: '2:39'
-References:
-- track:sburban-jungle
 URLs:
 - https://www.youtube.com/watch?v=kdfgB3Gc_pw
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Where making this hapen
 Artist: David Ko
@@ -1683,10 +1684,10 @@ Track: リサフランク420 / 現代のコンピュー
 Directory: lisa-frank-420-modern-computing
 Artist: Macintosh Plus
 Duration: '7:21'
-References:
-- It's Your Move
 URLs:
 - https://www.youtube.com/watch?v=aQkPcPqTq4M
+Referenced Tracks:
+- It's Your Move
 ---
 Track: A Bell is Tolling
 Artist: Secret of Mana
@@ -1739,8 +1740,6 @@ URLs:
 Track: An Apple Disaster!!
 Artist: Toby Fox
 Duration: 0:58
-References:
-- Magical Hopalong Cassidy Station
 URLs:
 - https://youtu.be/wa2K_8Ff41M?t=149
 - https://fwugradiation.tumblr.com/post/13528293577/improvised-touhou-music-with-annoying-commentary
@@ -1750,6 +1749,8 @@ Lyrics: |-
     <i>You should taste my wonderful apples</i><br><i>No, sorry, I'm watching my weight recently</i><br><i>No!! You have to try the apples or I won't let you through!</i><br><i>Oh, well, I'll give you a diabetes bow tie</i><br><i>[UNTRANSLATABLE JAPANESE IDIOM]</i>
     Then you have a weird chord change<br>Because it's a newer Touhou song
     Then they make a joke about apple pie
+Referenced Tracks:
+- Magical Hopalong Cassidy Station
 ---
 Track: Arms Outstretched
 Artist: Griffin McElroy
@@ -1872,9 +1873,9 @@ URLs:
 ---
 Track: Careless Whisper
 Artist: George Michael
-Duratoin: '5:01'
 URLs:
 - https://www.youtube.com/watch?v=izGwDsrQ1eQ
+Duration: '5:01'
 ---
 Track: Carol of the Bells
 Artist: Mykola Leontovych
@@ -2144,15 +2145,15 @@ URLs:
 Track: Good Night - Undertale
 Artist: SilvaGunner
 Duration: '5:29'
-References:
+URLs:
+- https://www.youtube.com/watch?v=KyNVRrHkwe0
+- https://gilvasunner.bandcamp.com/track/goodbye-to-the-underground
+Referenced Tracks:
 - Good Night
 - Goodbye To A World
 - Hopes and Dreams
 - Once Upon a Time
 - Meet the Flintstones
-URLs:
-- https://www.youtube.com/watch?v=KyNVRrHkwe0
-- https://gilvasunner.bandcamp.com/track/goodbye-to-the-underground
 ---
 Track: He Not Like the Banana
 Artist: Cat No Banana
@@ -2500,10 +2501,10 @@ URLs:
 Track: Pencil Holder (demo version)
 Artist: Clark Powell
 Duration: '4:22'
-References:
-- track:lori-and-erich-baker
 URLs:
 - https://soundcloud.com/plazmataz/pencil-holder-demo-version
+Referenced Tracks:
+- track:lori-and-erich-baker
 ---
 Track: Piss
 Artist: Neil Cicierega
@@ -2698,12 +2699,12 @@ URLs:
 Track: Slider - Super Mario 64
 Artist: SilvaGunner
 Duration: '1:18'
-References:
-- Slider
-- Meet the Flintstones
 URLs:
 - https://www.youtube.com/watch?v=DrCLBuf0Yec
 - https://gilvasunner.bandcamp.com/track/grand-dads-secret-slide
+Referenced Tracks:
+- Slider
+- Meet the Flintstones
 ---
 Track: Smiles and Tears
 Artist: EarthBound
@@ -2720,11 +2721,11 @@ URLs:
 Track: Snow halation - Love Live!
 Artist: SilvaGunner
 Duration: '4:19'
-References:
-- Snow halation
 URLs:
 - https://www.youtube.com/watch?v=g1p5eNOsl7I
 - https://gilvasunner.bandcamp.com/track/stone-halation
+Referenced Tracks:
+- Snow halation
 ---
 Track: Solresol
 Artist: Melomane
@@ -3183,10 +3184,10 @@ URLs:
 Track: what year is it
 Artist: Jon Bois
 Duration: '1:39'
-References:
-- Sweet Victory
 URLs:
 - https://www.youtube.com/watch?v=1BZs005Hbgs
+Referenced Tracks:
+- Sweet Victory
 ---
 Track: WOAH!
 Artist: Chris Patstone

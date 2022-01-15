@@ -1,8 +1,5 @@
 Album: One Year Older
 Artist: Erik Scheele
-Banner Art:
-- Homestuck
-- Niklink (edits for wiki)
 Banner Dimensions: 1100x200
 Wallpaper Style: |-
     opacity: 0.7;
@@ -37,13 +34,14 @@ Cover Artists:
 Wallpaper Artists:
 - Homestuck
 - Quasar Nebula (edits for wiki)
+Banner Artists:
+- Homestuck
+- Niklink (edits for wiki)
 ---
 Group: Main album
 ---
 Track: Sunrise
 Duration: '3:20'
-References:
-- track:light-vol5
 URLs:
 - https://erikscheele.bandcamp.com/track/sunrise
 - https://youtu.be/AmW_GOMIimo
@@ -53,6 +51,8 @@ Commentary: |-
     I imagine, if this piece were performed live, it would do best with all the instrumentalists scattered to some degree. And I usually hate that gimmick, but it could work well in this context.
 Cover Artists:
 - Tavia Morra
+Referenced Tracks:
+- track:light-vol5
 ---
 Track: October
 Duration: '5:12'
@@ -73,8 +73,6 @@ Cover Artists:
 ---
 Track: Firefly Cloud
 Duration: '4:04'
-References:
-- track:doctor
 Art Tags:
 - John
 URLs:
@@ -87,11 +85,11 @@ Commentary: |-
     And of course, there's one or two Doctor quotes in there just because.
 Cover Artists:
 - Nic Carey
+Referenced Tracks:
+- track:doctor
 ---
 Track: FantasyP
 Duration: '3:52'
-References:
-- Penumbra Phantasm
 Art Tags:
 - John
 URLs:
@@ -104,6 +102,8 @@ Commentary: |-
     On a completely random note this piece always makes me want to go out running, and I have done so to this piece a few times. If I could do flips and parkour and stuff I'd totally be doing that too cause it works really well. Maybe gunfights too. Alright let's move on to the next piece.
 Cover Artists:
 - Kaymurph
+Referenced Tracks:
+- Penumbra Phantasm
 ---
 Track: Underfoot
 Duration: '3:05'
@@ -195,10 +195,6 @@ Cover Artists:
 ---
 Track: Skaian Shrapnel
 Duration: '4:13'
-References:
-- track:ruins
-- Walk-Stab-Walk (R&E)
-- Crystalanthemums
 Art Tags:
 - Jack Noir
 - 'cw: body horror (abstract)'
@@ -212,6 +208,10 @@ Commentary: |-
     Overall, in my opinion at least, the piece turned out a little strange, a little awkward, and not really nice, but really that works just fine for me. Everything was really going for the characters at the time, after all. People were getting hunted down, friends were turning on each other, nobody in the fandom really knew who was going to be next. Was this person? Or this person? Were you next? It all led to a heavy air of unease that sort of manifested itself in the odd piano riff and distorted drums that were used, and all the heavy glitching that led us up to...
 Cover Artists:
 - Amethyst Barron
+Referenced Tracks:
+- track:ruins
+- Walk-Stab-Walk (R&E)
+- Crystalanthemums
 ---
 Track: The Scratch
 Duration: '7:34'
@@ -245,10 +245,6 @@ Cover Artists:
 ---
 Track: Negastrife
 Duration: '6:29'
-References:
-- track:showtime-original-mix
-- Cascade (Beta)
-- Rex Duodecim Angelus
 Art Tags:
 - Jack Noir
 - Lord English
@@ -263,14 +259,15 @@ Commentary: |-
     And at the end, there's a little victory music to pass through and segue into the last piece...
 Cover Artists:
 - Amethyst Barron
+Referenced Tracks:
+- track:showtime-original-mix
+- Cascade (Beta)
+- Rex Duodecim Angelus
 ---
 Track: Mother
 Contributors:
 - Robert J! Lake (additional beats)
 Duration: '5:03'
-References:
-- Mother (Piano)
-- track:skies-of-skaia
 Art Tags:
 - John
 - Rose
@@ -286,14 +283,15 @@ Commentary: |-
     With the new universe and many new characters being explored, this piece might not work for "the end of Homestuck" anymore, but if anything, I see it as a sort of moving forward. John's journey on that one day, when he turned 13, matured both him and his friends. Like many others, he took the hero's journey, and grew as a result of it, and so this piece could very well fit him leaving his universe and going on to the next, bringing his experiences and knowledge with him, just as well as it could fit him moving past Sburb to whatever adventures lie ahead.
 Cover Artists:
 - Louise L.
+Referenced Tracks:
+- Mother (Piano)
+- track:skies-of-skaia
 ---
 Group: Bonus tracks
 ---
 Track: Another Chance
 Artist: Eston Schweickart
 Duration: '5:01'
-References:
-- Walk-Stab-Walk (R&E)
 Art Tags:
 - John
 URLs:
@@ -313,14 +311,14 @@ Commentary: |-
     Eston is the coolest of bros and makes sick music. But in a good way, not like sick with the flu or whatever. If you want to check out more of his stuff, and you should, you can visit his blog at <a href="https://siasinsilence.tumblr.com/">siasinsilence.tumblr.com</a>.
 Cover Artists:
 - dapperpixel
+Referenced Tracks:
+- Walk-Stab-Walk (R&E)
 ---
 Track: Under The Hat
 Duration: '3:27'
 URLs:
 - https://erikscheele.bandcamp.com/track/under-the-hat-bonus
 - https://youtu.be/tBfUV056rjo
-References:
-- track:under-the-hat-lofam
 Commentary: |-
     <i>Erik Scheele:</i>
     Also known as [[Trollcops]], this is a rather old idea that I once had for a Dad strife theme. I mean, all the kids had fight music, why not him? Anyway, between a chiptune variant I started and Trollcops, it's had a bit of a journey, but when it turned out alright on piano too, I didn't see any reason not to record a few takes.
@@ -328,6 +326,8 @@ Commentary: |-
     Of course, not being able to play something magnificently and to the best form of the genre didn't really stop me from playing around with this piece. So I did.
     I also think it would fit in during the first Intermission, with all the under-the-hat chicanery and stabbings that went on.
 Has Cover Art: false
+Referenced Tracks:
+- track:under-the-hat-lofam
 ---
 Track: Mother (Piano)
 Duration: '3:07'
@@ -346,8 +346,8 @@ Group: 2019 release
 Track: it's good to see you again
 Duration: '1:45'
 Has URLs: false
-Original Date: October 29, 2019
 Commentary: |-
     <i>Quasar Nebula:</i>
     (This is an unlisted bonus track, part of the free album download on Erik Scheele's <a href="https://erikscheele.bandcamp.com/album/one-year-older">independent re-release of <i>One Year Older</i></a> shortly after most solo albums were removed from the official Homestuck bandcamp.)
 Has Cover Art: false
+Date First Released: October 29, 2019

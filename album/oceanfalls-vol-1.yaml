@@ -1,7 +1,5 @@
 Album: Oceanfalls Vol. 1
 Artist: nights
-Banner Art:
-- nights
 Banner Dimensions: 975x180
 Banner Style: |-
     image-rendering: pixelated;
@@ -17,6 +15,8 @@ URLs:
 Cover Artists:
 - nights
 Default Track Cover Artists:
+- nights
+Banner Artists:
 - nights
 ---
 Group: Main album

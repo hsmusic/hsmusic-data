@@ -1,6 +1,4 @@
 Album: Cherubim
-Banner Art:
-- Shelby Cragg
 Banner Dimensions: 1100x203
 Date: March 14, 2013
 Date Added: November 15, 2019
@@ -21,6 +19,8 @@ Commentary: |-
 Cover Artists:
 - Kait Linney (lines)
 - Shelby Cragg (coloring & logo)
+Banner Artists:
+- Shelby Cragg
 ---
 Track: Reverie
 Artist: Alex Rosetti
@@ -40,8 +40,6 @@ Cover Artists:
 Track: Power Fantasy
 Artist: Clark Powell
 Duration: '4:22'
-References:
-- Reverie
 Art Tags:
 - Caliborn
 URLs:
@@ -49,6 +47,8 @@ URLs:
 - https://youtu.be/5adGTghTECM
 Cover Artists:
 - Indolentjellyfish
+Referenced Tracks:
+- Reverie
 ---
 Track: Stellarum Salve
 Artist: Robert J! Lake
@@ -68,10 +68,6 @@ Cover Artists:
 Track: Carne Vale
 Artist: Malcolm Brown
 Duration: '4:23'
-References:
-- Stellarum Salve
-- English
-- Eternity Served Cold
 Art Tags:
 - Caliborn
 - Jane
@@ -107,12 +103,14 @@ Commentary: |-
     And that’s Carne Vale.  An angry little shout from a little green, malevolent angel-baby. Grr. Argh.
 Cover Artists:
 - Leslie Hung
+Referenced Tracks:
+- Stellarum Salve
+- English
+- Eternity Served Cold
 ---
 Track: Green Lolly
 Artist: James Dever, Robert J! Lake
 Duration: '4:11'
-References:
-- The Uranian
 Art Tags:
 - Calliope
 URLs:
@@ -123,12 +121,12 @@ Contributors:
 - Robert J! Lake (arrangement, production)
 Cover Artists:
 - Brianne
+Referenced Tracks:
+- The Uranian
 ---
 Track: Red Sucker
 Artist: James Dever, Robert J! Lake
 Duration: '3:44'
-References:
-- The Undying
 Art Tags:
 - Caliborn
 URLs:
@@ -139,6 +137,8 @@ Contributors:
 - Robert J! Lake (arrangement, production)
 Cover Artists:
 - Dana Smart
+Referenced Tracks:
+- The Undying
 ---
 Track: Constant Confinement
 Artist: Erik Scheele
@@ -154,9 +154,6 @@ Cover Artists:
 Track: Constant Conquest
 Artist: Michael Guy Bowman
 Duration: '4:46'
-References:
-- Constant Confinement
-- track:doctor
 Art Tags:
 - Caliborn
 URLs:
@@ -170,6 +167,9 @@ Commentary: |-
     What really sealed in the atmosphere of this track was the huge slather of pads that adorned the track, most of which were created using analog equipment. I fed the signal from an old Radio Shack keyboard with basic midi patches through a pawn shop guitar pedal to create the many layers of sound that fill the background. Some of the most excellent sounds on the track (especially that snarling synth at 2:57) were created by hammering the mod knobs and wah-wah pedal while playing atonal pitches. The result is distorted synth excellence.
 Cover Artists:
 - Elly Beck
+Referenced Tracks:
+- Constant Confinement
+- track:doctor
 ---
 Track: The Lyrist
 Artist: Thomas Ferkol
@@ -185,9 +185,6 @@ Cover Artists:
 Track: The Lordling
 Artist: Toby Fox
 Duration: '2:51'
-References:
-- The Lyrist
-- Flowey's Laugh
 Art Tags:
 - Caliborn
 URLs:
@@ -195,6 +192,9 @@ URLs:
 - https://youtu.be/nLrChSME0T8
 Cover Artists:
 - rumminov
+Referenced Tracks:
+- The Lyrist
+- Flowey's Laugh
 ---
 Track: Eternity Served Cold
 Artist: Malcolm Brown
@@ -205,15 +205,6 @@ Art Tags:
 URLs:
 - https://homestuck.bandcamp.com/track/eternity-served-cold-2
 - https://youtu.be/wg9jows9Yfo
-References:
-- track:sburban-jungle
-- English
-- track:revelawesome
-- Black Rose / Green Sun
-- track:endless-climb
-- track:ruins
-- Penumbra Phantasm
-- track:doctor
 Commentary: |-
     <i>Malcolm Brown:</i>
     First off, a thanks to the folk who enjoyed EsC.
@@ -271,3 +262,12 @@ Commentary: |-
     honk HONK.
 Cover Artists:
 - rennerei
+Referenced Tracks:
+- track:sburban-jungle
+- English
+- track:revelawesome
+- Black Rose / Green Sun
+- track:endless-climb
+- track:ruins
+- Penumbra Phantasm
+- track:doctor

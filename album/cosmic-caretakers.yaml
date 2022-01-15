@@ -1,6 +1,4 @@
 Album: Cosmic Caretakers
-Banner Art:
-- melodiousDiscord
 Banner Dimensions: 1100x180
 Date: February 17, 2019
 Date Added: January 12, 2021
@@ -50,6 +48,8 @@ Cover Artists:
 - Elanor Pam
 Wallpaper Artists:
 - Elanor Pam
+Banner Artists:
+- melodiousDiscord
 ---
 Group: Disc 1
 ---
@@ -71,8 +71,6 @@ Cover Artists:
 Track: Egbert's Kitchen
 Artist: Pascal van den Bos
 Duration: '3:01'
-References:
-- track:under-the-hat
 Art Tags:
 - John's dad
 - Underlings
@@ -86,13 +84,12 @@ Commentary: |-
     I want this dad to be my dad.
 Cover Artists:
 - trip
+Referenced Tracks:
+- track:under-the-hat
 ---
 Track: Nanna's New Groove
 Artist: ndividedbyzero
 Duration: '3:48'
-References:
-- Homestuck Anthem
-- track:nannaquin
 Art Tags:
 - John's nanna
 URLs:
@@ -107,6 +104,9 @@ Commentary: |-
     in this household we stan Jane Crocker/Nanna Egbert.
 Cover Artists:
 - TheChaoMaster
+Referenced Tracks:
+- Homestuck Anthem
+- track:nannaquin
 ---
 Track: Martini Cardamom
 Artist: Sean Gorter, PoisonedElite
@@ -133,9 +133,6 @@ Artist: Chaosvariant
 Duration: '2:38'
 Art Tags:
 - Dave's bro
-References:
-- track:beatdown-strider-style
-- Umbral Ultimatum
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/meteor-schmeteor-ill-cut-that-thing-right-in-half
 - https://youtu.be/aYC3XRHFOkQ
@@ -148,14 +145,13 @@ Commentary: |-
     i really like how i did this one. not too much going on but i feel its good for how simple it is. drawing the meteor took a bit of work, and looking at some reference shots from descend, but it really came together, and of course the sense of scale given with bro and the meteor is very well executed id say. pretty much flawless except for the fire which i couldve done better.
 Cover Artists:
 - ackro
+Referenced Tracks:
+- track:beatdown-strider-style
+- Umbral Ultimatum
 ---
 Track: Hunting the Most Dangerous Game
 Artist: Kanishka
 Duration: '3:30'
-References:
-- A Taste for Adventure
-- track:dissension-remix
-- track:old-secret
 Art Tags:
 - Jade's grandpa
 - Becquerel
@@ -170,6 +166,10 @@ Commentary: |-
     i accidentally listened to bec's song instead of grandpa's song (wow well done me), so i HAD to include dogs. but i wanted the image to live up to this song's title. you can see my thought process here. besides which you can see the <i>true danger</i> that grandpa must have put himself in expressed here with his lack of pants. anyway i wanted the animals to all look vaguely real, so i spent a lot of time looking up pictures of them while drawing. i was heavily inspired by hiveswap and the photo frames of grandpa in his past, and wanted to draw a silly looking hunting scenario that could fill the gaps of in your head. there's even a version with joey's comments scribbled on, though it was a bit too busy and standoutish. hope you enjoy [Kanishka]'s song.
 Cover Artists:
 - Tipsy
+Referenced Tracks:
+- A Taste for Adventure
+- track:dissension-remix
+- track:old-secret
 ---
 Track: Fetch That Steak
 Artist: Kusoro
@@ -191,8 +191,6 @@ Cover Artists:
 Track: Monatomic Strife
 Artist: Pascal van den Bos
 Duration: '2:15'
-References:
-- Versus
 Art Tags:
 - John's dad
 - The Felt
@@ -206,6 +204,8 @@ Commentary: |-
     This one too.
 Cover Artists:
 - trip
+Referenced Tracks:
+- Versus
 ---
 Track: Secondhand Memories
 Artist: Grace Medley
@@ -228,11 +228,6 @@ Cover Artists:
 Track: The Light's Rebellion
 Artist: Circlejourney
 Duration: '3:48'
-References:
-- The Thirteenth Hour
-- track:endless-climb
-- track:aggrieve
-- DAVE STRIDER'S COOL MIXTAPE
 Art Tags:
 - Roxy's mom
 URLs:
@@ -249,23 +244,15 @@ Commentary: |-
     Not complacent, but sure as hell learned enough to punt you down a waterfall with stabby needles.
 Cover Artists:
 - gelasticat
+Referenced Tracks:
+- The Thirteenth Hour
+- track:endless-climb
+- track:aggrieve
+- DAVE STRIDER'S COOL MIXTAPE
 ---
 Track: The Dave Strider Experience
 Artist: ndividedbyzero
 Duration: '3:54'
-References:
-- track:beatdown-strider-style
-- This Is America
-- Giorgio by Moroder
-- Bodies
-- Take Me Away
-- Running Hell
-- track:suicide-hotline-icp
-- The Witch
-- What is a Juggalo?
-- Waters of Nazareth
-- SWEET BRO AND HELLA JEFF SHOW
-- track:upward-movement-dave-owns
 Art Tags:
 - Dirk's bro
 URLs:
@@ -293,20 +280,24 @@ Lyrics: |-
     IT'S THE SWEET BRO AND HELLA JEFF SHOW! WHOAAAAAAAAa
 Cover Artists:
 - dazed-squid
+Referenced Tracks:
+- track:beatdown-strider-style
+- This Is America
+- Giorgio by Moroder
+- Bodies
+- Take Me Away
+- Running Hell
+- track:suicide-hotline-icp
+- The Witch
+- What is a Juggalo?
+- Waters of Nazareth
+- SWEET BRO AND HELLA JEFF SHOW
+- track:upward-movement-dave-owns
 ---
 Track: Jade English - Study for Eclectic Bass, 1984.1
 Directory: study-for-eclectic-bass-1984-1
 Artist: Interrobang
 Duration: '5:09'
-References:
-- Rhapsody in Green
-- track:verdancy-bassline
-- Skaianet
-- Gardener
-- track:mutiny
-- Roundabout
-- Afraid of the Darko
-- Piss
 Art Tags:
 - Jake's grandma
 URLs:
@@ -320,6 +311,15 @@ Commentary: |-
     Grandma Harley often wrote her grandson about the tyranny of Lord English, obviously not able to hide everything from the enemy.
 Cover Artists:
 - Jas
+Referenced Tracks:
+- Rhapsody in Green
+- track:verdancy-bassline
+- Skaianet
+- Gardener
+- track:mutiny
+- Roundabout
+- Afraid of the Darko
+- Piss
 ---
 Track: Felidae Superior
 Artist: WHATISLOSTINTHEMINES
@@ -340,8 +340,6 @@ Cover Artists:
 Track: Sweet Talker
 Artist: Ucklin
 Duration: '3:24'
-References:
-- Hate You
 Art Tags:
 - The Condesce
 URLs:
@@ -355,6 +353,8 @@ Commentary: |-
     This very nice track gave me vibes of a casual setting with the condesce, so I thought to draw her doing a mundane but fun task - baking! I've always liked fanart of HIC as betty crocker, doing crockery things like baking cake and raising post-scratch john/jade.
 Cover Artists:
 - nights
+Referenced Tracks:
+- Hate You
 ---
 Group: Disc 2
 ---
@@ -383,8 +383,6 @@ Cover Artists:
 Track: Voice of the Dead
 Artist: Mathias Ramalho, cookiefonster
 Duration: '2:20'
-References:
-- Aradia's Theme (Pre-Death)
 Art Tags:
 - Aradia's lusus
 - Aradia
@@ -403,12 +401,12 @@ Commentary: |-
     I love the track and wanted to try and capture the more haunting side to it.
 Cover Artists:
 - freckledOctopus
+Referenced Tracks:
+- Aradia's Theme (Pre-Death)
 ---
 Track: Flittaurine
 Artist: Shirokishi
 Duration: '2:07'
-References:
-- Rust Servant
 Art Tags:
 - Tavros' lusus
 URLs:
@@ -422,12 +420,12 @@ Commentary: |-
     Dear, sweet, precious Tinkerbull. Rest in peace my little guy.
 Cover Artists:
 - Chumi
+Referenced Tracks:
+- Rust Servant
 ---
 Track: Polypolyphemus
 Artist: Ducky Senpai
 Duration: '3:18'
-References:
-- Die For Me
 Art Tags:
 - Sollux's lusus
 URLs:
@@ -440,12 +438,12 @@ Commentary: |-
     Polypolyphemus is an intense track, so it's fitting for its art to capture the same intensity. Sollux's Biclops is captured right before its imminent demise as the troll's Mind Honey-induced flip out rips through the ceiling of his hive and surrounds the lusus in a multi-colored beam of energy. The meteors illuminating the night sky further illustrate the carnage present in the scene in a fashion that pops up time and time again in Homestuck proper. If only one of those meteors could break the chain around the Biclops' leg and set it free! Wait, the resulting impact would probably just kill the Biclops anyway. Never mind, that was a stupid idea.
 Cover Artists:
 - shu
+Referenced Tracks:
+- Die For Me
 ---
 Track: Rangoon
 Artist: WHATISLOSTINTHEMINES
 Duration: '2:03'
-References:
-- Showdown
 Art Tags:
 - Karkat's lusus
 - Karkat
@@ -459,12 +457,12 @@ Commentary: |-
     this one is pretty much just a carbon copy of a homestuck panel i found. i mean i didnt trace anything, but its all placed pretty much the same with minor differences. dont give me too much praise for this one.
 Cover Artists:
 - ackro
+Referenced Tracks:
+- Showdown
 ---
 Track: Apex Conquistador
 Artist: TempiTunes, WHATISLOSTINTHEMINES
 Duration: '1:38'
-References:
-- Nepeta's Theme
 Art Tags:
 - Nepeta's lusus
 URLs:
@@ -479,12 +477,12 @@ Commentary: |-
     Coincidentally, it's about to die because of said two-mouthed cat monster eating it. You just can't have it all, unfortunately.
 Cover Artists:
 - Sammie
+Referenced Tracks:
+- Nepeta's Theme
 ---
 Track: Recordare, Virgo Mater
 Artist: queer maggot
 Duration: '3:34'
-References:
-- Virgin Orb
 Art Tags:
 - Kanaya's lusus
 URLs:
@@ -500,12 +498,12 @@ Commentary: |-
     The Mothergrub has always been a fascinating creature to me in Homestuck, both as a part of reproduction and as a lusus. Especially since becoming a lusus means that you give up a life in the brooding caverns for a shortened existence to care for onechild. And with the Virgin Mother Grub drawing so many parallels to the iconic Holy Virgin Mary, I decided to draw my own parallels. I wanted this peice to be symbolic in nature towards the ideas and standards of the Mothergrub. It also may be a little sacrilegious in regards to the Catholic images of the Virgin Mary, but we'll just ignore that little fact. The Virgin Mothergrub floats with the brooding caverns behind her, and her new charge sleeping peacefully nearby, alongside other eggs nearly ready to hatch into trolls that will play a game and sacrifice to create something new. <s>(we're also going to ignore the fact that i may have had an out-of-body experience while working on this piece)</s>
 Cover Artists:
 - artisticallyCrafty
+Referenced Tracks:
+- Virgin Orb
 ---
 Track: Amniotic Daydream
 Artist: Circlejourney
 Duration: '4:16'
-References:
-- JUST1C3 R41NS FROM 4BOV3
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/amniotic-daydream
 - https://youtu.be/Bne6tHjEIko
@@ -519,12 +517,12 @@ Commentary: |-
     this piece is probably the most complex one i did for the album, and i think it payed off in spades. i used a lot of elements from the scene in which terezi's dragon hatches and is immediately killed by a falling meteor, which might be one of the best looking parts in homestuck, although its hard to choose since the first half of homestuck is littered with striking imagery. oh my god just look at it. so good. so fucking good guys. its really good.
 Cover Artists:
 - ackro
+Referenced Tracks:
+- JUST1C3 R41NS FROM 4BOV3
 ---
 Track: Arachnida Antecessor
 Artist: arcaneGemini
 Duration: '2:11'
-References:
-- track:MeGaLoVania
 Art Tags:
 - Vriska's lusus
 - Vriska
@@ -544,13 +542,13 @@ Commentary: |-
     I understand why hussie didn't draw spider-mom with hair on her. that took way too much time to have to do it more than once.
 Cover Artists:
 - Caitlin Beamer
+Referenced Tracks:
+- track:MeGaLoVania
 ---
 Track: STRONG Butler. Best Dad.
 Directory: STRONG-butler-best-dad
 Artist: arcaneGemini
 Duration: '3:16'
-References:
-- Horschestra STRONG Version
 Art Tags:
 - Equius's lusus
 - Equius
@@ -571,12 +569,12 @@ Commentary: |-
     For every album cover I've drawn so far, I try to make them look a little different and experiment with different styles. In this case I tried to draw a HORSE (crazy i know) and used this very painting-like flat style, and decided to put Equius's signature up, effectively making it his own painting! This went through lots of colour hue alterations and was originally a very light pink desert in a sunny sky before we settled on this darker background to make Aurthour stand out more. I like to think that Equius is simultaneously admiring his surroundings and panicking about their imminent death by sunburn.
 Cover Artists:
 - Tipsy
+Referenced Tracks:
+- Horschestra STRONG Version
 ---
 Track: Absent Reflection
 Artist: PoisonedElite
 Duration: '2:10'
-References:
-- track:dilemma
 Art Tags:
 - Gamzee
 URLs:
@@ -590,14 +588,12 @@ Commentary: |-
     Sometimes you wait a long time to see the people you love.
 Cover Artists:
 - Jas
+Referenced Tracks:
+- track:dilemma
 ---
 Track: Hippocampaternal
 Artist: FrostyMac
 Duration: '2:35'
-References:
-- Eridan's Theme
-- track:chorale-for-jaspers
-- Science Seahorse
 Art Tags:
 - Eridan's lusus
 URLs:
@@ -610,16 +606,14 @@ Commentary: |-
     Your baby crashed in on a blaze of fire, go get him seahorse daddy
 Cover Artists:
 - Jas
+Referenced Tracks:
+- Eridan's Theme
+- track:chorale-for-jaspers
+- Science Seahorse
 ---
 Track: Whispering Leviathan
 Artist: Kanishka
 Duration: '4:24'
-References:
-- Fear of the Heavens
-- Silencio
-- The Vast Glub
-- Penumbra Phantasm
-- Keepers
 Art Tags:
 - Feferi's lusus
 - Horrorterrors
@@ -634,6 +628,12 @@ Commentary: |-
     Finding the right balance between silhouette and rendering proved one of the primary challenges of completing this piece. Too much light meant the image lost its spooky, foreboding tone; too little made it look flat. In the end I came out with something that roughly strikes that balance, though I still feel that it loses some of the spookiness of the sketch. Thanks @ the good people at the Homestuck Artist discord for the tips!
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Fear of the Heavens
+- Silencio
+- The Vast Glub
+- Penumbra Phantasm
+- Keepers
 ---
 Track: Al-Aalam
 Artist: Kal-la-kal-la
@@ -656,13 +656,6 @@ Cover Artists:
 Track: The Puppet Master
 Artist: SplitSuns
 Duration: '4:10'
-References:
-- English
-- Afraid of the Darko
-- track:aggrieve
-- track:beatdown-strider-style
-- track:dissension-original
-- track:showtime-original-mix
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-puppet-master
 - https://youtu.be/hGnSgIGK6HM
@@ -674,6 +667,13 @@ Commentary: |-
 Cover Artists:
 - Ephemerald
 - yazshu
+Referenced Tracks:
+- English
+- Afraid of the Darko
+- track:aggrieve
+- track:beatdown-strider-style
+- track:dissension-original
+- track:showtime-original-mix
 ---
 Group: Disc 3
 ---
@@ -698,9 +698,6 @@ Cover Artists:
 Track: HONK FRIEND.
 Artist: Mathias Ramalho
 Duration: '4:14'
-References:
-- Reverie
-- Power Fantasy
 Art Tags:
 - Gamzee
 - Caliborn
@@ -715,15 +712,13 @@ Commentary: |-
     It's hard being a single mom when you are a teenage boy. At least Caliborn is sitting still for once.
 Cover Artists:
 - Jas
+Referenced Tracks:
+- Reverie
+- Power Fantasy
 ---
 Track: Singularity
 Artist: ndividedbyzero
 Duration: '4:55'
-References:
-- track:ruins
-- track:disc2-cosmic-caretakers
-- Nova Solis
-- Isle Unto Thyself
 Art Tags:
 - Cherubs
 URLs:
@@ -738,17 +733,17 @@ Commentary: |-
 Lyrics: Then all the planets fell to dust
 Cover Artists:
 - Aeritus
+Referenced Tracks:
+- track:ruins
+- track:disc2-cosmic-caretakers
+- Nova Solis
+- Isle Unto Thyself
 ---
 Group: Bonus tracks
 ---
 Track: It's Ogre
 Artist: Circlejourney
 Duration: '3:03'
-References:
-- All Star
-- Eridan's Theme
-- I'm A Believer
-- Violet Prince
 Art Tags:
 - Eridan
 - Shrek
@@ -762,3 +757,8 @@ Commentary: |-
     I hate myself for making this and yet
 Cover Artists:
 - Jas
+Referenced Tracks:
+- All Star
+- Eridan's Theme
+- I'm A Believer
+- Violet Prince

@@ -2,9 +2,6 @@ Album: Land of Fans and Music 5
 Directory: lofam5
 Wallpaper File Extension: png
 Wallpaper Style: 'opacity: 0.9;'
-Banner Art:
-- Monckat
-- Niklink (edits for wiki)
 Banner File Extension: png
 Banner Dimensions: 1100x180
 Date: December 19, 2021
@@ -29,12 +26,13 @@ Cover Artists:
 - Monckat
 Wallpaper Artists:
 - Monckat
+Banner Artists:
+- Monckat
+- Niklink (edits for wiki)
 ---
 Track: Skaian Spirograph
 Artist: WarxTron
 Duration: '2:56'
-References:
-- track:skies-of-skaia
 Art Tags:
 - John
 - Rose
@@ -47,23 +45,12 @@ Commentary: |-
     Skaia has such pretty colours, I wanted to capture that.
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- track:skies-of-skaia
 ---
 Track: Spacetime Starstriker
 Artist: Cryptanark
 Duration: '2:19'
-References:
-- track:doctor
-- Gaia Queen
-- track:in-the-beginning-canwc
-- Muse of Nanchos
-- track:aggrieve
-- Midnight Suffer
-- RollerCoaster Tycoon Theme
-Samples:
-- Bowman's Credit Score
-- RollerCoaster Tycoon 2
-- track:next-arrow
-- GameBro (Original 1990 Mix)
 Art Tags:
 - Rose
 URLs:
@@ -84,24 +71,23 @@ Commentary: |-
     Many of the motifs and quotes in this track are lifted from CANMT tracks. What a fun group! Those folks helped me get into music-making in the first place, and I most certainly would not be here without them. I encourage you to check out some of the more experimental albums we released. They’re more interesting to me than the Greatest Hits compilations, anyhow.
 Cover Artists:
 - avocado
+Referenced Tracks:
+- track:doctor
+- Gaia Queen
+- track:in-the-beginning-canwc
+- Muse of Nanchos
+- track:aggrieve
+- Midnight Suffer
+- RollerCoaster Tycoon Theme
+Sampled Tracks:
+- Bowman's Credit Score
+- RollerCoaster Tycoon 2
+- track:next-arrow
+- GameBro (Original 1990 Mix)
 ---
 Track: Post​-​Ironic Radical Child Abuse Anthem
 Artist: Gryotharian
 Duration: '1:57'
-References:
-- track:beatdown-strider-style
-- Cascade (Beta)
-- vs bros
-- track:sburban-jungle
-Samples:
-- Tony Hawk's Pro Skater 2
-- uh oh
-- TEETH AND BLOOD
-- hurt2.wav
-- Sega Jingle
-- Tekkno Pigeon
-- All Minions Go To Hell Main Title Theme
-- Sonic the Hedgehog 2
 Art Tags:
 - Dave's bro
 URLs:
@@ -121,18 +107,24 @@ Commentary: |-
     I hope the art reflects that energy too. I’ve been told I have a particular talent for ironically bad masterpieces.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- track:beatdown-strider-style
+- Cascade (Beta)
+- vs bros
+- track:sburban-jungle
+Sampled Tracks:
+- Tony Hawk's Pro Skater 2
+- uh oh
+- TEETH AND BLOOD
+- hurt2.wav
+- Sega Jingle
+- Tekkno Pigeon
+- All Minions Go To Hell Main Title Theme
+- Sonic the Hedgehog 2
 ---
 Track: InterNep
 Artist: Tee-vee
 Duration: '5:17'
-References:
-- Olive Rogue
-- Walls Covered in Blood
-Samples:
-- Fox Hunt (1996)
-- OUR $3,400,000 MANSION! (House Tour)
-- Louis Cole Drum Beat Tutorials
-- Chats, Kwiskas
 Art Tags:
 - Nepeta
 - Equius
@@ -151,13 +143,19 @@ Commentary: |-
     <img src="media/misc/internep-top-nep.png" width="117" height="134"> I'm sorry for my sins
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Olive Rogue
+- Walls Covered in Blood
+Sampled Tracks:
+- Fox Hunt (1996)
+- OUR $3,400,000 MANSION! (House Tour)
+- Louis Cole Drum Beat Tutorials
+- Chats, Kwiskas
 ---
 Track: 'Princess Berryboo and Her Orchestra Present "Friendship is Paramount" ft.
     Squishy Tentacle On Piano '
 Artist: Aradiawithgeese
 Duration: '3:44'
-References:
-- Friendship is Paramount
 Art Tags:
 - MSPA Reader
 - Squiddles
@@ -169,6 +167,8 @@ Commentary: |-
     This one I actually wrote a while ago. At this point I was just challenging myself to make as many homestuck covers in as many different styles as I could and I think this one is particularly special. Squiddles were already one of my favorite little lore spirals from homestuck so to be able to put a little bit more AU weirdness is something Im honored to be able to do.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Friendship is Paramount
 ---
 Track: On an Island Far Away
 Artist: Circlejourney
@@ -192,11 +192,6 @@ Cover Artists:
 Track: 24/7 lo fi anime beats to achieve your destiny to
 Artist: FrostyMac
 Duration: '3:02'
-References:
-- Penumbra Phantasm
-- track:doctor
-- Heir of Grief
-- Moshi Moshi?
 Art Tags:
 - John
 URLs:
@@ -208,16 +203,16 @@ Commentary: |-
     Yeah I don’t think I had another option I had to draw this.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Penumbra Phantasm
+- track:doctor
+- Heir of Grief
+- Moshi Moshi?
 ---
 Track: Alpha Admission
 Directory: alpha-admission-lofam5
-AKA: track:alpha-admission
 Artist: Pascal van den Bos
 Duration: '3:47'
-References:
-- Temporal Guardian
-- Cooldown
-- Daughter
 Art Tags:
 - Dirk
 - 'cw: blood (abstract)'
@@ -229,14 +224,16 @@ Commentary: |-
     In a cross-multiversal display of brotherhood among shades-wearing anime swordsmen, Dirk and Kate’s dad (from [[group:desynced]]) chop up some goons. As a certified MSPFA addict I couldn’t pass up a  chance to give an excellent fanventure a shoutout in the art for this track (which originated in its OST).
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Temporal Guardian
+- Cooldown
+- Daughter
+Also Released As:
+- track:alpha-admission
 ---
 Track: Cut the Chain
 Artist: Sylvarn
 Duration: '4:07'
-References:
-- Prospit Dreamers
-- Cascade (Beta)
-- Midnight
 Art Tags:
 - Jack Noir
 URLs:
@@ -248,12 +245,14 @@ Commentary: |-
     Jack Noir decides Prospit didn’t need its moon anyway. I tried my best to convey Noir’s speed, as well as the scale and chonk of those massive golden chains. And yes the chains really are that long in canon please don’t go check
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Prospit Dreamers
+- Cascade (Beta)
+- Midnight
 ---
 Track: Firefly Storm
 Artist: Astro Kid
 Duration: '6:46'
-References:
-- Firefly Cloud
 Art Tags:
 - John
 URLs:
@@ -263,12 +262,12 @@ Commentary: |-
     As always, Astro Kid manages to turn any track into a rave-worthy bop, no matter how melancholic the original is. This used to be a lost track, and I might have never heard it if Rafe Saltman hadn’t reuploaded it on Youtube, so he deserves our thanks. This art piece was actually inspired by the track a few months after it was made, so I contacted the artist to finally make it official, half a decade later.
 Cover Artists:
 - nagunkgunk
+Referenced Tracks:
+- Firefly Cloud
 ---
 Track: Urban Jungle
 Artist: FrostyMac
 Duration: '3:01'
-References:
-- track:sburban-jungle
 Art Tags:
 - John
 - Rose
@@ -281,18 +280,12 @@ Commentary: |-
     This song was made up on the spot note-by-note, but I think it turned out well.
 Cover Artists:
 - V-6
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Spritely Gardener
 Artist: Andrew "Rainy" Obeng
 Duration: '3:19'
-References:
-- Jadesprite
-- The Beginning of Something Really Excellent
-- Courser
-- Carefree Action
-- Snowfall
-- Blue Atom
-- Softly
 Art Tags:
 - Jade
 URLs:
@@ -302,15 +295,18 @@ Commentary: |-
     This song is is a redo of my very first piece of homestuck fanmusic I ever did. I wanted a remix of a lesser known homestuck song so I decided to do a remix of Toby Fox's [[Jadesprite]].
 Cover Artists:
 - Chesswanderlust-sama
+Referenced Tracks:
+- Jadesprite
+- The Beginning of Something Really Excellent
+- Courser
+- Carefree Action
+- Snowfall
+- Blue Atom
+- Softly
 ---
 Track: Special Delivery
 Artist: Kanishka
 Duration: '3:20'
-References:
-- White
-- Double Midnight
-- Flight of the White Wolf
-- Unsheath'd
 Art Tags:
 - PM
 URLs:
@@ -320,19 +316,15 @@ Commentary: "<i>Kanishka:</i>\nLiberty. Reason. Justice. Civility. Edification. 
     \ to draw PM with the sentry worm. "
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- White
+- Double Midnight
+- Flight of the White Wolf
+- Unsheath'd
 ---
 Track: Sunriser
 Artist: Kusoro
 Duration: '3:16'
-References:
-- Sunsetter
-- Skaian Summoning
-- Penumbra Phantasm
-- track:MeGaLoVania
-- Ascend
-- Conflict!
-Samples:
-- ???
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sunriser
 Commentary: |-
@@ -340,12 +332,19 @@ Commentary: |-
     The crimson glow of the rising sun falls across the Strider apartment complex, and it looks like Dave’s pulled an all-nighter working on his jams. His neighbors must love him. I made this art pretty quickly but I’m proud of it all the same, managed to capture some vibes.
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Sunsetter
+- Skaian Summoning
+- Penumbra Phantasm
+- track:MeGaLoVania
+- Ascend
+- Conflict!
+Sampled Tracks:
+- ???
 ---
 Track: Aggrieve (Knightcore Mix)
 Artist: cookiefonster
 Duration: '1:53'
-References:
-- track:aggrieve
 Art Tags:
 - Rose
 - Doc Scratch
@@ -361,13 +360,12 @@ Commentary: "<i>cookiefonster:</i>\nAnother song from the Cool and New Music Tea
     \ room in her house just for Orb Pondering. And Kanaya just has to deal with it. "
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- track:aggrieve
 ---
 Track: Dreamers
 Artist: Scorpyus
 Duration: '5:29'
-References:
-- track:atomyk-ebonpyre
-- It Looks Back
 Art Tags:
 - Dave
 URLs:
@@ -383,13 +381,13 @@ Commentary: "<i>Scorpyus:</i>\nI did my best to capture the dreamy feeling of th
     \ I feel like I captured the vibe well enough. "
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- track:atomyk-ebonpyre
+- It Looks Back
 ---
 Track: F∞ クライミング『CLIMBING』
 Artist: SplitSuns
 Duration: '2:50'
-References:
-- Climbing to Infinity
-- track:endless-climb
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/f-climbing
 Commentary: |-
@@ -397,13 +395,13 @@ Commentary: |-
     This track originates from CANWAVE 3, a vaporwave album for the Cool and New Music Team. Yes, we cursed the world with three of them, but it was all worth it if only for this SplitSuns track. For the less leitmotif-aware, this is a take on [[track:endless-climb]] by [[artist:buzinkai]]. Rest in peace.
 Cover Artists:
 - SplitSuns
+Referenced Tracks:
+- Climbing to Infinity
+- track:endless-climb
 ---
 Track: Pipe Dream
 Artist: Kanishka
 Duration: '4:51'
-References:
-- Litrichean Rioghail
-- Firefly Cloud
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/pipe-dream
 Commentary: |-
@@ -411,20 +409,13 @@ Commentary: |-
     You know that old Windows screensaver? No no, not the flying toasters. No, not the maze one! I mean that one that your teachers always used so you just stared at it all period instead of getting work done. Yes, with the pipes! This is that but LOWAS, and also taking 20 minutes to render a frame instead of whatever fps the old screensaver ran at. The cost of beauty. It's an honor to make art for a LOFAM album, I've been listening to the older ones since I was a teenager. You could say that with this art I fulfilled a Pipe Dream.
 Cover Artists:
 - Skyplayer
+Referenced Tracks:
+- Litrichean Rioghail
+- Firefly Cloud
 ---
 Track: Stab - Stab - Stab
 Artist: Interrobang
 Duration: '3:56'
-References:
-- Walk-Stab-Walk (R&E)
-- Rain
-- Flare
-- LRAD
-- PLUR Police
-- Boss Mode
-- Destroy Them With Lazers
-- Bad Apple!!
-- My Sharona
 Art Tags:
 - Jack Noir
 - Lord English
@@ -435,14 +426,20 @@ Commentary: |-
     I made this track for the Cool and New Music Team Felt/Midnight Crew album circa 2018 or so, and it was nominated for “the next LOFAM” long before any actual prep for this album had really started. I actually requested it be taken off of LOFAM5 because I felt it didn’t meet my standards anymore, but due to a miscommunication it stayed on. I found this out about 15 minutes before the release stream, which is happening as I type this - Album is sounding great, y’all! Anyway, hope it sounds better to you than it does to me.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Walk-Stab-Walk (R&E)
+- Rain
+- Flare
+- LRAD
+- PLUR Police
+- Boss Mode
+- Destroy Them With Lazers
+- Bad Apple!!
+- My Sharona
 ---
 Track: A Dream Of Broken Clocks
 Artist: Gryotharian
 Duration: '6:31'
-References:
-- English
-- WORST END
-- The Puppetmaster
 Art Tags:
 - Doc Scratch
 URLs:
@@ -453,12 +450,14 @@ Commentary: |-
     This was some of the first non-pixel digital art I ever did, and for that, I think it turned out pretty well. However, I had a real knack for doing things the hardest possible way, and oh my god, I never want to draw another clock again. I did all of this, with a keyboard and trackpad, on a free trial for a photoshop knockoff. That wallpaper? I didn’t figure out how to use the copy-paste tool properly, and had to manually put in every detail on it. This was a nightmare to complete, (albeit a nightmare of my own making), so you all had better appreciate it.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- English
+- WORST END
+- The Puppetmaster
 ---
 Track: Black (Electro Swing Remix)
 Artist: Spad3s
 Duration: '2:55'
-References:
-- track:black
 Art Tags:
 - Jack Noir
 - 'cw: blood'
@@ -469,6 +468,8 @@ Commentary: |-
     The art for this track is actually <a href="https://www.youtube.com/watch?v=okTNlwSViX8">a video</a>, so I had to combine a few frames into one, but you can probably get the gist. Damn it Bandcamp, add APNG support already.
 Cover Artists:
 - J-Airshiper
+Referenced Tracks:
+- track:black
 ---
 Track: Dance of Entropy
 Artist: Gryotharian
@@ -487,14 +488,6 @@ Cover Artists:
 Track: Furthest Ringside
 Artist: Monckat
 Duration: '2:38'
-References:
-- Switchback
-- track:upward-movement-dave-owns
-- Core of Darkness
-- Ace of Trump
-- track:frost-vol6
-- At The Price of Oblivion
-- track:endless-climb
 Art Tags:
 - Rose
 - Dave
@@ -510,13 +503,18 @@ Commentary: "<i>Monckat:</i>\nA track vaguely themed around Dave, Rose, Derse, a
     \ in my fanventure The Tapestry more than canon Homestuck ones) "
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Switchback
+- track:upward-movement-dave-owns
+- Core of Darkness
+- Ace of Trump
+- track:frost-vol6
+- At The Price of Oblivion
+- track:endless-climb
 ---
 Track: Wayward
 Artist: Shwan
 Duration: '3:06'
-References:
-- track:upward-movement-dave-owns
-- track:endless-climb
 Art Tags:
 - WV
 URLs:
@@ -530,6 +528,9 @@ Commentary: "<i>Shwan:</i>\nI made this during a recent re-reading of Homestuck 
     \ so probably not) "
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- track:upward-movement-dave-owns
+- track:endless-climb
 ---
 Track: Upon Whom Sacrifice Calls
 Artist: Sylvarn
@@ -548,8 +549,6 @@ Cover Artists:
 Track: Sun and Setter
 Artist: Pascal van den Bos
 Duration: '1:29'
-References:
-- Sunsetter
 Art Tags:
 - Dave
 - Davesprite
@@ -560,12 +559,12 @@ Commentary: |-
     What a rad track! I'm not sure what the original [[Sunsetter]] is about, so I took a cue from the track art fan anthology piece for [[Sunsetter]], and also the backup art choice for this track.
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Sunsetter
 ---
 Track: Hippocampus Sea
 Artist: Levc
 Duration: '3:20'
-References:
-- Science Seahorse
 Art Tags:
 - Eridan's lusus
 URLs:
@@ -579,16 +578,12 @@ Commentary: "<i>Levc:</i>\nInspired by the short cover of [[Science Seahorse|sci
     \ side…\nAlso this tracks makes me want to eat ice cream for some reason. "
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Science Seahorse
 ---
 Track: She's a D8ddy L8ng L8gs
 Artist: Mathias Ramalho
 Duration: '5:31'
-References:
-- She's a Sp8der
-- Pumpkin Cravings
-- track:MeGaLoVania
-- Spider8ite!!!!!!!!
-- Die.
 Art Tags:
 - Vriska
 - Midnight Crew
@@ -599,12 +594,16 @@ Commentary: |-
     I believe this time it’s best to let the art speak for itself.
 Cover Artists:
 - Scarodactyl
+Referenced Tracks:
+- She's a Sp8der
+- Pumpkin Cravings
+- track:MeGaLoVania
+- Spider8ite!!!!!!!!
+- Die.
 ---
 Track: King Crab
 Artist: $C4RL3TT
 Duration: '2:12'
-References:
-- track:crustacean
 Art Tags:
 - Karkat
 URLs:
@@ -614,17 +613,12 @@ Commentary: |-
     Damn did you know this track references “[[track:crustacean]]” by [[group:toby-fox|Toby “Radiation” Fox]]???
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- track:crustacean
 ---
 Track: ALIVE
 Artist: heir-of-puns
 Duration: '3:31'
-References:
-- Temporal Shenanigans
-- track:old-secret
-- Rust Apocalypse
-- track:MeGaLoVania
-Samples:
-- Temporal Shenanigans
 Art Tags:
 - Aradia
 URLs:
@@ -641,18 +635,17 @@ Commentary: "<i>heir-of-puns:</i>\n[[Temporal Shenanigans]] was the first homest
     \ and after coming back to life, and the change in her disposition. "
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- Temporal Shenanigans
+- track:old-secret
+- Rust Apocalypse
+- track:MeGaLoVania
+Sampled Tracks:
+- Temporal Shenanigans
 ---
 Track: Blood Rite
 Artist: Scorpyus
 Duration: '6:13'
-References:
-- English
-- Alternia
-- 'BL1ND JUST1C3 : 1NV3ST1G4T1ON !!'
-- Terezi's Theme
-- '>>DiscThree<<'
-Samples:
-- '>>DiscThree<<'
 Art Tags:
 - The Condesce
 - The Handmaid
@@ -671,12 +664,18 @@ Commentary: "<i>Scorpyus:</i>\nStarted when I decided the [[track:discthree|Disc
     \ of alternia as it is. With a little nod to doc scratch through the handmaid. "
 Cover Artists:
 - swanfire
+Referenced Tracks:
+- English
+- Alternia
+- 'BL1ND JUST1C3 : 1NV3ST1G4T1ON !!'
+- Terezi's Theme
+- '>>DiscThree<<'
+Sampled Tracks:
+- '>>DiscThree<<'
 ---
 Track: Madame Controversielle 2
 Artist: cookiefonster
 Duration: '2:43'
-References:
-- Madame Controversielle
 Art Tags:
 - Vriska
 - Karkat
@@ -691,17 +690,12 @@ Commentary: |-
     I’m not sure about how this one turned out. All the chiptune and vriska definitely made me think of like, a retro game player select screen, so I went back to my old pixel art style, and tried to fill it with the most vriska that vriska could vriska. But it had been a while since I was working with plain pixel art again, and that probably shows.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Madame Controversielle
 ---
 Track: Anamnesis
 Artist: Kanishka
 Duration: '3:58'
-References:
-- Vriska's Theme
-- Underfoot
-- Dreamers and The Dead
-- Cascade (Beta)
-- Cobalt Thief
-- Superego
 Art Tags:
 - Vriska
 - Jack Noir
@@ -710,14 +704,17 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/anamnesis
 Cover Artists:
 - ricemilk
+Referenced Tracks:
+- Vriska's Theme
+- Underfoot
+- Dreamers and The Dead
+- Cascade (Beta)
+- Cobalt Thief
+- Superego
 ---
 Track: Pumpkin Party in Sea Hitler's Water Apocalypse (Cement City Remix)
 Artist: Cement City
 Duration: '4:22'
-References:
-- Pumpkin Party in Sea Hitler's Water Apocalypse
-Samples:
-- meow
 Art Tags:
 - The Condesce
 URLs:
@@ -732,13 +729,14 @@ Commentary: |-
     When I first heard the original version of the song, I didn’t immediately think dubstep would be a good fit, but I think [[artist:cement-city]] has proved us all wrong.
 Cover Artists:
 - dodostad
+Referenced Tracks:
+- Pumpkin Party in Sea Hitler's Water Apocalypse
+Sampled Tracks:
+- meow
 ---
 Track: Rex Duodecim Angelus (Remix)
 Artist: Artisticpolo
 Duration: '3:20'
-References:
-- Rex Duodecim Angelus
-- track:black
 Art Tags:
 - BK
 URLs:
@@ -750,13 +748,14 @@ Commentary: |-
     It’s hard to make a design like the unprototyped black king seem threatening.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Rex Duodecim Angelus
+- track:black
 ---
 Track: Pondsquatter (Demaster/Demix)
 Directory: pondsquatter-demaster-demix
 Artist: Mathias Ramalho
 Duration: '3:52'
-References:
-- Pondsquatter
 Art Tags:
 - Genesis Frog
 URLs:
@@ -766,6 +765,8 @@ Commentary: |-
     This is actually the full version of an asset used for the fanventure “Karkat Goes to a Convention”, which I wholeheartedly recommend. This amazing art by Radical Dude 42, an expert in the original MSPA style, suggests the fanventure’s title might be selling it short…
 Cover Artists:
 - Radical Dude 42
+Referenced Tracks:
+- Pondsquatter
 ---
 Track: At the Threshold
 Artist: heir-of-puns
@@ -789,8 +790,6 @@ Cover Artists:
 Track: Scratching Consequences
 Artist: TirantBacon
 Duration: '1:44'
-References:
-- A Very "O" Christmas
 Art Tags:
 - Doc Scratch
 - John
@@ -802,19 +801,12 @@ Commentary: |-
     Some sort of interpretation of Doc Scratch’s manipulations, causing the heroes to create the green sun.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- A Very "O" Christmas
 ---
 Track: One Hour Later
 Artist: Kusoro
 Duration: '6:54'
-References:
-- The Thirteenth Hour
-- Double Midnight
-- track:beatdown-strider-style
-- Sunsetter
-- English
-- Penumbra Phantasm
-Samples:
-- I'm a Member of the Midnight Crew (Acapella)
 Art Tags:
 - Jack Noir
 - Dave
@@ -829,12 +821,19 @@ Commentary: |-
     The mixture of Jack Noir and Lord English/cherub themes, alongside the [[track:beatdown-strider-style|Beatdown]] reference, brought my mind straight to this scene from [S] Collide. The camera follows Jack English/Union Jack’s head upwards as it begins to blackholesplode, tilting at the mother of all dutch angles in the process.
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- The Thirteenth Hour
+- Double Midnight
+- track:beatdown-strider-style
+- Sunsetter
+- English
+- Penumbra Phantasm
+Sampled Tracks:
+- I'm a Member of the Midnight Crew (Acapella)
 ---
 Track: Viridescent Flare
 Artist: Shwan
 Duration: '2:13'
-References:
-- Flare
 Art Tags:
 - Green Sun
 URLs:
@@ -844,6 +843,8 @@ Commentary: |-
     From the artist who made the hit single flarezzzzzzz (from Cool And New Homestuck), bringing you…, another [[Flare|flare]] song.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Flare
 ---
 Track: The Dreamer and the Dream
 Artist: Kal-la-kal-la
@@ -861,10 +862,6 @@ Cover Artists:
 Track: Sailing (In The Sea Of Stars)
 Artist: Circlejourney
 Duration: '4:22'
-References:
-- The Doom of the Planets
-- Fuchsia Moonrise
-- The Thirteenth Hour
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sailing-in-the-sea-of-stars-2
 Commentary: "<i>Circlejourney:</i>\nA theme for the post-Epilogue crew(s) sailing\
@@ -874,14 +871,16 @@ Commentary: "<i>Circlejourney:</i>\nA theme for the post-Epilogue crew(s) sailin
     \ with less constraints and it turned out neat :>"
 Cover Artists:
 - Awkward
+Referenced Tracks:
+- The Doom of the Planets
+- Fuchsia Moonrise
+- The Thirteenth Hour
 ---
 Track: She's Out There (In The Sea Of Stars)
 Artist: Circlejourney
 Contributors:
 - Ucklin (additional vocals)
 Duration: '3:22'
-References:
-- Sailing (In The Sea Of Stars)
 Art Tags:
 - Kanaya
 - Rose
@@ -907,17 +906,12 @@ Commentary: |-
     "She’s Out There, Somewhere In The Sea Of Stars." Kanaya remembers Rose. Many thanks to Ucklin for the additional vocals!
 Cover Artists:
 - ricemilk
+Referenced Tracks:
+- Sailing (In The Sea Of Stars)
 ---
 Track: Revelations of Self Importance
 Artist: Gryotharian
 Duration: '3:41'
-References:
-- Austin, Atlantis
-- track:endless-climb
-- Unite Synchronization
-- track:eclipse-svert
-- No More Elders
-- Sweet Dreams, Timaeus
 Art Tags:
 - Dirk
 - Dave
@@ -928,15 +922,19 @@ Commentary: |-
     I made this song shortly after reading Detective Pony, when Dirk Strider was fresh on my mind and skyrocketing to the top of my all-time favorite characters. I wanted to do something specifically for the offscreen period between the end of homestuck and the epilogues, his journey to becoming what he is now, his acceptance of becoming the villain, etc. Mainly, just really love Dirk. Also, it’s an excuse to give some love to some of his more underrated songs. (Basically anything that isn’t [[track:beatdown-strider-style|Beatdown]].) I had never even heard [[Austin, Atlantis|Austin Atlantis]] before I started on this song, and man was I missing out, so it quickly became the basis for the whole thing. In retrospect I wish I could’ve put [[Orange Hat]] in there somewhere, mainly just cause that’s also an awesome underrated song, but by the time I remembered, this was mostly done and it wouldn’t have really fit anywhere. This might be the song I’m happiest with on this album.
 Cover Artists:
 - tamajikis
+Referenced Tracks:
+- Austin, Atlantis
+- track:endless-climb
+- Unite Synchronization
+- track:eclipse-svert
+- No More Elders
+- Sweet Dreams, Timaeus
 ---
 Track: Strain
 Artist:
 - TirantBacon
 - WarxTron
 Duration: '2:27'
-References:
-- Five-Four Stress
-- Apexhalation
 Art Tags:
 - Dirk
 URLs:
@@ -948,13 +946,13 @@ Commentary: |-
     Dirk finds himself in a mildly spooky, straining situation deep in the depths of the Land of Tombs and Krypton.
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Five-Four Stress
+- Apexhalation
 ---
 Track: Death Minute in Duodecimal ~ Regicide Demonica
 Artist: Tee-vee
 Duration: '5:27'
-References:
-- Rex Duodecim Angelus
-- Scratch
 Art Tags:
 - BK
 URLs:
@@ -979,13 +977,13 @@ Commentary: "<i>Tee-vee:</i>\nI was listening to Demetori as I usually do and on
     \ in terms of color range and my most complex in terms of detail. "
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Rex Duodecim Angelus
+- Scratch
 ---
 Track: Black Hole's Dozen
 Artist: Monckat
 Duration: '3:25'
-References:
-- The Lyrist
-- The Thirteenth Hour
 Art Tags:
 - Alternate Calliope
 - Green Sun
@@ -999,17 +997,13 @@ Commentary: |-
     The teal and purple orbs are intended to be the orb things Alt Calliope uses to create the black hole in Act 7. My little headcanon for those orbs is that they're genesis frog frogspawn, basically embryonic universes. The idea being that since it took two universes to create the Green Sun, perhaps it takes three to destroy it.
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- The Lyrist
+- The Thirteenth Hour
 ---
 Track: PAST FUNK IS WORSE THAN FUTURE FUNK
 Artist: Koba
 Duration: '2:19'
-References:
-- saoidfisd
-Samples:
-- saoidfisd
-- HEY MAN VOLUME 10 MAN HEY CHECK IT OUT
-- feeling right
-- Love Taste
 Art Tags:
 - Karkat
 URLs:
@@ -1037,28 +1031,17 @@ Commentary: |-
     what’s a homestuck
 Cover Artists:
 - cloudie
+Referenced Tracks:
+- saoidfisd
+Sampled Tracks:
+- saoidfisd
+- HEY MAN VOLUME 10 MAN HEY CHECK IT OUT
+- feeling right
+- Love Taste
 ---
 Track: Infinite Zest
 Artist: Noisemaker
 Duration: '6:00'
-References:
-- RollerCoaster Tycoon Theme
-- Greenhouse
-- Moonsetter
-- Slamdown
-- Mayorlovania
-- Cascante
-- Even in Death
-- Pumpkin Party in Sea Hitler's Water Apocalypse
-- track:showtime-original-mix
-- Tick
-- track:doctor
-- track:MeGaLoVania
-- Broom Temperature
-- Title (Mega Man 3)
-Samples:
-- Let The Squiddles Sleep (End Theme)
-- Mayor Maynot
 Art Tags:
 - Jade
 - WV
@@ -1073,17 +1056,28 @@ Commentary: "<i>Makin:</i>\nOriginally known as “you have got to be SHITTONG m
     \ hole can’t be too bad."
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- RollerCoaster Tycoon Theme
+- Greenhouse
+- Moonsetter
+- Slamdown
+- Mayorlovania
+- Cascante
+- Even in Death
+- Pumpkin Party in Sea Hitler's Water Apocalypse
+- track:showtime-original-mix
+- Tick
+- track:doctor
+- track:MeGaLoVania
+- Broom Temperature
+- Title (Mega Man 3)
+Sampled Tracks:
+- Let The Squiddles Sleep (End Theme)
+- Mayor Maynot
 ---
 Track: TEETH AND BLOOD
 Artist: Gryotharian
 Duration: '4:29'
-References:
-- English
-- Eternity Served Cold
-- track:sburban-jungle
-- An Unbreakable Union
-- Carne Vale
-- track:MeGaLoVania
 Art Tags:
 - Caliborn
 URLs:
@@ -1096,20 +1090,17 @@ Commentary: |-
     There was a lot going on in the production of this, and none of it had to do with the final track. A long, long time ago, before any of my other submissions, I was going to do a Caliborn track, with the intent of being presented as a track that Caliborn himself produced. But at that time, there weren’t many other submissions for this album yet, and a disturbingly high percentage of them were cherub related, so I dropped it. A year later, I was working on a remix of the afterword theme from Pesterquest, but it wasn’t really clicking right. The heavy bass synths and bitcrushed drums weren’t working for the style of the track. Around the same time, I finally got my hands on the incredibly elusive midi of [[Carne Vale]], which has been my favorite homestuck song since the first time I heard it, and has yet to be dethroned. So I had the crazy notion, that the instruments I was using for my Pesterquest remix would work fantastically if I decided to go back to a Caliborn track, now that I could properly reference [[Carne Vale]]. (I had been trying to figure out that bassline by ear for, oh lord, something like 3 years.) And, I ended up with what might be one of my favorite compositions of mine to date. Had it stuck in my head for months. Cleaned up the mixing over the next little while, and the rest is history. I had two names for it for a while, Teeth and Blood, and Space Crusader. Originally I was going to go with both, have one of those little ~ things in between, but I decided that Space Crusader, while it fit the vibe of the song, didn’t really fit the vibe of Caliborn, so I dropped it.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- English
+- Eternity Served Cold
+- track:sburban-jungle
+- An Unbreakable Union
+- Carne Vale
+- track:MeGaLoVania
 ---
 Track: Predomination
 Artist: Kal-la-kal-la
 Duration: '4:13'
-References:
-- Voidlight
-- Walk-Stab-Walk (R&E)
-- The Lyrist
-- Reverie
-- Carne Vale
-- Archagent Everlasting
-Samples:
-- Let The Squiddles Sleep (End Theme)
-- Mayor Maynot
 Art Tags:
 - Lord English
 - Calliope
@@ -1120,6 +1111,16 @@ Commentary: "<i>Monckat:</i>\nCalliope alone, haunted by visions of her other ha
     \ future. "
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Voidlight
+- Walk-Stab-Walk (R&E)
+- The Lyrist
+- Reverie
+- Carne Vale
+- Archagent Everlasting
+Sampled Tracks:
+- Let The Squiddles Sleep (End Theme)
+- Mayor Maynot
 ---
 Track: The Power of RETCON
 Artist: Levc
@@ -1140,8 +1141,6 @@ Cover Artists:
 Track: Heir of Grief (Sax Cover)
 Artist: subversiveasset
 Duration: '4:00'
-References:
-- Heir of Grief
 Art Tags:
 - Jack Noir
 URLs:
@@ -1151,11 +1150,23 @@ Commentary: |-
     You guys all remember that iconic moment in [S] Collide where PM finally steals the sax that Jack’s been using to play Black all this time and uses it to perform a haunting sax rendition of [[Heir of Grief]], right? Yeah me too, thought it was a perfect fit.
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Heir of Grief
 ---
 Track: Collapse Reprise
 Artist: Pascal van den Bos
 Duration: '5:44'
-References:
+URLs:
+- https://unofficialmspafans.bandcamp.com/track/collapse-reprise
+Commentary: "<i>Pascal van den Bos:</i>\nI originally wrote this song in 2019 for\
+    \ Stable Time Loops and Paradoxes 3 but i ended up scrapping it and completely\
+    \ redoing it, i'm not exactly sure why i did that but either way i felt really\
+    \ bad about that because IMO i ended up ruining the song LOL. So anyway this is\
+    \ the 3rd and proper final version of Collapse AKA \"The Descend of the PMT\"\
+    \ because it references so many songs. "
+Cover Artists:
+- Gryotharian
+Referenced Tracks:
 - Distortion Navigator
 - Temporal Virtuoso
 - track:d-break-the-bow
@@ -1168,25 +1179,10 @@ References:
 - More Real than Kraft Mayo
 - All Alone
 - Jittery Optimist
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/collapse-reprise
-Commentary: "<i>Pascal van den Bos:</i>\nI originally wrote this song in 2019 for\
-    \ Stable Time Loops and Paradoxes 3 but i ended up scrapping it and completely\
-    \ redoing it, i'm not exactly sure why i did that but either way i felt really\
-    \ bad about that because IMO i ended up ruining the song LOL. So anyway this is\
-    \ the 3rd and proper final version of Collapse AKA \"The Descend of the PMT\"\
-    \ because it references so many songs. "
-Cover Artists:
-- Gryotharian
 ---
 Track: Shattered Spacetime
 Artist: Gryotharian
 Duration: '5:01'
-References:
-- English
-- track:upward-movement-dave-owns
-- Ruins (With Strings)
-- Do You Remem8er Me
 Art Tags:
 - Lord English
 URLs:
@@ -1209,12 +1205,15 @@ Commentary: "<i>Gryotharian:</i>\nThis was another one that I made surprisingly 
     \ in a glass room.\" "
 Cover Artists:
 - Cratmang
+Referenced Tracks:
+- English
+- track:upward-movement-dave-owns
+- Ruins (With Strings)
+- Do You Remem8er Me
 ---
 Track: Consonant Conquest
 Artist: Interrobang
 Duration: '4:22'
-References:
-- Constant Conquest
 Art Tags:
 - Caliborn
 URLs:
@@ -1226,6 +1225,8 @@ Commentary: |-
     I like to think Caliborn worked really hard on this one, maybe it’s hanging over a mantelpiece in Lord English’s manor somewhere. He’s added some tasteful JPEG artifacts and plastic wrap filters to his style, I’m so proud of him!
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Constant Conquest
 ---
 Track: Reunion
 Artist: Aradiawithgeese
@@ -1245,11 +1246,6 @@ Cover Artists:
 Track: Crystalschalasthemequins
 Artist: Momora
 Duration: '5:06'
-References:
-- Crystalmethequins
-- Schala's Theme
-Samples:
-- Schala's Theme
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/crystalschalasthemequins
 Commentary: |-
@@ -1257,14 +1253,15 @@ Commentary: |-
     There’s a Homestuck continuation fanventure named “Act 8”, and this amazing track scored part of it! You can <a href="https://www.youtube.com/watch?v=_hQSOfOIkJw">check it out here</a>.
 Cover Artists:
 - swanfire
+Referenced Tracks:
+- Crystalmethequins
+- Schala's Theme
+Sampled Tracks:
+- Schala's Theme
 ---
 Track: Sburban City
 Artist: $C4RL3TT
 Duration: 0:54
-References:
-- track:sburban-jungle
-Samples:
-- track:sburban-jungle
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sburban-city
 Commentary: |-
@@ -1275,12 +1272,14 @@ Commentary: |-
     Man, drawing this has made me sad there’s no Spore 2 again. Dammit.
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- track:sburban-jungle
+Sampled Tracks:
+- track:sburban-jungle
 ---
 Track: Gold Mage [Playtime is Over Mix]
 Artist: repeatedScales
 Duration: '4:07'
-References:
-- Gold Mage
 Art Tags:
 - Sollux
 URLs:
@@ -1293,13 +1292,13 @@ Commentary: |-
     This amazing redux version of the [[album:coloUrs-and-mayhem-universe-a|Colours and Mayhem: Universe A]] track was hidden away in the musician’s <a href="https://103records.bandcamp.com/">bandcamp</a>, known to few. It’s time it saw the light of the mainstream and knocked your socks off.
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Gold Mage
 ---
 Track: Black ($C4RL3TT Remix)
 Directory: black-sc4rl3tt-remix
 Artist: $C4RL3TT
 Duration: '2:36'
-References:
-- track:black
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/black-c4rl3tt-remix
 Commentary: |-
@@ -1307,12 +1306,12 @@ Commentary: |-
     Some minimalist 3D art, vaguely inspired by the sort of 90s cgi stuff you see on youtube compilations of jungle/d&b music.
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- track:black
 ---
 Track: Harley-Claire Retro Time!
 Artist: FlareDragon
 Duration: '2:59'
-References:
-- Half-Harley Manor
 Art Tags:
 - Joey
 - Jude
@@ -1320,13 +1319,12 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/harley-claire-retro-time
 Cover Artists:
 - crabaqqle
+Referenced Tracks:
+- Half-Harley Manor
 ---
 Track: Snake Case Closin' '18
 Artist: Tee-vee
 Duration: '3:35'
-References:
-- That's How I Beat Snake
-- SERPENT GENESIS
 Art Tags:
 - Joey
 - Xefros
@@ -1340,12 +1338,13 @@ Commentary: |-
     Fun Fact: I had the cursed idea of making this image as a 3D scene in Blender. But only got partway through modelling Xefros when I realized that I didn't have enough time or patience for it.
 Cover Artists:
 - Cratmang
+Referenced Tracks:
+- That's How I Beat Snake
+- SERPENT GENESIS
 ---
 Track: Minor Manor
 Artist: L4Vo5
 Duration: '1:48'
-References:
-- Half-Harley Manor
 Art Tags:
 - Joey
 URLs:
@@ -1355,6 +1354,8 @@ Commentary: "<i>Gryotharian:</i>\nWanted to go for a sort of Luigi’s mansion t
     \ paint edutainment game, and ended up with this. "
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Half-Harley Manor
 ---
 Track: 'Joey: Play Haunting Melody'
 Artist: Erik Scheele
@@ -1373,33 +1374,31 @@ Cover Artists:
 Track: Keep Your Head Down, Rustblood!
 Artist: subversiveasset
 Duration: '3:41'
-References:
-- Keep Your Head Down
-- Rustblood
 Art Tags:
 - Xefros
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/keep-your-head-down-rustblood
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- Keep Your Head Down
+- Rustblood
 ---
 Track: Final Spice (Remix)
 Artist: Kusoro
 Duration: '2:07'
-References:
-- Final Spice
 Art Tags:
 - Joey
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/final-spice-remix
 Cover Artists:
 - Mmueoul
+Referenced Tracks:
+- Final Spice
 ---
 Track: Sburban Fall
 Artist: WHATISLOSTINTHEMINES
 Duration: '2:38'
-References:
-- track:sburban-jungle
 Art Tags:
 - John
 URLs:
@@ -1410,12 +1409,12 @@ Commentary: |-
     <span style="color:#288857">matthiuss1988:</span> these music will make you shit hard!!!
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: All Alone (Redux)
 Artist: Andrew "Rainy" Obeng
 Duration: '2:32'
-References:
-- All Alone
 Art Tags:
 - Damara
 URLs:
@@ -1428,14 +1427,12 @@ Commentary: "<i>Andrew \"Rainy\" Obeng:</i>\nRedux of All Alone from PMT's \"Bef
     \ and thus i shined the spotlight on her in the focus of the art. "
 Cover Artists:
 - swanfire
+Referenced Tracks:
+- All Alone
 ---
 Track: Time Running By
 Artist: Artisticpolo
 Duration: '2:39'
-References:
-- track:upward-movement-dave-owns
-- track:beatdown-strider-style
-- Sunsetter
 Art Tags:
 - Dave
 URLs:
@@ -1448,17 +1445,15 @@ Commentary: "<i>Makin:</i>\nI remember looping this track over and over back in 
     \ Just standing there. Give him a break, it’s hard to run on a clock. "
 Cover Artists:
 - Gryotharian
+Referenced Tracks:
+- track:upward-movement-dave-owns
+- track:beatdown-strider-style
+- Sunsetter
 ---
 Track: Event Horizon/Barium Starlight
 Directory: event-horizon-barium-starlight
 Artist: Grace Medley
 Duration: '3:48'
-References:
-- Black Rose / Green Sun
-- Black Hole / Green Sun
-- track:endless-climb
-- Song for Rose Lalonde
-- Exploring the Depths of Sburb
 Art Tags:
 - Rose
 URLs:
@@ -1468,6 +1463,12 @@ Commentary: |-
     This track art actually depicts Rose in her Lord of Space outfit from Cool and New Web Comic, since this track originates there. I cropped it a bit to not blow people’s minds too much. Wait, what is that drop OH MY GOD
 Cover Artists:
 - Sozzay
+Referenced Tracks:
+- Black Rose / Green Sun
+- Black Hole / Green Sun
+- track:endless-climb
+- Song for Rose Lalonde
+- Exploring the Depths of Sburb
 ---
 Track: '[S] ==>'
 Directory: s-next-arrow
@@ -1477,9 +1478,6 @@ Artist:
 Contributors:
 - Circlejourney (harmonies)
 Duration: '5:21'
-References:
-- '[S]ynchronize'
-- Cascade (Beta)
 Art Tags:
 - John
 - Rose
@@ -1521,14 +1519,13 @@ Lyrics: "[[[S]ynchronize]]\n\nI’m still wondering\nWhere to go now\nWe have se
     \ more?\nPester me, I’m not alone\nI’m just stuck inside my home"
 Cover Artists:
 - Circlejourney
+Referenced Tracks:
+- '[S]ynchronize'
+- Cascade (Beta)
 ---
 Track: Abstract
 Artist: Kusoro
 Duration: '2:02'
-References:
-- Moonsetter
-- Despot
-- track:upward-movement-dave-owns
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/abstract
 Commentary: "<i>Monckat:</i>\nFeatures a sort of on-a-whim redesign of the Theseus,\
@@ -1537,6 +1534,10 @@ Commentary: "<i>Monckat:</i>\nFeatures a sort of on-a-whim redesign of the These
     \ of Dirk’s shades so I maybe don’t have a leg to stand on there. "
 Cover Artists:
 - Monckat
+Referenced Tracks:
+- Moonsetter
+- Despot
+- track:upward-movement-dave-owns
 ---
 Track: Saccharine Slumber, Strider
 Artist: Shwan
@@ -1567,9 +1568,6 @@ Cover Artists:
 Track: Somnambulist
 Artist: heir-of-puns
 Duration: '3:35'
-References:
-- Even in Death
-- Pumpkin Party in Sea Hitler's Water Apocalypse
 Art Tags:
 - Roxy
 URLs:
@@ -1583,16 +1581,13 @@ Commentary: "<i>heir-of-puns:</i>\nThis is like the third entirely redone versio
     \ if it was less complex.  "
 Cover Artists:
 - Awkward
+Referenced Tracks:
+- Even in Death
+- Pumpkin Party in Sea Hitler's Water Apocalypse
 ---
 Track: Crystallized Flowers DX
 Artist: salex_r3kt
 Duration: '4:25'
-References:
-- Crystalanthemums
-- Crystalanthology
-- Crystamanthequins
-- track:sburban-jungle
-- Crystalmethequins
 Art Tags:
 - Jade
 URLs:
@@ -1603,17 +1598,16 @@ Commentary: |-
     Please do not eat the bright red crystal flowers, no matter how tasty they look. They are deadly poison. Thousands have died already this year.
 Cover Artists:
 - Awkward
+Referenced Tracks:
+- Crystalanthemums
+- Crystalanthology
+- Crystamanthequins
+- track:sburban-jungle
+- Crystalmethequins
 ---
 Track: I Am Bigger Than This Story
 Artist: FrostyMac
 Duration: '4:15'
-References:
-- Flare
-- END OF FRIENDVANGELION
-- Homestuck Anthem
-- track:old-secret
-- Embittered Shore
-- Penumbra Phantasm
 Art Tags:
 - MSPA Reader
 - Green Sun
@@ -1623,6 +1617,13 @@ Commentary: "<i>FrostyMac:</i>\nI loved the ending to Pesterquest and wanted to 
     \ a track on it. "
 Cover Artists:
 - crabaqqle
+Referenced Tracks:
+- Flare
+- END OF FRIENDVANGELION
+- Homestuck Anthem
+- track:old-secret
+- Embittered Shore
+- Penumbra Phantasm
 ---
 Track: A Story That Consumes Itself
 Artist: Circlejourney

@@ -21,8 +21,6 @@ URLs:
 Track: Harleboss
 Artist: Malcolm Brown
 Duration: '2:47'
-References:
-- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/harleboss-3
 - https://youtu.be/51vrPLt_LG8
@@ -31,15 +29,17 @@ Commentary: |-
     Harlequin was awesome, and was quite a popular source for remixing the theme (it still is) so this was my early attempt.
     The soundfont is actually a FF6 SNES font I found somewhere (At lot of people got it from the choir). The SNES soundfont choice was taken from a kind of natural evolution the music was taking from the earlier Vol 1 8-bi to 16-bit style music.
     Not much to say on this one except it was quite a stereotypical 'Epic' boss battle theme - Choirs, church organs, bells, guitar and fast drums.
+Referenced Tracks:
+- track:harlequin
 ---
 Track: Beatdown Round 2
 Artist: Curt Blakeslee
 Duration: '2:27'
-References:
-- track:beatdown-strider-style
 URLs:
 - https://homestuck.bandcamp.com/track/beatdown-round-2-3
 - https://youtu.be/CuQpu45cmtw
+Referenced Tracks:
+- track:beatdown-strider-style
 ---
 Track: Dissension (Original)
 Artist: David Ko
@@ -51,11 +51,11 @@ URLs:
 Track: Dissension (Remix)
 Artist: David Ko
 Duration: '2:03'
-References:
-- track:dissension-original
 URLs:
 - https://homestuck.bandcamp.com/track/dissension-remix-3
 - https://youtu.be/mkPXt83h73w
+Referenced Tracks:
+- track:dissension-original
 ---
 Track: Ohgodwhat
 Artist: Nick Smalley
@@ -75,11 +75,11 @@ Commentary: |-
 Track: Ohgodwhat Remix
 Artist: Michael Guy Bowman
 Duration: '1:05'
-References:
-- track:ohgodwhat
 URLs:
 - https://homestuck.bandcamp.com/track/ohgodwhat-remix-3
 - https://youtu.be/ZuaMHCPnqOc
+Referenced Tracks:
+- track:ohgodwhat
 ---
 Track: Rediscover Fusion
 Artist: BurnedKirby
@@ -91,20 +91,20 @@ URLs:
 Track: Rediscover Fusion Remix
 Artist: Bill Bolin
 Duration: '2:05'
-References:
-- track:rediscover-fusion
 Has URLs: false
+Referenced Tracks:
+- track:rediscover-fusion
 ---
 Track: Explore Remix
 Artist: Gabe Nezovic
 Duration: '2:00'
-References:
-- track:explore
-Samples:
-- track:explore
 URLs:
 - https://homestuck.bandcamp.com/track/explore-remix-3
 - https://youtu.be/06qu70cLPaE
+Referenced Tracks:
+- track:explore
+Sampled Tracks:
+- track:explore
 ---
 Track: Chorale for Jaspers
 Artist: Michael Guy Bowman
@@ -118,8 +118,8 @@ Artist: Michael Guy Bowman
 Contributors:
 - Tavia Morra (vocals)
 Duration: '1:03'
-References:
-- track:chorale-for-jaspers
 URLs:
 - https://homestuck.bandcamp.com/track/pony-chorale-3
 - https://youtu.be/MHsZHFb5FqU
+Referenced Tracks:
+- track:chorale-for-jaspers

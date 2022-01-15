@@ -35,18 +35,18 @@ Commentary: |-
 ---
 Track: Healing June
 Duration: '3:08'
-References:
-- track:doctor
 Has URLs: false
+Referenced Tracks:
+- track:doctor
 ---
 Track: Moondancer
 Duration: '6:01'
-References:
-- Moonsetter
 Has URLs: false
 Commentary: |-
     <i>Cristata:</i>
     Moonsetter still makes me cry every time I listen to it.
+Referenced Tracks:
+- Moonsetter
 ---
 Track: Perfectly Generic
 Duration: '2:36'

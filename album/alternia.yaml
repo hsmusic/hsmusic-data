@@ -2,7 +2,6 @@ Album: Alternia
 Artist: Toby Fox
 Date: July 18, 2010
 Date Added: November 15, 2019
-Track Art Date: October 25, 2017
 Color: '#cc44ff'
 Groups:
 - Toby Fox
@@ -52,6 +51,7 @@ Cover Artists:
 Wallpaper Artists:
 - Cindy Dominguez
 - Andrew Hussie
+Default Track Cover Art Date: October 25, 2017
 ---
 Group: Main album
 ---
@@ -198,8 +198,6 @@ Cover Artists:
 ---
 Track: Walls Covered in Blood
 Duration: '2:00'
-Samples:
-- Mario Paint
 Art Tags:
 - Nepeta
 - Nepeta's lusus
@@ -218,6 +216,8 @@ Commentary: |-
     <img src="media/misc/walls-covered-in-blood.jpg" width="350" height="350">
 Cover Artists:
 - lime-time
+Sampled Tracks:
+- Mario Paint
 ---
 Track: dESPERADO ROCKET CHAIRS,
 Duration: '1:37'
@@ -245,8 +245,6 @@ Cover Artists:
 ---
 Track: Death of the Lusii
 Duration: '2:00'
-References:
-- track:crustacean
 Art Tags:
 - Gamzee
 - Gamzee's lusus
@@ -268,6 +266,8 @@ Commentary: |-
     <img src="media/misc/death-of-the-lusii.jpg" width="350" height="350">
 Cover Artists:
 - Aeritus
+Referenced Tracks:
+- track:crustacean
 ---
 Track: Virgin Orb
 Duration: '2:23'
@@ -293,9 +293,6 @@ Cover Artists:
 - allyssinian
 ---
 Track: The La2t Frontiier
-References:
-- Sunsetter
-- Guile's Theme
 Duration: '1:50'
 Art Tags:
 - Sollux
@@ -321,6 +318,9 @@ Commentary: |-
     <img src="media/misc/the-la2t-frontiier.jpg" width="350" height="350">
 Cover Artists:
 - Kirvia
+Referenced Tracks:
+- Sunsetter
+- Guile's Theme
 ---
 Track: Skaian Summoning
 Duration: '2:22'
@@ -343,8 +343,6 @@ Group: Bonus tracks
 Track: The Thirteenth Hour
 Cover Art Date: July 18, 2010
 Duration: '2:10'
-References:
-- track:sburban-jungle
 URLs:
 - https://homestuck.bandcamp.com/track/the-thirteenth-hour-2
 - https://youtu.be/SixKHx18sqk
@@ -364,6 +362,8 @@ Commentary: |-
     (the track art anthology for Alternia didn't include a fanart for this track.)
 Cover Artists:
 - Homestuck
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Spider's Claw
 Duration: 0:37
@@ -452,8 +452,6 @@ Cover Artists:
 ---
 Track: Walls Covered in Blood DX
 Duration: '2:01'
-References:
-- Walls Covered in Blood
 Art Tags:
 - Nepeta
 - Nepeta's lusus
@@ -467,3 +465,5 @@ Commentary: |-
     <img src="media/misc/walls-covered-in-blood-dx.jpg" width="350" height="350">
 Cover Artists:
 - atissi
+Referenced Tracks:
+- Walls Covered in Blood

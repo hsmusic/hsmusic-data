@@ -24,12 +24,12 @@ URLs:
 ---
 Track: Blue Noir
 Artist: David Ko
-References:
-- track:vagabounce
 Duration: 0:55
 URLs:
 - https://homestuck.bandcamp.com/track/blue-noir-2
 - https://youtu.be/YvMyo3opDOY
+Referenced Tracks:
+- track:vagabounce
 ---
 Track: Dead Shuffle
 Artist: Mark Hadley
@@ -103,8 +103,6 @@ URLs:
 Track: Hauntjam
 Artist: Andrew Huo, Michael Guy Bowman
 Duration: '2:16'
-References:
-- track:haunt
 Art Tags:
 - 'cw: blood'
 URLs:
@@ -113,6 +111,8 @@ URLs:
 Commentary: |-
     <i>Andrew Huo:</i>
     Hauntjam and Hauntjelly are interesting things. They were actually made based on a short fruity loop that The Big Man Andrew did, called haunt.wav or haunt.mp3 or something like that. A jam on his theme, logically, would therefore be called "hauntjam," with the opportunity for naming puns including "hauntjelly." His theme appears mostly unchanged as the bassline for the first part of the pieces. At this point in terms of instrumentation, we were still mostly striving for faithfulness to the canon Midnight Crew "band," as can be seen in <a href="http://www.mspaintadventures.com/extras/ps000018.html">the Extras page</a> wherein the MC fill 'em with midnight (bottom), so Hauntjam employs trombone, string bass, piano, clarinet, and sax (I forget which because I've lost the file and am not a band person, but I think it was alto). From there on, it was fairly straightforward to write a haunting refrain and then solos for each instrument. I will admit I got a little writerblock'd for the second part, which was sort of a brief modulation to the dominant, so it sounds a little strange. But it still has its own little charm, with the almost annoying trill put in for a spooky ghost-like effect. In Hauntjam, Bowman did some good stuff with bringing out moving parts in the first refrain. In Hauntjelly, Xerxes emphasizes the spookiness by changing instruments for more electric organ.
+Referenced Tracks:
+- track:haunt
 ---
 Track: Carbon Nadsat / Cuestick Genius
 Artist: Robert J! Lake
@@ -154,14 +154,14 @@ URLs:
 Track: Joker's Wild
 Artist: Mark Hadley
 Duration: '2:16'
-References:
-- track:harlequin
 URLs:
 - https://homestuck.bandcamp.com/track/jokers-wild-2
 - https://youtu.be/MDaWJUfxFCM
 Commentary: |-
     <i>Mark Hadley:</i>
     When we were writing music for Drawing Dead, I just HAD to make a jazz remix of Harlequin. The song pretty much wrote itself after that. I think if I was going to change anything about it though, I'd have tried to get a live saxophone; the synth sounds a bit off. But then, any of the songs off of Drawing Dead would probably sound amazing by a live band.
+Referenced Tracks:
+- track:harlequin
 ---
 Track: Livin' It Up
 Artist: Gabe Nezovic
@@ -173,19 +173,20 @@ URLs:
 Track: Hauntjelly
 Artist: Andrew Huo, Ian Taylor
 Duration: '2:02'
-References:
-- track:hauntjam
-Samples:
-- track:hauntjam
 Art Tags:
 - 'cw: blood (abstract)'
 URLs:
 - https://homestuck.bandcamp.com/track/hauntjelly-2
 - https://youtu.be/MccD13jZSTU
+Referenced Tracks:
+- track:hauntjam
+Sampled Tracks:
+- track:hauntjam
 ---
 Track: Nightlife (Extended)
 Directory: nightlife-extended-mc-dd
-AKA: track:nightlife-extended
 Artist: Bill Bolin
 Duration: '2:34'
 Has URLs: false
+Also Released As:
+- track:nightlife-extended

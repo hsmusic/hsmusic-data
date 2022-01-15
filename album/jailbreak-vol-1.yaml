@@ -1,7 +1,4 @@
 Album: Jailbreak Vol. 1
-Banner Art:
-- Robert J! Lake
-- Niklink (edits for wiki)
 Banner Dimensions: 1100x180
 Banner Style: |-
     image-rendering: pixelated;
@@ -17,6 +14,9 @@ URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFa8lNfIzETogLpPBnC_ZIDw
 Cover Artists:
 - Robert J! Lake
+Banner Artists:
+- Robert J! Lake
+- Niklink (edits for wiki)
 ---
 Group: Main album
 ---
@@ -86,14 +86,14 @@ Cover Artists:
 Track: Confrontation
 Artist: Andrew Huo
 Duration: '2:06'
-References:
-- track:showtime-original-mix
-- The Beginning of Something Really Excellent
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/confrontation
 - https://youtu.be/IUELbxXmltg
 Cover Artists:
 - Robert J! Lake
+Referenced Tracks:
+- track:showtime-original-mix
+- The Beginning of Something Really Excellent
 ---
 Track: Rising Water (Oh, Shit!)
 Artist: Peter Turner
@@ -143,13 +143,13 @@ Cover Artists:
 Track: Console Thunder
 Artist: Robert J! Lake
 Duration: '2:57'
-References:
-- Arcade Thunder
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/console-thunder
 - https://youtu.be/enuWBwEsBlQ
 Cover Artists:
 - melodiousDiscord
+Referenced Tracks:
+- Arcade Thunder
 ---
 Track: Be the Other Guy
 Artist: James Dever, Perry Sullivan
@@ -163,13 +163,13 @@ Cover Artists:
 Track: Softbit
 Artist: Robert J! Lake
 Duration: '3:32'
-References:
-- track:softbit-original-gfd-please-shut-the-fuckass-mix-by-request-demo-version
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/softbit
 - https://youtu.be/gV45Z5-Dkys
 Cover Artists:
 - Robert J! Lake
+Referenced Tracks:
+- track:softbit-original-gfd-please-shut-the-fuckass-mix-by-request-demo-version
 ---
 Track: Drillgorg
 Artist: Luke Benjamins
@@ -196,14 +196,14 @@ Artist: Nick Smalley
 Contributors:
 - Luke Benjamins
 Duration: '2:22'
-Samples:
-- Meet the Spy
 Lyrics: Your mother
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/retrobution
 - https://youtu.be/uCS_Bz-5ocM
 Cover Artists:
 - Robert J! Lake
+Sampled Tracks:
+- Meet the Spy
 ---
 Track: Game Over
 Directory: game-over-jailbreak
@@ -218,13 +218,13 @@ Cover Artists:
 Track: Is This the End?
 Artist: Robert J! Lake
 Duration: '3:27'
-References:
-- Isn't This "Is This the End?" Again?
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/is-this-the-end
 - https://youtu.be/SIGgQhizLxM
 Cover Artists:
 - Robert J! Lake
+Referenced Tracks:
+- Isn't This "Is This the End?" Again?
 ---
 Track: This is the End
 Artist: Robert J! Lake
@@ -247,12 +247,6 @@ Has Cover Art: false
 Track: A Common Occurrance (Every Night, To Be Exact)
 Artist: Robert J! Lake
 Duration: 0:57
-References:
-- Gust of Heir
-Samples:
-- Meet the Spy
-- Drillgorg
-- Your Bed
 URLs:
 - https://youtu.be/tdTjk-HX2rw
 Lyrics: |-
@@ -277,6 +271,12 @@ Lyrics: |-
 
     I am- your mother- in bed
 Has Cover Art: false
+Referenced Tracks:
+- Gust of Heir
+Sampled Tracks:
+- Meet the Spy
+- Drillgorg
+- Your Bed
 ---
 Track: Useful or Otherwise
 Artist: Robert J! Lake
@@ -288,12 +288,12 @@ Has Cover Art: false
 Track: Dr. Squiddle
 Artist: Andrew Huo
 Duration: 0:48
-References:
-- track:doctor
-- Squiddles!
 URLs:
 - https://youtu.be/lDq9alucoMA
 Has Cover Art: false
+Referenced Tracks:
+- track:doctor
+- Squiddles!
 ---
 Track: Distanced
 Artist: Robert J! Lake
@@ -326,11 +326,11 @@ Has Cover Art: false
 Track: Softbit (Original GFD Please Shut the Fuckass Mix By Request Demo Version)
 Artist: Robert J! Lake
 Duration: '3:24'
-References:
-- Softly
 URLs:
 - https://www.youtube.com/watch?v=GedH5uJhRW4
 Has Cover Art: false
+Referenced Tracks:
+- Softly
 ---
 Track: Audio Commentary Featuring Robert J! Lake, Nick Smalley, Luke "GFD" Benjamins,
     and Erik "Jit" Scheele

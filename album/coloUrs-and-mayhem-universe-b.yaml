@@ -1,7 +1,4 @@
 Album: 'coloUrs and mayhem: Universe B'
-Banner Art:
-- Shelby Cragg
-- Niklink (edits for wiki)
 Banner Dimensions: 1100x180
 Directory: coloUrs-and-mayhem-universe-b
 Date: April 13, 2012
@@ -26,31 +23,28 @@ Cover Artists:
 Wallpaper Artists:
 - Shelby Cragg
 - Niklink (edits for wiki)
+Banner Artists:
+- Shelby Cragg
+- Niklink (edits for wiki)
 ---
 Group: Side 1
 ---
 Track: ~~SIDE 1~~
 Artist: Toby Fox
-References:
-- English
 Duration: 0:08
 Directory: side-1-universe-b
 URLs:
 - https://homestuck.bandcamp.com/track/universe-b-side-1
 - https://youtu.be/ScD8J0igQwU
 Has Cover Art: false
+Referenced Tracks:
+- English
 ---
 Track: Green Ghost
 Artist: Monobrow
 Duration: '5:58'
 Art Tags:
 - John
-References:
-- track:doctor
-- Moonsong
-- Eternal Recurrence
-- A Bell is Tolling
-- Terra's Theme
 URLs:
 - https://homestuck.bandcamp.com/track/green-ghost-2
 - https://youtu.be/nx2CqNp16IA
@@ -62,13 +56,16 @@ Commentary: |-
     Anyway, I remastered this version of the song, and added a few other elements, and instrument balance, per a couple suggestions by Radiation Fox... So you can think of this as more of a Cosmic Surgen v. 0.1...
 Cover Artists:
 - Koba
+Referenced Tracks:
+- track:doctor
+- Moonsong
+- Eternal Recurrence
+- A Bell is Tolling
+- Terra's Theme
 ---
 Track: Orchid Horror
 Artist: David DeCou
 Duration: '4:07'
-References:
-- track:chorale-for-jaspers
-- Black Rose / Green Sun
 Art Tags:
 - Rose
 URLs:
@@ -84,12 +81,13 @@ Commentary: |-
     Black Rose/Green Sun is a great song. I did use the same sort of chord progression that's in there. It shows up in a lot of Homestuck songs though I think.
 Cover Artists:
 - Sukka
+Referenced Tracks:
+- track:chorale-for-jaspers
+- Black Rose / Green Sun
 ---
 Track: Red Disc
 Artist: Nathan H.
 Duration: '2:52'
-References:
-- track:atomyk-ebonpyre
 Art Tags:
 - Dave
 URLs:
@@ -100,14 +98,14 @@ Commentary: |-
     This was the first entry I made for the contest, and likely the one that took me the longest to complete; probably because I was running into walls during transitions while trying to keep whole song congruent. Nonetheless, I think it turned out great. I had a battle between Hephaestus and Dave in mind as I wrote the piece, and took inspiration for it from the first few boss fights in the game Dark Souls.
 Cover Artists:
 - Aurum
+Referenced Tracks:
+- track:atomyk-ebonpyre
 ---
 Track: Blue Atom
 Artist: David Ellis
 Contributors:
 - Malik Refaat (alto saxophone)
 Duration: '4:46'
-References:
-- The Beginning of Something Really Excellent
 Art Tags:
 - Jade
 - Frogs
@@ -120,19 +118,21 @@ Commentary: |-
     Technical note: Sometimes when I think I’ve finished writing something I’ll find that it’s a bit too long and something needs to change, this was one of those times. The sound you hear at 3:53 is the sound of me finding a way to avoid playing an extra intro/verse and tightening up the song a bit. Using almost the same build up heard earlier in the piece and changing the resolution at the end has the added advantage of (hopefully) making you think it’s heading back towards the intro riff until the key shifts in the last bar and the song jumps straight to the final chorus.
 Cover Artists:
 - Petra K.
+Referenced Tracks:
+- The Beginning of Something Really Excellent
 ---
 Group: Side 2
 ---
 Track: ~~SIDE 2~~
 Artist: Toby Fox
 Duration: 0:13
-References:
-- track:side-1-universe-b
 Directory: side-2-universe-b
 URLs:
 - https://homestuck.bandcamp.com/track/universe-b-side-2
 - https://youtu.be/fhaFzwEZ-VI
 Has Cover Art: false
+Referenced Tracks:
+- track:side-1-universe-b
 ---
 Track: Cyan Beast
 Artist: David Ellis
@@ -155,10 +155,6 @@ Cover Artists:
 Track: Pink Cat
 Artist: Ryan Ames
 Duration: '3:52'
-References:
-- track:chorale-for-jaspers
-- track:aggrieve
-- Carefree Action
 Art Tags:
 - Roxy
 - Cats
@@ -182,6 +178,10 @@ Commentary: |-
     Wow I did not expect to type this much. Anyway this song was a blast to make and even if it’s not accepted, I still learned a whole lot! I hope you all enjoy listening to it as much as I enjoyed making it!
 Cover Artists:
 - MissNK
+Referenced Tracks:
+- track:chorale-for-jaspers
+- track:aggrieve
+- Carefree Action
 ---
 Track: Orange Hat
 Artist: Plumegeist
@@ -217,13 +217,13 @@ Group: Additional Mayhem
 Track: ~~ADDITIONAL MAYHEM~~
 Artist: Toby Fox
 Duration: 0:18
-References:
-- Jadesprite
 Directory: additional-mayhem-universe-b
 URLs:
 - https://homestuck.bandcamp.com/track/universe-b-additional-mayhem
 - https://youtu.be/GetfDAZKshg
 Has Cover Art: false
+Referenced Tracks:
+- Jadesprite
 ---
 Track: Squiddle Song
 Artist: Maya Kern
@@ -261,8 +261,6 @@ Cover Artists:
 Track: Pendulum
 Artist: Shandy
 Duration: '3:16'
-References:
-- track:sburban-jungle
 Art Tags:
 - Dave
 - 'cw: blood'
@@ -272,6 +270,8 @@ URLs:
 - https://youtu.be/Mv0zF9BRfOI
 Cover Artists:
 - Rii Abrego
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Pale Rapture
 Artist: The Black Curtain
@@ -287,9 +287,6 @@ Cover Artists:
 Track: Do The Windy Thing
 Artist: Brian Schaefer
 Duration: '2:45'
-References:
-- track:doctor
-- track:showtime-original-mix
 Art Tags:
 - John
 URLs:
@@ -297,12 +294,13 @@ URLs:
 - https://youtu.be/T-CliOV5-sg
 Cover Artists:
 - Emily Blundell
+Referenced Tracks:
+- track:doctor
+- track:showtime-original-mix
 ---
 Track: Pilot Light
 Artist: Thomas Ibarra
 Duration: '2:51'
-References:
-- Flare
 Art Tags:
 - Jade
 URLs:
@@ -310,6 +308,8 @@ URLs:
 - https://youtu.be/05nEUculjxM
 Cover Artists:
 - KIIPPU
+Referenced Tracks:
+- Flare
 ---
 Track: Ohgodcat
 Artist: Eligecos
@@ -366,8 +366,6 @@ Cover Artists:
 Track: Bec Noir
 Artist: Will Kommor
 Duration: '3:17'
-References:
-- Amen, Brother
 Art Tags:
 - Jack Noir
 URLs:
@@ -375,6 +373,8 @@ URLs:
 - https://youtu.be/5V-RpYzKfx8
 Cover Artists:
 - Rem
+Referenced Tracks:
+- Amen, Brother
 ---
 Track: The Vast Glub
 Artist: Kris Flacke
@@ -403,8 +403,6 @@ Cover Artists:
 Track: March of the Batterwitch
 Artist: Marcy Nabors
 Duration: '3:35'
-References:
-- track:chorale-for-jaspers
 Art Tags:
 - The Condesce
 URLs:
@@ -412,6 +410,8 @@ URLs:
 - https://youtu.be/1YyY6v87qsA
 Cover Artists:
 - Dawn Davis
+Referenced Tracks:
+- track:chorale-for-jaspers
 ---
 Track: Coolkid
 Artist: Haunter
@@ -427,10 +427,6 @@ Cover Artists:
 Track: Clockstopper
 Artist: viaSatellite, infiniteKnife
 Duration: '5:42'
-References:
-- track:beatdown-strider-style
-- track:atomyk-ebonpyre
-- track:upward-movement-dave-owns
 Art Tags:
 - Dave
 URLs:
@@ -438,6 +434,10 @@ URLs:
 - https://youtu.be/CO5IN60Nt9E
 Cover Artists:
 - Kurimja
+Referenced Tracks:
+- track:beatdown-strider-style
+- track:atomyk-ebonpyre
+- track:upward-movement-dave-owns
 ---
 Track: Dapper Dueling
 Artist: Max Wright
@@ -522,8 +522,6 @@ Cover Artists:
 Track: Rustless Fall
 Artist: Gabe Stilez
 Duration: '3:32'
-References:
-- track:endless-climb
 Art Tags:
 - Rose
 - Horrorterrors
@@ -532,6 +530,8 @@ URLs:
 - https://youtu.be/YDzxho9uztI
 Cover Artists:
 - Kadi Fedoruk
+Referenced Tracks:
+- track:endless-climb
 ---
 Track: Pipeorgankind
 Artist: James Roach
@@ -541,15 +541,6 @@ Art Tags:
 URLs:
 - https://homestuck.bandcamp.com/track/pipeorgankind-2
 - https://youtu.be/hTpm_sDz62M
-References:
-- track:showtime-original-mix
-- Warhammer of Zillyhoo
-- track:explore
-- Liquid Negrocity
-- track:doctor
-- Lifdoff
-- track:harlequin
-- Toccata and Fugue in D minor
 Commentary: |-
     <i>James Roach:</i>
     As a lot of you know, my track Pipeorgankind was featured in last night's Flash! I used melodies and themes from several talented musicians to create this track, and orchestrated/arranged them for fun! I never thought it would become anything!
@@ -569,3 +560,12 @@ Commentary: |-
     Thanks for all the overwhelming encouragement and support! I wouldn’t be here without you guys!
 Cover Artists:
 - VickyBit
+Referenced Tracks:
+- track:showtime-original-mix
+- Warhammer of Zillyhoo
+- track:explore
+- Liquid Negrocity
+- track:doctor
+- Lifdoff
+- track:harlequin
+- Toccata and Fugue in D minor
