@@ -94,6 +94,8 @@ Content:
     <h3>data changes</h3>
     - added information for separate 'sampling' reference field to many tracks (mainly in [[group:official]], [[group:homestuck-gaiden]], and [[album:lofam5]]), not visible for now until support is implemented
         - some reference information will have appeared to disappear until then as it has been moved to samples
+    - moved [[group:desynced]] and [[album:perfectly-generic-object]] from [[group:beyond]] to [[group:fandom]]
+    - added the individual [[group:psycholonials]] episode albums to [[group:beyond]]
     - fixed incorrect title for [[track:skaian-dreams-remix]]
     - fixed [[track:contention]] not attributing [[group:toby-fox]]
     - fixed [[track:caramelldansen]] not attributing [[artist:caramell]] (thanks, Leo!)
@@ -108,10 +110,16 @@ Content:
     - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
     - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
+<<<<<<< Updated upstream
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
         - fixed transcribed artist commentary not showing up for [[track:frogsong]]
         - fixed YouTube and tumblr links not showing up for artist [[artist:first-turn-fold]]
         - fixed tumblr link not showing up for artist [[artist:thiefofstars]]
+=======
+    - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
+        - added [[La Espero]] and artists [[artist:l-l-zamenhof]] and [[artist:flicien-menu-de-mnil]]
+    - fixed incorrect capitalization for [[album:sburb-ost]]
+>>>>>>> Stashed changes
     - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, Leo!)
     - replaced dead Youtube link to [[track:corridors-of-time]] (thanks, Sgeo!)
     - directory changed for some [[album:jailbreak-vol-1]] content
