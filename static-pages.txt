@@ -90,11 +90,12 @@ Content:
             - added [[track:thin-red-line]] and [[artist:blazblue]] for references
     - added [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]] to [[album:jailbreak-vol-1]]
         - fully transcribed, all 43 minutes of it (thanks Nameless Rumia for the initial transcription!)
+    - added updated lyrics, references contributors, and art tags to [[album:the-baby-is-you]] throughout the album
+        - added [[track:lose-yourself]] and [[artist:eminem]] for references
     - added [[track:haunt]] to [[album:unreleased-tracks]]
     <h3>data changes</h3>
     - added information for separate 'sampling' reference field to many tracks (mainly in [[group:official]], [[group:homestuck-gaiden]], and [[album:lofam5]]), not visible for now until support is implemented
         - some reference information will have appeared to disappear until then as it has been moved to samples
-    - fixed [[album:the-baby-is-you]] with updated lyrics and contributor attributions throughout the album
     - moved [[group:desynced]] and [[album:perfectly-generic-object]] from [[group:beyond]] to [[group:fandom]]
     - added the individual [[group:psycholonials]] episode albums to [[group:beyond]]
     - fixed incorrect title for [[track:skaian-dreams-remix]]
