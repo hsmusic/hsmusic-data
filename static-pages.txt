@@ -117,6 +117,7 @@ Content:
         - fixed Instagram link not showing up for artist [[artist:DSNAKE]]
         - fixed YouTube and tumblr links not showing up for artist [[artist:first-turn-fold]]
         - fixed tumblr link not showing up for artist [[artist:thiefofstars]]
+        - fixed art tag [[tag:carapacians]] having a broken tag color (which messed up the layout of the tag's gallery page and styled links to it as default white instead of the intended light gray)
     - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
         - added [[La Espero]] and artists [[artist:l-l-zamenhof]] and [[artist:flicien-menu-de-mnil]]
     - fixed incorrect capitalization for [[album:sburb-ost]]
