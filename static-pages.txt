@@ -113,7 +113,7 @@ Content:
     - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
-        - fixed transcribed artist commentary not showing up for [[track:frogsong]]
+        - fixed transcribed artist commentary not showing up for [[track:frogsong]] and [[track:schrodingers-harbinger]]
         - fixed YouTube and tumblr links not showing up for artist [[artist:first-turn-fold]]
         - fixed tumblr link not showing up for artist [[artist:thiefofstars]]
     - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
