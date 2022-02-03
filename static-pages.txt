@@ -114,7 +114,7 @@ Content:
     - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
-        - fixed transcribed artist commentary not showing up for [[track:frogsong]]
+        - fixed transcribed artist commentary not showing up for [[track:frogsong]] and [[track:schrodingers-harbinger]]
         - fixed YouTube and tumblr links not showing up for artist [[artist:first-turn-fold]]
         - fixed tumblr link not showing up for artist [[artist:thiefofstars]]
     - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
@@ -124,6 +124,7 @@ Content:
     - replaced dead Youtube link to [[track:corridors-of-time]] and removed dead Youtube link from [[track:planetarium]] (thanks, Sgeo!)
     - directory changed for some [[album:jailbreak-vol-1]] content
     - art tags for [[album:strife]] and [[album:act-7]]'s covers
+    - fixed art tags for [[track:skaian-happy-flight]] and [[track:respit]] (thanks, Celeste!)
     - added art tags for some Hiveswap characters (unused except for [[tag:jude]])
 
     <h2 id="1-sep-2021"><a href="#1-sep-2021">[[date:1 September 2021]]</a></h2>
