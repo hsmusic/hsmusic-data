@@ -214,7 +214,7 @@ Tag: Genesis Frog
 Color: '#06ffc9'
 Tag: Frogs
 ---
-Color: '#c6c6c'
+Color: '#c6c6c6'
 Tag: Carapacians
 ---
 Color: '#ff2106'
@@ -472,40 +472,59 @@ Tag: Hadron Kaleido
 Color: '#a9c500'
 Tag: Shrek
 ---
-CW: alcohol
+Tag: alcohol
+Is CW: true
 ---
-CW: animal death
+Tag: animal death
+Is CW: true
 ---
-CW: arachnid
+Tag: arachnid
+Is CW: true
 ---
-CW: asphyxiation
+Tag: asphyxiation
+Is CW: true
 ---
-CW: asphyxiation (abstract)
+Tag: asphyxiation (abstract)
+Is CW: true
 ---
-CW: blood
+Tag: blood
+Is CW: true
 ---
-CW: blood (abstract)
+Tag: blood (abstract)
+Is CW: true
 ---
-CW: body horror
+Tag: body horror
+Is CW: true
 ---
-CW: body horror (abstract)
+Tag: body horror (abstract)
+Is CW: true
 ---
-CW: cops
+Tag: cops
+Is CW: true
 ---
-CW: corpse
+Tag: corpse
+Is CW: true
 ---
-CW: corpse (abstract)
+Tag: corpse (abstract)
+Is CW: true
 ---
-CW: corpses
+Tag: corpses
+Is CW: true
 ---
-CW: corpses (abstract)
+Tag: corpses (abstract)
+Is CW: true
 ---
-CW: decapitation
+Tag: decapitation
+Is CW: true
 ---
-CW: decapitation (abstract)
+Tag: decapitation (abstract)
+Is CW: true
 ---
-CW: eye horror
+Tag: eye horror
+Is CW: true
 ---
-CW: hanging
+Tag: hanging
+Is CW: true
 ---
-CW: hanging (abstract)
+Tag: hanging (abstract)
+Is CW: true
