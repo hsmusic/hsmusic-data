@@ -112,17 +112,20 @@ Content: |-
     - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
     - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
+    - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
+        - added [[La Espero]] and artists [[artist:l-l-zamenhof]] and [[artist:flicien-menu-de-mnil]]
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
         - fixed artist commentary not showing up for [[track:frogsong]] and [[track:schrodingers-harbinger]]
         - fixed Instagram link not showing up for artist [[artist:DSNAKE]]
         - fixed YouTube and tumblr links not showing up for artist [[artist:first-turn-fold]]
         - fixed tumblr link not showing up for artist [[artist:thiefofstars]]
         - fixed art tag [[tag:carapacians]] having a broken tag color (which messed up the layout of the tag's gallery page and styled links to it as default white instead of the intended light gray)
-    - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
-        - added [[La Espero]] and artists [[artist:l-l-zamenhof]] and [[artist:flicien-menu-de-mnil]]
     - fixed incorrect capitalization for [[album:sburb-ost]]
     - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, Leo!)
-    - replaced dead Youtube link to [[track:corridors-of-time]] and removed dead Youtube link from [[track:planetarium]] (thanks, Sgeo!)
+    - fixed a bunch of dead or broken YouTube track links:
+        - [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle]] (thanks, FF!)
+        - [[track:corridors-of-time]], [[track:planetarium]], [[track:skaian-starstorm]] (thanks, Sgeo!)
+        - [[track:fear-of-the-heavens]] (thanks, Niklink!)
     - directory changed for some [[album:jailbreak-vol-1]] content
     - art tags for [[album:strife]] and [[album:act-7]]'s covers
     - added art tags for some Hiveswap characters (unused except for [[tag:jude]])
