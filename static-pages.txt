@@ -99,8 +99,11 @@ Content:
     - moved [[group:desynced]] and [[album:perfectly-generic-object]] from [[group:beyond]] to [[group:fandom]]
     - added the individual [[group:psycholonials]] episode albums to [[group:beyond]]
     - fixed incorrect title for [[track:skaian-dreams-remix]]
-    - fixed [[track:contention]] not attributing [[group:toby-fox]]
+    - fixed [[track:contention-vol4]] not attributing [[group:toby-fox]]
     - fixed [[track:caramelldansen]] not attributing [[artist:caramell]] (thanks, Leo!)
+    - fixed [[track:red-sucker]] not attributing [[artist:kalibration]] (thanks, cookiefonster!)
+    - fixed [[track:green-lolly]] and [[track:red-sucker]] incorrectly attributing [[artist:james-dever]]
+    - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together]]/[[track:together-ost]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
     - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], and [[track: temporal-shenanigans]]
     - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
     - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
@@ -114,17 +117,19 @@ Content:
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
         - fixed artist commentary not showing up for [[track:frogsong]] and [[track:schrodingers-harbinger]]
-        - fixed Instagram link not showing up for artist [[artist:DSNAKE]]
+        - fixed Instagram link not showing up for artist [[artist:dsnake]]
         - fixed YouTube and tumblr links not showing up for artist [[artist:first-turn-fold]]
         - fixed tumblr link not showing up for artist [[artist:thiefofstars]]
         - fixed art tag [[tag:carapacians]] having a broken tag color (which messed up the layout of the tag's gallery page and styled links to it as default white instead of the intended light gray)
     - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
         - added [[La Espero]] and artists [[artist:l-l-zamenhof]] and [[artist:flicien-menu-de-mnil]]
     - fixed incorrect capitalization for [[album:sburb-ost]]
+    - added Bandcamp links back to [[group:clark-powell]]'s albums: [[album:we-are-all-satellites]], [[album:namesake]], [[album:someday]], and [[album:labyrinths-heart]] (thanks, Celeste!)
     - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, Leo!)
-    - replaced dead Youtube link to [[track:corridors-of-time]] and removed dead Youtube link from [[track:planetarium]] (thanks, Sgeo!)
+    - replaced dead Youtube links to [[track:celestial-fantasia]], [[track:corridors-of-time]], [[track:icirrus-city]], [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle]], and [[track:fear-of-the-heavens]], and removed dead Youtube link from [[track:planetarium]] (thanks, foreverFlummoxed, Sgeo, Celeste!)
     - directory changed for some [[album:jailbreak-vol-1]] content
     - art tags for [[album:strife]] and [[album:act-7]]'s covers
+    - fixed art tags for [[track:skaian-happy-flight]] and [[track:respit]] (thanks, Celeste!)
     - added art tags for some Hiveswap characters (unused except for [[tag:jude]])
 
     <h2 id="1-sep-2021"><a href="#1-sep-2021">[[date:1 September 2021]]</a></h2>
