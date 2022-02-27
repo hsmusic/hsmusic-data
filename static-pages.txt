@@ -80,10 +80,20 @@ Content:
     - added [[album:lofam5]]!
         - new artists: [[artist:c4rl3tt]], [[artist:aradiawithgeese]], [[artist:bakustrider]], [[artist:cloudie]], [[artist:crabaqqle]], [[artist:dromswell]], [[artist:fabricio-podest]], [[artist:flaredragon]], [[artist:j-airshiper]], [[artist:l4vo5]], [[artist:mmueoul]], [[artist:momora]], [[artist:monckat]], [[artist:nagunkgunk]], [[artist:pagingpossum]], [[artist:shwan]], [[artist:subversiveasset]], [[artist:sylvarn]], [[artist:tamajikis]], [[artist:v-6]], [[artist:warxtron]]
             - updated links and names for several artists based on their credits for this album
-        - new [[album:unreleased-tracks|unreleased tracks]] for songs references in the album: [[track:a-very-o-christmas]], [[track:all-alone]], [[track:blankest-stare]], [[track:cascante]], [[track:d-break-the-bow]], [[track:die]], [[track:dwelling-among-the-dream-bubbles]], [[track:eclipse-svert]], [[track:exploring-the-depths-of-sburb]], [[track:five-four-stress]], [[track:flight-of-the-white-wolf]], [[track:gentle-heat]], [[track:in-the-beginning-canwc]], [[track:it-looks-back]], [[track:jittery-optimist]], [[track:madame-controversielle]], [[track:mayorlovania]], [[track:miasmic-decay]], [[track:more-real-than-kraft-mayo]], [[track:saoidfisd]], [[track:slamdown]], [[track:snowfall]], [[track:song-for-rose-lalonde]], [[track:switchback]], [[track:temporal-virtuoso]], [[track:windwielder]]
+        - new [[album:unreleased-tracks|unreleased tracks]] for songs referenced in the album: [[track:a-very-o-christmas]], [[track:all-alone]], [[track:blankest-stare]], [[track:cascante]], [[track:d-break-the-bow]], [[track:die]], [[track:dwelling-among-the-dream-bubbles]], [[track:eclipse-svert]], [[track:exploring-the-depths-of-sburb]], [[track:five-four-stress]], [[track:flight-of-the-white-wolf]], [[track:gentle-heat]], [[track:in-the-beginning-canwc]], [[track:it-looks-back]], [[track:jittery-optimist]], [[track:madame-controversielle]], [[track:mayorlovania]], [[track:miasmic-decay]], [[track:more-real-than-kraft-mayo]], [[track:saoidfisd]], [[track:slamdown]], [[track:snowfall]], [[track:song-for-rose-lalonde]], [[track:switchback]], [[track:temporal-virtuoso]], [[track:windwielder]]
         - new [[album:unreleased-tracks|unreleased non-homestuck tracks]] as well: [[track:boss-mode]], [[track:destroy-them-with-lazers]], [[track:lrad]], [[track:my-sharona]], [[track:no-more-elders]], [[track:plur-police]], [[track:schalas-theme]], [[track:shave-and-a-haircut]], [[track:title-mega-man-3]]
             - new artist entries for these in turn: [[artist:bambosh]], [[artist:braiden-brian]], [[artist:gordian]], [[artist:greentetrahedron]], [[artist:soluslunes]], [[artist:rowyn-berlan]], [[artist:knife-party]], [[artist:mega-man]], [[artist:the-knack]]
         - [[track:gold-mage-playtime-is-over-mix]] is now in [[album:lofam5|LoFaM5]] instead of [[album:unreleased-tracks]]
+    - added all three [[group:tumblrstuck-bent]] albums by [[artist:samm-neiland]]!
+        - added [[album:tumblrstuck-bent-ost-volume-0]]
+        - added [[album:tumblrstuck-bent-ost-volume-1]]
+        - added [[album:tumblrstuck-bent-ost-volume-2]]            
+            - new artists: [[artist:akirata]] and [[artist:apitoxin]]
+    - added [[album:7th-gate-project]] by [[artist:catboss]]!
+    - added [[album:capricious-mistress-single]] and [[album:fuchsia-ruler-single]] by [[artist:kezinox]]!
+        - new artist: [[artist:coffee-and-paperbags]]
+    - added [[album:team-paradox]] by (wait for it) [[artist:team-paradox]]!
+        - new artists: [[artist:mediokrekarapase]], [[artist:sadochist]], [[artist:patrick-gilmore]] (for [[track:when-johnny-comes-marching-home]])
     <h3>other additions</h3>
     - added eight missing bonus tracks to [[album:strife-2]] (thanks, Cello!)
         - [[track:the-king-in-red-beta]], [[track:unite-division-beta]], [[track:arachnofunkia-beta]], [[track:heel-girl-beta]], [[track:daet-with-roze]], [[track:dance-of-thorns-karaoke]], [[track:bound-in-blood-beta]], [[track:duet]]
@@ -92,6 +102,7 @@ Content:
         - fully transcribed, all 43 minutes of it (thanks Nameless Rumia for the initial transcription!)
     - added updated lyrics, references contributors, and art tags to [[album:the-baby-is-you]] throughout the album
         - added [[track:lose-yourself]] and [[artist:eminem]] for references
+    - added [[track:strife]] to [[album:sburb-ost]]
     - added [[track:haunt]] to [[album:unreleased-tracks]]
     <h3>data changes</h3>
     - added information for separate 'sampling' reference field to many tracks (mainly in [[group:official]], [[group:homestuck-gaiden]], and [[album:lofam5]]), not visible for now until support is implemented
@@ -120,6 +131,7 @@ Content:
         - fixed Instagram link not showing up for artist [[artist:dsnake]]
         - fixed YouTube and tumblr links not showing up for artist [[artist:first-turn-fold]]
         - fixed tumblr link not showing up for artist [[artist:thiefofstars]]
+        - fixed references not showing up for [[track:fuchsia-ruler]]
         - fixed art tag [[tag:carapacians]] having a broken tag color (which messed up the layout of the tag's gallery page and styled links to it as default white instead of the intended light gray)
     - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
         - added [[La Espero]] and artists [[artist:l-l-zamenhof]] and [[artist:flicien-menu-de-mnil]]
