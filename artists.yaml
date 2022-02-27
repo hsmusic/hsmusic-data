@@ -503,6 +503,8 @@ URLs:
 - http://endofinfinity.com/
 ---
 Artist: Carla Bravo
+Aliases:
+- Guy
 ---
 Artist: Castlevania
 ---
@@ -1230,8 +1232,6 @@ URLs:
 ---
 Artist: Gunsandwwands
 ---
-Artist: Guy
----
 Artist: HONE
 URLs:
 - https://honesk1.tumblr.com/
@@ -1565,8 +1565,6 @@ URLs:
 - https://kebs.tumblr.com/
 - https://twitter.com/kebbbbs
 ---
-Artist: Kelly Sadwin
----
 Artist: Kelsie Urias
 ---
 Artist: Kera Jones
@@ -1847,10 +1845,6 @@ Artist: M. Aurora Parker
 Artist: M. Schmahl
 URLs:
 - https://brilleg.tumblr.com/
----
-Artist: M. Thomas Harding
-Dead URLs:
-- http://www.iwantyoutofeelthepressure.com/
 ---
 Artist: M.O.O.N.
 URLs:
@@ -2239,6 +2233,10 @@ Artist: Nitrosparxx
 ---
 Artist: Noah Noble
 ---
+Artist: Noel Sadwin
+Aliases:
+- Kelly Sadwin
+---
 Artist: Noelle Stevenson
 URLs:
 - https://twitter.com/Gingerhazing
@@ -2550,6 +2548,14 @@ URLs:
 Artist: Ray McDougall
 ---
 Artist: Rebecca Black
+---
+Artist: Rebecca Harding
+Aliases:
+- M. Thomas Harding
+Dead URLs:
+- http://www.iwantyoutofeelthepressure.com/
+URLs:
+- http://www.honey-crab.com/
 ---
 Artist: Rebecca Peason
 Aliases:
@@ -3068,6 +3074,14 @@ URLs:
 Artist: Taylor Swift
 ---
 Artist: Team Dogfight
+Context Notes: |-
+    Team Dogfight is an informal name for a group of musicians, all of whom have contributed to the Homestuck music scene separately. They are:
+    - [[artist:david-dycus]]
+    - [[artist:willow-ascenzo]]
+    - [[artist:catboss]]
+    - [[artist:dj]]
+    - [[artist:viasatellite]]
+    - [[artist:ian-white]]
 ---
 Artist: Tee-vee
 URLs:
