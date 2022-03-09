@@ -89,11 +89,12 @@ Content: |-
         - added [[album:tumblrstuck-bent-ost-volume-1]]
         - added [[album:tumblrstuck-bent-ost-volume-2]]
             - new artists: [[artist:akirata]] and [[artist:apitoxin]]
-    - added [[album:7th-gate-project]] by [[artist:catboss]]! (thanks, Niklink!)
-    - added [[album:capricious-mistress-single]] and [[album:fuchsia-ruler-single]] by [[artist:kezinox]]! (thanks, Niklink!)
-        - new artist: [[artist:coffee-and-paperbags]]
+    - added [[album:7th-gate-project]] by [[artist:catboss]]! (thanks, Niklink!)    
     - added [[album:team-paradox]] by (wait for it) [[artist:team-paradox]]! (thanks, Niklink!)
         - new artists: [[artist:mediokrekarapase]], [[artist:sadochist]], [[artist:patrick-gilmore]] (for [[track:when-johnny-comes-marching-home]])
+    - added [[album:capricious-mistress-single]] and [[album:fuchsia-ruler-single]] by [[artist:kezinox]]! (thanks, Niklink!)
+        - new artist: [[artist:coffee-and-paperbags]]
+    - added [[album:olive-scribe]] by [[artist:bleed-binary]] (thanks, Niklink!)
     - added [[album:deltarune-ch2-ost]] by [[group:toby-fox]], with some accompanying tweaks: (thanks, leo!)
         - added a bunch of CD/vinyl release bonus tracks to [[album:undertale-soundtrack]]
         - added [[track:gasters-theme-undertale]], now included in reference lists for [[track:gasters-theme]] and [[track:another-noir-extended-void-mix]]
@@ -106,7 +107,7 @@ Content: |-
         - fully transcribed, all 43 minutes of it (thanks Nameless Rumia for the initial transcription!)
     - added updated lyrics, references contributors, and art tags to [[album:the-baby-is-you]] throughout the album
         - added [[track:lose-yourself]] and [[artist:eminem]] for references
-    - added [[track:strife]] to [[album:sburb-ost]]
+    - added [[track:strife]] and booklet commentary to [[album:sburb-ost]]
     - added [[track:haunt]] to [[album:unreleased-tracks]]
     <h3>data changes</h3>
     - added information for separate 'sampling' reference field to many tracks (mainly in [[group:official]], [[group:homestuck-gaiden]], and [[album:lofam5]]), not visible for now until support is implemented
@@ -119,6 +120,14 @@ Content: |-
     - fixed [[track:red-sucker]] not attributing [[artist:kalibration]] (thanks, cookiefonster!)
     - fixed [[track:green-lolly]] and [[track:red-sucker]] incorrectly attributing [[artist:james-dever]]
     - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together]]/[[track:together-ost]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
+    - fixed [[track:a-spirited-conversation]] not attributing [[artist:max-wright]] or [[artist:marcy-nabors]]
+    - fixed [[track:broken-dreams]] not attributing [[artist:max-wright]]
+    - fixed [[track:emerald-icarus]] not attributing [[artist:charles-neudorf]]
+    - fixed [[track:metamorphic-choices]] attributing [[artist:marcy-nabors]] as a co-artist instead of as a contributor
+    - fixed [[track:the-will-to-fight-further]] attributing [[artist:kevin-grant]] instead of [[artist:marcy-nabors]]
+    - fixed [[track:take-flight]] not attributing cover artist [[artist:brad-griffin]]
+    - fixed [[track:born-to-die]] not attributing cover artist [[artist:melodiousdiscord]]
+    - fixed [[artist:carla-bravo]] and [[artist:kate-holden]] having some artist credits under a different name
     - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], and [[track: temporal-shenanigans]]
     - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
     - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
@@ -785,7 +794,7 @@ Content: |-
         - added commentary to [[track:fuchsia-ruler]] and [[track:gold-mage]]
         - added some remastered/remixed released of tracks: [[track:boy-skylark]], [[track:gold-mage-playtime-is-over-mix]], [[track:rags-of-rust]], [[track:teal-wings-and-scales]], and [[track:violet-sea-breeze]]
         - fixed mis-double-crediting...
-            - [[artist:magnum]] for the track art of [[track:olive-scribe]] (it's actually by [[artist:wp]])
+            - [[artist:bleed-binary]] for the track art of [[track:olive-scribe]] (it's actually by [[artist:wp]])
             - [[artist:elisa-mccabe]] for the track art of [[track:emerald-terror]] (it's actually by [[artist:hamsterparade]])
             - [[artist:tristan-scroggins]] for the track art of [[track:phantasmic-youngsters]] (it's actually by [[artist:ari-hunt]])
         - updated the youtube link for [[track:purple-tyrant]] to be the official upload
