@@ -1128,3 +1128,9 @@ Content: |-
     We mostly discuss work-in-progress site updates here, sharing feedback and suggestions before (and after!) releases go online.
     There are a few rules you'll have to read and accept before being let in, and we take moderation seriously - but the server is a pretty chill space in general! The rules are just there to ensure it <i>can</i> be safe and relaxed for everyone.
     (Discord not your style? [[static:feedback|Check our other links!]])
+---
+Name: JS Disabled
+Directory: js-disabled
+Content: |-
+    Sorry, that link won't work unless you're running a web browser that supports relatively modern JavaScript.
+    Please press the back button to get where you were, or [[home:-|head back to the index]].
