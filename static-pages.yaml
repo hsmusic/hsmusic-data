@@ -128,6 +128,8 @@ Content: |-
     - fixed [[track:take-flight]] not attributing cover artist [[artist:brad-griffin]]
     - fixed [[track:born-to-die]] not attributing cover artist [[artist:melodiousdiscord]]
     - fixed [[artist:carla-bravo]] and [[artist:kate-holden]] having some artist credits under a different name
+    - divided previous artist "Lost in History" into two more specific labels, [[artist:unknown-artist]] and [[artist:traditional]] (thanks, Gibus Wearing Brony!)
+        - refined artist credits for some previously "Lost in History" tracks, including [[track:deck-the-halls]], [[track:tempus-adest-floridum]] in [[track:good-king-wenceslas]], [[track:the-star-spangled-banner]], and [[track:wilhelm-scream]]
     - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], and [[track: temporal-shenanigans]]
     - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
     - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
