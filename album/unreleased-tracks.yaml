@@ -1357,7 +1357,7 @@ URLs:
 - https://www.youtube.com/watch?v=jusfjbsO_qY
 Commentary: |-
     <i>Paul Henderson:</i>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jusfjbsO_qY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    (<a href="https://www.youtube.com/watch?v=jusfjbsO_qY">Original video!</a>)
 ---
 Track: Homestuck Title Screen
 Artists:
@@ -3425,6 +3425,14 @@ Duration: '2:00'
 URLs:
 - https://www.youtube.com/watch?v=wz_NK5HgR6Q
 ---
+Track: Story of Tonight
+Artists:
+- 'Hamilton: An American Musical'
+- Lin-Manuel Miranda
+Duration: '1:00'
+URLs:
+- https://www.youtube.com/watch?v=Lsbx9MBFAYM
+---
 Track: Stronger Than You
 Artists:
 - Steven Universe
@@ -3697,15 +3705,6 @@ Artists:
 Duration: '3:00'
 URLs:
 - https://www.youtube.com/watch?v=JIZ12EQ2SFg
----
-Track: Tomorrow There'll Be More Of Us
-Directory: tomorrow-therell-be-more-of-us-hamilton
-Artists:
-- 'Hamilton: An American Musical'
-- Lin-Manuel Miranda
-Duration: '1:00'
-URLs:
-- https://www.youtube.com/watch?v=Lsbx9MBFAYM
 ---
 Track: Toreador Song
 Artists:

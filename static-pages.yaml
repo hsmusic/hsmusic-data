@@ -163,6 +163,7 @@ Content: |-
     - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
     - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
+    - fixed [[track:story-of-tonight]] being named "Tomorrow There'll Be More Of Us" (thanks, Celeste!)
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
         - fixed artist commentary not showing up for [[track:frogsong]] and [[track:schrodingers-harbinger]]
         - fixed Instagram link not showing up for artist [[artist:dsnake]]
