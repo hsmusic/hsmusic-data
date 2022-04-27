@@ -1,3 +1,44 @@
+Name: A Preview Draws Near...
+Directory: a-preview-draws-near
+Date: April 13, 2022
+Content: |-
+    What's this!? An update to HSMusic.wiki after <em>hundreds of years?</em> One you can visit <em>right now!?</em>
+    <s><a href="https://hsmusic.wiki/preview-en/">Click here to check out an actively-updating preview of the work-in-progress coming update!</a> (More details in the news entry beyond this link!)</s>
+    <strong>That's right, you're viewing it now!</strong> Details beyond the split!
+    <hr class="split">
+    Hi there, and happy 4/13!
+    A bunch of awesome folk in the community Discord server and I have been working on an update for the Homestuck Music Wiki over the last four months or so. It turns out the finalization I talked about last entry ended up being more of a hiatus - a shift in how updates are being handled and created, to something less particularly scheduled and more "releases will happen when they're done and ready".
+    This update in particular has been (and continues to be!) a huge collaborative effort, even moreso than previous releases. Since today isn't quite marking the release of the update yet (and this is a relatively last-minute news entry LOL), I won't get into all the details yet, but please feel welcomed to [[static:changelog|have a look at the changelog]] and explore from there - everyone is credited directly in there.
+    With the main release I'll have a much more thorough news entry, but I want to give thanks to everyone who's contributed to this update now too:
+    - Niklink (<em>loads</em> of data entry resulting in a whole bunch of new albums on the wiki, finding tons of obscure and missed albums not yet on the wiki, offering ideas and feedback, spotting data errors and many code bugs, and politely wrangling me to Make It Hapen)
+    - koba (putting together data for albums from [[group:canmt]] in a spreadsheet, including all-new track reference lists, which is gradually getting the full music wiki album treatment)
+    - leo (doing the initial data for [[album:deltarune-ch2-ost]] and adding other goodies under [[group:undertale-and-deltarune]], and spotting data errors)
+    - gio (convincing me to make a better data format for the wiki and writing the txt -&gt; YAML converter for it, which lead to a Lot of data processing changes and helped bring to light lots of miscellaneous data errors across the wiki)
+    - Celeste (initial new setting/locale art tags for all track art, tags for [[group:oceanfalls]], data fixes)
+    - Cello (spotting data errors and missing tracks under [[album:strife-2]])
+    - cookiefonster (spotting data errors)
+    - Comfy (spotting a malformed link in commentary)
+    - deesoff (art tag feedback)
+    - FF (specific artist data for tracks from video games and other franchises)
+    - Gibus Wearing Brony (suggesting improvements to the "Lost in History" pseudo-artist and spotting data errors)
+    - Makin (art tag feedback and <a href="https://notabug.org/hsmusic/hsmusic-data/issues/64">exciting revelations</a>)
+    - megatti (art tag feedback)
+    - nanaian (spotting a broken code repo link)
+    - nuclear333 (art tags for [[album:oceanfalls-vol-3]] which I didn't get around to adding til now!)
+    - Sgeo (spotting data errors)
+    ...And probably at least a few others who I missed here! Extra thanks to everyone who offered feedback or reported issues, or was just generally active and hanging around the [[static:discord|HSMusic community Discord server]], which is the main place where we've been putting together this update.
+    I don't have a release date planned for the update yet, but we're quite close to complete our checklist of things-to-do-first, so it's most likely coming sooner rather than later. Again, have a fun time exploring what we've got so far!
+    <hr>
+    This is a preview build of the site, so what you're looking at is in active development - meaning there are probably still bugs, data errors, and occasionally incomplete things across the site, but also that this preview build will continue to have updates added to it here online, until the main release. I usually try to keep on-site blog posts for major wiki announcements, so if you want to keep updated with additions to the preview, head over to the #devblog channel in the wiki Discord server!
+    Since this update has involved a pretty major data rewrite, there are likely still bugs, so please feel free to <b>report any errors, feedback, or suggestions</b> through our old-and-new channels:
+    - <b>#hsmusic-misc [[static:discord|Discord]] channel:</b> General place for wiki discussion!
+    - <b>#issuefication-zone [[static:discord|Discord]] channel:</b> Simple little channel for quickly filing issues (mostly data fixes and what-not).
+    - <b>hsmusic-data <a href="https://notabug.org/hsmusic/hsmusic-data/issues">issue tracker</a>:</b> Data errors and new additions, especially anything missing from current albums or areas on the wiki, but also completely new additions too!
+    - <b>hsmusic-wiki <a href="https://notabug.org/hsmusic/hsmusic-wiki">issue tracker</a>:</b> Bug reports and suggestions to improve existing features or add totally new ones to the actual wiki codebase!
+    If you aren't familiar with issue trackers or aren't interested in registering for an account on <a href="https://notabug.org/about">NotABug</a> (the main host for our issue trackers and code/data repositories), the Discord is always open and welcomes feedback and reports there, too - especially in our new dedicated #issuefication-zone channel!
+    Thanks for checking out the update, and for all the feedback and support, as ever!
+    <i>~ Quasar Nebula</i>
+---
 Name: Wiki Finalization
 Directory: wiki-finalization
 Date: July 7, 2021

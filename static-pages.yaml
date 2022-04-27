@@ -74,10 +74,17 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="12-jun-2077" class="major-release"><a href="#12-jun-2077">[[date:12 June 2077]] - (Preview changelog!)</a></h2>
     <h3>site changes</h3>
     - (nebula writes about all the site changes here)
+    - "new" [[listing:albums/by-date-added|Albums - by Date Added]] listing, which has actually existed since [[news-entry:the-my-ex-wife-is-a-real-bitch-update|May 2021]], but was previously somehow at <a href="https://notabug.org/hsmusic/hsmusic-wiki/issues/53">a typo'd path</a> and wasn't accessible from the listing index
     <h3>albums</h3>
-    - added [[album:lofam5]]! (thanks, Niklink!)
+    - <b>album addition credits:</b>
+        - thanks to koba for putting together a huge spreadsheet of album data from [[group:canmt]] (including all-new track reference lists)
+        - thanks to leo for entering the initial album data for [[album:deltarune-ch2-ost]], plus other additions under [[group:undertale-and-deltarune]]
+        - thanks to Niklink for filling out the album data for pretty much every other album listed below, and going to much-commendable effort to catalogue <a href="https://docs.google.com/spreadsheets/d/1TKeZd4dwk-PfE2FQs-nD-D7Nam48P1JlsPkM8I4F2n8/edit#gid=43393414">a master list of over 300 albums (and singles)</a> from the Homestuck fandom that are hosted on Bandcamp
+        - thanks to everyone who shared missed album media and reported data errors, listed later in the "other additions" and "data changes" section!
+    - added [[album:lofam5]]!
         - new artists: [[artist:c4rl3tt]], [[artist:aradiawithgeese]], [[artist:bakustrider]], [[artist:cloudie]], [[artist:crabaqqle]], [[artist:dromswell]], [[artist:fabricio-podest]], [[artist:flaredragon]], [[artist:j-airshiper]], [[artist:l4vo5]], [[artist:mmueoul]], [[artist:momora]], [[artist:monckat]], [[artist:nagunkgunk]], [[artist:pagingpossum]], [[artist:shwan]], [[artist:subversiveasset]], [[artist:sylvarn]], [[artist:tamajikis]], [[artist:v-6]], [[artist:warxtron]]
             - updated links and names for several artists based on their credits for this album
         - new [[album:unreleased-tracks|unreleased tracks]] for songs referenced in the album: [[track:a-very-o-christmas]], [[track:all-alone]], [[track:blankest-stare]], [[track:cascante]], [[track:d-break-the-bow]], [[track:die]], [[track:dwelling-among-the-dream-bubbles]], [[track:eclipse-svert]], [[track:exploring-the-depths-of-sburb]], [[track:five-four-stress]], [[track:flight-of-the-white-wolf]], [[track:gentle-heat]], [[track:in-the-beginning-canwc]], [[track:it-looks-back]], [[track:jittery-optimist]], [[track:madame-controversielle]], [[track:mayorlovania]], [[track:miasmic-decay]], [[track:more-real-than-kraft-mayo]], [[track:saoidfisd]], [[track:slamdown]], [[track:snowfall]], [[track:song-for-rose-lalonde]], [[track:switchback]], [[track:temporal-virtuoso]], [[track:windwielder]]
@@ -85,7 +92,7 @@ Content: |-
             - new artist entries for these in turn: [[artist:bambosh]], [[artist:braiden-brian]], [[artist:gordian]], [[artist:greentetrahedron]], [[artist:soluslunes]], [[artist:rowyn-berlan]], [[artist:knife-party]], [[artist:mega-man]], [[artist:the-knack]]
         - [[track:gold-mage-playtime-is-over-mix]] is now in [[album:lofam5|LoFaM5]] instead of [[album:unreleased-tracks]]
     - added [[album:sburb-ost-bonus-dlc]] by [[artist:brad-griffin]]!
-    - added all three [[group:tumblrstuck-bent]] albums by [[artist:samm-neiland]]! (thanks, Niklink!)
+    - added all three [[group:tumblrstuck-bent]] albums by [[artist:samm-neiland]]!
         - added [[album:tumblrstuck-bent-ost-volume-0]]
         - added [[album:tumblrstuck-bent-ost-volume-1]]
         - added [[album:tumblrstuck-bent-ost-volume-2]]
@@ -97,25 +104,26 @@ Content: |-
         - new [[album:unreleased-tracks|unreleased non-homestuck tracks]]: [[track:bon-voyage-amigo]], [[track:bowmans-credit-score]] (can you guess what it is?), [[track:game-over-bootleg]], [[track:fergalicious]], [[track:fur-elise]]
             - new artists for these: [[artist:ludwig-van-beethoven]], [[artist:felix-the-cat]], [[artist:fergie]]
         - many new (and cool) art tags, check the end of this changelog for details
-    - added [[album:deltarune-ch2-ost]] by [[group:toby-fox]], with some accompanying tweaks: (thanks, leo!)
+    - added [[album:deltarune-ch2-ost]] by [[group:toby-fox]], with some accompanying tweaks:
         - added a bunch of CD/vinyl release bonus tracks to [[album:undertale-soundtrack]]
         - added [[track:gasters-theme-undertale]], now included in reference lists for [[track:gasters-theme]] and [[track:another-noir-extended-void-mix]]
         - new artists: [[artist:coda]], [[artist:flashygoodness]], [[artist:lena-raine]], and [[artist:phoenix-wright]] (somehow)
-    - added [[album:heinoustuck-vol-1]]! (thanks, Niklink!)
+    - added [[album:heinoustuck-vol-1]]!
         - new artists: [[artist:ainsil]], [[artist:amanda-singleton]], [[artist:artsekey]], [[artist:aswfs]], [[artist:audren]], [[artist:darkhakao]], [[artist:eridamnit]] [[artist:heinousdave]], [[artist:hexvertigo]], [[artist:karelianarmy]], [[artist:kikischeese]], [[artist:nicole-feltz]], [[artist:raptortier]], [[artist:sarcastic-fringehead]], [[artist:sticler]], [[artist:yorsh]]
-    - added [[album:7th-gate-project]] by [[artist:catboss]]! (thanks, Niklink!)
-    - added [[album:glitchstuck-volume-1]] by new artist (yep) [[artist:glitchstuck]]! (thanks, Niklink!)
-    - added [[album:team-paradox]] by new artist (wait for it) [[artist:team-paradox]]! (thanks, Niklink!)
+    - added [[album:7th-gate-project]] by [[artist:catboss]]!
+    - added [[album:glitchstuck-volume-1]] by new artist (yep) [[artist:glitchstuck]]!
+    - added [[album:team-paradox]] by new artist (wait for it) [[artist:team-paradox]]!
         - new artists: [[artist:mediokrekarapase]], [[artist:sadochist]], [[artist:patrick-gilmore]] (for [[track:when-johnny-comes-marching-home]])
-    - added [[album:play-the-rain]] by [[artist:lark-mordancy]]! (thanks, Niklink!)
-    - added [[album:nice-wizards-electronic-extravaganza]] by new artist [[artist:nice-wizard]]!(thanks, Niklink!)
-    - added [[album:homestuck-for-orchestra-ep]] by new artist [[artist:walt-ribeiro]]! (thanks, Niklink!)
-    - added [[album:homestuck-swagazaki]] by new artist [[artist:swagazaki]]! (thanks, Niklink!)
-    - added [[album:capricious-mistress-single]] and [[album:fuchsia-ruler-single]] by [[artist:kezinox]]! (thanks, Niklink!)
+    - added [[album:play-the-rain]] by [[artist:lark-mordancy]]!
+    - added [[album:nice-wizards-electronic-extravaganza]] by new artist [[artist:nice-wizard]]!
+    - added [[album:homestuck-for-orchestra-ep]] by new artist [[artist:walt-ribeiro]]!
+    - added [[album:heaven-sent]] and [[album:homestuck-swagazaki]] by new artist [[artist:swagazaki]]!
+        - new [[album:unreleased-tracks|unreleased non-homestuck track]]: [[track:toxic-caves]] by new artist [[artist:howard-drossin]]
+    - added [[album:capricious-mistress-single]] and [[album:fuchsia-ruler-single]] by [[artist:kezinox]]!
         - new artist: [[artist:coffee-and-paperbags]]
-    - added [[album:olive-scribe]] by [[artist:bleed-binary]] (thanks, Niklink!)
-    - added [[album:rust-apocalypse-anniversary-remaster]] by [[artist:willow-ascenzo]]! (thanks, Niklink!)
-    - added [[album:ophiuchus-full-suite]] by [[artist:warxtron]] (thanks, Niklink!)
+    - added [[album:olive-scribe]] by [[artist:bleed-binary]]
+    - added [[album:rust-apocalypse-anniversary-remaster]] by [[artist:willow-ascenzo]]!
+    - added [[album:ophiuchus-full-suite]] by [[artist:warxtron]]
     <h3>other additions</h3>
     - added eight missing bonus tracks to [[album:strife-2]] (thanks, Cello!)
         - [[track:the-king-in-red-beta]], [[track:unite-division-beta]], [[track:arachnofunkia-beta]], [[track:heel-girl-beta]], [[track:daet-with-roze]], [[track:dance-of-thorns-karaoke]], [[track:bound-in-blood-beta]], [[track:duet]]
@@ -171,6 +179,7 @@ Content: |-
         - fixed references not showing up for [[track:fuchsia-ruler]]
         - fixed art tag [[tag:carapacians]] having a broken tag color (which messed up the layout of the tag's gallery page and styled links to it as default white instead of the intended light gray)
     - fixed broken media link in [[track:jane-dargason]]'s commentary (thanks, Comfy!)
+    - fixed pronouns in commentary for [[track:stress]] (thanks, Comfy!)
     - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
         - added [[La Espero]] and artists [[artist:l-l-zamenhof]] and [[artist:flicien-menu-de-mnil]]
     - fixed incorrect capitalization for [[album:sburb-ost]]
@@ -181,6 +190,7 @@ Content: |-
     - added Youtube embeds for relevant videos to [[album:homestuck-vol-10]] and [[track:fly]] (thanks, Niklink!)
     - directory changed for some [[album:jailbreak-vol-1]] content
     - fixed broken code repository link in About & Credit page (thanks, nanaian!)
+    - misc artist data fixes (thanks, MT Argentum!)
     - loads of art tag additions and fixes:
         - added hundreds of art tags to all albums under [[group:official]] and [[group:fandom]], including many new setting / location tags
             - new setting tags: [[tag:alternia]], [[tag:battlefield]], [[tag:beforus]], [[tag:can-town]], [[tag:dark-carnival]], [[tag:deltritus]], [[tag:derse]], [[tag:dream-bubbles]], [[tag:earth]], [[tag:felt-manor]], [[tag:frog-temple]], [[tag:ruined-earth]], [[tag:the-theseus]], [[tag:lobaf]], [[tag:locah]], [[tag:locas]], [[tag:lodag]], [[tag:lofaf]], [[tag:lofam]], [[tag:lohac]], [[tag:lolar]], [[tag:lolcat]], [[tag:lomat]], [[tag:lomax]], [[tag:lopah]], [[tag:loraf]], [[tag:lotak]], [[tag:lotam]], [[tag:lopan]], [[tag:loqam]], [[tag:losaz]], [[tag:lotaf]], [[tag:lowaa]], [[tag:lowas]], [[tag:meteor]], [[tag:prospit]], [[tag:skaia]], [[tag:veil]]
