@@ -9,8 +9,6 @@ URLs:
 - https://www.youtube.com/playlist?list=PLy5UGIMKOXpMJhJ_NDnOG3_3kzoa48HPM
 Cover Artists:
 - Tauhid Bondia
-Default Track Cover Artists:
-- Homestuck
 Color: '#e83240'
 Groups:
 - Tensei
@@ -28,6 +26,8 @@ URLs:
 - https://youtu.be/OxHcK4AJFmw
 ---
 Track: Heir Conditioning
+Art Tags:
+- John
 Duration: '3:53'
 URLs:
 - https://tenseimusic.bandcamp.com/track/heir-conditioning
@@ -38,6 +38,8 @@ Referenced Tracks:
 - Penumbra Phantasm
 ---
 Track: Dance of Thorns
+Art Tags:
+- Rose
 Duration: '4:01'
 URLs:
 - https://tenseimusic.bandcamp.com/track/dance-of-thorns
@@ -49,6 +51,9 @@ Referenced Tracks:
 - Recruitment Theme
 ---
 Track: Time on My Side
+Art Tags:
+- Dave
+- LoHaC
 Duration: '3:28'
 URLs:
 - https://tenseimusic.bandcamp.com/track/time-on-my-side
@@ -75,6 +80,8 @@ Commentary: |-
     That aside, obviously stuff from The Prodigy’s Fat of the Land album bears some resemblance as well, especially with the cheesy bassline. I know that a few Prodigy songs have been used in the otherwise kinda shitty Charlie’s Angels movies whenever shit was about to go down, and that’s really the kind of vibe I was going for as well.
 ---
 Track: Atomic Bonsai
+Art Tags:
+- Jade
 Duration: '4:20'
 URLs:
 - https://tenseimusic.bandcamp.com/track/atomic-bonsai
@@ -85,6 +92,11 @@ Referenced Tracks:
 - The Decisive Battle
 ---
 Track: Knife's Edge
+Art Tags:
+- Jack Noir
+- Davesprite
+- Dave's bro
+- LoWaS
 Duration: '4:05'
 URLs:
 - https://tenseimusic.bandcamp.com/track/knifes-edge
@@ -96,8 +108,8 @@ Referenced Tracks:
 Group: Bonus tracks
 ---
 Track: Make a Wish
+Has Cover Art: false
 Duration: '1:32'
 URLs:
 - https://tenseimusic.bandcamp.com/track/make-a-wish
 - https://youtu.be/P0nogEQf3BI
-Has Cover Art: false
