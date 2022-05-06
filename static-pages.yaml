@@ -143,7 +143,7 @@ Content: |-
     - added updated lyrics, references contributors, and art tags to [[album:the-baby-is-you]] throughout the album
         - added [[track:lose-yourself]] and [[artist:eminem]] for references
     - added [[track:strife]] and booklet commentary to [[album:sburb-ost]]
-    - added [[track:haunt]] to [[album:unreleased-tracks]]
+    - added [[track:haunt]] and [[track:mother-malcolm-brown]] to [[album:unreleased-tracks]]
     <h3>data changes</h3>
     - added information for separate 'sampling' reference field to many tracks (mainly in [[group:official]], [[group:homestuck-gaiden]], and [[album:lofam5]]), not visible for now until support is implemented
         - some reference information will have appeared to disappear until then as it has been moved to samples
@@ -155,6 +155,7 @@ Content: |-
     - fixed [[track:red-sucker]] not attributing [[artist:kalibration]] (thanks, cookiefonster!)
     - fixed [[track:green-lolly]] and [[track:red-sucker]] incorrectly attributing [[artist:james-dever]]
     - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together]]/[[track:together-ost]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
+    - fixed [[track:oh-god-christmas]] and [[track:a-very-special-time]] not attributing [[artist:robert-j-lake]] (thanks, Makin!)
     - fixed [[track:a-spirited-conversation]] not attributing [[artist:max-wright]] or [[artist:marcy-nabors]]
     - fixed [[track:broken-dreams]] not attributing [[artist:max-wright]]
     - fixed [[track:emerald-icarus]] not attributing [[artist:charles-neudorf]]
@@ -179,6 +180,8 @@ Content: |-
     - fixed [[Amen, Brother]] not being listed in reference list for [[Airtime]] (thanks, Gibus Wearing Brony!)
     - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
     - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
+    - fixed [[track:lilith-in-starlight]] referencing [[track:mother]] by [[artist:erik-scheele]] instead of [[track:mother-malcolm-brown]] by [[artist:malcolm-brown]]
+    - fixed [[track:typheus]] not being listed in reference list for [[track:heir-of-grief]]
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
     - fixed [[track:story-of-tonight]] being named "Tomorrow There'll Be More Of Us" (thanks, Celeste!)
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
@@ -199,6 +202,7 @@ Content: |-
     - replaced dead Youtube links to [[track:celestial-fantasia]], [[track:corridors-of-time]], [[track:icirrus-city]], [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle]], [[track:fear-of-the-heavens]], all tracks from [[artist:earthbound]], and removed dead Youtube link from [[track:planetarium]] (thanks, foreverFlummoxed, Sgeo, Celeste!)
     - added Youtube embeds for relevant videos to [[album:homestuck-vol-10]] and [[track:fly]] (thanks, Niklink!)
     - added listen links to [[artist:bill-bolin]]'s tracks on the official Homestuck albums (thanks, Niklink!)
+    - fixed wrong Youtube link for [[track:virgin-orb]] (thanks, Sgeo!)
     - directory changed for some [[album:jailbreak-vol-1]] content
     - fixed broken code repository link in About & Credit page (thanks, nanaian!)
     - misc artist data fixes (thanks, MT Argentum!)
