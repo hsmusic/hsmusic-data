@@ -41,7 +41,8 @@ Track: Mutiny
 Artists:
 - Bill Bolin
 Duration: '2:59'
-Has URLs: false
+URLs:
+- https://archive.org/download/exile-pinkushion/03%20Mutiny.mp3
 ---
 Track: Carefree Victory
 Artists:
@@ -62,7 +63,8 @@ Track: Guardian V2
 Artists:
 - Bill Bolin
 Duration: '1:20'
-Has URLs: false
+URLs:
+- https://archive.org/download/exile-pinkushion/06%20Guardian%20V2edeux.mp3
 Referenced Tracks:
 - track:guardian
 ---
@@ -70,9 +72,13 @@ Track: Contention
 Directory: contention-vol4
 Artists:
 - Bill Bolin
-- Toby Fox
+Contributors:
+- Toby Fox (goat bleat)
 Duration: '2:28'
-Has URLs: false
+URLs:
+- https://archive.org/download/exile-pinkushion/02%20Contention.mp3
+Sampled Tracks:
+- All Purpose Pygmy Goat Bleat (https://www.goats4h.com/GoatSounds.html)
 ---
 Track: Ballad of Awakening
 Artists:
