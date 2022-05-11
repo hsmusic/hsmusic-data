@@ -172,7 +172,7 @@ Content: |-
     - fixed [[track:the-will-to-fight-further]] attributing [[artist:kevin-grant]] instead of [[artist:marcy-nabors]]
     - fixed [[track:take-flight]] not attributing cover artist [[artist:brad-griffin]]
     - fixed [[track:born-to-die]] not attributing cover artist [[artist:melodiousdiscord]]
-    - fixed [[track:robert-jailbreak]] not attributing [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]] (and added lyrics) (thanks, Celeste & Niklink!)
+    - fixed [[track:well-be-right-back]] not attributing [[artist:braiden-brian]] (thanks, Celeste!)
     - fixed [[artist:carla-bravo]] and [[artist:kate-holden]] having some artist credits under a different name
     - divided previous artist "Lost in History" into two more specific labels, [[artist:unknown-artist]] and [[artist:traditional]] (thanks, Gibus Wearing Brony!)
         - refined artist credits for some previously "Lost in History" tracks, including [[track:deck-the-halls]], [[track:tempus-adest-floridum]] in [[track:good-king-wenceslas]], and [[track:the-star-spangled-banner]]
@@ -193,7 +193,8 @@ Content: |-
     - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
     - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
     - fixed [[track:lilith-in-starlight]] referencing [[track:mother]] by [[artist:erik-scheele]] instead of [[track:mother-malcolm-brown]] by [[artist:malcolm-brown]]
-    - fixed [[track:typheus]] not being listed in reference list for [[track:heir-of-grief]]
+    - fixed [[track:typheus]] not being listed in the reference list for [[track:heir-of-grief]]
+    - fixed [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]] not being listed in the reference list for [[track:robert-jailbreak]] (and added lyrics) (thanks, Celeste & Niklink!)   
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
     - fixed [[track:story-of-tonight]] being named "Tomorrow There'll Be More Of Us" (thanks, Celeste!)
     - fixed [[track:gay-love-song-for-four-cellos]] not being marked as the original release for [[track:love-song]]
@@ -222,18 +223,19 @@ Content: |-
     - loads of art tag additions and fixes:
         - added hundreds of art tags to all albums under [[group:official]] and [[group:fandom]], including many new setting / location tags
             - new setting tags: [[tag:alternia]], [[tag:battlefield]], [[tag:beforus]], [[tag:can-town]], [[tag:dark-carnival]], [[tag:deltritus]], [[tag:derse]], [[tag:dream-bubbles]], [[tag:earth]], [[tag:felt-manor]], [[tag:frog-temple]], [[tag:ruined-earth]], [[tag:the-theseus]], [[tag:lobaf]], [[tag:locah]], [[tag:locas]], [[tag:lodag]], [[tag:lofaf]], [[tag:lofam]], [[tag:lohac]], [[tag:lolar]], [[tag:lolcat]], [[tag:lomat]], [[tag:lomax]], [[tag:lopah]], [[tag:loraf]], [[tag:lotak]], [[tag:lotam]], [[tag:lopan]], [[tag:loqam]], [[tag:losaz]], [[tag:lotaf]], [[tag:lowaa]], [[tag:lowas]], [[tag:meteor]], [[tag:prospit]], [[tag:skaia]], [[tag:veil]]
-            - new other tags: [[tag:jude]], [[tag:sweet-bro]], [[tag:hella-jeff]], [[tag:bees]], [[tag:birds]], [[tag:diemen]], [[tag:gate]], [[tag:homosuck]], [[tag:horses]], [[tag:imperial-drones]], [[tag:june]], [[tag:sans]], [[tag:kates-dad-desynced]], [[tag:lotus]], [[tag:skyllas-lusus]], [[tag:tumor]]
+            - new other tags: [[tag:jude]], [[tag:sweet-bro]], [[tag:hella-jeff]], [[tag:problem-sleuth]], [[tag:ace-dick]], [[tag:pickle-inspector]], [[tag:bees]], [[tag:birds]], [[tag:diemen]], [[tag:gate]], [[tag:homosuck]], [[tag:horses]], [[tag:imperial-drones]], [[tag:june]], [[tag:sans]], [[tag:lotus]], [[tag:skyllas-lusus]], [[tag:tumor]]
             - new CaNWC tags: [[tag:jhon]], [[tag:dabe]], [[tag:jaed]], [[tag:dadd]], [[tag:beq]], [[tag:hecka-jef]], [[tag:swet-bro]], [[tag:germy]], [[tag:rubs-juice]], [[tag:hrates-bocars]], [[tag:dacronian-dignity]] (thanks, Niklink!)
+            - new Desynced tags: [[tag:kate-desynced]], [[tag:kates-dad-desynced]], [[tag:evan-desynced]], [[tag:evans-mum-desynced]], [[tag:momo-desynced]], [[tag:josh-desynced]], [[tag:cs-desynced]], [[tag:lee-desynced]], [[tag:ananke-desynced]], [[tag:her-desynced]], [[tag:masky-desynced]], [[tag:gaea-desynced]], [[tag:skaia-desynced]] (thanks, Celeste!)
             - new Heinoustuck tags: [[tag:john-heinoustuck]], [[tag:rose-heinoustuck]], [[tag:dave-heinoustuck]], [[tag:jade-heinoustuck]]
+            - new Oceanfalls tags: [[tag:aria-oceanfalls]], [[tag:corona-oceanfalls]], [[tag:five-oceanfalls]], [[tag:kaji-oceanfalls]], [[tag:kotori-oceanfalls]], [[tag:lune-oceanfalls]], [[tag:meimona-oceanfalls]], [[tag:nino-oceanfalls]], [[tag:onyx-oceanfalls]], [[tag:reed-oceanfalls]], [[tag:ruit-oceanfalls]], [[tag:ruta-oceanfalls]], [[tag:selene-oceanfalls]], [[tag:serena-oceanfalls]], [[tag:solis-oceanfalls]], [[tag:suvillan-oceanfalls]]
             - removed Midnight Crew tag and replaced with individual character tags
             - plus miscellaneous fixes and additions for existing tags in these albums
             - huge thanks to Celeste for doing the initial pass of all art for setting tags, and everyone who shared feedback in the #art-tag-review [[static:discord|Discord]] channel, including Cello, deesoff, foreverFlummoxed, Geese, leo homestuck, Makin, megatti, and Niklink!
+        - added art tags for all [[group:desynced]] albums (thanks, Celeste!)
         - added art tags for all [[group:oceanfalls]] albums:
-            - [[album:oceanfalls-vol-1]] (thanks, Celeste!)
-            - [[album:oceanfalls-vol-2]] (thanks, Celeste!)
-            - [[album:contritum]]
-            - [[album:oceanfalls-vol-3]] (thanks, nuclear333!)
+            - [[album:oceanfalls-vol-1]] & [[album:oceanfalls-vol-2]] (thanks, Celeste!)
         - added art tags for all track arts consisting of screenshots of official material (filed under [[artist:homestuck]]) (thanks, Niklink!)
+        - added art tags for [[album:weird-puzzle-tunes]] (thanks, Celeste!)
         - added art tags for [[album:strife]], [[album:act-7]], [[album:hiveswap-act-1-ost]], [[album:perfectly-generic-album]], [[album:the-funk-mclovin-homestuck-experience]], and [[album:the-baby-is-june]]'s covers (thanks, Celeste & Niklink!)
         - fixed art tags for [[track:skaian-happy-flight]], [[track:respit]], [[track:hardchorale]], [[track:gravediggers-dirge]], and [[track:ithaca-is-calling]] (thanks, Celeste!)
 
