@@ -482,9 +482,6 @@ URLs:
 Track: Objection! 2001
 Artists:
 - Ace Attorney
-- Masakazu Sugimori
-Contributors:
-- Naoto Tanaka (arrangement)
 Duration: '1:13'
 URLs:
 - https://www.youtube.com/watch?v=_I34nshlOPk
@@ -714,7 +711,10 @@ URLs:
 ---
 Track: Turnabout Sisters Theme 2001
 Artists:
-- Phoenix Wright
+- Ace Attorney
+- Masakazu Sugimori
+Contributors:
+- Naoto Tanaka (arrangement)
 Duration: '2:45'
 URLs:
 - https://www.youtube.com/watch?v=upOhRRYVGkA
@@ -907,6 +907,7 @@ Lyrics: |-
 Track: Hello Zepp
 Artists:
 - Saw
+- Charlie Clouser
 Duration: '3:00'
 URLs:
 - https://www.youtube.com/watch?v=vhSHXGM7kgE
@@ -1545,6 +1546,13 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=SdWN59fEzIE
 ---
+Track: When Johnny Comes Marching Home
+Artists:
+- Patrick Gilmore
+Duration: '2:22'
+URLs:
+- https://www.youtube.com/watch?v=WtEqgG2EdTs
+---
 Group: Other music originating outside Homestuck
 ---
 Track: リサフランク420 / 現代のコンピュー
@@ -1876,6 +1884,8 @@ Artists:
 Duration: '2:06'
 URLs:
 - https://www.youtube.com/watch?v=ZZ5LpwO-An4
+Referenced Tracks:
+- What's Up
 ---
 Track: How Do I Live
 Artists:
@@ -1903,19 +1913,38 @@ Duration: '4:54'
 URLs:
 - https://www.youtube.com/watch?v=JkK8g6FMEXE
 ---
+Track: I Knew You Were Trouble
+Artists:
+- Taylor Swift
+Duration: '5:57'
+URLs:
+- https://www.youtube.com/watch?v=vNoKguSdy4Y
+---
 Track: I knew you were trouble Ft. Screaming goat
 Artists:
 - Taylor Swift
 Duration: 0:24
 URLs:
 - https://www.youtube.com/watch?v=kh6c0SOfkH4
+Referenced Tracks:
+- I Knew You Were Trouble
 ---
 Track: I'm A Believer
+Artists:
+- The Monkees
+Duration: '2:46'
+URLs:
+- https://www.youtube.com/watch?v=wB9YIsKIEbA
+---
+Track: I'm A Believer
+Directory: im-a-believer-smash-mouth
 Artists:
 - Smash Mouth
 Duration: '3:04'
 URLs:
 - https://youtu.be/0mYBSayCsH0
+Referenced Tracks:
+- track:im-a-believer
 ---
 Track: I Really, Really, Really Like This Image
 Artists:
@@ -2358,12 +2387,12 @@ Duration: '3:57'
 URLs:
 - https://www.youtube.com/watch?v=iNRRQI6NtoQ
 ---
-Track: When Johnny Comes Marching Home
+Track: What's Up
 Artists:
-- Patrick Gilmore
-Duration: '2:22'
+- 4 Non Blondes
+Duration: '4:52'
 URLs:
-- https://www.youtube.com/watch?v=WtEqgG2EdTs
+- https://www.youtube.com/watch?v=6NXnxTNIWkc
 ---
 Track: Wonderwall
 Artists:
