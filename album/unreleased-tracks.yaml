@@ -152,31 +152,32 @@ Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=175
 ---
-Track: cp_close.mp3
-Artists:
-- Captain Planet
-Duration: '1:01'
-URLs:
-- https://hsmusic.github.io/misc/cp_close.mp3
-- https://www.youtube.com/watch?v=v1QYQpHdzpw
-Commentary: |-
-    <i>Quasar Nebula:</i>
-    cp_close.mp3 is a track referenced in the flash file for [[flash:338]]. an emailer sent a whole bunch of neat information about the context around this flash, so instead of rewording all that, here's their quote with all the details!
-    ---
-    Your track listing for Dave's Phat Beat Machine, aka <a href="http://www.mspaintadventures.com/test_index.php?s=6&p=002238">this page</a>, is kind of incorrect as listed in the music wiki at [[flash:338]]. Maybe you already know this stuff, but I'm breaking it down Just In Case.
-    So here's the thing: the secret buttons with extra music you find after selecting the four corner buttons on the machine are actually broken due to link rot. Somewhat unusually, the flash does indeed pull music directly from external sites which have stopped working over the years. By looking into the flash itself you can see the intended music for each button. From left to right:
-    - <a href="http://www.mspaintadventures.com/storyfiles/hs2/00253/mspa_harlequin.mp3">http://www.mspaintadventures.com/storyfiles/hs2/00253/mspa_harlequin.mp3</a><br> This one still works, as it links back to MSPA. Reused from the Act 2 walkaround, actually.
-    - <a href="http://www.turner.com/planet/mp3/cp_close.mp3">http://www.turner.com/planet/mp3/cp_close.mp3</a> The Captain Planet theme song, or closing credits apparently or whatever. Idk, never watched it. Visiting this link now redirects you to a redesigned Warner page instead.
-    - <a href="http://fozzy42.com/SoundClips/Themes/Movies/Ghostbusters.mp3">http://fozzy42.com/SoundClips/Themes/Movies/Ghostbusters.mp3</a> Ghostbusters theme song from some random-ass page that no longer exists.
-    - <a href="http://pasko.webs.com/foreign/Aerosmith_-_I_Dont_Wanna_Miss_A_Thing.mp3">http://pasko.webs.com/foreign/Aerosmith_-_I_Dont_Wanna_Miss_A_Thing.mp3</a> Same deal as above, but for I Don't Wanna Miss A Thing (as an Armageddon reference).... wait, that's weird. Why does that link play JOHN DO THE WINDY THING? Someone actually purchased the site domain once it expired to make it play a different song ;).
-    My point is that if you want to be accurate then you should probably be listing the music that Hussie originally put into the flash, since it's What He Intended, and omitting the replacement song, since for all we know it could be replaced any day with a medley of farts or whatever by the new site owner. As an extra I'm attaching the original tracks so you can check them out. If you want to verify you can open the flash in a decompiler program like JPEXS and check out where it links to.
-    ---
-    i did end up keeping [[JOHN DO THE WINDY THING]] in the featured tracks list since it's what's current and has presumably been around for a while, and is a curious case of a fan track sneaking into official media (however arbitrarily so). if it gets replaced by farts and the reference list needs an update, so be it! :P
----
 Track: Flute Performance
 Artists:
 - Jan van den Hemel
 Has URLs: false
+---
+Track: SBAHJ THE MOVIE 1
+Artists:
+- Robert J! Lake
+- David Ko
+Duration: 0:56
+URLs:
+- https://www.youtube.com/watch?v=J_zFj7sRz-o
+Referenced Tracks:
+- Where making this hapen
+Lyrics: |-
+    Sweet Bro and Hella Jeff
+    Sweet Bro and Hella Jeff
+    Sweet Bro and Hella Jeff
+    Sweet Bro and Hella Jeff
+
+    Sweet Bro and Hella Jeff
+    Will get some stuff and do some things
+    With Sweet Bro and Hella Jeff
+    The laughs keep happening
+
+    (With their token black friend Geromy...)
 ---
 Track: Hero's Growth
 Artists:
