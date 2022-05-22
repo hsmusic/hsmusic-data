@@ -10,6 +10,11 @@ Enable Listings: true
 Enable News: true
 Enable Art Tag UI: true
 Enable Group UI: true
+Divide Track Lists By Groups:
+- group:official
+- group:fandom
+- group:beyond
+- group:additional-tracks
 Footer Content: >-
     [[static:about|HSMusic is an unofficial fan project.]] Its creation and development
     was made possible through the [[static:donate|support]] and [[static:feedback|feedback]]
