@@ -79,6 +79,8 @@ Content: |-
     - (nebula writes about all the site changes here)
     - [[album:unreleased-tracks]] has been completely reorganized, with many tracks having been moved to new organizational albums [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]], all collected under new [[group:additional-tracks]] group
     - "new" [[listing:albums/by-date-added|Albums - by Date Added]] listing, which has actually existed since [[news-entry:the-my-ex-wife-is-a-real-bitch-update|May 2021]], but was previously somehow at <a href="https://notabug.org/hsmusic/hsmusic-wiki/issues/53">a typo'd path</a> and wasn't accessible from the listing index
+    - "Tracks that reference..." lists are now grouped by Beyond and Additional Tracks as well, instead of grouping everything that's not an official Homestuck track under Fandom
+    - re-release tracks (such as [[track:black-vol-1-4]] from [[album:homestuck-vol-1-4]]) are no longer displayed in "Tracks that referenec" lists, and aren't counted in the [[listing:tracks/by-times-referenced|Tracks - by Times Referenced]] listing
     - slight tweaks to the appearance of album grids (as in group and tag galleries), most notably aligning tiles to the top of each row so that artwork always shows up in an even line
     - improvements to the way track artist strings are word wrapped, preventing pages from getting wider than they're supposed to be when a track has many artists (such as [[track:left-hand-remix]])
         - also fixed word wrapping on content pages with extremely long single words (like [[track:iiywaswiwtbotsa4aatwuotdtmihcimfh]]) when the screen is thinner than that word
