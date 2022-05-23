@@ -125,6 +125,9 @@ Color: '#008282'
 Tag: Terezi
 ---
 Color: '#008282'
+Tag: Terexi
+---
+Color: '#008282'
 Tag: Redglare
 ---
 Color: '#008282'
@@ -146,6 +149,9 @@ Color: '#1313be'
 Tag: Equius
 ---
 Color: '#1313be'
+Tag: Equihorse
+---
+Color: '#1313be'
 Tag: The Expatriate
 ---
 Color: '#1313be'
@@ -156,6 +162,9 @@ Tag: Equius's lusus
 ---
 Color: '#6800d6'
 Tag: Gamzee
+---
+Color: '#6800d6'
+Tag: Gametez
 ---
 Color: '#6b00d6'
 Tag: The Grand Highblood
@@ -556,6 +565,15 @@ Tag: Karako
 Color: '#a954ff'
 Tag: Marvus
 ---
+Color: '#26cb68'
+Tag: Problem Sleuth
+---
+Color: '#ed0101'
+Tag: Ace Dick
+---
+Color: '#3960f0'
+Tag: Pickle Inspector
+---
 Color: '#ffff01'
 Tag: Mobius Trip
 ---
@@ -676,26 +694,50 @@ Tag: Veil
 Color: '#6800d6'
 Tag: Dark Carnival
 ---
-Color: '#6e3382'
-Tag: Kate's dad (Desynced)
----
 Color: '#84fff2'
 Tag: Sans
 ---
-Color: '#f9ea8f'
-Tag: Aquarius (Oceanfalls)
+Color: '#ce3382'
+Tag: Kate (Desynced)
+---
+Color: '#6e3382'
+Tag: Kate's dad (Desynced)
+---
+Color: '#4545f9'
+Tag: Evan (Desynced)
+---
+Color: '#00c8c3'
+Tag: Evan's mum (Desynced)
+---
+Color: '#dd1c1c'
+Tag: Momo (Desynced)
+---
+Color: '#1cdd8d'
+Tag: Josh (Desynced)
+---
+Color: '#fba500'
+Tag: CS (Desynced)
+---
+Color: '#0b1f81'
+Tag: Lee (Desynced)
+---
+Color: '#850b59'
+Tag: Ananke (Desynced)
+---
+Color: '#5c0474'
+Tag: '"Her" (Desynced)'
+---
+Color: '#e9e9e9'
+Tag: Masky (Desynced)
+---
+Color: '#3091ef'
+Tag: Gaea (Desynced)
+---
+Color: '#fff2d7'
+Tag: Skaia (Desynced)
 ---
 Color: '#8d58b5'
 Tag: Aria (Oceanfalls)
----
-Color: '#ff976a'
-Tag: Aries (Oceanfalls)
----
-Color: '#bdbcc2'
-Tag: Blackfin (Oceanfalls)
----
-Color: '#5a767d'
-Tag: Boyfriend (Oceanfalls)
 ---
 Color: '#a3cb6a'
 Tag: Corona (Oceanfalls)
@@ -709,17 +751,8 @@ Tag: Kaji (Oceanfalls)
 Color: '#eb0013'
 Tag: Kotori (Oceanfalls)
 ---
-Color: '#b0a0e5'
-Tag: Lady Oshen (Oceanfalls)
----
-Color: '#b7b7b7'
-Tag: Ludwig (Oceanfalls)
----
 Color: '#a380c4'
 Tag: Lune (Oceanfalls)
----
-Color: '#f6747c'
-Tag: Maids (Oceanfalls)
 ---
 Color: '#318fee'
 Tag: Meimona (Oceanfalls)
@@ -744,25 +777,19 @@ Tag: Selene (Oceanfalls)
 Color: '#ffda9f'
 Tag: Serena (Oceanfalls)
 ---
-Color: '#517a4f'
-Tag: Sis (Oceanfalls)
----
 Color: '#ff6600'
 Tag: Solis (Oceanfalls)
 ---
 Color: '#ff0401'
 Tag: Suvillan (Oceanfalls)
 ---
-Color: '#bdbcc2'
-Tag: Warty (Oceanfalls)
----
-Color: '#bdbcc2'
-Tag: Weddell (Oceanfalls)
----
 Color: '#a9c500'
 Tag: Shrek
 ---
 Tag: alcohol
+Is CW: true
+---
+Tag: animal abuse
 Is CW: true
 ---
 Tag: animal death
@@ -817,4 +844,10 @@ Tag: hanging
 Is CW: true
 ---
 Tag: hanging (abstract)
+Is CW: true
+---
+Tag: genitalia
+Is CW: true
+---
+Tag: racial slur
 Is CW: true

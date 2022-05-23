@@ -32,6 +32,7 @@ Wallpaper Artists:
 - Monckat
 Wallpaper Style: 'opacity: 0.9;'
 Wallpaper File Extension: png
+Track Art File Extension: png
 ---
 Track: Skaian Spirograph
 Artists:
@@ -137,6 +138,7 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/internep
 Cover Artists:
 - Gryotharian
+Cover Art File Extension: jpg
 Art Tags:
 - Nepeta
 - Equius
@@ -368,7 +370,7 @@ Referenced Tracks:
 - Penumbra Phantasm
 - track:MeGaLoVania
 - Ascend
-- Conflict!
+- track:conflict
 Sampled Tracks:
 - ???
 Commentary: |-
@@ -389,7 +391,7 @@ Art Tags:
 - Kanaya
 Referenced Tracks:
 - track:aggrieve
-Commentary: "<i>cookiefonster:</i>\nAnother song from the Cool and New Music Team,\
+Commentary: "<i>cookiefonster:</i>\nAnother song from the [[group:canmt|Cool and New Music Team]],\
     \ this time for their final album: cool and new volume 3. I pretty much barfed\
     \ [[track:aggrieve]] onto Famitracker, changed some chords here and there, and\
     \ that's that. I think it came out pretty good.\n<i>Gryotharian:</i>\nUpon Makin’s\
@@ -436,7 +438,7 @@ Referenced Tracks:
 - track:endless-climb
 Commentary: |-
     <i>Makin:</i>
-    This track originates from CANWAVE 3, a vaporwave album for the Cool and New Music Team. Yes, we cursed the world with three of them, but it was all worth it if only for this SplitSuns track. For the less leitmotif-aware, this is a take on [[track:endless-climb]] by [[artist:buzinkai]]. Rest in peace.
+    This track originates from CANWAVE 3, a vaporwave album for the [[group:canmt|Cool and New Music Team]]. Yes, we cursed the world with three of them, but it was all worth it if only for this SplitSuns track. For the less leitmotif-aware, this is a take on [[track:endless-climb]] by [[artist:buzinkai]]. Rest in peace.
 ---
 Track: Pipe Dream
 Artists:
@@ -478,7 +480,7 @@ Referenced Tracks:
 - My Sharona
 Commentary: |-
     <i>Interrobang:</i>
-    I made this track for the Cool and New Music Team Felt/Midnight Crew album circa 2018 or so, and it was nominated for “the next LOFAM” long before any actual prep for this album had really started. I actually requested it be taken off of LOFAM5 because I felt it didn’t meet my standards anymore, but due to a miscommunication it stayed on. I found this out about 15 minutes before the release stream, which is happening as I type this - Album is sounding great, y’all! Anyway, hope it sounds better to you than it does to me.
+    I made this track for the C[[group:canmt|ool and New Music Team]] Felt/Midnight Crew album circa 2018 or so, and it was nominated for “the next LOFAM” long before any actual prep for this album had really started. I actually requested it be taken off of LOFAM5 because I felt it didn’t meet my standards anymore, but due to a miscommunication it stayed on. I found this out about 15 minutes before the release stream, which is happening as I type this - Album is sounding great, y’all! Anyway, hope it sounds better to you than it does to me.
 ---
 Track: A Dream Of Broken Clocks
 Artists:
@@ -488,6 +490,7 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/a-dream-of-broken-clocks
 Cover Artists:
 - Gryotharian
+Cover Art File Extension: jpg
 Art Tags:
 - Doc Scratch
 - Felt Manor
@@ -508,6 +511,7 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/black-electro-swing-remix
 Cover Artists:
 - J-Airshiper
+Cover Art File Extension: jpg
 Art Tags:
 - Jack Noir
 - 'cw: blood'
@@ -714,6 +718,7 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/blood-rite
 Cover Artists:
 - swanfire
+Cover Art File Extension: jpg
 Art Tags:
 - The Condesce
 - The Handmaid
@@ -754,7 +759,7 @@ Referenced Tracks:
 - Madame Controversielle
 Commentary: |-
     <i>cookiefonster:</i>
-    If you remember my song "The Gemoni Mustard Blood" from [[album:lofam4|LOFAM4]], that was originally from an old Cool and New Music Team (CANMT) album I made back in 2016 called "Of Troles and Chiptumes". While I had a lot of fun making that album, over the years I've come to regard its composition and instrumentation as somewhat amateurish; I was still rather new to Famitracker, the software I used to make all those songs.
+    If you remember my song "[[track:the-gemoni-mustard-blood-lofam4|The Gemoni Mustard Blood]]" from [[album:lofam4|LOFAM4]], that was originally from an old [[group:canmt|Cool and New Music Team (CANMT)]] album I made back in 2016 called "[[album:of-troles-and-chiptumes|Of Troles and Chiptumes]]". While I had a lot of fun making that album, over the years I've come to regard its composition and instrumentation as somewhat amateurish; I was still rather new to Famitracker, the software I used to make all those songs.
     While I had at one point wanted to remake the entire album using the chiptune skills I know today, the only song I ever ended up remaking was "[[Madame Controversielle]]", the album's song for Vriska. The remake was put on the CANMT album "troleplanet", and the reasoning behind its title was simply to take the original one and slap a 2 on it! So yes, there is indeed a Madame Controversielle 1, but I really don't get why you would want to listen to it over this version.
     <i>Gryotharian:</i>
     I’m not sure about how this one turned out. All the chiptune and vriska definitely made me think of like, a retro game player select screen, so I went back to my old pixel art style, and tried to fill it with the most vriska that vriska could vriska. But it had been a while since I was working with plain pixel art again, and that probably shows.
@@ -789,6 +794,7 @@ Cover Artists:
 - dodostad
 Art Tags:
 - The Condesce
+Cover Art File Extension: gif
 Referenced Tracks:
 - Pumpkin Party in Sea Hitler's Water Apocalypse
 Sampled Tracks:
@@ -871,7 +877,6 @@ Art Tags:
 - Doc Scratch
 - John
 - Green Sun
-- LoTaK
 Referenced Tracks:
 - A Very "O" Christmas
 Commentary: |-
@@ -890,6 +895,7 @@ Art Tags:
 - Jack Noir
 - Dave
 - Dirk
+- LoTaK
 - 'cw: decapitation'
 - 'cw: blood'
 Referenced Tracks:
@@ -968,6 +974,7 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/shes-out-there-in-the-sea-of-stars
 Cover Artists:
 - ricemilk
+Cover Art File Extension: jpg
 Art Tags:
 - Kanaya
 - Rose
@@ -1004,6 +1011,8 @@ Cover Artists:
 Art Tags:
 - Dirk
 - Dave
+- Derse
+- LoTaK
 Referenced Tracks:
 - Austin, Atlantis
 - track:endless-climb
@@ -1104,6 +1113,7 @@ Art Tags:
 - Felt Manor
 Referenced Tracks:
 - saoidfisd
+- HEY MAN VOLUME 10 MAN HEY CHECK IT OUT
 Sampled Tracks:
 - saoidfisd
 - HEY MAN VOLUME 10 MAN HEY CHECK IT OUT
@@ -1145,6 +1155,7 @@ Art Tags:
 - Earth
 - Green Sun
 - Horrorterrors
+- Sans
 Referenced Tracks:
 - RollerCoaster Tycoon Theme
 - Greenhouse
@@ -1358,6 +1369,7 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/crystalschalasthemequins
 Cover Artists:
 - swanfire
+Cover Art File Extension: jpg
 Referenced Tracks:
 - Crystalmethequins
 - Schala's Theme
@@ -1508,6 +1520,7 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/keep-your-head-down-rustblood
 Cover Artists:
 - Gryotharian
+Cover Art File Extension: jpg
 Art Tags:
 - Xefros
 - Imperial Drones
@@ -1554,6 +1567,7 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/all-alone-redux
 Cover Artists:
 - swanfire
+Cover Art File Extension: jpg
 Art Tags:
 - Damara
 Referenced Tracks:
@@ -1605,7 +1619,7 @@ Referenced Tracks:
 - Exploring the Depths of Sburb
 Commentary: |-
     <i>Makin:</i>
-    This track art actually depicts Rose in her Lord of Space outfit from Cool and New Web Comic, since this track originates there. I cropped it a bit to not blow people’s minds too much. Wait, what is that drop OH MY GOD
+    This track art actually depicts Rose in her Lord of Space outfit from [[group:canmt|Cool and New Web Comic]], since this track originates there. I cropped it a bit to not blow people’s minds too much. Wait, what is that drop OH MY GOD
 ---
 Track: '[S] ==>'
 Directory: s-next-arrow
@@ -1839,6 +1853,9 @@ Cover Artists:
 - Chesswanderlust-sama
 Art Tags:
 - LoFaM
+Referenced Tracks:
+- Homestuck Anthem
+- track:theme
 Commentary: "<i>Gryotharian:</i>\nDecided if this was going to be the last LOFAM album,\
     \ it needed a good closing track. Not a full huge song (that honor definitely\
     \ goes to and belongs to [[track:ophiuchus-full-suite-lofam5|Ophiuchus]]), just like a short\
