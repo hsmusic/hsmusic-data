@@ -1,0 +1,321 @@
+Name: A Preview Draws Near...
+Directory: a-preview-draws-near
+Date: April 13, 2022
+Content: |-
+    What's this!? An update to HSMusic.wiki after <em>hundreds of years?</em> One you can visit <em>right now!?</em>
+    <s><a href="https://hsmusic.wiki/preview-en/">Click here to check out an actively-updating preview of the work-in-progress coming update!</a> (More details in the news entry beyond this link!)</s>
+    <strong>That's right, you're viewing it now!</strong> Details beyond the split!
+    <hr class="split">
+    Hi there, and happy 4/13!
+    A bunch of awesome folk in the community Discord server and I have been working on an update for the Homestuck Music Wiki over the last four months or so. It turns out the finalization I talked about last entry ended up being more of a hiatus - a shift in how updates are being handled and created, to something less particularly scheduled and more "releases will happen when they're done and ready".
+    This update in particular has been (and continues to be!) a huge collaborative effort, even moreso than previous releases. Since today isn't quite marking the release of the update yet (and this is a relatively last-minute news entry LOL), I won't get into all the details yet, but please feel welcomed to [[static:changelog|have a look at the changelog]] and explore from there - everyone is credited directly in there.
+    With the main release I'll have a much more thorough news entry, but I want to give thanks to everyone who's contributed to this update now too:
+    - Niklink (<em>loads</em> of data entry resulting in a whole bunch of new albums on the wiki, finding tons of obscure and missed albums not yet on the wiki, offering ideas and feedback, spotting data errors and many code bugs, and politely wrangling me to Make It Hapen)
+    - koba (putting together data for albums from [[group:canmt]] in a spreadsheet, including all-new track reference lists, which is gradually getting the full music wiki album treatment)
+    - leo (doing the initial data for [[album:deltarune-ch2-ost]] and adding other goodies under [[group:undertale-and-deltarune]], and spotting data errors)
+    - gio (convincing me to make a better data format for the wiki and writing the txt -&gt; YAML converter for it, which lead to a Lot of data processing changes and helped bring to light lots of miscellaneous data errors across the wiki)
+    - Celeste (initial new setting/locale art tags for all track art, tags for [[group:oceanfalls]], many art tags and data fixes)
+    - Cello (spotting data errors and missing tracks under [[album:strife-2]])
+    - Circlejourney (initial data for [[album:sburban-neighborhood]] and assistance for [[album:songs-from-the-planet-earth]])
+    - cookiefonster (spotting data errors)
+    - Comfy (spotting a malformed link in commentary)
+    - deesoff (art tag feedback)
+    - FF (specific artist data for tracks from video games and other franchises)
+    - Gibus Wearing Brony (suggesting improvements to the "Lost in History" pseudo-artist and spotting data errors)
+    - Makin (art tag feedback and <a href="https://notabug.org/hsmusic/hsmusic-data/issues/64">exciting revelations</a>)
+    - megatti (art tag feedback)
+    - nanaian (spotting a broken code repo link)
+    - nuclear333 (art tags for [[album:oceanfalls-vol-3]] which I didn't get around to adding til now!)
+    - Sgeo (spotting data errors)
+    ...And probably at least a few others who I missed here! Extra thanks to everyone who offered feedback or reported issues, or was just generally active and hanging around the [[static:discord|HSMusic community Discord server]], which is the main place where we've been putting together this update.
+    I don't have a release date planned for the update yet, but we're quite close to complete our checklist of things-to-do-first, so it's most likely coming sooner rather than later. Again, have a fun time exploring what we've got so far!
+    <hr>
+    This is a preview build of the site, so what you're looking at is in active development - meaning there are probably still bugs, data errors, and occasionally incomplete things across the site, but also that this preview build will continue to have updates added to it here online, until the main release. I usually try to keep on-site blog posts for major wiki announcements, so if you want to keep updated with additions to the preview, head over to the #devblog channel in the wiki Discord server!
+    Since this update has involved a pretty major data rewrite, there are likely still bugs, so please feel free to <b>report any errors, feedback, or suggestions</b> through our old-and-new channels:
+    - <b>#hsmusic-misc [[static:discord|Discord]] channel:</b> General place for wiki discussion!
+    - <b>#issuefication-zone [[static:discord|Discord]] channel:</b> Simple little channel for quickly filing issues (mostly data fixes and what-not).
+    - <b>hsmusic-data <a href="https://notabug.org/hsmusic/hsmusic-data/issues">issue tracker</a>:</b> Data errors and new additions, especially anything missing from current albums or areas on the wiki, but also completely new additions too!
+    - <b>hsmusic-wiki <a href="https://notabug.org/hsmusic/hsmusic-wiki">issue tracker</a>:</b> Bug reports and suggestions to improve existing features or add totally new ones to the actual wiki codebase!
+    If you aren't familiar with issue trackers or aren't interested in registering for an account on <a href="https://notabug.org/about">NotABug</a> (the main host for our issue trackers and code/data repositories), the Discord is always open and welcomes feedback and reports there, too - especially in our new dedicated #issuefication-zone channel!
+    Thanks for checking out the update, and for all the feedback and support, as ever!
+    <i>~ Quasar Nebula</i>
+---
+Name: Wiki Finalization
+Directory: wiki-finalization
+Date: July 7, 2021
+Content: |-
+    Thank you to everyone who's supported the wiki, offered feedback, sent kind messages, and visited the wiki.
+    (This is a repost of a post we published earlier this month on Patreon, with a couple added notes.)
+    <hr class="split">
+    > Hey all,
+    > Just a short update here! I haven't had much time or energy to work on the music wiki within the last few weeks (up to a couple months or so), and I don't want to take folk's dollars for a project which is little more than dormant. So, I'm shutting this Patreon page down; I'll unlaunch the page next month, and have billing paused meanwhile (so that everyone has a chance to catch this notice and find out what's up).
+    > I'm undecided on the immediate future of the wiki, but it's still a project really truly dear to me, and the community around it probably even moreso. The community Discord server will stick around, most certainly—even if development were to come to a halt, I think it's fairly obvious to anyone in the space that shutting it down would be snuffing something good for no reason at all.
+    > I also don't yet have concrete plans to altogether abandon wiki development or maintenance. However, as I mentioned, my own time and energy for the project have been lacking; I've felt a building sense of moving on towards other projects and experiences, parallel with having recently finished school and now beginning work. As long as there's <i>something</i> new to share, which there so far has always been, I think I'll continue the monthly updates; detailed news entries and expansive and focused updates alike are all likely a part of the past now, though.
+    > I want to give deeply gracious thanks to everyone for all the support over the last year and a half (and then some), whether you've been a patron or offered suggestions, feedback, data fixes and additions, translation work, server assistance, and even simply—<i>especially</i>—kind comments and messages. You all really mean the world to me!
+    > I know this entry is a little somber, but it's something I've been working up to for a while. I figure it's best to share an official update on where the wiki's at, rather than leave everyone guessing in the dark (and probably seeing most of this coming all the same).
+    > 1. This Patreon is shutting down (billing paused this month, page to be unlaunched some time in July).
+    > 2. Releases will probably remain monthly but aren't likely to carry more than a trace or two new features (with comparatively briefer news entries to match).
+    > 3. I'm not going to shut down the Discord, of course! I don't want to just snuff the community here for no reason.
+    > Thank you for the read, and for everything, across all this time.
+    > ~QN
+    > &lt;3
+    <hr>
+    The above post was originally dated July 1st, 2021, at 12:03 AM (Atlantic time). Since then, we've made the decision to declare the wiki essentially finalized in its current state, as we move on and spend more time just living life, with less internet presence and self-imposed obligations. (This means the parts in the original post about further releases are for the most part moot.)
+    The Discord will still stay up; though we won't be further developing or adding to the wiki any in significant manner, feel free, if you like, to chat with the community there!
+    (NB: While we won't be adding more music to the wiki, data fixes for existing albums and other pages are still welcome. (There were a few [[static:changelog#7-jul-2021|with this release]]!) Changes of artist names/pronouns/etc across the wiki will also be welcomed for as long as the wiki's online (i.e. basically forever), of course!)
+    Thank you again, everyone, for everything you've so generously shared over the last year-and-some. &lt;3
+    <i>~ Quasar Nebula</i>
+---
+Name: June Attuned
+Directory: june-attuned
+Date: June 12, 2021
+Content: |-
+    Hello! As is regular now, we've an update short yet sweet to share today. Following personal direction in a hobby project, most wiki work has been put into internal restructuring, though in revisiting each page, we've written a few UI refinements too. Details, as ever, past the split!
+    <hr class="split">
+    <i>As ever, thank you to everyone who sent feedback and kind messages during development! We're also very grateful for all [[static:donate|supporters of the wiki]], including: enchantingHunter, <span style="color: #f1c40f">Gradis</span>, and Nights!</i>
+    As mentioned in the summary, I've been following my own interests in wiki development, so a good deal of the work done this month was on further internal restructuring. For the most part, it's been a big refactor! The focus this month was to break up the giant file responsible for all site generation, <code>upd8.js</code>, into more easily navigable modules and utility files. Though work on that isn't quite complete yet, the progress shows: what was previously just short of 7000 lines of code within a single file has been cut down and sorted away to only 3000 now!
+    (If you're curious, page generation info and templates are all contained within the new <a href="https://git.ed1.club/nebula/hsmusic-wiki/tree/src/page?h=staging&id=ffb9bfd2a8c33f25a19b3b74f1204a5fad575108">src/page</a> directory. The hope is that these modules will be a lot easier to write, maintain, and understand, even for anyone unfamiliar with the wiki codebase!)
+    Of course, while revisiting each page and tweaking generation code all across the site, a few visitor-visible refinements have been worked in, too:
+    - For group pages, we've made the sidebar sections collapsible, just like on album pages! Only the category you're presently perusing is expanded by default; this should make the list more focused, and welcome wandering at your own pace.
+    - Also for groups, exclusive to the Info page, a new "from (other group)" accent has been added. For albums which show in more than a single group, this will show the other most primary: for example, on the [[group:fandom]] info page, each album shows where it was released, such as [[group:unofficial-mspa-fans]] next to [[album:ancestral]], and [[group:cristata]] next to [[album:perfectly-generic-album]].
+    - On tag pages, we've flipped around the entry order; it's now sorted reverse-chronologically, meaning the most recent releases show right at the start. New appearances will be noticed right away!
+    - And for the sidebar of album and track pages, we've made sure the list is always collapsible by showing a faux "Track list" section on albums where the tracks weren't manually grouped. The sidebar listing should no longer be a distraction!
+    Plus, while we haven't added any new albums this update, we've started a new album group titled [[group:beyond]], into which we've moved a bunch of releases taking previous stay under [[group:fandom]]. (Thanks a bunch to the Discord community for helping brainstorm this!) Alongside this are a few new groups for solo artists we'd missed before: [[group:nasqueron]], [[group:tensei]], and [[group:toby-fox]].
+    Last of all, a number of data fixes have been brought from the wiki community! Find details on these, as usual, [[static:changelog#12-jun-2021|in the changelog]].
+    <hr>
+    A quick meta-note on the direction of wiki development: with the last few updates, we've been taking wiki work a bit more easily. (See [[news-entry:the-my-ex-wife-is-a-real-bitch-update|last month's update entry]], and the Discord announcement in April, for more info on our rationale here!) New to note, though, is that we've started our own search in job-hunting; that's an arduous process all its own, so energy for programming and data entry is a tad sapped. We still plan on periodic updates by the month, though their scale will likely be comparable to this release.
+    We've talked about this a good deal in the server, and we're really thankful to feel comfortable trusting you all, the community you've built around the wiki, to understand! It's genuinely an honor to have a kind audience for what's really still our personal hobby at the end of the day, even as we inevitably put more into work and other life focus.
+    So, as ever, thank you for the support and feedback! Besides the Discord, [[static:feedback|our usual channels remain open]], so you're much welcomed to share any comments or feedback for the coming releases. Thank you!
+    <i>~ Quasar Nebula</i>
+    <hr>
+    PS: Happy birthday, Karkat! <code style="color: #26baba">&gt;:]</code>
+---
+Name: the my ex-wife is a real bitch update
+Directory: the-my-ex-wife-is-a-real-bitch-update
+Date: May 12, 2021
+Content: |-
+    <i>Wait, what?</i>
+    Aranoyas! Wow, we sure have no idea how <em>that</em> got in the release title field! This update brings a redesign to the album sidebars, and lots of data fixes and additions across the site. Much thanks to everyone in the Discord community for throwing in suggestions and additions all throughout this update - details, as ever, past the split!
+    <hr class="split">
+    <i>As ever, thank you to everyone who sent feedback and kind messages during development! We're also very grateful for all [[static:donate|supporters of the wiki]], including: enchantingHunter, leo homestuck, and Nights!</i>
+    Like mentioned in the summary, this update is brought to you in most significant part by everyone in the [[static:discord|community Discord server]]. So, for these release notes, I figured I'd go over the contributions of everyone who threw a hand in!
+    From <b>Niklink</b>, we've a variety of additions and input:
+    - The new [[album:psycholonials]] complete album has been released, and with it, we've added information about the original releases of many tracks from the game, most from earlier, since-unlisted releases by [[group:clark-powell]]. Niklink located all of these throughout the release of each EP, and helped with the track lists for the [[flash:psycholonials]] flash/game pages!
+    - Since suggesting album banners and wallpapers [[media:misc/changelog/niklink-lyric-shenanigans.txt|back in December]] (as added in the February and April updates), Niklink has also taken a major role in refining assets across the site. This update brings remasters to the banners all across the site, with improved upscaling, better rendering, and a variety of other tweaks. He actually wrote a summary of the changes, which we've included towards the end of this news entry, if you're curious on all the details!
+    - Ever on top of album aesthetics, Niklink also prompted the redesign for album sidebars, offering comments and input throughout that design too. (Thanks go out to <b>Megatti</b> for additional feedback here!) Details on the refined layout follow these contribution credits.
+    <b>LowDeath675</b> went through every official album, as well as several from the fandom, and caught countless missing or misplaced character tags! Especially improved are tags for minor characters, like [[tag:sawtooth]] and [[tag:squarewave]], plus species tags, like [[tag:horrorterrors]] - though there are more fixes all about. Now's a better time than ever to give tags a visit and explore the excellent art of Homestuck's official and fandom discographies!
+    <b>foreverFlummoxed</b> helped out with tags too, catching a number of missing dancestor appearances throughout [[album:beforus]]! Both Low and FF also caught a bunch of typos in commentary for the albums they reviewed.
+    An anonymous contributor also let us know about the commentary booklet for [[album:alternia]], which we'd totally missed until now - so there's much commentary and composition notes on the early solo album from Toby Fox now!
+    Lastly, thanks to Low, Niklink, and <b>Mixolydian</b> for catching a variety of track references now newly brought to the wiki.
+    To everyone who helped out with the update, together - I'd like to thank you again, for all your feedback and kind messages. It really bears repeating: this wiki wouldn't even be close to what it is without you, without everyone who's brought their ideas to the table, built upon updates and suggestions from others, or just shared kindhearted comments about the wiki. We've come a long way since release, and it couldn't have been done without each and every one of you. Thank you!
+    <hr>
+    Now, tweaks to the album sidebar layout! As mentioned, the biggest push for this (and much accompanying input) came from Niklink. (Thank you!) Ever since adding groups as part of the [[news-entry:traversing-fandom]] update back in January, there have been two sidebars on most album and track pages - one on left, one on right. This was a pretty neat look, but having two sidebars meant there was considerably less space left for the main content area than prior. Unfortunately, this left album and track art squished to a much smaller presentation than had always been intended!
+    So, we've finally revisited that layout, and done a sweeping refinement to fix that issue and make album and track pages be both better looking and more functional than ever before!
+    Most notably, we've combined the right- and left-hand sidebars into one. Group boxes are now displayed above the track list on the album page, since there's already a full view of all the tracks visible in the main content area. On track pages, they've been moved beneath the track list - and if an album's part of more than one group (e.g. [[album:psycholonials]]), group info will all be combined into one compact summary box! (Much thanks to Megatti for this suggestion - we feel it helps a bunch to make the new layout feel focused and clean.)
+    For albums (like [[album:coloUrs-and-mayhem-universe-a]]) whose tracks are divided into groups (i.e. "track groups", not to be confused with <em>groups</em> like [[group:fandom]] and [[group:official]]), we've tweaked the track list part of the sidebar as well. Previously, track group headings (like "Side 1", "Additional Mayhem", "Bonus tracks") weren't especially interactive - if you clicked them, they'd just bring you to the first track under that group. With this update, they're now collapsible/expandable - clicking toggles the full list of tracks in that section! This should make navigation between tracks in an album a nice bit smoother, skipping the inconvenient step of visiting the first track in the desired group or just heading back to the album page.
+    And last off, on album pages, where we'd previously have the sidebar show <em>every</em> track all at once, track groups are now collapsed by default - making it easier, we hope, to navigate between, visiting tracks from whichever section you're looking for. (Since the main content area shows a full track list anyway, it didn't make much sense to just repeat that same view as part of the sidebar!)
+    <hr>
+    As regular, some quick notes on the meta around the wiki:
+    - We're pleased to announce a new, spectacularly <s>spiteful</s> <s>salacious</s> speculative partnership: Homestuck Music Dot Wiki has now been acquired by <a href="https://duckduckgo.com/?q=man+i+love+fishing&iar=images">MILF</a>! <small><small>/joke</small></small>
+    - On a more <small>(less? lol)</small> personal level, I was dealing with feelings of burnout for a while this month, and ended up writing an entry on where I was at in the #devblog there. (It's a few weeks back in the channel, if you'd like to give it a read.) Although my energy and motivation have been returning in the last couple weeks, the general conclusion still stands: since I'm one person and the wiki is a hobby project (as I'm happy it is), code development time will generally be put where and when I have motivation to work. There won't be as many self-imposed expectations to complete huge sub-projects, though they'll still get attention when the time comes! And monthly updates will remain, though they'll likely be less focused than prior releases, in service of giving the wiki the time and space to breathe and develop more naturally.
+    As ever, thank you for the support and feedback. Besides the Discord, [[static:feedback|our usual channels remain open]], so you're much encouraged to share any comments or music suggestions for the coming releases!
+    <i>~ Quasar Nebula</i>
+    <hr>
+    PS: Here's the banner remaster commentary from Niklink!
+    <i>Niklink:</i>
+    depending on the banner, alterations fall within a few different categories:
+    - better upscale: better than bicubic! umspaf banners were saved as pngs so the difference is very subtle, but the official banners benefit a LOT from this ([[album:homestuck-vol-5]], [[album:homestuck-vol-6]], [[album:homestuck-vol-7]], [[album:homestuck-vol-8]], [[album:homestuck-vol-9]], [[album:symphony-impossible-to-play]], [[album:one-year-older]], [[album:genesis-frog]], [[album:cherubim]], [[album:tomb-of-the-ancestors]], [[album:sburb-ost]], [[album:lofam2]], [[album:lofam3]], [[album:beforus]], [[album:weird-puzzle-tunes]], [[album:ancestral]], [[album:lofam4]], [[album:xenoplanetarium]], [[album:moons-of-theseus]])
+    - extend background horizontally: some umspaf banners were a logo over a simple background so it was easiest to just extend it horizontally ([[album:gristmas-carols]], [[album:cosmic-caretakers]], [[album:diverging-delicacies]], [[album:friendsymphony]], [[album:shortcuts]], [[album:p-s]])
+    - reconstruct: for simple banners where I can just make the damn banner again but without shitty compression or resizing ([[album:alterniabound]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:psycholonials]] and EPs)
+    - draw more of the background lmao: photoshop is really good at autogenerating more of the image ([[album:jailbreak-vol-1]], [[album:ancestral]], safening which is still missing on the wiki) but [[album:lofam]] i did myself
+    - font reconstruction: one thing the upscalers are not good at are upscaling normal fonts, i guess because we can tell so easily with standard letters when something's slightly out of place. so after the upscaling i remade the lettering on these ([[album:homestuck-vol-5]], [[album:homestuck-vol-6]]). oh and [[album:the-wanderers]] i put the font over the big letterless version of the banner to make it match the version that was used, as a possible option. <span style="font-style: oblique">[QN: I ended up keeping the original! Letterless looks cleaner to me, but thank you for the choice and attention to detail just the same! :3]</span> the fonts are all a little bit different but no one's gonna notice unless you compare em yourself
+    the only one I'm not satisfied with is [[album:homestuck-vol-7]] because it has aliased images with transparent antialiased stuff over them
+    so I have to pick to make either the aliased stuff or the antialiased stuff look bad depending on how I do it
+---
+Name: Solo Albums Aplenty
+Directory: solo-albums-aplenty
+Date: April 12, 2021
+Content: |-
+    <i>Independent works from four artists, plus a variety of stylistic tweaks and additions!</i>
+    Heya! We've got another smaller update to share this time, though with plenty of wonderful music brought to the wiki from a set of four solo artists. Find details and listening recommendations past the split!
+    <hr class="split">
+    <i>As ever, thank you to everyone who sent feedback and kind messages during development! We're also very grateful for all [[static:donate|supporters of the wiki]], including: enchantingHunter, leo homestuck, and Nights!</i>
+    Last update was another heavily development-focused one; reworking the codebase to support localization was a fairly daunting task. With that largely complete, though, we had the chance to focus on the core of the wiki again - music!
+    So, building on the addition of solo musician groups in [[news-entry:retrace-retexture]], we've a lovely set of independent albums and tracks to share from four artists this time. You might recognize a few of their names!
+    From [[group:cristata]], the artist behind [[album:perfectly-generic-album]] as well as the [[group:unofficial-mspa-fans|UMSPAF]] track [[track:party-god]], we have the all-new experimental dance album, [[album:are-you-lost]]. It's released under the alias [[artist:hywell]], and features remixes primarily of tracks from Undertale and Deltarune, though there's a trace or two of Homestuck to be found as well, if you're attentive!
+    (If a meeting between Homestuck and Undertale strikes your interest, you'd be well off to visit the artist's own crossover fancomic, <a href="https://mspfa.com/?s=33534&p=1">DELTASTUCK</a>!)
+    From [[group:nuclear333]], the co-author for [[group:inhospitable]] and artist of [[album:inhospitable-delisted]], we've brought over all their earlier Bandcamp releases! [[album:chilled-processor]] and [[album:ava]] are clearly heartfelt letters to the styles of early video game music; [[album:old-world]] and [[album:losing-heart]] are a lovely pair of more recent singles; and [[album:nuclears-explosion-1]] is a compilation of much of their earlier work. There's a whole host of neat tracks to explore here!
+    From [[group:what-is-lost-in-the-mines]], artist of [[artist:whatislostinthemines|a whole host]] of tracks in the Homestuck (and surrounding) fandom, we have their own three solo albums [[album:what]], [[album:triassic-slump]], and [[album:bashful-hearts-out]] to share! These are all really impressively produced and textural works, with powerful vocals all throughout the latter two releases to boot.
+    (If you love the dark vocals and occasionally noisy electro rock of [[album:bashful-hearts-out]], we certainly have to point you towards [[album:exceptis-excipiendis]] by [[artist:kal-la-kal-la]], another fantastic 2020 solo release we find a lot of thematic overlaps can be felt in!)
+    And from [[group:funk-mclovin]], an artist and <a href="https://www.youtube.com/channel/UCIyu12_DBaAkDfFq-UQuHNw">video essayist</a> certainly prominent in the current fan community, we've brought three wonderfully eccentric releases! [[album:the-funk-mclovin-homestuck-experience]] is the original, a compilation of fanpieces from their <a href="https://www.youtube.com/playlist?list=PLOVvrdnGToXUGOejNbpy8a3B6Tixkv-kg">2020 Song-A-Day</a> challenge; there's also [[album:class-act]], a diverse set of original works, as well as its [[album:class-act-b-side|B-Side]], an album all full of covers; and of course, [[album:the-baby-is-june]], which is exactly what it says on the tin, and is perfect. (Like its namesake, this one is a collaboration with other voice-actor/vocalist friends!)
+    (Oh! Also, the new [[group:psycholonials]] albums. Plus, courtesy of Niklink, the track lists for [[flash:psycholonials|the flashes]] now contain the full lists of tracks featured, not just the ones from each chapter's corresponding album.)
+    We've had the invaluable pleasure of speaking with each of these artists through the process of bringing their albums to the wiki. If there are any albums, solo or otherwise, that you'd like to see shared on the wiki (or would like to link us your own!), feel welcomed to [[static:feedback|contact us]]! We hope you enjoy exploring the releases we've shared here today.
+    <hr>
+    As for tweaks to the wiki site itself, you might've noticed a few aesthetic adjustments! For an expansive set of albums, we've brought over the banner art originally featured on Bandcamp and other places of release. Visit [[album:lofam4]] or [[album:ancestral]] for a couple of our favorite examples! Much thanks to Niklink for helping with keeping track of so many of these, as well as for proposing the idea in the first place back in December.
+    We've also tweaked the look of the content area itself, making the background a litle translucent to let some of the wallpaper glow through. We feel this comes across particularly nicely in the pages for [[album:cosmic-caretakers]] and [[album:homestuck-vol-5]], though it'll be apparent across the site! Thanks again to Niklink for suggesting this one, and everyone on the Discord for offering feedback while we put together both these stylistic updates.
+    In addition, there are a few other small new features, a remarkable portion of sneaky bugs and data errors fixed, and a host of internal additions all part of this update. You can find all the specifics, as ever, [[static:changelog#12-apr-2021|in the changelog]]!
+    <hr>
+    And as regular: the meta around the wiki!
+    - The localization system remains in progress, and is proving capable! We've still got some code adjustments to make before it's ready for proper release (mostly concerning translating track contribution info and some static pages), but you can give the current Spanish translation of the site a visit at [[site:es/|/es/]]. Much thanks to Niklink for putting this translation together, and for being so on-the-ball keeping it up to date with additions to the English strings over the month.
+    - As usual, the [[static:discord|Community Discord Server]] has been active! It's really a wonderful place to chat wiki and music topics, and I'd like to show personal appreciation to everyone there for offering feedback, comments, and kind messages during update development. Thank you! :)
+    - April 13th is coming up! That'll mark the one year anniversary of [[album:beyond-canon]]; it's a really fantastic album, so as a celebratory suggestion, why not give it a listen and send some kind words and support towards the artists behind it? They'd surely be grateful for it!
+    As ever, thank you for the support and feedback. Besides the Discord, [[static:feedback|our usual channels remain open]], so you're much encouraged to share any comments or music suggestions for the coming releases!
+    <i>~ Quasar Nebula</i>
+---
+Name: Translation & Renovation
+Directory: translation-renovation
+Date: March 12, 2021
+Content: |-
+    <i>Looking for volunteer translators to help bring the wiki to different languages!</i>
+    Hello again! We have a smaller update to share this month - mostly polish and internal restructuring. It's all in the aims of making the site more accessible; we're now <b>looking for translators</b> to help bring the site around the world! Details, as usual, past the split.
+    <hr class="split">
+    <i>As ever, thank you to everyone who sent feedback and kind messages during development! We're also very grateful for all [[static:donate|supporters of the wiki]], including: Nights, enchantingHunter, and leo homestuck!</i>
+    As mentioned in the intro, we're looking for translators to help make the site more accessible for people around the world. We've done our best to streamline and make the process as simple as possible; please visit this <a href="https://docs.google.com/document/d/1WLkw1Q-OECXdaNB4LB8neL92F1JNL0q1gGn8zVpZLec/edit">Wiki Localization - Project Outline</a> document for all the info!
+    TL;DR: Join the <a href="discord/">Community Discord Server</a> and drop a message, and we'll give you permission to edit the <a href="https://docs.google.com/spreadsheets/d/1BUSanXH5FNU0thJAcW5bw41UuuxKbMHkGsPxt9eyQ4U/edit#gid=0">Working Sheets</a> (plus the team chat, where you can discuss translation and ask any related questions). Enter translated values for the provided reference strings; then, to get a second pair of eyes from another translator, write a sign-off name and mark the row for review!
+    There are currently less than 300 (all very short) messages to translate across the wiki. <b>You don't need prior, professional translation experience to join;</b> anyone who knows another language in addition to English is welcome to contribute what they'd like!
+    Thank you so much for considering, and if you choose to, for joining the project. We aren't too sure where to share this around yet, so for now it'll probably only be regular visitors to the wiki - like you, probably! If you enjoy translating and know friends who might, word of mouth will get the project around; we'd be deeply grateful if you share your experience and help bring the wiki to more translators and visitors around the world. Thank you!
+    <hr>
+    On a streak of visiting existing code and updating it to ready the site for future improvements, this month's update was a particularly code-heavy one to develop! We're happy with the progress and excited for what it'll help bring to the wiki soon, but this month, we (which is to say QN, the developer) ran out of steam towards the end; the only albums newly shared are those added for [[group:psycholonials]].
+    Still, delving back into nearly all build code presented us with a prime opportunity to polish and refine the existing pages. Here's a summary of what's new:
+    - Thumbnails have replaced full-size images embedded on nearly every page! This was actually a very long-standing issue, and made accessing the wiki with slower internet connections or limited bandwidth much more difficult than necessary. So we've finally implemented thumbnails across the site, making media sizes around 20% the original across the whole site!
+    - Artist pages have been refined a significant deal; particularly, we've done our best to reduce visual noise across the whole layout. So, [[artist:michael-guy-bowman|"featured in" links]] have been removed (and placed instead in [[listing:tracks/in-flashes/by-album|this listing]]), and [[artist:aysha-u-farah|flash/game contribution dates]] have been combined into an easier-to-read range. Plus, the total duration of tracks an artist has contributed to an album is now shown next to that album's name and date! Pretty nifty.
+    - We adjusted various strings across the site; a particularly notable example is at the [[commentary-index:_|Commentary index]]! Album lines used to read, for example, "19/20 entries; 8.4k words". That's been simplified to "8.4k words across 19 entries".
+    - We also tweaked strings for [[listing-index:listings|listings]], and added a few new convenience features too:
+        - Before, [[listing:groups/by-name|Groups - by Name]] and [[listing:groups/by-category|Groups - by Category]] would each open a group's Info section and a group's Gallery section, respectively. This was because <em>in general</em> we default to linking to info pages rather than galleries, but <i>Groups - by Category</i> was being linked from gallery pages themselves - via the "choose another group to filter by" button. With this update, group names in both listings link to the info page by default, but we've added adjacent gallery links for that original easy access as well!
+        - As mentioned in the artist page summary, we've moved "featured in" links over to [[listing:tracks/in-flashes/by-album|Tracks - in Flashes & Games (by Album)]]. We feel they fit better here!
+        - And we've done the mirror for [[listing:tracks/in-flashes/by-flash|Tracks - in Flashes & Games (by Flash)]] too, adding the album names into that list. Both these listings should be more fun and interesting to navigate now. :)
+    Of course, there are many internal changes too - enough to come to over two hours a day per sixteen active days of development, according to <a href="https://docs.google.com/spreadsheets/d/11L4ksnILTNKuLXT5PBIBxr34cZ0wk6P9aZO-vpeSsnU/edit#gid=1993970319">our timetables</a>! We won't bore you with the specifics here... but if they do interest you, particular details are, as ever, [[static:changelog#12-mar-2021|in the changelog]]!
+    <hr>
+    As is probably now regular: the meta around the wiki! :)
+    - Of course, with this news update, we've launched the wiki localization project! If you happen to have read down here <em>and</em> know a language besides English... well, the project is dependent on interested folk like you, so *nudge*? :) Though seriously, we really don't know how far this will go yet - but we're confident it's no pipe dream, and we're excited to see the wiki more accessible across different languages. We don't plan to ever shut the project down, so translators will always be welcome, today and years from now all the same!
+    - Once again, the [[static:discord|Community Discord Server]] grew its own fair share over the month! Actually, we had a curious influx of users over just two days at the beginning of March. That turned out to be completely coincidental! It's really been a joy to chat and work with everyone, new and settled alike. Thank you all for sharing your comments, concerns, and kind messages :)
+    As ever, thank you for the support and feedback. Besides the Discord, [[static:feedback|our usual channels remain open]], so you're much encouraged to share any comments or music suggestions for the coming releases!
+    <i>~ Quasar Nebula</i>
+---
+Name: Retrace, Retexture
+Directory: retrace-retexture
+Date: February 12, 2021
+Content: |-
+    <i>Album wallpapers, internal changes, and more!</i>
+    Hi again! We hope the month's been as kind as possible to you all. As planned, we have a new monthly update! The wiki's undergoing some significant internal improvements, but we have a host of new features, and, of course, wonderful albums and artists to share, as well. Thanks go out to our very first patrons - details of all past the split!
+    <hr class="split">
+    <i>As ever, thank you to everyone who sent feedback and kind messages during development! We're also very grateful for all [[static:donate|supporters of the wiki]], including: Nights, enchantingHunter, and leo homestuck!</i>
+    This update is another code-heavy one internally, with lots of changes and additions to make improving the wiki easier - and there's still more to come! But first, here's a summary of the new music shared on the wiki this release (check 'em out!):
+    - From [[group:michael-guy-bowman]]:
+        - All of his albums! He's created some really wonderful music, and we're super happy to share it here.
+        - [[album:mobius-trip-and-hadron-kaleido]] is now part of the new <i>solo musician</i> "group" linked above, as are...
+        - [[album:ithaca]], which features a diverse set of contributions from familiar names on the Homestuck music team
+        - [[album:comfortable-bugs]]
+        - [[album:hush]]
+        - [[album:archive]], which is absolutely worth a purchase for more obscure tracks like [[track:aba-daba-honeymoon-archive]]
+        - [[album:electric-daydreams]]
+        - [[album:look-on-my-works-ye-mighty-and-despair]]
+        - and [[album:gravity-makes-the-flame-rise]], his latest release from January this year, an absolutely powerful album, and a timely one for the year it was created through!
+        - (Seriously, this album owns. Listening to it is like finding that perfectly rageful respite in having a chat with someone who's been through their own flavor of just the same year as you.)
+    - From [[group:desynced]]:
+        - [[album:desynced-vol-1]]
+        - [[album:desynced-vol-2]]
+        - [[album:election-season]]
+        - These are all soundtracks for the fanventure <a href="https://desynced.xyz/">Desynced</a>. We haven't read the comic yet, but all the tracks here - and their art! - are really excellent!
+    - From [[group:psycholonials]]:
+        - Just the first release, [[album:psycholonials-ep-1]], for now!
+        - These show up in a new row on the homepage. We'll add more EPs as they're released, in distinct updates from the main wiki releases!
+        - No information on unreleased tracks or references to previous releases for now, but we'll come back to this once the full game and soundtrack have been released in April.
+        - In case you missed it, the entirety of the game is composed by [[artist:clark-powell]]!
+    The biggest feature addition this release, as you might've already spotted, is wallpapers for albums! These are easiest to explain by showing them off - some of my favorites are [[album:homestuck-vol-5]], [[album:coloUrs-and-mayhem-universe-a]], and [[album:cosmic-caretakers]]. Album wallpapers are a way to revive the original themes of albums released on Bandcamp and give album and track pages their own personal flare, while still leaving the main design of the site untouched, aiming for a cohesively creative look! Much thanks go to Niklink for suggesting this back in December, and helping with research as well as editing throughout the whole process.
+    Besides album wallpapers, there are a few other smaller additions too:
+    - As evident in where you're reading this now, news entries now have their own pages!
+    - Building on the code for above, we've replaced the old, gargantuan "All Commentary" page with individual commentary pages for each album. (Check out the [[commentary-index:_|Commentary]] index to explore!) These are a distraction-free way to browse the commentary for an album; it's great if you're listening to a whole release and want to follow its commentary alongside playback. Plus it shows off the new album wallpapers. :)
+    - There's a footer on all pages now too, thanking supporters and contributors and linking people back to the support and feedback pages. It'll hopefully help show that the wiki really is a group project, and encourage interested folks to get involved!
+    Finally, there have been a bunch of internal changes. I won't bore you with the technical details - those are in the [[static:changelog#12-feb-2021|changelog]]! :)
+    But here, I do want to share a little about the goals we're working towards (and that this code is a big part of). Together - both the dev and the community of contributors! - we've created a really fantastic and powerful music wiki I know I'm proud of, seeing how it's grown and improved since it started! As that development continues, we've been facing a few big questions about the grander context of the wiki.
+    Here's the one we focused on this update: This wiki has a clear, defined scope. However, the underlying <i>software</i> is a featureful, powerful creation in its own right. <b>Could the wiki code be generalized to act as a basis for other wikis?</b>
+    Hence began the <a href="https://www.youtube.com/watch?v=HhGI-GqAK9c">Generalized It</a> project, which I focused on for most of the first half of the month of development time. It's still a work in progress, but we made pretty big progress: we've separated almost all content specific to any wiki from the main code (meaning it can be customized across any version of your own wiki), updated the CLI tooling to make swapping wikis for development easy, and put together two experimental demo wikis! If you're curious, check 'em out: <a href="https://nebula.ed1.club/skeleton-wiki/">Skeleton</a>, <a href="https://nebula.ed1.club/flora-wiki/">Floraverse</a>!
+    Although it's still in progress, I hope in the future anyone with the interest and time will be able to create their own wikis based on the code here. There's still much documentation to be written (and probably tooling to be improved) before it's really ready for use, but if you'd like to explore the code anyway, <a href="https://git.ed1.club/nebula/hsmusic-wiki/">it's all public!</a> (So's <a href="https://git.ed1.club/nebula/hsmusic-data/">the HSMusic source data</a> if you're curious!)
+    There are still many exciting things to come, and plenty more internal changes as foundation for 'em. It takes a while to design and implement any large change like this - but when it's ready, I hope you'll be excited to see!
+    <hr>
+    As in last month's entry: the meta around the wiki! :)
+    - Again, thanks graciously to our first supporters on <a href="https://www.patreon.com/qznebula">Patreon</a> and <a href="https://liberapay.com/nebula">Liberapay</a>! I really didn't expect it to step up from the ground so quickly. In case you missed it, we updated the tiers on Patreon; the profile names of supporters will show up as part of news entries, as well as on the [[static:about|About &amp; Credits]] page.
+    - The [[static:discord|Community Discord Server]] grew pretty significantly over the development of this release! Working with everyone there was a blast. Thanks to feedback, we restructured the wiki a little, too: there are new #devblog, #devblog-discussion, and #git-update channels, all for keeping up with and discussing particular progress on the wiki! No more need to go through chat backlog; the info's all here. :3
+    - <a href="https://leo60228.space/">leo homestuck</a> released an awesome tool called <a href="https://leo60228.space/hsmusicifier-automatically-add-track-art-to-id3-tags-including-fan-anthologies-and-post-2019-bandcamp/">hsmusicifier</a>! It adds track art and artist information from HSMusic to your own music library, and has <a href="https://leo60228.space/hsmusicifier-0-2-0-add-track-art-and-artist-info-to-your-homestuck-music-collection-in-any-format/">a bunch</a> of <a href="https://leo60228.space/hsmusicifier-0-3-0-split-up-bundled-albums-with-additional-flexibility-for-art/">other utilities</a> too. Our car dashboard shows track art for what's currently playing; it's been a wonder to have the original art restored, as well as the anthology fanart for albums like [[album:homestuck-vol-5]] and [[album:beyond-canon]] show up there!
+    As ever, thank you for the support and feedback. Besides the Discord, [[static:feedback|our usual channels remain open]], so you're much encouraged to share any comments or music suggestions for the coming releases!
+    <i>~ Quasar Nebula</i>
+---
+Name: Traversing Fandom
+Directory: traversing-fandom
+Date: January 12, 2021
+Content: |-
+    <i>First update of 2021 - now releasing monthly! (Also, Discord!)</i>
+    Hey again, and welcome (as best one can be welcomed) to 2021! As announced in the last update's news entry, the new leading direction of the wiki is sharing and celebrating music created by fan musicians at large. In addition to <i>fifteen</i> new albums, this update builds on last update's foundations - details past the split - and we've started a Discord for visitors of the wiki as well!
+    <hr class="split">
+    <i>Once again, thanks to everyone who helped out or sent kind messages during development! The launch of the new wiki went totally smoothly, and the encourgament from everyone we've spoken to about the wiki has been really astounding. Thank you!</i>
+    Much of last update was spent planning and programming, but thanks to that groundwork, we have far more albums to share this time, each full of uniquely incredible music! To highlight that, we'll jump into the summary right away:
+    - From [[group:unofficial-mspa-fans]]:
+        - (2017) [[album:weird-puzzle-tunes]], a tribute album for the ninth anniversary of Problem Sleuth
+        - (2017) [[album:vaporwave-2016]], a solo album by [[artist:jamie-paige-stanley]] that is exactly what it says on the tin
+        - (2017) [[album:xenoplanetarium]], an album inspired by [[album:medium]], lending depth and musical texture to the trolls' lands
+        - (2017) [[album:gristmas-carols]], a Christmas-themed holiday album and a reprise of the seven-years-earlier [[album:homestuck-for-the-holidays]]
+        - (2019) [[album:cosmic-caretakers]], a tribute to all the guardian figures in Homestuck (yes, all of them!)
+        - (2019) [[album:moons-of-theseus]], a fantastically produced tribute to [[album:mobius-trip-and-hadron-kaleido]] and the other works of [[artist:michael-guy-bowman]]
+        - (2020) [[album:friendsymphony]], a three-disc album inspired by [[album:hiveswap-friendsim]] with a song for each of the much-befriended Friendsim trolls
+    - From [[group:oceanfalls]]:
+        - (2017) [[album:oceanfalls-vol-1]], the origin of Oceanfalls music and a solo album by triple-time musician, track artist, and comic creator [[artist:nights]]
+        - (2018) [[album:contritum]], a single-track release for the conclusion of Oceanfalls' first chapter
+        - (2019) [[album:oceanfalls-vol-2]], an album packed with music and art now from a diverse set of musicians (many who would go on to compose the esteemed <i>catgirl music</i>-pioneering [[album:oceanfalls-vol-3]]!)
+    - From [[artist:tee-vee]] (who also contributed several tracks to [[album:friendsymphony]]):
+        - (2020) [[album:theres-no-place-like-home]], a prog rock medley album celebrating virtually the entire official discography of Homestuck music! (Be sure to <a href="https://www.youtube.com/watch?v=qh0YkQn_zLU">check out the movie</a>!)
+    - From [[artist:toby-fox]]:
+        - (2010) [[album:the-baby-is-you]], the infamous pinnacle of T. ("Radiation") F. content, a shitpost we mere mortals are blessed by the birth of
+        - (2015) [[album:undertale-soundtrack]], complete with interactive reference info just like the rest of HSMusic, courtesy of <a href="https://undertale.fandom.com/wiki/Leitmotifs">the Undertale Wiki</a>
+        - (2018) [[album:deltarune-ch1-ost]], also with leitmotif information thanks to <a href="https://deltarune.fandom.com/wiki/Leitmotifs">the Deltarune Wiki</a>
+    - From [[artist:nuclear333]]:
+        - (2021) [[album:inhospitable-delisted]], a re-release of the now-delisted INHOSPITABLE Vol. 1 from 2017, featuring music from the original release of their comic, [[group:inhospitable]]
+    Phew! That's a lot of music. In fact, [[group-gallery:fandom|the Fandom gallery]] is starting to become <i>kind of crowded!</i> How is anyone supposed to find what they're looking for now?? (Or so we hypothetically project you asking.)
+    Well, you've probably noticed already: <b>groups</b> are the new feature designed to answer that question! They have two purposes: to improve <i>navigability</i>, and to improve <i>discoverability</i>. Conveniently, these go hand in hand - and they're so crucial that we've worked them into the layout of the site as a whole!
+    On the right side of the screen (or at the bottom of the page, if you are using a more compact display), you can now see the groups an album is part of. If you click to visit the group's dedicated page, you'll find a blurb introducing the group, and a chronological listing of their albums. Or you can choose the "Gallery" tab to view an album gallery, just like the <i>Fandom</i> and <i>Official</i> homes (which are now programmed as groups too)!
+    The inspirations from Bandcamp should be apparent to anyone familiar, but we've added a few bonuses unique to a colossal compendium like HSMusic: chronology links, for easily exploring the history of a group's releases, and external links, for visiting a group or project at its own homes.
+    Actually, those outgoing links shouldn't go understated: we're hoping their presence will encourage avid listeners to step further and delve into the worlds surrounding the music featured here on the wiki. (That's been the goal with, for example, displaying artist credit links up-front on the pages they contribute to - we want browsers to explore both the wiki and beyond!)
+    As ever, there are a few minor additions and tweaks, too - check out [[static:changelog#12-jan-2021|the changelog]] for full details!
+    <hr>
+    Finally, some announcements surrounding the wiki (the <i>meta</i>, if you will):
+    - <b>Discord:</b> We've started [[static:discord|a Discord server]] for the wiki! Actually, it's been around for a few months, but we haven't publicized the link properly until now (it's in the "get involved" section on the homepage too). Follow the community guidelines and rules, and all are welcome to join and chat about the wiki, Homestuck music, and similar such shenanigans! (Psst, WIP update teasers are frequently shared here!)
+    - <b>Patreon:</b> It occurred to us one strange, ominous night that Liberapay is <i>not actually</i> a platform most people are familiar with. So, <a href="https://www.patreon.com/qznebula">we started a Patreon</a> focused on the music wiki! As ever, there's no pressure to donate, but it would go much appreciated if you're able - this update took over <a href="https://docs.google.com/spreadsheets/d/11L4ksnILTNKuLXT5PBIBxr34cZ0wk6P9aZO-vpeSsnU/edit#gid=1993970319">45 hours</a> to put together, in all!
+    - <b>Updates:</b> Like we mentioned at the top of this news entry, updates for the site will be releasing once a month now, aiming for release every twelfth, provided no (un)natural disasters get in the way! This is kind of experimental, but we figure it'll be fun to have a specific day visitors of the wiki can get excited for.
+    As ever, thank you for the support and feedback. Besides the Discord, [[static:feedback|our usual channels remain open]], so you're much encouraged to share any comments or music suggestions for the coming releases!
+    <i>~ Quasar Nebula</i>
+---
+Name: Launch of HSMusic.wiki!
+Directory: hsmusicwiki
+Date: December 12, 2020
+Content: |-
+    <i>Welcome to all visitors, new and returning!</i>
+    We're proud to announce the launch of <a href="https://hsmusic.wiki/">https://HSMusic.wiki</a>, the new home of the Homestuck Music Wiki! If you've visited the wiki before, you've probably already noticed plenty of changes. I'll cover a few of the changes in this news entry, and talk about the future direction of the wiki too - there's been a shift over the last few updates I'd love to shed some light on. :)
+    <hr class="split">
+    <i>First off: I'd like to personally thank [[artist:nuclear333]], [[artist:foreverflummoxed]], and Niklink for their help putting this update together; I worked with all three through its development, and it wouldn't be as complete or cohesive an update without their feedback and encouragement. Extra thanks to nata for tech help as we moved the site from GitHub Pages to an independently hosted server and domain, and to everyone we contacted for being so welcoming to share their music on the wiki!</i>
+    If you've been following the changelog for the last several updates, you might've noticed an interesting assortment of albums coming to the wiki: Clark Powell's [[album:labyrinths-heart]], Casual Sunday's [[album:shortcuts]], and Kal-la-kal-la's [[album:exceptis-excipiendis]], for example. What do these albums have in common? Well, none of them are <i>quite</i> Homestuck albums; across all three, only the track [[track:requiem-labyrinths-heart]] could be considered an outright Homestuck track! However, each album was created by recognizable artists within the sphere of Homestuck music. Could this pattern be significant?
+    During the development of those updates ([[static:changelog#24-july-2020|recompose, refine]] and [[static:changelog#10-oct-2020|autumnal polish haul]] in particular), it was more of an experimental idea - but with the launch of the new hsmusic.wiki domain, I figured now is as good a time as any to really embrace that new direction:
+    <b>HSMusic is expanding its focus to feature, side-by-side with Homestuck-specific releases, albums created by artists who've found a home as part of the Homestuck music scene!</b>
+    This is in keeping in line with the basic guide of the wiki from the start: <i>celebration</i>. Since the start, we've been celebrating the music we love - through archival, presentation, and discovery. With the former two being polished and perfected over the the year since [[static:changelog#15-nov-19|initial release]], I figure it's time to revisit and prioritize that third one: discovery! So, just as [[static:changelog#1-mar-20|half a year ago]], the scope of the wiki is expanding once again.
+    For the forseeable future, in addition to the usual site updates and tweaks part of every major update, you'll be finding new albums shared on the wiki regularly! I'd strongly encourage you to check out their personal sites, and of course, purchase the albums you particularly enjoy, if you're able - every artist appreciates support for their creations!
+    On that note, <a href="https://liberapay.com/nebula">I've opened a Liberapay</a> if you'd like to throw a dollar or two my way as tips for my work on the wiki - I'm immensely thankful, of course, but no expectations either! We have enough to keep the site running as-is regardless. :)
+    <hr>
+    So, without further ado, some update highlights:
+    - A totally redesigned homepage! It's considerably denser than before - but I'm hoping I've managed to reach that peculiar paradox of it being more usable as a landing page as well.
+    - Five new albums, plus some goodies:
+        - [[album:hiveswap-act-2-ost]] - yes, with complete credits. ([[root:media/misc/hiveswap-act-2-breakdown.png|Thanks, James Roach!]])
+        - [[album:homestuck-for-the-holidays]] and [[album:tomb-of-the-ancestors]], the two albums from <a href="https://homestuckgaiden.bandcamp.com/">Homestuck Gaiden</a> we hadn't archived before! (As far as I know, this is the first time per-track art credits for ToTH have ever been released - much thanks to the album's artist, [[artist:kalibration]], for helping with this via email!)
+        - [[album:the-genesis-project-vol-1]] and [[album:oceanfalls-vol-3]], compilation albums from artists who by and large found their roots in the Homestuck music scene! Check out The Genesis Project, a fan-game aiming to replicate Sburb itself, at <a href="https://www.sburb.me/">sburb.me</a>; and Oceanfalls, an excellent webcomic inspired by Homestuck but certainly its own standalone work, at <a href="https://oceanfalls.net/">oceanfalls.net</a>!
+        - [[album:perfectly-generic-object]], a lovely track from [[artist:cristata]] following its earlier album [[album:perfectly-generic-album]]!
+        - ...and the original four releases of [[album:homestuck-vol-1]], [[album:homestuck-vol-2]], [[album:homestuck-vol-3]], and [[album:homestuck-vol-4]]. Check 'em out!
+    - A bunch of stylistic changes and tweaks across the site, all in the hopes of making a more usable and coherent design - or in less pretentious jargon, I'm trying to make things look better. :) Besides remaking the homepage from scratch:
+        - All pages use the same "page generation" code, meaning much more consistent navigation and layout everywhere. Though there aren't any particular plans to do so yet, this also means it's much easier to modify or expand page layouts in the future!
+        - The border around images is bolder and tiles themselves are smaller, emphasizing color and name recognition. The goal is to make a design for index pages that looks more balanced!
+        - Speaking of images, most of the images on the site are now lazy-loaded (meaning they are only downloaded as they enter the screen viewport), and they've all been tweaked so that the layout won't jitter as media files load!
+        - The sidebar and navigation for track pages have been revamped; besides grouping the tracks in many more albums (e.g. [[album:ancestral]]), we also show track numbers for groups in the sidebar, and the current track number next to the name in the nav bar!
+    - Dozens of data changes, the majority of which are from feedback from users of the site:
+        - Thanks to transcription and research efforts from Niklink, lyrics have been added and updated across many tracks! Check out, for example, [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:mister-bowman-tells-you-about-the-squiddles]], and [[track:creata]].
+        - A new "tags" feature for track art, categorizing all art on the wiki by the characters featured! Plus, gallery pages for each character (e.g. [[tag:jade]], [[tag:rose]], [[tag:jack-noir]]) and content warnings on art with sensitive or commonly triggering content.
+        - A bunch of reference and credit data has been fixed across the site, thanks to nuclear333, Bambosh, and an emailer! There are also a variety of improved track arts and many new artist credit links, largely thanks to foreverFlummoxed.
+    As always, complete update details can be found [[static:changelog#12-dec-2020|on the changelog]]! Have fun exploring the site - and of course, any feedback or comments are welcome, and can be sent our way [[static:feedback|via the usual channels]]. :)
+    <i>~ Quasar Nebula</i>
+    (PS: Working with everyone on this update has been a joy, so once again, a tremendous thank-you to everyone who offered feedback, resources, discussion and support over the course of development! Tangentially, with permission from Niklink, [[media:misc/changelog/niklink-lyric-shenanigans.txt|here's a transcript of our emails together]] - just for a look into what collaborating on the wiki is like, and to give Niklink's wonderful commentary the light of day.)

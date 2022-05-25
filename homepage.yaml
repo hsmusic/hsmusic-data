@@ -1,0 +1,33 @@
+Homepage: Homepage
+Sidebar Content: |-
+    <h1>Get involved!</h1>
+    - [[static:feedback|Send feedback]]
+    - [[static:discord|Join the Discord server]]
+    <hr>
+    [[news]]
+---
+Row: New Additions
+Type: albums
+Group: new-additions
+Count: 5
+---
+Row: Fandom
+Type: albums
+Group: Fandom
+Count: 7
+Actions:
+- '[[group-gallery:fandom|Explore Fandom!]]'
+---
+Row: Beyond
+Type: albums
+Group: Beyond
+Count: 7
+Actions:
+- '[[group-gallery:beyond|Explore Beyond!]]'
+---
+Row: Official
+Type: albums
+Group: Official
+Count: 11
+Actions:
+- '[[group-gallery:official|Explore Official!]]'
