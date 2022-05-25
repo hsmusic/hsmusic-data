@@ -96,7 +96,7 @@ Content: |-
     <h3>albums</h3>
     - <b>album addition credits:</b>
         - thanks to koba for putting together a huge spreadsheet of album data from [[group:canmt]] (including all-new track reference lists)
-        - thanks to leo for entering the initial album data for [[album:deltarune-ch2-ost]], plus other additions under [[group:undertale-and-deltarune]]
+        - thanks to vriska/leo for entering the initial album data for [[album:deltarune-ch2-ost]], plus other additions under [[group:undertale-and-deltarune]]
         - thanks to Niklink for filling out the album data for pretty much every other album listed below, and going to much-commendable effort to catalogue <a href="https://docs.google.com/spreadsheets/d/1TKeZd4dwk-PfE2FQs-nD-D7Nam48P1JlsPkM8I4F2n8/edit#gid=43393414">a master list of over 300 albums (and singles)</a> from the Homestuck fandom that are hosted on Bandcamp
         - thanks to everyone who shared missed album media and reported data errors, listed later in the "other additions" and "data changes" section!
     - added [[album:lofam5]]!
@@ -183,7 +183,7 @@ Content: |-
     - fixed incorrect title for [[track:skaian-dreams-remix]]
     - fixed artist/contributor confusion between the original and rereleased versions of [[track:harleboss]] and [[track:explore]] (thanks, Niklink!)
     - fixed [[track:contention-vol4]] not attributing [[group:toby-fox]]
-    - fixed [[track:caramelldansen]] not attributing [[artist:caramell]] (thanks, Leo!)
+    - fixed [[track:caramelldansen]] not attributing [[artist:caramell]] (thanks, vriska/leo!)
     - fixed [[track:red-sucker]] not attributing [[artist:kalibration]] (thanks, cookiefonster!)
     - fixed [[track:green-lolly]] and [[track:red-sucker]] incorrectly attributing [[artist:james-dever]]
     - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together]]/[[track:together-ost]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
@@ -201,9 +201,13 @@ Content: |-
         - refined artist credits for some previously "Lost in History" tracks, including [[track:deck-the-halls]], [[track:tempus-adest-floridum]] in [[track:good-king-wenceslas]], and [[track:the-star-spangled-banner]]
     - added specific artist credits to most video game tracks under [[album:unreleased-tracks]] (in addition to existing franchise artists), plus a few from other outside media! (thanks a bunch, FF!)
         - new artists: [[artist:aki-hata]], [[artist:allister-brimble]], [[artist:anne-bryant]], [[artist:asuka-ito]], [[artist:benjamin-wynn]], [[artist:bjorn-thors]], [[artist:daisuke-amaya]], [[artist:de-la-soul]], [[artist:delia-derbyshire]], [[artist:estelle-swaray]], [[artist:ford-klinder]], [[artist:go-ichinose]], [[artist:hideki-naganuma]], [[artist:hiroaki-tominaga]], [[artist:hirokazu-tanaka]], [[artist:hiroki-hashimoto]], [[artist:hiroki-kikuta]], [[artist:hitomi-sato]], [[artist:hoyt-curtin]], [[artist:jeremy-zuckerman]], [[artist:joseph-barbera]], [[artist:jun-funahashi]], [[artist:junichi-masuda]], [[artist:kate-higgins]], [[artist:keiichi-suzuki]], [[artist:kenichi-matsubara]], [[artist:koji-kondo]], [[artist:lin-manuel-miranda]], [[artist:ludwig-ickert]], [[artist:magnus-palsson]], [[artist:manaka-kataoka]], [[artist:mani-svavarsson]], [[artist:masahiro-andoh]], [[artist:masakazu-sugimori]], [[artist:masayuki-nagao]], [[artist:max-coveri]], [[artist:max-steiner]], [[artist:megumi-inoue]], [[artist:messiah]], [[artist:mitsuo-terada]], [[artist:mitsuto-suzuki]], [[artist:naoto-kubo]], [[artist:naoto-tanaka]], [[artist:nick-balaban]], [[artist:nobuo-uematsu]], [[artist:nump]], [[artist:paul-williams]], [[artist:quad-city-djs]], [[artist:rebecca-sugar]], [[artist:revergo]], [[artist:rob-tunstall]], [[artist:ron-grainer]], [[artist:saki-kabata]], [[artist:sean-burnes]], [[artist:shiho-fujii]], [[artist:shinji-ushiroda]], [[artist:shota-kageyama]], [[artist:snorri-engilbertsson]], [[artist:stefan-karl]], [[artist:stephen-burns]], [[artist:takahiro-yamada]], [[artist:takako-hirasawa]], [[artist:the-refreshments]], [[artist:the-super-mario-players]], [[artist:tommy-tallarico]], [[artist:tomohito-nishiura]], [[artist:toshio-masuda]], [[artist:william-hanna]], [[artist:yasuaki-iwata]], [[artist:yasuharu-takanashi]], [[artist:yasunori-mitsuda]], [[artist:yoshihito-yano]], [[artist:yugo-kanno]], [[artist:yuka-tsujiyoko]], [[artist:yumi-takahashi]], and [[artist:zun]]
+    - renamed tracks from [[artist:silvagunner]] to their Bandcamp release names, for ease of reference reading and disambiguation (thanks, vriska/leo!)
+        - added specific artists for these tracks too!
+        - new artists: [[artist:mth]], [[artist:the-voice-inside-your-head]], [[artist:the-yabba-dabba-mus]], [[artist:zvaari]]
     - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], and [[track: temporal-shenanigans]], and also [[track:the-sock-ruse]] (thanks, Celeste!)
     - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
     - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
+    - removed "7 GRAND DAD" and redirected references to [[track:meet-the-flintstones]]
     - removed a few artists which weren't being referenced anywhere else
         - moved misplaced links for "h0nk" to [[artist:danna-vital]] (thanks, Niklink!)
     - fixed [[track:verdancy-bassline]] not being listed the in reference list for [[track:kinetic-verdancy]]
@@ -238,7 +242,7 @@ Content: |-
     - fixed incorrect capitalization for [[album:sburb-ost]]
     - fixed duration of [[track:super-mario-bros-the-movie]], which was previously 1:04:14 (thanks, FF!)
     - added Bandcamp links back to [[group:clark-powell]]'s albums: [[album:we-are-all-satellites]], [[album:namesake]], [[album:someday]], and [[album:labyrinths-heart]] (thanks, Celeste!)
-    - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, Leo!)
+    - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, vriska/leo!)
     - replaced dead Youtube links to [[track:celestial-fantasia]], [[track:corridors-of-time]], [[track:icirrus-city]], [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle]], [[track:fear-of-the-heavens]], all tracks from [[artist:earthbound]], and removed dead Youtube link from [[track:planetarium]] (thanks, foreverFlummoxed, Sgeo, Celeste!)
     - added Youtube embeds for relevant videos to [[album:homestuck-vol-10]] and [[track:fly]] (thanks, Niklink!)
     - added listen links to [[artist:bill-bolin]]'s tracks on the official Homestuck albums (thanks, Niklink!)
@@ -256,7 +260,7 @@ Content: |-
             - new Oceanfalls tags: [[tag:aria-oceanfalls]], [[tag:corona-oceanfalls]], [[tag:five-oceanfalls]], [[tag:kaji-oceanfalls]], [[tag:kotori-oceanfalls]], [[tag:lune-oceanfalls]], [[tag:meimona-oceanfalls]], [[tag:nino-oceanfalls]], [[tag:onyx-oceanfalls]], [[tag:reed-oceanfalls]], [[tag:ruit-oceanfalls]], [[tag:ruta-oceanfalls]], [[tag:selene-oceanfalls]], [[tag:serena-oceanfalls]], [[tag:solis-oceanfalls]], [[tag:suvillan-oceanfalls]]
             - removed Midnight Crew tag and replaced with individual character tags
             - plus miscellaneous fixes and additions for existing tags in these albums
-            - huge thanks to Celeste for doing the initial pass of all art for setting tags, and everyone who shared feedback in the #art-tag-review [[static:discord|Discord]] channel, including Cello, deesoff, foreverFlummoxed, Geese, leo homestuck, Makin, megatti, and Niklink!
+            - huge thanks to Celeste for doing the initial pass of all art for setting tags, and everyone who shared feedback in the #art-tag-review [[static:discord|Discord]] channel, including Cello, deesoff, foreverFlummoxed, Geese, vriska, Makin, megatti, and Niklink!
         - added art tags for all [[group:desynced]] albums (thanks, Celeste!)
         - added art tags for all [[group:oceanfalls]] albums:
             - [[album:oceanfalls-vol-1]] & [[album:oceanfalls-vol-2]] (thanks, Celeste!)
