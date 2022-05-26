@@ -86,6 +86,7 @@ Content: |-
     - re-release tracks (such as [[track:black-vol-1-4]] from [[album:homestuck-vol-1-4]]) are no longer displayed in "Tracks that referenec" lists, and aren't counted in the [[listing:tracks/by-times-referenced|Tracks - by Times Referenced]] listing
     - colored track sections were removed from [[album:unreleased-tracks]] since it's been divided into [[group:additional-tracks|more specific albums anyway]], but they're now used in other areas of the site, including [[album:prospit-and-derse]] and [[album:homestuck-vol-1-4]]
     - though not all art has been ported yet, many albums and tracks (including most new ones) now have full resolution PNG artwork, accessible by clicking the cover art (thumbnails are still downscaled JPEGs to reduce data usage when generally browsing the wiki)
+    - "short name" for the wiki changed has been chagned from "HSMusic" to "HSMusic Wiki" - this shows up in browser tab titles, the site navigation bar, and social embeds like Discord
     - slight tweaks to the appearance of album grids (as in group and tag galleries), most notably aligning tiles to the top of each row so that artwork always shows up in an even line
     - improvements to the way track artist strings are word wrapped, preventing pages from getting wider than they're supposed to be when a track has many artists (such as [[track:left-hand-remix]])
         - also fixed word wrapping on content pages with extremely long single words (like [[track:iiywaswiwtbotsa4aatwuotdtmihcimfh]]) when the screen is thinner than that word
