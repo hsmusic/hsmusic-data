@@ -171,8 +171,9 @@ Content: |-
     - added updated lyrics, references contributors, and art tags to [[album:the-baby-is-you]] throughout the album
         - added [[track:lose-yourself]] and [[artist:eminem]] for references
     - added [[track:strife]] and booklet commentary to [[album:sburb-ost]]
+    - added background wallpaper to [[album:midnight-crew-drawing-dead]]
     - added [[track:the-ballad-of-jack-noir-original]], [[track:conflict]], [[track:haunt]] and [[track:mother-malcolm-brown]] to [[album:more-homestuck-fandom]] for referencing
-    - added [[track:i-knew-you-were-trouble]], [[track:im-a-believer]], and [[track:whats-up]] to [[album:references-beyond-homestuck]] for referencing references (thanks, Gibus Wearing Brony!)
+    - added [[track:i-knew-you-were-trouble]], [[track:im-a-believer]], and [[track:whats-up]] to [[album:references-beyond-homestuck]] for referencing references (thanks, Gibus Wearing Brony!), also [[track:walk-smash-walk]]
     <h3>data changes</h3>
     - added information for separate 'sampling' reference field to many tracks (mainly in [[group:official]], [[group:homestuck-gaiden]], and [[album:lofam5]]), not visible for now until support is implemented
         - some reference information will have appeared to disappear until then as it has been moved to samples
@@ -197,7 +198,8 @@ Content: |-
     - fixed [[track:take-flight]] not attributing cover artist [[artist:brad-griffin]]
     - fixed [[track:born-to-die]] not attributing cover artist [[artist:melodiousdiscord]]
     - fixed [[track:well-be-right-back]] not attributing [[artist:braiden-brian]] (thanks, Celeste!)
-    - fixed [[artist:carla-bravo]], [[artist:kate-holden]], and [[artist:josefin-b]] having some artist credits under a different name
+    - fixed [[track:tacit-blue]] not attributing [[artist:richard-gung]] or his lyrics (thanks, Comfy!)
+    - fixed [[artist:carla-bravo]], [[artist:kate-holden]], [[artist:kobacat]], and [[artist:josefin-b]] having some artist credits under a different name
     - divided previous artist "Lost in History" into two more specific labels, [[artist:unknown-artist]] and [[artist:traditional]] (thanks, Gibus Wearing Brony!)
         - refined artist credits for some previously "Lost in History" tracks, including [[track:deck-the-halls]], [[track:tempus-adest-floridum]] in [[track:good-king-wenceslas]], and [[track:the-star-spangled-banner]]
     - added specific artist credits to most video game tracks under [[album:unreleased-tracks]] (in addition to existing franchise artists), plus a few from other outside media! (thanks a bunch, FF!)
@@ -218,6 +220,7 @@ Content: |-
     - fixed [[track:five-four-stress]] not being listed in the reference list for [[track:stress]]    
     - fixed [[track:showtime-original-mix]] not being listed in the reference list for [[track:lifdoff]]
     - fixed [[Black Rose / Green Sun]] not being listed in the reference list for [[Black Hole / White Door]]
+    - fixed [[track:walk-smash-walk]] not being listed in the reference list for [[track:walk-stab-walk-rande]] (thanks, Sgeo!)
     - fixed [[Amen, Brother]] not being listed in the reference list for [[Airtime]] (thanks, Gibus Wearing Brony!)
     - fixed [[track:heyyeyaaeyaaaeyaeyaa]] not being listed in the reference list for [[track:oh-2017]] (thanks, Niklink!)
     - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
@@ -244,13 +247,16 @@ Content: |-
     - fixed duration of [[track:super-mario-bros-the-movie]], which was previously 1:04:14 (thanks, FF!)
     - added Bandcamp links back to [[group:clark-powell]]'s albums: [[album:we-are-all-satellites]], [[album:namesake]], [[album:someday]], and [[album:labyrinths-heart]] (thanks, Celeste!)
     - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, vriska/leo!)
-    - replaced dead Youtube links to [[track:celestial-fantasia]], [[track:corridors-of-time]], [[track:icirrus-city]], [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle]], [[track:fear-of-the-heavens]], all tracks from [[artist:earthbound]], and removed dead Youtube link from [[track:planetarium]] (thanks, foreverFlummoxed, Sgeo, Celeste!)
+    - replaced dead Youtube links to [[album:the-felt]], [[track:constant-conquest]], [[track:celestial-fantasia]], [[track:corridors-of-time]], [[track:icirrus-city]], [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle]], [[track:fear-of-the-heavens]], all tracks from [[artist:earthbound]], and removed dead Youtube link from [[track:planetarium]] (thanks, foreverFlummoxed, Sgeo, Celeste!)
     - added Youtube embeds for relevant videos to [[album:homestuck-vol-10]] and [[track:fly]] (thanks, Niklink!)
     - added listen links to [[artist:bill-bolin]]'s tracks on the official Homestuck albums (thanks, Niklink!)
     - fixed wrong Youtube link for [[track:virgin-orb]] (thanks, Sgeo!)
     - directory changed for some [[album:jailbreak-vol-1]] content
+    - added artist links and changed name of [[artist:clydesdale-edwin]], formerly The Black Curtain (thanks, Vortexius!)
     - fixed broken code repository link in About & Credit page (thanks, nanaian!)
+    - fixed bad artist links for [[artist:samm-neiland]] (thanks, Vortexius!)
     - misc artist data fixes (thanks, MT Argentum!)
+    - made the song names in [[album:prospit-and-derse]] and [[album:homestuck-vol-1-4]] appropriate colors per-section :)
     - loads of art tag additions and fixes:
         - added hundreds of art tags to all albums under [[group:official]] and [[group:fandom]], including many new setting / location tags
             - new setting tags: [[tag:alternia]], [[tag:battlefield]], [[tag:beforus]], [[tag:can-town]], [[tag:dark-carnival]], [[tag:deltritus]], [[tag:derse]], [[tag:dream-bubbles]], [[tag:earth]], [[tag:felt-manor]], [[tag:frog-temple]], [[tag:ruined-earth]], [[tag:the-theseus]], [[tag:lobaf]], [[tag:locah]], [[tag:locas]], [[tag:lodag]], [[tag:lofaf]], [[tag:lofam]], [[tag:lohac]], [[tag:lolar]], [[tag:lolcat]], [[tag:lomat]], [[tag:lomax]], [[tag:lopah]], [[tag:loraf]], [[tag:lotak]], [[tag:lotam]], [[tag:lopan]], [[tag:loqam]], [[tag:losaz]], [[tag:lotaf]], [[tag:lowaa]], [[tag:lowas]], [[tag:meteor]], [[tag:prospit]], [[tag:skaia]], [[tag:veil]]
