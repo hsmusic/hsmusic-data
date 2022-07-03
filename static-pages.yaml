@@ -190,6 +190,7 @@ Content: |-
     - fixed [[track:caramelldansen]] not attributing [[artist:caramell]] (thanks, vriska/leo!)
     - fixed [[track:red-sucker]] not attributing [[artist:kalibration]] (thanks, cookiefonster!)
     - fixed [[track:green-lolly]] and [[track:red-sucker]] incorrectly attributing [[artist:james-dever]]
+    - fixes [[track:broom-temperature]] and [[track:frondly-warning]] not attributing [[artist:jeff-liu]] or [[artist:cohen-edenfield]]
     - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together]]/[[track:together-ost]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
     - fixed [[track:oh-god-christmas]] and [[track:a-very-special-time]] not attributing [[artist:robert-j-lake]] (thanks, Makin!)
     - fixed [[track:a-spirited-conversation]] not attributing [[artist:max-wright]] or [[artist:marcy-nabors]]
@@ -209,7 +210,7 @@ Content: |-
     - renamed tracks from [[artist:silvagunner]] to their Bandcamp release names, for ease of reference reading and disambiguation (thanks, vriska/leo!)
         - added specific artists for these tracks too!
         - new artists: [[artist:mth]], [[artist:the-voice-inside-your-head]], [[artist:the-yabba-dabba-mus]], [[artist:zvaari]]
-    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], and [[track: temporal-shenanigans]], and also [[track:the-sock-ruse]] (thanks, Celeste!)
+    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], also [[track:the-sock-ruse]] (thanks, Celeste!) and [[track:kalesa-in-binondo]] (thanks, Comfy!)
     - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
     - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
     - removed "7 GRAND DAD" and redirected references to [[track:meet-the-flintstones]]
@@ -256,7 +257,7 @@ Content: |-
     - directory changed for some [[album:jailbreak-vol-1]] content
     - added artist links and changed name of [[artist:clydesdale-edwin]], formerly The Black Curtain (thanks, Vortexius!)
     - fixed broken code repository link in About & Credit page (thanks, nanaian!)
-    - fixed bad artist links for [[artist:samm-neiland]] (thanks, Vortexius!)
+    - fixed bad artist links for [[artist:samm-neiland]] (thanks, Vortexius!) and [[artist:kalibration]] (thanks, deesoff!)
     - misc artist data fixes (thanks, MT Argentum!)
     - made the song names in [[album:prospit-and-derse]] and [[album:homestuck-vol-1-4]] appropriate colors per-section :)
     - loads of art tag additions and fixes:
