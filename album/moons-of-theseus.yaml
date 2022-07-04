@@ -17,11 +17,12 @@ Groups:
 Banner Artists:
 - Nick Tucker
 Banner Dimensions: 1100x203
+Banner File Extension: png
 Wallpaper Artists:
 - Nick Tucker
 Wallpaper Style: |-
-    opacity: 0.35;
-    filter: grayscale(0.4);
+    opacity: 0.4;
+    background-position: center 30%;
 ---
 Track: Home
 Artists:

@@ -85,7 +85,7 @@ Content: |-
     - "Tracks that reference..." lists are now grouped by Beyond and Additional Tracks as well, instead of grouping everything that's not an official Homestuck track under Fandom
     - re-release tracks (such as [[track:black-vol-1-4]] from [[album:homestuck-vol-1-4]]) are no longer displayed in "Tracks that referenec" lists, and aren't counted in the [[listing:tracks/by-times-referenced|Tracks - by Times Referenced]] listing
     - colored track sections were removed from [[album:unreleased-tracks]] since it's been divided into [[group:additional-tracks|more specific albums anyway]], but they're now used in other areas of the site, including [[album:prospit-and-derse]] and [[album:homestuck-vol-1-4]]
-    - though not all art has been ported yet, many albums and tracks (including most new ones) now have full resolution PNG artwork, accessible by clicking the cover art (thumbnails are still downscaled JPEGs to reduce data usage when generally browsing the wiki)
+    - though not all art has been ported yet, many albums and tracks (including most new ones) now have full resolution PNG artwork, accessible by clicking the cover art (thumbnails are still downscaled JPEGs to reduce data usage when generally browsing the wiki), as well as PNG banner and backgrounds where applicable
     - "short name" for the wiki changed has been chagned from "HSMusic" to "HSMusic Wiki" - this shows up in browser tab titles, the site navigation bar, and social embeds like Discord
     - slight tweaks to the appearance of album grids (as in group and tag galleries), most notably aligning tiles to the top of each row so that artwork always shows up in an even line
     - improvements to the way track artist strings are word wrapped, preventing pages from getting wider than they're supposed to be when a track has many artists (such as [[track:left-hand-remix]])
@@ -174,6 +174,7 @@ Content: |-
         - added [[track:lose-yourself]] and [[artist:eminem]] for references
     - added [[track:strife]] and booklet commentary to [[album:sburb-ost]]
     - added background wallpaper to [[album:midnight-crew-drawing-dead]]
+    - added banner to [[album:archive]]
     - added [[track:the-ballad-of-jack-noir-original]], [[track:conflict]], [[track:haunt]] and [[track:mother-malcolm-brown]] to [[album:more-homestuck-fandom]] for referencing
     - added [[track:i-knew-you-were-trouble]], [[track:im-a-believer]], and [[track:whats-up]] to [[album:references-beyond-homestuck]] for referencing references (thanks, Gibus Wearing Brony!), also [[track:walk-smash-walk]]
     <h3>data changes</h3>
