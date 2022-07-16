@@ -80,6 +80,7 @@ Content: |-
     - new Additional Files feature added, including downloadable album booklets and other goodies, present across many official albums: [[album:homestuck-vol-4]], [[album:homestuck-vol-5]], [[album:alternia]], [[album:squiddles]], [[album:strife]], [[album:alterniabound]], [[album:homestuck-vol-7]], [[album:mobius-trip-and-hadron-kaleido]], [[album:sburb]], [[album:the-wanderers]], [[album:homestuck-vol-8]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:cherubim]], and [[album:homestuck-vol-10]]
         - includes all booklets and resources released with official albums that aren't included in downloads from the recent (2019) official Homestuck Bandcamp restructure
         - files from solo re-releases are included and shared publicly on the wiki with permission from their original artists
+        - includes unedited versions of Bandcamp banners and backgrounds used throughout the wiki
     - [[album:unreleased-tracks]] has been completely reorganized, with many tracks having been moved to new organizational albums [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]], all collected under new [[group:additional-tracks]] group
     - "new" [[listing:albums/by-date-added|Albums - by Date Added]] listing, which has actually existed since [[news-entry:the-my-ex-wife-is-a-real-bitch-update|May 2021]], but was previously somehow at <a href="https://notabug.org/hsmusic/hsmusic-wiki/issues/53">a typo'd path</a> and wasn't accessible from the listing index
     - "Tracks that reference..." lists are now grouped by Beyond and Additional Tracks as well, instead of grouping everything that's not an official Homestuck track under Fandom
@@ -173,8 +174,11 @@ Content: |-
     - added updated lyrics, references contributors, and art tags to [[album:the-baby-is-you]] throughout the album
         - added [[track:lose-yourself]] and [[artist:eminem]] for references
     - added [[track:strife]] and booklet commentary to [[album:sburb-ost]]
-    - added background wallpaper to [[album:midnight-crew-drawing-dead]]
+    - added background wallpaper to [[album:midnight-crew-drawing-dead]] and [[album:oceanfalls-vol-1]]
     - added banner to [[album:archive]]
+    - removed image compression artifacts from the backgrounds for [[album:tomb-of-the-ancestors]], [[album:shortcuts]], and [[album:p-s]]
+    - edited banner for [[album:bashful-hearts-out]] to preserve pixelated look
+    - fixed 'edits for wiki' attribution for altered banners missing for some albums
     - added [[track:the-ballad-of-jack-noir-original]], [[track:conflict]], [[track:haunt]] and [[track:mother-malcolm-brown]] to [[album:more-homestuck-fandom]] for referencing
     - added [[track:i-knew-you-were-trouble]], [[track:im-a-believer]], and [[track:whats-up]] to [[album:references-beyond-homestuck]] for referencing references (thanks, Gibus Wearing Brony!), also [[track:walk-smash-walk]]
     <h3>data changes</h3>
