@@ -20,6 +20,19 @@ Banner File Extension: png
 Banner Style: |-
     image-rendering: pixelated;
     image-rendering: crisp-edges;
+Wallpaper Artists:
+- nights
+Wallpaper Style: |-
+    background-color: black;
+    background-position: top center;
+    background-size: auto;
+    background-repeat: repeat-x;
+    opacity: 0.9;
+Additional Files:
+- Title: Bandcamp Banner and Background
+  Files:
+  - banner.png
+  - bg.jpg
 ---
 Group: Main album
 ---
