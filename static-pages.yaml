@@ -223,7 +223,7 @@ Content: |-
     - renamed tracks from [[artist:silvagunner]] to their Bandcamp release names, for ease of reference reading and disambiguation (thanks, vriska/leo!)
         - added specific artists for these tracks too!
         - new artists: [[artist:mth]], [[artist:the-voice-inside-your-head]], [[artist:the-yabba-dabba-mus]], [[artist:zvaari]]
-    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], also [[track:the-sock-ruse]] (thanks, Celeste!) and [[track:kalesa-in-binondo]] (thanks, Comfy!)
+    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], also [[track:the-sock-ruse]] (thanks, Celeste!) and [[track:kalesa-in-binondo]] (thanks, Comfy!) AND [[track:looking-for-a-rock]] (thanks, Cello!) AND [[track:today-i-put-jelly-on-this-hot-god]] (thanks, HermitCyclop!)
     - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
     - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
     - removed "7 GRAND DAD" and redirected references to [[track:meet-the-flintstones]]
@@ -249,7 +249,9 @@ Content: |-
     - fixed [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]] not being listed in the reference list for [[track:robert-jailbreak]] (and added lyrics) (thanks, Celeste & Niklink!)   
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
     - fixed [[track:story-of-tonight]] being named "Tomorrow There'll Be More Of Us" (thanks, Celeste!)
+    - fixed [[artist:christina-rossetti]] having a typo in their name (thanks, Geese!)
     - fixed [[track:gay-love-song-for-four-cellos]] not being marked as the original release for [[track:love-song]]
+    - fixed [[track:spare-friendship-maam]] having incorrect artwork
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
         - fixed artist commentary not showing up for [[track:frogsong]] and [[track:schrodingers-harbinger]]
         - fixed Instagram link not showing up for artist [[artist:dsnake]]
