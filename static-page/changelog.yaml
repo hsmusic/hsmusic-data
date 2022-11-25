@@ -190,13 +190,14 @@ Content: |-
     - renamed tracks from [[artist:silvagunner]] to their Bandcamp release names, for ease of reference reading and disambiguation (thanks, vriska/leo!)
         - added specific artists for these tracks too!
         - new artists: [[artist:mth]], [[artist:the-voice-inside-your-head]], [[artist:the-yabba-dabba-mus]], [[artist:zvaari]]
-    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], also [[track:the-sock-ruse]] (thanks, Celeste!) and [[track:kalesa-in-binondo]] (thanks, Comfy!) AND [[track:looking-for-a-rock]] (thanks, Cello!) AND [[track:today-i-put-jelly-on-this-hot-god]] (thanks, HermitCyclop!)
+    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], also [[track:the-sock-ruse]] (thanks, Celeste!) and [[track:kalesa-in-binondo]] (thanks, Comfy!) AND [[track:looking-for-a-rock]] (thanks, Cello!) AND [[track:today-i-put-jelly-on-this-hot-god]] (thanks, HermitCyclop!) AND [[track:dawn-of-man]] (thanks, Kidpen!)
     - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
     - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
     - removed "7 GRAND DAD" and redirected references to [[track:meet-the-flintstones]]
     - removed a few artists which weren't being referenced anywhere else
         - moved misplaced links for "h0nk" to [[artist:danna-vital]] (thanks, Niklink!)
     - fixed [[track:showtime-original-mix]] and [[track:sburban-jungle]] not being listed in the reference list for [[track:trickster-mode-engage]] and [[track:trickster-mode-blast-off]], respectively
+    - fixed [[flash:5440|[S] ==>]] (the A6I4 intro flash) listing [[track:english]] instead of [[track:eternity-served-cold]]
     - fixed [[track:ground-theme-super-mario-bros]] not being listed in the reference list for [[track:homosuck-swan-song]]
     - fixed [[track:verdancy-bassline]] not being listed the in reference list for [[track:kinetic-verdancy]]
     - fixed [[track:guardian]] not being listed in the reference list for [[track:guardian-v2]]
@@ -207,6 +208,8 @@ Content: |-
     - fixed [[Black Rose / Green Sun]] not being listed in the reference list for [[Black Hole / White Door]]
     - fixed [[track:walk-smash-walk]] not being listed in the reference list for [[track:walk-stab-walk-rande]] (thanks, Sgeo!)
     - fixed [[Amen, Brother]] not being listed in the reference list for [[Airtime]] (thanks, Gibus Wearing Brony!)
+    - fixed [[track:corrupting-tranquility]] (a new track by new artist [[artist:daydream-anatomy]]) not being listed in the reference list for [[track:skaia-ad-infinitum]]
+    - fixed [[track:megalo-strike-back]] and [[track:even-in-death]], not being listed in the reference list for [[track:megalo-in-death]]
     - fixed [[track:fabulous-secret-powers]] not being listed in the reference list for [[track:oh-2017]] (thanks, Niklink!)
     - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
     - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
@@ -216,6 +219,8 @@ Content: |-
     - fixed [[track:typheus]] not being listed in the reference list for [[track:heir-of-grief]]
     - fixed [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]] not being listed in the reference list for [[track:robert-jailbreak]] (and added lyrics) (thanks, Celeste & Niklink!)   
     - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
+    - fixed [[track:heir-seer-knight-witch]] being named "~ Heir - Seer - Knight - Witch ~"
+    - fixed [[track:blood-for-my-ancestors]] listing [[track:summer]] and [[track:howl]] as references
     - fixed [[track:the-story-of-tonight]] being named "Tomorrow There'll Be More Of Us" (thanks, Celeste!)
     - fixed [[track:fabulous-secret-powers]] being named "HEYYEYAAEYAAAEYAEYAA"
     - fixed [[track:i-am-a-man-of-constant-sorrow]] being named "Man of Constant Sorrow"
@@ -242,9 +247,9 @@ Content: |-
     - added Bandcamp links back to [[group:clark-powell]]'s albums: [[album:we-are-all-satellites]], [[album:namesake]], [[album:someday]], and [[album:labyrinths-heart]] (thanks, Celeste!)
     - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, vriska/leo!)
     - replaced many YouTube links in [[album:references-beyond-homestuck]] to official uploads where possible
-    - replaced dead YouTube links to [[album:the-felt]], [[track:constant-conquest]], [[track:celestial-fantasia]], [[track:corridors-of-time]], [[track:icirrus-city]], [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle-final-fantasy-vi]], [[track:fear-of-the-heavens]], all tracks from [[artist:earthbound]], and removed dead YouTube link from [[track:planetarium]] (thanks, foreverFlummoxed, Sgeo, Celeste!)
+    - replaced dead YouTube links to [[album:the-felt]], [[track:constant-conquest]], [[track:skaian-starstorm]], [[track:celestial-fantasia]], [[track:corridors-of-time]], [[track:icirrus-city]], [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle-final-fantasy-vi]], [[track:fear-of-the-heavens]], all tracks from [[artist:earthbound]], and removed dead YouTube link from [[track:planetarium]] (thanks, foreverFlummoxed, Sgeo, Celeste!)
         - also replaced dead YouTube links to [[track:a-bell-is-tolling]], [[track:bloody-tears]], [[track:chrono-trigger]], [[track:danger-high-voltage]], [[track:eternal-recurrence]], [[track:frogs-theme]], [[track:ghostbusters]],[[track:historia-crux]] (again), [[track:laytons-theme]], [[track:neos-city-night]], [[track:schalas-theme]], [[track:steam-gardens]], [[track:stone-tower-temple]], [[track:the-decisive-battle-final-fantasy-vi]] (again!), [[track:the-little-sprite]], [[track:the-number-of-the-beast]], [[track:the-simpsons-theme]], [[track:ultimate-koopa]], [[track:waluigi-pinball-wario-stadium]], [[track:wind-scene]], [[track:wonderwall]]
-    - changed YouTube links to [[track:guiles-theme]], [[track:milky-way-wishes-shooting]], and [[track:super-dry-dance]] to the correct versions
+    - changed YouTube links to [[track:guiles-theme]] and [[track:super-dry-dance]] to the correct versions
     - added YouTube embeds for relevant videos to [[album:homestuck-vol-10]] and [[track:fly]] (thanks, Niklink!)
     - added listen links to [[artist:bill-bolin]]'s tracks on the official Homestuck albums (thanks, Niklink!)
     - added Spotify listen links to [[album:mobius-trip-and-hadron-kaleido]], [[album:strife]], [[album:strife-2]], [[track:sburban-jungle]], [[track:ascend]] (thanks, Niklink!)
@@ -260,7 +265,7 @@ Content: |-
             - new setting tags: [[tag:alternia]], [[tag:battlefield]], [[tag:beforus]], [[tag:can-town]], [[tag:dark-carnival]], [[tag:deltritus]], [[tag:derse]], [[tag:dream-bubbles]], [[tag:earth]], [[tag:felt-manor]], [[tag:frog-temple]], [[tag:ruined-earth]], [[tag:the-theseus]], [[tag:lobaf]], [[tag:locah]], [[tag:locas]], [[tag:lodag]], [[tag:lofaf]], [[tag:lofam]], [[tag:lohac]], [[tag:lolar]], [[tag:lolcat]], [[tag:lomat]], [[tag:lomax]], [[tag:lopah]], [[tag:loraf]], [[tag:lotak]], [[tag:lotam]], [[tag:lopan]], [[tag:loqam]], [[tag:losaz]], [[tag:lotaf]], [[tag:lowaa]], [[tag:lowas]], [[tag:meteor]], [[tag:prospit]], [[tag:skaia]], [[tag:veil]]
             - new other tags: [[tag:jude]], [[tag:sweet-bro]], [[tag:hella-jeff]], [[tag:problem-sleuth]], [[tag:ace-dick]], [[tag:pickle-inspector]], [[tag:bees]], [[tag:birds]], [[tag:diemen]], [[tag:gate]], [[tag:homosuck]], [[tag:horses]], [[tag:imperial-drones]], [[tag:june]], [[tag:sans]], [[tag:lotus]], [[tag:skyllas-lusus]], [[tag:tumor]]
             - new CaNWC tags: [[tag:jhon]], [[tag:dabe]], [[tag:jaed]], [[tag:dadd]], [[tag:beq]], [[tag:kraket]], [[tag:terexi]], [[tag:equihorse]], [[tag:gametez]], [[tag:hecka-jef]], [[tag:swet-bro]], [[tag:germy]], [[tag:rubs-juice]], [[tag:hrates-bocars]], [[tag:dacronian-dignity]] (thanks, Niklink!)
-            - new Desynced tags: [[tag:kate-desynced]], [[tag:kates-dad-desynced]], [[tag:evan-desynced]], [[tag:evans-mum-desynced]], [[tag:momo-desynced]], [[tag:josh-desynced]], [[tag:cs-desynced]], [[tag:lee-desynced]], [[tag:ananke-desynced]], [[tag:her-desynced]], [[tag:masky-desynced]], [[tag:gaea-desynced]], [[tag:skaia-desynced]] (thanks, Celeste!)
+            - new Desynced tags: [[tag:kate-desynced]], [[tag:kates-dad-desynced]], [[tag:evan-desynced]], [[tag:evans-mum-desynced]], [[tag:momo-desynced]], [[tag:josh-desynced]], [[tag:enid-desynced]], [[tag:lee-desynced]], [[tag:ananke-desynced]], [[tag:her-desynced]], [[tag:masky-desynced]], [[tag:gaea-desynced]], [[tag:skaia-desynced]] (thanks, Celeste!)
             - new Heinoustuck tags: [[tag:john-heinoustuck]], [[tag:rose-heinoustuck]], [[tag:dave-heinoustuck]], [[tag:jade-heinoustuck]]
             - new Oceanfalls tags: [[tag:aria-oceanfalls]], [[tag:corona-oceanfalls]], [[tag:five-oceanfalls]], [[tag:kaji-oceanfalls]], [[tag:kotori-oceanfalls]], [[tag:lune-oceanfalls]], [[tag:meimona-oceanfalls]], [[tag:nino-oceanfalls]], [[tag:onyx-oceanfalls]], [[tag:reed-oceanfalls]], [[tag:ruit-oceanfalls]], [[tag:ruta-oceanfalls]], [[tag:selene-oceanfalls]], [[tag:serena-oceanfalls]], [[tag:solis-oceanfalls]], [[tag:suvillan-oceanfalls]]
             - removed Midnight Crew tag and replaced with individual character tags
@@ -279,7 +284,7 @@ Content: |-
     <h3>data changes</h3>
     - added missing A6I3 "[[track:weird-moody-horse-shit]]" flashes (thanks, FF!)
     - added missing bonus tracks from [[album:rust-apocalypse]] as re-releases of their original appearances on [[album:coloUrs-and-mayhem-universe-a]] (thanks, deesoff!)
-    - added blood CW to [[track:hauntjam]] (thanks, Low!)
+    - added blood CW to [[track:hauntjam]] (thanks, Celeste!)
     - added blood (abstract) CW to [[track:hauntjelly]], too
     - updated listen links for a number of tracks in [[album:unreleased-tracks]], using local archive uploads rather than relying on a torrent mirror
         - [[track:hawkeye]] (as heard in [[track:sunsetter]] and [[track:davesprite]])
@@ -300,7 +305,7 @@ Content: |-
         - [[track:synchronize-instrumental]]
         - [[track:myststuck-suite-full-version]]
         - [[track:requiem-for-something-really-excellent-demo]]
-    - added a bunch more tags from Low (thanks again!):
+    - added a bunch more tags from Celeste (thanks again!):
         - added new [[tag:scalemates]] tag to [[track:the-lemonsnout-turnabout]], [[track:teal-seer]], [[track:trollcops]], [[album:perfectly-generic-album]], and [[track:scales]]
         - added new [[tag:cats]] tag to [[track:wisest-wizord]], [[track:pumpkin-party-in-sea-hitlers-water-apocalypse]], [[track:pink-cat]], [[track:vodka-mutiny]], and [[track:ectobiology]]
         - added [[tag:aradia]], [[tag:john]], and [[tag:meenah]] tags to [[album:perfectly-generic-album]]
@@ -321,7 +326,7 @@ Content: |-
 
     <h2 id="5-aug-2021"><a href="#5-aug-2021">[[date:5 August 2021]]</a></h2>
     <h3>data changes</h3>
-    - a bunch of tag fixes from Low (thank you!):
+    - a bunch of tag fixes from Celeste (thank you!):
         - added [[tag:karkat]] tag to [[track:stride]]
         - added blood cw to [[track:pendulum]]
         - added corpse cw and [[tag:horrorterrors]] tag to [[track:doctor-remix]]
@@ -330,7 +335,7 @@ Content: |-
     <h2 id="2-aug-2021"><a href="#2-aug-2021">[[date:2 August 2021]]</a></h2>
     <h3>data changes</h3>
     - made "reasonpeason" an alias for [[artist:rebecca-peason]], updating art credits for [[track:chaotic-strength]] and [[track:science-seahorse]]
-    - added [[track:black-rose-green-sun]] to the reference list of [[track:orchid-horror]] (thanks, Low!)
+    - added [[track:black-rose-green-sun]] to the reference list of [[track:orchid-horror]] (thanks, Celeste!)
     <h3>bug fixes</h3>
     - fixed artist pages and chronology links always ordering artworks by a track's release date rather than accounting for later art additions (e.g. anthology projects for [[album:homestuck-vol-5]], [[album:alterniabound]], [[album:beyond-canon]])
 
@@ -352,7 +357,7 @@ Content: |-
     <h3>site changes</h3>
     - adjusted phrasing on footer and homepage rows to better reflect the wiki in its essentially finalized state
     <h3>data changes</h3>
-    - added art tags across [[album:moons-of-theseus]] (thanks, Low!)
+    - added art tags across [[album:moons-of-theseus]] (thanks, Celeste!)
     - fixed various typos throughout [[album:cosmic-caretakers]] (thanks, megatti!)
     - added [[track:dungeon-theme-zelda1]] to reference list of [[track:an-ascii-image-of-bowsette]] (thanks, Makin!)
     - updated description for [[group:inhospitable]] (thanks, nuclear333!)
@@ -393,7 +398,7 @@ Content: |-
     - removed the <code>backdrop-filter</code> CSS effect, which previously would the wallpaper behind the page container to create a "glossy glass" effect, but isn't suported consistently across browsers yet
     <h3>data changes</h3>
     - grouped the tracks in [[album:diverging-delicacies]] according to the corresponding portion of the homestuck epilogues (thanks, Niklink and FF!)
-    - added a Color tag to [[album:the-baby-is-you]], so links to it don't just inherit the color of the containing page (e.g. track reference in [[track:the-bad-time-is-you]] previously looking green; thanks, Low!)
+    - added a Color tag to [[album:the-baby-is-you]], so links to it don't just inherit the color of the containing page (e.g. track reference in [[track:the-bad-time-is-you]] previously looking green; thanks, Celeste!)
     - added soundcloud links for [[track:star-i-never-caught]], [[track:someday]], and [[track:harrigan]] (thanks, FF!)
     - data fixes/tweaks throughout [[album:entertaining-sound]]:
         - [[track:2016-but-all-the-best-memes-happen-at-the-same-time]] references [[track:goodbye-to-the-underground]] (not [[track:good-night]]) and [[track:stone-halation]] (not [[track:snow-halation]])
@@ -433,7 +438,7 @@ Content: |-
         - reconstruct: [[album:alterniabound]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:psycholonials]] (and EPs)
         - draw more background: [[album:lofam]], [[album:jailbreak-vol-1]], [[album:ancestral]]
         - font reconstruction: [[album:homestuck-vol-5]], [[album:homestuck-vol-6]]
-    - art tag fixes from LowDeath675 in a whole host of albums:
+    - art tag fixes from Celeste in a whole host of albums:
         - [[album:alternia]] ([[track:walls-covered-in-blood]])
         - [[album:ancestral]] ([[track:signless-protection-squad]])
         - [[album:beyond-canon]] ([[track:crystal-hung-in-firmaments-descent]])
@@ -615,7 +620,7 @@ Content: |-
         - renamed [[track:wisest-wizord]] (used to be "Wizest Wizord")
         - renamed [[track:revisit-rewind]] (used to have spaces around slash)
         - fixed typo in lyrics for [[track:cr1m1n4l-cr1m1n4l]] (used to be "Hey, crinimal scum, ...")
-    - added art tags to [[track:the-golden-towers]] and [[track:prospit-dreamers]], thanks to LowDeath675!
+    - added art tags to [[track:the-golden-towers]] and [[track:prospit-dreamers]], thanks to Celeste!
     - fixed duplicate commentary entries in [[track:doctor-vol-1-4]] and [[track:endless-climb-vol-1-4]]
     - removed some old commentary from [[track:sports]]. <a href="https://web.archive.org/web/20210310160447/https://hsmusic.wiki/track/sports/">RIP</a>
     - clarified wallpaper contributions that said "edits" (e.g. [[album:homestuck-vol-5]]) to say "edits for wiki"

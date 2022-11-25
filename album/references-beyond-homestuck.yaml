@@ -719,6 +719,14 @@ Duration: '1:49'
 URLs:
 - https://www.youtube.com/watch?v=H10bdZsclJ0
 ---
+Track: Galactic Nova
+Artists:
+- Kirby
+- Jun Ishikawa
+Duration: '0:50'
+URLs:
+- https://www.youtube.com/watch?v=hPT77G3LGwA
+---
 Track: Game Over
 Directory: game-over-bootleg
 Artists:
@@ -1149,14 +1157,6 @@ Duration: '1:59'
 URLs:
 - https://www.youtube.com/watch?v=iIowwZThIXM
 ---
-Track: 'Milky Way Wishes: Shooting'
-Artists:
-- Kirby
-- Jun Ishikawa
-Duration: '0:50'
-URLs:
-- https://www.youtube.com/watch?v=hPT77G3LGwA
----
 Track: Moon Over the Castle
 Artists:
 - Gran Turismo
@@ -1495,7 +1495,7 @@ Duration: '1:20'
 URLs:
 - https://www.youtube.com/watch?v=QMXmQkfNpGs
 Referenced Tracks:
-- 'Milky Way Wishes: Shooting'
+- Galactic Nova
 ---
 Track: Splatoon "Squid Kid" TV Commercial
 Artists:
@@ -6863,6 +6863,15 @@ Artists:
 Duration: '3:02'
 URLs:
 - https://www.youtube.com/watch?v=Bel7WcHeUXY
+---
+Track: Corrupting Tranquility
+Artists:
+- Daydream Anatomy
+Duration: '3:44'
+URLs:
+- https://daydreamanatomy.bandcamp.com/track/corrupting-tranquility
+- https://www.youtube.com/watch?v=1oCxM_r7AdM
+- https://www.youtube.com/watch?v=dtVMTHqlVlQ
 ---
 Track: Crank That
 Artists:
