@@ -6,6 +6,8 @@ Groups:
 - Additional Tracks
 Color: '#6c75f5'
 ---
+Group: Everything else
+---
 Track: 暗闇の中の光
 Directory: canwave3-track6
 Artists:
@@ -50,6 +52,9 @@ Contributors:
 Duration: '6:41'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/a-very-o-christmas
+Referenced Tracks:
+- We Are Number One
+- track:megalovania-undertale
 Lyrics: |-
     A shining light so bright on the Internet
     Wriggling with shittiness ever so said
@@ -180,6 +185,16 @@ Lyrics: |-
     Goodbye, I hope you have a Merry... Merry Halloween
     And from everyone on the Cool and New Web Comic, um, Music Team, we wish you all the best!
     (Thank you for Cool and New Web Comic! You're great dude! Goodnight.)
+Commentary:
+    <i>Cool and New Music Team:</i>
+    - "once a pon u time" by [[artist:tirantbacon|TirantBacon]]
+    - "Epik rap" by [[artist:tirantbacon|TirantBacon]]
+    - "THE O RAP" by [[artist:bambosh|Bambosh]]
+    - "middle rap" with lyrics by [[artist:wheals|wheals]] and vocals by [[artist:greentetrahedron|greenTetrahedron]]
+    - "We are Cool and New" by [[artist:cecily-renns|JohnJRenns]]
+    - "Lats rap" by [[artist:tirantbacon|TirantBacon]]
+
+    (It's a parody of <a href="https://www.youtube.com/watch?v=hLcp9uTVh3M">a very hussie christmas</a>, by toby fox)
 ---
 Track: All Alone
 Artists:
@@ -198,6 +213,7 @@ URLs:
 Track: Before Before the Beginning
 Artists:
 - Robert J! Lake
+Duration: '5:23'
 Has URLs: false
 ---
 Track: Blankest Stare
@@ -214,6 +230,18 @@ Duration: '2:16'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/brobot-scrimmage
 - https://www.youtube.com/watch?v=SlBic0tJpok
+Referenced Tracks:
+- track:heir-of-grief-collide
+---
+Track: Calliope
+Artists:
+- Malcolm Brown
+Duration: '1:08'
+URLs:
+- https://www.youtube.com/watch?v=2kjVPw8-zy4
+Referenced Tracks:
+- Lupus Mortis Aeternae
+- English
 ---
 Track: Calming Quartz (Beta)
 Artists:
@@ -265,7 +293,7 @@ Duration: '1:39'
 URLs:
 - https://www.youtube.com/watch?v=e1d8iai1Wlk
 Referenced Tracks:
-- track:endless-climb
+- Clockwork Melody
 ---
 Track: Conflict!
 Artists:
@@ -281,6 +309,8 @@ Duration: 0:41
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/contact
 - https://www.youtube.com/watch?v=p2GjJiciFro
+Referenced Tracks:
+- Touchdown
 ---
 Track: Contra
 Artists:
@@ -288,13 +318,15 @@ Artists:
 Duration: '1:02'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/contra
+Referenced Tracks:
+- Versus
 ---
 Track: D--> Break the Bow
 Artists:
 - Baleish
 Duration: '3:33'
 URLs:
-- https://pascalpotatovandenbos.bandcamp.com/track/d-break-the-bow
+- https://www.youtube.com/watch?v=ucxp9CZWEdI
 ---
 Track: DAVE STRIDER'S COOL MIXTAPE
 Artists:
@@ -302,6 +334,11 @@ Artists:
 Duration: '4:23'
 URLs:
 - https://soundcloud.com/serialsymphony/dave-striders-cool-mixtape
+Referenced Tracks:
+- licord nacrasty
+- The Sock Ruse
+Sampled Tracks:
+- The Sock Ruse
 ---
 Track: Daywalker ~Rise~
 Directory: daywalker-rise-contest
@@ -331,6 +368,8 @@ Artists:
 Duration: '2:55'
 URLs:
 - https://www.youtube.com/watch?v=osPRQThfC1E
+Referenced Tracks:
+- Unite Synchronization
 Lyrics: |-
     Yo, I was out for a while
     Cuz the red miles, Squarewave, get inside my sylladex
@@ -401,8 +440,7 @@ Artists:
 - Baleish
 Duration: '4:14'
 URLs:
-- https://pascalpotatovandenbos.bandcamp.com/track/distortion-navigator
-- https://www.youtube.com/watch?v=wPp7oekru_Y
+- https://www.youtube.com/watch?v=2Y-MXug_oA4   
 ---
 Track: Double Midnight
 Artists:
@@ -467,6 +505,8 @@ Duration: '2:39'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/fate-of-the-heir
 - https://www.youtube.com/watch?v=JrwpRVvPaKk
+Referenced Tracks:
+- The Blind Prophet
 ---
 Track: Five-Four Stress
 Artists:
@@ -503,7 +543,8 @@ Track: Flight of the White Wolf
 Artists:
 - Malcolm Brown
 Duration: '4:45'
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=rh_h8aJVfBU
 Referenced Tracks:
 - Rex Duodecim Angelus
 - Cascade (Beta)
@@ -538,6 +579,8 @@ Artists:
 Duration: '2:57'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/gentle-heat
+Referenced Tracks:
+- Darling Dolorosa
 ---
 Track: Good Morning, Dirk
 Artists:
@@ -546,6 +589,14 @@ Duration: '2:09'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/good-morning-dirk
 - https://www.youtube.com/watch?v=Tozc5YQFpW4
+---
+Track: Gunshow 2 Theme (Instrumental)
+Artists:
+- Aris Martinian
+Duration: '1:56'
+Has URLs: false
+Referenced Tracks:
+- track:explore
 ---
 Track: Ham And Steak
 Artists:
@@ -556,15 +607,22 @@ URLs:
 - https://soundcloud.com/dragonxvi/ham-and-steak-unused-homestuck-music
 Referenced Tracks:
 - Rex English
+- Calliope
+- You're So Rad
 - Unite Synchronization
 - Homestuck Anthem
 - track:showtime-original-mix
+- track:doctor
 ---
 Track: haunt
 Artists:
 - Andrew Hussie
 Duration: '2:33'
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=KE7K28JkDVk
+Commentary:
+    <i>Niklink:</i>
+    This track is also known as 'Hussjam' in the current iteration of the Homestuck Sound Test.
 ---
 Track: Hawkeye
 Artists:
@@ -732,7 +790,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/intro
 Referenced Tracks:
 - The Star-Spangled Banner
-- track:explore
+- Gunshow 2 Theme (Instrumental)
 Lyrics: |-
     (The year is 2020. President Trump has led our nation into one of the worst econonic recessions in the history of the Earth. Imigrants are pouring through the southern border. Just look at that chaos! If you thought the econony was bad with Obana in charge, think again! And not only has Trump destroyed the country, but he's running for re-election! His challenger? Representative Cory Booker from New Jersey. It's up to the intrepid Jhon Ebgret to make his way to the White House and assassinate the president, evil Trump, so that he can finally have Cory in the House! Is he a bad enough dude to off the President of the United States himself? Don't turn that dial! It's... CANWAVE TWOOOOOO!)
 ---
@@ -750,13 +808,17 @@ Commentary: |-
 Track: Isn't This "Is This the End?" Again?
 Artists:
 - Robert J! Lake
+Duration: '2:16'
 Has URLs: false
 ---
 Track: It Looks Back
 Artists:
 - Scorpyus
+Duration: '4:57'
 URLs:
 - https://svertofficialsoundtrack.bandcamp.com/track/it-looks-back
+Referenced Tracks:
+- Revnan's Theme
 ---
 Track: Jadesprite
 Artists:
@@ -764,6 +826,8 @@ Artists:
 Duration: '2:09'
 URLs:
 - https://www.youtube.com/watch?v=rdXvlsXlKOk
+Referenced Tracks:
+- The Beginning of Something Really Excellent
 ---
 Track: Jane's Dragon
 Artists:
@@ -779,6 +843,8 @@ Artists:
 Duration: '2:13'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/jittery-optimist
+Sampled Tracks:
+- them meows
 ---
 Track: Karkalicious
 Artists:
@@ -950,6 +1016,13 @@ Commentary: |-
 
     The fourth loop combines the motifs of all three characters to demonstrate the interaction between layers when all three are present. The final loop is a variation on the Problem Sleuth motif with an added theremin and a delay effect on all the instruments to give it a ‘spacy’ sound: we’re entering the realm of imagination and the music becomes appropriately screwy.
 ---
+Track: Lupus Mortis Aeternae
+Artists:
+- Malcolm Brown
+Duration: 0:32
+URLs:
+- https://youtu.be/gbiS4WkCOVo?t=14121
+---
 Track: Mayorlovania
 Artists:
 - Noisemaker
@@ -957,7 +1030,7 @@ Duration: '2:40'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/mayorlovania
 Referenced Tracks:
-- track:MeGaLoVania
+- Ultralovania
 Sampled Tracks:
 - Mayor Maynot
 Lyrics: |-
@@ -975,7 +1048,7 @@ Artists:
 - Rowyn Berlan
 Duration: '3:34'
 URLs:
-- https://pascalpotatovandenbos.bandcamp.com/track/miasmic-decay
+- https://www.youtube.com/watch?v=NvmxWizEJNM
 ---
 Track: Midnight Suffer
 Artists:
@@ -984,6 +1057,10 @@ Duration: '2:26'
 URLs:
 - https://soundcloud.com/maxy3/midnight-suffers
 - https://coolandnewwebcomic.bandcamp.com/track/midnight-suffer
+Referenced Tracks:
+- track:the-ballad-of-jack-noir-original
+Sampled Tracks:
+- I'm a Member of the Midnight Crew
 Lyrics: |-
     (Make her a member of the Midnight Crew!)
 ---
@@ -992,7 +1069,7 @@ Artists:
 - FrostyMac
 Duration: '2:21'
 URLs:
-- https://pascalpotatovandenbos.bandcamp.com/track/more-real-than-kraft-mayo
+- https://www.youtube.com/watch?v=k_-P6O_n1co
 ---
 Track: Moshi Moshi?
 Artists:
@@ -1000,6 +1077,8 @@ Artists:
 Duration: '2:21'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/moshi-moshi
+Referenced Tracks:
+- Bad Radio
 ---
 Track: Mother
 Directory: mother-malcolm-brown
@@ -1025,7 +1104,8 @@ Track: Non Compos Mentis
 Artists:
 - Bill Bolin
 Duration: '1:53'
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=ANwj8Zm82bA
 ---
 Track: 'null'
 Directory: null-toby-fox
@@ -1089,6 +1169,15 @@ URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/rematch
 - https://www.youtube.com/watch?v=V3MhvkhUXz8
 ---
+Track: Revnan's Theme
+Artists:
+- Gryotharian
+Duration: '2:26'
+URLs:
+- https://svertofficialsoundtrack.bandcamp.com/track/revnans-theme
+Referenced Tracks:
+- Your Fear Is On My Mind (Instrumental)
+---
 Track: Rex English
 Artists:
 - Toby Fox
@@ -1114,6 +1203,10 @@ Artists:
 Duration: '3:52'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/saoidfisd
+Referenced Tracks:
+- track:when-you-are-old-canwc
+- Ground Theme (Super Mario Bros.)
+- Penumbra Phantasm
 ---
 Track: Savior of the Dreaming Dead (Cascade Cut)
 Artists:
@@ -1131,6 +1224,8 @@ Artists:
 Duration: '2:50'
 URLs:
 - https://actomega.bandcamp.com/track/sburban-resolution
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Sea of Derse
 Artists:
@@ -1241,6 +1336,8 @@ Artists:
 Duration: '1:20'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/slamdown
+Referenced Tracks:
+- Smackdown
 ---
 Track: Snowfall
 Artists:
@@ -1248,6 +1345,8 @@ Artists:
 Duration: '6:25'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/snowfall
+Referenced Tracks:
+- Diamond Dust
 ---
 Track: Song for Rose Lalonde
 Artists:
@@ -1264,6 +1363,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/stay-in-touch
 - https://www.youtube.com/watch?v=ZjFavm2I9o8
 Referenced Tracks:
+- The Connection
 - Do You Remem8er Me
 ---
 Track: Smackdown
@@ -1272,6 +1372,8 @@ Artists:
 Duration: 0:42
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/smackdown
+Referenced Tracks:
+- track:beatdown-strider-style
 ---
 Track: Switchback
 Artists:
@@ -1328,7 +1430,7 @@ Artists:
 - Pascal van den Bos
 Duration: '2:29'
 URLs:
-- https://pascalpotatovandenbos.bandcamp.com/track/temporal-virtuoso
+- https://www.youtube.com/watch?v=GalZ7f-Sc2o
 Referenced Tracks:
 - Cascade (Beta)
 - Time on My Side
@@ -1474,6 +1576,15 @@ URLs:
 Referenced Tracks:
 - The Undying
 ---
+Track: Ultralovania
+Artists:
+- Noisemaker
+Duration: '2:41'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/ultralovania
+Referenced Tracks:
+- track:megalovania-halloween
+---
 Track: Unintentional Touhou
 Artists:
 - Cryptanark
@@ -1511,10 +1622,284 @@ Artists:
 Duration: '2:45'
 URLs:
 - https://www.youtube.com/watch?v=x6NrArPldZo
+Referenced Tracks:
+- track:sburban-jungle
 ---
 Track: Windwielder
 Artists:
 - Baleish
 Duration: '4:35'
 URLs:
-- https://pascalpotatovandenbos.bandcamp.com/track/windwielder
+- https://www.youtube.com/watch?v=mLwwOH0qy9o
+Referenced Tracks:
+- track:doctor
+---
+Track: You're So Rad
+Artists:
+- Malcolm Brown
+Duration: '2:12'
+URLs:
+- https://www.youtube.com/watch?v=9y5c-6-11eU
+Referenced Tracks:
+- track:crustacean
+---
+Group: From the Cool and New Music Team
+---
+Track: Bad Radio
+Artists:
+- Interrobang
+Duration: '2:47'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/bad-radio
+Referenced Tracks:
+- Connection Scrambled
+Lyrics: |-
+    [MUDA MUDA MUDA]
+---
+Track: Connection Scrambled
+Artists:
+- Griever
+Duration: '4:20'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/connection-scrambled
+Referenced Tracks:
+- Stay in Touch
+- The Stains of Time
+Sampled Tracks:
+- I Can't Believe You've Done This
+- Jojo's Bizarre Adventure
+- Jontron https://www.youtube.com/watch?v=zEtgRBjEZp0
+- Arrested Development S01E02
+- Kid Screaming At Black Ops PART 2
+- Shadow the Hedgehog
+- The Office S05E09
+Lyrics: |-
+    (Ah, fuck. I can't believe you've done this.)
+
+    (Oh my God!)
+    (Oh shit!)
+    (Oh, no!)
+    (Oh, no!)
+    (Shit!)
+    (I don't like where this is going.)
+    Wash away the anger (Oh my god, we're having a fire! ...Sale. Oh, the burning!)
+    Here I stand beneath the warm and soothing rain
+    The droplets falling gently down on the terrain (Oh, no!)
+    Wash away the sorrow all the stains of time
+    (That's right, get noscoped!) But there’s no memory it’s only dry inside (Get noscooooooped!)
+
+    (Oh, no!) (It's the Nutshack!) In the mud and sinking deeper
+    (Oh, no!) (It's the Nutshack!) Into a peaceful life
+    And it will come (It's the Nutshack!) (Oh shit!) Like a flood of pain
+    Pouring down on me (Oh my God!) (It's the Nutshack!)
+
+    And it will not let up
+    Until the end is here (Son of a bitch!)
+    And it will come through the darkest day (Smoke weed everyday!)
+    In my final hour
+    And it will never rest until the clouds are clear (You're going straight to hell!)
+    Until it finds my dreams have disappeared
+
+    [MUDA MUDA MUDA] [ORA ORA ORA]
+
+    (NOO GOD! NO. GOD. PLEASE. NO. NO!!! NO!!! NOOOOOO!!!)
+    (Ah, fuck. I can't believe you've done this.)
+---
+Track: Contact Established
+Artists:
+- Noisemaker
+Duration: '2:09'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/contact-established
+Referenced Tracks:
+- Sunset Over Bright Future
+- Mayor Maynot
+Sampled Tracks:
+- Mayor Maynot
+Lyrics: |-
+    May yor may yor may may may yor may yor may
+    May yor may may yor yor
+    May yor may yor may may may yor may yor may
+    May yor may may yor yor
+
+    May may may may yor may
+---
+Track: Contact Established (Unused Vocal Mix)
+Artists:
+- XenoZane
+Duration: '2:09'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/contact-established-unused-vocal-mix
+Referenced Tracks:
+- Contact Established
+- Crank That
+- X Gon' Give It to Ya
+- The Nutshack Intro
+- Snow halation
+- Yo Home to Bel-Air
+- GameBro (Original 1990 Mix)
+- Gangnam Style
+Sampled Tracks:
+- yeah come on
+Lyrics: |-
+    (Yuu)
+    X gon' give it to ya (What?)
+    Fuck waitin' for you to get it on your own, X gon' deliver to ya (Uh)
+    Knock-knock, open up the door, it's real
+    With the non-stop pop-pop from stainless steel
+    Go hard, gettin' busy with it (Ooh)
+    But I got such a good heart that I'll make a motherfucker wonder if he did it (Yeah)
+    Damn right, and I'll do it again (Yeah)
+    'Cause I am light so I gots to win (Uh, uh, uh)
+
+    Phil's from the soul, Jack's from the P.I
+    Horatio the Horat so big-eyed
+    Tito Dick, "Dickman" baby
+    He reaised Phil and loves the ladies
+
+    Jack is cool and he's lazy, he's still learnin'
+    Otherwise Cherry Pie, he's still a virgin (Ooh.)
+    Chita, meet the freak of the week-ah (Week-ah!)
+    Phil's homegirl, God Jack wanna keep her
+
+    But it's not happenin' neither (No), shake it like a seizure
+    Hold on, let me spark this, take a breather (Yeaaah-hahah!)
+    Breathe the reefer in my lungs
+    I got grapes, what you watching—
+
+    Todokete (<i>Ring out</i>)
+    Setsunasa ni wa namae o tsukeyou ka "Snow halation"? (<i>Shall I name this heart-rending pain "Snow halation"?</i>)
+    (May yor may yor may may may yor may yor may)
+
+    Now this is a story all about how
+    My life got flipped turned upside down
+    And I'd like to take a minute, just sit right there
+    I'll tell you how I became the prince of a town called Bel-Air
+    (May yor may may yor yor)
+
+    In West Philadelphia born and raised
+    On the playground is where I spent most of my days
+    Chillin' out, maxin', relaxin' all cool
+    And all shootin' some b-ball outside of the school
+    (May yor may yor may may may yor may yor may)
+
+    When a couple of guys who were up to no good
+    Started makin' trouble in my neighborhood
+    I got in one little fight and my mom got scared
+    And said "You're movin' with your auntie and uncle in Bel-Air"
+    (May yor may may yor yor)
+
+    The games will never stop, the games will never stop
+    The games will never stop, the games will never stop
+    The games will never stop, the games will never stop
+    The games will never stop, the games will never stop
+    The games will never stop, the games will never stop
+    The games will never stop, the games will never stop
+    The games will never stop, the games will never stop
+    The games will never stop, the games will never stop
+    Op, op, op, op, op, op, op, op, op op op op op op (May may may may yor may)
+---
+Track: First Contact
+Artists:
+- Aris Martinian
+Duration: '1:55'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/first-contact
+Referenced Tracks:
+- CONTACT
+---
+Track: its time
+Artists:
+- BitesizeBird
+Duration: 0:42
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/its-time
+---
+Track: OutRun
+Artists:
+- Cerulean
+Duration: '2:09'
+URLs:
+- https://www.youtube.com/watch?v=48O8tLXpEDQ
+Referenced Tracks:
+- onestop
+- track:upward-movement-dave-owns
+---
+Track: Sunset Over Bright Future
+Artists:
+- Cerulean
+Duration: '2:09'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/sunset-over-bright-future
+Referenced Tracks:
+- OutRun
+- First Contact
+---
+Track: The Connection
+Artists:
+- Kusoro
+Duration: '2:30'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/the-connection
+Referenced Tracks:
+- Contact Established (Unused Vocal Mix)
+- track:beatdown-strider-style
+- track:showtime-original-mix
+- track:MeGaLoVania
+- track:doctor
+- track:sburban-jungle
+- Lotus
+- Cascade (Beta)
+- track:upward-movement-dave-owns
+- track:skies-of-skaia
+- track:explore
+- track:endless-climb
+- Penumbra Phantasm
+- Rex Duodecim Angelus
+- Liquid Negrocity
+- track:aggrieve
+- Virgin Orb
+---
+Track: timeshit
+Artists:
+- Difarem
+Duration: 0:55
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/timeshit
+Referenced Tracks:
+- its time
+---
+Track: Touchdown
+Artists:
+- Cecily Renns
+Duration: '1:49'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/touchdown
+Referenced Tracks:
+- track:in-the-beginning-canwc
+---
+Track: when you are old
+Directory: when-you-are-old-canwc
+Artists:
+- Kal-la-kal-la
+Duration: '1:55'
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/when-you-are-old
+Referenced Tracks:
+- timeshit
+- track:when-you-are-old
+Lyrics: |-
+    When you are old and grey and full of sleep
+    And nodding by the fire, take down this book
+    And slowly read, and dream of the soft look
+    Your eyes had once, and of their shadows deep
+
+    How many loved your moments of glad grace
+    And loved your beauty with love false or true
+    But one man loved the pilgrim soul in you
+    And loved the sorrows of your changing face
+
+    And bending down beside the glowing bars
+    Murmur, a little sadly, how Love fled
+    And paced upon the mountains overhead
+    And hid his face amid a crowd of stars
