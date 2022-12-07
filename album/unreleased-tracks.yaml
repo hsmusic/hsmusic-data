@@ -16,6 +16,9 @@ Artists:
 Duration: '1:06'
 URLs:
 - https://www.youtube.com/watch?v=OtFH_VaHFwY
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. The MSPA newspost that discusses it calls it a "theme for Problem Sleuth". The actual filename itself was simply "ProblemSleuth.mp3". It's also sometimes known as "Problem Sleuth Title Theme".
 ---
 Track: Windchime Foley
 Artists:
@@ -23,6 +26,9 @@ Artists:
 Duration: '1:00'
 URLs:
 - https://www.youtube.com/watch?v=CSMMmOtRLiU
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. Older versions of the MSPA sound credits list it as 'sound effects', and later simply 'foley'.
 ---
 Track: '01'
 Directory: phat1
@@ -152,12 +158,12 @@ Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=175
 ---
-Track: Flute Performance
+Track: Flute Refrain
 Artists:
 - Jan van den Hemel
 Has URLs: false
 ---
-Track: SBAHJ THE MOVIE 1
+Track: Sweet Bro Theme Song
 Artists:
 - Robert J! Lake
 - David Ko
@@ -178,6 +184,9 @@ Lyrics: |-
     The laughs keep happening
 
     (With their token black friend Geromy...)
+Commentary: |-
+    <i>Niklink:</i>
+    Also known as SBAHJ THE MOVIE 1, because of it being used in '[[flash:sbahj-movie-1|SBAHJthemovie1.swf]]'
 ---
 Track: Hero's Growth
 Artists:
@@ -197,6 +206,9 @@ URLs:
 - https://www.youtube.com/watch?v=fvDpDxXXZog
 Referenced Tracks:
 - How Do I Live
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. Older versions of the MSPA sound credits list it as one of 'two shitty nic cage songs', the other eventually being known as [[track:nic-cage-song]].
 ---
 Track: Secret ROM
 Artists:
@@ -211,12 +223,25 @@ Referenced Tracks:
 - Wind Scene
 - Chrono Trigger
 ---
+Track: ERROR
+Artists:
+- Unknown Artist
+Has URLs: false
+Referenced Tracks:
+- Totaka's Song
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. Almost certainly made by [[group:toby-fox]].
+---
 Track: Typheus
 Artists:
 - Unknown Artist
 Has URLs: false
 Referenced Tracks:
 - Fear of the Heavens
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. Plays in multiple situations related to Typheus. Probably made by [[group:toby-fox]].
 ---
 Track: XROM
 Artists:
@@ -227,7 +252,37 @@ URLs:
 Referenced Tracks:
 - Secret ROM
 ---
-Track: Goat Foley
+Track: Flare (Cascade)
+Artists:
+- Clark Powell
+Duration: '3:26'
+URLs:
+- https://plazmataz.tumblr.com/post/19774190658/download-flare-cascade-i-have-recut-and
+- https://www.youtube.com/watch?v=hT0ijIKJkbE
+Referenced Tracks:
+- Flare
+- Cascade (Beta)
+Commentary: |-
+    <i>Clark Powell:</i>
+    I have recut and remastered my track Flare, as it was presented to you in the Cascade flash (rather than the calmed-down album version). I get asked a lot for this, so I decided to give it some extra love and attention.
+    I have attempted a number of times to put together a mix of Flare that utilized the distinctive crescendo that is recognizable from Cascade, but it never seems to work well without the cinematic context. The buildup sort of leads to nothing, and then the track either ends awkwardly or fades out, and I have something personal against fade-outs. Maybe I’ll talk about that someday. But not now.
+    I gave it another go, this time trying a decrescendo to bring the song back down from all the energy it riles up, then ending it on kind of a creepy note. I had more success here than I ever have in past attempts to cut the song together in this way.
+    Flare was a pretty big hit in its own right, so there’s always the pressure coming from the responsibility to handle this properly. I hope you enjoy it!
+---
+Track: Savior of the Dreaming Dead (Cascade Cut)
+Artists:
+- Malcolm Brown
+Duration: '4:31'
+URLs:
+- https://www.youtube.com/watch?v=h9dF20s8SYo
+Referenced Tracks:
+- Savior of the Dreaming Dead
+- Cascade (Beta)
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. You see, originally [[track:flare-cascade]] was released as 'Flare (Cascade Cut)', so the same was appended by fans to the edited form of [[track:savior-of-the-dreaming-dead]] seen in [[track:cascade]]. Later on when 'Flare (Cascade Cut)' was revamped and release under simply 'Flare (Cascade)' the name for this one had already stuck, and remained that way since.
+---
+Track: Sick Bleats
 Artists:
 - Toby Fox
 Has URLs: false
@@ -398,6 +453,9 @@ URLs:
 - https://www.youtube.com/watch?v=0Hd6q5xn8mg
 Referenced Tracks:
 - track:showtime-original-mix
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. Labeled simply as 'Trickster Mode' on the MSPA sound credits, albeit in conjunction with [[track:trickster-mode-blast-off|the other Trickster Mode track]].
 ---
 Track: Trickster Mode (Blast Off)
 Artists:
@@ -407,10 +465,15 @@ URLs:
 - https://www.youtube.com/watch?v=sCFuOmInTxQ
 Referenced Tracks:
 - track:sburban-jungle
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. Labeled simply as 'Trickster Mode' on the MSPA sound credits, albeit in conjunction with [[track:trickster-mode-engage|the other Trickster Mode track]].
 ---
 Track: Kazoostuck
 Artists:
 - Toby Fox
+Contributors:
+- Alex Rosetti (haunting kazoo refrain)
 Duration: 0:38
 URLs:
 - https://www.youtube.com/watch?v=mjKX8H3mSJo
@@ -425,6 +488,9 @@ URLs:
 - https://www.youtube.com/watch?v=MaywzJqgyh4
 Referenced Tracks:
 - The One Horse Open Sleigh
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name.
 ---
 Track: A Very Trickster Mode Christmas (WHEEEEEEEEEEE!)
 Artists:
@@ -436,17 +502,9 @@ Referenced Tracks:
 - A Very Trickster Mode Christmas
 Sampled Tracks:
 - Mario Paint baby sfx, maybe others like the meow?
----
-Track: Warhammer of Zillyhoo (With Mario Paint)
-Artists:
-- Toby Fox
-Duration: 0:49
-URLs:
-- https://www.youtube.com/watch?v=hCO-grMys2k
-Referenced Tracks:
-- Warhammer of Zillyhoo
-Sampled Tracks:
-- various Mario Paint sfx
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name.
 ---
 Track: A Very Trickster Mode Christmas (With Fancy Santas)
 Artists:
@@ -457,11 +515,19 @@ URLs:
 Referenced Tracks:
 - A Very Trickster Mode Christmas
 - Flowey's Laugh
+Sampled Tracks:
+- Flowey's Laugh
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name.
 ---
 Track: Yaldabaoth
 Artists:
-- Unknown Artist
+- Toby Fox
 Has URLs: false
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name.
 ---
 Track: Homosuck Anthem
 Artists:
@@ -481,6 +547,9 @@ Artists:
 Has URLs: false
 Referenced Tracks:
 - Typheus
+Commentary: |-
+    <i>Niklink:</i>
+    Let's face it, the glitches were almost certainly made by [[group:toby-fox]], who also created other glitchy versions of existing songs [[flash:3760|for use in flashes]], but we don't know for sure.
 ---
 Track: Elevatorstuck, with Meows
 Artists:
@@ -514,6 +583,9 @@ Track: Echidna
 Artists:
 - Toby Fox
 Has URLs: false
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name.
 ---
 Track: Horsecatska
 Artists:
