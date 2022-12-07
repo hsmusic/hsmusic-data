@@ -161,7 +161,8 @@ URLs:
 Track: Flute Refrain
 Artists:
 - Jan van den Hemel
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=3mSQ906o5JU
 ---
 Track: Sweet Bro Theme Song
 Artists:
@@ -226,7 +227,8 @@ Referenced Tracks:
 Track: ERROR
 Artists:
 - Unknown Artist
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=6-LCndKnVRE
 Referenced Tracks:
 - Totaka's Song
 Commentary: |-
@@ -236,7 +238,8 @@ Commentary: |-
 Track: Typheus
 Artists:
 - Unknown Artist
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=vpcey7fzrJ0
 Referenced Tracks:
 - Fear of the Heavens
 Commentary: |-
@@ -285,7 +288,8 @@ Commentary: |-
 Track: Sick Bleats
 Artists:
 - Toby Fox
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=fuOohbBhErY
 ---
 Track: Anbroids
 Artists:
@@ -524,7 +528,8 @@ Commentary: |-
 Track: Yaldabaoth
 Artists:
 - Toby Fox
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=4slYghjEnU0
 Commentary: |-
     <i>Niklink:</i>
     Unofficial name.
@@ -544,7 +549,8 @@ Sampled Tracks:
 Track: Typheus (Glitched)
 Artists:
 - Unknown Artist
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=XLoaD2K8c3E
 Referenced Tracks:
 - Typheus
 Commentary: |-
@@ -582,7 +588,8 @@ Referenced Tracks:
 Track: Echidna
 Artists:
 - Toby Fox
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=fUBIwmFVEVQ
 Commentary: |-
     <i>Niklink:</i>
     Unofficial name.
@@ -836,9 +843,18 @@ Artists:
 Art Tags:
 - Karkat
 - Alternia
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=Ne8kXtFgkjg
 Cover Artists:
 - Homestuck
+Commentary: |-
+    <i>James Roach:</i>
+    oh yeah, the music you hear during Karkat’s pesterquest route that isn’t his theme is the rhythmic motif for the drones. it happens in a few other places in Act 1 and Friendsim, as well as multiple place in Act 2
+
+    it might be a little wild because the motif isn’t melodic, but a good example of it is in “[[track:keep-your-head-down]]” and during the drone cutscene in act 1
+
+    <i>Niklink:</i>
+    Unofficial name. Found in the game's files as 'DRONE_PQ'.
 ---
 Track: CH3CK TH3 M3T4D4T4
 Artists:
@@ -864,11 +880,15 @@ Art Tags:
 - Aradia
 - Alternia
 Duration: '1:44'
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=jOKeLCRtG_o
 Cover Artists:
 - Homestuck
 Referenced Tracks:
 - Made of Time
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. Found in the game's files as 'ARADIA_INTRO-OUTRO'.
 ---
 Track: yeah, it is
 Artists:
@@ -897,9 +917,15 @@ Artists:
 Art Tags:
 - Aradia
 Duration: '1:39'
-Has URLs: false
+URLs:
+- https://www.youtube.com/watch?v=tQqX-UMxj0s
 Cover Artists:
 - Homestuck
+Lyrics: |-
+    [Unintelligible whispering]
+Commentary: |-
+    <i>Niklink:</i>
+    Unofficial name. Found in the game's files as 'ITS_NOTHING'.
 ---
 Track: KWCOM DOT WAV
 Artists:
