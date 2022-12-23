@@ -6,28 +6,17 @@ Sidebar Content: |-
     <hr>
     [[news]]
 ---
+Row: Official
+Type: albums
+Display Style: montage
+Group: Official
+Count: 18
+Actions:
+- '[[group-gallery:official|Explore Official!]]'
+- '[[group-gallery:fandom|Fandom]]'
+- '[[group-gallery:beyond|Beyond]]'
+---
 Row: New Additions
 Type: albums
 Group: new-additions
-Count: 5
----
-Row: Fandom
-Type: albums
-Group: Fandom
-Count: 7
-Actions:
-- '[[group-gallery:fandom|Explore Fandom!]]'
----
-Row: Beyond
-Type: albums
-Group: Beyond
-Count: 7
-Actions:
-- '[[group-gallery:beyond|Explore Beyond!]]'
----
-Row: Official
-Type: albums
-Group: Official
-Count: 11
-Actions:
-- '[[group-gallery:official|Explore Official!]]'
+Count: 6
