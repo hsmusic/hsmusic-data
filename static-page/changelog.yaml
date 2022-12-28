@@ -30,6 +30,7 @@ Content: |-
         - includes all booklets and resources released with official albums that aren't included in downloads from the recent (2019) official Homestuck Bandcamp restructure
         - files from solo re-releases are included and shared publicly on the wiki with permission from their original artists
         - includes unedited versions of Bandcamp banners and backgrounds used throughout the wiki
+        - includes a few wallpapers and sheet music shared separately by the creators
     - [[album:unreleased-tracks]] has been completely reorganized, with many tracks having been moved to new organizational albums [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]], all collected under new [[group:additional-tracks]] group
     - "new" [[listing:albums/by-date-added|Albums - by Date Added]] listing, which has actually existed since [[news-entry:the-my-ex-wife-is-a-real-bitch-update|May 2021]], but was previously somehow at <a href="https://notabug.org/hsmusic/hsmusic-wiki/issues/53">a typo'd path</a> and wasn't accessible from the listing index
     - "Tracks that reference..." lists are now grouped by Beyond and Additional Tracks as well, instead of grouping everything that's not an official Homestuck track under Fandom
@@ -46,277 +47,127 @@ Content: |-
         - new "Has Track Numbers" field on albums which switches between the default <code>&lt;ol&gt;</code> and unordered <code>&lt;ul&gt;</code> list displays for track lists
     <h3>albums</h3>
     - <b>album addition credits:</b>
-        - thanks to koba for putting together a huge spreadsheet of album data from [[group:canmt]] (including all-new track reference lists)
+        - thanks to [[artist:kobacat|koba]] for putting together a huge spreadsheet of album data from [[group:canmt]] (including all-new track reference lists)
         - thanks to vriska/leo for entering the initial album data for [[album:deltarune-ch2-ost]], plus other additions under [[group:undertale-and-deltarune]]
-        - thanks to Niklink for filling out the album data for pretty much every other album listed below, and going to much-commendable effort to catalogue <a href="https://docs.google.com/spreadsheets/d/1TKeZd4dwk-PfE2FQs-nD-D7Nam48P1JlsPkM8I4F2n8/edit#gid=43393414">a master list of over 300 albums (and singles)</a> from the Homestuck fandom that are hosted on Bandcamp
+        - thanks to [[artist:circlejourney|Circlejourney]] for filling out the album data for [[album:bee-forus-seatbelt-safebee]] and [[album:sburban-neighborhood]]
+        - thanks to Niklink for filling out the album data for pretty much every other album listed below, and going to much-commendable effort to catalogue <a href="https://docs.google.com/spreadsheets/d/1TKeZd4dwk-PfE2FQs-nD-D7Nam48P1JlsPkM8I4F2n8/edit#gid=43393414">a master list of over 300 albums (and singles)</a> from the Homestuck fandom, as well as almost all other uncredited changes listed below
         - thanks to everyone who shared missed album media and reported data errors, listed later in the "other additions" and "data changes" section!
+    - added [[album:deltarune-ch2-ost]] by [[group:toby-fox]]!
     - added [[album:lofam5]]!
-        - new artists: [[artist:c4rl3tt]], [[artist:aradiawithgeese]], [[artist:bakustrider]], [[artist:cloudie]], [[artist:crabaqqle]], [[artist:dromswell]], [[artist:fabricio-podest]], [[artist:flaredragon]], [[artist:j-airshiper]], [[artist:l4vo5]], [[artist:mmueoul]], [[artist:momo]], [[artist:monckat]], [[artist:nagunkgunk]], [[artist:pagingpossum]], [[artist:shwan]], [[artist:subversiveasset]], [[artist:sylvarn]], [[artist:tamajikis]], [[artist:v-6]], [[artist:warxtron]]
-            - updated links and names for several artists based on their credits for this album
-        - new [[album:more-homestuck-fandom|referenced fandom tracks]] for songs referenced in the album: [[track:a-very-o-christmas]], [[track:all-alone]], [[track:blankest-stare]], [[track:d-break-the-bow]], [[track:die]], [[track:dwelling-among-the-dream-bubbles]], [[track:eclipse-svert]], [[track:exploring-the-depths-of-sburb]], [[track:five-four-stress]], [[track:flight-of-the-white-wolf]], [[track:gentle-heat]], [[track:heir-of-grief-sax-cover-youtube]], [[track:in-the-beginning-canwc]], [[track:it-looks-back]], [[track:jittery-optimist]], [[track:keep-your-head-down-rustblood-sax-cover-story]], [[track:mayorlovania]], [[track:miasmic-decay]], [[track:more-real-than-kraft-mayo]], [[track:saoidfisd]], [[track:slamdown]], [[track:snowfall]], [[track:song-for-rose-lalonde]], [[track:switchback]], [[track:temporal-virtuoso]], [[track:windwielder]]
-        - new [[album:references-beyond-homestuck|referenced non-homestuck tracks]] as well: [[track:boss-mode]], [[track:destroy-them-with-lazers]], [[track:lrad]], [[track:my-sharona]], [[track:no-more-elders]], [[track:plur-police]], [[track:schalas-theme]], [[track:shave-and-a-haircut]], [[track:title-mega-man-3]]
-            - new artist entries for these in turn: [[artist:bambosh]], [[artist:braiden-brian]], [[artist:gordian]], [[artist:greentetrahedron]], [[artist:soluslunes]], [[artist:rowyn-berlan]], [[artist:knife-party]], [[artist:mega-man]], [[artist:the-knack]]
-        - [[track:gold-mage-playtime-is-over-mix]] is now in [[album:lofam5|LoFaM5]] instead of [[album:unreleased-tracks]]
-    - added [[album:sburb-ost-bonus-dlc]] by [[artist:brad-griffin]]!
-    - added [[album:bee-forus-seatbelt-safebee]] (thanks, Circlejourney!)
     - added all three [[group:tumblrstuck-bent]] albums by [[artist:samm-neiland]]!
         - added [[album:tumblrstuck-bent-ost-volume-0]]
         - added [[album:tumblrstuck-bent-ost-volume-1]]
         - added [[album:tumblrstuck-bent-ost-volume-2]]
-            - new artists: [[artist:akirata]] and [[artist:apitoxin]]
+    - added [[album:7th-gate-project]] by [[artist:catboss]]!
+    - added [[album:capricious-mistress-single]] and [[album:fuchsia-ruler-single]] by [[artist:kezinox]]!
+    - added [[album:team-paradox]] by (wait for it) [[artist:team-paradox]]!
+    - added [[album:olive-scribe]] by [[artist:bleed-binary]]
+    - added [[album:nice-wizards-electronic-extravaganza]] by [[artist:nice-wizard]]!
+    - added [[album:sburb-ost-bonus-dlc]] by [[artist:brad-griffin]]!
+    - added [[album:glitchstuck-volume-1]] by (yep) [[artist:glitchstuck]]!
+    - added [[album:heaven-sent]] and [[album:homestuck-swagazaki]] by [[artist:swagazaki]]!
+    - added [[album:ophiuchus-full-suite]] by [[artist:warxtron]]
     - added the [[group:canmt]] group!
         - added [[album:cool-and-new-voulem1]]!
-            - new artists: [[artist:ahnock]], [[artist:aiden-griffin-hanks]], [[artist:avianzo]], [[artist:flagellumvagueness]], [[artist:frikiman]], [[artist:johnjammin]], [[artist:miraculousavantgarde]], [[artist:monifate]], [[artist:no-funny-name]], [[artist:o]], [[artist:peachy-peter]], [[artist:putnam]], [[artist:vriska-did-nothing-wrong]]
-            - [[track:archagent-everlasting]], [[track:cascante]], and [[track:justice-must-be-a-serve]] are now here instead of in [[album:more-homestuck-fandom]]
-            - new [[album:more-homestuck-fandom|referenced fandom tracks]]: [[track:hey-man-volume-10-man-hey-check-it-out]], [[track:karkalicious]] (by new artist [[artist:superspecks]]), [[track:post-apocalyptic-fedora]]
-            - new [[album:references-beyond-homestuck|referenced non-homestuck tracks]]: [[track:bon-voyage-amigo]], [[track:bowmans-credit-score]] (can you guess what it is?), [[track:game-over-bootleg]], [[track:fergalicious]], [[track:fur-elise]], [[track:michael-bowman-remix]], [[track:radiation-is-now-on-youtube]], [[track:the-flintstones-the-rescue-of-dino-and-hoppy-title-themeending]]
-                - new artists for these: [[artist:ludwig-van-beethoven]], [[artist:felix-the-cat]], [[artist:fergie]], [[artist:naoto-yagishita]], [[artist:yasuko-yamada]]
         - added [[album:cool-and-new-volume-2]] and [[album:cool-and-new-volume-ii]]!
-            - new artists: [[artist:413]], [[artist:azurecacophony]], [[artist:bin]], [[artist:bitesizebird]], [[artist:cloudaria]], [[artist:cogentinvalid]], [[artist:dagwooddeluxe]]. [[artist:flamingfusion]], [[artist:frosted-flakes]], [[artist:gordian]], [[artist:griffington]], [[artist:jakkyr]], [[artist:minkt]], [[artist:moreepicthanyou747]], [[artist:petr-kratochvil]], [[artist:rom-m]], [[artist:samuel]], [[artist:slantedslash]], [[artist:sunilb]], [[artist:tegusoft]]
-            - [[track:chalk-emerald]], [[track:lord-spanish]], and [[track:tick]] are now here instead of in [[album:more-homestuck-fandom]], along with new entry [[track:game-hypothesis]]
-            - new [[album:references-beyond-homestuck|referenced non-homestuck tracks]]: [[track:300-this-is-sparta-remix]], [[track:boss-battle-pokemon-typing-adventure]], [[track:brodyquest]], [[track:chopsticks]], [[track:dragon-roost-island]], [[track:feel-good-inc]], [[track:futurama-main-theme]], [[track:megalo-strike-back]], [[track:messiah]], [[track:michael-rosen-rap]], [[track:moonlight-sonata]], [[track:red-like-roses-part-ii]], [[track:splatoon-squid-kid-tv-commercial]], [[track:waluigi-pinball-wario-stadium]], [[track:where-the-guns-at]]
-                - new artists for these: [[artist:azusa-chiba]], [[artist:casey-lee-williams]], [[artist:christopher-tyng]], [[artist:euphemia-allen]], [[artist:george-frideric-handel]], [[artist:futurama]], [[artist:gorillaz]], [[artist:jeff-williams]], [[artist:joonas-turner]], [[artist:jukio-kallio]], [[artist:keaton-monger]], [[artist:kenta-nagata]], [[artist:kimihiro-abe]], [[artist:masaharu-iwata]], [[artist:michael-rosen]], [[artist:nuclear-throne]], [[artist:rwby]], [[artist:sandy-lee-casey]], [[artist:shinobu-tanaka]], [[artist:skrillex]], [[artist:toru-minegishi]]
-        - added [[album:gunshow-singalong]] and new artist [[artist:dick2bombs]]!
+        - added [[album:gunshow-singalong]]!
         - added [[album:of-troles-and-chiptumes]] by [[artist:cookiefonster]]!
-            - new artists: [[artist:drworm]], [[artist:drxfactorz]], [[artist:nyashalex]], [[artist:sbahjsic]], [[artist:toast]], [[artist:wankwank]]
-            - new [[album:more-homestuck-fandom|referenced fandom tracks]]: [[track:catscratch]], [[track:eridans-theme-question-mark]], [[track:long-night-ahead]], also [[track:rex-mille-geromius]] is no longer in this category
-        - many new (and cool) art tags, check the end of this changelog for details
-    - added [[album:deltarune-ch2-ost]] by [[group:toby-fox]], with some accompanying tweaks:
-        - added a bunch of CD/vinyl release bonus tracks to [[album:undertale-soundtrack]]
-        - added [[track:gasters-theme-undertale]], now included in reference lists for [[track:gasters-theme]] and [[track:another-noir-extended-void-mix]]
-        - new artists: [[artist:coda]], [[artist:flashygoodness]], [[artist:lena-raine]], and [[artist:ace-attorney]] (somehow)
-    - added [[album:ulterior-motives]] by [[group:michael-guy-bowman]]!
-        - new artists: [[artist:bijan-eghtesady]], [[artist:lucas-adelman]]
-    - added [[album:songs-from-the-planet-earth]]!
-        - new artists: [[artist:blue-lennox]], [[artist:cassandraooc]], [[artist:feidlimid]], [[artist:jordan-chin]], [[artist:madipup]], [[artist:mercy-rose]], [[artist:nattysashy]], [[artist:robogauntlet]], [[artist:slamalama1]], [[artist:tunesofjasmine]], [[artist:valdotpng]], [[artist:vance-duche]]
-        - new [[album:references-beyond-homestuck|referenced non-homestuck tracks]]: [[track:drift-away]], [[track:havent-you-noticed-im-a-star]], [[track:lapis-lazuli]], [[track:peace-and-love-on-the-planet-earth]], [[track:tower-of-mistakes]], [[track:we-are-the-crystal-gems]], [[track:whats-the-use-of-feeling-blue]]
-            - new artists for these: [[artist:aimee-mann]], [[artist:aivi-and-surasshu]], [[artist:deedee-magno-hall]], [[artist:hellen-jo]], [[artist:jeff-ball]], [[artist:jeff-liu]], [[artist:michaela-dietz]], [[artist:olivia-olson]], [[artist:patti-lupone]], [[artist:sarah-stiles]], [[artist:shelby-rabara]], [[artist:stemage]], [[artist:tom-scharpling]], [[artist:zach-callison]]
-    - added [[album:songs-unsung]] by [[group:tensei]]!
-    - added [[album:exile]] by [[artist:bill-bolin]]!
-        - [[track:strider-showdown-loop]] is now here instead of in [[album:unreleased-tracks]]
-    - added [[album:heinoustuck-vol-1]]!
-        - new artists: [[artist:ainsil]], [[artist:amanda-singleton]], [[artist:artsekey]], [[artist:aswfs]], [[artist:audren]], [[artist:darkhakao]], [[artist:eridamnit]], [[artist:heinousdave]], [[artist:hexvertigo]], [[artist:karelianarmy]], [[artist:kikischeese]], [[artist:nicole-feltz]], [[artist:raptortier]], [[artist:sarcastic-fringehead]], [[artist:sticler]], [[artist:yorsh]]
-    - added [[album:7th-gate-project]] by [[artist:catboss]]!
-    - added [[album:glitchstuck-volume-1]] by new artist (yep) [[artist:glitchstuck]]!
-    - added [[album:team-paradox]] by new artist (wait for it) [[artist:team-paradox]]!
-        - new artists: [[artist:mediokrekarapase]], [[artist:sadochist]], [[artist:patrick-gilmore]] (for [[track:when-johnny-comes-marching-home]])
     - added [[album:play-the-rain]] by [[artist:lark-mordancy]]!
-    - added [[album:nice-wizards-electronic-extravaganza]] by new artist [[artist:nice-wizard]]!
-    - added [[album:homestuck-for-orchestra-ep]] by new artist [[artist:walt-ribeiro]]!
-    - added [[album:a-viral-medium-vol-1]] by new artist [[artist:maggot]] and new cover artists [[artist:shintari]] and [[artist:deer]]!
-    - added [[album:sburban-neighborhood]]!
-        - new artists: [[artist:crustacean-mother]], [[artist:gnos]], [[artist:ishmael-fisher]], [[artist:sunsprite]], [[artist:viceroy-of-monte-cristo]], [[artist:yoitscro]]
-        - new [[album:more-homestuck-fandom|referenced fandom tracks]]: [[track:overlook]], [[track:pumpkin-tide-acoustic-version-w-chords]], [[track:vast-error]]
-    - added [[album:s-press-play]]!
-        - new artists: [[artist:awsomfaic]], [[artist:ee-va-how]], [[artist:glassesblu]], [[artist:gungangineer]], [[artist:jonaya-riley]], [[artist:karketamine]], [[artist:leo-fox]], [[artist:zelpixel]]
-        - new [[album:references-beyond-homestuck|referenced non-homestuck track]]: [[track:title-the-legend-of-zelda]]
-    - added [[album:skaias-the-limit]]!
-        - new artists: [[artist:blvkarot]], [[artist:sonnivate]]
-    - added [[album:heaven-sent]] and [[album:homestuck-swagazaki]] by new artist [[artist:swagazaki]]!
-        - new artist: [[artist:chimune]] and new [[album:references-beyond-homestuck|referenced non-homestuck track]]: [[track:toxic-caves]] by new artist [[artist:howard-drossin]]
-    - added [[album:pantheon]] by [[artist:rainy]]!
-        - new [[album:more-homestuck-fandom|referenced fandom track]]: [[track:wind-waker]]
-    - added [[album:friendsim-2-volume-1]]!
-        - new artists: [[artist:artisticapparition]], [[artist:benny-james]], [[artist:queuestuck]]
-        - new [[album:references-beyond-homestuck|referenced non-homestuck track]]: [[track:over-the-rainbow]] and new artists [[artist:the-wizard-of-oz]], [[artist:harold-arlen]], [[artist:yip-harburg]], and [[artist:judy-garland]]
-    - added [[album:portalstuck-vol-1]] by new artist [[artist:yoyoyolo]] and cover artist [[artist:babiri-hachi]]!
-        - new [[album:references-beyond-homestuck|referenced non-homestuck track]]: [[track:reconstructing-more-science]] by new artist [[artist:mike-morasky]]!
-    - added [[album:capricious-mistress-single]] and [[album:fuchsia-ruler-single]] by [[artist:kezinox]]!
-        - new artist: [[artist:coffee-and-paperbags]]
-    - added [[album:olive-scribe]] by [[artist:bleed-binary]]
     - added [[album:rust-apocalypse-anniversary-remaster]] by [[artist:willow-ascenzo]]!
-    - added [[album:ophiuchus-full-suite]] by [[artist:warxtron]]
+    - added [[album:heinoustuck-vol-1]]!
+    - added [[album:homestuck-for-orchestra-ep]] by [[artist:walt-ribeiro]]!
+    - added [[album:a-viral-medium-vol-1]] by [[artist:maggot]]!
+    - added [[album:exile]] by [[artist:bill-bolin]]!
+    - added both SAHCon albums!
+        - added [[album:sburban-neighborhood]]!
+        - added [[album:skaias-the-limit]]!
+    - added [[album:songs-from-the-planet-earth]]!
+    - added [[album:bee-forus-seatbelt-safebee]]!
+    - added [[album:songs-unsung]] by [[group:tensei]]!
+    - added [[album:s-press-play]]!
+    - added [[album:ulterior-motives]] by [[group:michael-guy-bowman]]!
+    - added [[album:portalstuck-vol-1]] by [[artist:yoyoyolo]]!
+    - added [[album:pantheon]] by [[artist:rainy]]!
+    - added [[album:friendsim-2-volume-1]]!
     <h3>other additions</h3>
-    - added six removed tracks by [[artist:soluslunes]] back to [[album:homestuck-vol-5]]!
-        - [[track:electromechanism]], [[track:shatterface]], [[track:darkened]], [[track:endless-heart]], [[track:switchback]], [[track:cathedral-of-the-end]]
-            - added [[track:heart-of-the-creator]] and [[artist:rob-diaz-marino]] for references
+    - added six removed tracks by [[artist:soluslunes]] back to [[album:homestuck-vol-5]]
+    - added [[track:null-vol8]] by [[artist:toby-fox]] to [[album:homestuck-vol-8]] (moved from [[group:additional-tracks]])
     - added eight missing bonus tracks to [[album:strife-2]] (thanks, Cello!)
-        - [[track:the-king-in-red-beta]], [[track:unite-division-beta]], [[track:arachnofunkia-beta]], [[track:heel-girl-beta]], [[track:daet-with-roze-strife-2]], [[track:dance-of-thorns-karaoke]], [[track:bound-in-blood-beta]], [[track:duet]]
-            - added [[track:thin-red-line]] and [[artist:blazblue]] + [[artist:daisuke-ishiwatari]] for references
     - added five missing bonus instrumental tracks to [[album:ancestral]] (thanks, deesoff!)
-        - [[track:black-heart-green-dress-instrumental]], [[track:release-me-instrumental]], [[track:dualscars-lament-instrumental]], [[track:the-mechanism-instrumental]], [[track:leftovers-instrumental]]
     - added [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]] to [[album:jailbreak-vol-1]]
         - fully transcribed, all 43 minutes of it (thanks Nameless Rumia for the initial transcription!)
-    - added updated lyrics, references contributors, and art tags to [[album:the-baby-is-you]] throughout the album
-        - added [[track:lose-yourself]] and [[artist:eminem]] for references
     - added [[track:strife]] and booklet commentary to [[album:sburb-ost]]
-    - added background wallpaper to [[album:midnight-crew-drawing-dead]] and [[album:oceanfalls-vol-1]]
+    - added eight CD/vinyl release bonus tracks to [[album:undertale-soundtrack]] (thanks, vriska/leo!)
+    - many, many, many additions to [[group:additional-tracks]]
+        - added dozens of tracks to [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]] that are being referenced in newly added albums
+        - added dozens more tracks that are being referenced by tracks in said categories (thanks for some of these, Gibus Wearing Brony!)
+        - added lyrics to all tracks throughout the group, well over 100 of them!
+        - added missing specific artist credits throughout the group, again tallying over 100 new artists (thanks for most video game, movie, and television tracks, FF!)
+        - added commentary to multiple traditional [[album:references-beyond-homestuck]] tracks, providing snippets of context
+        - added explanatory notes as commentary to various tracks with no official names
+    - added [[flash:sbahj-movie-1]] to the Miscellaneous section of Flashes & Games and added [[track:sweet-bro-theme-song]] to [[album:unreleased-tracks]]
+    - added [[track:error]] to [[album:unreleased-tracks]]
+    - added background wallpapers to [[album:midnight-crew-drawing-dead]] and [[album:oceanfalls-vol-1]]
     - added banner to [[album:archive]]
+    - added preliminary information for track sampling to many tracks throughout the wiki (feature is currently disabled)
+    - added hundreds of art tags to all albums under [[group:official]] and [[group:fandom]]
+        - new setting tags (huge thanks to Celeste for doing the initial pass of all art for these!)
+        - new [[group:canmt|CaNWC]] tags
+        - new [[group:desynced|Desynced]] tags (thanks, Celeste!)
+        - new [[album:heinoustuck-vol-1|Heinoustuck]] tags
+        - new [[group:oceanfalls|Oceanfalls]] tags
+        - other new tags: [[tag:jude]], [[tag:sweet-bro]], [[tag:hella-jeff]], [[tag:problem-sleuth]], [[tag:ace-dick]], [[tag:pickle-inspector]], [[tag:bees]], [[tag:birds]], [[tag:diemen]], [[tag:gate]], [[tag:homosuck]], [[tag:horses]], [[tag:imperial-drones]], [[tag:june]], [[tag:sans]], [[tag:lotus]], [[tag:skyllas-lusus]], [[tag:tumor]]
+        - thanks to everyone who shared feedback in the #art-tag-review [[static:discord|Discord]] channel, including Cello, deesoff, foreverFlummoxed, Geese, vriska, Makin, megatti, and Niklink!
+    - added art tags for all [[group:desynced]] albums, [[album:weird-puzzle-tunes]] (thanks, Celeste!), all [[group:oceanfalls]] albums (thanks, Celeste & Secily Iopara!)
+    - added art tags for [[album:strife]], [[album:act-7]], [[album:hiveswap-act-1-ost]], [[album:perfectly-generic-album]], [[album:the-funk-mclovin-homestuck-experience]], [[album:the-baby-is-you]], and [[album:the-baby-is-june]]'s covers (thanks, Celeste!)
+    - added art tags for all track arts consisting of screenshots of official material (filed under [[artist:homestuck]])
+    - added YouTube link for relevant videos to [[track:doctor-original-loop]] (with a transcription by Celeste!), [[album:homestuck-vol-10]] and [[group:michael-guy-bowman]]'s <a href="https://www.youtube.com/playlist?list=PLXwrWDm-S4oGBYovRwe2L4BA5yyZ7WzJv">music videos</a>
+    <h3>data changes</h3>
+    - moved [[group:desynced]] and [[album:perfectly-generic-object]] from [[group:beyond]] to [[group:fandom]]
+    - moved the individual [[group:psycholonials]] episode albums into [[group:beyond]]
+    - tracks [[track:strider-showdown-loop]], [[track:gold-mage-playtime-is-over-mix]], [[track:cooldown]], [[track:cascante]], [[track:justice-must-be-a-serve]], [[track:archagent-everlasting]], [[track:tick]], [[track:lord-spanish]], [[track:chalk-emerald]], and [[track:rex-mille-geromius]] have been removed from [[album:more-homestuck-fandom]] now that the albums they're from have been added to the wiki
+    - where applicable, banners and backgrounds throughout the wiki have been replaced with source quality png files
     - removed image compression artifacts from the backgrounds for [[album:tomb-of-the-ancestors]], [[album:shortcuts]], and [[album:p-s]]
     - edited banner for [[album:bashful-hearts-out]] to preserve pixelated look
     - fixed 'edits for wiki' attribution for altered banners missing for some albums
-    - added [[track:bad-radio]], [[track:the-ballad-of-jack-noir-original]], [[track:calliope]], [[track:conflict]], [[track:cool-and-new-music-team]], [[track:connection-scrambled]], [[track:contact-established]], [[track:contact-established-unused-vocal-mix]], [[track:feeling-cool-and-new]], [[track:first-contact]], [[track:gunshow-2-theme-instrumental]], [[track:haunt]], [[track:its-time]], [[track:lupus-mortis-aeternae]], [[track:outrun]], [[track:mother-malcolm-brown]], [[track:spritely-gardener]], [[track:sunset-over-bright-future]], [[track:the-connection]], [[track:timeshit]], [[track:touchdown]], [[track:ultralovania]], [[track:unintentional-anime-piano-version]], [[track:when-you-are-old]], and [[track:youre-so-rad]] to [[album:more-homestuck-fandom]] for referencing
-    - added [[track:i-knew-you-were-trouble]], [[track:im-a-believer]], and [[track:whats-up]] to [[album:references-beyond-homestuck]] for referencing references (thanks, Gibus Wearing Brony!), also [[track:axel-f]], [[track:colresss-theme]], [[track:doll-judgement-the-girl-who-played-with-peoples-shapes]], [[track:diamond-dust]], [[track:dont-cry-out-loud]], [[track:earth]], [[track:farewell-song]], [[track:good-day]], [[track:im-a-man-of-constant-sorrow]], [[track:johnny-fill-up-the-bowl]], [[track:jupiter-the-bringer-of-jollity]], [[track:katamari-on-the-rocks]], [[track:my-little-pony-friendship-is-magic-theme]], [[track:onestop]], [[track:nos-galan]], [[track:nyanyanyanyanyanyanya]], [[track:romantic-children]], [[track:shchedryk]], [[track:soul-0-system]], [[track:the-anacreontic-song]], [[track:the-stains-of-time]], [[track:x-gon-give-it-to-ya]], [[track:yo-home-to-bel-air]], [[track:when-you-are-old]], [[track:wild-wild-west]], [[track:wild-wild-west-kool-moe-dee]]
-        - new artists: [[artist:andrea-libman]], [[artist:ashleigh-ball]], [[artist:beverly-hills-cop]], [[artist:carole-bayer-sager]], [[artist:daniel-ingram]], [[artist:david-tickle]], [[artist:david-yackley]], [[artist:dick-burnett]], [[artist:dj-jazzy-jeff]], [[artist:dmx]], [[artist:dru-hill]], [[artist:ennio-morricone]], [[artist:flash-garments]], [[artist:gustav-holst]], [[artist:harold-faltermeyer]], [[artist:j-durnal]], [[artist:j-mac]], [[artist:jamie-christopherson]], [[artist:john-ceiriog-hughes]], [[artist:kazumi-evans]], [[artist:keita-takahashi]], [[artist:kit-walters]], [[artist:kool-moe-dee]], [[artist:lauren-faust]], [[artist:logan-mader]], [[artist:melissa-manchester]], [[artist:metal-gear]], [[artist:neil-diamond]], [[artist:peter-allen]], [[artist:peter-j-wilhousky]], [[artist:ralph-tomlinson]], [[artist:rebecca-shoichet]], [[artist:rob-fusari]], [[artist:shannon-chan-kent]], [[artist:shatek]], [[artist:smile]], [[artist:swizz-beatz]], [[artist:talhaiarn]], [[artist:the-fresh-prince-of-bel-air]], [[artist:the-good-the-bad-and-the-ugly]], [[artist:the-stanley-brothers]], [[artist:wild-wild-west]], [[artist:will-smith]], [[artist:william-butler-yeats]], [[artist:yuu-miyake]]
-    <h3>data changes</h3>
-    - added information for separate 'sampling' reference field to many tracks (mainly in [[group:official]], [[group:homestuck-gaiden]], and [[album:lofam5]]), not visible for now until support is implemented
-        - some reference information will have appeared to disappear until then as it has been moved to samples
-    - moved [[group:desynced]] and [[album:perfectly-generic-object]] from [[group:beyond]] to [[group:fandom]]
-    - added the individual [[group:psycholonials]] episode albums to [[group:beyond]]
-    - added [[flash:sbahj-movie-1]] to the Miscellaneous section of Flashes & Games and added [[track:sweet-bro-theme-song]] to [[album:unreleased-tracks]]
-    - added [[track:error]] to [[album:unreleased-tracks]] and [[track:totakas-song]] alongside artist [[artist:kazumi-totaka]] for referencing
-    - added explanatory notes as commentary to various tracks with no official names
-    - [[flash:338|Dave's Phat Beat Machine]] no longer features [[track:john-do-the-windy-thing]] after the demise of Flash
-        - 'cp_close.mp3' has been retitled [[track:captain-planet-and-the-planeteers-end-title]] and is now in [[album:references-beyond-homestuck]] with new artists [[artist:murray-mcfadden]], [[artist:timothy-mulhollan]], and [[artist:nicholas-boxer]]
-    - added lyrics for [[track:gameglr]], [[track:g4m38l0rg]], [[track:s-dirk-unite-synchronization-with-lyrics]], [[track:double-midnight]], [[track:heart-beat]], [[track:i-am-an-island]], [[track:intro]], [[track:midnight-suffer]], [[track:rex-english]], [[track:shut-me-down]], [[track:synchronize-fansong]], [[track:the-engineer]], [[track:pencil-holder-demo-version]], [[track:battle-colress]], [[track:calamari-inkantation]], [[track:historia-crux]], [[track:jump-up-super-star]], [[track:left-hand-remix]], [[track:right-hand-remix]], [[track:lonely-rolling-star]], [[track:say-i-gotta-believe]], [[track:silencio]], [[track:vela-nova]], [[track:burn]], [[track:can-you-feel-the-love-tonight]], [[track:captain-planet-and-the-planeteers-end-title]], [[track:ghostbusters]], [[track:how-do-i-live]], [[track:jojo-sono-chi-no-sadame]], [[track:mailtime]], [[track:meet-the-flintstones]], [[track:potato-knishes]], [[track:rainbow-connection]], [[track:running-in-the-90s]], [[track:space-jam]], [[track:stronger-than-you]], [[track:supercalifragilisticexpialidocious]], [[track:the-court-of-miracles]], [[track:the-story-of-tonight]], [[track:the-ultimate-showdown-of-ultimate-destiny]], [[track:we-are-number-one]], [[track:yee]], [[track:youre-a-mean-one-mr-grinch]], [[track:youre-standing-on-my-neck]], [[track:aba-daba-honeymoon]], [[track:ah-vous-dirai-je-maman]], [[track:bedelia]], [[track:carol-of-the-bells]], [[track:deck-the-halls]], [[track:frosty-the-snowman]], [[track:funiculi-funicula]], [[track:god-rest-you-merry-gentlemen]], [[track:good-king-wenceslas]], [[track:greensleeves]], [[track:la-cucaracha]], [[track:la-espero]], [[track:let-it-snow-let-it-snow-let-it-snow]], [[track:magnificat]], [[track:polovtsian-dances]], [[track:santa-claus-is-comin-to-town]], [[track:silent-night]], [[track:tempus-adest-floridum]], [[track:the-first-noel]], [[track:the-one-horse-open-sleigh]], [[track:the-star-spangled-banner]], [[track:toreador-song]], [[track:lisa-frank-420-modern-computing]], [[track:a-grand-new-era-ending]], [[track:a-song-about-a-circle-constant]], [[track:accept-my-shaft]], [[track:all-star]], [[track:axel-f-crazy-frog]], [[track:badgers]], [[track:big-enough]], [[track:bodies]], [[track:bouncy-ball]], [[track:caramelldansen]], [[track:careless-whisper]], [[track:cat-no-banana]], [[track:crank-that]], [[track:creeping-in-my-soul]], [[track:crystal-kingdom-part-one]], [[track:crystal-kingdom-part-four]], [[track:danger-high-voltage]], [[track:dark-necessities]], [[track:drop-it-like-its-hot]], [[track:et]], [[track:everybody-everybody]], [[track:fantasy-costco-jingle]], [[track:fever]], [[track:fireflies]], [[track:friday]], [[track:fuck-tha-police]], [[track:gangnam-style]], [[track:get-it-on]], [[track:giorgio-by-moroder]], [[track:goodbye-to-the-underground]], [[track:griffin-space-jam]], [[track:hey-baby]], [[track:i-am-a-man-of-constant-sorrow]], [[track:i-knew-you-were-trouble]], [[track:i-knew-you-were-trouble-ft-screaming-goat]], [[track:im-a-believer]], [[track:im-a-believer-smash-mouth]], [[track:i-really-really-really-like-this-image]], [[track:im-a-member-of-the-midnight-crew]], [[track:isle-unto-thyself]], [[track:its-your-move]], [[track:it-dont-mean-a-thing-if-it-aint-got-that-swing]], [[track:jet-black]], [[track:lawnmower]], [[track:lose-yourself]], [[track:mad-about-the-boy]], [[track:marisa-stole-the-precious-thing]], [[track:master-of-puppets]], [[track:miracles-icp]], [[track:never-gonna-give-you-up]], [[track:nova-solis]], [[track:nyanyanyanyanyanyanyamomo-momone]], [[track:paint-it-black]], [[track:peanut-butter-jelly]], [[track:piss]], [[track:pokemon-go-song]], [[track:prana-ferox]], [[track:redbone]], [[track:rosanna]], [[track:roundabout]], [[track:stone-halation]], [[track:swan-song-set-it-off]], [[track:take-me-away]], [[track:teenagers]], [[track:the-next-episode]], [[track:the-number-of-the-beast]], [[track:the-riddle-wants-to-be]], [[track:the-witch]], [[track:this-is-america]], [[track:two-trucks]], [[track:uptown-funk]], [[track:viva-la-vida]], [[track:what-is-a-juggalo]], [[track:wonderwall]], [[track:wow-wow]]
-    - added commentary to multiple traditional [[album:references-beyond-homestuck]] tracks, providing snippets of context
-    - fixed incorrect title for [[track:skaian-dreams-remix]]
-    - fixed artist/contributor confusion between the original and rereleased versions of [[track:harleboss]] and [[track:explore]] (thanks, Niklink!)
-    - [[track:typheus]] and [[track:typheus-glitched]] now attribute [[artist:unknown-artist]] instead of [[artist:homestuck]]
-    - fixed [[track:contention-vol4]] not attributing [[group:toby-fox]]
-    - fixed [[track:caramelldansen]] not attributing [[artist:caramell]] (thanks, vriska/leo!)
-    - fixed [[track:red-sucker]] not attributing [[artist:kalibration]] (thanks, cookiefonster!)
-    - fixed [[track:green-lolly]] and [[track:red-sucker]] incorrectly attributing [[artist:james-dever]]
-    - fixes [[track:broom-temperature]] and [[track:frondly-warning]] not attributing [[artist:jeff-liu]] or [[artist:cohen-edenfield]]
-    - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together]]/[[track:together-ost]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
-    - fixed [[track:oh-god-christmas]] and [[track:a-very-special-time]] not attributing [[artist:robert-j-lake]] (thanks, Makin!)
-    - fixed [[track:a-spirited-conversation]] not attributing [[artist:max-wright]] or [[artist:marcy-nabors]]
-    - fixed [[track:broken-dreams]] not attributing [[artist:max-wright]]
-    - fixed [[track:emerald-icarus]] not attributing [[artist:charles-neudorf]]
-    - fixed [[track:metamorphic-choices]] attributing [[artist:marcy-nabors]] as a co-artist instead of as a contributor
-    - fixed [[track:the-will-to-fight-further]] attributing [[artist:kevin-grant]] instead of [[artist:marcy-nabors]]
-    - fixed [[track:take-flight]] not attributing cover artist [[artist:brad-griffin]]
-    - fixed [[track:born-to-die]] not attributing cover artist [[artist:melodiousdiscord]]
-    - fixed [[track:well-be-right-back]] not attributing [[artist:braiden-brian]] (thanks, Celeste!)
-    - fixed [[track:tacit-blue]] not attributing [[artist:richard-gung]] or his lyrics (thanks, Comfy!)
-    - fixed [[track:nic-cage-song]] attributing [[track:ah-vous-dirai-je-maman]] instead of [[track:alphabet-song]]
-        - which means adding [[track:alphabet-song]] and artist [[artist:charles-bradlee]]
-    - fixed [[track:ah-vous-dirai-je-maman]] attributing Mozart instead of [[artist:traditional]]
-    - fixed [[track:careless-whisper]] attributing george Michael instead of [[artist:wham]]
-    - fixed [[track:isle-unto-thyself]] attributing Tally Hall instead of [[artist:miracle-musical]]
-    - fixed [[track:polovtsian-dances]] not attributing [[artist:nikolai-rimsky-korsakov]] or [[artist:alexander-glazunov]]
-    - fixed [[track:silent-night]] not attributing [[artist:joseph-mohr]]
-    - fixed [[track:the-star-spangled-banner]] attributing [[artist:john-stafford-smith]] and not attributing [[artist:joseph-h-nicholson]]
-    - fixed [[track:toreador-song]] not attributing [[artist:henri-meilhac]] or [[artist:ludovic-halevy]]
-    - fixed [[track:westminister-quarters]] not attributing [[artist:joseph-jowett]]
-    - fixed [[artist:carla-bravo]], [[artist:griffin-mcelroy]], [[artist:josefin-b]], [[artist:kate-holden]], [[artist:kobacat]], and [[artist:neil-cicierega]] having some artist credits under a different name
-    - divided previous artist "Lost in History" into two more specific labels, [[artist:unknown-artist]] and [[artist:traditional]] (thanks, Gibus Wearing Brony!)
-        - refined artist credits for some previously "Lost in History" tracks, including [[track:deck-the-halls]] and [[track:tempus-adest-floridum]]
-    - added specific artist credits to most video game tracks under [[album:references-beyond-homestuck]] (in addition to existing franchise artists) (thanks a bunch, FF, Niklink!)
-        - new artists: [[artist:allister-brimble]], [[artist:asuka-ito]], [[artist:daisuke-amaya]], [[artist:de-la-soul]], [[artist:go-ichinose]], [[artist:hideki-naganuma]], [[artist:hirokazu-tanaka]], [[artist:hiroki-hashimoto]], [[artist:hiroki-kikuta]], [[artist:hitomi-sato]], [[artist:jun-funahashi]], [[artist:junichi-masuda]], [[artist:kate-higgins]], [[artist:keiichi-suzuki]], [[artist:kenichi-matsubara]], [[artist:koji-kondo]], [[artist:magnus-palsson]], [[artist:manaka-kataoka]], [[artist:masahiro-andoh]], [[artist:masakazu-sugimori]], [[artist:masayuki-nagao]], [[artist:max-steiner]], [[artist:megumi-inoue]], [[artist:messiah]], [[artist:mitsuo-terada]], [[artist:mitsuto-suzuki]], [[artist:naoto-kubo]], [[artist:naoto-tanaka]], [[artist:nobuo-uematsu]], [[artist:rob-tunstall]], [[artist:saki-kabata]], [[artist:shiho-fujii]], [[artist:shinji-ushiroda]], [[artist:shota-kageyama]], [[artist:takako-hirasawa]], [[artist:the-super-mario-players]], [[artist:tommy-tallarico]], [[artist:tomohito-nishiura]], [[artist:yasuaki-iwata]], [[artist:yasunori-mitsuda]], [[artist:yoko-shimomura]], [[artist:yoshihito-yano]], [[artist:yuka-tsujiyoko]], [[artist:yumi-takahashi]], [[artist:yuzo-koshiro]], [[artist:zun]]
-        - added missing franchise 'artists' [[artist:off]] and [[artist:transistor]]
-    - added specific artist credits to [[album:references-beyond-homestuck]] tracks from movies and television (thanks a bunch, FF, Niklink!)
-        - new artists: [[artist:aki-hata]], [[artist:anne-bryant]], [[artist:anthony-ramos]], [[artist:barry-harman]], [[artist:benjamin-wynn]], [[artist:bjorn-thors]], [[artist:daveed-diggs]], [[artist:delia-derbyshire]], [[artist:dick-van-dyke]], [[artist:eddie-offord]], [[artist:estelle-swaray]], [[artist:ford-klinder]], [[artist:hiroaki-tominaga]], [[artist:hoyt-curtin]], [[artist:jeremy-zuckerman]], [[artist:jim-henson]], [[artist:joseph-barbera]], [[artist:julie-andrews]], [[artist:kenneth-ascher]], [[artist:kohei-tanaka]], [[artist:kow-otani]], [[artist:lin-manuel-miranda]], [[artist:ludwig-ickert]], [[artist:mani-svavarsson]], [[artist:max-coveri]], [[artist:nick-balaban]], [[artist:nump]], [[artist:okieriete-onaodowan]], [[artist:paul-kandel]], [[artist:paul-williams]], [[artist:phillipa-soo]], [[artist:quad-city-djs]], [[artist:ray-parker-jr]], [[artist:rebecca-sugar]], [[artist:revergo]], [[artist:ron-grainer]], [[artist:ryan-dorin]], [[artist:sean-burnes]], [[artist:snorri-engilbertsson]], [[artist:sherman-brothers]], [[artist:shoko-fujibayashi]], [[artist:stefan-karl]], [[artist:stephen-burns]], [[artist:stephen-schwartz]], [[artist:takahiro-yamada]], [[artist:tha-trademarc]], [[artist:the-refreshments]], [[artist:thurl-ravenscroft]], [[artist:toshio-masuda]], [[artist:william-hanna]], [[artist:yasuharu-takanashi]], [[artist:yugo-kanno]]
-        - added missing franchise 'artists' [[artist:armageddon]], [[artist:con-air]], [[artist:daria]], [[artist:how-the-grinch-stole-christmas]]
-    - added many missing artist credits to other [[album:references-beyond-homestuck]] tracks (thanks, Niklink!)
-        - new artists: [[artist:21-savage]], [[artist:alex-cameron]], [[artist:ammo]], [[artist:anthony-lledo]], [[artist:barry-clayton]], [[artist:bass-bumpers]], [[artist:billy-bill]], [[artist:blocboy-jb]], [[artist:brian-eno]], [[artist:clarence-jey]], [[artist:dan-tyminski]], [[artist:danger-mouse]], [[artist:daniel-malmedahl]], [[artist:dr-luke]], [[artist:erik-ron]], [[artist:fritz-the-cat-vankosky]], [[artist:giorgio-moroder]], [[artist:harley-allen]], [[artist:hittman]], [[artist:jean-schwartz]], [[artist:jeff-basker]], [[artist:jeff-bass]], [[artist:jimmy-barnes]], [[artist:jon-hopkins]], [[artist:kurupt]], [[artist:little-willie-john]], [[artist:ludwig-goransson]], [[artist:luis-resto]], [[artist:margaret-cobb]], [[artist:markus-dravs]], [[artist:martha-wash]], [[artist:martin-birch]], [[artist:matt-thiessen]], [[artist:max-martin]], [[artist:mel-man]], [[artist:mike-e-clark]], [[artist:mike-puwal]], [[artist:mikkel-maltha]], [[artist:molly-lewis]], [[artist:momomomo]], [[artist:ms-roq]], [[artist:nate-dogg]], [[artist:noel-coward]], [[artist:off-cast-project]], [[artist:owen-morris]], [[artist:pat-enright]], [[artist:patrice-wilson]], [[artist:philip-lawrence]], [[artist:rik-simpson]], [[artist:rob-cavallo]], [[artist:shellback]], [[artist:slim-jxmmi]], [[artist:steve-kipner]], [[artist:stock-aitken-waterman]], [[artist:t-bone-burnett]], [[artist:terry-shaddick]], [[artist:the-doc]], [[artist:the-neptunes]], [[artist:tristan-florian]], [[artist:quavo]], [[artist:will-i-am]], [[artist:william-jerome]], [[artist:wolfgang-boss]], [[artist:young-thug]]
-    - renamed tracks from [[artist:silvagunner]] to their Bandcamp release names, for ease of reference reading and disambiguation (thanks, vriska/leo!)
-        - added specific artists for these tracks too!
-        - new artists: [[artist:mth]], [[artist:the-voice-inside-your-head]], [[artist:the-yabba-dabba-mus]], [[artist:zvaari]]
-    - moved [[track:null-vol8]] from [[album:references-beyond-homestuck]] to [[album:homestuck-vol-8]]
-    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], [[track:austin-atlantis]] also [[track:the-sock-ruse]] (thanks, Celeste!) and [[track:kalesa-in-binondo]] (thanks, Comfy!) AND [[track:looking-for-a-rock]] (thanks, Cello!) AND [[track:today-i-put-jelly-on-this-hot-god]] (thanks, HermitCyclop!) AND [[track:dawn-of-man]] (thanks, Kidpen!) AND [[track:an-apple-disaster]] (thanks, MrCheeze!)
-    - removed Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
-    - removed "Cooldown (Beta)" from [[album:unreleased-tracks]] and redirected reference in [[track:alpha-admission]] to [[track:cooldown]]
-    - removed "7 GRAND DAD" and redirected references to [[track:meet-the-flintstones]]
     - removed a few artists which weren't being referenced anywhere else
-        - moved misplaced links for "h0nk" to [[artist:danna-vital]] (thanks, Niklink!)
-    - fixed [[track:showtime-original-mix]] and [[track:sburban-jungle]] not being listed in the reference list for [[track:trickster-mode-engage]] and [[track:trickster-mode-blast-off]], respectively
-    - fixed [[flash:5440|[S] ==>]] (the A6I4 intro flash) listing [[track:english]] instead of [[track:eternity-served-cold]]
-    - fixed [[track:rex-duodecim-angelus]] and [[track:english]] being listed alongside [[track:ham-and-steak]] in the reference list for [[track:oppa-toby-style]]
-    - fixed [[track:drone-pq]] not being listed in the reference list for [[track:keep-your-head-down]] and [[track:turns-out-its-like-the-shoe]]
-    - fixed [[track:ground-theme-super-mario-bros]] not being listed in the reference list for [[track:homosuck-swan-song]]
-    - fixed [[track:verdancy-bassline]] not being listed the in reference list for [[track:kinetic-verdancy]]
-    - fixed [[track:guardian]] not being listed in the reference list for [[track:guardian-v2]]
-    - fixed [[track:the-ballad-of-jack-noir-original]] not being listed in the reference list for [[track:the-ballad-of-jack-noir]]
-    - fixed [[track:haunt]] not being listed in the reference list for [[track:hauntjam]]
-    - fixed [[track:five-four-stress]] not being listed in the reference list for [[track:stress]]    
-    - fixed [[track:showtime-original-mix]] not being listed in the reference list for [[track:lifdoff]]
-    - fixed [[Black Rose / Green Sun]] not being listed in the reference list for [[Black Hole / White Door]]
-    - fixed [[track:ham-and-steak]] not being listed in the reference list for [[track:apexhalation]]
-    - fixed [[track:touchdown|eight]] [[track:first-contact|chained]] [[track:sunset-over-bright-future|call]] [[track:contact-established|and]] [[track:contact-established-unused-vocal-mix|new]] [[track:the-connection|album]] [[track:connection-scrambled|tracks]] not being listed in the reference lists for [[track:contact]], [[track:stay-in-touch]], and [[track:moshi-moshi]]
-    - fixed [[track:heir-of-grief]] not being listed in the reference list for [[track:brobot-scrimmage]]
-    - fixed [[track:clockwork-melody]] being listed as [[track:endless-climb]] in the reference list for [[track:clockwork-apocalypse]]
-    - fixed [[track:versus]] not being listed in the reference list for [[track:contra]]
-    - fixed [[track:licord-nacrasty]] and [[track:the-sock-ruse]] not being listed in the reference list for [[track:dave-striders-cool-mixtape]]
-    - fixed [[track:the-blind-prophet]] not being listed in the reference list for [[track:fate-of-the-heir]]
-    - fixed [[track:calliope]], [[track:youre-so-rad]], and [[track:doctor]] not being listed in the reference list for [[track:ham-and-steak]]
-    - fixed [[track:gunshow-2-theme-instrumental]] being listed as [[track:explore]] in the reference list for [[track:intro]]
-    - fixed [[track:the-beginning-of-something-really-excellent]] not being listed in the reference list for [[track:jadesprite]]
-    - fixed [[track:the-ballad-of-jack-noir]] not being listed in the reference list for [[track:midnight-suffer]]
-    - fixed [[track:sburban-jungle]] not being listed in the reference list for [[track:sburban-resolution]]
-    - fixed [[track:beatdown-strider-style]] not being listed in the reference list for [[track:smackdown]]
-    - fixed [[track:diamond-dust]] not being listed in the reference list for [[track:snowfall]]
-    - fixed [[track:sburban-jungle]] not being listed in the reference list for [[track:white-king]]
-    - fixed [[track:walk-smash-walk]] not being listed in the reference list for [[track:walk-stab-walk-rande]] (thanks, Sgeo!)
-    - fixed [[Amen, Brother]] not being listed in the reference list for [[Airtime]] (thanks, Gibus Wearing Brony!)
-    - fixed [[track:corrupting-tranquility]] (a new track by new artist [[artist:daydream-anatomy]]) not being listed in the reference list for [[track:skaia-ad-infinitum]]
-    - fixed [[track:another-him]] and [[track:liquid-negrocity]] not being listed in the reference list for [[track:another-noir-extended-void-mix]], and [[track:gasters-theme]] being incorrectly listed in the same
-    - fixed [[track:megalo-strike-back]] and [[track:even-in-death]] not being listed in the reference list for [[track:megalo-in-death]]
-    - fixed [[track:fabulous-secret-powers]] not being listed in the reference list for [[track:oh-2017]] (thanks, Niklink!)
-    - fixed [[track:aggrieve-remix]] referencing [[track:aggrieve]] instead of [[track:aggrieve-violin-refrain]]
-    - fixed [[track:white-host-green-room]] referencing [[track:the-king-in-red]] instead of [[track:the-king-in-red-beta]] (thanks, Cello!)
-    - fixed [[track:lilith-in-starlight]] referencing [[track:mother]] by [[artist:erik-scheele]] instead of [[track:mother-malcolm-brown]] by [[artist:malcolm-brown]]
-    - fixed [[track:2016-but-all-the-best-memes-happen-at-the-same-time]] referencing 7 GRAND DAD by [[artist:silvagunner]] instead of [[track:the-flintstones-the-rescue-of-dino-and-hoppy-title-themeending]]
-    - fixed [[track:meet-the-flintstones]] not being listed in the reference list for [[track:stone-halation]]
-    - fixed [[track:typheus]] not being listed in the reference list for [[track:heir-of-grief]]
-    - fixed [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]] not being listed in the reference list for [[track:robert-jailbreak]] (and added lyrics) (thanks, Celeste & Niklink!)   
-    - fixed [[Toby Fox Has Written Hundreds of Unique Original Songs]] referencing [[track:ruins]] (by Erik Scheele) instead of [[track:ruins-undertale]] (by Toby Fox)
-    - fixed [[track:heir-seer-knight-witch]] being named "~ Heir - Seer - Knight - Witch ~"
-    - fixed [[track:blood-for-my-ancestors]] listing [[track:summer]] and [[track:howl]] as references
-    - fixed [[track:the-story-of-tonight]] being named "Tomorrow There'll Be More Of Us" (thanks, Celeste!)
-    - fixed [[track:cat-no-banana]] being named "He Not Like The Banana" and being attributed to "Cat No Banana" instead of [[artist:joshdub]]
-    - fixed [[track:fabulous-secret-powers]] being named "HEYYEYAAEYAAAEYAEYAA"
-    - fixed [[track:i-am-a-man-of-constant-sorrow]] being named "Man of Constant Sorrow"
-    - fixed [[track:peanut-butter-jelly]] being named "Peanut Butter Jelly Time"
-    - fixed [[track:solar-sect-of-mystic-wisdom-nuclear-fusion]] being named "Nuclear Fusion"
-    - fixed [[artist:christina-rossetti]] having a typo in their name (thanks, Geese!)
+    - removed a few [[album:more-homestuck-fandom]] tracks which weren't being referenced anywhere else
+    - directory changed for some [[album:jailbreak-vol-1]] content
+    - made the song names in [[album:prospit-and-derse]] and [[album:homestuck-vol-1-4]] appropriate colors per-section :)
+    <h3>data fixes</h3>
+    - a huge amount of fixes to artist attributions, references, lyrics, and much more throughout [[group:additional-tracks]]
+        - fixed many incorrect track names (in part thanks to vriska/leo and Celeste!)
+        - divided previous artist "Lost in History" into two more specific labels, [[artist:unknown-artist]] and [[artist:traditional]] (thanks, Gibus Wearing Brony!)
+        - replaced many YouTube links in [[album:references-beyond-homestuck]] to official uploads where possible
+        - replaced many dead YouTube links as well (in part thanks to foreverFlummoxed, Celeste!) and a dead Bandcamp link
+        - changed several YouTube links to the correct versions
+    - lots of fixes throughout the entirety of [[album:the-baby-is-you]], including lyrics, references, contributors, art tags, and release date
+    - fixed missing references in the following tracks: [[track:kinetic-verdancy]], [[track:the-ballad-of-jack-noir]], [[track:hauntjam]], [[track:guardian-v2]], [[track:walk-stab-walk-rande]] (thanks, Sgeo!), [[track:lifdoff]], [[track:airtime]] (thanks, Gibus Wearing Brony!), [[track:stress]], [[track:heir-of-grief]], [[track:keep-your-head-down]], [[track:turns-out-its-like-the-shoe]], [[track:skaia-ad-infinitum]], [[track:black-hole-white-door]], [[track:robert-jailbreak]] (thanks, Celeste!) [[track:apexhalation]], [[track:megalo-in-death]], [[track:another-noir-extended-void-mix]], [[track:malblanka-rozo-verda-stelo]] (thanks, Sgeo!), [[track:oh-2017]]
+    - fixed incorrect references in the following tracks: [[track:aggrieve-remix]], [[track:nic-cage-song]], [[track:white-host-green-room]] (thanks, Cello!), [[track:oppa-toby-style]], [[track:lilith-in-starlight]], [[track:2016-but-all-the-best-memes-happen-at-the-same-time]], [[track:toby-fox-has-written-hundreds-of-unique-original-songs]], [[track:blood-for-my-ancestors]]
+    - fixed missing artist attributions in the following tracks: [[track:contention-vol4]], [[track:red-sucker]] (thanks, cookiefonster!), [[track:broom-temperature]], [[track:frondly-warning]], [[track:oh-god-christmas]] and [[track:a-very-special-time]] (thanks, Makin!), [[track:a-spirited-conversation]], [[track:broken-dreams]], [[track:emerald-icarus]], [[track:take-flight]], [[track:born-to-die]], [[track:well-be-right-back]] (thanks, Celeste!), [[track:tacit-blue]] (thanks, Comfy!)
+    - fixed incorrect artist attributions in the following tracks: [[track:explore]], [[track:green-lolly]] and [[track:red-sucker]], [[track:metamorphic-choices]], [[track:the-will-to-fight-further]]
+    - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together]]/[[track:together-ost]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
+    - fixed incorrectly formatted names for [[track:skaian-dreams-remix]], [[album:sburb-ost]], and [[track:heir-seer-knight-witch]]
+    - lots and lots of fixes to artist data, including names, aliases, removing dead links, and adding more links (thanks in part to Vortexius, deesoff, Geese, MT Argentum!)
+    - fixed [[artist:paige-turner]] (thanks, cookiefonster!), [[artist:carla-bravo]], [[artist:danna-vital]], [[artist:griffin-mcelroy]], [[artist:josefin-b]], [[artist:kate-holden]], [[artist:kobacat]], and [[artist:neil-cicierega]] having some artist credits under a different name
+    - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], [[track:austin-atlantis]], [[track:robert-jailbreak]], [[track:the-sock-ruse]] (thanks, Celeste!), [[track:kalesa-in-binondo]] (thanks, Comfy!), [[track:looking-for-a-rock]] (thanks, Cello!), [[track:today-i-put-jelly-on-this-hot-god]] (thanks, HermitCyclop!),[[track:dawn-of-man]] (thanks, Kidpen!), [[track:an-apple-disaster]] (thanks, MrCheeze!)
+    - fixed [[track:spare-friendship-maam]] having incorrect artwork and [[track:purgatory]] missing its artwork
     - fixed [[track:gay-love-song-for-four-cellos]] not being marked as the original release for [[track:love-song]]
-    - fixed [[track:spare-friendship-maam]] having incorrect artwork
-    - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!):
-        - fixed artist commentary not showing up for [[track:frogsong]] and [[track:schrodingers-harbinger]]
-        - fixed Instagram link not showing up for artist [[artist:dsnake]]
-        - fixed YouTube and tumblr links not showing up for artist [[artist:first-turn-fold]]
-        - fixed tumblr link not showing up for artist [[artist:thiefofstars]]
-        - fixed references not showing up for [[track:fuchsia-ruler]]
-        - fixed art tag [[tag:carapacians]] having a broken tag color (which messed up the layout of the tag's gallery page and styled links to it as default white instead of the intended light gray)
     - fixed broken media link in [[track:jane-dargason]]'s commentary (thanks, Comfy!)
     - fixed pronouns in commentary for [[track:stress]] (thanks, Comfy!)
-    - fixed [[La Espero]] not being listed in reference list for [[Malblanka Rozo Verda Stelo]] (thanks, Sgeo!)
-        - added [[La Espero]] and artists [[artist:l-l-zamenhof]] and [[artist:felicien-menu-de-menil]]
-    - fixed incorrect capitalization for [[album:sburb-ost]]
-    - fixed duration of [[track:super-mario-bros-the-movie]], which was previously 1:04:14 (thanks, FF!)
-    - renamed [[track:michael-bowman-remix]], [[track:battle-elite-four-pokemon-black-and-white-versions]], [[track:battle-wild-pokemon-pokemon-red-and-blue-versions]] [[track:file-select-sm64]], and [[track:the-decisive-battle-final-fantasy-vi]] for clarity
-    - renamed [[artist:professor-layton]] from 'Professor Layton and the Curious Village' and [[artist:the-hunchback-of-notre-dame]] from 'Disney'
-    - added Bandcamp links back to [[group:clark-powell]]'s albums: [[album:we-are-all-satellites]], [[album:namesake]], [[album:someday]], and [[album:labyrinths-heart]] (thanks, Celeste!)
-    - added Bandcamp link to [[album:perfectly-generic-object]] (thanks, vriska/leo!)
-    - added YouTube links to [[album:perfectly-generic-album]] (thanks, vriska/leo!)
-    - added YouTube links to [[track:guardian]], [[track:nightlife-extended]], [[track:kinetic-verdancy]], [[track:rediscover-fusion-remix]], [[track:mutiny]], [[track:guardian-v2]], [[track:contention-vol4]], [[track:its-good-to-see-you-again]], [[track:before-before-the-beginning]], [[track:isnt-this-is-this-the-end-again]], [[track:non-compos-mentis]]
-    - replaced many YouTube links in [[album:references-beyond-homestuck]] to official uploads where possible
-    - replaced dead YouTube links to [[album:the-felt]], [[track:constant-conquest]], [[track:skaian-starstorm]], [[track:celestial-fantasia]], [[track:corridors-of-time]], [[track:icirrus-city]], [[track:historia-crux]], [[track:left-hand-remix]], [[track:terras-theme]], [[track:the-decisive-battle-final-fantasy-vi]], [[track:fear-of-the-heavens]], all tracks from [[artist:earthbound]], and removed dead YouTube link from [[track:planetarium]] (thanks, foreverFlummoxed, Sgeo, Celeste!)
-        - also replaced dead YouTube links to [[track:a-bell-is-tolling]], [[track:all-yor-base-r-blong-2-us]], [[track:bloody-tears]], [[track:chrono-trigger]], [[track:danger-high-voltage]], [[track:eternal-recurrence]], [[track:frogs-theme]], [[track:ghostbusters]], [[track:historia-crux]] (again), [[track:laytons-theme]], [[track:neos-city-night]], [[track:schalas-theme]], [[track:steam-gardens]], [[track:stone-tower-temple]], [[track:the-decisive-battle-final-fantasy-vi]] (again!), [[track:the-little-sprite]], [[track:the-number-of-the-beast]], [[track:the-simpsons-theme]], [[track:ultimate-koopa]], [[track:waluigi-pinball-wario-stadium]], [[track:wind-scene]], [[track:wonderwall]]
-    - removed dead Bandcamp link from [[track:distortion-navigator]]
-    - changed YouTube links to [[track:guiles-theme]] and [[track:super-dry-dance]] to the correct versions
-    - added YouTube link for relevant videos to [[track:doctor-original-loop]] (with a transcription by Celeste!), [[album:homestuck-vol-10]] and [[track:fly]] (thanks, Niklink!)
-    - added listen links to [[artist:bill-bolin]]'s tracks on the official Homestuck albums (thanks, Niklink!)
-    - added Spotify listen links to [[album:mobius-trip-and-hadron-kaleido]], [[album:strife]], [[album:strife-2]], [[track:sburban-jungle]], [[track:ascend]] (thanks, Niklink!)
-    - fixed wrong YouTube link for [[track:virgin-orb]] (thanks, Sgeo!)
-    - fixed wrong YouTube link for [[track:how-do-i-live-d8-night-version]]
-    - added track art for [[track:purgatory]] (from [[artist:hieronymous-bosch|Hieronymous Bosch]], somehow)
-    - directory changed for some [[album:jailbreak-vol-1]] content
-    - added artist links and changed name of [[artist:clydesdale-edwin]], formerly The Black Curtain (thanks, Vortexius!)
+    - [[flash:338|Dave's Phat Beat Machine]] no longer features [[track:john-do-the-windy-thing]] after the demise of Flash
+    - fixed [[flash:5440|[S] ==>]] (the A6I4 intro flash) listing [[track:english]] instead of [[track:eternity-served-cold]]
+    - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!) detecting misspelled names of various data fields (that would therefore would not display) for [[track:fuchsia-ruler]], [[track:frogsong]], [[track:schrodingers-harbinger]], [[artist:dsnake]], [[artist:first-turn-fold]], [[artist:thiefofstars]], and [[tag:carapacians]]
+    - added Bandcamp links back to [[group:clark-powell]]'s albums: [[album:we-are-all-satellites]], [[album:namesake]], [[album:someday]], and [[album:labyrinths-heart]] (thanks, Celeste!), and also to  [[album:perfectly-generic-object]] (thanks, vriska/leo!)
+    - added YouTube links to [[album:perfectly-generic-album]] (thanks, vriska/leo!), also [[track:guardian]], [[track:nightlife-extended]], [[track:kinetic-verdancy]], [[track:rediscover-fusion-remix]], [[track:mutiny]], [[track:guardian-v2]], [[track:contention-vol4]], [[track:null-vol8]], [[track:its-good-to-see-you-again]], [[track:before-before-the-beginning]], [[track:isnt-this-is-this-the-end-again]], [[track:non-compos-mentis]], [[track:drone-pq]], [[track:its-a-cover-of-made-of-time]], [[track:its-nothing]]
+    - added Spotify listen links to [[album:mobius-trip-and-hadron-kaleido]], [[album:strife]], [[album:strife-2]], [[track:sburban-jungle]], and [[track:ascend]]
+    - added listen links to [[artist:bill-bolin]]'s tracks on the official Homestuck albums
+    - fixed wrong YouTube links for [[track:virgin-orb]] (thanks, Sgeo!) and  [[track:how-do-i-live-d8-night-version]] (thanks, Makin!)
+    - replaced dead YouTube links to [[album:the-felt]] and [[track:planetarium]] (thanks, Sgeo!), [[track:constant-conquest]], and [[track:skaian-starstorm]]
+    - removed dead Bandcamp links for [[track:indigo-archer]] and [[track:temporal-shenanigans]]
     - fixed broken code repository link in About & Credit page (thanks, nanaian!)
-    - fixed bad artist links for [[artist:samm-neiland]] (thanks, Vortexius!) and [[artist:kalibration]] (thanks, deesoff!)
-    - misc artist data fixes (thanks, MT Argentum!)
-    - made the song names in [[album:prospit-and-derse]] and [[album:homestuck-vol-1-4]] appropriate colors per-section :)
-    - loads of art tag additions and fixes:
-        - added hundreds of art tags to all albums under [[group:official]] and [[group:fandom]], including many new setting / location tags
-            - new setting tags: [[tag:alternia]], [[tag:battlefield]], [[tag:beforus]], [[tag:can-town]], [[tag:dark-carnival]], [[tag:deltritus]], [[tag:derse]], [[tag:dream-bubbles]], [[tag:earth]], [[tag:felt-manor]], [[tag:frog-temple]], [[tag:ruined-earth]], [[tag:the-theseus]], [[tag:lobaf]], [[tag:locah]], [[tag:locas]], [[tag:lodag]], [[tag:lofaf]], [[tag:lofam]], [[tag:lohac]], [[tag:lolar]], [[tag:lolcat]], [[tag:lomat]], [[tag:lomax]], [[tag:lopah]], [[tag:loraf]], [[tag:lotak]], [[tag:lotam]], [[tag:lopan]], [[tag:loqam]], [[tag:losaz]], [[tag:lotaf]], [[tag:lowaa]], [[tag:lowas]], [[tag:meteor]], [[tag:prospit]], [[tag:skaia]], [[tag:veil]]
-            - new other tags: [[tag:jude]], [[tag:sweet-bro]], [[tag:hella-jeff]], [[tag:problem-sleuth]], [[tag:ace-dick]], [[tag:pickle-inspector]], [[tag:bees]], [[tag:birds]], [[tag:diemen]], [[tag:gate]], [[tag:homosuck]], [[tag:horses]], [[tag:imperial-drones]], [[tag:june]], [[tag:sans]], [[tag:lotus]], [[tag:skyllas-lusus]], [[tag:tumor]]
-            - new CaNWC tags: [[tag:jhon]], [[tag:dabe]], [[tag:jaed]], [[tag:dadd]], [[tag:beq]], [[tag:kraket]], [[tag:terexi]], [[tag:equihorse]], [[tag:gametez]], [[tag:hecka-jef]], [[tag:swet-bro]], [[tag:germy]], [[tag:rubs-juice]], [[tag:hrates-bocars]], [[tag:dacronian-dignity]] (thanks, Niklink!)
-            - new Desynced tags: [[tag:kate-desynced]], [[tag:kates-dad-desynced]], [[tag:evan-desynced]],  [[tag:momo-desynced]], [[tag:josh-desynced]], [[tag:enid-desynced]], [[tag:lee-desynced]], [[tag:her-desynced]], [[tag:masky-desynced]], [[tag:skaia-desynced]], [[tag:gaea-desynced]], [[tag:ananke-desynced]], [[tag:hemera-desynced]], [[tag:styx-desynced]], [[tag:phoebe-desynced]] (thanks, Celeste!)
-            - new Heinoustuck tags: [[tag:john-heinoustuck]], [[tag:rose-heinoustuck]], [[tag:dave-heinoustuck]], [[tag:jade-heinoustuck]]
-            - new Oceanfalls tags: [[tag:aria-oceanfalls]], [[tag:corona-oceanfalls]], [[tag:five-oceanfalls]], [[tag:kaji-oceanfalls]], [[tag:kotori-oceanfalls]], [[tag:lune-oceanfalls]], [[tag:meimona-oceanfalls]], [[tag:nino-oceanfalls]], [[tag:onyx-oceanfalls]], [[tag:reed-oceanfalls]], [[tag:ruit-oceanfalls]], [[tag:ruta-oceanfalls]], [[tag:selene-oceanfalls]], [[tag:serena-oceanfalls]], [[tag:solis-oceanfalls]], [[tag:suvillan-oceanfalls]]
-            - removed Midnight Crew tag and replaced with individual character tags
-            - plus miscellaneous fixes and additions for existing tags in these albums
-            - huge thanks to Celeste for doing the initial pass of all art for setting tags, and everyone who shared feedback in the #art-tag-review [[static:discord|Discord]] channel, including Cello, deesoff, foreverFlummoxed, Geese, vriska, Makin, megatti, and Niklink!
-        - added art tags for all [[group:desynced]] albums (thanks, Celeste!)
-        - added art tags for all [[group:oceanfalls]] albums:
-            - [[album:oceanfalls-vol-1]] & [[album:oceanfalls-vol-2]] (thanks, Celeste!)
-            - [[album:oceanfalls-vol-3]] (thanks, Secily Iopara!)
-        - added art tags for all track arts consisting of screenshots of official material (filed under [[artist:homestuck]]) (thanks, Niklink!)
-        - added art tags for [[album:weird-puzzle-tunes]] (thanks, Celeste!)
-        - added art tags for [[album:strife]], [[album:act-7]], [[album:hiveswap-act-1-ost]], [[album:perfectly-generic-album]], [[album:the-funk-mclovin-homestuck-experience]], and [[album:the-baby-is-june]]'s covers (thanks, Celeste & Niklink!)
-        - fixed art tags for [[track:skaian-happy-flight]], [[track:respit]], [[track:hardchorale]], [[track:gravediggers-dirge]], and [[track:ithaca-is-calling]] (thanks, Celeste!)
+    - fixed art tags for [[track:skaian-happy-flight]], [[track:respit]], [[track:hardchorale]], [[track:gravediggers-dirge]], and [[track:ithaca-is-calling]] (thanks, Celeste!)
+    - a truly uncountable amount of little fixes, adjustments, and improvements that haven't been exhaustively kept track of as this update swelled in size during the year and a half (!!!) it spent in the oven, from everyone who contributed to the wiki during this time. thank you.
 
     <h2 id="1-sep-2021"><a href="#1-sep-2021">[[date:1 September 2021]]</a></h2>
     <h3>data changes</h3>
