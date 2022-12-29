@@ -383,29 +383,46 @@ URLs:
 Group: Music from video games
 ---
 Track: A Bell is Tolling
+Directory: a-bell-is-tolling
+# JP: 八点鐘
+# Official release:
+#   聖剣伝説2 オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/721
 Artists:
 - Secret of Mana
 - Hiroki Kikuta
 Duration: '1:33'
 URLs:
-- https://www.youtube.com/watch?v=jRYZI0ZpPGs
+- https://youtu.be/gMrwcjyeIVE
 ---
 Track: Bad Apple!!
+# Official release:
+#   Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1
+# Reference:
+#   https://en.touhouwiki.net/wiki/Lotus_Land_Story/Music
+#   https://en.touhouwiki.net/wiki/Akyu%27s_Untouched_Score_vol.1
 Artists:
 - Touhou Project
 - ZUN
-Duration: '3:00'
+Duration: '3:13'
 URLs:
-- https://www.youtube.com/watch?v=35YXCbyTOrw
+- https://youtu.be/S-wnMPOV-5g
 ---
 Track: Battle! (Colress)
+# JP: 戦闘！アクロマ
+# Official release:
+#   Pokémon Black 2 & Pokémon White 2: Super Music Collection
+#   ニンテンドーDS ポケモンブラック2・ホワイト2 スーパーミュージックコンプリート
+# Reference:
+#   https://bulbapedia.bulbagarden.net/wiki/Pokémon_Black_2_%26_Pokémon_White_2:_Super_Music_Collection
 Artists:
-- Pokémon
+- artist:pokemon
 - Hitomi Sato
 - Go Ichinose
-Duration: '5:00'
+Duration: '3:49'
 URLs:
-- https://www.youtube.com/watch?v=NvQBpb6eqp8
+- https://www.youtube.com/watch?v=X-jiXa1xMAE
 Referenced Tracks:
 - Colress's Theme
 Lyrics: |-
@@ -424,86 +441,132 @@ Lyrics: |-
     Three
 ---
 Track: Battle! (Elite Four) (Pokémon Black & White Versions)
+# JP: 戦闘！四天王
+# Official release:
+#   Pokémon Black & Pokémon White: Super Music Collection
+#   ニンテンドーDS ポケモンブラック・ホワイト スーパーミュージックコレクション
+# Reference:
+#   https://bulbapedia.bulbagarden.net/wiki/Pokémon_Black_%26_Pokémon_White:_Super_Music_Collection
 Directory: battle-elite-four-pokemon-black-and-white-versions
 Artists:
-- Pokémon
+- artist:pokemon
 - Junichi Masuda
 - Go Ichinose
-Duration: '3:00'
+Duration: '2:51'
 URLs:
-- https://www.youtube.com/watch?v=llnXhrCn9Yo
+- https://www.youtube.com/watch?v=xTIX7f9wFB8
 ---
 Track: Battle! Wild Pokémon (Pokémon Red & Blue Versions)
+# JP: 戦い(VS野生ポケモン)
+# Official release:
+#   ゲームボーイ「ポケモン」のサウンドがまるごと入って、遊べるCD
+# Reference:
+#   https://bulbapedia.bulbagarden.net/wiki/Game_Boy:_Entire_Pokémon_Sounds_Collection_CD
 Directory: battle-wild-pokemon-pokemon-red-and-blue-versions
 Artists:
-- Pokémon
+- artist:pokemon
 - Junichi Masuda
-Duration: '1:15'
+Duration: '1:30'
 URLs:
-- https://www.youtube.com/watch?v=eBNcjvxLfFc
+- https://www.youtube.com/watch?v=vgBoQUaEKpk
 ---
 Track: Beginning
+# From Castlevania III: Dracula's Curse
+# The original official release combines this track with several others from the same game for its inclusion on the CD, so it doesn't have a "canonical" duration. But it starts at 2:46 and fades out ending at 4:30, which is what's used for the duration here.
+# Note that Castlevania III's NES release has a different rendition of the soundtrack from its original Famicom release, running on a different sound chip. They're essentially the same songs, but the Famicom original is what is listed here.
+# JP: [full track] 新たなる決意
+# JP: [subsection] Beginning (教会，町，墓場ステージ)
+# Official release:
+#   悪魔城ドラキュラ ファミコン・ベスト
+# Reference:
+#   https://vgmdb.net/album/121
 Artists:
 - Castlevania
 - Jun Funahashi
-Duration: '1:50'
+Duration: '1:44'
 URLs:
-- https://www.youtube.com/watch?v=ptgaCJSF7j8
+- https://youtu.be/zapJY3hm-dc?t=166
 ---
 Track: Bloody Tears
+# From Castlevania II: Simon's Quest
+# Released on the same album as Beginning, but it has its own dedicated track vs. Castlevania III's OST.
+# JP: Bloody Tears (昼の道BGM)
+# Official release:
+#   悪魔城ドラキュラ ファミコン・ベスト
+# Reference:
+#   https://vgmdb.net/album/121
 Artists:
 - Castlevania
 - Kenichi Matsubara
-Duration: '3:25'
+Duration: '1:05'
 URLs:
-- https://www.youtube.com/watch?v=e2oZtvjg5oA
+- https://www.youtube.com/watch?v=VP1nVVvi1Vw
 ---
 Track: Bon Voyage, Amigo
+# From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+#   http://starmen.net/merchandise/music/m3cd.php
 Artists:
 - EarthBound
 - Keiichi Suzuki
 - Hirokazu Tanaka
-Duration: '2:12'
 URLs:
 - https://www.youtube.com/watch?v=5OtDm2qgpWw
 ---
 Track: Boss Battle
 Directory: boss-battle-pokemon-typing-adventure
+# No official release
 Artists:
-- Pokémon
+- artist:pokemon
 - Azusa Chiba
 - Masaharu Iwata
-- Kimihiro Abe 
-Duration: '2:17'
+- Kimihiro Abe
 URLs:
 - https://www.youtube.com/watch?v=s9SKrNZnnCM
 ---
 Track: Breath of the Wild Theme
+# JP: メインテーマ
+# Official release:
+#   ゼルダの伝説 ブレス オブ ザ ワイルド オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/75832
 Artists:
 - The Legend of Zelda
 - Manaka Kataoka
-- Yasuaki Iwata
-- Hajime Wakai
-Duration: '1:55'
+Duration: '2:01'
 URLs:
-- https://www.youtube.com/watch?v=cPWBG6_jn4Y
+- https://www.youtube.com/watch?v=GY4WjuVTdvY
 ---
 Track: Bright Spinning Planet
+# JP: 回る光はプラネット
+# Official release:
+#   星のカービィ ロボボプラネット オリジナルサウンドトラック
+#   Kirby: Planet Robobot Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/63000
 Artists:
 - Kirby
 - Hirokazu Ando
-Duration: '1:09'
+Duration: '1:10'
 URLs:
-- https://www.youtube.com/watch?v=VOwsYDtnFOE
+- https://www.youtube.com/watch?v=6Kb1WMZBG9k
 - https://open.spotify.com/track/48wfJa6hyfiXB0RZnzUKRJ
 ---
 Track: Calamari Inkantation
+# JP: シオカラ節
+# Official release:
+#   スプラトゥーン オリジナルサウンドトラック -スプラチューン-
+# Reference:
+#   https://vgmdb.net/album/54591
 Artists:
 - Splatoon
 - Shiho Fujii
-Duration: '3:18'
+- keity.pop (vocals)
+- Mari Kikuma (vocals)
+Duration: '2:34'
 URLs:
-- https://www.youtube.com/watch?v=k4k1NdUEUP4
+- https://youtu.be/abXjYrCqan0
 Lyrics: |-
     Ya weni marei mirekyarahire
     Juri yu mirekerason
@@ -540,37 +603,56 @@ Lyrics: |-
     Ha ha ha ha
 ---
 Track: Colress's Theme
+# JP: アクロマのテーマ
+# Official release:
+#   Pokémon Black 2 & Pokémon White 2: Super Music Collection
+#   ニンテンドーDS ポケモンブラック2・ホワイト2 スーパーミュージックコンプリート
+# Reference:
+#   https://bulbapedia.bulbagarden.net/wiki/Pokémon_Black_2_%26_Pokémon_White_2:_Super_Music_Collection
 Artists:
-- Pokémon
+- artist:pokemon
 - Hitomi Sato
-Duration: '0:30'
+Duration: '1:06'
 URLs:
-- https://www.youtube.com/watch?v=UHZY3R5j12o
+- https://www.youtube.com/watch?v=LgO0WKqIQ3c
 ---
 Track: Corridors of Time
+# Chrono Trigger's OST is notoriously (to us) difficult to find uploads of on YouTube, so the linked URL may have duration or slight differences from its soundtrack release.
+# JP: 時の回廊
+# Official release:
+#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/18
 Artists:
 - Chrono Trigger
 - Yasunori Mitsuda
-Duration: '3:00'
+Duration: '3:01'
 URLs:
 - https://www.youtube.com/watch?v=BXo3DrXHY8w
 ---
 Track: Chrono Trigger
+# (See Corridors of Time for info on soundtrack/YouTube differences)
+# JP: クロノ・トリガー
+# Official release:
+#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/18
 Artists:
 - Chrono Trigger
 - Yasunori Mitsuda
 Duration: '2:00'
 URLs:
-- https://archive.org/download/chrono_trigger_osv/02%20-%20Chrono%20Trigger.mp3
+- https://www.youtube.com/watch?v=nO3Ap0xOcAE
 ---
 Track: DK Rap
+# Duration is from the first musical (0:17) to the disc scratch (3:27) on the in-game music video
 Artists:
 - Donkey Kong
 - Grant Kirkhope
 Contributors:
 - George Andreas (lyrics, vocals)
 - Chris Sutherland (vocals)
-Duration: '3:28'
+Duration: '3:10'
 URLs:
 - https://www.youtube.com/watch?v=q-yZ7_enlWA
 Lyrics: |-
@@ -647,16 +729,22 @@ Lyrics: |-
     Ahh yeah!
 ---
 Track: Doll Judgement ~ The Girl Who Played with People's Shapes
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
-Duration: '5:30'
 URLs:
 - https://www.youtube.com/watch?v=lVwstM4vZC8
 Referenced Tracks:
 - Romantic Children
 ---
 Track: Dragon Roost Island
+# JP: 竜の島
+# Official release:
+#   ゼルダの伝説 ～風のタクト～ オリジナル・サウンド・トラックス
+#   The Legend of Zelda ~The Wind Waker~ Original Sound Tracks
+# Reference:
+#   https://vgmdb.net/album/418
 Artists:
 - The Legend of Zelda
 - Kenta Nagata
@@ -668,97 +756,129 @@ URLs:
 - https://www.youtube.com/watch?v=s7fqllhtdHI
 ---
 Track: Dungeon Theme
+# The only upload I could find of the apparent original soundtrack release, on "The Legend of Zelda SOUND & DRAMA", was on Niconico: https://www.nicovideo.jp/watch/sm16507868 - I don't think it's possible to link timestamps on nicovideo.jp though.
+# JP: 地下
+# Official release:
+#   ゼルダの伝説 "サウンド&ドラマ"
+# Reference:
+#   https://vgmdb.net/album/885
 Directory: dungeon-theme-zelda1
 Artists:
 - The Legend of Zelda
 - Koji Kondo
-Duration: '3:00'
+Duration: '1:05'
 URLs:
-- https://www.youtube.com/watch?v=cMssCMqMHuk
+- https://youtu.be/IDp0Mu1E1Bw
 ---
 Track: Eight Melodies
+# From Mother (EarthBound Beginnings), which doesn't seem to have received an official soundtrack release (besides several arrangements)
 Artists:
 - EarthBound
 - Keiichi Suzuki
 - Hirokazu Tanaka
-Duration: '2:20'
 URLs:
 - https://www.youtube.com/watch?v=W8WSZwX2xhg
 ---
 Track: Eternal Recurrence
+# JP: 永劫回帰
+# Official release:
+#   聖剣伝説2 オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/721
 Artists:
 - Secret of Mana
 - Hiroki Kikuta
 Duration: '2:12'
 URLs:
-- https://www.youtube.com/watch?v=70Di1JbvdDI
+- https://youtu.be/KTNfNzLiZBA
 ---
 Track: Fall of Fall ~ Autumnal Waterfall
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
-Duration: '3:00'
 URLs:
 - https://www.youtube.com/watch?v=-F3_Cj-fMWw
 ---
 Track: Fear of the Heavens
+# JP: 天使の怖れ
+# Official release:
+#   聖剣伝説2 オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/721
 Artists:
 - Secret of Mana
 - Hiroki Kikuta
 Duration: '1:42'
 URLs:
-- https://www.youtube.com/watch?v=dGna-qHdg-k
+- https://youtu.be/xgM9f0CSFe8
 ---
 Track: File Select (Super Mario 64)
+# JP: ファイルセレクト
+# Official release:
+#   スーパーマリオ64 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/137
 Directory: file-select-sm64
 Artists:
 - Super Mario
 - Koji Kondo
-Duration: 0:20
+Duration: 0:44
 URLs:
-- https://www.youtube.com/watch?v=hrJNgLGbYg0
+- https://youtu.be/vJIjtjGUR9Q?t=1968
 ---
 Track: Frog's Theme
+# (See Corridors of Time for info on soundtrack/YouTube differences)
+# JP: カエルのテーマ
+# Official release:
+#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/18
 Artists:
 - Chrono Trigger
 - Yasunori Mitsuda
-Duration: '1:49'
+Duration: '1:50'
 URLs:
-- https://www.youtube.com/watch?v=H10bdZsclJ0
+- https://www.youtube.com/watch?v=EFBlzu96RkU
 ---
 Track: Galactic Nova
+# No official release of the in-game track (or Kirby Super Star's in-game soundtrack at all)
 Artists:
 - Kirby
 - Jun Ishikawa
-Duration: '0:50'
 URLs:
 - https://www.youtube.com/watch?v=hPT77G3LGwA
 ---
 Track: Game Over
 Directory: game-over-bootleg
+# This... obviously never had an official release... duh...
 Artists:
 - Felix the Cat
 - Unknown Artist
-Duration: '0:38'
 URLs:
 - https://www.youtube.com/watch?v=e17PCwAFIA4
 ---
 Track: Gaster's Theme
+# No official release, duration is from the in-game audio loop.
 Artists:
 - 'Toby Fox'
 Directory: gasters-theme-undertale
-Duration: 0:34
+Duration: 0:17
 URLs:
-- https://youtu.be/n0dgaYe2LZw
+- https://www.youtube.com/watch?v=CFn8xs157Gw
 ---
 Track: GO MY WAY!!
+# Official release:
+#   THE IDOLM@STER MASTERWORK 01 GO MY WAY!!
+# Reference:
+#   https://vgmdb.net/album/9053
 Artists:
 - THE iDOLM@STER
-- Satoru Kousaki
+- artist:satoru-kosaki
 - yura
-Duration: '2:09'
+Duration: '4:51'
 URLs:
-- https://www.youtube.com/watch?v=iYcRQBrUbd0
+- https://youtu.be/x0KzJYb7kCo
 Lyrics: |-
     GO MY WAY!! Go mae e! (<i>GO MY WAY!! Go in front!</i>)
     Ganbatte yukimashou (<i>Let's go forward with our best</i>)
@@ -802,22 +922,40 @@ Lyrics: |-
     Kono yubi ni tomare (<i>Come rest on this finger</i>)
 ---
 Track: Ground Theme (Super Mario Bros.)
+# SMB soundtrack was released on vinyl and cassette simultaneously, the cassette release (linked below) has an extra track (SMB Suite) but the first track is the same duration, at least.
+# Original release:
+#   スーパーマリオブラザーズ オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/3436
+#   https://vgmdb.net/album/507
 Artists:
 - Super Mario
 - Koji Kondo
-Duration: '1:22'
+Duration: '2:42'
 URLs:
-- https://www.youtube.com/watch?v=NTa6Xbzfq1U
+- https://www.youtube.com/watch?v=O3q_hXrgp8w
 ---
 Track: Guile's Theme
+# From Street Fighter II, which was released in several different versions but... carried the same soundtrack... I think?
+# Original release:
+#   ストリートファイターII コレクターズBOX ビデオセット
+#   STREET FIGHTER II Perfect Original Version [PCCB-00124~3]
+# Reference:
+#   https://vgmdb.net/album/1520
 Artists:
 - Street Fighter
 - Yoko Shimomura
-Duration: '4:05'
+Duration: '2:24'
 URLs:
-- https://www.youtube.com/watch?v=nSsggxGdFpM
+- https://youtu.be/jfEiEjfTUys?t=853
 ---
 Track: Haltmann Works Co. HQ
+# JP: ハルトマンワークスカンパニーHQ
+# Official release:
+#   星のカービィ ロボボプラネット オリジナルサウンドトラック
+#   Kirby: Planet Robobot Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/63000
 Artists:
 - Kirby
 - Hirokazu Ando
@@ -829,69 +967,54 @@ Referenced Tracks:
 - Haltmann Works Co. Theme Song
 ---
 Track: Haltmann Works Co. Theme Song
+# JP: ハルトマンワークスカンパニーのテーマ
+# Official release:
+#   星のカービィ ロボボプラネット オリジナルサウンドトラック
+#   Kirby: Planet Robobot Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/63000
 Artists:
 - Kirby
 - Hirokazu Ando
-Duration: '1:25'
+Duration: '1:26'
 URLs:
 - https://www.youtube.com/watch?v=RPLz7UIeQv8
 - https://open.spotify.com/track/4F9muAB4BFreVBPDW6mVVi
 ---
-Track: Historia Crux
-Artists:
-- Final Fantasy
-- Mitsuto Suzuki
-Duration: '4:28'
-URLs:
-- https://www.youtube.com/watch?v=W50atec80dM
-Lyrics: |-
-    Stars shine in the deep sky
-    Endless stories of the distant yesterdays
-
-    Take me in your arms
-    Keep me in your heart
-    Take me in your arms
-    Keep me in your heart
-
-    Time is flying by
-    The only moment is now
-    The only moment is now
-    Feel that everything is real
-    Everything is real in dream
-
-    Going on a trip to somewhere
-    Never been across time and space
-
-    Time and space
-    Time and space
-    Time and space
-    Time and space
----
 Track: Hotel Mario
+# No official release
 Artists:
 - Super Mario
 - Max Steiner
-Duration: 0:54
 URLs:
 - https://www.youtube.com/watch?v=28ZcsyOayLM
 ---
 Track: Hydrocity Zone (Act 2)
+# Among other tracks from Sonic 3 & Knuckles which ostensibly involved contributions from Michael Jackson or his crew, this track was never officially released.
 Artists:
 - Sonic the Hedgehog
 - Masayuki Nagao
-Duration: '1:55'
 URLs:
 - https://www.youtube.com/watch?v=PNYL4w-qxcE
 ---
 Track: Icirrus City
+# JP: セッカシティ
+# Official release:
+#   Pokémon Black & Pokémon White: Super Music Collection
+#   ニンテンドーDS ポケモンブラック・ホワイト スーパーミュージックコレクション
+# Reference:
+#   https://bulbapedia.bulbagarden.net/wiki/Pokémon_Black_%26_Pokémon_White:_Super_Music_Collection
 Artists:
-- Pokémon
+- artist:pokemon
 - Shota Kageyama
-Duration: '2:05'
+Duration: '1:46'
 URLs:
 - https://www.youtube.com/watch?v=vMTqSl-usYI
 ---
 Track: Jump Up, Super Star!
+# Officially released as an iTunes single.
+# Reference:
+#   https://vgmdb.net/album/72172
 Artists:
 - Super Mario
 - Naoto Kubo
@@ -900,7 +1023,7 @@ Contributors:
 - Kate Higgins (English vocals)
 Duration: '4:09'
 URLs:
-- https://www.youtube.com/watch?v=e9r5hx47kxM
+- https://youtu.be/Pj_IqEMGJZ4
 Sampled Tracks:
 - super mario bros jump and coin collect sfx
 Lyrics: |-
@@ -994,6 +1117,11 @@ Lyrics: |-
     So, let's do the odyssey
 ---
 Track: Katamari on the Rocks
+# JP: 塊オンザロック～メインテーマ
+# Official release:
+#   塊魂サウンドトラック「塊フォルテッシモ魂」
+# Reference:
+#   https://vgmdb.net/album/174
 Artists:
 - Katamari Damacy
 - Yuu Miyake
@@ -1001,6 +1129,7 @@ Artists:
 Contributors:
 - Masayuki Tanaka (vocals)
 - Tomomi Suzuki (vocals)
+- artist:satoru-kosaki (trumpet)
 Duration: '5:57'
 URLs:
 - https://www.youtube.com/watch?v=iMH49ieL4es
@@ -1059,14 +1188,20 @@ Lyrics: |-
     Nana nananananana na na Katamari Damacy
 ---
 Track: Layton's Theme
+# JP: レイトン教授のテーマ
+# Official release:
+#   レイトン教授メインテーマ トリロジーCD
+# Reference:
+#   https://vgmdb.net/album/10563
 Artists:
 - Professor Layton
 - Tomohito Nishiura
-Duration: '2:10'
+Duration: '1:55'
 URLs:
-- https://www.youtube.com/watch?v=lL6on-bOybk
+- https://www.youtube.com/watch?v=oys0fnIcgt8
 ---
 Track: Left-Hand Remix
+# The Rhythm Heaven franchise has only had a couple soundtrack soundtrack releases, and none for Rhythm Heaven Megamix.
 Artists:
 - Rhythm Heaven
 - Mitsuo Terada
@@ -1074,7 +1209,6 @@ Artists:
 - Asuka Ito
 - Yumi Takahashi
 - Megumi Inoue
-Duration: '2:55'
 URLs:
 - https://www.youtube.com/watch?v=2xNDTPbdO80
 Lyrics: |-
@@ -1087,6 +1221,10 @@ Lyrics: |-
     Pose for the fans!
 ---
 Track: Lonely Rolling Star
+# Official release:
+#   塊魂サウンドトラック「塊フォルテッシモ魂」
+# Reference:
+#   https://vgmdb.net/album/174
 Artists:
 - Katamari Damacy
 - Yoshihito Yano
@@ -1158,29 +1296,34 @@ Lyrics: |-
 ---
 Track: Megalovania
 Directory: megalovania-halloween
+# No official release (RIP)
 Artists:
 - Toby Fox
-Duration: '1:59'
 URLs:
 - https://www.youtube.com/watch?v=iIowwZThIXM
 ---
 Track: Moon Over the Castle
+# Original release:
+#   グランツーリスモ オリジナル・ゲームサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/3582
 Artists:
 - Gran Turismo
 - Masahiro Andoh
-Duration: '5:20'
+Duration: '5:25'
 URLs:
-- https://www.youtube.com/watch?v=PKdZBkEQYxI
+- https://youtu.be/LLXtfo6eXbE
 ---
 Track: Moonsong
+# The original Cave Story's soundtrack hasn't been officially released.
 Artists:
 - Cave Story
 - Daisuke Amaya
-Duration: '2:41'
 URLs:
 - https://www.youtube.com/watch?v=q09KoR7g018
 ---
 Track: Native Faith
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
@@ -1189,24 +1332,32 @@ URLs:
 - https://www.youtube.com/watch?v=P7dLp2Eb7cg
 ---
 Track: Neos City (Night)
+# No official release
+# Reference:
+#   https://vgmdb.net/product/9892
 Artists:
-- Pokémon
+- artist:pokemon
 - Hiroki Hashimoto
-Duration: '2:15'
 URLs:
 - https://www.youtube.com/watch?v=PTQBFoM_cVw
 ---
 Track: Objection! 2001
+# JP: 成歩堂龍一　～異議あり！ 2001
+# Official release:
+#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/2600
 Artists:
 - Ace Attorney
 - Masakazu Sugimori
 Contributors:
 - Naoto Tanaka (arrangement)
-Duration: '1:13'
+Duration: '1:22'
 URLs:
 - https://www.youtube.com/watch?v=_I34nshlOPk
 ---
 Track: Old Friends
+# Official release on Bandcamp
 Artists:
 - Transistor
 - Darren Korb
@@ -1216,48 +1367,61 @@ URLs:
 - https://www.youtube.com/watch?v=ql8K3KJyWgY
 ---
 Track: One Fateful Night
+# (See Eight Melodies, no official soundtrack release)
 Artists:
 - EarthBound
 - Keiichi Suzuki
 - Hirokazu Tanaka
-Duration: '0:46'
 URLs:
 - https://www.youtube.com/watch?v=bQzYJBTBVEc
 ---
 Track: Onett Theme
+# (See Eight Melodies, no official soundtrack release)
 Artists:
 - EarthBound
 - Keiichi Suzuki
 - Hirokazu Tanaka
-Duration: '2:24'
 URLs:
 - https://www.youtube.com/watch?v=XKfXsTkA71I
 ---
 Track: Pushing Onwards
+# Official release on Bandcamp (OK, also the guy's own site)
+# Reference:
+#   https://vgmdb.net/album/17623
 Artists:
 - VVVVVV
 - Magnus Pålsson
 Duration: '3:39'
 URLs:
+- https://souleyedigitalmusic.bandcamp.com/track/pushing-onwards
 - https://www.youtube.com/watch?v=25m3Gk7mRQM
 ---
 Track: Reconstructing More Science
+# Official release in a lovely free download
+# Reference:
+#   https://vgmdb.net/album/29202
 Artists:
 - Portal
 - Mike Morasky
-Duration: '2:36'
+Duration: '2:37'
 URLs:
 - https://www.youtube.com/watch?v=WAeiqxNH3W0
 ---
 Track: Recruitment Theme
+# Official release has this track as a medley of other in-game BGM at the end of an album mostly comprising arrangements; duration is from timestamps 41:33 to 42:07 on the album as a whole.
+# Official release:
+#   ファイアーエムブレム ～キャラクターテーマ集～
+# Reference:
+#   https://vgmdb.net/album/5570
 Artists:
 - Fire Emblem
 - Yuka Tsujiyoko
-Duration: '1:44'
+Duration: '0:34'
 URLs:
 - https://www.youtube.com/watch?v=9xlMErV9Fts
 ---
 Track: Right-Hand Remix
+# (See Left-Hand Remix for release info)
 Artists:
 - Rhythm Heaven
 - Mitsuo Terada
@@ -1265,7 +1429,6 @@ Artists:
 - Asuka Ito
 - Yumi Takahashi
 - Megumi Inoue
-Duration: '2:27'
 URLs:
 - https://www.youtube.com/watch?v=I81rQxSXz-s
 Lyrics: |-
@@ -1296,6 +1459,7 @@ Lyrics: |-
     One two
 ---
 Track: RollerCoaster Tycoon Theme
+# No official release; duration is from the in-game music file, which is a straight start-to-end loop.
 Artists:
 - RollerCoaster Tycoon
 - Allister Brimble
@@ -1304,6 +1468,7 @@ URLs:
 - https://www.youtube.com/watch?v=KT45kiI5FYw
 ---
 Track: Romantic Children
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
@@ -1312,21 +1477,23 @@ URLs:
 - https://www.youtube.com/watch?v=SmIdewKUmW4
 ---
 Track: Room of Dog
+# No official release, duration is from the in-game audio loop.
 Artists:
 - 'Toby Fox'
-Duration: '1:12'
+Duration: '0:35'
 URLs:
-- https://www.youtube.com/watch?v=L_QPBlD3hkU
+- https://www.youtube.com/watch?v=grGnVeKCcvc
 ---
 Track: Running Hell
+# The original Cave Story's soundtrack hasn't been officially released.
 Artists:
 - Cave Story
 - Daisuke Amaya
-Duration: '2:28'
 URLs:
 - https://www.youtube.com/watch?v=VQPqmS5iGzY
 ---
 Track: Ryuunosuke Akutagawa's "Kappa" ~ Candid Friend
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
@@ -1335,13 +1502,17 @@ URLs:
 - https://www.youtube.com/watch?v=XdNpKz8_VTA
 ---
 Track: Say "I Gotta Believe!"
+# Official release:
+#   パラッパラッパー2 ― オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/1511
 Artists:
 - PaRappa the Rapper
 - De La Soul
 - Takako Hirasawa
-Duration: '4:34'
+Duration: '4:16'
 URLs:
-- https://www.youtube.com/watch?v=AOaT98I-dRo
+- https://www.youtube.com/watch?v=o9y6oGe8V-g
 Lyrics: |-
     Say "Alright!" (Alright!)
     Say "Oh yeah!" (Oh yeah!)
@@ -1444,22 +1615,29 @@ Lyrics: |-
     Oh yeah, oh yeah, oh yeah, oh yeah, yay
 ---
 Track: Schala's Theme
+# (See Corridors of Time for info on soundtrack/YouTube differences)
+# JP: サラのテーマ
+# Official release:
+#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/18
 Artists:
 - Chrono Trigger
 - Yasunori Mitsuda
 Duration: '2:48'
 URLs:
-- https://www.youtube.com/watch?v=-iPLxszqpW4
+- https://www.youtube.com/watch?v=ilTggSxYi04
 ---
 Track: September Pumpkin
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
-Duration: '5:00'
 URLs:
 - https://www.youtube.com/watch?v=JjHPGJ3wr5E
 ---
 Track: Silencio
+# Uploaded from in-game files (pretty sure anyway)
 Artists:
 - 'OFF'
 - Alias Conrad Coldwood
@@ -1470,49 +1648,61 @@ Lyrics: |-
     [Largely indecipherable French whispering]
 ---
 Track: Sleeping Terror
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
-Duration: '4:30'
 URLs:
 - https://www.youtube.com/watch?v=tcpTuxh7E34
 ---
 Track: Slider
+# JP: スライダー
+# Official release:
+#   スーパーマリオ64 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/137
 Artists:
 - Super Mario
 - Koji Kondo
 Duration: '1:14'
 URLs:
-- https://www.youtube.com/watch?v=l7I8dYKeke8
+- https://youtu.be/vJIjtjGUR9Q?t=401
 ---
 Track: Smiles and Tears
+# (See Eight Melodies, no official soundtrack release)
 Artists:
 - EarthBound
 - Keiichi Suzuki
 - Hirokazu Tanaka
-Duration: '5:49'
 URLs:
 - https://www.youtube.com/watch?v=vkAmD8A3CRk
 ---
 Track: Solar Sect of Mystic Wisdom ~ Nuclear Fusion
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
-Duration: '5:45'
 URLs:
 - https://www.youtube.com/watch?v=Xy_-7OXophY
 ---
 Track: Soul 0 System
+# JP: Soul 0 System～回歴スル追約ノ忘レ貝
+# Official release:
+#   星のカービィ ロボボプラネット オリジナルサウンドトラック
+#   Kirby: Planet Robobot Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/63000
 Artists:
 - Kirby
 - Hirokazu Ando
-Duration: '1:20'
+Duration: '4:11'
 URLs:
 - https://www.youtube.com/watch?v=QMXmQkfNpGs
 Referenced Tracks:
 - Galactic Nova
 ---
 Track: Splatoon "Squid Kid" TV Commercial
+# This is a TV ad.
 Artists:
 - Splatoon
 - Unknown Artist
@@ -1535,16 +1725,26 @@ Lyrics: |-
     Splatatatatatatata Splatoon! 
 ---
 Track: Steam Gardens
+# JP: スチームガーデン
+# Official release:
+#   スーパーマリオ オデッセイ オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/73671
 Artists:
 - Super Mario
 - Koji Kondo
 Contributors:
 - The Super Mario Players (performance)
-Duration: '3:25'
+Duration: '3:44'
 URLs:
-- https://www.youtube.com/watch?v=-rfoYSmx0rk
+- https://youtu.be/-rfoYSmx0rk
 ---
 Track: Stone Tower Temple
+# JP: ロックビルの神殿 (表)
+# Official release:
+#   ゼルダの伝説 ムジュラの仮面 オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/1678
 Artists:
 - The Legend of Zelda
 - Koji Kondo
@@ -1553,62 +1753,81 @@ URLs:
 - https://www.youtube.com/watch?v=oMSCjGJp8Gk
 ---
 Track: Super Dry Dance
+# (See Eight Melodies, no official soundtrack release)
 Artists:
 - EarthBound
 - Keiichi Suzuki
 - Hirokazu Tanaka
-Duration: '1:49'
 URLs:
 - https://www.youtube.com/watch?v=VjSUpctGEUQ
 ---
 Track: Terra's Theme
+# JP: ティナのテーマ
+# Official release:
+#   ファイナルファンタジーVI オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/40
 Artists:
 - Final Fantasy
 - Nobuo Uematsu
-Duration: '3:50'
+Duration: '3:53'
 URLs:
-- https://www.youtube.com/watch?v=PiI7rDqv9FQ
+- https://youtu.be/SrDiiVn1VCk
 ---
 Track: The Decisive Battle (Final Fantasy VI)
+# JP: 決戦
+#   ファイナルファンタジーVI オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/40
 Artists:
 - Final Fantasy
 - Nobuo Uematsu
-Duration: '0:53'
+Duration: '2:02'
 URLs:
-- https://www.youtube.com/watch?v=bMOa3rjtHkE
+- https://youtu.be/WmBPTpvYyIY
 ---
 Track: 'The Flintstones: The Rescue of Dino & Hoppy - Title Theme/Ending'
+# No official release, too bad
 Artists:
 - The Flintstones
 - Yasuko Yamada
 - Naoto Yagishita
-Duration: '1:02'
 URLs:
 - https://www.youtube.com/watch?v=U3-0w9eVENw
 Referenced Tracks:
 - Meet the Flintstones
 ---
 Track: The Little Sprite
+# JP: 妖精族のこども
+# Official release:
+#   聖剣伝説2 オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/721
 Artists:
 - Secret of Mana
 - Hiroki Kikuta
-Duration: 0:40
+Duration: 0:52
 URLs:
-- https://www.youtube.com/watch?v=HZjNMWmstWo
+- https://youtu.be/UrA3yf_W_I4
 ---
 Track: The Primal Scene of Japan the Girl Saw
+# No official release of the in-game track
 Artists:
 - Touhou Project
 - ZUN
-Duration: '3:00'
 URLs:
 - https://www.youtube.com/watch?v=okDBNnAjItU
 ---
 Track: The Stains of Time
+# Official release:
+#   METAL GEAR RISING REVENGEANCE Vocal Tracks
+# Reference:
+#   https://vgmdb.net/album/36558
 Artists:
 - Metal Gear
 - Logan Mader
 - Jamie Christopherson
+- Maniac Agenda
 Contributors:
 - Kit Walters (vocals)
 Duration: '2:10'
@@ -1637,14 +1856,23 @@ Lyrics: |-
     My dreams disappear
 ---
 Track: Theme of Eastern Story
+# This doesn't exactly have an "official in-game release"... but it wasn't exactly composed for one game either, serving more as a theme for the Touhou series. The duration here is pulled from Akyu's Untouched Score vol.5.
+# JP: テーマ・オブ・イースタンストーリー
+# References:
+#   https://en.touhouwiki.net/wiki/Theme_of_Eastern_Story
 Artists:
 - Touhou Project
 - ZUN
-Duration: '3:00'
+Duration: '5:01'
 URLs:
-- https://www.youtube.com/watch?v=qGwASZn0ZKA
+- https://youtu.be/WGEEAhl0EDw
 ---
 Track: Thin RED Line
+# JP: Thin RED Line-アラクネ　テーマ曲
+# Official release:
+#   ブレイブルー オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/10946
 Artists:
 - BlazBlue
 - Daisuke Ishiwatari
@@ -1653,37 +1881,54 @@ URLs:
 - https://www.youtube.com/watch?v=hrvamz7tncY
 ---
 Track: Title (Mega Man 3)
+# Official release:
+#   カプコン ミュージック ジェネレーション ファミコン音楽全集 ロックマン 1~6
+# References:
+#   https://vgmdb.net/album/255
 Artists:
 - Mega Man
-Duration: '1:30'
+Duration: '1:23'
 URLs:
-- https://www.youtube.com/watch?v=2GPIijXue1k
+- https://youtu.be/krRaLoxdhrE
 ---
 Track: Title (The Legend of Zelda)
+# (See dungeon-theme-zelda1 for release info)
+# JP: タイトル
+# Official release:
+#   ゼルダの伝説 "サウンド&ドラマ"
+# Reference:
+#   https://vgmdb.net/album/885
 Artists:
 - The Legend of Zelda
 - Koji Kondo
 Duration: '1:20'
 URLs:
-- https://www.youtube.com/watch?v=uyMKWJ5e1kg
+- https://youtu.be/-CPrdomMoA4
 ---
 Track: To Make the End of Battle
+# JP: TO MAKE THE END OF BATTLE (タイトル)
+# Official release:
+#   ミュージック・フロム・イース II
+# Reference:
+#   https://vgmdb.net/album/1279
 Artists:
 - Ys
 - Yuzo Koshiro
-Duration: '4:43'
+Duration: '2:15'
 URLs:
-- https://www.youtube.com/watch?v=Y9Mam93QIQo
+- https://youtu.be/c2Wb5A-Tt3w
 ---
 Track: Tomboyish Girl in Love
+# Oh boy, this one's gotten around a lot.
+# No in-game release though!
 Artists:
 - Touhou Project
 - ZUN
-Duration: '3:00'
 URLs:
 - https://www.youtube.com/watch?v=JIZ12EQ2SFg
 ---
 Track: Totaka's Song
+# As Niklink commentates, this one's more a... melody...? abstract work...? than an individual track, so no official release, and a given duration wouldn't really fit it anyway. (It's about 30 seconds to a minute long though.)
 Artists:
 - Kazumi Totaka
 URLs:
@@ -1693,32 +1938,53 @@ Commentary: |-
     Originally found in Mario Paint and known as 'Mario Paint song', it was its discovery in Animal Crossing as a secret track you could only hear by requesting 'K.K. Song' from K.K. Slider that clued fans in as to its true nature, as the character is based on Nintendo composer Kazumi Totaka. Versions of this song have been hidden in almost every game he has been involved in, usually by idling in some specific part of the game for several minutes.
 ---
 Track: Toxic Caves
+# This friggen' game got its soundtrack released on vinyl in 2022! What were the chances!? Nice!
+# Official release:
+#   Sonic Spinball
+# Reference:
+#   https://vgmdb.net/album/121665
 Artists:
 - Sonic the Hedgehog
 - Howard Drossin
-Duration: '3:05'
+Duration: '3:29'
 URLs:
-- https://www.youtube.com/watch?v=bkWUJfIotfU
+- https://youtu.be/KYhA2RisjP0?t=43
 ---
 Track: Turnabout Sisters Theme 2001
+# JP: 綾里真宵　～逆転姉妹のテーマ 2001
+# Official release:
+#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/2600
 Artists:
 - Ace Attorney
 - Masakazu Sugimori
 Contributors:
 - Naoto Tanaka (arrangement)
-Duration: '2:45'
+Duration: '2:41'
 URLs:
 - https://www.youtube.com/watch?v=upOhRRYVGkA
 ---
 Track: Ultimate Koopa
+# JP: クッパ3号
+# Official release:
+#   スーパーマリオ64 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/137
 Artists:
 - Super Mario
 - Koji Kondo
 Duration: '2:50'
 URLs:
-- https://www.youtube.com/watch?v=Bv9ou1vzVXE
+- https://youtu.be/vJIjtjGUR9Q?t=2447
 ---
 Track: Vagrant Counting Song of Retrospection
+# JP: この一撃に桃球レボリューション
+# Official release:
+#   星のカービィ ロボボプラネット オリジナルサウンドトラック
+#   Kirby: Planet Robobot Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/63000
 Artists:
 - Kirby
 - Hirokazu Ando
@@ -1732,6 +1998,10 @@ Referenced Tracks:
 - Haltmann Works Co. HQ
 ---
 Track: Vela-Nova
+# Official release:
+#   SONIC RUSH Original Groove Rush.
+# Reference:
+#   https://vgmdb.net/album/1651
 Artists:
 - Sonic the Hedgehog
 - Hideki Naganuma
@@ -1769,6 +2039,12 @@ Lyrics: |-
     (Ah, let's do it.)
 ---
 Track: Venturing into the Mechanized World
+# JP: キカイのせかいのだいぼうけん
+# Official release:
+#   星のカービィ ロボボプラネット オリジナルサウンドトラック
+#   Kirby: Planet Robobot Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/63000
 Artists:
 - Kirby
 - Hirokazu Ando
@@ -1780,37 +2056,44 @@ Referenced Tracks:
 - Haltmann Works Co. Theme Song
 ---
 Track: Waluigi Pinball / Wario Stadium
+# No official release
 Artists:
 - Super Mario
 - Shinobu Tanaka
-Duration: '2:11'
 URLs:
 - https://www.youtube.com/watch?v=psIuCn2jVNk
 ---
 Track: Where The Guns At
+# Official release on Bandcamp
 Artists:
 - Nuclear Throne
 - Jukio Kallio
 - Joonas Turner (gun SFX)
 Duration: '2:20'
 URLs:
-- https://www.youtube.com/watch?v=fe359yiaPi8
 - https://jukiokallio.bandcamp.com/track/where-the-guns-at-feat-joonas-turner
+- https://www.youtube.com/watch?v=fe359yiaPi8
 ---
 Track: Wind Scene
+# (See Corridors of Time for info on soundtrack/YouTube differences)
+# JP:  風の憧憬
+# Official release:
+#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/18
 Artists:
 - Chrono Trigger
 - Yasunori Mitsuda
-Duration: '1:33'
+Duration: '3:23'
 URLs:
-- https://www.youtube.com/watch?v=DY5vmx0YvgE
+- https://youtu.be/psMnbEmvx7w
 ---
 Track: You Gained a Level!
+# (See Eight Melodies, no official soundtrack release)
 Artists:
 - EarthBound
 - Keiichi Suzuki
 - Hirokazu Tanaka
-Duration: 0:23
 URLs:
 - https://www.youtube.com/watch?v=k-dOcqJoCrs
 ---
