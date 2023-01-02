@@ -1,3 +1,61 @@
+Name: Ball Drop '23
+Directory: ball-drop-23
+Date: January 1, 2023
+Content: |-
+    <img src="media/misc/news/ball-drop-still.png" alt="Classic Homestuck panel of The Ball Drop: Jade's tower toppling and the bedroom ball dropping." width="650" height="450">
+    <hr class="split">
+    Hey again! It's been a little while. If you're visiting shortly as we release this new update - happy new year!
+    I've quite procrastinated on writing this news entry, since I just don't know how to summarize the cumulative year and a half of work from so many different awesome people (and friends!). Especially after everyone came together and kept contributing to a website which had ostensibly been finalized!
+    But I also don't want to get crazy-sentimental, since it's just been a great time working with everyone, and I'm all sorts of excited to share what we've put together, together. So let's jump right in!
+    <hr>
+    <b>Tons of music is newly part of the wiki,</b> new releases and old alike! There are way too many to go over right here, so we've hand-picked many of the new additions and put them in a grid on the homepage for you to check out yourself. Here are some quick highlights:
+    - [[album:lofam5]], the fantastic culmination of Homestuck's fanmusician community, come together four years after the previous in the series! It actually just passed its own first anniversary in December, so if you haven't given it a listen yet (and checked out its awesome-as-ever community track art), you owe it to yourself to do just that!
+    - The first albums from [[group:canmt]] - with complete track reference information that had never been written down before, gracious courtesy to their music team's organizer koba!
+    - [[album:sburban-neighborhood]] and [[album:skaias-the-limit]], community albums put together for presentation at the online Homestuck fan-convention, SAHCon 2021 and 2022!
+    - A whole host of solo albums and works, like [[album:heaven-sent]], [[album:portalstuck-vol-1]], [[album:7th-gate-project]], [[album:songs-unsung]], [[group:tumblrstuck-bent]], and more!
+    - And even more community projects, like [[album:s-press-play]], an audio zine featuring a variety of musical-and-beyond fanworks, and [[album:songs-from-the-planet-earth]], a Steven Universe fan-album from many familiar names in the sphere around Homestuck music, complete with track artwork and composers' commentary!
+    Immeasureable thanks go to Niklink, who worked tirelessly to bring most of the above and much more to the wiki over the last year-and-change - not to mention countless error catches and other additions. Thank you!
+    <b>Album extras and other goodies are newly included as Additional Files,</b> which you can find at the bottom of the main page for many albums! We've gathered everything we could find for the official discography, and will be adding more across the wiki in the future, too.
+    <b>All albums with track art have a new Art Gallery page!</b> This is basically self-descriptive, but check it out for [[album-gallery:homestuck-vol-10]], [[album-gallery:ancestral]], and [[album-gallery:oceanfalls-vol-3]], for just a few examples!
+    <b>Unreleased Tracks has been totally transformed</b> - it's now a section called [[group-gallery:additional-tracks]], cleaner organized than ever before, and has had basically all details under [[album:references-beyond-homestuck]] reviewed and refined! Thanks to foreverFlummoxed for their contributions here!
+    <b>Lots of shiny site style polishing</b> - besides the hand-selected carousel you've probably seen on the homepage (and the main groups, [[group:official|Official]], [[group:fandom]], and [[group:beyond]]), you'll quickly notice the "sticky" heading bar showing you an album or track's name and cover art even while you've scrolled down, as well as the section title for longer listings like [[album:lofam4]]! If you browse with Safari or various mobile engines, the color of the album you're viewing will subtly show through in the browser bar, and various other tweaks are new across the site's appearance, too.
+    <b>Virtually all site internals met a massive overhaul,</b> which most notably helped us automatically catch a ton of teeny typos throughout all areas of wiki data, but also brought a major cleanup to the data format and made adding and updating features a whole lot friendlier for anyone spinning off or contributing to the wiki code!
+    <b>Tons of other data fixes and minor additions</b> from many different people and community members - I summed up most individuals' contributions in the [[news-entry:a-preview-draws-near|previous news entry]], and you can find many more details in [[static:changelog#1-jan-2023|the changelog]]. Thanks so much to everyone who brought this update to fruition!
+    <hr>
+    By the way, here are the stats summarizing just how much data is newly part of the wiki:
+    - Tracks: 2186 → 3405 (~56% increase)
+    - Albums: 110 → 150 (~36% increase)
+    - Duration: 109 hours → 166 hours (~53% increase)
+    - Artists: 1142 → 1615 (~41% increase)
+    - Art tags: 155 → 265 (~71% increase)
+    It's been kind of crazy working on this update, going from loads of experimental internal tech changes mostly developed on my own to chatting with a bunch of other people about new features and additions, continually developing while Niklink crunched literally hundreds of tracks' worth of data, while koba went through hour upon hour of their team's pieces marking down reference information, while FF and Celeste and many other new names brought their own contributions forward... It's brought back a spark for development that I hadn't been able to really feel for months. And what we've made together is so huge and precious to me, and, I hope, to everyone who contributed or was here along the way!
+    There's a lot more I could say, but I'll hand off to Niklink's thoughts looking on the update as a whole:
+    > <i>Niklink:</i>
+    > i think it's the fact that its so much stuff rolled up in one drop
+    > when you work on things one at a time the tiny incremental improvements kind of feel like nothing
+    > but then you look back at the entirety of it and it's like wow, it's so amazing<br>then it's wow wait, I built this up<br>but it's just little bits and pieces you put in one by one
+    > nothing to it at all except time
+    > you can be a pessimist and think of it as devaluing your work or be an optimist and think of how basically anyone can put in elbow grease over some period of time and build up something big
+    > wow, it's not so hard!
+    We don't intend on adhering to a specific schedule for future updates - monthly releases were pretty awesome, but also wildly beyond anything we're currently capable of or even interested in! There are plans and ideas for what's coming next, though, and from the horse's mouth, it'll <em>probably</em> take less than a year and a half.
+    As always, you're much welcomed to join in and share feedback and suggestions through [[static:discord|the community Discord server]] or [[static:feedback|our other channels]]. Thanks so much for your support, feedback, comments and contributions, everyone!
+    <i>~ Quasar Nebula</i>
+    <hr>
+    <i>Alternate (no, not botched) update titles:</i>
+    - year of the linux desktop
+    - The Everything Update
+    - Everybody Updates
+    - The bAll Drop
+    - Beyond Canon Track 4
+    - "so much stuff the kitchen sink broke" update
+    - even in death update
+    - actually i had all this done 17 months ago but i forgot to update the live site update
+    - the holy shit it's been a year and a half and there hasn't been a new official album, like not even hiveswap act 3 ost, it's dead, it's all dead, we're all dead update
+    - the beta<br>its here<br>check your emails<br>update
+    - Can You Really Call This An Update, I Didn't Receive A Mint On My Pillow Or Anything
+    - the still took less time than avatar 2 update
+    Thanks for the awesome, hilarious, wonderful times, everyone &lt;3
+---
 Name: A Preview Draws Near...
 Directory: a-preview-draws-near
 Date: April 13, 2022

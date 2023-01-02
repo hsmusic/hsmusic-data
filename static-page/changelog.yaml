@@ -23,7 +23,7 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="12-jun-2077" class="major-release"><a href="#12-jun-2077">[[date:12 June 2077]] - (Preview changelog!)</a></h2>
+    <h2 id="1-jan-2023" class="major-release"><a href="#1-jan-2023">[[date:1 January 2023]] - Ball Drop '23</a></h2>
     <h3>site changes</h3>
     - major restructure of all internal data structures as well as data file format, laying foundations for all following changes and additions to wiki features and lending much better to interoperability with outside code and internal data validation and error reporting
         - improved automatic data error reporting lead to many dozens of diverse data issues that had previously slipped by getting fixed this update, much improving overall wiki quality and raising the baseline level of data consistency
@@ -38,23 +38,21 @@ Content: |-
     - support added for uncompressed PNG album and track artworks
         - these don't replace the compressed jpeg thumbnails, but when you click art to view it in full, you'll get its lossless PNG format when available
         - mostly newly added albums for now, but more official and fandom artwork will be brought over soon
+    - support added for albums which don't have cover art at all, as seen in new albums from [[group:additional-tracks]] and some releases from the community
     - listing changes:
         - "new" [[listing:albums/by-date-added|Albums - by Date Added]] listing, which has actually existed since [[news-entry:the-my-ex-wife-is-a-real-bitch-update|May 2021]], but was previously somehow at <a href="https://github.com/hsmusic/hsmusic-wiki/issues/53">a typo'd path</a> and wasn't accessible from the listing index
         - [[listing:tracks/with-lyrics|Tracks - with Lyrics]] listing now sorts by album date instead of track date, i.e. so all tracks from the same album are always grouped together (thanks, Geese!)
         - [[listing:tracks/by-times-referenced|Tracks - by Times Referenced]] listing now excludes re-release tracks (such as [[track:black-vol-1-4]] from [[album:homestuck-vol-1-4]])
-    - [[album:unreleased-tracks]] has been completely reorganized, with many tracks having been moved to new organizational albums [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]], all collected under new [[group:additional-tracks]] group
     - "Tracks that reference..." lists are now grouped by Beyond and Additional Tracks as well, instead of grouping everything that's not an official Homestuck track under Fandom
     - re-release tracks (such as [[track:black-vol-1-4]] from [[album:homestuck-vol-1-4]]) are no longer displayed in "Tracks that reference" lists
-    - colored track sections were removed from [[album:unreleased-tracks]] since it's been divided into [[group:additional-tracks|more specific albums anyway]], but they're now used in other areas of the site, including [[album:prospit-and-derse]] and [[album:homestuck-vol-1-4]]
     - though not all art has been ported yet, many albums and tracks (including most new ones) now have full resolution PNG artwork, accessible by clicking the cover art (thumbnails are still downscaled JPEGs to reduce data usage when generally browsing the wiki), as well as PNG banner and backgrounds where applicable
     - "short name" for the wiki changed has been chagned from "HSMusic" to "HSMusic Wiki" - this shows up in browser tab titles, the site navigation bar, and social embeds like Discord
-    - slight tweaks to the appearance of album grids (as in group and tag galleries), most notably aligning tiles to the top of each row so that artwork always shows up in an even line
-    - improvements to the way track artist strings are word wrapped, preventing pages from getting wider than they're supposed to be when a track has many artists (such as [[track:left-hand-remix]])
-        - also fixed word wrapping on content pages with extremely long single words (like [[track:iiywaswiwtbotsa4aatwuotdtmihcimfh]]) when the screen is thinner than that word
-    - internal support for albums which don't have cover art at all, as seen in new albums from [[group:additional-tracks]] and some releases from the community
-    - new internal features which generalize hard-coded behavior for the Unreleased Tracks, letting new albums make use of some or all desired features:
+    - homepage content entirely redesigned, with new "carousel" element showing off the official discography and a larger hand-picked selection of albums added in this update
+    - [[album:unreleased-tracks]] has been completely reorganized, with many tracks having been moved to new organizational albums [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]], all collected under new [[group:additional-tracks]] group
+    - new internal features which generalize behavior originally hard-coded for Unreleased Tracks, letting new albums make use of some or all desired features:
         - internal support for albums which don't have release dates (these get sorted to the end on artist pages and are excluded from chronology links)
         - new "Has Track Numbers" field on albums which switches between the default <code>&lt;ol&gt;</code> and unordered <code>&lt;ul&gt;</code> list displays for track lists
+    - slight appearance polish to various elements across the site
     <h3>albums</h3>
     - <b>album addition credits:</b>
         - thanks to [[artist:kobacat|koba]] for putting together a huge spreadsheet of album data from [[group:canmt]] (including all-new track reference lists)
