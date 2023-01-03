@@ -1,0 +1,56 @@
+Homepage: Homepage
+Sidebar Content: |-
+    <h1>Get involved!</h1>
+    - [[static:feedback|Send feedback]]
+    - [[static:discord|Join the Discord server]]
+    <hr>
+    [[news]]
+Navbar Links:
+- '[[listing-index:-|Listings]]'
+- '[[news-index:-|News]]'
+- '[[static:about]]'
+- '[[static:feedback]]'
+- '[[static:discord]]'
+- '[[static:changelog]]'
+---
+Row: Official Discography
+Type: albums
+Display Style: carousel
+Group: group:official
+Count: 10
+Actions:
+- '[[group-gallery:official|Explore Official!]]'
+- '[[group-gallery:fandom|Fandom]]'
+- '[[group-gallery:beyond|Beyond]]'
+
+---
+Row: New Additions
+Type: albums
+Albums:
+- album:lofam5
+- album:deltarune-ch2-ost
+- album:ulterior-motives
+
+- album:friendsim-2-volume-1
+- album:pantheon
+- album:songs-unsung
+
+- album:cool-and-new-voulem1
+- album:cool-and-new-volume-2
+- album:cool-and-new-volume-ii
+- album:of-troles-and-chiptumes
+
+- album:sburban-neighborhood
+- album:skaias-the-limit
+- album:songs-from-the-planet-earth
+- album:s-press-play
+
+- album:homestuck-swagazaki
+- album:heaven-sent
+- album:ophiuchus-full-suite
+- album:homestuck-for-orchestra-ep
+
+- album:tumblrstuck-bent-ost-volume-1
+- album:team-paradox
+- album:bee-forus-seatbelt-safebee
+- album:sburb-ost-bonus-dlc
