@@ -23,6 +23,14 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="12-jun-2077" class="major-release"><a href="#12-jun-2077">[[date:12 June 2077]] - (Preview changelog!)</a></h2>
+    <h3>site changes</h3>
+    <h3>albums</h3>
+    - added [[album:after-party-animal-ep]] by [[group:clark-powell]]!
+        - new artist: [[artist:forrest-molloy]]
+    <h3>other additions</h3>
+    <h3>data fixes</h3>
+    <h3>data changes</h3>
     <h2 id="1-jan-2023" class="major-release"><a href="#1-jan-2023">[[date:1 January 2023]] - Ball Drop '23</a></h2>
     <h3>site changes</h3>
     - major restructure of all internal data structures as well as data file format, laying foundations for all following changes and additions to wiki features and lending much better to interoperability with outside code and internal data validation and error reporting
