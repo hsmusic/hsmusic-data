@@ -510,9 +510,8 @@ Track: Bon Voyage, Amigo
 #   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
 #   http://starmen.net/merchandise/music/m3cd.php
 Artists:
-- EarthBound
-- Keiichi Suzuki
-- Hirokazu Tanaka
+- Mother
+- Shogo Sakai
 URLs:
 - https://www.youtube.com/watch?v=5OtDm2qgpWw
 ---
@@ -775,7 +774,7 @@ URLs:
 Track: Eight Melodies
 # From Mother (EarthBound Beginnings), which doesn't seem to have received an official soundtrack release (besides several arrangements)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -850,15 +849,6 @@ Artists:
 - Jun Ishikawa
 URLs:
 - https://www.youtube.com/watch?v=hPT77G3LGwA
----
-Track: Game Over
-Directory: game-over-bootleg
-# This... obviously never had an official release... duh...
-Artists:
-- Felix the Cat
-- Unknown Artist
-URLs:
-- https://www.youtube.com/watch?v=e17PCwAFIA4
 ---
 Track: Gaster's Theme
 # No official release, duration is from the in-game audio loop.
@@ -1020,8 +1010,10 @@ Track: Jump Up, Super Star!
 Artists:
 - Super Mario
 - Naoto Kubo
-Contributors:
+- Nobuyoshi Suzuki (Japanese lyrics)
 - Rob Tunstall (English lyrics)
+Contributors:
+- Aimi Mukohara (Japanese vocals)
 - Kate Higgins (English vocals)
 Duration: '4:09'
 URLs:
@@ -1117,6 +1109,10 @@ Lyrics: |-
     Put a smile on that face
     There's no time to waste
     So, let's do the odyssey
+Commentary:
+    <i>Niklink:</i>
+
+    While the lyrics here are from the (probably known to you) English version of the song, the Japanese version was the first version to be created (although both launched simultaneously).
 ---
 Track: Katamari on the Rocks
 # JP: 塊オンザロック～メインテーマ
@@ -1371,7 +1367,7 @@ URLs:
 Track: One Fateful Night
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -1380,7 +1376,7 @@ URLs:
 Track: Onett Theme
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -1673,7 +1669,7 @@ URLs:
 Track: Smiles and Tears
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -1757,7 +1753,7 @@ URLs:
 Track: Super Dry Dance
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -1889,6 +1885,7 @@ Track: Title (Mega Man 3)
 #   https://vgmdb.net/album/255
 Artists:
 - Mega Man
+- Yasuaki Fujita
 Duration: '1:23'
 URLs:
 - https://youtu.be/krRaLoxdhrE
@@ -1906,6 +1903,18 @@ Artists:
 Duration: '1:20'
 URLs:
 - https://youtu.be/-CPrdomMoA4
+---
+Track: 'Title (Uwol: Quest for Money)'
+# This... obviously never had an official release... duh...
+Artists:
+- Uwol
+- Augusto Ruiz
+URLs:
+- https://www.youtube.com/watch?v=xYp0NHNnLR4
+Commentary: |-
+    <i>Niklink:</i>
+
+    While you may recognize this song as the Game Over theme from that one Russian Felix the Cat game (a bootleg Genesis port of the NES game), the music is actually plagiarized from the Genesis port of Uwol: Quest for Money, an original homebrew game first released for the ZX Spectrum. While you may remember the track being faster, it in fact was always this same speed but often mangled by running a PAL region game at NTSC speed (resulting in a 20% speedup).
 ---
 Track: To Make the End of Battle
 # JP: TO MAKE THE END OF BATTLE (タイトル)
@@ -2093,7 +2102,7 @@ URLs:
 Track: You Gained a Level!
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
