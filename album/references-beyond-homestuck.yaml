@@ -343,6 +343,40 @@ Duration: '1:46'
 URLs:
 - https://www.youtube.com/watch?v=iPT_YvaM7vc
 ---
+Track: Page 1 - 2 theme
+Artists:
+- Mark Hadley
+Duration: '2:01'
+URLs:
+- https://www.youtube.com/watch?v=SZbgwgRvaEE
+---
+Track: Page 3 - 4 theme
+Artists:
+- Mark Hadley
+Duration: '2:01'
+URLs:
+- https://www.youtube.com/watch?v=HK5OPxR8spg
+Referenced Tracks:
+- Page 1 - 2 theme
+---
+Track: Page 5 - 6 theme
+Artists:
+- Mark Hadley
+Duration: '2:01'
+URLs:
+- https://www.youtube.com/watch?v=YJ73-xwMRPo
+Referenced Tracks:
+- Page 3 - 4 theme
+---
+Track: Page 7 theme
+Artists:
+- Mark Hadley
+Duration: '2:01'
+URLs:
+- https://www.youtube.com/watch?v=AO5u-ylgaIY
+Referenced Tracks:
+- Page 5 - 6 theme
+---
 Track: Pencil Holder (demo version)
 Artists:
 - Clark Powell
