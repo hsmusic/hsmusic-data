@@ -1,6 +1,6 @@
 Album: Paths
 Artists:
-- Mark Hadley
+- Mark J. Hadley
 Date: February 16, 2020
 Date Added: January 10, 2023
 URLs:
@@ -8,7 +8,7 @@ URLs:
 - https://www.youtube.com/watch?v=WDeeuXT86mg
 Has Track Art: false
 Cover Artists:
-- Mark Hadley
+- Mark J. Hadley
 Cover Art File Extension: png
 Color: '#9d9493'
 Groups:
@@ -17,14 +17,14 @@ Groups:
 Wallpaper Style: 'opacity: 0.9;'
 Wallpaper File Extension: png
 Wallpaper Artists:
-- Mark Hadley
+- Mark J. Hadley
 - Niklink (edits for wiki)
 Commentary: |-
-    <i>Mark Hadley:</i>
+    <i>Mark J. Hadley:</i>
     A collection of music in a variety of styles by Mark J. Hadley from multiple sources, both professional and casual.
 
-    Album art created with the help of Artbreeder, original image:
-    <img src="media/misc/paths_alt.jpg">
+    Album art created with the help of <a href="https://www.artbreeder.com/i?k=dfb6c37013ec548f1936">Artbreeder</a>, original image:
+    <img src="media/misc/paths_original.jpg">
 ---
 Track: Aggrievocation
 Directory: aggrievocation-paths
@@ -42,11 +42,12 @@ Duration: '2:06'
 URLs:
 - https://parsecproductions.bandcamp.com/track/slender
 Commentary: |-
-    <i>Mark Hadley:</i>
+    <i>Mark J. Hadley:</i>
     Originally appeared in "Slender: The Eight Pages"
 ---
 Track: Forge Multitask
-Originally Released As: track:forge-multitask-ludum-dare-36
+Directory: forge-multitask-paths
+Originally Released As: track:forge-multitask
 Duration: '3:28'
 URLs:
 - https://parsecproductions.bandcamp.com/track/forge-multitask
@@ -91,7 +92,7 @@ Duration: '9:48'
 URLs:
 - https://parsecproductions.bandcamp.com/track/chromaestro
 Commentary: |-
-    <i>Mark Hadley:</i>
+    <i>Mark J. Hadley:</i>
     Originally appeared in "<a href="https://store.steampowered.com/app/652200/Chromaestro/">Chromaestro</a>"
 ---
 Track: Lurk
@@ -102,7 +103,8 @@ URLs:
 - https://parsecproductions.bandcamp.com/track/lurk-2
 ---
 Track: Furni-Chore
-Originally Released As: track:furni-chore-ludum-dare-37
+Directory: furni-chore-paths
+Originally Released As: track:furni-chore
 Duration: '1:34'
 URLs:
 - https://parsecproductions.bandcamp.com/track/furni-chore
@@ -116,7 +118,7 @@ URLs:
 ---
 Track: Final Stand
 Directory: final-stand-paths
-Originally Released As: track:final-stand-ludum-dare-40
+Originally Released As: track:final-stand-dare
 Duration: '3:32'
 URLs:
 - https://parsecproductions.bandcamp.com/track/final-stand
