@@ -746,6 +746,63 @@ Duration: '2:00'
 URLs:
 - https://www.youtube.com/watch?v=nO3Ap0xOcAE
 ---
+Track: Chrono Cross ~Scars of Time~
+# (See Corridors of Time for info on soundtrack/YouTube differences)
+# JP: CHRONO CROSS ～時の傷跡～
+# Official releases:
+#   クロノ・クロス オリジナル・サウンドトラック
+#   Chrono Cross Original Soundtrack Revival Disc
+# Reference
+#   https://vgmdb.net/album/4
+#   https://vgmdb.net/album/86952
+Artists:
+- Chrono Trigger
+- Yasunori Mitsuda
+Duration: '2:29'
+URLs:
+- https://www.youtube.com/watch?v=180sjeAMKPE
+---
+Track: Cross-Examination - Allegro 2001
+# JP: 尋問 ～アレグロ 2001
+# Official releases:
+#   逆転裁判１ + ２ オリジナル・サウンドトラック
+#   Phoenix Wright: Ace Attorney Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/2600
+#   https://vgmdb.net/album/2602 (rereleased on Steam in 2020 with official English track titles)
+Artists:
+- Ace Attorney
+- Masakazu Sugimori
+Duration: '2:09'
+URLs:
+- https://www.youtube.com/watch?v=HK2VLhbSaoc
+Referenced Tracks:
+- Cross-Examination - Moderato 2001
+---
+Track: Cross-Examination - Moderato 2001
+# 尋問 ～モデラート 2001
+# Official releases:
+#   逆転裁判１ + ２ オリジナル・サウンドトラック
+#   Phoenix Wright: Ace Attorney Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/2600
+#   https://vgmdb.net/album/2602 (rereleased on Steam in 2020 with official English track titles)
+Artists:
+- Ace Attorney
+- Masakazu Sugimori
+Duration: '1:46'
+URLs:
+- https://www.youtube.com/watch?v=9_sAzyTCZzQ
+---
+Track: Doctor Frog
+# Track named in-game, no official releases
+Artists:
+- Theme Hospital
+- Russell Shaw
+- Adrian Moore
+URLs:
+- https://www.youtube.com/watch?v=yL4LkJ4wfLU
+---
 Track: DK Rap
 # Duration is from the first musical (0:17) to the disc scratch (3:27) on the in-game music video
 Artists:
@@ -969,6 +1026,15 @@ Duration: 0:17
 URLs:
 - https://www.youtube.com/watch?v=CFn8xs157Gw
 ---
+Track: Giygas Disintegrates
+# (See Eight Melodies, no official soundtrack release)
+Artists:
+- EarthBound
+- Keiichi Suzuki
+- Hirokazu Tanaka
+URLs:
+- https://www.youtube.com/watch?v=W5u8ZztWzAk
+---
 Track: GO MY WAY!!
 # Official release:
 #   THE IDOLM@STER MASTERWORK 01 GO MY WAY!!
@@ -1082,6 +1148,14 @@ Duration: '1:26'
 URLs:
 - https://www.youtube.com/watch?v=RPLz7UIeQv8
 - https://open.spotify.com/track/4F9muAB4BFreVBPDW6mVVi
+---
+Track: Hero's End
+# The original Cave Story's soundtrack hasn't been officially released.
+Artists:
+- Cave Story
+- Daisuke Amaya
+URLs:
+- https://www.youtube.com/watch?v=ayMOn4GKKGk
 ---
 Track: Hotel Mario
 # No official release
@@ -1288,6 +1362,16 @@ Lyrics: |-
     Nana nananananana na na Katamari Damacy
     Nana nananananana na na Katamari Damacy
     Nana nananananana na na Katamari Damacy
+---
+Track: Lambda Core
+# https://joelnielsen.bandcamp.com/album/black-mesa-terra-soundtrack-definitive-edition-vol-1-2
+Artists:
+- Half-Life
+- Joel Nielsen
+Duration: '1:15'
+URLs:
+- https://joelnielsen.bandcamp.com/track/lambda-core
+- https://www.youtube.com/watch?v=uTvYl4IgEcM
 ---
 Track: Layton's Theme
 # JP: レイトン教授のテーマ
@@ -2209,6 +2293,14 @@ Duration: '3:00'
 URLs:
 - https://www.youtube.com/watch?v=L2cstHtZ4gQ
 ---
+Track: Back to the Future
+Artists:
+- Back to the Future
+- Alan Silvestri
+Duration: '3:20'
+URLs:
+- https://www.youtube.com/watch?v=LpbHlXPmmcE
+---
 Track: Burn
 Artists:
 - 'Hamilton: An American Musical'
@@ -2697,6 +2789,32 @@ Lyrics: |-
     Uh, it likes the girls too
     Ghostbusters!
 ---
+Track: Good Morning U.S.A.
+Artists:
+- American Dad!
+- Walter Murphy
+Contributors:
+- Seth MacFarlane (vocals)
+Duration: '1:33'
+URLs:
+- https://www.youtube.com/watch?v=uFrTiuT_5-k
+Lyrics: |-
+    Good morning U.S.A.!
+    I've got a feeling that it's gonna be a wonderful day
+    The sun in the sky has a smile on his face
+    And he's shining a salute to the American race
+
+    Oh boy, it's swell to say, Good morning U.S.A.!
+    Good morning U.S.A.!
+
+    Good morning U.S.A.!
+    I've got a feeling that it's gonna be a wonderful day
+    The sun in the sky has a smile on his face
+    And he's shining a salute to the American race
+
+    Oh boy, it's swell to say, Good morning U.S.A.!
+    Good morning U.S.A.!
+---
 Track: Haven't You Noticed (I'm A Star)
 Artists:
 - Steven Universe
@@ -2850,6 +2968,14 @@ Lyrics: |-
     But there is one promise that is given
     I'll meet you on God's golden shore
     (He'll meet you on God's golden shore)
+---
+Track: I Am the Doctor
+Artists:
+- Doctor Who
+- Murray Gold
+Duration: '4:04'
+URLs:
+- https://www.youtube.com/watch?v=komb7TaF-6o
 ---
 Track: I Don't Want to Miss a Thing
 Directory: i-dont-want-to-miss-a-thing-aerosmith
@@ -3650,6 +3776,80 @@ Lyrics: |-
     Y'all ready to jam? (You know it!)
     C'mon
 ---
+Track: SPLASH FREE
+Artists:
+- Free!
+- Yasushi Watanabe
+- Saori Kodama (lyrics)
+Contributors:
+- STYLE FIVE (performance)
+Duration: '3:58'
+URLs:
+- https://www.youtube.com/watch?v=JcBqTp0icE0
+Lyrics: |-
+    Make us free na splash! (<i>A splash that makes us free!</i>)
+    Kasaneta hikari no kontorasuto abite (<i>Bask in the contrast of the overlapping light</i>)
+    Feel so free na kyō tobikomu (<i>Feel so free today, dive right into</i>)
+    Oretachi no brand new blue, yeah (<i>Our brand new blue, yeah</i>)
+    Omou yō ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Tsukamitai nda pull! Pull! Pull! A-oh! (<i>I want to know that feeling, so pull! Pull! Pull!</i>)
+    Todoki-sō na deep! Deep! Deep! Splash free! (<i>It’s just within reach, the deep! Deep! Deep! Splash free!</i>)
+
+    Pure nai hi ga nai kurai (Nai kurai) (<i>Every day passes in a blur</i>) (<i>In a blur</i>)
+    Back & fill na batafurai (<i>Back and fill with a butterfly stroke</i>)
+    Shikōsakugo no shōritsu wa (In the future) (<i>We rack up wins by trial and error</i>)
+    Atode īdaro (So, take it easy, ah) (<i>But forget about that for now</i>)
+    Uruo shite (Mizu o kaku yubi ni) (<i>Just feel the water</i>) (<i>As your fingers slice the surface</i>)
+    Nagarekomu emotion (Kawaki o mitase) (<i>Let the emotion wash over you</i>) (<i>Quench your thirst</i>)
+    Nankaina rirē ja mō (O-oh) atsuku narenai (<i>It’s time to melt that icy heart</i>)
+    Kokoro o hanate! (<i>And set it free!</i>)
+
+    Make us free na splash! (<i>A splash that makes us free!</i>)
+    Kasaneta hikari no kontorasuto no naka (<i>Amid the contrast of overlapping light</i>)
+    Itsu made mo owaranai (<i>This moment will last forever</i>)
+    Natsu ni me o korashite yeah (<i>Set your sights on summer</i>)
+    Omoiomoi ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Mabushi-sa e to pull! Pull! Pull! A-oh! (<i>See the dazzling horizon ahead and pull! Pull! Pull!</i>)
+    Te o nobashita deep! Deep! Deep! Splash free! (<i>Hands outstretched to the deep! Deep! Deep! Splash free!</i>)
+
+    Mukininaru hi mo arudaro (Arudaro) (<i>Not every day will be smooth sailing</i>)
+    Back & forth ni tadayotte (<i>Back and forth, drifting aimlessly</i>)
+    Rakan teki na uwabe toka (I know, I know) (<i>Some people can put up an optimistic front</i>)
+    Urayan dari shite (But never too late, ah) (<i>How I wish I could do the same</i>)
+    Tsumasaki ni (Kanjiru yori saki ni) (<i>In the tips of my toes</i>) (<i>Purely on instinct</i>)
+    Tsugi no vibration (Kizuite shimau) (<i>The next vibration</i>) (<i>Courses through me</i>)
+    Chūcho shita (Itsuka no jibun) (<i>I know I hesitated</i>) (<i>The me of yesterday</i>)
+    Kage o tobikoete ike (Ima shika nai wave) (<i>Let’s leave the shadows behind</i>) (<i>For a now-or-never wave</i>)
+    Mamori kirenai (Mizu o keru yō ni) (<i>I can’t protect it on my own</i>) (<i>The same way I kick the water</i>)
+    Genjitsumi no nai puraido nanda (Namerakana sende) (<i>This pride that isn’t rooted in reality</i>) (<i>In a long, unbroken line</i>)
+    Saizen no tsumori ja (Io-o-oh) chīsaku naru ze (Sā) (<i>Even the best of intentions Can fall through the cracks</i>) (<i>C’mon</i>)
+    Imēji o sutero! (<i>Break free of the mold!</i>)
+
+    Let us free na style! (<i>Create a style that sets us free!</i>)
+    Umidasu dare demonai ao ni furete (<i>Touch the blue depths in these uncharted waters</i>)
+    Itsu yori mo jiyūna
+    Ore-tachi ni naru nda yeah (<i>Never before have we felt so free</i>)
+    Omou yō ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Tsukamitai nda pull! Pull! Pull! A-oh! (<i>I want to know that feeling, so pull! Pull! Pull!</i>)
+    Todoki-sō na deep! Deep! Deep! Splash free! (<i>It’s just within reach, the deep! Deep! Deep! Splash free!</i>)
+
+    Sei! Sei! Sei! A-oh! (<i>Dive! Dive! Dive!</i>)
+    Kick! Kick! Kick! A-oh!
+    Pull! Pull! Pull! A-oh!
+    Deep! Deep! Splash free!
+
+    Make us free na Splash! kasaneta hikari no kontorasuto no naka
+    Itsu made mo owaranai natsu o yakitsukete Dive in blue
+    Let us free na Style! Umidasu dare demonai ao ni furete
+    Itsu yori mo jiyūna ore-tachi ni naru nda yeah
+    Omoiomoi ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Mabushi-sa e to pull! Pull! Pull! A-oh! (<i>See the dazzling horizon ahead and pull! Pull! Pull!</i>)
+    Te o nobashita deep! Deep! Deep! Splash free! (<i>Hands outstretched to the deep! Deep! Deep! Splash free!</i>)
+---
 Track: Stronger Than You
 Artists:
 - Steven Universe
@@ -3903,6 +4103,61 @@ Lyrics: |-
     It's the Nutshack! (Aaah!)
     It's the Nutshack!
     It's the Nutshack!
+---
+Track: The Power of Love
+Artists:
+- Back to the Future
+- Huey Lewis and the News
+Duration: '3:53'
+URLs:
+- https://www.youtube.com/watch?v=-UQFBtHEFJ8
+Lyrics: |-
+    The power of love is a curious thing
+    Make a one man weep, make another man sing
+    Change a hawk to a little white dove
+    More than a feeling, that's the power of love
+
+    Tougher than diamonds, rich like cream
+    Stronger and harder than a bad girl's dream
+    Make a bad one good, make a wrong one right
+    Power of love that keeps you home at night
+
+    You don't need money, don't take fame
+    Don't need no credit card to ride this train
+    It's strong and it's sudden and it's cruel sometimes
+    But it might just save your life
+    That's the power of love
+    That's the power of love
+
+    First time you feel it, it might make you sad
+    Next time you feel it, it might make you mad
+    But you'll be glad baby when you've found
+    That's the power makes the world go 'round
+
+    And it don't take money, don't take fame
+    Don't need no credit card to ride this train
+    It's strong and it's sudden, it can be cruel sometimes
+    But it might just save your life
+
+    They say that all in love is fair
+    Yeah, but you don't care
+    But you know what to do
+    When it gets hold of you
+    And with a little help from above
+    You feel the power of love
+    You feel the power of love
+    Can you feel it?
+    Hmm-hmmm
+
+    It don't take money and it don't take fame
+    Don't need no credit card to ride this train
+    Tougher than diamonds and stronger than steel
+    You won't feel nothin' till you feel
+    You feel the power, just feel the power of love
+    That's the power, that's the power of love
+    You feel the power of love
+    You feel the power of love
+    Feel the power of love
 ---
 Track: The Raising Fighting Spirit
 Artists:
@@ -9630,6 +9885,17 @@ Lyrics: |-
     Here, there, and everywhere
     Hip, hip
 ---
+Track: Hoverboard
+Artists:
+- Dirtyphonics
+Duration: '4:24'
+URLs:
+- https://www.youtube.com/watch?v=CX1yrjMb4Z4
+Referenced Tracks:
+- Back to the Future
+Sampled Tracks:
+- Back to the Future
+---
 Track: Hydrogen
 Artists:
 - M.O.O.N.
@@ -9959,6 +10225,110 @@ Lyrics: |-
     Early to bed, and you'll miss all the fun
     Bring your wife and trouble, it will never trouble you
     Make her a member of the midnight crew!
+---
+Track: I Need a Doctor
+Artists:
+- Dr. Dre
+- Eminem
+- Skylar Grey
+- Alex da Kid
+Duration: '4:43'
+URLs:
+- https://www.youtube.com/watch?v=HvpWP6Y7WDo
+Lyrics: |-
+    I'm about to lose my mind
+    You've been gone for so long
+    I'm runnin' out of time
+    I need a doctor, call me a doctor
+    I need a doctor, doctor
+    To bring me back to life
+
+    I told the world, one day I would pay it back
+    Say it on tape, and lay it, record it
+    So that one day I could play it back
+    But I don't even know if I believe it when I'm sayin' that
+    Doubts startin' to creep in, every day, it's just so gray and black
+    Hope, I just need a ray of that, 'cause no one sees my vision
+    When I play it for 'em, they just say it's wack
+    But they don't know what dope is
+    And I don't know if I was awake or asleep when I wrote this
+    All I know is, you came to me when I was at my lowest
+    You picked me up, breathed new life in me, I owe my life to you
+    But for the life of me, I don't see why you don't see like I do
+    But it just dawned on me you lost a son
+    Demons fightin' you, it's dark
+    Let me turn on the lights and brighten me and enlighten you
+    I don't think you realize what you mean to me
+    Not the slightest clue
+    'Cause me and you were like a crew, I was like your sidekick
+    You gon' either wanna fight when I get off this fuckin' mic
+    Or you gon' hug me, but I'm outta options
+    There's nothin' else I can do 'cause—
+
+    I'm about to lose my mind
+    You've been gone for so long
+    I'm runnin' out of time
+    I need a doctor, call me a doctor
+    I need a doctor, doctor
+    To bring me back to life
+
+    It hurts when I see you struggle, you come to me with ideas
+    You say they're just pieces, so I'm puzzled
+    'Cause the shit I hear is crazy
+    But you're either gettin' lazy or you don't believe in you no more
+    Seems like your own opinions, not one you can form
+    Can't make a decision, you keep questionin' yourself
+    Second guessin' and it's almost like you're beggin' for my help
+    Like I'm your leader, you're supposed to fuckin' be my mentor
+    I can endure no more, I demand you remember who you are
+    It was you who believed in me when everyone was tellin' you
+    Don't sign me, everyone at the fuckin' label, let's tell the truth
+    You risked your career for me, I know it as well as you
+    Nobody wanted to fuck with the white boy
+    Dre, I'm cryin' in this booth
+    You saved my life, now maybe it's my turn to save yours
+    But I can never repay you, what you did for me is way more
+    But I ain't givin' up faith, and you ain't givin' up on me
+    Get up, Dre, I'm dyin', I need you
+    Come back, for fuck's sake, 'cause—
+
+    I'm about to lose my mind
+    You've been gone for so long
+    I'm runnin' out of time
+    I need a doctor, call me a doctor
+    I need a doctor, doctor
+    To bring me back to life
+    Bring me back to life
+    Bring me back to life
+    I need a doctor, doctor
+    To bring me back to life
+
+    It literally feels like a lifetime ago
+    But I still remember the shit like it was just yesterday, though
+    You walked in, yellow jump suit, whole room, cracked jokes
+    Once you got inside the booth, told you, mic smoke
+    Went through friends, some of them I put on, but they just left
+    They said they was ridin' to the death
+    But where the fuck are they now, now that I need them?
+    I don't see none of them, all I see is Slim
+    Fuck all you fair-weather friends, all I need is him
+    Fuckin' backstabbers
+    When the chips were down, you just laughed at us
+    Now you 'bout to feel the fuckin' wrath of Aftermath, [f-slur]
+    You gon' see us in our lab jackets and ask where the fuck we been?
+    You can kiss my indecisive ass crack, maggots
+    And the cracker's ass, little cracker jack beat
+    Makin' wack math, backwards producers; I'm back, bastards
+    One more CD and then I'm packin' up my bags
+    And as I'm leavin', I'll guarantee they'll scream:
+    "Dre, don't leave us like that, man", 'cause—
+
+    I'm about to lose my mind
+    You've been gone for so long
+    I'm runnin' outta time
+    I need a doctor, call me a doctor
+    I need a doctor, doctor
+    To bring me back to life
 ---
 Track: Interior Crocodile Alligator
 Artists:
@@ -12012,6 +12382,51 @@ URLs:
 - https://www.youtube.com/watch?v=quxzJ5xyuC4
 - https://soundcloud.com/spellingphailer/science-blaster
 ---
+Track: 『SPLASH FREE』50% OFF Cover
+Artists:
+- Sparky
+Contributors:
+- Octopimp (additional vocals)
+Duration: '1:31'
+URLs:
+- https://www.youtube.com/watch?v=IxK0SLbFa0g
+Referenced Tracks:
+- SPLASH FREE
+Sampled Tracks:
+- SPLASH FREE
+Lyrics: |-
+    Make us free na splash! (<i>A splash that makes us free!</i>)
+    Kasaneta hikari no kontorasuto abite (<i>Bask in the contrast of the overlapping light</i>)
+    Feel so free na kyō tobikomu (<i>Feel so free today, dive right into</i>)
+    Oretachi no brand new blue, yeah (<i>Our brand new blue, yeah</i>)
+    Omou yō ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Tsukamitai nda pull! Pull! Pull! A-oh! (<i>I want to know that feeling, so pull! Pull! Pull!</i>)
+    Todoki-sō na deep! Deep! Deep! Splash free! (<i>It’s just within reach, the deep! Deep! Deep! Splash free!</i>)
+
+    [Unintelligible] Yeah!
+    What up sluts it's ya boy NG
+    Bout to drop a rhyme on these bitch buoys
+    Sho' 'nuff, I'm shota tough (Hah)
+    Haters always on me 'cause they think I'm just small stuff
+    Kiddie pools, swam up from the bottom now I'm killin' fools
+    Thug Life anime school
+    Catch me stuntin' with my Iwatobi crew (What?)
+    Makoto, Rei and my boy Haru
+    Splash! Flow just like water and cash!
+    Call me H2-oh, damn!
+    Other MCs get straight up tidal wave slammed! (Ha, ha)
+    My gang goes ham and when you see us swimmin' better know we're in demand!
+    Rackin it up top shelf La Croix, yo crew is on sale, 50% off! (Ruh!)
+
+    Make us free na splash! (Uh, hahahah, yeah!) [Unintelligible] (<i>A splash that makes us free!</i>)
+    Kasaneta hikari no kontorasuto no naka (What, that's right, uh, uh, uh, uh) (<i>Amid the contrast of overlapping light</i>)
+    Itsu made mo owaranai (<i>This moment will last forever</i>)
+    Natsu ni me o korashite yeah (You my man! Yeah! Yeah!) (<i>Set your sights on summer</i>)
+    Omoiomoi ni sei! Sei! Sei! A-oh! (What up!) (<i>True to myself as I dive! Dive! Dive!</i>)
+    Te o nobashita deep! Deep! Deep! Splash free! (<i>Hands outstretched to the deep! Deep! Deep! Splash free!</i>)
+    (Hahahaha)
+---
 Track: Stone halation
 Artists:
 - SilvaGunner
@@ -12399,6 +12814,48 @@ Lyrics: |-
     I pray for (The Carnival)
     Please take me away (Take me away)
 ---
+Track: Teardrop
+Artists:
+- Massive Attack
+- Elizabeth Fraser (lyrics)
+Duration: '5:31'
+URLs:
+- https://www.youtube.com/watch?v=Tb0MC0jFv6M
+Sampled Tracks:
+- Les McCann - Sometimes I Cry
+Lyrics: |-
+    Love, love is a verb
+    Love is a doing word
+    Fearless on my breath
+    Gentle impulsion
+    Shakes me, makes me lighter
+    Fearless on my breath
+    Teardrop on the fire
+    Fearless on my breath
+
+    Night, night of matter
+    Black flowers blossom
+    Fearless on my breath
+    Black flowers blossom
+    Fearless on my breath
+
+    Teardrop on the fire
+    Fearless on my...
+
+    Water is my eye
+    Most faithful mirror
+    Fearless on my breath
+    Teardrop on the fire
+    Of a confession
+    Fearless on my breath
+    Most faithful mirror
+    Fearless on my breath
+    Teardrop on the fire
+    Fearless on my breath
+
+    You're stumbling in the dark
+    You're stumbling in the dark
+---
 Track: Teenagers
 Artists:
 - My Chemical Romance
@@ -12454,6 +12911,17 @@ Artists:
 Duration: '4:01'
 URLs:
 - https://www.youtube.com/watch?v=o4pOswwQAxQ
+---
+Track: The Island – Pt.II (Dusk)
+Artists:
+- Pendulum
+Duration: '4:09'
+URLs:
+- https://www.youtube.com/watch?v=QW0xUZLhSu4
+Lyrics: |-
+    I'll take you in
+
+    I'll take you in
 ---
 Track: The Next Episode
 Artists:
@@ -13015,6 +13483,36 @@ Lyrics: |-
     Two trucks (Having sex)
     Two trucks (Having sex)
     Two trucks (Having sex, having sex, having sex)
+---
+Track: United States of Whatever
+Artists:
+- Liam Lynch
+Duration: '1:31'
+URLs:
+- https://www.youtube.com/watch?v=KEjHJXd8bpU
+Sampled Tracks:
+- The Doors - L.A. Woman
+Lyrics: |-
+    Whatever
+
+    (I went down to the beach and saw Kiki, she was all like "Ehhhh" and I'm like "Whatever!")
+
+    (Then this chick comes up to me and she's all like "Hey, aren't you that dude?" and I'm like "Yeah, whatever!")
+
+    (So later I'm- I'm at the pool hall and this girl comes up and she's all like "Awww" and I'm like "Yeah, whatever!")
+
+    'Cause this is my United States of Whatever!
+    And this is my United States of Whatever!
+    And this is my United States of Whatever!
+
+    (And then it's 3 a.m. I'm on the corner wearing my leather, this dude comes up and he's like "Hey, punk!" I'm like, "Yeah, whatever!")
+
+    (Then I'm throwing dice in the alley, Officer Leroy comes up and he's like "Hey, I thought I told you—" and I'm like "Yeah, whatever!")
+
+    (And then up comes Zafo, I'm like "Yo Zafo, what's up?" he's like "Nothin'" and I'm like "That's cool...")
+
+    'Cause this is my United States of Whatever!
+    And this is my United States of Whatever!
 ---
 Track: Uptown Funk
 Artists:
