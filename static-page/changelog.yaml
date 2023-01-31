@@ -23,6 +23,29 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="12-jun-2077" class="major-release"><a href="#12-jun-2077">[[date:12 June 2077]] - (Preview changelog!)</a></h2>
+    <h3>albums</h3>
+    - added all albums from [[group:parsec-productions]], aka [[artist:mark-j-hadley]]!
+        - added [[album:slender-the-arrival-soundtrack]]!
+        - added [[album:dare]]!
+        - added [[album:a-nameless-inheritance]]!
+        - added [[album:the-consuming-shadow-ost]]!
+        - added [[album:the-raddest]]!
+        - added [[album:paths]]!
+    - added [[album:after-party-animal-ep]] by [[group:clark-powell]]!
+    - added [[album:qualia]] by [[artist:buzinkai]]!
+    - added [[album:songs-of-rivervale]] by [[artist:james-roach]]!
+    - added a couple more [[group:canmt]] albums!
+        - added [[album:cool-and-new-volume-v]]!
+        - added [[album:a-shade-of-blue]] by [[artist:cerulean]]!
+    - added [[album:dialed-to-11]] by [[artist:ludicrousfalcon]]!
+    <h3>other additions</h3>
+    - added backgrounds to [[album:homestuck-vol-1]], [[album:homestuck-vol-2]], [[album:homestuck-vol-3]], [[album:homestuck-vol-4]], and [[album:homestuck-vol-1-4]]
+    - added links to album premiere stream recordings to [[album:ancestral]], [[album:cosmic-caretakers]], [[album:moons-of-theseus]], [[album:strife-2]], and [[album:oceanfalls-vol-1]] (thanks for these, Ngame!)
+    - added commentary to the [[album:friendsymphony]] album page
+    <h3>data changes</h3>
+    - [[track:outrun]] moved out of [[album:more-homestuck-fandom]] (now in [[album:a-shade-of-blue]])
+
     <h2 id="05-jan-2023"><a href="#05-jan-2023">[[date:05 January 2023]] - picking up the ball</a></h2>
     <h3>site changes</h3>
     - slightly tweaked the homepage album selection
@@ -39,6 +62,7 @@ Content: |-
     - fixed [[track:the-stains-of-time]] not specifying [[artist:the-maniac-agenda]]'s role in makin the song (and calling them 'Maniac Agenda') (thanks, FF!)
     - fixed [[track:title-mega-man-3]] not listing [[artist:yasuaki-fujita]] as an artist (thanks, FF!)
     - fixed [[track:title-uwol-quest-for-money]] being named 'Game Over', being listed as being from Felix the Cat instead of from [[artist:uwol]], and not attributing [[artist:augusto-ruiz]] (thanks, FF!)
+
     <h2 id="1-jan-2023" class="major-release"><a href="#1-jan-2023">[[date:1 January 2023]] - Ball Drop '23</a></h2>
     (news entry: [[news-entry:ball-drop-23]])
     <h3>site changes</h3>
@@ -512,7 +536,7 @@ Content: |-
             - credit [[artist:andrew-huo]] only as artist, not contributor
             - credit [[artist:gabe-nezovic]] only as contributor, not artist
         - [[track:sburban-countdown]]:
-            - credit [[artist:mark-hadley]] only as artist, not contributor
+            - credit [[artist:mark-j-hadley]] only as artist, not contributor
             - remove [[artist:michael-guy-bowman]], originally included for composing [[track:sburban-jungle]]
         - [[track:showtime-imp-strife-mix]]:
             - credit [[artist:buzinkai]] and [[artist:curt-blakeslee]] only as artists, not contributors
@@ -874,7 +898,7 @@ Content: |-
     - fixed a typo which was keeping [[track:tfw-another-james-roach-track]] from showing up in the feature list of [[flash:fs-vol6]]
     - fixed typos which were messing up the durations of [[track:elegy-for-a-thief-dreamscape-remix]] and [[track:i-dont-want-to-miss-a-thing]]
     - removed a duplicate youtube link for [[track:split-reality]]
-    - added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:fenkko]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:infiniteknife]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:koukouvayia]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:molly-gur]], [[artist:plumegeist]], [[artist:rah-bop]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:temmie-chang]], [[artist:tensei]], [[artist:the-everlasting-ash]], [[artist:thomas-ferkol]], [[artist:toastyglow]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:viasatellite]], [[artist:killian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]
+    - added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:fenkko]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:infiniteknife]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:koukouvayia]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-j-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:molly-gur]], [[artist:plumegeist]], [[artist:rah-bop]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:temmie-chang]], [[artist:tensei]], [[artist:the-everlasting-ash]], [[artist:thomas-ferkol]], [[artist:toastyglow]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:viasatellite]], [[artist:killian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]
     - added a bunch of new artist pages for those whose contributions are showing up on the wiki for the first time (e.g. several contributors to [[flash:hiveswap-act1]])
 
     <h2 id="10-oct-2020" class="major-release"><a href="#10-oct-2020">[[date:10 October 2020]] - autumnal polish haul</a></h2>
