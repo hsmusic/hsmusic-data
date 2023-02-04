@@ -161,6 +161,15 @@ Lyrics: |-
     (Well thank you Scott. Thank goodness for comedians. You know? It lightens our day.)
     (It-that-it wasn't supposed to be funny.)
 ---
+Track: Gaster's Theme
+# No official release, duration is from the in-game audio loop.
+Artists:
+- 'Toby Fox'
+Directory: gasters-theme-undertale
+Duration: 0:17
+URLs:
+- https://www.youtube.com/watch?v=CFn8xs157Gw
+---
 Track: Gay Love Song for Four Cellos
 Artists:
 - Clark Powell
@@ -198,6 +207,14 @@ Duration: '2:39'
 URLs:
 - https://sleepytimejesse.bandcamp.com/track/megalo-strike-back
 - https://www.youtube.com/watch?v=ZpJudi7_iiw
+---
+Track: Megalovania
+Directory: megalovania-halloween
+# No official release (RIP)
+Artists:
+- Toby Fox
+URLs:
+- https://www.youtube.com/watch?v=iIowwZThIXM
 ---
 Track: Michael Bowman Remix
 Artists:
@@ -328,6 +345,14 @@ Lyrics: |-
     (What? You come in here see to some pornography? Yeah, people on YouTube will watch anything! Uh! Uh! Uh!)
 
     (So what, in conclusion, subscribe to my YouTube, subscribe to my Twitter, my Tumblr, everything you can find! I'm Toby "Radiation" Fox, and I'm, the greatest living artist, known to maaan! ...Yo, the fuck? Homestuck update yo, get out! Yo get out! ...Aw, Equius, you get me in a place I can't touch.)
+---
+Track: Room of Dog
+# No official release, duration is from the in-game audio loop.
+Artists:
+- 'Toby Fox'
+Duration: '0:35'
+URLs:
+- https://www.youtube.com/watch?v=grGnVeKCcvc
 ---
 Track: Seinfeld X
 Artists:
@@ -850,15 +875,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=hPT77G3LGwA
 ---
-Track: Gaster's Theme
-# No official release, duration is from the in-game audio loop.
-Artists:
-- 'Toby Fox'
-Directory: gasters-theme-undertale
-Duration: 0:17
-URLs:
-- https://www.youtube.com/watch?v=CFn8xs157Gw
----
 Track: GO MY WAY!!
 # Official release:
 #   THE IDOLM@STER MASTERWORK 01 GO MY WAY!!
@@ -1292,13 +1308,20 @@ Lyrics: |-
     Your lonely rolling star
     Saa mae wo muite yukou (<i>So face forward and keep going!</i>)
 ---
-Track: Megalovania
-Directory: megalovania-halloween
-# No official release (RIP)
+Track: Maya Fey - Turnabout Sisters 2001
+# JP: 綾里真宵　～逆転姉妹のテーマ 2001
+# Official release:
+#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/2600
 Artists:
-- Toby Fox
+- Ace Attorney
+- Masakazu Sugimori
+Contributors:
+- Naoto Tanaka (arrangement)
+Duration: '2:41'
 URLs:
-- https://www.youtube.com/watch?v=iIowwZThIXM
+- https://www.youtube.com/watch?v=upOhRRYVGkA
 ---
 Track: Moon Over the Castle
 # Original release:
@@ -1339,21 +1362,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=PTQBFoM_cVw
 ---
-Track: Objection! 2001
-# JP: 成歩堂龍一　～異議あり！ 2001
-# Official release:
-#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/2600
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Contributors:
-- Naoto Tanaka (arrangement)
-Duration: '1:22'
-URLs:
-- https://www.youtube.com/watch?v=_I34nshlOPk
----
 Track: Old Friends
 # Official release on Bandcamp
 Artists:
@@ -1381,6 +1389,21 @@ Artists:
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=XKfXsTkA71I
+---
+Track: Phoenix Wright - Objection! 2001
+# JP: 成歩堂龍一　～異議あり！ 2001
+# Official release:
+#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/2600
+Artists:
+- Ace Attorney
+- Masakazu Sugimori
+Contributors:
+- Naoto Tanaka (arrangement)
+Duration: '1:22'
+URLs:
+- https://www.youtube.com/watch?v=_I34nshlOPk
 ---
 Track: Pushing Onwards
 # Official release on Bandcamp (OK, also the guy's own site)
@@ -1473,14 +1496,6 @@ Artists:
 Duration: '5:04'
 URLs:
 - https://www.youtube.com/watch?v=SmIdewKUmW4
----
-Track: Room of Dog
-# No official release, duration is from the in-game audio loop.
-Artists:
-- 'Toby Fox'
-Duration: '0:35'
-URLs:
-- https://www.youtube.com/watch?v=grGnVeKCcvc
 ---
 Track: Running Hell
 # The original Cave Story's soundtrack hasn't been officially released.
@@ -1965,21 +1980,6 @@ Artists:
 Duration: '3:29'
 URLs:
 - https://youtu.be/KYhA2RisjP0?t=43
----
-Track: Turnabout Sisters Theme 2001
-# JP: 綾里真宵　～逆転姉妹のテーマ 2001
-# Official release:
-#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/2600
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Contributors:
-- Naoto Tanaka (arrangement)
-Duration: '2:41'
-URLs:
-- https://www.youtube.com/watch?v=upOhRRYVGkA
 ---
 Track: Ultimate Koopa
 # JP: クッパ3号
