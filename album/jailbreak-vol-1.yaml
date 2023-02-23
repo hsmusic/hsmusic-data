@@ -19,6 +19,13 @@ Banner Style: |-
     image-rendering: pixelated;
     image-rendering: crisp-edges;
 Additional Files:
+- Title: NES Sound Format Files
+  Files:
+  - Logorg.nsf
+  - Bars.nsf
+  - Drillgorg.nsf
+  - Nick Smalley - Retrobution.nsf
+  - aboutthosethings.txt
 - Title: Bandcamp Banner
   Files:
   - banner.png
@@ -83,7 +90,7 @@ Cover Artists:
 ---
 Track: Elf Shanty
 Artists:
-- Mark Hadley
+- Mark J. Hadley
 Duration: '2:48'
 URLs:
 - https://homestuckgaiden.bandcamp.com/track/elf-shanty
@@ -486,7 +493,7 @@ Lyrics: |-
 
     [[track:elf-shanty|-ELF SHANTY-]]
     GFD: Wait, whose song is this now?
-    RJ!: Uh, this is the only one that AgentParsec [Note: Mark Hadley] has in the album, this is [[track:elf-shanty|Elf Shanty]].
+    RJ!: Uh, this is the only one that AgentParsec [Note: [[artist:mark-j-hadley|Mark Hadley]]] has in the album, this is [[track:elf-shanty|Elf Shanty]].
     GFD: Oh, right! I forgot about this one.
     Nick: That elf.
     GFD: I remember this one, this is catchy.

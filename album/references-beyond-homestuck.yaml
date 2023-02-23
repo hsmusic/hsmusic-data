@@ -31,6 +31,18 @@ Lyrics: |-
     Then you have a weird chord change<br>Because it's a newer Touhou song
     Then they make a joke about apple pie
 ---
+Track: Bogey Theme
+Artists:
+- Mark J. Hadley
+Duration: 0:27
+URLs:
+- https://www.youtube.com/watch?v=4ZlpmSgFqVk&t=44s
+Commentary: |-
+    <i>Mark J. Hadley:</i>
+    Bogey’s Theme, also written as fan music for Kid Radd.  Since Bogey was a basic enemy from Kid Radd’s game, I figured a simple “level 1” style theme would fit him.
+
+    ([[media:misc/kr_02.it|MIDI file!]])
+---
 Track: Bowman's Credit Score
 Artists:
 - Michael Guy Bowman
@@ -161,6 +173,15 @@ Lyrics: |-
     (Well thank you Scott. Thank goodness for comedians. You know? It lightens our day.)
     (It-that-it wasn't supposed to be funny.)
 ---
+Track: Gaster's Theme
+# No official release, duration is from the in-game audio loop.
+Artists:
+- 'Toby Fox'
+Directory: gasters-theme-undertale
+Duration: 0:17
+URLs:
+- https://www.youtube.com/watch?v=CFn8xs157Gw
+---
 Track: Gay Love Song for Four Cellos
 Artists:
 - Clark Powell
@@ -168,12 +189,54 @@ Duration: '3:54'
 URLs:
 - https://soundcloud.com/plazmataz/gay-love-song-for-four-cellos
 ---
+Track: Gnarl Theme
+Artists:
+- Mark J. Hadley
+Duration: 0:28
+URLs:
+- https://www.youtube.com/watch?v=4ZlpmSgFqVk&t=255s
+Referenced Tracks:
+- Kid Radd Theme
+Commentary: |-
+    <i>Mark J. Hadley:</i>
+    Gnarl’s Theme, also written for Kid Radd. Since Gnarl was the final boss of Radd’s game, it was obvious that his theme should sound like boss fight music.  It has a little of Radd’s theme mixed in there, since Radd and Gnarl are brothers (not a spoiler, we find that out pretty quickly in chapter 1).
+
+    ([[media:misc/kr_06.it|MIDI file!]])
+---
 Track: Heart of the Forest
 Artists:
 - Solatrus
 Duration: '3:07'
 URLs:
 - https://music.solatrus.com/track/heart-of-the-forest
+---
+Track: Kid Radd (Final)
+Artists:
+- Mark J. Hadley
+Duration: '1:28'
+URLs:
+- https://www.youtube.com/watch?v=4ZlpmSgFqVk&t=378s
+Referenced Tracks:
+- Bogey Theme
+- Sheena Theme
+- Kid Radd Theme
+Commentary: |-
+    <i>Mark J. Hadley:</i>
+    The author contacted me to do music for the final comic; this is a recording of it.  it was originally in MIDI format, so it ended up sounding different on different computers (this is how it sounded on mine at the time). It uses the themes for Bogey and Sheena at the beginning, and was primarily Radd’s theme after that. Out of all of the music I wrote, this is the only one that wasn’t technically just “fan music”, but was actually official to the comic.
+
+    ([[media:misc/kr_final.mid|MIDI file!]])
+---
+Track: Kid Radd Theme
+Artists:
+- Mark J. Hadley
+Duration: 0:44
+URLs:
+- https://www.youtube.com/watch?v=4ZlpmSgFqVk
+Commentary: |-
+    <i>Mark J. Hadley:</i>
+    As some of you might know, Problem Sleuth wasn’t the first animated webcomic that I wrote fan music for. Way back in the early 2000’s, I wrote some fan music for a webcomic called Kid Radd (original site is down, but there’s a mirror). The author liked it so much, he not only posted it on the fan section of the webpage, but later on when the comic ended, he contacted me about doing music for the final comic. An honor, as it was a great comic; it was like Wreck-It Ralph many years before Wreck-It Ralph.
+
+    ([[media:misc/kr_01.it|MIDI file!]])
 ---
 Track: Magical Hopalong Cassidy Station
 Artists:
@@ -198,6 +261,14 @@ Duration: '2:39'
 URLs:
 - https://sleepytimejesse.bandcamp.com/track/megalo-strike-back
 - https://www.youtube.com/watch?v=ZpJudi7_iiw
+---
+Track: Megalovania
+Directory: megalovania-halloween
+# No official release (RIP)
+Artists:
+- Toby Fox
+URLs:
+- https://www.youtube.com/watch?v=iIowwZThIXM
 ---
 Track: Michael Bowman Remix
 Artists:
@@ -289,6 +360,40 @@ Duration: '1:46'
 URLs:
 - https://www.youtube.com/watch?v=iPT_YvaM7vc
 ---
+Track: Page 1 - 2 theme
+Artists:
+- Mark J. Hadley
+Duration: '2:01'
+URLs:
+- https://www.youtube.com/watch?v=SZbgwgRvaEE
+---
+Track: Page 3 - 4 theme
+Artists:
+- Mark J. Hadley
+Duration: '2:01'
+URLs:
+- https://www.youtube.com/watch?v=HK5OPxR8spg
+Referenced Tracks:
+- Page 1 - 2 theme
+---
+Track: Page 5 - 6 theme
+Artists:
+- Mark J. Hadley
+Duration: '2:01'
+URLs:
+- https://www.youtube.com/watch?v=YJ73-xwMRPo
+Referenced Tracks:
+- Page 3 - 4 theme
+---
+Track: Page 7 theme
+Artists:
+- Mark J. Hadley
+Duration: '2:01'
+URLs:
+- https://www.youtube.com/watch?v=AO5u-ylgaIY
+Referenced Tracks:
+- Page 5 - 6 theme
+---
 Track: Pencil Holder (demo version)
 Artists:
 - Clark Powell
@@ -329,12 +434,32 @@ Lyrics: |-
 
     (So what, in conclusion, subscribe to my YouTube, subscribe to my Twitter, my Tumblr, everything you can find! I'm Toby "Radiation" Fox, and I'm, the greatest living artist, known to maaan! ...Yo, the fuck? Homestuck update yo, get out! Yo get out! ...Aw, Equius, you get me in a place I can't touch.)
 ---
+Track: Room of Dog
+# No official release, duration is from the in-game audio loop.
+Artists:
+- 'Toby Fox'
+Duration: '0:35'
+URLs:
+- https://www.youtube.com/watch?v=grGnVeKCcvc
+---
 Track: Seinfeld X
 Artists:
 - Toby Fox
 Duration: 0:34
 URLs:
 - https://fwugradiation.tumblr.com/post/50013318456/just-realized-the-slap-bass-sample-in-megaman-x-is
+---
+Track: Sheena Theme
+Artists:
+- Mark J. Hadley
+Duration: 0:24
+URLs:
+- https://www.youtube.com/watch?v=4ZlpmSgFqVk&t=354s
+Referenced Tracks:
+- Kid Radd Theme
+Commentary: |-
+    <i>Mark J. Hadley:</i>
+    Sheena’s Theme, written for Kid Radd. Sheena is Radd’s “girlfriend” that he has to rescue at the end of his game. Since that’s the only time she shows up in the game, it made sense that her music would sound like a winning game over theme.  Naturally, Radd’s theme is mixed in there too.
 ---
 Track: Terra
 Artists:
@@ -397,6 +522,17 @@ Artists:
 Duration: '1:33'
 URLs:
 - https://youtu.be/gMrwcjyeIVE
+---
+Track: At Doom's Gate [E1M1]
+# Only released as an arranged version. Original MS-DOS release of game uses MIDI files with playback varying based on user hardware but contains specific additional sound information for OPL and GUS synthesizers. URL is to OPL recording.
+# Sources:
+# https://doomwiki.org/wiki/MIDI
+# https://vgmdb.net/album/2950
+Artists:
+- Doom
+- Bobby Prince
+URLs:
+- https://www.youtube.com/watch?v=18TTxhoF_EI
 ---
 Track: Bad Apple!!
 # Official release:
@@ -510,9 +646,8 @@ Track: Bon Voyage, Amigo
 #   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
 #   http://starmen.net/merchandise/music/m3cd.php
 Artists:
-- EarthBound
-- Keiichi Suzuki
-- Hirokazu Tanaka
+- Mother
+- Shogo Sakai
 URLs:
 - https://www.youtube.com/watch?v=5OtDm2qgpWw
 ---
@@ -646,6 +781,63 @@ Duration: '2:00'
 URLs:
 - https://www.youtube.com/watch?v=nO3Ap0xOcAE
 ---
+Track: Chrono Cross ~Scars of Time~
+# (See Corridors of Time for info on soundtrack/YouTube differences)
+# JP: CHRONO CROSS ～時の傷跡～
+# Official releases:
+#   クロノ・クロス オリジナル・サウンドトラック
+#   Chrono Cross Original Soundtrack Revival Disc
+# Reference
+#   https://vgmdb.net/album/4
+#   https://vgmdb.net/album/86952
+Artists:
+- Chrono Trigger
+- Yasunori Mitsuda
+Duration: '2:29'
+URLs:
+- https://www.youtube.com/watch?v=180sjeAMKPE
+---
+Track: Cross-Examination - Allegro 2001
+# JP: 尋問 ～アレグロ 2001
+# Official releases:
+#   逆転裁判１ + ２ オリジナル・サウンドトラック
+#   Phoenix Wright: Ace Attorney Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/2600
+#   https://vgmdb.net/album/2602 (rereleased on Steam in 2020 with official English track titles)
+Artists:
+- Ace Attorney
+- Masakazu Sugimori
+Duration: '2:09'
+URLs:
+- https://www.youtube.com/watch?v=HK2VLhbSaoc
+Referenced Tracks:
+- Cross-Examination - Moderato 2001
+---
+Track: Cross-Examination - Moderato 2001
+# 尋問 ～モデラート 2001
+# Official releases:
+#   逆転裁判１ + ２ オリジナル・サウンドトラック
+#   Phoenix Wright: Ace Attorney Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/2600
+#   https://vgmdb.net/album/2602 (rereleased on Steam in 2020 with official English track titles)
+Artists:
+- Ace Attorney
+- Masakazu Sugimori
+Duration: '1:46'
+URLs:
+- https://www.youtube.com/watch?v=9_sAzyTCZzQ
+---
+Track: Doctor Frog
+# Track named in-game, no official releases
+Artists:
+- Theme Hospital
+- Russell Shaw
+- Adrian Moore
+URLs:
+- https://www.youtube.com/watch?v=yL4LkJ4wfLU
+---
 Track: DK Rap
 # Duration is from the first musical (0:17) to the disc scratch (3:27) on the in-game music video
 Artists:
@@ -775,7 +967,7 @@ URLs:
 Track: Eight Melodies
 # From Mother (EarthBound Beginnings), which doesn't seem to have received an official soundtrack release (besides several arrangements)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -851,23 +1043,14 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=hPT77G3LGwA
 ---
-Track: Game Over
-Directory: game-over-bootleg
-# This... obviously never had an official release... duh...
+Track: Giygas Disintegrates
+# (See Eight Melodies, no official soundtrack release)
 Artists:
-- Felix the Cat
-- Unknown Artist
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
 URLs:
-- https://www.youtube.com/watch?v=e17PCwAFIA4
----
-Track: Gaster's Theme
-# No official release, duration is from the in-game audio loop.
-Artists:
-- 'Toby Fox'
-Directory: gasters-theme-undertale
-Duration: 0:17
-URLs:
-- https://www.youtube.com/watch?v=CFn8xs157Gw
+- https://www.youtube.com/watch?v=W5u8ZztWzAk
 ---
 Track: GO MY WAY!!
 # Official release:
@@ -983,6 +1166,14 @@ URLs:
 - https://www.youtube.com/watch?v=RPLz7UIeQv8
 - https://open.spotify.com/track/4F9muAB4BFreVBPDW6mVVi
 ---
+Track: Hero's End
+# The original Cave Story's soundtrack hasn't been officially released.
+Artists:
+- Cave Story
+- Daisuke Amaya
+URLs:
+- https://www.youtube.com/watch?v=ayMOn4GKKGk
+---
 Track: Hotel Mario
 # No official release
 Artists:
@@ -1020,8 +1211,10 @@ Track: Jump Up, Super Star!
 Artists:
 - Super Mario
 - Naoto Kubo
-Contributors:
+- Nobuyoshi Suzuki (Japanese lyrics)
 - Rob Tunstall (English lyrics)
+Contributors:
+- Aimi Mukohara (Japanese vocals)
 - Kate Higgins (English vocals)
 Duration: '4:09'
 URLs:
@@ -1117,6 +1310,10 @@ Lyrics: |-
     Put a smile on that face
     There's no time to waste
     So, let's do the odyssey
+Commentary:
+    <i>Niklink:</i>
+
+    While the lyrics here are from the (probably known to you) English version of the song, the Japanese version was the first version to be created (although both launched simultaneously).
 ---
 Track: Katamari on the Rocks
 # JP: 塊オンザロック～メインテーマ
@@ -1188,6 +1385,16 @@ Lyrics: |-
     Nana nananananana na na Katamari Damacy
     Nana nananananana na na Katamari Damacy
     Nana nananananana na na Katamari Damacy
+---
+Track: Lambda Core
+# https://joelnielsen.bandcamp.com/album/black-mesa-terra-soundtrack-definitive-edition-vol-1-2
+Artists:
+- Half-Life
+- Joel Nielsen
+Duration: '1:15'
+URLs:
+- https://joelnielsen.bandcamp.com/track/lambda-core
+- https://www.youtube.com/watch?v=uTvYl4IgEcM
 ---
 Track: Layton's Theme
 # JP: レイトン教授のテーマ
@@ -1296,13 +1503,20 @@ Lyrics: |-
     Your lonely rolling star
     Saa mae wo muite yukou (<i>So face forward and keep going!</i>)
 ---
-Track: Megalovania
-Directory: megalovania-halloween
-# No official release (RIP)
+Track: Maya Fey - Turnabout Sisters 2001
+# JP: 綾里真宵　～逆転姉妹のテーマ 2001
+# Official release:
+#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/2600
 Artists:
-- Toby Fox
+- Ace Attorney
+- Masakazu Sugimori
+Contributors:
+- Naoto Tanaka (arrangement)
+Duration: '2:41'
 URLs:
-- https://www.youtube.com/watch?v=iIowwZThIXM
+- https://www.youtube.com/watch?v=upOhRRYVGkA
 ---
 Track: Moon Over the Castle
 # Original release:
@@ -1343,21 +1557,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=PTQBFoM_cVw
 ---
-Track: Objection! 2001
-# JP: 成歩堂龍一　～異議あり！ 2001
-# Official release:
-#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/2600
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Contributors:
-- Naoto Tanaka (arrangement)
-Duration: '1:22'
-URLs:
-- https://www.youtube.com/watch?v=_I34nshlOPk
----
 Track: Old Friends
 # Official release on Bandcamp
 Artists:
@@ -1371,7 +1570,7 @@ URLs:
 Track: One Fateful Night
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -1380,11 +1579,26 @@ URLs:
 Track: Onett Theme
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=XKfXsTkA71I
+---
+Track: Phoenix Wright - Objection! 2001
+# JP: 成歩堂龍一　～異議あり！ 2001
+# Official release:
+#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/2600
+Artists:
+- Ace Attorney
+- Masakazu Sugimori
+Contributors:
+- Naoto Tanaka (arrangement)
+Duration: '1:22'
+URLs:
+- https://www.youtube.com/watch?v=_I34nshlOPk
 ---
 Track: Pushing Onwards
 # Official release on Bandcamp (OK, also the guy's own site)
@@ -1477,14 +1691,6 @@ Artists:
 Duration: '5:04'
 URLs:
 - https://www.youtube.com/watch?v=SmIdewKUmW4
----
-Track: Room of Dog
-# No official release, duration is from the in-game audio loop.
-Artists:
-- 'Toby Fox'
-Duration: '0:35'
-URLs:
-- https://www.youtube.com/watch?v=grGnVeKCcvc
 ---
 Track: Running Hell
 # The original Cave Story's soundtrack hasn't been officially released.
@@ -1673,11 +1879,16 @@ URLs:
 Track: Smiles and Tears
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=vkAmD8A3CRk
+Lyrics: |-
+    I miss you...
+Commentary: |-
+    <i>Mother:</i>
+    (<a href="https://earthboundcentral.com/2009/01/smiles-tears-lyrics/">Full lyrics!</a>)
 ---
 Track: Solar Sect of Mystic Wisdom ~ Nuclear Fusion
 # No official release of the in-game track
@@ -1757,7 +1968,7 @@ URLs:
 Track: Super Dry Dance
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -1829,7 +2040,7 @@ Artists:
 - Metal Gear
 - Logan Mader
 - Jamie Christopherson
-- Maniac Agenda
+- The Maniac Agenda (arrangement)
 Contributors:
 - Kit Walters (vocals)
 Duration: '2:10'
@@ -1889,6 +2100,7 @@ Track: Title (Mega Man 3)
 #   https://vgmdb.net/album/255
 Artists:
 - Mega Man
+- Yasuaki Fujita
 Duration: '1:23'
 URLs:
 - https://youtu.be/krRaLoxdhrE
@@ -1906,6 +2118,18 @@ Artists:
 Duration: '1:20'
 URLs:
 - https://youtu.be/-CPrdomMoA4
+---
+Track: 'Title (Uwol: Quest for Money)'
+# This... obviously never had an official release... duh...
+Artists:
+- Uwol
+- Augusto Ruiz
+URLs:
+- https://www.youtube.com/watch?v=xYp0NHNnLR4
+Commentary: |-
+    <i>Niklink:</i>
+
+    While you may recognize this song as the Game Over theme from that one Russian Felix the Cat game (a bootleg Genesis port of the NES game), the music is actually plagiarized from the Genesis port of Uwol: Quest for Money, an original homebrew game first released for the ZX Spectrum. While you may remember the track being faster, it in fact was always this same speed but often mangled by running a PAL region game at NTSC speed (resulting in a 20% speedup).
 ---
 Track: To Make the End of Battle
 # JP: TO MAKE THE END OF BATTLE (タイトル)
@@ -1951,21 +2175,6 @@ Artists:
 Duration: '3:29'
 URLs:
 - https://youtu.be/KYhA2RisjP0?t=43
----
-Track: Turnabout Sisters Theme 2001
-# JP: 綾里真宵　～逆転姉妹のテーマ 2001
-# Official release:
-#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/2600
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Contributors:
-- Naoto Tanaka (arrangement)
-Duration: '2:41'
-URLs:
-- https://www.youtube.com/watch?v=upOhRRYVGkA
 ---
 Track: Ultimate Koopa
 # JP: クッパ3号
@@ -2093,7 +2302,7 @@ URLs:
 Track: You Gained a Level!
 # (See Eight Melodies, no official soundtrack release)
 Artists:
-- EarthBound
+- Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
@@ -2108,6 +2317,14 @@ Artists:
 Duration: '3:00'
 URLs:
 - https://www.youtube.com/watch?v=L2cstHtZ4gQ
+---
+Track: Back to the Future
+Artists:
+- Back to the Future
+- Alan Silvestri
+Duration: '3:20'
+URLs:
+- https://www.youtube.com/watch?v=LpbHlXPmmcE
 ---
 Track: Burn
 Artists:
@@ -2597,6 +2814,32 @@ Lyrics: |-
     Uh, it likes the girls too
     Ghostbusters!
 ---
+Track: Good Morning U.S.A.
+Artists:
+- American Dad!
+- Walter Murphy
+Contributors:
+- Seth MacFarlane (vocals)
+Duration: '1:33'
+URLs:
+- https://www.youtube.com/watch?v=uFrTiuT_5-k
+Lyrics: |-
+    Good morning U.S.A.!
+    I've got a feeling that it's gonna be a wonderful day
+    The sun in the sky has a smile on his face
+    And he's shining a salute to the American race
+
+    Oh boy, it's swell to say, Good morning U.S.A.!
+    Good morning U.S.A.!
+
+    Good morning U.S.A.!
+    I've got a feeling that it's gonna be a wonderful day
+    The sun in the sky has a smile on his face
+    And he's shining a salute to the American race
+
+    Oh boy, it's swell to say, Good morning U.S.A.!
+    Good morning U.S.A.!
+---
 Track: Haven't You Noticed (I'm A Star)
 Artists:
 - Steven Universe
@@ -2750,6 +2993,14 @@ Lyrics: |-
     But there is one promise that is given
     I'll meet you on God's golden shore
     (He'll meet you on God's golden shore)
+---
+Track: I Am the Doctor
+Artists:
+- Doctor Who
+- Murray Gold
+Duration: '4:04'
+URLs:
+- https://www.youtube.com/watch?v=komb7TaF-6o
 ---
 Track: I Don't Want to Miss a Thing
 Directory: i-dont-want-to-miss-a-thing-aerosmith
@@ -2954,6 +3205,33 @@ Lyrics: |-
     Have a yabba-dabba-doo time
     A dabba-doo time
     We'll have a gay old time!
+---
+Track: Meow, Meow, Meow, Meow
+Artists:
+- Shelly Palmer
+- Tom McFaul
+Contributors:
+- Linda November (meows)
+Duration: 0:30
+URLs:
+- https://www.youtube.com/watch?v=LTunhRVyREU
+Lyrics: |-
+    I want turkey
+    salmon and chicken
+    oceanfish flavors
+    keep me lickin'
+    I want turkey
+    salmon and chicken
+    oceanfish flavors
+    keep me singin'
+
+    Now you know
+    the cat's meow
+    means Meow Mix
+    Meow Mix
+    meow, meow, meow
+
+    Meow Mix
 ---
 Track: 'My Little Pony: Friendship is Magic Theme'
 Artists:
@@ -3550,6 +3828,80 @@ Lyrics: |-
     Y'all ready to jam? (You know it!)
     C'mon
 ---
+Track: SPLASH FREE
+Artists:
+- Free!
+- Yasushi Watanabe
+- Saori Kodama (lyrics)
+Contributors:
+- STYLE FIVE (performance)
+Duration: '3:58'
+URLs:
+- https://www.youtube.com/watch?v=JcBqTp0icE0
+Lyrics: |-
+    Make us free na splash! (<i>A splash that makes us free!</i>)
+    Kasaneta hikari no kontorasuto abite (<i>Bask in the contrast of the overlapping light</i>)
+    Feel so free na kyō tobikomu (<i>Feel so free today, dive right into</i>)
+    Oretachi no brand new blue, yeah (<i>Our brand new blue, yeah</i>)
+    Omou yō ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Tsukamitai nda pull! Pull! Pull! A-oh! (<i>I want to know that feeling, so pull! Pull! Pull!</i>)
+    Todoki-sō na deep! Deep! Deep! Splash free! (<i>It’s just within reach, the deep! Deep! Deep! Splash free!</i>)
+
+    Pure nai hi ga nai kurai (Nai kurai) (<i>Every day passes in a blur</i>) (<i>In a blur</i>)
+    Back & fill na batafurai (<i>Back and fill with a butterfly stroke</i>)
+    Shikōsakugo no shōritsu wa (In the future) (<i>We rack up wins by trial and error</i>)
+    Atode īdaro (So, take it easy, ah) (<i>But forget about that for now</i>)
+    Uruo shite (Mizu o kaku yubi ni) (<i>Just feel the water</i>) (<i>As your fingers slice the surface</i>)
+    Nagarekomu emotion (Kawaki o mitase) (<i>Let the emotion wash over you</i>) (<i>Quench your thirst</i>)
+    Nankaina rirē ja mō (O-oh) atsuku narenai (<i>It’s time to melt that icy heart</i>)
+    Kokoro o hanate! (<i>And set it free!</i>)
+
+    Make us free na splash! (<i>A splash that makes us free!</i>)
+    Kasaneta hikari no kontorasuto no naka (<i>Amid the contrast of overlapping light</i>)
+    Itsu made mo owaranai (<i>This moment will last forever</i>)
+    Natsu ni me o korashite yeah (<i>Set your sights on summer</i>)
+    Omoiomoi ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Mabushi-sa e to pull! Pull! Pull! A-oh! (<i>See the dazzling horizon ahead and pull! Pull! Pull!</i>)
+    Te o nobashita deep! Deep! Deep! Splash free! (<i>Hands outstretched to the deep! Deep! Deep! Splash free!</i>)
+
+    Mukininaru hi mo arudaro (Arudaro) (<i>Not every day will be smooth sailing</i>)
+    Back & forth ni tadayotte (<i>Back and forth, drifting aimlessly</i>)
+    Rakan teki na uwabe toka (I know, I know) (<i>Some people can put up an optimistic front</i>)
+    Urayan dari shite (But never too late, ah) (<i>How I wish I could do the same</i>)
+    Tsumasaki ni (Kanjiru yori saki ni) (<i>In the tips of my toes</i>) (<i>Purely on instinct</i>)
+    Tsugi no vibration (Kizuite shimau) (<i>The next vibration</i>) (<i>Courses through me</i>)
+    Chūcho shita (Itsuka no jibun) (<i>I know I hesitated</i>) (<i>The me of yesterday</i>)
+    Kage o tobikoete ike (Ima shika nai wave) (<i>Let’s leave the shadows behind</i>) (<i>For a now-or-never wave</i>)
+    Mamori kirenai (Mizu o keru yō ni) (<i>I can’t protect it on my own</i>) (<i>The same way I kick the water</i>)
+    Genjitsumi no nai puraido nanda (Namerakana sende) (<i>This pride that isn’t rooted in reality</i>) (<i>In a long, unbroken line</i>)
+    Saizen no tsumori ja (Io-o-oh) chīsaku naru ze (Sā) (<i>Even the best of intentions Can fall through the cracks</i>) (<i>C’mon</i>)
+    Imēji o sutero! (<i>Break free of the mold!</i>)
+
+    Let us free na style! (<i>Create a style that sets us free!</i>)
+    Umidasu dare demonai ao ni furete (<i>Touch the blue depths in these uncharted waters</i>)
+    Itsu yori mo jiyūna
+    Ore-tachi ni naru nda yeah (<i>Never before have we felt so free</i>)
+    Omou yō ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Tsukamitai nda pull! Pull! Pull! A-oh! (<i>I want to know that feeling, so pull! Pull! Pull!</i>)
+    Todoki-sō na deep! Deep! Deep! Splash free! (<i>It’s just within reach, the deep! Deep! Deep! Splash free!</i>)
+
+    Sei! Sei! Sei! A-oh! (<i>Dive! Dive! Dive!</i>)
+    Kick! Kick! Kick! A-oh!
+    Pull! Pull! Pull! A-oh!
+    Deep! Deep! Splash free!
+
+    Make us free na Splash! kasaneta hikari no kontorasuto no naka
+    Itsu made mo owaranai natsu o yakitsukete Dive in blue
+    Let us free na Style! Umidasu dare demonai ao ni furete
+    Itsu yori mo jiyūna ore-tachi ni naru nda yeah
+    Omoiomoi ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Mabushi-sa e to pull! Pull! Pull! A-oh! (<i>See the dazzling horizon ahead and pull! Pull! Pull!</i>)
+    Te o nobashita deep! Deep! Deep! Splash free! (<i>Hands outstretched to the deep! Deep! Deep! Splash free!</i>)
+---
 Track: Stronger Than You
 Artists:
 - Steven Universe
@@ -3803,6 +4155,61 @@ Lyrics: |-
     It's the Nutshack! (Aaah!)
     It's the Nutshack!
     It's the Nutshack!
+---
+Track: The Power of Love
+Artists:
+- Back to the Future
+- Huey Lewis and the News
+Duration: '3:53'
+URLs:
+- https://www.youtube.com/watch?v=-UQFBtHEFJ8
+Lyrics: |-
+    The power of love is a curious thing
+    Make a one man weep, make another man sing
+    Change a hawk to a little white dove
+    More than a feeling, that's the power of love
+
+    Tougher than diamonds, rich like cream
+    Stronger and harder than a bad girl's dream
+    Make a bad one good, make a wrong one right
+    Power of love that keeps you home at night
+
+    You don't need money, don't take fame
+    Don't need no credit card to ride this train
+    It's strong and it's sudden and it's cruel sometimes
+    But it might just save your life
+    That's the power of love
+    That's the power of love
+
+    First time you feel it, it might make you sad
+    Next time you feel it, it might make you mad
+    But you'll be glad baby when you've found
+    That's the power makes the world go 'round
+
+    And it don't take money, don't take fame
+    Don't need no credit card to ride this train
+    It's strong and it's sudden, it can be cruel sometimes
+    But it might just save your life
+
+    They say that all in love is fair
+    Yeah, but you don't care
+    But you know what to do
+    When it gets hold of you
+    And with a little help from above
+    You feel the power of love
+    You feel the power of love
+    Can you feel it?
+    Hmm-hmmm
+
+    It don't take money and it don't take fame
+    Don't need no credit card to ride this train
+    Tougher than diamonds and stronger than steel
+    You won't feel nothin' till you feel
+    You feel the power, just feel the power of love
+    That's the power, that's the power of love
+    You feel the power of love
+    You feel the power of love
+    Feel the power of love
 ---
 Track: The Raising Fighting Spirit
 Artists:
@@ -9530,6 +9937,17 @@ Lyrics: |-
     Here, there, and everywhere
     Hip, hip
 ---
+Track: Hoverboard
+Artists:
+- Dirtyphonics
+Duration: '4:24'
+URLs:
+- https://www.youtube.com/watch?v=CX1yrjMb4Z4
+Referenced Tracks:
+- Back to the Future
+Sampled Tracks:
+- Back to the Future
+---
 Track: Hydrogen
 Artists:
 - M.O.O.N.
@@ -9859,6 +10277,110 @@ Lyrics: |-
     Early to bed, and you'll miss all the fun
     Bring your wife and trouble, it will never trouble you
     Make her a member of the midnight crew!
+---
+Track: I Need a Doctor
+Artists:
+- Dr. Dre
+- Eminem
+- Skylar Grey
+- Alex da Kid
+Duration: '4:43'
+URLs:
+- https://www.youtube.com/watch?v=HvpWP6Y7WDo
+Lyrics: |-
+    I'm about to lose my mind
+    You've been gone for so long
+    I'm runnin' out of time
+    I need a doctor, call me a doctor
+    I need a doctor, doctor
+    To bring me back to life
+
+    I told the world, one day I would pay it back
+    Say it on tape, and lay it, record it
+    So that one day I could play it back
+    But I don't even know if I believe it when I'm sayin' that
+    Doubts startin' to creep in, every day, it's just so gray and black
+    Hope, I just need a ray of that, 'cause no one sees my vision
+    When I play it for 'em, they just say it's wack
+    But they don't know what dope is
+    And I don't know if I was awake or asleep when I wrote this
+    All I know is, you came to me when I was at my lowest
+    You picked me up, breathed new life in me, I owe my life to you
+    But for the life of me, I don't see why you don't see like I do
+    But it just dawned on me you lost a son
+    Demons fightin' you, it's dark
+    Let me turn on the lights and brighten me and enlighten you
+    I don't think you realize what you mean to me
+    Not the slightest clue
+    'Cause me and you were like a crew, I was like your sidekick
+    You gon' either wanna fight when I get off this fuckin' mic
+    Or you gon' hug me, but I'm outta options
+    There's nothin' else I can do 'cause—
+
+    I'm about to lose my mind
+    You've been gone for so long
+    I'm runnin' out of time
+    I need a doctor, call me a doctor
+    I need a doctor, doctor
+    To bring me back to life
+
+    It hurts when I see you struggle, you come to me with ideas
+    You say they're just pieces, so I'm puzzled
+    'Cause the shit I hear is crazy
+    But you're either gettin' lazy or you don't believe in you no more
+    Seems like your own opinions, not one you can form
+    Can't make a decision, you keep questionin' yourself
+    Second guessin' and it's almost like you're beggin' for my help
+    Like I'm your leader, you're supposed to fuckin' be my mentor
+    I can endure no more, I demand you remember who you are
+    It was you who believed in me when everyone was tellin' you
+    Don't sign me, everyone at the fuckin' label, let's tell the truth
+    You risked your career for me, I know it as well as you
+    Nobody wanted to fuck with the white boy
+    Dre, I'm cryin' in this booth
+    You saved my life, now maybe it's my turn to save yours
+    But I can never repay you, what you did for me is way more
+    But I ain't givin' up faith, and you ain't givin' up on me
+    Get up, Dre, I'm dyin', I need you
+    Come back, for fuck's sake, 'cause—
+
+    I'm about to lose my mind
+    You've been gone for so long
+    I'm runnin' out of time
+    I need a doctor, call me a doctor
+    I need a doctor, doctor
+    To bring me back to life
+    Bring me back to life
+    Bring me back to life
+    I need a doctor, doctor
+    To bring me back to life
+
+    It literally feels like a lifetime ago
+    But I still remember the shit like it was just yesterday, though
+    You walked in, yellow jump suit, whole room, cracked jokes
+    Once you got inside the booth, told you, mic smoke
+    Went through friends, some of them I put on, but they just left
+    They said they was ridin' to the death
+    But where the fuck are they now, now that I need them?
+    I don't see none of them, all I see is Slim
+    Fuck all you fair-weather friends, all I need is him
+    Fuckin' backstabbers
+    When the chips were down, you just laughed at us
+    Now you 'bout to feel the fuckin' wrath of Aftermath, [f-slur]
+    You gon' see us in our lab jackets and ask where the fuck we been?
+    You can kiss my indecisive ass crack, maggots
+    And the cracker's ass, little cracker jack beat
+    Makin' wack math, backwards producers; I'm back, bastards
+    One more CD and then I'm packin' up my bags
+    And as I'm leavin', I'll guarantee they'll scream:
+    "Dre, don't leave us like that, man", 'cause—
+
+    I'm about to lose my mind
+    You've been gone for so long
+    I'm runnin' outta time
+    I need a doctor, call me a doctor
+    I need a doctor, doctor
+    To bring me back to life
 ---
 Track: Interior Crocodile Alligator
 Artists:
@@ -11876,6 +12398,14 @@ Lyrics: |-
     Running in the 90's
     Running in the 90's
 ---
+Track: Sandstorm
+Artists:
+- Darude
+- JS16
+Duration: '7:26'
+URLs:
+- https://www.youtube.com/watch?v=5Rk8u2FTaG0
+---
 Track: Scary Monsters And Nice Sprites
 Artists:
 - Skrillex
@@ -11911,6 +12441,51 @@ Duration: '2:21'
 URLs:
 - https://www.youtube.com/watch?v=quxzJ5xyuC4
 - https://soundcloud.com/spellingphailer/science-blaster
+---
+Track: 『SPLASH FREE』50% OFF Cover
+Artists:
+- Sparky
+Contributors:
+- Octopimp (additional vocals)
+Duration: '1:31'
+URLs:
+- https://www.youtube.com/watch?v=IxK0SLbFa0g
+Referenced Tracks:
+- SPLASH FREE
+Sampled Tracks:
+- SPLASH FREE
+Lyrics: |-
+    Make us free na splash! (<i>A splash that makes us free!</i>)
+    Kasaneta hikari no kontorasuto abite (<i>Bask in the contrast of the overlapping light</i>)
+    Feel so free na kyō tobikomu (<i>Feel so free today, dive right into</i>)
+    Oretachi no brand new blue, yeah (<i>Our brand new blue, yeah</i>)
+    Omou yō ni sei! Sei! Sei! A-oh! (<i>True to myself as I dive! Dive! Dive!</i>)
+    Jibunrashiku kick! Kick! Kick! A-oh! (<i>My own style in my kick! Kick! Kick!</i>)
+    Tsukamitai nda pull! Pull! Pull! A-oh! (<i>I want to know that feeling, so pull! Pull! Pull!</i>)
+    Todoki-sō na deep! Deep! Deep! Splash free! (<i>It’s just within reach, the deep! Deep! Deep! Splash free!</i>)
+
+    [Unintelligible] Yeah!
+    What up sluts it's ya boy NG
+    Bout to drop a rhyme on these bitch buoys
+    Sho' 'nuff, I'm shota tough (Hah)
+    Haters always on me 'cause they think I'm just small stuff
+    Kiddie pools, swam up from the bottom now I'm killin' fools
+    Thug Life anime school
+    Catch me stuntin' with my Iwatobi crew (What?)
+    Makoto, Rei and my boy Haru
+    Splash! Flow just like water and cash!
+    Call me H2-oh, damn!
+    Other MCs get straight up tidal wave slammed! (Ha, ha)
+    My gang goes ham and when you see us swimmin' better know we're in demand!
+    Rackin it up top shelf La Croix, yo crew is on sale, 50% off! (Ruh!)
+
+    Make us free na splash! (Uh, hahahah, yeah!) [Unintelligible] (<i>A splash that makes us free!</i>)
+    Kasaneta hikari no kontorasuto no naka (What, that's right, uh, uh, uh, uh) (<i>Amid the contrast of overlapping light</i>)
+    Itsu made mo owaranai (<i>This moment will last forever</i>)
+    Natsu ni me o korashite yeah (You my man! Yeah! Yeah!) (<i>Set your sights on summer</i>)
+    Omoiomoi ni sei! Sei! Sei! A-oh! (What up!) (<i>True to myself as I dive! Dive! Dive!</i>)
+    Te o nobashita deep! Deep! Deep! Splash free! (<i>Hands outstretched to the deep! Deep! Deep! Splash free!</i>)
+    (Hahahaha)
 ---
 Track: Stone halation
 Artists:
@@ -12299,6 +12874,48 @@ Lyrics: |-
     I pray for (The Carnival)
     Please take me away (Take me away)
 ---
+Track: Teardrop
+Artists:
+- Massive Attack
+- Elizabeth Fraser (lyrics)
+Duration: '5:31'
+URLs:
+- https://www.youtube.com/watch?v=Tb0MC0jFv6M
+Sampled Tracks:
+- Les McCann - Sometimes I Cry
+Lyrics: |-
+    Love, love is a verb
+    Love is a doing word
+    Fearless on my breath
+    Gentle impulsion
+    Shakes me, makes me lighter
+    Fearless on my breath
+    Teardrop on the fire
+    Fearless on my breath
+
+    Night, night of matter
+    Black flowers blossom
+    Fearless on my breath
+    Black flowers blossom
+    Fearless on my breath
+
+    Teardrop on the fire
+    Fearless on my...
+
+    Water is my eye
+    Most faithful mirror
+    Fearless on my breath
+    Teardrop on the fire
+    Of a confession
+    Fearless on my breath
+    Most faithful mirror
+    Fearless on my breath
+    Teardrop on the fire
+    Fearless on my breath
+
+    You're stumbling in the dark
+    You're stumbling in the dark
+---
 Track: Teenagers
 Artists:
 - My Chemical Romance
@@ -12354,6 +12971,17 @@ Artists:
 Duration: '4:01'
 URLs:
 - https://www.youtube.com/watch?v=o4pOswwQAxQ
+---
+Track: The Island – Pt.II (Dusk)
+Artists:
+- Pendulum
+Duration: '4:09'
+URLs:
+- https://www.youtube.com/watch?v=QW0xUZLhSu4
+Lyrics: |-
+    I'll take you in
+
+    I'll take you in
 ---
 Track: The Next Episode
 Artists:
@@ -12915,6 +13543,36 @@ Lyrics: |-
     Two trucks (Having sex)
     Two trucks (Having sex)
     Two trucks (Having sex, having sex, having sex)
+---
+Track: United States of Whatever
+Artists:
+- Liam Lynch
+Duration: '1:31'
+URLs:
+- https://www.youtube.com/watch?v=KEjHJXd8bpU
+Sampled Tracks:
+- The Doors - L.A. Woman
+Lyrics: |-
+    Whatever
+
+    (I went down to the beach and saw Kiki, she was all like "Ehhhh" and I'm like "Whatever!")
+
+    (Then this chick comes up to me and she's all like "Hey, aren't you that dude?" and I'm like "Yeah, whatever!")
+
+    (So later I'm- I'm at the pool hall and this girl comes up and she's all like "Awww" and I'm like "Yeah, whatever!")
+
+    'Cause this is my United States of Whatever!
+    And this is my United States of Whatever!
+    And this is my United States of Whatever!
+
+    (And then it's 3 a.m. I'm on the corner wearing my leather, this dude comes up and he's like "Hey, punk!" I'm like, "Yeah, whatever!")
+
+    (Then I'm throwing dice in the alley, Officer Leroy comes up and he's like "Hey, I thought I told you—" and I'm like "Yeah, whatever!")
+
+    (And then up comes Zafo, I'm like "Yo Zafo, what's up?" he's like "Nothin'" and I'm like "That's cool...")
+
+    'Cause this is my United States of Whatever!
+    And this is my United States of Whatever!
 ---
 Track: Uptown Funk
 Artists:

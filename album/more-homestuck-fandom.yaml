@@ -39,6 +39,19 @@ Commentary: |-
     <i>Niklink:</i>
     Unofficial name. If I recall correctly, I gave it that name for the Homestuck Sound Test because when [[group:toby-fox]] shared the track on his Tumblr, he shared it alongside a picture of Aradia (and nothing else to identify the song with), almost certainly the [[media:misc/aradias-theme-pre-death.png|same picture I used as track art for the song]] in the first versions of the Sound Test.
 ---
+Track: Bane
+Directory: bane-old
+Artists:
+- Mark J. Hadley
+Duration: '5:48'
+URLs:
+- https://hsmusic.wiki/media/misc/archive/Bane.mp3
+Commentary: |-
+    <i>Mark Hadley:</i>
+    Whew… this is a really, REALLY old one of mine. I wrote the first version of “Bane” in 2001, and this version (the ‘latest’ one) was written in 2005. It’s been a long time since I did anything with this theme, but I still really like it. I’ve been thinking about making a [[track:bane|newer version]] of it (since surely I’ve gotten better over the past decade, right?).
+
+    I kind of regret not slipping this theme into Homestuck somewhere; I feel like this could have easily been a recurring signature theme for projects I work on (like [[group:toby-fox|Toby Fox]] does with '[[track:megalovania-halloween|Megalovania]]’).
+---
 Track: Before Before the Beginning
 Artists:
 - Robert J! Lake
@@ -220,7 +233,7 @@ Sampled Tracks:
 - Beatup
 - Moonsweater
 - THIS Pumpkin
-- Aggrievocation
+- track:aggrievocation
 - Feel (Alive)
 - Freefall
 URLs:
@@ -566,8 +579,14 @@ URLs:
 Referenced Tracks:
 - licord nacrasty
 - The Sock Ruse
+- The Light's Rebellion
 Sampled Tracks:
 - The Sock Ruse
+Commentary: |-
+    <i>Circlejourney:</i>
+    so I just had a memory hit me out of nowhere - me and [[artist:serialsymphony|serialsymphony]] discussed quoting each other's tracks reciprocally back when Dave Strider's Cool Mixtape was meant to be on [[album:cosmic-caretakers]]. i.e. this track does reference [[track:the-lights-rebellion|The Light's Rebellion]] at 2:56
+    we both made the front half of our tracks, and then traded motifs in the back half, so it really is a reciprocal reference
+    sorry for your ears @ anyone who listens through this to confirm its existence
 ---
 Track: '[S] Dirk: Unite Synchronization (WITH LYRICS)'
 Artists:
@@ -649,6 +668,39 @@ Artists:
 Duration: '3:07'
 URLs:
 - https://svertofficialsoundtrack.bandcamp.com/track/eclipse
+---
+Track: Eridan's United States of Wwhatevver
+Artists:
+- Octopimp
+Duration: '1:49'
+URLs:
+- https://www.youtube.com/watch?v=-gRfnjppLWc
+Referenced Tracks:
+- United States of Whatever
+Sampled Tracks:
+- United States of Whatever
+Lyrics: |-
+    (Wwhatevver.)
+
+    (I wwent down to the ocean and saw Fef and she wwas like "Ooh glub" and I'm like "Yeah well wwhatevver!")
+
+    (Then this troll comes up to me and she's all like "Aren't you the Prince of Hope?" and I'm like "Yeah well wwhatevver!")
+
+    (So later I'm in the core and Kan comes up and she's all like [chainsaw noises] and I'm like "Yeah well wwhatevver!")
+
+    'Cause this is my United States of Wwhatevver!
+    And this is my United States of Wwhatevver!
+    And this is my United States of Wwhatevver!
+
+    (And then it's 3 a.m. and I'm on the corner wwearing my scarf and Kar comes and he's like "Hey, hipster" and I'm like "Yeah well wwhatevver!")
+
+    (Then I'm macking on Nep and Eq comes up and he's all like "Hey I told you—" and I'm like "Yeah well wwhatevver!")
+
+    (Then up comes Gamzee I'm like "Yo Gamzee, wwhats up?" he's like "Nothin" and I'm like "That's cool...")
+
+    'Cause this is my United States of Wwhatevver!
+    And this is my United States of Wwhatevver!
+    And this is my United States of Wwhatevver!
 ---
 Track: Friendsim 2 Prologue End Fanfare
 Artists:
@@ -1505,6 +1557,15 @@ Duration: '2:56'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/die
 ---
+Track: Doctor's Ringtone (No SFX)
+Artists:
+- VulkanShawl
+Duration: 0:30
+URLs:
+- https://coolandnewwebcomic.bandcamp.com/track/doctors-ringtone
+Referenced Tracks:
+- track:doctor
+---
 Track: feeling cool and new
 Artists:
 - artist:kobacat
@@ -1628,16 +1689,6 @@ Duration: '2:13'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/muse-of-nanchos
 - https://soundcloud.com/cookiefonster-archive/shecka-jef-muse-of-nanchos
----
-Track: OutRun
-Artists:
-- Cerulean
-Duration: '2:09'
-URLs:
-- https://www.youtube.com/watch?v=48O8tLXpEDQ
-Referenced Tracks:
-- onestop
-- track:upward-movement-dave-owns
 ---
 Track: saoidfisd
 Artists:
