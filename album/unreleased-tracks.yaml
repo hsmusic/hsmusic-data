@@ -7,7 +7,7 @@ Color: '#fc5f65'
 Groups:
 - Additional Tracks
 ---
-Group: Tracks featured in Homestuck
+Section: Tracks featured in Homestuck
 ---
 Track: Problem Sleuth Theme
 Artists:
@@ -621,7 +621,7 @@ URLs:
 Referenced Tracks:
 - Horschestra
 ---
-Group: Tracks featured in Hiveswap Friendsim
+Section: Tracks featured in Hiveswap Friendsim
 ---
 Track: Single Female Lawyer
 Artists:
@@ -662,7 +662,7 @@ Duration: '1:03'
 URLs:
 - https://www.youtube.com/watch?v=wc5iruoYLXM
 ---
-Group: Tracks featured in Pesterquest
+Section: Tracks featured in Pesterquest
 ---
 Track: Friendvangelion Rebuild
 Artists:
@@ -1052,7 +1052,7 @@ Commentary: |-
     <i>James Roach:</i>
     its over
 ---
-Group: Tracks featured in Namco High
+Section: Tracks featured in Namco High
 ---
 Track: Namco Theme
 Artists:
