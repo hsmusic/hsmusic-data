@@ -21,7 +21,7 @@ Wallpaper Style: |-
     image-rendering: crisp-edges;
 Wallpaper File Extension: png
 ---
-Group: Main album
+Section: Main album
 ---
 Track: Once Upon a Time
 Duration: '1:28'
@@ -606,7 +606,7 @@ Referenced Tracks:
 - Determination
 - Undyne
 ---
-Group: Hidden on Bandcamp
+Section: Hidden on Bandcamp
 ---
 Track: You Idiot
 Duration: 0:34
@@ -802,7 +802,7 @@ URLs:
 Referenced Tracks:
 - Once Upon a Time
 ---
-Group: CD/Vinyl bonus tracks
+Section: CD/Vinyl bonus tracks
 ---
 Track: Mysterious Shrine
 Duration: 0:48

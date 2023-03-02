@@ -6,7 +6,7 @@ Groups:
 - Additional Tracks
 Color: '#6c75f5'
 ---
-Group: Fanmusic from the official team
+Section: Fanmusic from the official team
 ---
 Track: A Baby Legend - The Baby is 2
 Directory: a-baby-legend
@@ -536,7 +536,7 @@ URLs:
 Referenced Tracks:
 - track:crustacean
 ---
-Group: Other fanmusic
+Section: Other fanmusic
 ---
 Track: Calming Quartz (Beta)
 Artists:
@@ -1194,7 +1194,7 @@ URLs:
 Referenced Tracks:
 - track:sburban-jungle
 ---
-Group: From the Cool and New Music Team
+Section: From the Cool and New Music Team
 ---
 Track: 暗闇の中の光
 Directory: light-in-the-darkness
@@ -1677,7 +1677,7 @@ Lyrics: |-
 ---
 Track: Moshi Moshi?
 Artists:
-- Cryptanark
+- Discfortune
 Duration: '2:21'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/moshi-moshi
@@ -1806,7 +1806,7 @@ Referenced Tracks:
 ---
 Track: Unintentional Touhou
 Artists:
-- Cryptanark
+- Discfortune
 Duration: '3:04'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/unintentional-touhou
@@ -1840,7 +1840,7 @@ Lyrics: |-
     And paced upon the mountains overhead
     And hid his face amid a crowd of stars
 ---
-Group: From the Paradox Music Team
+Section: From the Paradox Music Team
 ---
 Track: All Alone
 Artists:
