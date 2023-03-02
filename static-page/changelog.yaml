@@ -31,6 +31,9 @@ Content: |-
     - high resolution artworks brought to the entire [[group-gallery:official]] and many [[group-gallery:fandom]] albums!
     - new image overlay feature: a large preview of track or album artwork shows up when you click 'em, giving a focused view instead of leaving the page!
         - this is a high resolution compressed version of the original art; since highest-resolution artwork files can sometimes be pretty huge (e.g. 40 MB+), these are now accessible behind a "view original" link
+    - miscellaneous site polish and improvements
+        - more skippers when navigating using tab: jump to any section of most pages right from the skipper bar
+        - miscellaneous styling polish, including stabilized wallpaper dimensions on dynamic-dimensions viewports (e.g. mobile Safari with shrinking location bar), showing sticky heading above cover art on mobile / very thin displays, and minor bug fixes
     <h3>albums</h3>
     - added all albums from [[group:parsec-productions]], aka [[artist:mark-j-hadley]]!
         - added [[album:slender-the-arrival-soundtrack]]!
