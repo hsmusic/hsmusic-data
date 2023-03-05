@@ -26,12 +26,13 @@ Content: |-
     <h2 id="12-jun-2077" class="major-release"><a href="#12-jun-2077">[[date:12 June 2077]] - (Preview changelog!)</a></h2>
     <h3>site changes</h3>
     - new sheet music & MIDI/project file sections on track pages
-        - check out almost any album from the [[group-gallery:official]], or the new [[listing:tracks/with-sheet-music-files|Tracks - with Sheet Music]] and [[listing:tracks/with-midi-project-files|with MIDI & Project Files]] listings!
+        - check out almost any album from the [[group-gallery:official]], or the new [[listing:all-sheet-music|All Sheet Music]], [[listing:tracks/with-sheet-music-files|Tracks - with Sheet Music]], and [[listing:tracks/with-midi-project-files|Tracks - with MIDI & Project Files]] listings!
         - current selection is mostly sourced from <a href="https://homestuck.net/music/sheetmusic/">the homestuck.net archive</a>, thanks to Makin and wheals for maintaining this reference!
     - high resolution artworks brought to the entire [[group-gallery:official]] and many [[group-gallery:fandom]] albums!
     - new image overlay feature: a large preview of track or album artwork shows up when you click 'em, giving a focused view instead of leaving the page!
         - this is a high resolution compressed version of the original art; since highest-resolution artwork files can sometimes be pretty huge (e.g. 40 MB+), these are now accessible behind a "view original" link
     - miscellaneous site polish and improvements
+        - listing pages now link to each other from the main content area for quicker navigation, especially on mobile; sections for listings of the same kind of thing and for related listings of another kind of thing
         - more skippers when navigating using tab: jump to any section of most pages right from the skipper bar
         - miscellaneous styling polish, including stabilized wallpaper dimensions on dynamic-dimensions viewports (e.g. mobile Safari with shrinking location bar), showing sticky heading above cover art on mobile / very thin displays, and minor bug fixes
     <h3>albums</h3>
@@ -59,6 +60,7 @@ Content: |-
     - added per-track colors to tracks in [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:cherubim]], [[album:diverging-delicacies]], [[album:friendsymphony]], [[album:7th-gate-project]], and [[album:of-troles-and-chiptumes]]
     <h3>data changes</h3>
     - [[track:outrun]] moved out of [[album:more-homestuck-fandom]] (now in [[album:a-shade-of-blue]])
+    - added art anthology booklet to [[album:beyond-canon]] as additional file
     <h3>data fixes</h3>
     - fixed typos in commentary citation for [[track:pumpkin-tide-tvs-i-can-barely-sleep-i-have-to-quickly-finish-this-rock-cover]] and [[track:lapis-lazuli-extended]], making these listed properly on their artists' wiki pages
     - fixed [[track:frustracean]] not referencing [[track:hardlyquin]] (thanks, OneOfTheChips!)
