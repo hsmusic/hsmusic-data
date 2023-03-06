@@ -10,7 +10,11 @@ Style: |-
     }
 
     h2 {
-        margin-bottom: 0.4em;
+        /* `!important` is to overwrite `margin-bottom: -3px` set by the
+         * "custom hash links" site.css section on all `.content-heading`
+         * elements. It's a bit of a hack, sorry!
+         */
+        margin-bottom: calc(0.3em - 3px) !important;
     }
 
     h3 {
@@ -23,7 +27,7 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="12-jun-2077" class="major-release"><a href="#12-jun-2077">[[date:12 June 2077]] - (Preview changelog!)</a></h2>
+    <h2 id="05-mar-2023" class="major-release"><a href="#05-mar-2023">[[date:05 March 2023]] - Track Doctor</a></h2>
     <h3>site changes</h3>
     - new sheet music & MIDI/project file sections on track pages
         - check out almost any album from the [[group-gallery:official]], or the new [[listing:all-sheet-music-files|All Sheet Music]], [[listing:tracks/with-sheet-music-files|Tracks - with Sheet Music]], and [[listing:tracks/with-midi-project-files|Tracks - with MIDI & Project Files]] listings!
