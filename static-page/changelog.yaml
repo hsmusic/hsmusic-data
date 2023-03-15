@@ -27,6 +27,19 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]]</a></h2>
+    <h3>site changes</h3>
+    <h3>albums</h3>
+    <h3>other additions</h3>
+    <h3>data changes</h3>
+    - moved MIDI files for [[track:kid-radd-theme]], [[track:bogey-theme]], [[track:gnarl-theme]], [[track:kid-radd-final]], and [[track:heart-of-the-creator]] from artist commentary to the new dedicated section
+    - changed per-track colors for [[track:creeping-blue]], [[track:yes-so-good]], [[track:broken-strings]], [[track:depths-and-water]], [[track:dumbass-terminal]], [[track:growing-up]], [[track:worst-friend]], [[track:sesquipedalian-loquaciousness]], and [[track:suplexes-piano]] to match [[tag:equius|indigoblood]] colors, and [[track:a-peace-worth-fighting-for]] from [[tag:the-signless|iron]] to [[tag:kankri|mutantblood]]
+    <h3>data fixes</h3>
+    - fixed [[album:sburb]] listing [[artist:erik-scheele]] as an album artist instead of a contributor for each track
+    - fixed listening links across all of [[group:cristata|Cristata's]] albums and fixed some of their artist credits being under a different name
+    - fixed [[track:predomination]] tagging [[tag:lord-english]] instead of [[tag:caliborn]]
+    - fixed [[track:beetermination-thinking-bee]] and [[track:carefree-consternation]] not tagging [[tag:bees|bees🐝]] (and [[tag:cirava]] for the latter)
+    - fixed [[track:riches-to-ruins-movements-i-and-ii]], [[track:dr-pepper]], and [[track:rex-duodecim-angelus-remix]] not tagging [[tag:skaia]]
     <h2 id="05-mar-2023" class="major-release"><a href="#05-mar-2023">[[date:05 March 2023]] - Track Doctor</a></h2>
     <h3>site changes</h3>
     - new sheet music & MIDI/project file sections on track pages
