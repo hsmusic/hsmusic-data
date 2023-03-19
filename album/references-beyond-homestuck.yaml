@@ -1600,6 +1600,20 @@ Duration: '1:22'
 URLs:
 - https://www.youtube.com/watch?v=_I34nshlOPk
 ---
+Track: Pokémon Center (Pokémon Red & Blue Versions)
+# JP: ポケモンセンター
+# Official release:
+#   ポケモン 赤・緑 スーパーミュージック・コレクション
+# Reference:
+#   https://vgmdb.net/album/141
+Directory: pokemon-center-pokemon-red-and-blue-versions
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '1:14'
+URLs:
+- https://www.youtube.com/watch?v=MjZIjHu0OfY
+---
 Track: Pushing Onwards
 # Official release on Bandcamp (OK, also the guy's own site)
 # Reference:
@@ -1898,6 +1912,70 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=Xy_-7OXophY
 ---
+Track: Sonic Electronic
+# This is from officially licensed album of Sonic-themed music from Germany, none of which is related to actual in-game music in any way.
+# Official release:
+#   Sonic The Hedgehog
+# Reference
+#   https://vgmdb.net/album/2054
+Artists:
+- Sonic the Hedgehog
+- Emerald Hill
+- Spike Shellcracker
+- Oscar Oberheim
+Duration: '3:07'
+URLs:
+- https://www.youtube.com/watch?v=MkdbN7xDkAM
+Lyrics: |-
+    Ding, ding, ding
+    Get the ring, ring, ring
+    I'm the Sonic Electronic and I'm gonna be the king
+    To the ring, ring, ring
+    Take a ding, ding, ding
+    When you really score me high, set me free and we will fly
+
+    La la la
+    Lala la la la
+    Lala la la lalalala lalalalala
+    Lala la la la
+    Lala la la la
+    Lala la la lalalala lalalalala
+
+    Ding, ding, ding
+    Get the ring, ring, ring
+    I'm the Sonic Electronic and I'm gonna be the king
+    To the ring, ring, ring
+    Take a ding, ding, ding
+    When you really score me high, set me free and we will fly
+
+    Ding, ding, ding
+    Get the ring, ring, ring
+    I'm the Sonic Electronic and I'm gonna be the king
+    To the ring, ring, ring
+    Take a ding, ding, ding
+    When you really score me high, we will take another try
+
+    La la la
+    Lala la la la
+    Lala la la lalalala lalalalala
+    Lala la la la
+    Lala la la la
+    Lala la la lalalala lalalalala
+
+    Ding, ding, ding
+    Get the ring, ring, ring
+    I'm the Sonic Electronic and I'm gonna be the king
+    To the ring, ring, ring
+    Take a ding, ding, ding
+    When you really score me high, set me free and we will fly
+
+    La la la
+    Lala la la la
+    Lala la la lalalala lalalalala
+    Lala la la la
+    Lala la la la
+    Lala la la lalalala lalalalala
+---
 Track: Soul 0 System
 # JP: Soul 0 System～回歴スル追約ノ忘レ貝
 # Official release:
@@ -2092,6 +2170,21 @@ Artists:
 Duration: '4:10'
 URLs:
 - https://www.youtube.com/watch?v=hrvamz7tncY
+---
+Track: Three Gates
+# Official release:
+#   HALO 3 Original Soundtrack
+#   Track is actually split into 'Three Gates' (0:47), 'Ascent' (1:15), and 'Leonidas Returns' (2:33)
+#   Track is in turn part of 'The Covenant' suite
+# Reference:
+#   https://vgmdb.net/album/5033
+Artists:
+- Halo
+- Martin O'Donnell 
+- Michael Salvatori
+Duration: '4:34'
+URLs:
+- https://www.youtube.com/watch?v=8Y-ptqPoYFI
 ---
 Track: Title (Mega Man 3)
 # Official release:
@@ -3629,6 +3722,26 @@ Duration: '4:01'
 URLs:
 - https://www.youtube.com/watch?v=Sv93yQE8bRo
 ---
+Track: Sad Romance
+Artists:
+- Over the Green Fields
+- Ji Pyeong Kwon
+Duration: '4:04'
+URLs:
+- https://www.youtube.com/watch?v=Zf_BWrOUYMM
+- https://open.spotify.com/track/6Evk5n69QVTdfhhKLBMcv8
+---
+Track: Sad Romance (Violin Ver.)
+Artists:
+- Over the Green Fields
+- Ji Pyeong Kwon
+Duration: '4:34'
+URLs:
+- https://www.youtube.com/watch?v=ja7JAJNe8a0
+- https://open.spotify.com/track/47GTEdE7x1M4S9YbvW94ro
+Referenced Tracks:
+- Sad Romance
+---
 Track: Safe Return
 Artists:
 - 'Avatar: The Last Airbender'
@@ -3827,6 +3940,41 @@ Lyrics: |-
     Nah, I, I don't think so
     Y'all ready to jam? (You know it!)
     C'mon
+---
+Track: Spider-Man
+Artists:
+- Spider-Man
+- Paul Francis Webster
+- Bob Harris
+Duration: '1:05'
+URLs:
+- https://www.youtube.com/watch?v=xsx3JCw62WQ
+Lyrics: |-
+    Spider-Man, Spider-Man
+    Does whatever a spider can
+    Spins a web, any size
+    Catches thieves just like flies
+    Look out! Here comes the Spider-Man
+
+    Is he strong? Listen bud
+    He's got radioactive blood
+    Can he swing from a thread
+    Take a look overhead
+    Hey, there! There goes the Spider-Man
+
+    In the chill of night
+    At the scene of a crime
+    Like a streak of light
+    He arrives just in time
+
+    Spider-Man, Spider-Man
+    Friendly neighborhood Spider-Man
+    Wealth and fame, he's ignored
+    Action is his reward
+
+    To him, life is a great big bang up
+    Wherever there's a hang up
+    You'll find the Spider-Man!
 ---
 Track: SPLASH FREE
 Artists:
@@ -6237,6 +6385,12 @@ Lyrics: |-
     Plyaskoy tesh'tye! (<i>Dance to please!</i>)
     Nash khan Konchak! (<i>Our Khan Konchak!</i>)
 ---
+Track: Reveille
+Artists:
+- Traditional
+URLs:
+- https://www.youtube.com/watch?v=It7MrzMzMQ8
+---
 Track: Santa Claus Is Comin' to Town
 Artists:
 - John Frederick Coots
@@ -7140,6 +7294,15 @@ Lyrics: |-
     (You can rule by my side, Chad. We can be the ultimate Grand Dads. We shall usher SilvaGunner into a new high quality era.)
     (...aight.)
     (Come now, Chad. We have much work to do.)
+---
+Track: air horn sad violin preview
+Artists:
+- Baba Yetu
+Duration: '0:21'
+URLs:
+- https://www.youtube.com/watch?v=RxkHuecEpgw
+Referenced Tracks:
+- Sad Romance (Violin Ver.)
 ---
 Track: A Song About a Circle Constant
 Artists:
@@ -8114,6 +8277,56 @@ Lyrics: |-
     (Now watch me yuu) Crank that Soulja Boy
     (Now watch me yuu) Crank that Soulja Boy
     Now watch me—
+---
+Track: Crawling
+Artists:
+- Linkin Park
+- Don Gilmore (production)
+Duration: '3:29'
+URLs:
+- https://www.youtube.com/watch?v=I6NU3kWqnDE
+Lyrics: |-
+    Crawling in my skin
+    These wounds, they will not heal
+    Fear is how I fall
+    Confusing what is real
+
+    There's something inside me that pulls beneath the surface
+    Consuming, confusing
+    This lack of self-control I fear is never-ending
+    Controlling, I can't seem
+
+    To find myself again, my walls are closing in
+    Without a sense of confidence, I'm convinced that there's just too much pressure to take
+    I've felt this way before, so insecure
+
+    Crawling in my skin
+    These wounds, they will not heal
+    Fear is how I fall
+    Confusing what is real
+
+    Discomfort endlessly has pulled itself upon me
+    Distracting (Distracting), reacting (Reacting)
+    Against my will, I stand beside my own reflection (My own reflection)
+    It's haunting (It's haunting) how I can't seem
+
+    To find myself again, my walls are closing in
+    Without a sense of confidence, I'm convinced that there's just too much pressure to take
+    I've felt this way before, so insecure
+
+    Crawling in my skin
+    These wounds, they will not heal
+    Fear is how I fall
+    Confusing what is real
+    Crawling in my skin
+    These wounds, they will not heal
+    Fear is how I fall
+    Confusing, confusing what is real
+
+    There's something inside me that pulls beneath the surface
+    (Consuming) Confusing what is real
+    This lack of self-control I fear is never-ending
+    (Controlling) Confusing what is real
 ---
 Track: Creeping in My Soul
 Artists:
