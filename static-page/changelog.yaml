@@ -31,12 +31,17 @@ Content: |-
     <h3>site changes</h3>
     <h3>albums</h3>
     <h3>other additions</h3>
+    - added community listening stream link to [[album:a-shade-of-blue]]
     <h3>data changes</h3>
     - moved MIDI files for [[track:kid-radd-theme]], [[track:bogey-theme]], [[track:gnarl-theme]], [[track:kid-radd-final]], and [[track:heart-of-the-creator]] from artist commentary to the new dedicated section
     - changed per-track colors for [[track:creeping-blue]], [[track:yes-so-good]], [[track:broken-strings]], [[track:depths-and-water]], [[track:dumbass-terminal]], [[track:growing-up]], [[track:worst-friend]], [[track:sesquipedalian-loquaciousness]], and [[track:suplexes-piano]] to match [[tag:equius|indigoblood]] colors, and [[track:a-peace-worth-fighting-for]] from [[tag:the-signless|iron]] to [[tag:kankri|mutantblood]]
     <h3>data fixes</h3>
     - fixed [[album:sburb]] listing [[artist:erik-scheele]] as an album artist instead of a contributor for each track
     - fixed listening links across all of [[group:cristata|Cristata's]] albums and fixed some of their artist credits being under a different name
+    - fixed [[artist:sylvarn]] having some artist credits under a different name
+    - fixed incorrect listening link for [[track:doctors-ringtone-no-sfx]]
+    - fixed YouTube links for [[track:same-bpm]] and tracks in [[album:election-season]] & [[album:dialed-to-11]] linking to the video inside of a playlist, and also fixed playlist link for [[album:cool-and-new-voulem1]] linking to the first track in the playlist instead of the playlist itself
+    - fixed trailer link for [[album:cool-and-new-volume-ii]] linking to the trailer for [[album:cool-and-new-volume-2]]
     - fixed [[track:predomination]] tagging [[tag:lord-english]] instead of [[tag:caliborn]]
     - fixed [[track:beetermination-thinking-bee]] and [[track:carefree-consternation]] not tagging [[tag:bees|bees🐝]] (and [[tag:cirava]] for the latter)
     - fixed [[track:riches-to-ruins-movements-i-and-ii]], [[track:dr-pepper]], and [[track:rex-duodecim-angelus-remix]] not tagging [[tag:skaia]]
