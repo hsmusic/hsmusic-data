@@ -27,6 +27,28 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]]</a></h2>
+    <h3>site changes</h3>
+    <h3>albums</h3>
+    - added [[album:act-8-volume-1]]!
+    - added a couple more [[group:canmt]] albums!
+        - added [[album:cool-and-new-homestuck]]!
+        - added [[album:cyclica]] by [[artist:aris-martinian]]!
+    - added both Act Omega albums!
+        - added [[album:early-access]]!
+        - added [[album:aspect-clock]]!
+    <h3>other additions</h3>
+    - added sheet music to [[track:underfoot]] (thanks, Warrigal!) and, all the way from 1911, to [[track:im-a-member-of-the-midnight-crew]] (thanks, Celeste!)
+    - added commentary from [[artist:andrew-hussie]] and old Bandcamp pages to several albums: [[album:homestuck-vol-1]], [[album:midnight-crew-drawing-dead]], [[album:homestuck-vol-5]], [[album:alternia]], [[album:squiddles]], [[album:the-felt]], [[album:homestuck-vol-6]], [[album:strife]], [[album:medium]], [[album:homestuck-vol-7]], [[album:prospit-and-derse]], [[album:coloUrs-and-mayhem-universe-a]], and [[album:coloUrs-and-mayhem-universe-b]]
+    - added commentary by [[artist:michael-guy-bowman|Bowman]] to much of his older music: [[track:sburban-jungle-brief-mix]], [[track:harlequin-rock-version]], [[track:explore]], [[track:ohgodwhat-remix]], [[track:chorale-for-jaspers]], [[track:pony-chorale]], [[album:midnight-crew-drawing-dead]], [[track:lunar-eclipse]], [[track:hauntjam]], [[track:sburban-jungle]], [[album:homestuck-vol-5]], [[track:happy-cat-song]], [[track:hardchorale]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:greenhouse]], [[track:tangled-waltz]], [[track:squiddle-samba]], [[track:mister-bowman-tells-you-about-the-squiddles]], [[track:i-dont-want-to-miss-a-thing]], and [[album:mobius-trip-and-hadron-kaleido]] (thanks, MSPA Prophet!)
+    <h3>data changes</h3>
+    - [[track:smackdown]], [[track:slamdown]], [[track:contra]], [[track:mayorlovania]], and [[track:sburban-resolution]] moved out of [[album:more-homestuck-fandom]] (now in [[album:cool-and-new-homestuck]] and [[album:early-access]])
+    <h3>data fixes</h3>
+    - various fixes to [[track:three-in-the-morning-4-13-hours-late-remix]] and [[track:three-in-the-morning-ngames-bowmix]]
+    - lyrics fixes for [[track:tentacles]] and [[track:let-the-squiddles-sleep-end-theme]] (thanks, MSPA Prophet!)
+    - fixed [[track:sarabande-symphony]] not listing [[artist:erik-scheele]] as a contributor
+    - fixed unordered flash links on [[track:elevatorstuck]]'s page (thanks, FF!)
+
     <h2 id="31-mar-2023"><a href="#31-mar-2023">[[date:31 March 2023]]</a> - Track Doctor<sup>2</sup></h2>
     <h3>additions</h3>
     - added missing bonus track to [[album:deltarune-ch2-ost]]
@@ -45,6 +67,7 @@ Content: |-
     - fixed playlist-related issues in YouTube links for [[album:cool-and-new-voulem1]], [[track:same-bpm]] and all tracks in [[album:election-season]] & [[album:dialed-to-11]]
     - fixed trailer link for [[album:cool-and-new-volume-ii]] linking to the trailer for [[album:cool-and-new-volume-2]]
     - fixed incorrect or missing art tags in [[album:s-collide]], [[track:eternity-served-cold-canon-edit]], [[track:riches-to-ruins-movements-i-and-ii]], [[track:nine-lives-one-love]], [[track:adios-lost-boys]], [[track:dance-of-viridian-and-violet]], [[track:beetermination-thinking-bee]], [[track:dr-pepper]], [[track:carefree-consternation]], [[track:urban-jungle]], [[track:rex-duodecim-angelus-remix]], [[track:infinite-zest]], [[track:predomination]], and [[track:shattered-spacetime]]
+
     <h2 id="05-mar-2023" class="major-release"><a href="#05-mar-2023">[[date:05 March 2023]] - Track Doctor</a></h2>
     <h3>site changes</h3>
     - new sheet music & MIDI/project file sections on track pages
