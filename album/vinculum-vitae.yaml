@@ -1,6 +1,7 @@
 Album: Vinculum Vitae
 Date: April 13, 2023
 Date Added: April 13, 2023
+Color: '#5071f7'
 Artists:
 - Cosmoptera
 Cover Artists:
@@ -9,7 +10,6 @@ URLs:
 - https://lordcakespy.bandcamp.com/track/sburban-sprawl
 - https://soundcloud.com/lordcakespy/sets/vinculum-vitae
 - https://www.youtube.com/watch?v=c0ldbKPbPpc
-Color: '#35CFF2'
 Cover Art File Extension: png
 Wallpaper Style: 'opacity: 0.7;'
 Wallpaper File Extension: png
@@ -17,6 +17,8 @@ Wallpaper Artists:
 - Monckat
 - Niklink (edits for wiki)
 Has Track Art: false
+Groups:
+- Fandom
 Commentary: |-
     <i>Cosmoptera:</i>
     A love letter to the music of Homestuck, a webcomic that consumed far too many years of my early life. The wonderful pieces that came out of that comic have always been a source of inspiration to me. I hope this compilation can serve as inspiration for someone else, too.
@@ -42,11 +44,11 @@ URLs:
 Referenced Tracks:
 - Walk-Stab-Walk (R&E)
 Sampled Tracks:
-- I'm a Member of the Midnight Crew
+- track:im-a-member-of-the-midnight-crew
 - A Fifth of Beethoven
 - I'm Gonna Love You Just a Little More Baby
 - Baby Face Morgan
-- The Pay Off
+- The Pay-Off
 ---
 Track: Cometfall
 Duration: '3:08'
