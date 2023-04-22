@@ -27,7 +27,7 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="22-apr-2023"><a href="#22-apr-2023">[[date:22 April 2023]]</a></h2>
+    <h2 id="22-apr-2023"><a href="#22-apr-2023">[[date:22 April 2023]]</a> - media mismatch remedial</h2>
     <h3>data &amp; media fixes</h3>
     - implemented a new tool for automatically detecting missing and misplaced media files whenever the project is built, revealing a bunch of issues fixed below, and helping to prevent similar media mismatches from popping up again in the future
     - fixed missing or misplaced track artwork across the wiki
