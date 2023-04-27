@@ -16,6 +16,8 @@ Commentary: |-
     <i>WHATISLOSTINTHEMINES:</i>
     a bit of rest never did anyone any harm
 ---
+Section: Main album
+---
 Track: Dreaming of Living
 Duration: '2:06'
 URLs:
@@ -40,3 +42,13 @@ Track: Freshly Sleeping
 Duration: '2:50'
 URLs:
 - https://what.bandcamp.com/track/freshly-sleeping
+---
+Section: Track sections
+---
+Track: Glide
+Directory: glide-what
+Duration: '2:44'
+---
+Track: Wake
+Directory: wake-what
+Duration: '2:08'

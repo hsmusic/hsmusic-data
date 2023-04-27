@@ -27,6 +27,19 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="27-apr-2023"><a href="#27-apr-2023">[[date:27 April 2023]]</a> - rainy day repairs</h2>
+    <h3>additions</h3>
+    - added bonus track [[track:bequest]] to [[album:a-nameless-inheritance]]
+    - added bonus tracks [[track:glide-what]] and [[track:wake-what]] to [[album:what]]
+    <h3>data fixes</h3>
+    - fixed Bandcamp link for [[album:vinculum-vitae]] (thanks, Celeste!)
+    - added art tags to [[album:vinculum-vitae]] and [[album:land-of-hue-and-duels-trollside]]
+    - replaced reference to [[track:doctor]] with [[track:penumbra-phantasm]] in [[track:thief-of-space]]
+    - fixed lyric formatting in [[track:im-gonna-love-you-just-a-little-more-baby]] and [[track:supermassive-black-hole]]
+    - tweaked contributor credits in [[album:homestuck-vol-10]]
+        - [[track:feel-alive]]: removed contributor credits and moved contribution details to artist field
+        - [[track:solar-voyage]] and [[track:renewed-return]]: removed "composition" credits from [[artist:marcy-nabors]] (implied from the artist field)
+
     <h2 id="22-apr-2023"><a href="#22-apr-2023">[[date:22 April 2023]]</a> - media mismatch remedial</h2>
     <h3>data &amp; media fixes</h3>
     - implemented a new tool for automatically detecting missing and misplaced media files whenever the project is built, revealing a bunch of issues fixed below, and helping to prevent similar media mismatches from popping up again in the future
