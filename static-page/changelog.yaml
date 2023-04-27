@@ -39,6 +39,13 @@ Content: |-
     - tweaked contributor credits in [[album:homestuck-vol-10]]
         - [[track:feel-alive]]: removed contributor credits and moved contribution details to artist field
         - [[track:solar-voyage]] and [[track:renewed-return]]: removed "composition" credits from [[artist:marcy-nabors]] (implied from the artist field)
+    <h3>bug fixes</h3>
+    - fixed a number of issues with "latest first" chronological sorting
+        - this mainly means artists' cover gallery pages are working properly, again (they've been broken so many times)
+        - main new change: "latest first" chronological sorts still keep dateless items, such as tracks under [[group:additional-tracks]], at the end of the list, as intended
+    - fixed chronologically sorting flashes moving flashes released on the same day out of place with each other
+    - fixed cover art in "sticky" page heading having gone totally missing!
+        - this was a code error introduced in early March - it was supposed to only make cover art with content warnings show up in the sticky heading after the main cover was revealed by the user clicking on it, but accidentally made all covers with art tags be hidden from the heading instead, oops
 
     <h2 id="22-apr-2023"><a href="#22-apr-2023">[[date:22 April 2023]]</a> - media mismatch remedial</h2>
     <h3>data &amp; media fixes</h3>
