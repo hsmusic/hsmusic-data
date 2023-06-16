@@ -27,6 +27,16 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="25-oct-2413" class="major-release"><a href="#25-oct-2413">[[date:25 October 2413]]</a></h3>
+    (news entry: link)
+    <h3>site changes</h3>
+    - major rework of how each website page's contents are generated, making it way easier to prototype new features or test changes, and allowing for better stability as code internals are expanded or updated
+    - moved "Listen on" links closer to the top, above "extra" links (like "view gallery page"), on album and track pages, and updated the message displayed when there aren't any links for a track
+        - old: "This track has no URLs at which it can be listened."
+        - new: "This wiki doesn't have any listening links for <i>Shave and a Haircut.</i>"
+    - made the names of groups in divided track lists ("tracks that reference" and "tracks that sample") into actual links to those groups
+    - on track pages for albums which are part of more than one group, changed the dividing line between each group from a harsh white to the same dotted color as other borders on the page ([[media:misc/changelog/sidebar-group-divider-old.png|old]], [[media:misc/changelog/sidebar-group-divider-new.png|new]])
+
     <h2 id="27-apr-2023"><a href="#27-apr-2023">[[date:27 April 2023]]</a> - rainy day repairs</h2>
     <h3>additions</h3>
     - added bonus track [[track:bequest]] to [[album:a-nameless-inheritance]]
