@@ -242,10 +242,6 @@ URLs:
 ---
 Artist: Amanda Singleton
 ---
-Artist: Amelia G.
-Aliases:
-- amelia-inkheart
----
 Artist: American Dad!
 ---
 Artist: Amethyst Barron
@@ -2590,6 +2586,7 @@ Artist: Kera Jones
 Artist: Kevin Grant
 URLs:
 - https://soundcloud.com/kevingrant
+Dead URLs:
 - https://www.youtube.com/user/kaviar101/
 ---
 Artist: Kevin Regamey
@@ -3584,7 +3581,7 @@ Aliases:
 - Neon Zenith
 URLs:
 - https://soundcloud.com/neonsystem95
-- https://www.twitter.com/NEONSYS95
+- https://twitter.com/neonsystem95
 ---
 Artist: Nerd
 URLs:
@@ -4187,6 +4184,13 @@ Artist: Rennie Kingsley
 URLs:
 - https://twitter.com/wrenstarling
 - https://www.weavecomic.com/
+---
+Artist: REZ
+URLs:
+- https://chiptune.bandcamp.com/
+- https://soundcloud.com/chiptune
+- https://twitter.com/chiptune
+- http://chiptune.com
 ---
 Artist: Rhyselinn
 URLs:
@@ -4834,6 +4838,16 @@ Artist: Splendora
 Artist: SplitSuns
 URLs:
 - https://soundcloud.com/splitsuns
+---
+Artist: Squid
+Aliases:
+- Amelia G.
+- amelia-inkheart
+- little_squid
+URLs:
+- https://dazed-squid.tumblr.com/
+- https://www.instagram.com/little_squid_illustrations/
+- https://linktr.ee/little_squid
 ---
 Artist: Stefán Karl
 Directory: stefan-karl
@@ -6035,6 +6049,12 @@ Artist: kayak
 ---
 Artist: kendle bentley b!
 ---
+Artist: Kenët
+Directory: kenet
+URLs:
+- https://www.youtube.com/@kenetdeluxe
+- https://twitter.com/KenetDeluxe
+---
 Artist: keyboard cait
 ---
 Artist: kindergraph
@@ -6550,6 +6570,8 @@ Aliases:
 URLs:
 - https://yoitscro.tumblr.com/
 - https://twitter.com/yoitscro
+---
+Artist: Yoshinori Kitase
 ---
 Artist: ysh
 URLs:

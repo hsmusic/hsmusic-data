@@ -27,6 +27,31 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]]</a> - moderately belated maintenance</h2>
+    <h3>bug fixes</h3>
+    - fixed direct links to URLs with spaces in 'em all being 404s, e.g. the listen link for [[track:where-making-this-hapen]], due to misplaced URL encoding
+    <h3>data fixes</h3>
+    - added [[track:aria-di-mezzo-carattere]] to reference list for [[track:oh-one-true-love]] (thanks, FF!)
+    - added [[track:once-upon-a-time]] to reference list for [[track:dating-start-fm-version]] (thanks, FF!)
+    - added [[track:unreeeal-superhero-3]] to reference list for [[track:keygen]] (thanks, vriska and FF!)
+    - fixed incorrect track art for [[track:fighting-spirit-second-form]] (thanks, Makin!)
+    - fixed incorrect YouTube link for [[track:wind]] (used to be to a <a href="https://www.youtube.com/watch?v=mwFWnxZVIFk">reversed version</a>, which was in the original Bandcamp download before being replaced!)
+    - fixed dead YouTube links for tracks by [[artist:kevin-grant]], whose channel with official uploads went offline
+        - from [[album:coloUrs-and-mayhem-universe-a]]: [[track:purple-tyrant]]
+        - from [[album:lofam2]]: [[track:fighting-spirit]], [[track:fighting-spirit-second-form]], [[track:dark-funk]]
+    - fixed typos in various track names (thanks, Vortexius!)
+        - [[track:synchronise]] and [[track:synchronise-instrumental]] (used to be "[S]ynchronize")
+        - [[track:savoir-allegro]] (used to be "Savoir Allego")
+    - fixed missing line breaks in commentary for [[album:act-8-volume-1]] (thanks, Niklink!)
+    - fixed lyrics in [[track:ultdirk-cant-rap]] (was "Claims burbon claim to win", now "Playing SBURB and playin' to win" - thanks, Red!)
+    - fixed additional file link for Retrobution under [[album:jailbreak-vol-1]]
+        - these additional files and more should be reworked as MIDI/Project Files and organized under particular tracks, but that's for another time soon
+    - fixed Twitter link for [[artist:neon-system-95]]
+    - updated info for [[artist:squid]] (thanks, NEON SYSTEM 95!)
+    - changed directories (URLs) of [[track:savoir-allegro]] and [[track:torrent-early-access]] not to include "-bonus"
+    - removed dead YouTube links from [[album-commentary:hiveswap-act-1-ost]] commentary (thanks, Sgeo!)
+    - linked to wiki pages instead of external sites in commentary for [[track:ballad-of-awakening]] and [[track:we-shall-go-together]]
+
     <h2 id="24-jun-2023"><a href="#24-jun-2023">[[date:24 June 2023]]</a> - doctor commentary AMA</h2>
     <h3>additions</h3>
     - added commentary from r/Homestuck AMA by [[artist:buzinkai]] to [[track:doctor]]
@@ -386,7 +411,7 @@ Content: |-
     <h2 id="10-aug-2021"><a href="#10-aug-2021">[[date:10 August 2021]]</a></h2>
     <h3>data changes</h3>
     - added missing (public!) bonus tracks from [[album:p-s]] (thanks, deesoff!):
-        - [[track:synchronize-instrumental]]
+        - [[track:synchronise-instrumental]]
         - [[track:myststuck-suite-full-version]]
         - [[track:requiem-for-something-really-excellent-demo]]
     - added a bunch more tags from Celeste (thanks again!):
