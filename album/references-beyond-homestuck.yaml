@@ -702,12 +702,26 @@ Duration: '2:51'
 URLs:
 - https://www.youtube.com/watch?v=xTIX7f9wFB8
 ---
-Track: Battle! Wild Pokémon (Pokémon Red & Blue Versions)
+Track: Battle! (Trainer Battle) (Pokémon Red & Blue Versions)
+# JP: 戦い(VSトレーナー)
+# Official release:
+#   ポケモン 赤・緑 スーパーミュージック・コレクション
+# Reference:
+#   https://vgmdb.net/album/141
+Directory: battle-trainer-battle-pokemon-red-and-blue-versions
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '3:17'
+URLs:
+- https://www.youtube.com/watch?v=9qbk_pPCxCc
+---
+Track: Battle! (Wild Pokémon) (Pokémon Red & Blue Versions)
 # JP: 戦い(VS野生ポケモン)
 # Official release:
-#   ゲームボーイ「ポケモン」のサウンドがまるごと入って、遊べるCD
+#   ポケモン 赤・緑 スーパーミュージック・コレクション
 # Reference:
-#   https://bulbapedia.bulbagarden.net/wiki/Game_Boy:_Entire_Pokémon_Sounds_Collection_CD
+#   https://vgmdb.net/album/141
 Directory: battle-wild-pokemon-pokemon-red-and-blue-versions
 Artists:
 - artist:pokemon
@@ -715,6 +729,19 @@ Artists:
 Duration: '1:30'
 URLs:
 - https://www.youtube.com/watch?v=vgBoQUaEKpk
+---
+Track: Battle! (Wild Pokémon—Johto Version) (Pokémon Gold & Silver Versions)
+# Official release:
+#   Pokémon HeartGold & Pokémon SoulSilver: Super Music Collection
+# Reference:
+#   https://vgmdb.net/album/15237
+Directory: battle-wild-pokemon-johto-version-pokemon-gold-and-silver-versions
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '0:55'
+URLs:
+- https://www.youtube.com/watch?v=eQq2v6kBKSM
 ---
 Track: Beginning
 # From Castlevania III: Dracula's Curse
@@ -2305,6 +2332,20 @@ Artists:
 Duration: '1:23'
 URLs:
 - https://youtu.be/krRaLoxdhrE
+---
+Track: Title Screen (Pokémon Red & Blue Versions)
+# JP: 〜オープニング〜 
+# Official release:
+#   ポケモン 赤・緑 スーパーミュージック・コレクション
+# Reference:
+#   https://vgmdb.net/album/141
+Directory: title-screen-pokemon-red-and-blue-versions
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '1:58'
+URLs:
+- https://www.youtube.com/watch?v=qsRdjQWbh8E
 ---
 Track: Title (The Legend of Zelda)
 # (See dungeon-theme-zelda1 for release info)
