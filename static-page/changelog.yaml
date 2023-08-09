@@ -31,11 +31,26 @@ Content: |-
     (news entry: link)
     <h3>site changes</h3>
     - major rework of how each website page's contents are generated, making it way easier to prototype new features or test changes, and allowing for better stability as code internals are expanded or updated
-    - moved "Listen on" links closer to the top, above "extra" links (like "view gallery page"), on album and track pages, and updated the message displayed when there aren't any links for a track
-        - old: "This track has no URLs at which it can be listened."
-        - new: "This wiki doesn't have any listening links for <i>Shave and a Haircut.</i>"
-    - made the names of groups in divided track lists ("tracks that reference" and "tracks that sample") into actual links to those groups
-    - on track pages for albums which are part of more than one group, changed the dividing line between each group from a harsh white to the same dotted color as other borders on the page ([[media:misc/changelog/sidebar-group-divider-old.png|old]], [[media:misc/changelog/sidebar-group-divider-new.png|new]])
+    - <b>album & track pages:</b>
+        - moved "Listen on" links closer to the top, above "extra" links (like "View gallery page" or "View additional files")
+        - adjusted the wording for "extras" links to be more consistent, e.g. "View additional files:" instead of "Additional files:", and combined gallery and commentary links into one line when they're both present
+    - <b>album gallery pages:</b>
+        - added cover artist credits beneath the name of each track, in a slightly dimmer and smaller font
+        - if an album's track artworks are all by the same artist, a message is displayed at the top instead of having "(Illust. Homestuck)" under every track name
+    - <b>track pages:</b>
+        - updated the message displayed when there aren't any links for a track
+            - old: "This track has no URLs at which it can be listened."
+            - new: "This wiki doesn't have any listening links for <i>Shave and a Haircut</i>."
+        - made the names of groups in divided track lists ("Tracks that reference..." and "Tracks that sample...") into actual links to those groups
+        - when a track's album is part of more than one group, changed the dividing line between each group in the sidebar from bold white to the same dotted color as other borders on the page ([[media:misc/changelog/sidebar-group-divider-old.png|old]], [[media:misc/changelog/sidebar-group-divider-new.png|new]])
+    - <b>artist info pages:</b>
+        - replaced the old [[media:misc/changelog/group-contributions-old.png|group contribution info line]] with a cleaner, more detailed view that lets you toggle between [[media:misc/changelog/group-contributions-new-count.png|displaying count]] or [[media:misc/changelog/group-contributions-new-duration.png|duration]]
+        - for artworks, each contribution to an album's "layout" - cover, wallpaper, and banner - is now counted as a unique artwork, instead of combining them into one (this applies for listings as well)
+    - <b>artist gallery pages:</b>
+        - added co-illustrator info when a track or album's artwork has mulitple contributors
+    - <b>listings:</b>
+        - [[listing:artists/by-contribs]] no longer double-counts when a track's artist and contributor lists overlap; displays flash contributions in a third list, instead of counting them together with artworks; and reads out the kind of thing that's contributed inside each list, instead of just "243 contributions" regardless which list
+        - [[listing:tracks/by-duration-in-album]] now excludes tracks with "zero" duration, albums which are wholly comprised of zero-duration tracks, and albums which only have one track
 
     <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]]</a> - moderately belated maintenance</h2>
     <h3>bug fixes</h3>
