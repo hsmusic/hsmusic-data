@@ -51,7 +51,23 @@ Content: |-
     - <b>listings:</b>
         - [[listing:artists/by-contribs]] no longer double-counts when a track's artist and contributor lists overlap; displays flash contributions in a third list, instead of counting them together with artworks; and reads out the kind of thing that's contributed inside each list, instead of just "243 contributions" regardless which list
         - [[listing:tracks/by-duration-in-album]] now excludes tracks with "zero" duration, albums which are wholly comprised of zero-duration tracks, and albums which only have one track
+    <h3>albums</h3>
+    - added three albums from [[group:oceanfalls]]!
+        - added [[album:oceanfables-ray-of-light]] by [[artist:ray-theradguy-mikey]]!
+        - added [[album:oceanfalls-vol-4]]!
+        - added [[album:oceanfalls-vol-five]]!
+    - added [[album:gotta-hatch-em-all]]!
+    - added [[album:cyber-city-sound-pak]] by [[group:cristata]]!
+    <h3>other additions</h3>
+    - added a [[group:stuck-at-home-con]] group page!
+    - added a flash animation of [[track:sburban-rush]] to the [[album:lofam]] additional files
+    <h3>data changes</h3>
+    - changed the site banner for [[album:homestuck-vol-7]] to better display the original artwork
+    - fixed [[artist:keyboard-cait]] having some artist credits under a different name
+    - fixed [[artist:aris-martinian]] having some artist credits under a different name
     <h3>data fixes</h3>
+    - fixed [[track:nuclear-winterfalls]] not referencing [[track:snowfalls]]
+    - fixed [[track:yellow-and-purple]] and [[track:illusions]] having incorrect listening links
     - fixed various errors in otherwise valid "sampled tracks" data which kept them from showing up on the wiki (mostly miscapitalization)
         - [[track:track:three-in-the-morning-4-13-hours-late-remix]]: fixed to include [[track:rollercoaster-tycoon-theme]]
         - [[track:dentist]]: fixed to include [[track:seinfeld-theme]]
@@ -140,7 +156,8 @@ Content: |-
         - miscellaneous tracks in early official albums
     - added original crop of art from [[track:bargaining-with-the-beast]] to track commentary
 
-    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]]</a> - happy birthday nannasprite</h2>
+    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]]</a> - happy birthday nannasprite</h2>    
+    (news entry: [[news-entry:happy-birthday-nannasprite]])
     <h3>albums</h3>
     - added [[album:act-8-volume-1]]!
     - added a couple more [[group:canmt]] albums!
