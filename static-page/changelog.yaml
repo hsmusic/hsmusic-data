@@ -27,6 +27,27 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="25-oct-2413" class="major-release"><a href="#25-oct-2413">[[date:25 October 2413]]</a></h3>
+    (news entry: link)
+    <h3>site changes</h3>
+    <h3>albums</h3>
+    - added three albums from [[group:oceanfalls]]!
+        - added [[album:oceanfables-ray-of-light]] by [[artist:ray-theradguy-mikey]]!
+        - added [[album:oceanfalls-vol-4]]!
+        - added [[album:oceanfalls-vol-five]]!
+    - added [[album:gotta-hatch-em-all]]!
+    - added [[album:cyber-city-sound-pak]] by [[group:cristata]]!
+    <h3>other additions</h3>
+    - added a [[group:stuck-at-home-con]] group page!
+    - added a flash animation of [[track:sburban-rush]] to the [[album:lofam]] additional files
+    <h3>data changes</h3>
+    - changed the site banner for [[album:homestuck-vol-7]] to better display the original artwork
+    - fixed [[artist:keyboard-cait]] having some artist credits under a different name
+    - fixed [[artist:aris-martinian]] having some artist credits under a different name
+    <h3>data fixes</h3>
+    - fixed [[track:nuclear-winterfalls]] not referencing [[track:snowfalls]]
+    - fixed [[track:yellow-and-purple]] and [[track:illusions]] having incorrect listening links
+
     <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]]</a> - moderately belated maintenance</h2>
     <h3>bug fixes</h3>
     - fixed direct links to URLs with spaces in 'em all being 404s, e.g. the listen link for [[track:where-making-this-hapen]], due to misplaced URL encoding
@@ -107,7 +128,8 @@ Content: |-
         - miscellaneous tracks in early official albums
     - added original crop of art from [[track:bargaining-with-the-beast]] to track commentary
 
-    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]]</a> - happy birthday nannasprite</h2>
+    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]]</a> - happy birthday nannasprite</h2>    
+    (news entry: [[news-entry:happy-birthday-nannasprite]])
     <h3>albums</h3>
     - added [[album:act-8-volume-1]]!
     - added a couple more [[group:canmt]] albums!
