@@ -56,19 +56,36 @@ Content: |-
         - added [[album:oceanfables-ray-of-light]] by [[artist:ray-theradguy-mikey]]!
         - added [[album:oceanfalls-vol-4]]!
         - added [[album:oceanfalls-vol-five]]!
+    - added two albums from [[group:canmt]]!
+        - added [[album:call-and-new]]!
+        - added [[album:cool-and-new-volume-sx]]!
     - added [[album:gotta-hatch-em-all]]!
     - added [[album:cyber-city-sound-pak]] by [[group:cristata]]!
+    - added [[album:crossmound-vol-1]]!
+    - added [[album:spelunky-classic]]!
     <h3>other additions</h3>
     - added a [[group:stuck-at-home-con]] group page!
     - added a flash animation of [[track:sburban-rush]] to the [[album:lofam]] additional files
+    - added artist commentary to [[track:108-stars-of-density]]
+    - added track artwork commentary to [[track:anbroids-v2]] (thanks, Kandi!)
     <h3>data changes</h3>
     - changed the site banner for [[album:homestuck-vol-7]] to better display the original artwork
     - fixed [[artist:keyboard-cait]] having some artist credits under a different name
     - fixed [[artist:aris-martinian]] having some artist credits under a different name
+    - removed full album listening link for [[album:alternia]] due to missing bonus tracks
     - replaced "smart" quotation marks and apostraphes (&#147;like these&#148; &#145;and these&#146;) as well as ellipses with portable ASCII characters, mostly throughout commentary
     <h3>data fixes</h3>
+    - fixed [[track:black-rose-green-sun]] not referencing [[track:macabre]] (thanks, Makin!)
+    - fixed [[track:terezi-owns]] not referencing [[track:crystalanthemums]] (thanks, JG!)
     - fixed [[track:nuclear-winterfalls]] not referencing [[track:snowfalls]]
+    - fixed [[track:are-you-lost]] referencing [[track:fallen-down]] instead of [[track:lost-girl]]
     - fixed [[track:yellow-and-purple]] and [[track:illusions]] having incorrect listening links
+    - fixed many missing references for [[album:perfectly-generic-album]] tracks
+        - fixed [[track:new-and-improved]] not referencing [[track:penumbra-phantasm]]
+        - fixed [[track:gasters-theme-pga]] not referencing [[track:megalovania-undertale]]
+        - fixed [[track:another-noir-extended-void-mix]] not referencing [[track:amen-brother]]
+        - fixed [[track:welcome-to-your-new-suburban-reality]] not referencing [[track:sburban-jungle]]
+        - fixed [[track:eternally-you]] not referencing [[track:flare]] (thanks, EzzyCrafts!) or [[track:homestuck-anthem]]
     - fixed various errors in otherwise valid "sampled tracks" data which kept them from showing up on the wiki (mostly miscapitalization)
         - [[track:three-in-the-morning-4-13-hours-late-remix]]: fixed to include [[track:rollercoaster-tycoon-theme]]
         - [[track:dentist]]: fixed to include [[track:seinfeld-theme]]
