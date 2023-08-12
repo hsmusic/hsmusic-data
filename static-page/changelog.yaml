@@ -65,6 +65,7 @@ Content: |-
     - changed the site banner for [[album:homestuck-vol-7]] to better display the original artwork
     - fixed [[artist:keyboard-cait]] having some artist credits under a different name
     - fixed [[artist:aris-martinian]] having some artist credits under a different name
+    - replaced "smart" quotation marks and apostraphes (&#147;like these&#148; &#145;and these&#146;) as well as ellipses with portable ASCII characters, mostly throughout commentary
     <h3>data fixes</h3>
     - fixed [[track:nuclear-winterfalls]] not referencing [[track:snowfalls]]
     - fixed [[track:yellow-and-purple]] and [[track:illusions]] having incorrect listening links
@@ -74,6 +75,7 @@ Content: |-
         - [[track:infinite-zest]]: fixed to include [[track:let-the-squiddles-sleep-end-theme]]
         - [[track:predomination]]: fixed to include [[track:let-the-squiddles-sleep-end-theme]]
         - [[track:are-you-lost-full-album-stream]]: fixed to include [[track:medium-are-you-lost]]
+    - fixed typo in lyrics for [[track:cerulean-skies]] (lower-case I in "But all i found were long-dead-ends")
 
     <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]]</a> - moderately belated maintenance</h2>
     <h3>bug fixes</h3>
