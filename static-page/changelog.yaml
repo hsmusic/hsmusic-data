@@ -68,6 +68,7 @@ Content: |-
     - added a flash animation of [[track:sburban-rush]] to the [[album:lofam]] additional files
     - added artist commentary to [[track:108-stars-of-density]]
     - added track artwork commentary to [[track:anbroids-v2]] (thanks, Kandi!)
+    - added Comic Sans to commentary for [[track:sweet-bro-and-hella-jeff-show]] and [[track:sord]] (thanks, Makin!)
     <h3>data changes</h3>
     - changed the site banner for [[album:homestuck-vol-7]] to better display the original artwork
     - fixed [[artist:keyboard-cait]] having some artist credits under a different name
@@ -77,9 +78,12 @@ Content: |-
     <h3>data fixes</h3>
     - fixed [[track:black-rose-green-sun]] not referencing [[track:macabre]] (thanks, Makin!)
     - fixed [[track:terezi-owns]] not referencing [[track:crystalanthemums]] (thanks, JG!)
+    - fixed [[track:black-holes-dozen]] not referencing [[track:the-thirteenth-troll]] (thanks, Monckat!)
     - fixed [[track:nuclear-winterfalls]] not referencing [[track:snowfalls]]
+    - fixed [[track:fiduspawn-go]] referencing [[track:sunslammer]] instead of [[track:sunsetter]] (thanks, Makin!)
     - fixed [[track:are-you-lost]] referencing [[track:fallen-down]] instead of [[track:lost-girl]]
     - fixed [[track:yellow-and-purple]] and [[track:illusions]] having incorrect listening links
+    - fixed [[track:game-hypothesis]] having an incorrect listening link (thanks, FF!)
     - fixed many missing references for [[album:perfectly-generic-album]] tracks
         - fixed [[track:new-and-improved]] not referencing [[track:penumbra-phantasm]]
         - fixed [[track:gasters-theme-pga]] not referencing [[track:megalovania-undertale]]
