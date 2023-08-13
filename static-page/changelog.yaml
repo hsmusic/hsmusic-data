@@ -79,11 +79,21 @@ Content: |-
     - fixed [[track:black-rose-green-sun]] not referencing [[track:macabre]] (thanks, Makin!)
     - fixed [[track:terezi-owns]] not referencing [[track:crystalanthemums]] (thanks, JG!)
     - fixed [[track:black-holes-dozen]] not referencing [[track:the-thirteenth-troll]] (thanks, Monckat!)
+    - fixed [[track:the-will-to-fight-original-mix]] not referencing [[track:showtime-piano-refrain]]
     - fixed [[track:nuclear-winterfalls]] not referencing [[track:snowfalls]]
     - fixed [[track:fiduspawn-go]] referencing [[track:sunslammer]] instead of [[track:sunsetter]] (thanks, Makin!)
+    - fixed [[track:normal-song-name]] referencing [[track:homestuck]] and [[track:MeGaLovania]] instead of [[track:sburban-jungle]] and [[track:upward-movement-dave-owns]]
     - fixed [[track:are-you-lost]] referencing [[track:fallen-down]] instead of [[track:lost-girl]]
+    - fixed [[track:showtime-remix]] referencing [[track:showtime-piano-refrain]] (still in sampling list)
     - fixed [[track:yellow-and-purple]] and [[track:illusions]] having incorrect listening links
     - fixed [[track:game-hypothesis]] having an incorrect listening link (thanks, FF!)
+    - fixed various errors regarding [[track:homestuck-anthem]] and [[track:homestuck]]
+        - fixed [[track:elevatorstuck]] referencing [[track:homestuck-anthem]] instead of [[track:homestuck]]
+        - fixed [[track:sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me]] referencing [[track:homestuck]] instead of [[track:harlequin]]
+        - fixed [[track:irrelevance-event-horizon]] referencing [[track:homestuck]] instead of [[track:homestuck-anthem]]
+        - fixed [[track:lofistuck]] referencing [[track:homestuck]] instead of [[track:homestuck-anthem]]
+        - fixed [[track:25x-showdown-combo]] referencing [[track:homestuck]] instead of [[track:homestuck-anthem]]
+        - fixed [[track:cool-and-new-web-comic]] referencing [[track:homestuck-anthem]]
     - fixed many missing references for [[album:perfectly-generic-album]] tracks
         - fixed [[track:new-and-improved]] not referencing [[track:penumbra-phantasm]]
         - fixed [[track:gasters-theme-pga]] not referencing [[track:megalovania-undertale]]
