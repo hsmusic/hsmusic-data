@@ -2721,6 +2721,17 @@ Duration: '2:50'
 URLs:
 - https://youtu.be/vJIjtjGUR9Q?t=2447
 ---
+Track: Unfounded Revenge
+# From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+#   http://starmen.net/merchandise/music/m3cd.php
+Artists:
+- Mother
+- Shogo Sakai
+URLs:
+- https://www.youtube.com/watch?v=pwGtXDBEcmM
+---
 Track: Vagrant Counting Song of Retrospection
 # JP: この一撃に桃球レボリューション
 # Official release:
@@ -3336,6 +3347,14 @@ Lyrics: |-
     Drift
     Drift
     Away 
+---
+Track: Duel of the Fates
+Artists:
+- Star Wars
+- John Williams
+Duration: '4:15'
+URLs:
+- https://www.youtube.com/watch?v=hx206p1ap_A
 ---
 Track: Family Guy Main Title
 Artists:
@@ -11428,6 +11447,14 @@ Artists:
 Duration: '3:07'
 URLs:
 - https://www.youtube.com/watch?v=0Z3odpfwCpE
+---
+Track: Happy Happy Christmas
+# Also known as 'it is a mystery'
+Artists:
+- Drax
+Duration: '0:53'
+URLs:
+- https://www.youtube.com/watch?v=UHUZiVXdaUI
 ---
 Track: Heart of the Creator
 Artists:
