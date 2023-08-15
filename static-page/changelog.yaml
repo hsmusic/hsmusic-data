@@ -67,6 +67,7 @@ Content: |-
         - tracks from albums without a date (such as [[album-gallery:unreleased-tracks]]) are sorted at the end of the gallery, instead of always showing at the start before any recently released artworks
     - cleaned up some messy spacing on track and album pages around artist link icons
     - allowed line breaks inside "Contributors:" lists, so extremely wide descriptions (such as [[artist:rah-bop]]'s in [[flash:hiveswap-act1]]) don't break the page layout
+    - added some padding to the sticky heading's title box, so it doesn't [[media:misc/changelog/sticky-heading-cover-contact.png|contact the main cover art]] anymore
     - fixed flashes [[flash:hiveswap-act1]] and [[flash:hiveswap-act2]] showing the whole list of "Side 2" acts from Homestuck proper in the sidebar
     - fixed the "Previous" and "Next" links in flash page's nav bar linking to the chronologically adjacent flashes, instead of following the order in the sidebar
         - these orders sometimes differ, e.g. [[flash:sbahj-movie-1]] is chronologically between [[flash:1801]] and [[flash:1931]], but is listed in the sidebar between [[flash:psych-ch9]] and [[flash:namco-high]]
