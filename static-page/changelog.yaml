@@ -102,6 +102,12 @@ Content: |-
     - fixed [[artist:aris-martinian]] having some artist credits under a different name
     - removed full album listening link for [[album:alternia]] due to missing bonus tracks
     - replaced "smart" quotation marks and apostraphes (&#147;like these&#148; &#145;and these&#146;) as well as ellipses with portable ASCII characters, mostly throughout commentary
+    - changed a few track fields to handle re-releases more consistently
+        - switched the re-release directions of [[track:charuns-cave]] and [[track:studio-space]], and of [[track:beekeeper-who-i-dont-know-her]] and [[track:homestead]]
+        - moved commentary on [[track:beekeeper-who-i-dont-know-her]] over to [[track:homestead]], and annotated where it originates from
+        - added rerelease context in commentary for [[track:charuns-cave]] and [[track:beekeeper-who-i-dont-know-her]]
+        - changed [[lame and old webcomic voluem 10 (MEGA MILX)]] to sample [[track:of-gods-and-witches]] (from [[album:songs-unsung]]) instead of [[track:of-gods-and-witches-vol-10]] (from [[album:homestuck-vol-10]])
+        - changed [[track:ephemeral-muse-final-remix]] to reference [[track:harrigan]] instead of [[track:ephemeral-muse]]
     <h3>data fixes</h3>
     - fixed [[track:black-rose-green-sun]] not referencing [[track:macabre]] (thanks, Makin!)
     - fixed [[track:terezi-owns]] not referencing [[track:crystalanthemums]] (thanks, JG!)
@@ -138,7 +144,7 @@ Content: |-
     - fixed missing cover artist info for a few tracks:
         - fixed [[track:troleplanet]] missing credits for [[artist:bambosh]]
         - fixed [[album:strife]] missing credits for [[artist:homestuck]]
-        - fixed [[album:land-of-hues-and-duels-trollside]] missing credits for [[artist:priestlybeast]]
+        - fixed [[album:land-of-hue-and-duels-trollside]] missing credits for [[artist:priestlybeast]]
 
     <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]]</a> - moderately belated maintenance</h2>
     <h3>bug fixes</h3>
