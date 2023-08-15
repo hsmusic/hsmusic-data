@@ -13,7 +13,7 @@ Art Tags:
 - Sans
 - Shrek
 - John
-Has Track Art: false
+Cover Art File Extension: png
 Color: '#eea383'
 Groups:
 - Cool and New Music Team
@@ -177,9 +177,10 @@ Sampled Tracks:
 Track: L.O.R.E
 Directory: lore
 Artists:
-- Makin 
+- Makin
 Cover Artists:
 - Makin
+Cover Art File Extension: png
 Duration: '01:52'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/l-o-r-e
@@ -1525,10 +1526,10 @@ URLs:
 - https://youtu.be/KQpJhB5y2uQ
 Referenced Tracks:
 - I'd like to see your diploma
-- Focus
+- track:focus
 Sampled Tracks:
 - I'd like to see your diploma
-- Focus
+- track:focus
 ---
 Track: K.K. Doctor
 Artists:

@@ -76,7 +76,6 @@ Duration: 0:32
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/disc-1-2
 - https://youtu.be/vKih1dFsXZU
-Has Cover Art: false
 Referenced Tracks:
 - Homestuck Title Screen
 Commentary: |-
@@ -444,6 +443,8 @@ Commentary: |-
     I've always loved the 'John's retocn adventures' section of Homestuck, and I think it has to do with how it leads both the characterts and myself along a brisk rollercoaster of twists and turns, through unknown paths - this sense of adventure is what I tried to convey in this art.
 ---
 Track: Formation
+Directory: formation-lofam4
+Originally Released As: track:formation
 Artists:
 - Hadron
 Duration: '3:43'
@@ -555,6 +556,8 @@ Commentary: |-
     The futility of a sacrifice, the chaos of a final battle, the wrath of an arbiter, the finding of love after death, the absolute ownage of a sharply written missive. All these and more contributed to making the epic ending of Problem Sleuth what it came to be known as: a confusing clusterfuck of hilarious and completely insane shenanigans.
 ---
 Track: Stubborn Throes
+Directory: stubborn-throes-lofam4
+Originally Released As: track:stubborn-throes
 Artists:
 - SplitSuns
 Duration: '3:08'
@@ -2157,7 +2160,7 @@ Art Tags:
 - Alternate Calliope
 - Green Sun
 Referenced Tracks:
-- Formation
+- track:formation
 - Skaia Voyages
 - Cascade (Beta)
 - track:sburban-jungle
@@ -2249,7 +2252,7 @@ Referenced Tracks:
 - Intro
 - track:of-gods-and-witches
 - Science Blaster
-- Formation
+- track:formation
 - track:sburban-jungle
 Commentary: |-
     <i>Aris Martinian:</i>
@@ -2627,6 +2630,8 @@ Commentary: |-
     The final boss is beaten. The game is won. The lights fade and the world begins to disappear. A gaping maw drags all into it, even the very fabric of reality. In the distance, a door opens.
 ---
 Track: Strife Mayhem
+Originally Released As: track:strife-mayhem
+Directory: strife-mayhem-lofam4
 Artists:
 - Musical Panini
 Duration: '5:39'
@@ -2939,7 +2944,7 @@ Referenced Tracks:
 - Unintentional Touhou
 - CONTACT
 - track:upward-movement-dave-owns
-- Formation
+- track:formation
 - 'Jungle #3'
 - Muse of Nanchos
 - Meet the Flintstones
@@ -2973,7 +2978,7 @@ Commentary: |-
     - [[Unintentional Touhou]] - 3:05-3:20
     - [[CONTACT]] - 3:20-3:50
     - [[track:upward-movement-dave-owns|Upward Movement (Dave Owns)]] - 3:35-3:50
-    - [[Formation]] - 3:50-4:20
+    - [[track:formation]] - 3:50-4:20
     - [[track:jungle-3]] - 4:13-4:20, 4:28-4:35
     - [[Muse of Nanchos]] - 4:20-4:35
     - [[Meet the Flintstones]] - 4:35-4:49
