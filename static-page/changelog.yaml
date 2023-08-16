@@ -33,49 +33,119 @@ Content: |-
     - major rework of how each website page's contents are generated, making it way easier to prototype new features or test changes, and allowing for better stability as code internals are expanded or updated
     - <b>album & track pages:</b>
         - moved "Listen on" links closer to the top, above "extra" links (like "View gallery page" or "View additional files")
+        - in cover art tag lists, for tags which come from a story besides Homestuck (such as [[tag:five-oceanfalls]] or [[tag:kate-desynced]]), hid the part in parentheses (it's still displayed on tag pages)
         - adjusted the wording for "extras" links to be more consistent, e.g. "View additional files:" instead of "Additional files:", and combined gallery and commentary links into one line when they're both present
-    - <b>album gallery pages:</b>
-        - added cover artist credits beneath the name of each track, in a slightly dimmer and smaller font
-        - if an album's track artworks are all by the same artist, a message is displayed at the top instead of having "(Illust. Homestuck)" under every track name
-    - <b>track pages:</b>
+        - tweaked the way quotes contained within commentary look to be more compact and easier to follow
+        - made commentary images load large thumbnails by default (up to 800x800) instead of the source image, which is still available on click
+    - <b>track info pages:</b>
+        - made the names of groups in divided track lists ("Tracks that reference..." and "Tracks that sample...") into actual links to those groups
+        - when a track doesn't have unique artwork and displays its album's cover instead, the album cover's art tags are now linked the same as on the album's own page
+        - when a track's album is part of more than one group, changed the dividing line between each group in the sidebar from bold white to the same dotted color as other borders on the page ([[media:misc/changelog/sidebar-group-divider-old.png|old]], [[media:misc/changelog/sidebar-group-divider-new.png|new]])
         - updated the message displayed when there aren't any links for a track
             - old: "This track has no URLs at which it can be listened."
             - new: "This wiki doesn't have any listening links for <i>Shave and a Haircut</i>."
-        - made the names of groups in divided track lists ("Tracks that reference..." and "Tracks that sample...") into actual links to those groups
-        - when a track's album is part of more than one group, changed the dividing line between each group in the sidebar from bold white to the same dotted color as other borders on the page ([[media:misc/changelog/sidebar-group-divider-old.png|old]], [[media:misc/changelog/sidebar-group-divider-new.png|new]])
+    - <b>album gallery pages:</b>
+        - added cover artist credits beneath the name of each track, in a slightly dimmer and smaller font
+        - if an album's track artworks are all by the same artist, a message is displayed at the top instead of having e.g. "(Illust. Homestuck)" under every track name
     - <b>artist info pages:</b>
         - replaced the old [[media:misc/changelog/group-contributions-old.png|group contribution info line]] with a cleaner, more detailed view that lets you toggle between [[media:misc/changelog/group-contributions-new-count.png|displaying count]] or [[media:misc/changelog/group-contributions-new-duration.png|duration]]
         - for artworks, each contribution to an album's "layout" - cover, wallpaper, and banner - is now counted as a unique artwork, instead of combining them into one (this applies for listings as well)
     - <b>artist gallery pages:</b>
         - added co-illustrator info when a track or album's artwork has mulitple contributors
+    - <b>news entry pages:</b>
+        - removed news entry date from the nav bar
     - <b>listings:</b>
-        - [[listing:artists/by-contribs]] no longer double-counts when a track's artist and contributor lists overlap; displays flash contributions in a third list, instead of counting them together with artworks; and reads out the kind of thing that's contributed inside each list, instead of just "243 contributions" regardless which list
+        - new [[listing:all-additional-files]] listing, corresponding to [[listing:all-sheet-music-files]] and [[listing:all-midi-project-files]]
+        - [[listing:artists/by-contribs]] no longer double-counts when a track's artist and contributor lists overlap; displays flash contributions in a third list, instead of counting them together with artworks; and reads out the kind of thing that's contributed inside each list, instead of just "243 contributions" regardless the list
         - [[listing:tracks/by-duration-in-album]] now excludes tracks with "zero" duration, albums which are wholly comprised of zero-duration tracks, and albums which only have one track
+        - [[listing:tracks/in-flashes/by-album]] and [[listing:tracks/in-flashes/by-flash]] no longer list dates
+        - [[listing:random]] is now translatable, divides albums into the three main groups instead of just "Official" and "Fandom" (which meant "everything that isn't official" - on this page only!), and doesn't directly list albums which only have one track
+    <h3>bug fixes</h3>
+    - once again fixed the way art tag galleries are sorted
+        - tracks in the same album retain their original order, instead of the reverse
+        - album covers show up at the front, before tracks from the same album, instead of after
+        - tracks from albums without a date (such as [[album-gallery:unreleased-tracks]]) are sorted at the end of the gallery, instead of always showing at the start before any recently released artworks
+    - cleaned up some messy spacing on track and album pages around artist link icons
+    - allowed line breaks inside "Contributors:" lists, so extremely wide descriptions (such as [[artist:rah-bop]]'s in [[flash:hiveswap-act1]]) don't break the page layout
+    - added some padding to the sticky heading's title box, so it doesn't [[media:misc/changelog/sticky-heading-cover-contact.png|contact the main cover art]] anymore
+    - fixed flashes [[flash:hiveswap-act1]] and [[flash:hiveswap-act2]] showing the whole list of "Side 2" acts from Homestuck proper in the sidebar
+    - fixed the "Previous" and "Next" links in flash page's nav bar linking to the chronologically adjacent flashes, instead of following the order in the sidebar
+        - these orders sometimes differ, e.g. [[flash:sbahj-movie-1]] is chronologically between [[flash:1801]] and [[flash:1931]], but is listed in the sidebar between [[flash:psych-ch9]] and [[flash:namco-high]]
     <h3>albums</h3>
     - added three albums from [[group:oceanfalls]]!
         - added [[album:oceanfables-ray-of-light]] by [[artist:ray-theradguy-mikey]]!
         - added [[album:oceanfalls-vol-4]]!
         - added [[album:oceanfalls-vol-five]]!
-    - added [[album:gotta-hatch-em-all]]!
+    - added six albums from [[group:canmt]]! (thanks, Makin!)
+        - added [[album:call-and-new]]!
+        - added [[album:cool-and-new-volume-sx]]!
+        - added [[album:canwc-sound-test-1]]!
+        - added [[album:c-a-n-w-a-v-e]]!
+        - added [[album:basement-tale]] by [[artist:cecily-renns]]!
+        - added [[album:cool-and-new-volume-7]]!
+    - added [[album:gotta-hatch-em-all]] from [[group:stuck-at-home-con]]!
+    - added [[album:crossmound-vol-1]]!
     - added [[album:cyber-city-sound-pak]] by [[group:cristata]]!
+    - added [[album:spelunky-classic]] by [[artist:buzinkai]] and [[artist:jon-perry]]!
     <h3>other additions</h3>
     - added a [[group:stuck-at-home-con]] group page!
+    - added site backgrounds to [[album:oceanfalls-vol-2]] and [[album:oceanfalls-vol-3]] (thanks, nights!)
+    - added high res artwork to [[album:oceanfalls-vol-1]], [[album:contritum]], [[album:oceanfalls-vol-2]], and [[album:oceanfalls-vol-3]]
+    - added audio commentary transcription to [[track:ace-of-trump]] and [[track:homefree]]
     - added a flash animation of [[track:sburban-rush]] to the [[album:lofam]] additional files
+    - added artist commentary to [[track:108-stars-of-density]]
+    - added track artwork commentary to [[track:anbroids-v2]] (thanks, Kandi!)
+    - added Comic Sans to commentary for [[track:sweet-bro-and-hella-jeff-show]] and [[track:sord]] (thanks, Makin!)
+    - added lyrics to [[track:nows-your-chance-to-be-a]]
     <h3>data changes</h3>
-    - changed the site banner for [[album:homestuck-vol-7]] to better display the original artwork
+    - changed the site banner for [[album:homestuck-vol-7]] and [[album:oceanfalls-vol-1]] to better display the original artwork
     - fixed [[artist:keyboard-cait]] having some artist credits under a different name
     - fixed [[artist:aris-martinian]] having some artist credits under a different name
+    - removed full album listening link for [[album:alternia]] due to missing bonus tracks
     - replaced "smart" quotation marks and apostraphes (&#147;like these&#148; &#145;and these&#146;) as well as ellipses with portable ASCII characters, mostly throughout commentary
+    - changed a few track fields to handle re-releases more consistently
+        - switched the re-release directions of [[track:charuns-cave]] and [[track:studio-space]], and of [[track:beekeeper-who-i-dont-know-her]] and [[track:homestead]]
+        - moved commentary on [[track:beekeeper-who-i-dont-know-her]] over to [[track:homestead]], and annotated where it originates from
+        - added rerelease context in commentary for [[track:charuns-cave]] and [[track:beekeeper-who-i-dont-know-her]]
+        - changed [[lame and old webcomic voluem 10 (MEGA MILX)]] to sample [[track:of-gods-and-witches]] (from [[album:songs-unsung]]) instead of [[track:of-gods-and-witches-vol-10]] (from [[album:homestuck-vol-10]])
+        - changed [[track:ephemeral-muse-final-remix]] to reference [[track:harrigan]] instead of [[track:ephemeral-muse]]
     <h3>data fixes</h3>
+    - fixed [[track:black-rose-green-sun]] not referencing [[track:macabre]] (thanks, Makin!)
+    - fixed [[track:terezi-owns]] not referencing [[track:crystalanthemums]] (thanks, JG!)
+    - fixed [[track:black-holes-dozen]] not referencing [[track:the-thirteenth-troll]] (thanks, Monckat!)
+    - fixed [[track:the-will-to-fight-original-mix]] not referencing [[track:showtime-piano-refrain]]
     - fixed [[track:nuclear-winterfalls]] not referencing [[track:snowfalls]]
+    - fixed [[track:big-shot]] not referencing [[track:dummy]] (thanks, FF, Sgeo!)
+    - fixed [[track:fiduspawn-go]] referencing [[track:sunslammer]] instead of [[track:sunsetter]] (thanks, Makin!)
+    - fixed [[track:normal-song-name]] referencing [[track:homestuck]] and [[track:MeGaLoVania]] instead of [[track:sburban-jungle]] and [[track:upward-movement-dave-owns]]
+    - fixed [[track:are-you-lost]] referencing [[track:fallen-down]] instead of [[track:lost-girl]]
+    - fixed [[track:showtime-remix]] referencing [[track:showtime-piano-refrain]] (still in sampling list)
     - fixed [[track:yellow-and-purple]] and [[track:illusions]] having incorrect listening links
-    - fixed various errors in otherwise valid "sampled tracks" data which kept them from showing up on the wiki (mostly miscapitalization)
-        - [[track:three-in-the-morning-4-13-hours-late-remix]]: fixed to include [[track:rollercoaster-tycoon-theme]]
-        - [[track:dentist]]: fixed to include [[track:seinfeld-theme]]
-        - [[track:infinite-zest]]: fixed to include [[track:let-the-squiddles-sleep-end-theme]]
-        - [[track:predomination]]: fixed to include [[track:let-the-squiddles-sleep-end-theme]]
-        - [[track:are-you-lost-full-album-stream]]: fixed to include [[track:medium-are-you-lost]]
+    - fixed [[track:game-hypothesis]] having an incorrect listening link (thanks, FF!)
     - fixed typo in lyrics for [[track:cerulean-skies]] (lower-case I in "But all i found were long-dead-ends")
+    - fixed various errors regarding [[track:homestuck-anthem]] and [[track:homestuck]]
+        - fixed [[track:elevatorstuck]] referencing [[track:homestuck-anthem]] instead of [[track:homestuck]]
+        - fixed [[track:sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me]] referencing [[track:homestuck]] instead of [[track:harlequin]]
+        - fixed [[track:irrelevance-event-horizon]] referencing [[track:homestuck]] instead of [[track:homestuck-anthem]]
+        - fixed [[track:lofistuck]] referencing [[track:homestuck]] instead of [[track:homestuck-anthem]]
+        - fixed [[track:25x-showdown-combo]] referencing [[track:homestuck]] instead of [[track:homestuck-anthem]]
+        - fixed [[track:cool-and-new-web-comic]] referencing [[track:homestuck-anthem]]
+    - fixed many missing references for [[album:perfectly-generic-album]] tracks
+        - fixed [[track:new-and-improved]] not referencing [[track:penumbra-phantasm]]
+        - fixed [[track:gasters-theme-pga]] not referencing [[track:megalovania-undertale]]
+        - fixed [[track:another-noir-extended-void-mix]] not referencing [[track:amen-brother]]
+        - fixed [[track:welcome-to-your-new-suburban-reality]] not referencing [[track:sburban-jungle]]
+        - fixed [[track:eternally-you]] not referencing [[track:flare]] (thanks, EzzyCrafts!) or [[track:homestuck-anthem]]
+    - fixed various errors in otherwise valid "sampled tracks" data which kept them from showing up on the wiki (mostly miscapitalization)
+        - fixed [[track:three-in-the-morning-4-13-hours-late-remix]] not sampling [[track:rollercoaster-tycoon-theme]]
+        - fixed [[track:dentist]] not sampling [[track:seinfeld-theme]]
+        - fixed [[track:infinite-zest]] not sampling [[track:let-the-squiddles-sleep-end-theme]]
+        - fixed [[track:predomination]] not sampling [[track:let-the-squiddles-sleep-end-theme]]
+        - fixed [[track:are-you-lost-full-album-stream]] not sampling [[track:medium-are-you-lost]]
+    - fixed missing cover artist info for a few tracks:
+        - fixed [[track:troleplanet]] missing credits for [[artist:bambosh]]
+        - fixed [[album:strife]] missing credits for [[artist:homestuck]]
+        - fixed [[album:land-of-hue-and-duels-trollside]] missing credits for [[artist:priestlybeast]]
 
     <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]]</a> - moderately belated maintenance</h2>
     <h3>bug fixes</h3>

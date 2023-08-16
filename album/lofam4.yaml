@@ -76,7 +76,6 @@ Duration: 0:32
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/disc-1-2
 - https://youtu.be/vKih1dFsXZU
-Has Cover Art: false
 Referenced Tracks:
 - Homestuck Title Screen
 Commentary: |-
@@ -444,8 +443,8 @@ Commentary: |-
     I've always loved the 'John's retocn adventures' section of Homestuck, and I think it has to do with how it leads both the characterts and myself along a brisk rollercoaster of twists and turns, through unknown paths - this sense of adventure is what I tried to convey in this art.
 ---
 Track: Formation
-Artists:
-- Hadron
+Directory: formation-lofam4
+Originally Released As: track:formation
 Duration: '3:43'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/formation
@@ -512,8 +511,6 @@ Commentary: |-
 Track: Limelight
 Directory: limelight-lofam4
 Originally Released As: track:limelight
-Artists:
-- psithurist
 Duration: '3:11'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/limelight
@@ -523,11 +520,6 @@ Cover Artists:
 Art Tags:
 - Alternate Calliope
 - Green Sun
-Referenced Tracks:
-- The Lyrist
-- Flare
-- Even in Death
-- English
 Commentary: |-
     <i>psithurist:</i>
     Limelight was made for the unfinished Act 8 fan continuation of Homestuck, and was used in the flash <a href="https://www.youtube.com/watch?v=qS9p2gD_Ou4">[S] Resolve</a>. It's a theme for alt-Calliope, as she merges her soul with Davepeta's and the other half of Gamzee's, hence the meows and the high-pitched Secret Honks in the middle section. The working title was Miss America, because it's like, the opposite of Lord English? Shoutout to whoever came up with that one on the Act 8 team. This one was suepr fun to make since I got to use a lot of wacky sampling techniques and also I just love Calliope a whole god damn lot okay.
@@ -555,8 +547,8 @@ Commentary: |-
     The futility of a sacrifice, the chaos of a final battle, the wrath of an arbiter, the finding of love after death, the absolute ownage of a sharply written missive. All these and more contributed to making the epic ending of Problem Sleuth what it came to be known as: a confusing clusterfuck of hilarious and completely insane shenanigans.
 ---
 Track: Stubborn Throes
-Artists:
-- SplitSuns
+Directory: stubborn-throes-lofam4
+Originally Released As: track:stubborn-throes
 Duration: '3:08'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/stubborn-throes
@@ -567,12 +559,6 @@ Art Tags:
 - Rose
 - Horrorterrors
 - 'cw: body horror'
-Referenced Tracks:
-- track:chorale-for-jaspers
-- Amen, Brother
-- track:aggrieve
-- Battle Against an Unfathomable Enemy
-- At The Price of Oblivion
 Commentary: |-
     <i>SplitSuns:</i>
     This track was made for the [[group:canmt|Cool and New Music Team']]s Volume 7. It was based on the hypothetical question "What if Rose went grimdark?" which was based off of a series of shitposts on the /r/homestuck subreddit. With this song, I tried to make it mirror the chain of events that occur to Rose before and after she goes grimdark in the comic. It starts off relatively simple, but quickly goes ominous and unsettling as she stares into the cueball in "Seer: Ask." Then suddenly the song explodes into a blistering drum-and-bass track with booming organs to tell you that, in fact, shit just got real. The song was meant to be reminiscent of "Your Best Nightmare" from Undertale, and I hope I was able to pull that effect off. The song concludes in much the same way it began as Rose, in her newly darkened state, flies into space. All things considered, I had a lot of fun making this song.
@@ -1868,8 +1854,6 @@ Commentary: |-
 Track: The Gemoni Mustard Blood
 Directory: the-gemoni-mustard-blood-lofam4
 Originally Released As: track:the-gemoni-mustard-blood
-Artists:
-- cookiefonster
 Duration: '2:04'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/the-gemoni-mustard-blood
@@ -1880,11 +1864,6 @@ Art Tags:
 - Sollux
 - Bees
 - Alternia
-Referenced Tracks:
-- track:the-mituna-method
-- The La2t Frontiier
-- The Blind Prophet
-- Gold Mage
 Commentary: |-
     <i>cookiefonster:</i>
     You know, it's pretty funny that some [[group:canmt|Cool and New Webcomic]] songs (such as this one) are being re-released on this album, but at the same time it's kind of fitting, since after Volume 10 was released, the CaNWC soundtrack helped reignite the notion of Homestuck fan music.
@@ -2157,7 +2136,7 @@ Art Tags:
 - Alternate Calliope
 - Green Sun
 Referenced Tracks:
-- track:formation-canwc-vol-7
+- track:formation
 - Skaia Voyages
 - Cascade (Beta)
 - track:sburban-jungle
@@ -2193,8 +2172,6 @@ Commentary: |-
 Track: Conflict!
 Directory: conflict-lofam4
 Originally Released As: track:conflict
-Artists:
-- Emelia K.
 Duration: '1:07'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/conflict
@@ -2249,7 +2226,7 @@ Referenced Tracks:
 - Intro
 - track:of-gods-and-witches
 - Science Blaster
-- track:formation-canwc-vol-7
+- track:formation
 - track:sburban-jungle
 Commentary: |-
     <i>Aris Martinian:</i>
@@ -2627,8 +2604,8 @@ Commentary: |-
     The final boss is beaten. The game is won. The lights fade and the world begins to disappear. A gaping maw drags all into it, even the very fabric of reality. In the distance, a door opens.
 ---
 Track: Strife Mayhem
-Artists:
-- Musical Panini
+Originally Released As: track:strife-mayhem
+Directory: strife-mayhem-lofam4
 Duration: '5:39'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/strife-mayhem
@@ -2688,15 +2665,6 @@ Art Tags:
 - Skaia
 - Green Sun
 - Dream Bubbles
-Referenced Tracks:
-- Flare
-- Eternity Served Cold
-- track:carne-vale
-- track:showtime-original-mix
-- track:beatdown-strider-style
-- Crystamanthequins
-- track:black
-- track:MeGaLoVania
 Commentary: |-
     <i>Musical Panini:</i>
     This song didn't actually start out as a Homestuck song when I was first making it. It went from tune stuck in my head, then into a random song that I was calling Metallic Mayhem, then into Flare, then into a practice into motifs, then into what is now apparently my most popular by far!
@@ -2939,7 +2907,7 @@ Referenced Tracks:
 - Unintentional Touhou
 - CONTACT
 - track:upward-movement-dave-owns
-- track:formation-canwc-vol-7
+- track:formation
 - 'Jungle #3'
 - Muse of Nanchos
 - Meet the Flintstones
@@ -2973,7 +2941,7 @@ Commentary: |-
     - [[Unintentional Touhou]] - 3:05-3:20
     - [[CONTACT]] - 3:20-3:50
     - [[track:upward-movement-dave-owns|Upward Movement (Dave Owns)]] - 3:35-3:50
-    - [[Formation]] - 3:50-4:20
+    - [[track:formation]] - 3:50-4:20
     - [[track:jungle-3]] - 4:13-4:20, 4:28-4:35
     - [[Muse of Nanchos]] - 4:20-4:35
     - [[Meet the Flintstones]] - 4:35-4:49
