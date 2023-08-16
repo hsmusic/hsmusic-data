@@ -18,6 +18,7 @@ Style: |-
     }
 
     h3 {
+        margin-top: 1em;
         margin: 0;
         font-size: 1em;
     }
@@ -806,7 +807,7 @@ Content: |-
     - removed "Featured in" links, since these were taking up a lot of visual space
         - this has been added to [[listing:tracks/in-flashes/by-album|Tracks - in Flashes &amp; Games (by Album)]] instead
     <h3>commentary pages</h3>
-    - cleaned [[commentary-index:_|commentary index]] layout and strings (e.g. before: "19/20 entries; 8.4k words", after: "8.4k words across 19 entries")
+    - cleaned [[commentary-index:-|commentary index]] layout and strings (e.g. before: "19/20 entries; 8.4k words", after: "8.4k words across 19 entries")
     <h3>track pages</h3>
     - reference list is only divided into "fandom" and "official" if a group with directory "official" is present in the first place
         - this is essentially hard-coded, but is a quick and simple fix for all references on wikis without the concept displaying as "fandom" references
@@ -880,7 +881,7 @@ Content: |-
         - almost all content across the wiki is now totally dynamic; e.g, wiki name and color scheme are stored in a data file
         - static pages like Changelog and Donate are no longer hard-coded and can be added or removed without editing the wiki code
         - homepage rows can also be customized; while there's only one type of row available currently (albums from list or group and optionally action links), the foundations are there to add more in the future
-        - most site features, e.g. [[site:flash/|Flashes &amp; Games]], [[listing-index:_|Listings]], and [[news-index:_|News]], can now be selectively enabled and disabled
+        - most site features, e.g. [[site:flash/|Flashes &amp; Games]], [[listing-index:-|Listings]], and [[news-index:-|News]], can now be selectively enabled and disabled
         - a variety of changes to the internal text transformer, making longform text in data files (e.g. commentary, lyrics, static pages) much easier to read and write
         - <a href="https://git.ed1.club/nebula/hsmusic-wiki/">code</a> and <a href="https://git.ed1.club/nebula/hsmusic-data/">data</a> repositories have been separated (media as well, but it's not pushed online anywhere yet); CLI tool for actually building the site has been updated accordingly
         - all these changes are in service of making running your own wiki off the same codebase accessible and powerful; there's still much to be done before it's totally ready, though
