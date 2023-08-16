@@ -28,8 +28,8 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="25-oct-2413" class="major-release"><a href="#25-oct-2413">[[date:25 October 2413]]</a></h3>
-    (news entry: link)
+    <h2 id="18-aug-2023" class="major-release"><a href="#18-aug-2023">[[date:18 August 2023]] - Iridescent Noon</a></h3>
+    (news entry: [[news-entry:iridescent-noon]])
     <h3>site changes</h3>
     - major rework of how each website page's contents are generated, making it way easier to prototype new features or test changes, and allowing for better stability as code internals are expanded or updated
     - <b>album & track pages:</b>
