@@ -1,5 +1,5 @@
-Color: '#0088ff'
 Category: HSMusic
+Color: '#0088ff'
 ---
 Group: Official Discography
 Directory: official
@@ -74,23 +74,24 @@ Group: Additional Tracks
 Description: |-
     Organizational "albums" for grouping tracks that have been referenced by other tracks or featured in flashes and games. Though these aren't real album releases, they contain lots of interesting music and media that have become part of Homestuck's musical landscape!
 ---
-Color: '#ffec14'
 Category: Fan-musician groups
+Color: '#ffec14'
 ---
+Group: Homestuck Gaiden
 URLs:
 - https://homestuckgaiden.bandcamp.com/
 Description: >-
     Sharing some of the first unofficial albums, the Homestuck Gaiden was a home for
     albums not accepted or marked for [[group:official]] release.
-Group: Homestuck Gaiden
 ---
+Group: Unofficial MSPA Fans
+Directory: canmt
 URLs:
 - https://unofficialmspafans.bandcamp.com/
 Description: |-
     The eventual merger of a variety of earlier groups, the Unofficial MSPA Fans (UMSPAF) are the musicians behind a diverse selection of Homestuck fan albums.
-Group: Unofficial MSPA Fans
 ---
-Directory: canmt
+Group: Cool and New Music Team
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/
 - https://canwc.mspfa.com/
@@ -98,19 +99,19 @@ Description: |-
     muisc for cool and new web comic, a story based on homestuck but better
     <hr class="split">
     Ostensibly a music-making collective for Cool and New Web Comic, a torrential content output led to dozens of albums with varying degrees of relevancy to the fanventure. Currently inactive.
-Group: Cool and New Music Team
 ---
+Group: Casual Sunday
 URLs:
 - https://casualsunday.bandcamp.com/
 Description: |-
     <i>"people who have made music by themselves and who are just now figuring out how to do it with other people.<br>we're still learning"</i>
     <hr class="split">
     Artists primarily from the Homestuck Music Team, now doing their own thing as a collaborative group.
-Group: Casual Sunday
 ---
-Color: '#fc9003'
 Category: Solo musicians
+Color: '#fc9003'
 ---
+Group: Clark Powell
 URLs:
 - https://clarkpowell.bandcamp.com/
 - https://soundcloud.com/plazmataz
@@ -119,52 +120,52 @@ Description: >-
     as dozens of tracks across the Homestuck discography, and artist behind several
     independent albums whose tracks were recompiled and featured as the soundtrack
     for [[group:psycholonials]].
-Group: Clark Powell
 ---
+Group: Cristata
 URLs:
 - https://smoothiefruitee.bandcamp.com/
 Description: >-
     Artist behind [[album:perfectly-generic-album]] and more, and creator of crossover
     fanventure <a href="https://mspfa.com/?s=33534&p=1">Deltastuck</a>. Releases under
     a number of aliases.
-Group: Cristata
 ---
+Group: Funk McLovin
 URLs:
 - https://funkmclovin.bandcamp.com/
 - https://www.youtube.com/channel/UCIyu12_DBaAkDfFq-UQuHNw
 Description: <i>"Funk McLovin, AKA Jojo Raber, is some kind of entity. We don't know
     more than this."</i>
-Group: Funk McLovin
 ---
+Group: Michael Guy Bowman
 URLs:
 - https://bowman.bandcamp.com/
 Description: >-
     Renowned for [[track:sburban-jungle]], his official solo album [[album:mobius-trip-and-hadron-kaleido]]
     and many other hit Homestuck releases, Bowman has gone on to create his own expansive
     personal discography since.
-Group: Michael Guy Bowman
 ---
+Group: Nasqueron
 URLs:
 - https://nasqueron.bandcamp.com/
 Description: >-
     Artist behind tracks across a wide variety of fan albums (where she's credited
     as [[artist:kal-la-kal-la]]), with two experimental noise-poetry albums by her
     own solo release.
-Group: Nasqueron
 ---
+Group: Parsec Productions
 URLs:
 - https://parsecproductions.bandcamp.com/
 Description: >-
     Best known to Homestuck fans for creating some of its [[track:skies-of-skaia|foundational]] [[track:aggrieve|themes]], and to the internet at large for Slender: The Eight Pages and [[album:slender-the-arrival-soundtrack|its sequel]], Mark J. Hadley is a multitalented composer and independent developer.
-Group: Parsec Productions
 ---
+Group: Secily Iopara
 URLs:
 - https://nuclear333.bandcamp.com/
 Description: >-
     Co-creator of the webcomic <a href="https://inhospitable.net/">INHOSPITABLE</a>,
     and musician with a history spanning half a decade. Plural internet artist.
-Group: Secily Iopara
 ---
+Group: Tensei
 URLs:
 - https://tenseimusic.bandcamp.com/
 Description: >-
@@ -172,8 +173,8 @@ Description: >-
     musician behind a whole host of memorable tracks. He's gone on to release the
     2017 sequel [[album:strife-2]] and a variety of other collaborative tracks since
     Homestuck!
-Group: Tensei
 ---
+Group: Toby Fox
 URLs:
 - https://tobyfox.bandcamp.com/
 Description: >-
@@ -181,55 +182,16 @@ Description: >-
     [[track:penumbra-phantasm]]), Toby Fox went on to compose the much-renowned soundtracks
     to his games [[group:undertale-and-deltarune]], firmly planting his place in modern
     game and internet history.
-Group: Toby Fox
 ---
+Group: what is lost in the mines?
 URLs:
 - https://what.bandcamp.com/
 Description: <i>"we're all simply fluttering away"</i>
-Group: what is lost in the mines?
 ---
-Color: '#c466ff'
 Category: Fandom projects
+Color: '#c466ff'
 ---
-URLs:
-- https://desynced.bandcamp.com/
-- https://twitter.com/DesyncedTeam
-- https://desynced.xyz/
-Description: >-
-    A fanventure by a talented team of authors, artists and musicians, in the works
-    since 2017 and updating since early 2020!
-Group: Desynced
----
-URLs:
-- https://sahcon.bandcamp.com/
-- https://sahcon.com/
-Description: >-
-    Affectionately abbreviated to SAHCon, this yearly online fan convention started its run in 2019.
-    <hr class="split">
-    Since 2021, every edition of SAHCon has featured the premiere of a new fan album created for the event, featuring a variety of musicians.
-Group: Stuck at Home Con
----
-URLs:
-- https://genesis-project.bandcamp.com/
-- https://genesis-project-news.tumblr.com/
-- https://www.sburb.me/
-Description: |-
-    A Unity-based game project made by a team of Homestuck fans to replicate Sburb.
-    <hr class="split">
-    Quoting its official site, The Genesis Project is...
-    <blockquote>...from a 2.5d perspective, with RPG mechanics. There's a big focus on character customization, short play sessions that allow you to explore all options in game, and playing with others through a multiplayer system.</blockquote>
-    While still in development, it's completely free to <a href="https://www.sburb.me/download/">download</a> and play on any common OS!
-Group: The Genesis Project
----
-Directory: tumblrstuck-bent
-URLs:
-- https://sammneiland.bandcamp.com/
-Description: |-
-    Music by [[artist:samm-neiland]] from MSPA-themed fanventures based around the "Tumblrstuck" meme/fad.
-    <hr class="split">
-    Mainly based on the MSPA conjunction tumblr based fan-adventures "Malbent" and "Glitchedstuck".
-Group: Tumblrstuck/bent
----
+Group: Deconreconstruction
 Directory: deconrecon
 URLs:
 - https://vasterror.bandcamp.com/
@@ -240,11 +202,50 @@ Description: |-
     Studio consisting of many creators from the Homestuck fan community and beyond, responsible for <a href="https://www.deconreconstruction.com/vasterror/1">Vast Error</a>, <a href="https://deconreconstruction.itch.io/snowbound-blood">its spinoffs</a>, and other projects.
     <hr class="split">
     Vast Error is a fanventure from early 2013 that takes the Homestuck setting and inspiration from traditional fan-adventures to create its own storyline with original mechanics. Musicians and artists from past Homestuck fan albums and beyond have created many albums and works for it and its playable spinoff, Snowbound Blood.
-Group: Deconreconstruction
 ---
-Color: '#32c7fe'
+Group: Desynced
+URLs:
+- https://desynced.bandcamp.com/
+- https://twitter.com/DesyncedTeam
+- https://desynced.xyz/
+Description: >-
+    A fanventure by a talented team of authors, artists and musicians, in the works
+    since 2017 and updating since early 2020!
+---
+Group: Stuck at Home Con
+URLs:
+- https://sahcon.bandcamp.com/
+- https://sahcon.com/
+Description: >-
+    Affectionately abbreviated to SAHCon, this yearly online fan convention started its run in 2019.
+    <hr class="split">
+    Since 2021, every edition of SAHCon has featured the premiere of a new fan album created for the event, featuring a variety of musicians.
+---
+Group: The Genesis Project
+URLs:
+- https://genesis-project.bandcamp.com/
+- https://genesis-project-news.tumblr.com/
+- https://www.sburb.me/
+Description: |-
+    A Unity-based game project made by a team of Homestuck fans to replicate Sburb.
+    <hr class="split">
+    Quoting its official site, The Genesis Project is...
+    <blockquote>...from a 2.5d perspective, with RPG mechanics. There's a big focus on character customization, short play sessions that allow you to explore all options in game, and playing with others through a multiplayer system.</blockquote>
+    While still in development, it's completely free to <a href="https://www.sburb.me/download/">download</a> and play on any common OS!
+---
+Group: Tumblrstuck/bent
+Directory: tumblrstuck-bent
+URLs:
+- https://sammneiland.bandcamp.com/
+Description: |-
+    Music by [[artist:samm-neiland]] from MSPA-themed fanventures based around the "Tumblrstuck" meme/fad.
+    <hr class="split">
+    Mainly based on the MSPA conjunction tumblr based fan-adventures "Malbent" and "Glitchedstuck".
+---
 Category: Projects beyond Homestuck
+Color: '#32c7fe'
 ---
+Group: Oceanfalls
 URLs:
 - https://nightslights.bandcamp.com/
 - https://www.patreon.com/oceanfalls
@@ -253,8 +254,8 @@ Description: |-
     A scrapped game project turned into a webcomic, created by [[artist:nights]].
     <hr class="split">
     One of many webcomics drawing early inspiration from Homestuck and the MSPA format, Oceanfalls stands out for being a totally distinct story from the world of Homestuck and SBURB, and it has its own community of fan musicians and artists contributing to its album-spanning soundtrack!
-Group: Oceanfalls
 ---
+Group: Psycholonials
 URLs:
 - https://psycholonials.bandcamp.com/
 - https://www.psycholonials.com/
@@ -262,8 +263,8 @@ Description: |-
     <i>Psycholonials.</i>
     <hr class="split">
     "All chapters of Psycholonials will be released along with an EP album. If a song from the current chapter doesn't appear in the latest EP, it will appear in a future EP."
-Group: Psycholonials
 ---
+Group: UNDERTALE & DELTARUNE
 URLs:
 - https://tobyfox.bandcamp.com/
 - https://undertale.com/
@@ -274,4 +275,3 @@ Description: |-
     Besides being an acclaimed game with its own much-deserved passionate fanbase, the soundtrack of UNDERTALE - single-handedly composed by [[artist:toby-fox]], who also developed the game largely on his own - is well recognized for its extensive use of leitmotifs. Musical themes are reused all throughout the soundtrack; several have even made their way beyond their original context and been referenced by fan musicians in their own Homestuck tracks!
     DELTARUNE is Toby Fox's current project, a continuation of sorts set in an alternate reality; the first chapter has been released for free, and the remaining chapters (and their soundtrack) will be released as a set when the game is complete.
     Much as Homestuck's discography helped foster a community of creation and collaboration, the music and reach of UNDERTALE and DELTARUNE have inspired countless up-and-coming musicians to create remixes and delve into music creation with their own talents and ideas.
-Group: UNDERTALE & DELTARUNE
