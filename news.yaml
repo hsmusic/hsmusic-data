@@ -1,3 +1,80 @@
+Name: Iridescent Noon
+Directory: iridescent-noon
+Date: August 18, 2023
+Content: |-
+    Hello, again! Nineteen new albums from the present and the past accompany a massive overhaul to the wiki codebase, amongst data fixes, bug shooing, site polish and more. Check past the split for all the details!
+
+    <hr class="split">
+
+    Many albums make their way to the wiki today! In an exciting turn, many of these were some of the first album additions of folk outside the established data wranglers. In summary:
+
+    - All the recent releases from [[group-gallery:oceanfalls]], with thanks to Niklink! Check out [[album:oceanfalls-vol-4]], anniversary album [[album:oceanfalls-vol-five]], and solo set [[album:oceanfables-ray-of-light]]!
+
+    - A full <em>eleven</em> albums from [[group-gallery:canmt]], courtesy of Makin! These include team albums [[album:cool-and-new-volume-7]], [[album:call-and-new]]; solos and collabs like [[album:basement-tale]] and [[album:carne-vale-fusion-collab]]; and more!
+
+    - The first Vast Error albums, finally, on the wiki! [[album:vast-error-vol-1-3]] was contributed by koba, and more from [[group:deconrecon]] is certainly on the way.
+
+    - The latest extravaganze from [[group-gallery:stuck-at-home-con]], [[album:gotta-hatch-em-all]]!! Friendly faces and familiar motifs abound in this annual release!
+
+    - Soundtrack to the ongoing fanventure <a href="https://mspfa.com/?s=45123">Crossmound</a>, [[album:crossmound-vol-1]]! Thanks to Guffy, from their music team, for helping out with this one.
+
+    - From [[group-gallery:cristata|Cristata and hywell]] of [[album:are-you-lost]] renown and more, [[album:cyber-city-sound-pak]], a new DELTARUNE techno-breakcore remix album!
+
+    - And some very early indie-retro music from [[artist:buzinkai]] and co, 2008 soundtrack to [[album:spelunky-classic]].
+
+    Thanks a bunch to everyone who contributed new albums, as well as to all who sent in data fixes! Between last major update and this one, there were actually several smaller releases featuring loads of fixes and smaller adjustments - full details, as ever, are in [[static:changelog#18-aug-2023|the changelog]]!
+
+    <hr>
+
+    Although most of the code work for this update was purely internal, almost all the pages on the site have been touched up just a little! A few highlights:
+
+    * Album gallery pages (for example, [[album-gallery:homestuck-vol-8]]) now show each track's cover artists beneath the track's name. (They're [[album-gallery:mobius-trip-and-hadron-kaleido|combined into one message]] if all tracks have the same illustrator.)
+    * Artist info pages (for example, [[artist:toby-fox]]) get a neat new expanded group-contributions list! By default, it's sorted by count (number of tracks or artworks), but you can click to sort it by duration if you like.
+    * A bunch of little polishing changes to album and track info pages! Stuff like clearer wording, moving "listen" links higher up, and fixing up some spacing issues should make the pages at the very heart of the wiki a good bit nicer to explore.
+    * A whole slew of bug fixes which made [[listing-index:-|listings]] not <em>quite</em> as consistent as you'd expect, other pages being broken in corner cases, and certain content pretty much just breaking the page layout got fixed! Nothing too thrilling, but lots to help the whole site feel more consistent and bug-free.
+
+    Of course, the rest of the changes are right there in [[static:changelog|the changelog]], and we're looking to put similar attention to detail to everything on the site going forward. (Your feedback and suggestions would be [[static:feedback|most welcome]]!)
+
+    <hr>
+
+    <i>Technical jargon ahead! Skip this section... if you must... and you dare!</i>
+
+    This update marks the completion of a major code rework that involved essentially rewriting the "frontend" code from scratch. (That's the code that creates all the HTML and web content you interact with. Data processing went largely untouched, having been [[news-entry:ball-drop-23|structurally redesigned]] over [[news-entry:a-preview-draws-near|the course of 2022]], though it also had a few improvements here and there.)
+
+    This big code rework doesn't do much to the website itself - the goal was actually to "port" the old website with no substantial changes, so you wouldn't even notice the transition! - but it does make it dramatically easier to develop new site features and improve existing ones. All the changes listed above (plus the rest [[static:changelog#18-aug-2023|in the changelog]]) were much easier to implement and get working quite right thanks to that rework.
+
+    That's for a couple reasons: you get instant feedback any time you make a code change (instead of having to reboot the whole HSMusic process), and site components are all structured in a consistent, clear manner, making it easier to spot edge cases and fix bugs. And both of those advantages go triply so for designing completely new components - and entire pages and wiki-spanning features that were previously far too daunting!
+
+    Back when we were first setting out with the rework, one of the goals (maybe the biggest one) was to make the website automatically and instantaneously react to changes in data files. This was with the goal of helping people who write data files see their changes immediately - as for code updates, it would have cut rebooting HSMusic out of the data-writing equation. This didn't end up coming to pass. It would have necessitated certain foundational changes to the data engine, and certain even deeper changes to how site components are written - neither of which I was confident are really the right direction to go. I felt if I was going to attempt them at all, I had to be sure I was doing it right, and I felt way out of my waters at that level!
+
+    Instead, I took a slightly more conservative approach to the code rework, which puts one thing first and absolutely foremost: writing clear, malleable code. I basically broke up everything you see on the website into clear, self-contained components, each of which goes through a few clearly-defined steps. They process input data (from another component or the wiki's global "all the data" object), pull out just the parts they need, define relationships to shared or sub-components, and finally put everything together into real HTML that goes on the website.
+
+    Each of those steps only does what it needs to, and the kind of work it does is separate from the rest. The part that generates HTML doesn't process live data objects. The part that queries input data doesn't tell the website engine what other components are going to be included in this component. The part that extracts "raw" data (like artist names or track durations) for direct display does so separately from the rest of the component.
+
+    All this makes it far easier to trace exactly where values are coming from, why information is organized the way it is, and gives a coherent structure for new components to follow. It helps keep arbitrary infrastructure from leaking into logic, pretty much boiling site components down into the essence of exactly what work they're intended to do. It's honestly all to a point where [[listing:all-sheet-music-files|multiple-layered components]] more or less <a href="https://github.com/hsmusic/hsmusic-wiki/blob/2badc89d1fd8f04c0f63d4a81a1386dfcbe6617b/src/content/dependencies/listAllAdditionalFilesTemplate.js">write</a> <a href="https://github.com/hsmusic/hsmusic-wiki/blob/2badc89d1fd8f04c0f63d4a81a1386dfcbe6617b/src/content/dependencies/generateListAllAdditionalFilesChunk.js">themselves</a>. Elements which were <a href="https://github.com/hsmusic/hsmusic-wiki/commit/4a1997b0edd7de4b124c17e3cdeb1a47ecea1095">previously</a> <a href="https://github.com/hsmusic/hsmusic-wiki/blob/64990187b7a35b3c1db8e169f83591b557bb9121/src/util/link.js">hard-coded</a> are <a href="https://github.com/hsmusic/hsmusic-wiki/blob/preview/src/content/dependencies/generateContentHeading.js">components</a> <a href="https://github.com/hsmusic/hsmusic-wiki/blob/preview/src/content/dependencies/linkThing.js">now</a>. Complex feature additions focus on <a href="https://github.com/hsmusic/hsmusic-wiki/commit/5625d4eed0e86fa0ac4a8bbc28cdac447d87c3d3">just the behavior</a>, and far less time goes to <a href="https://github.com/hsmusic/hsmusic-wiki/commit/e674b186ff755eaa8fb26f5885ac997e0ff0330e">adapting content to infrastructure</a> - instead of <a href="https://github.com/hsmusic/hsmusic-wiki/commit/1fe5de18a35a51b251c08995e619a5a526425236">the other way</a> <a href="https://github.com/hsmusic/hsmusic-wiki/commit/05df0a1199dca320e0c8b92d210e6ab6e9676dfb?diff=split">around</a>!
+
+    All that is a bunch of technical gobbledygook to say that the wiki's code is better, and it's a whole lot easier to add new features and make existing ones better. Making this happen has been pretty much our entire programming world for the last four months, and we're both relieved and so proud it's complete!
+
+    (Oh, and a little illustrious bird or two informed me that build times to get the server up and running were reduced about 20 seconds... and various automated data checks help keep everything even more stable than before... so it ended up making data work swifter and smoother anyway! Now that's good news to me.)
+
+    <hr>
+
+    So, what's next?
+
+    Well, you can expect parts of the site that have gone untouched for ages to get a whole lot of critical attention, until they're the best we can figure out how to make 'em be. You can expect us to focus a lot more on designing cool new features, and a lot less on worrying how to make the code part happen. I might sound like a broken record, but ideas that have been gestating only in the back of people's minds for a year or longer are suddenly, truly attainable!
+
+    On the data end, there are more faces than ever before interested in bringing new albums to the wiki. ([[static:discord|You could become one of them!]]) Everyone's made a fantastic and stunning push for bringing their own additions over just the last few weeks, and that kind of energy and enthusiasm is seriously treasured - and exciting!
+
+    Personally, I'm feeling about done with sweeping infrastructural code changes for a good while, so I'm freed up - after a break! - to really get into data-related projects I've been wanting to experiment with for a long while. (Music videos, "singleton" tracks, reference data timestamps... all sorts! No promises, but we'll see!)
+
+    Thanks so much to everyone who contributed to this update, whether you were one of those adding albums, or you reported data errors, suggested feature ideas, or just sent us kind words! We owe you all deep gratitude.
+
+    Did you know you can check out [[static:changelog#18-aug-2023|all the latest changes]]... [[static:changelog#18-aug-2023|in the changelog]]!? It's true! Not only that, but [[static:changelog#14-jul-2023|a whole bunch]] of [[static:changelog#27-apr-2023|previous fixes]] and [[static:changelog#22-apr-2023|other assorted improvements]] since last major release, too! And <em>just about everyone</em> is credited there?? Wow! Now that's sure what <em>I'd</em> love to be reading right about now!
+
+    ✨
+
+    <i>~ Quasar Nebula</i>
+---
 Name: happy birthday nannasprite
 Directory: happy-birthday-nannasprite
 Date: April 13, 2023

@@ -1,6 +1,6 @@
 Album: Median
 Date: November 12, 2016
-Date Added: August 16, 2023
+Date Added: August 18, 2023
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/album/median
 - https://www.youtube.com/playlist?list=PLMXVVm-BDvr-dJnICrVXKSkgrXcFj6gII
@@ -10,7 +10,15 @@ Cover Artists:
 - NyashAlex
 Cover Art File Extension: png
 Track Art File Extension: png
-Color: '#ffffff'
+Wallpaper File Extension: png
+Wallpaper Artists:
+- NyashAlex
+- Niklink (edits for wiki)
+Wallpaper Style: |-
+    opacity: 0.8;
+    background-repeat: repeat;
+    background-size: auto;
+Color: '#cccccc'
 Groups:
 - Cool and New Music Team
 - Fandom
