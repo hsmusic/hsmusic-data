@@ -28,6 +28,17 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="16-sep-2099"><a href="#16-sep-2099">[[date:16 September 2099]]</a> - Allan please add details</h2>
+    <h3>albums</h3>
+    - added [[album:skaian-synthesis]] by [[group:funk-mclovin]]!
+    - added [[album:candles-potency]] by [[artist:solatrus]]!
+    - added [[album:reprise]] by [[artist:luminantaegis]]!
+    - added [[album:another-noir]] by [[group:cristata]]!
+    - added [[album:guidestuck-volume-one]]!
+    - added [[album:solar-sessions]]!
+    <h3>data fixes</h3>
+    - fixed [[track:another-noir-extended-void-mix]] referencing other tracks directly instead of [[track:another-noir]]
+
     <h2 id="18-aug-2023" class="major-release"><a href="#18-aug-2023">[[date:18 August 2023]] - Iridescent Noon</a></h3>
     (news entry: [[news-entry:iridescent-noon]])
     <h3>site changes</h3>
