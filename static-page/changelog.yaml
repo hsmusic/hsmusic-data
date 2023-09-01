@@ -32,6 +32,10 @@ Content: |-
     <h3>data changes</h3>
     - fixed [[artist:kara-roas]] having some artist credits under a different name
     <h3>data fixes</h3>
+    - fixed [[track:dk-rap]] missing contributor info
+    - fixed [[album:cool-and-new-volume-2]]/[[album:cool-and-new-volume-ii]] & [[album:basement-tale]]/[[album:cool-and-new-volume-7]] being ordered incorrectly in gallery view
+    - fixed incorrect art tag in [[track:chronology]] (thanks Celeste, Makin!)
+    - fixed [[track:requiem-for-a-homestuck]] having art tags despite not having unique sartwork
     - fixed many missing references across [[group:oceanfalls]] albums (thanks, Witch's Cadence!)
         - fixed [[track:illusions]], [[track:iceshards]], [[track:fiery-depths]], [[track:performance]], [[track:brought-this-upon-yourself]], [[track:firefly-oceanfalls]], [[track:up-from-the-depths]], and [[track:right-hand-confrontation]] not referencing [[track:yellow-and-purple]]
         - fixed [[track:arias-house]] and [[track:the-sunderers-reprisal]] not referencing [[track:illusions]]
