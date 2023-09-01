@@ -28,6 +28,21 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="14-jul-2099"><a href="#14-jul-2099">[[date:14 July 2099]]</a> - moderately belated maintenance</h2>
+    <h3>data fixes</h3>
+    - fixed many missing references across [[group:oceanfalls]] albums (thanks, Witch's Cadence!)
+        - fixed [[track:illusions]], [[track:iceshards]], [[track:fiery-depths]], [[track:performance]], [[track:brought-this-upon-yourself]], [[track:firefly-oceanfalls]], [[track:up-from-the-depths]], and [[track:right-hand-confrontation]] not referencing [[track:yellow-and-purple]]
+        - fixed [[track:arias-house]] and [[track:the-sunderers-reprisal]] not referencing [[track:illusions]]
+        - fixed [[track:incompetent-trio]] not referencing [[track:route-228-day]]
+        - fixed [[track:inept-quartet]] not referencing [[track:incompetent-trio]]
+        - fixed [[track:reed-chill]] not referencing [[track:reed]]
+        - fixed [[track:the-sunderers-reprisal]] not referencing [[track:brought-this-upon-yourself]]
+        - fixed [[track:right-hand-confrontation]] not referencing [[track:emotional-moment]]
+        - fixed [[track:up-from-the-depths]], [[track:right-hand-confrontation]], and [[track:to-ashes-it-returns]] not referencing [[track:fiery-depths]]
+        - fixed [[track:memories-of-home]] not referencing [[track:rosen-wings]] or [[track:restful-wings]]
+        - fixed [[track:living-will]] not referencing [[track:the-fifth-flower]]
+        - fixed [[track:purge-destiny]] not referencing [[track:corona]]
+
     <h2 id="18-aug-2023" class="major-release"><a href="#18-aug-2023">[[date:18 August 2023]] - Iridescent Noon</a></h3>
     (news entry: [[news-entry:iridescent-noon]])
     <h3>site changes</h3>
