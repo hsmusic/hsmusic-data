@@ -31,6 +31,8 @@ Content: |-
     <h2 id="14-jul-2099"><a href="#14-jul-2099">[[date:14 July 2099]]</a> - moderately belated maintenance</h2>
     <h3>data changes</h3>
     - fixed [[artist:kara-roas]] having some artist credits under a different name
+    - adjusted sizes of image embeds in artist commentaries
+      - images in commentaries of [[track:i-love-this-doctor]], [[track:do-you-remember-the-doctor]], [[track:three-in-the-morning-4-13-hours-late-remix-canon-edit]], and [[track:i-started-a-joke]] now embeds instead of URLs
     <h3>data fixes</h3>
     - fixed [[track:dk-rap]] missing contributor info
     - fixed [[album:cool-and-new-volume-2]]/[[album:cool-and-new-volume-ii]] & [[album:basement-tale]]/[[album:cool-and-new-volume-7]] being ordered incorrectly in gallery view
