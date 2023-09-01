@@ -29,6 +29,8 @@ Style: |-
     }
 Content: |-
     <h2 id="14-jul-2099"><a href="#14-jul-2099">[[date:14 July 2099]]</a> - moderately belated maintenance</h2>
+    <h3>data changes</h3>
+    - fixed [[artist:kara-roas]] having some artist credits under a different name
     <h3>data fixes</h3>
     - fixed many missing references across [[group:oceanfalls]] albums (thanks, Witch's Cadence!)
         - fixed [[track:illusions]], [[track:iceshards]], [[track:fiery-depths]], [[track:performance]], [[track:brought-this-upon-yourself]], [[track:firefly-oceanfalls]], [[track:up-from-the-depths]], and [[track:right-hand-confrontation]] not referencing [[track:yellow-and-purple]]
@@ -124,7 +126,7 @@ Content: |-
     - changed the site banner for [[album:homestuck-vol-7]] and [[album:oceanfalls-vol-1]] to better display the original artwork
     - fixed [[artist:ian-taylor]] having some artist credits under a different name
     - fixed [[artist:keyboard-cait]] having some artist credits under a different name
-    - fixed [[artist:aris-martinian]] having some artist credits under a different name
+    - fixed [[artist:ostrichlittledungeon]] having some artist credits under a different name
     - removed full album listening link for [[album:alternia]] due to missing bonus tracks
     - replaced "smart" quotation marks and apostraphes (&#147;like these&#148; &#145;and these&#146;) as well as ellipses with portable ASCII characters, mostly throughout commentary
     - changed a few track fields to handle re-releases more consistently
@@ -258,7 +260,7 @@ Content: |-
     - added [[album:act-8-volume-1]]!
     - added a couple more [[group:canmt]] albums!
         - added [[album:cool-and-new-homestuck]]!
-        - added [[album:cyclica]] by [[artist:aris-martinian]]!
+        - added [[album:cyclica]] by [[artist:ostrichlittledungeon]]!
     - added both Act Omega albums!
         - added [[album:early-access]]!
         - added [[album:aspect-clock]]!
@@ -1215,7 +1217,7 @@ Content: |-
     - fixed a typo which was keeping [[track:tfw-another-james-roach-track]] from showing up in the feature list of [[flash:fs-vol6]]
     - fixed typos which were messing up the durations of [[track:elegy-for-a-thief-dreamscape-remix]] and [[track:i-dont-want-to-miss-a-thing]]
     - removed a duplicate youtube link for [[track:split-reality]]
-    - added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:fenkko]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:infiniteknife]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:koukouvayia]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-j-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:molly-gur]], [[artist:plumegeist]], [[artist:rah-bop]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:temmie-chang]], [[artist:tensei]], [[artist:the-everlasting-ash]], [[artist:thomas-ferkol]], [[artist:toastyglow]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:viasatellite]], [[artist:killian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]
+    - added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:fenkko]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:paradiddlesjosh]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:koukouvayia]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-j-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:molly-gur]], [[artist:plumegeist]], [[artist:rah-bop]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:temmie-chang]], [[artist:tensei]], [[artist:the-everlasting-ash]], [[artist:thomas-ferkol]], [[artist:toastyglow]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:pixelseph]], [[artist:killian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]
     - added a bunch of new artist pages for those whose contributions are showing up on the wiki for the first time (e.g. several contributors to [[flash:hiveswap-act1]])
 
     <h2 id="10-oct-2020" class="major-release"><a href="#10-oct-2020">[[date:10 October 2020]] - autumnal polish haul</a></h2>
