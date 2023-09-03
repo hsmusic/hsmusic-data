@@ -19,12 +19,14 @@ Banner Artists:
 - nights
 - yazshu
 - Makin (edits for wiki)
-Banner Dimensions: 1100x180
+Banner Dimensions: 1100x216
 Banner File Extension: png
 Wallpaper Artists:
 - Hadron
 - Makin (edits for wiki)
-Wallpaper Style: 'opacity: 0.9;'
+Wallpaper Style: |-
+    opacity: 0.95;
+    background-position: top;
 Wallpaper File Extension: jpg
 Color: '#a6a6a6'
 Groups:
@@ -185,6 +187,7 @@ Cover Artists:
 - sylvarn
 Art Tags:
 - Lil Cal
+- Germy
 - Ruined Earth
 Duration: '03:48'
 URLs:
@@ -211,6 +214,7 @@ Art Tags:
 - Femorafreack
 - Jhon
 - John
+- 'cw: cops'
 Duration: '02:59'
 Referenced Tracks:
 - The Souns of Justis (Full)
@@ -261,6 +265,7 @@ Cover Artists:
 - Ephemerald
 Art Tags:
 - Jack Noir
+- 'cw: blood'
 Duration: '02:19'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/stabby
@@ -305,6 +310,7 @@ Cover Artists:
 - yazshu
 Art Tags:
 - Jhon
+- John
 Duration: '02:33'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/echo-chamber
@@ -420,6 +426,17 @@ Cover Artists:
 - Sozzay
 Art Tags:
 - Rose
+- Jhon
+- Dabe
+- Jaed
+- Jack Noir
+- Dadd
+- Bg'ogubmom'ibulsprite
+- John
+- Dave
+- Jade
+- John's dad
+- Rose's mom
 Duration: '01:50'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/rose-escape
@@ -799,6 +816,7 @@ Art Tags:
 - Rose
 - Prospit
 - Skaia
+- Gate
 Cover Art File Extension: jpg
 Duration: '03:16'
 URLs:
@@ -1100,8 +1118,9 @@ Artists:
 Cover Artists:
 - Shadok
 Art Tags:
-- Jaed
+- Jade
 - PM
+- John
 - Beq
 - Jade
 - Becquerel
@@ -1160,6 +1179,7 @@ Cover Artists:
 Art Tags:
 - Dabe
 - Dave
+- 'cw: blood'
 Duration: '04:03'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/the-ultimate-odown
@@ -1314,6 +1334,7 @@ Cover Artists:
 Art Tags:
 - Beq
 - Becquerel
+- Earth
 Duration: '04:29'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/of-bork-and-yifs
@@ -1362,7 +1383,6 @@ Artists:
 Cover Artists:
 - Shadok
 Art Tags:
-- Jhon
 - John
 Duration: '02:18'
 URLs:
@@ -1439,6 +1459,7 @@ Cover Artists:
 - Makin
 Art Tags:
 - Femorafreack
+- 'cw: cops'
 Duration: '03:35'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/corrupted-collision
@@ -1496,6 +1517,7 @@ Art Tags:
 - Carapacians
 - Hella Jeff
 - Prospit
+- 'cw: blood (abstract)'
 Duration: '02:59'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/endure
@@ -1707,6 +1729,7 @@ Cover Art File Extension: jpg
 Art Tags:
 - Jhon
 - John
+- Earth
 Duration: '03:14'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/sunrise
@@ -2067,6 +2090,7 @@ Art Tags:
 - Derse
 - Felt Manor
 - Skaia
+- 'cw: blood (abstract)'
 Duration: '04:10'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/24x-showdown-combo
@@ -2112,6 +2136,7 @@ Cover Artists:
 Art Tags:
 - Dabe
 - Dave
+- Rose
 Duration: '04:35'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/downwards
