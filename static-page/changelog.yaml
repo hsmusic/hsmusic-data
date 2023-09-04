@@ -35,6 +35,9 @@ Content: |-
     <h3>data changes</h3>
     - fixed [[artist:kara-roas]] having some artist credits under a different name
     - medley tracks [[track:something-familiar]], [[track:yet-cool-and-new]], and [[track:ophiuchus-full-suite]] now list their constituent songs as references
+    - divided two especially large additional files into smaller files
+        - second part of voice-over commentary for [[album:sburb-ost]]
+        - commentary booklet for [[album:homestuck-vol-10]] (also uploaded all-pages-in-one, mildly compressed PDF)
     - adjusted sizes of image embeds across artist commentaries
       - images in commentaries of [[track:i-love-this-doctor]], [[track:do-you-remember-the-doctor]], [[track:three-in-the-morning-4-13-hours-late-remix-canon-edit]], and [[track:i-started-a-joke]] now embeds instead of URLs
     <h3>data fixes</h3>
@@ -59,7 +62,7 @@ Content: |-
         - fixed [[track:living-will]] not referencing [[track:the-fifth-flower]]
         - fixed [[track:purge-destiny]] not referencing [[track:corona]]
 
-    <h2 id="18-aug-2023" class="major-release"><a href="#18-aug-2023">[[date:18 August 2023]] - Iridescent Noon</a></h3>
+    <h2 id="18-aug-2023" class="major-release"><a href="#18-aug-2023">[[date:18 August 2023]] - Iridescent Noon</a></h2>
     (news entry: [[news-entry:iridescent-noon]])
     <h3>site changes</h3>
     - major rework of how each website page's contents are generated, making it way easier to prototype new features or test changes, and allowing for better stability as code internals are expanded or updated
