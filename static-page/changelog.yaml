@@ -61,6 +61,9 @@ Content: |-
         - fixed [[track:memories-of-home]] not referencing [[track:rosen-wings]] or [[track:restful-wings]]
         - fixed [[track:living-will]] not referencing [[track:the-fifth-flower]]
         - fixed [[track:purge-destiny]] not referencing [[track:corona]]
+    - fixed a variety of filename issues for track artwork and other images
+        - fixed original art for [[track:hallowed-halls]] being a 404 when viewing its source file
+        - fixed bonus art for [[track:kamina-burana]] displaying source file instead of thumbnail
 
     <h2 id="18-aug-2023" class="major-release"><a href="#18-aug-2023">[[date:18 August 2023]] - Iridescent Noon</a></h2>
     (news entry: [[news-entry:iridescent-noon]])
