@@ -28,7 +28,7 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="04-sep-2023"><a href="#04-sep-2023">[[date:04 September 2023]]</a> - maintenance, mayhaps</h2>
+    <h2 id="04-sep-2023"><a href="#04-sep-2023">[[date:04 September 2023]] - maintenance, mayhaps</a></h2>
     <h3>other additions</h3>
     - added commentary booklet file to [[album:cool-and-new-volume-v]]
     - added links to album premiere stream recordings to [[album:cyclica]], [[album:call-and-new]], [[album:cool-and-new-volume-sx]], [[album:canwc-sound-test-1]], [[album:basement-tale]], [[album:cool-and-new-volume-7]], [[album:s-hecka-jef]], and [[album:canwc-for-the-holidays]] (thanks for these, Ngame!)
@@ -193,7 +193,7 @@ Content: |-
         - fixed [[album:strife]] missing credits for [[artist:homestuck]]
         - fixed [[album:land-of-hue-and-duels-trollside]] missing credits for [[artist:priestlybeast]]
 
-    <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]]</a> - moderately belated maintenance</h2>
+    <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]] - moderately belated maintenance</a></h2>
     <h3>bug fixes</h3>
     - fixed direct links to URLs with spaces in 'em all being 404s, e.g. the listen link for [[track:where-making-this-hapen]], due to misplaced URL encoding
     <h3>data fixes</h3>
@@ -218,16 +218,16 @@ Content: |-
     - removed dead YouTube links from [[album-commentary:hiveswap-act-1-ost]] commentary (thanks, Sgeo!)
     - linked to wiki pages instead of external sites in commentary for [[track:ballad-of-awakening]] and [[track:we-shall-go-together]]
 
-    <h2 id="24-jun-2023"><a href="#24-jun-2023">[[date:24 June 2023]]</a> - doctor commentary AMA</h2>
+    <h2 id="24-jun-2023"><a href="#24-jun-2023">[[date:24 June 2023]] - doctor commentary AMA</a></h2>
     <h3>additions</h3>
     - added commentary from r/Homestuck AMA by [[artist:buzinkai]] to [[track:doctor]]
 
-    <h2 id="16-jun-2023"><a href="#16-jun-2023">[[date:16 June 2023]]</a> - sburban jungle touch-up</h2>
+    <h2 id="16-jun-2023"><a href="#16-jun-2023">[[date:16 June 2023]] - sburban jungle touch-up</a></h2>
     <h3>additions</h3>
     - new YouTube link for [[track:sburban-jungle]], with fresh artwork by [[artist:alice-hu]]!
     - added commentary to [[track:sburban-jungle]] and [[track:chorale-for-jaspers]]
 
-    <h2 id="27-apr-2023"><a href="#27-apr-2023">[[date:27 April 2023]]</a> - rainy day repairs</h2>
+    <h2 id="27-apr-2023"><a href="#27-apr-2023">[[date:27 April 2023]] - rainy day repairs</a></h2>
     <h3>additions</h3>
     - added bonus track [[track:bequest]] to [[album:a-nameless-inheritance]]
     - added bonus tracks [[track:glide-what]] and [[track:wake-what]] to [[album:what]]
@@ -248,7 +248,7 @@ Content: |-
     - fixed cover art in "sticky" page heading having gone totally missing!
         - this was a code error introduced in early March - it was supposed to only make cover art with content warnings show up in the sticky heading after the main cover was revealed by the user clicking on it, but accidentally made all covers with art tags be hidden from the heading instead, oops
 
-    <h2 id="22-apr-2023"><a href="#22-apr-2023">[[date:22 April 2023]]</a> - media mismatch remedial</h2>
+    <h2 id="22-apr-2023"><a href="#22-apr-2023">[[date:22 April 2023]] - media mismatch remedial</a></h2>
     <h3>data &amp; media fixes</h3>
     - implemented a new tool for automatically detecting missing and misplaced media files whenever the project is built, revealing a bunch of issues fixed below, and helping to prevent similar media mismatches from popping up again in the future
     - fixed missing or misplaced track artwork across the wiki
@@ -274,7 +274,7 @@ Content: |-
         - miscellaneous tracks in early official albums
     - added original crop of art from [[track:bargaining-with-the-beast]] to track commentary
 
-    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]]</a> - happy birthday nannasprite</h2>    
+    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]] - happy birthday nannasprite</a></h2>
     (news entry: [[news-entry:happy-birthday-nannasprite]])
     <h3>albums</h3>
     - added [[album:act-8-volume-1]]!
@@ -303,7 +303,7 @@ Content: |-
     - fixed [[track:sarabande-symphony]] not listing [[artist:erik-scheele]] as a contributor
     - fixed unordered flash links on [[track:elevatorstuck]]'s page (thanks, FF!)
 
-    <h2 id="31-mar-2023"><a href="#31-mar-2023">[[date:31 March 2023]]</a> - Track Doctor<sup>2</sup></h2>
+    <h2 id="31-mar-2023"><a href="#31-mar-2023">[[date:31 March 2023]] - Track Doctor<sup>2</sup></a></h2>
     <h3>additions</h3>
     - added missing bonus track to [[album:deltarune-ch2-ost]]
     - added two missing bonus tracks to [[album:are-you-lost]]
