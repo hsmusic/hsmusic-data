@@ -325,8 +325,8 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/moonslammer
 - https://youtu.be/eVxks2ZVWDw
 Referenced Tracks:
-- Moonsetter
-- Sunslammer
+- track:moonsetter
+- track:sunslammer
 ---
 Track: Anticipation
 Directory: anticipation-volsx
@@ -1281,10 +1281,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/monsoonsetter
 - https://youtu.be/cJEQ-rZh97U
 Referenced Tracks:
-- Moonsetter
+- track:moonsetter
 - Sunsetter
 Sampled Tracks:
-- Moonsetter
+- track:moonsetter
 - Sunsetter
 ---
 Track: Sunsweater
@@ -1302,7 +1302,7 @@ URLs:
 - https://youtu.be/a4XzUzbwbrg
 Referenced Tracks:
 - Sunsetter
-- Sunslammer
+- track:sunslammer
 ---
 Track: VriSKA
 Artists:
@@ -1575,7 +1575,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/moonforgiver
 - https://youtu.be/8Bm6UbrOlHE
 Referenced Tracks:
-- Moonsetter
+- track:moonsetter
 - RollerCoaster Tycoon Theme
 ---
 Track: ruinds (with strigns)
@@ -2248,7 +2248,7 @@ URLs:
 Referenced Tracks:
 - RollerCoaster Tycoon Theme
 - track:crustacean
-- Sunslammer
+- track:sunslammer
 - track:frost-vol6
 - Negastrife
 - track:beatdown-strider-style
@@ -2262,7 +2262,7 @@ Referenced Tracks:
 - Cascade (Beta)
 - Let's All Rock the Heist
 - Heir Conditioning
-- Moonsetter
+- track:moonsetter
 - Anbroids
 - track:chorale-for-jaspers
 - track:harlequin
