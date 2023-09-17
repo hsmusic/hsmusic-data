@@ -28,8 +28,9 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="16-sep-2099"class="major-release"><a href="#16-sep-2099">[[date:16 September 2099]]</a> - Allan please add details</h2>
+    <h2 id="16-sep-2023"class="major-release"><a href="#16-sep-2023">[[date:16 September 2023]]</a> - Yo Quiero la Homestuck</h2>
     <h3>albums</h3>
+    - added [[album:lofam5a2]] from [[group:unofficial-mspa-fans]]!
     - added [[album:skaian-synthesis]] by [[group:funk-mclovin]]!
     - added [[album:candles-potency]] by [[artist:solatrus]]!
     - added [[album:solar-sessions]]!
@@ -50,10 +51,20 @@ Content: |-
         - added [[album:jpeg]]!
         - added [[album:9]]!
     <h3>other additions</h3>
+    - added partially missing lyrics to [[track:home]]
     - added proper 'lyrics' to [[track:brodylovania]]
+    - slightly improved lyrics for [[track:when-the-curtains-part]]
     <h3>data fixes</h3>
-    - fixed [[track:you-reposted-in-the-wrong-neighborhood]] not referencing [[track:shake-that]] or [[track:casin]]
+    - fixed [[artist:jamie-paige-stanley]] having some artist credits under a different name (thanks, Grace!)
+    - fixed [[track:ascend]] not referencing [[track:chamber-complex]] (thanks, Makin!)
+    - fixed [[track:john-sleeps-skaian-magicant]] not listing any artists or references (thanks, JG!)
+    - fixed [[track:lies-with-the-sea]] not referencing [[track:lies-with-the-sea-beta]]
+    - fixed [[track:noirscape]] not referencing [[track:upward-movement-dave-owns]], [[track:sburban-jungle]], [[track:beatdown-strider-style]], [[track:mutiny]], [[track:explore]], OR [[track:penumbra-phantasm]] (thanks, FF!)
+    - fixed [[track:vigilante-cornered]] not referencing [[track:vigilante]] (thanks, Grace!)
+    - fixed [[track:cometfall]] referencing [[track:ocean-stars]] and not referencing [[track:amen-brother]]
+    - fixed [[track:unstable-loops]] and [[track:ruined-singularity]] referencing [[track:ruins-with-strings]] instead of [[track:ruins]]
     - fixed [[track:another-noir-extended-void-mix]] referencing other tracks directly instead of [[track:another-noir]]
+    - fixed [[track:you-reposted-in-the-wrong-neighborhood]] not referencing [[track:shake-that]] or [[track:casin]]
 
     <h2 id="04-sep-2023"><a href="#04-sep-2023">[[date:04 September 2023]] - maintenance, mayhaps</a></h2>
     <h3>other additions</h3>
