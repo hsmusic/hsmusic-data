@@ -11,6 +11,7 @@ URLs:
 ---
 Track: Calamity
 Directory: calamity-exile
+Always Reference By Directory: true
 Duration: 0:29
 URLs:
 - https://archive.org/details/exile-pinkushion/01%20Calamity.mp3
@@ -18,19 +19,21 @@ URLs:
 Track: Contention
 Directory: contention-exile
 Originally Released As: track:contention-vol4
+Always Reference By Directory: true
 Duration: '2:28'
 URLs:
 - https://archive.org/details/exile-pinkushion/02%20Contention.mp3
 ---
 Track: Mutiny
 Directory: mutiny-exile
-Originally Released As: track:mutiny
+Originally Released As: Mutiny
 Duration: '2:59'
 URLs:
 - https://archive.org/details/exile-pinkushion/03%20Mutiny.mp3
 ---
 Track: Nightlife
 Originally Released As: track:nightlife-extended
+Always Reference By Directory: true
 Duration: '2:34'
 URLs:
 - https://archive.org/details/exile-pinkushion/04%20Nightlife.mp3
@@ -38,6 +41,7 @@ URLs:
 Track: Guardian
 Directory: guardian-exile
 Originally Released As: track:guardian
+Always Reference By Directory: true
 Duration: '2:04'
 URLs:
 - https://archive.org/details/exile-pinkushion/05%20Guardian.mp3

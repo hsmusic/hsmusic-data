@@ -36,6 +36,7 @@ Commentary:
 ---
 Track: Theme
 Directory: theme-heinoustuck
+Always Reference By Directory: true
 Artists:
 - HexVertigo
 Duration: '01:05'
@@ -150,7 +151,7 @@ Art Tags:
 - 'cw: body horror'
 - 'cw: blood'
 Referenced Tracks:
-- track:umbral-ultimatum
+- Umbral Ultimatum
 - Dissension (Original)
 ---
 Track: Trypophobic Canine
@@ -181,6 +182,7 @@ Art Tags:
 ---
 Track: Nightmare
 Directory: nightmare-heinoustuck
+Always Reference By Directory: true
 Artists:
 - karelianArmy
 Duration: '01:09'
