@@ -48,11 +48,12 @@ URLs:
 - https://youtu.be/OVnFUwSbWow
 ---
 Track: Green Hill Zone
+Directory: green-hill-zone-canmt
 Duration: '02:33'
 Cover Artists:
 - Hadron
 Referenced Tracks:
-- Green Hill Zone
+- track:green-hill-zone
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/green-hill-zone
 - https://youtu.be/MVyHhd78nBA
@@ -109,7 +110,7 @@ Duration: '01:20'
 Cover Artists:
 - Hadron
 Referenced Tracks:
-- Green Hill Zone
+- track:green-hill-zone-canmt
 - Marry me?
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/extra-green-hill-zonewave

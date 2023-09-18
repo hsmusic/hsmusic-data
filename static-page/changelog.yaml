@@ -28,7 +28,25 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="16-sep-2023"class="major-release"><a href="#16-sep-2023">[[date:16 September 2023]]</a> - Yo Quiero la Homestuck</h2>
+    <h2 id="17-sep-2023"><a href="#17-sep-2023">[[date:17 September 2023]] - afterparty cleanup</a></h2>
+    <h3>other additions</h3>
+    - added YouTube listening links and album premiere stream link to [[album:lofam5a2]]
+    - added artist commentary to [[track:maybe-itll-turn-out-better-this-time]], [[track:karkat-loses-his-mind-and-learns-holy-c]], [[track:sunbumper]], [[track:sburban-juxtaposition]], [[track:celestial-company]], [[track:dance-of-storms]], and [[track:caliborns-lament]]
+    - added MIDI project files to [[track:maybe-itll-turn-out-better-this-time]] and [[track:when-the-curtains-part-lofam5a2]]
+    <h3>data fixes</h3>
+    - [[album:lofam5a2|LOFAM5A2]] fixes (thanks to the UMSPAF crew for catching many of these!)
+        - added [[artist:jordan-sunlight]] to contributor list for [[track:yellow-yard]]
+        - added missing additional file to [[track:stargazing-with-gods]]
+        - updated artwork for [[track:yo-quiero-la-homestuck]] and [[track:versus-oblivion]]
+        - removed unavailable Bandcamp listening link for [[track:home-stuck]]
+        - updated art tags for [[track:lost-in-the-dream-bubbles]], [[track:the-imminently-deceased]], [[track:celestial-company]] and [[track:lost-memories]]
+        - fixed artist commentary for many tracks including [[track:dictator]], [[track:vriskafic8ion]], [[track:flight-of-the-meteor-year-1]], [[track:ruined-singularity-lofam5a2]], [[track:lunar-solace]], [[track:yo-quiero-la-homestuck]], [[track:stuck]], [[track:when-the-curtains-part-lofam5a2]], [[track:caffeinated-jittering]], [[track:light-in-the-darkness-lofam5a2]], and [[track:lost-memories]], among others
+    - fixed [[track:secondhand-memories]] not referencing [[track:showtime-original-mix]] (thanks, Viko!)
+    - fixed [[track:green-hill-zone-canmt]] referencing... itself, instead of [[track:green-hill-zone]]
+    - fixed incorrect art tag for [[track:hauntjelly]] (thanks, Horizonseek!)
+
+    <h2 id="16-sep-2023" class="major-release"><a href="#16-sep-2023">[[date:16 September 2023]] - Yo Quiero la Homestuck</a></h2>
+    (news entry: [[news-entry:yo-quiero-la-homestuck]])
     <h3>albums</h3>
     - added [[album:lofam5a2]] from [[group:unofficial-mspa-fans]]!
     - added [[album:skaian-synthesis]] by [[group:funk-mclovin]]!
@@ -544,7 +562,7 @@ Content: |-
         - new [[group:oceanfalls|Oceanfalls]] tags
         - other new tags: [[tag:jude]], [[tag:sweet-bro]], [[tag:hella-jeff]], [[tag:problem-sleuth]], [[tag:ace-dick]], [[tag:pickle-inspector]], [[tag:bees]], [[tag:birds]], [[tag:diemen]], [[tag:gate]], [[tag:homosuck]], [[tag:horses]], [[tag:imperial-drones]], [[tag:june]], [[tag:sans]], [[tag:lotus]], [[tag:skyllas-lusus]], [[tag:tumor]]
         - thanks to everyone who shared feedback in the #art-tag-review [[static:discord|Discord]] channel, including Cello, deesoff, foreverFlummoxed, Geese, vriska, Makin, megatti, and Niklink!
-    - added art tags for all [[group:desynced]] albums, [[album:weird-puzzle-tunes]] (thanks, Celeste!), all [[group:oceanfalls]] albums (thanks, Celeste & Secily Iopara!)
+    - added art tags for all [[group:desynced]] albums, [[album:weird-puzzle-tunes]] (thanks, Celeste!), all [[group:oceanfalls]] albums (thanks, Celeste & tempest2k!)
     - added art tags for [[album:strife]], [[album:act-7]], [[album:hiveswap-act-1-ost]], [[album:perfectly-generic-album]], [[album:the-funk-mclovin-homestuck-experience]], [[album:the-baby-is-you]], and [[album:the-baby-is-june]]'s covers (thanks, Celeste!)
     - added art tags for all track arts consisting of screenshots of official material (filed under [[artist:homestuck]])
     - added YouTube links for relevant videos to [[track:doctor-original-loop]] (with a transcription by Celeste!), [[album:homestuck-vol-10]] and [[group:michael-guy-bowman]]'s <a href="https://www.youtube.com/playlist?list=PLXwrWDm-S4oGBYovRwe2L4BA5yyZ7WzJv">music videos</a>
@@ -675,7 +693,7 @@ Content: |-
     - added art tags across [[album:moons-of-theseus]] (thanks, Celeste!)
     - fixed various typos throughout [[album:cosmic-caretakers]] (thanks, megatti!)
     - added [[track:dungeon-theme-zelda1]] to reference list of [[track:an-ascii-image-of-bowsette]] (thanks, Makin!)
-    - updated description for INHOSPITABLE (thanks, Secily Iopara!)
+    - updated description for INHOSPITABLE (thanks, tempest2k!)
 
     <h2 id="12-jun-2021"><a href="#12-jun-2021">[[date:12 June 2021]] - June Attuned</a></h2>
     (news entry: [[news-entry:june-attuned]])
@@ -705,7 +723,7 @@ Content: |-
         - [[track:a-very-trickster-mode-christmas]] references [[track:the-one-horse-open-sleigh]]
         - added wallpaper art to [[album:someday]]
     - [[track:pony-chorale]] now credits [[artist:tavia-morra]] for vocals (thanks, GiovanH!)
-    - [[track:lori-and-erich-baker]] has updated name and listen link (thanks, Secily Iopara!)
+    - [[track:lori-and-erich-baker]] has updated name and listen link (thanks, tempest2k!)
 
     <h2 id="13-may-2021"><a href="#13-may-2021">[[date:13 May 2021]] - tMEWIARBu next-day patch</a></h2>
     <h3>site changes</h3>
@@ -812,7 +830,7 @@ Content: |-
         - [[album:the-funk-mclovin-homestuck-experience]]
         - [[album:class-act]] and [[album:class-act-b-side]]
         - [[album:the-baby-is-june]]
-    - from [[group:secily-iopara]]:
+    - from [[group:tempest2k]]:
         - [[album:nuclears-explosion-1]]
         - [[album:chilled-processor]]
         - [[album:ava]]
@@ -834,7 +852,7 @@ Content: |-
     <h3>data changes</h3>
     - added wallpapers for [[album:act-7]], [[album:p-s]], [[album:shortcuts]], [[album:tomb-of-the-ancestors]], [[album:deltarune-ch1-ost]], and [[album:undertale-soundtrack]]
     - added banners for [[album:alterniabound]], [[album:cherubim]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:genesis-frog]], [[album:homestuck-vol-5]], [[album:homestuck-vol-6]], [[album:homestuck-vol-7]], [[album:homestuck-vol-8]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:squiddles]], [[album:symphony-impossible-to-play]], [[album:the-wanderers]], [[album:ancestral]], [[album:beforus]], [[album:cosmic-caretakers]], [[album:diverging-delicacies]], [[album:friendsymphony]], [[album:gristmas-carols]], [[album:jailbreak-vol-1]], [[album:labyrinths-heart]], [[album:lofam]], [[album:lofam2]], [[album:lofam3]], [[album:lofam4]], [[album:moons-of-theseus]], [[album:oceanfalls-vol-1]], [[album:p-s]], [[album:sburb-ost]], [[album:shortcuts]], [[album:tomb-of-the-ancestors]], [[album:weird-puzzle-tunes]], [[album:xenoplanetarium]], and all [[group:psycholonials]] albums
-    - updated description of INHOSPITABLE group, courtesy of Secily Iopara's input
+    - updated description of INHOSPITABLE group, courtesy of tempest2k's input
     - fixes for [[album:unreleased-tracks]], courtesy of foreverFlummoxed:
         - added missing durations for [[track:archagent-everlasting]], Boy Skylark, [[track:calming-quartz-beta]], [[track:chalk-emerald]], [[track:isle-unto-thyself]], [[track:its-your-move]], and [[track:the-witch]]
         - added artist links for [[artist:miracle-musical]] and [[artist:vvvvvv]]
@@ -845,7 +863,7 @@ Content: |-
         - credited wallpaper art for [[album:hiveswap-friendsim]] to [[artist:danny-cragg]], for [[album:the-felt]] to [[artist:molly-gur]], and for [[album:the-wanderers]] to [[artist:lauren-ross]]
         - (all artworks above were previously credited to the catch-all [[artist:homestuck]])
     <h3>bug fixes</h3>
-    - fixed artist pages no longer sorting tracks according to their original release date (e.g. on [[artist:secily-iopara]], tracks from [[album:inhospitable-delisted]] were being sorted according to the album rerelease in 2021, rather than the original track releases in 2017)
+    - fixed artist pages no longer sorting tracks according to their original release date (e.g. on [[artist:tempest2k]], tracks from [[album:inhospitable-delisted]] were being sorted according to the album rerelease in 2021, rather than the original track releases in 2017)
     - fixed sidebar of [[album:unreleased-tracks]] all being one color, instead of applying distinguishing colors for each track group (thanks, foreverFlummoxed!)
     - fixed a few dates at the end of the changelog being formatted inconsistently with the rest of the wiki
 
@@ -1116,7 +1134,7 @@ Content: |-
         - [[album:undertale-soundtrack]]
         - [[album:deltarune-ch1-ost]]
         - [[album:the-baby-is-you]]
-    - from [[artist:secily-iopara]]:
+    - from [[artist:tempest2k]]:
         - [[album:inhospitable-delisted]]
     <h3>groups</h3>
     - new feature! groups are collections of fan albums, organized under a dedicated page for an external group or project.
@@ -1148,12 +1166,12 @@ Content: |-
     <h3>data changes</h3>
     - removed ?list parts from all track links
     - added new album and group data (see respective above changelog sections)
-    - miscellaneous changes to [[album:unreleased-tracks]] (thanks for PQ and Hiveswap changes go to foreverFlummoxed, Niklink, and Secily Iopara!)
+    - miscellaneous changes to [[album:unreleased-tracks]] (thanks for PQ and Hiveswap changes go to foreverFlummoxed, Niklink, and tempest2k!)
         - added new tracks [[track:phat1]] through [[track:phat16]], [[track:flute-refrain]], [[track:miracles-icp]], and [[track:sick-bleats]], and moved existing tracks [[track:captain-planet-and-the-planeteers-end-title]], [[track:ghostbusters]], [[track:i-dont-want-to-miss-a-thing-aerosmith]], and [[track:heros-growth]], to the <i>Tracks featured in Homestuck</i> section
         - added new tracks [[track:friendvangelion-rebuild]], [[track:its-a-cover-of-made-of-time]], and [[track:its-nothing]] to the <i>Tracks featured in Pesterquest</i> section
         - added [[track:its-a-cover-of-made-of-time]] to the reference list of [[track:yeah-it-is]]
         - moved [[track:seer-of-same-color-scalemate-combos]] from <i>Other tracks originating outside of Homestuck</i> to <i>Other Homestuck tracks</i>
-        - renamed "DRONE_PQ" to [[track:drone-pq]] and gave it track art from [[artist:secily-iopara]]'s <a href="https://twitter.com/nueclear333/status/1331330835245535232">PESTERQUEST OST</a> collection
+        - renamed "DRONE_PQ" to [[track:drone-pq]] and gave it track art from [[artist:tempest2k]]'s <a href="https://twitter.com/nueclear333/status/1331330835245535232">PESTERQUEST OST</a> collection
         - renamed "THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)" to [[track:buskers-theme-mk-ii]] and added commentary from James Roach's tumblr
         - removed a bunch of tracks that were moved into [[album:undertale-soundtrack]]
     - miscellaneous changes to data for [[site:flash/|Flashes &amp; Games]]
@@ -1221,7 +1239,7 @@ Content: |-
     <h3>data changes</h3>
     - five new albums archived: [[album:hiveswap-act-2-ost]], [[album:homestuck-for-the-holidays]], [[album:tomb-of-the-ancestors]], [[album:the-genesis-project-vol-1]], [[album:oceanfalls-vol-3]]; plus the track [[album:perfectly-generic-object]]
     - grouped tracks in a bunch of releases: [[album:alternia]], [[album:squiddles]], [[album:strife]], [[album:alterniabound]], [[album:homestuck-vol-7]], [[album:the-wanderers]], [[album:homestuck-vol-1-4]], [[album:homestuck-vol-8]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:genesis-frog]], [[album:sburb-ost]], [[album:lofam2]], [[album:lofam3]], [[album:beforus]], [[album:ancestral]], [[album:lofam4]], and [[album:hiveswap-act-1-ost]]
-    - a bunch of additions to [[album:coloUrs-and-mayhem-universe-a]] and various credited artists, working with help from [[artist:secily-iopara]] and <a href="https://twitter.com/Bamboshu">Bambosh</a>:
+    - a bunch of additions to [[album:coloUrs-and-mayhem-universe-a]] and various credited artists, working with help from [[artist:tempest2k]] and <a href="https://twitter.com/Bamboshu">Bambosh</a>:
         - added bonus art by [[artist:astrom]] to [[track:olive-rogue]]
         - added lyrics to [[track:iron-infidel]] and [[track:bronze-page]]
         - added commentary to [[track:fuchsia-ruler]] and [[track:gold-mage]]
@@ -1267,7 +1285,7 @@ Content: |-
     - added [[track:i-dont-want-to-miss-a-thing-aerosmith]] to the feature list of [[flash:338]]
     - added tracks from [[album:hiveswap-act-1-ost]] and [[album:hiveswap-act-2-ost]] to the new flash pages [[flash:hiveswap-act1]] and [[flash:hiveswap-act2]], which also include contributor credits (art, animation, etc)
     - changed the color of the [[album:hiveswap-friendsim]] album to match the Flashes &amp; Games section for that game
-    - gave the Hiveswap Friendsim flash thumbnails a fresh coat of paint to match Pesterquest, and added unofficial track art for tracks featured in Pesterquest courtesy of Secily Iopara
+    - gave the Hiveswap Friendsim flash thumbnails a fresh coat of paint to match Pesterquest, and added unofficial track art for tracks featured in Pesterquest courtesy of tempest2k
     - fixed the bandcamp link for [[album:hiveswap-act-1-ost]] and added the missing bandcamp link for [[album:homestuck-vol-10]]
     - fixed the missing track art for [[track:the-mechanism]]
     - fixed a bunch more typos in commentary, particularly for albums [[album:one-year-older]], [[album:lofam2]], and [[album:homestuck-vol-10]]
