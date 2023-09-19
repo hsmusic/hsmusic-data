@@ -391,7 +391,7 @@ Duration: '1:59'
 URLs:
 - https://www.youtube.com/watch?v=oVRCbmh-TI4
 Referenced Tracks:
-- track:crustacean
+- Crustacean
 ---
 Track: G4M38L0RG
 Artists:
@@ -477,7 +477,7 @@ Duration: 0:10
 URLs:
 - https://www.youtube.com/watch?v=0Hd6q5xn8mg
 Referenced Tracks:
-- track:showtime-original-mix
+- Showtime (Original Mix)
 Commentary: |-
     <i>Niklink:</i>
     Unofficial name. Labeled simply as 'Trickster Mode' on the MSPA sound credits, albeit in conjunction with [[track:trickster-mode-blast-off|the other Trickster Mode track]].
@@ -489,7 +489,7 @@ Duration: 0:16
 URLs:
 - https://www.youtube.com/watch?v=sCFuOmInTxQ
 Referenced Tracks:
-- track:sburban-jungle
+- Sburban Jungle
 Commentary: |-
     <i>Niklink:</i>
     Unofficial name. Labeled simply as 'Trickster Mode' on the MSPA sound credits, albeit in conjunction with [[track:trickster-mode-engage|the other Trickster Mode track]].
@@ -697,8 +697,8 @@ URLs:
 Cover Artists:
 - Homestuck
 Referenced Tracks:
-- track:showtime-piano-refrain
-- track:harlequin
+- Showtime (Piano Refrain)
+- Harlequin
 Commentary: |-
     <i>James Roach:</i>
     SO! PesterQuest is out. We've been sitting on this one for a while. This first route has been done for a while. It was supposed to come out back on 6/12 but our new publisher had us sit on it for reasons that are beyond even me. Anyway, big ups to Malcolm and Mark for letting me use their themes.
@@ -717,7 +717,7 @@ URLs:
 Cover Artists:
 - Homestuck
 Referenced Tracks:
-- track:endless-climb
+- Endless Climb
 Commentary: |-
     <i>James Roach:</i>
     I wasn't certain how to approach this one. I knew if I was going to use the theme from endless climb it wouldn't feel right accepting any money for it. These things don't exactly pay well to begin with tbh, so i thought I would use the platform i've been given to try and do something... even a little positive.
@@ -738,7 +738,7 @@ URLs:
 Cover Artists:
 - Homestuck
 Referenced Tracks:
-- track:upward-movement-dave-owns
+- Upward Movement (Dave Owns)
 ---
 Track: ill probably just name this one something normal oh no wait oh jeez aw beans
 Artists:
@@ -773,8 +773,8 @@ Cover Artists:
 - Homestuck
 Referenced Tracks:
 - 2chords
-- track:upward-movement-dave-owns
-- track:sburban-jungle
+- Upward Movement (Dave Owns)
+- Sburban Jungle
 Commentary: |-
     <i>James Roach:</i>
     i just wanted to do more than one song so i did two and a half. hope you like it. thanks for all the support! also im in this image can u find me LMAO
@@ -793,7 +793,7 @@ Cover Artists:
 - Homestuck
 Referenced Tracks:
 - track:carefree-action
-- track:carefree-victory
+- Carefree Victory
 Sampled Tracks:
 - Speak-N-Say
 Lyrics: |-
@@ -840,6 +840,7 @@ Commentary: |-
 ---
 Track: CRUSTacean
 Directory: crustacean-pq
+Always Reference By Directory: true
 Artists:
 - James Roach
 Art Tags:
@@ -851,7 +852,7 @@ URLs:
 Cover Artists:
 - Homestuck
 Referenced Tracks:
-- track:crustacean
+- Crustacean
 Commentary: |-
     <i>James Roach:</i>
     there are a handful of people out there who really thought we were just gonna put karkalicious in there.
@@ -1046,10 +1047,10 @@ Cover Artists:
 Referenced Tracks:
 - Rex Duodecim Angelus
 - track:moonsetter
-- track:sburban-jungle
+- Sburban Jungle
 - track:penumbra-phantasm
 - Unite Synchronization
-- track:upward-movement-dave-owns
+- Upward Movement (Dave Owns)
 - Homestuck Anthem
 - WORST END
 Commentary: |-
