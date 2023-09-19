@@ -1175,6 +1175,7 @@ Track: Awakening
 # Reference:
 #   https://nigoro.bandcamp.com/album/la-mulana-original-sound-track-complete
 Directory: awakening-la-mulana
+Always Reference By Directory: true
 Artists:
 - La-Mulana
 - Houryu Samejima
@@ -5273,6 +5274,7 @@ URLs:
 ---
 Track: I Don't Want to Miss a Thing
 Directory: i-dont-want-to-miss-a-thing-aerosmith
+Always Reference By Directory: true
 Artists:
 - Armageddon
 - Diane Warren
