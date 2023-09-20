@@ -28,6 +28,15 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="20-sep-2023"><a href="#20-sep-2023">[[date:20 September 2023]] - after<sup>2</sup>party cleanup</a></h2>
+    <h3>bug fixes</h3>
+    - fixed <a href="https://github.com/hsmusic/hsmusic-wiki/issues/277">some links</a> stripping "&lt;", such as in [[album:exile]]
+    - fixed <a href="https://github.com/hsmusic/hsmusic-wiki/issues/273">certain listings</a> displaying 12/31/1969 for albums without release dates
+    - various <a href="https://github.com/hsmusic/hsmusic-wiki/pull/275">internal</a> <a href="https://github.com/hsmusic/hsmusic-wiki/pull/281">improvements</a> and <a href="https://github.com/hsmusic/hsmusic-wiki/compare/d09e04b155fe2ed3d0681edf14f7de67ae8be61c...9745cf89d808bc2e4698af346ddbc53e1ae08a2c">fixes</a>
+    <h3>data fixes</h3>
+    - updated and filled in latest commentary for [[album:lofam5a2]] (thanks, Circlejourney!)
+    - tidied up crediting for [[artist:pixels-and-paradiddles]] (thanks, Circlejourney!)
+
     <h2 id="18-sep-2023"><a href="#18-sep-2023">[[date:18 September 2023]] - afterparty cleanup</a></h2>
     <h3>other additions</h3>
     - added YouTube listening links and album premiere stream link to [[album:lofam5a2]]
