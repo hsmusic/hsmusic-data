@@ -28,6 +28,14 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h2 id="25-oct-2099" class="major-release"><a href="#25-oct-2099">[[date:25 October 2099]] - Allan please add details</a></h2>
+    <h3>albums</h3>
+    - added [[album:stuckhome-syndrome-part-one-v1]] (thanks, Grace!)
+    <h3>data fixes</h3>
+    - fixed [[track:boy-skylark-brief]] not referencing/sampling [[track:boy-skylark]] (thanks, Grace!)
+    - fixed [[track:stellarum-salve]] not referencing [[track:hello-stardust]] (thanks, Grace!)
+    - fixed [[track:the-souns-of-justis-full]] referencing [[track:cornered]] instead of [[track:pursuit-corner-the-culprit]]
+
     <h2 id="20-sep-2023"><a href="#20-sep-2023">[[date:20 September 2023]] - after<sup>2</sup>party cleanup</a></h2>
     <h3>bug fixes</h3>
     - fixed <a href="https://github.com/hsmusic/hsmusic-wiki/issues/277">some links</a> stripping "&lt;", such as in [[album:exile]]
