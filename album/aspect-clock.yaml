@@ -53,7 +53,7 @@ URLs:
 - https://soundcloud.com/user-201967720/savior-in-a-blue-suit?in=user-201967720/sets/aspectclock
 Referenced Tracks:
 - Doctor
-- track:penumbra-phantasm
+- Penumbra Phantasm
 ---
 Track: Caretakers
 Duration: '02:15'
@@ -165,12 +165,13 @@ Referenced Tracks:
 ---
 Track: Penumbra Phantasm
 Directory: penumbra-phantasm-aspect-clock
+Always Reference By Directory: true
 Duration: '04:13'
 URLs:
 - https://actomega.bandcamp.com/track/penumbra-phantasm
 - https://soundcloud.com/user-201967720/penumbra-phantasm?in=user-201967720/sets/aspectclock
 Referenced Tracks:
-- track:penumbra-phantasm
+- Penumbra Phantasm
 ---
 Track: A Final Tick
 Duration: '00:20'
