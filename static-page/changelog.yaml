@@ -29,14 +29,19 @@ Style: |-
     }
 Content: |-
     <h2 id="23-sep-2023"><a href="#23-sep-2023">[[date:23 September 2023]] - jerry's theme for deltarune ch. 7</a></h2>
+    <h3>other additions</h3>
+    - added [[track:penumbra-phantasm-morris]] by [[artist:morris]], the base for [[track:penumbral-awakening]] in [[album:lofam5a2]] (thanks, Morris!)
+    - replaced heavyweight (~2MB) background art for [[album:psycholonials]] (and EPs) with optimized version (~200kB)
     <h3>data fixes</h3>
+    - fixed [[track:bound-in-blood-beta]] not referencing [[track:doctor]] (thanks, Jebb!)
+    - fixed [[track:vriskafic8ion]] not referencing [[track:killed-by-br8k-spider]] (thanks, Lilith!)
     - added various missing art tags
         - added [[tag:alternia]] to [[track:tumescent]], [[track:vwigor8us]]
         - added [[tag:beforus]] to [[track:cheater-pan]], [[track:damiterneightions]], [[track:tree-dwellers]], [[track:east-beforan-funk]]
         - added [[tag:dream-bubbles]] to [[track:vwiolet-vwelvwet]]
         - added [[tag:frog-temple]] to [[track:disc1-beforus]]
         - added [[tag:gate]] to [[track:times-apostate]]
-        - added [[tag:june]] to [[track:vriskafic8ion]]
+        - added [[tag:june]] to [[track:vriskafic8ion]] (thanks, Lilith!)
         - added [[tag:loqam]] to [[track:rust-witch]], [[track:press-a-to-reset]], [[track:the-scratch-before-the-calm]], [[track:motions-of-infinity]]
         - added [[tag:matriorb]] to [[track:rainbow-rebirth]]
         - added [[tag:tumor]] to [[track:game-lost]]
