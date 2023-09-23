@@ -1265,6 +1265,20 @@ Duration: '3:16'
 URLs:
 - https://vasterror.bandcamp.com/track/overlook
 ---
+Track: Penumbra Phantasm
+Date First Released: March 16, 2022
+Directory: penumbra-phantasm-morris
+Always Reference By Directory: true
+Artists:
+- Morris
+Duration: '2:35'
+Referenced Tracks:
+- track:penumbra-phantasm
+Sampled Tracks:
+- Typheus
+URLs:
+- https://soundcloud.com/omega_morris/penumbra-phantasm
+---
 Track: Revnan's Theme
 Artists:
 - Gryotharian
