@@ -2087,6 +2087,19 @@ Duration: '2:12'
 URLs:
 - https://youtu.be/KTNfNzLiZBA
 ---
+Track: Eternitybox
+# JP: (no JP track listing in reference)
+# Official release:
+#   極限脱出9時間9人9の扉 サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/16078
+Artists:
+- Nine Hours, Nine Persons, Nine Doors
+- Shinji Hosoe
+Duration: '5:01'
+URLs:
+- https://www.youtube.com/watch?v=gdz-tAez1GY
+---
 Track: Evening Star
 # No official release of the in-game track, name is from in-game sound test feature
 # Also we don't know which of the two composers for the game made this particular track
@@ -2131,20 +2144,6 @@ Artists:
 Duration: 0:44
 URLs:
 - https://www.youtube.com/watch?v=hrJNgLGbYg0
----
-Track: Last Battle (VS Rival)
-# JP: ラストバトル（ＶＳライバル）
-# Official release:
-#   GB Pokémon Complete Sound CD
-#   ゲームボーイ『ポケモン』のサウンドがまるごと入って、遊べるCD
-# Reference:
-#   https://vgmdb.net/album/141
-Artists:
-- artist:pokemon
-- Junichi Masuda
-Duration: '2:30'
-URLs:
-- https://www.youtube.com/watch?v=5I3Cm9necF0
 ---
 Track: Fist Bump
 # Official release:
@@ -2897,6 +2896,20 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=vMhMck1Uwms
 ---
+Track: Last Battle (VS Rival)
+# JP: ラストバトル（ＶＳライバル）
+# Official release:
+#   GB Pokémon Complete Sound CD
+#   ゲームボーイ『ポケモン』のサウンドがまるごと入って、遊べるCD
+# Reference:
+#   https://vgmdb.net/album/141
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '2:30'
+URLs:
+- https://www.youtube.com/watch?v=5I3Cm9necF0
+---
 Track: Layton's Theme
 # JP: レイトン教授のテーマ
 # Official release:
@@ -3183,6 +3196,19 @@ Artists:
 Duration: '3:00'
 URLs:
 - https://www.youtube.com/watch?v=P7dLp2Eb7cg
+---
+Track: Nerevar Rising
+# VGMdb: "Album does not come with tracklist. The song names listed are derived from the official DirectSong.com soundtrack release, and correlated with the PC game's .mp3 file names (in parentheses)."
+# Reference:
+#   https://vgmdb.net/album/1772 (first release; see note above)
+#   https://vgmdb.net/album/4148 (same name, pub. DirectSong)
+#   https://vgmdb.net/album/37624 (same name, pub. Bethesda Softworks)
+Artists:
+- The Elder Scrolls
+- Jeremy Soule
+Duration: '1:56'
+URLs:
+- 'https://www.youtube.com/watch?v=C9xch8D--gc'
 ---
 Track: Neos City (Night)
 # No official release
@@ -11614,6 +11640,12 @@ URLs:
 Sampled Tracks:
 - check whosampled
 ---
+Track: An Astrailhad
+Artists:
+- Beltaine
+URLs:
+- https://www.youtube.com/watch?v=zoocxEjQyzI
+---
 Track: Arms Outstretched
 Artists:
 - Griffin McElroy
@@ -13735,6 +13767,14 @@ Lyrics: |-
     Dark necessities are part of my design
     Tell the world that I'm falling from the sky and
     Dark necessities are part of my design
+---
+Track: Dead Man's Reel
+# Also known as Dead Man's Reel (instrumental)
+Artists:
+- Suidakra
+Duration: '4:17'
+URLs:
+- https://www.youtube.com/watch?v=4jLIYEsC-84
 ---
 Track: Deja Vu
 # Also known as  Déjà Vu
@@ -23816,6 +23856,13 @@ Artists:
 Duration: '0:06'
 URLs:
 - https://www.youtube.com/watch?v=I3Ak5VgyEoc
+---
+Track: The Mystic's Dream
+Artists:
+- Loreena McKennitt
+Duration: '7:42'
+URLs:
+- https://www.youtube.com/watch?v=QFAfWH_CKVw
 ---
 Track: The Next Episode
 Artists:
