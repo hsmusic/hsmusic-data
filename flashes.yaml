@@ -3754,6 +3754,40 @@ URLs:
 - https://mspfa.com/?s=42305&p=68
 - https://www.youtube.com/watch?v=xQqzWMFw6FE
 ---
+Act: Act 8
+Color: '#fbae20'
+Anchor: act-8
+---
+Flash: '[S]Start'
+Directory: start-act8
+Date: May 22, 2016
+Featured Tracks:
+- Timeout
+URLs:
+- https://mspfa.com/?s=14278&p=18
+- https://www.youtube.com/watch?v=L_6Nlp3Q2Xw
+---
+Flash: '[S] ULTIM8TELY RARE 11v1 SHOWDOWN'
+Directory: 11v1-showdown
+Date: August 10, 2016
+Featured Tracks:
+- Spider's Claw
+URLs:
+- https://www.youtube.com/watch?v=3AdLKIgTmoo
+- https://mspfa.com/?s=14278&p=155
+---
+Flash: '[S] Resolve'
+Directory: resolve
+Date: April 17, 2021
+Featured Tracks:
+- Limelight
+- Crystalschalasthemequins
+# - Suburban Takedown, which isn't in the wiki and probably won't ever get a proper release
+# leaving that there in case we ever feature creep even further beyond.......
+URLs:
+- https://www.youtube.com/watch?v=qS9p2gD_Ou4
+- https://mspfa.com/?s=14278&p=444
+---
 Act: Other Fan Adventures
 Color: '#fafafa'
 Anchor: other-fan-adventures
@@ -3949,27 +3983,6 @@ Featured Tracks:
 URLs:
 - https://www.newgrounds.com/dump/item/1a917e89b5dbbe3053662944401cf65f
 - https://mspfa.com/?s=161&p=311
----
-Flash: 'Act 8: [S] ULTIM8TELY RARE 11v1 SHOWDOWN'
-Directory: 11v1-showdown
-Date: August 10, 2016
-Featured Tracks:
-- Spider's Claw
-URLs:
-- https://www.youtube.com/watch?v=3AdLKIgTmoo
-- https://mspfa.com/?s=14278&p=155
----
-Flash: 'Act 8: [S] Resolve'
-Directory: resolve
-Date: April 17, 2021
-Featured Tracks:
-- Limelight
-- Crystalschalasthemequins
-# - Suburban Takedown, which isn't in the wiki and probably won't ever get a proper release
-# leaving that there in case we ever feature creep even further beyond.......
-URLs:
-- https://www.youtube.com/watch?v=qS9p2gD_Ou4
-- https://mspfa.com/?s=14278&p=444
 ---
 Flash: 'Primary Colours: [S] Kill'
 Directory: kill
