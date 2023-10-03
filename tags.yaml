@@ -309,7 +309,32 @@ Tag: Imperial Drones
 Color: '#fb0332'
 ---
 Tag: Consorts
-Color: '#f6fa4e'
+Direct Descendant Tags:
+- Salamanders (consort)
+- Turtles (consort)
+- Crocodiles (consort)
+- Iguanas (consort)
+---
+Tag: Salamanders (consort)
+Color: '#fefb71'
+Direct Descendant Tags:
+- Casey
+- Secret Wizard
+---
+Tag: Turtles (consort)
+Color: '#ed6dd9'
+---
+Tag: Crocodiles (consort)
+Color: '#ea3928'
+---
+Tag: Iguanas (consort)
+Color: '#5290f3'
+---
+Tag: Casey
+Color: '#fefb71'
+---
+Tag: Secret Wizard
+Color: '#fefb71'
 ---
 Tag: Angels
 Color: '#e0e0e0'
