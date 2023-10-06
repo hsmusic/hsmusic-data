@@ -62,6 +62,7 @@ Color: '#00d5f2'
 Direct Descendant Tags:
 - Jane
 - John's nanna
+- Nannasprite
 ---
 Tag: Roxy (archetype)
 Color: '#ff6ff2'
@@ -228,6 +229,7 @@ Tag: Jaspers (archetype)
 Color: '#f141ef'
 Direct Descendant Tags:
 - Jaspers
+- Jaspersprite
 - Jasprose
 ---
 Tag: Dad
@@ -501,8 +503,8 @@ Direct Descendant Tags:
 ---
 Tag: Characters from PAY DAT RENT!!!1
 Direct Descendant Tags:
-- PDR Guy (PAY DAT RENT!!!1)
 - Faithful Dimwit (PAY DAT RENT!!!1)
+- PDR Guy (PAY DAT RENT!!!1)
 ---
 Tag: Characters from Shackstuck
 Direct Descendant Tags:
@@ -576,7 +578,7 @@ Direct Descendant Tags:
 ---
 Tag: Characters from EarthBound Halloween Hack
 Direct Descendant Tags:
-- Varik (EarthBound Halloween Hack)
+- Varik (EBHH)
 ---
 Tag: Characters from Friday Night Funkin'
 Direct Descendant Tags:
@@ -637,6 +639,7 @@ Direct Descendant Tags:
 - Humans
 - Trolls
 - Lusii
+- Leprechauns
 - Consorts
 - Sprites
 - Animal species
@@ -650,6 +653,7 @@ Direct Descendant Tags:
 - Humans (CaNWC)
 - Humans (Desynced)
 - Humans (Oceanfalls)
+- Real-world humans
 ---
 Tag: Humans (Homestuck)
 Direct Descendant Tags:
@@ -672,6 +676,13 @@ Tag: Humans (Hiveswap)
 Direct Descendant Tags:
 - Joey
 - Jude
+---
+Tag: Real-world humans
+Direct Descendant Tags:
+- Bing Crosby
+---
+Tag: Bing Crosby
+Color: '#e1e1e1'
 ---
 Tag: Trolls
 Description: |-
@@ -820,6 +831,24 @@ Direct Descendant Tags:
 - Tahoma's lusus (Crossmound)
 - Egoize's lusus (Crossmound)
 ---
+Tag: Leprechauns
+Direct Descendant Tags:
+- Leprechauns (Homestuck)
+---
+Tag: Leprechauns (Homestuck)
+Direct Descendant Tags:
+- Itchy
+- Doze
+- Trace
+- Clover
+- Die
+- Crowbar
+- Stitch
+- Matchsticks
+- Eggs
+- Biscuits
+- Quarters
+---
 Tag: Sprites
 Direct Descendant Tags:
 - Sprites (Homestuck)
@@ -832,8 +861,19 @@ Direct Descendant Tags:
 - Arquiusprite
 - Davepeta
 - Davesprite
+- Harlequinsprite
 - Jadesprite
+- Jaspersprite
 - Jasprose
+---
+Tag: Harlequinsprite
+Color: '#00d5f2'
+---
+Tag: Jaspersprite
+Color: '#f141ef'
+---
+Tag: Nannasprite
+Color: '#00d5f2'
 ---
 Tag: Sprites (CaNWC)
 Direct Descendant Tags:
@@ -895,7 +935,33 @@ Direct Descendant Tags:
 - Bees
 - Birds
 - Cats
+- Dolphins
 - Horses
+---
+Tag: Bees
+Color: '#fcba03'
+---
+Tag: Birds
+Color: '#ee3333'
+Direct Descendant Tags:
+- Crows
+---
+Tag: Crows
+Color: '#ee3333'
+---
+Tag: Cats
+Color: '#eee333'
+Direct Descendant Tags:
+- Jaspers
+- Vodka Mutini
+---
+Tag: Dolphins
+Color: '#333eee'
+---
+Tag: Horses
+Color: '#c76e26'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Horse
 ---
 Tag: John
 Color: '#5c66e8'
@@ -1209,6 +1275,11 @@ Color: '#f141ef'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Jaspers
 ---
+Tag: Vodka Mutini
+Color: '#ff6ff2'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Vodka_Mutini
+---
 Tag: Davesprite
 Color: '#f2a400'
 Extra Reading URLs:
@@ -1236,25 +1307,6 @@ Tag: Jasprose
 Color: '#b536da'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Jasprosesprite^2
----
-Tag: Scalemates
-Color: '#ffff01'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Scalemate
----
-Tag: Bees
-Color: '#fcba03'
----
-Tag: Birds
-Color: '#ee3333'
----
-Tag: Cats
-Color: '#eee333'
----
-Tag: Horses
-Color: '#c76e26'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Horse
 ---
 Tag: Imperial Drones
 Color: '#fb0332'
@@ -1340,6 +1392,9 @@ Tag: SBaHJ
 Color: '#e00707'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Sweet_Bro_and_Hella_Jeff
+---
+Tag: FreshJamz
+Color: '#ff1366'
 ---
 Tag: Homosuck
 Color: '#009c68'
@@ -1528,6 +1583,64 @@ Tag: Lil Cal
 Color: '#2ed73a'
 ---
 Tag: The Felt
+Color: '#008c45'
+Direct Descendant Tags:
+- Itchy
+- Doze
+- Trace
+- Clover
+- Fin
+- Die
+- Crowbar
+- Snowman
+- Stitch
+- Sawbuck
+- Matchsticks
+- Eggs
+- Biscuits
+- Quarters
+- Cans
+---
+Tag: Itchy
+Color: '#008c45'
+---
+Tag: Doze
+Color: '#008c45'
+---
+Tag: Trace
+Color: '#008c45'
+---
+Tag: Clover
+Color: '#008c45'
+---
+Tag: Fin
+Color: '#008c45'
+---
+Tag: Die
+Color: '#008c45'
+---
+Tag: Crowbar
+Color: '#008c45'
+---
+Tag: Stitch
+Color: '#008c45'
+---
+Tag: Sawbuck
+Color: '#008c45'
+---
+Tag: Matchsticks
+Color: '#008c45'
+---
+Tag: Eggs
+Color: '#008c45'
+---
+Tag: Biscuits
+Color: '#008c45'
+---
+Tag: Quarters
+Color: '#008c45'
+---
+Tag: Cans
 Color: '#008c45'
 ---
 Tag: Alternate Calliope
@@ -1746,20 +1859,11 @@ Color: '#d743be'
 Tag: Battlefield
 Color: '#cff0f7'
 ---
-Tag: Can Town
-Color: '#f7cf60'
----
 Tag: Derse
 Color: '#ff01fe'
 ---
 Tag: Dream Bubbles
 Color: '#c2b2eb'
----
-Tag: Earth
-Color: '#6bf45f'
----
-Tag: Ruined Earth
-Color: '#d9cbab'
 ---
 Tag: Felt Manor
 Color: '#008c45'
@@ -1776,83 +1880,12 @@ Color: '#f2a400'
 Tag: Deltritus
 Color: '#62c9e7'
 ---
-Tag: LoBaF
-Color: '#a1a100'
----
-Tag: LoCaH
-Color: '#00d5f2'
----
-Tag: LoCaM
-Color: '#888888'
----
-Tag: LoCaS
-Color: '#487aef'
----
-Tag: LoDaG
-Color: '#e30072'
----
-Tag: LoFaF
-Color: '#4ac925'
----
-Tag: LoFaM
-Color: '#aed6f0'
----
-Tag: LoHaC
-Color: '#e00707'
----
-Tag: LoLaR
-Color: '#b536da'
----
-Tag: LoLCaT
-Color: '#588a00'
----
-Tag: LoMaT
-Color: '#3796c6'
----
-Tag: LoMaX
-Color: '#1f9400'
----
-Tag: LoPaH
-Color: '#ff0000'
----
-Tag: LoPaN
-Color: '#ff6ff2'
----
-Tag: LoRaF
-Color: '#008f48'
----
-Tag: LoTaK
-Color: '#f2a400'
----
-Tag: LoTaM
-Color: '#a34bff'
----
-Tag: LoQaM
-Color: '#eb0000'
----
-Tag: LoSaZ
-Color: '#c36100'
----
-Tag: LoTaF
-Color: '#008b8b'
----
-Tag: LoWaA
-Color: '#db00db'
----
-Tag: LoWaS
-Color: '#666fe9'
----
-Tag: Meteor
+Tag: Trolls' Meteor
 Color: '#7c7e81'
----
-Tag: Prospit
-Color: '#ffff01'
----
-Tag: Skaia
-Color: '#4bdcf9'
----
-Tag: Veil
-Color: '#7c7c7c'
+Description: |-
+    The vessel a rowdy set of kids and trolls take on their way across the yellow yard; it houses an ectobiology lab and, like the other asteroids summoned during [[tag:reckoning|the Reckoning]], resided in [[tag:veil|the Veil]] - until [[tag:sollux]] sent it on its way.
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Trolls%27_meteor
 ---
 Tag: Dark Carnival
 Color: '#a34bff'
@@ -1979,8 +2012,6 @@ Color: '#855de2'
 ---
 Tag: Tsanzer (Desynced)
 Color: '#c285bd'
----
-Tag: Nibiru (Desynced)
 ---
 Tag: Aria (Oceanfalls)
 Color: '#9868bc'
@@ -2195,9 +2226,6 @@ Color: '#8a8a8a'
 Tag: White Noise (Vast Error)
 Color: '#ffffff'
 ---
-Tag: Bart
-Color: '#FFD90F'
----
 Tag: The Static
 Color: '#ffffff'
 ---
@@ -2207,16 +2235,19 @@ Color: '#ffffff'
 Tag: Repiton
 Color: '#B6C4C2'
 ---
+Tag: Bart
+Color: '#FFD90F'
+---
+Tag: Falkor
+Color: '#e1dcf1'
+---
 Tag: Sonic
 Color: '#4040ff'
 ---
 Tag: Shrek
 Color: '#a9c500'
 ---
-Tag: Falkor
-Color: '#e1dcf1'
----
-Tag: Varik (EarthBound Halloween Hack)
+Tag: Varik (EBHH)
 Color: '#780828'
 ---
 Tag: PDR Guy (PAY DAT RENT!!!1)
@@ -2356,6 +2387,372 @@ Color: '#C3C3C3'
 ---
 Tag: Boyfriend (Friday Night Funkin')
 Color: '#66ffff'
+---
+Tag: Locations
+Direct Descendant Tags:
+- Locations on Earth
+- Locations on Alternia
+- Locations in the Medium
+- More locations
+---
+Tag: Locations on Earth
+Direct Descendant Tags:
+- Earth
+- Ruined Earth
+- Flooded Earth
+- John's home
+- 'Maple Valley, WA'
+- Rose's home
+- 'Rainbow Falls, NY'
+- Dave's home
+- 'Houston, TX'
+- Jade's home
+- Pacific Island
+- Can Town
+- Skyship Base
+---
+Tag: Earth
+Color: '#6bf45f'
+---
+Tag: Ruined Earth
+Color: '#d9cbab'
+---
+Tag: Flooded Earth
+Color: '#33e2db'
+---
+Tag: John's home
+Color: '#5c66e8'
+---
+Tag: 'Maple Valley, WA'
+Color: '#5c66e8'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Egbert_home
+---
+Tag: Rose's home
+Color: '#b536da'
+---
+Tag: 'Rainbow Falls, NY'
+Color: '#b536da'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Lalonde_home
+---
+Tag: Dave's home
+Color: '#e00707'
+---
+Tag: 'Houston, TX'
+Color: '#e00707'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Strider_home
+---
+Tag: Jade's home
+Color: '#4ac925'
+---
+Tag: Pacific Island
+Color: '#4ac925'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pacific_island
+---
+Tag: Can Town
+Color: '#f7cf60'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Can_Town
+---
+Tag: Skyship Base
+Color: '#32e335'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Skyship_Base
+---
+Tag: Locations on Alternia
+Direct Descendant Tags:
+- Alternia
+---
+Tag: Locations in the Medium
+Direct Descendant Tags:
+- Lands in the Medium
+- Battlefield
+- Skaia
+- Prospit
+- Veil
+- Trolls' Meteor
+- Derse
+---
+Tag: Lands in the Medium
+Direct Descendant Tags:
+- LoWaS
+- LoLaR
+- LoHaC
+- LoFaF
+- LoCaH
+- LoPaN
+- LoTaK
+- LoMaX
+- LoQaM
+- LoSaZ
+- LoBaF
+- LoPaH
+- LoLCaT
+- LoRaF
+- LoMaT
+- LoCaS
+- LoWaA
+- LoTaM
+- LoDaG
+- LoCaM
+---
+Tag: LoWaS
+Color: '#666fe9'
+---
+Tag: LoLaR
+Color: '#b536da'
+---
+Tag: LoHaC
+Color: '#e00707'
+---
+Tag: LoFaF
+Color: '#4ac925'
+---
+Tag: LoCaH
+Color: '#00d5f2'
+---
+Tag: LoPaN
+Color: '#ff6ff2'
+---
+Tag: LoTaK
+Color: '#f2a400'
+---
+Tag: LoMaX
+Color: '#1f9400'
+---
+Tag: LoQaM
+Color: '#eb0000'
+---
+Tag: LoSaZ
+Color: '#c36100'
+---
+Tag: LoBaF
+Color: '#a1a100'
+---
+Tag: LoPaH
+Color: '#ff0000'
+---
+Tag: LoLCaT
+Color: '#588a00'
+---
+Tag: LoRaF
+Color: '#008f48'
+---
+Tag: LoTaF
+Color: '#008b8b'
+---
+Tag: LoMaT
+Color: '#3796c6'
+---
+Tag: LoCaS
+Color: '#487aef'
+---
+Tag: LoWaA
+Color: '#db00db'
+---
+Tag: LoTaM
+Color: '#a34bff'
+---
+Tag: LoDaG
+Color: '#e30072'
+---
+Tag: LoCaM
+Color: '#888888'
+---
+Tag: Prospit
+Color: '#ffff01'
+---
+Tag: Skaia
+Color: '#4bdcf9'
+---
+Tag: More locations
+Direct Descendant Tags:
+- LoFaM
+- Nibiru (Desynced)
+---
+Tag: LoFaM
+Color: '#aed6f0'
+---
+Tag: Nibiru (Desynced)
+---
+Tag: Veil
+Color: '#7c7c7c'
+---
+Tag: Objects
+Direct Descendant Tags:
+- Weapons
+- Recurring objects (Homestuck)
+- Unique objects (Homestuck)
+---
+Tag: Weapons
+Direct Descendant Tags:
+- Bladekind
+- Hammerkind
+- Pistolkind
+- Riflekind
+- Needlekind
+---
+Tag: Bladekind
+Direct Descendant Tags:
+- Caledfwlch
+- Caledscratch
+- Ninja Sword
+- Royal Deringer
+- Unbreakable Katana
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind
+---
+Tag: Caledfwlch
+Color: '#e8e8e8'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Caledfwlch
+---
+Tag: Caledscratch
+Color: '#f88424'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Caledscratch
+---
+Tag: Ninja Sword
+Color: '#a4a4a4'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Ninja_Sword
+---
+Tag: Royal Deringer
+Color: '#fff482'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Royal_Deringer
+---
+Tag: Unbreakable Katana
+Color: '#c3c3c3'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Unbreakable_Katana
+---
+Tag: Hammerkind
+Direct Descendant Tags:
+- Pogo Hammer
+- Telescopic Sassacrusher
+- Wrinklefucker
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hammerkind
+---
+Tag: Pogo Hammer
+Color: '#38f43d'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hammerkind#Pogo_Hammer
+---
+Tag: Telescopic Sassacrusher
+Color: '#c492f3'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hammerkind#Telescopic_Sassacrusher
+---
+Tag: Wrinklefucker
+Color: '#aeaeae'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hammerkind#Wrinklefucker
+---
+Tag: Pistolkind
+Direct Descendant Tags:
+- Twin M9 Berettas
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pistolkind
+---
+Tag: Twin M9 Berettas
+Color: '#a2a2a2'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pistolkind#Twin_M9_Berettas
+---
+Tag: Riflekind
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Riflekind
+---
+Tag: Needlekind
+Direct Descendant Tags:
+- Thorns of Oglogoth
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Needlekind
+---
+Tag: Thorns of Oglogoth
+Color: '#fcc3df'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Needlekind#Thorns_of_Oglogoth
+---
+Tag: Recurring objects (Homestuck)
+Direct Descendant Tags:
+- Fenestrology
+- Rockets
+- Scalemates
+- Smuppets
+---
+Tag: Fenestrology
+Color: '#bbbbbb'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Fenestrated_plane
+---
+Tag: Rockets
+Color: '#fc3120'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rocket
+---
+Tag: Scalemates
+Color: '#ffff01'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Scalemate
+---
+Tag: Smuppets
+Color: '#f2a400'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Puppet#Smuppets
+---
+Tag: Unique objects (Homestuck)
+Direct Descendant Tags:
+- Weapons (Homestuck)
+- Cue Ball
+- Eclectic Bass
+- Rag of Souls
+- Reckoning
+- Red Miles
+---
+Tag: Weapons (Homestuck)
+Direct Descendant Tags:
+- Caledfwlch
+- Caledscratch
+- Ninja Sword
+- Pogo Hammer
+- Telescopic Sassacrusher
+- Thorns of Oglogoth
+- Twin M9 Berettas
+- Unbreakable Katana
+- Wrinklefucker
+---
+Tag: Cue Ball
+Color: '#ffffff'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Cue_ball
+---
+Tag: Eclectic Bass
+Color: '#b9b9b9'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Jade%27s_inventory#Eclectic_Bass
+---
+Tag: Rag of Souls
+Color: '#c7c7c7'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Salamander#Clan_of_the_Secret_Wizard
+---
+Tag: Reckoning
+Color: '#a48787'
+Description: |-
+    Most typically, the meteors which [[tag:bk|the Black King]] summons after the forces of [[tag:prospit|Prospit]] are defeated on [[tag:battlefield|the Battlefield]]; this tag also applies to any representation of the immediate events during the Reckoning.
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Reckoning
+---
+Tag: Red Miles
+Color: '#ff2400'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Red_Miles
 ---
 Tag: alcohol
 Is CW: true
