@@ -45,6 +45,21 @@ Content: |-
     - fixed [[track:stellarum-salve]] not referencing [[track:hello-stardust]] (thanks, Grace!)
     - fixed [[track:the-souns-of-justis-full]] referencing [[track:cornered]] instead of [[track:pursuit-corner-the-culprit]]
 
+    <h2 id="06-oct-2023"><a href="#06-oct-2023">[[date:06 October 2023]] - the fixes are IN</a></h2>
+    <h3>bug fixes</h3>
+    - fixed "Random" link in album and track nav bars not working
+    <h3>data changes</h3>
+    - added "(wiki editor)", "(team manager)", and similar annotations to various commentary across the wiki
+    - added [[artist:block-monster]], [[artist:leo60228]], and [[artist:terepy-pipes]] artist pages
+    <h3>data &amp; media fixes</h3>
+    - restored original [[album:homestuck-vol-2]] track art for [[Showtime Remix]], [[Aggrieve Remix]], and [[Verdancy (Bassline)]] (thanks, Lilith!)
+    - restored original panel-cropped artwork in commentary for [[track:miracles]] (thanks, Lilith!)
+    - fixed [[track:switched-on-showtime]] being named "Switched On Showtime" (without the hyphen), and tagged it with [[tag:janes-grandpa]] (thanks, Makin!)
+    - fixed [[track:the-will-to-fight-further]] being credited to [[artist:marcy-nabors]] instead of [[artist:kevin-grant]]
+    - fixed [[track:fake-fruit-fiesta]] being credited to nobody, instead of [[artist:noisemaker]], and added art CWs
+    - fixed many typo'd or miscredited artist names in album commentary across the wiki
+    - fixed YouTube link for [[Sburban Reversal]] (thanks, Sgeo!)
+
     <h2 id="23-sep-2023"><a href="#23-sep-2023">[[date:23 September 2023]] - jerry's theme for deltarune ch. 7</a></h2>
     <h3>other additions</h3>
     - added [[track:penumbra-phantasm-morris]] by [[artist:morris]], the base for [[track:penumbral-awakening]] in [[album:lofam5a2]] (thanks, Morris!)
