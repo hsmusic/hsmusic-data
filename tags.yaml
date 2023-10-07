@@ -570,19 +570,9 @@ Direct Descendant Tags:
 ---
 Tag: Characters from beyond
 Direct Descendant Tags:
-- Characters from EarthBound Halloween Hack
-- Characters from Friday Night Funkin'
 - Characters from Oceanfalls
 - Characters from Undertale & Deltarune
 - Characters from other media
----
-Tag: Characters from EarthBound Halloween Hack
-Direct Descendant Tags:
-- Varik (EBHH)
----
-Tag: Characters from Friday Night Funkin'
-Direct Descendant Tags:
-- Boyfriend (Friday Night Funkin')
 ---
 Tag: Characters from Oceanfalls
 Direct Descendant Tags:
@@ -629,10 +619,74 @@ Direct Descendant Tags:
 ---
 Tag: Characters from other media
 Direct Descendant Tags:
-- Bart
+- Characters from EarthBound
+- Characters from EarthBound Halloween Hack
+- Characters from Friday Night Funkin'
+- Characters from The NeverEnding Story
+- Characters from Shrek
+- Characters from The Simpsons
+- Characters from Sonic
+---
+Tag: Characters from EarthBound
+Direct Descendant Tags:
+- Ness (EarthBound)
+- Paula (EarthBound)
+- Jeff (EarthBound)
+- Poo (EarthBound)
+---
+Tag: Ness (EarthBound)
+Color: '#ff0043'
+---
+Tag: Paula (EarthBound)
+Color: '#fd7d83'
+---
+Tag: Jeff (EarthBound)
+Color: '#80b173'
+---
+Tag: Poo (EarthBound)
+Color: '#f9fbf7'
+---
+Tag: Characters from EarthBound Halloween Hack
+Direct Descendant Tags:
+- Varik (EBHH)
+---
+Tag: Varik (EBHH)
+Color: '#780828'
+---
+Tag: Characters from Friday Night Funkin'
+Direct Descendant Tags:
+- Boyfriend (Friday Night Funkin')
+---
+Tag: Boyfriend (Friday Night Funkin')
+Color: '#66ffff'
+---
+Tag: Characters from The NeverEnding Story
+Direct Descendant Tags:
 - Falkor
+---
+Tag: Falkor
+Color: '#e1dcf1'
+---
+Tag: Characters from Shrek
+Direct Descendant Tags:
 - Shrek
+---
+Tag: Shrek
+Color: '#a9c500'
+---
+Tag: Characters from The Simpsons
+Direct Descendant Tags:
+- Bart
+---
+Tag: Bart
+Color: '#FFD90F'
+---
+Tag: Characters from Sonic
+Direct Descendant Tags:
 - Sonic
+---
+Tag: Sonic
+Color: '#4040ff'
 ---
 Tag: Species
 Direct Descendant Tags:
@@ -642,6 +696,7 @@ Direct Descendant Tags:
 - Leprechauns
 - Consorts
 - Sprites
+- Robots
 - Animal species
 ---
 Tag: Humans
@@ -667,10 +722,14 @@ Extra Reading URLs:
 Tag: More humans (Homestuck)
 Direct Descendant Tags:
 - AH
+- Game Bro
 - Hella Jeff
 - Sweet Bro
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Human
+---
+Tag: Game Bro
+Color: '#f2c079'
 ---
 Tag: Humans (Hiveswap)
 Direct Descendant Tags:
@@ -679,10 +738,42 @@ Direct Descendant Tags:
 ---
 Tag: Real-world humans
 Direct Descendant Tags:
+- Ben Affleck
 - Bing Crosby
+- Bruce Willis
+- John Cusack
+- Liv Tyler
+- Meg Ryan
+- Michael Guy Bowman
+- Nicolas Cage
+- Tavia Morra
+---
+Tag: Ben Affleck
+Color: '#ee972f'
 ---
 Tag: Bing Crosby
 Color: '#e1e1e1'
+---
+Tag: Bruce Willis
+Color: '#c9de63'
+---
+Tag: John Cusack
+Color: '#dBdeB5'
+---
+Tag: Liv Tyler
+Color: '#f2e550'
+---
+Tag: Meg Ryan
+Color: '#c6de9a'
+---
+Tag: Michael Guy Bowman
+Color: '#ffff01'
+---
+Tag: Nicolas Cage
+Color: '#f27225'
+---
+Tag: Tavia Morra
+Color: '#ff01fe'
 ---
 Tag: Trolls
 Description: |-
@@ -859,6 +950,7 @@ Extra Reading URLs:
 Tag: Sprites (Homestuck)
 Direct Descendant Tags:
 - Arquiusprite
+- Crowsprite
 - Davepeta
 - Davesprite
 - Harlequinsprite
@@ -869,6 +961,9 @@ Direct Descendant Tags:
 Tag: Harlequinsprite
 Color: '#00d5f2'
 ---
+Tag: Crowsprite
+Color: '#f2a400'
+---
 Tag: Jaspersprite
 Color: '#f141ef'
 ---
@@ -878,6 +973,25 @@ Color: '#00d5f2'
 Tag: Sprites (CaNWC)
 Direct Descendant Tags:
 - Bg'ogubmom'ibulsprite
+---
+Tag: Robots
+Direct Descendant Tags:
+- Robots (Homestuck)
+---
+Tag: Robots (Homestuck)
+Direct Descendant Tags:
+- Aradiabot
+- Equius' bots
+- Hal
+---
+Tag: Aradiabot
+Color: '#838383'
+---
+Tag: Equius' bots
+Color: '#487aef'
+---
+Tag: Hal
+Color: '#e00707'
 ---
 Tag: Consorts
 Direct Descendant Tags:
@@ -1330,8 +1444,32 @@ Extra Reading URLs:
 ---
 Tag: Denizens
 Color: '#47dff9'
+Direct Descendant Tags:
+- Typheus
+- Hephaestus
+- Echidna
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Denizen
+---
+Tag: Typheus
+Color: '#5c66e8'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Typheus
+---
+Tag: Cetus
+Color: '#b536da'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Cetus
+---
+Tag: Hephaestus
+Color: '#e00707'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hephaestus
+---
+Tag: Echidna
+Color: '#4ac925'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Echidna
 ---
 Tag: Cherubs
 Color: '#ff7600'
@@ -1885,7 +2023,7 @@ Color: '#7c7e81'
 Description: |-
     The vessel a rowdy set of kids and trolls take on their way across the yellow yard; it houses an ectobiology lab and, like the other asteroids summoned during [[tag:reckoning|the Reckoning]], resided in [[tag:veil|the Veil]] - until [[tag:sollux]] sent it on its way.
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Trolls%27_meteor
+- https://mspaintadventures.fandom.com/wiki/Trolls'_meteor
 ---
 Tag: Dark Carnival
 Color: '#a34bff'
@@ -2235,21 +2373,6 @@ Color: '#ffffff'
 Tag: Repiton
 Color: '#B6C4C2'
 ---
-Tag: Bart
-Color: '#FFD90F'
----
-Tag: Falkor
-Color: '#e1dcf1'
----
-Tag: Sonic
-Color: '#4040ff'
----
-Tag: Shrek
-Color: '#a9c500'
----
-Tag: Varik (EBHH)
-Color: '#780828'
----
 Tag: PDR Guy (PAY DAT RENT!!!1)
 Color: '#cb5116'
 ---
@@ -2385,9 +2508,6 @@ Color: '#a34bff'
 Tag: Elli (Breadstuck)
 Color: '#C3C3C3'
 ---
-Tag: Boyfriend (Friday Night Funkin')
-Color: '#66ffff'
----
 Tag: Locations
 Direct Descendant Tags:
 - Locations on Earth
@@ -2409,7 +2529,6 @@ Direct Descendant Tags:
 - Jade's home
 - Pacific Island
 - Can Town
-- Skyship Base
 ---
 Tag: Earth
 Color: '#6bf45f'
@@ -2457,14 +2576,21 @@ Color: '#f7cf60'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Can_Town
 ---
-Tag: Skyship Base
-Color: '#32e335'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Skyship_Base
----
 Tag: Locations on Alternia
 Direct Descendant Tags:
 - Alternia
+- Communal Hive Stems
+- Karkat's hive
+- Nepeta's hive
+---
+Tag: Communal Hive Stems
+Color: '#8de673'
+---
+Tag: Karkat's hive
+Color: '#7c7e81'
+---
+Tag: Nepeta's hive
+Color: '#588a00'
 ---
 Tag: Locations in the Medium
 Direct Descendant Tags:
@@ -2570,8 +2696,27 @@ Color: '#4bdcf9'
 ---
 Tag: More locations
 Direct Descendant Tags:
+- Command Stations
 - LoFaM
 - Nibiru (Desynced)
+---
+Tag: Command Stations
+Color: '#32e335'
+Direct Descendant Tags:
+- Skyship Base
+- Eggy-Looking Base
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Station
+---
+Tag: Skyship Base
+Color: '#32e335'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Skyship_Base
+---
+Tag: Eggy-Looking Base
+Color: '#32e335'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Eggy-Looking_Base
 ---
 Tag: LoFaM
 Color: '#aed6f0'
@@ -2583,27 +2728,73 @@ Color: '#7c7c7c'
 ---
 Tag: Objects
 Direct Descendant Tags:
+- Musical Instruments
 - Weapons
 - Recurring objects (Homestuck)
 - Unique objects (Homestuck)
 ---
+Tag: Musical Instruments
+Direct Descendant Tags:
+- Piano
+- Violin
+- Turntables
+- Bass
+---
+Tag: Piano
+Color: '#5c66e8'
+Direct Descendant Tags:
+- Standing Piano
+---
+Tag: Standing Piano
+Color: '#5c66e8'
+---
+Tag: Violin
+Color: '#b536da'
+---
+Tag: Turntables
+Color: '#e00707'
+---
+Tag: Bass
+Color: '#4ac925'
+Direct Descendant Tags:
+- Eclectic Bass
+---
+Tag: Eclectic Bass
+Color: '#4ac925'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Jade's_inventory#Eclectic_Bass
+---
 Tag: Weapons
 Direct Descendant Tags:
 - Bladekind
+- Bowkind
+- Canekind
+- Clubkind
 - Hammerkind
+- Jokerkind
+- Makeupkind
+- Needlekind
 - Pistolkind
 - Riflekind
-- Needlekind
+- Sicklekind
+- Wandkind
 ---
 Tag: Bladekind
 Direct Descendant Tags:
+- Ancestral Awakening
 - Caledfwlch
 - Caledscratch
 - Ninja Sword
+- Regisword
 - Royal Deringer
 - Unbreakable Katana
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind
+---
+Tag: Ancestral Awakening
+Color: '#5e67e5'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Ancestral_Awakening_Sword
 ---
 Tag: Caledfwlch
 Color: '#e8e8e8'
@@ -2620,6 +2811,11 @@ Color: '#a4a4a4'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Ninja_Sword
 ---
+Tag: Regisword
+Color: '#9a9a9a'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Regisword
+---
 Tag: Royal Deringer
 Color: '#fff482'
 Extra Reading URLs:
@@ -2630,10 +2826,50 @@ Color: '#c3c3c3'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Unbreakable_Katana
 ---
+Tag: Bowkind
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bowkind
+---
+Tag: Canekind
+Direct Descendant Tags:
+- Dragon Cane
+- Walking Cane
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Canekind
+---
+Tag: Dragon Cane
+Color: '#d73030'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Canekind#Dragon_Cane
+---
+Tag: Walking Cane
+Color: '#f2bcbc'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Canekind#Walking_Cane
+---
+Tag: Clawkind
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Clawkind
+---
+Tag: Action Claws
+Color: '#b3e7fa'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Clawkind#Action_Claws
+---
+Tag: Clubkind
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Clubkind
+---
+Tag: Deuce Clubs
+Color: '#a47ec0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Clubkind#Deuce_Clubs
+---
 Tag: Hammerkind
 Direct Descendant Tags:
 - Pogo Hammer
 - Telescopic Sassacrusher
+- Warhammer of Zillyhoo
 - Wrinklefucker
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hammerkind
@@ -2648,10 +2884,40 @@ Color: '#c492f3'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hammerkind#Telescopic_Sassacrusher
 ---
+Tag: Warhammer of Zillyhoo
+Color: '#fcff00'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Warhammer_of_Zillyhoo
+---
 Tag: Wrinklefucker
 Color: '#aeaeae'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hammerkind#Wrinklefucker
+---
+Tag: Jokerkind
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Jokerkind
+---
+Tag: Makeupkind
+Direct Descendant Tags:
+- Lipstick
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Makeupkind
+---
+Tag: Lipstick
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Makeupkind#Lipstick
+---
+Tag: Needlekind
+Direct Descendant Tags:
+- Thorns of Oglogoth
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Needlekind
+---
+Tag: Thorns of Oglogoth
+Color: '#fcc3df'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Needlekind#Thorns_of_Oglogoth
 ---
 Tag: Pistolkind
 Direct Descendant Tags:
@@ -2665,23 +2931,46 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Pistolkind#Twin_M9_Berettas
 ---
 Tag: Riflekind
+Direct Descendant Tags:
+- Ahab's Crosshairs
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind
 ---
-Tag: Needlekind
-Direct Descendant Tags:
-- Thorns of Oglogoth
+Tag: Ahab's Crosshairs
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Needlekind
+- https://mspaintadventures.fandom.com/wiki/Riflekind#Ahab's_Crosshairs
 ---
-Tag: Thorns of Oglogoth
-Color: '#fcc3df'
+Tag: Sicklekind
+Direct Descendant Tags:
+- Clawsickle
+- Homes Smell Ya Later
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Needlekind#Thorns_of_Oglogoth
+- https://mspaintadventures.fandom.com/wiki/Sicklekind
+---
+Tag: Clawsickle
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sicklekind#Clawsickle
+---
+Tag: Homes Smell Ya Later
+Color: '#fff75f'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sicklekind#Homes_Smell_Ya_Later
+---
+Tag: Wandkind
+Direct Descendant Tags:
+- Empiricist's Wand
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wandkind
+---
+Tag: Empiricist's Wand
+Color: '#f6eed3'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wandkind#Empiricist's_wand
 ---
 Tag: Recurring objects (Homestuck)
 Direct Descendant Tags:
 - Fenestrology
+- Musical Instruments
 - Rockets
 - Scalemates
 - Smuppets
@@ -2711,20 +3000,33 @@ Direct Descendant Tags:
 - Weapons (Homestuck)
 - Cue Ball
 - Eclectic Bass
+- Queen's Ring
 - Rag of Souls
 - Reckoning
 - Red Miles
 ---
 Tag: Weapons (Homestuck)
 Direct Descendant Tags:
+- Action Claws
+- Ahab's Crosshairs
+- Ancestral Awakening
 - Caledfwlch
 - Caledscratch
+- Deuce Clubs
+- Dragon Cane
+- Empiricist's Wand
+- Homes Smell Ya Later
+- Lipstick
 - Ninja Sword
 - Pogo Hammer
+- Regisword
+- Royal Deringer
 - Telescopic Sassacrusher
 - Thorns of Oglogoth
 - Twin M9 Berettas
 - Unbreakable Katana
+- Walking Cane
+- Warhammer of Zillyhoo
 - Wrinklefucker
 ---
 Tag: Cue Ball
@@ -2732,10 +3034,10 @@ Color: '#ffffff'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Cue_ball
 ---
-Tag: Eclectic Bass
-Color: '#b9b9b9'
+Tag: Queen's Ring
+Color: '#fff716'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Jade%27s_inventory#Eclectic_Bass
+- https://mspaintadventures.fandom.com/wiki/Ring
 ---
 Tag: Rag of Souls
 Color: '#c7c7c7'
