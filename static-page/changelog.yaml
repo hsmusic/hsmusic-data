@@ -29,6 +29,8 @@ Style: |-
     }
 Content: |-
     <h2 id="25-oct-2099" class="major-release"><a href="#25-oct-2099">[[date:25 October 2099]] - Allan please add details</a></h2>
+    <h3>site changes</h3>
+    - redesigned album commentary page to have a sticky sidebar for navigating tracks, as well as track artworks; check out [[album-commentary:lofam5a2]], [[album-commentary:beforus]] and [[album-commentary:homestuck-vol-10]] for some examples
     <h3>albums</h3>
     - added [[album:stuckhome-syndrome-part-one-v1]] (thanks, Grace!)
     - added SIX albums from [[group:canmt]]! (thanks, Makin!)
@@ -42,6 +44,42 @@ Content: |-
     - fixed [[track:boy-skylark-brief]] not referencing/sampling [[track:boy-skylark]] (thanks, Grace!)
     - fixed [[track:stellarum-salve]] not referencing [[track:hello-stardust]] (thanks, Grace!)
     - fixed [[track:the-souns-of-justis-full]] referencing [[track:cornered]] instead of [[track:pursuit-corner-the-culprit]]
+
+    <h2 id="06-oct-2023"><a href="#06-oct-2023">[[date:06 October 2023]] - the fixes are IN</a></h2>
+    <h3>bug fixes</h3>
+    - fixed "Random" link in album and track nav bars not working
+    <h3>data changes</h3>
+    - added "(wiki editor)", "(team manager)", and similar annotations to various commentary across the wiki
+    - added [[artist:block-monster]], [[artist:leo60228]], and [[artist:terepy-pipes]] artist pages
+    <h3>data &amp; media fixes</h3>
+    - restored original [[album:homestuck-vol-2]] track art for [[Showtime Remix]], [[Aggrieve Remix]], and [[Verdancy (Bassline)]] (thanks, Lilith!)
+    - restored original panel-cropped artwork in commentary for [[track:miracles]] (thanks, Lilith!)
+    - fixed [[track:switched-on-showtime]] being named "Switched On Showtime" (without the hyphen), and tagged it with [[tag:janes-grandpa]] (thanks, Makin!)
+    - fixed [[track:the-will-to-fight-further]] being credited to [[artist:marcy-nabors]] instead of [[artist:kevin-grant]]
+    - fixed [[track:fake-fruit-fiesta]] being credited to nobody, instead of [[artist:noisemaker]], and added art CWs
+    - fixed many typo'd or miscredited artist names in album commentary across the wiki
+    - fixed YouTube link for [[Sburban Reversal]] (thanks, Sgeo!)
+
+    <h2 id="23-sep-2023"><a href="#23-sep-2023">[[date:23 September 2023]] - jerry's theme for deltarune ch. 7</a></h2>
+    <h3>other additions</h3>
+    - added [[track:penumbra-phantasm-morris]] by [[artist:morris]], the base for [[track:penumbral-awakening]] in [[album:lofam5a2]] (thanks, Morris!)
+    - replaced heavyweight (\~2MB) background art for [[album:psycholonials]] (and EPs) with optimized version (\~200kB)
+    <h3>data fixes</h3>
+    - fixed [[track:bound-in-blood-beta]] not referencing [[track:doctor]] (thanks, Jebb!)
+    - fixed [[track:vriskafic8ion]] not referencing [[track:killed-by-br8k-spider]] (thanks, Lilith!)
+    - added various missing art tags
+        - added [[tag:alternia]] to [[track:tumescent]], [[track:vwigor8us]]
+        - added [[tag:beforus]] to [[track:cheater-pan]], [[track:damiterneightions]], [[track:tree-dwellers]], [[track:east-beforan-funk]]
+        - added [[tag:dream-bubbles]] to [[track:vwiolet-vwelvwet]]
+        - added [[tag:frog-temple]] to [[track:disc1-beforus]]
+        - added [[tag:gate]] to [[track:times-apostate]]
+        - added [[tag:june]] to [[track:vriskafic8ion]] (thanks, Lilith!)
+        - added [[tag:loqam]] to [[track:rust-witch]], [[track:press-a-to-reset]], [[track:the-scratch-before-the-calm]], [[track:motions-of-infinity]]
+        - added [[tag:matriorb]] to [[track:rainbow-rebirth]]
+        - added [[tag:tumor]] to [[track:game-lost]]
+        - added [[tag:veil]] to [[track:cosmic-malfunction]]
+        - added [[tag:victory-platform]] (new tag) to [[track:farewell]], [[track:higher-hopes]], [[track:disc2-beforus]], [[track:black-hole-white-door]], [[track:reunion]]
+        - [[track:720x-showdown-combo]]: added [[tag:the-condesce]], [[tag:consorts]], [[tag:battlefield]], [[tag:earth]]
 
     <h2 id="20-sep-2023"><a href="#20-sep-2023">[[date:20 September 2023]] - after<sup>2</sup>party cleanup</a></h2>
     <h3>bug fixes</h3>
