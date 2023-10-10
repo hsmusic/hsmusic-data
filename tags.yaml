@@ -1158,9 +1158,13 @@ Tag: Birds
 Color: '#ee3333'
 Direct Descendant Tags:
 - Crows
+- Hummingbirds
 ---
 Tag: Crows
 Color: '#ee3333'
+---
+Tag: Hummingbirds
+Color: '#ec73ed'
 ---
 Tag: Cats
 Color: '#eee333'
@@ -2918,8 +2922,12 @@ Direct Descendant Tags:
 ---
 Tag: Keyboard Instruments
 Direct Descendant Tags:
+- Keyboard
 - Piano
 - Organ
+---
+Tag: Keyboard
+Color: '#5c66e8'
 ---
 Tag: Piano
 Color: '#5c66e8'
@@ -3158,6 +3166,7 @@ Extra Reading URLs:
 Tag: Pistolkind
 Direct Descendant Tags:
 - Twin M9 Berettas
+- White Magnum
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Pistolkind
 ---
@@ -3166,23 +3175,39 @@ Color: '#a2a2a2'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Pistolkind#Twin_M9_Berettas
 ---
+Tag: White Magnum
+Color: '#e2e2e2'
+Description: |-
+    Doubles as the [[tag:white-wand]].
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pistolkind#White_magnum
+---
 Tag: Riflekind
 Direct Descendant Tags:
 - Ahab's Crosshairs
+- Black Rifle
 - Blunderbuss
 - Laser Gun
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind
 ---
 Tag: Ahab's Crosshairs
+Color: '#5958ef'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind#Ahab's_Crosshairs
 ---
+Tag: Black Rifle
+Color: '#818181'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Riflekind#Black_Rifle
+---
 Tag: Blunderbuss
+Color: '#1f9400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind#Blunderbuss
 ---
 Tag: Laser Gun
+Color: '#d7d7d7'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind#Laser_Gun
 ---
@@ -3205,6 +3230,7 @@ Extra Reading URLs:
 Tag: Wandkind
 Direct Descendant Tags:
 - Empiricist's Wand
+- White Wand
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wandkind
 ---
@@ -3212,6 +3238,13 @@ Tag: Empiricist's Wand
 Color: '#f6eed3'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wandkind#Empiricist's_wand
+---
+Tag: White Wand
+Color: '#e2e2e2'
+Description: |-
+    Doubles as the [[tag:white-magnum]].
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wandkind#White_wand
 ---
 Tag: Recurring objects (Homestuck)
 Direct Descendant Tags:
