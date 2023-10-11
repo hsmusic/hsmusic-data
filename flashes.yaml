@@ -1,6 +1,6 @@
-Color: '#7799ff'
 Act: Act 1 - The Note Desolation Plays
-Anchor: a1
+Directory: a1
+Color: '#7799ff'
 Jump: Side 1 (Acts 1-5)
 Jump Color: '#4ac925'
 ---
@@ -73,9 +73,9 @@ Featured Tracks:
 Flash: '[S] John: Take bite of apple.'
 Page: '246'
 ---
-Color: '#ff5555'
 Act: Act 2 - Raise of the Conductor's Baton
-Anchor: a2
+Directory: a2
+Color: '#ff5555'
 ---
 Date: June 14, 2009
 URLs:
@@ -215,9 +215,9 @@ Featured Tracks:
 Flash: '[S] WV: Ascend.'
 Page: '757'
 ---
-Color: '#55ff77'
 Act: Act 3 - Insane Corkscrew Haymakers
-Anchor: a3
+Directory: a3
+Color: '#55ff77'
 ---
 Date: October 15, 2009
 Featured Tracks:
@@ -367,9 +367,9 @@ Featured Tracks:
 Flash: '[S] Enter.'
 Page: '1149'
 ---
-Color: '#22cc22'
 Act: Intermission - Don't Bleed on the Suits.
-Anchor: i1
+Directory: i1
+Color: '#22cc22'
 ---
 Date: January 29, 2010
 URLs:
@@ -379,9 +379,9 @@ Featured Tracks:
 Flash: '[S][I] ==>'
 Page: '1267'
 ---
-Color: '#b536da'
 Act: Act 4 - Flight of the Paradox Clones
-Anchor: a4
+Directory: a4
+Color: '#b536da'
 ---
 Date: February 10, 2010
 URLs:
@@ -477,9 +477,9 @@ Featured Tracks:
 Flash: '[S] Descend.'
 Page: '1940'
 ---
-Color: '#0000ff'
 Act: 'Act 5 Act 1 - <span style="color: #008b8b">MOB1US DOUBL3 R34CH4ROUND</span>'
-Anchor: a5a1
+Directory: a5a1
+Color: '#0000ff'
 ---
 Date: June 22, 2010
 URLs:
@@ -515,9 +515,9 @@ Featured Tracks:
 Flash: '[S] Make her pay.'
 Page: '2578'
 ---
-Color: '#ff0000'
 Act: 'Act 5 Act 2 - <span style="color: #2ed73a">He is already here.</span>'
-Anchor: a5a2
+Directory: a5a2
+Color: '#ff0000'
 ---
 Date: September 19, 2010
 URLs:
@@ -862,9 +862,9 @@ Featured Tracks:
 Flash: '[S] Cascade.'
 Page: '4109'
 ---
-Color: '#22cc22'
 Act: Intermission 2 - The Man in the Cairo Overcoat.
-Anchor: i2
+Directory: i2
+Color: '#22cc22'
 ---
 Date: October 31, 2011
 URLs:
@@ -875,9 +875,9 @@ Featured Tracks:
 Flash: '[S] Begin intermission 2.'
 Page: '4111'
 ---
-Color: '#7799ff'
 Act: Act 6 Act 1 - Through Broken Glass
-Anchor: a6a1
+Directory: a6a1
+Color: '#7799ff'
 Jump: Side 2 (Acts 6-7)
 Jump Color: '#1076a2'
 ---
@@ -902,9 +902,9 @@ Featured Tracks:
 Flash: '[S] Jane: Get mail.'
 Page: '4282'
 ---
-Color: '#eb0000'
 Act: Act 6 Intermission 1 - corpse party
-Anchor: a6i1
+Directory: a6i1
+Color: '#eb0000'
 ---
 Date: December 23, 2011
 URLs:
@@ -923,9 +923,9 @@ Featured Tracks:
 Flash: '[S] END OF ACT 6 INTERMISSION 1'
 Page: '4390'
 ---
-Color: '#f2a400'
 Act: Act 6 Act 2 - Your shit is wrecked.
-Anchor: a6a2
+Directory: a6a2
+Color: '#f2a400'
 ---
 Date: January 21, 2011
 URLs:
@@ -975,9 +975,9 @@ Featured Tracks:
 Flash: '[S] Jane: Enter.'
 Page: '4665'
 ---
-Color: '#e00707'
 Act: Act 6 Intermission 2 - penis ouija
-Anchor: a6i2
+Directory: a6i2
+Color: '#e00707'
 ---
 Date: April 3, 2012
 Featured Tracks:
@@ -985,9 +985,9 @@ Featured Tracks:
 Flash: '[S][A6I2] ???'
 Page: '4815'
 ---
-Color: '#8899cc'
 Act: Act 6 Act 3 - Nobles
-Anchor: a6a3
+Directory: a6a3
+Color: '#8899cc'
 ---
 Date: April 14, 2012
 URLs:
@@ -1060,9 +1060,9 @@ Featured Tracks:
 Flash: '[S] Caliborn: Enter.'
 Page: '5261'
 ---
-Color: '#b536da'
 Act: Act 6 Intermission 3 - Ballet of the Dancestors
-Anchor: a6i3
+Directory: a6i3
+Color: '#b536da'
 ---
 Contributors:
 - Amanda H. (art)
@@ -1185,9 +1185,9 @@ Featured Tracks:
 Flash: '[S][A6I3] MINISTRIFE!!!'
 Page: '5427'
 ---
-Color: '#cccccc'
 Act: Act 6 Act 4 - Void
-Anchor: a6a4
+Directory: a6a4
+Color: '#cccccc'
 ---
 Date: November 12, 2012
 URLs:
@@ -1204,9 +1204,9 @@ Featured Tracks:
 Flash: '[S] ==>'
 Page: '5440'
 ---
-Color: '#777777'
 Act: Act 6 Intermission 4 - Dead
-Anchor: a6i4
+Directory: a6i4
+Color: '#777777'
 ---
 Date: November 18, 2012
 Featured Tracks:
@@ -1250,9 +1250,9 @@ Featured Tracks:
 Flash: '[!!!][A6I4] ==>'
 Page: '5495'
 ---
-Color: '#ffee00'
 Act: Act 6 Act 5 - Of Gods and Tricksters
-Anchor: a6a5
+Directory: a6a5
+Color: '#ffee00'
 ---
 Date: November 28, 2012
 URLs:
@@ -1337,10 +1337,10 @@ Featured Tracks:
 Flash: '[S] HA HA HA! HE HE HE! HO HO HO!'
 Page: '5777'
 ---
-Color: '#77ff88'
 Act: 'Act 6 Intermission 5 - <span style="color: #929292">I''M PUTTING YOU ON SPEAKER
     CRAB.</span>'
-Anchor: a6i5
+Directory: a6i5
+Color: '#77ff88'
 ---
 Date: March 10, 2013
 URLs:
@@ -1370,9 +1370,9 @@ Featured Tracks:
 Flash: '[S][A6I5] ==>'
 Page: '6231'
 ---
-Color: '#2ed73a'
 Act: Act 6 Act 6 Act 1 - HOMOSUCK
-Anchor: a6a6a1
+Directory: a6a6a1
+Color: '#2ed73a'
 ---
 Date: June 12, 2013
 URLs:
@@ -1382,9 +1382,9 @@ Featured Tracks:
 Flash: '[S] ACT 6 ACT 6'
 Page: '6243'
 ---
-Color: '#dddddd'
 Act: Act 6 Act 6 Intermission 1 - Stardust
-Anchor: a6a6i1
+Directory: a6a6i1
+Color: '#dddddd'
 ---
 Date: June 14, 2013
 URLs:
@@ -1403,9 +1403,9 @@ Featured Tracks:
 Flash: '[S][A6A6I1] ====>'
 Page: '6400'
 ---
-Color: '#e00707'
 Act: Act 6 Act 6 Intermission 2 - theres problems
-Anchor: a6a6i2
+Directory: a6a6i2
+Color: '#e00707'
 ---
 Date: September 3, 2013
 Featured Tracks:
@@ -1413,9 +1413,9 @@ Featured Tracks:
 Flash: '[S][A6A6I2] ====>'
 Page: '6552'
 ---
-Color: '#dddddd'
 Act: Act 6 Act 6 Intermission 3 - GAME OVER
-Anchor: a6a6i3
+Directory: a6a6i3
+Color: '#dddddd'
 ---
 Contributors:
 - Hanni Brosh (art)
@@ -1433,9 +1433,9 @@ Featured Tracks:
 Flash: '[S] GAME OVER.'
 Page: '6901'
 ---
-Color: '#4466ff'
 Act: 'Act 6 Act 6 Intermission 4 - <span style="color: #008b8b">F1X TH1S</span>'
-Anchor: a6a6i4
+Directory: a6a6i4
+Color: '#4466ff'
 ---
 Date: November 24, 2014
 Featured Tracks:
@@ -1464,9 +1464,9 @@ Featured Tracks:
 Flash: '[S][A6A6I4] ====>'
 Page: '7405'
 ---
-Color: '#55ff00'
 Act: Act 6 Act 6 Act 5 - MASTERPIECE
-Anchor: a6a6a5
+Directory: a6a6a5
+Color: '#55ff00'
 ---
 Date: April 13, 2015
 Featured Tracks:
@@ -1483,9 +1483,9 @@ Featured Tracks:
 Flash: '[S] MSPA Reader: Mental breakdown.'
 Page: '7448'
 ---
-Color: '#00ffff'
 Act: 'Act 6 Act 6 Intermission 5 - <span style="color: #1076a2">She''s 8ack</span>'
-Anchor: a6a6i5
+Directory: a6a6i5
+Color: '#00ffff'
 ---
 Contributors:
 - Xamag (art)
@@ -1534,9 +1534,9 @@ Featured Tracks:
 Flash: '[S] Terezi: Remem8er.'
 Page: '7959'
 ---
-Color: '#ee1100'
 Act: 'Act 6 Act 6 Act 6 - <span style="color: #ff0000">Collide.</span>'
-Anchor: a6a6a6
+Directory: a6a6a6
+Color: '#ee1100'
 ---
 Contributors:
 - Adrienne Garcia (art)
@@ -1569,9 +1569,9 @@ Featured Tracks:
 Flash: '[S] Collide.'
 Page: '8087'
 ---
-Color: '#dddddd'
 Act: 'Act 7 - <span style="color: #c7ff43">The Rapture</span><br><i>&amp; Post Canon</i>'
-Anchor: a7
+Directory: a7
+Color: '#dddddd'
 ---
 Contributors:
 - Angela Sham
@@ -1601,9 +1601,9 @@ Featured Tracks:
 Flash: '[S] ==>'
 Page: '8130'
 ---
-Color: '#33cc77'
 Act: Hiveswap
-Anchor: hiveswap
+Directory: hiveswap
+Color: '#33cc77'
 Jump: Hiveswap
 ---
 Directory: hiveswap-act1
@@ -1788,9 +1788,9 @@ Featured Tracks:
 - Fight of the Bumblebee
 Flash: Hiveswap Act 2
 ---
-Color: '#d3ff8f'
 Act: Hiveswap Friendsim
-Anchor: friendsim
+Directory: friendsim
+Color: '#d3ff8f'
 Jump: Hiveswap Friendsim
 ---
 Directory: fs-vol1
@@ -2036,9 +2036,9 @@ Featured Tracks:
 - WORST END
 Flash: Of Hosts, Excellent
 ---
-Color: '#71daff'
 Act: Pesterquest
-Anchor: pesterquest
+Directory: pesterquest
+Color: '#71daff'
 Jump: Pesterquest
 ---
 Directory: pq-vol1
@@ -2230,9 +2230,9 @@ Featured Tracks:
 - Embittered Shore
 Flash: Just Go Ahead Now
 ---
-Color: '#f51806'
 Act: Psycholonials
-Anchor: psycholonials
+Directory: psycholonials
+Color: '#f51806'
 Jump: Psycholonials
 ---
 Directory: psycholonials
@@ -2389,9 +2389,9 @@ Featured Tracks:
 - track:together-vocal-remix
 Flash: A Sword And A Crown
 ---
-Color: '#00cde0'
 Act: Cool and New Web Comic
-Anchor: cool-and-new-web-comic
+Directory: cool-and-new-web-comic
+Color: '#00cde0'
 Jump: Fan Adventures
 ---
 Flash: '{s]every one; enter'
@@ -2617,9 +2617,9 @@ URLs:
 - hhttps://mspfa.com/?s=31376&p=133
 - https://www.youtube.com/watch?v=mDri9wioeOM
 ---
-Color: '#7c7e81'
 Act: Karkat Goes to a Convention
-Anchor: karkat-goes-to-a-convention
+Directory: karkat-goes-to-a-convention
+Color: '#7c7e81'
 ---
 Flash: '[S] Karkat: Greet friends!'
 Directory: karkat-greet-friends
@@ -2794,9 +2794,9 @@ URLs:
 - https://mspfa.com/?s=27317&p=2008
 - https://www.youtube.com/watch?v=pQJW5bnFNDk
 ---
-Color: '#fdc500'
 Act: Loftlocked
-Anchor: loftlocked
+Directory: loftlocked
+Color: '#fdc500'
 ---
 Flash: '[S] Ella: Quick! Calm yourself with a haunting piano refrain! '
 Directory: ella-quick-calm-yourself
@@ -2944,9 +2944,9 @@ URLs:
 - https://www.deviantart.com/patmandx/art/Erica-Play-475730393
 - https://mspfa.com/?s=988&p=1130
 ---
-Color: '#029cfd'
 Act: Alternate Session
-Anchor: alternate-session
+Directory: alternate-session
+Color: '#029cfd'
 ---
 # Multi-page flash
 Flash: '[S] Johnsprite: Speak to your denizen.'
@@ -3011,9 +3011,9 @@ URLs:
 # Skipping the 28 pages between these two, you get the gist
 - https://mspfa.com/?s=33953&p=652
 ---
-Color: '#cec2b6'
 Act: Double Death of the Author
-Anchor: double-death-of-the-author
+Directory: double-death-of-the-author
+Color: '#cec2b6'
 ---
 Flash: '[S] >TEREZI: B3 TH3 4C3 4TTORN3Y'
 Directory: terezi-be-the-ace-attorney
@@ -3102,9 +3102,9 @@ URLs:
 - https://mspfa.com/?s=12003&p=1514
 - https://www.youtube.com/watch?v=9TC1cWfL6gI
 ---
-Color: '#ffffff'
 Act: 'Jailbreak^2: Beyond Canon'
-Anchor: jailbreak-2-beyond-canon
+Directory: jailbreak-2-beyond-canon
+Color: '#ffffff'
 ---
 Flash: '[TITLE SCREEN]'
 Directory: title-screen-jailbreak-2
@@ -3306,9 +3306,9 @@ URLs:
 - https://mspfa.com/?s=35904&p=1336
 - https://www.youtube.com/watch?v=MQsb33X85b0
 ---
-Color: '#4ac925'
 Act: The Fan Adventure Known as "Homestuck"
-Anchor: the-fan-adventure-known-as-homestuck
+Directory: the-fan-adventure-known-as-homestuck
+Color: '#4ac925'
 ---
 Flash: '[S] ==>'
 Directory: next-not-homestuck
@@ -3464,7 +3464,7 @@ URLs:
 ---
 Act: Nightfall
 Color: '#005682'
-Anchor: nightfall
+Directory: nightfall
 ---
 Flash: '[S] Liz: STRIFE!'
 Directory: liz-strife
@@ -3492,7 +3492,7 @@ URLs:
 ---
 Act: Mr. Tambourine Man
 Color: '#0715cd'
-Anchor: mr-tambourine-man
+Directory: mr-tambourine-man
 ---
 Flash: '[S] Dave: Strife!'
 Directory: dave-strife-mr-tambourine-man
@@ -3526,7 +3526,7 @@ URLs:
 ---
 Act: Hexane Universe
 Color: '#dc0067'
-Anchor: hexane
+Directory: hexane
 ---
 Flash: '[S] 0001, 0002, 0003, Amoria: Behold glory of Bloody Hell.'
 Directory: behold-glory-of-bloody-hell
@@ -3563,7 +3563,7 @@ URLs:
 ---
 Act: The Crow Strider AU
 Color: '#ff0000'
-Anchor: the-crow-strider-au
+Directory: the-crow-strider-au
 ---
 Flash: '[S]Heir of grief: PLAY'
 Directory: heir-of-grief-play
@@ -3595,7 +3595,7 @@ URLs:
 ---
 Act: 'Sburb: Refresh'
 Color: '#b57a41'
-Anchor: sburb-refresh
+Directory: sburb-refresh
 ---
 Flash: '[S] Jeff: STRIFE!'
 Directory: jeff-strife
@@ -3707,7 +3707,7 @@ URLs:
 ---
 Act: Le me playing Sburb
 Color: '#ffffff'
-Anchor: le-me-playing-sburb
+Directory: le-me-playing-sburb
 ---
 Flash: '[S] Step 3: Enter le game.'
 Directory: step-3-enter-le-game
@@ -3756,7 +3756,7 @@ URLs:
 ---
 Act: Act 8
 Color: '#fbae20'
-Anchor: act-8
+Directory: act-8
 ---
 Flash: '[S]Start'
 Directory: start-act8
@@ -3790,7 +3790,7 @@ URLs:
 ---
 Act: HeavenSent
 Color: '#de0093'
-Anchor: heaven-sent
+Directory: heaven-sent
 ---
 Flash: '[S] Horrible Start'
 Directory: horrible-start
@@ -3818,7 +3818,7 @@ URLs:
 ---
 Act: Other Fan Adventures
 Color: '#fafafa'
-Anchor: other-fan-adventures
+Directory: other-fan-adventures
 ---
 Flash: 'Apocryphal Antithesis: Opening Flash'
 Directory: apocryphal-antithesis-opening-flash
@@ -4082,10 +4082,10 @@ URLs:
 - https://mspfa.com/?s=50076&p=212
 - https://www.youtube.com/watch?v=F41HZ9ZkzMM
 ---
-Color: '#fafafa'
 Act: Fan Animations
-Anchor: fan-animations
+Directory: fan-animations
 Jump: Fan Animations
+Color: '#fafafa'
 ---
 Flash: 'MOVIE #1: hooly SHIT, wear a MOVIE???????????'
 Directory: sbahj-movie-1
@@ -4117,9 +4117,9 @@ Featured Tracks:
 URLs:
 - https://www.youtube.com/watch?v=hnG10rk9lqg
 ---
-Color: '#0088ff'
 Act: Miscellaneous
-Anchor: miscellaneous
+Directory: miscellaneous
+Color: '#0088ff'
 Jump: Miscellaneous
 ---
 Flash: Namco High
