@@ -1049,6 +1049,14 @@ Lyrics: |-
     (A-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a—) Awesome! Awesome! Awesome! Awesome!
     Mi-chael-Bow-man...
 ---
+Track: mus_star
+# No official release, duration is from the in-game audio loop.
+Artists:
+- Toby Fox
+Duration: '0:45'
+URLs:
+- https://www.youtube.com/watch?v=sCOzuO2EsQQ
+---
 Track: Nightmare Knight
 Artists:
 - Toby Fox
@@ -1163,11 +1171,19 @@ Lyrics: |-
     I only have myself to blame
     If you were me you'd do the same
 ---
-Track: Old Skacret
-# Dead URL https://soundcloud.com/jamesroachmusic/old-skacret, no archive
-Duration: '0:10'
+Track: Nuclear
+# Unreleased, but shows up as often in James Roach's discography as Megalovania does in Toby Fox's
 Artists:
 - James Roach
+Duration: '3:36'
+URLs:
+- https://hsmusic.wiki/media/misc/archive/Nuclear.mp3
+---
+Track: Old Skacret
+# Dead URL https://soundcloud.com/jamesroachmusic/old-skacret, no archive
+Artists:
+- James Roach
+Duration: '0:10'
 Commentary: |-
     <i>Makin:</i> (wiki editor)
     James Roach took down this track after a year or two and never reuploaded it.
@@ -1805,6 +1821,18 @@ Duration: '1:44'
 URLs:
 - https://youtu.be/zapJY3hm-dc?t=166
 ---
+Track: Behave Irrationally
+# Official release:
+#   Valkyrie Profile Original Soundtrack
+#   ヴァルキリープロファイル オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/256
+Artists:
+- Motoi Sakuraba
+Duration: '1:15'
+URLs:
+- https://www.youtube.com/watch?v=OeBKwxAqpOg
+---
 Track: Bloody Tears
 # From Castlevania II: Simon's Quest
 # Released on the same album as Beginning, but it has its own dedicated track vs. Castlevania III's OST.
@@ -1866,6 +1894,20 @@ Artists:
 - Kimihiro Abe
 URLs:
 - https://www.youtube.com/watch?v=s9SKrNZnnCM
+---
+Track: Box 15
+# JP: BOX 15
+# Official release:
+#   DANGANRONPA Original Soundtrack
+#   ダンガンロンパオリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/23469
+Artists:
+- Danganronpa
+- Masafumi Takada
+Duration: '4:05'
+URLs:
+- https://www.youtube.com/watch?v=xOpHT6gZ0Rs
 ---
 Track: Breakfast Time - For Horizon Heights Boss Act Phase 2
 # From Sonic After the Sequel Original Sound Track
@@ -1944,6 +1986,17 @@ Duration: '1:10'
 URLs:
 - https://www.youtube.com/watch?v=6Kb1WMZBG9k
 - https://open.spotify.com/track/48wfJa6hyfiXB0RZnzUKRJ
+---
+Track: Brown Puffle Lab
+# No official release, durations and info taken from composer's website
+# Reference:
+#  http://www.screenhog.com/music
+Artists:
+- Chris Hendricks
+Duration: '1:22'
+URLs:
+- https://www.youtube.com/watch?v=xWttnA3VsCI
+- https://static1.squarespace.com/static/55c03d20e4b0e6d1aa62052f/55c4408ee4b0a3278e566ec9/55c8e574e4b0dc37dda73df5/1439230093498/BrownPuffleLab.mp3
 ---
 Track: Calamari Inkantation
 # JP: シオカラ節
@@ -2168,6 +2221,13 @@ Artists:
 Duration: '2:58'
 URLs:
 - https://www.youtube.com/watch?v=KYdRWC6MCgM
+---
+Track: Dissonance
+Artists:
+- Quincy Pringle
+Duration: '1:52'
+URLs:
+- https://giantspacepickle.bandcamp.com/track/dissonance
 ---
 Track: Doctor Frog
 # Track named in-game, no official releases
@@ -2542,6 +2602,18 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=hPT77G3LGwA
 ---
+Track: Gallant Gunshot
+# Official release:
+#  GINGA FORCE Complete Soundtrack
+#  ギンガフォース コンプリートサウンドトラック
+# Reference:
+#  https://vgmdb.net/album/38051
+Artists:
+- Yousuke Yasui
+Duration: '4:28'
+URLs:
+- https://www.youtube.com/watch?v=eZV4RXL7H0k
+---
 Track: Gardens 1 (Scribblenauts)
 # No official release of the in-game track (or Scribblenauts' in-game soundtrack at all)
 Artists:
@@ -2687,6 +2759,20 @@ Duration: '2:24'
 URLs:
 - https://youtu.be/jfEiEjfTUys?t=853
 ---
+Track: Hall of Fame (Pokémon Fire Red & Leaf Green Versions)
+# JP: 殿堂入り
+# Official release:
+#   GBA ポケモン ファイアレッド&リーフグリーン ミュージック・スーパーコンプリート
+# Reference:
+#   https://vgmdb.net/album/4336
+Directory: hall-of-fame-pokemon-fire-red-and-leaf-green-versions
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '1:02'
+URLs:
+- https://www.youtube.com/watch?v=b9Sp1eRE5o0
+---
 Track: Haltmann Works Co. HQ
 # JP: ハルトマンワークスカンパニーHQ
 # Official release:
@@ -2726,6 +2812,20 @@ Artists:
 Duration: '3:07'
 URLs:
 - https://www.youtube.com/watch?v=0Z3odpfwCpE
+---
+Track: Haunted House (Super Mario 64)
+# JP: テレサのホラーハウス
+# Official release:
+#   スーパーマリオ64 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/137
+Directory: haunted-house-sm64
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '3:06'
+URLs:
+- https://www.youtube.com/watch?v=Cur1UayJquw
 ---
 Track: Hero's End
 # The original Cave Story's soundtrack hasn't been officially released.
@@ -3162,6 +3262,72 @@ Lyrics: |-
     Whoa, you go big guy!
     Pose for the fans!
 ---
+Track: Lifelight
+# No official release
+Artists:
+- Super Smash Bros.
+- Hideki Sakamoto
+Duration: '3:47'
+URLs:
+- https://www.youtube.com/watch?v=EhgDibw7vB4
+Lyrics: |-
+    Colors weave into a spire of flame
+    Distant sparks call to a past still unnamed
+    Bear this torch against the cold of the night
+    Search your soul and reawaken the undying light
+
+    On that day, when the sky fell away
+    Our world came to an end
+    In our eyes did a fading sun rise
+    In the dark, glimmering shadows
+    Silence grows, in the spaces between
+    Stretching far beyond time
+    Rising up, as a chorus of souls finds a voice
+    Flickering through the void
+    These little sparks cling on to life
+    Everyone caught in the struggle
+    And then the storms of change, they fan the flames
+    Scattering ashes to the wind
+
+    Every soul contains a whisper of light
+    Gleaming faintly as it dwindles from sight
+    No escape, no greater fate to be made
+    In the end, the chains of time will not break
+
+    Colors weave into a spire of flame
+    Distant sparks call to a past still unnamed
+    Bear this torch against the cold of the night
+    Search your soul and reawaken the undying light
+
+    As fate spins a thread without end
+    New life draws its first breath
+    Blossoming in a soil reclaimed from the past
+    Where destiny holds fast
+    Here where we stand, hand clenched in hand
+    Everyone caught in the struggle
+    This is the day we finally find our way
+    Stepping into our tomorrow
+
+    Every soul contains a whisper of light
+    Growing louder as it calls to unite
+    From the distance sings a chorus of souls
+    Rising slowly, stirring heat from the coals
+
+    Colors weave into a spire of flame
+    Distant sparks call to a past still unnamed
+    Bear this torch against the cold of the night
+    Light will guide you on your way to the ultimate fight
+
+    Every soul contains a whisper of light
+    Growing louder as it calls to unite
+    From the distance sings a chorus of souls
+    Rising slowly, stirring heat from the coals
+
+    Colors weave into a spire of flame
+    Distant sparks call to a past still unnamed
+    Bear this torch against the cold of the night
+    Light will guide you on your way to the ultimate fight 
+---
 Track: Lights, Camera, Action! (Studiopolis Zone Act 1)
 # Or "Studiopolis Zone Act 1"
 # Official release:
@@ -3250,6 +3416,20 @@ Lyrics: |-
     Matterarenai no nee (<i>I can't keep on waiting!</i>)
     Your lonely rolling star
     Saa mae wo muite yukou (<i>So face forward and keep going!</i>)
+---
+Track: Lorule Castle
+# THE LEGEND OF ZELDA A LINK BETWEEN WORLDS SOUND SELECTION
+# JP: ロウラル城
+# Official release:
+#   ゼルダの伝説 神々のトライフォース2 サウンドセレクション
+# Reference:
+#   https://vgmdb.net/album/26628
+Artists:
+- The Legend of Zelda
+- Koji Kondo
+Duration: '7:27'
+URLs:
+- https://www.youtube.com/watch?v=ZSeEk1TVQqk
 ---
 Track: The Masked King
 # Official release:
@@ -3716,6 +3896,15 @@ Artists:
 Duration: '2:57'
 URLs:
 - https://www.youtube.com/watch?v=KT45kiI5FYw
+---
+Track: RollerCoaster Tycoon 2 Theme
+# No official release; duration is from the in-game music file, which is a straight start-to-end loop.
+Artists:
+- RollerCoaster Tycoon
+- Allister Brimble
+Duration: '1:43'
+URLs:
+- https://www.youtube.com/watch?v=oENUA2B1_uM
 ---
 Track: Romantic Children
 # No official release of the in-game track
@@ -4239,6 +4428,21 @@ Duration: '2:02'
 URLs:
 - https://youtu.be/WmBPTpvYyIY
 ---
+Track: The Greatest Warrior In The Galaxy Ever
+# JP: 時巡る銀河最強の戦士
+# Official release:
+#   星のカービィ ロボボプラネット オリジナルサウンドトラック
+#   Kirby: Planet Robobot Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/63000
+# Wrongly translated by Siivagunner as "The Greatest Time Traveling Warrior In The Galaxy"
+Artists:
+- Kirby
+- Jun Ishikawa
+Duration: '1:41'
+URLs:
+- https://www.youtube.com/watch?v=hUZKHOZAW9E
+---
 Track: 'The Flintstones: The Rescue of Dino & Hoppy - Title Theme/Ending'
 # No official release, too bad
 Artists:
@@ -4444,6 +4648,18 @@ Duration: '3:29'
 URLs:
 - https://youtu.be/KYhA2RisjP0?t=43
 ---
+Track: TWINKLE Elementary School
+# Official release:
+#   MOTHER 1+2　オリジナル サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/798
+Artists:
+- Mother
+- Hirokazu Tanaka
+Duration: '2:14'
+URLs:
+- https://www.youtube.com/watch?v=sTFfWkYQRiI
+---
 Track: U.N. Owen Was Her?
 # Also known as Death Waltz
 # JP: U.N.オーエンは彼女なのか？
@@ -4480,6 +4696,89 @@ Artists:
 - Shogo Sakai
 URLs:
 - https://www.youtube.com/watch?v=pwGtXDBEcmM
+---
+Track: Unknown from M.E.
+# From SONIC ADVENTURE Songs With Attitude ~Vocal mini-Album~
+# Reference:
+#   https://vgmdb.net/album/1644
+Artists:
+- Marlon Saunders
+- Dred Foxx
+Duration: '4:32'
+URLs:
+- https://www.youtube.com/watch?v=6kVIwFPwYys
+Lyrics: |-
+    Here I come, rougher than the rest of them
+    The best of them, tougher than leather
+    You can call me Knuckles, unlike Sonic I don't chuckle
+    I'd rather flex my muscles
+    I'm hard as nails, it ain't hard to tell
+    I break 'em down whether they solid or frail
+    Unlike the rest I'm independent from my first breath, first test
+    Feel the right then the worst's left
+
+    Born on an island in the heavens
+    The blood of my ancestors flows inside me
+    My duty is to save the flower from evil deterioration
+
+    I will be the one to set your heart free true
+    Cleanse yourself of them evil spirits that's in you
+
+    Streaking lights, loud sounds, and instinct
+    Are the elements that keep me going
+    I am fighting my own mission
+    Nothing's gonna stand in my way
+
+    I will be the one to set your heart free true
+    Cleanse yourself of them evil spirits that's in you
+
+    Won't be frightened, I'll stand up to all the pain and turmoil
+    Just believe in myself, won't rely on others
+    Get this power to wipe out the havoc and anarchy
+    This is my planet, gonna fight for my destiny
+
+    Here I come, rougher than the rest of them
+    The best of them, tougher than leather
+    You can call me Knuckles, unlike Sonic I don't chuckle
+    I'd rather flex my muscles
+    I'm hard as nails, it ain't hard to tell
+    I break 'em down whether they solid or frail
+    Unlike the rest I'm independent from my first breath, first test
+    Feel the right then the worst's left
+
+    I have no such things as weak spots
+    Don't approve of him, but got to trust him
+    This alliance has a purpose
+    This partnership is only temporary
+
+    I will be the one to set your heart free true
+    Cleanse yourself of evil spirits that got in you
+
+    Won't be frightened, I'll stand up to all the pain and turmoil
+    Just believe in myself, won't rely on others
+    Freedom will be waiting when serenity is restored
+    This is my planet, I shall not surrender
+
+    Won't be frightened, I'll stand up to all the pain and turmoil
+    Just believe in myself, won't rely on others
+    Get this power to wipe out the havoc and anarchy
+    This is my planet, gonna fight
+
+    Won't be frightened, I'll stand up to all the pain and turmoil
+    Just believe in myself, won't rely on others
+    Freedom will be waiting when serenity is restored
+    This is my planet, I shall not surrender
+
+    The new porcupine on the block with the puffed chest
+    Out the wilderness with the ruggedness
+    Knock, knock, it's Knuckles, the blow thrower
+    Independent flower, magical Emerald holder
+    Give you the coldest shoulder
+    My spike goes through boulders
+    That's why I stay a loner
+    I was born by myself
+    I don't need a posse, I get it on by myself
+    Adversaries get shelved
 ---
 Track: Vagrant Counting Song of Retrospection
 # JP: この一撃に桃球レボリューション
@@ -4611,6 +4910,18 @@ Duration: '3:23'
 URLs:
 - https://youtu.be/psMnbEmvx7w
 ---
+Track: you
+# Official release:
+#   Higurashi no Naku Koro ni Kai Original Sound Version & Extra Sounds "Thanks/you"
+#   ひぐらしのなく頃に解 Original Sound Version & Extra Sounds ｢Thanks／you｣
+# Reference:
+#   https://vgmdb.net/album/6209
+Artists:
+- Dai
+Duration: '3:35'
+URLs:
+- https://www.youtube.com/watch?v=zWNkD4YWt_c
+---
 Track: You Gained a Level!
 # (See Eight Melodies, no official soundtrack release)
 Artists:
@@ -4619,6 +4930,41 @@ Artists:
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=k-dOcqJoCrs
+---
+Track: Your Reality
+# Official release on Youtube 
+# https://www.youtube.com/playlist?list=PLc5ZKngbAPXMG4yjq9ESGfqblQfL9g4-p
+Artists:
+- Dan Salvato
+Contributors:
+- Jillian Ashcraft (vocals)
+Duration: '3:00'
+URLs:
+- https://www.youtube.com/watch?v=Bf6b-TwhF3A
+Lyrics: |-
+    Every day, I imagine a future where I can be with you
+    In my hand is a pen that will write a poem of me and you
+    The ink flows down into a dark puddle
+    Just move your hand, write the way into his heart
+    But in this world of infinite choices
+    What will it take just to find that special day?
+    What will it take just to find that special day?
+
+    Have I found everybody a fun assignment to do today?
+    When you're here, everything that we do is fun for them anyway
+    When I can't even read my own feelings
+    What good are words when a smile says it all?
+    And if this world won't write me an ending
+    What will it take just for me to have it all?
+
+    Does my pen only write bitter words for those who are dear to me?
+    Is it love if I take you, or is it love if I set you free?
+    The ink flows down into a dark puddle
+    How can I write love into reality?
+    If I can't hear the sound of your heartbeat
+    What do you call love in your reality?
+    And in your reality, if I don't know how to love you
+    I'll leave you be
 ---
 Section: Music composed for movies, television, and other visual arts
 ---
@@ -4871,6 +5217,75 @@ Artists:
 Duration: '3:20'
 URLs:
 - https://www.youtube.com/watch?v=LpbHlXPmmcE
+---
+Track: Before My Body Is Dry
+Artists:
+- Hiroyuki Sawano
+Duration: '4:02'
+URLs:
+- https://www.youtube.com/watch?v=1_PWdjym25g
+Lyrics: |-
+    In the dusty basement where we met
+    May you surprised so much
+    Because you're talking now
+    I gotta find the truth from many fights
+    But I'm all alone
+    You're the only one who can help me out
+    We'll be as one
+
+    We're ready to fight
+    Look over there
+    They try to kill us for stars
+    Our bond has got much stronger than before
+
+    Don't lose your way in your mind
+    We have to be as one
+    Don't be afraid my sweet heart
+    This is the way to be more strong
+    Harbor my deep secret
+    It makes me so blue
+    Run through this game before my body is dry
+
+    So it seems there's no other choice
+    But to go all out
+    Stay with me and let's stand out
+    And out shine those trying to get our stars now
+    All we have to do is figure out how strong we are
+    and what it takes to stay alive
+    Sync and learn what we can do to take 'em down
+    It's revenge and survive
+    For now, we know in part
+    And You can feel my heart
+    So help me to stay focused so I don't fall apart
+    I wanna be complete
+    It's not in me to retreat
+    I could lose on my own so I really need you with me
+
+    I gotta find out who killed my dad
+    I hear the voice of you in my mind
+    I gotta find out who killed my dad
+    I hear the voice of you in my mind so
+
+    My blood is pumping
+    I'm ready to fight when you are
+    Let's let no one break the bond that is ours
+    Show them what it means to be a shining star
+    You have my body
+    Let's fight as one
+
+    Can't move my feet in the dark
+    Don't wanna be all alone
+    Can't feel the heat in my blood
+    Do you remember what he said
+
+    Don't lose your way in your mind (I really need you with me)
+    We have to be as one (Help me to stay focused)
+    Don't be afraid my sweet heart (I wanna be complete)
+    This is the way to be more strong
+    Harbor my deep secret (Fight as one with me)
+    It makes me so blue (Let's take 'em down)
+    Run through this game before my body is dry (Be a shining star)
+    (You have my body, I'm ready to fight when you are) 
 ---
 Track: Big Bad Beetleborgs Theme
 Artists:
@@ -5726,6 +6141,13 @@ Lyrics: |-
     Now everyone can see me burning
     Now everyone can see me burning
 ---
+Track: Hedwig's Theme
+Artists:
+- John Williams
+Duration: '5:09'
+URLs:
+- https://www.youtube.com/watch?v=wtHra9tFISY
+---
 Track: Hello Zepp
 Artists:
 - Saw
@@ -5930,6 +6352,31 @@ Lyrics: |-
     I don't wanna fall asleep, yeah
     I don't wanna miss a thing
 ---
+Track: Inspector Gadget Main Theme
+Artists:
+- Shuki Levy
+- Haim Saban
+Duration: '1:14'
+URLs:
+- https://www.youtube.com/watch?v=EcF2LOaLgA0
+Lyrics: |-
+    Inspector Gadget
+    Whoo-hoo
+    Inspector Gadget
+
+    Inspector Gadget
+    Whoo-hoo
+    Inspector Gadget
+
+    Go Gadget go
+    Go Gadget go
+
+    Inspector Gadget
+    Who-hoo
+    Inspector Gadget
+
+    Go Gadget go
+---
 Track: Ironside
 Artists:
 - Ironside
@@ -6108,6 +6555,110 @@ Lyrics: |-
     But her friendship comes through subliminal
     Lapis Lazuli, you fled into the bottom of the sea
     Lapis Lazuli, you were so mad, but then you came around to me 
+---
+Track: Let's Watch the Show
+# Full version of the OK K.O.! Let's Be Heroes theme song
+Artists:
+- Ian Jones-Quartey
+- Jake Kaufman
+Duration: '3:47'
+URLs:
+- https://www.youtube.com/watch?v=wGWvkYFYivk
+Lyrics: |-
+    Who's got a clue
+    Where I'm going
+    Of where I've been?
+
+    I can't stop with you
+    'Cause where you're going
+    Is where I win
+
+    We're meant to be a team
+    Our power flows like a stream
+    I never thought I'd find my dream
+    And I dream of never letting go
+
+    OK K.O.!
+    It's good looking out
+    It's what we're about
+    Ohhh Ohh
+
+    OK K.O.!
+    You always provide
+    A mind open wide
+    Let's start the show!
+
+    OK K.O.!
+    You fight to the end
+    You are my best friend
+    Let's be heroes!
+
+    Who's got the loot
+    To get attention
+    And take control?
+
+    Who gives a hoot?
+    I got my friends and
+    I'm on a roll
+
+    Just on my own
+    I'm not so bad but
+    I'm not at my best
+
+    Just hold the phone
+    If we're all here then
+    Ain't no problem left
+
+    With you, I save the day
+    The only move's a power play
+    I've never had a better crew
+    And my crew has so much work to do
+
+    OK K.O.!
+    It's good looking out
+    It's what we're about
+    Ohhh Ohh
+
+    OK K.O.!
+    You always provide
+    A mind open wide
+    Let's start the show!
+
+    OK K.O.!
+    You fight to the end
+    You are my best friend
+    Let's be heroes!
+
+    OK K.O.!
+    Let's be heroes
+
+    (Alright…)
+    Guess who's coming right back again…
+    Just when you thought you had him down…
+    That's my man, He gonna…
+
+    Gonna get-cha when I think you're gonna get back,
+    Gonna get-cha when I think you're gonna get back,
+    Gonna get-cha when I think you're gonna get back,
+    K-O, K-O, TIME!
+
+    OK K.O.!
+    It's good looking out
+    It's what we're about
+    Ohhh Ohh
+
+    OK K.O.!
+    You always provide
+    A mind open wide
+    Let's start the show!
+
+    OK K.O.!
+    You fight to the end
+    You are my best friend
+    Let's be heroes!
+
+    OK K.O.!
+    Let's start the show! 
 ---
 Track: '"Libera me" from hell'
 Artists:
@@ -6773,6 +7324,79 @@ Lyrics: |-
     To the emptiness and sadness
     That has come to take the place of you
 ---
+Track: Renai Circulation
+Artists:
+- Satoru Kōsaki
+Duration: '4:15'
+URLs:
+- https://www.youtube.com/watch?v=auQxNYJ07Lc
+Lyrics: |-
+    se~no (<i>Ready, set...</i>)
+
+    demo sonnanja dame (<i>But that's not good enough</i>)
+    mou sonnanja hora (<i>Look, that's not it anymore</i>)
+    kokoro wa shinka suru yo motto motto (<i>My heart will evolve more and more</i>)
+
+    kotoba ni sureba kiechau kankei (<i>If put into words, the relationship disappears</i>)
+    nara kotoba wo keseba iiyatte (<i>If so, I thought it'd be better to erase the words</i>)
+    omotteta? osoreteta? (<i>Did you think? Were you scared?</i>)
+    dakedo are! nanka chigau kamo (<i>But wait! It might be different</i>)
+    senri no michi mo ippo kara (<i>Even a thousand-mile journey starts with a single step</i>)
+    ishi no youni katai sonna ishi de (<i>With a will as strong as a rock</i>)
+    chiri mo tsumoreba yamato nadeshiko? (<i>If dust accumulates, will it become the ideal Japanese woman?</i>)
+    [shi] nuki de, iya shinukide! (<i>Without the "death" part, no, on the verge of death!</i>)
+
+    fuwa-fuwari fuwa-fuwaru (<i>Softly, gently floating</i>)
+    anata ga namae wo yobu sore dakede chuu he uka bu (<i>When you call my name, just that makes me float in the air</i>)
+    fuwa-fuwaru fuwa-fuwari (<i>Gently floating, softly</i>)
+    anata ga waratte iru sore dakede egao ni naru (<i>When you smile, just that makes me happy</i>)
+
+    kami-sama arigatou unmei no itazura demo (<i>Thank you, God, even if it's fate's mischief</i>)
+    meguri aeta koto ga shiawase nano (<i>Meeting you is my happiness</i>)
+
+    demo sonnanja dame (<i>But that's not good enough</i>)
+    mou sonnanja hora (<i>Look, that's not it anymore</i>)
+    kokoro wa shinka suru yo motto motto (<i>My heart will evolve more and more</i>)
+    sou sonnanja yada (<i>Yeah, I don't like that</i>)
+    nee sonnanja mada (<i>Hey, that's not it yet</i>)
+    watashi no koto mitetene zutto zutto (<i>Keep looking at me forever and ever</i>)
+
+    watashi no naka no anata hodo anata no naka no watashi no sonzai ha (<i>The me inside you is not as big as the you inside me</i>)
+    mada mada ooki kunai koto mo kaitteru keredo (<i>It's written that it's not that big yet</i>)
+    ima kono onaji shunkan (<i>Now, in this same moment</i>)
+    kyouyuu sh-teru jikan (<i>The time we're sharing</i>)
+    chiri mo tsumoreba yamato nadeshiko? (<i>If dust accumulates, will it become the ideal Japanese woman?</i>)
+    ryakushi te chiritsu mo yama to nadeshiko (nadeko)! (<i>Shortening it, the accumulation becomes a mountain and dianthus (Nadeko)!</i>)
+
+    kura-kurari kura-kuraru (<i>Dizzyingly, spinning around</i>)
+    anata wo miagetara sore dakede mabushi sugite (<i>When I look up at you, just that is too dazzling</i>)
+    kura-kuraru kura-kurari (<i>Spinning around, dizzyingly</i>)
+    anata wo omotte iru (<i>Thinking of you</i>)
+    sore dakede tokete shimau (<i>Just that makes me melt</i>)
+
+    kami-sama arigatou unmei no itazura demo (<i>Thank you, God, even if it's fate's mischief</i>)
+    meguri aeta koto ga shiawase nano (<i>Meeting you is my happiness</i>)
+
+    koi suru kisetsu wa yokubari circulation (<i>The season of love is a greedy circulation</i>)
+    koi suru kimochi wa yokubari circulation (<i>The feeling of love is a greedy circulation</i>)
+    koi suru hitomi wa yokubari circulation (<i>The eyes in love are a greedy circulation</i>)
+    koi suru otome wa yokubari circulation (<i>The maiden in love is a greedy circulation</i>)
+
+    fuwa-fuwari fuwa-fuwaru (<i>Softly, gently floating</i>)
+    anata ga namae wo yobu sore dakede chuu he uka bu (<i>When you call my name, just that makes me float in the air</i>)
+    fuwa-fuwaru fuwa-fuwari (<i>Gently floating, softly</i>)
+    anata ga waratte iru sore dakede egao ni naru (<i>When you smile, just that makes me happy</i>)
+
+    kami-sama arigatou unmei no itazura demo (<i>Thank you, God, even if it's fate's mischief</i>)
+    meguri aeta koto ga shiawase nano (<i>Meeting you is my happiness</i>)
+
+    demo sonnanja dame (<i>But that's not good enough</i>)
+    mou sonnanja hora (<i>Look, that's not it anymore</i>)
+    kokoro wa shinka suru yo motto motto (<i>My heart will evolve more and more</i>)
+    sou sonnanja yada (<i>Yeah, I don't like that</i>)
+    nee sonnanja mada (<i>Hey, that's not it yet</i>)
+    watashi no koto mitetene zutto zutto! ~ (<i>Keep looking at me forever and ever!</i>)
+---
 Track: Reverse Situation
 Artists:
 - Naruto
@@ -6900,6 +7524,61 @@ Lyrics: |-
     Kuyashii kedo suki tte junjou (<i>It's frustrating, but it's a pure-hearted devotion called love</i>)
     Binetsu no naka tameratte mo dame da ne (<i>Even in this mild fever, I can't hesitate</i>)
     Tobikomu yuuki ni sansei mamonaku Start! (<i>I'll accept the courage to dive in; it's about to start!</i>)
+---
+Track: soldier game
+Artists:
+- Love Live!
+- Takahiro Yamada
+Duration: '3:41'
+URLs:
+- https://www.youtube.com/watch?v=Ot2LMV0d1Ac
+Lyrics: |-
+    Three, two, one, zero! Koko de toujou (<i>Three, two, one, zero! Here I make my appearance</i>)
+    Mitenasai watashi no honki (<i>Witness my seriousness</i>)
+    Suriru to biishiki de katsu no yo kanarazu (<i>With thrill and beauty, I'll definitely win</i>)
+
+    Yasashige na kotoba sasayaku (<i>Whispering gentle words</i>)
+    Nise no kawaisa janakute (<i>Not feigned cuteness</i>)
+    Tsumetaku tsuyoku mamoranakya (<i>I must protect strongly and coldly</i>)
+    Taisetsuna mono tachi yowaki mono tachi (<i>Important things, fragile things</i>)
+
+    Watashi wa dare desho? Shiritaku natta deshou? (<i>Who am I? You want to know, right?</i>)
+    Naraba koi kamo (<i>If so, it might be love</i>)
+    Watashi no naka ni wa himitsu ga aru to shite (<i>If there's a secret inside me</i>)
+    Sore o kimi wa dousuru no (<i>What will you do about it?</i>)
+    It's soldier game (<i>It's a soldier game</i>)
+    Mata aeta toki kikou kana (<i>I wonder when we can meet again</i>)
+
+    Three, two, one, zero! Tsugi no sakusen (<i>Three, two, one, zero! The next strategy</i>)
+    Mitenasai watashi wa honki (<i>Witness, I'm serious</i>)
+    Shigunaru uketomete mirai o itadaku (<i>Receive the signal, take the future</i>)
+
+    Hohoemi yori mo amai no wa (<i>Sweeter than a smile</i>)
+    Uso ga maneita namida yo (<i>Are the tears drawn out by lies</i>)
+    Hakanasa morosa kaku shiteru (<i>Knowing the fragility and vulnerability</i>)
+    Taisetsuna mono nano yowaki mono nano (<i>Of precious and weak things</i>)
+
+    Watashi to kuru desho? Furetaku natta deshou? (<i>You'll come with me, right? You wanted to touch, right?</i>)
+    Sude ni koi dayo (<i>It's already love</i>)
+    Watashi to itsuka wa tatakau beki aite (<i>Someday, you'll have to fight against me</i>)
+    Sore wa kimi no risei kamo (<i>It might be against your reason</i>)
+    I'm soldier heart (<i>I'm a soldier heart</i>)
+    Makenai kara ne It's soldier game (<i>I won't lose, it's a soldier game</i>)
+
+    (Come on!)
+
+    Ima ga shoubu yo! (<i>This is the decisive battle!</i>)
+    Watashi wa dare desho? Shiritaku natta deshou? (<i>Who am I? You wanted to know, right?</i>)
+    Naraba koi kamo (<i>If so, it might be love</i>)
+    Watashi no naka ni wa himitsu ga aru to shite (<i>If there's a secret inside me</i>)
+    Sore o kimi wa? (<i>What about you?</i>)
+
+    Watashi to kuru desho? Furetaku natta deshou? (<i>You'll come with me, right? You wanted to touch, right?</i>)
+    Sude ni koi dayo (<i>It's already love</i>)
+    Watashi to itsuka wa tatakau beki aite (<i>Someday, you'll have to fight against me</i>)
+    Sore wa kimi no risei kamo (<i>It might be against your reason</i>)
+    It's soldier game (<i>It's a soldier game</i>)
+    Mata aeta no ni I'm soldier heart (<i>Even though we met again, I'm a soldier heart</i>)
 ---
 Track: Solid State Scouter
 # Also known as "Bardock's Theme"
@@ -7376,6 +8055,13 @@ Commentary: |-
     <i>Makin:</i> (wiki editor)
     This is named 'Main Theme' in the first official release, but latter releases reference it as 'Superman Theme'.
 ---
+Track: Swordland
+Artists:
+- Yuki Kajiura
+Duration: '1:49'
+URLs:
+- https://www.youtube.com/watch?v=jUuknk81n2w
+---
 Track: The Council of Elrond (feat. "Aníron (Theme for Aragorn and Arwen)")
 Directory: the-council-of-elrond
 Artists:
@@ -7605,6 +8291,15 @@ Lyrics: |-
     You feel the power of love
     Feel the power of love
 ---
+Track: Merry-Go-Round of Life
+# Also known as the Howl's Moving Castle main theme
+# Reference: https://en.wikipedia.org/wiki/Music_of_Howl%27s_Moving_Castle#Howl's_Moving_Castle_CD_Maxi-Single
+Artists:
+- Joe Hisaishi
+Duration: '5:11'
+URLs:
+- https://www.youtube.com/watch?v=f7SS57LFPco
+---
 Track: The Raising Fighting Spirit
 Artists:
 - Naruto
@@ -7752,6 +8447,79 @@ Lyrics: |-
     It's the franchise, boy, I'm shining now
     You can't see me, my time is now!
 ---
+Track: This Is Halloween
+Artists:
+- Danny Elfman
+Duration: '3:16'
+URLs:
+- https://www.youtube.com/watch?v=pRd6nqu_ocA
+Lyrics: |-
+    Boys and girls of every age
+    Wouldn't you like to see something strange?
+    Come with us and you will see
+    This, our town of Halloween
+    This is Halloween, this is Halloween
+    Pumpkins scream in the dead of night
+    This is Halloween, everybody make a scene
+    Trick or treat until the neighbors going to die of fright
+    It's our town, everybody scream
+    In this town of Halloween
+    I am the one hiding under your bed
+    Teeth grown sharp and eyes glowing red
+    I am the one hiding under yours stairs
+    Fingers like snakes and spiders in my hair
+
+    This is Halloween, this is Halloween
+    Halloween, Halloween, Halloween, Halloween
+
+    In this town we call home
+    Everyone hail to the pumpkin song
+    In this town, don't we love it now?
+    Everybody's waiting for the next surprise
+    Round that corner, man hiding in the trash can
+    Something's waiting now to pounce and how you'll scream
+    This is Halloween, red and black, slimy green
+    Aren't you scared? Well, that's just fine
+    Say it once, say it twice
+    Take a chance and roll the dice
+    Ride with the moon in the dead of night
+    Everybody scream, everybody scream
+    In our town of Halloween
+    I am the clown with the tear away face
+    Here in a flash and gone without a trace
+    I am the who when you call, who's there?
+    I am the wind blowing through your hair
+    I am the shadow on the moon at night
+    Filling your dreams to the brim with fright
+
+    This is Halloween, this is Halloween
+    Halloween, Halloween, Halloween, Halloween
+    Halloween, Halloween
+
+    Tender lumplings everywhere
+    Life's no fun without a good scare
+    That's our job, but we're not mean
+    In our town of Halloween
+    In this town, don't we love it now?
+    Everybody's waiting for the next surprise
+    Skeleton Jack might catch you in the back
+    And scream like a banshee
+    Make you jump out of your skin
+    This is Halloween, everybody scream
+    Won't you please make way for a very special guy?
+    Our man jack is king of the Pumpkin patch
+    Everyone hail to the Pumpkin King, now
+
+    This is Halloween, this is Halloween
+    Halloween, Halloween, Halloween, Halloween
+    In this town we call home
+    Everyone hail to the pumpkin song
+
+    La, la, la, la, la
+    La, la, la, la, la
+    La, la, la, la, la
+    La, la, la, la, la 
+---
 Track: Toon World
 Artists:
 - Yu-Gi-Oh!
@@ -7786,6 +8554,79 @@ Lyrics: |-
     Is there something I can do
     Is there something I can do
     Can I make it up to you? 
+---
+Track: Trouble Busters
+Artists:
+- Love Live!
+- Takahiro Yamada
+Duration: '5:19'
+URLs:
+- https://www.youtube.com/watch?v=D74VvLM63Go
+Lyrics: |-
+    Hey, hey! Ah... we are Busters!
+
+    Toraburu ga yama tsumi shikatanai (<i>Troubles are piling up, can't help it</i>)
+    (Kirai kirai yo yan natchau) (<i>I hate it, I hate it, I'm getting fed up</i>)
+    Makenai yo taishita koto janai yo (sou da sou da) (<i>I won't lose, it's not a big deal (that's right, that's right)</i>)
+    Awatezu ni Find a way, oh yeah! (<i>Without panicking, find a way, oh yeah!</i>)
+    (Trouble Busters! hara hara Busters!) (<i>Trouble Busters! Heart-pounding Busters!</i>)
+
+    All right anna yatsu (Hey, you!) (<i>All right, that kind of guy (Hey, you!)</i>)
+    All right wasureru yo (Good-bye!) (<i>All right, I'll forget (Good-bye!)</i>)
+    Joudan janai watashi no mae kara (joudan janai) (<i>It's not a joke, get out of my sight (It's not a joke)</i>)
+    Forever kie chae! (kie chai na!) (<i>Disappear forever! (Disappear!)</i>)
+
+    Seiippai (Hey!) waraou ka (Hey!) (<i>With all our might (Hey!) shall we laugh? (Hey!)</i>)
+    Nandemo nai sa kore kurai!(Ah, so!) (<i>It's nothing, just this much! (Ah, so!)</i>)
+    Seiippai (Hey!) waraou ka (Hey! ) (<i>With all our might (Hey!) shall we laugh? (Hey!)</i>)
+    Nandemonai sa dakara niko!! (Niko!) (<i>It's nothing, so smile!! (Niko!)</i>)
+    Hora ne (Hey!) genki dashiteru furi shitara (I love solitude) (<i>Look (Hey!) when I pretended to be energetic (I love solitude)</i>)
+    Itsunomanika waite kita Niko-Niko Smile (Niko!) (<i>Before I knew it, a cheerful smile appeared (Niko!)</i>)
+
+    Hey, hey! Ah... we are Busters! (<i>Hey, hey! Ah... we are Busters!</i>)
+
+    Tameiki de midareru kanjou (<i>Emotions disturbed by a sigh</i>)
+    (Tsurai tsurai wa iitakunai) (<i>I don't want to say it's painful, it's painful</i>)
+    Keiken chi fueta to kangaete (sou da sou da) (<i>Thinking that my experience has increased (that's right, that's right)</i>)
+    Kinishinai Find my love, oh yeah! (<i>Without worrying, find my love, oh yeah!</i>)
+    (Trouble Busters! ira ira Busters!) (<i>Trouble Busters! Irritating Busters!</i>)
+
+    All right otoko yori (Hey, you!) (<i>All right, more than a man (Hey, you!)</i>)
+    All right yuujou Please! (Come on!) (<i>All right, friendship please! (Come on!)</i>)
+    Mou shinjinai amai kotoba wa (amai kotoba wa) (<i>I won't believe in sweet words anymore (sweet words)</i>)
+    NeverEver iranai NeverEver iranai yo! (iranai yo!) (<i>Never ever need them, never ever need them! (Don't need them!)</i>)
+
+    Te o totte (Hey!) hashirou ka (Hey!) (<i>Take my hand (Hey!) shall we run? (Hey!)</i>)
+    Nantomo nai sa waraerusa! (Ah, so!) (<i>It's nothing, we can laugh! (Ah, so!)</i>)
+    Te o totte (Hey!) hashirou ka (Hey!) (<i>Take my hand (Hey!) shall we run? (Hey!)</i>)
+    Nantomonai sa kyou mo niko!! (Niko!) (<i>It's nothing, smile today too!! (Niko!)</i>)
+    Jaa ne (Hey!) omoidetachi sayounara (You are phantom) (<i>Goodbye (Hey!) memories, farewell (You are phantom)</i>)
+    Kitto tsugi no kaze ga fuku Niko-Niko Stage (Niko!) (<i>Surely the next wind will blow, cheerful stage (Niko!)</i>)
+
+    Waratte wasurete waratte wasurete ashita wa genki da nikkori (<i>Laugh and forget, laugh and forget, tomorrow will be energetic with a bright smile</i>)
+    All right, all right! Good-bye, good-bye! (<i>All right, all right! Good-bye, good-bye!</i>)
+    Waratte wasurete waratte wasurete ashita wa genki da nikkori (<i>Laugh and forget, laugh and forget, tomorrow will be energetic with a bright smile</i>)
+    All right, all right! Good-bye, good-bye! (<i>All right, all right! Good-bye, good-bye!</i>)
+    Nandemonai kara nantomonai kara nandemo nantomonai kara (<i>It's nothing, so it doesn't matter, everything and anything doesn't matter</i>)
+    Sou da sou da waratte wasurete waratchae! (<i>That's right, that's right, laugh and forget, just laugh!</i>)
+
+    (Good-bye Baby) dakara (<i>(Good-bye Baby) So</i>)
+    (Good-bye Baby) deaitai (<i>(Good-bye Baby) I want to meet</i>)
+    (Good-bye Baby) tsugi wa (<i>(Good-bye Baby) Next is</i>)
+    (Nai tari nanka shinai) watashi wa makenai (<i>(I won't cry or anything) I won't lose</i>)
+    Kanashimi nante No more iranai (iranai yo!) (<i>I don't need sadness anymore, no more (don't need it!)</i>)
+
+    Te o totte hashirou ka nantomonai sa waraerusa! (<i>Take my hand, shall we run? It's nothing, we can laugh!</i>)
+    Te o totte hashirou ka nantomonai sa kyou mo niko!! (<i>Take my hand, shall we run? It's nothing, smile today too!!</i>)
+    Seiippai (Hey!) waraou ka (Hey!) (<i>With all our might (Hey!) shall we laugh? (Hey!)</i>)
+    Nandemonai sa kore kurai! (Ah, so!) (<i>It's nothing, just this much! (Ah, so!)</i>)
+    Seiippai (Hey!) waraou ka (Hey!) (<i>With all our might (Hey!) shall we laugh? (Hey!)</i>)
+    Nandemonai sa dakara niko!! (Niko!) (<i>It's nothing, so smile!! (Niko!)</i>)
+    Hora ne (Hey!) genki dashiteru furi shitara (I love solitude) (<i>Look (Hey!) when I pretended to be energetic (I love solitude)</i>)
+    Itsunomanika waite kita Niko Niko Smile (<i>Before I knew it, a cheerful smile appeared</i>)
+    Kitto tsugi no kaze ga fuku Niko-Niko Stage (Niko!) (<i>Surely the next wind will blow, cheerful stage (Niko!)</i>)
+
+    Hey, hey! Ah... we are Busters! (<i>Hey, hey! Ah... we are Busters!</i>)
 ---
 Track: We Are Number One
 Artists:
@@ -8702,6 +9543,13 @@ URLs:
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Originally published as "The Celebrated Chop Waltz".
+---
+Track: Danse macabre
+# Also known as Danse macabre, Op. 40
+Artists:
+- Camille Saint-Saëns
+URLs:
+- https://www.youtube.com/watch?v=YyknBTm_YyM
 ---
 Track: Das Lied vom Musikanten
 Artists:
@@ -9941,11 +10789,77 @@ Lyrics: |-
     Plyaskoy tesh'tye! (<i>Dance to please!</i>)
     Nash khan Konchak! (<i>Our Khan Konchak!</i>)
 ---
+Track: Pure Imagination
+Artists:
+- Leslie Bricusse
+- Anthony Newley
+- Gene Wilder
+Duration: '4:20'
+URLs:
+- https://www.youtube.com/watch?v=A-DuOmA75lI
+Lyrics: |-
+    Come with me
+    And you'll be
+    In a world of pure imagination
+    Take a look
+    And you'll see
+    Into your imagination
+
+    We'll begin
+    With a spin
+    Traveling in
+    The world of my creation
+    What we'll see
+    Will defy
+    Explanation
+
+    If you want to view paradise
+    Simply look around and view it
+    Anything you want to, do it
+    Want to change the world?
+    There's nothing to it
+
+    There is no
+    Life I know
+    To compare with pure imagination
+    Living there
+    You'll be free
+    If you truly wish to be
+
+    If you want to see magic lands
+    Close your eyes and you will see one
+    Want to be a dreamer, be one
+    Anytime you please and please save me one
+
+    Come with me
+    And you'll be
+    In a world of pure imagination
+    Take a look
+    And you'll see
+    Into your imagination
+
+    There is no
+    Place to go
+    To compare with your imagination
+    So go there
+    To be free
+    If you truly wish to be
+
+    Living there
+    You'll be free
+    If you truly wish to be 
+---
 Track: Reveille
 Artists:
 - Traditional
 URLs:
 - https://www.youtube.com/watch?v=It7MrzMzMQ8
+---
+Track: Rondo Alla Turca
+Artists:
+- Wolfgang Amadeus Mozart
+URLs:
+- https://www.youtube.com/watch?v=quxTnEEETbo
 ---
 Track: Santa Claus Is Comin' to Town
 Artists:
@@ -11157,6 +12071,13 @@ URLs:
 - https://griffinmcelroy.bandcamp.com/track/arms-outstretched
 - https://www.youtube.com/watch?v=eIlppieZxT4
 ---
+Track: Artificial Intelligence Bomb
+Artists:
+- naruto2413
+Duration: '2:13'
+URLs:
+- https://www.youtube.com/watch?v=4gtGeZ2wOmo
+---
 Track: Axel F
 Directory: axel-f-crazy-frog
 Artists:
@@ -11531,6 +12452,162 @@ Lyrics: |-
     Bass, bass, bass, bass
     Bass, bass, bass, bass
     Bass, bass, bass, bass. 
+---
+Track: Beach Life-in-Death
+Artists:
+- Car Seat Headrest
+Duration: '13:16'
+URLs:
+- https://www.youtube.com/watch?v=KbDNP9R23h4
+Lyrics: |-
+    Last night I drove to Harper's Ferry and I thought about you
+    There were signs on the road that warned me of stop signs
+    The speed limit kept decreasing by ten
+    As we entered a town about halfway there
+    It was almost raining at the train station
+    We put our hoods on our heads at the train station
+    We threw rocks into the river
+    The river underneath the train tracks
+
+    And when the train came it was so big and powerful
+    When it came into the little station
+    I wanted to put my arms around it
+    But the conductor looked at me funny
+    So we had to say goodbye and leave
+    The monopoly board still in the backseat
+    Took that nightmare left turn to get out of town
+    Ran into the decreasing speed limits again
+
+    What should I do? (Eat breakfast)
+    What should I do? (Each lunch)
+    What should I do? (Each dinner)
+    What should I do? (Go to bed)
+    Where can I go? (Go to the store)
+    Where can I go? (Apply for jobs)
+    Where can I go? (Go to a friend's)
+    Where can I go? (Go to bed)
+
+    I wrote "Beach Death" when I thought you were taken
+    I wrote "Beach Funeral" when I knew you were taken
+    I wrote "Beach Fagz"—well it wasn't about you
+    But it could've been, well no it couldn't have
+    I spent a week in Ocean City
+    And came back to find you were gone
+    I spent a week in Illinois
+    And came back to find you were still gone
+
+    I pretended I was drunk when I came out to my friends
+    I never came out to my friends
+    We were all on Skype
+    And I laughed and changed the subject
+    She said "what's with this dog motif"
+    I said "do you have something against dogs"
+
+    I am almost completely soulless
+    I am incapable of being human
+    I am incapable of being inhuman
+    I am living uncontrollably
+
+    It should be anti-depression
+    As a friend of mine suggested
+    Because it's not the sadness that hurts you
+    It's the brain's reaction against it
+
+    It's not enough to love the unreal
+    I am inseparable from the impossible
+    I want gravity to stop for me
+    My soul yearns for a fugitive from
+    The laws of nature
+    I want a cut scene
+    I want a cut from your face to my face
+    I want a cut I want
+    The next related video
+
+    I don't want to go insane
+    I don't want to have schizophrenia
+
+    The ocean washed over your grave
+    The ocean washed over your grave
+
+    Last night I dreamed he was trying to kill you
+    I woke up and I was trying to kill you
+    It's been a year since we first met
+    I don't if we're boyfriends yet
+
+    Do you have any crimes that
+    We can use to pass the time I'm
+    Running out of drugs to try
+
+    We said we hated humans
+    We wanted to be humans
+
+    Get more groceries get eaten
+    Get more groceries get eaten
+    Get more groceries get eaten
+
+    A book of Aubrey Beardsley art
+    Corrupted me in youth
+    Now I'm trapped inside my youth
+    And you're in love with last-stage youth
+    Thank god for the little things and and
+    Fuck god that they're little things I am
+    Running out of prayers to sing and I
+
+    And pretty soon you'll find some nice young
+    Satanist with braces and one
+    Capital o significant Other
+    And you can take him home to your mother and
+    Say ma, this is my brother
+
+    We said we hated humans
+    We wanted to be humans
+
+    Get more groceries get eaten
+    Get more groceries get eaten
+    Get more groceries
+
+    Get eaten by the one you love
+    When they put their lips around you
+    You can feel their smile from the inside
+
+    Last night I dreamed he was trying to kill you
+    I woke up and I was trying to kill you
+
+    Your ears perked up
+    I perked up when your ears perked up
+    You were all looking around
+    And I hoped it was for me
+    I hoped you were using your sonar systems for me
+
+    The ancients saw it coming
+    You can see that they tried to warn them
+    In the tales that they told their children
+    But they fell out of their heads in the morning
+
+    They said sex can be frightening
+    But the children were not listening
+    And the children cut out everything
+    Except for the kissing and the singing
+
+    When they finally found their home
+    At Walt Disney studios
+    And then everyone grew up
+    With their fundamental schemes fucked
+
+    But there are lots of fish left in the sea
+    There are lots of fish in business suits
+    That talk and walk on human feet
+    And visit doctors, have weak knees
+
+    Oh please let me join your cult
+    I'll paint my face in your colors
+    You have a real nice face
+    I had an early death
+
+    The ocean washed over your grave
+    The ocean washed open your grave
+    (how's your face? How's your body?)
+    (We're too scared to do shit)
 ---
 Track: Big Enough
 Artists:
@@ -12130,6 +13207,37 @@ Lyrics: |-
     Alright IG, I had a hard workout today, but
     I'll see y'all later, SuWoo
 ---
+Track: Can't Help Falling In Love
+Artists:
+- Elvis Presley
+Duration: '3:00'
+URLs:
+- https://www.youtube.com/watch?v=vGJTaP6anOU
+Lyrics: |-
+    Wise men say
+    Only fools rush in
+    But I can't help falling in love with you
+    Shall I stay?
+    Would it be a sin
+    If I can't help falling in love with you?
+
+    Like a river flows
+    Surely to the sea
+    Darling, so it goes
+    Some things are meant to be
+    Take my hand,
+    Take my whole life, too
+    For I can't help falling in love with you
+
+    Like a river flows
+    Surely to the sea
+    Darling, so it goes
+    Some things are meant to be
+    Take my hand,
+    Take my whole life, too
+    For I can't help falling in love with you
+    For I can't help falling in love with you 
+---
 Track: Caramelldansen
 Artists:
 - Caramell
@@ -12202,6 +13310,45 @@ Lyrics: |-
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
     There are official English lyrics to this song but they change things to mention 'memes' and 'YouTube clips', so I just ran the lyrics through Google Translate instead.
+---
+Track: Carnival
+Artists:
+- Gorillaz
+Duration: '2:15'
+URLs:
+- https://www.youtube.com/watch?v=6nALmZ1cjwE
+Lyrics: |-
+    We play to win, just to find the dark
+    Go home again, and we both fall out
+    I wanna spend the time with you
+    Doing nothing
+    Keep you satisfied, while they rob us blind
+    I hear the music in the background
+    Singing, singing
+
+    Oh, I haven't see the glory
+    Coming, coming coming
+    And we play
+    We play, we play, we play like a..
+
+    Just like a carnival
+    Game (Just like a carnival)
+    Laugh (Just like a carnival)
+    Joke (Just like a..)
+    Spinning me round and around and around
+    Just like a carnival
+
+    We play to win, just to find the dark
+    Go... again, and we both fall out
+    I wanna spend the time with you
+    Doing nothing
+
+    We... (Just like a carnival)
+    We laughed (Just like a carnival)
+    Sleep with the dead (Just like a carnival)
+    Playing with your mind (Just like a..)
+    Spinning me round and around and around
+    Just like a carnival, yeah...
 ---
 Track: Careless Whisper
 Artists:
@@ -12369,6 +13516,111 @@ Lyrics: |-
     (The banana)
     It's a good day to have a good day (Angry)
     It's a good day to have a good day (Cat no banana)
+---
+Track: Chocolate Rain
+Artists:
+- Tay Zonday
+Duration: '4:48'
+Lyrics: |-
+    Chocolate Rain
+    Some stay dry and others feel the pain
+    Chocolate Rain
+    A baby born will die before the sin
+
+    Chocolate Rain
+    The school books say it can't be here again
+    Chocolate Rain
+    The prisons make you wonder where it went
+
+    Chocolate Rain
+    Build a tent and say the world is dry
+    Chocolate Rain
+    Zoom the camera out and see the lie 
+
+    Chocolate Rain
+    Forecast to be falling yesterday
+    Chocolate Rain
+    Only in the past is what they say
+
+    Chocolate Rain
+    Raised your neighborhood insurance rates
+    Chocolate Rain
+    Makes us happy 'livin in a gate
+
+    Chocolate Rain
+    Made me cross the street the other day
+    Chocolate Rain
+    Made you turn your head the other way
+
+    Chocolate Rain
+    History quickly crashing through your veins
+    Chocolate Rain
+    Using you to fall back down again
+
+    Chocolate Rain
+    History quickly crashing through your veins
+    Chocolate Rain
+    Using you to fall back down again
+
+    Chocolate Rain
+    Seldom mentioned on the radio
+    Chocolate Rain
+    Its the fear your leaders call control
+
+    Chocolate Rain
+    Worse than swearing worse than calling names
+    Chocolate Rain
+    Say it publicly and you're insane
+
+    Chocolate Rain
+    No one wants to hear about it now
+    Chocolate Rain
+    Wish real hard it goes away somehow
+
+    Chocolate Rain
+    Makes the best of friends begin to fight
+    Chocolate Rain
+    But did they know each other in the light? 
+
+    Chocolate Rain
+    Every February washed away
+    Chocolate Rain
+    Stays behind as colors celebrate
+
+    Chocolate Rain
+    The same crime has a higher price to pay
+    chocolate Rain
+    The judge and jury swear it's not the face
+
+    Chocolate Rain
+    Dirty secrets of economy
+    Chocolate Rain
+    Turns that body into GDP 
+
+    Chocolate Rain
+    The bell curve blames the baby's DNA
+    Chocolate Rain
+    But test scores are how much the parents make
+
+    Chocolate Rain
+    'Flippin cars in France the other night
+    Chocolate Rain
+    Cleans the sewers out beneath Mumbai
+
+    Chocolate Rain
+    'Cross the world and back its all the same
+    Chocolate Rain
+    Angels cry and shake their heads in shame
+
+    Chocolate Rain
+    Lifts the ark of paradise in sin
+    Chocolate Rain
+    Which part do you think you're 'livin in?
+
+    Chocolate Rain
+    More than 'marchin more than passing law
+    Chocolate Rain
+    Remake how we got to where we are. 
 ---
 Track: Classical Gas
 Artists:
@@ -12770,6 +14022,171 @@ Lyrics: |-
     And souls of the lost will come awake
     Enter this Crystal Kingdom
 ---
+Track: Dame tu Cosita
+Artists:
+- El Chombo
+Duration: '2:24'
+URLs:
+- https://www.youtube.com/watch?v=FzG4uDgje3M
+Lyrics: |-
+    Ah! Bienvenidos a la cripta!
+
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    (Muévete para aquí, muévete para allá)
+
+    Dame tu cosita, ay toma
+    Ahh (tu cosita, tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita, tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita)
+
+    Damela damela bien rica
+    Vamonos pa' ca, pa' la esquinita
+    Damela que estas bien bonita, mamacita
+    Damela, damela pa' aquí, dame pa' llevar
+    A mi me gusta como tu lo meneas
+    Muévete ese bam bam y grita
+
+    Ah! Bienvenidos a la cripta!
+
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    (Muévete para aquí, muévete para allá)
+
+    Dame tu cosita, ay toma
+    Ahh (tu cosita, tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita, tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita)
+
+    Wow baby
+    Tu me tiene como loco, my lady
+    Cuando tu lo mueves, tu me pones crazy
+    Así que mueve se bam bam, baby
+    Damela, damela pa' aquí, dame pa' llevar
+    A mi me gusta como tu lo meneas
+    Muévete ese bam bam y grita
+
+    Ah! Bienvenidos a la cripta!
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    Dame tu cosita ah ay
+    Dame tu cosita ah ah
+    (Muévete para aquí, muévete para allá)
+
+    Dame tu cosita, ay toma
+    Ahh (tu cosita, tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita, tu cosita)
+    Dame tu cosita, ay toma
+    Ahh (tu cosita)
+
+    Dame tu cosita
+
+    [English translation:]
+
+    Ah! Welcome to the crypt!
+
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+
+    Move over here, move over there
+
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+
+    Damela damela well rich
+    Let's go pa 'ca, pa' the little corner
+    Give it to me, you're pretty, mamacita
+    Give it to me, give it to me for 'here, give me pa' to take
+    I like how you mess it up
+    Move that bam bam and scream
+
+    Ah! Welcome to the crypt!
+
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+
+    Move over here, move over there
+
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+
+    Wow baby
+    You have me crazy, my lady
+    When you move it, you make me crazy
+    So move se bam bam, baby
+    Give it to me, give it to me for 'here, give me pa' to take
+    I like how you mess it up
+    Move that bam bam and scream
+
+    Ah! Welcome to the crypt!
+
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+    Give me your little thing ah ay
+    Give me your little thing ah ah
+
+    Move over here, move over there
+
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+    Give me your little thing ay take
+    (Your thingy)
+
+    Give me your little thing
+---
 Track: Danger! High Voltage
 Artists:
 - Electric Six
@@ -12877,6 +14294,124 @@ Duration: '3:19'
 URLs:
 - https://www.youtube.com/watch?v=AumYP6Np1eI
 ---
+Track: Despacito
+Artists:
+- Luis Fonsi
+- Daddy Yankee
+Duration: '3:47'
+URLs:
+- https://www.youtube.com/watch?v=kJQP7kiw5Fk
+Lyrics: |-
+    ¡Ay!
+    ¡Fonsi!
+    ¡D.Y.!
+
+    Ohhh
+    Oh, no, oh, no
+    Oh
+    Hey, yeah!
+
+    Diridiri dirididi Daddy
+
+    Go!
+
+    Si, sabes que ya llevo un rato mirándote
+    Tengo que bailar contigo hoy
+
+    (¡D.Y.!)
+    Vi que tu mirada ya estaba llamándome
+    Muéstrame el camino que yo voy, oh
+
+    Tú, tú eres el imán y yo soy el metal
+    Me voy acercando y voy armando el plan
+    Sólo con pensarlo se acelera el pulso
+
+    (Oh, yeah)
+    Ya, ya me está gustando más de lo normal
+    Todos mis sentidos van pidiendo más
+    Esto hay que tomarlo sin ningún apuro
+
+    Des-pa-cito
+    Quiero respirar tu cuello despacito
+    Deja que te diga cosas al oído
+    Para que te acuerdes si no estás conmigo
+    Des-pa-cito
+    Quiero desnudarte a besos despacito
+    Firmo en las paredes de tu laberinto
+    Y hacer de tu cuerpo todo un manuscrito
+
+    Sube, sube, sube
+    Sube, sube
+
+    Quiero ver bailar tu pelo
+    Quiero ser tu ritmo
+    Que le enseñes a mi boca
+    Tus lugares favoritos
+    (Favorito, favorito, baby)
+    Déjame sobrepasar tus zonas de peligro
+    Hasta provocar tus gritos
+    Y que olvides tu apellido
+
+    Si te pido un beso ven dámelo
+    Yo sé que estás pensándolo
+    Llevo tiempo intentándolo
+    Mami, esto es dando y dándolo
+    Sabes que tu corazón conmigo te hace bang-bang
+    Sabes que esa beba está buscando de mi bang-bang
+    Ven prueba de mi boca para ver cómo te sabe
+    Quiero, quiero, quiero ver cuánto amor a ti te cabe
+    Yo no tengo prisa, yo me quiero dar el viaje
+    Empecemos lento, después salvaje
+
+    Pasito a pasito, suave suavecito
+    Nos vamos pegando, poquito a poquito
+    Cuando tú me besas con esa destreza
+    Veo que eres malicia con delicadeza
+
+    Pasito a pasito, suave suavecito
+    Nos vamos pegando, poquito a poquito
+    Y es que esa belleza es un rompecabezas
+    Pero pa' montarlo aquí tengo la pieza
+    ¡Oye!
+
+    Des-pa-cito
+    Quiero respirar tu cuello despacito
+    Deja que te diga cosas al oído
+    Para que te acuerdes si no estás conmigo
+    Des-pa-cito
+    Quiero desnudarte a besos despacito
+    Firmo en las paredes de tu laberinto
+    Y hacer de tu cuerpo todo un manuscrito
+
+    Sube, sube, sube
+    Sube, sube
+
+    Quiero ver bailar tu pelo
+    Quiero ser tu ritmo
+    Que le enseñes a mi boca
+    Tus lugares favoritos
+    (Favorito, favorito, baby)
+    Déjame sobrepasar tus zonas de peligro
+    Hasta provocar tus gritos
+    Y que olvides tu apellido
+
+    Des-pa-cito
+    Vamo' a hacerlo en una playa en Puerto Rico
+    Hasta que las olas griten "¡Ay, Bendito!"
+    Para que mi sello se quede contigo
+    ¡Bailalo!
+
+    Pasito a pasito, suave suavecito
+    Nos vamos pegando, poquito a poquito
+    Que le enseñes a mi boca
+    Tus lugares favoritos
+    Favorito, favorito, baby
+    Pasito a pasito, suave suavecito
+    Nos vamos pegando, poquito a poquito
+    Hasta provocar tus gritos (Fonsi)
+    Y que olvides tu apellido (D.Y.)
+    Des-pa-cito
+---
 Track: Destroy Them With Lazers
 Artists:
 - Knife Party
@@ -12907,6 +14442,261 @@ Duration: '2:29'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/diamond-dust
 - https://www.youtube.com/watch?v=7bfC_-fWy84
+---
+Track: Dicko Mode
+Artists:
+- DJ Splash Drip
+- Kusorare
+Duration: '4:57'
+Sampled Tracks:
+- Sicko Mode
+Lyrics: |-
+    Asshole
+
+    Dick me down, bootyhole
+    That's how you already know, I'm a queer
+    My dog would probably
+    rape you 'til ya booty melt
+
+    That's just all he know,
+    he don't know nothin' else
+    I tried to blow 'em
+    I tried to blow 'em
+
+    Yeah, yeah, yeah
+    Spread the cheeks, lick the booty hole
+    Young La' Flame, he in
+
+    dicko mode
+
+    Woo, big round rear,
+    oh yes I like to send 'em nudes
+    Yeah the gay's outside,
+    he like to fuck until we loose
+    Yeah, dildo boys, that's
+    dildo practice with the lube
+
+    That dick way too big,
+    when we pull up send me the nudes
+
+    (Send me the nudes!)
+
+    I jerked his jimmy, I rubbed his hooves
+    Had to grab my own
+    towel to clean the lube
+    Booty always locked down,
+    the cum shoot
+
+    Now it's 4 AM
+    and them backshots is feeling coo'
+    I just sucked your man,
+    slurping up the cock like Jamba juice
+
+    Different colored cocks,
+    so that penis probably looking new
+    And I'm chokin', man,
+    know them women wish they was a dude
+
+    Some-Some-
+    Someone said
+
+    To swallow the meat,
+    the dick must go deep
+    Pl-Pl-Playin' with me,
+    let me tickle the feet
+
+    (Someone said)
+
+    To swallow the meat,
+    the dick must go deep
+    Pl-Pl-Playin' with me,
+    let me tickle the feet
+
+    Yeah, this shit way too normal,
+    y'all know I might suck the crew
+    Big round ass,
+    most of these butts don't have a clue
+    All of these hoes,
+    I fucked with semen I produced
+    I might take all this booty
+    and put it all in a group
+
+    Hit my eses, they send me nudes
+    'Bout to turn this orgy to dick and poop
+    Told 'em "Hop in, we fucking too"
+    On the anal side,
+    niggas suck me 'til the cum shoot
+    (Don't stop, lick that booty!)
+
+    Had to throw my top off, we gettin loose
+
+    He said, "Where you goin'?"
+    I said, "The room"
+    Then he grabbed me,
+    then my booty groomed
+    He thought it was the ocean,
+    it's just the lube
+    Now I gotta open, he sending nudes
+    Who put this dick together? I'm the glue
+
+    Someone said
+    Nigga straight fucked me then I pooped
+    Someone said
+    Pl-Pl-Playin' with me
+    Someone said, motherfucker—someone said
+    Let me tickle the feet
+
+    Yah!
+    Asshole,
+
+    Ay, Ay
+    He's in love with who I am
+    Back in high school,
+    I used to jerk him with my hands
+    Now I hit that orgy sex
+    with condoms in my hand
+
+    I did half a Xan,
+    now I'm poundin' on my mans
+    Had me out like a light,
+    ayy,
+    Like a light,
+    ayy,
+    Like a light,
+    ayy
+    Slept through the pipe,
+
+    Knocked for the night,
+    767, man This shit got double wedgies,
+    man, I still got dick to settle,
+    man, I smashed on the block
+
+    Made a right
+    Cut the lights,
+    raped me twice
+    Niggas think I'm straight,
+    it's on sight
+    Nothin' nice,
+    booty lookin' right
+
+    Jesus Christ,
+    dicks over rice
+    That's what I like,
+    that's what we like
+    Lost my respect,
+    that booty wet
+    When I suck the cock,
+    I get wetty with my neck
+
+    See the cock that I took,
+    that had me shook
+    Jerk on his jimmy
+    I be on the cock,
+    milly rock, 'til I'm dizzy
+    Like where is he?
+    No one seen him
+    I'm tryna skeet 'em
+
+    He's in love with who I am
+    Back in high school,
+    I used to jerk him with my hands
+
+    Now I hit that orgy sex
+    with condoms in my hand
+    I did half a Xan,
+    now I'm poundin' on my mans
+
+    Had me out like a light
+    (Like a light)
+    Like a light
+    (Like a light)
+    Like a light
+    (Like a light)
+    Like a light
+
+    Yeah, passing cocks I'm steady
+    lickin' dicks and getting wise
+    Yeah, he said he got that "Booty locked"
+    I know our booty tight, yeah
+
+    It's absolute, my booty loose
+    Lotta penis, we eatin' two,
+    yeah, We back on the dick,
+    we ride that cock until we poop,
+    yeah, Shawty in the back
+    He said his booty like a nuke,
+    ayy
+
+    Ain't what it look,
+    my booty shook
+    Throwing neck,
+    the booty crook,
+    yeah, Pass it to the homie,
+    yeah, that penis got me hooked
+    Baby daddy at my house,
+    got his baby mother shook
+
+    Yeah
+---
+Track: Discordant
+Artists:
+- Cecily Renns
+Duration: '2:24'
+URLs:
+- https://johnjrenns.bandcamp.com/track/discordant-2
+Lyrics: |-
+    Jere we go again
+    Makin' some music and shit
+    Just open that FL studio
+    The easiest thing to do, hey
+
+    Yeah thats right
+    I'll open that SGM
+    The piano roll will be my domain
+    What's so fucking hard 'bout that
+
+    But I do have to admit
+    This life's not that easy as it sounds
+    Theres just one little problem
+    Something about my melody
+
+    It's discordant
+    Why is it so damn hard to find the right harmony
+    It's so discordant
+    Listen to it then you'll see
+    It's so discordant
+
+    Alright then
+    I think I've figured it out
+    There's something wrong about the chord progression
+    I've just gotta fix that then
+    But it looks
+    Like the chord is all fine and nice
+    Then is it the fucking scale that's off
+    I dont know cause it's too confusing
+
+    Maybe this life isn't for me
+    Maybe I should give up and quit composing
+    No no no I can't say that
+    Even if it's hard it's so fun
+
+    It's discordant
+    Look at all these people saying my music sucks but
+    It's really alright and well
+    This is the life I've chosen
+    I'll believe in it
+
+    Piano solo
+
+    Wait
+    There we go, sorry
+
+    It's discordant
+    Why is it so damn hard to find the right harmony
+    It's so discordant
+    Listen to it then youll see
+    It's so discordant
+    It's so discordant
 ---
 Track: Divinity
 Artists:
@@ -13080,6 +14870,13 @@ Lyrics: |-
 
     (And by the way, I love China.)
 ---
+Track: Don't
+Artists:
+- Approaching Nirvana
+Duration: '5:09'
+URLs:
+- https://www.youtube.com/watch?v=GPjtBTtzHdk
+---
 Track: Don't Cry Out Loud
 Artists:
 - Peter Allen (composition)
@@ -13176,6 +14973,113 @@ Lyrics: |-
     Sloppy lips to lips
     You're my vitamins
     I like you 
+---
+Track: Dragostea Din Tei
+Artists:
+- O-Zone
+Duration: '3:35'
+URLs:
+- https://www.youtube.com/watch?v=YnopHCL1Jk8
+Lyrics: |-
+    Mai-ia-hii
+    Mai-ia-huu
+    Mai-ia-ha
+    Mai-ia-haha
+
+    Mai-ia-hii
+    Mai-ia-huu
+    Mai-ia-ha
+    Mai-ia-haha
+
+    Mai-ia-hii
+    Mai-ia-huu
+    Mai-ia-ha
+    Mai-ia-haha
+
+    Mai-ia-hii
+    Mai-ia-huu
+    Mai-ia-ha
+    Mai-ia-haha
+
+    Alo? Salut! Sunt eu, un haiduc
+    Şi te rog iubirea mea primeşte, fericirea
+    Alo? Alo! Sunt eu, Picasso
+    Ţi-am dat beep şi sunt voinic
+    Dar să ştii nu-ţi cer nimic
+
+    Vrei să pleci dar
+    Nu mă, nu mă iei
+    Nu mă, nu mă iei
+    Nu mă, nu mă, nu mă iei
+    Chipul tău şi
+    Dragostea din tei
+    Mi-amintesc de ochii tăi
+
+    Vrei să pleci dar
+    Nu mă, nu mă iei
+    Nu mă, nu mă iei
+    Nu mă, nu mă, nu mă iei
+    Chipul tău şi
+    Dragostea din tei
+    Mi-amintesc de ochii tăi
+
+    Te sun sa-ţi spun ce simt acum
+    Alo, iubirea mea. Sunt eu, fericirea
+    Alo? Alo! Sunt iaraşi eu, Picasso
+    Ţi-am dat beep şi sunt voinic
+    Dar să ştii nu-ţi cer nimic
+
+    Vrei să pleci dar
+    Nu mă, nu mă iei
+    Nu mă, nu mă iei
+    Nu mă, nu mă, nu mă iei
+    Chipul tău şi
+    Dragostea din tei
+    Mi-amintesc de ochii tăi
+
+    Vrei să pleci dar
+    Nu mă, nu mă iei
+    Nu mă, nu mă iei
+    Nu mă, nu mă, nu mă iei
+    Chipul tău şi
+    Dragostea din tei
+    Mi-amintesc de ochii tăi
+
+    Mai-ia-hii
+    Mai-ia-huu
+    Mai-ia-ha
+    Mai-ia-haha
+
+    Mai-ia-hii
+    Mai-ia-huu
+    Mai-ia-ha
+    Mai-ia-haha
+
+    Mai-ia-hii
+    Mai-ia-huu
+    Mai-ia-ha
+    Mai-ia-haha
+
+    Mai-ia-hii
+    Mai-ia-huu
+    Mai-ia-ha
+    Mai-ia-haha
+
+    Vrei să pleci dar
+    Nu mă, nu mă iei
+    Nu mă, nu mă iei
+    Nu mă, nu mă, nu mă iei
+    Chipul tău şi
+    Dragostea din tei
+    Mi-amintesc de ochii tăi
+
+    Vrei să pleci dar
+    Nu mă, nu mă iei
+    Nu mă, nu mă iei
+    Nu mă, nu mă, nu mă iei
+    Chipul tău şi
+    Dragostea din tei
+    Mi-amintesc de ochii tăi
 ---
 Track: Dramophone
 Artists:
@@ -13823,6 +15727,38 @@ Lyrics: |-
     Sha, sha-ba-da, sha-ba-da-ca, feel good
     Sha, sha-ba-da, sha-ba-da-ca, feel good
 ---
+Track: Feeling Good
+Artists:
+- Nina Simone
+Duration: '3:02'
+URLs:
+- https://www.youtube.com/watch?v=oHRNrgDIJfo
+Lyrics: |-
+    Birds flyin' high, you know how I feel
+    Sun in the sky, you know how I feel
+    Breeze driftin' on by, you know how I feel
+    It's a new dawn, it's a new day, it's a new life for me
+    Yeah, it's a new dawn, it's a new day, it's a new life for me, ooooooooh
+    And I'm feelin' good
+
+    Fish in the sea, you know how I feel
+    River runnin' free, you know how I feel
+    Blossom on the tree, you know how I feel
+    It's a new dawn, it's a new day, it's a new life for me
+    And I'm feelin' good
+
+    Dragonfly out in the sun, you know what I mean, don't you know
+    Butterflies all havin' fun, you know what I mean
+    Sleep in peace when day is done: that's what I mean
+    And this old world is a new world and a bold world for me
+
+    Stars when you shine, you know how I feel
+    Scent of the pine, you know how I feel
+    Oh, freedom is mine, and I know how I feel
+    It's a new dawn, it's a new day, it's a new life for me
+
+    And I'm feelin'... good 
+---
 Track: Fergalicious
 Artists:
 - Fergie
@@ -14077,6 +16013,133 @@ Lyrics: |-
     It's hard to say that I'd rather stay awake when I'm asleep
     Because my dreams are bursting at the seams
 ---
+Track: Five Years
+Artists:
+- David Bowie
+Duration: '4:43'
+URLs:
+- https://www.youtube.com/watch?v=2ObjtVdsV3I
+Lyrics: |-
+    Pushing through the market square
+    So many mothers sighing
+    News had just come over
+    We had five years left to cry in (cry in)
+
+    News guy wept and told us
+    Earth was really dying (dying)
+    Cried so much his face was wet
+    Then I knew he was not lying (lying)
+
+    I heard telephones, opera house, favourite melodies
+    I saw boys, toys, electric irons and TVs
+    My brain hurt like a warehouse, it had no room to spare
+    I had to cram so many things to store everything in there
+
+    And all the fat, skinny people
+    And all the tall, short people
+    And all the nobody people
+    And all the somebody people
+    I never thought I'd need so many people
+
+    A girl my age went off her head
+    Hit some tiny children
+    If the black hadn't have pulled her off
+    I think she would have killed them
+
+    A soldier with a broken arm
+    Fixed his stare to the wheels of a Cadillac
+    A cop knelt and kissed the feet of a priest
+    And a queer threw up at the sight of that
+
+    I think I saw you in an ice-cream parlour
+    Drinking milkshakes cold and long
+    Smiling and waving and looking so fine
+    Don't think you knew you were in this song
+
+    And it was cold and it rained, so I felt like an actor
+    And I thought of Ma and I wanted to get back there
+    Your face, your race, the way that you talk
+    I kiss you, you're beautiful, I want you to walk
+
+    We've got five years, stuck on my eyes
+    Five years, what a surprise
+    We've got five years, my brain hurts a lot
+    Five years, that's all we've got
+
+    We've got five years, what a surprise
+    Five years, stuck on my eyes
+    We've got five years, my brain hurts a lot
+    Five years, that's all we've got
+
+    We've got five years, stuck on my eyes
+    Five years, what a surprise
+    We've got five years, my brain hurts a lot
+    Five years, that's all we've got
+
+    We've got five years, what a surprise
+    We've got five years, stuck on my eyes
+    We've got five years, my brain hurts a lot
+    Five years, that's all we've got
+
+    Five years
+    Five years
+    Five years
+    Five years
+---
+Track: Flicker
+Artists:
+- Porter Robinson
+Duration: '4:39'
+URLs:
+- https://www.youtube.com/watch?v=sjAY0ab6KfU
+Lyrics: |-
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Mitsukeyou to shite iru (<i>I'm trying to find out</i>)
+    Watashi wa (<i>I am</i>)
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Watashi wa chōdo nani ga- (<i>What exactly is-</i>)
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chō (<i>What ex</i>)
+
+    Jinsei okane wo toruto kanso (<i>When money is taken from life, it feels dry</i>)
+
+    Watashi wa chōdo nani ga jū (<i>What exactly is impor</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Mitsukeyou to shite iru (<i>I'm trying to find out</i>)
+    Watashi wa (<i>I am</i>)
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+    Watashi wa chōdo nani ga (<i>What exactly is</i>)
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+
+    Jibun-tachi no seikatsu no torakku o ushinau hōhō desu (<i>It's a way to lose the track of our own lives</i>)
+
+    Watashi wa chōdo nani ga jū- (<i>What exactly is impor-</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+    Watashi wa chōdo (<i>What exactly</i>)
+
+    U u u u u
+    Watashi wa chōdo nani ga jūyō ka (<i>What exactly is important to me?</i>)
+---
 Track: Fly Me To The Moon
 # This track tecnically originally came out in 1954 by Kaye Ballard as "In Other Words"
 # But basically everyone referencing it is referencing the Frank Sinatra version
@@ -14112,6 +16175,85 @@ Lyrics: |-
 
     In other words, please, be true
     In other words, in other words... I love you 
+---
+Track: Freak On a Leash
+Artists:
+- Korn
+Duration: '4:13'
+URLs:
+- https://www.youtube.com/watch?v=jRGrNDV2mKc
+Lyrics: |- 
+    Something takes a part of me
+    Something lost and never seen
+    Every time I start to believe,
+    Something's raped and taken from me, from me
+
+    Life's got to always be messing with me
+    You wanna see the light
+    Can't they chill and let me be free?
+    So do I
+    Can't I take away all this pain?
+    You wanna see the light
+    I try to every night all in vain, in vain
+
+    Sometimes I cannot take this place
+    Sometimes it's my life I can't taste
+    Sometimes I cannot feel my face
+    You'll never see me fall from grace
+
+    Something takes a part of me
+    You and I were meant to be
+    A cheap fuck for me to lay
+    Something takes a part of me
+
+    Feeling like a freak on a leash
+    You wanna see the light
+    Feeling like I have no release
+    So do I
+    How many times have I felt diseased?
+    You wanna see the light
+    Nothing in my life is free, is free
+
+    Sometimes I cannot take this place
+    Sometimes it's my life I can't taste
+    Sometimes I cannot feel my face
+    You'll never see me fall from grace
+
+    Something takes a part of me
+    You and I were meant to be
+    A cheap fuck for me to lay
+    Something takes a part of me
+
+    Boom na da mmm dum na ema
+    Da boom na da mmm dum na ema
+
+    Go!
+
+    So, fight!
+    Something on the—dum na ema
+    Fight
+    Some things—they fight
+    So
+    something on the—dum na ema
+    Fight
+    some things—they fight
+
+    Fight
+    something of the—dum na ema
+    No
+    some things—they fight
+    Fight
+    something of the—dum na ema
+    Fight
+    some things—they fight
+
+    Something takes a part of me
+    You and I were meant to be
+    A cheap fuck for me to lay
+    Something takes a part of me
+
+    Part of me
+    Oh
 ---
 Track: Friday
 Artists:
@@ -14795,6 +16937,70 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Romanization of lyrics via Genius, translation via Business Insider.
 ---
+Track: Gentleman
+Artists:
+- PSY
+Duration: '3:12'
+URLs:
+- https://www.youtube.com/watch?v=ASO_zypdnsQ
+Lyrics: |-
+    Allanggamolla wae hwakkeunhaeya haneungeonji (<i>I don't know why it should be hot</i>)
+    Allanggamolla wae malkkeumhaeya haneungeonji (<i>I don't know why it should be smooth</i>)
+    Allanggamolla arikkarihamyeon kkarihae (<i>I don't know, if you're going to be tough, act tough</i>)
+    Allanggamolla We like (<i>I don't know, we like</i>)
+    We-we-we like party hae (<i>We-we-we like to party</i>)
+    Itjana mariya (<i>You know what I'm saying</i>)
+    Isarameuro malsseumdeurijamyeon mariya (<i>If I were to express it in words then</i>)
+    Yonggi paegi ttolkki meotjaengi mariya (<i>Bravery, courage, swag, it's awesome</i>)
+    Neoga deutgopeunmal hagopeunge nande mariya (<i>What I want to tell you, what I want to say is</i>)
+    Damn, girl, you so freakin' sexy
+
+    I-I-I-I-I'm a
+    I-I-I-I-I'm a mother father gentleman
+
+    I'm a, I-I'm a
+    I'm a mother father gentleman
+    I'm a, I-I'm a
+    I'm a mother father gentleman
+
+    Allanggamolla wae mikkeunhaeyahaneungeonji (<i>I don't know why it should be sharp</i>)
+    Allanggamolla wae ssaekkeunhaeyahaneungeonji (<i>I don't know why it should be tough</i>)
+    Allanggamolla dalling ppalliwaseo nallihae (<i>I don't know, acting all tough, so I acted silly</i>)
+    Allanggamolla nallinalli nasseo ppallihae (<i>I don't know, was quick-witted and quick-witted</i>)
+    Itjana mariya neoui meori heori dari (<i>You know what I'm saying, your head, shoulders, knees</i>)
+    Jongari mariya Good, feeling, feeling good (<i>Everything, it's good, feeling, feeling good</i>)
+    Budeureopge mariya aju geunyang heoksorinage (<i>Smoothly, just very roughly</i>)
+    Aksori nage mariya (<i>Loudly</i>)
+    Damn, girl, I'm a party mafia
+
+    I-I-I-I-I'm a
+    I-I-I-I-I'm a mother father gentleman
+
+    I'm a, I-I'm a
+    I'm a mother father gentleman
+    I'm a, I-I'm a
+    I'm a mother father gentleman
+
+    Gonna make you sweat
+    Gonna make you wet
+    You know who I am
+    Wet PSY
+    Gonna make you sweat
+    Gonna make you wet
+    You know who I am
+    Wet PSY, wet PSY
+    Wet PSY, wet PSY
+    PSY, PSY, PSY
+    I-I-I-I-I-I-I-I-I-I-I-I-I'm a mother father gentleman
+
+    I'm a, I-I'm a
+    I'm a mother father gentleman
+    I'm a, I-I'm a
+    I'm a mother father gentleman
+
+    Mother father gentleman
+    Mother father gentleman
+---
 Track: Get It On
 Artists:
 - Chase
@@ -15074,6 +17280,16 @@ Lyrics: |-
     It's a good day to have a good day
     It's a good day to have a good day
 ---
+Track: Goosebumps Theme Song
+Artists:
+- Jack Lenz
+Duration: '1:09'
+URLs:
+- https://www.youtube.com/watch?v=rsEeiIrJy4E
+Lyrics: |-
+    (Goosebumps)
+    (Viewer beware, you're in for a scare)
+---
 Track: Grand Dad's Secret Slide
 Artists:
 - SilvaGunner
@@ -15118,6 +17334,28 @@ Duration: '1:05'
 URLs:
 - https://www.youtube.com/watch?v=6Nvf9y7G9zU
 - https://battleofthebits.org/arena/Entry/grrrarrr/6241/
+---
+Track: Guy Fieri takes you to FLAVORTOWN
+Artists:
+- Joji
+Duration: '1:09'
+URLs:
+- https://www.youtube.com/watch?v=WXdnYd0wwDE
+Lyrics: |-
+    I'm taking you to flavortown
+    I'm taking ya, I'm taking ya to flavortown
+    I'm taking you to flavortown
+
+    I'm taking you to flavortown
+    I'm taking you to flavortown
+    I'm taking you to flavortown
+    I'm taking you to flavortown
+    Oh let me lick your brisket
+    And take you and take you to flavortown
+    Oh!, let me lick your brisket baby
+    Let me take you to flavortown
+    Let me take you to flavortown
+    Oh let me take ya, oh let me take you to flavortown
 ---
 Track: Happy Happy Christmas
 # Also known as 'it is a mystery'
@@ -15363,6 +17601,86 @@ Lyrics: |-
     Here, there, and everywhere
     Hip, hip
 ---
+Track: Hotline Bling
+Artists:
+- Drake
+Duration: '4:30'
+URLs:
+- https://www.youtube.com/watch?v=uxpDa-c-4Mc
+Lyrics: |-
+    You used to call me on my
+    You used to, you used to
+    Yeah
+
+    You used to call me on my cell phone
+    Late-night when you need my love
+    Call me on my cell phone
+    Late-night when you need my love
+    And I know when that hotline bling
+    That can only mean one thing
+    I know when that hotline bling
+    That can only mean one thing
+
+    Ever since I left the city, you
+    Got a reputation for yourself now
+    Everybody knows and I feel left out
+    Girl, you got me down, you got me stressed out
+    'Cause ever since I left the city, you
+    Started wearing less and goin' out more
+    Glasses of champagne out on the dance floor
+    Hangin' with some girls I've never seen before
+
+    You used to call me on my cell phone
+    Late-night when you need my love
+    Call me on my cell phone
+    Late-night when you need my love
+    I know when that hotline bling
+    That can only mean one thing
+    I know when that hotline bling
+    That can only mean one thing
+
+    Ever since I left the city, you, you, you
+    You and me, we just don't get along
+    You make me feel like I did you wrong
+    Going places where you don't belong
+    Ever since I left the city, you
+    You got exactly what you asked for
+    Running out of pages in your passport
+    Hangin' with some girls I've never seen before
+
+    You used to call me on my cell phone
+    Late-night when you need my love
+    Call me on my cell phone
+    Late-night when you need my love
+    And I know when that hotline bling
+    That can only mean one thing
+    I know when that hotline bling
+    That can only mean one thing
+
+    These days, all I do is
+    Wonder if you're bendin' over backwards for someone else
+    Wonder if you're rolling up a Backwoods for someone else
+    Doing things I taught you, gettin' nasty for someone else
+    You don't need no one else
+    You don't need nobody else, no
+    Why you never alone?
+    Why you always touching road?
+    Used to always stay at home
+    Be a good girl, you was in the zone
+    Yeah, you should just be yourself
+    Right now, you're someone else
+
+    You used to call me on my cell phone
+    Late-night when you need my love
+    Call me on my cell phone
+    Late-night when you need my love
+    And I know when that hotline bling
+    That can only mean one thing
+    I know when that hotline bling
+    That can only mean one thing
+
+    Ever since I left the city 
+---
 Track: Hoverboard
 Artists:
 - Dirtyphonics
@@ -15509,6 +17827,88 @@ Lyrics: |-
     Less
     Less
     Less...
+---
+Track: I'm 20 years old and I've already wasted my entire life (Anxie's Theme) 
+Artists:
+- Cecily Renns
+Duration: '3:53'
+URLs:
+- https://johnjrenns.bandcamp.com/track/i-m-20-years-old-and-i-ve-already-wasted-my-entire-life-anxie-s-theme
+Lyrics: |-
+    Anxie:
+    i got a guitar i can let out all my sorrows to
+    i wonder if ill be alone again and by myself tomorrow too
+    you know, dont you
+    i play a song that no one recognize the tune of
+    i'm thinking if this goes on i'll just end it all already soon enough
+    fuck self love
+
+    then i met her!
+    she spoke to my self deprecating ass, said
+    Emma: "Darling, you're a wonderful girl
+    More so than you think"
+
+    Anxie:
+    now i don't trust in feelings or a love at first sight
+    there's just no way you can get head over heels after one night
+    cause i refuse to believe that things could turn out alright
+    oh this is way too much, this can't be happening in my life
+
+    i'm in a punk band, all the cool gals envy me
+    or so i dream everyday
+    but nobody acts friendly with me
+    i think they resent me
+
+    cause all i do is get drunk and spew nonsense
+    listen to dead people play music better than i ever will
+    dead people who no one around even knows the names of
+    one day i'll also be dead and forgotten like the rest
+
+    Emma: "Darling, come closer"
+    Anxie: she says while doing a german suplex
+    Emma:
+    "You're different than everyone else
+    Just dumb enough to actually do something, just like me"
+
+    Anxie:
+    she looked me in the eyes and saw immeasurable fright
+    i felt uncomfortable with all my Misery, my Plights
+    cause i refuse to believe that things could turn out alright
+    oh this is way too much, this can't be happening in my life
+    so then i withered away, an inseparable blight
+    but when im with her i feel revived, she's a hope that's too bright
+    still, i refuse to believe that things could turn out alright
+    oh this is way too much, this can't be happening in my life
+
+    my father always said to me
+    "be a good girl and good things will happen"
+    and my piece of shit mom often yelled
+    "youre only good for passing that bottle"
+    what a fucking cunt
+
+    hey, pa
+    thats fucking bullshit
+    oh oh oh
+    hey, ma
+    you were right the whole time
+    oh oh oh
+
+    Anxie, Emma:
+    Hey, pa
+    That's fucking bullshit
+    Oh oh oh
+    Hey, ma
+    You were right the whole time
+    Oh oh oh
+    Hey, pa
+    That's fucking bullshit
+    Oh oh oh
+    Hey, ma
+    You were right the whole time
+    Oh oh oh oh oh
+
+    Anxie:
+    guess i'm the fucking cunt now.
 ---
 Track: I'm A Believer
 Artists:
@@ -16234,6 +18634,67 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Originally titled 'It's Beginning to Look Like Christmas'.
 ---
+Track: Island In The Sun
+Artists:
+- Weezer
+Duration: '3:30'
+URLs:
+- https://www.youtube.com/watch?v=HVHUjzZZGQ4
+Lyrics: |-
+    Hip hip
+    Hip hip
+    Hip hip
+    Hip hip
+
+    When you're on a holiday
+    You can't find the words to say
+    All the things that come to you
+    And I wanna feel it too
+
+    On an island in the sun
+    We'll be playing and having fun
+    And it makes me feel so fine
+    I can't control my brain
+
+    Hip hip
+    Hip hip
+
+    When you're on a golden sea
+    You don't need no memory
+    Just a place to call your own
+    As we drift into the zone
+
+    On an island in the sun
+    We'll be playing and having fun
+    And it makes me feel so fine
+    I can't control my brain
+
+    We'll run away together
+    We'll spend some time forever
+    We'll never feel bad anymore
+
+    Hip hip
+    Hip hip
+    Hip hip
+
+    On an island in the sun
+    We'll be playing and having fun
+    And it makes me feel so fine
+    I can't control my brain
+
+    We'll run away together
+    We'll spend some time forever
+    We'll never feel bad anymore
+
+    Hip hip
+    Hip hip (We'll never feel bad anymore)
+    Hip hip (No, no)
+    Hip hip
+    Hip hip (We'll never feel bad anymore)
+    Hip hip (No, no)
+    Hip hip (No, no)
+    Hip hip
+---
 Track: Isle Unto Thyself
 Artists:
 - Miracle Musical
@@ -16285,6 +18746,123 @@ Lyrics: |-
     Why did murderous animals survive
     Why did we deserve to be revived
     Why was any and everything alive
+---
+Track: It's Never Over (Hey Orpheus)
+# Ambiguously written as It's Never Over (Oh Orpheus) too, but this name is used in official releases
+Artists:
+- Arcade Fire
+Duration: '6:44'
+URLs:
+- https://www.youtube.com/watch?v=XfDPX7tKyFE
+Lyrics: |-
+    Hey, Orpheus!
+    I'm behind you
+    Don't turn around
+    I can find you
+
+    Just wait until it's over
+    Wait until it's through
+    And if I call for you
+    Oh, Orpheus!
+    Just sing for me all night
+    We'll wait until it's over
+    Wait until it's through
+
+    You say it's not me, it's you
+
+    Hey, Orpheus!
+    De l'autre côté de l'eau
+    Comme un écho
+    Just wait until it's over
+    Wait until it's through
+
+    And if I shout for you
+    Never doubt
+    Don't turn around too soon
+    Just wait until it's over
+    Wait until it's through
+
+    It seems so important now
+    But you will get over
+    Seems so important now
+    But you will get over
+    And when you get over
+    And when you get older
+    Then you will remember
+    Why it was so important then
+
+    Seems like a big deal now
+    But you will get over
+    Seems like a big deal now
+    You will get over
+    When you get over
+    When you get older
+    Then you will discover
+    That it's never over
+
+    Hey, Eurydice!
+    Can you see me?
+    I will sing your name
+    Till you're sick of me
+    Just wait until it's over
+    Just wait until it's through
+
+    And if you call for me
+    This frozen seaIt melts beneath me
+    Just wait until it's over
+    Wait until it's through
+
+    Seems like a big deal now
+    You will get over
+    Seems like a big deal now
+    You will get over
+    And when you get over
+    When you get older
+    You will remember
+
+    He told you he'd wake you up
+    When it was over
+    He told you he'd wake you up
+    When it was over
+    Now that it's over
+    Now that you're older
+    Then you will discover
+
+    It's never over (it's never over)
+    It's never over (it's never over)
+    It's never over (it's never over)
+    It's never over (it's never over)
+    It's never over (it's never over)
+    It's never over (it's never over)
+    It's never over (it's never over)
+
+    Sometime (Sometime)
+    Sometime (Sometime)
+    Boy, they're gonna eat you alive (eat you alive)
+    But it's never gonna happen now
+    We'll figure it out somehow
+
+    Sometime (Sometime)
+    Sometime (Sometime)
+    Boy, they're gonna eat you alive (eat you alive)
+    But it's never gonna happen now
+    We'll figure it out somehow
+
+    'Cause it's never over
+    It's never over (it's never over)
+    It's never over (it's never over)
+    It's never over (it's never over)
+    It's never over (it's never over)
+    And it's never over (it's never over)
+    It's never over (it's never over)
+
+    We stood beside
+    A frozen seaI saw you out
+    In front of me
+    Reflected light
+    A hollow moon
+    Oh Orpheus, Eurydice
+    Its over too soon
 ---
 Track: It's Your Move
 Artists:
@@ -17040,6 +19618,65 @@ Lyrics: |-
     “this s- uh, this discord is wild, wild, [unintelligble]”
     “it just got a lot hotter in this room”
     “god, that’s what it’s like working at there, ‘cause i’m like, “hey, what can i get you?” and the person is like, “can i get a fucking uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh coffee.” it’s like “okay, what kind of coffee?” “uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh…” and then they order like five different things in a cup and then im there just like-”
+Track: Like Herod
+Artists:
+- Mogwai
+Duration: '11:41'
+URLs:
+- https://www.youtube.com/watch?v=dn4sCGi0E6Q
+---
+Track: Linger
+Artists:
+- The Cranberries
+Duration: '4:37'
+URLs:
+- https://www.youtube.com/watch?v=G6Kspj3OO0s
+Lyrics: |-
+    If you, if you could return
+    Don't let it burn
+    Don't let it fade
+    I'm sure I might be rude
+    But it's just your attitude
+    It's tearing me apart
+    It's ruining everything
+    And I swore, I swore I would be true
+    And honey, so did you
+    So why were you holding her hand?
+    Is that the way we stand?
+    Were you lying all the time?
+    Was it just a game to you?
+
+    But I'm in so deep
+    You know I'm such a fool for you
+    You've got me wrapped around your finger
+    Do you have to let it linger?
+    Do you have to, do you have to, do you have to let it linger?
+
+    Oh, I thought the world of you
+    I thought nothing could go wrong
+    But I was wrong, I was wrong
+    If you, if you could get by
+    Trying not to lie
+    Things wouldn't be so confused
+    And I wouldn't feel so used
+    But you always really knew
+    I just wanna be with you
+
+    And I'm in so deep
+    You know I'm such a fool for you
+    You've got me wrapped around your finger
+    Do you have to let it linger?
+    Do you have to, do you have to, do you have to let it linger?
+
+    And I'm in so deep
+    You know I'm such a fool for you
+    You've got me wrapped around your finger
+    Do you have to let it linger?
+    Do you have to, do you have to, do you have to let it linger?
+    You know I'm such a fool for you
+    You've got me wrapped around your finger
+    Do you have to let it linger?
+    Do you have to, do you have to, do you have to let it linger? 
 ---
 Track: Look At Me!
 Artists:
@@ -17325,6 +19962,153 @@ Lyrics: |-
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
     The song originates with Coward's 1932 revue "Words and Music"; no recording exists, however. Dinah Washington's 1961 version (her second time recording it) is the most popular and enduring version.
+---
+Track: Made in Heaven
+Artists:
+- Queen
+Duration: '5:25'
+URLs:
+- https://www.youtube.com/watch?v=171skzi5BKc
+Lyrics: |-
+    I'm taking my ride with destiny
+    Willing to play my part
+    Living with painful memories
+    Loving with all my heart
+
+    Made in heaven, made in heaven
+    It was all meant to be, yeah
+    Made in heaven, made in heaven
+    That's what they say
+    Can't you see?
+    That's what everybody says to me
+    Can't you see?
+
+    Oh I know, I know, I know that it's true
+    Yes, it's really meant to be
+    Deep in my heart
+
+    I'm having to learn to pay the price
+    They're turning me upside down
+    Waiting for possibilities
+    Don't see too many around
+
+    Made in heaven, made in heaven
+    It's for all to see
+    Made in heaven, made in heaven
+    That's what everybody says
+    Everybody says to me
+    It was really meant to be
+    Oh, can't you see?
+    Yeah, everybody, everybody says
+    Yes, it was meant to be, yeah
+
+    When stormy weather comes around
+    It was made in heaven
+    When sunny skies
+    Break through behind the clouds
+    I wish it could last forever, yeah
+    Wish it could last forever, forever
+
+    Made in heaven
+
+    I'm playing my role in history
+    Looking to find my goal
+    Taking in all this misery
+    But giving in all my soul
+
+    Made in heaven, made in heaven
+    It was all meant to be, yeah
+    Made in heaven, made in heaven
+    That's what everybody says
+    Wait and see, it was really meant to be
+    So plain to see
+    Yeah, everybody, everybody
+    Everybody tells me so
+    Yes, it was plain to see
+    Yes, it was meant to be
+
+    Written in the stars
+    Written in the stars
+    Written in the stars 
+---
+Track: Makeout Spots
+Artists:
+- Jeff Burgess
+Duration: '3:56'
+URLs:
+- https://jeffburgess.bandcamp.com/track/makeout-spots
+Lyrics: |-
+    All the sexy plots
+    In the cool makeout spots
+    I'm sad 'cause they remind me of you
+    And all the lights and dreams I envisioned
+    Are you mad because they're coming true?
+
+    I been living for the shows and for the road
+    And telling those I love "I have to go"
+    Seeing filly dreams ignite and fly to space
+    I will gladly let my one love be the bass
+
+    Some couples kiss on the dance floor
+    You prefer the moonlit seashore
+    I can't force this life upon you
+    If it's something you won't do
+
+    All the sexy plots
+    In the cool makeout spots
+    I'm sad 'cause they remind me of you
+    And all the lights and dreams I envisioned
+    Are you mad because they're coming true?
+
+    I been meeting all these girls after the show
+    They sneak backstage, say "Where you wanna go?"
+    We trot on out, to a bar, she meets Neon Lights
+    She tries to wet our horns, but I go outside
+
+    Oh I don't talk 'cause no one listens
+    Longer we drive, less it glistens
+    Losing sight, but what can I do?
+    Octy, I am missing you
+    Will you still be there when its through?
+
+    All the sexy plots
+    In the cool makeout spots
+    I'm sad 'cause they remind me of you
+    And all the lights and dreams I envisioned
+    Are you mad because they're coming true?
+
+    Why is it so hard not to be blind?
+    I listen to old songs and somehow I find
+    I don't hear them the same anymore
+    There's bad tuning and flaws and they're just so boring
+
+    Do I push myself too hard?
+    I'm only twenty years old
+    That's eighteen I wasted taking walks autumn nights
+    And two I've devoted to pursuing this stupid goal
+
+    I've lost my filly dreams
+    The wind swept them up when I wasn't aware
+    Somewhere along the line it seems
+
+    I would turn right back if I wasn't so very close
+    We haven't talked in so long I probably feel like a ghost
+    Octy, I swear, I do care, but it's within my grip
+    I just need to know how it feels then I can end this trip
+
+    All the sexy plots
+    In the cool makeout spots
+    I'm sad 'cause they remind me of you
+    And all the lights and dreams I envisioned
+    Are you mad because they're coming true?
+
+    All the sexy plots
+    In the cool makeout spots
+    I'm sad 'cause they remind me of you
+    And all the lights and dreams I envisioned
+    Are you mad because they're coming
+    Mad because they're coming
+    Mad because they're coming true?
 ---
 Track: Marble Soda
 Artists:
@@ -18016,6 +20800,28 @@ Lyrics: |-
     (What's your perspective on that?)
     (Pac? Pac? Pac?!)
 ---
+Track: Moby Octopad
+Artists:
+- Yo La Tengo
+Duration: '5:47'
+URLs:
+- https://www.youtube.com/watch?v=kI2T608GNXQ
+Lyrics: |-
+    Locked in a kiss, outside eyes cease to exist
+    We'll shut it out (of the fist)
+    Spying eyes cease to exist
+    We'll shut it out
+
+    Eight o'clock, the lights are on at Shea
+    Phone turned down, we've nothing much to say
+    Dozing off the TV drones
+    House key makes them turn and glance for home
+
+    Locked in a kiss, outside eyes cease to exist
+    Flayed of the fist
+    Spiders cease to exist
+    We'll shut it out 
+---
 Track: Mr. Brightside
 Artists:
 - The Killers
@@ -18152,6 +20958,13 @@ Lyrics: |-
     Oooooh, my Sharona
     Oooooh, my Sharona
     Oooooh, my Sharona
+---
+Track: Nattopet
+Artists:
+- Detektivbyrån
+Duration: '3:00'
+URLs:
+- https://www.youtube.com/watch?v=YxBCCLoxSXQ
 ---
 Track: Never Gonna Give You Up
 Artists:
@@ -18881,6 +21694,94 @@ Lyrics: |-
     Come on ladies
     One pound fish (3x)
 ---
+Track: One Week
+Artists:
+- Barenaked Ladies
+Duration: '2:46'
+URLs:
+- https://www.youtube.com/watch?v=fC_q9KPczAg
+Lyrics: |-
+    It's been one week since you looked at me
+    Cocked your head to the side
+    and said I'm angry
+    Five days since you laughed at me saying
+    Get that together come back and see me
+    Three days since the living room,
+    I realized it's all my fault, but couldn't tell you
+    Yesterday you'd forgiven me
+    But it'll still be two days till I say I'm sorry
+    Hold it now and watch the hoodwink
+    As I make you stop, think
+    You'll think you're looking at Aquaman
+    I summon fish to the dish,
+    Although I like the Chalet Swiss
+    I like the sushi
+    Cause it's never touched a frying pan
+    Hot like wasabe when I bust rhymes
+    Big like Leann Rimes
+    Because I'm all about value
+    Bert Kaempfert's got the mad hits
+    You try to match wits
+    You try to hold me but I bust through
+    Gonna make a break and take a fake
+    I'd like a stinkin, achin shake
+    I like vanilla, It's the finest of the flavors
+    Gotta see the show,
+    Cause then you'll know
+    The Vertigo is gonna grow
+    Cause it's so dangerous,
+    You'll have to sign a waiver
+    How can I help it if I think you're funny when you're mad
+    Trying hard not to smile though I feel bad
+    I'm the kind of guy who laughs at a funeral
+    Can't understand what I mean?
+    Well, you soon will
+    I have a tendency to wear my mind on my sleeve
+    I have a history of taking off my shirt
+    It's been one week since you looked at me
+    Threw your arms in the air and said you're crazy
+    Five days since you tackled me
+    I've still got the rug burns on both my knees
+    It's been three days since the afternoon
+    You realized it's not my fault not a moment too soon
+    Yesterday you'd forgiven me
+    And now I sit back and wait till you say you're sorry
+    Chickity China the Chinese chicken
+    You have a drumstick and your brain stops tickin'
+    Watchin X-Files with no lights on,
+    We're dans la maison
+    I hope the Smoking Man's in this one
+    Like Harrison Ford I'm getting Frantic
+    Like Sting I'm Tantric
+    Like Snickers, guaranteed to satisfy
+    Like Kurosawa I make mad films
+    Okay I don't make films
+    But if I did they'd have a samurai
+    Gonna get a set of better clubs
+    Gonna find the kind with tiny nubs
+    Just so my irons aren't always flying off the back swing
+    Gotta get in tune with Sailor Moon
+    Cause that cartoon has got the boom anime babes
+    That make me think the wrong thing
+    How can I help it if I think you're funny when you're mad
+    Trying hard not to smile though I feel bad
+    I'm the kind of guy who laughs at a funeral
+    Can't understand what I mean?
+    You soon will
+    I have a tendency to wear my mind on my sleeve
+    I have a history of losing my shirt
+    It's been one week since you looked at me
+    Dropped your arms to your sides and said I'm sorry
+    Five days since I laughed at you and said
+    You just did just what I thought you were gonna do
+    Three days since the living room
+    We realized we're both to blame, but what could we do?
+    Yesterday you just smiled at me
+    Cause it'll still be two days till we say we're sorry
+    It'll still be two days till we say we're sorry
+    It'll still be two days till we say we're sorry
+    Birchmount Stadium, home of the Robbie
+---
 Track: onestop
 Artists:
 - David Yackley
@@ -19455,6 +22356,15 @@ Lyrics: |-
     And when we hit the chart we're toppin' it
     So get on your feet and put a donk on it
 ---
+Track: Rain
+Always Reference By Directory: true
+Directory: rain-sugoisounds
+Artists:
+- Sugoisounds
+Duration: '2:03'
+URLs:
+- https://www.youtube.com/watch?v=KXE1ovCbhJw
+---
 Track: Redbone
 Artists:
 - Childish Gambino
@@ -19526,6 +22436,53 @@ Lyrics: |-
     How'd it get so scandalous?
     But stay woke
     But stay woke
+---
+Track: Respect Your Elders (Leffen Diss Track)
+Artists:
+- Chillindude829
+Duration: '1:40'
+URLs:
+- https://www.youtube.com/watch?v=KhsOW-_TwfU
+Lyrics: |-
+    I'm not lawful, make this pussy stop talking
+    You're not one of the gods, you're one of the god awful
+    We all gawking when looking at your fox
+    Take it to Smash 4 and lose it by four stocks
+    Not standing your style
+    You ain't standing your ground
+    Get wins while kicking a man when he's down
+    Like, "I beat mango, I'm the favorite if he chokes!
+    As far as Armada goes, I'll just wait 'til he's a host."
+    Ain't no telling how foolish you'll be looking
+    Evidence dot zip can't contain the ass whooping
+    Right when we realize the money match is over
+    That will be your cue to throw your controller
+
+    Expose you as a fraud
+    Yeah I'll be blowing you up
+    Who said you were a god?
+    I know it wasn't Plup
+    Been here ten years and you know I'm showing up
+    For a man of many words, I think you've said enough
+    But, The only way to make you hush
+    I'll body bag your fox then Dot zip it shut
+    Put you in your place
+    Kid, you're a disgrace
+    Get killed quick like that missile hit you in the face
+    After all of this you'll be watching your mouth
+    Ain't no telling who'll be calling you out
+    When salty suite comes down
+    You better come correct
+    Until you win a major show your elders some respect
+
+    P.S. Leffen I ain't done yet
+    I'm the underdog so place your bets
+    Who ever want to see Leffen looking dumb
+    Throw your money on the line cause I'm making some
+    Gotta say bro you're looking awfully weak
+    Wait and see what happens at the salty suite
+    Vanilla fox don't suit you so go find another
+    Teach you a lesson and take back my color
 ---
 Track: Revolution 909
 Artists:
@@ -20008,6 +22965,113 @@ URLs:
 Referenced Tracks:
 - track:secret-of-the-forest
 ---
+Track: Separator
+Artists:
+- Radiohead
+Duration: '5:19'
+URLs:
+- https://www.youtube.com/watch?v=KmpzIU301VU
+Lyrics: |-
+    It's like I'm falling out of bed
+    From a long and weary dream
+    The sweetest flowered fruits are hanging from a tree
+    Falling off a giant bird that's been carrying me
+    It's like I'm falling out of bed from a long and weary dream
+    Just exactly as I remember
+    Every word
+    Every gesture
+    I've my heart in my mouth
+    Like I'm falling out of bed
+    From a long and weary dream
+    Finally I'm free of all the weight I've been carrying
+    As that woman blows my cover
+    In the eye of the beholder
+    I'm a fish now out of water
+    Falling off a giant bird that's been carrying me
+    I fell open
+    I laid under
+    At the tip out
+    That was just your number
+    I wanna slip it over
+    And get back under
+    And if you think this is over then you're wrong
+    If you think this is over then you're wrong
+    If you think this is over then you're wrong
+    (Wake me up, wake me up)
+    If you think this is over then you're wrong
+    Like I'm falling out of bed from a long and vivid dream
+    (Wake me up, wake me up)
+    Finally I'm free of all the weight I've been carrying
+    When at last you give in
+    When at last you give in
+---
+Track: September
+Artists:
+- Earth, Wind & Fire
+Duration: '3:35'
+URLs:
+- https://www.youtube.com/watch?v=Gs069dndIYk
+Lyrics: |-
+    Do you remember the
+    21st night of September?
+    Love was changing the minds of pretenders
+    While chasing the clouds away
+
+    Our hearts were ringing
+    In the key that our souls were singing
+    As we danced in the night
+    Remember how the stars stole the night away
+
+    Ba de ya - say do you remember
+    Ba de ya - dancing in September
+    Ba de ya - never was a cloudy day
+
+    Ba duda, ba duda, ba duda, badu
+    Ba duda, badu, ba duda, badu
+    Ba duda, badu, ba duda
+
+    My thoughts are with you
+    Holding hands with your heart to see you
+    Only blue talk and love
+    Remember how we knew love was here to stay
+
+    Now December found the love we shared in September
+    Only blue talk and love
+    Remember the true love we share today
+
+    Ba de ya - say do you remember
+    Ba de ya - dancing in September
+    Ba de ya - never was a cloudy day
+
+    There was a
+    Ba de ya - say do you remember
+    Ba de ya - dancing in September
+    Ba de ya - golden dreams were shiny days
+
+    The bell was ringing, aha
+    Our souls were singing
+    Do you remember
+    Never a cloudy day
+
+    There was a
+    Ba de ya - say do you remember
+    Ba de ya - dancing in September
+    Ba de ya - never was a cloudy day
+
+    There was a
+    Ba de ya - say do you remember
+    Ba de ya - dancing in September
+    Ba de ya - golden dreams were shiny days
+
+    Ba de ya de ya de ya
+    Ba de ya de ya de ya
+    Ba de ya de ya de ya
+    De ya
+
+    Ba de ya de ya de ya
+    Ba de ya de ya de ya
+    Ba de ya de ya de ya
+---
 Track: Shake That
 Artists:
 - Eminem
@@ -20118,6 +23182,39 @@ Lyrics: |-
     Comin' home with me!
     And my boy, and his boy – and his boy, and his girl
     Ha-ha, Nate Dogg! 
+---
+Track: Shelter
+Artists:
+- Porter Robinson
+- Madeon
+Duration: '3:53'
+URLs:
+- https://www.youtube.com/watch?v=fzQ6gRAEoy0
+Lyrics: |-
+    I could never find the right way to tell you
+    Have you noticed I've been gone?
+    (Be)'cause I left behind the home that you made me
+    But I will carry it along
+
+    And it's a long way forward, so trust in me
+    I'll give them shelter, like you've done for me
+    And I know I'm not alone, you'll be watching over us
+    Until you're gone
+
+    When I'm older, I'll be silent beside you
+    I know words won't be enough
+    And they won't need to know the names or our faces
+    But they will carry on for us
+
+    And it's a long way forward, so trust in me
+    I'll give them shelter like you've done for me
+    And I know I'm not alone, you'll be watching over us
+    Until you're gone
+
+    Oh, it's a long way forward, trust in me
+    I'll give them shelter like you've done for me
+    And I know, I'm not alone, you'll be watching over us
+    Until... 
 ---
 Track: Smooth
 Artists:
@@ -20296,6 +23393,37 @@ Lyrics: |-
     And the fierce tyrant Anguish
     Sets his black banner on my bowed head
 ---
+Track: Standing in the Sun
+Artists:
+- Jessica Lea Mayfield
+Duration: '2:42'
+URLs:
+- https://www.youtube.com/watch?v=mELzF-Mqs7w
+Lyrics: |-
+    I'm glad to see you standing in the sun
+    Standing in the sun
+    I'm glad to see you standing in the sun
+    Standing in the sun
+    Standing in the sun, standing in the sun
+
+    When you go, it makes me sad,
+    Standing in the sun, standing in the sun
+    There's a vision of you that I have,
+    Standing in the sun, standing in the sun
+    Standing in the sun, standing in the sun
+
+    I know I can change your ways,
+    Standing in the sun, standing in the sun
+    By talking with you everyday,
+    Standing in the sun, standing in the sun
+    Standing in the sun, standing in the sun
+
+    I would like to you live,
+    Standing in the sun, standing in the sun
+    Not survive, but really live,
+    Standing in the sun, standing in the sun
+    Standing in the sun, standing in the sun
+---
 Track: Step's Theme
 Artists:
 - ostrichlittledungeon
@@ -20382,6 +23510,75 @@ URLs:
 - https://www.youtube.com/watch?v=4kRu6grBiGY
 Referenced Tracks:
 - Stronger Than You
+---
+Track: Strung Out Deeper Than The Night
+# Also known as 夜より深く (Deeper Than the Night)
+Artists:
+- Les Rallizes Dénudés
+Duration: '6:24'
+URLs:
+- https://www.youtube.com/watch?v=tlKb0_qYt-I
+Lyrics: |-
+    Yoru yori mo fukaku yami yori mo kuraku (<i>Deeper than the night, darker than darkness</i>)
+    Omae ga mezameta tokoro chi to kyōki o mono ni shita (<i>When you awakened, embracing death and madness</i>)
+    Moeagaru sora no shita de kuroi tsubasa o hiroge (<i>Beneath the blazing sky, spreading black wings wide</i>)
+    Omae ga nozomina no sa kuroi taiyō no nobotta nochi de (<i>After the black sun you desire has risen</i>)
+    Kōrinohonō no naka de iku tabi deaudarou (<i>You'll encounter, amidst the descending flames</i>)
+    Mayonaka no shiroi dokueki (<i>The white venom at midnight</i>)
+    Karada no naka o shiroi uma ga hashiru (<i>A white horse runs within your body</i>)
+    Ame no naka de iki taeta ue take mono wa (<i>Those who died in the rain</i>)
+    Mado o tobitatte (<i>Fly out the window</i>)
+    Omae wa kagami o uchikudaku (<i>You shatter the mirror</i>)
+    Omae wa yoru o uchikudaku (<i>You shatter the night</i>)
+    Sasayaki no tenshi ga omae o tsutsumi (<i>Whispering angels envelop you</i>)
+    Aoki toiki o omae no chūshin made okurikomu (<i>Sending a blue sigh deep within you</i>)
+    Omae ga nozomina no sa kuroi taiyō no nobotta nochi de (<i>After the black sun you desire has risen</i>)
+    Omae o tsutsumikomi omae no toiki o (<i>It envelops you, sending your sigh</i>)
+    Omae no chūshin made okurikomu (<i>Deep within you</i>)
+    Yoru yori mo fukaku yami yori mo kuraku (<i>Deeper than the night, darker than darkness</i>)
+    Omae ga mezameta tokoro shi to kyōki o mono ni shita (<i>When you awakened, embracing death and madness</i>)
+---
+Track: Spooky Scary Skeletons
+Artists:
+- Andrew Gold
+Duration: '2:10'
+URLs:
+- https://www.youtube.com/watch?v=v45YO1zepHg
+Lyrics: |-
+    Spooky, scary skeletons
+    Send shivers down your spine
+    Shrieking skulls will shock your soul
+    Seal your doom tonight
+
+    Spooky, scary skeletons
+    Speak with such a screech
+    You'll shake and shudder in surprise
+    When you hear these zombies shriek
+
+    We're so sorry, skeletons
+    You're so misunderstood
+    You only want to socialize
+    But I don't think we should
+
+    'Cause spooky, scary skeletons
+    Shout startling shrilly screams
+    They'll sneak from their sarcophagus
+    And just won't leave you be
+
+    Spirits supernatural
+    Are shy, what's all the fuss?
+    But bags of bones seem so unsafe
+    It's semi-serious
+
+    Spooky, scary skeletons
+    Are silly all the same
+    They'll smile and scrabble slowly by
+    And drive you so insane
+
+    Sticks and stones will break your bones
+    They seldom let you snooze
+    Spooky, scary skeletons
+    Will wake you with a boo
 ---
 Track: Suicide Hotline
 Directory: suicide-hotline-icp
@@ -20478,6 +23675,24 @@ Lyrics: |-
     (I know, bring some blunts, alright.)
     (Alright, bye.)
     (—we praise, Our Father, who art in heaven, hallowed be thy name. Thy kingdom come—)
+---
+Track: Sun King
+Artists:
+- The Beatles
+Duration: '2:26'
+URLs:
+- https://www.youtube.com/watch?v=6bNMxWGHlTI
+Lyrics: |-
+    Aaaaahhhhhhhhhh...
+    Here comes the Sun King
+    Here comes the Sun King
+    Everybody's laughing
+    Everybody's happy
+    Here comes the Sun King
+
+    Quando paramucho mi amore de felice carathon
+    Mundo paparazzi mi amore cicce verdi parasol
+    Questo abrigado tantamucho que canite carousel
 ---
 Track: Supermassive Black Hole
 Artists:
@@ -20612,6 +23827,79 @@ Artists:
 Duration: '3:42'
 URLs:
 - https://www.youtube.com/watch?v=ETDqBYBdDFA
+---
+Track: Take It Off
+Artists:
+- Ke$ha
+Duration: '3:34'
+URLs:
+- https://www.youtube.com/watch?v=edP0L6LQzZE
+Lyrics: |-
+    There's a place downtown where the freaks all come around
+    It's a hole in the wall, it's a dirty free-for-all
+    When they—
+
+    When the dark of the night
+    Comes around, that's the time
+    That the animal comes alive
+    Lookin' for somethin' wild
+
+    And now we lookin' like pimps in my gold Trans Am
+    Got a water bottle full of whiskey in my handbag
+    Got my drunk text on, I'll regret it in the mornin'
+    But tonight, I don't give a—
+    (I don't give a—, I don't give a—)
+
+    There's a place downtown where the freaks all come around
+    It's a hole in the wall, it's a dirty free-for-all
+    And they turn me on when they take it off
+    When they take it off, everybody take it off
+    There's a place I know if you're lookin' for a show
+    Where they go hardcore and there's glitter on the floor
+    And they turn me on when they take it off
+    When they take it off, everybody take it off
+
+    Lose your mind, lose it now
+    Lose your clothes in the crowd
+    We're delirious, tear it down
+    'Til the sun comes back around
+
+    N-now we're gettin' so smashed, knockin' over trash cans
+    Everybody breakin' bottles, it's a filthy hot mess
+    And I'm down to get faded, I'm not the designated driver
+    So, I don't give a—
+    (I don't give a—, I don't give a—)
+
+    There's a place downtown where the freaks all come around
+    It's a hole in the wall, it's a dirty free-for-all
+    And they turn me on when they take it off
+    When they take it off, everybody take it off
+    There's a place I know if you're lookin' for a show
+    Where they go hardcore and there's glitter on the floor
+    And they turn me on when they take it off
+    When they take it off, everybody take it off
+
+    Oh-oh-oh-oh-oh, oh-oh-oh
+    Oh (Everybody take it off)
+    Oh-oh-oh-oh-oh, oh-oh-oh
+    Oh (Everybody take it off)
+    Right now (Take it off)
+    Right now (Take it off)
+    Right now (Take it off)
+    Oh-oh, ooh-oh
+    Right now (Take it off)
+    Right now (Take it off)
+    Right now (Take it off)
+    Oh-oh, oh (Everybody take it off)
+
+    There's a place downtown where the freaks all come around
+    It's a hole in the wall, it's a dirty free-for-all
+    And they turn me on when they take it off
+    When they take it off, everybody take it off
+    There's a place I know if you're lookin' for a show
+    Where they go hardcore and there's glitter on the floor
+    And they turn me on when they take it off
+    When they take it off, everybody take it off 
 ---
 Track: Take Me Away
 Artists:
@@ -21059,6 +24347,68 @@ Artists:
 Duration: '3:31'
 URLs:
 - https://www.youtube.com/watch?v=knb2HMYJbJQ
+Track: Temporary Secretary
+Artists:
+- Paul McCartney
+Duration: '3:14'
+URLs:
+- https://www.youtube.com/watch?v=5EeTkF-SLxE
+Lyrics: |-
+    Mister Marks, can you find for me
+    Someone strong and sweet fitting on my knee?
+    She can keep her job if she gets it wrong
+    Ah, but, Mister Marks, I won't need her long
+    All I need is help for a little while
+    We can take dictation and learn to smile
+    And a temporary secretary
+    Is what I need for to do the job
+    I need a
+
+    Temporary secretary, temporary secretary
+    Temporary secretary, temporary secretary
+
+    Mister Marks, could you send her quick?
+    'Cause my regular has been getting sick
+    I need a
+
+    Temporary secretary, temporary secretary
+
+    Mister Marks, I can pay her well
+    If she comes along and can stay a spell
+    I will promise now that I'll treat her right
+    And will rarely keep her 'til late at night
+    I need a
+
+    She can be a belly dancer
+    I don't need a true romancer
+    She can be a diplomat
+    But I don't need a girl like that
+    She can be a neurosurgeon
+    If she's doing nothing urgent
+    What I need's a temporary, temporary secretary
+    I need a, I need a
+
+    Temporary secretary, temporary secretary
+    Temporary secretary, temporary secretary
+    Temporary secretary, temporary secretary
+
+    Now, Mister Marks, when I send her back
+    Will you please make sure she stays on the right track?
+    Well, I know how hard it is for young girls these days
+    In the face of everything, to stay on the right track
+
+    She can be a belly dancer
+    I don't need a true romancer
+    She can be a diplomat
+    But I don't need a girl like that
+    She can be a neurosurgeon
+    If she's doing nothing urgent
+    What I need's a temporary, temporary secretary
+
+    Temporary secretary, (I need a) temporary secretary
+    Temporary secretary, temporary secretary
+    (I need a) Temporary secretary, temporary secretary (Oh)
+    Temporary secretary
 ---
 Track: The Cave You Fear
 Artists:
@@ -21428,6 +24778,119 @@ Lyrics: |-
     Ha-ha
     I guess there's a Slim Shady in all of us
     Fuck it, let's all stand up
+Track: The Prophets Song
+Artists:
+- Queen
+Duration: '8:20'
+URLs:
+- https://www.youtube.com/watch?v=HzdjMLKKdgk
+Lyrics: |-
+    Oh, oh, people of the earth
+    "Listen to the warning,"
+    The seer he said
+    Beware the storm that gathers here
+    Listen to the wise man.
+
+    I dreamed I saw on a moonlit stair
+    Spreading his hands on the multitude there
+    A man who cried for a love gone stale
+    And ice cold hearts of charity bare.
+    I watched as fear took the old man's gaze
+    Hopes of the young in troubled graves
+    "I see no day," I heard him say
+    So grey is the face of every mortal.
+
+    Oh, oh, people of the earth
+    "Listen to the warning,"
+    The prophet he said
+    For soon the cold of night will fall
+    Summoned by your own hand.
+
+    Oh, oh, children of the land
+    Quicken to the new life
+    Take my hand
+    Fly and find the new green bough
+    Return like the white dove.
+
+    He told of death as a bone white haze
+    Taking the lost and the unloved babe
+    Late too late all the wretches run
+    These kings of beasts now counting their days.
+
+    From mother's love is the son estranged
+    Married his own his precious gain
+    The earth will shake in two will break
+    And death all around will be your dowry
+
+    Oh, oh, people of the earth
+    "Listen to the warning,"
+    the seer he said
+    For those who hear and mark my words
+    Listen to the good plan
+
+    Oh, oh, oh, oh and two by two my human zoo
+    They'll be running for to come
+    Running for to come out of the rain
+
+    Oh, flee for your life
+    Who heed me not, let all your treasure make you
+    Oh, fear for your life
+    Deceive you not, the fires of hell will take you
+    Should death await you
+
+    Ah, people can you hear me?
+    And now I know, and now I know
+    And now I know, and now I know
+    That you can hear me
+    And now I know, and now I know
+    And now I know, now I know
+    Now I know, now I know
+    Now I know, now I know
+    Now I know
+    The earth will shake in two will break
+    The earth will shake in two will break
+    Death all around around around around
+    Around around around around
+
+    Now I know, now I know
+    Now I know, now I know
+    Now I know, now I know
+    Now I know, now I know
+    Now I know, now I know
+    Now I know
+    Whoa, whoa, whoa, whoa
+    Whoa, whoa, whoa, whoa⟓
+
+    Listen to the wise listen to the wise listen to the wise
+    Listen to the wise listen to the wise man
+    La la
+    La la la la la la
+    La la la la la la
+    La la la la la la
+    La la la la la la
+    La la la la la la
+    La la la la la la
+    La la
+    La la
+    La la
+    Come here (I - You)
+    Come here (I - You)
+    Come here (I - You)
+    Come here (I - You)
+
+    Ah ah ah ah ah
+    Listen to the man listen to the man listen to the man listen to the madman
+
+    God gave you grace to purge this place
+    And peace all around may be your fortune
+
+    Oh, oh, children of the land
+    Love is still the answer take my hand
+    The vision fades a voice I hear
+    "Listen to the madman!"
+
+    Ooh, but still I fear and still I dare not
+    Laugh at the madman!
 ---
 Track: The Riddle Wants To Be
 Artists:
@@ -21467,6 +24930,59 @@ Lyrics: |-
     The riddle wants to be
     To be
     To be
+---
+Track: The Same/Digital Boy (Reprise)
+Artists:
+- Jeff Burgess
+Duration: '5:18'
+URLs:
+- https://jeffburgess.bandcamp.com/track/the-same-digital-boy-reprise
+Lyrics: |-
+    Nothing in this world is free
+    No one's gonna take your TV
+    No one's gonna care how you feel
+    Can't trust that we'll get a good deal
+
+    Can't hope 'cause we're all getting sick
+    Can't breathe 'cause the air's getting thick
+    Can't sell the things no one needs
+    No one's gonna take your TV
+
+    Gonna take the time
+    Gonna make you mine
+
+    Oh I got in close
+    Went in for the touch
+    I wanted know you
+    But I was too much
+
+    Then you went and changed
+    And I took the blame
+    Oh isn't it strange?
+    How I'm still the same
+
+    Nobody cares how you feel
+    No one on Twitter seems real
+    No force of evil can't win
+    We all stress scratch at our skin
+
+    We all (we ALL) have to sleep
+    We all (we ALL) have those dreams
+    Hope no one counts your mistakes
+    We all have sins we must shake
+
+    Someday I'll finally find god
+    Or maybe they will find me
+    Someday a crowd will applaud
+    Someday my sweat won't be cheap
+
+    Isn't it strange how everyone leaves you behind?
+    You're starting to think they're probably right
+    Isn't it strange the way you make crushes cry?
+
+    You're starting to think
+
+    You're probably right
 ---
 Track: The Sweet Science
 Artists:
@@ -22513,6 +26029,13 @@ Lyrics: |-
     'Cause this is my United States of Whatever!
     And this is my United States of Whatever!
 ---
+Track: Universal Playground
+Artists:
+- DJ Razzle
+Duration: '4:31'
+URLs:
+- https://www.youtube.com/watch?v=JigO8JKv2Mg
+---
 Track: unreeeal superhero 3
 Artists:
 - REZ
@@ -22879,6 +26402,116 @@ Artists:
 Duration: '4:25'
 URLs:
 - https://www.youtube.com/watch?v=1SEgoi7kjw8
+---
+Track: We Didn't Start the Fire
+Artists:
+- Billy Joel
+Duration: '4:05'
+URLs:
+- https://www.youtube.com/watch?v=eFTLKWw542g
+Lyrics: |-
+    Harry Truman, Doris Day, Red China, Johnnie Ray
+    South Pacific, Walter Winchell, Joe DiMaggio
+    Joe McCarthy, Richard Nixon, Studebaker, Television
+    North Korea, South Korea, Marilyn Monroe
+
+    Rosenbergs, H-Bomb, Sugar Ray, Panmunjom
+    Brando, The King And I, and The Catcher In The Rye
+    Eisenhower, Vaccine, England's got a new queen
+    Marciano, Liberace, Santayana goodbye
+
+    We didn't start the fire
+    It was always burning
+    Since the world's been turning
+    We didn't start the fire
+    No, we didn't light it
+    But we tried to fight it
+
+    Joseph Stalin, Malenkov, Nasser and Prokofiev
+    Rockefeller, Campanella, Communist Bloc
+    Roy Cohn, Juan Peron, Toscanini, Dacron
+    Dien Bien Phu Falls, Rock Around the Clock
+    Einstein, James Dean, Brooklyn's got a winning team
+    Davy Crockett, Peter Pan, Elvis Presley, Disneyland
+    Bardot, Budapest, Alabama, Khrushchev
+    Princess Grace, Peyton Place, Trouble in the Suez
+
+    We didn't start the fire
+    It was always burning
+    Since the world's been turning
+    We didn't start the fire
+    No, we didn't light it
+    But we tried to fight it
+
+    Little Rock, Pasternak, Mickey Mantle, Kerouac
+    Sputnik, Chou En-Lai, Bridge On The River Kwai
+    Lebanon, Charles de Gaulle, California baseball
+    Starkweather Homicide, Children of Thalidomide...
+
+    Buddy Holly, Ben-Hur, Space Monkey, Mafia
+    Hula Hoops, Castro, Edsel is a no-go
+    U-2, Syngman Rhee, payola and Kennedy
+    Chubby Checker, Psycho, Belgians in the Congo
+
+    We didn't start the fire
+    It was always burning
+    Since the world's been turning
+    We didn't start the fire
+    No, we didn't light it
+    But we tried to fight it
+
+    Hemingway, Eichmann, Stranger in a Strange Land
+    Dylan, Berlin, Bay of Pigs invasion
+    Lawrence of Arabia, British Beatlemania
+    Ole Miss, John Glenn, Liston beats Patterson
+
+    Pope Paul, Malcolm X, British Politician Sex
+    J.F.K. blown away, what else do I have to say?
+
+    We didn't start the fire
+    It was always burning
+    Since the world's been turning
+    We didn't start the fire
+    No, we didn't light it
+    But we tried to fight it
+
+    Birth control, Ho Chi Minh, Richard Nixon back again
+    Moonshot, Woodstock, Watergate, punk rock
+    Begin, Reagan, Palestine, Terror on the airline
+    Ayatollah's in Iran, Russians in Afghanistan
+    Wheel of Fortune, Sally Ride, heavy metal, suicide
+    Foreign debts, homeless Vets, AIDS, Crack, Bernie Goetz
+    Hypodermics on the shores, China's under martial law
+    Rock and Roller Cola wars, I can't take it anymore
+
+    We didn't start the fire
+    It was always burning
+    Since the world's been turning
+    We didn't start the fire
+    But when we are gone
+    It will still burn on and on and on and on
+    And on and on and on and on...
+
+    We didn't start the fire
+    It was always burning
+    Since the world's been turning
+    We didn't start the fire
+    No, we didn't light it
+    But we tried to fight it
+
+    We didn't start the fire
+    It was always burning
+    Since the world's been turning
+    We didn't start the fire
+    No, we didn't light it
+    But we tried to fight it
+
+    We didn't start the fire
+    It was always burning
+    Since the world's been turning
+    We didn't start the fire
+    No, we didn't light it
+    But we tried to fight it
 ---
 Track: What is a Juggalo?
 Artists:
@@ -23770,6 +27403,71 @@ Lyrics: |-
 
     Come on
     Uh, uh, come on
+---
+Track: Xmas? I Don't Know Such A Thing!
+# JP: クリスマス？なにそれ？美味しいの？
+# Literally: "Christmas? What's that? Is it tasty?"
+Artists:
+- Hyadain
+Duration: '3:43'
+Lyrics: |-
+    Jingle bells! Jingle bells! Jingle all the way!
+    Oh, what fun it is to ride in a one horse open sleigh
+
+    "Nani ga merry Christmas da…" (<i>"What is this 'Merry Christmas'..."</i>)
+
+    Single! hell! Single! hell! Single! always!!
+    Nannen renzoku ni narimasuka nee? Hitorikiri!! (<i>How many years in a row now? All alone, huh!!</i>)
+    Single! hell! Single! hell! Single! always!!
+    Minna happy!! tte wake janai n datteba kurisumasu!! (<i>Not everyone is happy, because it's Christmas!!</i>)
+
+    Hanayagu machi kotoshi mo kurisumasusuibu (<i>The town is bright again this Christmas season</i>)
+    Kyonen to onajiku shigoto iremashita (<i>It's the same as last year, I'm working</i>)
+    Halloween to ka valentine day to ka (<i>Halloween or Valentine's Day or whatever</i>)
+    Maa kirai tte wake janai n dakedo kayanosoto! (<i>Well, it's not that I hate them, but I'm just outside looking in!</i>)
+
+    Kyou ashita gentei! Kamisama shinjiru!… (<i>Limited to today and tomorrow! I believe in God!...</i>)
+    Nan dake tsugou ga yokunaikai? (<i>Just why doesn't it fit my convenience?</i>)
+    "Seinaru yoru wa seinaru yoru" to mukashi no kotowaza ni mo arudeshou!! (<i>"The holy night is a holy night," there's also an old saying like that, right!!</i>)
+    Daitai merry Christmas no merii tte nani!? (Mary had a little lamb) (<i>What does the "Merry" in Merry Christmas mean anyway!? (Mary had a little lamb)</i>)
+    Aa souda shitto da! Shitto no nani ga warui!? (<i>Ah, that's right, it's jealousy! What's wrong with jealousy!?</i>)
+    Aete iou merii kurushimimasu!! (<i>For now, I'll say Merry "I'm in pain"!!</i>)
+
+    Single! hell! Single! hell! Single! always!!
+    Santa fuku de baito shiteru yatsu ni shinpashii (<i>Sympathy for the guy working in a Santa suit</i>)
+    Single! hell! Single! hell! Single! always!!
+    Fried chicken ippon kattakedo ne Christmas (<i>I bought a single piece of fried chicken, you know, Christmas</i>)
+
+    Morming Morming Morming Morning, urayamashii naa (<i>Morning, morning, morning, morning, I'm so envious</i>)
+
+    We wish you a merry Christmas
+    We wish you a merry Christmas
+    We wish you a merry Christmas
+    And a happy New Year!
+
+    Ti, tissue!! Muryou douga (<i>Ti, tissue!! Free video</i>)
+    Ti, tissue!! Minisukasanta (<i>Ti, tissue!! Mini-skirt Santa</i>)
+    Mai chirase, ☆ 俺のWhite X-mas ☆ (<i>Scatter around, ☆ My White X-mas ☆</i>)
+
+    Single! hell! Single! hell! Single! always!!
+    Mayonaka denwa kakemakutte miru yo OO terebi (<i>I'll try calling someone in the middle of the night, XX TV</i>)
+    Single! hell! Single! hell! Single! always!!
+    Netto de kizu name au itsumo no Christmas (<i>Licking wounds on the internet, the usual Christmas</i>)
+
+    Chicchai koro wa asa me o samashitara (<i>When I was little, when I woke up in the morning</i>)
+    Makura no soba ni wa omocha ga arimashita (<i>There were toys next to my pillow</i>)
+    Me o samashitara nomihoshita akikan (<i>When I woke up, I downed an empty can</i>)
+    Chuuko de katta manga to keetai juudenki (<i>A manga I bought second-hand and a phone charger</i>)
+    Single! hell! Single! hell! Single! always!!
+    Asu ni nattara machi mo sou irekae ki ni sun na! (<i>When it's tomorrow, who cares about switching places with others in the city!</i>)
+    Single! hell! Single! hell! Single! always!!
+    Kitto rainen wa happy matteru hazu Christmas! (<i>Next year for sure, I expect it to be a happy Christmas!</i>)
+
+    Monodomo dama rei! (<i>All of you, shut up!</i>)
+    Nihonjin'nara montsuki hakama de (<i>If you're Japanese, wear formal kimono and hakama</i>)
+    Osechi o kuu no ga dentoujaro gai (<i>Eating traditional New Year's food is the tradition, right?</i>)
+
+    Hitori de ikuze! Hatsumoude!! (<i>Let's go alone! To the first shrine visit of the year!!</i>)
 ---
 Track: You might think he loves you for your money but I know what he really loves you for it's your brand new leopard skin pillbox hat
 Directory: you-might-think-he-loves-you
