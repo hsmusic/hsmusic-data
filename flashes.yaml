@@ -479,7 +479,7 @@ Page: '1940'
 ---
 Act: 'Act 5 Act 1 - <span style="color: #008b8b">MOB1US DOUBL3 R34CH4ROUND</span>'
 Directory: a5a1
-Color: '#0000ff'
+Color: '#8585ff'
 ---
 Date: June 22, 2010
 URLs:
@@ -879,7 +879,7 @@ Act: Act 6 Act 1 - Through Broken Glass
 Directory: a6a1
 Color: '#7799ff'
 Jump: Side 2 (Acts 6-7)
-Jump Color: '#1076a2'
+Jump Color: '#3796c6'
 ---
 Date: November 11, 2011
 URLs:
@@ -1604,7 +1604,8 @@ Page: '8130'
 Act: Hiveswap
 Directory: hiveswap
 Color: '#33cc77'
-Jump: Hiveswap
+Jump: Additional Canon
+Jump Color: '#f2a400'
 ---
 Directory: hiveswap-act1
 Contributors:
@@ -1791,7 +1792,6 @@ Flash: Hiveswap Act 2
 Act: Hiveswap Friendsim
 Directory: friendsim
 Color: '#d3ff8f'
-Jump: Hiveswap Friendsim
 ---
 Directory: fs-vol1
 Contributors:
@@ -2039,7 +2039,6 @@ Flash: Of Hosts, Excellent
 Act: Pesterquest
 Directory: pesterquest
 Color: '#71daff'
-Jump: Pesterquest
 ---
 Directory: pq-vol1
 Contributors:
@@ -2230,169 +2229,11 @@ Featured Tracks:
 - Embittered Shore
 Flash: Just Go Ahead Now
 ---
-Act: Psycholonials
-Directory: psycholonials
-Color: '#f51806'
-Jump: Psycholonials
----
-Directory: psycholonials
-Contributors:
-- Andrew Hussie (author)
-- Clark Powell (musician)
-- Adelaide Killigan (lead engineer)
-- Andrew D. (additional engineering)
-- Aysha U. Farah (editing)
-- Yitong Zhu (language proofreading)
-- Raissa Castro (language proofreading)
-- SK (language proofreading)
-- James Roach (language proofreading)
-Date: February 3, 2021
-Flash: Psycholonials
----
-Directory: psych-ch1
-Date: February 3, 2021
-Cover Art File Extension: png
-Featured Tracks:
-- track:love-song
-- track:summer-that-never-was
-- track:morning-ritual
-- track:ephemeral-muse
-- track:whats-wasting-me
-- track:the-successor
-Flash: Summer That Never Was
----
-Directory: psych-ch2
-Date: February 17, 2021
-Cover Art File Extension: png
-Featured Tracks:
-- track:edge-of-dawn
-- track:love-song
-- track:the-cold-hand
-- track:together
-- track:summer-that-never-was
-- track:the-influencer
-- track:just-dreams
-- track:i-have-some-ideas
-- track:the-successor
-Flash: Pranxis
----
-Directory: psych-ch3
-Date: February 24, 2021
-Cover Art File Extension: png
-Featured Tracks:
-- track:love-song
-- track:morning-ritual
-- track:time-is-helpless
-- track:whats-wasting-me
-- track:through-the-play
-- track:just-almost
-- track:the-successor
-Flash: Wildcard
----
-Directory: psych-ch4
-Date: March 3, 2021
-Cover Art File Extension: png
-Featured Tracks:
-- track:edge-of-dawn
-- track:love-song
-- track:outlaw
-- track:a-screaming-inside
-- track:just-dreams
-- track:breakthroughs
-- track:ephemeral-muse
-- track:nervous-energy
-- track:now-and-forever
-- track:the-successor
-Flash: A Symbol Of Strength
----
-Directory: psych-ch5
-Date: March 10, 2021
-Featured Tracks:
-- track:love-song
-- track:through-the-play
-- track:whats-wasting-me
-- track:in-the-works
-- track:i-have-some-ideas
-- track:ephemeral-muse
-- track:blood-on-their-hands
-- track:the-cold-hand
-- track:the-successor
-Flash: Stuck Pig
----
-Directory: psych-ch6
-Date: March 24, 2021
-Featured Tracks:
-- track:love-song
-- track:outlaw
-- track:the-influencer
-- track:the-administrator
-- track:time-is-helpless
-- track:means-of-conquest
-- track:twelve-clown-salute
-- track:together
-- track:now-and-forever
-- track:the-successor
-Flash: The Practice of Delegation
----
-Directory: psych-ch7
-Date: March 31, 2021
-Featured Tracks:
-- track:love-song
-- track:the-march
-- track:the-administrator
-- track:such-a-shame
-- track:nervous-energy
-- track:a-screaming-inside
-- track:break-this
-- track:just-almost
-- track:means-of-conquest
-- track:now-and-forever
-- track:the-successor
-Flash: It Never Even Stood A Chance
----
-Directory: psych-ch8
-Date: April 13, 2021
-Featured Tracks:
-- track:edge-of-dawn
-- track:love-song
-- track:nervous-energy
-- track:in-the-works
-- track:in-the-loop
-- track:breakthroughs
-- track:whats-wasting-me
-- track:twelve-clown-salute
-- track:such-a-shame
-- track:flare-insurrection-remix
-- track:the-cold-hand
-- track:through-the-play
-- track:summer-that-never-was
-- track:summer-that-never-was-firebrand-remix
-- track:just-almost
-- track:the-successor
-Flash: Grinch Heart
----
-Directory: psych-ch9
-Date: April 20, 2021
-Featured Tracks:
-- track:ephemeral-muse-final-remix
-- track:fix-this
-- track:edge-of-dawn
-- track:threshold
-- track:in-the-loop
-- track:we-were-right-about-everything
-- track:feeling-i-cant-shake
-- track:zhen
-- track:just-almost
-- track:the-successor
-- track:love-song
-- track:the-march
-- track:together-vocal-remix
-Flash: A Sword And A Crown
----
 Act: Cool and New Web Comic
 Directory: cool-and-new-web-comic
 Color: '#00cde0'
 Jump: Fan Adventures
+Jump Color: '#c466ff'
 ---
 Flash: '{s]every one; enter'
 Directory: every-one-enter
@@ -3463,7 +3304,7 @@ URLs:
 - https://www.youtube.com/watch?v=DrOQQ1ErfqQ
 ---
 Act: Nightfall
-Color: '#005682'
+Color: '#146e98'
 Directory: nightfall
 ---
 Flash: '[S] Liz: STRIFE!'
@@ -3491,7 +3332,7 @@ URLs:
 - https://www.youtube.com/watch?v=cs64HZTw_K0
 ---
 Act: Mr. Tambourine Man
-Color: '#0715cd'
+Color: '#2838ef'
 Directory: mr-tambourine-man
 ---
 Flash: '[S] Dave: Strife!'
@@ -3816,6 +3657,166 @@ Featured Tracks:
 URLs:
 - https://www.youtube.com/watch?v=oeLyu-Ae6a4
 ---
+Act: Psycholonials
+Directory: psycholonials
+Color: '#f51806'
+Jump: Fan Animations
+Jump Color: '#32c7fe'
+---
+Directory: psycholonials
+Contributors:
+- Andrew Hussie (author)
+- Clark Powell (musician)
+- Adelaide Killigan (lead engineer)
+- Andrew D. (additional engineering)
+- Aysha U. Farah (editing)
+- Yitong Zhu (language proofreading)
+- Raissa Castro (language proofreading)
+- SK (language proofreading)
+- James Roach (language proofreading)
+Date: February 3, 2021
+Flash: Psycholonials
+---
+Directory: psych-ch1
+Date: February 3, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- track:love-song
+- track:summer-that-never-was
+- track:morning-ritual
+- track:ephemeral-muse
+- track:whats-wasting-me
+- track:the-successor
+Flash: Summer That Never Was
+---
+Directory: psych-ch2
+Date: February 17, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- track:edge-of-dawn
+- track:love-song
+- track:the-cold-hand
+- track:together
+- track:summer-that-never-was
+- track:the-influencer
+- track:just-dreams
+- track:i-have-some-ideas
+- track:the-successor
+Flash: Pranxis
+---
+Directory: psych-ch3
+Date: February 24, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- track:love-song
+- track:morning-ritual
+- track:time-is-helpless
+- track:whats-wasting-me
+- track:through-the-play
+- track:just-almost
+- track:the-successor
+Flash: Wildcard
+---
+Directory: psych-ch4
+Date: March 3, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- track:edge-of-dawn
+- track:love-song
+- track:outlaw
+- track:a-screaming-inside
+- track:just-dreams
+- track:breakthroughs
+- track:ephemeral-muse
+- track:nervous-energy
+- track:now-and-forever
+- track:the-successor
+Flash: A Symbol Of Strength
+---
+Directory: psych-ch5
+Date: March 10, 2021
+Featured Tracks:
+- track:love-song
+- track:through-the-play
+- track:whats-wasting-me
+- track:in-the-works
+- track:i-have-some-ideas
+- track:ephemeral-muse
+- track:blood-on-their-hands
+- track:the-cold-hand
+- track:the-successor
+Flash: Stuck Pig
+---
+Directory: psych-ch6
+Date: March 24, 2021
+Featured Tracks:
+- track:love-song
+- track:outlaw
+- track:the-influencer
+- track:the-administrator
+- track:time-is-helpless
+- track:means-of-conquest
+- track:twelve-clown-salute
+- track:together
+- track:now-and-forever
+- track:the-successor
+Flash: The Practice of Delegation
+---
+Directory: psych-ch7
+Date: March 31, 2021
+Featured Tracks:
+- track:love-song
+- track:the-march
+- track:the-administrator
+- track:such-a-shame
+- track:nervous-energy
+- track:a-screaming-inside
+- track:break-this
+- track:just-almost
+- track:means-of-conquest
+- track:now-and-forever
+- track:the-successor
+Flash: It Never Even Stood A Chance
+---
+Directory: psych-ch8
+Date: April 13, 2021
+Featured Tracks:
+- track:edge-of-dawn
+- track:love-song
+- track:nervous-energy
+- track:in-the-works
+- track:in-the-loop
+- track:breakthroughs
+- track:whats-wasting-me
+- track:twelve-clown-salute
+- track:such-a-shame
+- track:flare-insurrection-remix
+- track:the-cold-hand
+- track:through-the-play
+- track:summer-that-never-was
+- track:summer-that-never-was-firebrand-remix
+- track:just-almost
+- track:the-successor
+Flash: Grinch Heart
+---
+Directory: psych-ch9
+Date: April 20, 2021
+Featured Tracks:
+- track:ephemeral-muse-final-remix
+- track:fix-this
+- track:edge-of-dawn
+- track:threshold
+- track:in-the-loop
+- track:we-were-right-about-everything
+- track:feeling-i-cant-shake
+- track:zhen
+- track:just-almost
+- track:the-successor
+- track:love-song
+- track:the-march
+- track:together-vocal-remix
+Flash: A Sword And A Crown
+---
 Act: Other Fan Adventures
 Color: '#fafafa'
 Directory: other-fan-adventures
@@ -4084,7 +4085,6 @@ URLs:
 ---
 Act: Fan Animations
 Directory: fan-animations
-Jump: Fan Animations
 Color: '#fafafa'
 ---
 Flash: 'MOVIE #1: hooly SHIT, wear a MOVIE???????????'
@@ -4117,10 +4117,10 @@ Featured Tracks:
 URLs:
 - https://www.youtube.com/watch?v=hnG10rk9lqg
 ---
-Act: Miscellaneous
-Directory: miscellaneous
+Act: Fan Games
+---
+Act: More Flashes & Games
 Color: '#0088ff'
-Jump: Miscellaneous
 ---
 Flash: Namco High
 Directory: namco-high
