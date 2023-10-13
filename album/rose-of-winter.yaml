@@ -3,12 +3,18 @@ Artists:
 - Toby Fox
 Date: October 17, 2016
 Date Added: October 12, 2023
-URLs:
-- (add later)
 Cover Artists:
-- (find out later i guess)
+- Victoria Grace Elliott
+Banner Artists:
+- Victoria Grace Elliott
+Wallpaper Artists:
+- Victoria Grace Elliott
+Wallpaper Style: |-
+    opacity: 0.8;
 Color: '#F8E1F4'
 Cover Art File Extension: png
+Wallpaper File Extension: png
+Banner File Extension: png
 Groups:
 - Toby Fox
 - Beyond
@@ -18,6 +24,7 @@ Artists:
 - Toby Fox
 Duration: '1:37'
 Directory: theme-rose-of-winter
+Always Reference By Directory: true
 URLs:
 - https://youtu.be/vWhUfWQX8-Q
 ---
@@ -34,7 +41,7 @@ Artists:
 Duration: '1:42'
 URLs:
 - https://youtu.be/oKaZpC7QJTo
-References:
+Referenced Tracks:
 - Emotionless
 ---
 Track: Emotionless
@@ -50,8 +57,8 @@ Artists:
 Duration: '1:00'
 URLs:
 - https://youtu.be/YXgD5Q1rQCY
-References:
-- Theme
+Referenced Tracks:
+- track:theme-rose-of-winter
 ---
 Track: Legend
 Artists:
@@ -60,7 +67,7 @@ Duration: '1:04'
 URLs:
 - https://youtu.be/DP5I7qkHjTY
 Directory: legend-rose-of-winter
-References:
+Referenced Tracks:
 - Heroism
 ---
 Track: Tension
