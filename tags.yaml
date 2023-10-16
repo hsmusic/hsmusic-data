@@ -1,3 +1,25 @@
+# Jump to one of these sections:
+#
+# Characters:
+#   Character archetypes.
+#   Characters from media.
+#   Species.
+#   Individual character entries.
+#
+# Locations:
+#   Location classifications.
+#   Locations from media.
+#   Individual location entries.
+#
+# Objects:
+#   Object classifications.
+#   Objects from media.
+#   Individual object entries.
+#
+# More sections:
+#   Content warnings.
+#
+
 # -------------------------------------
 #  Character archetypes.
 # -------------------------------------
@@ -273,7 +295,7 @@ Color: '#e0e0e0'
 #  It DOES include specific lists of individual characters. These are
 #  grouped by species. It DOES NOT include the entries for those
 #  characters - it's only responsible for structuring them by media.
-#  Refer to "actual character entries" for individual character entries.
+#  Refer to "individual character entries".
 #
 #  Within a given top-level "characters from" tag, follow the top-to-
 #  bottom same order as "species". Then directly follow the top-level
@@ -1235,7 +1257,7 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Squiddles
 
 # -------------------------------------
-#  Actual character entries.
+#  Individual character entries.
 # -------------------------------------
 #
 #  Entries for individual characters. These shouldn't have any
@@ -2702,13 +2724,13 @@ Color: '#eb0000'
 ---
 Tag: Animal species
 Direct Descendant Tags:
-- Birds & Avians
-- Bugs & Insects
+- Birds & avians
+- Bugs & insects
 - Land animals
 - Marine animals
 - Amphibians
 ---
-Tag: Birds & Avians
+Tag: Birds & avians
 Direct Descendant Tags:
 - Crows
 - Eagles
@@ -2723,7 +2745,7 @@ Color: '#eddc28'
 Tag: Hummingbirds
 Color: '#ec73ed'
 ---
-Tag: Bugs & Insects
+Tag: Bugs & insects
 Direct Descendant Tags:
 - Bees
 - Wasps
@@ -2870,41 +2892,66 @@ Color: '#c1dd58'
 ---
 Tag: Victory Platform
 Color: '#90dd58'
----
-Tag: The Theseus
-Color: '#f2a400'
----
-Tag: Deltritus
-Color: '#62c9e7'
----
-Tag: Dark Carnival
-Color: '#a34bff'
 
 # -------------------------------------
-#  Locations.
+#  Location classifications.
 # -------------------------------------
 
 ---
-Tag: Locations
+Tag: Location classifications
 Direct Descendant Tags:
-- Homes
-- Real-world locations
-- Astronomical Bodies
 - Locations on Earth
 - Locations on Alternia
-- Locations in the Medium
-- More locations
+- Astronomical bodies
+- Lands in the Medium
+- Mobile locations
+- Recurring game locations
+- Real-world locations
 ---
-Tag: Homes
+Tag: Locations on Earth
 Direct Descendant Tags:
-- John's home
-- Jane's home
-- Rose's home
-- Roxy's home
-- Dave's home
-- Dirk's home
-- Jade's home
-- Jake's home
+- Locations on Earth (Homestuck)
+---
+Tag: Locations on Alternia
+Direct Descendant Tags:
+- Locations on Alternia (Homestuck)
+---
+Tag: Astronomical bodies
+Direct Descendant Tags:
+- Astronomical bodies (Homestuck)
+- 'Astronomical bodies (Homestuck: Beyond Canon)'
+- Astronomical bodies (Desynced)
+- Astronomical bodies (Vast Error)
+- More astronomical bodies
+---
+Tag: More astronomical bodies
+Direct Descendant Tags:
+- Earth
+---
+Tag: Lands in the Medium
+Direct Descendant Tags:
+- Lands in the Medium (Homestuck)
+- Lands in the Medium (Aleph Null)
+- Lands in the Medium (Vast Error)
+- More lands in the Medium
+---
+Tag: Mobile locations
+Direct Descendant Tags:
+- Mobile locations (Homestuck)
+- 'Mobile locations (Homestuck: Beyond Canon)'
+---
+Tag: Recurring game locations
+Direct Descendant Tags:
+# Major bodies
+- Skaia
+- Battlefield
+- Prospit
+- Derse
+- Veil
+# Other game locations
+- Frog Temple
+- Forge
+- Victory Platform
 ---
 Tag: Real-world locations
 Direct Descendant Tags:
@@ -2912,161 +2959,38 @@ Direct Descendant Tags:
 - 'Rainbow Falls, NY'
 - 'Houston, TX'
 ---
-Tag: Astronomical Bodies
+Tag: More lands in the Medium
 Direct Descendant Tags:
-- Earth
-- Flooded Earth
-- Ruined Earth
-- Alternia
-- Beforus
-- Pink Moon
-- Green Moon
-- Repiton (Vast Error)
-- Nibiru (Desynced)
-- Deltritus
-- Prospit
-- Derse
-- Skaia
-- Green Sun
-- Trolls' Meteor
-- Lands in the Medium
+- LoFaM
+
+# -------------------------------------
+#  Locations from media.
+# -------------------------------------
+
 ---
-Tag: Locations on Earth
+Tag: Locations from media
 Direct Descendant Tags:
-- John's home
-- Jane's home
-- Rose's home
-- Roxy's home
-- Dave's home
-- Dirk's home
-- Jade's home
-- Jake's home
-- Pacific Island
-- Skaianet Laboratory
-- 'Maple Valley, WA'
-- 'Rainbow Falls, NY'
-- 'Houston, TX'
+- Locations from Homestuck
+- 'Locations from Homestuck: Beyond Canon'
+- Locations from Aleph Null
+- Locations from Desynced
+- Locations from Vast Error
 ---
-Tag: Earth
-Color: '#6bf45f'
----
-Tag: Ruined Earth
-Color: '#d9cbab'
----
-Tag: Flooded Earth
-Color: '#33e2db'
----
-Tag: John's home
-Color: '#5c66e8'
----
-Tag: Jane's home
-Color: '#00d5f2'
----
-Tag: 'Maple Valley, WA'
-Color: '#5c66e8'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Egbert_home
----
-Tag: Rose's home
-Color: '#b536da'
----
-Tag: Roxy's home
-Color: '#ff6ff2'
----
-Tag: Skaianet Laboratory
-Color: '#b536da'
----
-Tag: 'Rainbow Falls, NY'
-Color: '#b536da'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Lalonde_home
----
-Tag: Dave's home
-Color: '#e00707'
----
-Tag: Dirk's home
-Color: '#f2a400'
----
-Tag: 'Houston, TX'
-Color: '#e00707'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Strider_home
----
-Tag: Jade's home
-Color: '#4ac925'
----
-Tag: Jake's home
-Color: '#1f9400'
----
-Tag: Pacific Island
-Color: '#4ac925'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Pacific_island
----
-Tag: Locations on Alternia
+Tag: Locations from Homestuck
 Direct Descendant Tags:
-- Alternia
-- Pink Moon
-- Green Moon
-- Battleship Condescension
-- Felt Mansion
-- Communal Hive Stems
-- Karkat's hive
-- Nepeta's hive
+- Astronomical bodies (Homestuck)
+- Lands in the Medium (Homestuck)
+- Mobile locations (Homestuck)
+- Locations on Earth (Homestuck)
+- Locations on Alternia (Homestuck)
+- More locations (Homestuck)
 ---
-Tag: Green Moon
-Color: '#008c45'
-Direct Descendant Tags:
-- Scratch's apartment
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Green_moon
----
-Tag: Scratch's apartment
-Color: '#008c45'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Green_moon#Doc_Scratch's_apartment
----
-Tag: Battleship Condescension
-Color: '#ed004f'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Battleship#On_Alternia
----
-Tag: Felt Mansion
-Color: '#008c45'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/The_Felt#Felt_mansion
----
-Tag: Communal Hive Stems
-Color: '#8de673'
----
-Tag: Karkat's hive
-Color: '#7c7e81'
----
-Tag: Nepeta's hive
-Color: '#588a00'
----
-Tag: Locations in the Medium
-Direct Descendant Tags:
-- Lands in the Medium
-- Tumor
-- Battlefield
-- Skaia
-- Victory Platform
-- Prospit
-- Forge
-- Veil
-- Trolls' Meteor
-- Derse
-- Dersite Ship
-- Dream Bubbles
----
-Tag: Lands in the Medium
+Tag: Lands in the Medium (Homestuck)
 Direct Descendant Tags:
 - LoWaS
 - LoLaR
 - LoHaC
 - LoFaF
-- LoFaM
 - LoCaH
 - LoPaN
 - LoTaK
@@ -3078,13 +3002,83 @@ Direct Descendant Tags:
 - LoLCaT
 - LoRaF
 - LoTaF
-- LoMaM (Vast Error)
 - LoMaT
 - LoCaS
 - LoWaA
 - LoTaM
 - LoDaG
 - LoCaM
+---
+Tag: Astronomical bodies (Homestuck)
+Direct Descendant Tags:
+- Flooded Earth
+- Ruined Earth
+- Alternia
+- Beforus
+- Pink Moon
+- Green Moon
+- Green Sun
+- Dream Bubbles
+---
+Tag: Locations on Earth (Homestuck)
+Direct Descendant Tags:
+- Homes on Earth (Homestuck)
+- Pacific Island
+- Skaianet Laboratory
+---
+Tag: Homes on Earth (Homestuck)
+Direct Descendant Tags:
+- John's home
+- Jane's home
+- Rose's home
+- Roxy's home
+- Dave's home
+- Dirk's home
+- Jade's home
+- Jake's home
+---
+Tag: Locations on Alternia (Homestuck)
+Direct Descendant Tags:
+- Hives on Alternia (Homestuck)
+- Communal Hive Stems
+- Felt Mansion
+---
+Tag: Hives on Alternia (Homestuck)
+Direct Descendant Tags:
+- Karkat's hive
+- Nepeta's hive
+---
+Tag: More locations (Homestuck)
+Direct Descendant Tags:
+- Can Town
+- Dark Carnival
+---
+Tag: Mobile locations (Homestuck)
+Direct Descendant Tags:
+- Battleship Condescension
+- Command stations
+- Dersite ship
+- Trolls' meteor
+---
+Tag: 'Locations from Homestuck: Beyond Canon'
+Direct Descendant Tags:
+- 'Astronomical bodies (Homestuck: Beyond Canon)'
+- 'Mobile locations (Homestuck: Beyond Canon)'
+---
+Tag: 'Astronomical bodies (Homestuck: Beyond Canon)'
+Direct Descendant Tags:
+- Deltritus
+---
+Tag: 'Mobile locations (Homestuck: Beyond Canon)'
+Direct Descendant Tags:
+- The Theseus
+---
+Tag: Locations from Aleph Null
+Direct Descendant Tags:
+- Lands in the Medium (Aleph Null)
+---
+Tag: Lands in the Medium (Aleph Null)
+Direct Descendant Tags:
 - LoAaF (Aleph Null)
 - LoCaS (Aleph Null)
 - LoGaP (Aleph Null)
@@ -3092,130 +3086,108 @@ Direct Descendant Tags:
 - LoRaD (Aleph Null)
 - LoTaF (Aleph Null)
 ---
-Tag: LoWaS
-Color: '#666fe9'
+Tag: Locations from Desynced
 Direct Descendant Tags:
-- Typheus' Lair
+- Astronomical bodies (Desynced)
 ---
-Tag: Typheus' lair
-Color: '#666fe9'
+Tag: Astronomical bodies (Desynced)
+Direct Descendant Tags:
+- Nibiru (Desynced)
 ---
-Tag: LoLaR
-Color: '#b536da'
+Tag: Locations from Vast Error
+Direct Descendant Tags:
+- Astronomical bodies (Vast Error)
+- Lands in the Medium (Vast Error)
 ---
-Tag: LoHaC
+Tag: Astronomical bodies (Vast Error)
+Direct Descendant Tags:
+- Repiton (Vast Error)
+---
+Tag: Lands in the Medium (Vast Error)
+Direct Descendant Tags:
+- LoMaM (Vast Error)
+
+# -------------------------------------
+#  Individual location entries.
+# -------------------------------------
+#
+#  Subsectioned by media only, then sorted alphabetically.
+#
+
+# Real world locations
+
+---
+Tag: 'Houston, TX'
 Color: '#e00707'
-Direct Descendant Tags:
-- Beat Mesa
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Strider_home
+---
+Tag: 'Maple Valley, WA'
+Color: '#5c66e8'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Egbert_home
+---
+Tag: 'Rainbow Falls, NY'
+Color: '#b536da'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Lalonde_home
+
+# Recurring game locations
+
+---
+Tag: Battlefield
+Color: '#cff0f7'
+---
+Tag: Derse
+Color: '#ff01fe'
+---
+Tag: Forge
+Color: '#f03224'
+---
+Tag: Prospit
+Color: '#ffff01'
+---
+Tag: Skaia
+Color: '#4bdcf9'
+---
+Tag: Veil
+Color: '#7c7c7c'
+
+# "More" locations, including:
+#  - More astronomical bodies
+#  - More lands in the Medium
+
+---
+Tag: Earth
+Color: '#6bf45f'
+---
+Tag: LoFaM
+Color: '#aed6f0'
+
+# Locations from Homestuck
+
+---
+Tag: Battleship Condescension
+Color: '#ed004f'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Battleship#On_Alternia
 ---
 Tag: Beat Mesa
 Color: '#00ff00'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Scratch_construct#Beat_Mesa
 ---
-Tag: LoFaF
-Color: '#4ac925'
-Direct Descendant Tags:
-- Echidna's lair
----
-Tag: Echidna's lair
-Color: '#4ac925'
+Tag: Bec Head Base
+Color: '#32e335'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Echidna#Lair
----
-Tag: LoCaH
-Color: '#00d5f2'
----
-Tag: LoPaN
-Color: '#ff6ff2'
----
-Tag: LoTaK
-Color: '#f2a400'
----
-Tag: LoMaX
-Color: '#1f9400'
----
-Tag: LoQaM
-Color: '#eb0000'
----
-Tag: LoSaZ
-Color: '#c36100'
----
-Tag: LoBaF
-Color: '#a1a100'
----
-Tag: LoPaH
-Color: '#ff0000'
----
-Tag: LoLCaT
-Color: '#588a00'
----
-Tag: LoRaF
-Color: '#008f48'
----
-Tag: LoTaF
-Color: '#008b8b'
----
-Tag: LoMaT
-Color: '#3796c6'
----
-Tag: LoCaS
-Color: '#487aef'
----
-Tag: LoWaA
-Color: '#db00db'
----
-Tag: LoTaM
-Color: '#a34bff'
----
-Tag: LoDaG
-Color: '#e30072'
----
-Tag: LoCaM
-Color: '#888888'
----
-Tag: Battlefield
-Color: '#cff0f7'
----
-Tag: Skaia
-Color: '#4bdcf9'
----
-Tag: Prospit
-Color: '#ffff01'
----
-Tag: Forge
-Color: '#f03224'
----
-Tag: Derse
-Color: '#ff01fe'
----
-Tag: Dersite Ship
-Color: '#ff01fe'
----
-Tag: Veil
-Color: '#7c7c7c'
----
-Tag: Trolls' Meteor
-Color: '#7c7e81'
-Description: |-
-    The vessel a rowdy set of kids and trolls take on their way across the yellow yard; it houses an ectobiology lab and, like the other asteroids summoned during [[tag:reckoning|the Reckoning]], resided in [[tag:veil|the Veil]] - until [[tag:sollux]] sent it on its way.
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Trolls'_meteor
----
-Tag: More locations
-Direct Descendant Tags:
-- Can Town
-- Command Stations
-- Dark Carnival
-- Frog Temple
-- The Theseus
+- https://mspaintadventures.fandom.com/wiki/Bec_Head_Base
 ---
 Tag: Can Town
 Color: '#f7cf60'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Can_Town
 ---
-Tag: Command Stations
+Tag: Command stations
 Color: '#32e335'
 Direct Descendant Tags:
 - Skyship Base
@@ -3224,23 +3196,181 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Station
 ---
-Tag: Skyship Base
-Color: '#32e335'
+Tag: Communal Hive Stems
+Color: '#8de673'
+---
+Tag: Dark Carnival
+Color: '#a34bff'
+---
+Tag: Dave's home
+Color: '#e00707'
+---
+Tag: Dersite ship
+Color: '#ff01fe'
+---
+Tag: Dirk's home
+Color: '#f2a400'
+---
+Tag: Echidna's lair
+Color: '#4ac925'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Skyship_Base
+- https://mspaintadventures.fandom.com/wiki/Echidna#Lair
 ---
 Tag: Eggy-Looking Base
 Color: '#32e335'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Eggy-Looking_Base
 ---
-Tag: Bec Head Base
+Tag: Felt Mansion
+Color: '#008c45'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/The_Felt#Felt_mansion
+---
+Tag: Flooded Earth
+Color: '#33e2db'
+---
+Tag: Green Moon
+Color: '#008c45'
+Direct Descendant Tags:
+- Scratch's apartment
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Green_moon
+---
+Tag: Jade's home
+Color: '#4ac925'
+---
+Tag: Jake's home
+Color: '#1f9400'
+---
+Tag: Jane's home
+Color: '#00d5f2'
+---
+Tag: John's home
+Color: '#5c66e8'
+---
+Tag: Karkat's hive
+Color: '#7c7e81'
+---
+Tag: LoBaF
+Color: '#a1a100'
+---
+Tag: LoCaH
+Color: '#00d5f2'
+---
+Tag: LoCaM
+Color: '#888888'
+---
+Tag: LoCaS
+Color: '#487aef'
+---
+Tag: LoDaG
+Color: '#e30072'
+---
+Tag: LoFaF
+Color: '#4ac925'
+Direct Descendant Tags:
+- Echidna's lair
+---
+Tag: LoHaC
+Color: '#e00707'
+Direct Descendant Tags:
+- Beat Mesa
+---
+Tag: LoLaR
+Color: '#b536da'
+---
+Tag: LoLCaT
+Color: '#588a00'
+---
+Tag: LoMaT
+Color: '#3796c6'
+---
+Tag: LoMaX
+Color: '#1f9400'
+---
+Tag: LoPaH
+Color: '#ff0000'
+---
+Tag: LoPaN
+Color: '#ff6ff2'
+---
+Tag: LoQaM
+Color: '#eb0000'
+---
+Tag: LoRaF
+Color: '#008f48'
+---
+Tag: LoSaZ
+Color: '#c36100'
+---
+Tag: LoTaF
+Color: '#008b8b'
+---
+Tag: LoTaK
+Color: '#f2a400'
+---
+Tag: LoTaM
+Color: '#a34bff'
+---
+Tag: LoWaA
+Color: '#db00db'
+---
+Tag: LoWaS
+Color: '#666fe9'
+Direct Descendant Tags:
+- Typheus' Lair
+---
+Tag: Nepeta's hive
+Color: '#588a00'
+---
+Tag: Pacific Island
+Color: '#4ac925'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pacific_island
+---
+Tag: Ruined Earth
+Color: '#d9cbab'
+---
+Tag: Rose's home
+Color: '#b536da'
+---
+Tag: Roxy's home
+Color: '#ff6ff2'
+---
+Tag: Scratch's apartment
+Color: '#008c45'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Green_moon#Doc_Scratch's_apartment
+---
+Tag: Skaianet Laboratory
+Color: '#b536da'
+---
+Tag: Skyship Base
 Color: '#32e335'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Bec_Head_Base
+- https://mspaintadventures.fandom.com/wiki/Skyship_Base
 ---
-Tag: LoFaM
-Color: '#aed6f0'
+Tag: Trolls' meteor
+Color: '#7c7e81'
+Description: |-
+    The vessel a rowdy set of kids and trolls take on their way across the yellow yard; it houses an ectobiology lab and, like the other asteroids summoned during [[tag:reckoning|the Reckoning]], resided in [[tag:veil|the Veil]] - until [[tag:sollux]] sent it on its way.
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Trolls'_meteor
+---
+Tag: Typheus' lair
+Color: '#666fe9'
+
+# Locations from Homestuck: Beyond Canon
+
+---
+Tag: The Theseus
+Color: '#f2a400'
+---
+Tag: Deltritus
+Color: '#62c9e7'
+
+# Locations from Vast Error
+
 ---
 Tag: LoMaM (Vast Error)
 Color: '#ffffff'
@@ -3271,66 +3401,38 @@ Tag: LoTaF (Aleph Null)
 Color: '#ffffcc'
 
 # -------------------------------------
-#  Objects.
+#  Object classifications.
 # -------------------------------------
 
 ---
-Tag: Objects
+Tag: Object classifications
 Direct Descendant Tags:
-- Musical Instruments
+- Musical instruments
 - Weapons
-- Recurring objects (Homestuck)
-- Unique objects (Homestuck)
+- General objects
 ---
-Tag: Musical Instruments
+Tag: Musical instruments
 Direct Descendant Tags:
-- Keyboard Instruments
-- String Instruments
+- Keyboard instruments
+- String instruments
+- More instruments
 - Turntables
 ---
-Tag: Keyboard Instruments
+Tag: Keyboard instruments
 Direct Descendant Tags:
 - Keyboard
 - Piano
 - Organ
 ---
-Tag: Keyboard
-Color: '#5c66e8'
----
-Tag: Piano
-Color: '#5c66e8'
-Direct Descendant Tags:
-- Standing Piano
----
-Tag: Standing Piano
-Color: '#5c66e8'
----
-Tag: Organ
----
-Tag: String Instruments
+Tag: String instruments
 Direct Descendant Tags:
 - Bass
 - Cello
 - Violin
 ---
-Tag: Bass
-Color: '#4ac925'
+Tag: More instruments
 Direct Descendant Tags:
-- Eclectic Bass
----
-Tag: Eclectic Bass
-Color: '#4ac925'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Jade's_inventory#Eclectic_Bass
----
-Tag: Cello
-Color: '#cc5f5e'
----
-Tag: Violin
-Color: '#b536da'
----
-Tag: Turntables
-Color: '#e00707'
+- Turntables
 ---
 Tag: Weapons
 Direct Descendant Tags:
@@ -3358,12 +3460,6 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/2x3dentkind
 ---
-Tag: Ψdon's Entente
-Color: '#f8a900'
-Directory: psidons-entente
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/2x3dentkind#%CE%A8don's_Entente
----
 Tag: Bladekind
 Direct Descendant Tags:
 - Ancestral Awakening
@@ -3376,41 +3472,6 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind
 ---
-Tag: Ancestral Awakening
-Color: '#5e67e5'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Bladekind#Ancestral_Awakening_Sword
----
-Tag: Caledfwlch
-Color: '#e8e8e8'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Bladekind#Caledfwlch
----
-Tag: Caledscratch
-Color: '#f88424'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Bladekind#Caledscratch
----
-Tag: Ninja Sword
-Color: '#a4a4a4'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Bladekind#Ninja_Sword
----
-Tag: Regisword
-Color: '#9a9a9a'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Bladekind#Regisword
----
-Tag: Royal Deringer
-Color: '#fff482'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Bladekind#Royal_Deringer
----
-Tag: Unbreakable Katana
-Color: '#c3c3c3'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Bladekind#Unbreakable_Katana
----
 Tag: Bowkind
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bowkind
@@ -3422,33 +3483,13 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Canekind
 ---
-Tag: Dragon Cane
-Color: '#d73030'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Canekind#Dragon_Cane
----
-Tag: Walking Cane
-Color: '#f2bcbc'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Canekind#Walking_Cane
----
 Tag: Clawkind
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Clawkind
 ---
-Tag: Action Claws
-Color: '#b3e7fa'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Clawkind#Action_Claws
----
 Tag: Clubkind
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Clubkind
----
-Tag: Deuce Clubs
-Color: '#a47ec0'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Clubkind#Deuce_Clubs
 ---
 Tag: Dicekind
 Direct Descendant Tags:
@@ -3456,21 +3497,11 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Dicekind
 ---
-Tag: Fluorite Octet
-Color: '#0169fd'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Dicekind#Fluorite_Octet
----
 Tag: Forkkind
 Direct Descendant Tags:
 - Red Skaia Fork
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Spoonkind
----
-Tag: Red Skaia Fork
-Color: '#ff0000'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Spoonkind#Red_Skaia_fork
 ---
 Tag: Hammerkind
 Direct Descendant Tags:
@@ -3482,31 +3513,6 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hammerkind
 ---
-Tag: Pogo Hammer
-Color: '#38f43d'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Hammerkind#Pogo_Hammer
----
-Tag: Pop-a-matic Vrillyhoo Hammer
-Color: '#3796c6'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Hammerkind#Pop-a-matic_Vrillyhoo_Hammer
----
-Tag: Telescopic Sassacrusher
-Color: '#c492f3'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Hammerkind#Telescopic_Sassacrusher
----
-Tag: Warhammer of Zillyhoo
-Color: '#fcff00'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Warhammer_of_Zillyhoo
----
-Tag: Wrinklefucker
-Color: '#aeaeae'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Hammerkind#Wrinklefucker
----
 Tag: Jokerkind
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Jokerkind
@@ -3517,20 +3523,11 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lancekind
 ---
-Tag: Cigarette Holder Lance
-Color: '#b8b8b8'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Lancekind#Cigarette_Holder_Lance
----
 Tag: Makeupkind
 Direct Descendant Tags:
 - Lipstick
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Makeupkind
----
-Tag: Lipstick
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Makeupkind#Lipstick
 ---
 Tag: Needlekind
 Direct Descendant Tags:
@@ -3539,16 +3536,6 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Needlekind
 ---
-Tag: Thorns of Oglogoth
-Color: '#fcc3df'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Needlekind#Thorns_of_Oglogoth
----
-Tag: Quills of Echidna
-Color: '#a5eef0'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Needlekind#Quills_of_Echidna
----
 Tag: Pistolkind
 Direct Descendant Tags:
 - Flintlocks of Zillyhau
@@ -3556,23 +3543,6 @@ Direct Descendant Tags:
 - White Magnum
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Pistolkind
----
-Tag: Flintlocks of Zillyhau
-Color: '#ffd800'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Pistolkind#Flintlocks_of_Zillyhau
----
-Tag: Twin M9 Berettas
-Color: '#a2a2a2'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Pistolkind#Twin_M9_Berettas
----
-Tag: White Magnum
-Color: '#e2e2e2'
-Description: |-
-    Doubles as the [[tag:white-wand]].
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Pistolkind#White_magnum
 ---
 Tag: Riflekind
 Direct Descendant Tags:
@@ -3583,10 +3553,137 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind
 ---
+Tag: Sicklekind
+Direct Descendant Tags:
+- Clawsickle
+- Homes Smell Ya Later
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sicklekind
+---
+Tag: Wandkind
+Direct Descendant Tags:
+- Empiricist's Wand
+- White Wand
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wandkind
+---
+Tag: General objects
+Direct Descendant Tags:
+- Clocks
+- Cue Ball
+- Fenestrology
+- Gate
+- Lotus
+- Magic 8 Ball
+- Rockets
+
+# -------------------------------------
+#  Objects from media.
+# -------------------------------------
+
+---
+Tag: Objects from media
+Direct Descendant Tags:
+- Objects from Homestuck
+---
+Tag: Objects from Homestuck
+Direct Descendant Tags:
+- Recurring objects (Homestuck)
+- Unique objects (Homestuck)
+---
+Tag: Recurring objects (Homestuck)
+Direct Descendant Tags:
+- Fiduspawn
+- FreshJamz
+- GameBro
+- Homosuck
+- SBaHJ
+- Scalemates
+- Smuppets
+- Squiddles
+- What Pumpkin?
+---
+Tag: Unique objects (Homestuck)
+Direct Descendant Tags:
+- Weapons (Homestuck)
+- Eclectic Bass
+- Matriorb
+- Queen's Ring
+- Rag of Souls
+- Reckoning
+- Red Miles
+- Remote Ghost Gauntlets
+- Tumor
+---
+Tag: Weapons (Homestuck)
+Direct Descendant Tags:
+- Ψdon's Entente
+- Action Claws
+- Ahab's Crosshairs
+- Ancestral Awakening
+- Black Rifle
+- Blunderbuss
+- Caledfwlch
+- Caledscratch
+- Cigarette Holder Lance
+- Clawsickle
+- Deuce Clubs
+- Dragon Cane
+- Empiricist's Wand
+- Fluorite Octet
+- Homes Smell Ya Later
+- Laser Gun
+- Lipstick
+- Ninja Sword
+- Pogo Hammer
+- Pop-a-matic Vrillyhoo Hammer
+- Quills of Echidna
+- Regisword
+- Royal Deringer
+- Telescopic Sassacrusher
+- Thorns of Oglogoth
+- Twin M9 Berettas
+- Unbreakable Katana
+- Walking Cane
+- Warhammer of Zillyhoo
+- White Magnum
+- White Wand
+- Wrinklefucker
+
+# -------------------------------------
+#  Individual object entries.
+# -------------------------------------
+#
+#  These aren't subsectioned at all (currently).
+#  Only sorted alphabetically.
+#
+
+---
+Tag: Ψdon's Entente
+Color: '#f8a900'
+Directory: psidons-entente
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/2x3dentkind#%CE%A8don's_Entente
+---
+Tag: Action Claws
+Color: '#b3e7fa'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Clawkind#Action_Claws
+---
 Tag: Ahab's Crosshairs
 Color: '#5958ef'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind#Ahab's_Crosshairs
+---
+Tag: Ancestral Awakening
+Color: '#5e67e5'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Ancestral_Awakening_Sword
+---
+Tag: Bass
+Color: '#4ac925'
+Direct Descendant Tags:
+- Eclectic Bass
 ---
 Tag: Black Rifle
 Color: '#818181'
@@ -3598,71 +3695,57 @@ Color: '#1f9400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind#Blunderbuss
 ---
-Tag: Laser Gun
-Color: '#d7d7d7'
+Tag: Caledfwlch
+Color: '#e8e8e8'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Riflekind#Laser_Gun
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Caledfwlch
 ---
-Tag: Sicklekind
-Direct Descendant Tags:
-- Clawsickle
-- Homes Smell Ya Later
+Tag: Caledscratch
+Color: '#f88424'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Sicklekind
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Caledscratch
+---
+Tag: Cello
+Color: '#cc5f5e'
+---
+Tag: Cigarette Holder Lance
+Color: '#b8b8b8'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Lancekind#Cigarette_Holder_Lance
 ---
 Tag: Clawsickle
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Sicklekind#Clawsickle
----
-Tag: Homes Smell Ya Later
-Color: '#fff75f'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Sicklekind#Homes_Smell_Ya_Later
----
-Tag: Wandkind
-Direct Descendant Tags:
-- Empiricist's Wand
-- White Wand
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Wandkind
----
-Tag: Empiricist's Wand
-Color: '#f6eed3'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Wandkind#Empiricist's_wand
----
-Tag: White Wand
-Color: '#e2e2e2'
-Description: |-
-    Doubles as the [[tag:white-magnum]].
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Wandkind#White_wand
----
-Tag: Recurring objects (Homestuck)
-Direct Descendant Tags:
-- Clocks
-- Fenestrology
-- Fiduspawn
-- FreshJamz
-- GameBro
-- Gate
-- Homosuck
-- Lotus
-- Musical Instruments
-- Rockets
-- SBaHJ
-- Scalemates
-- Smuppets
-- Squiddles
-- What Pumpkin?
 ---
 Tag: Clocks
 Color: '#008c45'
 Direct Descendant Tags:
 - God Clock
 ---
-Tag: God Clock
-Color: '#ffff01'
+Tag: Cue Ball
+Color: '#ffffff'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Cue_ball
+---
+Tag: Deuce Clubs
+Color: '#a47ec0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Clubkind#Deuce_Clubs
+---
+Tag: Dragon Cane
+Color: '#d73030'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Canekind#Dragon_Cane
+---
+Tag: Eclectic Bass
+Color: '#4ac925'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Jade's_inventory#Eclectic_Bass
+---
+Tag: Empiricist's Wand
+Color: '#f6eed3'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wandkind#Empiricist's_wand
 ---
 Tag: Fenestrology
 Color: '#bbbbbb'
@@ -3676,80 +3759,76 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Fiduspawn
 ---
+Tag: Flintlocks of Zillyhau
+Color: '#ffd800'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pistolkind#Flintlocks_of_Zillyhau
+---
+Tag: Fluorite Octet
+Color: '#0169fd'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Dicekind#Fluorite_Octet
+---
 Tag: GameBro
 Color: '#f2c079'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/GameBro
 ---
-Tag: Rockets
-Color: '#fc3120'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Rocket
----
-Tag: Scalemates
+Tag: God Clock
 Color: '#ffff01'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Scalemate
 ---
-Tag: Smuppets
-Color: '#f2a400'
+Tag: Homes Smell Ya Later
+Color: '#fff75f'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Puppet#Smuppets
+- https://mspaintadventures.fandom.com/wiki/Sicklekind#Homes_Smell_Ya_Later
 ---
-Tag: What Pumpkin?
-Color: '#f78c4f'
+Tag: Keyboard
+Color: '#5c66e8'
+---
+Tag: Laser Gun
+Color: '#d7d7d7'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Pumpkin
+- https://mspaintadventures.fandom.com/wiki/Riflekind#Laser_Gun
 ---
-Tag: Unique objects (Homestuck)
+Tag: Lipstick
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Makeupkind#Lipstick
+---
+Tag: Magic 8 Ball
+Color: '#3796c6'
+---
+Tag: Ninja Sword
+Color: '#a4a4a4'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Ninja_Sword
+---
+Tag: Organ
+Color: '#5c66e8'
+---
+Tag: Piano
+Color: '#5c66e8'
 Direct Descendant Tags:
-- Weapons (Homestuck)
-- Cue Ball
-- Eclectic Bass
-- Queen's Ring
-- Magic 8 Ball
-- Matriorb
-- Rag of Souls
-- Reckoning
-- Red Miles
-- Remote Ghost Gauntlets
+- Standing piano
 ---
-Tag: Weapons (Homestuck)
-Direct Descendant Tags:
-- Action Claws
-- Ahab's Crosshairs
-- Ancestral Awakening
-- Caledfwlch
-- Caledscratch
-- Deuce Clubs
-- Dragon Cane
-- Empiricist's Wand
-- Homes Smell Ya Later
-- Lipstick
-- Ninja Sword
-- Pogo Hammer
-- Regisword
-- Royal Deringer
-- Telescopic Sassacrusher
-- Thorns of Oglogoth
-- Twin M9 Berettas
-- Unbreakable Katana
-- Walking Cane
-- Warhammer of Zillyhoo
-- Wrinklefucker
----
-Tag: Cue Ball
-Color: '#ffffff'
+Tag: Pogo Hammer
+Color: '#38f43d'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Cue_ball
+- https://mspaintadventures.fandom.com/wiki/Hammerkind#Pogo_Hammer
+---
+Tag: Pop-a-matic Vrillyhoo Hammer
+Color: '#3796c6'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hammerkind#Pop-a-matic_Vrillyhoo_Hammer
 ---
 Tag: Queen's Ring
 Color: '#fff716'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Ring
 ---
-Tag: Magic 8 Ball
-Color: '#3796c6'
+Tag: Quills of Echidna
+Color: '#a5eef0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Needlekind#Quills_of_Echidna
 ---
 Tag: Rag of Souls
 Color: '#c7c7c7'
@@ -3768,10 +3847,108 @@ Color: '#ff2400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Red_Miles
 ---
+Tag: Red Skaia Fork
+Color: '#ff0000'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Spoonkind#Red_Skaia_fork
+---
+Tag: Regisword
+Color: '#9a9a9a'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Regisword
+---
 Tag: Remote Ghost Gauntlets
 Color: '#00d5f2'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/John's_inventory#Remote_Ghost_Gauntlets
+---
+Tag: Rockets
+Color: '#fc3120'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rocket
+---
+Tag: Royal Deringer
+Color: '#fff482'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Royal_Deringer
+---
+Tag: Scalemates
+Color: '#ffff01'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Scalemate
+---
+Tag: Smuppets
+Color: '#f2a400'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Puppet#Smuppets
+---
+Tag: Standing piano
+Color: '#5c66e8'
+---
+Tag: Telescopic Sassacrusher
+Color: '#c492f3'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hammerkind#Telescopic_Sassacrusher
+---
+Tag: Thorns of Oglogoth
+Color: '#fcc3df'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Needlekind#Thorns_of_Oglogoth
+---
+Tag: Turntables
+Color: '#e00707'
+---
+Tag: Twin M9 Berettas
+Color: '#a2a2a2'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pistolkind#Twin_M9_Berettas
+---
+Tag: Unbreakable Katana
+Color: '#c3c3c3'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Bladekind#Unbreakable_Katana
+---
+Tag: Violin
+Color: '#b536da'
+---
+Tag: Walking Cane
+Color: '#f2bcbc'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Canekind#Walking_Cane
+---
+Tag: Warhammer of Zillyhoo
+Color: '#fcff00'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Warhammer_of_Zillyhoo
+---
+Tag: What Pumpkin?
+Color: '#f78c4f'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pumpkin
+---
+Tag: White Magnum
+Color: '#e2e2e2'
+Description: |-
+    Doubles as the [[tag:white-wand]].
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pistolkind#White_magnum
+---
+Tag: White Wand
+Color: '#e2e2e2'
+Description: |-
+    Doubles as the [[tag:white-magnum]].
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wandkind#White_wand
+---
+Tag: Wrinklefucker
+Color: '#aeaeae'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hammerkind#Wrinklefucker
+
+# -------------------------------------
+#  Content warnings.
+# -------------------------------------
+
 ---
 Tag: alcohol
 Is CW: true
