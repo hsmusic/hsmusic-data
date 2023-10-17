@@ -33,8 +33,8 @@ Direct Descendant Tags:
 - More archetypes
 ---
 Tag: Humans (archetypes)
-Description: |-
-    Also see [[tag:humans]] for a list of individual humans (and the species as a whole).
+# Description: |-
+#     Also see [[tag:humans]] for a list of individual humans (and the species as a whole).
 Direct Descendant Tags:
 - John (archetype)
 - Rose (archetype)
@@ -47,13 +47,16 @@ Direct Descendant Tags:
 ---
 Tag: John (archetype)
 Color: '#666fe9'
-Description: |-
-    Most represented as [[tag:john|John Egbert]] from Homestuck, John's gone on to receive several fan representations as well. In canon, John's post-scratch variant is [[tag:janes-grandpa]] (aka Poppop).
+# Description: |-
+#     Most represented as [[tag:john|John Egbert]] from Homestuck, John's gone on to receive several fan representations as well. In canon, John's post-scratch variant is [[tag:janes-grandpa]] (aka Poppop).
 Direct Descendant Tags:
 - John
 - Jane's grandpa
+- John (Meat)
+- John (Candy)
 - June
 - Jhon
+- MALE (Homosuck)
 - John (Heinoustuck)
 ---
 Tag: Rose (archetype)
@@ -62,6 +65,9 @@ Direct Descendant Tags:
 - Rose
 - Roxy's mom
 - Jasprose
+- Rose (Meat)
+- Rosebot (Meat)
+- Rose (Candy)
 - Rose (Heinoustuck)
 ---
 Tag: Dave (archetype)
@@ -71,7 +77,11 @@ Direct Descendant Tags:
 - Dirk's bro
 - Davesprite
 - Davepeta
+- Dave (Meat)
+- Dave (Candy)
+- Davebot (Candy)
 - Dabe
+- ALPHA MALE (Homosuck)
 - Dave (Heinoustuck)
 ---
 Tag: Jade (archetype)
@@ -80,6 +90,8 @@ Direct Descendant Tags:
 - Jade
 - Jake's grandma
 - Jadesprite
+- Jade (Meat)
+- Jade (Candy)
 - Jaed
 - Jade (Heinoustuck)
 ---
@@ -89,12 +101,16 @@ Direct Descendant Tags:
 - Jane
 - John's nanna
 - Nannasprite
+- Jane (Meat)
+- Jane (Candy)
 ---
 Tag: Roxy (archetype)
 Color: '#ff6ff2'
 Direct Descendant Tags:
 - Roxy
 - Rose's mom
+- Roxy (Meat)
+- Roxy (Candy)
 ---
 Tag: Dirk (archetype)
 Color: '#f2a400'
@@ -104,43 +120,46 @@ Direct Descendant Tags:
 - Brobot
 - Hal
 - Arquiusprite
+- Dirk (Meat)
+- Dirk (Candy)
 ---
 Tag: Jake (archetype)
 Color: '#1f9400'
 Direct Descendant Tags:
 - Jake
 - Jade's grandpa
+- Jake (Meat)
+- Jake (Candy)
 ---
 Tag: Trolls (archetypes)
-Description: |-
-    Also see [[tag:trolls]] for a list of individual trolls (and the species as a whole).
+# Description: |-
+#     Also see [[tag:trolls]] for a list of individual trolls (and the species as a whole).
 Direct Descendant Tags:
-- Damara (archetype)
+# Sorted by caste, then alphabetically.
 - Aradia (archetype)
+- Damara (archetype)
 - Rufioh (archetype)
 - Tavros (archetype)
 - Mituna (archetype)
-- Karkat (archetype)
+- Sollux (archetype)
 - Kankri (archetype)
-- Nepeta (archetype)
+- Karkat (archetype)
 - Meulin (archetype)
+- Nepeta (archetype)
+- Kanaya (archetype)
 - Porrim (archetype)
-- Terezi (archetype)
 - Latula (archetype)
-- Vriska (archetype)
+- Terezi (archetype)
 - Aranea (archetype)
+- Vriska (archetype)
 - Equius (archetype)
 - Horuss (archetype)
-- Kurloz (archetype)
 - Gamzee (archetype)
+- Kurloz (archetype)
 - Cronus (archetype)
+- Eridan (archetype)
+- Feferi (archetype)
 - Meenah (archetype)
----
-Tag: Damara (archetype)
-Color: '#eb0000'
-Direct Descendant Tags:
-- Damara
-- The Handmaid
 ---
 Tag: Aradia (archetype)
 Color: '#eb0000'
@@ -148,6 +167,14 @@ Direct Descendant Tags:
 - Aradia
 - Aradia (ghost)
 - Aradia's Soulbot
+- Aradia (Candy)
+- Aradia (Homosuck)
+---
+Tag: Damara (archetype)
+Color: '#eb0000'
+Direct Descendant Tags:
+- Damara
+- The Handmaid
 ---
 Tag: Rufioh (archetype)
 Color: '#c36100'
@@ -160,6 +187,7 @@ Color: '#c36100'
 Direct Descendant Tags:
 - Tavros
 - Tavrisprite
+- BULL HORN WIMP (Homosuck)
 ---
 Tag: Mituna (archetype)
 Color: '#a1a100'
@@ -167,17 +195,24 @@ Direct Descendant Tags:
 - Mituna
 - The Psiioniic
 ---
+Tag: Sollux (archetype)
+Color: '#a1a100'
+Direct Descendant Tags:
+- Sollux
+- OTHER GUY (Homosuck)
+---
 Tag: Kankri (archetype)
 Color: '#ff0000'
 Direct Descendant Tags:
 - Kankri
 - The Signless
 ---
-Tag: Nepeta (archetype)
-Color: '#588a00'
+Tag: Karkat (archetype)
+Color: '#7c7e81'
 Direct Descendant Tags:
-- Nepeta
-- Davepeta
+- Karkat
+- Kraket
+- KRABKRAB (Homosuck)
 ---
 Tag: Meulin (archetype)
 Color: '#588a00'
@@ -185,17 +220,26 @@ Direct Descendant Tags:
 - Meulin
 - The Disciple
 ---
+Tag: Nepeta (archetype)
+Color: '#588a00'
+Direct Descendant Tags:
+- Nepeta
+- Davepeta
+- Nepeta (Homosuck)
+---
+Tag: Kanaya (archetype)
+Color: '#008f48'
+Direct Descendant Tags:
+- Kanaya
+- Kanaya (Homosuck)
+- Kanaya (Meat)
+- Kanaya (Candy)
+---
 Tag: Porrim (archetype)
 Color: '#008f48'
 Direct Descendant Tags:
 - Porrim
 - The Dolorosa
----
-Tag: Terezi (archetype)
-Color: '#008b8b'
-Direct Descendant Tags:
-- Terezi
-- Terexi
 ---
 Tag: Latula (archetype)
 Color: '#008b8b'
@@ -203,12 +247,12 @@ Direct Descendant Tags:
 - Latula
 - Redglare
 ---
-Tag: Vriska (archetype)
-Color: '#3796c6'
+Tag: Terezi (archetype)
+Color: '#008b8b'
 Direct Descendant Tags:
-- Vriska
-- Vrasky
-- Tavrisprite
+- Terezi
+- Terexi
+- Terezi (Homosuck)
 ---
 Tag: Aranea (archetype)
 Color: '#3796c6'
@@ -216,12 +260,21 @@ Direct Descendant Tags:
 - Aranea
 - Mindfang
 ---
+Tag: Vriska (archetype)
+Color: '#3796c6'
+Direct Descendant Tags:
+- Vriska
+- Vrasky
+- Tavrisprite
+- Vriska (Homosuck)
+---
 Tag: Equius (archetype)
 Color: '#487aef'
 Direct Descendant Tags:
 - Equius
 - Arquiusprite
 - Equihorse
+- SMELLY HORSE MAN (Homosuck)
 ---
 Tag: Horuss (archetype)
 Color: '#487aef'
@@ -234,6 +287,7 @@ Color: '#a34bff'
 Direct Descendant Tags:
 - Gamzee
 - Gametez
+- HONK FRIEND (Homosuck)
 ---
 Tag: Kurloz (archetype)
 Color: '#a34bff'
@@ -247,17 +301,23 @@ Direct Descendant Tags:
 - Cronus
 - Dualscar
 ---
+Tag: Eridan (archetype)
+Color: '#db00db'
+Direct Descendant Tags:
+- Eridan
+- CAPE DOUCHE (Homosuck)
+---
+Tag: Feferi (archetype)
+Color: '#e30072'
+Direct Descendant Tags:
+- Feferi
+- Feferi (Homosuck)
+---
 Tag: Meenah (archetype)
 Color: '#e30072'
 Direct Descendant Tags:
 - Meenah
 - The Condesce
----
-Tag: Karkat (archetype)
-Color: '#7c7e81'
-Direct Descendant Tags:
-- Karkat
-- Kraket
 ---
 Tag: More archetypes
 Direct Descendant Tags:
@@ -269,6 +329,7 @@ Color: '#e0e0e0'
 Direct Descendant Tags:
 - Dad
 - Dadd
+- LARGER HOMO SAPIEN (Homosuck)
 ---
 Tag: Jaspers (archetype)
 Color: '#f141ef'
@@ -276,16 +337,6 @@ Direct Descendant Tags:
 - Jaspers
 - Jaspersprite
 - Jasprose
----
-Tag: Dad
-Color: '#e0e0e0'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Dad
-Description: |-
-    This tag applies for both [[tag:john|John's]] and [[tag:jane|Jane's]] dads, respectively pre-scratch and post-scratch.
----
-Tag: Dadd
-Color: '#e0e0e0'
 
 # -------------------------------------
 #  Characters from media.
@@ -316,6 +367,7 @@ Direct Descendant Tags:
 Tag: Characters from MSPA
 Direct Descendant Tags:
 - Characters from Homestuck
+- Characters from Homosuck
 - Characters from Hiveswap
 - Characters from The Homestuck Epilogues
 - Characters from Problem Sleuth
@@ -556,6 +608,44 @@ Direct Descendant Tags:
 - Rabbit
 - Serenity
 ---
+Tag: Characters from Homosuck
+Direct Descendant Tags:
+- Humans (Homosuck)
+- Trolls (Homosuck)
+---
+Tag: Humans (Homosuck)
+Direct Descendant Tags:
+- MALE (Homosuck)
+- ALPHA MALE (Homosuck)
+- LARGER HOMO SAPIEN (Homosuck)
+- More humans (Homosuck)
+---
+Tag: More humans (Homosuck)
+Direct Descendant Tags:
+- Rose (Homosuck)
+- Jade (Homosuck)
+- Jane (Homosuck)
+- Roxy (Homosuck)
+---
+Tag: Trolls (Homosuck)
+Direct Descendant Tags:
+- BULL HORN WIMP (Homosuck)
+- OTHER GUY (Homosuck)
+- KRABKRAB (Homosuck)
+- SMELLY HORSE MAN (Homosuck)
+- HONK FRIEND (Homosuck)
+- CAPE DOUCHE (Homosuck)
+- More trolls (Homosuck)
+---
+Tag: More trolls (Homosuck)
+Direct Descendant Tags:
+- Aradia (Homosuck)
+- Nepeta (Homosuck)
+- Kanaya (Homosuck)
+- Terezi (Homosuck)
+- Vriska (Homosuck)
+- Feferi (Homosuck)
+---
 Tag: Characters from Hiveswap
 Direct Descendant Tags:
 - Humans (Hiveswap)
@@ -620,17 +710,67 @@ Direct Descendant Tags:
 ---
 Tag: Characters from The Homestuck Epilogues
 Direct Descendant Tags:
-- Humans (The Homestuck Epilogues)
-- Trolls (The Homestuck Epilogues)
+- Characters from The Homestuck Epilogues (Meat)
+- Characters from The Homestuck Epilogues (Candy)
 ---
-Tag: Humans (The Homestuck Epilogues)
+Tag: Characters from The Homestuck Epilogues (Meat)
 Direct Descendant Tags:
+- Humans (Meat)
+- Trolls (Meat)
+- Robots (Meat)
+---
+Tag: Characters from The Homestuck Epilogues (Candy)
+Direct Descendant Tags:
+- Humans (Candy)
+- Trolls (Candy)
+- Robots (Candy)
+---
+Tag: Humans (Meat)
+Direct Descendant Tags:
+- John (Meat)
+- Rose (Meat)
+- Dave (Meat)
+- Jade (Meat)
+- Jane (Meat)
+- Roxy (Meat)
+- Dirk (Meat)
+- Jake (Meat)
+---
+Tag: Humans (Candy)
+Direct Descendant Tags:
+- John (Candy)
+- Rose (Candy)
+- Dave (Candy)
+- Jade (Candy)
+- Jane (Candy)
+- Roxy (Candy)
+- Dirk (Candy)
+- Jake (Candy)
 - Harry
 - Tavvy
 ---
-Tag: Trolls (The Homestuck Epilogues)
+Tag: Trolls (Meat)
 Direct Descendant Tags:
+- Kanaya (Meat)
+- Terezi (Meat)
+---
+Tag: Trolls (Candy)
+Direct Descendant Tags:
+- Aradia (Candy)
+- Karkat (Candy)
+- Kanaya (Candy)
+- Terezi (Meat)
+- Vriska (Meat)
+- Gamzee (Meat)
 - Vrissy
+---
+Tag: Robots (Meat)
+Direct Descendant Tags:
+- Rosebot (Meat)
+---
+Tag: Robots (Candy)
+Direct Descendant Tags:
+- Davebot (Candy)
 ---
 Tag: Characters from Problem Sleuth
 Direct Descendant Tags:
@@ -1102,12 +1242,13 @@ Direct Descendant Tags:
 - Animal species
 ---
 Tag: Humans
-Description: |-
-    Also see [[tag:humans-archetypes]] for a list of recurring character archetypes.
+# Description: |-
+#     Also see [[tag:humans-archetypes]] for a list of recurring character archetypes.
 Direct Descendant Tags:
 - Humans (Homestuck)
 - Humans (Hiveswap)
-- Humans (The Homestuck Epilogues)
+- Humans (Meat)
+- Humans (Candy)
 - Humans (CaNWC)
 - Humans (Desynced)
 - Humans (Oceanfalls)
@@ -1130,12 +1271,13 @@ Direct Descendant Tags:
 - Weird Al
 ---
 Tag: Trolls
-Description: |-
-    Also see [[tag:trolls-archetypes]] for a list of recurring character archetypes.
+# Description: |-
+#     Also see [[tag:trolls-archetypes]] for a list of recurring character archetypes.
 Direct Descendant Tags:
 - Trolls (Homestuck)
 - Trolls (Hiveswap)
-- Trolls (The Homestuck Epilogues)
+- Trolls (Meat)
+- Trolls (Candy)
 - Trolls (CaNWC)
 - Trolls (Crossmound)
 - Trolls (Vast Error)
@@ -1235,6 +1377,8 @@ Extra Reading URLs:
 Tag: Robots
 Direct Descendant Tags:
 - Robots (Homestuck)
+- Robots (Meat)
+- Robots (Candy)
 ---
 Tag: Ghosts
 Direct Descendant Tags:
@@ -1363,6 +1507,13 @@ Extra Reading URLs:
 ---
 Tag: Crowbar
 Color: '#c4011d'
+---
+Tag: Dad
+Color: '#e0e0e0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Dad
+Description: |-
+    This tag applies for both [[tag:john|John's]] and [[tag:jane|Jane's]] dads, respectively pre-scratch and post-scratch.
 ---
 Tag: Damara
 Color: '#eb0000'
@@ -1797,6 +1948,66 @@ Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond
 
+# Characters from Homosuck.
+
+---
+Tag: ALPHA MALE (Homosuck)
+Color: '#e00707'
+---
+Tag: Aradia (Homosuck)
+Color: '#eb0000'
+---
+Tag: BULL HORN WIMP (Homosuck)
+Color: '#c36100'
+---
+Tag: CAPE DOUCHE (Homosuck)
+Color: '#db00db'
+---
+Tag: Feferi (Homosuck)
+Color: '#e30072'
+---
+Tag: HONK FRIEND (Homosuck)
+Color: '#a34bff'
+---
+Tag: Jade (Homosuck)
+Color: '#4ac925'
+---
+Tag: Jane (Homosuck)
+Color: '#00d5f2'
+---
+Tag: Kanaya (Homosuck)
+Color: '#008f48'
+---
+Tag: KRABKRAB (Homosuck)
+Color: '#7c7e81'
+---
+Tag: LARGER HOMO SAPIEN (Homosuck)
+Color: '#e0e0e0'
+---
+Tag: MALE (Homosuck)
+Color: '#5c66e8'
+---
+Tag: Nepeta (Homosuck)
+Color: '#588a00'
+---
+Tag: OTHER GUY (Homosuck)
+Color: '#a1a100'
+---
+Tag: Rose (Homosuck)
+Color: '#b536da'
+---
+Tag: Roxy (Homosuck)
+Color: '#ff6ff2'
+---
+Tag: SMELLY HORSE MAN (Homosuck)
+Color: '#487aef'
+---
+Tag: Terezi (Homosuck)
+Color: '#008b8b'
+---
+Tag: Vriska (Homosuck)
+Color: '#3796c6'
+
 # Characters from Hiveswap.
 
 ---
@@ -1944,14 +2155,146 @@ Color: '#6464ff'
 # Characters from The Homestuck Epilogues.
 
 ---
+Tag: Aradia (Candy)
+Color: '#eb0000'
+# Description: |-
+#     *(Stub description.)* Becomes besties with [[tag:alternate-calliope]] by discussing the practical theory of canon and beyond, and goes to space with her and [[tag:davebot-candy]].
+---
+Tag: Dave (Candy)
+Color: '#e00707'
+# Description: |-
+#     *(Stub description.)* Has problems about [[tag:dirk-candy|his brother dying]]. Gets in a relationship with [[tag:jade-candy|Jade]] and [[tag:karkat-candy|Karkat]], which dissolves for war reasons, then meets [[tag:barack-obama|Obama]], dies and becomes a [[tag:davebot-candy|robot]], and screws off without saying goodbye.
+---
+Tag: Davebot (Candy)
+Color: '#e00707'
+# Description: |-
+#     *(Stub description.)* Goes to space and hangs out with [[tag:aradia-candy|Aradia]] and [[tag:alternate-calliope|Jade-flavored Alternate Calliope]].
+---
+Tag: Dave (Meat)
+Color: '#e00707'
+---
+Tag: Dirk (Candy)
+Color: '#f2a400'
+# Description: |-
+#     Dirk stands on the precipice of [[tag:dirk-meat|his own ascension]], and then [[tag:john-candy|everything goes wrong]]. It's not long before he makes good on his eternal principles and commits a final act of egoistic relevance in a wholly meaningless world.
+---
+Tag: Dirk (Meat)
+Color: '#f2a400'
+# Description: |-
+#     Dirk takes over the goddamn narrative. The Meat epilogue is, as he'd probably describe it, merely his own prologue. He [[tag:rose-meat|assists Rose during her ascension]], [[tag:kanaya-meat|makes a widow of her wife]], [[tag:jane-meat|helps Jane <em>nearly</em> win an election]], [[tag:jake-meat|leaves his own boyfriend behind forever]], and [[tag:the-theseus|embarks for a new world]].
+---
+Tag: Gamzee (Meat)
+Color: '#a34bff'
+# Description: |-
+#     Lands very, very early on in the Candy timeline, where he fortuitously causes everything to be great. [[tag:jane-candy|Gets involved with Jane]] ([[tag:jake-candy|and Jake, too]]), [[tag:tavvy|names a troll pupa Tavros]], and [[tag:vriska-meat|has less than dubious interactions with Vriska]].
+---
 Tag: Harry
 Color: '#0671cd'
 ---
+Tag: Jade (Candy)
+Color: '#4ac925'
+# Description: |-
+#     *(Stub description.)* May or may not be responsible for finally roping [[tag:dave-meat|Dave]] and [[tag:karkat-meat|Karkat]] together... with herself in the middle. Very concerned for [[tag:jake-meat|Jake's family situation]].
+---
+Tag: Jade (Meat)
+Color: '#4ac925'
+# Description: |-
+#     *(Stub description.)* Is sick of dating for fun. Is very loud about big feelings between Dave and Karkat (who just won't get over it already), listens to Roxy and Callie about gender feelings, then passes the fuck out for twenty chapters to become a comatose vessel for [[tag:alternate-calliope]].
+---
+Tag: Jake (Candy)
+Color: '#1f9400'
+# Description: |-
+#     Grives the passing of [[tag:dirk-candy|Dirk]] and gets in a relationship with [[tag:jane-candy|a dictator]] and [[tag:gamzee-meat|a clown]]. Raises [[tag:tavvy]] and eventually leaves, taking refuge at [[tag:john-candy|John's place]].
+---
+Tag: Jake (Meat)
+Color: '#1f9400'
+# Description: |-
+#     *(Stub description.)* Is best brawling bros with [[tag:dirk-meat|Dirk]], until he gets left behind. Struggles with being a sexual figure in the (distressingly attentive) public.
+---
+Tag: Jane (Candy)
+Color: '#00d5f2'
+# Description: |-
+#     *(Stub description.)* Takes de facto control over the government and puts in grave policies for the future of trolls. Has a lot of family circumstances with [[tag:jake-candy|Jake]] and [[tag:gamzee-candy|Candy]], and adopts and raises [[tag:tavvy|Tavvy (née Tavros)]].
+---
+Tag: Jane (Meat)
+Color: '#00d5f2'
+# Description: |-
+#     *(Stub description.)* Campaigns and wins an election, with the help of [[tag:dirk-meat|Dirk]].
+---
+Tag: John (Candy)
+Color: '#5c66e8'
+# Description: |-
+#     John decides to stick around in the Candy timeline, and ends up marrying [[tag:roxy-candy|Roxy]], with whom he leads a completely idyllic life, fathering [[tag:harry|a perfect son]]. [[tag:jade-candy|He never]] [[tag:jane-candy|has even]] [[tag:jake-candy|a single]] [[tag:gamzee-meat|concern]], [[tag:karkat-candy|doesn't join a rebellion]], and [[tag:terezi-meat|feels normal]] [[tag:vriska-meat|about everything]].
+---
+Tag: John (Meat)
+Color: '#5c66e8'
+# Description: |-
+#     John leaves the Meat timeline behind to battle Lord English. During this fight, he's wounded mortally, but he doesn't die until having floated in the void for a while, made [[tag:meenah-meat|new]] and [[tag:terezi-meat|old acquaintences]], zapped back to Earth C, and gotten halfway through a love confession.
+---
+Tag: Kanaya (Candy)
+Color: '#008f48'
+# Description: |-
+#     *(Stub description.)* Wife of [[tag:rose-candy]], with whom she raises [[tag:vrissy]].
+---
+Tag: Kanaya (Meat)
+Color: '#008f48'
+# Description: |-
+#     Kanaya struggles to support [[tag:rose-meat|her wife]], whose physical condition worsens by the day. The invasive presence of a certain [[tag:dirk-meat|narrator]] certainly doesn't help, and when he goes ahead and steals Rose on [[tag:the-theseus|a freaking rocket ship]], she's pissed. She joins [[tag:karkat-meat|Karkat]], [[tag:jade-meat|one possessed Jade]], and [[tag:dave-meat|more]] [[tag:roxy-meat|friends]] to get her back.
+---
+Tag: Meenah (Meat)
+Color: '#e30072'
+# Description: |-
+#     Meenah joins a certain [[tag:vriska-meat|post-retcon cerulean blood]] in the battle against Lord English, but doesn't fare much better. After a choice encounter with one [[tag:john-meat|wounded and e'er-naive Egbert]], she snags his life ring and makes for oblivion. Landing in the Candy timeline on the other side of the black hole, she promptly teams up with [[tag:karkat-candy|"Commander" Karkat]]. Why not?
+---
+Tag: Karkat (Candy)
+Color: '#7c7e81'
+# Description: |-
+#     Karkat cares endlessly about those around him - especially [[tag:dave-candy|Dave]] and [[tag:jade-candy|Jade]], both of whom he's dating, somehow - but [[tag:jane-candy|one major influencer with dictatorial tendencies]] is posing a serious threat to his entire race, and he isn't going to go down without a fight. Though he'd never admit it, he has a knack for bringing people together, and (with the help of [[tag:meenah-meat|an unexpected recruit]]) [[track:universal-remission|wages war]].
+---
+Tag: Rose (Candy)
+Color: '#b536da'
+# Description: |-
+#     *(Stub description.)* Married to [[tag:kanaya-candy]] and raises [[tag:vrissy]] with her. Carries and secretly raises a [[tag:yiffy|surrogate daughter]] with [[tag:jade-candy|Jade]].
+---
+Tag: Rose (Meat)
+Color: '#b536da'
+# Description: |-
+#     In the Meat timeline, Rose gradually approaches a comprehensive understanding of her Ultimate Self, and her mortal body, apparently failing to support this, worsens in condition by the day. Soon enough, she arrives at [[tag:dirk-meat|Dirk's]] place; having been guided past the threshold, she bids farewell to her [[tag:kanaya-meat|somewhat unimpressed wife]], finds her consciousness transferred to [[tag:rosebot-meat|a more permanent form]], and joins Dirk on a [[tag:the-theseus|journey]] to create [[tag:deltritus|a new world]].
+---
+Tag: Rosebot (Meat)
+Color: '#b536da'
+# Description: |-
+#     Having reached her Ultimate Self, Rose leaves behind [[tag:rose-meat|her mortal form]] ([[track:postscript-sugar-mix|artificially sustained]]) and, more or less, becomes a robot. She, [[tag:dirk-meat|Dirk]], and [[tag:terezi-meat|one stowaway troll]] set out to create a new world on [[tag:deltritus|a new planet]].
+---
+Tag: Roxy (Candy)
+Color: '#ff6ff2'
+# Description: |-
+#     *(Stub description.)* Marries [[tag:john-candy|John]] and raises their son [[tag:harry]] with him, until they break up, though they eventually come to good terms and chat about gender and sexuality.
+---
+Tag: Roxy (Meat)
+Color: '#ff6ff2'
+# Description: |-
+#     *(Stub description.)* Transes his gender like it's no one's business. Joins [[tag:kanaya-meat|Kanaya]] and co. on a trip to rescue [[tag:rose-meat|her wife]].
+---
 Tag: Tavvy
 Color: '#a44bff'
+# Description: |-
+#     *(Stub description.)* Adopted son of [[tag:jane-candy]], [[tag:jake-candy]], and, unfortunately, [[tag:gamzee-meat]]. Is roped into hijinks with [[tag:vrissy]] and [[tag:harry]].
+---
+Tag: Terezi (Meat)
+Color: '#008b8b'
+# Description: |-
+#     Since Terezi's hunting down Vriska (without much success) and away from Earth C when John makes his fateful decision, there's only one of her who appears throughout the Homestuck Epilogues. After travelling the void, she returns with [[tag:john-meat|John]] to the Earth C of the Meat timeline, and eventually joins [[tag:dirk-meat|Dirk]] and [[tag:rosebot-meat|Rose]] on [[tag:the-theseus|their journey]] to create [[tag:deltritus|a new world]].
+---
+Tag: Vriska (Meat)
+Color: '#3796c6'
+# Description: |-
+#     Vriska's about to win the most important battle in the history of Paradox Space when fate twists cruelly, and she finds herself hurtling past the [[Irrelevance Event Horizon|irrelevance event horizon]]. She pops out the other end on Earth C in the Candy timeline, and although this world is [[tag:john-candy|complete]] and [[tag:jane-candy|utter]] [[tag:karkat-candy|bullshit]], she ends up [[tag:vrissy|making a friend]] and [[tag:terezi-meat|reaching out]] anyway - just not without [[tag:gamzee-meat|a scratch or two along the way]].
 ---
 Tag: Vrissy
 Color: '#3796c6'
+# Description: |-
+#     *(Stub description.)* Adopted daughter of [[tag:rose-candy]] and [[tag:kanaya-candy]]. Gets into shenanigans with [[tag:harry]] and [[tag:tavvy]].
 
 # Characters from Problem Sleuth.
 
@@ -2049,6 +2392,9 @@ Color: '#e00707'
 ---
 Tag: Dacronian Dignity
 Color: '#c39797'
+---
+Tag: Dadd
+Color: '#e0e0e0'
 ---
 Tag: Femorafreack
 Color: '#e0e0e0'
@@ -3352,8 +3698,8 @@ Extra Reading URLs:
 ---
 Tag: Trolls' meteor
 Color: '#7c7e81'
-Description: |-
-    The vessel a rowdy set of kids and trolls take on their way across the yellow yard; it houses an ectobiology lab and, like the other asteroids summoned during [[tag:reckoning|the Reckoning]], resided in [[tag:veil|the Veil]] - until [[tag:sollux]] sent it on its way.
+# Description: |-
+#     The vessel a rowdy set of kids and trolls take on their way across the yellow yard; it houses an ectobiology lab and, like the other asteroids summoned during [[tag:reckoning|the Reckoning]], resided in [[tag:veil|the Veil]] - until [[tag:sollux]] sent it on its way.
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Trolls'_meteor
 ---
@@ -3928,15 +4274,15 @@ Extra Reading URLs:
 ---
 Tag: White Magnum
 Color: '#e2e2e2'
-Description: |-
-    Doubles as the [[tag:white-wand]].
+# Description: |-
+#     Doubles as the [[tag:white-wand]].
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Pistolkind#White_magnum
 ---
 Tag: White Wand
 Color: '#e2e2e2'
-Description: |-
-    Doubles as the [[tag:white-magnum]].
+# Description: |-
+#     Doubles as the [[tag:white-magnum]].
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wandkind#White_wand
 ---
