@@ -1606,6 +1606,7 @@ Directory: hiveswap
 Color: '#33cc77'
 Jump: Additional Canon
 Jump Color: '#f2a400'
+List Terminology: Games in this series
 ---
 Directory: hiveswap-act1
 Contributors:
@@ -1792,6 +1793,7 @@ Flash: Hiveswap Act 2
 Act: Hiveswap Friendsim
 Directory: friendsim
 Color: '#d3ff8f'
+List Terminology: Volumes in this game
 ---
 Directory: fs-vol1
 Contributors:
@@ -2039,6 +2041,7 @@ Flash: Of Hosts, Excellent
 Act: Pesterquest
 Directory: pesterquest
 Color: '#71daff'
+List Terminology: Volumes in this game
 ---
 Directory: pq-vol1
 Contributors:
@@ -2232,6 +2235,7 @@ Flash: Just Go Ahead Now
 Act: Cool and New Web Comic
 Directory: cool-and-new-web-comic
 Color: '#00cde0'
+List Terminology: Flashes in this story
 Jump: Fan Adventures
 Jump Color: '#c466ff'
 ---
@@ -2461,6 +2465,7 @@ URLs:
 Act: Karkat Goes to a Convention
 Directory: karkat-goes-to-a-convention
 Color: '#7c7e81'
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Karkat: Greet friends!'
 Directory: karkat-greet-friends
@@ -2638,6 +2643,7 @@ URLs:
 Act: Loftlocked
 Directory: loftlocked
 Color: '#fdc500'
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Ella: Quick! Calm yourself with a haunting piano refrain! '
 Directory: ella-quick-calm-yourself
@@ -2788,6 +2794,7 @@ URLs:
 Act: Alternate Session
 Directory: alternate-session
 Color: '#029cfd'
+List Terminology: Flashes in this story
 ---
 # Multi-page flash
 Flash: '[S] Johnsprite: Speak to your denizen.'
@@ -2855,6 +2862,7 @@ URLs:
 Act: Double Death of the Author
 Directory: double-death-of-the-author
 Color: '#cec2b6'
+List Terminology: Flashes in this story
 ---
 Flash: '[S] >TEREZI: B3 TH3 4C3 4TTORN3Y'
 Directory: terezi-be-the-ace-attorney
@@ -2946,6 +2954,7 @@ URLs:
 Act: 'Jailbreak^2: Beyond Canon'
 Directory: jailbreak-2-beyond-canon
 Color: '#ffffff'
+List Terminology: Flashes in this story
 ---
 Flash: '[TITLE SCREEN]'
 Directory: title-screen-jailbreak-2
@@ -3150,6 +3159,7 @@ URLs:
 Act: The Fan Adventure Known as "Homestuck"
 Directory: the-fan-adventure-known-as-homestuck
 Color: '#4ac925'
+List Terminology: Flashes in this story
 ---
 Flash: '[S] ==>'
 Directory: next-not-homestuck
@@ -3306,6 +3316,7 @@ URLs:
 Act: Nightfall
 Color: '#146e98'
 Directory: nightfall
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Liz: STRIFE!'
 Directory: liz-strife
@@ -3334,6 +3345,7 @@ URLs:
 Act: Mr. Tambourine Man
 Color: '#2838ef'
 Directory: mr-tambourine-man
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Dave: Strife!'
 Directory: dave-strife-mr-tambourine-man
@@ -3368,6 +3380,7 @@ URLs:
 Act: Hexane Universe
 Color: '#dc0067'
 Directory: hexane
+List Terminology: Flashes in this story
 ---
 Flash: '[S] 0001, 0002, 0003, Amoria: Behold glory of Bloody Hell.'
 Directory: behold-glory-of-bloody-hell
@@ -3405,6 +3418,7 @@ URLs:
 Act: The Crow Strider AU
 Color: '#ff0000'
 Directory: the-crow-strider-au
+List Terminology: Flashes in this story
 ---
 Flash: '[S]Heir of grief: PLAY'
 Directory: heir-of-grief-play
@@ -3437,6 +3451,7 @@ URLs:
 Act: 'Sburb: Refresh'
 Color: '#b57a41'
 Directory: sburb-refresh
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Jeff: STRIFE!'
 Directory: jeff-strife
@@ -3549,6 +3564,7 @@ URLs:
 Act: Le me playing Sburb
 Color: '#ffffff'
 Directory: le-me-playing-sburb
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Step 3: Enter le game.'
 Directory: step-3-enter-le-game
@@ -3598,6 +3614,7 @@ URLs:
 Act: Act 8
 Color: '#fbae20'
 Directory: act-8
+List Terminology: Flashes in this story
 ---
 Flash: '[S]Start'
 Directory: start-act8
@@ -3632,6 +3649,7 @@ URLs:
 Act: HeavenSent
 Color: '#de0093'
 Directory: heaven-sent
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Horrible Start'
 Directory: horrible-start
@@ -3660,6 +3678,7 @@ URLs:
 Act: Psycholonials
 Directory: psycholonials
 Color: '#f51806'
+List Terminology: Volumes in this game
 Jump: Fan Animations
 Jump Color: '#32c7fe'
 ---
@@ -3817,9 +3836,10 @@ Featured Tracks:
 - track:together-vocal-remix
 Flash: A Sword And A Crown
 ---
-Act: Other Fan Adventures
+Act: More fan adventures
 Color: '#fafafa'
 Directory: other-fan-adventures
+List Terminology: Flashes in this section
 ---
 Flash: 'Apocryphal Antithesis: Opening Flash'
 Directory: apocryphal-antithesis-opening-flash
@@ -4083,9 +4103,10 @@ URLs:
 - https://mspfa.com/?s=50076&p=212
 - https://www.youtube.com/watch?v=F41HZ9ZkzMM
 ---
-Act: Fan Animations
+Act: Fan animations
 Directory: fan-animations
 Color: '#fafafa'
+List Terminology: Animations in this section
 ---
 Flash: 'MOVIE #1: hooly SHIT, wear a MOVIE???????????'
 Directory: sbahj-movie-1
@@ -4120,6 +4141,7 @@ URLs:
 Act: Sunday Night Strifin'
 Directory: sunday-night-strifin
 Color: '#FFFF00'
+List Terminology: Mods in this section
 Jump: Fan Games 
 Jump Color: '#0088ff'
 ---
@@ -4200,7 +4222,10 @@ URLs:
 - https://youtu.be/qePAEz3z2B0
 - https://gamebanana.com/mods/459476
 ---
-Act: More Games
+Act: More games
+Directory: more-games
+Color: '#fafafa'
+List Terminology: Games in this section
 ---
 Flash: Namco High
 Directory: namco-high
