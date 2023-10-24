@@ -1,0 +1,83 @@
+Album: Rose of Winter
+Artists:
+- Toby Fox
+Date: October 17, 2016
+Date Added: October 12, 2023
+URLs:
+- https://youtube.com/playlist?list=PLjiKCdT2Hbqi74RUfPCukt5eZPOQ_QO7n
+Cover Artists:
+- Victoria Grace Elliott
+- Devin (edit)
+Banner Artists:
+- Victoria Grace Elliott
+Wallpaper Artists:
+- Victoria Grace Elliott
+Wallpaper Style: |-
+    opacity: 0.95;
+Color: '#F8E1F4'
+Cover Art File Extension: png
+Banner File Extension: png
+Groups:
+- Toby Fox
+- Beyond
+Commentary: |-
+     <i>Jebb:</i> (wiki editor)
+     The title for this track is an improvised version based on the file name, the original file name is "title_Toby"
+---
+Track: Theme
+Artists:
+- Toby Fox
+Duration: '1:37'
+Directory: theme-rose-of-winter
+Always Reference By Directory: true
+URLs:
+- https://youtu.be/vWhUfWQX8-Q
+---
+Track: Danger
+Artists:
+- Toby Fox
+Duration: '0:57'
+URLs:
+- https://youtu.be/_-sb17SXsKg
+---
+Track: Sad (Lower)
+Artists:
+- Toby Fox
+Duration: '1:42'
+URLs:
+- https://youtu.be/oKaZpC7QJTo
+Referenced Tracks:
+- Emotionless
+---
+Track: Emotionless
+Artists:
+- Toby Fox
+Duration: '0:42'
+URLs:
+- https://youtu.be/8l76d6yzdmw
+---
+Track: Heroism
+Artists:
+- Toby Fox
+Duration: '1:00'
+URLs:
+- https://youtu.be/YXgD5Q1rQCY
+Referenced Tracks:
+- track:theme-rose-of-winter
+---
+Track: Legend
+Artists:
+- Toby Fox
+Duration: '1:04'
+URLs:
+- https://youtu.be/DP5I7qkHjTY
+Directory: legend-rose-of-winter
+Referenced Tracks:
+- Heroism
+---
+Track: Tension
+Artists:
+- Toby Fox
+Duration: '0:51'
+URLs:
+- https://youtu.be/RElfOX4qdEM
