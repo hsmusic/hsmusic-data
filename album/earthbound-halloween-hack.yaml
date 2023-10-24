@@ -9,7 +9,7 @@ Artists:
 Groups:
 - Toby Fox
 - Beyond
-Color: '#a00000'
+Color: '#d02000'
 Cover Artists:
 - Unknown Artist
 - Jebb (edits for wiki)
@@ -18,8 +18,10 @@ Wallpaper Artists:
 - Toby Fox
 - Jebb (edits for wiki)
 Wallpaper Style: |-
-    opacity: 0.8;
+    opacity: 0.65;
     background-position: top;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Wallpaper File Extension: png
 Banner Artists:
 - Unknown Artist
