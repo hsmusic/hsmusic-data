@@ -15,9 +15,9 @@ Cover Art File Extension: jpg
 Commentary: |-
     <i>Jamie Paige:</i>
     for guiding this album's creation, and for their indispensable friendship, I give special thanks to:
-    marcy, madi, bluffy, que, fionna, alexis, fen, crows, grey, jeremy, samm, rocky, sly, lead, autumn, miranda, birdy, drake, jenna, lunie, sadie, my families both found and born into, paisley pudge, ekho paialthe, kalia vibte, jim boonie only, rock chat, the sorority, reverse despicable me au, borb, the scary lizard league, the puk pit...
+    [[artist:marcy-nabors|marcy]], madi, bluffy, que, fionna, alexis, fen, crows, grey, jeremy, samm, rocky, sly, lead, autumn, miranda, birdy, drake, jenna, lunie, sadie, my families both found and born into, paisley pudge, ekho paialthe, kalia vibte, jim boonie only, rock chat, the sorority, reverse despicable me au, borb, the scary lizard league, the puk pit...
     and, of course, my dearest darling, honor <3
-    and paul henderson.
+    and [[artist:paul-henderson|paul henderson]].
     have fun parsing what any of that means!
 ---
 Track: Second Hello
@@ -604,6 +604,8 @@ Lyrics: |-
     And voices for the voiceless
 ---
 Track: Bittersweet
+Directory: bittersweet-jamie-paige
+Always Reference By Directory: true
 Duration: '4:16'
 URLs:
 - https://jamiepaige.bandcamp.com/track/bittersweet

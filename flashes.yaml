@@ -1604,10 +1604,13 @@ Page: '8130'
 Act: Hiveswap
 Directory: hiveswap
 Color: '#33cc77'
+List Terminology: Games in this series
 Jump: Additional Canon
 Jump Color: '#f2a400'
 ---
+Flash: Hiveswap Act 1
 Directory: hiveswap-act1
+Color: '#33cc77'
 Contributors:
 - Adrienne Garcia (lead animator, animation, animation cleanup, cutscene illustration)
 - Alex Krokus (animation)
@@ -1693,8 +1696,9 @@ Featured Tracks:
 - We Shall Go Together
 - Wish You Were Here
 - Intermission 1
-Flash: Hiveswap Act 1
 ---
+Flash: Hiveswap Act 2
+Color: '#f8f0cb'
 Directory: hiveswap-act2
 Contributors:
 - Adelaide Killigan (scripting, QA)
@@ -1787,11 +1791,11 @@ Featured Tracks:
 - track:old-secret-act2
 - Ghost Train
 - Fight of the Bumblebee
-Flash: Hiveswap Act 2
 ---
 Act: Hiveswap Friendsim
 Directory: friendsim
 Color: '#d3ff8f'
+List Terminology: Volumes in this game
 ---
 Directory: fs-vol1
 Contributors:
@@ -2039,6 +2043,7 @@ Flash: Of Hosts, Excellent
 Act: Pesterquest
 Directory: pesterquest
 Color: '#71daff'
+List Terminology: Volumes in this game
 ---
 Directory: pq-vol1
 Contributors:
@@ -2232,6 +2237,7 @@ Flash: Just Go Ahead Now
 Act: Cool and New Web Comic
 Directory: cool-and-new-web-comic
 Color: '#00cde0'
+List Terminology: Flashes in this story
 Jump: Fan Adventures
 Jump Color: '#c466ff'
 ---
@@ -2461,6 +2467,7 @@ URLs:
 Act: Karkat Goes to a Convention
 Directory: karkat-goes-to-a-convention
 Color: '#7c7e81'
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Karkat: Greet friends!'
 Directory: karkat-greet-friends
@@ -2638,6 +2645,7 @@ URLs:
 Act: Loftlocked
 Directory: loftlocked
 Color: '#fdc500'
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Ella: Quick! Calm yourself with a haunting piano refrain! '
 Directory: ella-quick-calm-yourself
@@ -2788,6 +2796,7 @@ URLs:
 Act: Alternate Session
 Directory: alternate-session
 Color: '#029cfd'
+List Terminology: Flashes in this story
 ---
 # Multi-page flash
 Flash: '[S] Johnsprite: Speak to your denizen.'
@@ -2855,6 +2864,7 @@ URLs:
 Act: Double Death of the Author
 Directory: double-death-of-the-author
 Color: '#cec2b6'
+List Terminology: Flashes in this story
 ---
 Flash: '[S] >TEREZI: B3 TH3 4C3 4TTORN3Y'
 Directory: terezi-be-the-ace-attorney
@@ -2946,6 +2956,7 @@ URLs:
 Act: 'Jailbreak^2: Beyond Canon'
 Directory: jailbreak-2-beyond-canon
 Color: '#ffffff'
+List Terminology: Flashes in this story
 ---
 Flash: '[TITLE SCREEN]'
 Directory: title-screen-jailbreak-2
@@ -3150,6 +3161,7 @@ URLs:
 Act: The Fan Adventure Known as "Homestuck"
 Directory: the-fan-adventure-known-as-homestuck
 Color: '#4ac925'
+List Terminology: Flashes in this story
 ---
 Flash: '[S] ==>'
 Directory: next-not-homestuck
@@ -3306,6 +3318,7 @@ URLs:
 Act: Nightfall
 Color: '#146e98'
 Directory: nightfall
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Liz: STRIFE!'
 Directory: liz-strife
@@ -3332,8 +3345,9 @@ URLs:
 - https://www.youtube.com/watch?v=cs64HZTw_K0
 ---
 Act: Mr. Tambourine Man
-Color: '#2838ef'
+Color: '#4453fc'
 Directory: mr-tambourine-man
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Dave: Strife!'
 Directory: dave-strife-mr-tambourine-man
@@ -3368,6 +3382,7 @@ URLs:
 Act: Hexane Universe
 Color: '#dc0067'
 Directory: hexane
+List Terminology: Flashes in this story
 ---
 Flash: '[S] 0001, 0002, 0003, Amoria: Behold glory of Bloody Hell.'
 Directory: behold-glory-of-bloody-hell
@@ -3405,6 +3420,7 @@ URLs:
 Act: The Crow Strider AU
 Color: '#ff0000'
 Directory: the-crow-strider-au
+List Terminology: Flashes in this story
 ---
 Flash: '[S]Heir of grief: PLAY'
 Directory: heir-of-grief-play
@@ -3437,6 +3453,7 @@ URLs:
 Act: 'Sburb: Refresh'
 Color: '#b57a41'
 Directory: sburb-refresh
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Jeff: STRIFE!'
 Directory: jeff-strife
@@ -3549,6 +3566,7 @@ URLs:
 Act: Le me playing Sburb
 Color: '#ffffff'
 Directory: le-me-playing-sburb
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Step 3: Enter le game.'
 Directory: step-3-enter-le-game
@@ -3598,6 +3616,7 @@ URLs:
 Act: Act 8
 Color: '#fbae20'
 Directory: act-8
+List Terminology: Flashes in this story
 ---
 Flash: '[S]Start'
 Directory: start-act8
@@ -3632,6 +3651,7 @@ URLs:
 Act: HeavenSent
 Color: '#de0093'
 Directory: heaven-sent
+List Terminology: Flashes in this story
 ---
 Flash: '[S] Horrible Start'
 Directory: horrible-start
@@ -3657,169 +3677,10 @@ Featured Tracks:
 URLs:
 - https://www.youtube.com/watch?v=oeLyu-Ae6a4
 ---
-Act: Psycholonials
-Directory: psycholonials
-Color: '#f51806'
-Jump: Fan Animations
-Jump Color: '#32c7fe'
----
-Directory: psycholonials
-Contributors:
-- Andrew Hussie (author)
-- Clark Powell (musician)
-- Adelaide Killigan (lead engineer)
-- Andrew D. (additional engineering)
-- Aysha U. Farah (editing)
-- Yitong Zhu (language proofreading)
-- Raissa Castro (language proofreading)
-- SK (language proofreading)
-- James Roach (language proofreading)
-Date: February 3, 2021
-Flash: Psycholonials
----
-Directory: psych-ch1
-Date: February 3, 2021
-Cover Art File Extension: png
-Featured Tracks:
-- track:love-song
-- track:summer-that-never-was
-- track:morning-ritual
-- track:ephemeral-muse
-- track:whats-wasting-me
-- track:the-successor
-Flash: Summer That Never Was
----
-Directory: psych-ch2
-Date: February 17, 2021
-Cover Art File Extension: png
-Featured Tracks:
-- track:edge-of-dawn
-- track:love-song
-- track:the-cold-hand
-- track:together
-- track:summer-that-never-was
-- track:the-influencer
-- track:just-dreams
-- track:i-have-some-ideas
-- track:the-successor
-Flash: Pranxis
----
-Directory: psych-ch3
-Date: February 24, 2021
-Cover Art File Extension: png
-Featured Tracks:
-- track:love-song
-- track:morning-ritual
-- track:time-is-helpless
-- track:whats-wasting-me
-- track:through-the-play
-- track:just-almost
-- track:the-successor
-Flash: Wildcard
----
-Directory: psych-ch4
-Date: March 3, 2021
-Cover Art File Extension: png
-Featured Tracks:
-- track:edge-of-dawn
-- track:love-song
-- track:outlaw
-- track:a-screaming-inside
-- track:just-dreams
-- track:breakthroughs
-- track:ephemeral-muse
-- track:nervous-energy
-- track:now-and-forever
-- track:the-successor
-Flash: A Symbol Of Strength
----
-Directory: psych-ch5
-Date: March 10, 2021
-Featured Tracks:
-- track:love-song
-- track:through-the-play
-- track:whats-wasting-me
-- track:in-the-works
-- track:i-have-some-ideas
-- track:ephemeral-muse
-- track:blood-on-their-hands
-- track:the-cold-hand
-- track:the-successor
-Flash: Stuck Pig
----
-Directory: psych-ch6
-Date: March 24, 2021
-Featured Tracks:
-- track:love-song
-- track:outlaw
-- track:the-influencer
-- track:the-administrator
-- track:time-is-helpless
-- track:means-of-conquest
-- track:twelve-clown-salute
-- track:together
-- track:now-and-forever
-- track:the-successor
-Flash: The Practice of Delegation
----
-Directory: psych-ch7
-Date: March 31, 2021
-Featured Tracks:
-- track:love-song
-- track:the-march
-- track:the-administrator
-- track:such-a-shame
-- track:nervous-energy
-- track:a-screaming-inside
-- track:break-this
-- track:just-almost
-- track:means-of-conquest
-- track:now-and-forever
-- track:the-successor
-Flash: It Never Even Stood A Chance
----
-Directory: psych-ch8
-Date: April 13, 2021
-Featured Tracks:
-- track:edge-of-dawn
-- track:love-song
-- track:nervous-energy
-- track:in-the-works
-- track:in-the-loop
-- track:breakthroughs
-- track:whats-wasting-me
-- track:twelve-clown-salute
-- track:such-a-shame
-- track:flare-insurrection-remix
-- track:the-cold-hand
-- track:through-the-play
-- track:summer-that-never-was
-- track:summer-that-never-was-firebrand-remix
-- track:just-almost
-- track:the-successor
-Flash: Grinch Heart
----
-Directory: psych-ch9
-Date: April 20, 2021
-Featured Tracks:
-- track:ephemeral-muse-final-remix
-- track:fix-this
-- track:edge-of-dawn
-- track:threshold
-- track:in-the-loop
-- track:we-were-right-about-everything
-- track:feeling-i-cant-shake
-- track:zhen
-- track:just-almost
-- track:the-successor
-- track:love-song
-- track:the-march
-- track:together-vocal-remix
-Flash: A Sword And A Crown
----
-Act: Other Fan Adventures
-Color: '#fafafa'
-Directory: other-fan-adventures
+Act: More fan adventures
+Color: '#c466ff'
+Directory: more-fan-adventures
+List Terminology: Flashes in this section
 ---
 Flash: 'Apocryphal Antithesis: Opening Flash'
 Directory: apocryphal-antithesis-opening-flash
@@ -4083,9 +3944,253 @@ URLs:
 - https://mspfa.com/?s=50076&p=212
 - https://www.youtube.com/watch?v=F41HZ9ZkzMM
 ---
-Act: Fan Animations
+Act: Sunday Night Strifin'
+Directory: sunday-night-strifin
+Color: '#FFFF00'
+List Terminology: Mods in this section
+Jump: Fan Games & More
+Jump Color: '#32c7fe'
+---
+Flash: 'Act 1: Beatdown, Strider Style'
+Directory: act-1-sunday-night-strifin
+Date: July 14, 2022
+Cover Art File Extension: png
+Contributors:
+- Doribun (lead director, animator, artist, bg artist)
+- bould (assistant director, animator, artist, musician)
+- Mabsoot (lead musician)
+- FatCat122 (charter, coder)
+Featured Tracks:
+- Menu (SNS Act 1)
+- TutorialD
+- track:trepidation-sunday-night-strifin
+- Rise Up
+- Can't Abscond
+URLs:
+- https://youtu.be/BOUhwOEItTI
+- https://gamebanana.com/mods/389527
+---
+Flash: Halloween Hack
+Directory: halloween-hack-sunday-night-strifin
+Date: November 1, 2022
+Cover Art File Extension: png
+Contributors:
+- Doribun (bg artist)
+- bould (musician, lead animator/artist, charter)
+Featured Tracks:
+- Halloween Hack
+URLs:
+- https://youtu.be/aTcdeMl2EIs
+- https://gamebanana.com/mods/410025
+---
+Flash: 'Act 2: Night at the Observatory'
+Directory: act-2-sunday-night-strifin
+Date: July 30, 2023
+Cover Art File Extension: png
+Contributors:
+- Doribun (director, artist)
+- bould (director, artist, composer, programmer)
+- Jebb (co-director, musician)
+- melogomee (artist)
+- WorldEndWonder (musician)
+- Yoshifan33 (charter)
+- Mabsoot (musician, charter)
+- TeeDeeGee (musician, programmer)
+- FatCat122 (programmer, charter)
+- Ruby_ (programmer)
+- ScribbleHairz (programmer)
+- Hazelpy (programming help)
+- bb-panzu (programming help)
+Featured Tracks:
+- Breakdown SS
+- track:cooldown-sunday-night-strifin
+- TutorialD
+- Trepidation (Retconned)
+- Rise Up (Retconned)
+- Can't Abscond
+- Dubious Therapy
+- Sleepwalk
+- Verdancy
+- Grimdark
+- BULL2HIIT
+- Feels Jam
+- Grimdate
+- Check It
+- Playtime
+- Halloween Hack
+- Catfight
+- Heinous
+- Descendascend
+- 8r8k
+- Shenanigans
+- Crabby Chorale
+URLs:
+- https://youtu.be/qePAEz3z2B0
+- https://gamebanana.com/mods/459476
+---
+Act: Psycholonials
+Directory: psycholonials
+Color: '#f51806'
+List Terminology: Volumes in this game
+---
+Flash: Psycholonials
+Directory: psycholonials
+Contributors:
+- Andrew Hussie (author)
+- Clark Powell (musician)
+- Adelaide Killigan (lead engineer)
+- Andrew D. (additional engineering)
+- Aysha U. Farah (editing)
+- Yitong Zhu (language proofreading)
+- Raissa Castro (language proofreading)
+- SK (language proofreading)
+- James Roach (language proofreading)
+Date: February 3, 2021
+---
+Flash: Summer That Never Was
+Directory: psych-ch1
+Date: February 3, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- track:love-song
+- track:summer-that-never-was
+- track:morning-ritual
+- track:ephemeral-muse
+- track:whats-wasting-me
+- track:the-successor
+---
+Flash: Pranxis
+Directory: psych-ch2
+Date: February 17, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- track:edge-of-dawn
+- track:love-song
+- track:the-cold-hand
+- track:together
+- track:summer-that-never-was
+- track:the-influencer
+- track:just-dreams
+- track:i-have-some-ideas
+- track:the-successor
+---
+Flash: Wildcard
+Directory: psych-ch3
+Date: February 24, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- track:love-song
+- track:morning-ritual
+- track:time-is-helpless
+- track:whats-wasting-me
+- track:through-the-play
+- track:just-almost
+- track:the-successor
+---
+Flash: A Symbol Of Strength
+Directory: psych-ch4
+Date: March 3, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- track:edge-of-dawn
+- track:love-song
+- track:outlaw
+- track:a-screaming-inside
+- track:just-dreams
+- track:breakthroughs
+- track:ephemeral-muse
+- track:nervous-energy
+- track:now-and-forever
+- track:the-successor
+---
+Flash: Stuck Pig
+Directory: psych-ch5
+Date: March 10, 2021
+Featured Tracks:
+- track:love-song
+- track:through-the-play
+- track:whats-wasting-me
+- track:in-the-works
+- track:i-have-some-ideas
+- track:ephemeral-muse
+- track:blood-on-their-hands
+- track:the-cold-hand
+- track:the-successor
+---
+Flash: The Practice of Delegation
+Directory: psych-ch6
+Date: March 24, 2021
+Featured Tracks:
+- track:love-song
+- track:outlaw
+- track:the-influencer
+- track:the-administrator
+- track:time-is-helpless
+- track:means-of-conquest
+- track:twelve-clown-salute
+- track:together
+- track:now-and-forever
+- track:the-successor
+---
+Flash: It Never Even Stood A Chance
+Directory: psych-ch7
+Date: March 31, 2021
+Featured Tracks:
+- track:love-song
+- track:the-march
+- track:the-administrator
+- track:such-a-shame
+- track:nervous-energy
+- track:a-screaming-inside
+- track:break-this
+- track:just-almost
+- track:means-of-conquest
+- track:now-and-forever
+- track:the-successor
+---
+Flash: Grinch Heart
+Directory: psych-ch8
+Date: April 13, 2021
+Featured Tracks:
+- track:edge-of-dawn
+- track:love-song
+- track:nervous-energy
+- track:in-the-works
+- track:in-the-loop
+- track:breakthroughs
+- track:whats-wasting-me
+- track:twelve-clown-salute
+- track:such-a-shame
+- track:flare-insurrection-remix
+- track:the-cold-hand
+- track:through-the-play
+- track:summer-that-never-was
+- track:summer-that-never-was-firebrand-remix
+- track:just-almost
+- track:the-successor
+---
+Flash: A Sword And A Crown
+Directory: psych-ch9
+Date: April 20, 2021
+Featured Tracks:
+- track:ephemeral-muse-final-remix
+- track:fix-this
+- track:edge-of-dawn
+- track:threshold
+- track:in-the-loop
+- track:we-were-right-about-everything
+- track:feeling-i-cant-shake
+- track:zhen
+- track:just-almost
+- track:the-successor
+- track:love-song
+- track:the-march
+- track:together-vocal-remix
+---
+Act: Fan animations
 Directory: fan-animations
-Color: '#fafafa'
+Color: '#32c7fe'
+List Terminology: Animations in this section
 ---
 Flash: 'MOVIE #1: hooly SHIT, wear a MOVIE???????????'
 Directory: sbahj-movie-1
@@ -4117,10 +4222,10 @@ Featured Tracks:
 URLs:
 - https://www.youtube.com/watch?v=hnG10rk9lqg
 ---
-Act: Fan Games
----
-Act: More Flashes & Games
-Color: '#0088ff'
+Act: More games
+Directory: more-games
+Color: '#32c7fe'
+List Terminology: Games in this section
 ---
 Flash: Namco High
 Directory: namco-high
@@ -4164,11 +4269,79 @@ Featured Tracks:
 - Boss Theme
 - Credits
 ---
+Flash: The Genesis Project
+Directory: the-genesis-project
+Date: April 13, 2022
+Cover Art File Extension: png
+Featured Tracks:
+- track:in-the-beginning
+- Configure the Universe
+- Genesiac Jungle
+- Aggravate
+- House Theme
+- Showtime (Panini Mix)
+- Skaian Selection
+- Symphotronic
+- Belliconstant
+- Jazz Club
+- Long Time Coming
+- Things Get Better
+URLs:
+- https://store.steampowered.com/app/1610900/The_Genesis_Project/
+---
 Flash: COLORS & MAYHEM
 Directory: beckoning
 Date: April 2, 2023
 Featured Tracks:
 - Beckoning
+Contributors:
+- bb-panzu (everything except 2beep2meow sprites, dirk n caliborn va)
+- Adoxographist (jade va in 2b2m)
+- Paul Henderson (karkat va in 2b2m)
+- TheVoicingGuy (john va in beckoning)
+- Cloverrrr (charter of megid0)
+- Doribun (artist for start screen)
+- rerollroxy (artist for week screen)
 URLs:
 - https://www.youtube.com/watch?v=DbtS8RiPkds
 - https://gamebanana.com/mods/414914
+---
+Flash: 'FNF: Rappets - Davekat'
+Directory: fnf-rappets-davekat
+Date: September 21, 2023
+Cover Art File Extension: png
+Featured Tracks:
+- Davekat
+- Davekat ALT 
+Contributors:
+- KawaiiMochiORA (director, artist, voice actor)
+- bb-panzu (coder)
+- teles (musician)
+- Splow (charter)
+URLs:
+- https://youtu.be/Ijpg49g-HgY
+- https://gamebanana.com/mods/469872
+---
+Flash: "SBURB: Funkin Edition"
+Directory: sburb-funkin-edition
+Date: October 14, 2023
+Cover Art File Extension: png
+Featured Tracks:
+- ABSCOND
+- gamzee
+- Shucks, Buster!
+- Fluffer Nutter
+Contributors:
+- rerollroxy (director, composer)
+- bb-panzu (programmer)
+- SkyanUltra (programmer, charter)
+- Random Inc. (sprite + bg + cutscene artist, codirected for one night)
+- GoodieBag (sprite + icon artist)
+- Astralplain (week header artist, gamzee va)
+- RoyalMask (sprite + bg artist)
+- MizzyDoesThings (sprite artist assistance)
+- GavynTGM (charter)
+- Grimlock495 (charter)
+URLs:
+- https://youtu.be/-mHHV03bjp0
+- https://gamebanana.com/mods/473591

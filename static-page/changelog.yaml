@@ -47,6 +47,16 @@ Content: |-
         - added [[album:people-posture-play-pretend]]!
         - added [[album:women-wrestling]]!
         - added [[album:love-renewed]]!
+    - added solo albums and singles by [[group:toby-fox]]! (thanks, Jebb!)
+        - added [[album:earthbound-halloween-hack]]!
+        - added [[album:rose-of-winter]]!
+        - added [[album:escaped-chasm]]!
+        - added [[album:skies-forever-blue]]!
+        - added [[album:the-greatest-living-show]]!
+    - added three albums from the Friday Night Funkin' community! (thanks, Jebb!)
+        - added [[album:sburb-funkin-edition-ost]]!
+        - added [[album:rappets-davekat-collection]]!
+        - added [[album:sunday-night-strifin-act-1-plus-2-ost]]!
     - added two albums from [[group:deconrecon]]! (thanks, koba!)
         - added [[album:running-for-eons]]!
         - added [[album:repiton]] by [[artist:pragmaticnihilist]]!
@@ -91,12 +101,29 @@ Content: |-
         - added [[flash-act:sburb-refresh]] flashes!
         - added [[flash-act:act-8]] flashes!
         - added [[flash-act:heaven-sent]] flashes!
-        - and added flashes from [[flash:apocryphal-antithesis-opening-flash|other fan adventures]], and even [[flash:sbahj-movie-1|fan animations]] too!
+        - and added flashes from [[flash-act:more-fan-adventures|other fan adventures]], and even [[flash-act:fan-animations|fan animations]] too!
+    - added Friday Night Funkin' mods (as flashes) from [[flash-act:sunday-night-strifin]], and a variety of [[flash-act:more-games|fan games]] too! (thanks, Jebb!)
     - added bonus track [[track:sortir-alpha-demo]] to [[album:vast-error-vol-1-3]]! (thanks, koba!)
+    - added re-release commentary to [[album:genesis-frog]] and [[album:one-year-older]] (thanks, Lilith!)
+    - added higher resolution cover artwork for [[album:alternia]] (thanks, Lilith and Morris!)
+    - added piano score for [[track:alternia]] by BRPXQZME, originally part of concert band sheets, as its own individually downloadable piece (thanks, Warrigal!)
+    - added lyrics to [[track:infidels]] (thanks, Jebb!)
+    - added YouTube links to [[album:songs-unsung]] (thanks, Jebb!)
     <h3>data fixes</h3>
     - fixed [[track:boy-skylark-brief]] not referencing/sampling [[track:boy-skylark]] (thanks, Grace!)
     - fixed [[track:stellarum-salve]] not referencing [[track:hello-stardust]] (thanks, Grace!)
+    - fixed [[track:emissary-of-dance]] not referencing [[track:trickster-mode-engage]] (thanks, Lilith!)
+    - fixed [[track:all-the-luck]] not referencing [[track:the-8est-flarper-ever]] (thanks, Lilith!)
+    - fixed [[track:national-treasure]] not referencing [[track:un-owen-was-her]], [[track:gourmet-race]], [[track:doctor]], [[track:explore]], [[track:MeGaLoVania]], [[track:another-medium]], and [[track:snow-halation]] (thanks, Lilith, FF, Makin!)
+    - fixed [[track:fanfare-deltarune]] not sampling [[track:theme-rose-of-winter]] (thanks, Jebb!)
+    - fixed [[track:rainfalls]] not referencing [[track:rozepiano]]
     - fixed [[track:the-souns-of-justis-full]] referencing [[track:cornered]] instead of [[track:pursuit-corner-the-culprit]]
+    - fixed [[track:sunriser]] not being listed as a rerelease of [[track:sunrise-9]] (thanks, Makin!)
+    - fixed [[track:buy-NAK-sell-DOOF]] not crediting names in its contributors list who've only ever been credited on this one track! (thanks, Lilith!)
+    - fixed [[album:hiveswap-act-2-ost]] crediting cover art edit to [[artist:tempest2k]] when this edit hasn't actually been used as its cover on the wiki for a while, and added their cover to the album commentary (thanks, tempest2k!)
+    - fixed [[track:my-grand-dad-is-the-green-sun]] being credited to [[artist:clark-powell]] instead of [[artist:marcy-nabors]], added [[track:meet-the-flintstones]] to its reference list, and added the original SilvaGunner upload to its listening links (thanks, Lilith!)
+    - fixed [[track:oppa-toby-style]] featuring [[tag:rose]] tag instead of [[tag:jasprose]] (thanks, Lilith!)
+    - fixed out-of-date Bandcamp link for [[group:cristata]]
 
     <h2 id="06-oct-2023"><a href="#06-oct-2023">[[date:06 October 2023]] - the fixes are IN</a></h2>
     <h3>bug fixes</h3>
@@ -487,7 +514,7 @@ Content: |-
     <h3>data fixes</h3>
     - fixed [[album:sburb]] listing [[artist:erik-scheele]] as an album artist instead of a contributor for each track
     - fixed listening links across all of [[group:cristata|Cristata's]] albums and fixed some of their artist credits being under a different name
-    - fixed [[artist:sylvarn]] having some artist credits under a different name
+    - fixed [[artist:ft-rj]] having some artist credits under a different name
     - fixed incorrect listening link for [[track:doctors-ringtone-no-sfx]]
     - fixed playlist-related issues in YouTube links for [[album:cool-and-new-voulem1]], [[track:same-bpm]] and all tracks in [[album:election-season]] & [[album:dialed-to-11]]
     - fixed trailer link for [[album:cool-and-new-volume-ii]] linking to the trailer for [[album:cool-and-new-volume-2]]
