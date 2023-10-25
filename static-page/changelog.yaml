@@ -28,15 +28,17 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="25-oct-2099" class="major-release"><a href="#25-oct-2099">[[date:25 October 2099]] - Allan please add details</a></h2>
+    <h2 id="25-oct-2023" class="major-release"><a href="#25-oct-2023">[[date:25 October 2023]] - crystal hung in firmament's descent</a></h2>
+    (news entry: [[news-entry:crystal-hung-in-firmaments-descent]])
     <h3>site changes</h3>
     - redesigned album commentary page to have a sticky sidebar for navigating tracks, as well as track artworks; check out [[album-commentary:lofam5a2]], [[album-commentary:beforus]] and [[album-commentary:homestuck-vol-10]] for some examples
     - added album covers to album gallery page (instead of just track covers), as well as a secondary navigation bar for jumping to gallery for the next or previous album in a group
     - added "stub" album gallery pages, for albums without any track art; you'll probably only come [[album-gallery:the-grubbles|across]] [[album-gallery:labyrinths-heart|these]] while navigating with nav links from another gallery
     - added flash act pages, showing a gallery of all the flashes exclusive to one flash! also reworked the sidebar to include these in a cleaner manner - one box with the current act and its flashes, second with all the acts on the site, further sectioned by "disc"
     - replaced the old "choose another group to filter by" link on group gallery pages (only!), as well as the "previous/next" links in the nav bar, with links in the secondary nav; this will only show up if the screen is too thin to fit the sidebar, and is accessible on both group gallery and info pages. clicking the category name (e.g. "Fan-musician groups") returns to the [[listing:groups/by-category]] listing, like before
-    <h3>albums</h3>
+    <h3 id="firmaments-descent-albums">albums</h3>
     - added [[album:stuckhome-syndrome-part-one-v1]]! (thanks, Grace!)
+    - added [[album:the-rebornening]] (thanks, koba!)
     - added solo albums and singles by [[group:jamie-paige]]! (thanks, penultimateApogee!)
         - added [[album:anew-again]]!
         - added [[album:autumn-every-day]]!
@@ -57,9 +59,19 @@ Content: |-
         - added [[album:sburb-funkin-edition-ost]]!
         - added [[album:rappets-davekat-collection]]!
         - added [[album:sunday-night-strifin-act-1-plus-2-ost]]!
-    - added two albums from [[group:deconrecon]]! (thanks, koba!)
+    - added <em>twelve</em> albums from [[group:deconrecon]]! (thanks, koba!)
+        - added [[album:vast-error-vol-1]]!
+        - added [[album:vast-error-vol-2]]!
+        - added [[album:vast-error-vol-3]]!
         - added [[album:running-for-eons]]!
         - added [[album:repiton]] by [[artist:pragmaticnihilist]]!
+        - added [[album:vast-error-vol-4]]!
+        - added [[album:catch-322]]!
+        - added [[album:dead-shufflers-anything-goes]]!
+        - added [[album:corporate-holiday-hits]]!
+        - added [[album:reminders-of-you-beta]] by [[artist:alex-votl]]!
+        - added [[album:empyreal-rhapsody]] by [[artist:kal-la-kal-la]]!
+        - added [[album:faux-dramatica]] by [[artist:rom-m]]!
     - added TWENTY FOUR albums from [[group:canmt]]! (thanks, Makin!)
         - added [[album:call-and-new-ii-emergency-phone-call]]!
         - added [[album:one-week-older]] by [[artist:ostrichlittledungeon]]!
