@@ -1,8 +1,8 @@
 Homepage: Homepage
 Sidebar Content: |-
     <h1>Get involved!</h1>
-    - [[static:feedback|Send feedback]]
-    - [[static:discord|Join the Discord server]]
+    - [[static:feedback|Send feedback, fixes, and suggestions!]]
+    - [[static:discord|Join the community Discord server!]]
 Navbar Links:
 - '[[listing-index:-|Listings]]'
 - '[[news-index:-|News]]'
@@ -17,8 +17,8 @@ Type: albums
 Display Style: carousel
 Actions:
 - '[[group-gallery:official|Explore Official!]]'
-- '[[group-gallery:fandom|Fandom]]'
-- '[[group-gallery:beyond|Beyond]]'
+- '[[group-gallery:fandom|Explore Fandom!]]'
+- '[[group-gallery:beyond|Explore Beyond!]]'
 Albums:
 - Homestuck Vol. 1-4
 - Homestuck Vol. 10
@@ -32,36 +32,39 @@ Albums:
 - Strife!
 - One Year Older
 ---
-Row: New Additions
+Row: Recent Additions
 Type: albums
 Albums:
+- album:vast-error-vol-4
 - album:homestuck2-beyond-canmt-vol-1
-- album:stuckhome-syndrome-part-one-v1
-- album:lofam5a2
+- album:sunday-night-strifin-act-1-plus-2-ost
 
+- album:bittersweet
+- album:lofam5a2
+- album:earthbound-halloween-hack
+
+- album:stuckhome-syndrome-part-one-v1
 - album:cool-and-new-volume-3
 - album:homestuck-vol-11
-- album:greatest-hits-2
 
-- album:layers-coasters-upon-coasters
-- album:canwave-3
-- album:fihgt-each-othe
-
+- album:repiton
+- album:catch-322
 - album:_
 - album:call-and-new-v
-- album:megalovania-fusion-collab
 
-- album:call-and-new-ii-emergency-phone-call
+- album:reminders-of-you-beta
+- album:empyreal-rhapsody
+- album:jpeg
+- album:greatest-hits-2
+
+- album:escaped-chasm
+- album:women-wrestling
+- album:sburb-funkin-edition-ost
 - album:one-week-older
-- album:symphony-impossible-to-hear
-- album:yes-we-canwc
-- album:le-canrivalry-album-is-mandatory
-- album:canwc-for-the-spookdays
-- album:aaaaaaaaaaaaaaaaaaaaa-a-single
-- album:descent-into-madness
-- album:inpiscispere
-- album:licord-you-can-not-sound-good
-- album:i-wanna-frick-terezi
-- album:haroldbound
-- album:muse-of-net
-- album:troleplanet
+
+- album:autumn-every-day
+- album:the-greatest-living-show
+- album:canwave-3
+- album:the-rebornening
+Actions:
+- '[[static:changelog#firmaments-descent-albums|...and many more!]]'
