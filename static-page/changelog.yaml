@@ -28,6 +28,16 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h3 id="27-oct-2023"><a href="#27-oct-2023">[[date:27 October 2023]] - patchin' it up</h3>
+    <h3>data fixes</h3>
+    - added art tags for [[album:the-rebornening]]
+    - added art content warnings across [[group:deconrecon]]
+    - fixed [[track:caliborns-lament]] not sampling [[track:my-song-2]] (thanks, Makin, Grace!)
+    - fixed duration for [[track:rise-up-retconned]] (1:55 rather than 1:54; thanks, Jebb!)
+    - fixed [[track:komm-susser-tod]] linking to YouTube upload of [[track:a-cruel-angels-thesis]]! (thanks, Sgeo!)
+    - fixed broken link to [[artist:momo]] in notes for [[artist:the-new-caliborn]] (thanks, Celeste!)
+    - fixed minor misplaced/typoed commentary errors (thanks, Grace, Jebb!)
+
     <h2 id="25-oct-2023" class="major-release"><a href="#25-oct-2023">[[date:25 October 2023]] - crystal hung in firmament's descent</a></h2>
     (news entry: [[news-entry:crystal-hung-in-firmaments-descent]])
     <h3>site changes</h3>

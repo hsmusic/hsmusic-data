@@ -109,6 +109,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/lc-rains
 ---
 Track: Secure
+Directory: secure-vast-error
 Duration: '2:07'
 Artists:
 - Cerulean
@@ -136,6 +137,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/solana
 ---
 Track: 'INTERMISSION: Ever Closer'
+Directory: ever-closer
 Duration: '2:35'
 Artists:
 - Alex Votl
@@ -168,6 +170,8 @@ Artists:
 - sympolite
 Cover Artists:
 - Klairevoyance
+Art Tags:
+- 'cw: blood (abstract)'
 URLs:
 - https://vasterror.bandcamp.com/track/its-alive
 ---
@@ -178,6 +182,8 @@ Artists:
 - sympolite
 Cover Artists:
 - Jackaxed
+Art Tags:
+- 'cw: blood (abstract)'
 Referenced Tracks:
 - Bohemian Rhapsody
 - Freak On A Leash
@@ -186,6 +192,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/disenchanted
 ---
 Track: Nebula
+Directory: nebula-vast-error
 Duration: '5:35'
 Artists:
 - Circlejourney
@@ -200,6 +207,8 @@ Artists:
 - pragmaticNihilist
 Cover Artists:
 - bakudadadan
+Art Tags:
+- 'cw: blood (abstract)'
 Referenced Tracks:
 - Oversaturated
 URLs:
@@ -224,6 +233,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/indefinite-progress
 ---
 Track: Refutation
+Directory: refutation-vast-error
 Duration: '3:10'
 Artists:
 - Nicholas Nakano
@@ -253,6 +263,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/be-all-end-all
 ---
 Track: Solidarity
+Directory: solidarity-vast-error
 Duration: '4:16'
 Artists:
 - Ucklin
@@ -324,7 +335,7 @@ Artists:
 Cover Artists:
 - Cereovo
 URLs:
-- https://vasterror.bandcamp.com/track/a-flesh-cage-of-emotion
+- https://vasterror.bandcamp.com/track/good-old-hornless-jerryatric
 ---
 Track: Chamber Cultist
 Duration: '2:32'
@@ -332,15 +343,20 @@ Artists:
 - dbnet18
 Cover Artists:
 - Sparaze
+Art Tags:
+- 'cw: blood'
 URLs:
 - https://vasterror.bandcamp.com/track/chamber-cultist
 ---
 Track: Transmuted
+Directory: transmuted-vast-error
 Duration: '3:44'
 Artists:
 - SplitSuns
 Cover Artists:
 - Ephemerald
+Art Tags:
+- 'cw: blood'
 Referenced Tracks:
 - mus_smile
 - Risingson
@@ -357,6 +373,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/farewell-but-not-goodbye
 ---
 Track: Pandora
+Directory: pandora-vast-error
 Duration: '7:12'
 Artists:
 - pragmaticNihilist
@@ -376,6 +393,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/pandora
 ---
 Track: Bittersweet
+Directory: bittersweet-vast-error
 Duration: '3:08'
 Artists:
 - Alex Votl
@@ -385,6 +403,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/bittersweet
 ---
 Track: 'BONUS: Nothing Special'
+Directory: nothing-special
 Duration: '3:46'
 Artists:
 - Cristata
@@ -394,6 +413,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/bonus-nothing-special
 ---
 Track: 'BONUS: Twelve By Twelve'
+Directory: twelve-by-twelve
 Duration: '2:48'
 Artists:
 - Nicholas Nakano
