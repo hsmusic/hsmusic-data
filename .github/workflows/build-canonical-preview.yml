@@ -1,0 +1,74 @@
+name: Build Canonical Preview
+
+on:
+  push:
+    branches: [ "preview" ]
+
+  workflow_dispatch: null
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install ImageMagick
+        uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: imagemagick
+          version: 1.0
+
+      - name: Setup node environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: lts/Iron
+          check-latest: true
+
+      - name: Checkout canonical data repo
+        uses: actions/checkout@v4
+        with:
+          repository: hsmusic/hsmusic-data
+          ref: preview
+          path: data
+
+      - name: Checkout canonical code repo
+        uses: actions/checkout@v4
+        with:
+          repository: hsmusic/hsmusic-wiki
+          ref: preview
+          path: code
+
+      - name: Checkout canonical media repo
+        uses: actions/checkout@v4
+        with:
+          repository: hsmusic/hsmusic-media
+          ref: preview
+          path: media
+
+      - name: Install code repository
+        working-directory: ./code
+        run: npm ci
+
+      - name: Generate thumbnails
+        run: |
+          hsmusic \
+            --show-step-summary \
+            --data-path data \
+            --media-path media \
+            --thumbs-only
+
+      - name: Run data processing-only pass
+        run: |
+          hsmusic \
+            --show-step-summary \
+            --data-path data \
+            --media-path media \
+            --no-build
+
+      - name: Perform full-site static build
+        run: |
+          mkdir out
+          hsmusic \
+            --data-path data \
+            --media-path media \
+            --static-build \
+            --out-path out
