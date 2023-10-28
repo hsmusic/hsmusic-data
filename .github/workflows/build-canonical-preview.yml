@@ -50,7 +50,7 @@ jobs:
 
       - name: Generate thumbnails
         run: |
-          hsmusic \
+          node code/src/upd8.js \
             --show-step-summary \
             --data-path data \
             --media-path media \
@@ -58,7 +58,7 @@ jobs:
 
       - name: Run data processing-only pass
         run: |
-          hsmusic \
+          node code/src/upd8.js \
             --show-step-summary \
             --data-path data \
             --media-path media \
@@ -67,7 +67,7 @@ jobs:
       - name: Perform full-site static build
         run: |
           mkdir out
-          hsmusic \
+          node code/src/upd8.js \
             --data-path data \
             --media-path media \
             --static-build \
