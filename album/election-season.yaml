@@ -92,6 +92,8 @@ Art Tags:
 - Phoebe (Desynced)
 ---
 Track: Absolution
+Directory: absolution-desynced
+Always Reference By Directory: true
 Artists:
 - Spad3s
 Duration: '6:11'
@@ -133,13 +135,15 @@ Art Tags:
 - Momo (Desynced)
 - Prospit
 Referenced Tracks:
-- Daughter
+- track:daughter-desynced
 - Mirror Mirror
 - Lunar Dance
-- Embryonic
+- track:embryonic-desynced
 - Vexation
 ---
 Track: Embryonic
+Directory: embryonic-desynced
+Always Reference By Directory: true
 Artists:
 - salex_r3kt
 Duration: '2:57'
@@ -197,7 +201,7 @@ Art Tags:
 - Jack Noir
 - 'cw: blood (abstract)'
 Referenced Tracks:
-- track:noir
+- track:noir-desynced
 ---
 Track: A Dime a Dozen
 Artists:
@@ -248,6 +252,8 @@ Art Tags:
 - Kate (Desynced)
 ---
 Track: Pokerface
+Directory: pokerface-desynced
+Always Reference By Directory: true
 Artists:
 - Levc
 Duration: '2:17'
@@ -269,7 +275,7 @@ Cover Artists:
 Art Tags:
 - Jack Noir
 Referenced Tracks:
-- track:noir
+- track:noir-desynced
 ---
 Track: Twilight Dreamers
 Artists:
@@ -290,6 +296,8 @@ Referenced Tracks:
 - Do You Dream of Electric Sheep?
 ---
 Track: Gestalt
+Directory: gestalt-desynced
+Always Reference By Directory: true
 Artists:
 - Rainy
 Duration: '4:00'

@@ -36,7 +36,7 @@ Cover Artists:
 Contributors:
 - Veritas Unae (Aumtzi's vocals)
 Sampled Tracks:
-- Hackers
+- track:hackers-iain-softley
 - Killing In The Name
 URLs:
 - https://vasterror.bandcamp.com/track/too-slow
@@ -82,7 +82,7 @@ Cover Artists:
 Sampled Tracks:
 - Real American
 - Just Say No (Captain Lou)
-- Verified
+- track:verified-your-favorite-martian
 - Randy Savage Promo on Hulk Hogan (1989)
 URLs:
 - https://vasterror.bandcamp.com/track/dustcatcher-redux-ft-pylon
@@ -110,6 +110,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/bite-the-hand-that-feeds-you
 ---
 Track: Turncoat
+Directory: turncoat-faux-dramatica
+Always Reference By Directory: true
 Duration: 6:00
 Cover Artists:
 - Tyson Northcutt
@@ -146,6 +148,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/requiem-for-a-dying-planet-ft-the-emek-hefer-choir
 ---
 Track: Naught
+Directory: naught-faux-dramatica
+Always Reference By Directory: true
 Duration: 6:04
 Cover Artists:
 - captkirkland

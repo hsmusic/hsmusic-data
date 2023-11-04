@@ -304,7 +304,7 @@ Referenced Tracks:
 - Beatdown (Strider Style)
 - This Is America
 - Giorgio by Moroder
-- Bodies
+- track:bodies-drowning-pool
 - Take Me Away
 - Running Hell
 - track:suicide-hotline-icp
@@ -356,7 +356,7 @@ Referenced Tracks:
 - Mutiny
 - Roundabout
 - Afraid of the Darko
-- Piss
+- track:piss-neil-cicierega
 Commentary: |-
     <i>Interrobang:</i>
     This piece has been in the works for a LONG time. I started it in March of 2017, and though most of the compositional work was complete by July of that year, I didn't finish polishing everything up until late April 2018, after many months of procrastination and tweaking. The idea of the track is simple, it's Jake's Grandmother, Jade English, writing a song for her signature eclectic bass sometime in the 80's, which you probably already knew from the title. Anyway, I wanted to make a song that you could supposedly 'play' on the eclectic bass, which meant I had to figure out what exactly the components of such an instrument were (see [[media:misc/eclectic-bass-diagram.png|the accompanying diagram]]). I chose the iconic Yamaha DX7 (used in tons of 80's pop) to be the keyboards of the instrument as it could make the sounds I wanted, it was from around the right time, and I had an emulation (Digital Suburban's "Dexed") on hand. Other instruments used in the song were Karfoyer Audio's "Pastabass" and "Swagbass" for the bass guitars themselves, as well as Full Bucket Music's "Ragnarök" (used to flesh out some bass frequencies at the song's peak), and some built-in GarageBand instruments (drums) and effects.
@@ -497,6 +497,8 @@ Commentary: |-
     Polypolyphemus is an intense track, so it's fitting for its art to capture the same intensity. Sollux's Biclops is captured right before its imminent demise as the troll's Mind Honey-induced flip out rips through the ceiling of his hive and surrounds the lusus in a multi-colored beam of energy. The meteors illuminating the night sky further illustrate the carnage present in the scene in a fashion that pops up time and time again in Homestuck proper. If only one of those meteors could break the chain around the Biclops' leg and set it free! Wait, the resulting impact would probably just kill the Biclops anyway. Never mind, that was a stupid idea.
 ---
 Track: Rangoon
+Directory: rangoon-cosmic-caretakers
+Always Reference By Directory: true
 Artists:
 - WHATISLOSTINTHEMINES
 Duration: '2:03'
@@ -799,6 +801,8 @@ Commentary: |-
     It's hard being a single mom when you are a teenage boy. At least Caliborn is sitting still for once.
 ---
 Track: Singularity
+Directory: singularity-cosmic-caretakers
+Always Reference By Directory: true
 Artists:
 - keyboard cait
 Duration: '4:55'

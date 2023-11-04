@@ -22,15 +22,17 @@ Groups:
 - Beyond
 ---
 Track: Theme
+Directory: theme-rose-of-winter
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '1:37'
-Directory: theme-rose-of-winter
-Always Reference By Directory: true
 URLs:
 - https://youtu.be/vWhUfWQX8-Q
 ---
 Track: Danger
+Directory: danger-rose-of-winter
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '0:57'
@@ -44,9 +46,11 @@ Duration: '1:42'
 URLs:
 - https://youtu.be/oKaZpC7QJTo
 Referenced Tracks:
-- Emotionless
+- track:emotionless-rose-of-winter
 ---
 Track: Emotionless
+Directory: emotionless-rose-of-winter
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '0:42'
@@ -54,6 +58,8 @@ URLs:
 - https://youtu.be/8l76d6yzdmw
 ---
 Track: Heroism
+Directory: heroism-rose-of-winter
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '1:00'
@@ -63,16 +69,19 @@ Referenced Tracks:
 - track:theme-rose-of-winter
 ---
 Track: Legend
+Directory: legend-rose-of-winter
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '1:04'
 URLs:
 - https://youtu.be/DP5I7qkHjTY
-Directory: legend-rose-of-winter
 Referenced Tracks:
-- Heroism
+- track:heroism-rose-of-winter
 ---
 Track: Tension
+Directory: tension-rose-of-winter
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '0:51'

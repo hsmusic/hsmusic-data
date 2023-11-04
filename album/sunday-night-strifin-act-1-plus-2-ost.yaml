@@ -142,6 +142,8 @@ URLs:
 - https://strifinsoundteam.bandcamp.com/track/cant-abscond
 ---
 Track: Sleepwalk
+Directory: sleepwalk-sunday-night-strifin
+Always Reference By Directory: true
 Artists:
 - bould
 Cover Artists:
@@ -160,6 +162,8 @@ URLs:
 - https://strifinsoundteam.bandcamp.com/track/sleepwalk
 ---
 Track: Verdancy
+Directory: verdancy-sunday-night-strifin
+Always Reference By Directory: true
 Artists:
 - WorldEndWonder
 Cover Artists:
@@ -175,6 +179,8 @@ URLs:
 - https://strifinsoundteam.bandcamp.com/track/verdancy
 ---
 Track: Grimdark
+Directory: grimdark-sunday-night-strifin
+Always Reference By Directory: true
 Artists:
 - bould
 Cover Artists:
@@ -281,6 +287,8 @@ URLs:
 - https://strifinsoundteam.bandcamp.com/track/check-it
 ---
 Track: Playtime
+Directory: playtime-sunday-night-strifin
+Always Reference By Directory: true
 Artists:
 - TeeDeeGee
 Cover Artists:
@@ -302,6 +310,8 @@ URLs:
 - https://strifinsoundteam.bandcamp.com/track/playtime
 ---
 Track: Halloween Hack
+Directory: halloween-hack-sunday-night-strifin
+Always Reference By Directory: true
 Artists:
 - bould
 Cover Artists:
@@ -315,6 +325,8 @@ URLs:
 - https://strifinsoundteam.bandcamp.com/track/halloween-hack
 ---
 Track: Catfight
+Directory: catfight-sunday-night-strifin
+Always Reference By Directory: true
 Artists:
 - TeeDeeGee
 Cover Artists:
@@ -331,6 +343,8 @@ URLs:
 - https://youtu.be/Wt5t0XMtY6g
 ---
 Track: Heinous
+Directory: heinous-sunday-night-strifin
+Always Reference By Directory: true
 Artists:
 - WorldEndWonder
 Cover Artists:
@@ -381,6 +395,8 @@ URLs:
 - https://strifinsoundteam.bandcamp.com/track/8r8k
 ---
 Track: Shenanigans
+Directory: shenanigans-sunday-night-strifin
+Always Reference By Directory: true
 Artists:
 - bould
 Cover Artists:
@@ -540,9 +556,9 @@ Referenced Tracks:
 - Aggrievance
 - Aggrievocation
 - track:MeGaLoVania
-- Sleepwalk
-- Verdancy
-- Grimdark
+- track:sleepwalk-sunday-night-strifin
+- track:verdancy-sunday-night-strifin
+- track:grimdark-sunday-night-strifin
 - Grimdate
 URLs:
 - https://strifinsoundteam.bandcamp.com/track/aggrievety

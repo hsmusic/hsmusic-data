@@ -30,8 +30,9 @@ Additional Files:
   - banner.png
 ---
 Track: Time
-Duration: '03:38'
 Directory: time-retcon
+Always Reference By Directory: true
+Duration: '03:38'
 URLs:
 - https://8-bitshit.bandcamp.com/track/time
 Referenced Tracks:
@@ -39,6 +40,7 @@ Referenced Tracks:
 ---
 Track: '-'
 Directory: descend-retcon
+Always Reference By Directory: true
 Duration: '00:19'
 URLs:
 - https://8-bitshit.bandcamp.com/track/-
@@ -46,6 +48,8 @@ Referenced Tracks:
 - track:descend
 ---
 Track: Space
+Directory: space-retcon
+Always Reference By Directory: true
 Duration: '03:37'
 URLs:
 - https://8-bitshit.bandcamp.com/track/space
@@ -60,6 +64,8 @@ Referenced Tracks:
 - Explore
 ---
 Track: Regicide
+Directory: regicide-retcon
+Always Reference By Directory: true
 Duration: '06:45'
 URLs:
 - https://8-bitshit.bandcamp.com/track/regicide
@@ -88,6 +94,7 @@ Referenced Tracks:
 - Eternity Served Cold
 ---
 Track: Closure...?
+Directory: closure-retcon
 Duration: '03:42'
 URLs:
 - https://8-bitshit.bandcamp.com/track/closure

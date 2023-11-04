@@ -95,6 +95,8 @@ Cover Artists:
 - penelope
 ---
 Track: Reminiscence
+Directory: reminiscence-oceanfalls
+Always Reference By Directory: true
 Artists:
 - WHATISLOSTINTHEMINES
 Duration: '2:42'
@@ -108,7 +110,7 @@ Duration: '1:57'
 URLs:
 - https://nightslights.bandcamp.com/track/arias-house
 Referenced Tracks:
-- Illusions
+- track:illusions-oceanfalls
 ---
 Track: Arts and Crafts
 Artists:
@@ -151,6 +153,8 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: Crystalline
+Directory: crystalline-oceanfalls
+Always Reference By Directory: true
 Artists:
 - Hadron
 Duration: '3:00'
@@ -332,6 +336,8 @@ URLs:
 Section: Bonus tracks
 ---
 Track: Atomic
+Directory: atomic-oceanfalls
+Always Reference By Directory: true
 Artists:
 - WHATISLOSTINTHEMINES
 Duration: '2:15'
@@ -370,13 +376,13 @@ Cover Artists:
 Referenced Tracks:
 - Ironside
 - This Is America
-- Ultimate
+- track:ultimate-denzel-curry
 - Look At Me! (Minecraft Parody)
 Sampled Tracks: 
 - Meet the Engineer
 - Ironside
 - This Is America
-- Ultimate
+- track:ultimate-denzel-curry
 - Look At Me! (Minecraft Parody)
 Lyrics: |-
     (How am I gonna stop some big mean Mother-Hubbard from tearin' me a structurally superfluous new behind? The answer? Use a gun.)

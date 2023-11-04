@@ -29,9 +29,11 @@ URLs:
 Cover Artists:
 - Glitchstuck
 Referenced Tracks:
-- Altercate
+- track:altercate-glitchstuck
 ---
 Track: Altercate
+Directory: altercate-glitchstuck
+Always Reference By Directory: true
 Duration: '00:59'
 URLs: 
 - https://glitchstuck.bandcamp.com/track/altercate
@@ -66,11 +68,13 @@ URLs:
 Cover Artists:
 - Glitchstuck
 Referenced Tracks:
-- Redemption
+- track:redemption-glitchstuck
 Art Tags:
 - Squiddles
 ---
 Track: Redemption
+Directory: redemption-glitchstuck
+Always Reference By Directory: true
 Duration: '00:55'
 URLs: 
 - https://glitchstuck.bandcamp.com/track/redemption

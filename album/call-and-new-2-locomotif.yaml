@@ -89,6 +89,8 @@ Referenced Tracks:
 - The Will to Fight (Original Mix) [Denizen Strife] 
 ---
 Track: Backtracking
+Directory: backtracking-canmt
+Always Reference By Directory: true
 Artists:
 - Kusoro
 Cover Artists:
@@ -145,7 +147,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/hijacking-jungle
 - https://youtu.be/e0RDJOz5XH0
 Referenced Tracks:
-- Backtracking
+- track:backtracking-canmt
 - Umbral Ultimatum
 - track:MeGaLoVania
 - Sburban Jungle
@@ -261,6 +263,8 @@ Commentary: |-
     This track also references an unreleased (or lost) track by Cerulean: "Midnight Dance".
 ---
 Track: Infection
+Directory: infection-canmt
+Always Reference By Directory: true
 Artists:
 - Difarem
 Cover Artists:
@@ -338,6 +342,8 @@ Referenced Tracks:
 - Have a Heart
 ---
 Track: Plague
+Directory: plague-canmt
+Always Reference By Directory: true
 Artists:
 - Cecily Renns
 Cover Artists:
@@ -347,13 +353,15 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/plague
 - https://youtu.be/CdyqtJXjJa0
 Referenced Tracks:
-- Infection
+- track:infection-canmt
 - Showtime (Original Mix)
 - Showtime (Piano Refrain)
 - 'NV: Strife'
 - Vriska Dance
 ---
 Track: Vaccine
+Directory: vaccine-canmt
+Always Reference By Directory: true
 Artists:
 - Kusoro
 Cover Artists:
@@ -363,7 +371,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/vaccine
 - https://youtu.be/CymbRGS_20w
 Referenced Tracks:
-- Infection
+- track:infection-canmt
 - Lotus
 - Showtime (Piano Refrain)
 - Sburban Countdown
@@ -449,7 +457,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/plagueback
 - https://youtu.be/77vZL6DsEpY
 Referenced Tracks:
-- Plague
+- track:plague-canmt
 - Switchback
 ---
 Track: don't hurt me
@@ -462,7 +470,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/dont-hurt-me
 - https://youtu.be/-3GB_7_fUUI
 Referenced Tracks:
-- Plague
+- track:plague-canmt
 Commentary: |-
     <i>Isoleucine:</i>
     idk what
@@ -480,10 +488,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/secretary-of-health-and-human-services-andrew-wakefield
 - https://youtu.be/4rpY7BnEQNI
 Referenced Tracks:
-- Vaccine
+- track:vaccine-canmt
 - All We're Gonna Get
 Sampled Tracks:
-- Vaccine
+- track:vaccine-canmt
 - All We're Gonna Get
 ---
 Track: Slick Beeps
@@ -654,6 +662,8 @@ Referenced Tracks:
 - Chorale for Jaspers
 ---
 Track: Converge
+Directory: converge-canmt
+Always Reference By Directory: true
 Artists:
 - Difarem
 Cover Artists:
@@ -734,7 +744,7 @@ Referenced Tracks:
 - HOW 2 DJ (vip excloosive feat. dabe)
 - Flare
 - Last Battle
-- Converge
+- track:converge-canmt
 - track:welcome-to-flavortown-battle-against-a-bodacious-foe
 - Cascade (Beta)
 - track:unite-synchronization
@@ -863,19 +873,19 @@ URLs:
 - https://youtu.be/2EBSsBwZAio
 Referenced Tracks:
 - Ich Bin Eine Spieldose
-- Whales
+- track:whales-hail-mary-mallons
 - X Gon' Give It to Ya
 - Interior Crocodile Alligator
-- Bonfire
+- track:bonfire-childish-gambino
 - DK Rap
 - Lose Yourself
 - All Star
 Sampled Tracks:
 - Ich Bin Eine Spieldose
-- Whales
+- track:whales-hail-mary-mallons
 - X Gon' Give It to Ya
 - Interior Crocodile Alligator
-- Bonfire
+- track:bonfire-childish-gambino
 - DK Rap
 - Lose Yourself
 Lyrics: |-
@@ -1065,7 +1075,7 @@ Referenced Tracks:
 - A new Track
 - Chronicala
 - Problem Sleuth Theme
-- Backtracking
+- track:backtracking-canmt
 - track:moshi-moshi
 - Courser
 - Sburban Jungle
@@ -1079,8 +1089,8 @@ Referenced Tracks:
 - track:welcome-to-flavortown-battle-against-a-bodacious-foe
 - Upward Movement (Dave Owns)
 - Ruins (With Strings)
-- Infection
-- Vaccine
+- track:infection-canmt
+- track:vaccine-canmt
 Commentary: |-
     <i>cookiefonster:</i> (Composer)
     0:00 "A new Station" by Shwan
@@ -1111,10 +1121,10 @@ Duration: '04:36'
 URLs:
 - https://soundcloud.com/difarem/train-meldey-next-to-last-station
 Referenced Tracks:
-- Infection
+- track:infection-canmt
 - Showtime (Original Mix)
-- Vaccine
-- Plague
+- track:vaccine-canmt
+- track:plague-canmt
 - Plagueback
 - I really hate Cooltown
 - don't hurt me
@@ -1123,7 +1133,7 @@ Referenced Tracks:
 - Secretary of Health and Human Services Andrew Wakefield
 - 'Dead Secretary: Zero Health'
 - Dogsong
-- Converge
+- track:converge-canmt
 - track:hurt-my-finger
 - Flare
 - Rhythm Code
@@ -1147,12 +1157,12 @@ Referenced Tracks:
 - All Star
 - Re-routed Repair
 - track:light-at-the-end-of-the-tunnel
-- Whales
+- track:whales-hail-mary-mallons
 - Ghost Train
 - No Credit Card
 Sampled Tracks:
 - L.A.
-- Whales
+- track:whales-hail-mary-mallons
 - No Credit Card
 Lyrics: |-
     [original lyrics have been preserved for posterity]

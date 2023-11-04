@@ -267,7 +267,7 @@ Duration: '01:40'
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/nuklear-power
 Referenced Tracks:
-- Nuclear
+- track:nuclear-james-roach
 MIDI Project Files:
 - Title: MIDI by Musenet
   Files:
@@ -377,7 +377,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/voidnulls-untitled
 ---
 Track: Nightmare
-Directory: nightmare-muse-of-net
+Directory: nightmare-canmt
 Always Reference By Directory: true
 Artists:
 - Interrobang
@@ -484,6 +484,8 @@ MIDI Project Files:
   - 'Triptych.mid'
 ---
 Track: Conflicted
+Directory: conflicted-canmt
+Always Reference By Directory: true
 Artists:
 - MrCheeze
 Duration: '01:50'
@@ -536,4 +538,4 @@ Duration: '0:43'
 URLs:
 - https://youtu.be/QLm6d_WETgQ
 Referenced Tracks:
-- track:nightmare-muse-of-net
+- track:nightmare-canmt

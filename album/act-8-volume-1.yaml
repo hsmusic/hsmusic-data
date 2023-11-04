@@ -86,6 +86,8 @@ Referenced Tracks:
 - Penumbra Phantasm
 ---
 Track: Earthbound
+Directory: earthbound-act-8
+Always Reference By Directory: true
 Artists:
 - DoomedCloud
 Duration: '2:28'
@@ -160,6 +162,8 @@ Art Tags:
 Section: Bonus tracks
 ---
 Track: Medic
+Directory: medic-act-8
+Always Reference By Directory: true
 Artists:
 - dbnet18
 Duration: '1:03'

@@ -61,6 +61,8 @@ URLs:
 - https://open.spotify.com/track/2rZU9qk1HWqWrKA7BKOWyy?si=26323aa8cff44f60
 ---
 Track: Queen
+Directory: queen-deltarune
+Always Reference By Directory: true
 Duration: 0:56
 URLs:
 - https://tobyfox.bandcamp.com/track/queen
@@ -83,7 +85,7 @@ URLs:
 - https://www.youtube.com/watch?v=p1U5FjgwDhA&list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54&index=7
 - https://open.spotify.com/track/7CaYooLVhBdkhRjSHrntgD?si=f725c024722f464e
 Referenced Tracks:
-- Queen
+- track:queen-deltarune
 ---
 Track: Almost To The Guys!
 Duration: 0:17
@@ -157,7 +159,7 @@ URLs:
 - https://www.youtube.com/watch?v=HZO3xw91eHw&list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54&index=15
 - https://open.spotify.com/track/1GdTlOlPxxXhuA1Z4Tbf5H?si=71b76613bac64444
 Referenced Tracks:
-- Queen
+- track:queen-deltarune
 - Berdly
 ---
 Track: Faint Courage (Game Over)
@@ -257,7 +259,7 @@ URLs:
 - https://www.youtube.com/watch?v=j6baKyF2Ksc&list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54&index=24
 - https://open.spotify.com/track/0v32fKwN5VpiZYEW9bwcmI?si=8f9d310da887492f
 Referenced Tracks:
-- Queen
+- track:queen-deltarune
 ---
 Track: Bluebird of Misfortune
 Duration: 0:49
@@ -275,7 +277,7 @@ URLs:
 - https://www.youtube.com/watch?v=q-5cXVcCOUs&list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54&index=26
 - https://open.spotify.com/track/7tNsMfItoswjCO5oOQgbBB?si=2efa34198e6b46e9
 Referenced Tracks:
-- Queen
+- track:queen-deltarune
 ---
 Track: KEYGEN
 Duration: 0:15
@@ -331,7 +333,7 @@ URLs:
 - https://www.youtube.com/watch?v=vBjscyFC3jo&list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54&index=32
 - https://open.spotify.com/track/1K45maA9jDR1kBRpojtPmO?si=20f0848ae88246d9
 Referenced Tracks:
-- Queen
+- track:queen-deltarune
 - Berdly
 ---
 Track: Giga Size
@@ -341,7 +343,7 @@ URLs:
 - https://www.youtube.com/watch?v=_bVl2e-Wxzg&list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54&index=33
 - https://open.spotify.com/track/7gRPYFtMaq0KIOO7vIxCLd?si=b90063b5112343db
 Referenced Tracks:
-- Queen
+- track:queen-deltarune
 - Attack of the Killer Queen
 ---
 Track: Powers Combined
@@ -359,7 +361,7 @@ URLs:
 - https://open.spotify.com/track/7ARvBQv5g2gDmBGXM6VDCR?si=b8d69888ffc5404f
 Referenced Tracks:
 - Powers Combined
-- Queen
+- track:queen-deltarune
 - Attack of the Killer Queen
 ---
 Track: The Dark Truth

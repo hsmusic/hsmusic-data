@@ -23,6 +23,8 @@ Commentary: |-
     Thanks to PotatoBoss for his feedback and help with credits checking<br>HP : <a href="http://potatoboss.net/">potatoboss.net</a><br>Twitter : <a href="https://twitter.com/potatomoosik">twitter.com/potatomoosik</a><br>Youtube : <a href="https://www.youtube.com/channel/UCx8RbZLXx8lcr-yBHPEr_vA">www.youtube.com/channel/UCx8RbZLXx8lcr-yBHPEr_vA</a><br>Bandcamp : <a href="https://potatoboss.bandcamp.com/">potatoboss.bandcamp.com</a>
 ---
 Track: Confined
+Directory: confined-no-place-like-home
+Always Reference By Directory: true
 Duration: '4:04'
 URLs:
 - https://teeveemusic.bandcamp.com/track/confined
@@ -208,7 +210,8 @@ Referenced Tracks:
 - Descend
 ---
 Track: ＭｅＧａＬｏＶａｎｉａ (cover)
-Directory: megalovania-tee-vee
+Directory: megalovania-no-place-like-home
+Always Reference By Directory: true
 Duration: '2:51'
 URLs:
 - https://teeveemusic.bandcamp.com/track/cover

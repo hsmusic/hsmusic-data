@@ -21,6 +21,8 @@ Groups:
 - Fandom
 ---
 Track: Nostalgia
+Directory: nostalgia-vast-error
+Always Reference By Directory: true
 Duration: '2:02'
 Artists:
 - Rachel Rose Mitchell
@@ -39,6 +41,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/road-to-recovery
 ---
 Track: Immortal
+Directory: immortal-vast-error
+Always Reference By Directory: true
 Duration: '3:31'
 Artists:
 - Circlejourney
@@ -71,6 +75,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/radical-statical
 ---
 Track: Predestination
+Directory: predestination-vast-error
+Always Reference By Directory: true
 Duration: '3:16'
 Artists:
 - Cristata
@@ -82,6 +88,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/predestination
 ---
 Track: Corporate
+Directory: corporate-vast-error
+Always Reference By Directory: true
 Duration: '2:54'
 Artists:
 - Whimsy
@@ -210,7 +218,7 @@ Cover Artists:
 Art Tags:
 - 'cw: blood (abstract)'
 Referenced Tracks:
-- Oversaturated
+- track:oversaturated-vast-error
 URLs:
 - https://vasterror.bandcamp.com/track/cheap-boxed-wine
 ---
@@ -325,6 +333,8 @@ Artists:
 - pragmaticNihilist
 Cover Artists:
 - Acyl
+Referenced Tracks:
+- track:oversaturated-vast-error
 URLs:
 - https://vasterror.bandcamp.com/track/oversaturated-elevator-mix
 ---
@@ -387,7 +397,7 @@ Referenced Tracks:
 - Cosmic Significance
 - Moment's Notice
 - Six By Six
-- Oversaturated
+- track:oversaturated-vast-error
 - Solana
 URLs:
 - https://vasterror.bandcamp.com/track/pandora

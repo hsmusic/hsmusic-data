@@ -161,6 +161,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/intermission-mimesiswing
 ---
 Track: Dismantled
+Directory: dismantled-vast-error
+Always Reference By Directory: true
 Artists:
 - pragmaticNihilist
 Cover Artists:
@@ -175,6 +177,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/dismantled
 ---
 Track: Lovecraft
+Directory: lovecraft-vast-error
+Always Reference By Directory: true
 Artists:
 - sympolite
 Cover Artists:

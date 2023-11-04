@@ -23,7 +23,9 @@ Color: '#97C400'
 Groups:
 - Fandom
 ---
-Track: ABSCOND 
+Track: ABSCOND
+Directory: abscond-sburb-funkin-edition
+Always Reference By Directory: true
 Duration: '3:34'
 Cover Artists:
 - "SBURB: Funkin' Edition"
@@ -40,6 +42,8 @@ URLs:
 - https://soundcloud.com/rerollroxy/friday-night-funkin-sburb-funkin-edition-abscond-dave-vs-bro
 ---
 Track: gamzee
+Directory: gamzee-sburb-funkin-edition
+Always Reference By Directory: true
 Duration: '2:27'
 Cover Artists:
 - "SBURB: Funkin' Edition"
@@ -62,7 +66,7 @@ Art Tags:
 - Jane
 - LoPaN
 Referenced Tracks:
-- gamzee
+- track:gamzee-sburb-funkin-edition
 - track:megalovania-undertale
 Commentary: |-
     <i>rerollroxy:</i>

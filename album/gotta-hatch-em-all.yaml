@@ -20,7 +20,7 @@ Commentary: |-
     <img src="media/misc/gotta-hatch-em-all-artwork.jpg" width="350">
 ---
 Track: Title Theme
-Directory: title-theme-sahcon
+Directory: title-theme-gotta-hatch-em-all
 Duration: 0:35
 Artists:
 - Funk McLovin
@@ -148,6 +148,8 @@ Referenced Tracks:
 - Spider's Claw
 ---
 Track: Fairies
+Directory: fairies-gotta-hatch-em-all
+Always Reference By Directory: true
 Duration: '1:00'
 Artists:
 - YoItsCro

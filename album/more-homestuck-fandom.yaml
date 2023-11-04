@@ -55,7 +55,7 @@ URLs:
 - https://hsmusic.wiki/media/misc/archive/Bane.mp3
 Commentary: |-
     <i>Mark J. Hadley:</i>
-    Whew... this is a really, REALLY old one of mine. I wrote the first version of "Bane" in 2001, and this version (the 'latest' one) was written in 2005. It's been a long time since I did anything with this theme, but I still really like it. I've been thinking about making a [[track:bane|newer version]] of it (since surely I've gotten better over the past decade, right?).
+    Whew... this is a really, REALLY old one of mine. I wrote the first version of "Bane" in 2001, and this version (the 'latest' one) was written in 2005. It's been a long time since I did anything with this theme, but I still really like it. I've been thinking about making a [[track:bane-p-s|newer version]] of it (since surely I've gotten better over the past decade, right?).
 
     I kind of regret not slipping this theme into Homestuck somewhere; I feel like this could have easily been a recurring signature theme for projects I work on (like [[group:toby-fox|Toby Fox]] does with '[[track:megalovania-halloween|Megalovania]]').
 ---
@@ -105,6 +105,8 @@ Lyrics: |-
     Adrien Brody Adrien Brody Adrien Brody Adrien Brody
 ---
 Track: Calliope
+Directory: calliope-malcolm-brown
+Always Reference By Directory: true
 Artists:
 - Malcolm Brown
 Duration: '1:08'
@@ -124,6 +126,8 @@ URLs:
 - https://spellmynamewithabang.tumblr.com/day/2012/05/14
 ---
 Track: Cats
+Directory: cats-toby-fox
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '1:36'
@@ -272,9 +276,11 @@ Duration: '1:30'
 URLs:
 - https://hsmusic.wiki/media/misc/archive/Feel%20%28Old%20Ver.%29.mp3
 Referenced Tracks:
-- Feel
+- track:feel-luke-benjamins
 ---
 Track: Feel
+Directory: feel-luke-benjamins
+Always Reference By Directory: true
 Artists: 
 - Luke Benjamins
 Duration: '1:07'
@@ -307,6 +313,8 @@ Referenced Tracks:
 - Dissension (Original)
 ---
 Track: Flow
+Directory: flow-solatrus
+Always Reference By Directory: true
 Artists:
 - Solatrus
 Duration: '6:26'
@@ -322,7 +330,7 @@ URLs:
 - https://soundcloud.com/dragonxvi/ham-and-steak-unused-homestuck-music
 Referenced Tracks:
 - Rex English
-- Calliope
+- track:calliope-malcolm-brown
 - You're So Rad
 - Unite Synchronization
 - Homestuck Anthem
@@ -330,6 +338,8 @@ Referenced Tracks:
 - Doctor
 ---
 Track: haunt
+Directory: haunt-andrew-hussie
+Always Reference By Directory: true
 Artists:
 - Andrew Hussie
 Duration: '2:33'
@@ -773,6 +783,8 @@ Referenced Tracks:
 - track:three-in-the-morning
 ---
 Track: Valor
+Directory: valor-toby-fox
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '2:23'
@@ -951,6 +963,8 @@ Lyrics: |-
     (Sup.)
 ---
 Track: Gnade
+Directory: gnade-redditstuck
+Always Reference By Directory: true
 Artists:
 - Gordian
 Duration: '3:24'
@@ -1406,13 +1420,6 @@ Lyrics: |-
     I didn't even need to sober up to beat you, motherfucker
 URLs:
 - https://youtu.be/ZQt9rWYhv7E
----
-Track: Overlook
-Artists:
-- Cerulean
-Duration: '3:16'
-URLs:
-- https://vasterror.bandcamp.com/track/overlook
 ---
 Track: Penumbra Phantasm
 Date First Released: March 16, 2022
@@ -1899,6 +1906,8 @@ URLs:
 - https://hsmusic.wiki/media/misc/archive/food.mp3
 ---
 Track: Higher
+Directory: higher-ost
+Always Reference By Directory: true
 Artists:
 - ostrichlittledungeon
 Duration: '1:54'
@@ -2133,6 +2142,8 @@ URLs:
 - https://soundcloud.com/user-471799957/nv-strife
 ---
 Track: Rematch
+Directory: rematch-paradox-music-team
+Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
 Duration: '2:15'
@@ -2141,6 +2152,8 @@ URLs:
 - https://www.youtube.com/watch?v=V3MhvkhUXz8
 ---
 Track: Snowfall
+Directory: snowfall-paradox-music-team
+Always Reference By Directory: true
 Artists:
 - Rainy
 Duration: '6:25'
@@ -2178,6 +2191,8 @@ URLs:
 - https://potatoboss.bandcamp.com/track/vexation
 ---
 Track: Wanderlust
+Directory: wanderlust-paradox-music-team
+Always Reference By Directory: true
 Artists:
 - Gordian
 Duration: '3:52'

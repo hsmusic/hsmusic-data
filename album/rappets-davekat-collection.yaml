@@ -19,6 +19,8 @@ Commentary: |-
     (if you really really really want canonical context for this, just imagine it taking place in the dream bubbles)
 ---
 Track: Davekat
+Directory: davekat-rappets
+Always Reference By Directory: true
 Duration: '1:57'
 URLs:
 - https://telesfnf.bandcamp.com/track/davekat
@@ -30,9 +32,9 @@ Commentary: |-
 Track: Davekat ALT
 Duration: '1:55'
 Referenced Tracks:
-- Davekat 
+- track:davekat-rappets
 Sampled Tracks:
-- Davekat 
+- track:davekat-rappets
 URLs:
 - https://telesfnf.bandcamp.com/track/davekat-alt
 ---
@@ -41,7 +43,7 @@ Duration: '1:57'
 URLs:
 - https://telesfnf.bandcamp.com/track/davekat-instrumental
 Referenced Tracks:
-- Davekat 
+- track:davekat-rappets
 ---
 Track: Davekat ALT [Instrumental]
 Duration: '1:55'

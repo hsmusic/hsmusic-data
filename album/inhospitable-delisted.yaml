@@ -29,6 +29,8 @@ URLs:
 Has Cover Art: false
 ---
 Track: Misconduct
+Directory: misconduct-inhospitable
+Always Reference By Directory: true
 Date First Released: November 28, 2017
 Duration: '3:06'
 URLs:
@@ -41,6 +43,8 @@ URLs:
 - https://nuclear333.bandcamp.com/track/faultline-flatfoots
 ---
 Track: Regrets
+Directory: regrets-inhospitable
+Always Reference By Directory: true
 Date First Released: November 28, 2017
 Duration: '2:03'
 URLs:
@@ -69,7 +73,7 @@ URLs:
 - https://nuclear333.bandcamp.com/track/perspective-inbound
 Commentary: |-
     <i>tempest2k:</i>
-    This track reused the art from [[track:regrets]] in the original too.
+    This track reused the art from [[track:regrets-inhospitable]] in the original too.
 ---
 Track: Deep in the Planet
 Date First Released: November 28, 2017

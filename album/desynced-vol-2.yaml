@@ -27,8 +27,8 @@ Art Tags:
 - Josh (Desynced)
 - Enid (Desynced)
 Referenced Tracks:
-- Daughter
-- Cooldown
+- track:daughter-desynced
+- track:cooldown-desynced
 - Desynced Anthem
 - Lunar Dance
 - Vexation
@@ -131,6 +131,8 @@ Referenced Tracks:
 - track:asimov-3
 ---
 Track: Egress
+Directory: egress-desynced
+Always Reference By Directory: true
 Artists:
 - Rainy
 Duration: '2:38'
@@ -146,12 +148,14 @@ Art Tags:
 Referenced Tracks:
 - Mirror Mirror
 - track:alpha-admission
-- Daughter
+- track:daughter-desynced
 - Mother Dearest
-- Escapade
+- track:escapade-desynced
 - Tsukuyomi
 ---
 Track: Chat
+Directory: chat-desynced
+Always Reference By Directory: true
 Artists:
 - Levc
 Duration: '2:53'
@@ -205,7 +209,7 @@ Art Tags:
 - Gaea (Desynced)
 Referenced Tracks:
 - Mother Dearest
-- Daughter
+- track:daughter-desynced
 ---
 Track: Evanhenare1
 Artists:
@@ -297,7 +301,7 @@ Cover Artists:
 Art Tags:
 - Kate (Desynced)
 Referenced Tracks:
-- Daughter
+- track:daughter-desynced
 ---
 Track: Hell Riders
 Artists:
@@ -341,8 +345,8 @@ Art Tags:
 - Kate's dad (Desynced)
 - Masky (Desynced)
 Referenced Tracks:
-- Cooldown
-- Escapade
+- track:cooldown-desynced
+- track:escapade-desynced
 - Light of the Sun
 ---
 Track: ASIMOV 3つの法律 (Lofi Beats to Engineer alone to)
@@ -372,8 +376,8 @@ Cover Artists:
 Art Tags:
 - Kate (Desynced)
 Referenced Tracks:
-- Daughter
-- Cooldown
+- track:daughter-desynced
+- track:cooldown-desynced
 - Desynced Anthem
 - Friends to the End
 - Mother Dearest
@@ -418,7 +422,7 @@ Art Tags:
 Referenced Tracks:
 - Light of the Sun
 - Desynced Anthem
-- Daughter
+- track:daughter-desynced
 ---
 Track: Vantablack
 Artists:
@@ -434,9 +438,11 @@ Art Tags:
 Referenced Tracks:
 - Void of the Moon
 - Desynced Anthem
-- Daughter
+- track:daughter-desynced
 ---
 Track: Arrival
+Directory: arrival-desynced
+Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
 Duration: '6:56'
@@ -452,19 +458,19 @@ Referenced Tracks:
 - track:alpha-admission
 - Fate of the Heir
 - Vexation
-- Escapade
-- track:noir
+- track:escapade-desynced
+- track:noir-desynced
 - Cutest Companion
 - Temporal Guardian
 - Heartbreaker
 - Mother Dearest
-- Cooldown
+- track:cooldown-desynced
 - A Very Forgiving Kind of Guy
 - Lunar Dance
 - Light of the Sun
-- track:eclipse
+- track:eclipse-desynced
 - Town of Breath
 - Lee's Theme
-- Daughter
+- track:daughter-desynced
 - Desynced Anthem
 - track:battle-elite-four-pokemon-black-and-white-versions

@@ -103,6 +103,8 @@ Commentary: |-
     I'm currently playing Shovel Knight, so when I listened to this track, I had the vision of Rose in a strife in a 8-bits castle. It's the last track art I will make for this album, and while I "joined" the team not too long ago, I was really happy to be contribute to it, after all those years being a listener. Thank you CANMT!
 ---
 Track: Endurance
+Directory: endurance-canmt
+Always Reference By Directory: true
 Artists:
 - Pipko Fanfare
 Cover Artists:
@@ -116,7 +118,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/endurance
 - https://youtu.be/FMKdJD_x-oQ
 Referenced Tracks:
-- Endure
+- track:endure-canmt
 Commentary: |-
     <i>Pipko Fanfare:</i> (Composer)
     Nothing says "not totally self absorbed" like remixing your own song, right? >_> This started off more as just practice with arranging for my virtual orchestra but it ultimately came out pretty ok so here it is. I think my favorite detail is the "unison bend" in the high strings around 0:45 or so. (It sounds kinda like a train whistle.) That was a part of the original Endure too, but it sounds way cooler with realistic samples!
@@ -199,7 +201,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/twilight-rhythm
 - https://youtu.be/WzYOQUAcjcM
 Referenced Tracks:
-- you
+- track:you-dai
 Commentary: |-
     <i>Koba:</i> (Composer)
     i've been wanting to make an original composition for a team album for a while and since it's the final album, i figured there's probably no better time than doing it now since it's the final main album
@@ -293,7 +295,7 @@ URLs:
 - https://youtu.be/c06SrS_I-KE
 Commentary: |-
     <i>Pipko Fanfare:</i> (Composer)
-    It's hard to believe I've been with this team since vol 1 and here on our final album is only my second truly original song contribution! ([[track:endure]] was the first.) While Endure was a pretty typical toby-foxish-action-song, I think this one is a bit more sophisticated. Compositionally it's VERY simple - most of it doesn't even have a real melody! - but the effects work is some of my best to date. There are so many more interesting ways to represent The Corruption and how it seems to distort things we are familiar with than just intentionally using amateurish off-time melodies. Distortion, bitcrushing, reverse, stutter - used in a certain way, these kinds of things can be like the jpeg artifacts of audio in my opinion.
+    It's hard to believe I've been with this team since vol 1 and here on our final album is only my second truly original song contribution! ([[track:endure-canmt]] was the first.) While Endure was a pretty typical toby-foxish-action-song, I think this one is a bit more sophisticated. Compositionally it's VERY simple - most of it doesn't even have a real melody! - but the effects work is some of my best to date. There are so many more interesting ways to represent The Corruption and how it seems to distort things we are familiar with than just intentionally using amateurish off-time melodies. Distortion, bitcrushing, reverse, stutter - used in a certain way, these kinds of things can be like the jpeg artifacts of audio in my opinion.
 ---
 Track: I Will Never Forget
 Artists:
@@ -746,6 +748,8 @@ Commentary: |-
     This was a really fun track to make. Normally I'm a stickler for hardware accuracy in my chiptune but this time I just went ham and created a lovely hi-bit chaotic mess. It was a joy revisting old CANWC originals to find appropriate songs based around "bVI - bVII - i" to include. I hope some of the joy I experienced putting this together comes through when you listen to it.
 ---
 Track: Epilogue
+Directory: epilogue-canmt
+Always Reference By Directory: true
 Artists:
 - Cecily Renns
 Duration: '04:58'
@@ -967,7 +971,7 @@ Referenced Tracks:
 - RollerCoaster Tycoon Theme
 - Upward Movement (Dave Owns)
 - Lorule Castle
-- Endurance
+- track:endurance-canmt
 Commentary: |-
     <i>cctv:</i> (Composer)
     Now a while back I believe I once mentioned I was planning on combining a bunch of motifs and passages into a single combined recording. This is not that recording. I became disenchanted with that idea a while back, this improv here is about the best I ever did. It really sucks, it's not clean or well-thought out at all. Really wouldn't be surprised if this never makes it to the final album.

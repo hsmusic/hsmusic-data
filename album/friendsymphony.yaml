@@ -195,6 +195,8 @@ Referenced Tracks:
 - Gold Pilot
 ---
 Track: leech
+Directory: leech-friendsymphony
+Always Reference By Directory: true
 Artists:
 - Gryotharian
 Duration: '2:51'
@@ -220,7 +222,7 @@ Art Tags:
 - Folykl
 - Kuprum
 Referenced Tracks:
-- leech
+- track:leech-friendsymphony
 ---
 Track: Carefree Consternation
 Artists:

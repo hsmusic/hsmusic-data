@@ -39,15 +39,17 @@ Duration: '4:33'
 URLs:
 - https://psycholonials.bandcamp.com/track/edge-of-dawn
 Referenced Tracks:
-- Shoreline
+- track:shoreline-labyrinths-heart
 ---
 Track: Threshold
+Directory: threshold-psycholonials-ep-9
+Always Reference By Directory: true
 Duration: '1:47'
 URLs:
 - https://psycholonials.bandcamp.com/track/threshold
 ---
 Track: We Were Right About Everything
-Originally Released As: Lunatic
+Originally Released As: track:lunatic-we-are-all-satellites
 Duration: '5:51'
 URLs:
 - https://psycholonials.bandcamp.com/track/we-were-right-about-everything
@@ -63,7 +65,7 @@ URLs:
 - https://psycholonials.bandcamp.com/track/zhen
 ---
 Track: The Successor
-Originally Released As: Forgotten
+Originally Released As: track:forgotten-labyrinths-heart
 Duration: '4:22'
 URLs:
 - https://psycholonials.bandcamp.com/track/the-successor
@@ -79,4 +81,4 @@ Duration: '4:08'
 URLs:
 - https://psycholonials.bandcamp.com/track/ephemeral-muse-final-remix
 Referenced Tracks:
-- Harrigan
+- track:harrigan-we-are-all-satellites

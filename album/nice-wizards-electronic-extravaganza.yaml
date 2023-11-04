@@ -45,6 +45,7 @@ Commentary: |-
 ---
 Track: Sunrise
 Directory: sunrise-nice-wizard
+Always Reference By Directory: true
 Duration: '2:32'
 URLs:
 - https://nicewizard.bandcamp.com/track/sunrise
@@ -53,6 +54,8 @@ Commentary: |-
     An attempt at something more classical sounding than my usual stuff. It went pretty alright, I think!
 ---
 Track: Connect
+Directory: connect-nice-wizard
+Always Reference By Directory: true
 Duration: '3:08'
 URLs:
 - https://nicewizard.bandcamp.com/track/connect
@@ -62,6 +65,7 @@ Commentary: |-
 ---
 Track: Machina
 Directory: machina-nice-wizard
+Always Reference By Directory: true
 Duration: '3:22'
 URLs:
 - https://nicewizard.bandcamp.com/track/machina

@@ -32,6 +32,8 @@ Commentary: |-
 Section: Main album
 ---
 Track: Intro
+Directory: intro-canwave-2
+Always Reference By Directory: true
 Artists:
 - ostrichlittledungeon
 Contributors:
@@ -410,9 +412,9 @@ Cover Artists:
 - Ephemerald
 Duration: '01:44'
 Referenced Tracks:
-- Dust
+- track:dust-moon
 Sampled Tracks:
-- Dust
+- track:dust-moon
 - Donald Trump Says China Remix
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/inauguration
@@ -489,10 +491,10 @@ Cover Art File Extension: jpg
 Duration: '01:43'
 Referenced Tracks:
 - Creata
-- Spleen
+- track:spleen-ruth-white
 Sampled Tracks:
 - Creata
-- Spleen
+- track:spleen-ruth-white
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/--13
 - https://youtu.be/m49Bqe0My14
@@ -588,6 +590,8 @@ Commentary: |-
     I guess I'll just write the most stupid interpretation in.
 ---
 Track: Median
+Directory: median-canmt
+Always Reference By Directory: true
 Artists:
 - ostrichlittledungeon
 Contributors:
@@ -765,16 +769,16 @@ Duration: '07:19'
 Referenced Tracks:
 - Cascade (Beta)
 - Savior of the Dreaming Dead (Cascade Cut)
-- Casin
-- Divinity
+- track:casin-glue70
+- track:divinity-porter-robinson
 - Cascading Events
 - Black Hole / Green Sun
 - Freefall
 Sampled Tracks:
 - Cascade (Beta)
 - Savior of the Dreaming Dead (Cascade Cut)
-- Casin
-- Divinity
+- track:casin-glue70
+- track:divinity-porter-robinson
 - Cascading Events
 - Black Hole / Green Sun
 - Freefall

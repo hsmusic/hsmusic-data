@@ -133,9 +133,9 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/clownmans-credit-score
 - https://youtu.be/5TWQsj2PiLE
 Referenced Tracks:
-- Killers
+- track:killers-cboyardee
 Sampled Tracks:
-- Killers
+- track:killers-cboyardee
 - Bowman's Credit Score
 Lyrics: |-
     I'm
@@ -177,7 +177,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/i-am-caving-inside-a-story-doctor-origins-gone-sexual
 - https://youtu.be/dzIWfQ4ExeM
 Referenced Tracks:
-- Plantation
+- track:plantation-cave-story
 Sampled Tracks:
 - Bowman's Credit Score
 ---
@@ -281,6 +281,8 @@ URLs:
 - https://youtu.be/1CB6uZVLqt4
 ---
 Track: Ruses
+Directory: ruses-canmt
+Always Reference By Directory: true
 Artists:
 - CogentInvalid 
 Duration: '01:13'
@@ -449,6 +451,8 @@ Referenced Tracks:
 - Showtime (Original Mix)
 ---
 Track: Revival
+Directory: revival-canmt
+Always Reference By Directory: true
 Artists:
 - flamingfusion 
 Duration: '00:45'
@@ -469,6 +473,8 @@ URLs:
 - https://youtu.be/Ts1B45YwDAo
 ---
 Track: Decelerate
+Directory: decelerate-canmt
+Always Reference By Directory: true
 Artists:
 - Griever
 Duration: '02:24'
@@ -506,10 +512,10 @@ URLs:
 - https://youtu.be/zNKtkXSSb6U
 Referenced Tracks:
 - Do You Remem8er Me
-- chase
+- track:chase-jjba
 Sampled Tracks:
 - Do You Remem8er Me
-- chase
+- track:chase-jjba
 Lyrics: |-
     Taisetsu na mono wo ubawaresou
     Nichijou ni magirekonda akuma
@@ -891,10 +897,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/parade-of-man
 - https://youtu.be/OEx7l8XHjX4
 Referenced Tracks:
-- Parade
+- track:parade-justice
 - Dawn of Man
 Sampled Tracks:
-- Parade
+- track:parade-justice
 - Dawn of Man
 Commentary: |-
     <i>Makin:</i> (team manager)
@@ -1113,6 +1119,8 @@ Lyrics: |-
     With (sweet [unintelligible])
 ---
 Track: Theory
+Directory: theory-canmt
+Always Reference By Directory: true
 Artists:
 - nunndoes 
 Duration: '00:28'
@@ -1145,7 +1153,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/i-put-a-harmony-midi-into-a-japanese-9-bit-converter-program
 - https://youtu.be/hXT2cXyDIW4
 Referenced Tracks:
-- Harmony
+- track:harmony-runescape
 ---
 Track: halator of the snowing world
 Artists:
@@ -1205,10 +1213,10 @@ URLs:
 - https://youtu.be/0Igu3hTYjgI
 Referenced Tracks:
 - Takyon (Death Yon)
-- Killers
+- track:killers-cboyardee
 Sampled Tracks:
 - Takyon (Death Yon)
-- Killers
+- track:killers-cboyardee
 ---
 Track: missathing.midi
 Artists:
@@ -1511,10 +1519,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/harmonize-beta
 - https://youtu.be/vhEq07X8npM
 Referenced Tracks:
-- track:harmonize
+- track:harmonize-canmt
 - Fruity Pebbles Jingle
 Sampled Tracks:
-- track:harmonize
+- track:harmonize-canmt
 - Fruity Pebbles Jingle
 Lyrics: |-
     Oh Diet Dr Pepper is the flavor that I savor
@@ -1534,10 +1542,10 @@ URLs:
 - https://youtu.be/KQpJhB5y2uQ
 Referenced Tracks:
 - I'd like to see your diploma
-- track:focus
+- track:focus-super-hexagon
 Sampled Tracks:
 - I'd like to see your diploma
-- track:focus
+- track:focus-super-hexagon
 ---
 Track: K.K. Doctor
 Artists:
@@ -1638,6 +1646,8 @@ URLs:
 - https://youtu.be/q4ML2-_9FeA
 ---
 Track: Running
+Directory: running-canmt
+Always Reference By Directory: true
 Artists:
 - TirantBacon 
 Duration: '01:24'
@@ -1803,10 +1813,10 @@ URLs:
 - https://youtu.be/ITOMdF1_Fto
 Referenced Tracks:
 - Solar Voyage
-- Bonfire
+- track:bonfire-childish-gambino
 Sampled Tracks:
 - Solar Voyage
-- Bonfire
+- track:bonfire-childish-gambino
 Lyrics: |-
     OK, it's Childish Gambino, home girl drop it like the NASDAQ
     Move white girls like there's coke up my ass crack

@@ -60,11 +60,13 @@ Commentary: |-
     I wanted to do this because it would make Twoson fun to walk around in again. It's a little boring to walk around in a place whose music you're already sick of even if you love it. I think even changing the notes a little revitalized the whole spirit of adventure. Along with the new color of Twoson it really reminds me of a very happy, brisk fall day. Even if I only changed a little, I love this song a lottttt. Totally and utterly symbolizes the happy originality of the beginning of the game.
 ---
 Track: Synchronicity
+Directory: synchronicity-ebhh
+Always Reference By Directory: true
 Duration: '3:18'
 URLs:
 - https://youtu.be/0mSxIiIXh8Q
 Referenced Tracks:
-- Synchrony
+- track:synchrony-brandish-the-planet-buster
 Commentary: |-
     <i>Toby Fox:</i>
     The song it plays at the beginning and when you go into the sewers. Although you would never know it, this song is a direct rip of "Synchronicity" from Brandish 2, which is a fantastic song. It took forever to get just perfect, I think it's the longest song it took me to compose because it had a lot of bugs when played in the actual game and plus if you didn't realize it's actually a minute and thirty seconds long... hahaha! I don't like my own arrangement too much (it's okay, good for EB I guess) but I love the game it comes from and its music so it's fine. Sort of another themesong for the game for me.
@@ -99,6 +101,8 @@ Commentary: |-
     This track has no official title. 
 ---
 Track: Sewers
+Directory: sewers-ebhh
+Always Reference By Directory: true
 Duration: '1:11'
 URLs:
 - https://youtu.be/sjCZt9JkCqc
@@ -109,6 +113,8 @@ Commentary: |-
     This track has no official title. 
 ---
 Track: Winters
+Directory: winters-ebhh
+Always Reference By Directory: true
 Duration: '0:45'
 URLs:
 - https://youtu.be/i7OlUrFjTZU
@@ -164,7 +170,7 @@ Duration: '0:49'
 URLs:
 - https://youtu.be/OD94KFAddBs
 Sampled Tracks:
-- Power
+- track:power-mother
 Commentary: |-
     <i>Jebb:</i> (Wiki editor)
     This track is a rip of the original version of "Power" from Earthbound, but unlike the original, it doesn't have the bass fade-in intro. It has no official title.

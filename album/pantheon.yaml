@@ -38,6 +38,8 @@ Referenced Tracks:
 - Divine Tapestry
 ---
 Track: Matriarch
+Directory: matriarch-pantheon
+Always Reference By Directory: true
 Duration: '4:39'
 URLs:
 - https://desynced.bandcamp.com/track/matriarch
@@ -50,9 +52,11 @@ Art Tags:
 Referenced Tracks:
 - Winds of Change
 - Mother Dearest
-- Daughter
+- track:daughter-desynced
 ---
 Track: Tyrant
+Directory: tyrant-pantheon
+Always Reference By Directory: true
 Duration: '3:52'
 URLs:
 - https://desynced.bandcamp.com/track/tyrant
@@ -65,6 +69,8 @@ Referenced Tracks:
 - Mirror Mirror
 ---
 Track: Luminary
+Directory: luminary-pantheon
+Always Reference By Directory: true
 Duration: '3:30'
 URLs:
 - https://desynced.bandcamp.com/track/luminary
@@ -79,6 +85,8 @@ Referenced Tracks:
 - Lunar Dance
 ---
 Track: Nemesis
+Directory: nemesis-pantheon
+Always Reference By Directory: true
 Duration: '3:52'
 URLs:
 - https://desynced.bandcamp.com/track/nemesis
@@ -92,6 +100,8 @@ Referenced Tracks:
 - What was Ya'll Thinking?
 ---
 Track: Machina
+Directory: machina-pantheon
+Always Reference By Directory: true
 Duration: '4:47'
 URLs:
 - https://desynced.bandcamp.com/track/machina
@@ -128,8 +138,8 @@ Art Tags:
 - Gaea (Desynced)
 Referenced Tracks:
 - Wind Waker
-- Daughter
-- Cooldown
+- track:daughter-desynced
+- track:cooldown-desynced
 ---
 Track: Tsukuyomi (Remix)
 Duration: '1:41'
@@ -142,7 +152,7 @@ Art Tags:
 - Hemera (Desynced)
 Referenced Tracks:
 - Tsukuyomi
-- Luminary
+- track:luminary-pantheon
 ---
 Track: AUTOMATA
 Duration: '1:13'
@@ -177,6 +187,8 @@ Referenced Tracks:
 - What was Ya'll Thinking?
 ---
 Track: Breakdown
+Directory: breakdown-pantheon
+Always Reference By Directory: true
 Duration: '2:01'
 URLs:
 - https://www.youtube.com/watch?v=nsHHVTfndH0
@@ -186,7 +198,7 @@ Art Tags:
 - Kate's dad (Desynced)
 - Masky (Desynced)
 Referenced Tracks:
-- Cooldown
+- track:cooldown-desynced
 - Winds of Change
 - Bedelia
 Sampled Tracks:

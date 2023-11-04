@@ -38,6 +38,8 @@ Lyrics: |-
     Watches with its lonely eye
 ---
 Track: Ascension
+Directory: ascension-ithaca
+Always Reference By Directory: true
 Artists:
 - Michael Guy Bowman
 - James Dever
@@ -240,6 +242,8 @@ Lyrics: |-
     And I'd never once tried to fight for myself
 ---
 Track: Noun
+Directory: noun-ithaca
+Always Reference By Directory: true
 Duration: '5:14'
 URLs:
 - https://bowman.bandcamp.com/track/noun

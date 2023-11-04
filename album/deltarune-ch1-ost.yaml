@@ -44,6 +44,8 @@ Referenced Tracks:
 - Once Upon a Time
 ---
 Track: School
+Directory: school-deltarune
+Always Reference By Directory: true
 Duration: '1:20'
 URLs:
 - https://tobyfox.bandcamp.com/track/school
@@ -70,6 +72,8 @@ Referenced Tracks:
 - Nightmare Knight
 ---
 Track: Cliffs
+Directory: cliffs-deltarune
+Always Reference By Directory: true
 Duration: 0:35
 URLs:
 - https://tobyfox.bandcamp.com/track/cliffs
@@ -147,6 +151,8 @@ Sampled Tracks:
 - track:theme-rose-of-winter
 ---
 Track: Lantern
+Directory: lantern-deltarune
+Always Reference By Directory: true
 Duration: '1:08'
 URLs:
 - https://tobyfox.bandcamp.com/track/lantern
@@ -211,6 +217,8 @@ Referenced Tracks:
 - The Chase
 ---
 Track: Basement
+Directory: basement-deltarune
+Always Reference By Directory: true
 Duration: 0:27
 URLs:
 - https://tobyfox.bandcamp.com/track/basement
@@ -270,6 +278,8 @@ URLs:
 - https://open.spotify.com/track/2ASkgao4Nv7FtY9AjASDNQ
 ---
 Track: Gallery
+Directory: gallery-deltarune
+Always Reference By Directory: true
 Duration: 0:12
 URLs:
 - https://tobyfox.bandcamp.com/track/gallery
@@ -316,6 +326,8 @@ Referenced Tracks:
 - Don't Forget
 ---
 Track: Friendship
+Directory: friendship-deltarune
+Always Reference By Directory: true
 Duration: '2:40'
 URLs:
 - https://tobyfox.bandcamp.com/track/friendship

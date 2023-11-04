@@ -829,6 +829,8 @@ Lyrics: |-
     <i>[[An Apple Disaster!!]]</i>
 ---
 Track: man
+Directory: man-deltarune
+Always Reference By Directory: true
 # No official release, duration is from the in-game audio loop.
 Artists:
 - Toby Fox
@@ -960,9 +962,9 @@ Duration: '05:47'
 URLs:
 - https://astrokid.bandcamp.com/track/noun-astro-kids-pronoun-remix
 Referenced Tracks:
-- Noun
+- track:noun-ithaca
 Sampled Tracks:
-- Noun
+- track:noun-ithaca
 Lyrics: |-
     Though I forget myself
     I'm sure there's something else
@@ -1047,6 +1049,8 @@ Lyrics: |-
     If you were me you'd do the same
 ---
 Track: Nuclear
+Directory: nuclear-james-roach
+Always Reference By Directory: true
 # Unreleased, but shows up as often in James Roach's discography as Megalovania does in Toby Fox's
 Artists:
 - James Roach
@@ -1174,6 +1178,8 @@ URLs:
 - https://www.youtube.com/watch?v=EOA5M74kv5k
 ---
 Track: Terra
+Directory: terra-solatrus
+Always Reference By Directory: true
 Artists:
 - Solatrus
 Duration: '4:05'
@@ -1888,6 +1894,8 @@ URLs:
 - https://www.youtube.com/watch?v=-7WQn-SXY
 ---
 Track: Beginning
+Directory: beginning-castlevania-draculas-curse
+Always Reference By Directory: true
 # From Castlevania III: Dracula's Curse
 # The original official release combines this track with several others from the same game for its inclusion on the CD, so it doesn't have a "canonical" duration. But it starts at 2:46 and fades out ending at 4:30, which is what's used for the duration here.
 # Note that Castlevania III's NES release has a different rendition of the soundtrack from its original Famicom release, running on a different sound chip. They're essentially the same songs, but the Famicom original is what is listed here.
@@ -2364,6 +2372,8 @@ URLs:
 - https://www.youtube.com/watch?v=KYdRWC6MCgM
 ---
 Track: Dissonance
+Directory: dissonance-quincy-pringle
+Always Reference By Directory: true
 Artists:
 - Quincy Pringle
 Duration: '1:52'
@@ -2717,6 +2727,8 @@ Lyrics: |-
     One more last fist bump...
 ---
 Track: Focus
+Directory: focus-super-hexagon
+Always Reference By Directory: true
 Artists:
 - Super Hexagon
 - Chipzel
@@ -3011,6 +3023,8 @@ URLs:
 - https://open.spotify.com/track/4F9muAB4BFreVBPDW6mVVi
 ---
 Track: Harmony
+Directory: harmony-runescape
+Always Reference By Directory: true
 Artists:
 - Runescape
 - artist:ian-taylor-runescape
@@ -3067,6 +3081,8 @@ URLs:
 - https://www.youtube.com/watch?v=O0xKAphIF8A
 ---
 Track: Homicide
+Directory: homicide-danganronpa
+Always Reference By Directory: true
 # Vastly better known by its transliteration "Ikoroshia"
 # JP: イコロシア
 # Official release:
@@ -3128,6 +3144,8 @@ URLs:
 - https://www.youtube.com/watch?v=vMTqSl-usYI
 ---
 Track: Infinite
+Directory: infinite-sonic-forces
+Always Reference By Directory: true
 # Official release:
 #   Sonic Forces Vocal Traxx - On the Edge
 # Reference:
@@ -3887,6 +3905,8 @@ Lyrics: |-
     Yeah, yeeeahhhh...
 ---
 Track: Otherworld
+Directory: otherworld-final-fantasy-ix
+Always Reference By Directory: true
 # Official release:
 #   FINAL FANTASY IX Original Soundtrack
 # Reference:
@@ -3971,6 +3991,8 @@ URLs:
 - https://www.youtube.com/watch?v=-1EPegIzD2M
 ---
 Track: Plantation
+Directory: plantation-cave-story
+Always Reference By Directory: true
 # The original Cave Story's soundtrack hasn't been officially released.
 Artists:
 - Cave Story
@@ -3996,6 +4018,8 @@ URLs:
 - https://www.youtube.com/watch?v=MjZIjHu0OfY
 ---
 Track: Power
+Directory: power-mother
+Always Reference By Directory: true
 # Most often known as "The Power" but for some reason in the official release it's titled differently.
 # JP: パワー
 # Official release:
@@ -4085,6 +4109,8 @@ URLs:
 - https://www.youtube.com/watch?v=9xlMErV9Fts
 ---
 Track: Redial
+Directory: redial-bomberman-hero
+Always Reference By Directory: true
 # JP: redial
 # Official release:
 #   "Bomberman Hero" Original Soundtrack
@@ -4399,6 +4425,7 @@ URLs:
 - https://www.youtube.com/watch?v=tcpTuxh7E34
 ---
 Track: Slider
+Directory: slider-super-mario-64
 # JP: スライダー
 # Official release:
 #   スーパーマリオ64 オリジナルサウンドトラック
@@ -4611,6 +4638,8 @@ URLs:
 - https://www.youtube.com/watch?v=VjSUpctGEUQ
 ---
 Track: Synchrony
+Directory: synchrony-brandish-the-planet-buster
+Always Reference By Directory: true
 # JP: Synchrony
 # Official release:
 #   ミュージック・フロム・ブランディッシュ2 ザ・プラネット・バスター
@@ -5235,6 +5264,8 @@ URLs:
 - https://youtu.be/psMnbEmvx7w
 ---
 Track: you
+Directory: you-dai
+Always Reference By Directory: true
 # Official release:
 #   Higurashi no Naku Koro ni Kai Original Sound Version & Extra Sounds "Thanks/you"
 #   ひぐらしのなく頃に解 Original Sound Version & Extra Sounds ｢Thanks／you｣
@@ -5862,6 +5893,8 @@ Lyrics: |-
     (The power is YOURS!)
 ---
 Track: chase
+Directory: chase-jjba
+Always Reference By Directory: true
 Artists:
 - JoJo's Bizarre Adventure
 - batta
@@ -5920,6 +5953,7 @@ URLs:
 - https://www.youtube.com/watch?v=CL_3mlOPnGI
 ---
 Track: Courage
+Directory: courage-jjba
 Always Reference By Directory: true
 Artists:
 - JoJo's Bizarre Adventure
@@ -7135,6 +7169,8 @@ Lyrics: |-
     Row! Row! Fight the power!
 ---
 Track: Mailtime
+Directory: mailtime-blues-clues
+Always Reference By Directory: true
 Artists:
 - Blue's Clues
 - Nick Balaban
@@ -7845,6 +7881,8 @@ URLs:
 - https://www.youtube.com/watch?v=a6g5zrz1O-w
 ---
 Track: Smack
+Directory: smack-khonjin-house
+Always Reference By Directory: true
 Artists:
 - Khonjin House
 - SHADOWFOX2
@@ -9982,6 +10020,8 @@ Lyrics: |-
     To ev'ry home
 ---
 Track: Chopsticks
+Directory: chopsticks-euphemia-allen
+Always Reference By Directory: true
 Artists:
 - Euphemia Allen
 URLs:
@@ -12602,6 +12642,8 @@ Referenced Tracks:
 - track:megalovania-undertale
 ---
 Track: Badgers
+Directory: badgers-mrweebl
+Always Reference By Directory: true
 Artists:
 - MrWeebl
 Duration: '1:13'
@@ -13420,6 +13462,8 @@ Lyrics: |-
     Da ba dee da ba di, da ba dee da ba di 
 ---
 Track: Bodies
+Directory: bodies-drowning-pool
+Always Reference By Directory: true
 Artists:
 - Drowning Pool
 Duration: '3:21'
@@ -13637,6 +13681,8 @@ Lyrics: |-
     Nothing really matters to me
 ---
 Track: Bonfire
+Directory: bonfire-childish-gambino
+Always Reference By Directory: true
 Artists:
 - Childish Gambino
 Duration: '3:21'
@@ -14103,6 +14149,8 @@ Commentary: |-
     There are official English lyrics to this song but they change things to mention 'memes' and 'YouTube clips', so I just ran the lyrics through Google Translate instead.
 ---
 Track: Carnival
+Directory: carnival-gorillaz
+Always Reference By Directory: true
 Artists:
 - Gorillaz
 Duration: '2:15'
@@ -14209,6 +14257,8 @@ Lyrics: |-
     That you had to leave me alone?
 ---
 Track: Casin
+Directory: casin-glue70
+Always Reference By Directory: true
 Artists:
 - glue70
 Duration: '1:46'
@@ -14790,6 +14840,8 @@ Lyrics: |-
     Now watch me—
 ---
 Track: Crawling
+Directory: crawling-linkin-park
+Always Reference By Directory: true
 Artists:
 - Linkin Park
 - Don Gilmore (production)
@@ -15775,6 +15827,8 @@ Lyrics: |-
 #     So take your tyranny away
 ---
 Track: Discordant
+Directory: discordant-cecily-renns
+Always Reference By Directory: true
 Artists:
 - Cecily Renns
 Duration: '2:24'
@@ -15835,6 +15889,8 @@ Lyrics: |-
     It's so discordant
 ---
 Track: Divinity
+Directory: divinity-porter-robinson
+Always Reference By Directory: true
 Artists:
 - Porter Robinson
 Contributors:
@@ -16396,6 +16452,8 @@ Lyrics: |-
     Snoop
 ---
 Track: Dust
+Directory: dust-moon
+Always Reference By Directory: true
 Artists:
 - M.O.O.N.
 Duration: '5:00'
@@ -16403,6 +16461,8 @@ URLs:
 - https://www.youtube.com/watch?v=DpRUKLKCY-w
 ---
 Track: Earth
+Directory: earth-smile
+Always Reference By Directory: true
 Artists:
 - Smile
 Duration: '4:04'
@@ -16795,6 +16855,8 @@ Commentary: |-
     Best known under the names "HEHEYYEYAAEYAAAEYAEYAA" or "He-Man Sings".
 ---
 Track: Faint
+Directory: faint-linkin-park
+Always Reference By Directory: true
 Artists:
 - Linkin Park
 Duration: '2:42'
@@ -17100,6 +17162,8 @@ Lyrics: |-
     To the D to the E to the, to the, to the, to the, to the, to the...
 ---
 Track: Fever
+Directory: fever-little-willie-john
+Always Reference By Directory: true
 Artists:
 - Eddie Cooley
 - Otis Blackwell
@@ -17189,6 +17253,8 @@ Referenced Tracks:
 - track:final-savage-all-voice
 ---
 Track: Fireflies
+Directory: fireflies-owl-city
+Always Reference By Directory: true
 Artists:
 - Owl City
 Contributors:
@@ -17319,6 +17385,8 @@ Lyrics: |-
     Five years
 ---
 Track: Flicker
+Directory: flicker-porter-robinson
+Always Reference By Directory: true
 Artists:
 - Porter Robinson
 Duration: '4:39'
@@ -17495,6 +17563,8 @@ Lyrics: |-
     Oh
 ---
 Track: Friday
+Directory: friday-rebecca-black
+Always Reference By Directory: true
 Artists:
 - Clarence Jey
 - Patrice Wilson
@@ -18250,6 +18320,8 @@ Lyrics: |-
     That the ones we hurt are you and me?
 ---
 Track: Gentleman
+Directory: gentleman-psy
+Always Reference By Directory: true
 Artists:
 - PSY
 Duration: '3:12'
@@ -19119,6 +19191,8 @@ Lyrics: |-
     You ain't nothin' but a hound dog
 ---
 Track: Hoverboard
+Directory: hoverboard-dirtyphonics
+Always Reference By Directory: true
 Artists:
 - Dirtyphonics
 Duration: '4:24'
@@ -19130,6 +19204,8 @@ Sampled Tracks:
 - Back to the Future
 ---
 Track: Hydrogen
+Directory: hydrogen-moon
+Always Reference By Directory: true
 Artists:
 - M.O.O.N.
 Duration: '4:50'
@@ -20014,6 +20090,8 @@ Lyrics: |-
     To bring me back to life
 ---
 Track: If
+Directory: if-placeboing
+Always Reference By Directory: true
 Artists:
 - placeboing
 Duration: '2:00'
@@ -20951,6 +21029,8 @@ Lyrics: |-
     You wanna try 
 ---
 Track: Killers
+Directory: killers-cboyardee
+Always Reference By Directory: true
 Artists:
 - CBoyardee
 Duration: '2:57'
@@ -21255,6 +21335,8 @@ Lyrics: |-
     So long
 ---
 Track: Lawnmower
+Directory: lawnmower-neil-cicierega
+Always Reference By Directory: true
 Artists:
 - Neil Cicierega
 Duration: '3:13'
@@ -21479,6 +21561,8 @@ URLs:
 - https://www.youtube.com/watch?v=dn4sCGi0E6Q
 ---
 Track: Linger
+Directory: linger-the-cranberries
+Always Reference By Directory: true
 Artists:
 - The Cranberries
 Duration: '4:37'
@@ -22490,6 +22574,7 @@ Lyrics: |-
     Never!
 ---
 Track: Miserlou
+Always Reference By Directory: true
 Artists:
 - Dick Dale
 Duration: '2:17'
@@ -23233,7 +23318,7 @@ URLs:
 - https://www.youtube.com/watch?v=ydl38eJ6W3I
 Referenced Tracks:
 - Jupiter, the Bringer of Jollity
-- Earth
+- track:earth-smile
 Lyrics: |-
     Floating is a feeling, that can never be described
     Goodbye April morning, goodbye lady, goodbye
@@ -23829,6 +23914,8 @@ URLs:
 - https://soundcloud.com/killthecopyright/phantom-sage-detrace-panic-kill-the-copyright-release
 ---
 Track: Parade
+Directory: parade-justice
+Always Reference By Directory: true
 Artists:
 - Justice
 Duration: '4:00'
@@ -24143,6 +24230,8 @@ URLs:
 - https://www.youtube.com/watch?v=3r8EkbN3DCk
 ---
 Track: Piss
+Directory: piss-neil-cicierega
+Always Reference By Directory: true
 Artists:
 - Neil Cicierega
 Duration: '4:57'
@@ -24844,6 +24933,8 @@ URLs:
 - https://www.youtube.com/watch?v=7-MJZJjJs4A
 ---
 Track: risen
+Directory: risen-terry-a-davis
+Always Reference By Directory: true
 Artists:
 - Terry A. Davis
 Duration: '0:11'
@@ -25250,6 +25341,8 @@ URLs:
 - https://www.youtube.com/watch?v=r1-R8mbmLHY
 ---
 Track: Sandstorm
+Directory: darude-sandstorm
+Always Reference By Directory: true
 Artists:
 - Darude
 - JS16
@@ -25387,6 +25480,8 @@ URLs:
 - https://lapfox.bandcamp.com/track/self-coffinizing-prototype-ver
 ---
 Track: Separator
+Directory: separator-radiohead
+Always Reference By Directory: true
 Artists:
 - Radiohead
 Duration: '5:19'
@@ -25427,6 +25522,8 @@ Lyrics: |-
     When at last you give in
 ---
 Track: September
+Directory: september-earth-wind-fire
+Always Reference By Directory: true
 Artists:
 - Earth, Wind & Fire
 Duration: '3:35'
@@ -25605,6 +25702,8 @@ Lyrics: |-
     Ha-ha, Nate Dogg! 
 ---
 Track: Shelter
+Directory: shelter-porter-robinson
+Always Reference By Directory: true
 Artists:
 - Porter Robinson
 - Madeon
@@ -25638,6 +25737,8 @@ Lyrics: |-
     Until... 
 ---
 Track: Smooth
+Directory: smooth-santana
+Always Reference By Directory: true
 Artists:
 - Santana
 Contributors:
@@ -25782,6 +25883,8 @@ Lyrics: |-
     (Hahahaha)
 ---
 Track: Spleen
+Directory: spleen-ruth-white
+Always Reference By Directory: true
 Artists:
 - Ruth White
 Duration: '3:05'
@@ -26520,6 +26623,8 @@ Lyrics: |-
     Alright that's tight what its like to experience - Takyon 
 ---
 Track: Teardrop
+Directory: teardrop-massive-attack
+Always Reference By Directory: true
 Artists:
 - Massive Attack
 - Elizabeth Fraser (lyrics)
@@ -26720,6 +26825,8 @@ Lyrics:
     Technologic
 ---
 Track: Teenagers
+Directory: teenagers-my-chemical-romance
+Always Reference By Directory: true
 Artists:
 - My Chemical Romance
 - Rob Cavallo (production)
@@ -28452,6 +28559,8 @@ Lyrics: |-
     OGG
 ---
 Track: Ultimate
+Directory: ultimate-denzel-curry
+Always Reference By Directory: true
 Artists:
 - Denzel Curry
 - Ronny J
@@ -28741,6 +28850,8 @@ Lyrics: |-
     Aw, ow!
 ---
 Track: Verified
+Directory: verified-your-favorite-martian
+Always Reference By Directory: true
 Duration: 2:52
 Artists:
 - Your Favorite Martian
@@ -29276,6 +29387,8 @@ Lyrics: |-
     (What is a juggalo?)
 ---
 Track: Whales
+Directory: whales-hail-mary-mallons
+Always Reference By Directory: true
 Artists:
 - Hail Mary Mallons
 Duration: '2:15'
@@ -30254,7 +30367,7 @@ URLs:
 - https://www.youtube.com/watch?v=IdzI3tmvrCc
 Sampled Tracks:
 - Shake That
-- Casin
+- track:casin-glue70
 Lyrics: |-
     Two to the one, from the one to the three
     I like good pussy and I like good tree
@@ -30424,6 +30537,8 @@ Commentary: |-
     Flowey's laugh is not a new asset and can be recognized in other media. It was originally a Warner Bros. sound effect mostly used in Pink Panther cartoons and has appeared in titles such as the PlayStation title <a href="https://www.youtube.com/watch?v=2aBa-iQSkxc">Tomba!</a> and the Homestuck soundtrack [[track:the-lordling]], also by Toby Fox.
 ---
 Track: Hackers
+Directory: hackers-iain-softley
+Always Reference By Directory: true
 Duration: 1:47:00
 Artists:
 - Hackers
@@ -30443,6 +30558,8 @@ URLs:
 - https://www.youtube.com/watch?v=Mh5LY4Mz15o
 ---
 Track: Howl
+Directory: howl-allen-ginsberg
+Always Reference By Directory: true
 Artists:
 - Allen Ginsberg
 URLs:

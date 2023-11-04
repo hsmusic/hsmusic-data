@@ -63,6 +63,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/cosmic-significance-2
 ---
 Track: Oversaturated
+Directory: oversaturated-vast-error
+Always Reference By Directory: true
 Artists:
 - pragmaticNihilist
 Cover Artists:
@@ -81,6 +83,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/alone-in-the-rain-2
 ---
 Track: Poetic
+Directory: poetic-vast-error
+Always Reference By Directory: true
 Artists:
 - Wheals
 Cover Artists:
@@ -181,6 +185,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/mother-of-the-stars-2
 ---
 Track: Particle
+Directory: particle-vast-error
+Always Reference By Directory: true
 Artists:
 - Ian Kraemer
 Cover Artists:
@@ -208,6 +214,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/song-for-the-lost-2
 ---
 Track: Time
+Directory: time-vast-error
+Always Reference By Directory: true
 Artists:
 - Ian Kraemer
 Cover Artists:

@@ -149,6 +149,8 @@ Referenced Tracks:
 - Skaianet
 ---
 Track: Whiteout
+Directory: whiteout-p-s
+Always Reference By Directory: true
 Artists:
 - David Dycus
 Duration: '4:24'
@@ -231,6 +233,8 @@ Lyrics: |-
     This will be the end!<br>Come with me and we'll Ascend!<br>Solving puzzles Universal,<br>In our Sburban Reversal!<br>All these Ruins we Explore,<br>Could it be there's something more?<br>Pester me, I'm not alone,<br>I'm just Stuck inside my Home!
 ---
 Track: Bane
+Directory: bane-p-s
+Always Reference By Directory: true
 Artists:
 - Mark J. Hadley
 Duration: '6:06'
@@ -240,6 +244,8 @@ Referenced Tracks:
 - track:bane-old
 ---
 Track: Interstellar
+Directory: interstellar-p-s
+Always Reference By Directory: true
 Artists:
 - Thomas Ferkol
 Duration: '3:43'
@@ -265,7 +271,7 @@ Referenced Tracks:
 - Thunderhead
 - English
 - Black Hole / Green Sun
-- track:glide
+- track:glide-lofam4
 - Sburban Jungle
 - track:ruins
 - Penumbra Phantasm

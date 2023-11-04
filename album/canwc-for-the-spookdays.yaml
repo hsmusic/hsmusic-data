@@ -231,7 +231,7 @@ URLs:
 Referenced Tracks:
 - Where making this hapen
 - Pumpkin Cravings
-- Plague
+- track:plague-canmt
 - Haunted House (Super Mario 64)
 - Inspector Gadget Main Theme
 - revengn
@@ -241,6 +241,8 @@ Sampled Tracks:
 - Donkey Kong SFX
 ---
 Track: bones
+Directory: bones-canmt
+Always Reference By Directory: true
 Artists:
 - Interrobang
 Cover Artists:

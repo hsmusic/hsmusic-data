@@ -12,6 +12,7 @@ Cover Art File Extension: png
 Track Art File Extension: png
 Color: '#EAE8E9'
 Groups:
+- Nasqueron
 - Deconreconstruction
 - Fandom
 ---
@@ -35,6 +36,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/anesidora
 ---
 Track: Inertia
+Directory: inertia-empyreal-rhapsody
+Always Reference By Directory: true
 Duration: '03:47'
 Cover Artists:
 - Xamag
@@ -109,6 +112,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/archon
 ---
 Track: Tributary
+Directory: tributary-empyreal-rhapsody
+Always Reference By Directory: true
 Duration: '03:13'
 Cover Artists:
 - Xamag

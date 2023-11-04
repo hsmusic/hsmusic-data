@@ -96,6 +96,8 @@ Commentary: |-
     Fun fact: I didn't realise for a while that "Homestuck" and "Alternia" were technically remixes themselves, making this a 3x remix-of-remix combob.
 ---
 Track: Downtime
+Directory: downtime-lofam
+Always Reference By Directory: true
 Artists:
 - Thomas Ibarra
 Duration: '2:15'
@@ -137,6 +139,8 @@ Commentary: |-
     Credit to AndrewNeo of Skaia.net for the track's name.
 ---
 Track: Meltwater
+Directory: meltwater-lofam
+Always Reference By Directory: true
 Artists:
 - Elaine Wang
 Duration: '5:04'
@@ -298,7 +302,7 @@ Art Tags:
 - Terezi
 - Vriska
 Referenced Tracks:
-- Vigilante
+- track:vigilante-lofam
 Commentary: |-
     <i>Brenna Curran:</i>
     <code style="color: #008b8b">1:34 4M, TH3 12TH OF 6TH P3R1G33, ST4NDOFF.</code>
@@ -331,6 +335,8 @@ Commentary: |-
     A nice, simple piece. Fashion in Homestuck is associated with Kanaya in my mind so I came up with the idea of Kanaya seeking to escape something, and then halfway through the song the klaxon alarm kicks in. Thus we get this piece of art.
 ---
 Track: Clockbreaker
+Directory: clockbreaker-lofam
+Always Reference By Directory: true
 Artists:
 - Mal McGannon
 Duration: '2:40'
@@ -998,6 +1004,8 @@ Commentary: |-
     This happened through my RP twitter account and I was totally drunk when I made the gif at 3 am. Now Shadolith is one of my fav musicians.
 ---
 Track: Vigilante
+Directory: vigilante-lofam
+Always Reference By Directory: true
 Artists:
 - Brenna Curran
 Duration: '2:00'
@@ -1344,6 +1352,8 @@ Commentary: |-
     <i>Pose as a team, because shit just got real.</i>
 ---
 Track: Farewell
+Directory: farewell-lofam
+Always Reference By Directory: true
 Artists:
 - Fuzz
 Duration: '4:04'

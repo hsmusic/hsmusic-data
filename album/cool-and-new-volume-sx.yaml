@@ -301,10 +301,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/rising-echoes
 - https://youtu.be/mMjRrrDnGVc
 Referenced Tracks:
-- Courage
+- track:courage-jjba
 - Upward Movement (Dave Owns)
 Sampled Tracks:
-- Courage
+- track:courage-jjba
 - Upward Movement (Dave Owns)
 ---
 Track: Moonslammer
@@ -1127,9 +1127,9 @@ Referenced Tracks:
 - track:MeGaLoVania
 - Bassline Junkie
 - One Pound Fish
-- Whales
+- track:whales-hail-mary-mallons
 - The Nutshack Intro
-- Bonfire
+- track:bonfire-childish-gambino
 - Crank That
 - Snow halation
 Sampled Tracks:
@@ -1150,9 +1150,9 @@ Sampled Tracks:
 - track:MeGaLoVania
 - Bassline Junkie
 - One Pound Fish
-- Whales
+- track:whales-hail-mary-mallons
 - The Nutshack Intro
-- Bonfire
+- track:bonfire-childish-gambino
 - Crank That
 - Bowman's Credit Score
 - Vinesauce Joel reacts to GRAND DAD
@@ -2058,6 +2058,8 @@ Referenced Tracks:
 - The Nutshack Intro
 ---
 Track: Harmonize
+Directory: harmonize-canmt
+Always Reference By Directory: true
 Artists:
 - artist:kobacat
 Cover Artists:

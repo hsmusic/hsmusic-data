@@ -64,6 +64,8 @@ URLs:
 - https://www.youtube.com/watch?v=qQkfaUOqymI
 ---
 Track: Malfunction
+Directory: malfunction-portalstuck
+Always Reference By Directory: true
 Duration: '1:06'
 URLs:
 - https://portalstuck.bandcamp.com/track/malfunction
@@ -79,6 +81,8 @@ Referenced Tracks:
 - Even in Death
 ---
 Track: Invincible
+Directory: invincible-portalstuck
+Always Reference By Directory: true
 Duration: '3:22'
 URLs:
 - https://portalstuck.bandcamp.com/track/invincible

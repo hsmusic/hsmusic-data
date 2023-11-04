@@ -208,6 +208,8 @@ Referenced Tracks:
 - Snowy
 ---
 Track: Shop
+Directory: shop-undertale
+Always Reference By Directory: true
 Duration: 0:50
 URLs:
 - https://tobyfox.bandcamp.com/track/shop
@@ -254,6 +256,8 @@ Referenced Tracks:
 - Snowdin Town
 ---
 Track: Premonition
+Directory: premonition-undertale
+Always Reference By Directory: true
 Duration: '1:01'
 URLs:
 - https://tobyfox.bandcamp.com/track/premonition
@@ -306,6 +310,8 @@ Referenced Tracks:
 - track:ruins-undertale
 ---
 Track: Memory
+Directory: memory-undertale
+Always Reference By Directory: true
 Duration: '1:15'
 URLs:
 - https://tobyfox.bandcamp.com/track/memory
@@ -368,6 +374,8 @@ Referenced Tracks:
 - The One Horse Open Sleigh
 ---
 Track: Chill
+Directory: chill-undertale
+Always Reference By Directory: true
 Duration: 0:56
 URLs:
 - https://tobyfox.bandcamp.com/track/chill
@@ -440,7 +448,7 @@ URLs:
 - https://www.youtube.com/watch?v=3LhZWVRp6f4
 - https://open.spotify.com/track/5lLuAtrQXTi204GNxkEenv
 Referenced Tracks:
-- Hotel
+- track:hotel-undertale
 ---
 Track: Metal Crusher
 Duration: '1:03'
@@ -479,6 +487,8 @@ Referenced Tracks:
 - Enemy Approaching
 ---
 Track: Hotel
+Directory: hotel-undertale
+Always Reference By Directory: true
 Duration: '1:27'
 URLs:
 - https://tobyfox.bandcamp.com/track/hotel
@@ -494,10 +504,12 @@ URLs:
 - https://www.youtube.com/watch?v=ltzrV-_v-tI
 - https://open.spotify.com/track/3llcyZnL04lIUQAiBCFng1
 Referenced Tracks:
-- Hotel
+- track:hotel-undertale
 - Once Upon a Time
 ---
 Track: Confession
+Directory: confession-undertale
+Always Reference By Directory: true
 Duration: 0:42
 URLs:
 - https://tobyfox.bandcamp.com/track/confession
@@ -575,7 +587,7 @@ URLs:
 - https://www.youtube.com/watch?v=E7jf_9zdy-E
 - https://open.spotify.com/track/1PVw70FUrm08BuED8bdiPb
 Referenced Tracks:
-- Hotel
+- track:hotel-undertale
 ---
 Track: CORE
 Duration: '2:46'
@@ -669,6 +681,8 @@ URLs:
 - https://open.spotify.com/track/7g2vS40kPg9PVMc8muxzBb
 ---
 Track: Barrier
+Directory: barrier-undertale
+Always Reference By Directory: true
 Duration: 0:31
 URLs:
 - https://tobyfox.bandcamp.com/track/barrier
@@ -716,6 +730,8 @@ Referenced Tracks:
 - Terezi's Theme
 ---
 Track: Finale
+Directory: finale-undertale
+Always Reference By Directory: true
 Duration: '1:52'
 URLs:
 - https://www.youtube.com/watch?v=5qajT8lS2ok
@@ -755,7 +771,7 @@ URLs:
 - https://www.youtube.com/watch?v=0T8AROoIh44
 - https://open.spotify.com/track/4uS9yFLe90uxnAz5VXqHQv
 Referenced Tracks:
-- Barrier
+- track:barrier-undertale
 ---
 Track: Fallen Down (Reprise)
 Duration: '2:30'
@@ -838,6 +854,8 @@ Referenced Tracks:
 - Once Upon a Time
 ---
 Track: Respite
+Directory: respite-undertale
+Always Reference By Directory: true
 Duration: '1:54'
 URLs:
 - https://www.youtube.com/watch?v=USVk9tGQXbo

@@ -28,7 +28,7 @@ Cover Artists:
 Art Tags:
 - Earth
 Referenced Tracks:
-- Daughter
+- track:daughter-desynced
 ---
 Track: Cutest Companion
 Artists:
@@ -55,8 +55,8 @@ Cover Artists:
 Art Tags:
 - Kate (Desynced)
 Referenced Tracks:
-- Daughter
-- Cooldown
+- track:daughter-desynced
+- track:cooldown-desynced
 ---
 Track: Temporal Guardian
 Artists:
@@ -71,7 +71,7 @@ Art Tags:
 - Kate's dad (Desynced)
 Referenced Tracks:
 - Bedelia
-- Daughter
+- track:daughter-desynced
 ---
 Track: Daughter (Short Ver.)
 Artists:
@@ -85,8 +85,8 @@ Cover Artists:
 Art Tags:
 - Kate (Desynced)
 Referenced Tracks:
-- Daughter
-- Cooldown
+- track:daughter-desynced
+- track:cooldown-desynced
 ---
 Track: A Very Forgiving Kind of Guy
 Artists:
@@ -102,6 +102,8 @@ Art Tags:
 - Earth
 ---
 Track: Cooldown
+Directory: cooldown-desynced
+Always Reference By Directory: true
 Artists:
 - Rainy
 Duration: '3:13'
@@ -126,12 +128,14 @@ Art Tags:
 - Kate (Desynced)
 - Kate's dad (Desynced)
 Referenced Tracks:
-- Cooldown
+- track:cooldown-desynced
 - Temporal Guardian
-- Daughter
+- track:daughter-desynced
 - Desynced Anthem
 ---
 Track: Eclipse
+Directory: eclipse-desynced
+Always Reference By Directory: true
 Artists:
 - Net
 Duration: '1:21'
@@ -168,8 +172,8 @@ Art Tags:
 - Kate (Desynced)
 Referenced Tracks:
 - Temporal Guardian
-- Cooldown
-- Daughter
+- track:cooldown-desynced
+- track:daughter-desynced
 ---
 Track: We'll Be Right Back
 Artists:
@@ -186,10 +190,12 @@ Art Tags:
 - 'cw: blood (abstract)'
 Referenced Tracks:
 - Vexation
-- Escapade
+- track:escapade-desynced
 - Liquid Negrocity
 ---
 Track: Daughter
+Directory: daughter-desynced
+Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
 Duration: '1:57'
@@ -216,6 +222,8 @@ Referenced Tracks:
 - Lunar Dance
 ---
 Track: Lady
+Directory: lady-desynced
+Always Reference By Directory: true
 Artists:
 - Levc
 Duration: '1:57'
@@ -239,9 +247,11 @@ Cover Artists:
 Art Tags:
 - Gaea (Desynced)
 Referenced Tracks:
-- Daughter
+- track:daughter-desynced
 ---
 Track: Noir
+Directory: noir-desynced
+Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
 Duration: '2:13'
@@ -253,7 +263,7 @@ Cover Artists:
 Art Tags:
 - Jack Noir
 Referenced Tracks:
-- Escapade
+- track:escapade-desynced
 ---
 Track: Lullaby for a Drifter
 Artists:
@@ -297,6 +307,8 @@ Referenced Tracks:
 - track:alpha-admission
 ---
 Track: Escapade
+Directory: escapade-desynced
+Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
 Duration: '3:22'
@@ -342,7 +354,7 @@ Art Tags:
 - Kate (Desynced)
 - Earth
 Referenced Tracks:
-- Daughter
+- track:daughter-desynced
 ---
 Track: Happy Anthem
 Artists:

@@ -437,6 +437,8 @@ URLs:
 - https://youtu.be/FDhPyrUiOb8
 ---
 Track: Strain
+Directory: strain-canmt
+Always Reference By Directory: true
 Artists:
 - TirantBacon
 - WarxTron
@@ -665,7 +667,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/chronic-infection
 - https://youtu.be/tvwQwsK7_1o
 Referenced Tracks:
-- Infection
+- track:infection-canmt
 - Chronic Jungle
 ---
 Track: Obana Never Gives Up

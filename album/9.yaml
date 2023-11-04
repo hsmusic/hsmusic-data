@@ -104,7 +104,7 @@ URLs:
 Referenced Tracks:
 - Doctor
 - Gaia Queen
-- track:in-the-beginning-canwc
+- track:in-the-beginning-basement-tale
 - Muse of Nanchos
 - Aggrieve
 - track:midnight-suffer
@@ -127,7 +127,7 @@ Lyrics: |-
     D-D-D-D-DO IT!
 Commentary: |-
     <i>Discfortune:</i> (Composer)
-    Okay so when I make songs I usually start out with a dumb gimmick and then I haphazardly flesh it out to an acceptable point (ex. with 72.0x SHOWDOWN COMBO it was the name, with [[track:tick|Tick]] and [[track:tock|Tock]] it was the songs being able to be layered and panned, and with [[track:ringleader|Ringleader]] it was the time signature). Here I sort of started out with that--I was buying Dr. Pepper for a meme at the grocery store when an 11/8 tune came into my mind and I decided to run with it. It was pretty standard, and as usual I made progress rather slowly. The idea was to slowly build up time signatures to reflect the song building up in intensity and soundscape thickness (you might be able to pick out the song going from 11/8, to 12/8, to 13/4, to 14/8, to 4/4). Then later that week [[artist:cecily-renns|JohnJRenns]] gave a whole spiel on how people take too long to make songs for the sake of making them "the best ever" and that in order to improve we should be maximizing speed over quality to gain experience in retrospect. At first I said "okay that's a good idea maybe I'll do that" but then I thought to myself "no, f*** that, I'm going to do whatever the hell I want with this dumb song, it doesn't even need a gimmick". So I did that, and it took a long time, and it was a little bit tiring, but it was fun. I'll probably do this more often: just having fun. 
+    Okay so when I make songs I usually start out with a dumb gimmick and then I haphazardly flesh it out to an acceptable point (ex. with 72.0x SHOWDOWN COMBO it was the name, with [[track:tick|Tick]] and [[track:tock|Tock]] it was the songs being able to be layered and panned, and with [[track:ringleader-canmt|Ringleader]] it was the time signature). Here I sort of started out with that--I was buying Dr. Pepper for a meme at the grocery store when an 11/8 tune came into my mind and I decided to run with it. It was pretty standard, and as usual I made progress rather slowly. The idea was to slowly build up time signatures to reflect the song building up in intensity and soundscape thickness (you might be able to pick out the song going from 11/8, to 12/8, to 13/4, to 14/8, to 4/4). Then later that week [[artist:cecily-renns|JohnJRenns]] gave a whole spiel on how people take too long to make songs for the sake of making them "the best ever" and that in order to improve we should be maximizing speed over quality to gain experience in retrospect. At first I said "okay that's a good idea maybe I'll do that" but then I thought to myself "no, f*** that, I'm going to do whatever the hell I want with this dumb song, it doesn't even need a gimmick". So I did that, and it took a long time, and it was a little bit tiring, but it was fun. I'll probably do this more often: just having fun.
     The song uses a lot of synths, which is relatively new to me. But it was interesting to get a little bit more room to work with, EQ-wise. Also, my motif spacing was really weird. There's this one section before the piano Aggrieve where I vomited out like 3 or 4 motifs because I realized I wasn't being canwc-relevant enough. Probably the hardest part of making the song was the length. In general, it's really hard for me to make anything longer than 2 minutes because I hate looping/repeating sections.
     At the end of the day I guess the song was supposed to serve as the next in a long line of "songs that Crypt made to experiment with new genres"" but I think Spacetime Starstriker sounds too much like a more realized form of [[track:light-at-the-end-of-the-tunnel|Light at the End of the Tunnel]] from [[album:call-and-new-2-locomotif|Train Game]]. But hey, it got me to listen to more electronic music, which I almost never do outside of Homestuck. If I never release my solo album, imagine this as track three. Well, have fun with the rest of the album. It's probably our best one. Don't let [[artist:makin|Makin]] tell you otherwise. MEME
 ---
@@ -263,6 +263,8 @@ Commentary: |-
     <img src="media/misc/Simple-roller-coaster-clipart.jpg" width="150">
 ---
 Track: Stabby
+Directory: stabby-canmt
+Always Reference By Directory: true
 Artists:
 - Rom M
 Cover Artists:
@@ -863,7 +865,7 @@ URLs:
 - https://youtu.be/wcv8V3rZY48
 Referenced Tracks:
 - Lose Yourself
-- track:transcend
+- track:transcend-canmt
 - Sburban Jungle
 - Upward Movement (Dave Owns)
 - track:unintentional-touhou
@@ -881,7 +883,7 @@ Referenced Tracks:
 - track:conflict
 Sampled Tracks:
 - Lose Yourself
-- track:transcend
+- track:transcend-canmt
 - licord nacrasty
 - track:midnight-suffer
 - track:conflict
@@ -1087,7 +1089,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/cool-and-new-jungle
 - https://youtu.be/-35N2HANrPE
 Referenced Tracks:
-- Redial
+- track:redial-bomberman-hero
 - Sburban Jungle
 - Cool And New Countdown
 - I absolutely loathe this Drummer.
@@ -1098,7 +1100,7 @@ Referenced Tracks:
 - Another Jungle
 - track:jungle-3
 Sampled Tracks:
-- Redial
+- track:redial-bomberman-hero
 Commentary: |-
     <i>Difarem:</i> (Composer)
     I'm not really pleased with how this one turned out, especially the ending. It was originally concieved as a corresponding jungle for [[artist:mrcheeze|MrCheeze's]] [[track:cool-and-new-countdown|Cool and New Countdown]], from [[album:call-and-new|call and new]].
@@ -1495,6 +1497,8 @@ Commentary: |-
     European doctor pepper. Jpeg artifacts are intentional.
 ---
 Track: Endure
+Directory: endure-canmt
+Always Reference By Directory: true
 Artists:
 - Pipko Fanfare
 Cover Artists:
@@ -1539,7 +1543,7 @@ Referenced Tracks:
 - GameGrl (Original 1993 Mix)
 - The Nutshack Intro
 - Never Gonna Give You Up
-- Bonfire
+- track:bonfire-childish-gambino
 - Feel Good Inc.
 - I absolutely loathe this Drummer.
 - Tunak Tunak Tun
@@ -1547,7 +1551,7 @@ Referenced Tracks:
 - All Star
 - One Pound Fish
 - X Gon' Give It to Ya
-- Whales
+- track:whales-hail-mary-mallons
 - Put A Donk On It
 - JOHN DO THE WINDY THING
 - Without Me
@@ -1571,7 +1575,7 @@ Sampled Tracks:
 - GameGrl (Original 1993 Mix)
 - Never Gonna Give You Up
 - The Nutshack Intro
-- Bonfire
+- track:bonfire-childish-gambino
 - Feel Good Inc.
 - I absolutely loathe this Drummer.
 - Tunak Tunak Tun
@@ -1580,7 +1584,7 @@ Sampled Tracks:
 - All Star
 - One Pound Fish
 - X Gon' Give It to Ya
-- Whales
+- track:whales-hail-mary-mallons
 - Put A Donk On It
 - JOHN DO THE WINDY THING
 - Without Me
@@ -2081,6 +2085,8 @@ Commentary: |-
     This is probably the track art I'm most proud of for 9. I saw that it was an original composition, which I got really excited about - I could do practically whatever I wanted with the art. So, I'm proud to present my headcanon appearance for "o". Based off of the fact that he goes by a Hella Jeff image, he's a disturbingly high-resolution Hella Jeff clad in a dapper blue cloak, with a nancho around his neck, and two charismatic items (the Tetrix of the Arbitor and the Ink of Squid Pro Quo) fastened to his belt. Just what could he be doing with such holy materials...? Nobody knows, my friends. Nobody knows but him. In all honesty, I had a blast coming up with "o"'s delightfully disturbing visage, and yes, that giant "o" DID take quite a while to shade.
 ---
 Track: Downwards
+Directory: downwards-canmt
+Always Reference By Directory: true
 Artists:
 - StarlightCalliope
 Cover Artists:
@@ -2097,7 +2103,7 @@ Referenced Tracks:
 - End of the world
 - Flare
 - track:MeGaLoVania
-- track:transcend
+- track:transcend-canmt
 - Homestuck
 - track:moshi-moshi
 - Muse of Nanchos
@@ -2109,13 +2115,13 @@ Referenced Tracks:
 - justice must be a serve
 - Fighting Spirit
 - Rhythm Code
-- Plague
-- Infection
+- track:plague-canmt
+- track:infection-canmt
 - Tock
 - Tick
 - track:1-through-15
 - CONTACT
-- track:in-the-beginning-canwc
+- track:in-the-beginning-basement-tale
 - Ratboy Genius Theme Song
 - track:formation
 - Fruity Pebbles Jingle
@@ -2128,14 +2134,14 @@ Referenced Tracks:
 - Rex Duodecim Angelus
 - Aggrieve
 - Step's Theme
-- Vaccine
+- track:vaccine-canmt
 - Oh Boo Hoo
 - track:jungle-3
 - track:fighting-spirit-double-ascended-form
 - While the Iron's Hot
 - track:unintentional-touhou
 - Unintentional Anime (Piano Version)
-- track:ringleader
+- track:ringleader-canmt
 - Touchdown
 Sampled Tracks:
 - Upward Movement (Dave Owns)

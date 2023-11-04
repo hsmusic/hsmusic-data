@@ -25,6 +25,8 @@ URLs:
 - https://www.youtube.com/watch?v=NLB2Vc7FrY0
 ---
 Track: Title Theme
+Directory: title-theme-friendsim-2
+Always Reference By Directory: true
 Artists:
 - James Roach
 Duration: '04:25'
@@ -35,6 +37,8 @@ Commentary: |-
     i did it in the style of the originals, and played around with the [[track:homestuck|homestuck melody]] but made it different enough that it is its own thing
 ---
 Track: Credits Theme
+Directory: credits-theme-friendsim-2
+Always Reference By Directory: true
 Artists:
 - Funk McLovin
 Duration: '00:37'
@@ -87,6 +91,8 @@ Referenced Tracks:
 - Friendsim 2 Prologue End Fanfare
 ---
 Track: Prologue
+Directory: prologue-friendsim-2
+Always Reference By Directory: true
 Artists:
 - FrostyMac
 Duration: '02:53'
@@ -104,9 +110,11 @@ Duration: '01:26'
 URLs:
 - https://studiojune.bandcamp.com/track/detectives-prelude
 Referenced Tracks:
-- Investigation
+- track:investigation-friendsim-2
 ---
 Track: Investigation
+Directory: investigation-friendsim-2
+Always Reference By Directory: true
 Artists:
 - FrostyMac
 Duration: '01:12'
@@ -129,9 +137,11 @@ Duration: '01:12'
 URLs:
 - https://studiojune.bandcamp.com/track/investigation-chill-mix
 Referenced Tracks:
-- Investigation
+- track:investigation-friendsim-2
 ---
 Track: Trial Theme
+Directory: trial-theme-friendsim-2
+Always Reference By Directory: true
 Artists:
 - FrostyMac
 Duration: '02:13'
@@ -145,7 +155,7 @@ Duration: '01:58'
 URLs:
 - https://studiojune.bandcamp.com/track/cross-examining-the-witness
 Referenced Tracks:
-- Trial Theme
+- track:trial-theme-friendsim-2
 ---
 Track: Hot Pink Denial
 Artists:
@@ -248,6 +258,8 @@ URLs:
 - https://studiojune.bandcamp.com/track/wanshis-rp-extravaganza
 ---
 Track: Tavern
+Directory: tavern-friendsim-2
+Always Reference By Directory: true
 Artists:
 - Funk McLovin
 Duration: '01:32'
@@ -255,6 +267,8 @@ URLs:
 - https://studiojune.bandcamp.com/track/tavern
 ---
 Track: Dungeon
+Directory: dungeon-friendsim-2
+Always Reference By Directory: true
 Artists:
 - Funk McLovin
 Duration: '01:27'
@@ -271,6 +285,8 @@ URLs:
 - https://studiojune.bandcamp.com/track/join-the-skeleton-war
 ---
 Track: Baggage
+Directory: baggage-friendsim-2
+Always Reference By Directory: true
 Artists:
 - articulatelyComposed
 Duration: '01:12'

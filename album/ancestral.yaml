@@ -454,6 +454,8 @@ Commentary: |-
     Capturing such a profound moment proved to be somewhat challenging, balancing struggle, triumph, and condescension all in one piece. The process of creating such a proud and arrogant face of victory washed over by the shadows of an unforeseeable future was very fun, eagerly claiming the crown for her own, for better of or for worse.
 ---
 Track: Rampage
+Directory: rampage-ancestral
+Always Reference By Directory: true
 Artists:
 - Mathias Ramalho
 Duration: '1:21'
@@ -528,6 +530,8 @@ Commentary: |-
     The Dolorosa makes the fateful decision to abandon the mother grub and care for the mutant anomaly, the Signless, setting into motion events far beyond her understanding, ones that will have far reaching consequences, even beyond her own timeline. The music begins as the ramifications of her decision quickly begin to unfold, following not just her efforst to keep the Signless safe on the surface, but the broader implications that her choice set in motion. The gears begin to turn...
 ---
 Track: Protector
+Directory: protector-ancestral
+Always Reference By Directory: true
 Artists:
 - Sean William Calhoun
 Duration: '6:12'
@@ -751,6 +755,8 @@ Commentary: |-
     This made me think of Darkleer's life in general so here he is, standing proud and doing his job, and then his slouched form bemoaning his existence after being banished.
 ---
 Track: Legacy
+Directory: legacy-ancestral
+Always Reference By Directory: true
 Artists:
 - aeolianChemist
 Duration: '3:56'
@@ -1532,6 +1538,8 @@ Commentary: |-
     I decided to focus on Darkleer struggling to reconcile his weakness towards two known criminals and how their influence forces him to question his loyalty to the Empress, as well as his role in enforcing her hemocaste system.
 ---
 Track: Leftovers
+Directory: leftovers-ancestral
+Always Reference By Directory: true
 Artists:
 - psithurist
 Duration: '4:08'
@@ -1577,6 +1585,8 @@ Commentary: |-
     The only time Pyralspite and Redglare are shown together in-comic they're busy raining hellfire on Mindfang's fleet, so I wanted to create a more intimate moment to showcase their relationship. A monstrous and powerful, but loving, dragon mother surrounds and protects her cocky, talented daughter with a dangerous passion for justice. I wanted it to look a bit like an aged photograph, like an old, warm memory, which is something the harpsichord made me think of. As we know, Pyralspite outlived Redglare by quite a lot.
 ---
 Track: Preach
+Directory: preach-ancestral
+Always Reference By Directory: true
 Artists:
 - Seijen
 Duration: '3:19'
@@ -1685,4 +1695,4 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/track/bonus-leftovers-instrumental
 - https://www.youtube.com/watch?v=achjkhBpiKs
 Referenced Tracks:
-- Leftovers
+- track:leftovers-ancestral

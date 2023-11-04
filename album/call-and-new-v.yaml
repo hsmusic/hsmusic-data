@@ -168,6 +168,8 @@ Referenced Tracks:
 - Courser
 ---
 Track: Deadline
+Directory: deadline-canmt
+Always Reference By Directory: true
 Artists:
 - Kusoro
 Duration: '01:51'
@@ -186,7 +188,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/dont-forget-to-save-ur-game
 - https://youtu.be/ALCTR4WFkvs
 Referenced Tracks:
-- Deadline
+- track:deadline-canmt
 - Gallant Gunshot
 ---
 Track: Save Your Game in XCOM
@@ -380,9 +382,11 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/nick-smalley-on-the-harmonium-ladies-and-gentlemen
 - https://youtu.be/UBTK4Gnnxcs
 Referenced Tracks:
-- Repent
+- track:repent-canmt
 ---
 Track: Repent
+Directory: repent-canmt
+Always Reference By Directory: true
 Artists:
 - whimsi
 Duration: '01:21'
@@ -529,7 +533,7 @@ URLs:
 - https://youtu.be/nNe61New5aw
 Referenced Tracks:
 - Insanatorium
-- Separator
+- track:separator-radiohead
 ---
 Track: Insanatorium
 Artists:
@@ -714,9 +718,9 @@ Duration: '03:39'
 URLs:
 - https://youtu.be/3E3v3UjmuvE
 Referenced Tracks:
-- Deadline
+- track:deadline-canmt
 - Nick Smalley on the Harmonium Ladies and Gentlemen
-- Repent
+- track:repent-canmt
 - Double Time
 - Nick Bostrom Pays For His Sins
 - despacito 2

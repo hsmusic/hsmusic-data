@@ -132,9 +132,9 @@ Referenced Tracks:
 - Strider Showdown (loop)
 - Character Theme for Dirk Strider
 - I Am An Island
-- Dominion
+- track:dominion-lofam3
 - Orange Hat
-- Rematch
+- track:rematch-paradox-music-team
 - Shut Me Down
 - track:synchronize-fansong
 - Good Morning, Dirk
@@ -170,7 +170,7 @@ Art Tags:
 - Caliborn
 - Lil Cal
 Referenced Tracks:
-- Singularity
+- track:singularity-cosmic-caretakers
 - HOMOSUCK. DIRECTOR'S CUT, OF THE YEAR EDITION.
 - Eternity Served Cold
 - Austin, Atlantis
@@ -207,6 +207,8 @@ Referenced Tracks:
 - Homestuck Anthem
 ---
 Track: Betrayed
+Directory: betrayed-diverging-delicacies
+Always Reference By Directory: true
 Artists:
 - Joe Ouellet
 Duration: '2:09'
@@ -261,6 +263,8 @@ Referenced Tracks:
 - Chorale for Jaspers
 ---
 Track: Come
+Directory: come-diverging-delicacies
+Always Reference By Directory: true
 Artists:
 - Grace Medley
 Duration: '3:45'
@@ -277,7 +281,7 @@ Referenced Tracks:
 - track:limelight
 - Voidlight
 - track:light-in-the-darkness
-- track:glide
+- track:glide-lofam4
 ---
 Track: Kamina Burana (Ascend to the highest point of the building)
 Directory: kamina-burana

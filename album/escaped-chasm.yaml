@@ -33,6 +33,8 @@ Commentary: |-
      The title for this track is an improvised version based on the file name, the original file name is "title_Toby"
 ---
 Track: House
+Directory: house-escaped-chasm
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '1:48'
@@ -97,6 +99,8 @@ Commentary: |-
      The title for this track is an improvised version based on the file name, the original file name is "temmie_demonman_last2"
 ---
 Track: Secret
+Directory: secret-escaped-chasm
+Always Reference By Directory: true
 Artists:
 - Toby Fox
 Duration: '1:05'

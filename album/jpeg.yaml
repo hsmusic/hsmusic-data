@@ -129,7 +129,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/jhon-vs-dabe
 - https://youtu.be/gr9noez_p5I
 Referenced Tracks:
-- Otherworld
+- track:otherworld-final-fantasy-ix
 Sampled Tracks:
 - Soldier 76 voice lines from Overwatch
 Commentary: |-
@@ -293,7 +293,7 @@ URLs:
 - https://www.youtube.com/watch?v=vWVnTl4ovos
 Referenced Tracks:
 - Aggrieve
-- Smack
+- track:smack-khonjin-house
 - RollerCoaster Tycoon Theme
 Sampled Tracks:
 - rose pragnant
@@ -426,6 +426,8 @@ Lyrics: |-
     Big Bad Beta Kids
 ---
 Track: Terminal
+Directory: terminal-canmt
+Always Reference By Directory: true
 Artists:
 - Grace Medley
 Cover Artists:
@@ -979,7 +981,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/ultimate-hope
 - https://youtu.be/e70cRYWymzc
 Referenced Tracks:
-- Homicide
+- track:homicide-danganronpa
 - Emerald Terror
 - track:moshi-moshi
 - Doctor
@@ -1005,7 +1007,7 @@ URLs:
 - https://youtu.be/4OQ0bQgNbOE
 Referenced Tracks:
 - licord nacrasty
-- Discordant
+- track:discordant-cecily-renns
 - RollerCoaster Tycoon Theme
 - track:unintentional-touhou
 - Oppa Toby Style

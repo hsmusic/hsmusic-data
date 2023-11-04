@@ -53,6 +53,8 @@ URLs:
 - https://soundcloud.com/aviralmedium/4-saturday-morning?in=aviralmedium/sets/volume1
 ---
 Track: News
+Directory: news-a-viral-medium
+Always Reference By Directory: true
 Duration: '2:52'
 URLs:
 - https://aviralmedium.bandcamp.com/track/news

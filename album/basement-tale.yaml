@@ -24,7 +24,7 @@ Commentary: |-
     (<a href="https://www.youtube.com/watch?v=UbUTs-9XMC4&t=385">Community listening stream w/ chat</a>)
 ---
 Track: In the Beginning
-Directory: in-the-beginning-canwc
+Directory: in-the-beginning-basement-tale
 Cover Artists:
 - olkiswerve
 Art Tags:
@@ -51,7 +51,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/doomsday-strife
 - https://youtu.be/Q7zElND-y3s
 Referenced Tracks:
-- track:in-the-beginning-canwc
+- track:in-the-beginning-basement-tale
 Commentary: |-
     <i>Makin:</i> (team manager)
     Very loosely based on Undertale's [[track:enemy-approaching]]
@@ -86,6 +86,8 @@ Commentary: |-
     Very loosely based on Undertale's [[track:anticipation]]
 ---
 Track: Fragments
+Directory: fragments-basement-tale
+Always Reference By Directory: true
 Cover Artists:
 - avocado
 Art Tags:
@@ -95,10 +97,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/fragments
 - https://youtu.be/sjQGllBqflk
 Referenced Tracks:
-- track:in-the-beginning-canwc
+- track:in-the-beginning-basement-tale
 Commentary: |-
     <i>Makin:</i> (team manager)
-    Based on Undertale's [[track:memory]]
+    Based on Undertale's [[track:memory-undertale]]
 ---
 Track: Battle Against an Average Foe
 Cover Artists:
@@ -112,7 +114,7 @@ URLs:
 - https://youtu.be/-DN2avXK0Xk
 Referenced Tracks:
 - Doomsday Strife
-- track:in-the-beginning-canwc
+- track:in-the-beginning-basement-tale
 Commentary: |-
     <i>Makin:</i> (team manager)
     Based on Undertale's [[track:enemy-approaching]]
@@ -127,8 +129,8 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/basement-tale
 - https://youtu.be/YYUJTNvFuPY
 Referenced Tracks:
-- Fragments
-- track:in-the-beginning-canwc
+- track:fragments-basement-tale
+- track:in-the-beginning-basement-tale
 Commentary: |-
     <i>Makin:</i> (team manager)
     Based on Undertale's [[track:undertale]]
@@ -188,7 +190,7 @@ Referenced Tracks:
 - licord nacrasty
 - Rex Duodecim Angelus
 - Aggrieve
-- track:in-the-beginning-canwc
+- track:in-the-beginning-basement-tale
 Commentary: |-
     <i>Makin:</i> (team manager)
     Based on Homestuck's [[track:rex-duodecim-angelus]]
@@ -203,7 +205,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/cools-and-news
 - https://youtu.be/4G0Wtk_0xCA
 Referenced Tracks:
-- track:in-the-beginning-canwc
+- track:in-the-beginning-basement-tale
 - cool and new Jungle (Alpha Mix)
 Commentary: |-
     <i>Makin:</i> (team manager)
@@ -226,11 +228,11 @@ URLs:
 - https://youtu.be/cimDWeqH1DI
 Referenced Tracks:
 - RollerCoaster Tycoon Theme
-- track:in-the-beginning-canwc
+- track:in-the-beginning-basement-tale
 - Doomsday Strife
 - cool and new Jungle (Alpha Mix)
 - Battle Against a Boring Foe
-- Fragments
+- track:fragments-basement-tale
 - Battle Against an Average Foe
 - Basement Tale
 - Argia

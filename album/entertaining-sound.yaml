@@ -131,6 +131,8 @@ Commentary: |-
     based on a true story
 ---
 Track: body
+Directory: body-entertaining-sound
+Always Reference By Directory: true
 Duration: '1:10'
 URLs:
 - https://conlangcritic.bandcamp.com/track/body
@@ -196,7 +198,7 @@ Referenced Tracks:
 - Bergentrückung
 - ASGORE
 - Heartache
-- Memory
+- track:memory-undertale
 - His Theme
 - Noisemaster Theme
 - Oh Whoa, What's This
@@ -222,7 +224,7 @@ Referenced Tracks:
 - Everybody Everybody
 - All Star
 - Peanut Butter Jelly
-- Badgers
+- track:badgers-mrweebl
 - Running in the 90's
 - Fabulous Secret Powers
 - Marisa Stole the Precious Thing
@@ -230,7 +232,7 @@ Referenced Tracks:
 - Caramelldansen
 - Showtime (Piano Refrain)
 - Nyanyanyanyanyanyanya!【Momo Momone】
-- Friday
+- track:friday-rebecca-black
 - Gangnam Style
 - I knew you were trouble Ft. Screaming goat
 - Yee
@@ -242,7 +244,7 @@ Referenced Tracks:
 - Classical Gas
 - CAT NO BANANA
 - Jump Up, Super Star!
-- Fireflies
+- track:fireflies-owl-city
 - Voidfish Duet
 - what year is it
 - Hotel Mario

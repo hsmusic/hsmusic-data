@@ -575,6 +575,8 @@ Lyrics: |-
     Jhon: Consume
 ---
 Track: Transcend
+Directory: transcend-canmt
+Always Reference By Directory: true
 Artists:
 - TirantBacon
 Cover Artists:
@@ -891,7 +893,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/focus
 - https://youtu.be/akdb2EPVWuA
 Referenced Tracks:
-- track:focus
+- track:focus-super-hexagon
 - Flare
 - Meet the Flintstones
 - Explore

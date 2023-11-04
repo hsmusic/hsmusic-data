@@ -71,6 +71,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/terran-wanderer-2
 ---
 Track: Bias
+Directory: bias-vast-error
+Always Reference By Directory: true
 Artists:
 - sympolite
 Cover Artists:
@@ -112,7 +114,7 @@ Artists:
 Cover Artists:
 - Joyfulldreams
 Referenced Tracks:
-- Miserlou
+- track:miserlou
 - Do the Bartman
 Duration: '01:44'
 URLs:

@@ -16,6 +16,8 @@ Groups:
 - Fandom
 ---
 Track: Methodology
+Directory: methodology-repiton
+Always Reference By Directory: true
 Duration: '3:56'
 URLs:
 - https://vasterror.bandcamp.com/track/methodology
@@ -56,13 +58,15 @@ Duration: '3:22'
 URLs:
 - https://vasterror.bandcamp.com/track/thats-right
 Referenced Tracks:
-- September
+- track:september-earth-wind-fire
 Sampled Tracks:
 - Episodes of The Simpsons
 - Episodes of The Fairly Odd Parents
 - The Lego Movie
 ---
 Track: Survival
+Directory: survival-repiton
+Always Reference By Directory: true
 Cover Artists:
 - grechushka
 Duration: '2:51'
@@ -85,6 +89,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/intermission-risk
 ---
 Track: Moonlight
+Directory: moonlight-repiton
+Always Reference By Directory: true
 Cover Artists:
 - koroke
 Duration: '3:01'
@@ -104,7 +110,7 @@ Cover Artists:
 - big chalupa
 Duration: '3:17'
 Referenced Tracks:
-- Oversaturated
+- track:oversaturated-vast-error
 URLs:
 - https://vasterror.bandcamp.com/track/tyrant
 ---
@@ -133,6 +139,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/remember
 ---
 Track: Promise
+Directory: promise-repiton
+Always Reference By Directory: true
 Cover Artists:
 - Calibratorg
 Duration: '3:03'

@@ -24,6 +24,7 @@ Additional Files:
   - bg.jpg
 ---
 Track: Mothership
+Directory: mothership-look-on-my-works
 Duration: '3:48'
 URLs:
 - https://bowman.bandcamp.com/track/mothership
@@ -226,6 +227,8 @@ Commentary: |-
     (<a href="https://www.youtube.com/watch?v=TGQn4ZUgHa4">Music video!</a>)
 ---
 Track: Unstoppable
+Directory: unstoppable-look-on-my-works
+Always Reference By Directory: true
 Duration: '5:03'
 URLs:
 - https://bowman.bandcamp.com/track/unstoppable

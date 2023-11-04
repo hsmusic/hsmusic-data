@@ -21,6 +21,8 @@ Wallpaper Artists:
 Listed on Homepage: false
 ---
 Track: Someday
+Directory: someday-clark-powell
+Always Reference By Directory: true
 Artists:
 - Clark Powell
 Contributors:
@@ -39,4 +41,4 @@ Duration: '4:41'
 URLs:
 - https://clarkpowell.bandcamp.com/track/someday-astro-kid-remix
 Referenced Tracks:
-- Someday
+- track:someday-clark-powell

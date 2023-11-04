@@ -550,6 +550,8 @@ Art Tags:
 - Jack Noir
 ---
 Track: Usurp
+Directory: usurp-canmt
+Always Reference By Directory: true
 Duration: '1:44'
 Artists:
 - flagellumVagueness
@@ -1144,6 +1146,8 @@ Art Tags:
 - Skaia
 ---
 Track: Tycoon
+Directory: tycoon-canmt
+Always Reference By Directory: true
 Duration: '3:23'
 Artists:
 - Noisemaker
@@ -1179,6 +1183,7 @@ Art Tags:
 - Jhon
 ---
 Track: V A P O R S T U C K
+Directory: vaporstuck-canmt
 Duration: '2:07'
 Artists:
 - Avianzo
@@ -1189,7 +1194,6 @@ URLs:
 - https://www.youtube.com/watch?v=rLvPAogDkaw
 Referenced Tracks:
 - Elevatorstuck
-Directory: vaporstuck-canv1
 Art Tags:
 - Jhon
 ---

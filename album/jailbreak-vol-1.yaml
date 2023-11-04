@@ -49,6 +49,8 @@ Commentary:
 Section: Main album
 ---
 Track: Fanfare
+Directory: fanfare-jailbreak
+Always Reference By Directory: true
 Artists:
 - Robert J! Lake
 Duration: 0:13
@@ -109,6 +111,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Assail
+Directory: assail-jailbreak
+Always Reference By Directory: true
 Artists:
 - Erik Scheele
 Duration: '2:41'
@@ -119,6 +123,8 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Confrontation
+Directory: confrontation-jailbreak
+Always Reference By Directory: true
 Artists:
 - Andrew Huo
 Duration: '2:06'
@@ -152,6 +158,8 @@ Cover Artists:
 - Ginnie Sea
 ---
 Track: Bars
+Directory: bars-jailbreak
+Always Reference By Directory: true
 Artists:
 - Robert J! Lake
 - Luke Benjamins
@@ -353,6 +361,8 @@ Referenced Tracks:
 - Squiddles!
 ---
 Track: Distanced
+Directory: distanced-jailbreak
+Always Reference By Directory: true
 Artists:
 - Robert J! Lake
 Duration: '2:08'
@@ -399,7 +409,7 @@ Duration: '43:06'
 URLs:
 - https://www.youtube.com/watch?v=ITGuz64rQQg
 Lyrics: |-
-    [[track:fanfare|-FANFARE-]]
+    [[track:fanfare-jailbreak|-FANFARE-]]
     GFD: Welcome to "Holy Shit, Sesame Street's YouTube was porned, and also I guess Jailbreak is happening".
     RJ!: It's the album commentary, yeah.
     Nick: This is... Welcome, this is me.
@@ -578,7 +588,7 @@ Lyrics: |-
     GFD: I feel like that would be better than what we had it as.
     RJ!: No more talking. Jit: Okay.
 
-    [[track:assail|-ASSAIL-]]
+    [[track:assail-jailbreak|-ASSAIL-]]
     Nick: I love this one.
     RJ!: I love this one too. Hi, Jit.
     Nick: Forget everything else, this song's the best.
@@ -615,7 +625,7 @@ Lyrics: |-
     GFD: God has all the time in the world, though. Literally.
     Nick: Woah, what the hell was that?
 
-    [[track:confrontation|-CONFRONTATION-]]
+    [[track:confrontation-jailbreak|-CONFRONTATION-]]
     GFD: Oh, here we go.
     Jit: This is— RJ!: [bad song imitation] Jit: —more Adghar. RJ!: Yeah, definitely.
     Nick: So, what is this? GFD: Me and RJ were part, were inspirations for the song, a little bit. You can hear quotes from some of my songs that had never actually been out ever. Uh...
@@ -685,8 +695,8 @@ Lyrics: |-
     Jit: Does he even have any tracks on this album?
     RJ!: No, he does not have any tra—
 
-    [[track:bars|-BARS-]]
-    GFD: Oh, here's [[track:bars|Bars]]. Here's [[track:bars|Bars]] coming on.
+    [[track:bars-jailbreak|-BARS-]]
+    GFD: Oh, here's [[track:bars-jailbreak|Bars]]. Here's [[track:bars-jailbreak|Bars]] coming on.
     RJ!: I made this. Yeah, I made this.
     GFD: Yeah, RJ made this and I helped a little bit, except actually the whole song was me the whole time! You didn't expect that, did you?
     RJ!: Why was that so funny to you? Jit: Was it really all you?
@@ -896,7 +906,7 @@ Lyrics: |-
     RJ!: Pik, Pick, Pic Skull. Nick: No, don't say it, don't say it.
     Jit: Is this really from Cave Story?
     GFD: No, it's not. RJ!: No, it's not actually from Cave Story. Jit: Okay, good.
-    GFD: Just like RJ actually made [[track:bars|Bars]]. [laughter] Oh, wait... Man, it's missing all the oomph that it used to have. It's all uh—
+    GFD: Just like RJ actually made [[track:bars-jailbreak|Bars]]. [laughter] Oh, wait... Man, it's missing all the oomph that it used to have. It's all uh—
     RJ!: It's more...  Nick: YOU'RE missing the oomph. RJ!: Softer than—
     GFD: It's wimpier.
     Nick: You're wimpier.

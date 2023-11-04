@@ -186,6 +186,8 @@ Art Tags:
 - Ace Dick
 ---
 Track: Aggress
+Directory: aggress-weird-puzzle-tunes
+Always Reference By Directory: true
 Artists:
 - WHATISLOSTINTHEMINES
 Duration: '2:46'
@@ -246,7 +248,7 @@ Cover Artists:
 Art Tags:
 - Problem Sleuth
 Referenced Tracks:
-- Aggress
+- track:aggress-weird-puzzle-tunes
 - Battle Against An Imaginary Foe
 - Problem Sleuth Theme
 ---

@@ -28,6 +28,102 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
+    <h3 id="04-nov-2023"><a href="#04-nov-2023">[[date:04 November 2023]] - directories upon directories</a></h3>
+    <h3>data changes</h3>
+    - changed directories of most one-common-word tracks, outside [[group:official]], to indicate the album or source material in the name
+        - added <code>-a-nameless-inheritance</code> to directories of [[track:exploratory-a-nameless-inheritance]], [[track:execute-a-nameless-inheritance]], [[track:abandoned-a-nameless-inheritance]], [[track:enclosure-a-nameless-inheritance]], [[track:heart-attack-a-nameless-inheritance]], [[track:horrify-a-nameless-inheritance]], [[track:exterminate-a-nameless-inheritance]], [[track:outbreak-a-nameless-inheritance]], [[track:lurk-a-nameless-inheritance]], [[track:terrify-a-nameless-inheritance]], [[track:undisturbed-a-nameless-inheritance]], [[track:ritual-a-nameless-inheritance]], [[track:doomed-a-nameless-inheritance]], [[track:heritage-a-nameless-inheritance]], [[track:bequest-a-nameless-inheritance]]
+        - added <code>-a-shade-of-blue</code> to directory of [[track:ignite-a-shade-of-blue]]
+        - added <code>-a-viral-medium</code> to directory of [[track:news-a-viral-medium]]
+        - added <code>-act-8</code> to directories of [[track:earthbound-act-8]], [[track:medic-act-8]]
+        - added <code>-anew-again</code> to directory of [[track:decree-anew-again]]
+        - added <code>-aspect-clock</code> to directory of [[track:caretakers-aspect-clock]]
+        - added <code>-autumn-every-day</code> to directory of [[track:pass-autumn-every-day]]
+        - added <code>-archive</code> to directory of [[track:bandages-archive]]
+        - added <code>-basement-tale</code> to directory of [[track:fragments-basement-tale]] and replaced <code>-canwc</code> in directory of [[track:in-the-beginning-basement-tale]]
+        - added <code>-beforus</code> to directories of [[track:timeout-beforus]], [[track:voided-beforus]]
+        - added <code>-bittersweet</code> to directories of [[track:ally-bittersweet]], [[track:ballroom-bittersweet]], [[track:close-bittersweet]]
+        - added <code>-canmt</code> to directories of [[track:usurp-canmt]], [[track:tycoon-canmt]], [[track:dull-canmt]], [[track:dentist-canmt]], [[track:harmonize-canmt]], [[track:ruses-canmt]], [[track:revival-canmt]], [[track:decelerate-canmt]], [[track:theory-canmt]], [[track:running-canmt]], [[track:transcend-canmt]], [[track:quartet-canmt]], [[track:arise-canmt]], [[track:median-canmt]], [[track:midnight-canmt]], [[track:inaugural-canmt]], [[track:ringleader-canmt]], [[track:backtracking-canmt]], [[track:infection-canmt]], [[track:plague-canmt]], [[track:vaccine-canmt]], [[track:converge-canmt]], [[track:adventure-canmt]], [[track:terminal-canmt]], [[track:stabby-canmt]], [[track:endure-canmt]], [[track:downwards-canmt]], [[track:bones-canmt]], [[track:repent-canmt]], [[track:strain-canmt]], [[track:conflicted-canmt]], [[track:endurance-canmt]], [[track:epilogue-canmt]] and replaced <code>-canv1</code> in directory of [[track:vaporstuck-canmt]], <code>-muse-of-net</code> in directory of [[track:nightmare-canmt]]
+        - added <code>-canwave-2</code> to directory of [[track:intro-canwave-2]]
+        - added <code>-class-act</code> to directory of [[track:away-class-act]]
+        - added <code>-clark-powell</code> to directory of [[track:someday-clark-powell]]
+        - added <code>-cosmic-caretakers</code> to directories of [[track:rangoon-cosmic-caretakers]], [[track:singularity-cosmic-caretakers]]
+        - added <code>-deltarune</code> to directories of [[track:school-deltarune]], [[track:cliffs-deltarune]], [[track:lantern-deltarune]], [[track:basement-deltarune]], [[track:gallery-deltarune]], [[track:friendship-deltarune]], [[track:queen-deltarune]]
+        - added <code>-desynced</code> to directories of [[track:cooldown-desynced]], [[track:eclipse-desynced]], [[track:daughter-desynced]], [[track:lady-desynced]], [[track:noir-desynced]], [[track:escapade-desynced]], [[track:egress-desynced]], [[track:chat-desynced]], [[track:arrival-desynced]], [[track:absolution-desynced]], [[track:pokerface-desynced]], [[track:gestalt-desynced]]
+        - added <code>-diverging-delicacies</code> to directories of [[track:betrayed-diverging-delicacies]], [[track:come-diverging-delicacies]]
+        - added <code>-early-access</code> to directories of [[track:cog-early-access]], [[track:blastoff-early-access]], [[track:extermination-early-access]]
+        - added <code>-ebhh</code> to directories of [[track:synchronicity-ebhh]], [[track:sewers-ebhh]], [[track:winters-ebhh]]
+        - added <code>-electric-daydreams</code> to directory of [[track:purgatory-electric-daydreams]]
+        - added <code>-empyreal-rhapsody</code> to directories of [[track:inertia-empyreal-rhapsody]], [[track:tributary-empyreal-rhapsody]]
+        - added <code>-entertaining-sound</code> to directory of [[track:body-entertaining-sound]]
+        - added <code>-escaped-chasm</code> to directories of [[track:house-escaped-chasm]], [[track:secret-escaped-chasm]]
+        - added <code>-faux-dramatica</code> to directories of [[track:turncoat-faux-dramatica]], [[track:naught-faux-dramatica]]
+        - added <code>-friendsim-2</code> to directories of [[track:title-theme-friendsim-2]], [[track:credits-theme-friendsim-2]], [[track:prologue-friendsim-2]], [[track:investigation-friendsim-2]], [[track:trial-theme-friendsim-2]], [[track:tavern-friendsim-2]], [[track:dungeon-friendsim-2]], [[track:baggage-friendsim-2]]
+        - added <code>-friendsymphony</code> to directory of [[track:leech-friendsymphony]]
+        - added <code>-glitchstuck</code> to directories of [[track:altercate-glitchstuck]], [[track:redemption-glitchstuck]]
+        - added <code>-gravity-makes-the-flame-rise</code> to directories of [[track:burnout-gravity-makes-the-flame-rise]], [[track:manufacturers-gravity-makes-the-flame-rise]], [[track:anarchy-gravity-makes-the-flame-rise]]
+        - added <code>-guidestuck</code> to directories of [[track:decay-guidestuck]], [[track:naturae-guidestuck]], [[track:animosity-guidestuck]]
+        - added <code>-gotta-hatch-em-all</code> to directory of [[track:fairies-gotta-hatch-em-all]], replaced <code>-sahcon</code> in directory of [[track:title-theme-gotta-hatch-em-all]]
+        - added <code>-heaven-sent</code> to directory of [[track:chroma-heaven-sent]]
+        - added <code>-heinoustuck</code> to directories of [[track:asylum-heinoustuck]], [[track:rooftop-heinoustuck]], [[track:striving-heinoustuck]], [[track:rainforest-heinoustuck]], [[track:ignition-heinoustuck]]
+        - added <code>-homestuck-swagazaki</code> to directory of [[track:sacrifice-homestuck-swagazaki]]
+        - added <code>-hush</code> to directories of [[track:tribes-hush]], [[track:redshifts-hush]], [[track:rage-hush]], [[track:chameleon-hush]]
+        - added <code>-inhospitable</code> to directories of [[track:misconduct-inhospitable]], [[track:regrets-inhospitable]]
+        - added <code>-ithaca</code> to directories of [[track:ascension-ithaca]], [[track:noun-ithaca]]
+        - added <code>-jailbreak</code> to directories of [[track:fanfare-jailbreak]], [[track:assail-jailbreak]], [[track:confrontation-jailbreak]], [[track:bars-jailbreak]], [[track:distanced-jailbreak]]
+        - added <code>-jamie-paige</code> to directory of [[track:virtue-jamie-paige]]
+        - added <code>-labyrinths-heart</code> to directories of [[track:minotaur-labyrinths-heart]], [[track:pleas-labyrinths-heart]], [[track:forgotten-labyrinths-heart]], [[track:shoreline-labyrinths-heart]], [[track:fission-labyrinths-heart]]
+        - added <code>-lofam</code> to directories of [[track:downtime-lofam]], [[track:meltwater-lofam]], [[track:clockbreaker-lofam]], [[track:vigilante-lofam]], [[track:farewell-lofam]]
+        - added <code>-lofam2</code> to directories of [[track:rectify-lofam2]], [[track:sports-lofam2]], [[track:irradiated-lofam2]], [[track:four-lofam2]], [[track:trapped-lofam2]], [[track:gangsta-lofam2]], [[track:prophecy-lofam2]]
+        - added <code>-lofam3</code> to directories of [[track:medium-lofam3]], [[track:waveform-lofam3]], [[track:dominion-lofam3]], [[track:contention-lofam3]], [[track:scabbard-lofam3]], [[track:insomniac-lofam3]]
+        - added <code>-lofam4</code> to directories of [[track:merge-lofam4]], [[track:reunited-lofam4]], [[track:altitude-lofam4]], [[track:intermission-lofam4]], [[track:scales-lofam4]], [[track:glide-lofam4]], [[track:ghosts-lofam4]], [[track:hiatus-lofam4]], [[track:red-lofam4]], [[track:reconciled-lofam4]], [[track:shatter-lofam4]], [[track:denizen-lofam4]], [[track:everlasting-lofam4]]
+        - added <code>-lofam5</code> to directories of [[track:dreamers-lofam5]], [[track:wayward-lofam5]], [[track:predomination-lofam5]], [[track:reunion-lofam5]]
+        - added <code>-lofam5a2</code> to directories of [[track:dictator-lofam5a2]], [[track:beckoning-lofam5a2]], [[track:puppeteer-lofam5a2]], [[track:movement-lofam5a2]]
+        - added <code>-look-on-my-works</code> to directories of [[track:mothership-look-on-my-works]], [[track:unstoppable-look-on-my-works]]
+        - added <code>-moons-of-theseus</code> to directories of [[track:traveling-moons-of-theseus]], [[track:unchained-moons-of-theseus]]
+        - added <code>-nice-wizard</code> to directory of [[track:connect-nice-wizard]]
+        - added <code>-no-place-like-home</code> to directory of [[track:confined-no-place-like-home]] and replaced <code>-tee-vee</code> in directory of [[track:megalovania-no-place-like-home]]
+        - added <code>-oceanfables</code> to directories of [[track:chiptune-oceanfables]], [[track:reed-oceanfables]], [[track:starfish-oceanfables]], [[track:swag-oceanfables]], [[track:piano-oceanfables]]
+        - added <code>-oceanfalls</code> to directories of [[track:illusions-oceanfalls]], [[track:surge-oceanfalls]], [[track:iceshards-oceanfalls]], [[track:performance-oceanfalls]], [[track:reminiscence-oceanfalls]], [[track:crystalline-oceanfalls]], [[track:atomic-oceanfalls]], [[track:rambling-oceanfalls]], [[track:cinders-oceanfalls]], [[track:mayday-oceanfalls]]
+        - added <code>-one-week-older</code> to directories of [[track:november-one-week-older]], [[track:sunset-one-week-older]], [[track:daddy-one-week-older]]
+        - added <code>-p-s</code> to directories of [[track:whiteout-p-s]], [[track:bane-p-s]], [[track:interstellar-p-s]]
+        - added <code>-pantheon-</code> to directories of [[track:matriarch-pantheon]], [[track:tyrant-pantheon]], [[track:luminary-pantheon]], [[track:nemesis-pantheon]], [[track:machina-pantheon]], [[track:breakdown-pantheon]]
+        - added <code>-planet-earth</code> to directories of [[track:pink-planet-earth]], [[track:mistakes-planet-earth]]
+        - added <code>-play-the-rain</code> to directory of [[track:stalemate-play-the-rain]]
+        - added <code>-portalstuck</code> to directories of [[track:malfunction-portalstuck]], [[track:invincible-portalstuck]]
+        - added <code>-psycholonials-ep-2</code> to directory of [[track:together-psycholonials-ep-2]], added <code>-psycholonials-ep-4</code> to directories of [[track:outlaw-psycholonials-ep-4]] and [[track:breakthroughs-psycholonials-ep-4]], added <code>-psycholonials-ep-9</code> to directory of [[track:threshold-psycholonials-ep-9]], and replaced <code>-ost</code> with <code>-psycholonials</code> across [[album:psycholonials]]
+        - added <code>-qualia</code> to directories of [[track:the-intro-qualia]], [[track:science-qualia]], [[track:the-sewer-qualia]], [[track:the-race-qualia]], [[track:the-demon-qualia]], [[track:phoenix-qualia]], [[track:staff-roll-qualia]]
+        - added <code>-rappets</code> to directory of [[track:davekat-rappets]]
+        - added <code>-repiton</code> to directories of [[track:methodology-repiton]], [[track:survival-repiton]], [[track:moonlight-repiton]], [[track:promise-repiton]]
+        - added <code>-retcon</code> to directories of [[track:space-retcon]], [[track:regicide-retcon]], [[track:closure-retcon]]
+        - added <code>-rivervale</code> to directory of [[track:lakeside-rivervale]]
+        - added <code>-rose-of-winter</code> to directories of [[track:danger-rose-of-winter]], [[track:emotionless-rose-of-winter]], [[track:heroism-rose-of-winter]], [[track:tension-rose-of-winter]]
+        - added <code>-sburb-funkin-edition</code> to directories of [[track:abscond-sburb-funkin-edition]], [[track:gamzee-sburb-funkin-edition]]
+        - added <code>-sburban-neighborhood</code> to directory of [[track:remember-sburban-neighborhood]]
+        - added <code>-shortcuts</code> to directory of [[track:pulse-shortcuts]]
+        - added <code>-slender</code> to directories of [[track:ponder-slender]], [[track:tainted-slender]], [[track:shadowed-slender]], [[track:distance-slender]], [[track:conceal-slender]], [[track:isolate-slender]], [[track:suspended-slender]], [[track:constricted-slender]], [[track:corrupted-slender]], [[track:responsible-slender]], [[track:willow-slender]]
+        - added <code>-stuckhome-syndrome</code> to directories of [[track:lost-stuckhome-syndrome]], [[track:entropy-stuckhome-syndrome]], [[track:islander-stuckhome-syndrome]], [[track:hope-stuckhome-syndrome]], [[track:exiled-stuckhome-syndrome]], [[track:sunglasses-stuckhome-syndrome]], [[track:sandles-stuckhome-syndrome]], [[track:pocketwatch-stuckhome-syndrome]], [[track:prototyping-stuckhome-syndrome]], [[track:questline-stuckhome-syndrome]], [[track:cruxtruder-stuckhome-syndrome]], [[track:cloudling-stuckhome-syndrome]], [[track:halfways-stuckhome-syndrome]], [[track:hardly-stuckhome-syndrome]], [[track:other-stuckhome-syndrome]], [[track:subspace-stuckhome-syndrome]], [[track:crush-stuckhome-syndrome]], [[track:within-stuckhome-syndrome]], [[track:weirdo-stuckhome-syndrome]], [[track:underneath-stuckhome-syndrome]], [[track:static-stuckhome-syndrome]], [[track:nerds-stuckhome-syndrome]], [[track:pesterchum-stuckhome-syndrome]], [[track:smoothly-stuckhome-syndrome]], [[track:moonlit-stuckhome-syndrome]]
+        - added <code>-sunday-night-strifin</code> to directories of [[track:sleepwalk-sunday-night-strifin]], [[track:verdancy-sunday-night-strifin]], [[track:grimdark-sunday-night-strifin]], [[track:playtime-sunday-night-strifin]], [[track:halloween-hack-sunday-night-strifin]], [[track:catfight-sunday-night-strifin]], [[track:heinous-sunday-night-strifin]], [[track:shenanigans-sunday-night-strifin]]
+        - added <code>-team-paradox</code> to directories of [[track:pure-team-paradox]], [[track:hollow-team-paradox]], [[track:advanse-team-paradox]]
+        - added <code>-the-consuming-shadow</code> to directories of [[track:driven-the-consuming-shadow]], [[track:rotund-the-consuming-shadow]], [[track:unnatural-the-consuming-shadow]], [[track:haunted-the-consuming-shadow]], [[track:secretive-the-consuming-shadow]], [[track:unfathomable-the-consuming-shadow]], [[track:broken-the-consuming-shadow]], [[track:encompass-the-consuming-shadow]], [[track:ancient-the-consuming-shadow]], [[track:dawn-the-consuming-shadow]]
+        - added <code>-the-funk-mclovin-homestuck-experience</code> to directory of [[track:introduction-the-funk-mclovin-homestuck-experience]]
+        - added <code>-triassic-slump</code> to directory of [[track:meteors-triassic-slump]]
+        - added <code>-tumblrstuck</code> to directory of [[track:surmount-tumblrstuck]]
+        - added <code>-ulterior-motives</code> to directories of [[track:communion-ulterior-motives]], [[track:sabotage-ulterior-motives]], [[track:interlude-ulterior-motives]], [[track:mechanism-ulterior-motives]], [[track:saint-ulterior-motives]], [[track:powerline-ulterior-motives]], [[track:utopia-ulterior-motives]]
+        - added <code>-undertale</code> to directories of [[track:shop-undertale]], [[track:premonition-undertale]], [[track:memory-undertale]], [[track:chill-undertale]], [[track:hotel-undertale]], [[track:confession-undertale]], [[track:barrier-undertale]], [[track:finale-undertale]], [[track:respite-undertale]]
+        - added <code>-vast-error</code> to directories of [[track:bias-vast-error]], [[track:oversaturated-vast-error]], [[track:poetic-vast-error]], [[track:particle-vast-error]], [[track:time-vast-error]], [[track:nostalgia-vast-error]], [[track:immortal-vast-error]], [[track:predestination-vast-error]], [[track:corporate-vast-error]], [[track:dismantled-vast-error]], [[track:lovecraft-vast-error]], [[track:eve-vast-error]], [[track:clamor-vast-error]]
+        - added <code>-vinculum-vitae</code> to directories of [[track:unification-vinculum-vitae]], [[track:entangled-vinculum-vitae]]
+        - added <code>-we-are-all-satellites</code> to directories of [[track:harrigan-we-are-all-satellites]], [[track:mischief-we-are-all-satellites]], [[track:miranda-we-are-all-satellites]], [[track:lunatic-we-are-all-satellites]]
+        - added <code>-weird-puzzle-tunes</code> to directory of [[track:aggress-weird-puzzle-tunes]]
+        - added <code>-xenoplanetarium</code> to directory of [[track:acquiesce-xenoplanetarium]]
+        - added artists or source material to directories across [[group:additional-tracks]]: [[track:calliope-malcolm-brown]], [[track:cats-toby-fox]], [[track:feel-luke-benjamins]], [[track:flow-solatrus]], [[track:haunt-andrew-hussie]], [[track:valor-toby-fox]], [[track:gnade-redditstuck]], [[track:higher-ost]], [[track:rematch-paradox-music-team]], [[track:snowfall-paradox-music-team]], [[track:wanderlust-paradox-music-team]], [[track:man-deltarune]], [[track:nuclear-james-roach]], [[track:terra-solatrus]], [[track:beginning-castlevania-draculas-curse]], [[track:dissonance-quincy-pringle]], [[track:focus-super-hexagon]], [[track:harmony-runescape]], [[track:homicide-danganronpa]], [[track:infinite-sonic-forces]], [[track:otherworld-final-fantasy-ix]], [[track:plantation-cave-story]], [[track:power-mother]], [[track:redial-bomberman-hero]], [[track:synchrony-brandish-the-planet-buster]], [[track:you-dai]], [[track:chase-jjba]], [[track:courage-jjba]], [[track:mailtime-blues-clues]], [[track:smack-khonjin-house]], [[track:chopsticks-euphemia-allen]], [[track:badgers-mrweebl]], [[track:bodies-drowning-pool]], [[track:bonfire-childish-gambino]], [[track:carnival-gorillaz]], [[track:casin-glue70]], [[track:crawling-linkin-park]], [[track:discordant-cecily-renns]], [[track:divinity-porter-robinson]], [[track:dust-moon]], [[track:earth-smile]], [[track:faint-linkin-park]], [[track:fever-little-willie-john]], [[track:fireflies-owl-city]], [[track:flicker-porter-robinson]], [[track:friday-rebecca-black]], [[track:gentleman-psy]], [[track:hoverboard-dirtyphonics]], [[track:hydrogen-moon]], [[track:if-placeboing]], [[track:killers-cboyardee]], [[track:lawnmower-neil-cicierega]], [[track:linger-the-cranberries]], [[track:parade-justice]], [[track:piss-neil-cicierega]], [[track:risen-terry-a-davis]], [[track:darude-sandstorm]], [[track:separator-radiohead]], [[track:september-earth-wind-fire]], [[track:shelter-porter-robinson]], [[track:smooth-santana]], [[track:spleen-ruth-white]], [[track:teardrop-massive-attack]], [[track:teenagers-my-chemical-romance]], [[track:ultimate-denzel-curry]], [[track:verified-your-favorite-martian]], [[track:whales-hail-mary-mallons]], [[track:hackers-iain-softley]], [[track:howl-allen-ginsberg]]
+    <h3>data fixes</h3>
+    - fixed [[track:dance-stab-dance]] not referencing [[track:sburban-jungle]] (thanks, Sgeo!)
+    - fixed [[track:revisit-rewind]] and [[track:omega-timeline]] referencing [[track:intro-canwave-2]] instead of [[track:gunshow-2-theme-instrumental]] (thanks, Makin!)
+    - fixed [[track:unbreakable-unity]] referencing and sampling itself instead of [[track:an-unbreakable-union]]
+    - fixed typos in commentary for [[track:feel-alive]] and [[track:castle]] (thanks, Lilith!)
+    - removed duplicate of [[track:overlook-vast-error]] from [[album:more-homestuck-fandom]]
+    - added [[album:empyreal-rhapsody]] to [[group:nasqueron]] group (aka [[artist:kal-la-kal-la]])
+
     <h3 id="30-oct-2023"><a href="#30-oct-2023">[[date:30 October 2023]] - patchin' it up</a></h3>
     <h3>data fixes</h3>
     - added art tags for [[album:the-rebornening]]
@@ -181,7 +277,7 @@ Content: |-
         - added [[tag:matriorb]] to [[track:rainbow-rebirth]]
         - added [[tag:tumor]] to [[track:game-lost]]
         - added [[tag:veil]] to [[track:cosmic-malfunction]]
-        - added [[tag:victory-platform]] (new tag) to [[track:farewell]], [[track:higher-hopes]], [[track:disc2-beforus]], [[track:black-hole-white-door]], [[track:reunion]]
+        - added [[tag:victory-platform]] (new tag) to [[track:farewell-lofam]], [[track:higher-hopes]], [[track:disc2-beforus]], [[track:black-hole-white-door]], [[track:reunion-lofam5]]
         - [[track:720x-showdown-combo]]: added [[tag:the-condesce]], [[tag:consorts]], [[tag:battlefield]], [[tag:earth]]
 
     <h2 id="20-sep-2023"><a href="#20-sep-2023">[[date:20 September 2023]] - after<sup>2</sup>party cleanup</a></h2>
@@ -205,7 +301,7 @@ Content: |-
         - updated artwork for [[track:yo-quiero-la-homestuck]] and [[track:versus-oblivion]]
         - removed unavailable Bandcamp listening link for [[track:home-stuck]]
         - updated art tags for [[track:lost-in-the-dream-bubbles]], [[track:the-imminently-deceased]], [[track:celestial-company]] and [[track:lost-memories]]
-        - fixed artist commentary for many tracks including [[track:dictator]], [[track:vriskafic8ion]], [[track:flight-of-the-meteor-year-1]], [[track:ruined-singularity-lofam5a2]], [[track:lunar-solace]], [[track:yo-quiero-la-homestuck]], [[track:stuck]], [[track:when-the-curtains-part-lofam5a2]], [[track:caffeinated-jittering]], [[track:light-in-the-darkness-lofam5a2]], and [[track:lost-memories]], among others
+        - fixed artist commentary for many tracks including [[track:dictator-lofam5a2]], [[track:vriskafic8ion]], [[track:flight-of-the-meteor-year-1]], [[track:ruined-singularity-lofam5a2]], [[track:lunar-solace]], [[track:yo-quiero-la-homestuck]], [[track:stuck]], [[track:when-the-curtains-part-lofam5a2]], [[track:caffeinated-jittering]], [[track:light-in-the-darkness-lofam5a2]], and [[track:lost-memories]], among others
     - fixed [[track:secondhand-memories]] not referencing [[track:showtime-original-mix]] (thanks, Viko!)
     - fixed [[track:green-hill-zone-canmt]] referencing... itself, instead of [[track:green-hill-zone]]
     - fixed incorrect art tag for [[track:hauntjelly]] (thanks, Horizonseek!)
@@ -243,11 +339,11 @@ Content: |-
     - fixed [[track:john-sleeps-skaian-magicant]] not listing any artists or references (thanks, JG!)
     - fixed [[track:lies-with-the-sea]] not referencing [[track:lies-with-the-sea-beta]]
     - fixed [[track:noirscape]] not referencing [[track:upward-movement-dave-owns]], [[track:sburban-jungle]], [[track:beatdown-strider-style]], [[track:mutiny]], [[track:explore]], OR [[track:penumbra-phantasm]] (thanks, FF!)
-    - fixed [[track:vigilante-cornered]] not referencing [[track:vigilante]] (thanks, Grace!)
+    - fixed [[track:vigilante-cornered]] not referencing [[track:vigilante-lofam]] (thanks, Grace!)
     - fixed [[track:cometfall]] referencing [[track:ocean-stars]] and not referencing [[track:amen-brother]]
     - fixed [[track:unstable-loops]] and [[track:ruined-singularity]] referencing [[track:ruins-with-strings]] instead of [[track:ruins]]
     - fixed [[track:another-noir-extended-void-mix]] referencing other tracks directly instead of [[track:another-noir]]
-    - fixed [[track:you-reposted-in-the-wrong-neighborhood]] not referencing [[track:shake-that]] or [[track:casin]]
+    - fixed [[track:you-reposted-in-the-wrong-neighborhood]] not referencing [[track:shake-that]] or [[track:casin-glue70]]
 
     <h2 id="04-sep-2023"><a href="#04-sep-2023">[[date:04 September 2023]] - maintenance, mayhaps</a></h2>
     <h3>other additions</h3>
@@ -271,11 +367,11 @@ Content: |-
     - fixed [[track:absolutely-overfamiliar-shrine]] having a listening link for a different track (thanks, Mixolydian!)
     - fixed [[track:requiem-for-a-homestuck]] having art tags despite not having unique artwork
     - fixed many missing references across [[group:oceanfalls]] albums (thanks, Witch's Cadence!)
-        - fixed [[track:illusions]], [[track:iceshards]], [[track:fiery-depths]], [[track:performance]], [[track:brought-this-upon-yourself]], [[track:firefly-oceanfalls]], [[track:up-from-the-depths]], and [[track:right-hand-confrontation]] not referencing [[track:yellow-and-purple]]
-        - fixed [[track:arias-house]] and [[track:the-sunderers-reprisal]] not referencing [[track:illusions]]
+        - fixed [[track:illusions-oceanfalls]], [[track:iceshards-oceanfalls]], [[track:fiery-depths]], [[track:performance-oceanfalls]], [[track:brought-this-upon-yourself]], [[track:firefly-oceanfalls]], [[track:up-from-the-depths]], and [[track:right-hand-confrontation]] not referencing [[track:yellow-and-purple]]
+        - fixed [[track:arias-house]] and [[track:the-sunderers-reprisal]] not referencing [[track:illusions-oceanfalls]]
         - fixed [[track:incompetent-trio]] not referencing [[track:route-228-day]]
         - fixed [[track:inept-quartet]] not referencing [[track:incompetent-trio]]
-        - fixed [[track:reed-chill]] not referencing [[track:reed]]
+        - fixed [[track:reed-chill]] not referencing [[track:reed-oceanfables]]
         - fixed [[track:the-sunderers-reprisal]] not referencing [[track:brought-this-upon-yourself]]
         - fixed [[track:right-hand-confrontation]] not referencing [[track:emotional-moment]]
         - fixed [[track:up-from-the-depths]], [[track:right-hand-confrontation]], and [[track:to-ashes-it-returns]] not referencing [[track:fiery-depths]]
@@ -375,7 +471,7 @@ Content: |-
         - moved commentary on [[track:beekeeper-who-i-dont-know-her]] over to [[track:homestead]], and annotated where it originates from
         - added rerelease context in commentary for [[track:charuns-cave]] and [[track:beekeeper-who-i-dont-know-her]]
         - changed [[lame and old webcomic voluem 10 (MEGA MILX)]] to sample [[track:of-gods-and-witches]] (from [[album:songs-unsung]]) instead of [[track:of-gods-and-witches-vol-10]] (from [[album:homestuck-vol-10]])
-        - changed [[track:ephemeral-muse-final-remix]] to reference [[track:harrigan]] instead of [[track:ephemeral-muse]]
+        - changed [[track:ephemeral-muse-final-remix]] to reference [[track:harrigan-we-are-all-satellites]] instead of [[track:ephemeral-muse]]
     <h3>data fixes</h3>
     - fixed [[track:black-rose-green-sun]] not referencing [[track:macabre]] (thanks, Makin!)
     - fixed [[track:terezi-owns]] not referencing [[track:crystalanthemums]] (thanks, JG!)
@@ -387,7 +483,7 @@ Content: |-
     - fixed [[track:normal-song-name]] referencing [[track:homestuck]] and [[track:MeGaLoVania]] instead of [[track:sburban-jungle]] and [[track:upward-movement-dave-owns]]
     - fixed [[track:are-you-lost]] referencing [[track:fallen-down]] instead of [[track:lost-girl]]
     - fixed [[track:showtime-remix]] referencing [[track:showtime-piano-refrain]] (still in sampling list)
-    - fixed [[track:yellow-and-purple]] and [[track:illusions]] having incorrect listening links
+    - fixed [[track:yellow-and-purple]] and [[track:illusions-oceanfalls]] having incorrect listening links
     - fixed [[track:game-hypothesis]] having an incorrect listening link (thanks, FF!)
     - fixed typo in lyrics for [[track:cerulean-skies]] (lower-case I in "But all i found were long-dead-ends")
     - fixed various errors regarding [[track:homestuck-anthem]] and [[track:homestuck]]
@@ -407,7 +503,7 @@ Content: |-
         - fixed [[track:three-in-the-morning-4-13-hours-late-remix]] not sampling [[track:rollercoaster-tycoon-theme]]
         - fixed [[track:dentist]] not sampling [[track:seinfeld-theme]]
         - fixed [[track:infinite-zest]] not sampling [[track:let-the-squiddles-sleep-end-theme]]
-        - fixed [[track:predomination]] not sampling [[track:let-the-squiddles-sleep-end-theme]]
+        - fixed [[track:predomination-lofam5]] not sampling [[track:let-the-squiddles-sleep-end-theme]]
         - fixed [[track:are-you-lost-full-album-stream]] not sampling [[track:medium-are-you-lost]]
     - fixed missing cover artist info for a few tracks:
         - fixed [[track:troleplanet]] missing credits for [[artist:bambosh]]
@@ -541,7 +637,7 @@ Content: |-
     - fixed incorrect listening link for [[track:doctors-ringtone-no-sfx]]
     - fixed playlist-related issues in YouTube links for [[album:cool-and-new-voulem1]], [[track:same-bpm]] and all tracks in [[album:election-season]] & [[album:dialed-to-11]]
     - fixed trailer link for [[album:cool-and-new-volume-ii]] linking to the trailer for [[album:cool-and-new-volume-2]]
-    - fixed incorrect or missing art tags in [[album:s-collide]], [[track:eternity-served-cold-canon-edit]], [[track:riches-to-ruins-movements-i-and-ii]], [[track:nine-lives-one-love]], [[track:adios-lost-boys]], [[track:dance-of-viridian-and-violet]], [[track:beetermination-thinking-bee]], [[track:dr-pepper]], [[track:carefree-consternation]], [[track:urban-jungle]], [[track:rex-duodecim-angelus-remix]], [[track:infinite-zest]], [[track:predomination]], and [[track:shattered-spacetime]]
+    - fixed incorrect or missing art tags in [[album:s-collide]], [[track:eternity-served-cold-canon-edit]], [[track:riches-to-ruins-movements-i-and-ii]], [[track:nine-lives-one-love]], [[track:adios-lost-boys]], [[track:dance-of-viridian-and-violet]], [[track:beetermination-thinking-bee]], [[track:dr-pepper]], [[track:carefree-consternation]], [[track:urban-jungle]], [[track:rex-duodecim-angelus-remix]], [[track:infinite-zest]], [[track:predomination-lofam5]], and [[track:shattered-spacetime]]
 
     <h2 id="05-mar-2023" class="major-release"><a href="#05-mar-2023">[[date:05 March 2023]] - Track Doctor</a></h2>
     <h3>site changes</h3>
@@ -613,7 +709,7 @@ Content: |-
     - fixed [[track:pondsquatter-live-chamber-version]] not attributing [[artist:talea-ensemble]] (thanks, Makin!)
     - fixed [[track:saltish]] attributing [[artist:makin]] instead of [[artist:hadron]] for the track artwork (thanks, Makin!)
     - fixed typo in commentary for [[track:raise-of-the-conductors-baton]] (thanks, Makin!)
-    - fixed [[track:bane]] not referencing... [[track:bane-old]]
+    - fixed [[track:bane-p-s]] not referencing... [[track:bane-old]]
     - fixed [[track:diskhordance]] not referencing [[track:alterkate]] (thanks, Sgeo!)
     - fixed [[track:dave-striders-cool-mixtape]] not referencing [[track:the-lights-rebellion]] (thanks, Circlejourney!)
     - fixed [[track:bon-voyage-amigo]] attributing the composers from EarthBound instead of [[artist:shogo-sakai]] (thanks, FF!)
@@ -755,7 +851,7 @@ Content: |-
     - fixed incorrect references in the following tracks: [[track:aggrieve-remix]], [[track:nic-cage-song]], [[track:white-host-green-room]] (thanks, Cello!), [[track:oppa-toby-style]], [[track:lilith-in-starlight]], [[track:2016-but-all-the-best-memes-happen-at-the-same-time]], [[track:toby-fox-has-written-hundreds-of-unique-original-songs]], [[track:blood-for-my-ancestors]]
     - fixed missing artist attributions in the following tracks: [[track:contention-vol4]], [[track:red-sucker]] (thanks, cookiefonster!), [[track:broom-temperature]], [[track:frondly-warning]], [[track:oh-god-christmas]] and [[track:a-very-special-time]] (thanks, Makin!), [[track:a-spirited-conversation]], [[track:broken-dreams]], [[track:emerald-icarus]], [[track:take-flight]], [[track:born-to-die]], [[track:well-be-right-back]] (thanks, Celeste!), [[track:tacit-blue]] (thanks, Comfy!)
     - fixed incorrect artist attributions in the following tracks: [[track:explore]], [[track:green-lolly]] and [[track:red-sucker]], [[track:metamorphic-choices]], [[track:the-will-to-fight-further]]
-    - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together]]/[[track:together-ost]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
+    - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together-psycholonials-ep-2]]/[[track:together-psycholonials]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
     - fixed incorrectly formatted names for [[track:skaian-dreams-remix]], [[album:sburb-ost]], and [[track:heir-seer-knight-witch]]
     - lots and lots of fixes to artist data, including names, aliases, removing dead links, and adding more links (thanks in part to Vortexius, deesoff, Geese, MT Argentum!)
     - fixed [[artist:paige-turner]] (thanks, cookiefonster!), [[artist:carla-bravo]], [[artist:danna-vital]], [[artist:griffin-mcelroy]], [[artist:josefin-b]], [[artist:kate-holden]], [[artist:kobacat]], and [[artist:neil-cicierega]] having some artist credits under a different name
@@ -804,7 +900,7 @@ Content: |-
         - [[track:myststuck-suite-full-version]]
         - [[track:requiem-for-something-really-excellent-demo]]
     - added a bunch more tags from Celeste (thanks again!):
-        - added new [[tag:scalemates]] tag to [[track:the-lemonsnout-turnabout]], [[track:teal-seer]], [[track:trollcops]], [[album:perfectly-generic-album]], and [[track:scales]]
+        - added new [[tag:scalemates]] tag to [[track:the-lemonsnout-turnabout]], [[track:teal-seer]], [[track:trollcops]], [[album:perfectly-generic-album]], and [[track:scales-lofam4]]
         - added new [[tag:cats]] tag to [[track:wisest-wizord]], [[track:pumpkin-party-in-sea-hitlers-water-apocalypse]], [[track:pink-cat]], [[track:vodka-mutiny]], and [[track:ectobiology]]
         - added [[tag:aradia]], [[tag:john]], and [[tag:meenah]] tags to [[album:perfectly-generic-album]]
         - added [[tag:the-disciple]] and [[tag:mindfang]] tags to [[track:lazutrix]]
@@ -816,7 +912,7 @@ Content: |-
         - added [[tag:pyralspite]] tag to [[track:teal-seer]] and [[track:disc3-ancestral]]
         - swapped out [[tag:tavros]] tag for [[tag:rufioh]] in [[track:ghost-hole]]
         - added cw animal death to [[track:death-of-the-lusii]]
-        - added blood cw to [[track:irradiated]], [[track:the-carnival]], [[track:trollian-standoff]], [[track:eternal-suffering]], [[track:subjugglation]], [[track:disc2-ancestral]], [[track:disc3-ancestral]], [[track:walls-covered-in-blood-dx]], [[track:a-rebels-requiem]]
+        - added blood cw to [[track:irradiated-lofam2]], [[track:the-carnival]], [[track:trollian-standoff]], [[track:eternal-suffering]], [[track:subjugglation]], [[track:disc2-ancestral]], [[track:disc3-ancestral]], [[track:walls-covered-in-blood-dx]], [[track:a-rebels-requiem]]
         - added blood (abstract) cw to [[track:nepetas-theme]] and [[track:fool]]
         - added body horror cw to [[track:disc2-ancestral]]
         - added corpse cw to [[track:corpse-casanova]], [[track:disc2-ancestral]], [[track:crockercorpse]], [[track:checkerboard-checkmate]], [[track:a-rebels-requiem]]
@@ -897,7 +993,7 @@ Content: |-
     <h3>data changes</h3>
     - grouped the tracks in [[album:diverging-delicacies]] according to the corresponding portion of the homestuck epilogues (thanks, Niklink and FF!)
     - added a Color tag to [[album:the-baby-is-you]], so links to it don't just inherit the color of the containing page (e.g. track reference in [[track:the-bad-time-is-you]] previously looking green; thanks, Celeste!)
-    - added soundcloud links for [[track:star-i-never-caught]], [[track:someday]], and [[track:harrigan]] (thanks, FF!)
+    - added soundcloud links for [[track:star-i-never-caught]], [[track:someday]], and [[track:harrigan-we-are-all-satellites]] (thanks, FF!)
     - data fixes/tweaks throughout [[album:entertaining-sound]]:
         - [[track:2016-but-all-the-best-memes-happen-at-the-same-time]] references [[track:goodbye-to-the-underground]] (not [[track:good-night]]) and [[track:stone-halation]] (not [[track:snow-halation]])
         - [[track:oh-2017]] references [[track:woah]]
@@ -948,21 +1044,21 @@ Content: |-
         - [[album:homestuck-vol-8]] ([[track:terraform]], [[track:arcade-thunder]])
         - [[album:homestuck-vol-9]] ([[track:anbroids-v2]], [[track:trepidation]], [[track:despot]], [[track:negative-aperture]], [[track:stargaze]])
         - [[album:lofam2]] ([[track:embittered-shore]], [[track:ugly-story]])
-        - [[album:lofam3]] ([[track:medium]], [[track:courtroom-shuffle]], [[track:retrobution-ohgodwhy-remix]], [[track:insomniac]])
-        - [[album:lofam4]] ([[track:scales]], [[track:altitude]], [[track:aura-of-colour]], [[track:thyme-on-my-fries]], [[track:collision-course-davepetas-movement]], [[track:skaian-rebirth]])
+        - [[album:lofam3]] ([[track:medium-lofam3]], [[track:courtroom-shuffle]], [[track:retrobution-ohgodwhy-remix]], [[track:insomniac-lofam3]])
+        - [[album:lofam4]] ([[track:scales-lofam4]], [[track:altitude-lofam4]], [[track:aura-of-colour]], [[track:thyme-on-my-fries]], [[track:collision-course-davepetas-movement]], [[track:skaian-rebirth]])
         - [[album:prospit-and-derse]] ([[track:darkened-streets]])
         - [[album:rust-apocalypse]] (album art)
         - [[album:the-wanderers]] ([[track:ruins-rising]])
         - [[album:vaporwave-2016]] (album art)
         - plus, reference fixes in [[track:beforus]], [[track:forest-fire]], [[track:daywalker-rise]], [[track:upward-meowvement-davepetasprite2-owns]], and [[track:requited-dirtiest-remix]]...
-        - as well as typo fixes in [[track:the-land-of-wind-and-shade]], [[track:vigilante-cornered]], [[track:atomik-meltdown]], [[track:starkind]], [[track:vigilante]], [[track:the-drawing-of-the-four]], [[track:reconciled]], [[track:emerald-cinders]], [[track:prospitian-monody]], [[track:ultimate-alchemy]], [[track:exsanguinated]], [[track:premortem]], and [[track:revisit-rewind]] commentary too!
+        - as well as typo fixes in [[track:the-land-of-wind-and-shade]], [[track:vigilante-cornered]], [[track:atomik-meltdown]], [[track:starkind]], [[track:vigilante-lofam]], [[track:the-drawing-of-the-four]], [[track:reconciled-lofam4]], [[track:emerald-cinders]], [[track:prospitian-monody]], [[track:ultimate-alchemy]], [[track:exsanguinated]], [[track:premortem]], and [[track:revisit-rewind]] commentary too!
     - art tag fixes from foreverFlummoxed as well:
         - [[album:beforus]] ([[track:disc2-beforus]], [[track:times-apostate]], [[track:antevorta]], [[track:with-the-fishes]], [[track:timeout]], [[track:voided]], [[track:the-light-forms-us]], [[track:motions-of-infinity]])
         - typo fixes in [[track:funeral-march-of-the-avenging-dead]] commentary too!
     - plus art tags for [[album:mobius-trip-and-hadron-kaleido]]
     - added [[track:say-i-gotta-believe]] to reference list for [[track:gamebro-original-1990-mix]]
         - credits to niklink for noticing makin for noticing someone else noticing this
-    - added [[track:showtime-original-mix]] and [[track:the-beginning-of-something-really-excellent]] to reference list for [[track:confrontation]] (thanks, Mixolydian!)
+    - added [[track:showtime-original-mix]] and [[track:the-beginning-of-something-really-excellent]] to reference list for [[track:confrontation-jailbreak]] (thanks, Mixolydian!)
 
     <h2 id="17-apr-2021"><a href="#17-apr-2021">[[date:17 April 2021]] - album links on tag pages fix</a></h2>
     <h3>bug fixes</h3>
@@ -1120,7 +1216,7 @@ Content: |-
         - fixed typo in lyrics for [[track:cr1m1n4l-cr1m1n4l]] (used to be "Hey, crinimal scum, ...")
     - added art tags to [[track:the-golden-towers]] and [[track:prospit-dreamers]], thanks to Celeste!
     - fixed duplicate commentary entries in [[track:doctor-vol-1-4]] and [[track:endless-climb-vol-1-4]]
-    - removed some old commentary from [[track:sports]]. <a href="https://web.archive.org/web/20210310160447/https://hsmusic.wiki/track/sports/">RIP</a>
+    - removed some old commentary from [[track:sports-lofam2]]. <a href="https://web.archive.org/web/20210310160447/https://hsmusic.wiki/track/sports/">RIP</a>
     - clarified wallpaper contributions that said "edits" (e.g. [[album:homestuck-vol-5]]) to say "edits for wiki"
     - album and flash data additions for [[group:psycholonials]] over the course of the month
 
@@ -1222,7 +1318,7 @@ Content: |-
         - [[track:moshi-moshi]] now featured in [[track:horizontal-headshot]]
         - [[track:moshi-moshi]] now featured in [[track:one-and-a-half-midnight]]
         - [[track:moshi-moshi]] now featured in [[track:revisit-rewind]]
-        - [[track:rematch]] now featured in [[track:constituent-hearts]]
+        - [[track:rematch-paradox-music-team]] now featured in [[track:constituent-hearts]]
         - [[track:sburban-resolution]] now featured in [[track:horizontal-headshot]]
         - [[track:shut-me-down]] now featured in [[track:constituent-hearts]]
         - [[track:stay-in-touch]] now featured in [[track:horizontal-headshot]]
@@ -1240,19 +1336,19 @@ Content: |-
         - from [[album:lofam]]: [[track:sadomasopedorobonecrobestiality]], [[track:nakkadile]], [[track:jack-and-black-queen]], [[track:sweet-bro-and-hella-jeff-show]]
         - from [[album:tomb-of-the-ancestors]]: [[track:eternal-suffering]], [[track:spider8ite]]
     - updated a bunch of references in [[album:undertale-soundtrack]] and [[album:deltarune-ch1-ost]], courtesy of [[artist:foreverflummoxed]]:
-        - [[track:snowy]] now featured in [[track:snowdin-town]]
-        - [[track:core]] now featured in [[track:death-by-glamour]] (and [[track:its-showtime]] moved to end of reference list)
-        - [[track:undertale]] now featured in [[track:the-choice]] (<a href="https://www.youtube.com/watch?v=dVBClEwAY_8">slowed down 666%</a>)
-        - [[track:undertale]] now featured in [[track:hopes-and-dreams]]
-        - [[track:hopes-and-dreams]] now featured in [[track:save-the-world]]
-        - [[track:hopes-and-dreams]] now featured in [[track:final-power]]
-        - [[track:start-menu]] now featured in [[track:menu-full]]
-        - [[track:save-the-world]] now featured in [[track:last-goodbye]]
-        - [[track:once-upon-a-time]] now featured in [[track:beginning-deltarune]] (instead of featuring [[track:beginning]], which was a typo)
-        - [[track:nightmare-knight]] now featured in [[track:the-door]]
-        - [[track:one-fateful-night]] now featured in [[track:weird-birds]]
-        - [[track:another-him]] now featured in [[track:darkness-falls]]
-        - [[track:determination]] now featured in [[track:the-holy]]
+        - [[track:snowy]] now referenced in [[track:snowdin-town]]
+        - [[track:core]] now referenced in [[track:death-by-glamour]] (and [[track:its-showtime]] moved to end of reference list)
+        - [[track:undertale]] now referenced in [[track:the-choice]] (<a href="https://www.youtube.com/watch?v=dVBClEwAY_8">slowed down 666%</a>)
+        - [[track:undertale]] now referenced in [[track:hopes-and-dreams]]
+        - [[track:hopes-and-dreams]] now referenced in [[track:save-the-world]]
+        - [[track:hopes-and-dreams]] now referenced in [[track:final-power]]
+        - [[track:start-menu]] now referenced in [[track:menu-full]]
+        - [[track:save-the-world]] now referenced in [[track:last-goodbye]]
+        - [[track:once-upon-a-time]] now referenced in [[track:beginning-deltarune]] (instead of featuring [[track:beginning-castlevania-draculas-curse]], which was a typo)
+        - [[track:nightmare-knight]] now referenced in [[track:the-door]]
+        - [[track:one-fateful-night]] now referenced in [[track:weird-birds]]
+        - [[track:another-him]] now referenced in [[track:darkness-falls]]
+        - [[track:determination]] now referenced in [[track:the-holy]]
     - added lyrics to [[track:carefree-victory-remix]], courtesy of [[artist:foreverflummoxed]] and nata
     - added missing bonus tracks to [[album:jailbreak-vol-1]]
     - added [[flash:namco-high]] and its tracks as part of [[album:unreleased-tracks]]
@@ -1350,7 +1446,7 @@ Content: |-
         - removed "Loading..." easter egg from [[flash:5426]], but not before <a href="https://web.archive.org/web/20210111224459/https://hsmusic.wiki/flash/5426/">archiving it</a> for you, personally
         - interweaved tracks in [[flash:hiveswap-act2]] according to their position in the game (thanks, FF!)
     - added [[track:austin-atlantis]] to the reference list of [[track:the-rarest-and-most-interpretive-dance-meatcabre]]
-    - added [[track:limelight]], [[track:light-in-the-darkness]], and [[track:glide]] to the reference list of [[track:come]]
+    - added [[track:limelight]], [[track:light-in-the-darkness]], and [[track:glide-lofam4]] to the reference list of [[track:come]]
     - added [[track:cross-examination]] to the reference list of [[track:ticket-to-ride-down-with-the-clown]]
     - added [[track:ticket-to-ride-rusty]] to the reference list of [[track:service-car]] (reflecting it already being in the re-release track [[track:shell-game]])
     - added [[track:amen-brother]] and [[track:your-best-nightmare]] to the reference list of [[track:galactic-princess-selene-opening-1]]
@@ -1417,10 +1513,10 @@ Content: |-
     - a bunch of tweaks and reference fixes thanks to an emailer:
         - added to reference lists...
             - [[track:crustacean]] and [[track:sunsetter]] (to [[track:the-broken-clock]])
-            - [[track:showtime-piano-refrain]] (to [[track:farewell]])
+            - [[track:showtime-piano-refrain]] (to [[track:farewell-lofam]])
             - [[track:sburban-jungle]] (to [[track:waiting-for-adventure]])
             - [[track:skaian-skuffle]] (to [[track:skaian-shuffle]])
-            - [[track:terra]] (to [[track:terraform]])
+            - [[track:terra-solatrus]] (to [[track:terraform]])
             - [[track:hawkeye]] (to [[track:davesprite]])
             - [[track:janes-dragon]] (to [[track:jane-dargason]])
             - [[track:before-before-the-beginning]] (to [[track:before-the-beginning-and-after-the-end]])

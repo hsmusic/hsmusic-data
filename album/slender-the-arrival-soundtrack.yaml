@@ -26,6 +26,8 @@ URLs:
 - https://www.youtube.com/watch?v=fT9lKoYUxxo
 ---
 Track: Ponder
+Directory: ponder-slender
+Always Reference By Directory: true
 Duration: '0:29'
 URLs:
 - https://www.youtube.com/watch?v=LdXOHLh1Ol0
@@ -36,11 +38,15 @@ URLs:
 - https://www.youtube.com/watch?v=9XJpsGp7OmQ
 ---
 Track: Tainted
+Directory: tainted-slender
+Always Reference By Directory: true
 Duration: 0:48
 URLs:
 - https://www.youtube.com/watch?v=dpU_1HZLxxg
 ---
 Track: Shadowed
+Directory: shadowed-slender
+Always Reference By Directory: true
 Duration: '2:24'
 URLs:
 - https://www.youtube.com/watch?v=Y2gDoxLZwqU
@@ -51,26 +57,36 @@ Referenced Tracks:
 - Page 7 theme
 ---
 Track: Distance
+Directory: distance-slender
+Always Reference By Directory: true
 Duration: '1:00'
 URLs:
 - https://www.youtube.com/watch?v=8XjwRTHBrEY
 ---
 Track: Conceal
+Directory: conceal-slender
+Always Reference By Directory: true
 Duration: '2:00'
 URLs:
 - https://www.youtube.com/watch?v=RoKhESGC2hQ
 ---
 Track: Isolate
+Directory: isolate-slender
+Always Reference By Directory: true
 Duration: '2:45'
 URLs:
 - https://www.youtube.com/watch?v=p5DQ7QSIwwU
 ---
 Track: Suspended
+Directory: suspended-slender
+Always Reference By Directory: true
 Duration: '1:21'
 URLs:
 - https://www.youtube.com/watch?v=Wuxc99ZbU3M
 ---
 Track: Constricted
+Directory: constricted-slender
+Always Reference By Directory: true
 Duration: '1:06'
 URLs:
 - https://www.youtube.com/watch?v=RtswRWtHS_o
@@ -88,11 +104,15 @@ URLs:
 - https://www.youtube.com/watch?v=hKRRZ8PK8_0
 ---
 Track: Corrupted
+Directory: corrupted-slender
+Always Reference By Directory: true
 Duration: 0:56
 URLs:
 - https://www.youtube.com/watch?v=rRnaaR--lvk
 ---
 Track: Responsible
+Directory: responsible-slender
+Always Reference By Directory: true
 Duration: '2:00'
 URLs:
 - https://www.youtube.com/watch?v=8ozjfcptHBg
@@ -111,6 +131,8 @@ Cover Artists:
 - Blue Isle Studios
 ---
 Track: Willow
+Directory: willow-slender
+Always Reference By Directory: true
 Date First Released: October 15, 2014
 Artists:
 - Brenden Frank
