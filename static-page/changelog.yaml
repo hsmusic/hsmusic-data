@@ -115,7 +115,7 @@ Content: |-
         - added <code>-we-are-all-satellites</code> to directories of [[track:harrigan-we-are-all-satellites]], [[track:mischief-we-are-all-satellites]], [[track:miranda-we-are-all-satellites]], [[track:lunatic-we-are-all-satellites]]
         - added <code>-weird-puzzle-tunes</code> to directory of [[track:aggress-weird-puzzle-tunes]]
         - added <code>-xenoplanetarium</code> to directory of [[track:acquiesce-xenoplanetarium]]
-        - added artists or source material to directories across [[group:additional-tracks]]: [[track:calliope-malcolm-brown]], [[track:cats-toby-fox]], [[track:feel-luke-benjamins]], [[track:flow-solatrus]], [[track:haunt-andrew-hussie]], [[track:valor-toby-fox]], [[track:gnade-redditstuck]], [[track:higher-ost]], [[track:rematch-paradox-music-team]], [[track:snowfall-paradox-music-team]], [[track:wanderlust-paradox-music-team]], [[track:man-deltarune]], [[track:nuclear-james-roach]], [[track:terra-solatrus]], [[track:beginning-castlevania-draculas-curse]], [[track:dissonance-quincy-pringle]], [[track:focus-super-hexagon]], [[track:harmony-runescape]], [[track:homicide-danganronpa]], [[track:infinite-sonic-forces]], [[track:otherworld-final-fantasy-ix]], [[track:plantation-cave-story]], [[track:power-mother]], [[track:redial-bomberman-hero]], [[track:synchrony-brandish-the-planet-buster]], [[track:you-dai]], [[track:chase-jjba]], [[track:courage-jjba]], [[track:mailtime-blues-clues]], [[track:smack-khonjin-house]], [[track:chopsticks-euphemia-allen]], [[track:badgers-mrweebl]], [[track:bodies-drowning-pool]], [[track:bonfire-childish-gambino]], [[track:carnival-gorillaz]], [[track:casin-glue70]], [[track:crawling-linkin-park]], [[track:discordant-cecily-renns]], [[track:divinity-porter-robinson]], [[track:dust-moon]], [[track:earth-smile]], [[track:faint-linkin-park]], [[track:fever-little-willie-john]], [[track:fireflies-owl-city]], [[track:flicker-porter-robinson]], [[track:friday-rebecca-black]], [[track:gentleman-psy]], [[track:hoverboard-dirtyphonics]], [[track:hydrogen-moon]], [[track:if-placeboing]], [[track:killers-cboyardee]], [[track:lawnmower-neil-cicierega]], [[track:linger-the-cranberries]], [[track:parade-justice]], [[track:piss-neil-cicierega]], [[track:risen-terry-a-davis]], [[track:darude-sandstorm]], [[track:separator-radiohead]], [[track:september-earth-wind-fire]], [[track:shelter-porter-robinson]], [[track:smooth-santana]], [[track:spleen-ruth-white]], [[track:teardrop-massive-attack]], [[track:teenagers-my-chemical-romance]], [[track:ultimate-denzel-curry]], [[track:verified-your-favorite-martian]], [[track:whales-hail-mary-mallons]], [[track:hackers-iain-softley]], [[track:howl-allen-ginsberg]]
+        - added artists or source material to directories across [[group:additional-tracks]]: [[track:calliope-malcolm-brown]], [[track:cats-toby-fox]], [[track:feel-luke-benjamins]], [[track:flow-solatrus]], [[track:haunt-andrew-hussie]], [[track:valor-toby-fox]], [[track:gnade-redditstuck]], [[track:higher-ost]], [[track:rematch-paradox-music-team]], [[track:snowfall-paradox-music-team]], [[track:wanderlust-paradox-music-team]], [[track:man-deltarune]], [[track:nuclear-james-roach]], [[track:terra-solatrus]], [[track:beginning-castlevania-draculas-curse]], [[track:dissonance-quincy-pringle]], [[track:focus-super-hexagon]], [[track:harmony-runescape]], [[track:homicide-danganronpa]], [[track:infinite-sonic-forces]], [[track:otherworld-final-fantasy-ix]], [[track:plantation-cave-story]], [[track:power-mother]], [[track:redial-bomberman-hero]], [[track:slider-super-mario-64]], [[track:synchrony-brandish-the-planet-buster]], [[track:you-dai]], [[track:chase-jjba]], [[track:courage-jjba]], [[track:mailtime-blues-clues]], [[track:smack-khonjin-house]], [[track:chopsticks-euphemia-allen]], [[track:badgers-mrweebl]], [[track:bodies-drowning-pool]], [[track:bonfire-childish-gambino]], [[track:carnival-gorillaz]], [[track:casin-glue70]], [[track:crawling-linkin-park]], [[track:discordant-cecily-renns]], [[track:divinity-porter-robinson]], [[track:dust-moon]], [[track:earth-smile]], [[track:faint-linkin-park]], [[track:fever-little-willie-john]], [[track:fireflies-owl-city]], [[track:flicker-porter-robinson]], [[track:friday-rebecca-black]], [[track:gentleman-psy]], [[track:hoverboard-dirtyphonics]], [[track:hydrogen-moon]], [[track:if-placeboing]], [[track:killers-cboyardee]], [[track:lawnmower-neil-cicierega]], [[track:linger-the-cranberries]], [[track:parade-justice]], [[track:piss-neil-cicierega]], [[track:risen-terry-a-davis]], [[track:darude-sandstorm]], [[track:separator-radiohead]], [[track:september-earth-wind-fire]], [[track:shelter-porter-robinson]], [[track:smooth-santana]], [[track:spleen-ruth-white]], [[track:teardrop-massive-attack]], [[track:teenagers-my-chemical-romance]], [[track:ultimate-denzel-curry]], [[track:verified-your-favorite-martian]], [[track:whales-hail-mary-mallons]], [[track:hackers-iain-softley]], [[track:howl-allen-ginsberg]]
     <h3>data fixes</h3>
     - fixed [[track:dance-stab-dance]] not referencing [[track:sburban-jungle]] (thanks, Sgeo!)
     - fixed [[track:revisit-rewind]] and [[track:omega-timeline]] referencing [[track:intro-canwave-2]] instead of [[track:gunshow-2-theme-instrumental]] (thanks, Makin!)
@@ -505,7 +505,7 @@ Content: |-
         - fixed [[track:eternally-you]] not referencing [[track:flare]] (thanks, EzzyCrafts!) or [[track:homestuck-anthem]]
     - fixed various errors in otherwise valid "sampled tracks" data which kept them from showing up on the wiki (mostly miscapitalization)
         - fixed [[track:three-in-the-morning-4-13-hours-late-remix]] not sampling [[track:rollercoaster-tycoon-theme]]
-        - fixed [[track:dentist]] not sampling [[track:seinfeld-theme]]
+        - fixed [[track:dentist-canmt]] not sampling [[track:seinfeld-theme]]
         - fixed [[track:infinite-zest]] not sampling [[track:let-the-squiddles-sleep-end-theme]]
         - fixed [[track:predomination-lofam5]] not sampling [[track:let-the-squiddles-sleep-end-theme]]
         - fixed [[track:are-you-lost-full-album-stream]] not sampling [[track:medium-are-you-lost]]
@@ -550,7 +550,7 @@ Content: |-
 
     <h2 id="27-apr-2023"><a href="#27-apr-2023">[[date:27 April 2023]] - rainy day repairs</a></h2>
     <h3>additions</h3>
-    - added bonus track [[track:bequest]] to [[album:a-nameless-inheritance]]
+    - added bonus track [[track:bequest-a-nameless-inheritance]] to [[album:a-nameless-inheritance]]
     - added bonus tracks [[track:glide-what]] and [[track:wake-what]] to [[album:what]]
     <h3>data fixes</h3>
     - fixed Bandcamp link for [[album:vinculum-vitae]] (thanks, Celeste!)
@@ -834,7 +834,7 @@ Content: |-
     <h3>data changes</h3>
     - moved [[group:desynced]] and [[album:perfectly-generic-object]] from [[group:beyond]] to [[group:fandom]]
     - moved the individual [[group:psycholonials]] episode albums into [[group:beyond]]
-    - tracks [[track:strider-showdown-loop]], [[track:gold-mage-playtime-is-over-mix]], [[track:cooldown]], [[track:cascante]], [[track:justice-must-be-a-serve]], [[track:archagent-everlasting]], [[track:tick]], [[track:lord-spanish]], [[track:chalk-emerald]], and [[track:rex-mille-geromius]] have been removed from [[album:more-homestuck-fandom]] now that the albums they're from have been added to the wiki
+    - tracks [[track:strider-showdown-loop]], [[track:gold-mage-playtime-is-over-mix]], [[track:cooldown-desynced]], [[track:cascante]], [[track:justice-must-be-a-serve]], [[track:archagent-everlasting]], [[track:tick]], [[track:lord-spanish]], [[track:chalk-emerald]], and [[track:rex-mille-geromius]] have been removed from [[album:more-homestuck-fandom]] now that the albums they're from have been added to the wiki
     - where applicable, banners and backgrounds throughout the wiki have been replaced with source quality png files
     - removed image compression artifacts from the backgrounds for [[album:tomb-of-the-ancestors]], [[album:shortcuts]], and [[album:p-s]]
     - edited banner for [[album:bashful-hearts-out]] to preserve pixelated look
@@ -855,12 +855,12 @@ Content: |-
     - fixed incorrect references in the following tracks: [[track:aggrieve-remix]], [[track:nic-cage-song]], [[track:white-host-green-room]] (thanks, Cello!), [[track:oppa-toby-style]], [[track:lilith-in-starlight]], [[track:2016-but-all-the-best-memes-happen-at-the-same-time]], [[track:toby-fox-has-written-hundreds-of-unique-original-songs]], [[track:blood-for-my-ancestors]]
     - fixed missing artist attributions in the following tracks: [[track:contention-vol4]], [[track:red-sucker]] (thanks, cookiefonster!), [[track:broom-temperature]], [[track:frondly-warning]], [[track:oh-god-christmas]] and [[track:a-very-special-time]] (thanks, Makin!), [[track:a-spirited-conversation]], [[track:broken-dreams]], [[track:emerald-icarus]], [[track:take-flight]], [[track:born-to-die]], [[track:well-be-right-back]] (thanks, Celeste!), [[track:tacit-blue]] (thanks, Comfy!)
     - fixed incorrect artist attributions in the following tracks: [[track:explore]], [[track:green-lolly]] and [[track:red-sucker]], [[track:metamorphic-choices]], [[track:the-will-to-fight-further]]
-    - fixed [[track:day-that-never-came]]/[[track:someday]]/[[track:together-psycholonials-ep-2]]/[[track:together-psycholonials]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
+    - fixed [[track:day-that-never-came]]/[[track:someday-clark-powell]]/[[track:together-psycholonials-ep-2]]/[[track:together-psycholonials]]/[[track:together-vocal-remix]] not attributing [[artist:astro-kid]] or each other properly
     - fixed incorrectly formatted names for [[track:skaian-dreams-remix]], [[album:sburb-ost]], and [[track:heir-seer-knight-witch]]
     - lots and lots of fixes to artist data, including names, aliases, removing dead links, and adding more links (thanks in part to Vortexius, deesoff, Geese, MT Argentum!)
     - fixed [[artist:paige-turner]] (thanks, cookiefonster!), [[artist:carla-bravo]], [[artist:danna-vital]], [[artist:griffin-mcelroy]], [[artist:josefin-b]], [[artist:kate-holden]], [[artist:kobacat]], and [[artist:neil-cicierega]] having some artist credits under a different name
     - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], [[track:austin-atlantis]], [[track:robert-jailbreak]], [[track:the-sock-ruse]] (thanks, Celeste!), [[track:kalesa-in-binondo]] (thanks, Comfy!), [[track:looking-for-a-rock]] (thanks, Cello!), [[track:today-i-put-jelly-on-this-hot-god]] (thanks, HermitCyclop!), [[track:dawn-of-man]] (thanks, Kidpen!), [[track:an-apple-disaster]] (thanks, MrCheeze!)
-    - fixed [[track:spare-friendship-maam]] having incorrect artwork and [[track:purgatory]] missing its artwork
+    - fixed [[track:spare-friendship-maam]] having incorrect artwork and [[track:purgatory-electric-daydreams]] missing its artwork
     - fixed [[track:gay-love-song-for-four-cellos]] not being marked as the original release for [[track:love-song]]
     - fixed broken media link in [[track:jane-dargason]]'s commentary (thanks, Comfy!)
     - fixed pronouns in commentary for [[track:stress]] (thanks, Comfy!)
@@ -997,7 +997,7 @@ Content: |-
     <h3>data changes</h3>
     - grouped the tracks in [[album:diverging-delicacies]] according to the corresponding portion of the homestuck epilogues (thanks, Niklink and FF!)
     - added a Color tag to [[album:the-baby-is-you]], so links to it don't just inherit the color of the containing page (e.g. track reference in [[track:the-bad-time-is-you]] previously looking green; thanks, Celeste!)
-    - added soundcloud links for [[track:star-i-never-caught]], [[track:someday]], and [[track:harrigan-we-are-all-satellites]] (thanks, FF!)
+    - added soundcloud links for [[track:star-i-never-caught]], [[track:someday-clark-powell]], and [[track:harrigan-we-are-all-satellites]] (thanks, FF!)
     - data fixes/tweaks throughout [[album:entertaining-sound]]:
         - [[track:2016-but-all-the-best-memes-happen-at-the-same-time]] references [[track:goodbye-to-the-underground]] (not [[track:good-night]]) and [[track:stone-halation]] (not [[track:snow-halation]])
         - [[track:oh-2017]] references [[track:woah]]
@@ -1057,7 +1057,7 @@ Content: |-
         - plus, reference fixes in [[track:beforus]], [[track:forest-fire]], [[track:daywalker-rise]], [[track:upward-meowvement-davepetasprite2-owns]], and [[track:requited-dirtiest-remix]]...
         - as well as typo fixes in [[track:the-land-of-wind-and-shade]], [[track:vigilante-cornered]], [[track:atomik-meltdown]], [[track:starkind]], [[track:vigilante-lofam]], [[track:the-drawing-of-the-four]], [[track:reconciled-lofam4]], [[track:emerald-cinders]], [[track:prospitian-monody]], [[track:ultimate-alchemy]], [[track:exsanguinated]], [[track:premortem]], and [[track:revisit-rewind]] commentary too!
     - art tag fixes from foreverFlummoxed as well:
-        - [[album:beforus]] ([[track:disc2-beforus]], [[track:times-apostate]], [[track:antevorta]], [[track:with-the-fishes]], [[track:timeout]], [[track:voided]], [[track:the-light-forms-us]], [[track:motions-of-infinity]])
+        - [[album:beforus]] ([[track:disc2-beforus]], [[track:times-apostate]], [[track:antevorta]], [[track:with-the-fishes]], [[track:timeout-beforus]], [[track:voided-beforus]], [[track:the-light-forms-us]], [[track:motions-of-infinity]])
         - typo fixes in [[track:funeral-march-of-the-avenging-dead]] commentary too!
     - plus art tags for [[album:mobius-trip-and-hadron-kaleido]]
     - added [[track:say-i-gotta-believe]] to reference list for [[track:gamebro-original-1990-mix]]
@@ -1282,7 +1282,7 @@ Content: |-
         - [[Verdancy (Bassline)]] now featured in [[track:study-for-eclectic-bass-1984-1]]
         - [[track:virgin-orb]] now featured in [[track:recordare-virgo-mater]]
         - [[track:dissension-original]] now featured in [[track:the-puppet-master]]
-        - [[track:nova-solis]] now featured in [[track:singularity]]
+        - [[track:nova-solis]] now featured in [[track:singularity-cosmic-caretakers]]
         - [[track:showtime-original-mix]] now featured in [[track:skaian-dreams-remix]]
         - [[track:skies-of-skaia]] now featured in [[track:skaian-dreams-remix]]
         - [[track:softbit-original-gfd-please-shut-the-fuckass-mix-by-request-demo-version]] now featured in [[track:softbit]]
@@ -1312,11 +1312,11 @@ Content: |-
         - [[track:good-morning-dirk]] now featured in [[track:constituent-hearts]]
         - [[track:heart-beat]] now featured in [[track:constituent-hearts]]
         - [[track:i-am-an-island]] now featured in [[track:constituent-hearts]]
-        - [[track:intro]] now featured in [[track:omega-timeline]]
-        - [[track:intro]] now featured in [[track:revisit-rewind]]
+        - [[track:intro-canwave-2]] now featured in [[track:omega-timeline]]
+        - [[track:intro-canwave-2]] now featured in [[track:revisit-rewind]]
         - [[track:isnt-this-is-this-the-end-again]] now featured in [[track:is-this-the-end]]
         - [[track:lord-spanish]] now featured in [[track:revisit-rewind]]
-        - [[track:midnight-suffer]] now featured in [[track:midnight]]
+        - [[track:midnight-suffer]] now featured in [[track:midnight-canmt]]
         - [[track:muse-of-nanchos]] now featured in [[track:revisit-rewind]]
         - [[track:moshi-moshi]] now featured in [[track:while-the-irons-hot]]
         - [[track:moshi-moshi]] now featured in [[track:horizontal-headshot]]
@@ -1450,7 +1450,7 @@ Content: |-
         - removed "Loading..." easter egg from [[flash:5426]], but not before <a href="https://web.archive.org/web/20210111224459/https://hsmusic.wiki/flash/5426/">archiving it</a> for you, personally
         - interweaved tracks in [[flash:hiveswap-act2]] according to their position in the game (thanks, FF!)
     - added [[track:austin-atlantis]] to the reference list of [[track:the-rarest-and-most-interpretive-dance-meatcabre]]
-    - added [[track:limelight]], [[track:light-in-the-darkness]], and [[track:glide-lofam4]] to the reference list of [[track:come]]
+    - added [[track:limelight]], [[track:light-in-the-darkness]], and [[track:glide-lofam4]] to the reference list of [[track:come-diverging-delicacies]]
     - added [[track:cross-examination]] to the reference list of [[track:ticket-to-ride-down-with-the-clown]]
     - added [[track:ticket-to-ride-rusty]] to the reference list of [[track:service-car]] (reflecting it already being in the re-release track [[track:shell-game]])
     - added [[track:amen-brother]] and [[track:your-best-nightmare]] to the reference list of [[track:galactic-princess-selene-opening-1]]
