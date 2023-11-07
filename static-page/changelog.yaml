@@ -28,7 +28,7 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h3 id="04-nov-2023"><a href="#04-nov-2023">[[date:04 November 2023]] - directories upon directories</a></h3>
+    <h3 id="07-nov-2023"><a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h3>
     <h3>data changes</h3>
     - changed directories of most one-common-word tracks, outside [[group:official]], to indicate the album or source material in the name
         - added <code>-a-nameless-inheritance</code> to directories of [[track:exploratory-a-nameless-inheritance]], [[track:execute-a-nameless-inheritance]], [[track:abandoned-a-nameless-inheritance]], [[track:enclosure-a-nameless-inheritance]], [[track:heart-attack-a-nameless-inheritance]], [[track:horrify-a-nameless-inheritance]], [[track:exterminate-a-nameless-inheritance]], [[track:outbreak-a-nameless-inheritance]], [[track:lurk-a-nameless-inheritance]], [[track:terrify-a-nameless-inheritance]], [[track:undisturbed-a-nameless-inheritance]], [[track:ritual-a-nameless-inheritance]], [[track:doomed-a-nameless-inheritance]], [[track:heritage-a-nameless-inheritance]], [[track:bequest-a-nameless-inheritance]]
@@ -120,6 +120,10 @@ Content: |-
     - fixed [[track:dance-stab-dance]] not referencing [[track:sburban-jungle]] (thanks, Sgeo!)
     - fixed [[track:revisit-rewind]] and [[track:omega-timeline]] referencing [[track:intro-canwave-2]] instead of [[track:gunshow-2-theme-instrumental]] (thanks, Makin!)
     - fixed [[track:unbreakable-unity]] referencing and sampling itself instead of [[track:an-unbreakable-union]]
+    - fixed various errors under [[album:sunday-night-strifin-act-1-plus-2-ost]] (thanks, Jebb!)
+        - fixed [[track:cant-abscond]] not refrencing [[track:rise-up]] and [[track:megalovania-undertale]]
+        - fixed [[track:trepidation-sunday-night-strifin]] referencing [[track:rise-up]], now the other way around
+        - fixed duration errors
     - fixed typos in commentary for [[track:feel-alive]] and [[track:castle]] (thanks, Lilith!)
     - removed duplicate of [[track:overlook-vast-error]] from [[album:more-homestuck-fandom]]
     - added [[album:empyreal-rhapsody]] to [[group:nasqueron]] group (aka [[artist:kal-la-kal-la]])
