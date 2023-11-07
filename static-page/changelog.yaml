@@ -18,7 +18,6 @@ Style: |-
     }
 
     h3 {
-        margin-top: 1em;
         margin: 0;
         font-size: 1em;
     }
@@ -28,7 +27,7 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h3 id="07-nov-2023"><a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h3>
+    <h2 id="07-nov-2023"><a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h2>
     <h3>data changes</h3>
     - changed directories of most one-common-word tracks, outside [[group:official]], to indicate the album or source material in the name
         - added <code>-a-nameless-inheritance</code> to directories of [[track:exploratory-a-nameless-inheritance]], [[track:execute-a-nameless-inheritance]], [[track:abandoned-a-nameless-inheritance]], [[track:enclosure-a-nameless-inheritance]], [[track:heart-attack-a-nameless-inheritance]], [[track:horrify-a-nameless-inheritance]], [[track:exterminate-a-nameless-inheritance]], [[track:outbreak-a-nameless-inheritance]], [[track:lurk-a-nameless-inheritance]], [[track:terrify-a-nameless-inheritance]], [[track:undisturbed-a-nameless-inheritance]], [[track:ritual-a-nameless-inheritance]], [[track:doomed-a-nameless-inheritance]], [[track:heritage-a-nameless-inheritance]], [[track:bequest-a-nameless-inheritance]]
@@ -42,7 +41,7 @@ Content: |-
         - added <code>-basement-tale</code> to directory of [[track:fragments-basement-tale]] and replaced <code>-canwc</code> in directory of [[track:in-the-beginning-basement-tale]]
         - added <code>-beforus</code> to directories of [[track:timeout-beforus]], [[track:voided-beforus]]
         - added <code>-bittersweet</code> to directories of [[track:ally-bittersweet]], [[track:ballroom-bittersweet]], [[track:close-bittersweet]]
-        - added <code>-canmt</code> to directories of [[track:usurp-canmt]], [[track:tycoon-canmt]], [[track:dull-canmt]], [[track:dentist-canmt]], [[track:harmonize-canmt]], [[track:ruses-canmt]], [[track:revival-canmt]], [[track:decelerate-canmt]], [[track:theory-canmt]], [[track:running-canmt]], [[track:transcend-canmt]], [[track:quartet-canmt]], [[track:arise-canmt]], [[track:median-canmt]], [[track:midnight-canmt]], [[track:inaugural-canmt]], [[track:ringleader-canmt]], [[track:backtracking-canmt]], [[track:infection-canmt]], [[track:plague-canmt]], [[track:vaccine-canmt]], [[track:converge-canmt]], [[track:adventure-canmt]], [[track:terminal-canmt]], [[track:stabby-canmt]], [[track:endure-canmt]], [[track:downwards-canmt]], [[track:bones-canmt]], [[track:repent-canmt]], [[track:strain-canmt]], [[track:conflicted-canmt]], [[track:endurance-canmt]], [[track:epilogue-canmt]] and replaced <code>-canv1</code> in directory of [[track:vaporstuck-canmt]], <code>-muse-of-net</code> in directory of [[track:nightmare-canmt]]
+        - added <code>-canmt</code> to directories of [[track:usurp-canmt]], [[track:tycoon-canmt]], [[track:dull-canmt]], [[track:dentist-canmt]], [[track:contra-canmt]], [[track:harmonize-canmt]], [[track:ruses-canmt]], [[track:revival-canmt]], [[track:decelerate-canmt]], [[track:theory-canmt]], [[track:running-canmt]], [[track:transcend-canmt]], [[track:quartet-canmt]], [[track:arise-canmt]], [[track:median-canmt]], [[track:midnight-canmt]], [[track:inaugural-canmt]], [[track:ringleader-canmt]], [[track:backtracking-canmt]], [[track:infection-canmt]], [[track:plague-canmt]], [[track:vaccine-canmt]], [[track:converge-canmt]], [[track:adventure-canmt]], [[track:terminal-canmt]], [[track:stabby-canmt]], [[track:endure-canmt]], [[track:downwards-canmt]], [[track:bones-canmt]], [[track:repent-canmt]], [[track:strain-canmt]], [[track:conflicted-canmt]], [[track:endurance-canmt]], [[track:epilogue-canmt]] and replaced <code>-canv1</code> in directory of [[track:vaporstuck-canmt]], <code>-muse-of-net</code> in directory of [[track:nightmare-canmt]]
         - added <code>-canwave-2</code> to directory of [[track:intro-canwave-2]]
         - added <code>-class-act</code> to directory of [[track:away-class-act]]
         - added <code>-clark-powell</code> to directory of [[track:someday-clark-powell]]
@@ -120,15 +119,20 @@ Content: |-
     - fixed [[track:dance-stab-dance]] not referencing [[track:sburban-jungle]] (thanks, Sgeo!)
     - fixed [[track:revisit-rewind]] and [[track:omega-timeline]] referencing [[track:intro-canwave-2]] instead of [[track:gunshow-2-theme-instrumental]] (thanks, Makin!)
     - fixed [[track:unbreakable-unity]] referencing and sampling itself instead of [[track:an-unbreakable-union]]
+    - fixed [[track:fighting-chance]] and [[track:bowmans-credit-score-a-rock-opera]] referencing [[track:beatdown-sahcon]] instead of [[track:beatdown-strider-style]]
+    - fixed [[track:pilotwave]] and [[track:rising-echoes]] referencing [[track:courage-vast-error]] instead of [[track:courage-jjba]]
     - fixed various errors under [[album:sunday-night-strifin-act-1-plus-2-ost]] (thanks, Jebb!)
         - fixed [[track:cant-abscond]] not refrencing [[track:rise-up]] and [[track:megalovania-undertale]]
         - fixed [[track:trepidation-sunday-night-strifin]] referencing [[track:rise-up]], now the other way around
         - fixed duration errors
+    - fixed [[track:youre-a-mean-one-mr-slick]] missing period at end of its name (thanks, tempest2k!)
+    - fixed missing second-to-last stanza in lyrics for [[track:dawn-of-man]] (thanks, JG!)
+    - fixed [[track:havoc-to-be-wrought]] being tagged [[tag:equius]] instead of [[tag:the-expatriate]], and added some commentary from YouTube (thanks, JG!)
     - fixed typos in commentary for [[track:feel-alive]] and [[track:castle]] (thanks, Lilith!)
     - removed duplicate of [[track:overlook-vast-error]] from [[album:more-homestuck-fandom]]
     - added [[album:empyreal-rhapsody]] to [[group:nasqueron]] group (aka [[artist:kal-la-kal-la]])
 
-    <h3 id="30-oct-2023"><a href="#30-oct-2023">[[date:30 October 2023]] - patchin' it up</a></h3>
+    <h2 id="30-oct-2023"><a href="#30-oct-2023">[[date:30 October 2023]] - patchin' it up</a></h2>
     <h3>data fixes</h3>
     - added art tags for [[album:the-rebornening]]
     - added art content warnings across [[group:deconrecon]]
@@ -616,7 +620,7 @@ Content: |-
     - added commentary by [[artist:michael-guy-bowman|Bowman]] to much of his older music: [[track:sburban-jungle-brief-mix]], [[track:harlequin-rock-version]], [[track:explore]], [[track:ohgodwhat-remix]], [[track:chorale-for-jaspers]], [[track:pony-chorale]], [[album:midnight-crew-drawing-dead]], [[track:lunar-eclipse]], [[track:hauntjam]], [[track:sburban-jungle]], [[album:homestuck-vol-5]], [[track:happy-cat-song]], [[track:hardchorale]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:greenhouse]], [[track:tangled-waltz]], [[track:squiddle-samba]], [[track:mister-bowman-tells-you-about-the-squiddles]], [[track:i-dont-want-to-miss-a-thing]], and [[album:mobius-trip-and-hadron-kaleido]] (thanks, MSPA Prophet!)
     - added music video link to [[track:identity-thief]] by [[artist:michael-guy-bowman]]
     <h3>data changes</h3>
-    - [[track:smackdown]], [[track:slamdown]], [[track:contra]], [[track:mayorlovania]], and [[track:sburban-resolution]] moved out of [[album:more-homestuck-fandom]] (now in [[album:cool-and-new-homestuck]] and [[album:early-access]])
+    - [[track:smackdown]], [[track:slamdown]], [[track:contra-canmt]], [[track:mayorlovania]], and [[track:sburban-resolution]] moved out of [[album:more-homestuck-fandom]] (now in [[album:cool-and-new-homestuck]] and [[album:early-access]])
     - credit fixes for tracks from [[artist:not-eno]]
     <h3>data fixes</h3>
     - various fixes to [[track:three-in-the-morning-4-13-hours-late-remix]] and [[track:three-in-the-morning-ngames-bowmix]]
@@ -1276,63 +1280,63 @@ Content: |-
         - official: [[album:homestuck-vol-5]], [[album:alternia]], [[album:squiddles]], [[album:the-felt]], [[album:homestuck-vol-6]], [[album:alterniabound]], [[album:medium]], [[album:homestuck-vol-7]], [[album:the-wanderers]], [[album:homestuck-vol-8]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:homestuck-vol-9]], [[album:symphony-impossible-to-play]], [[album:one-year-older]], [[album:genesis-frog]], [[album:s-collide]], [[album:hiveswap-act-1-ost]], [[album:hiveswap-friendsim]], [[album:hiveswap-act-2-ost]]
         - fandom: [[album:archive]], [[album:lofam4]], [[album:gristmas-carols]], [[album:cosmic-caretakers]], [[album:look-on-my-works-ye-mighty-and-despair]], [[album:moons-of-theseus]], [[album:friendsymphony]]
     - went through all existing warnings for misspelled tracks and fixed 'em:
-        - [[track:let-me-dance-let-me-glisten]] now featured in [[track:the-light-forms-us]]
-        - [[track:giorgio-by-moroder]] now featured in [[track:the-dave-strider-experience]]
-        - [[track:what-is-a-juggalo]] now featured in [[track:the-dave-strider-experience]]
-        - [[Verdancy (Bassline)]] now featured in [[track:study-for-eclectic-bass-1984-1]]
-        - [[track:virgin-orb]] now featured in [[track:recordare-virgo-mater]]
-        - [[track:dissension-original]] now featured in [[track:the-puppet-master]]
-        - [[track:nova-solis]] now featured in [[track:singularity-cosmic-caretakers]]
-        - [[track:showtime-original-mix]] now featured in [[track:skaian-dreams-remix]]
-        - [[track:skies-of-skaia]] now featured in [[track:skaian-dreams-remix]]
-        - [[track:softbit-original-gfd-please-shut-the-fuckass-mix-by-request-demo-version]] now featured in [[track:softbit]]
-        - [[track:outer-reaches]] now featured in [[track:emissary-of-dance]]
-        - [[track:layers-upon-layers]] now featured in [[track:emissary-of-dance]]
-        - [[track:cumuloseerus]] now featured in [[track:emissary-of-dance]]
-        - [[track:on-golden-dreams]] now featured in [[track:emissary-of-dance]]
-        - [[track:metamorphic-choices]] now featured in [[track:horizontal-headshot]]
-        - [[track:gods-of-the-new-world]] now featured in [[track:dance-of-the-dead]]
-        - [[track:the-mituna-method]] now featured in [[track:the-gemoni-mustard-blood-lofam4]]
-        - [[track:upward-movement-dave-owns]] now featured in [[track:collision-course-davepetas-movement]]
-        - [[track:frost-vol6]] now featured in [[track:a-farewell-to-arms]]
-        - [[track:dissension-original]] now featured in [[track:a-farewell-to-arms]]
-        - [[track:beatdown-strider-style]] now featured in [[track:a-farewell-to-arms]]
-        - [[track:lulling-lutescent]] now featured in [[track:on-golden-dreams]]
+        - [[track:let-me-dance-let-me-glisten]] now referenced by [[track:the-light-forms-us]]
+        - [[track:giorgio-by-moroder]] now referenced by [[track:the-dave-strider-experience]]
+        - [[track:what-is-a-juggalo]] now referenced by [[track:the-dave-strider-experience]]
+        - [[Verdancy (Bassline)]] now referenced by [[track:study-for-eclectic-bass-1984-1]]
+        - [[track:virgin-orb]] now referenced by [[track:recordare-virgo-mater]]
+        - [[track:dissension-original]] now referenced by [[track:the-puppet-master]]
+        - [[track:nova-solis]] now referenced by [[track:singularity-cosmic-caretakers]]
+        - [[track:showtime-original-mix]] now referenced by [[track:skaian-dreams-remix]]
+        - [[track:skies-of-skaia]] now referenced by [[track:skaian-dreams-remix]]
+        - [[track:softbit-original-gfd-please-shut-the-fuckass-mix-by-request-demo-version]] now referenced by [[track:softbit]]
+        - [[track:outer-reaches]] now referenced by [[track:emissary-of-dance]]
+        - [[track:layers-upon-layers]] now referenced by [[track:emissary-of-dance]]
+        - [[track:cumuloseerus]] now referenced by [[track:emissary-of-dance]]
+        - [[track:on-golden-dreams]] now referenced by [[track:emissary-of-dance]]
+        - [[track:metamorphic-choices]] now referenced by [[track:horizontal-headshot]]
+        - [[track:gods-of-the-new-world]] now referenced by [[track:dance-of-the-dead]]
+        - [[track:the-mituna-method]] now referenced by [[track:the-gemoni-mustard-blood-lofam4]]
+        - [[track:upward-movement-dave-owns]] now referenced by [[track:collision-course-davepetas-movement]]
+        - [[track:frost-vol6]] now referenced by [[track:a-farewell-to-arms]]
+        - [[track:dissension-original]] now referenced by [[track:a-farewell-to-arms]]
+        - [[track:beatdown-strider-style]] now referenced by [[track:a-farewell-to-arms]]
+        - [[track:lulling-lutescent]] now referenced by [[track:on-golden-dreams]]
     - did the same for altogether missing tracks, too:
-        - [[track:brobot-scrimmage]] now featured in [[track:constituent-hearts]]
-        - [[track:character-theme-for-dirk-strider]] now featured in [[track:constituent-hearts]]
-        - [[track:chucklevoodoo-waltz]] now featured in [[track:phantasmagoria]]
-        - [[track:contact]] now featured in [[track:revisit-rewind]]
-        - [[track:contra]] now featured in [[track:revisit-rewind]]
-        - [[track:dave-striders-cool-mixtape]] now featured in [[track:the-lights-rebellion]]
-        - [[track:s-dirk-unite-synchronization-with-lyrics]] now featured in [[track:constituent-hearts]]
-        - [[track:distortion-navigator]] now featured in [[track:optic-duelist]]
-        - [[track:fate-of-the-heir]] now featured in [[track:optic-duelist]]
-        - [[track:four-kids-and-a-game-they-play-together]] now featured in [[track:four-kids-and-a-game-they-played-together]]
-        - [[track:good-morning-dirk]] now featured in [[track:constituent-hearts]]
-        - [[track:heart-beat]] now featured in [[track:constituent-hearts]]
-        - [[track:i-am-an-island]] now featured in [[track:constituent-hearts]]
-        - [[track:intro-canwave-2]] now featured in [[track:omega-timeline]]
-        - [[track:intro-canwave-2]] now featured in [[track:revisit-rewind]]
-        - [[track:isnt-this-is-this-the-end-again]] now featured in [[track:is-this-the-end]]
-        - [[track:lord-spanish]] now featured in [[track:revisit-rewind]]
-        - [[track:midnight-suffer]] now featured in [[track:midnight-canmt]]
-        - [[track:muse-of-nanchos]] now featured in [[track:revisit-rewind]]
-        - [[track:moshi-moshi]] now featured in [[track:while-the-irons-hot]]
-        - [[track:moshi-moshi]] now featured in [[track:horizontal-headshot]]
-        - [[track:moshi-moshi]] now featured in [[track:one-and-a-half-midnight]]
-        - [[track:moshi-moshi]] now featured in [[track:revisit-rewind]]
-        - [[track:rematch-paradox-music-team]] now featured in [[track:constituent-hearts]]
-        - [[track:sburban-resolution]] now featured in [[track:horizontal-headshot]]
-        - [[track:shut-me-down]] now featured in [[track:constituent-hearts]]
-        - [[track:stay-in-touch]] now featured in [[track:horizontal-headshot]]
-        - [[track:smackdown]] now featured in [[track:thyme-on-my-fries]]
-        - [[track:synchronize-fansong]] now featured in [[track:constituent-hearts]]
-        - [[track:the-engineer]] now featured in [[track:constituent-hearts]]
-        - [[track:tick]] now featured in [[track:revisit-rewind]]
-        - [[track:unintentional-touhou]] now featured in [[track:revisit-rewind]]
-        - [[track:celestial-fantasia]] now featured in [[track:raise-of-the-conductors-baton]]
-        - [[track:thunderhead]] now featured in [[track:infinitys-lament]]
+        - [[track:brobot-scrimmage]] now referenced by [[track:constituent-hearts]]
+        - [[track:character-theme-for-dirk-strider]] now referenced by [[track:constituent-hearts]]
+        - [[track:chucklevoodoo-waltz]] now referenced by [[track:phantasmagoria]]
+        - [[track:contact]] now referenced by [[track:revisit-rewind]]
+        - [[track:contra-canmt]] now referenced by [[track:revisit-rewind]]
+        - [[track:dave-striders-cool-mixtape]] now referenced by [[track:the-lights-rebellion]]
+        - [[track:s-dirk-unite-synchronization-with-lyrics]] now referenced by [[track:constituent-hearts]]
+        - [[track:distortion-navigator]] now referenced by [[track:optic-duelist]]
+        - [[track:fate-of-the-heir]] now referenced by [[track:optic-duelist]]
+        - [[track:four-kids-and-a-game-they-play-together]] now referenced by [[track:four-kids-and-a-game-they-played-together]]
+        - [[track:good-morning-dirk]] now referenced by [[track:constituent-hearts]]
+        - [[track:heart-beat]] now referenced by [[track:constituent-hearts]]
+        - [[track:i-am-an-island]] now referenced by [[track:constituent-hearts]]
+        - [[track:intro-canwave-2]] now referenced by [[track:omega-timeline]]
+        - [[track:intro-canwave-2]] now referenced by [[track:revisit-rewind]]
+        - [[track:isnt-this-is-this-the-end-again]] now referenced by [[track:is-this-the-end]]
+        - [[track:lord-spanish]] now referenced by [[track:revisit-rewind]]
+        - [[track:midnight-suffer]] now referenced by [[track:midnight-canmt]]
+        - [[track:muse-of-nanchos]] now referenced by [[track:revisit-rewind]]
+        - [[track:moshi-moshi]] now referenced by [[track:while-the-irons-hot]]
+        - [[track:moshi-moshi]] now referenced by [[track:horizontal-headshot]]
+        - [[track:moshi-moshi]] now referenced by [[track:one-and-a-half-midnight]]
+        - [[track:moshi-moshi]] now referenced by [[track:revisit-rewind]]
+        - [[track:rematch-paradox-music-team]] now referenced by [[track:constituent-hearts]]
+        - [[track:sburban-resolution]] now referenced by [[track:horizontal-headshot]]
+        - [[track:shut-me-down]] now referenced by [[track:constituent-hearts]]
+        - [[track:stay-in-touch]] now referenced by [[track:horizontal-headshot]]
+        - [[track:smackdown]] now referenced by [[track:thyme-on-my-fries]]
+        - [[track:synchronize-fansong]] now referenced by [[track:constituent-hearts]]
+        - [[track:the-engineer]] now referenced by [[track:constituent-hearts]]
+        - [[track:tick]] now referenced by [[track:revisit-rewind]]
+        - [[track:unintentional-touhou]] now referenced by [[track:revisit-rewind]]
+        - [[track:celestial-fantasia]] now referenced by [[track:raise-of-the-conductors-baton]]
+        - [[track:thunderhead]] now referenced by [[track:infinitys-lament]]
     - we will thankfully never have to do either of the above again
     - added and updated lyrics for a bunch of tracks from [[group:homestuck-gaiden]], courtesy as ever of [[artist:niklink]]:
         - from [[album:homestuck-for-the-holidays]]: [[track:time-for-a-story]], [[track:the-more-you-know]], [[track:the-squiddles-save-christmas]], [[track:billy-the-bellsuit-diver-has-something-to-say]], [[track:squiddly-night]], [[track:the-santa-claus-interdimensional-travel-sleigh]], [[track:candlelight]], [[track:oh-no-its-the-midnight-crew]], [[track:hella-sweet]], [[track:shit-lets-be-santa]], [[track:choo-choo]], [[track:oh-god-christmas]], [[track:a-very-special-time]]
