@@ -119,15 +119,22 @@ Content: |-
     - fixed [[track:dance-stab-dance]] not referencing [[track:sburban-jungle]] (thanks, Sgeo!)
     - fixed [[track:revisit-rewind]] and [[track:omega-timeline]] referencing [[track:intro-canwave-2]] instead of [[track:gunshow-2-theme-instrumental]] (thanks, Makin!)
     - fixed [[track:unbreakable-unity]] referencing and sampling itself instead of [[track:an-unbreakable-union]]
-    - fixed [[track:fighting-chance]] and [[track:bowmans-credit-score-a-rock-opera]] referencing [[track:beatdown-sahcon]] instead of [[track:beatdown-strider-style]]
-    - fixed [[track:pilotwave]] and [[track:rising-echoes]] referencing [[track:courage-vast-error]] instead of [[track:courage-jjba]]
+    - fixed [[track:fighting-chance]] and [[track:bowmans-credit-score-a-rock-opera]] referencing [[track:beatdown-sahcon]] ([[album:sburban-neighborhood]]) instead of [[track:beatdown-strider-style]] ([[album:homestuck-vol-3]])
+    - fixed [[track:pilotwave]] and [[track:rising-echoes]] referencing [[track:courage-vast-error]] ([[group:deconrecon|Vast Error]]) instead of [[track:courage-jjba]] ([[artist:jojos-bizarre-adventure|JJBA]])
+    - fixed [[track:you-do-not-have-what-it-takes]] referencing [[track:contention-lofam3]] ([[album:lofam3]]) instead of [[track:contention-vol4]] ([[album:homestuck-vol-4]]) (thanks, Lilith!)
     - fixed various errors under [[album:sunday-night-strifin-act-1-plus-2-ost]] (thanks, Jebb!)
         - fixed [[track:cant-abscond]] not refrencing [[track:rise-up]] and [[track:megalovania-undertale]]
         - fixed [[track:trepidation-sunday-night-strifin]] referencing [[track:rise-up]], now the other way around
         - fixed duration errors
+    - various updates to [[album:prospit-and-derse]]
+        - tidied [[album-commentary:prospit-and-derse|commentary]], fixed various typos, and filled in links to mentioned tracks, flashes, etc
+        - replaced <code>music.solatrus.com</code> links with ones to [[artist:solatrus]]' updated Bandcamp URL
+    - touched up commentary and typos for [[album-commentary:one-year-older]] as well
+    - added rerelease commentary blurbs for [[album-commentary:prospit-and-derse]] and [[album-commentary:strife]] (thanks, Lilith!)
     - fixed [[track:youre-a-mean-one-mr-slick]] missing period at end of its name (thanks, tempest2k!)
     - fixed missing second-to-last stanza in lyrics for [[track:dawn-of-man]] (thanks, JG!)
     - fixed [[track:havoc-to-be-wrought]] being tagged [[tag:equius]] instead of [[tag:the-expatriate]], and added some commentary from YouTube (thanks, JG!)
+    - fixed [[track:andrew-hussies-wild-ride-greatest-hits-2]] missing [[tag:joey]] tag (thanks, Lilith!)
     - fixed typos in commentary for [[track:feel-alive]] and [[track:castle]] (thanks, Lilith!)
     - removed duplicate of [[track:overlook-vast-error]] from [[album:more-homestuck-fandom]]
     - added [[album:empyreal-rhapsody]] to [[group:nasqueron]] group (aka [[artist:kal-la-kal-la]])
