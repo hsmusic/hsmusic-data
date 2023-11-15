@@ -432,11 +432,6 @@ URLs:
 Dead URLs:
 - https://www.artstation.com/anonei
 ---
-URLs:
-Artist: Anonymous
----
-Artist: Anonymous 2.0
----
 Artist: Anthony Lledo
 ---
 Artist: Anthony McCarthy
@@ -833,6 +828,10 @@ Artist: Becky Sloan
 ---
 Artist: Bee
 ---
+Artist: Beep
+URLs:
+- https://beepony.tumblr.com/
+---
 Artist: Ben Sharrin
 ---
 Artist: Benedict Ide
@@ -927,6 +926,10 @@ URLs:
 - https://soundcloud.com/blackholesc
 ---
 Artist: Blackout Crew
+---
+Artist: blacksheepDaydreamer
+URLs:
+- https://blueflame91.tumblr.com/
 ---
 Artist: blackwinterwells
 URLs:
@@ -2593,6 +2596,8 @@ URLs:
 ---
 Artist: Family Matters
 ---
+Artist: Fangamer
+---
 Artist: FantomenK
 URLs:
 - https://fantomenk.bandcamp.com
@@ -3149,6 +3154,8 @@ URLs:
 - https://twitter.com/hamsterparade
 - https://www.deviantart.com/lysa
 - https://hamsterparade.com/
+---
+Artist: Handshake Collaborations
 ---
 Artist: Hanni Brosh
 Aliases:
@@ -4528,6 +4535,8 @@ Artist: Little Willie John
 Artist: Liz Fish
 URLs:
 - https://lizardlicks.tumblr.com/
+---
+Artist: Liza Fletcher
 ---
 Artist: LizaWithAZed
 URLs:
@@ -6289,6 +6298,11 @@ URLs:
 Dead URLs:
 - https://twitter.com/randomincisgone
 ---
+Artist: RandomDude647
+URLs:
+- https://soundcloud.com/randomdude647
+- https://www.youtube.com/channel/UCwHQ1b4BM7RlMxv-6gDgaxA
+---
 Artist: Randy Savage
 ---
 Artist: Rangaruka
@@ -6386,6 +6400,8 @@ Artist: Rennie Kingsley
 URLs:
 - https://twitter.com/wrenstarling
 - https://www.weavecomic.com/
+---
+Artist: Requiem Cafe
 ---
 Artist: rerollroxy
 Aliases:
@@ -7595,10 +7611,10 @@ Artist: Team Paradox
 Context Notes: |-
     Team Paradox is a collective name for the group that created and ran the Team Paradox fan adventure. This credit is used when the individual credit for a piece of [[album:team-paradox|Team Paradox music or art]] is unknown. They are:
     - [[artist:red-pen]]
-    - <a href="https://blueflame91.tumblr.com/">blacksheepDaydreamer</a>
-    - <a href="https://beepony.tumblr.com/">Beep</a>
-    - <a href="http://tribor.tumblr.com/">Tribor</a>
-    - <a href="https://metaflare.tumblr.com/">Metaflare</a>
+    - [[artist:blacksheepdaydreamer]]
+    - [[artist:beep]]
+    - [[artist:tribor]]
+    - [[artist:metaflare]]
     - [[artist:mediokrekarapase]]
     - [[artist:esabelle-ryngin]]
 URLs:
@@ -7997,6 +8013,10 @@ Aliases:
 URLs:
 - https://soundcloud.com/trogg
 ---
+Artist: Tribor
+URLs:
+- http://tribor.tumblr.com/
+---
 Artist: Trisha Yearwood
 ---
 Artist: Tristan
@@ -8057,6 +8077,12 @@ URLs:
 - https://soundcloud.com/vriskagaming
 ---
 Artist: Umineko When They Cry
+---
+Artist: Undertale Wiki
+URLs:
+- https://undertale.fandom.com/
+---
+Artist: Unofficial MSPA Fans
 ---
 Artist: Unknown Artist
 Context Notes: >-
@@ -9178,6 +9204,10 @@ Dead URLs:
 - https://memviv.tumblr.com/
 ---
 Artist: Messiah
+---
+Artist: Metaflare
+URLs:
+- https://metaflare.tumblr.com/
 ---
 Artist: microwavedsoap
 URLs:
