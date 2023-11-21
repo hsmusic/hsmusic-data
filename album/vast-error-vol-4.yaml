@@ -20,6 +20,8 @@ Groups:
 - Deconreconstruction
 - Fandom
 ---
+Section: Main album
+---
 Track: Nostalgia
 Directory: nostalgia-vast-error
 Always Reference By Directory: true
@@ -80,6 +82,7 @@ Always Reference By Directory: true
 Duration: '3:16'
 Artists:
 - Cristata
+- FRUITYTEE
 Cover Artists:
 - yorozuya
 Referenced Tracks:
@@ -412,11 +415,14 @@ Cover Artists:
 URLs:
 - https://vasterror.bandcamp.com/track/bittersweet
 ---
+Section: Bonus tracks
+---
 Track: 'BONUS: Nothing Special'
 Directory: nothing-special
 Duration: '3:46'
 Artists:
 - Cristata
+- FRUITYTEE
 Cover Artists:
 - Vast Error
 URLs:
