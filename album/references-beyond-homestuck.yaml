@@ -5574,6 +5574,13 @@ Duration: '3:20'
 URLs:
 - https://www.youtube.com/watch?v=LpbHlXPmmcE
 ---
+Track: Bastian's Happy Flight
+Artists:
+- Klaus Doldinger
+Duration: 3:15
+URLs:
+- https://www.youtube.com/watch?v=lCRlgxoTsQs
+---
 Track: Before My Body Is Dry
 Artists:
 - Hiroyuki Sawano
@@ -12556,6 +12563,45 @@ URLs:
 Sampled Tracks:
 - check whosampled
 ---
+Track: Anubis
+Directory: anubis-septicflesh
+Always Reference By Directory: true
+Duration: 4:17
+URLs:
+- https://www.youtube.com/watch?v=qFkkSDIkA4Y
+Lyrics: |-
+    Come, approach
+    My trusty jackal's nose
+    Don't try to lie
+    'Cause I can smell your hide
+    Leave your body
+    Leave this body now
+    Your face can stay
+    Upon this golden mask you made
+    (Made, made, made, made)
+
+    The brave in heart
+    Can claim eternal life
+    My scales of truth
+    Will need sufficient proof
+    Their balance depends
+    On how your soul weights
+    To walk with gods
+    The jaws of chaos you must pass
+
+    Anubis, my soul is so light
+    And as this feather I can fly
+    Anubis
+    Don't let me wither and die
+
+    I'm proud for what I am
+    The guardian of the dead
+    Appointed by the gods
+    To be their final judge
+
+    Anubis
+    Don't let me wither and die
+---
 Track: Arms Outstretched
 Artists:
 - Griffin McElroy
@@ -16733,6 +16779,15 @@ Lyrics: |-
     A touch of sunlight when it was getting dark
     Slow down the pace of the clocks in our heads
     So we can keep shaping the clouds 
+---
+Track: Evanescence
+Directory: evanescence-maria-schneider
+Always Reference By Directory: true
+Artists:
+- Maria Schneider
+Contributors:
+- Maria Schneider Jazz Orchestra (performance)
+Duration: 11:21
 ---
 Track: Everybody Everybody
 Artists:
