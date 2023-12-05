@@ -1,0 +1,233 @@
+Name: Wiki Colors
+Directory: colors
+Style: |-
+    #color-table {
+        width: 100%;
+        border-spacing: 3px 6px;
+    }
+
+    #color-table td, #color-table th {
+        border: 2px solid var(--primary-color);
+        border-top: 1px dotted var(--primary-color);
+        border-bottom: 1px dotted var(--primary-color);
+        padding: 4px 8px;
+    }
+
+    #color-table td:nth-child(1),
+    #color-table td:nth-child(2) {
+        text-align: center;
+        transition: background 0.35s, color 0.35s;
+    }
+
+    #color-table td:nth-child(1) {
+        width: 140px;
+    }
+
+    #color-table td:nth-child(2) {
+        width: 80px;
+    }
+
+    #color-table td:nth-child(2):not(.nolight):hover {
+        background: white;
+        color: black;
+    }
+
+    #color-table td:nth-child(3) a {
+        display: inline-block;
+    }
+
+    #color-table code {
+        white-space: nowrap;
+    }
+
+    #color-table span[title] {
+        text-decoration: underline;
+        text-decoration-style: dotted;
+        text-decoration-color: var(--primary-color);
+    }
+Script: |-
+    const table = document.getElementById('color-table');
+
+    function findReplaceTextNodes(container, regex, replace) {
+        function recursive(parent) {
+            for (const node of [...parent.childNodes]) {
+                if (node.nodeType === document.ELEMENT_NODE) {
+                    recursive(node);
+                } else if (node.nodeType === document.TEXT_NODE) {
+                    text(node);
+                }
+            }
+        }
+
+        function text(node) {
+            const nodes = [], content = node.textContent;
+            const parent = node.parentElement;
+            let match = null, previous = 0;
+            for (const match of content.matchAll(regex)) {
+                nodes.push(content.slice(previous, match.index));
+                nodes.push(replace(...match));
+                previous = match.index + match[0].length;
+            }
+            nodes.push(content.slice(previous));
+            node.replaceWith(...nodes);
+        }
+
+        recursive(container);
+    }
+
+    const getColor = el => el.innerText.match(/#[0-9a-f]{3,8}/i);
+
+    for (const row of table.querySelectorAll('tbody tr')) {
+        const color = getColor(row.querySelector('td'));
+        if (color) row.style.setProperty('--primary-color', color);
+
+        findReplaceTextNodes(row,
+            /#[0-9a-f]{3,8}/gi, match => {
+                const elem = document.createElement('code');
+                elem.style.color = match;
+                elem.innerText = match;
+                return elem;
+            });
+
+        findReplaceTextNodes(row,
+            /\(same\)/g, match => {
+                const elem = document.createElement('span');
+                elem.style.color = color;
+                elem.innerText = match;
+                return elem;
+            });
+
+        for (const cell of row.querySelectorAll('td:not(:first-child)')) {
+            const color = getColor(cell);
+            if (color) cell.style.setProperty('--primary-color', color);
+        }
+    }
+Content: |-
+    Here's a list of some colors used on the wiki which are pulled specifically from Homestuck! These could come in handy if you want to copy-paste them into new data entries, or make something that matches common colors on the wiki.
+
+    This page is only updated manually, so it could be missing updated tag colors or more recent example uses.
+
+    Thanks to [MS Paint Adventures Wiki](https://mspaintadventures.fandom.com/) for having an awesome [Template:Color](https://mspaintadventures.fandom.com/wiki/Template:Color) reference we've used many times!
+
+    <table id="color-table" style="--primary-color: #e0e0e0">
+        <thead>
+            <tr>
+                <th>Tag + Color</th>
+                <th>Source Color</th>
+                <th>Example Uses</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>[[tag:john]]<br>#5c66e8</td>
+                <td>#0715cd</td>
+                <td>-</td>
+            <tr><td>[[tag:rose]]<br>#b536da</td>
+                <td>(same)</td>
+                <td>[[flash-act:a4]],
+                    [[album:homestuck-vol-7]],
+                    [[album:cool-and-new-greatest-hits]]</td>
+            <tr><td>[[tag:dave]]<br>#e00707</td>
+                <td>(same)</td>
+                <td>[[flash-act:a6i2]]</td>
+            <tr><td>[[tag:jade]]<br>#4ac925</td>
+                <td>(same)</td>
+                <td>[[album:homestuck-vol-8]]</td>
+            <tr><td>[[tag:jane]]<br>#00d5f2</td>
+                <td><span title="Homestuck">(same)</span>,
+                    <span title="Epilogues">#0097d7</span></td>
+                <td>-</td>
+            <tr><td>[[tag:roxy]]<br>#ff6ff2</td>
+                <td>(same)</td>
+                <td>-</td>
+            <tr><td>[[tag:dirk]]<br>#f2a400</td>
+                <td>(same)</td>
+                <td>[[flash-act:a6a2]],
+                    [[album:beyond-canon]],
+                    [[album:homestuck-vol-9]],
+                    [[album:diverging-delicacies]]</td>
+            <tr><td>[[tag:jake]]<br>#1f9400</td>
+                <td>(same)</td>
+                <td>-</td>
+            <tr><td>[[tag:aradia]]<br>#eb0000</td>
+                <td>#a10000</td>
+                <td>[[flash-act:a6i1]], [[album:rust-apocalypse]]</td>
+            <tr><td>[[tag:tavros]]<br>#c36100</td>
+                <td>#a15000</td>
+                <td>-</td>
+            <tr><td>[[tag:sollux]]<br>#a1a100</td>
+                <td>(same)</td>
+                <td>-</td>
+            <tr><td>[[tag:karkat]]<br>#7c7e81</td>
+                <td><span title="Homestuck">#626262</span>,
+                    <span title="Epilogues">(same)</span></td>
+                <td>[[flash-act:karkat-goes-to-a-convention]]</td>
+            <tr><td>[[tag:kankri]]<br>#ff0000</td>
+                <td>(same)</td>
+                <td>It's the color red...</td>
+            <tr><td>[[tag:nepeta]]<br>#588a00</td>
+                <td>#416600</td>
+                <td>-</td>
+            <tr><td>[[tag:kanaya]]<br>#008f48</td>
+                <td>#008141</td>
+                <td>-</td>
+            <tr><td>[[tag:terezi]]<br>#008b8b</td>
+                <td>#008282</td>
+                <td>-</td>
+            <tr><td>[[tag:vriska]]<br>#3796c6</td>
+                <td>#005682</td>
+                <td>-</td>
+            <tr><td>[[tag:equius]]<br>#487aef</td>
+                <td>#000056</td>
+                <td>-</td>
+            <tr><td>[[tag:gamzee]]<br>#a34bff</td>
+                <td>#2b0057</td>
+                <td>[[album:toxic-love]],
+                    [[album:capricious-mistress-single]]</td>
+            <tr><td>[[tag:eridan]]<br>#db00db</td>
+                <td>#6a006a</td>
+                <td>-</td>
+            <tr><td>[[tag:feferi]]<br>#e30072</td>
+                <td>#77003c</td>
+                <td>-</td>
+            <tr><td>[[tag:calliope]]<br>#00e500</td>
+                <td><span title="Homestuck">#929292</span>,
+                    <span title="Epilogues">#a1a3a6</span>,
+                    <span title="Blood color">#2ed73a</span></td>
+                <td>[[track:reverie]], [[track:candy-epilogue]]</td>
+            <tr><td>[[tag:caliborn]]<br>#e50000</td>
+                <td><span title="Homestuck">#323232</span>
+                    <span title="Epilogues">#009c68</span>
+                    <span title="Blood color">#ff0000</span></td>
+                <td>[[track:carne-vale]], [[track:meat-epilogue]]</td>
+            <tr><td>[[tag:lord-english]]<br>#2ed73a</td>
+                <td>(same)</td>
+                <td>Also [[tag:lil-cal]];
+                    [[flash-act:a5a2]]</td>
+            <tr><td>[[tag:johns-dad]]<br>#e0e0e0</td>
+                <td>#4b4b4b</td>
+                <td>Also used for first guardians and assorted "colorless" characters, such as [[tag:snowman]], [[tag:mspa-reader]], [[tag:wv]], [[tag:serenity]]</td>
+            <tr><td>[[tag:joey]]<br>#41a455</td>
+                <td class="nolight">#71daff</td>
+                <td>-</td>
+            <tr><td>[[tag:jude]]<br>#06c9cc</td>
+                <td class="nolight">#d3ff8f</td>
+                <td>-</td>
+            <tr><td>[[tag:harry]]<br>#0671cd</td>
+                <td>(same)</td>
+                <td>-</td>
+            <tr><td>[[tag:tavvy]]<br>#a44bff</td>
+                <td>#2b0057</td>
+                <td>-</td>
+            <tr><td>[[tag:horrorterrors]]<br>#b678ce</td>
+                <td>#4d006d</td>
+                <td>-</td>
+            <tr><td>[[tag:prospit]]<br>#ffff01</td>
+                <td><span title="Prospit">#e49700</span>,
+                    <span title="Prospit symbol">(same)</span></td>
+                <td>Also [[tag:mobius-trip]]</td>
+            <tr><td>[[tag:derse]]<br>#ff01fe</td>
+                <td><span title="Derse">#9700e4</span>,
+                    <span title="Derse symbol">(same)</span></td>
+                <td>Also [[tag:hadron-kaleido]]</td>
+        </tbody>
+    </table>

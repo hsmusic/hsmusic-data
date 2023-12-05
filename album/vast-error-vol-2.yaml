@@ -13,6 +13,8 @@ Groups:
 - Deconreconstruction
 - Fandom
 ---
+Section: Main album
+---
 Track: The Day After Spring Began
 Artists:
 - pragmaticNihilist
@@ -229,7 +231,10 @@ Duration: '01:54'
 URLs:
 - https://vasterror.bandcamp.com/track/waltz-in-the-static-void-2
 ---
-Track: Revelations (Bonus)
+Section: Bonus tracks
+---
+Track: Revelations
+Directory: revelations-vast-error
 Artists:
 - dbnet18
 Referenced Tracks:

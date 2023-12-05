@@ -13,6 +13,8 @@ Groups:
 - Deconreconstruction
 - Fandom
 ---
+Section: Main album
+---
 Track: Overlook
 Directory: overlook-vast-error
 Always Reference By Directory: true
@@ -310,6 +312,8 @@ Cover Artists:
 Duration: '05:10'
 URLs:
 - https://vasterror.bandcamp.com/track/pale-imitation
+---
+Section: Bonus tracks
 ---
 Track: 'BONUS: DEAR PESKY SHUFFLERS'
 Directory: dear-pesky-shufflers

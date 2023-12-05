@@ -27,13 +27,76 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="01-nov-2099"><a href="#01-nov-2099">[[date:01 November 2099]] - Allan, if you would</a></h2>
+    <h2 id="01-nov-2099" class="major-release"><a href="#01-nov-2099">[[date:01 November 2099]] - Allan, if you would</a></h2>
+    <h3>additional names</h3>
+    - completely new feature, adding pre-release names, localizations, de-quirked names, names on other releases/platforms, variations in booklets and commentary, other "AKA" titles and more
+    - appear only on track pages, but only for now; trivial to add to any thing-based page
+    - click the title heading (shown in dotted underline) to toggle a box listing all additional or alternate names (hidden by default)
+    - added originally contest-entered names across [[album:coloUrs-and-mayhem-universe-a]] and [[album:coloUrs-and-mayhem-universe-b|Universe B]]
+    - added variations on Bandcamp and before album release to [[track:skaian-overdrive]] (thanks, Lilith!)
+    - added in-game names across [[album:hiveswap-friendsim]]
+    - added MSPA credit names for [[track:windchime-foley]], [[track:showtime-imp-strife-mix]], [[track:skaian-dreams-remix]], [[track:upward-movement-dave-owns]], [[track:beatdown-strider-style]], [[track:dissension-original]], [[track:john-sleeps-skaian-magicant]], [[track:bed-of-roses-dreams-of-derse]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:nic-cage-romance]], [[track:nic-cage-song]], [[track:let-the-squiddles-sleep-end-theme]], [[track:black-rose-green-sun]], [[track:unlabeled]], [[track:eternity-served-cold]], [[track:trickster-mode-engage]], [[track:trickster-mode-blast-off]], [[track:not-a-creature-was-stirring]] (thanks, Niklink!)
+    - added original names across tracks by [[artist:jebb]] (mostly [[album:lofam5a2]]), plus some more in [[album:sunday-night-strifin-act-1-plus-2-ost]] (thanks, Jebb!)
+    - added original and alternate names for [[track:woman-i-never-met]], [[track:puzzle-i-never-solved]], [[track:apexhalation]], [[track:the-new-crew]], [[track:heel-girl]] (plus [[track:heel-girl-beta|Beta]]) (thanks, Lilith!)
+    - added English-localized names to [[track:letat-de-lambivalence]], [[track:ira-quod-angelus]], [[track:ave-dei-novi]], [[track:confinis]], [[track:bagarre-unfinished]], [[track:yo-quiero-la-homestuck]], [[track:wieczna-wiedza]]
+    - added "normalized", i.e. de-quirked, names to [[track:miracles]], [[track:psych0ruins]], [[track:desperado-rocket-chairs]], [[track:the-la2t-frontiier]], [[track:bl1nd-just1c3-1nv3st1g4t1on]], [[track:shes-a-sp8der]], [[track:killed-by-br8k-spider]], [[track:spider8reath]], [[track:how-do-i-live-d8-night-version]], [[track:iRRRRRRRRECONCILA8LE]], [[track:hometeam-adv8ntage]], [[track:twoward2-the-heaven2]], [[track:wwretched-wwaltz]], [[track:emperical]], [[track:dishonorable-highb100d]], [[track:an-unholy-ritual]], [[track:r3dgl4r3]], [[track:spider8ite]], [[track:spider8ite-thief-of-lounge-mix]], [[track:w4rn1ng-twistedacquittal]], [[track:the-drowned-sea-prince-poseidonscoronation]], [[track:too-l8]], [[track:cr1m1n4l-cr1m1n4l]], [[track:soulb0t]], [[track:breathtak1ng]], [[track:civil-discussi9n]], [[track:r4d1c4l]], [[track:salv8tion]], [[track:march-9f-the-insuffera6le]], [[track:50m3-gr347-4c7-0f-h3r015m]], [[track:antevorta]], [[track:7un3]], [[track:vwiolet-vwelvwet]], [[track:7ur8ul3n7-coll4bor4t1on]], [[track:we-are-tog3th3r]], [[track:7un3-r3m1x]], [[track:g4m3-or-d13]], [[track:batterwitch-ascendant]], [[track:prii2m-break]], [[track:c9me-t9gether]], [[track:expatri8s-march]], [[track:exile]], [[track:vwigor8us]], [[track:the-confront8ion]], [[track:just1c3-r41ns-from-4bov3]], [[track:one-la2t-prophecy]], [[track:megalo-in-death]], [[track:megalovania-no-place-like-home]] [[track:talkin-sh8t]], [[track:shes-a-d8ddy-l8ng-l8gs-lofam5]], [[track:iiits-me-your-friiiend]], [[track:ap0calypsearisen-lohad]], [[track:adiostoreador-lohad]], [[track:twiinarmageddon2-lohad]], [[track:carcinogeneticist-lohad]], [[track:arseniccatnip-lohad]], [[track:grimauxiliatrix-lohad]], [[track:g4llowsc4l1br4tor-lohad]], [[track:ar8chnidsgrip-lohad]], [[track:terminallycapricious-lohad]], [[track:cuttlefishculler-lohad]], [[track:8ad-guy]], [[track:vriskafic8ion]], [[track:bull2hiit]], [[track:interlude-elsewhere-in-another-time-and-space-it-pours-ft-cozmia]]
     <h3>other additions</h3>
+    - tidied, touched up with links, and double-checked for accuracy almost all transcribed commentary originating in booklets, from albums: [[album:alternia]], [[album:sburb]], [[album:alterniabound]], [[album:homestuck-vol-10]], [[album:beyond-canon]]
+    - added Bandcamp commentary/credit blurbs, as well as news and descriptions from whatpumpkin.com, across [[group:official]]
     - added full-size art by [[artist:devin-h-s]] to [[track:awakening]], [[track:wsw-beatdown]] and [[track:sburban-reversal]]
-    <h3>data fixes</h3>
-    - fixed broken commentary formatting in [[track:verdant-metamorphosis]], [[track:alive]], [[track:death-minute-in-duodecimal-regicide-demonica]], [[track:haunt-andrew-hussie]], [[track:jump-up-super-star]]
-    - fixed outdated names or typos in commentary credits for album and track commentary in [[album:the-baby-is-you]], [[album:shortcuts]], [[album:cool-and-new-homestuck-2]], [[album:cool-and-new-homestuck-3]], [[album:v8lume]], [[album:jpeg]], [[album:cool-and-new-volume-3]]
+    - added commentary from Tumblr to [[track:the-king-in-red-beta]] (thanks, Lilith!)
+    - added commentary and YouTube links to [[track:blue-blood-group]], [[track:skaianet-20]], [[track:bane-p-s]], and [[track:a-farewell-to-arms]] (thanks, Lilith!)
+    - added commentary to [[track:woman-i-never-met]] and [[track:puzzle-i-never-solved]], as well as track art to the former (thanks, Lilith!)
+    - added commentary to [[track:unite-division-beta]] and [[track:heel-girl-beta]] (thanks, Lilith!)
+    - added mini-commentary from Bandcamp to [[track:skaian-overdrive]] (thanks, Lilith!)
+    - added commentary to [[track:ocean-stars]] (thanks, Pyryte!)
+    - added commentary by [[artist:clark-powell]] (and co.) from Tumblr to [[track:doctor]]
+    - added alternate animated banner to [[album:cyber-city-sound-pak]] under additional files (thanks, Niklink!)
     - added lyrics to [[track:sketches-in-black]] (thanks, Makin!)
+    - added lyrics to [[track:blue-blood-group]] (thanks, Lilith!)
+    - added lyrics to [[track:best-boyfriend]]
+    - added an ascii image of bowsette to [[track:an-ascii-image-of-bowsette]]
+    <h3>data fixes</h3>
+    - fixed broken commentary formatting in [[track:verdant-metamorphosis]], [[track:you-killed-my-father-prepare-to-die]], [[track:a-very-o-christmas]], [[track:alive]], [[track:death-minute-in-duodecimal-regicide-demonica]], [[track:haunt-andrew-hussie]], [[track:jump-up-super-star]], [[track:cosmic-carousel]]
+    - fixed broken lyrics formatting in [[track:trollcops-radio-play]]
+    - fixed outdated names or typos in commentary credits for album and track commentary in [[album:the-baby-is-you]], [[album:shortcuts]], [[album:cool-and-new-homestuck-2]], [[album:cool-and-new-homestuck-3]], [[album:v8lume]], [[album:jpeg]], [[album:cool-and-new-volume-3]]
+    - fixed typos and minor tweaks in commentary for more tracks: [[track:stab-stab-stab-lofam5]], [[track:furthest-ringside]] (thanks, Jebb!)
+    - fixed [[track:trollcops-radio-play]] referencing [[track:trollcops]], now the other way around
+    - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
+    - fixed [[track:psych0ruins]] not referencing [[track:judgment-day]] (thanks, Lilith!)
+    - fixed [[track:stride]] not sampling (in addition to referencing) [[track:moonsetter]] and [[track:showdown]]
+    - fixed [[track:skaian-overdrive]] not sampling [[track:anubis-septicflesh]]
+    - fixed [[track:skaian-happy-flight]] not referencing [[track:bastians-happy-flight]]
+    - fixed [[track:breeze]] not referencing [[track:evanescence-maria-schneider]]
+    - fixed [[track:blue-blood-group]] not referencing [[track:vriskas-theme]] (thanks, Lilith!)
+    - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
+    - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a re-release of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
+    - fixed [[track:not-a-creature-was-stirring]] being named "not a creature was stirring" (different capitalization)
+    - fixed [[track:phat1]], [[track:phat2]], [[track:phat3]], [[track:phat4]], [[track:phat5]], [[track:phat8]], [[track:phat9]], [[track:phat10]], and [[track:phat11]] not crediting [[artist:bill-bolin]] (for mastering and syncing)
+    - fixed duration of [[track:song-of-storms]] (thanks, Geese!)
+    - fixed [[track:lost-memories]] not being tagged [[tag:bk]] (thanks, Pyryte!)
+    - fixed [[track:break-shot]] not being tagged [[tag:green-sun]] and [[tag:ah]] (thanks, Pyryte, FF!)
+    - fixed [[track:feels-jam]] being tagged [[tag:lomax]] instead of [[tag:lotak]] (thanks, Pyryte!)
+    - fixed [[flash:1940]] not featuring [[track:squiddles]] and [[track:friendship-aneurysm]] (thanks, Pyryte!)
+    - fixed domains for battleofthebits links on [[track:grrrarrr]] and [[artist:baron-knoxburry]] (thanks, Pyryte!)
+    - various fixes for tracks featured in [[track:cascade]]:
+        - fixed [[track:savior-of-the-dreaming-dead-cascade-cut]] not referencing [[track:penumbra-phantasm]] and [[track:black-rose-green-sun]] (thanks, Grace!)
+        - added [[track:flare-cascade-cut]] as a new unreleased track
+        - added [[track:flare-cascade-cut]] to reference lists of [[track:flare]], and [[track:flare-cascade]] (replacing [[track:flare]]), and [[track:cascade]] (replacing [[track:flare-cascade]])
+        - moved [[track:flare-cascade]] out of [[album:unreleased-tracks]] and into [[album:more-homestuck-fandom]]
+        - listed referenced tracks in [[track:cascade]] also as sampled tracks
+    - added [[artist:fruitytee]] to credits for [[track:predestination-vast-error]] and [[track:nothing-special]]
+    - added [[artist:cuphead]] to credits for [[track:one-hell-of-a-time]] (thanks, Jebb!)
+    - added sheet music blueprint for [[track:narrative-command]] as proper sheet music file, instead of just linking from commentary
+    - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
+    - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
+    - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
+    - changed directory of [[track:gone-vast-error]] from <code>gone-bonus</code> to <code>gone-vast-error</code>
+    - reorganized the group lists of some albums for consistency across site:
+        - moved [[group:unofficial-mspa-fans]] above [[group:jamie-paige]] on [[album:vaporwave-2016]]
+        - moved [[group:deconrecon]] above [[group:nasqueron]] on [[album:empyreal-rhapsody]]
+    - divided [[track:revelations-i|Revelations']] [[track:revelations-ii|three]] [[track:revelations-iii|movements]] into their own section in [[album:sburb]], in line with their composer's notes
+    - divided [[album:vast-error-vol-2]], [[album:vast-error-vol-3]], [[album:vast-error-vol-4]], [[album:catch-322]], [[album:dead-shufflers-anything-goes]] into main album and bonus track sections
 
     <h2 id="07-nov-2023"><a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h2>
     <h3>data changes</h3>
@@ -1186,7 +1249,7 @@ Content: |-
     <h3>albums</h3>
     - besides additions for [[group:psycholonials]], no new music shared on the wiki this month, as translation and renovation changes took an especially long time to design and implement
     <h3>artist pages</h3>
-    - added total duration of music contributed to an album next ot the album date
+    - added total duration of music contributed to an album next to the album date
     - display "cover art" and "wallpaper art" lines at the top of an album art contribution list, rather than at the bottom (this had been an accidental code error)
     - display flash/game date range next to the "act" (or flash group label), rather than showing every date next to each flash, to make this section much visually cleaner
     - removed "Featured in" links, since these were taking up a lot of visual space

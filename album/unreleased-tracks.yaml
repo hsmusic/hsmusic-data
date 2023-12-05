@@ -18,6 +18,9 @@ Commentary: |-
     Unofficial name. The MSPA newspost that discusses it calls it a "theme for Problem Sleuth". The actual filename itself was simply "ProblemSleuth.mp3". It's also sometimes known as "Problem Sleuth Title Theme".
 ---
 Track: Windchime Foley
+Additional Names:
+- Sound effects (earlier MSPA credit)
+- Foley (earlier MSPA credit)
 Artists:
 - Clark Powell
 Duration: '1:00'
@@ -31,6 +34,8 @@ Track: '01'
 Directory: phat1
 Artists:
 - Andrew Hussie
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=6
@@ -39,6 +44,8 @@ Track: '02'
 Directory: phat2
 Artists:
 - Andrew Hussie
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=16
@@ -47,6 +54,8 @@ Track: '03'
 Directory: phat3
 Artists:
 - Gabe Nezovic
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=29
@@ -55,6 +64,8 @@ Track: '04'
 Directory: phat4
 Artists:
 - Gabe Nezovic
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=40
@@ -63,6 +74,8 @@ Track: '05'
 Directory: phat5
 Artists:
 - Gabe Nezovic
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=50
@@ -87,6 +100,8 @@ Track: '08'
 Directory: phat8
 Artists:
 - artist:ian-taylor
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=81
@@ -95,6 +110,8 @@ Track: '09'
 Directory: phat9
 Artists:
 - artist:ian-taylor
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=90
@@ -103,6 +120,8 @@ Track: '10'
 Directory: phat10
 Artists:
 - Kalibration
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=103
@@ -111,6 +130,8 @@ Track: '11'
 Directory: phat11
 Artists:
 - Gabe Nezovic
+Contributors:
+- Bill Bolin (mastering, syncing)
 Duration: 0:28
 URLs:
 - https://youtu.be/S4x2-mkXgGI?t=116
@@ -201,6 +222,9 @@ Referenced Tracks:
 - Eight Melodies
 ---
 Track: Nic Cage Romance
+Additional Names:
+- Name: two shitty nic cage songs
+  Annotation: earlier MSPA credit, see also [[Nic Cage Song]]
 Artists:
 - Toby Fox
 Duration: '1:19'
@@ -256,26 +280,24 @@ URLs:
 Referenced Tracks:
 - Secret ROM
 ---
-Track: Flare (Cascade)
+Track: Flare (Cascade Cut)
+Duration: 3:12
 Artists:
 - Clark Powell
-Duration: '3:26'
-URLs:
-- https://plazmataz.tumblr.com/post/19774190658/download-flare-cascade-i-have-recut-and
-- https://www.youtube.com/watch?v=hT0ijIKJkbE
 Referenced Tracks:
-- Flare
 - Cascade (Beta)
-MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Flare (Cascade) - Unknown.mid'
+URLs:
+- https://www.youtube.com/watch?v=VYPMzHAYSRc
 Commentary: |-
-    <i>Clark Powell:</i>
-    I have recut and remastered my track Flare, as it was presented to you in the Cascade flash (rather than the calmed-down album version). I get asked a lot for this, so I decided to give it some extra love and attention.
-    I have attempted a number of times to put together a mix of Flare that utilized the distinctive crescendo that is recognizable from Cascade, but it never seems to work well without the cinematic context. The buildup sort of leads to nothing, and then the track either ends awkwardly or fades out, and I have something personal against fade-outs. Maybe I'll talk about that someday. But not now.
-    I gave it another go, this time trying a decrescendo to bring the song back down from all the energy it riles up, then ending it on kind of a creepy note. I had more success here than I ever have in past attempts to cut the song together in this way.
-    Flare was a pretty big hit in its own right, so there's always the pressure coming from the responsibility to handle this properly. I hope you enjoy it!
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    Track name is as released <a href="https://web.archive.org/web/20180503070606/http://tindeck.com/users/Plasma">on Tindeck</a>.
+
+    There are three prominent early versions of Cascade. This track, "Cascade Cut", is possibly the first one produced, and is exactly the version featured in [[flash:4109]]; it fades out at the end, transitioning into [[Savior of the Dreaming Dead (Cascade Cut)]].
+
+    The second version is [[Flare]], the third track on [[album:homestuck-vol-8]], and it has an alternate ending without the dramatic confrontation between Snowman and Spades Slick, settling more calmly.
+
+    Finally, [[Flare (Cascade)]], a remaster - also by Clark Powell - which sought to turn the original into a full track of its own right. (This one got around sixteen thousand notes on Tumblr!)
 ---
 Track: Savior of the Dreaming Dead (Cascade Cut)
 Artists:
@@ -285,10 +307,15 @@ URLs:
 - https://www.youtube.com/watch?v=h9dF20s8SYo
 Referenced Tracks:
 - Savior of the Dreaming Dead
+- Penumbra Phantasm
 - Cascade (Beta)
+- Black Rose / Green Sun
+Sampled Tracks:
+- Black Rose / Green Sun
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
-    Unofficial name. You see, originally [[track:flare-cascade]] was released as 'Flare (Cascade Cut)', so the same was appended by fans to the edited form of [[track:savior-of-the-dreaming-dead]] seen in [[track:cascade]]. Later on when 'Flare (Cascade Cut)' was revamped and release under simply 'Flare (Cascade)' the name for this one had already stuck, and remained that way since.
+
+    Unofficial name. You see, originally [[track:flare-cascade]] was released as [[track:flare-cascade-cut]], so the same was appended by fans to the edited form of [[track:savior-of-the-dreaming-dead]] seen in [[track:cascade]]. Later on when 'Flare (Cascade Cut)' was revamped and released under simply 'Flare (Cascade)' the name for this one had already stuck, and remained that way since.
 ---
 Track: Sick Bleats
 Artists:
@@ -471,6 +498,8 @@ Referenced Tracks:
 - Bronze Rebel
 ---
 Track: Trickster Mode (Engage)
+Additional Names:
+- Trickster Mode (earlier MSPA credit, see also [[Trickster Mode (Blast Off)]])
 Artists:
 - Toby Fox
 Duration: 0:10
@@ -483,6 +512,8 @@ Commentary: |-
     Unofficial name. Labeled simply as 'Trickster Mode' on the MSPA sound credits, albeit in conjunction with [[track:trickster-mode-blast-off|the other Trickster Mode track]].
 ---
 Track: Trickster Mode (Blast Off)
+Additional Names:
+- Trickster Mode (earlier MSPA credit, see also [[Trickster Mode (Engage)]])
 Artists:
 - Toby Fox
 Duration: 0:16
@@ -593,7 +624,7 @@ Referenced Tracks:
 Sampled Tracks:
 - them meows
 ---
-Track: not a creature was stirring
+Track: Not a creature was stirring
 Artists:
 - Alex Rosetti
 Duration: 0:59
