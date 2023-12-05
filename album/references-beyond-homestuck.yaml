@@ -798,6 +798,31 @@ Duration: '0:41'
 URLs:
 - https://www.youtube.com/watch?v=_IQGtkt7Grk
 ---
+Track: Luigi Puzzle 1
+Additional Names:
+- LuigisPicross2 (original filename)
+Artists:
+- Toby Fox
+Duration: '3:52'
+URLs:
+- https://www.youtube.com/watch?v=g90W1O7z-2Y
+- https://snesology.tumblr.com/post/29456678354/and-were-back-after-a-slight-hiatus-we-have-a
+- https://hsmusic.wiki/media/misc/archive/LuigisPicross2.mp3
+Referenced Tracks:
+- Wario Puzzle 1
+Commentary: |-
+    <i>SNESology:</i> (original Tumblr post)
+    After a slight hiatus, we have a new track for your ears by no one other than the returning Toby “Radiation” Fox of Homestuck (he does a lot of their music).  Toby returns to us w/ an interesting track.  It’s cute, it’s catchy, and it’s laid back and just what calls for a Tuesday night :)
+
+    Also note that he uses many various game samples, such as [[artist:chrono-trigger|CT]], [[artist:super-mario|SMRPG]], [[artist:the-legend-of-zelda|LTTP]], [[artist:super-mario|YI]], and [[artist:kirby|KDL3]]... That’s a lot of game acronyms.
+
+    <i>Toby Fox:</i> (original YouTube upload)
+    Solve all of Mario and Wario's Puzzles, then press L+R and Start on the title screen.
+
+    Then... nothing will happen!
+
+    But if something did, it would probably sound like this.
+---
 Track: Macabre
 Artists:
 - Malcolm Brown
@@ -5354,6 +5379,14 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=psIuCn2jVNk
 ---
+Track: Wario Puzzle 1
+# No official release
+Artists:
+- Super Mario
+- Toshiyuki Ueno
+URLs:
+- https://www.youtube.com/watch?v=vZ9G1n3FTCY
+---
 Track: Welcome, Me
 # Most often known as "Welcome Home" but for some reason in the official release it's titled differently.
 # JP: ウェルカムぼく
@@ -5410,6 +5443,7 @@ Always Reference By Directory: true
 # Reference:
 #   https://vgmdb.net/album/6209
 Artists:
+- Higurashi When They Cry
 - Dai
 Duration: '3:35'
 URLs:
