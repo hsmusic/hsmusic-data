@@ -849,6 +849,19 @@ URLs:
 - https://sleepytimejesse.bandcamp.com/track/megalo-strike-back
 - https://www.youtube.com/watch?v=ZpJudi7_iiw
 ---
+Track: MEGALOVANIA
+Directory: megalovania-smash-bros
+# No official release
+# Title and duration taken from ingame music player feature
+Artists:
+- Super Smash Bros.
+- Toby Fox
+Duration: '2:31'
+URLs:
+- https://www.youtube.com/watch?v=3APGNHk3Y8M
+Referenced Tracks:
+- track:megalovania-halloween
+---
 Track: Michael Bowman Remix
 Artists:
 - Michael Guy Bowman
@@ -2297,6 +2310,18 @@ Duration: '2:29'
 URLs:
 - https://www.youtube.com/watch?v=180sjeAMKPE
 ---
+Track: Cool Morning
+# Official release:
+#   Danganronpa V3: Killing Harmony O.S.T. WHITE
+# Reference:
+#   https://vgmdb.net/album/64627
+Artists:
+- Danganronpa
+- Masafumi Takada
+Duration: '3:23'
+URLs:
+- https://www.youtube.com/watch?v=hiNSu24BNGQ
+---
 Track: CRAZYBUS Title Screen
 # No official release
 Artists:
@@ -2357,6 +2382,23 @@ Artists:
 - Masafumi Takada
 URLs:
 - https://www.youtube.com/watch?v=ZutgNP_mElY
+---
+Track: Danganronpa (2nd GIG)
+# JP: DANGANRONPA 【2nd GIG】
+# Official release:
+#   Danganronpa 2: Goodbye Despair Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/34314
+Artists:
+- Danganronpa
+- Masafumi Takada
+Duration: '2:54'
+URLs:
+- https://www.youtube.com/watch?v=5j3X3Q1fb-M
+Referenced Tracks:
+- Trigger Happy Havoc
+Lyrics: |-
+    (Danganronpa!)
 ---
 Track: Delfino Plaza
 # JP: ドルピックタウン
@@ -2563,6 +2605,20 @@ Artists:
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=W8WSZwX2xhg
+---
+Track: Egg Reverie (Egg Reverie Zone)
+# Official release:
+#   Sonic Mania (Original Soundtrack) [Selected Edition] 
+# Reference
+#   https://vgmdb.net/album/74207
+Artists:
+- Sonic the Hedgehog
+- Tee Lopes
+Duration: '3:07'
+URLs:
+- https://www.youtube.com/watch?v=z4jFUSxcpys
+Referenced Tracks:
+- Fist Bump
 ---
 Track: Epona's Song
 # Unreleased fragment of "LonLon Ranch" (or the other way around?), played in ocarina
@@ -2853,7 +2909,7 @@ Track: goldenslaughterer
 #   うみねこのなく頃に musicbox Red
 # Reference:
 #   https://vgmdb.net/album/14643
-Duration: 6:47
+Duration: '6:47'
 Artists:
 - Umineko When They Cry
 - zts
@@ -3668,6 +3724,36 @@ Duration: '7:27'
 URLs:
 - https://www.youtube.com/watch?v=ZSeEk1TVQqk
 ---
+Track: Make it better (Ending)
+# Official Release:
+#   DJMAX Respect Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/70752
+Artists:
+- DJMax
+- Mycin.T
+Duration: '1:22'
+URLs:
+- https://www.youtube.com/watch?v=oG1siZnHagk
+Lyrics: |-
+    ...make it better your chance
+    Make it better your soul
+    Make it better your chance
+    Make it better your soul
+    Make it better your chance—
+
+    You gotta groove that sound, make it better your soul
+    You gotta say goodbye, make it better your chance
+    You gotta groove that sound, make it better your soul
+    You gotta say goodbye, make it better your chance
+    You gotta groove that sound, make it better your soul
+    You gotta say goodbye, make it better your chance
+    You gotta groove that sound, make it better your soul
+    You gotta say goodbye, make it better your chance
+
+    You gotta groove that sound
+    You gotta say goodbye
+---
 Track: The Masked King
 # Official release:
 #  The Masked King in Kirby's Dream Collection Special Edition Compilation Soundtrack
@@ -3774,6 +3860,17 @@ Artists:
 - Hiroki Hashimoto
 URLs:
 - https://www.youtube.com/watch?v=PTQBFoM_cVw
+---
+Track: NLCtown
+# No official release
+# Track name taken from ingame music file
+Additional Names:
+- New Leaf City - Town (sometimes known as)
+Artists:
+- MapleStory
+- Studio EIM
+URLs:
+- https://www.youtube.com/watch?v=EXv5madDarI
 ---
 Track: Old Friends
 # Official release on Bandcamp
@@ -4073,7 +4170,7 @@ URLs:
 - https://www.youtube.com/watch?v=kR7azqI6wik
 ---
 Track: "Re: Mr. Monokuma's Lesson"
-Duration: 3:45
+Duration: '3:45'
 # JP: Re: モノクマ先生の授業
 # Official release:
 #   SUPER DANGANRONPA 2 ORIGINAL SOUNDTRACK
@@ -4179,7 +4276,7 @@ Lyrics: |-
     One two
 ---
 Track: Rise and Shine, Ursine!
-Duration: 3:22
+Duration: '3:22'
 # JP: おはっくまー!
 # Official release:
 #   NEW DANGANRONPA V3 O.S.T. WHITE
@@ -4417,6 +4514,18 @@ URLs:
 - https://www.youtube.com/watch?v=7koXN8M6rZc
 Lyrics: |-
     [Largely indecipherable French whispering]
+---
+Track: Sin Pausa (Mission Failed)
+# Official Release:
+#   DJMAX Respect Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/70752
+Artists:
+- DJMax
+- Mycin.T
+Duration: '0:45'
+URLs:
+- https://www.youtube.com/watch?v=o4mTCw-crAg
 ---
 Track: Sleeping Terror
 # No official release of the in-game track
@@ -4899,6 +5008,21 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Originally found in Mario Paint and known as 'Mario Paint song', it was its discovery in Animal Crossing as a secret track you could only hear by requesting 'K.K. Song' from K.K. Slider that clued fans in as to its true nature, as the character is based on Nintendo composer Kazumi Totaka. Versions of this song have been hidden in almost every game he has been involved in, usually by idling in some specific part of the game for several minutes.
 ---
+Track: Trigger Happy Havoc
+# JP: DANGANRONPA
+# Official release:
+#   DANGANRONPA Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/23469
+Artists:
+- Danganronpa
+- Masafumi Takada
+Duration: '1:37'
+URLs:
+- https://www.youtube.com/watch?v=JeitvjG-dgI
+Lyrics: |-
+    (Danganronpa!)
+---
 Track: Toxic Caves
 # This friggen' game got its soundtrack released on vinyl in 2022! What were the chances!? Nice!
 # Official release:
@@ -5142,6 +5266,18 @@ Duration: '2:48'
 URLs:
 - https://jukiokallio.bandcamp.com/track/venus-mansion-feat-doseone
 - https://www.youtube.com/watch?v=pR6KObOqfXc
+---
+Track: Vortal Combat
+# Official release:
+#   Half-Life 2: Episode Two Soundtrack
+# Reference:
+#   https://vgmdb.net/album/48638
+Artists:
+- Half-Life
+- Kelly Bailey
+Duration: '3:15'
+URLs:
+- https://www.youtube.com/watch?v=RZRNd6osQrk
 ---
 Track: Wake Up, Get Up, Get Out There
 # JP: Wake Up, Get Up, Get Out There
@@ -12225,6 +12361,64 @@ Lyrics: |-
 
     This! Is! Spart-t-t—
 ---
+Track: 5/4
+Artists:
+- Gorillaz
+Duration: '2:42'
+URLs:
+- https://www.youtube.com/watch?v=9lWKt4vxOdg
+Lyrics: |-
+    Magic for me
+    Magic makes no sound
+    It good for me
+    It good for me underground
+    Magic on me
+    Really got me down
+    Invade my city
+    It made my heart beat no sound
+
+    Beat no sound, beat no sound
+    Beat no sound, beat no sound
+    Beat no sound...
+
+    And let me tell myself
+    Tell on
+
+    She turned my dad on
+    She turned my dad on, dad on, dad on
+
+    Magic for me
+    Magic, get me through
+    With magic money
+    People seem to walk through you
+    Magic's funny
+    Magic, get me through
+    All good for me
+    When people seem to always walk through you
+
+    Walk through you, walk through you
+    Walk through you, walk through you
+    Walk through you, walk through you
+    Walk through you, walk through you
+    Walk through you, walk through you...
+
+    And let me tell myself
+    Tell on
+
+    She turned my dad on
+    She turned my dad on, dad on, dad on
+
+    She made me kill myself
+    Come on
+    Come on
+
+    She turned my dad on
+    Come on
+    She turned my dad on
+    Come on
+    She turned my dad on
+    She turned my dad on, dad on, dad on
+---
 Track: A Fifth of Beethoven
 Artists:
 - Walter Murphy
@@ -13154,7 +13348,7 @@ Lyrics: |-
 Track: Beat It
 Artists:
 - Michael Jackson
-Duration: 4:18
+Duration: '4:18'
 URLs:
 - https://www.youtube.com/watch?v=oRdxUFDoQe0
 Lyrics: |-
@@ -13228,6 +13422,58 @@ Lyrics: |-
     Showin' how funky (Hoo-hoo) and strong is your fight (Hee-hee, hoo)
     It doesn't matter who's wrong or right
 ---
+Track: Beating Heart
+Artists:
+- Ellie Goulding
+- Joe Janiak (composition)
+Duration: '3:46'
+URLs:
+- https://www.youtube.com/watch?v=wrNTOo4KH8c
+Lyrics: |-
+    Eyes make their peace in difficulties
+    With wounded lips and salted cheeks
+    And finally, we step to leave
+    To the departure lounge of disbelief
+
+    And I don't know where I'm going
+    But I know it's gonna be a long time
+    And I'll be leaving in the morning
+    Come the white wine, bitter sunlights
+
+    Wanna hear your beating heart tonight
+    Before the bleeding sun comes alive
+    I want to make the best of what is left, hold tight
+    And hear my beating heart one last time
+    Before daylight
+
+    And the canyon underneath the trees
+    Behind the dark sky, you looked at me
+    I fell for you, like autumn leaves
+    Never faded, evergreen
+
+    And I don't know where I'm going
+    But I know it's gonna be a long time
+    Cause I'll be leaving in the morning
+    Come the white wine, bitter sunlight
+
+    Wanna hear your beating heart tonight
+    Before the bleeding sun comes alive
+    I want to make the best of what is left, hold tight
+    And hear my beating heart one last time
+
+    I can't face this, now everything has changed
+    I just wanna be by your side
+    Here's hoping we collide
+    Here's hoping we collide
+    Here's hoping we collide
+
+    Wanna hear your beating heart tonight
+    Before the bleeding sun comes alive
+    I want to make the best of what is left, hold tight
+    And hear my beating heart one last time
+
+    Wanna hear your beating heart, tonight
+---
 Track: Best Foot Forward
 Artists:
 - DJ Shadow
@@ -13251,7 +13497,7 @@ Lyrics: |-
     I don't even wanna hear about it, you're just fessing
 ---
 Track: Big Chungus
-Duration: 1:51
+Duration: '1:51'
 Artists:
 - Endigo
 URLs:
@@ -13593,7 +13839,7 @@ Lyrics: |-
     Hey, drop! Hey, drop!
 ---
 Track: Bohemian Polka
-Duration: 3:40
+Duration: '3:40'
 Artists:
 - Weird Al Yankovic
 Referenced Tracks:
@@ -25390,8 +25636,40 @@ Lyrics: |-
     Running in the 90's
     Running in the 90's
 ---
+Track: S2010
+Additional Names:
+- My Body Is Ready (popularly known as)
+Artists:
+- irover18
+Duration: '0:49'
+URLs:
+- https://www.youtube.com/watch?v=UDq4URXOPlU
+Sampled Tracks:
+- Deceptacon by Le Tigre
+Lyrics: |-
+    (Who took the bomp?)
+    My body, my body is, my body is ready
+    My body is ready, bo-bo-bo-body is ready
+    My body, my body, my-my body is ready
+    My-my-my body is— body is— bo-bo-body is ready
+
+    My body, my body is, my body is ready
+    My body is ready, bo-bo-bo-body is ready
+    My body, my body, my-my body is ready
+    My-my-my body is— body is— bo-bo-body is ready
+    
+    My body, my body is, my body is ready
+    My body is ready, bo-bo-bo-body is ready
+    My body, my body, my-my body is ready
+    My-my-my body is— body is— bo-bo-body is ready
+
+    My body, my body is, my body is ready
+    My body is ready, bo-bo-bo-body is ready
+    My body, my body, my-my body is ready
+    My-my-my body is— body is— bo-bo-body is ready
+---
 Track: Samsara
-Duration: 5:33
+Duration: '5:33'
 Artists:
 - Tigran Hamasyan
 URLs:
