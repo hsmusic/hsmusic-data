@@ -49,6 +49,7 @@ Content: |-
     - added commentary to [[track:woman-i-never-met]] and [[track:puzzle-i-never-solved]], as well as track art to the former (thanks, Lilith!)
     - added commentary to [[track:unite-division-beta]] and [[track:heel-girl-beta]] (thanks, Lilith!)
     - added mini-commentary from Bandcamp to [[track:skaian-overdrive]] (thanks, Lilith!)
+    - added commentary to [[track:ocean-stars]] (thanks, Pyryte!)
     - added commentary by [[artist:clark-powell]] (and co.) from Tumblr to [[track:doctor]]
     - added alternate animated banner to [[album:cyber-city-sound-pak]] under additional files (thanks, Niklink!)
     - added lyrics to [[track:sketches-in-black]] (thanks, Makin!)
@@ -73,6 +74,11 @@ Content: |-
     - fixed [[track:not-a-creature-was-stirring]] being named "not a creature was stirring" (different capitalization)
     - fixed [[track:phat1]], [[track:phat2]], [[track:phat3]], [[track:phat4]], [[track:phat5]], [[track:phat8]], [[track:phat9]], [[track:phat10]], and [[track:phat11]] not crediting [[artist:bill-bolin]] (for mastering and syncing)
     - fixed duration of [[track:song-of-storms]] (thanks, Geese!)
+    - fixed [[track:lost-memories]] not being tagged [[tag:bk]] (thanks, Pyryte!)
+    - fixed [[track:break-shot]] not being tagged [[tag:green-sun]] and [[tag:ah]] (thanks, Pyryte, FF!)
+    - fixed [[track:feels-jam]] being tagged [[tag:lomax]] instead of [[tag:lotak]] (thanks, Pyryte!)
+    - fixed [[flash:1940]] not featuring [[track:squiddles]] and [[track:friendship-aneurysm]] (thanks, Pyryte!)
+    - fixed domains for battleofthebits links on [[track:grrrarrr]] and [[artist:baron-knoxburry]] (thanks, Pyryte!)
     - various fixes for tracks featured in [[track:cascade]]:
         - fixed [[track:savior-of-the-dreaming-dead-cascade-cut]] not referencing [[track:penumbra-phantasm]] and [[track:black-rose-green-sun]] (thanks, Grace!)
         - added [[track:flare-cascade-cut]] as a new unreleased track
@@ -84,11 +90,13 @@ Content: |-
     - added sheet music blueprint for [[track:narrative-command]] as proper sheet music file, instead of just linking from commentary
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
+    - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
+    - changed directory of [[track:gone-vast-error]] from <code>gone-bonus</code> to <code>gone-vast-error</code>
     - reorganized the group lists of some albums for consistency across site:
         - moved [[group:unofficial-mspa-fans]] above [[group:jamie-paige]] on [[album:vaporwave-2016]]
         - moved [[group:deconrecon]] above [[group:nasqueron]] on [[album:empyreal-rhapsody]]
     - divided [[track:revelations-i|Revelations']] [[track:revelations-ii|three]] [[track:revelations-iii|movements]] into their own section in [[album:sburb]], in line with their composer's notes
-    - divided [[album:vast-error-vol-4]], [[album:catch-322]], [[album:dead-shufflers-anything-goes]] into main album and bonus track sections
+    - divided [[album:vast-error-vol-2]], [[album:vast-error-vol-3]], [[album:vast-error-vol-4]], [[album:catch-322]], [[album:dead-shufflers-anything-goes]] into main album and bonus track sections
 
     <h2 id="07-nov-2023"><a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h2>
     <h3>data changes</h3>
