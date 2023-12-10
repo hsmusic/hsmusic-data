@@ -6,6 +6,7 @@ Artists:
 - pragmaticNihilist
 URLs:
 - https://vasterror.bandcamp.com/album/repiton
+- https://music.deconreconstruction.com/albums/repiton
 Cover Artists:
 - Xamag
 Cover Art File Extension: png
@@ -15,12 +16,15 @@ Groups:
 - Deconreconstruction
 - Fandom
 ---
+Section: Main album
+---
 Track: Methodology
 Directory: methodology-repiton
 Always Reference By Directory: true
 Duration: '3:56'
 URLs:
 - https://vasterror.bandcamp.com/track/methodology
+- https://music.deconreconstruction.com/albums/repiton?track=methodology
 ---
 Track: Day After Day
 Cover Artists:
@@ -30,6 +34,7 @@ Art Tags:
 Duration: '4:20'
 URLs:
 - https://vasterror.bandcamp.com/track/day-after-day
+- https://music.deconreconstruction.com/albums/repiton?track=day-after-day
 ---
 Track: Moment's Notice
 Cover Artists:
@@ -39,6 +44,7 @@ Art Tags:
 Duration: '3:37'
 URLs:
 - https://vasterror.bandcamp.com/track/moments-notice
+- https://music.deconreconstruction.com/albums/repiton?track=moments-notice
 ---
 Track: Suckerpunch
 Cover Artists:
@@ -48,6 +54,7 @@ Art Tags:
 Duration: '4:21'
 URLs:
 - https://vasterror.bandcamp.com/track/suckerpunch
+- https://music.deconreconstruction.com/albums/repiton?track=suckerpunch
 ---
 Track: That's Right!
 Cover Artists:
@@ -57,6 +64,7 @@ Art Tags:
 Duration: '3:22'
 URLs:
 - https://vasterror.bandcamp.com/track/thats-right
+- https://music.deconreconstruction.com/albums/repiton?track=thats-right
 Referenced Tracks:
 - track:september-earth-wind-fire
 Sampled Tracks:
@@ -74,6 +82,7 @@ Referenced Tracks:
 - Radioactive Ore
 URLs:
 - https://vasterror.bandcamp.com/track/survival
+- https://music.deconreconstruction.com/albums/repiton?track=survival
 ---
 Track: Home
 Directory: home-repiton
@@ -82,11 +91,14 @@ Cover Artists:
 Duration: '2:08'
 URLs:
 - https://vasterror.bandcamp.com/track/home
+- https://music.deconreconstruction.com/albums/repiton?track=home
 ---
 Track: 'INTERMISSION: Risk'
+Directory: risk-vast-error
 Duration: '4:17'
 URLs:
 - https://vasterror.bandcamp.com/track/intermission-risk
+- https://music.deconreconstruction.com/albums/repiton?track=intermission-risk
 ---
 Track: Moonlight
 Directory: moonlight-repiton
@@ -96,6 +108,7 @@ Cover Artists:
 Duration: '3:01'
 URLs:
 - https://vasterror.bandcamp.com/track/moonlight
+- https://music.deconreconstruction.com/albums/repiton?track=moonlight
 ---
 Track: Through It All
 Cover Artists:
@@ -103,6 +116,7 @@ Cover Artists:
 Duration: '4:37'
 URLs:
 - https://vasterror.bandcamp.com/track/through-it-all
+- https://music.deconreconstruction.com/albums/repiton?track=through-it-all
 ---
 Track: Tyrant
 Directory: tyrant-repiton
@@ -113,6 +127,7 @@ Referenced Tracks:
 - track:oversaturated-vast-error
 URLs:
 - https://vasterror.bandcamp.com/track/tyrant
+- https://music.deconreconstruction.com/albums/repiton?track=tyrant
 ---
 Track: Take The Shot
 Cover Artists:
@@ -122,6 +137,7 @@ Art Tags:
 Duration: '3:38'
 URLs:
 - https://vasterror.bandcamp.com/track/take-the-shot
+- https://music.deconreconstruction.com/albums/repiton?track=take-the-shot
 ---
 Track: Nailed It
 Cover Artists:
@@ -129,6 +145,7 @@ Cover Artists:
 Duration: '3:22'
 URLs:
 - https://vasterror.bandcamp.com/track/nailed-it
+- https://music.deconreconstruction.com/albums/repiton?track=nailed-it
 ---
 Track: Remember?
 Directory: remember-repiton
@@ -137,6 +154,7 @@ Cover Artists:
 Duration: '3:10'
 URLs:
 - https://vasterror.bandcamp.com/track/remember
+- https://music.deconreconstruction.com/albums/repiton?track=remember
 ---
 Track: Promise
 Directory: promise-repiton
@@ -146,6 +164,7 @@ Cover Artists:
 Duration: '3:03'
 URLs:
 - https://vasterror.bandcamp.com/track/promise
+- https://music.deconreconstruction.com/albums/repiton?track=promise
 ---
 Track: Only The Beginning
 Cover Artists:
@@ -155,8 +174,12 @@ Art Tags:
 Duration: '6:59'
 URLs:
 - https://vasterror.bandcamp.com/track/only-the-beginning
+- https://music.deconreconstruction.com/albums/repiton?track=only-the-beginning
 ---
-Track: 'BONUS: Where To Now?'
+Section: Bonus track
+---
+Track: 'Where To Now?'
 Duration: '2:39'
 URLs:
 - https://vasterror.bandcamp.com/track/bonus-where-to-now
+- https://music.deconreconstruction.com/albums/repiton?track=bonus-where-to-now

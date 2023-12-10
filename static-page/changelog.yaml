@@ -65,6 +65,7 @@ Content: |-
     - added lyrics to [[track:sketches-in-black]] (thanks, Makin!)
     - added lyrics to [[track:blue-blood-group]] (thanks, Lilith!)
     - added lyrics to [[track:best-boyfriend]]
+    - added MUSIC@DCRC links to [[album:running-for-eons]], [[album:repiton]], [[album:vast-error-vol-4]], [[album:catch-322]], [[album:dead-shufflers-anything-goes]], [[album:corporate-holiday-hits]], [[album:reminders-of-you-beta]], [[album:vast-error-vol-1-3]], [[album:empyreal-rhapsody]], and [[album:faux-dramatica]]
     - added an ascii image of bowsette to [[track:an-ascii-image-of-bowsette]]
     <h3>data fixes</h3>
     - fixed broken commentary formatting in [[track:verdant-metamorphosis]], [[track:you-killed-my-father-prepare-to-die]], [[track:a-very-o-christmas]], [[track:alive]], [[track:death-minute-in-duodecimal-regicide-demonica]], [[track:haunt-andrew-hussie]], [[track:jump-up-super-star]], [[track:cosmic-carousel]]
@@ -82,6 +83,7 @@ Content: |-
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a re-release of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
     - fixed [[track:not-a-creature-was-stirring]] being named "not a creature was stirring" (different capitalization)
+    - fixed [[track:sillygoofysillygoofy]] being named "Sillygoofysillygoofy (Ft. Andrew Libman)" ("Andrew" instead of "Andrea", just a typo)
     - fixed [[track:phat1]], [[track:phat2]], [[track:phat3]], [[track:phat4]], [[track:phat5]], [[track:phat8]], [[track:phat9]], [[track:phat10]], and [[track:phat11]] not crediting [[artist:bill-bolin]] (for mastering and syncing)
     - fixed duration of [[track:song-of-storms]] (thanks, Geese!)
     - fixed [[track:lost-memories]] not being tagged [[tag:bk]] (thanks, Pyryte!)
@@ -92,7 +94,7 @@ Content: |-
     - fixed [[track:do-the-bartman]] and [[track:deep-deep-trouble]] not listing [[artist:the-simpsons]] as an artist and the latter being sorted incorrectly (thanks, Niklink!)
     - fixed bonus tracks in several albums not being divided into a dedicated section of the track list:
         - [[album:oceanfables-ray-of-light]], [[album:oceanfalls-vol-4]], and [[album:oceanfalls-vol-five]] (thanks, Niklink!)
-        - [[album:vast-error-vol-2]], [[album:vast-error-vol-3]], [[album:vast-error-vol-4]], [[album:catch-322]], [[album:dead-shufflers-anything-goes]]
+        - [[album:vast-error-vol-2]], [[album:vast-error-vol-3]], [[album:repiton]], [[album:vast-error-vol-4]], [[album:catch-322]], [[album:dead-shufflers-anything-goes]]
     - various fixes for tracks featured in [[track:cascade]]:
         - fixed [[track:savior-of-the-dreaming-dead-cascade-cut]] not referencing [[track:penumbra-phantasm]] and [[track:black-rose-green-sun]] (thanks, Grace!)
         - added [[track:flare-cascade-cut]] as a new unreleased track
@@ -104,8 +106,12 @@ Content: |-
     - added sheet music blueprint for [[track:narrative-command]] as proper sheet music file, instead of just linking from commentary
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
+    - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
     - changed directory of [[track:gone-vast-error]] from <code>gone-bonus</code> to <code>gone-vast-error</code>
+    - changed directory of [[track:risk-vast-error]] from <code>intermission-risk</code> to <code>risk-vast-error</code>
+    - changed directory of [[track:where-to-now]] from <code>bonus-where-to-now</code> to <code>where-to-now</code>
+    - changed directory of [[track:mimesiswing]] from <code>intermission-mimesiswing</code> to <code>mimesiswing</code>
     - reorganized the group lists of some albums for consistency across site:
         - moved [[group:unofficial-mspa-fans]] above [[group:jamie-paige]] on [[album:vaporwave-2016]]
         - moved [[group:deconrecon]] above [[group:nasqueron]] on [[album:empyreal-rhapsody]]
