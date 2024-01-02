@@ -276,6 +276,9 @@ Artists:
 Duration: '3:56'
 URLs:
 - https://www.youtube.com/watch?v=pa7xBUKruEw&t=52s
+Commentary: |-
+    <i>Quasar Nebula:</i>
+    Unofficial name - it's the main theme from [Backyard Fun](https://www.youtube.com/watch?v=pa7xBUKruEw).
 ---
 Track: Bogey Theme
 Artists:
@@ -1229,10 +1232,15 @@ Commentary: |-
     This song was originally intended to be used in a game, however, it never came to fruition.
 ---
 Track: Texas History Theme
-# Also known as "funmusic.mp3"
 # The song in Texas History from when the flag of Texas shows up and stuff, unreleased
+Duration: 0:24
 Artists:
 - Michael Guy Bowman
+URLs:
+- https://www.youtube.com/watch?v=tULy69RF9xE
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+    Unofficial name - it's the main theme from [Texas History](https://www.youtube.com/watch?v=tULy69RF9xE). When you pause the LaserDisc, not when Governor Sam Houston gets his grave dug.
 ---
 Track: Teenage Mutant Ninja Turtles
 Artists:
@@ -2735,7 +2743,9 @@ Artists:
 - Sonic the Hedgehog
 - Tomoya Ohtani (composer)
 - Douglas Robb (writing and vocals)
-Duration: '4:24'
+Duration: '4:30'
+URLs:
+- https://www.youtube.com/watch?v=eCkWlRL3_N0
 Lyrics: |-
     I can't do this alone
     Even though I am strong
@@ -3016,6 +3026,8 @@ Artists:
 - Dark Souls
 - Motoi Sakuraba
 Duration: '3:22'
+URLs:
+- https://www.youtube.com/watch?v=RZVyHH-voR8
 ---
 Track: Green Hill Zone
 # Official release:
@@ -3235,6 +3247,8 @@ Artists:
 - Sonic the Hedgehog
 - Tomoya Ohtani (composer)
 - Dangerkids
+URLs:
+- https://www.youtube.com/watch?v=Ki_Nn95hj48
 Duration: '4:35'
 Lyrics: |-
     (Yeah!) 
@@ -7657,13 +7671,16 @@ Lyrics: |-
     Than peace and love on the planet Earth
 ---
 Track: Pokémon Theme (Gotta Catch 'Em All)
+Directory: pokemon-theme
 Artists:
 - artist:pokemon
 - John Siegler
 - John Loeffler
 Contributors:
 - Jason Paige (vocals)
-Duration: '3:22'
+URLs:
+- https://www.youtube.com/watch?v=fAP-lGPqHbA
+Duration: '3:18'
 Lyrics: |-
     I wanna be the very best
     Like no one ever was
@@ -12465,7 +12482,7 @@ Referenced Tracks:
 ---
 Track: A Grand New Era ~Ending~
 Artists:
-- SilvaGunner
+- SiIvaGunner
 - The Voice Inside Your Head
 Duration: '4:43'
 URLs:
@@ -13718,6 +13735,8 @@ Lyrics: |-
 Track: Blue (Da Ba Dee) (DJ Ponte Ice Pop Mix)
 Artists:
 - Eiffel 65
+URLs:
+- https://www.youtube.com/watch?v=_Nx8Wzi3h5s
 Duration: '6:26'
 Lyrics: |-
     Yo, listen up, here's the story
@@ -14318,6 +14337,8 @@ Directory: burn-deep-purple
 Duration: 6:04
 Artists:
 - Deep Purple
+URLs:
+- https://www.youtube.com/watch?v=ZQGstnfTmAk
 Lyrics: |-
     The sky is red, I don't understand
     Past midnight I still see the land
@@ -14770,7 +14791,9 @@ Lyrics: |-
 Track: Chocolate Rain
 Artists:
 - Tay Zonday
-Duration: '4:48'
+URLs:
+- https://www.youtube.com/watch?v=EwTZ2xpQwpA
+Duration: '4:52'
 Lyrics: |-
     Chocolate Rain
     Some stay dry and others feel the pain
@@ -15839,9 +15862,11 @@ Track: Dicko Mode
 Artists:
 - DJ Splash Drip
 - Kusorare
-Duration: '4:57'
+Duration: '5:00'
 Sampled Tracks:
 - Sicko Mode
+URLs:
+- https://www.youtube.com/watch?v=AUbmUEq6uWA
 Lyrics: |-
     Asshole
 
@@ -18425,7 +18450,9 @@ Track: Galo Sengen
 # Also known as ポリスマン／GAL男宣言
 Artists:
 - POLICEMAN
-Duration: '3:46'
+Duration: '3:47'
+URLs:
+- https://www.youtube.com/watch?v=1EKTw50Uf8M
 Lyrics: |-
     Nichi saro ni itte hada o yaku (<i>Every day, exposing my skin to the sun</i>)
 
@@ -18884,7 +18911,7 @@ Lyrics: |-
 ---
 Track: Goodbye To The Underground
 Artists:
-- SilvaGunner
+- SiIvaGunner
 - MtH
 Duration: '5:29'
 URLs:
@@ -19013,7 +19040,7 @@ Lyrics: |-
 ---
 Track: Grand Dad's Secret Slide
 Artists:
-- SilvaGunner
+- SiIvaGunner
 - ZVAARI
 Duration: '1:18'
 URLs:
@@ -26327,7 +26354,7 @@ URLs:
 ---
 Track: Stone halation
 Artists:
-- SilvaGunner
+- SiIvaGunner
 - The Yabba Dabba μ's
 Duration: '4:19'
 URLs:
@@ -26569,6 +26596,16 @@ Lyrics: |-
     (I know, bring some blunts, alright.)
     (Alright, bye.)
     (—we praise, Our Father, who art in heaven, hallowed be thy name. Thy kingdom come—)
+---
+Track: Summer
+Directory: summer-vanilla
+Always Reference By Directory: true
+Duration: 4:40
+Artists:
+- Vanilla
+URLs:
+- https://vanillabeats.bandcamp.com/track/summer-2
+- https://www.youtube.com/watch?v=8CDXBHpvC04
 ---
 Track: Sun King
 Artists:
@@ -30742,12 +30779,16 @@ Lyrics: |-
     Come on
     Uh, uh, come on
 ---
-Track: Xmas? I Don't Know Such A Thing!
+Track: Xmas? I don't know such a thing!!
 # JP: クリスマス？なにそれ？美味しいの？
 # Literally: "Christmas? What's that? Is it tasty?"
+# Reference:
+#   https://ja.wikipedia.org/wiki/クリスマス%3Fなにそれ%3F美味しいの%3F
 Artists:
 - Hyadain
-Duration: '3:43'
+URLs:
+- https://www.youtube.com/watch?v=W7Y8rkI5z_4
+Duration: '3:45'
 Lyrics: |-
     Jingle bells! Jingle bells! Jingle all the way!
     Oh, what fun it is to ride in a one horse open sleigh
@@ -31192,12 +31233,6 @@ Directory: summer-noah-noble
 Always Reference By Directory: true
 Artists:
 - Noah Noble
----
-Track: Summer
-Directory: summer-vanilla
-Always Reference By Directory: true
-Artists:
-- Vanilla
 ---
 Track: Super Mario Bros. (The Movie)
 Artists:
