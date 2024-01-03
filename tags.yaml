@@ -1181,6 +1181,8 @@ Direct Descendant Tags:
 Tag: Characters from Undertale & Deltarune
 Direct Descendant Tags:
 - Sans
+- Spamton
+- Mettaton
 ---
 Tag: Characters from other media
 Direct Descendant Tags:
@@ -2928,12 +2930,17 @@ Tag: Zachery (Oceanfalls)
 Color: '#21f2c8'
 
 # Characters from Undertale & Deltarune.
-
+---
+Tag: Mettaton
+Color: '#fef100'
 ---
 Tag: Sans
 Color: '#84fff2'
-
+---
+Tag: Spamton
+Color: '#fff200'
 # Characters from EarthBound.
+
 
 ---
 Tag: Ness (EarthBound)
@@ -3944,6 +3951,7 @@ Direct Descendant Tags:
 - Magic 8 Ball
 - Rockets
 - Musical Staff
+- Rollercoaster
 
 # -------------------------------------
 #  Objects from media.
@@ -3970,6 +3978,7 @@ Direct Descendant Tags:
 - Smuppets
 - Squiddles
 - What Pumpkin?
+- Grist
 ---
 Tag: Unique objects (Homestuck)
 Direct Descendant Tags:
@@ -4145,6 +4154,11 @@ Extra Reading URLs:
 Tag: God Clock
 Color: '#ffff01'
 ---
+Tag: Grist
+Color: '#1DB4F2'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Grist
+---
 Tag: Homes Smell Ya Later
 Color: '#fff75f'
 Extra Reading URLs:
@@ -4164,11 +4178,6 @@ Extra Reading URLs:
 ---
 Tag: Magic 8 Ball
 Color: '#3796c6'
----
-Tag: Musical Staff
-Color: '#FFFFFF'
-Extra Reading URLs:
-- https://en.wikipedia.org/wiki/Staff_(music)
 ---
 Tag: Ninja Sword
 Color: '#a4a4a4'
@@ -4239,6 +4248,9 @@ Tag: Rockets
 Color: '#fc3120'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Rocket
+---
+Tag: Rollercoaster
+Color: '#851f1a'
 ---
 Tag: Royal Deringer
 Color: '#fff482'
@@ -4319,6 +4331,118 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hammerkind#Wrinklefucker
 
 # -------------------------------------
+#  Iconography classifications.
+# -------------------------------------
+
+---
+Tag: Iconography
+Direct Descendant Tags:
+- Aspects
+- Iconography from media
+- Music Iconography
+---
+Tag: Aspects
+Direct Descendant Tags:
+- Space
+- Time
+- Mind
+- Heart
+- Hope
+- Rage
+- Light
+- Void
+- Life
+- Doom
+- Breath
+- Blood
+---
+Tag: Music Iconography
+Direct Descendant Tags:
+- Musical Staff
+
+# -------------------------------------
+#  Iconography from media.
+# -------------------------------------
+
+---
+Tag: Iconography from media
+Direct Descendant Tags:
+- Homestuck iconography
+---
+Tag: Homestuck iconography
+Direct Descendant Tags:
+- Aspects (Homestuck)
+- 
+---
+Tag: Aspects (Homestuck)
+Direct Descendant Tags:
+- Space
+- Time
+- Mind
+- Heart
+- Hope
+- Rage
+- Light
+- Void
+- Life
+- Doom
+- Breath
+- Blood
+
+# -------------------------------------
+#  Individual Icons
+#  This list is sorted by type and then alphabetically
+# -------------------------------------
+
+# Aspects
+
+---
+Tag: Space
+Color: '#000000'
+---
+Tag: Time
+Color: '#ff2106'
+---
+Tag: Mind
+Color: '#06ffc9'
+---
+Tag: Heart
+Color: '#bd1864'
+---
+Tag: Hope
+Color: '#ffde55'
+---
+Tag: Rage
+Color: '#9c4dad'
+---
+Tag: Light
+Color: '#f0840c'
+---
+Tag: Void
+Color: '#104ea2'
+---
+Tag: Life
+Color: '#72eb34'
+---
+Tag: Doom
+Color: '#306800'
+---
+Tag: Breath
+Color: '#47dff9'
+---
+Tag: Blood
+Color: '#ba1016'
+
+# General Symbols
+
+---
+Tag: Musical Staff
+Color: '#FFFFFF'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Staff_(music)
+
+
+# -------------------------------------
 #  Content warnings.
 # -------------------------------------
 
@@ -4342,6 +4466,7 @@ Tag: asphyxiation (abstract)
 Is CW: true
 ---
 Tag: blood
+Directory: blood-cw
 Is CW: true
 ---
 Tag: blood (abstract)
