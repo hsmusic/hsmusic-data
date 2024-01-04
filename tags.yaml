@@ -3332,6 +3332,7 @@ Direct Descendant Tags:
 - 'Maple Valley, WA'
 - 'Rainbow Falls, NY'
 - 'Houston, TX'
+- 'Rajavihara'
 ---
 Tag: More lands in the Medium
 Direct Descendant Tags:
@@ -3505,6 +3506,9 @@ Tag: 'Rainbow Falls, NY'
 Color: '#b536da'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lalonde_home
+---
+Tag: 'Rajavihara'
+Color: '#41788c'
 
 # Recurring game locations
 
@@ -3790,7 +3794,8 @@ Direct Descendant Tags:
 - Keyboard instruments
 - String instruments
 - More instruments
-- Turntables
+- Brass instruments
+
 ---
 Tag: Keyboard instruments
 Direct Descendant Tags:
@@ -3804,9 +3809,18 @@ Direct Descendant Tags:
 - Cello
 - Violin
 ---
+Tag: Brass instruments
+Direct Descendant Tags:
+- Saxophone
+---
 Tag: More instruments
 Direct Descendant Tags:
 - Turntables
+---
+Tag: Turntables
+Color: '#e00707'
+Direct Descendant Tags:
+- Timetables 
 ---
 Tag: Weapons
 Direct Descendant Tags:
@@ -3862,6 +3876,8 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Clawkind
 ---
 Tag: Clubkind
+Direct Descendant Tags:
+- Deuce Clubs
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Clubkind
 ---
@@ -3921,9 +3937,11 @@ Extra Reading URLs:
 Tag: Riflekind
 Direct Descendant Tags:
 - Ahab's Crosshairs
+- Hunting Rifle
 - Black Rifle
 - Blunderbuss
 - Laser Gun
+- Girl's Best Friend
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind
 ---
@@ -3950,8 +3968,8 @@ Direct Descendant Tags:
 - Lotus
 - Magic 8 Ball
 - Rockets
-- Musical Staff
 - Rollercoaster
+- Fans
 
 # -------------------------------------
 #  Objects from media.
@@ -3991,6 +4009,7 @@ Direct Descendant Tags:
 - Red Miles
 - Remote Ghost Gauntlets
 - Tumor
+- Timetables
 ---
 Tag: Weapons (Homestuck)
 Direct Descendant Tags:
@@ -4026,6 +4045,8 @@ Direct Descendant Tags:
 - White Magnum
 - White Wand
 - Wrinklefucker
+- Girl's Best Friend
+- Hunting Rifle
 
 # -------------------------------------
 #  Individual object entries.
@@ -4124,6 +4145,9 @@ Color: '#f6eed3'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wandkind#Empiricist's_wand
 ---
+Tag: Fans
+Color: '#dddddd'
+---
 Tag: Fenestrology
 Color: '#bbbbbb'
 Extra Reading URLs:
@@ -4151,6 +4175,11 @@ Color: '#f2c079'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/GameBro
 ---
+Tag: Girl's Best Friend
+Color: '#707070'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Riflekind#Girl's_Best_Friend
+---
 Tag: God Clock
 Color: '#ffff01'
 ---
@@ -4163,6 +4192,11 @@ Tag: Homes Smell Ya Later
 Color: '#fff75f'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Sicklekind#Homes_Smell_Ya_Later
+---
+Tag: Hunting Rifle
+Color: '#34220a'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Riflekind#Hunting_Rifle
 ---
 Tag: Keyboard
 Color: '#5c66e8'
@@ -4257,6 +4291,9 @@ Color: '#fff482'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Royal_Deringer
 ---
+Tag: Saxophone
+Color: '#ebcb92'
+---
 Tag: Scalemates
 Color: '#ffff01'
 Extra Reading URLs:
@@ -4270,6 +4307,9 @@ Extra Reading URLs:
 Tag: Standing piano
 Color: '#5c66e8'
 ---
+Tag: Timetables
+Color: '#e00707'
+---
 Tag: Telescopic Sassacrusher
 Color: '#c492f3'
 Extra Reading URLs:
@@ -4279,9 +4319,6 @@ Tag: Thorns of Oglogoth
 Color: '#fcc3df'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Needlekind#Thorns_of_Oglogoth
----
-Tag: Turntables
-Color: '#e00707'
 ---
 Tag: Twin M9 Berettas
 Color: '#a2a2a2'
@@ -4335,10 +4372,9 @@ Extra Reading URLs:
 # -------------------------------------
 
 ---
-Tag: Iconography
+Tag: Iconography classifications
 Direct Descendant Tags:
 - Aspects
-- Iconography from media
 - Music Iconography
 ---
 Tag: Aspects
@@ -4358,7 +4394,8 @@ Direct Descendant Tags:
 ---
 Tag: Music Iconography
 Direct Descendant Tags:
-- Musical Staff
+- Music Staff
+- Music Note
 
 # -------------------------------------
 #  Iconography from media.
@@ -4372,7 +4409,7 @@ Direct Descendant Tags:
 Tag: Homestuck iconography
 Direct Descendant Tags:
 - Aspects (Homestuck)
-- 
+- Sburb
 ---
 Tag: Aspects (Homestuck)
 Direct Descendant Tags:
@@ -4433,13 +4470,22 @@ Color: '#47dff9'
 Tag: Blood
 Color: '#ba1016'
 
-# General Symbols
+# Other Homestuck Icons
 
 ---
-Tag: Musical Staff
+Tag: Sburb
+Color: '#4be14e'
+
+# General Icons
+
+---
+Tag: Music Staff
 Color: '#FFFFFF'
 Extra Reading URLs:
 - https://en.wikipedia.org/wiki/Staff_(music)
+---
+Tag: Music Note
+Color: '#FFFFFF'
 
 
 # -------------------------------------
