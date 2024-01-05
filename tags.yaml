@@ -1263,6 +1263,7 @@ Direct Descendant Tags:
 - Ghosts
 # Additional high-level species groupings.
 - Animal species
+- Plant species
 ---
 Tag: Humans
 # Description: |-
@@ -3173,6 +3174,15 @@ Tag: Frogs
 Color: '#06ffc9'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Frog
+---
+Tag: Plant species
+Direct Descendant Tags:
+- Pumpkin
+---
+Tag: Pumpkin
+Direct Descendant Tags:
+- What Pumpkin?
+Color: '#ff7f27'
 
 
 ---
