@@ -23,6 +23,22 @@
 # -------------------------------------
 #  Character archetypes.
 # -------------------------------------
+#
+#   Organization and sorting might be subject to change, here, but
+#   so far we're grouping archetypes by species (of the "main" version
+#   of that character), and sorting instances under an archetype roughly
+#   by degree of "canonicity":
+#
+#   1. The single "main" instance from Homestuck
+#   2. Alternate instances within Homestuck, unless specified below
+#   3. Alternate instances from Homosuck
+#   4. Alternate instances from the Meat epilogue
+#   5. Alternate instances from the Candy epilogue
+#   6. Instances specific to any given fanventure
+#
+#   The sorting within each of these sections is probably arbitrary,
+#   at the moment.
+#
 
 Tag: Character archetypes
 Description: |-
@@ -52,11 +68,11 @@ Color: '#666fe9'
 Direct Descendant Tags:
 - John
 - Jane's grandpa
+- MALE (Homosuck)
 - John (Meat)
 - John (Candy)
 - June
 - Jhon
-- MALE (Homosuck)
 - John (Heinoustuck)
 ---
 Tag: Rose (archetype)
@@ -77,11 +93,11 @@ Direct Descendant Tags:
 - Dirk's bro
 - Davesprite
 - Davepeta
+- ALPHA MALE (Homosuck)
 - Dave (Meat)
 - Dave (Candy)
 - Davebot (Candy)
 - Dabe
-- ALPHA MALE (Homosuck)
 - Dave (Heinoustuck)
 ---
 Tag: Jade (archetype)
@@ -211,8 +227,9 @@ Tag: Karkat (archetype)
 Color: '#7c7e81'
 Direct Descendant Tags:
 - Karkat
-- Kraket
 - KRABKRAB (Homosuck)
+- Karkat (Candy)
+- Kraket
 ---
 Tag: Meulin (archetype)
 Color: '#588a00'
@@ -251,8 +268,9 @@ Tag: Terezi (archetype)
 Color: '#008b8b'
 Direct Descendant Tags:
 - Terezi
-- Terexi
 - Terezi (Homosuck)
+- Terezi (Meat)
+- Terexi
 ---
 Tag: Aranea (archetype)
 Color: '#3796c6'
@@ -264,17 +282,18 @@ Tag: Vriska (archetype)
 Color: '#3796c6'
 Direct Descendant Tags:
 - Vriska
-- Vrasky
 - Tavrisprite
 - Vriska (Homosuck)
+- Vriska (Meat)
+- Vrasky
 ---
 Tag: Equius (archetype)
 Color: '#487aef'
 Direct Descendant Tags:
 - Equius
 - Arquiusprite
-- Equihorse
 - SMELLY HORSE MAN (Homosuck)
+- Equihorse
 ---
 Tag: Horuss (archetype)
 Color: '#487aef'
@@ -286,8 +305,9 @@ Tag: Gamzee (archetype)
 Color: '#a34bff'
 Direct Descendant Tags:
 - Gamzee
-- Gametez
 - HONK FRIEND (Homosuck)
+- Gamzee (Meat)
+- Gametez
 ---
 Tag: Kurloz (archetype)
 Color: '#a34bff'
@@ -318,6 +338,7 @@ Color: '#e30072'
 Direct Descendant Tags:
 - Meenah
 - The Condesce
+- Meenah (Meat)
 ---
 Tag: More archetypes
 Direct Descendant Tags:
@@ -328,8 +349,8 @@ Tag: Dad (archetype)
 Color: '#e0e0e0'
 Direct Descendant Tags:
 - Dad
-- Dadd
 - LARGER HOMO SAPIEN (Homosuck)
+- Dadd
 ---
 Tag: Jaspers (archetype)
 Color: '#f141ef'
