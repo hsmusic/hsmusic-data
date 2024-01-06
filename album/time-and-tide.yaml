@@ -62,6 +62,7 @@ Commentary: |-
     Splitsuns for production feedback on this track!
 ---
 Track: Zeitgeist
+Directory: zeitgeist-time-and-tide
 Duration: '04:00'
 Referenced Tracks:
 - Rasputin
@@ -170,6 +171,8 @@ Commentary: |-
     Pictured in the track illustration is a pair of characters from one of the ideas I had while pondering the setting: a couple of flappers who regularly meet at the speakeasy, romancing each other and parting only when the sun comes up.
 ---
 Track: Chariot
+Directory: chariot-time-and-tide
+Always Reference By Directory: true
 Duration: '04:45'
 URLs:
 - https://circlejourney.bandcamp.com/track/chariot
@@ -227,6 +230,8 @@ Commentary: |-
     Splitsuns for the invaluable production feedback on this track, and helping me iron out some modulations!
 ---
 Track: Emptiness
+Directory: emptiness-time-and-tide
+Always Reference By Directory: true
 Duration: '04:22'
 URLs:
 - https://circlejourney.bandcamp.com/track/emptiness
@@ -297,6 +302,8 @@ Commentary: |-
     It was incredibly satisfying to draw and adjust blending modes on the glass shards in the image, which form a half-mask over the face.
 ---
 Track: Shipwreck
+Directory: shipwreck-time-and-tide
+Always Reference By Directory: true
 Artists:
 - Circlejourney
 - SerialSymphony
@@ -414,6 +421,8 @@ Commentary: |-
     This one was made for no rhyme or reason; the melody came to me, and I liked it and built the rest of the track around it. Brash and very hard-rock, I didn’t feel like I could do it justice until I got my hands on some better instruments. It was almost a year before I took it the draft and finished it up. Later on, I decided to make it a song played by a band formed of a few of my characters.
 ---
 Track: Wineglasses
+Directory: wineglasses-time-and-tide
+Always Reference By Directory: true
 Has Cover Art: false
 Duration: '1:32'
 Commentary: |-
@@ -430,4 +439,4 @@ Track: Shipwreck (Instrumental)
 Has Cover Art: false
 Duration: '4:42'
 Referenced Tracks:
-- Shipwreck
+- track:shipwreck-time-and-tide

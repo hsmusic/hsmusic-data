@@ -29,6 +29,8 @@ Commentary: |-
     All of the track art for this album has been taken from the SoundCloud uploads of the tracks.
 ---
 Track: Sweet
+Directory: sweet-songs-for-doomed-timelines
+Always Reference By Directory: true
 Duration: '3:57'
 URLs:
 - https://soundcloud.com/hamsters/sweet
@@ -112,14 +114,14 @@ Lyrics: |-
     Haa (haa) haa (haa) haa (haa)
 ---
 Track: Fool
+Directory: fool-songs-for-doomed-timelines
+Originally Released As: track:fool
 Duration: '5:19'
 URLs:
 - https://soundcloud.com/hamsters/fool
 - https://open.spotify.com/track/6oQ9EdXsAsLu48bAjjlzen
 - https://phemiec.bandcamp.com/track/fool
 - https://youtu.be/-z50bAtPWHE
-Directory: fool-songs-for-doomed-timelines
-Originally Released As: track:fool
 Art Tags:
 - Gamzee
 - 'cw: blood (abstract)'
@@ -428,6 +430,8 @@ Lyrics: |-
     My thin line, my thin line
 ---
 Track: Nobodies
+Directory: nobodies-songs-for-doomed-timelines
+Always Reference By Directory: true
 Duration: '4:07'
 URLs:
 - https://soundcloud.com/hamsters/nobodies

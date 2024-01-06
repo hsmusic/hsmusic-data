@@ -145,14 +145,14 @@ Lyrics: |-
     Finally I’ve flown
 ---
 Track: Double Time
+Directory: double-time-songs-for-sad-trolls
+Always Reference By Directory: true
 Duration: '4:22'
 URLs:
 - https://soundcloud.com/hamsters/double-time
 - https://open.spotify.com/track/6TfWU2pQpyCs0XQU78ZPsf
 - https://phemiec.bandcamp.com/track/double-time
 - https://youtu.be/0t-IB3wlREE
-Directory: double-time-songs-for-sad-trolls
-Always Reference By Directory: true
 Art Tags:
 - Sollux
 Color: '#a1a100'
@@ -376,6 +376,8 @@ Lyrics: |-
     That I’m still on your side, and that’s furever, furever, furever
 ---
 Track: Mary
+Directory: mary-songs-for-sad-trolls
+Always Reference By Directory: true
 Duration: '4:04'
 URLs:
 - https://soundcloud.com/hamsters/mary

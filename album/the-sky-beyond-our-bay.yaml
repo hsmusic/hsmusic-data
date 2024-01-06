@@ -19,6 +19,8 @@ Commentary: |-
 Section: Main album
 ---
 Track: Seastorm
+Directory: seastorm-the-sky-beyond-our-bay
+Always Reference By Directory: true
 Duration: '03:42'
 URLs:
 - https://circlejourney.bandcamp.com/track/seastorm
@@ -264,6 +266,8 @@ Lyrics: |-
     The last to get better
 ---
 Track: Vanish
+Directory: vanish-the-sky-beyond-our-bay
+Always Reference By Directory: true
 Duration: '03:41'
 URLs:
 - https://circlejourney.bandcamp.com/track/vanish
@@ -376,7 +380,7 @@ Section: Bonus tracks
 Track: Seastorm (Instrumental)
 Duration: '3:45'
 Referenced Tracks:
-- Seastorm
+- track:seastorm-the-sky-beyond-our-bay
 ---
 Track: Shallow Shores (Instrumental)
 Duration: '2:10'
@@ -396,7 +400,7 @@ Referenced Tracks:
 Track: Vanish (Instrumental)
 Duration: '3:40'
 Referenced Tracks:
-- Vanish
+- track:vanish-the-sky-beyond-our-bay
 ---
 Track: Places Whose Names We Don't Know (Instrumental)
 Duration: '2:41'

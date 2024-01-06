@@ -60,6 +60,8 @@ URLs:
 - https://circlejourney.bandcamp.com/track/the-journey
 ---
 Track: Nostalgia
+Directory: nostalgia-between-sky-and-sea
+Always Reference By Directory: true
 Duration: '04:34'
 URLs:
 - https://circlejourney.bandcamp.com/track/nostalgia
@@ -89,6 +91,8 @@ URLs:
 - https://circlejourney.bandcamp.com/track/marin
 ---
 Track: Solitaire
+Directory: solitaire-between-sky-and-sea
+Always Reference By Directory: true
 Referenced Tracks:
 - The Horizon
 Duration: '00:42'

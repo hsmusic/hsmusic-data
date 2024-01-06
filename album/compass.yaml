@@ -20,6 +20,8 @@ Commentary: |-
     This is the compilation of my MIDI compositions, featuring everything from when I began using soundfonts (2008) to last December (2012).
 ---
 Track: Dreamt
+Directory: dreamt-compass
+Always Reference By Directory: true
 Duration: '04:13'
 URLs:
 - https://circlejourney.bandcamp.com/track/dreamt
@@ -102,6 +104,8 @@ Commentary: |-
     Written for the NEA Songwriting Challenge 2011.
 ---
 Track: Sky
+Directory: sky-compass
+Always Reference By Directory: true
 Has Cover Art: false
 Duration: '02:02'
 URLs:
@@ -137,6 +141,8 @@ URLs:
 - https://circlejourney.bandcamp.com/track/from-a-windchime-to-its-long-lost-owner
 ---
 Track: LT
+Directory: lt-compass
+Always Reference By Directory: true
 Has Cover Art: false
 Duration: '00:39'
 URLs:

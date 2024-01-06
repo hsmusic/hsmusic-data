@@ -19,11 +19,15 @@ Commentary: |-
     This 11 track album, however is the remaster and reedit of the original.
 ---
 Track: Soothe
+Directory: soothe-somnium-remastered
+Always Reference By Directory: true
 Duration: '2:40'
 URLs:
 - https://solatrus.bandcamp.com/album/somnium-remastered
 ---
 Track: Shadows
+Directory: shadows-somnium-remastered
+Always Reference By Directory: true
 Duration: '7:06'
 URLs:
 - https://solatrus.bandcamp.com/track/shadows
@@ -39,6 +43,8 @@ URLs:
 - https://solatrus.bandcamp.com/track/below-the-surface
 ---
 Track: Lucidity
+Directory: lucidity-somnium-remastered
+Always Reference By Directory: true
 Duration: '6:04'
 URLs:
 - https://solatrus.bandcamp.com/track/lucidity
@@ -51,6 +57,8 @@ URLs:
 - https://solatrus.bandcamp.com/track/body
 ---
 Track: Mind
+Directory: mind-somnium-remastered
+Always Reference By Directory: true
 Duration: '6:39'
 Referenced Tracks:
 - track:body-somnium-remastered
@@ -58,9 +66,11 @@ URLs:
 - https://solatrus.bandcamp.com/track/mind
 ---
 Track: Soul
+Directory: soul-somnium-remastered
+Always Reference By Directory: true
 Duration: '6:31'
 Referenced Tracks:
-- Mind
+- track:mind-somnium-remastered
 URLs:
 - https://solatrus.bandcamp.com/track/soul
 ---
@@ -75,6 +85,8 @@ URLs:
 - https://solatrus.bandcamp.com/track/primus
 ---
 Track: Awaken
+Directory: awaken-somnium-remastered
+Always Reference By Directory: true
 Duration: '6:22'
 URLs:
 - https://solatrus.bandcamp.com/track/awaken

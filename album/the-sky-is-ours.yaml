@@ -63,7 +63,7 @@ URLs:
 ---
 Track: Immortal
 Directory: immortal-the-sky-is-ours
-#Originally Released As: track:immortal-vast-error
+Originally Released As: track:immortal-vast-error
 Always Reference By Directory: true
 Duration: '03:26'
 URLs:
@@ -86,7 +86,7 @@ URLs:
 ---
 Track: Nebula
 Directory: nebula-the-sky-is-ours
-#Originally Released As: track:nebula-vast-error
+Originally Released As: track:nebula-vast-error
 Always Reference By Directory: true
 Duration: '05:35'
 URLs:
@@ -177,7 +177,7 @@ Directory: dreamt-the-sky-is-ours
 Always Reference By Directory: true
 Duration: '4:12'
 Referenced Tracks:
-- Dreamt
+- track:dreamt-compass
 ---
 Track: I Forgot That You Existed
 Directory: i-forgot-that-you-existed-the-sky-is-ours

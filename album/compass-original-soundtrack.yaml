@@ -17,7 +17,7 @@ Commentary: |-
     Original soundtrack for Compass, an interactive comic about two travellers sailing to the edge of the world. Finally complete after 4 years, read Compass at:  <a href="compass.circlejourney.net">compass.circlejourney.net</a>  !
 ---
 Track: Compass
-Directory: compass-ost
+Directory: compass-compass-ost
 Always Reference By Directory: true
 Duration: '04:15'
 Referenced Tracks:
@@ -34,7 +34,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/memory-of-the-sea
 ---
 Track: Solitaire
-Directory: solitaire-ost
+Directory: solitaire-compass-ost
 Always Reference By Directory: true
 Duration: '01:33'
 Referenced Tracks:
@@ -53,6 +53,8 @@ URLs:
 - https://circlejourney.bandcamp.com/track/setting-off
 ---
 Track: Harbours
+Directory: harbours-compass
+Always Reference By Directory: true
 Duration: '00:52'
 Referenced Tracks:
 - Compass
@@ -75,7 +77,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/fontana
 ---
 Track: Marin
-Directory: marin-ost
+Directory: marin-compass-ost
 Always Reference By Directory: true
 Duration: '00:56'
 Referenced Tracks:
@@ -84,6 +86,8 @@ URLs:
 - https://circlejourney.bandcamp.com/track/marin-2
 ---
 Track: Stargazing
+Directory: stargazing-compass
+Always Reference By Directory: true
 Duration: '01:46'
 Referenced Tracks:
 - Setting Off
@@ -105,7 +109,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/circumnavigation
 ---
 Track: The Horizon
-Directory: the-horizon-ost
+Directory: the-horizon-compass-ost
 Always Reference By Directory: true
 Duration: '04:39'
 Referenced Tracks:
