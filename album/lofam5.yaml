@@ -382,9 +382,7 @@ Commentary: |-
 ---
 Track: Dreamers
 Directory: dreamers-lofam5
-Always Reference By Directory: true
-Artists:
-- Scorpyus
+Originally Released As: track:dreamers
 Duration: '5:29'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dreamers
@@ -394,9 +392,6 @@ Cover Artists:
 Art Tags:
 - Dave
 - Derse
-Referenced Tracks:
-- Atomyk Ebonpyre
-- It Looks Back
 Commentary: |-
     <i>Scorpyus:</i>
     I did my best to capture the dreamy feeling of the moons with the slightly sinister undertones. Originally started out as [[Prospit Dreamers|"Prospit Dreamer"]] funnily enough, but then I added the [[Atomyk Ebonpyre]] motif and I decided it might fit better as just a track for both the moons.
@@ -494,8 +489,8 @@ Commentary: |-
     The art for this track is actually <a href="https://www.youtube.com/watch?v=okTNlwSViX8">a video</a>, so I had to combine a few frames into one, but you can probably get the gist. Damn it Bandcamp, add APNG support already.
 ---
 Track: Dance of Entropy
-Artists:
-- Gryotharian
+Directory: dance-of-entropy-lofam5
+Originally Released As: track:dance-of-entropy
 Duration: '2:08'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/dance-of-entropy
@@ -927,8 +922,9 @@ Commentary: |-
     I had a minute where I wanted to put shakuhachi in everything I did á la [[album:homestuck-vol-6|HS Volume 6]]
 ---
 Track: Sailing (In The Sea Of Stars)
-Artists:
-- Circlejourney
+Directory: sailing-in-the-sea-of-stars-lofam5
+Originally Released As: track:sailing-in-the-sea-of-stars
+Always Reference By Directory: true
 Duration: '4:22'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/sailing-in-the-sea-of-stars-2
@@ -937,10 +933,6 @@ Cover Artists:
 - Awkward
 Art Tags:
 - The Theseus
-Referenced Tracks:
-- The Doom of the Planets
-- Fuchsia Moonrise
-- The Thirteenth Hour
 Commentary: |-
     <i>Circlejourney:</i>
     A theme for the post-Epilogue crew(s) sailing through space.
@@ -1760,8 +1752,9 @@ Commentary: |-
     I loved the ending to Pesterquest and wanted to do a track on it.
 ---
 Track: A Story That Consumes Itself
-Artists:
-- Circlejourney
+Directory: a-story-that-consumes-itself-lofam5
+Originally Released As: track:a-story-that-consumes-itself
+Always Reference By Directory: true
 Duration: '3:02'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/a-story-that-consumes-itself

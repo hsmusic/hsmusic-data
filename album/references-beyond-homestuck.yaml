@@ -494,6 +494,17 @@ Duration: '2:49'
 URLs:
 - https://soundcloud.com/plazmataz/dusk-for-the-age-of-miracles
 ---
+Track: Emmy
+Artists:
+- Circlejourney
+URLs:
+- https://soundcloud.com/circlejourney-comms/emmy-for-asteriddle
+Referenced Tracks:
+- Battle! (Lorekeeper Zinnia)
+Commentary: |-
+    <i>Circlejourney:</i> ([SoundCloud commentary](https://soundcloud.com/circlejourney-comms/emmy-for-asteriddle))
+    A commission for asteriddle's character <a href="toyhou.se/721835.emmy">Emmy</a>! Quotes Battle! Zinnia by Shota Kageyama.
+---
 Track: Endless Space
 Artists:
 - SolusLunes
@@ -594,6 +605,17 @@ Artists:
 Duration: '1:28'
 URLs:
 - https://toriscrow.bandcamp.com/track/featherlight
+---
+Track: Fly Away
+Artists:
+- Circlejourney
+Directory: fly-away-2010
+Always Reference By Directory: true
+URLs:
+- https://circlejourney.net/files/fly-away-2010.mp3
+Commentary: |-
+  <i>Circlejourney:</i>
+  Fly Away is a track I made for my secondary school graduation ceremony. That was back in 2010... I've remade this track maybe 2 or 3 times, because I always liked it, but I never felt like my skills quite matched up to the vision I had for it... It's meant to be a duet between a student and a teacher, that was the original intent of it... As a graduation song, it's kind of bittersweet, and, uh, I had some friends tell me they cried when they heard it. I guess it was just, like, the context and everything.
 ---
 Track: Fruity Pebbles Jingle
 Artists:
@@ -761,13 +783,6 @@ Lyrics: |-
     William Henry Harrison
     My name is William Henry— [coughs]
 ---
-Track: Heart of the Forest
-Artists:
-- Solatrus
-Duration: '3:07'
-URLs:
-- https://music.solatrus.com/track/heart-of-the-forest
----
 Track: Kid Radd (Final)
 Artists:
 - Mark J. Hadley
@@ -875,14 +890,6 @@ URLs:
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Originally shared in a 2012 Tumblr post as part of several "made up yume nikkis" snippets where it was known as "waltz of seccom masada".
----
-Track: Megalo Strike Back
-Artists:
-- Toby Fox
-Duration: '2:39'
-URLs:
-- https://sleepytimejesse.bandcamp.com/track/megalo-strike-back
-- https://www.youtube.com/watch?v=ZpJudi7_iiw
 ---
 Track: MEGALOVANIA
 Directory: megalovania-smash-bros
@@ -1162,6 +1169,13 @@ Lyrics: |-
 
     (I went out on a forensic case and the sheriff had a skull on his office desk. It was the skull of a younger person. And he was using it as a pencil holder. He had pens and pencils in the eye socket of this person. So that's when I decided something had to be done.)
 ---
+Track: Production Line of the Holy Clown
+Artists: 
+- Gryotharian
+Duration: '2:05'
+URLs:
+- https://gryotharian.bandcamp.com/track/production-line-of-the-holy-clown
+---
 Track: radiation is now on youtube
 Artists:
 - Michael Guy Bowman
@@ -1222,21 +1236,11 @@ Track: SPIDER DANCE FROM UNDERTALE BUT NOW ITS SKA I GUESS??? (YIKES!!!!!!!)
 Artists:
 - James Roach
 Duration: '3:04'
+Referenced Tracks:
+- Spider Dance
 URLs:
 - https://www.youtube.com/watch?v=EOA5M74kv5k
----
-Track: Terra
-Directory: terra-solatrus
-Always Reference By Directory: true
-Artists:
-- Solatrus
-Duration: '4:05'
-URLs:
-- https://music.solatrus.com/track/terra
-Commentary: |-
-    <i>Solatrus:</i>
-    Terra is one of a few tracks I managed to finish in 2009, and is also the first track that I started using my current logo in, however in a much earlier form.
-    This song was originally intended to be used in a game, however, it never came to fruition.
+- https://soundcloud.com/jamesroachmusic/spider-dance-from-undertale-but-its-ska-i-guess-yikes
 ---
 Track: Texas History Theme
 # The song in Texas History from when the flag of Texas shows up and stuff, unreleased
@@ -1307,6 +1311,14 @@ Duration: '3:21'
 URLs:
 - https://loftlocked.bandcamp.com/track/thunderhead
 ---
+Track: ⭑✶✦ TILL TOMORROW ✦✶⭑
+Artists:
+- Circlejourney
+- SerialSymphony
+- Machina Solis
+URLs:
+- https://soundcloud.com/machinasolis/till-tomorrow
+---
 Track: Winterfall
 Artists:
 - Blackhole
@@ -1362,6 +1374,7 @@ Track: AIN'T NOTHIN' LIKE A FUNKY BEAT
 # Reference:
 #   https://vgmdb.net/album/82767
 Artists:
+- Lethal League Blaze
 - Hideki Naganuma
 Duration: '3:25'
 Lyrics: |-
@@ -1916,6 +1929,19 @@ Duration: '0:55'
 URLs:
 - https://www.youtube.com/watch?v=eQq2v6kBKSM
 ---
+Track: Battle! (Lorekeeper Zinnia)
+# Official release:
+#   Nintendo 3DS Pokémon Omega Ruby & Alpha Sapphire Super Music Complete
+#   ニンテンドー3DS ポケモン オメガルビー・アルファサファイア スーパーミュージックコンプリート
+# Reference:
+#   https://vgmdb.net/album/48057
+Artists:
+- artist:pokemon
+- Shota Kageyama
+Duration: '3:04'
+URLs:
+- https://youtu.be/PjZvJZ6wRe8
+---
 Track: Battle Tower (Pokemon Diamond & Pearl Versions)
 # Official release:
 #   Pokémon Diamond & Pokémon Pearl: Super Music Collection
@@ -1966,6 +1992,7 @@ Track: Behave Irrationally
 # Reference:
 #   https://vgmdb.net/album/256
 Artists:
+- Valkyrie Profile
 - Motoi Sakuraba
 Duration: '1:15'
 URLs:
@@ -2168,6 +2195,7 @@ Track: Brown Puffle Lab
 # Reference:
 #  http://www.screenhog.com/music
 Artists:
+- Club Penguin
 - Chris Hendricks
 Duration: '1:22'
 URLs:
@@ -2502,6 +2530,7 @@ Track: Dissonance
 Directory: dissonance-quincy-pringle
 Always Reference By Directory: true
 Artists:
+- 'Mother: Cognitive Dissonance'
 - Quincy Pringle
 Duration: '1:52'
 URLs:
@@ -2519,6 +2548,7 @@ URLs:
 Track: DJ K.K. (Aircheck)
 # No official release
 Artists:
+- Animal Crossing
 - Kazumi Totaka
 Duration: '1:24'
 URLs:
@@ -2933,6 +2963,7 @@ Track: Gallant Gunshot
 # Reference:
 #  https://vgmdb.net/album/38051
 Artists:
+- Ginga Force
 - Yousuke Yasui
 Duration: '4:28'
 URLs:
@@ -4534,6 +4565,16 @@ Duration: '4:39'
 URLs:
 - https://www.youtube.com/watch?v=XdNpKz8_VTA
 ---
+Track: Sanctuary Guardian
+# No official release of the in-game track (Earthbound)
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '2:11'
+URLs:
+- https://youtu.be/A_Gj-RJeeng
+---
 Track: Say "I Gotta Believe!"
 # Official release:
 #   パラッパラッパー2 ― オリジナル・サウンドトラック
@@ -5499,6 +5540,16 @@ URLs:
 - https://jukiokallio.bandcamp.com/track/venus-mansion-feat-doseone
 - https://www.youtube.com/watch?v=pR6KObOqfXc
 ---
+Track: Victory
+#   Final Fantasy (1987) but i can't find it on vgmdb rn sorry complain to Jebb
+Directory: victory-final-fantasy
+Artists:
+- Final Fantasy
+- Nobuo Uematsu
+Duration: '0:39'
+URLs:
+- https://youtu.be/ZSdNARyfaZY
+---
 Track: Vortal Combat
 # Official release:
 #   Half-Life 2: Episode Two Soundtrack
@@ -5594,6 +5645,16 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=vZ9G1n3FTCY
 ---
+Track: What a Great Picture!
+# (See Eight Melodies, no official soundtrack release)
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '0:30'
+URLs:
+- https://youtu.be/L7Rx4wCKQu8
+---
 Track: Welcome, Me
 # Most often known as "Welcome Home" but for some reason in the official release it's titled differently.
 # JP: ウェルカムぼく
@@ -5681,6 +5742,7 @@ Track: Your Reality
 # Official release on Youtube
 # https://www.youtube.com/playlist?list=PLc5ZKngbAPXMG4yjq9ESGfqblQfL9g4-p
 Artists:
+- Doki Doki Literature Club!
 - Dan Salvato
 Contributors:
 - Jillian Ashcraft (vocals)
@@ -8007,6 +8069,68 @@ Lyrics: |-
     Into centipedes
     I turn little black worms
     Into centipedes
+---
+Track: Pust' begut neuklyuzhe
+Artists:
+- Cheburashka
+- Vladimir Shainsky
+- Vasily Livanov
+- Vladimir Ferapontov
+- Alexander Timofeevskiy
+Duration: '1:36'
+URLs:
+- https://youtu.be/XUxDB9KVxOQ
+Lyrics: |-
+    Пусть бегут неуклюже
+    Пешеходы по лужам,
+    А вода по асфальту рекой
+    И не ясно прохожим
+    В этот день непогожий,
+    Отчего я веселый такой
+
+    (<i>Let pedestrians stumble
+    Through the rain into puddles,
+    And the water in rivers run by,
+    And the passers-by wonder
+    How on earth in this weather
+    One can stand here as cheerful as I</i>)
+
+    А я играю на гармошке
+    У прохожих на виду
+    К сожаленью, день рожденья
+    Только раз в году
+
+    (<i>But I'll play on my accordion
+    Well in sight of those passing near.
+    How unlucky that our birthdays
+    Come only once per year</i>)
+
+    Прилетит вдруг волшебник
+    В голубом вертолете,
+    И бесплатно покажет кино
+    С днем рождения поздравит
+    И конечно, подарит
+    Мне в подарок пятьсот "эскимо"
+
+    (<i>A magician from nowhere
+    Will appear in a chopper
+    And he'll show us a movie for free
+    And he'll say "Happy birthday!"
+    And will leave me, I wager,
+    Half a thousand bars of ice cream</i>)
+
+    А я играю на гармошке
+    У прохожих на виду
+    К сожаленью, день рожденья
+    Только раз в году
+
+    (<i>But I'll play on my accordion
+    Well in sight of those passing near.
+    How unlucky that our birthdays
+    Come only once per year</i>)
+Commentary: |-
+    <i>Jebb:</i> (wiki editor)
+    Original title: "Пусть бегут неуклюже"
 ---
 Track: Rainbow Connection
 Artists:
@@ -10564,6 +10688,77 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     The alternate lyrics, of unknown provenance, were first known to have been published in 1877, 15 years after the original English-language lyrics. By far the most popular variation of the song, they remove all reference to alcohol consumption.
 ---
+Track: Drunken Sailor
+Artists:
+- Traditional
+URLs:
+- https://youtu.be/qGyPuey-1Jw
+Lyrics: |-
+    What will we do with a drunken sailor?
+    What will we do with a drunken sailor?
+    What will we do with a drunken sailor?
+    Early in the morning!
+
+    Way hay and up she rises
+    Way hay and up she rises
+    Way hay and up she rises
+    Early in the morning!
+
+    Shave his belly with a rusty razor
+    Shave his belly with a rusty razor
+    Shave his belly with a rusty razor
+    Early in the morning!
+
+    Way hay and up she rises
+    Way hay and up she rises
+    Way hay and up she rises
+    Early in the morning!
+
+    Put him in a long boat till his sober
+    Put him in a long boat till his sober
+    Put him in a long boat till his sober
+    Early in the morning!
+
+    Way hay and up she rises
+    Way hay and up she rises
+    Way hay and up she rises
+    Early in the morning!
+
+    Stick him in a scupper with a hosepipe bottom
+    Stick him in a scupper with a hosepipe bottom
+    Stick him in a scupper with a hosepipe bottom
+    Early in the morning!
+
+    Way hay and up she rises
+    Way hay and up she rises
+    Way hay and up she rises
+    Early in the morning!
+
+    Put him in the bed with the captains daughter
+    Put him in the bed with the captains daughter
+    Put him in the bed with the captains daughter
+    Early in the morning!
+
+    Way hay and up she rises
+    Way hay and up she rises
+    Way hay and up she rises
+    Early in the morning!
+
+    That's what we do with a drunken sailor
+    That's what we do with a drunken sailor
+    That's what we do with a drunken sailor
+    Early in the morning!
+
+    Way hay and up she rises
+    Way hay and up she rises
+    Way hay and up she rises
+    Early in the morning!
+
+    Way hay and up she rises
+    Way hay and up she rises
+    Way hay and up she rises
+    Early in the morning!
+---
 Track: Ee Mungu Nguvu Yetu
 Artists:
 - Traditional
@@ -12433,7 +12628,7 @@ Lyrics: |-
     Heav'n sings Hallelujah
     Hallelujah the earth replies
 ---
-Track: Westminister Quarters
+Track: Westminster Quarters
 Artists:
 - Joseph Jowett
 URLs:
@@ -12958,7 +13153,7 @@ Referenced Tracks:
 - The Time Is Now
 - Do Your Best
 Sampled Tracks:
-- Vinesauce Joel reacts to GRAND DAD
+- '[Vinesauce] Joel - Insane Mario Bootleg Games ( Part 1 )'
 - Loud Nigra
 - Why I Gave the Pope UNDERTALE!
 - Howie Scream
@@ -15886,6 +16081,71 @@ URLs:
 - https://youtu.be/CSvFpBOe8eY
 - https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN
 - https://music.apple.com/us/album/chop-suey/273714443?i=273714640
+---
+Track: chop suey but everything is a table
+Artists:
+- animorphs
+Lyrics: |-
+    We're rolling "Suicide"
+
+    Table (Wake up)
+    Grab a brush and put a little table
+    Hide your scars to fade away the table (Hide the scars to fade away the shakeup)
+    Why'd you leave the keys upon the table?
+    Here you go, create another table, you wanted to
+    Grab a brush and put a little table, you wanted to
+    Hide the scars to fade away the table, you wanted to
+    Why'd you leave the keys upon the table? You wanted to
+
+    I don't think you trust
+    Ta- ble- self-righteous table
+    I cry when tables deserve to die
+
+    Ah! Table(Wake up)
+    Grab a brush and put a little table (A little bit)
+    Hide the scars to fade away the table (Hide the scars to fade away the shakeup)
+    Why'd you leave the keys upon the table?
+    Here you go, create another table, you wanted to
+    Grab a brush and put a little table, you wanted to
+    Hide the scars to fade away the table, you wanted to
+    Why'd you leave the keys upon the table? You wanted to
+
+    I don't think you trust
+    Table my table-righteous suisus
+    I table when angels deserve to TABLE
+    My self-righteous TABLE
+    I cry when tables deserve to die
+
+    Table, table, table, table
+    Table, table, table, table
+    Table, table, table, table
+    Table, table, table, table
+    Table, table, table, table
+    Table, table, table, table
+    Table, table, table, table
+    Table, table, table, table
+
+    T A B L E, T A B L E, T A B L E
+
+    Father, in-table your hands I commend my table
+    Father, in-table your hands
+    Why have you forsaken me?
+    In your table, forsaken me?
+    In your table, forsaken me?
+    In your table, forsaken me? Oh
+
+    Trust in TABLE self-righteous soos sus
+    I cry when tables deserve to die
+    In my self-righteous tablecide
+    I cryirc when angels deserve to T A B L E
+
+    Table
+    Table, table, table, table
+Duration: '3:31'
+URLs:
+- https://youtu.be/XtAhISkoJZc
+Sampled Tracks:
+- Chop Suey!
 ---
 Track: Classical Gas
 Artists:
@@ -19381,6 +19641,118 @@ Lyrics: |-
     It's hard to say that I'd rather stay awake when I'm asleep
     Because my dreams are bursting at the seams
 ---
+Track: First Day Out
+Duration: '4:20'
+Artists:
+- Insane Clown Posse
+URLs:
+- https://youtu.be/cI0fWxOzedI
+Lyrics: |-
+    Got another funky rhyme
+    Another funky, funky rhyme
+    Got another funky rhyme
+    Another funky rhyme
+    Another funky, funky rhyme
+
+    Aw shit, man, that's ICP
+    This is my jam
+    They were my psychedelic, funkity fuck, intergalactic boys, G
+    Aw shit
+
+    Well they let the gate up so I bail
+    It's been six months, pick me up from the county jail
+    With a smart mouth, I paid my dues
+    Steel toilets, worn blankets and rubber shoes
+    But I ain't naggin'
+    Here come the fellas, I can hear the muffler draggin'
+    Ain't been in the car long
+    And the Faygo is almost gone
+    My nuts are kinda hard so I need a mate
+    So my homeboy's cousin set me up with a blind date
+    She said, "Pick me up at 3?"
+    "Can't bitch, the bus don't ride ya street!" (Ho)
+    We gonna eat at Mexican Village
+    Take a cab and I'll pay the tab
+    And when she showed up, well I'll be damned
+    Left my wallet at home on the TV stand
+    ("Oh shit, well I uh left it at home, it's on the TV stand...")
+    Have her payin' and for dinner too
+    The knot in my sock, it don't fit you
+    She's all prettied up for nothin'
+    I'm smellin' like shit and my chin is scruffin'
+    And I'm chewin' on my food like a pit bull
+    'Cause I won't front for the ho
+    Stuck my face in the bowl of soup
+    And just sucked it all up through my missin' tooth
+    The bitch jumped up with a boom
+    "I have to fix my hair," and broke to the bathroom
+    She got the tab so I go for mine
+    And order up some '52 vintage wine
+    Hey Louie, bring a fuckin' steak with that
+    Motherfuckers like J will say, "Fuck that!"
+    She's back now and her hair ain't fixed
+    Probably took a long, greasy ass, smelly shit, huh
+    I ain't sayin' nothin' though
+    I ain't sayin' nothin' 'bout the fuckin' ho
+    What's up bitch? I'm ready to break
+    How long can one fat bitch take
+    Quit snackin' and pay these saps
+    'Cause we going home to watch tube with Paps
+
+    "So Joe uh, what is it that you do for a living?"
+    "Aw, come on pops"
+    You seen me sellin' rocks on Vernor and Springwells
+    Matter of fact, I think I sold to that fat bitch in the kitchen"
+
+    Your dad's really cool sweetheart
+    I mean him lettin' me use his car
+    And he slipped me a fifty
+    "Violent J's kinda nifty"
+    If I'd of hit it, you'd of been home free
+    But now you're comin' home with me
+    "Dad, I got a bitch in the bedroom
+    Take your ass to the bar and don't come home soon"
+    Now The Juggla's known to smack hoes
+    But I need the shot too, so I switch to the mack mode
+
+    Now woman, you know I love you
+    So why don't you just let me fuck you?
+    Now bitch, I know you's a freak
+    So lemme get a little kiss on your cheek (What's up)
+    And a fuck to go with that
+    Come on, nympho, lemme hit that
+    Tell ya what, ya let me stick it
+    And I got a leftover piece of chicken for ya (Ho)
+    Ya little sewer skank (Sewer skank)
+    Ya nasty little pipe smokin, sack chasin' ho
+    And that was that
+    A little smooth talk, and she was on her back (Ha)
+    And I'm finally stickin'
+    Dump ya and I'm keepin' my chicken (Bitch)
+    You'll never guess what
+    My first day out and I caught my nut
+
+    First day out and I caught my nut
+    First day out and I caught my nut
+    First day out and I caught my nut
+    First day out and I caught my nut
+    (Well shit, bitch, it's my first day out)
+    First day out and I caught my nut
+    First day out and I caught my nut
+    First day out and I caught my nut
+    First day out and I caught my nut
+    (Shit, bitch, it's my first day out)
+    First day out and I caught my nut (First day out)
+    First day out and I caught my nut (It's my first day out)
+    First day out and I caught my nut
+    First day out and I caught my nut
+    (Well shit, bitch, it's my first day out now)
+    First day out and I caught my nut
+    First day out and I caught my nut (Gotta go now, gotta go now)
+    First day out and I caught my nut
+    First day out and I caught my nut (It's my first day out)
+    (My nut)
+---
 Track: Five Years
 Artists:
 - David Bowie
@@ -22233,6 +22605,66 @@ Lyrics: |-
     (I told you...) I can't watch this
     (Too hip) Can't watch this
     (Get me outta here) Can't watch this
+---
+Track: I Forgot That You Existed
+Artists:
+- Taylor Swift
+Duration: '2:51'
+URLs:
+- https://www.youtube.com/watch?v=p1cEvNn88jM
+Lyrics: |-
+    How many days did I spend thinking
+    'Bout how you did me wrong, wrong, wrong?
+    Lived in the shade you were throwing
+    'Til all of my sunshine was gone, gone, gone
+    And I couldn't get away from ya
+    In my feelings more than Drake, so yeah
+    Your name on my lips, tongue-tied
+    Free rent, living in my mind
+
+    But then something happened one magical night
+
+    I forgot that you existed
+    And I thought that it would kill me, but it didn't
+    And it was so nice
+    So peaceful and quiet
+    I forgot that you existed
+    It isn't love, it isn't hate, it's just indifference
+    I forgot that you
+
+    Got out some popcorn
+    As soon as my rep started going down, down, down
+    Laughed on the school yard
+    As soon as I tripped up and hit the ground, ground, ground
+    And I would've stuck around for ya
+    Would've fought the whole town, so yeah
+    Would've been right there, front row
+    Even if nobody came to your show
+
+    But you showed who you are, then one magical night
+
+    I forgot that you existed
+    And I thought that it would kill me, but it didn't
+    And it was so nice
+    So peaceful and quiet
+    I forgot that you existed
+    It isn't love, it isn't hate, it's just indifference
+    I forgot that you
+
+    Sent me a clear message
+    Taught me some hard lessons
+    I just forget what they were
+    It's all just a blur
+
+    I forgot that you existed
+    And I thought that it would kill me, but it didn't
+    And it was so nice
+    So peaceful and quiet
+    I forgot that you existed
+    I did, I did, I did
+    It isn't hate, it's just indifference
+    It isn't love, it isn't hate, it's just indifference
+    So, yeah
 ---
 Track: I Have a Special Plan for This World
 Duration: '22:01'
@@ -25487,6 +25919,73 @@ Lyrics: |-
     Soy un perdedor
     I'm a loser, baby, so why don't you kill me?
     (Know what I'm sayin'?)
+---
+Track: Lovefool
+Artists:
+- The Cardigans
+URLs:
+- https://www.youtube.com/watch?v=NI6aOFI7hms
+Lyrics: |-
+    Dear, I fear we're facing a problem
+    You love me no longer, I know and
+    Maybe there is nothing that I can do
+    To make you do
+    Mama tells me I shouldn't bother
+    That I ought just stick to another man
+    A man that surely deserves me
+    But I think you do
+
+    So I cry, and I pray, and I beg
+
+    Love me, love me
+    Say that you love me
+    Fool me, fool me
+    Go on and fool me
+    Love me, love me
+    Pretend that you love me
+    Leave me, leave me
+    Just say that you need me
+    So I cry and I beg for you to
+    Love me, love me
+    Say that you love me
+    Leave me, leave me
+    Just say that you need me
+    I can't care 'bout anything but you
+
+    Lately I have desperately pondered
+    Spent my nights awake and I wonder
+    What I could have done in another way
+    To make you stay
+    Reason will not reach a solution
+    I will end up lost in confusion
+    I don't care if you really care
+    As long as you don't go
+
+    So I cry, and I pray, and I beg
+
+    Love me, love me
+    Say that you love me
+    Fool me, fool me
+    Go on and fool me
+    Love me, love me
+    Pretend that you love me
+    Leave me, leave me
+    Just say that you need me
+    So I cry and I beg for you to
+    Love me, love me
+    Say that you love me
+    Leave me, leave me
+    Just say that you need me
+    I can't care 'bout anything but you
+    (Anything but you)
+
+    Love me, love me
+    Say that you love me
+    Fool me, fool me
+    Go on and fool me
+    Love me, love me
+    I know that you need me
+    I can't care 'bout anything but you
 ---
 Track: LRAD
 Artists:
@@ -29974,6 +30473,84 @@ Lyrics: |-
 
     Perpetrator? Yeah, I'm right here
 ---
+Track: Rasputin
+Artists:
+- Boney M
+URLs:
+- https://www.youtube.com/watch?v=DrtgtHOrP94
+Lyrics: |-
+    There lived a certain man in Russia long ago
+    He was big and strong, in his eyes a flaming glow
+    Most people look at him with terror and with fear
+    But to Moscow chicks, he was such a lovely dear
+    He could preach the Bible like a preacher
+    Full of ecstasy and fire
+    But he also was the kind of teacher
+    Women would desire
+
+    Hey, hey, hey, hey, hey, hey, hey, hey
+    Hey, hey, hey, hey, hey, hey, hey, hey
+    Hey, hey, hey, hey, hey, hey, hey, hey
+    Hey, hey, hey, hey, hey, hey, hey, hey
+    Hey, hey, hey, hey, hey, hey, hey, hey
+
+    There lived a certain man in Russia long ago
+    He was big and strong, in his eyes, a flaming glow
+    Most people look at him with terror and with fear
+    But to Moscow chicks, he was such a lovely dear
+    He could preach the Bible like a preacher
+    Full of ecstasy and fire
+    But he also was the kind of teacher
+    Women would desire
+
+    Ra-Ra-Rasputin, lover of the Russian Queen
+    There was a cat that really was gone
+    Ra-Ra-Rasputin, Russia's greatest love machine
+    It was a shame how he carried on
+
+    He ruled the Russian land and never mind the Tsar
+    But the kazachok, he danced really wunderbar
+    In all affairs of state, he was the man to please
+    But he was real great when he had a girl to squeeze
+    For the Queen, he was no wheeler dealer
+    Though she'd heard the things he'd done
+    She believed he was a holy healer
+    Who would heal her son
+
+    Ra-Ra-Rasputin, lover of the Russian Queen
+    There was a cat that really was gone
+    Ra-Ra-Rasputin, Russia's greatest love machine
+    It was a shame how he carried on
+
+    But when his drinking and lusting and his hunger for power
+    Became known to more and more people
+    The demands to do something about this outrageous man became louder and louder
+
+    Hey, hey, hey, hey, hey, hey, hey, hey
+    Hey, hey, hey, hey, hey, hey, hey, hey
+    Hey, hey, hey, hey, hey, hey, hey, hey
+    Hey, hey, hey, hey, hey, hey, hey, hey
+
+    "This man's just gotta go", declared his enemies
+    But the ladies begged, "Don't you try to do it, please"
+    No doubt this Rasputin had lots of hidden charms
+    Though he was a brute, they just fell into his arms
+    Then one night, some men of higher standing
+    Set a trap, they're not to blame
+    "Come to visit us", they kept demanding
+    And he really came
+
+    Ra-Ra-Rasputin, lover of the Russian Queen
+    They put some poison into his wine
+    Ra-Ra-Rasputin, Russia's greatest love machine
+    He drank it all and he said, "I feel fine"
+    Ra-Ra-Rasputin, lover of the Russian Queen
+    They didn't quit, they wanted his head
+    Ra-Ra-Rasputin, Russia's greatest love machine
+    And so they shot him 'til he was dead
+
+    Oh, those Russians
+---
 Track: Ready Let's Go
 Duration: '1:00'
 Artists:
@@ -33475,6 +34052,77 @@ Lyrics: |-
 
     Smoke weed every day!
 ---
+Track: The Neden Game
+Duration: '4:05'
+Artists:
+- Insane Clown Posse
+- Mike E. Clark
+URLs:
+- https://youtu.be/vhTg_5nlvo8
+Lyrics: |-
+    "Let's meet contestant number one. He's a schizophrenic serial killer clown who says women love his sexy smile. Let's find out if his charm will work on Sharon. Sharon, what's your question?"
+
+    "Contestant number one, I believe first impressions last forever. So let's say you were to come over to my parent's house and have dinner with me and my family. Tell me what you would do to make that first impression really stick"
+
+    Let's see, mm, well, I'd have to think about it
+    I might show up in a tux, HA!, but I doubt it
+    I'd probably just show up naked like I always do
+    And look your momma in the eye and tell her, "FUCK YOU!!!"
+    Hurry up, bitch, I'm hungry, I smell spaghetti
+    I'd pinch her loopy ass and tell her, "Get the food ready!"
+    Your dad will probably start trippin' and get me pissed
+    I'd have to walk up and bust him in his fucking lips!
+    It's dinner time, we hearing grace from your mother
+    I'd pull a forty out and pour some for your little brother
+    I'm steady staring at your sister, I'll tell you this
+    You know for only thirteen, she got some big tits
+    After that, your dad will try to jump again
+    And only this time, I'd put the forty to his chin
+    After your mom does the dishes and the silverware
+    I'd dry-fuck her till I nut in my underwear
+
+    "Now, let's meet contestant number two. He's a psychopathic, deranged, crackhead freak who works for the Dark Carnival. He says women call him Stretch Nuts. Sharon, let's hear your question"
+
+    "I like a man who's not afraid to show his true emotions, a man who expresses himself in his own special way. Number two, if you fell in love with me Exactly how would you let me know?"
+
+    First thing, I could never love you
+    You sound like a richie-bitch, yo, FUCK YOU!!!
+    But if I did, I'd probably show you that I care
+    By taking all these other motherfuckers outta here
+    I'd go through your phone book and whack em all
+    And find contestant number one and break his fucking jaw (What?!)
+    Anyone who looked at you, would have to pay
+    I'd be blowing fucking nuggets off all day
+    I'd grab your titties and stretch 'em down past your waist
+    Let 'em go, and watch 'em both spring up in your face
+    I'd sing love songs to you, the best I can
+    Get you naked, and hit it like a CAVEMAN!!!
+    Then we'd go to the beach and walk through the sand
+    I'd throw a little in your face and say, I'm just playin'
+    As you spit it all out, I'd rub your back
+    And grab your underwear and wedge it up your ass crack!!
+
+    "Well it sounds like contestant number two is just over-flowing with sensitivity, Sharon. It's a tough choice so far! Sharon, let's have your last question and see which one is going to win the rights to your neden"
+
+    "Okay, if we were at a dance club, and you both noticed me at the same time. Tell me, how would you each get my attention, and what would your pick up line be?" (Well) "Whoever's the smoothest wins!"
+
+    Okay, first I'd slide up to the bar
+    And tell you that I can't believe how fucking fat you are
+    I'd tell you that I like the way you make your titties shake
+    And if you lost a little weight, you'd look like Ricki Lake
+    Fuck that, you'd be jocking me quick
+    I'd order you a drink and stir it with my dick
+    And then to get your attention in the crowded place
+    I'd simply walk up and stick my nuts in your face
+    Yeah, freak her with your nuts, yo, that'll get her
+    Tell her that's she fat, yeah, that'll work even better
+    Look, fuck you, I got a strong rap
+    Shit, you don't want contestant number two. He's mad wack
+    I walked into a barn and there he was
+    Standing up on a bucket, eww, trying to fuck it
+    It was a big fucking smelly-ass farm llama
+    Damn dawg! How you gonna diss your momma?!
+---
 Track: The Next Episode (Radio Edit)
 Artists:
 - Dr. Dre
@@ -35418,6 +36066,58 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=bHhT0gbQUSM
 - https://venetiansnares.bandcamp.com/track/ultraviolent-junglist
+---
+Track: Unconditionally
+Duration: '3:48'
+Artists:
+- Katy Perry
+URLs:
+- https://www.youtube.com/watch?v=XjwZAa2EjKA
+Lyrics: |-
+    Oh no, did I get too close?
+    Oh, did I almost see what's really on the inside?
+    All your insecurities
+    All the dirty laundry
+    Never made me blink one time
+
+    Unconditional, unconditionally
+    I will love you unconditionally
+    There is no fear now
+    Let go and just be free
+    I will love you unconditionally
+
+    So come just as you are to me
+    Don't need apologies
+    Know that you are worthy
+    I'll take your bad days with your good
+    Walk through the storm, I would
+    I'd do it all because I love you
+    I love you
+
+    Unconditional, unconditionally
+    I will love you unconditionally
+    There is no fear now
+    Let go and just be free
+    I will love you unconditionally
+
+    So open up your heart and just let it begin
+    Open up your heart and just let it begin
+    Open up your heart and just let it begin
+    Open up your heart
+
+    Acceptance is the key to be
+    To be truly free
+    Will you do the same for me?
+
+    Unconditional, unconditionally
+    I will love you unconditionally
+    And there is no fear now
+    Let go and just be free
+    'Cause I will love you unconditionally, oh yeah
+
+    I will love you (Unconditionally)
+    I will love you
+    I will love you unconditionally
 ---
 Track: Undone (The Sweater Song)
 Duration: '5:06'
@@ -37970,6 +38670,11 @@ Artists:
 URLs:
 - https://www.poetryfoundation.org/poems/45407/the-city-of-dreadful-night
 ---
+Track: The Adventures of Robin Hood
+Artists:
+- The Adventures of Robin Hood
+Duration: '1:41:55'
+---
 Track: The Danganronpa 3 Experience
 Duration: 14:41
 Artists:
@@ -38003,6 +38708,12 @@ Artists:
 - Christina Rossetti
 URLs:
 - https://www.poetryfoundation.org/poems/45002/up-hill
+---
+Track: '[Vinesauce] Joel - Insane Mario Bootleg Games ( Part 1 )'
+Artists:
+- Vargskelethor Joel
+URLs:
+- https://youtu.be/v2UzROUj0yE
 ---
 Track: what year is it
 Artists:

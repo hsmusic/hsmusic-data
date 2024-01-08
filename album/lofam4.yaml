@@ -146,9 +146,13 @@ Commentary: |-
     This art is a lovely rendition of Fitzwibble of that bit in [S] Dirk: Unite where Dirk takes Roxy and Jane along for a ride. Unfortunately, due to her foolish boorishness, Jane does not appreciate the joy of flying through the air as a bird would in spring. It is a shame, that such an enlightening experience must go ignored.
 ---
 Track: Frost and Clockwork
+Directory: frost-and-clockwork-lofam4
+Always Reference By Directory: true
 Artists:
 - Circlejourney
 Duration: '3:11'
+Referenced Tracks:
+- track:frost-and-clockwork
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/frost-and-clockwork
 - https://youtu.be/3Bf_au1-r9A

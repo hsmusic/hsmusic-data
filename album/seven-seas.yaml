@@ -1,0 +1,59 @@
+Album: Seven Seas
+Date: November 3, 2012
+Date Added: November 28, 2023
+URLs:
+- https://soundcloud.com/worthikids/sets/seven-seas
+Artists:
+- Worthikids
+Color: '#e30072'
+Groups:
+- Fandom
+Commentary: |-
+    <i>Worthikids:</i>
+    Seven short songs about Feferi Peixes
+---
+Track: Cuttlefish Culler
+Duration: '0:59'
+URLs:
+- https://soundcloud.com/worthikids/1-cuttlefish-culler
+---
+Track: Moiraillegiance
+Duration: '1:23'
+Referenced Tracks:
+- Cuttlefish Culler
+URLs:
+- https://soundcloud.com/worthikids/2-moiraillegiance
+---
+Track: Whisper Whisper
+Duration: '1:02'
+URLs:
+- https://soundcloud.com/worthikids/3-whisper-whisper
+---
+Track: FR--EE
+Duration: '0:29'
+URLs:
+- https://soundcloud.com/worthikids/4-fr-ee
+---
+Track: Witch of Life
+Duration: '0:53'
+Referenced Tracks:
+- Sunsetter
+URLs:
+- https://soundcloud.com/worthikids/5-witch-of-life
+---
+Track: Meteor
+Directory: meteor-seven-seas
+Always Reference By Directory: true
+Duration: '1:15'
+Referenced Tracks:
+- Cuttlefish Culler
+- Witch of Life
+URLs:
+- https://soundcloud.com/worthikids/6-meteor
+---
+Track: The Death of Feferi
+Duration: '0:44'
+Referenced Tracks:
+- Cuttlefish Culler
+URLs:
+- https://soundcloud.com/worthikids/7-the-death-of-feferi
