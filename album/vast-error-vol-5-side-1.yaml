@@ -25,7 +25,7 @@ Cover Artists:
 URLs:
 - https://vasterror.bandcamp.com/track/two-sweeps-older
 Referenced Tracks:
-- Perfection
+- track:perfection-vast-error
 - Gaiaeon (Outro)
 ---
 Track: A Story About Being Free
@@ -38,10 +38,12 @@ URLs:
 - https://vasterror.bandcamp.com/track/a-story-about-being-free
 Referenced Tracks:
 - Arcjec's Theme
-- Courage
+- track:courage-catch-322
 - Show's Over
 ---
 Track: Absolute
+Directory: absolute-vast-error
+Always Reference By Directory: true
 Duration: '2:51'
 Artists:
 - Cerulean
@@ -95,6 +97,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/hallowed-halls
 ---
 Track: Steadfast
+Directory: steadfast-vast-error
+Always Reference By Directory: true
 Duration: '3:08'
 Artists:
 - bright0n
@@ -104,6 +108,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/steadfast
 ---
 Track: Scattershot
+Directory: scattershot-vast-error
+Always Reference By Directory: true
 Duration: '2:36'
 Artists:
 - TirantBacon
@@ -162,6 +168,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/slithering-samba
 ---
 Track: Aurora
+Directory: aurora-vast-error
+Always Reference By Directory: true
 Duration: '2:34'
 Artists:
 - Ash Taylor
@@ -222,6 +230,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/mechanical-heart
 ---
 Track: Indomitable
+Directory: indomitable-vast-error
+Always Reference By Directory: true
 Duration: '4:49'
 Artists:
 - SplitSuns
@@ -308,6 +318,8 @@ Referenced Tracks:
 - Invigorated Wasteland
 ---
 Track: Torchlight
+Directory: torchlight-vast-error
+Always Reference By Directory: true
 Duration: '2:10'
 Artists:
 - Rainy

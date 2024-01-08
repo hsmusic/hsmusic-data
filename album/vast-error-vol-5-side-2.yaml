@@ -180,6 +180,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/wonder-turner
 ---
 Track: Takedown
+Directory: takedown-vast-error
+Always Reference By Directory: true
 Duration: '2:32'
 Artists:
 - dbnet18
@@ -231,6 +233,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/the-girlboss-blues
 ---
 Track: Promises
+Directory: promises-vast-error
+Always Reference By Directory: true
 Duration: '5:09'
 Artists:
 - Cerulean
@@ -457,6 +461,8 @@ Lyrics: |-
     I wanna live for today
 ---
 Track: Beyonder
+Directory: beyonder-vast-error
+Always Reference By Directory: true
 Duration: '2:25'
 Artists:
 - Kal-la-kal-la
@@ -559,11 +565,13 @@ URLs:
 Referenced Tracks:
 - Uneven Compromise
 - Chamber Cultist
-- Perfection
+- track:perfection-vast-error
 Sampled Tracks:
 - Various audio and SFX from DANGANRONPA
 ---
 Track: Perfection
+Directory: perfection-vast-error
+Always Reference By Directory: true
 Duration: '4:44'
 Artists:
 - Rom M

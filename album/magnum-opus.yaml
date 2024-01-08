@@ -75,6 +75,8 @@ Referenced Tracks:
 - Slithering Samba
 ---
 Track: Catacombs
+Directory: catacombs-magnum-opus
+Always Reference By Directory: true
 Artists:
 - artist:kobacat
 Cover Artists:
@@ -104,6 +106,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/crown-jewels
 ---
 Track: Insecurity
+Directory: insecurity-magnum-opus
+Always Reference By Directory: true
 Artists:
 - artist:kobacat
 Cover Artists:
@@ -160,9 +164,11 @@ Referenced Tracks:
 - Hardware Store
 - NOW That's What I Call Polka!
 - Amish Paradise
-- Perfection
+- track:perfection-vast-error
 ---
 Track: Soulbound
+Directory: soulbound-magnum-opus
+Always Reference By Directory: true
 Artists:
 - Rabooski
 Cover Artists:
@@ -193,7 +199,7 @@ Duration: '7:24'
 URLs:
 - https://vasterror.bandcamp.com/track/kheparia
 Referenced Tracks:
-- Perfection
+- track:perfection-vast-error
 ---
 Track: Analemma
 Artists:
@@ -279,7 +285,7 @@ Duration: '3:05'
 URLs:
 - https://vasterror.bandcamp.com/track/bonus-euphoria
 Referenced Tracks:
-- Absolute
+- track:absolute-vast-error
 ---
 Track: 'BONUS: Coronal Mass Ejection [Beta]'
 Artists:

@@ -367,6 +367,8 @@ Commentary: |-
     She’s already caused enough trouble.
 ---
 Track: Devolver
+Directory: devolver-vast-error
+Always Reference By Directory: true
 Artists:
 - artist:kobacat
 Duration: '5:41'
@@ -425,6 +427,8 @@ Lyrics: |-
     I’ll see you in the next one.
 ---
 Track: Inevitability
+Directory: inevitability-vast-error
+Always Reference By Directory: true
 Artists:
 - CASTIGADORA
 Contributors:
