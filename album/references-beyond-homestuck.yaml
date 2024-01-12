@@ -1114,10 +1114,14 @@ URLs:
 - https://hsmusic.wiki/media/misc/archive/Nuclear.mp3
 ---
 Track: Old Skacret
-# Dead URL https://soundcloud.com/jamesroachmusic/old-skacret, no archive
 Artists:
 - James Roach
-Duration: '0:10'
+URLs:
+- https://hsmusic.wiki/media/misc/archive/Old%20Skacret.mp3
+# Dead URL https://soundcloud.com/jamesroachmusic/old-skacret, no archive
+Duration: '0:11'
+Referenced Tracks:
+- track:old-secret
 Commentary: |-
     <i>Makin:</i> (wiki editor)
     James Roach took down this track after a year or two and never reuploaded it.
@@ -1303,13 +1307,6 @@ URLs:
 Track: Theme of Dr. Brinner
 Artists:
 - Unknown Artist
----
-Track: Thunderhead
-Artists:
-- Veritas Unae
-Duration: '3:21'
-URLs:
-- https://loftlocked.bandcamp.com/track/thunderhead
 ---
 Track: ⭑✶✦ TILL TOMORROW ✦✶⭑
 Artists:
@@ -11288,6 +11285,55 @@ Duration: '0:43'
 URLs:
 - https://youtu.be/A1wXEEQBHeQ?t=14
 ---
+Track: Here Comes Santa Claus
+Artists:
+- Oakley Haldeman
+- Gene Autry
+Duration: '2:34'
+URLs:
+- https://www.youtube.com/watch?v=U6kRYKvWF1E
+Lyrics: |-
+    Here comes Santa Claus
+    Here comes Santa Claus
+    Right down Santa Claus Lane
+    Vixen and Blitzen and all his reindeers pulling on the reins
+    Bells are ringing, children singing, all is merry and bright
+    So hang your stockings and say your prayers
+    'Cause Santa Claus comes tonight
+
+    Here comes Santa Claus
+    Here comes Santa Claus
+    Right down Santa Claus Lane
+    He's got a bag that's filled with toys for boys and girls again
+    Hear those sleigh bells jingle jangle, oh what a beautiful sight
+    So jump in bed and cover your head
+    'Cause Santa Claus comes tonight
+
+    Here comes Santa Claus
+    Here comes Santa Claus
+    Right down Santa Claus Lane
+    He doesn't care if you're rich or poor
+    He loves you just the same
+    Santa Claus knows we're all God's children, that makes everything right
+    So fill your hearts with Christmas cheer
+    'Cause Santa Claus comes tonight
+
+    Here comes Santa Claus
+    Here comes Santa Claus
+    Right down Santa Claus Lane
+    He'll come around when chimes ring out that it's Christmas morn' again
+    Peace on Earth will come to all if we just follow the light
+    So let's give thanks to the lord above
+    'Cause Santa Claus comes tonight
+
+    Here comes Santa Claus
+    Here comes Santa Claus
+    Right down Santa Claus Lane
+    Vixen and Blitzen and all his reindeers pulling on the rein
+    Bells are ringing, children singing, all is merry and bright
+    Hang your stockings and say your prayers
+    'Cause Santa Claus comes tonight
+---
 Track: I Got Rhythm
 Artists:
 - George Gershwin
@@ -12054,7 +12100,12 @@ Lyrics: |-
     Santa Claus is comin' to town
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
+
     The lyrics may be a little different to what you're used to, but they correspond to the first recording of this carol by Harry Reser.
+
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    [For a very long time,](https://web.archive.org/web/20130111060110/http://xzazupsilon.webs.com/nsnd.html) listed as referenced during the introduction of [[track:gog-rest-ye-merry-prospitians]]; this appears to be [[track:here-comes-santa-claus]] instead.
 ---
 Track: Shchedryk
 Artists:
@@ -29479,6 +29530,15 @@ Lyrics: |-
     Where he at? Where he at? Where he at? Where he at?
     Now there he go, there he go, there he go, there he go
 ---
+Track: Pendulum
+Directory: pendulum-watercolour
+Always Reference By Directory: true
+Artists:
+- Watercolour
+Duration: '5:04'
+URLs:
+- https://www.youtube.com/watch?v=q9I01iNFcL4
+---
 Track: Personal Jesus
 Artists:
 - Depeche Mode
@@ -38702,6 +38762,15 @@ Artists:
 - Lowell Sherman
 URLs:
 - https://en.wikipedia.org/wiki/The_Pay-Off_(1930_film)
+---
+Track: Through fire, justice is served!
+Artists:
+- Mischief Makers
+URLs:
+- https://youtu.be/l1sKtz-MnVE?t=66
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+    Spoken by Lunar during the final boss of *Mischief Makers*, which doesn't appear to have voice acting credits available.
 ---
 Track: Up-Hill
 Artists:

@@ -181,6 +181,9 @@ Content: |-
     - added reference breakdown commentary to [[track:caliborns-lament]] (thanks, Grace, Jebb!)
     - added alternate animated banner to [[album:cyber-city-sound-pak]] under additional files (thanks, Niklink!)
     - added lyrics to [[track:sketches-in-black]] (thanks, Makin!)
+    - added lyrics to [[track:civil-discussi9n]] (thanks, Pyryte!)
+    - added lyrics to [[track:theotokos]] (thanks, Pyryte!)
+    - added lyrics to [[track:dance-of-the-dead]] (thanks, Pyryte!)
     - added lyrics to [[track:blue-blood-group]] (thanks, Lilith!)
     - added lyrics to [[track:lucaslee-mp3]] (thanks, FF!)
     - added lyrics to [[track:best-boyfriend]]
@@ -203,16 +206,23 @@ Content: |-
     - fixed [[track:trollcops-radio-play]] referencing [[track:trollcops]], now the other way around
     - fixed [[track:judgment-day]] not referencing [[track:psych0ruins]] (thanks, Lilith!)
     - fixed [[track:hate-you]] not referencing [[track:condescescion]] (thanks, Jebb!)
+    - fixed [[track:red-sucker]] not referencing [[track:green-lolly]] (thanks, Pyryte!)
     - fixed [[track:stride]] not sampling (in addition to referencing) [[track:moonsetter]] and [[track:showdown]]
     - fixed [[track:skaian-overdrive]] not sampling [[track:anubis-septicflesh]]
     - fixed [[track:skaian-happy-flight]] not referencing [[track:bastians-happy-flight]]
     - fixed [[track:breeze]] not referencing [[track:evanescence-maria-schneider]]
+    - fixed [[track:gog-rest-ye-merry-prospitians]] referencing [[track:santa-claus-is-comin-to-town]] instead of [[track:here-comes-santa-claus]] (thanks, Pyryte!)
+    - fixed [[track:eternal-suffering]] not sampling [[track:through-fire-justice-is-served]] (thanks, Awesomestuck Twitter, FF!)
     - fixed [[track:fighting-spirit-double-ascended-form]] referencing itself instead of [[track:fighting-spirit-second-form]] (thanks, Pyryte!)
     - fixed [[track:24x-showdown-combo]] not sampling [[track:phat2]] (thanks, Awesomestuck Twitter!)
+    - fixed [[track:theotokos]] not sampling [[track:through-fire-justice-is-served]] (thanks, Awesomestuck Twitter, Pyryte, FF!)
     - fixed [[track:frost-and-clockwork-lofam4]] not referencing [[track:frost-and-clockwork]] (thanks, Jebb, Circlejourney!)
+    - fixed [[track:dance-of-the-dead]] not referencing [[track:pendulum-watercolour]] (thanks, Awesomestuck Twitter!)
     - fixed [[track:blue-blood-group]] not referencing [[track:vriskas-theme]] (thanks, Lilith!)
     - fixed [[track:made-in-heaven-canwave-3]] referencing [[track:the-show-must-go-on-friendsymphony]] instead of [[track:the-show-must-go-on-queen]]
     - fixed [[track:miasmatic-chacon]] not sampling [[track:phat1]] (thanks indirectly, Awesomestuck Twitter!)
+    - fixed [[track:battle-with-a-legendary-fiduspawn]] not referencing [[track:english]] (thanks, FF!)
+    - fixed [[track:dreams-of-a-better-future]] not sampling [[track:through-fire-justice-is-served]] (thanks, Pyryte, FF!)
     - fixed [[track:galactic-incoherence-cosmic-nan-propagation]] not referencing [[track:umbral-ultimatum]] (thanks, Jebb!)
     - fixed [[track:dusksetter]] not referencing [[track:MeGaLoVania]] (thanks, Jebb!)
     - fixed [[track:im-a-member-of-the-midnight-crew-special-soapstone-version]] not referencing [[track:im-a-member-of-the-midnight-crew-soapstone]] (thanks, Jebb!)
@@ -221,6 +231,7 @@ Content: |-
     - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
     - fixed [[track:fallen-down-undertale]] not referencing [[track:fallen-down]]
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
+    - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Awesomestuck Twitter!)
     - fixed [[track:spider-dance-from-undertale-but-now-its-ska-i-guess-yikes]] not referencing [[track:spider-dance]], and added a SoundCloud listening link (thanks, Awesomestuck Twitter!)
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a re-release of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
     - fixed [[track:empirical]] being named "--Emperical" (thanks, Awesomestuck Twitter!)
@@ -241,6 +252,7 @@ Content: |-
     - fixed [[track:back-2-back]] linking to YouTube upload of [[track:vela-nova]] (thanks, Pyryte!)
     - fixed duplicate YouTube link for [[artist:levc]] (thanks, FF!)
     - fixed mistaken lyrics in [[track:chain-of-prospit]] (was "don't hold up", now "don't fold up"; thanks, Sgeo, FF!)
+    - fixed mistaken lyrics in [[track:shit-lets-be-santa]] (was repeating "Oh shit, let's be Santa", now "I'll- Shit, let's be Santa", plus miscaptalized "santa"; thanks, Awesomestuck Twitter!)
     - fixed bonus tracks in several albums not being divided into a dedicated section of the track list:
         - [[album:oceanfables-ray-of-light]], [[album:oceanfalls-vol-4]], and [[album:oceanfalls-vol-five]] (thanks, Niklink!)
         - [[album:vast-error-vol-2]], [[album:vast-error-vol-3]], [[album:repiton]], [[album:vast-error-vol-4]], [[album:catch-322]], [[album:dead-shufflers-anything-goes]]
@@ -251,9 +263,11 @@ Content: |-
         - moved [[track:flare-cascade]] out of [[album:unreleased-tracks]] and into [[album:more-homestuck-fandom]]
         - listed referenced tracks in [[track:cascade]] also as sampled tracks
     - added [[artist:buoyant]] to credits for [[track:switchback]] (thanks, Lilith!)
+    - added [[artist:tavia-morra]] to credits for [[track:maplehoofs-adventure]] (thanks, Lilith!)
     - added [[artist:fruitytee]] to credits for [[track:predestination-vast-error]] and [[track:nothing-special]]
     - added [[artist:decon-theed]] to credits for [[track:gold-mage]] and [[track:gold-mage-playtime-is-over-mix]]
     - added [[artist:levc]] to credits for [[track:flying-witch]]
+    - added [[artist:siivagunner]] to credits for [[track:my-grand-dad-is-the-green-sun]] (thanks, Awesomestuck Twitter!)
     - added [[artist:lethal-league-blaze]] to credits for [[track:aint-nothin-like-a-funky-beat]] (thanks, Jebb!)
     - added [[artist:valkyrie-profile]] to credits for [[track:behave-irrationally]] (thanks, Jebb!)
     - added [[artist:club-penguin]] to credits for [[track:brown-puffle-lab]] (thanks, Jebb, Awesomestuck Twitter!)
@@ -267,6 +281,8 @@ Content: |-
     - added [[artist:emma-essex]] to credits for [[track:white-nuxxle-driver]] (thanks, Lilith!)
     - removed [[artist:andrew-huo]] from credits for [[track:skaian-skirmish]], per Vol. 5 booklet and [[track:skaian-skuffle]] commentary (thanks, Lilith!)
     - added sheet music blueprint for [[track:narrative-command]] as proper sheet music file, instead of just linking from commentary
+    - updated [[group:cristata]] group description for legibility (thanks, Cello!)
+    - moved [[track:thunderhead-loftlocked]] into [[album:more-homestuck-fandom]] (instead of [[album:references-beyond-homestuck]]), and changed directory from <code>thunderhead</code> to <code>thunderhead-loftlocked</code> (thanks, Awesomestuck Twitter!)
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
@@ -1600,7 +1616,7 @@ Content: |-
         - [[track:tick]] now referenced by [[track:revisit-rewind]]
         - [[track:unintentional-touhou]] now referenced by [[track:revisit-rewind]]
         - [[track:celestial-fantasia]] now referenced by [[track:raise-of-the-conductors-baton]]
-        - [[track:thunderhead]] now referenced by [[track:infinitys-lament]]
+        - [[track:thunderhead-loftlocked]] now referenced by [[track:infinitys-lament]]
     - we will thankfully never have to do either of the above again
     - added and updated lyrics for a bunch of tracks from [[group:homestuck-gaiden]], courtesy as ever of [[artist:niklink]]:
         - from [[album:homestuck-for-the-holidays]]: [[track:time-for-a-story]], [[track:the-more-you-know]], [[track:the-squiddles-save-christmas]], [[track:billy-the-bellsuit-diver-has-something-to-say]], [[track:squiddly-night]], [[track:the-santa-claus-interdimensional-travel-sleigh]], [[track:candlelight]], [[track:oh-no-its-the-midnight-crew]], [[track:hella-sweet]], [[track:shit-lets-be-santa]], [[track:choo-choo]], [[track:oh-god-christmas]], [[track:a-very-special-time]]
