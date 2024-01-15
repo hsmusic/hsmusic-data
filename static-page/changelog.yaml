@@ -27,7 +27,16 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="13-abr-2024" class="major-release"><html:a href="#13-abr-2024">[[date:13 April 2024]] - Allan, if you would</a></h2>
+    <h2 id="13-apr-2024" class="major-release"><html:a href="#13-apr-2024">[[date:13 April 2024]] - Allan, if you would</a></h2>
+    <h3>site changes</h3>
+    - artist external links, previously inline icons, are now displayed in a "wiki tooltip", displaying when hovered with a pointer or when tapped; these show the platform icon as well as aliases/handles or domain names, where relevant ([[media:misc/changelog/artist-externals-old.png|old]], [[media:misc/changelog/artist-externals-new.png|new]])
+    - redesign for appearance of commentary entries, more clearly marking beginning of each new entry, linking to the writing artist, and italicizing annotation rather than artist ([[media:misc/changelog/commentary-entry-old.png|old]], [[media:misc/changelog/commentary-entry-new.png|new]])
+    - cover art is almost wholly redesigned, with many stylistic changes; artworks are now very slightly rounded, the background area in main cover arts is colored "deeper", art tags are redesigned and conjoined with the artwork box, and shadows, borders, and secondary effects are generally revisited and touched up ([[media:misc/changelog/cover-art-container-old.png|old]], [[media:misc/changelog/cover-art-container-new.png|new]])
+    - artworks with content warnings (aka "reveals") are also redesigned, showing warning list more clearly, displaying a warning symbol instead of the abbreviation "cw:", and generally indicating its action more clearly before it's actually revealed (main art: [[media:misc/changelog/reveal-main-old.mp4|old]], [[media:misc/changelog/reveal-main-new.mp4|new]]; gallery: [[media:misc/changelog/reveal-gallery-old.mp4|old]], [[media:misc/changelog/reveal-gallery-new.mp4|new]])
+    - improvements for "shorthand" names in tag list: previously these would always display (e.g. [[tag:meimona-oceanfalls|Meimona]] instead of [[tag:meimona-oceanfalls|Meimona (Oceanfalls)]]), now this is only the case when the shorthand name isn't ambiguous with another tag ([[media:misc/changelog/ambiguous-tags-old.png|old]], [[media:misc/changelog/ambiguous-tags-new.png|new]]); when a shorthand name is used, a wiki tooltip now presents the full name ([[media:misc/changelog/tag-tooltips.mp4|example]])
+    - album commentary page TODO
+    - news entry page gets previous and next links at bottom, including date of the linked news entry as well as, in a tooltip, how much earlier or later it was posted compared to the current entry ([[media:misc/changelog/news-entry-previous-next.png|example]])
+    - practically endless internal changes, both as groundworks for new and future features, and improvements for anyone working on data files locally
     <h3>albums</h3>
     - <b>album addition credits:</b>
         - thanks to [[artist:morris]] for unrelentingly documenting the complete soundtracks of every AAA game [[group:toby-fox]] has had even the slightest involvement in, as well as [[album:unbeatable-demo-tapes]] and the original version of [[album:archive]]
