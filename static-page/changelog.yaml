@@ -28,6 +28,9 @@ Style: |-
     }
 Content: |-
     <h2 id="01-nov-2099" class="major-release"><a href="#01-nov-2099">[[date:01 November 2099]] - Allan, if you would</a></h2>
+    - fixed track listening links in [[album:deltarune-ch2-ost]] to remove Spotify site tracking and YouTube playlists (thanks, Niklink!)
+    - fixed YouTube link for [[track:upw4rd-sn1ffm3nt]] from linking to a playlist (thanks, Niklink!)
+    - removed duplicate listening link from [[album:cool-and-new-voulem1]] (thanks, Niklink!)
     <h3>albums</h3>
     - added [[album:oceanfables-ethological]] by [[artist:witchs-cadence]]! (thanks, Niklink!)
     - added [[album:i-miss-you-earthbound-2012]]! (thanks, Jebb!)
