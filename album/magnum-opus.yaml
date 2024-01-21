@@ -9,7 +9,7 @@ Cover Artists:
 - ghastaboo
 Cover Art File Extension: png
 Track Art File Extension: png
-Color: '#BC1763'
+Color: '#DD3B87'
 Groups:
 - Deconreconstruction
 - Fandom
@@ -157,6 +157,7 @@ Artists:
 - Gryotharian
 Cover Artists:
 - RAMGODD
+Cover Art File Extension: jpg
 Duration: '5:54'
 URLs:
 - https://vasterror.bandcamp.com/track/weird-alchemy
@@ -276,7 +277,9 @@ Commentary:
 ---
 Section: Bonus tracks
 ---
-Track: 'BONUS: Euphoria'
+Track: Euphoria
+Directory: euphoria-magnum-opus
+Always Reference By Directory: true
 Artists:
 - Cerulean
 Cover Artists:
@@ -287,7 +290,7 @@ URLs:
 Referenced Tracks:
 - track:absolute-vast-error
 ---
-Track: 'BONUS: Coronal Mass Ejection [Beta]'
+Track: Coronal Mass Ejection [Beta]
 Artists:
 - Rabooski
 Cover Artists:
