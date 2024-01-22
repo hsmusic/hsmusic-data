@@ -239,16 +239,28 @@ Content: |-
     - fixed [[track:theotokos]] not sampling [[track:through-fire-justice-is-served]] (thanks, Rosetta Leijonde, Pyryte, FF!)
     - fixed [[track:frost-and-clockwork-lofam4]] not referencing [[track:frost-and-clockwork]] (thanks, Jebb, Circlejourney!)
     - fixed [[track:dance-of-the-dead]] not referencing [[track:watercolour-pendulum]] (thanks, Rosetta Leijonde, Pyryte!)
+    - fixed [[track:the-tacocats-secret-slide]] not referencing [[track:inspector-gadget-main-theme]], [[track:moshi-moshi]], [[track:bad-apple-feat-nomico]], [[track:meet-the-flintstones]], and [[track:we-are-number-one]] (thanks, Rosetta Leijonde, vriska/leo!)
     - fixed [[track:blue-blood-group]] not referencing [[track:vriskas-theme]] (thanks, Lilith!)
     - fixed [[track:made-in-heaven-canwave-3]] referencing [[track:the-show-must-go-on-friendsymphony]] instead of [[track:the-show-must-go-on-queen]]
     - fixed [[track:miasmatic-chacon]] not sampling [[track:phat1]] (thanks indirectly, Rosetta Leijonde!)
+    - fixed [[track:king-crab]] referencing [[track:crustacean]] instead of [[track:crustacean-pq]] (thanks, Jebb!)
     - fixed [[track:battle-with-a-legendary-fiduspawn]] not referencing [[track:english]] (thanks, FF!)
     - fixed [[track:dreams-of-a-better-future]] not sampling [[track:through-fire-justice-is-served]] (thanks, Pyryte, FF!)
     - fixed [[track:galactic-incoherence-cosmic-nan-propagation]] not referencing [[track:umbral-ultimatum]] (thanks, Jebb!)
     - fixed [[track:dusksetter]] not referencing [[track:MeGaLoVania]] (thanks, Jebb!)
     - fixed [[track:im-a-member-of-the-midnight-crew-special-soapstone-version]] not referencing [[track:im-a-member-of-the-midnight-crew-soapstone]] (thanks, Jebb!)
     - fixed [[track:caliborns-lament]] referencing [[track:ophiuchus-full-suite]] instead of [[track:spirals-including-illusions-of-freedom]], not sampling [[track:welcome-to-hell]], and placing [[track:carne-vale]] and [[track:the-rarest-and-most-interpretive-dance-meatcabre]] in the wrong spots (thanks, Grace, Jebb!)
+    - fixed [[track:home-stuck]] not sampling [[track:home]] and [[track:stuck]] (thanks, Makin!)
     - fixed [[track:broseph-bash]] not referencing [[track:chop-suey-but-everything-is-a-table]] nor sampling [[track:vinesauce-joel-insane-mario-bootleg-games-part-1]] (thanks, Jebb!)
+    - fixed many [[group:oceanfalls]] references: (thanks, leii!!)
+        - fixed [[track:snow-cacophony]] not referencing [[track:iceshards-oceanfalls]] and [[track:rosen-wings]]
+        - fixed [[track:inept-quartet]] not referencing [[track:incompetent-trio]]
+        - fixed [[track:the-sunderers-reprisal]] not referencing [[track:contritum]]
+        - fixed [[track:rainfalls]] not referencing [[track:surge-oceanfalls]]
+        - fixed [[track:xii-converge]] not referencing anything at all, including [[track:ending-oceanfalls]], [[track:fiery-depths]], [[track:performance-oceanfalls]], [[track:firefly-oceanfalls]], [[track:rosen-wings]], [[track:rozepiano]], [[track:in-the-beginning-oceanfalls]]
+        - fixed [[track:sacrosanct]] not referencing [[track:firefly-oceanfalls]]
+        - fixed [[track:wieczna-wiedza]] not referencing [[track:royalty-unbind]]
+        - fixed [[track:to-ashes-it-returns]] not referencing [[track:right-hand]]
     - fixed [[track:megalo-strike-back]] not referencing [[track:prologue-earthbound]] (thanks, FF, Cello!)
     - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
     - fixed [[track:a-heaven-broad-and-ochre]] not sampling [[track:scientific-method-omegalodon]] (thanks, Lilith!)
@@ -257,7 +269,8 @@ Content: |-
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:spider-dance-from-undertale-but-now-its-ska-i-guess-yikes]] not referencing [[track:spider-dance]], and added a SoundCloud listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:no-credit-card]] not sampling [[track:the-power-of-love]] (thanks, Rosetta Leijonde!)
-    - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a re-release of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
+    - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a rerelease of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
+    - fixed [[track:flare-with-vocals]] being duplicated in [[album:more-homestuck-fandom]] (as "Flare (horizon's lyricover)"), and tidied this track's lyrics (thanks, Jebb, vriska/leo!)
     - fixed [[track:empirical]] being named "--Emperical" (thanks, Rosetta Leijonde!)
     - fixed [[track:do-anbroids-dream-of]] being named "Do Androids Dream Of…?" (anbroid / android; thanks, Lilith, Grace!)
     - fixed [[track:squiddles-op-1-supercrush-guitar]] being named "Squiddles OP1: Supercrush Guitar!" (missing space in "OP 1"; thanks, Lilith, Grace!)
@@ -268,6 +281,7 @@ Content: |-
     - fixed [[artist:siivagunner]] being named "SilvaGunner" (thanks, Rosetta Leijonde!)
     - fixed [[track:phat1]], [[track:phat2]], [[track:phat3]], [[track:phat4]], [[track:phat5]], [[track:phat8]], [[track:phat9]], [[track:phat10]], and [[track:phat11]] not crediting [[artist:bill-bolin]] (for mastering and syncing)
     - fixed duration of [[track:song-of-storms]] (thanks, Geese!)
+    - fixed [[track:savior-of-the-dreaming-dead]] not being tagged with content warnings (thanks, Lilith, vriska/leo!)
     - fixed [[album:lofam]] not being tagged [[tag:lofam]] (thanks, Lilith!)
     - fixed [[track:break-shot]] not being tagged [[tag:green-sun]] and [[tag:ah]] (thanks, Pyryte, FF!)
     - fixed [[track:lost-memories]] not being tagged [[tag:bk]] (thanks, Pyryte!)
@@ -275,6 +289,7 @@ Content: |-
     - fixed [[flash:1940]] not featuring [[track:squiddles]] and [[track:friendship-aneurysm]] (thanks, Pyryte!)
     - fixed domains for battleofthebits links on [[track:grrrarrr]] and [[artist:baron-knoxburry]] (thanks, Pyryte!)
     - fixed Bandcamp link for [[track:the-land-of-wind-and-shade]] (thanks, Pyryte!)
+    - fixed YouTube link for [[track:old-secret]] (thanks, SoupyLenny, vriska/leo!)
     - fixed [[track:back-2-back]] linking to YouTube upload of [[track:vela-nova]] (thanks, Pyryte!)
     - fixed duplicate YouTube link for [[artist:levc]] (thanks, FF!)
     - fixed mistaken lyrics in [[track:chain-of-prospit]] (was "don't hold up", now "don't fold up"; thanks, Sgeo, FF!)
@@ -291,6 +306,7 @@ Content: |-
     - fixed [[artist:raizor]] having some credits under another name
     - added [[artist:buoyant]] to credits for [[track:switchback]] (thanks, Lilith!)
     - added details to cover art credits for [[album:prospit-and-derse]] (thanks, Lilith!)
+    - tidied details in artist credits for [[track:takeover-havoc]] (was "Takeover / Havoc organ solo", "Takeover / Havoc guitar solo"; thanks, vriska/leo!)
     - added [[artist:tavia-morra]] to credits for [[track:maplehoofs-adventure]] (thanks, Lilith!)
     - added [[artist:fruitytee]] to credits for [[track:predestination-vast-error]] and [[track:nothing-special]]
     - added [[artist:decon-theed]] to credits for [[track:gold-mage]] and [[track:gold-mage-playtime-is-over-mix]]
