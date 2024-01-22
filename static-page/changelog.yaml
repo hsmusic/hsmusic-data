@@ -163,7 +163,7 @@ Content: |-
         - added commentary from [[artist:siins]] (Tumblr) to [[track:lets-all-rock-the-heist]] (featuring full-size artwork)
         - added commentary from [[artist:al-neun]] (Tumblr) to [[track:white-host-green-room]] (featuring full-size artwork)
         - added commentary from [[artist:lauren-ross]] (Tumblr) to [[album:the-wanderers]] and [[track:cairo-overcoat]] (replaced low resolution track cover with this one)
-        - added commentary from [[artist:lexxy]] (Tumblr) to [[album:prospit-derse]] (featuring additional artwork)
+        - added commentary from [[artist:lexxy]] (Tumblr) to [[album:prospit-and-derse]] (featuring additional artwork)
         - added commentary from [[artist:bea]] (Tumblr) to [[track:hallowed-halls]] (featuring alternate artworks) and [[track:encore]]
         - added commentary from [[artist:shelby-cragg]] (Tumblr) to [[track:center-of-brilliance]] (replaced cover art with what's posted here, but kept original in commentary; it's lower resolution, but free of JPEG artefacts)
         - added commentary from [[artist:8bitkitten]] (Tumblr) to [[track:carefree-action]], [[track:elephant-gun]] (featuring alternate artwork), [[track:bridge-of-stars]], [[track:iRRRRRRRRECONCILA8LE]], [[track:consort-air]]
@@ -312,14 +312,10 @@ Content: |-
     - removed [[artist:andrew-huo]] from credits for [[track:skaian-skirmish]], per Vol. 5 booklet and [[track:skaian-skuffle]] commentary (thanks, Lilith!)
     - added sheet music blueprint for [[track:narrative-command]] as proper sheet music file, instead of just linking from commentary
     - updated [[group:cristata]] group description for legibility (thanks, Cello!)
-    - moved [[track:thunderhead-loftlocked]] into [[album:more-homestuck-fandom]] (instead of [[album:references-beyond-homestuck]]), and changed directory from <code>thunderhead</code> to <code>thunderhead-loftlocked</code> (thanks, Rosetta Leijonde!)
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
-    - changed directory of [[track:bass-the-rebornening]] from <code>bass</code> to <code>bass-the-rebornening</code> (thanks, Rosetta Leijonde!)
-    - changed directory of [[track:godtrash]] from <code>g-o-d-t-r-a-s-h</code> to <code>godtrash</code> (thanks, Rosetta Leijonde, Niklink!)
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
-    - changed directory of [[track:exile-ancestral]] from <code>exile</code> to <code>exile-ancestral</code> (thanks, Rosetta Leijonde!)
     - changed directory of [[track:gone-vast-error]] from <code>gone-bonus</code> to <code>gone-vast-error</code>
     - changed directory of [[track:risk-vast-error]] from <code>intermission-risk</code> to <code>risk-vast-error</code>
     - changed directory of [[track:where-to-now]] from <code>bonus-where-to-now</code> to <code>where-to-now</code>
@@ -328,6 +324,27 @@ Content: |-
     - changed directory of [[track:the-show-must-go-on-friendsymphony]] from <code>the-show-must-go-on</code> to <code>the-show-must-go-on-friendsymphony</code>
     - changed directory of [[track:lucaslee-mp3]] from <code>lucasleemp3</code> to <code>lucaslee-mp3</code>
     - changed directory of [[track:pokemon-theme]] from <code>pokmon-theme-gotta-catch-em-all</code> to <code>pokemon-theme</code>
+    - changed a bunch of malformed, single-word, or inconsistent directories: (thanks, Rosetta Leijonde!)
+        - changed directory of [[track:oliver-olivia]] from <code>oliverolivia</code> to <code>oliver-olivia</code>
+        - changed directory of [[track:null-void]] from <code>nullvoid</code> to <code>null-void</code>
+        - changed directory of [[track:unhackable-tildeath]] from <code>unhackableath</code> to <code>unhackable-tildeath</code>
+        - changed directory of [[track:pleasant-pressure]] from <code>pleasantpressure</code> to <code>pleasant-pressure</code>
+        - changed directory of [[track:mess-with-get-with]] from <code>mess-withget-with</code> to <code>mess-with-get-with</code>
+        - changed directory of [[track:harleys-plus-davids-son]] from <code>harleys-davids-son</code> to <code>harleys-plus-davids-son</code>
+        - changed directory of [[track:something-really-else]] from <code>something-reallyelse</code> to <code>something-really-else</code>
+        - changed directory of [[track:coolkid-grandkid]] from <code>coolkidgrandkid</code> to <code>coolkid-grandkid</code>
+        - changed directory of [[track:ten-25]] from <code>ten25</code> to <code>ten-25</code>
+        - changed directory of [[track:one-two-3-4]] from <code>one-two-34</code> to <code>one-two-3-4</code>
+        - changed directory of [[track:ngs-mp3]] from <code>ngsmp3</code> to <code>ngs-mp3</code>
+        - changed directory of [[track:wade-mp3]] from <code>wademp3</code> to <code>wade-mp3</code>
+        - changed directory of [[track:bass-the-rebornening]] from <code>bass</code> to <code>bass-the-rebornening</code>
+        - changed directory of [[track:godtrash]] from <code>g-o-d-t-r-a-s-h</code> to <code>godtrash</code> (thanks also, Niklink!)
+        - changed directory of [[track:exile-ancestral]] from <code>exile</code> to <code>exile-ancestral</code>
+        - changed directory of [[track:stop-time-end-space]] from <code>stop-timeend-space</code> to <code>stop-time-end-space</code>
+        - changed directory of [[track:bad-mp3]] from <code>badmp3</code> to <code>bad-mp3</code>
+        - changed directory of [[track:amelie]] from <code>amlie</code> to <code>amelie</code>
+        - changed directory of [[track:rabbit-wolf]] from <code>rabbitwolf</code> to <code>rabbit-wolf</code>
+        - changed directory of [[track:thunderhead-loftlocked]] from <code>thunderhead</code> to <code>thunderhead-loftlocked</code>, and moved it into [[album:more-homestuck-fandom]] (from [[album:references-beyond-homestuck]])
     - reorganized the group lists of some albums for consistency across site:
         - moved [[group:unofficial-mspa-fans]] above [[group:jamie-paige]] on [[album:vaporwave-2016]]
         - moved [[group:deconrecon]] above [[group:nasqueron]] on [[album:empyreal-rhapsody]]
