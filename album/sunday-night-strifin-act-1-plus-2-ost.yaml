@@ -11,8 +11,9 @@ Art Tags:
 - Karkat
 Cover Art File Extension: png
 Track Art File Extension: png
+Wallpaper File Extension: png
 Additional Files:
-- Title: Background art
+- Title: Bandcamp background
   Files:
   - bg.png
 - Title: WIP Album Cover
@@ -23,8 +24,10 @@ Additional Files:
   - realalbumcover.png
 Wallpaper Artists:
 - melogomee
-- Quasar Nebula (edits for wiki)
-Wallpaper Style: 'opacity: 0.8;'
+- Niklink (edits for wiki)
+Wallpaper Style: |-
+    opacity: 0.75;
+    background-position: bottom;
 Color: '#FFFF00'
 Groups:
 - Fandom
@@ -51,8 +54,10 @@ Commentary: |-
     Sunday Night Strifin’ holds a place near and dear to my heart, it’s one of the most important projects I’ve ever headlined, and I only look forward to seeing what me and my friends make next.
 
     I hope you love this Album as much as I loved excitedly checking the # song-updates channel in the Mod Dev Discord Server whenever I saw it had new messages.
+
     <i>bould:</i>
     boulge
+
     <i>Jebb:</i>
     Hey everyone! Thank you all SO much for checking out this album!
 

@@ -11,17 +11,37 @@ Cover Artists:
 - rerollroxy
 Banner Artists:
 - rerollroxy
+- Niklink (edits for wiki)
+Wallpaper Artists:
+- rerollroxy
+- Niklink (edits for wiki)
 Art Tags:
 - Jade
 - Eridan
 - Meenah 
-Cover Art File Extension: jpg
-Track Art File Extension: jpg
+Cover Art File Extension: png
 Banner File Extension: png
-Banner Dimensions: 975x180
+Banner Dimensions: 1100x180
+Wallpaper Style: |-
+    opacity: 0.65;
+    background-position: top;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Color: '#97C400'
 Groups:
 - Fandom
+Additional Files:
+- Title: Bandcamp Banner
+  Files:
+  - banner.png
+- Title: Album cover (no logo)
+  Files:
+  - disc_art.png
+Commentary: |-
+    <i>rerollroxy:</i>
+    the ost for V1 of SBURB: Funkin' Edition. <a href="https://gamebanana.com/mods/473591/">play here!!</a>
+
+    rerollroxy (me) did all the music lol
 ---
 Track: ABSCOND
 Directory: abscond-sburb-funkin-edition
@@ -81,7 +101,7 @@ Duration: '1:02'
 Cover Artists:
 - "SBURB: Funkin' Edition"
 Sampled Tracks:
-- Nagito Komaeda VS Gamzee Makara (Danganronpa VS Homestuck) | RAP BATTLE!
+- Nagito Komaeda VS Gamzee Makara (Danganronpa VS Homestuck) | RAP BATTLE! www.youtube.com/watch?v=ZQt9rWYhv7E
 Lyrics: |-
     Let me get straight to the point, I'm terminating your capriciousness
     I've got plenty of truth bullets to end you with a vicious diss
@@ -115,4 +135,6 @@ URLs:
 - https://rerollroxy.bandcamp.com/track/fluffer-nutter
 - https://youtu.be/zOAzpJ0wayY
 - https://soundcloud.com/rerollroxy/friday-night-funkin-sburb-funkin-edition-fluffer-nutter-nagito-vs-gamzee
-
+Commentary: |-
+    <i>rerollroxy:</i>
+    this is nagito vs gamzee lol
