@@ -2,7 +2,7 @@ Album: SVERT OST - Volume One
 Date: December 7, 2021
 Date Added: October 28, 2023
 URLs:
-- https://svertofficialsoundtrack.bandcamp.com/album/experience
+- https://svertofficialsoundtrack.bandcamp.com/album/svert-ost-volume-one
 Artists:
 - Gryotharian
 - Scorpyus
@@ -12,15 +12,9 @@ Default Track Cover Artists:
 - Gryotharian
 Banner Artists:
 - Gryotharian
+- Niklink (edits for wiki)
 Wallpaper Artists:
 - Gryotharian
-Banner Dimensions: 975x100
-Banner Style: |-
-    image-rendering: pixelated;
-    image-rendering: crisp-edges;
-Wallpaper Style: |-
-    image-rendering: pixelated;
-    image-rendering: crisp-edges;
 Art Tags:
 - Terrem (SVERT)
 - Texius (SVERT)
@@ -29,12 +23,26 @@ Art Tags:
 - AL (SVERT)
 Wallpaper File Extension: png
 Banner File Extension: png
-Cover Art File Extension: jpg
-Track Art File Extension: jpg
+Cover Art File Extension: png
+Track Art File Extension: png
+Banner Dimensions: 1100x100
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+Wallpaper Style: |-
+    opacity: 0.8;
+    background-position: top;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Color: '#FF620A'
 Groups:
 - SVERT
 - Fandom
+Additional Files:
+- Title: Bandcamp Banner and Background
+  Files:
+  - banner.png
+  - bg.png
 Commentary: |-
     <i>Gryotharian:</i>
     The long wait is over. The Album is here.
