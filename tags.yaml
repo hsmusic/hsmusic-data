@@ -3890,7 +3890,7 @@ Direct Descendant Tags:
 - String instruments
 - More instruments
 - Brass instruments
-
+- Percussion instruments
 ---
 Tag: Keyboard instruments
 Direct Descendant Tags:
@@ -3911,6 +3911,10 @@ Direct Descendant Tags:
 Tag: More instruments
 Direct Descendant Tags:
 - Turntables
+---
+Tag: Percussion instruments
+Direct Descendant Tags:
+- Marimba
 ---
 Tag: Turntables
 Color: '#e00707'
@@ -4308,6 +4312,8 @@ Extra Reading URLs:
 Tag: Magic 8 Ball
 Color: '#3796c6'
 ---
+Tag: Marimba
+---
 Tag: Ninja Sword
 Color: '#a4a4a4'
 Extra Reading URLs:
@@ -4513,6 +4519,7 @@ Direct Descendant Tags:
 Tag: More iconography (Homestuck)
 Direct Descendant Tags:
 - Sburb
+- Sgrub
 
 # -------------------------------------
 #  Individual Icons
@@ -4563,6 +4570,9 @@ Color: '#ba1016'
 ---
 Tag: Sburb
 Color: '#4be14e'
+---
+Tag: Sgrub
+Color: '#8f00ff'
 
 # General Icons
 
