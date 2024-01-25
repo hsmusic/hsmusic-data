@@ -127,6 +127,8 @@ Content: |-
         - added [[album:agents-of-reality]] by [[artist:tycoon]]!
         - added [[album:comissions-i]] by [[artist:waterpsychiatrist]]!
         - added [[album:seven-seas]] and [[album:10-percent-of-my-strength]] by [[artist:worthikids]]!
+    - added proper albums for tracks that were previously under [[album:unreleased-tracks]]:
+        - added [[album:namco-high-official-soundtrack]] by [[artist:ryan-francis]]!
     <h3>additional names</h3>
     - completely new feature, adding pre-release names, localizations, de-quirked names, names on other releases/platforms, variations in booklets and commentary, other "AKA" titles and more
     - appear only on track pages, but only for now; trivial to add to any thing-based page
@@ -363,6 +365,13 @@ Content: |-
     - changed directory of [[track:courage-catch-322]] from <code>courage-vast-error</code> to <code>courage-catch-322</code>
     - changed directory of [[track:mimesiswing]] from <code>intermission-mimesiswing</code> to <code>mimesiswing</code>
     - changed directory of [[track:the-show-must-go-on-friendsymphony]] from <code>the-show-must-go-on</code> to <code>the-show-must-go-on-friendsymphony</code>
+    - changed directory of [[track:title-theme-namco-high]] from <code>namco-theme</code> to <code>title-theme-namco-high</code>
+    - changed directory of [[track:school-times]] from <code>school-namco-high</code> to <code>school-times</code>
+    - changed directory of [[track:romance-times]] from <code>romance</code> to <code>romance-times</code>
+    - changed directory of [[track:upbeat-times]] from <code>upbeat</code> to <code>upbeat-times</code>
+    - changed directory of [[track:upbeat-times-half]] from <code>upbeat-half</code> to <code>upbeat-times-half</code>
+    - changed directory of [[track:battle-music]] from <code>boss-theme</code> to <code>battle-music</code>
+    - changed directory of [[track:namco-high-be-true-to-yourself]] from <code>credits</code> to <code>namco-high-be-true-to-yourself</code>
     - changed directory of [[track:lucaslee-mp3]] from <code>lucasleemp3</code> to <code>lucaslee-mp3</code>
     - changed directory of [[track:pokemon-theme]] from <code>pokmon-theme-gotta-catch-em-all</code> to <code>pokemon-theme</code>
     - changed a bunch of malformed, single-word, or inconsistent directories: (thanks, Rosetta Leijonde!)
