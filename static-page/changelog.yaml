@@ -129,6 +129,7 @@ Content: |-
         - added [[album:seven-seas]] and [[album:10-percent-of-my-strength]] by [[artist:worthikids]]!
     - added proper albums for tracks that were previously under [[album:unreleased-tracks]]:
         - added [[album:namco-high-official-soundtrack]] by [[artist:ryan-francis]]!
+        - added [[album:pesterquest-soundtrack]] by [[artist:james-roach]] & co!
     <h3>additional names</h3>
     - completely new feature, adding pre-release names, localizations, de-quirked names, names on other releases/platforms, variations in booklets and commentary, other "AKA" titles and more
     - appear only on track pages, but only for now; trivial to add to any thing-based page
@@ -246,7 +247,7 @@ Content: |-
     - fixed [[track:blue-blood-group]] not referencing [[track:vriskas-theme]] (thanks, Lilith!)
     - fixed [[track:made-in-heaven-canwave-3]] referencing [[track:the-show-must-go-on-friendsymphony]] instead of [[track:the-show-must-go-on-queen]]
     - fixed [[track:miasmatic-chacon]] not sampling [[track:phat1]] (thanks indirectly, Rosetta Leijonde!)
-    - fixed [[track:king-crab]] referencing [[track:crustacean]] instead of [[track:crustacean-pq]] (thanks, Jebb!)
+    - fixed [[track:king-crab]] referencing [[track:crustacean]] instead of [[track:crustacean-pesterquest]] (thanks, Jebb!)
     - fixed [[track:battle-with-a-legendary-fiduspawn]] not referencing [[track:english]] (thanks, FF!)
     - fixed [[track:dreams-of-a-better-future]] not sampling [[track:through-fire-justice-is-served]] (thanks, Pyryte, FF!)
     - fixed [[track:galactic-incoherence-cosmic-nan-propagation]] not referencing [[track:umbral-ultimatum]] (thanks, Jebb!)
@@ -313,6 +314,7 @@ Content: |-
     - fixed [[track:emblems-of-a-magnum-opus]] not being tagged [[tag:sis-oceanfalls]]
     - fixed [[track:cinq]] not being tagged [[tag:ludwig-oceanfalls]] and [[tag:boyfriend-oceanfalls]]
     - fixed [[flash:1940]] not featuring [[track:squiddles]] and [[track:friendship-aneurysm]] (thanks, Pyryte!)
+    - fixed [[flash:pq-vol6]] not featuring [[track:midnight-calliope-pesterquest]]
     - fixed domains for battleofthebits links on [[track:grrrarrr]] and [[artist:baron-knoxburry]] (thanks, Pyryte!)
     - fixed Bandcamp link for [[track:the-land-of-wind-and-shade]] (thanks, Pyryte!)
     - fixed YouTube link for [[track:old-secret]] (thanks, SoupyLenny, vriska/leo!)
@@ -357,6 +359,7 @@ Content: |-
     - updated [[group:cristata]] group description for legibility (thanks, Cello!)
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
+    - removed fan-made, unofficial artworks from [[album:pesterquest-soundtrack]] and unreleased Pesterquest tracks (for now)
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
     - changed directory of [[track:gone-vast-error]] from <code>gone-bonus</code> to <code>gone-vast-error</code>
@@ -372,6 +375,11 @@ Content: |-
     - changed directory of [[track:upbeat-times-half]] from <code>upbeat-half</code> to <code>upbeat-times-half</code>
     - changed directory of [[track:battle-music]] from <code>boss-theme</code> to <code>battle-music</code>
     - changed directory of [[track:namco-high-be-true-to-yourself]] from <code>credits</code> to <code>namco-high-be-true-to-yourself</code>
+    - changed directory of [[track:24-7-lo-fi-anime-beats-to-question-your-sexuality-to]] from <code>247-lo-fi-anime-beats-to-question-your-sexuality-to</code> to <code>24-7-lo-fi-anime-beats-to-question-your-sexuality-to</code>
+    - changed directory of [[track:drone-pesterquest]] from <code>drone-pq</code> to <code>drone-pesterquest</code>
+    - changed directory of [[track:crustacean-pesterquest]] from <code>crustacean-pq</code> to <code>crustacean-pesterquest</code>
+    - changed directory of [[track:this-time-its-eridan]] from <code>busters-theme-mk-ii</code> to <code>this-time-its-eridan</code>
+    - changed directory of [[track:riches-to-ruins-movements-pt-ii]] from <code>riches-to-ruins-movement-ii</code> to <code>riches-to-ruins-movements-pt-ii</code>
     - changed directory of [[track:lucaslee-mp3]] from <code>lucasleemp3</code> to <code>lucaslee-mp3</code>
     - changed directory of [[track:pokemon-theme]] from <code>pokmon-theme-gotta-catch-em-all</code> to <code>pokemon-theme</code>
     - changed a bunch of malformed, single-word, or inconsistent directories: (thanks, Rosetta Leijonde!)
@@ -1252,7 +1260,7 @@ Content: |-
     - fixed [[flash:5440|[S] ==>]] (the A6I4 intro flash) listing [[track:english]] instead of [[track:eternity-served-cold]]
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!) detecting misspelled names of various data fields (that would therefore would not display) for [[track:fuchsia-ruler]], [[track:frogsong]], [[track:schrodingers-harbinger]], [[artist:dsnake]], [[artist:first-turn-fold]], [[artist:thiefofstars]], and [[tag:carapacians]]
     - added Bandcamp links back to [[group:clark-powell]]'s albums: [[album:we-are-all-satellites]], [[album:namesake]], [[album:someday]], and [[album:labyrinths-heart]] (thanks, Celeste!), and also to  [[album:perfectly-generic-object]] (thanks, vriska/leo!)
-    - added YouTube links to [[album:perfectly-generic-album]] (thanks, vriska/leo!), also [[track:guardian]], [[track:nightlife-extended]], [[track:kinetic-verdancy]], [[track:rediscover-fusion-remix]], [[track:mutiny]], [[track:guardian-v2]], [[track:contention-vol4]], [[track:null-vol8]], [[track:its-good-to-see-you-again]], [[track:before-before-the-beginning]], [[track:isnt-this-is-this-the-end-again]], [[track:non-compos-mentis]], [[track:drone-pq]], [[track:its-a-cover-of-made-of-time]], [[track:its-nothing]]
+    - added YouTube links to [[album:perfectly-generic-album]] (thanks, vriska/leo!), also [[track:guardian]], [[track:nightlife-extended]], [[track:kinetic-verdancy]], [[track:rediscover-fusion-remix]], [[track:mutiny]], [[track:guardian-v2]], [[track:contention-vol4]], [[track:null-vol8]], [[track:its-good-to-see-you-again]], [[track:before-before-the-beginning]], [[track:isnt-this-is-this-the-end-again]], [[track:non-compos-mentis]], [[track:drone-pesterquest]], [[track:its-a-cover-of-made-of-time]], [[track:its-nothing]]
     - added Spotify listen links to [[album:mobius-trip-and-hadron-kaleido]], [[album:strife]], [[album:strife-2]], [[track:sburban-jungle]], and [[track:ascend]]
     - added listen links to [[artist:bill-bolin]]'s tracks on the official Homestuck albums
     - fixed wrong YouTube links for [[track:virgin-orb]] (thanks, Sgeo!) and  [[track:how-do-i-live-d8-night-version]] (thanks, Makin!)
@@ -1820,7 +1828,7 @@ Content: |-
         - added new tracks [[track:friendvangelion-rebuild]], [[track:its-a-cover-of-made-of-time]], and [[track:its-nothing]] to the <i>Tracks featured in Pesterquest</i> section
         - added [[track:its-a-cover-of-made-of-time]] to the reference list of [[track:yeah-it-is]]
         - moved [[track:seer-of-same-color-scalemate-combos]] from <i>Other tracks originating outside of Homestuck</i> to <i>Other Homestuck tracks</i>
-        - renamed "DRONE_PQ" to [[track:drone-pq]] and gave it track art from [[artist:tempest2k]]'s <a href="https://twitter.com/nueclear333/status/1331330835245535232">PESTERQUEST OST</a> collection
+        - renamed "DRONE_PQ" to [[track:drone-pesterquest]] and gave it track art from [[artist:tempest2k]]'s <a href="https://twitter.com/nueclear333/status/1331330835245535232">PESTERQUEST OST</a> collection
         - renamed "THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)" to [[track:buskers-theme-mk-ii]] and added commentary from James Roach's tumblr
         - removed a bunch of tracks that were moved into [[album:undertale-soundtrack]]
     - miscellaneous changes to data for [[site:flash/|Flashes &amp; Games]]
