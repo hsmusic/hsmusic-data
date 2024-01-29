@@ -234,6 +234,7 @@ Content: |-
     - fixed [[track:skaian-overdrive]] not sampling [[track:anubis-septicflesh]]
     - fixed [[track:skaian-happy-flight]] not referencing [[track:bastians-happy-flight]]
     - fixed [[track:breeze]] not referencing [[track:evanescence-maria-schneider]]
+    - fixed [[track:this-time-its-eridan]] not referencing [[track:buskers-theme]]
     - fixed [[track:gog-rest-ye-merry-prospitians]] referencing [[track:santa-claus-is-comin-to-town]] instead of [[track:here-comes-santa-claus]] (thanks, Pyryte!)
     - fixed [[track:eternal-suffering]] not sampling [[track:through-fire-justice-is-served]] (thanks, Rosetta Leijonde, FF!)
     - fixed [[track:lullaby-of-the-furthest-ring]] not referencing [[track:lullaby-of-the-furthest-ring-feb-21]] (thanks, Lilith!)
@@ -266,8 +267,10 @@ Content: |-
         - fixed [[track:wieczna-wiedza]] not referencing [[track:royalty-unbind]]
         - fixed [[track:to-ashes-it-returns]] not referencing [[track:right-hand]]
     - fixed [[track:megalo-strike-back]] not referencing [[track:prologue-earthbound]] (thanks, FF, Cello!)
-    - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
     - fixed [[track:a-heaven-broad-and-ochre]] not sampling [[track:scientific-method-omegalodon]] (thanks, Lilith!)
+    - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
+    - fixed [[track:namco-high-be-true-to-yourself]] referencing [[track:title-theme-namco-high]], instead of the other way around (thanks, Niklink!)
+    - fixed [[track:battle-music]] referencing [[track:title-theme-namco-high]] instead of [[track:namco-high-be-true-to-yourself]]
     - fixed [[track:fallen-down-undertale]] not referencing [[track:fallen-down]]
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
@@ -333,6 +336,7 @@ Content: |-
         - listed referenced tracks in [[track:cascade]] also as sampled tracks
     - fixed [[artist:raizor]] having some credits under another name
     - added [[artist:buoyant]] to credits for [[track:switchback]] (thanks, Lilith!)
+    - added [[album:hiveswap-act-1-ost]] and [[album:hiveswap-act-2-ost]] to [[group:toby-fox]] group (as well as new [[group:james-roach]] group)
     - added details to cover art credits for [[album:prospit-and-derse]] (thanks, Lilith!)
     - tidied details in artist credits for [[track:takeover-havoc]] (was "Takeover / Havoc organ solo", "Takeover / Havoc guitar solo"; thanks, vriska/leo!)
     - added [[artist:tavia-morra]] to credits for [[track:maplehoofs-adventure]] (thanks, Lilith!)
