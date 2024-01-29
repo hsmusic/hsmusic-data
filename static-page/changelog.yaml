@@ -127,6 +127,9 @@ Content: |-
         - added [[album:agents-of-reality]] by [[artist:tycoon]]!
         - added [[album:comissions-i]] by [[artist:waterpsychiatrist]]!
         - added [[album:seven-seas]] and [[album:10-percent-of-my-strength]] by [[artist:worthikids]]!
+    - added proper albums for tracks that were previously under [[album:unreleased-tracks]]:
+        - added [[album:namco-high-official-soundtrack]] by [[artist:ryan-francis]]!
+        - added [[album:pesterquest-soundtrack]] by [[artist:james-roach]] & co!
     <h3>additional names</h3>
     - completely new feature, adding pre-release names, localizations, de-quirked names, names on other releases/platforms, variations in booklets and commentary, other "AKA" titles and more
     - appear only on track pages, but only for now; trivial to add to any thing-based page
@@ -145,6 +148,7 @@ Content: |-
     - tidied, touched up with links, and double-checked for accuracy almost all transcribed commentary originating in booklets, from albums: [[album:alternia]], [[album:sburb]], [[album:alterniabound]], [[album:homestuck-vol-10]], [[album:beyond-canon]]
     - added Bandcamp commentary/credit blurbs, as well as news and descriptions from whatpumpkin.com, across [[group:official]]
     - added various missing MSPA news blurbs across [[group:official]], including practically all albums, plus [[track:black]], [[track:unite-synchronization]] and [[track:eternity-served-cold]] (thanks, Lilith!)
+    - added new artworks (and listening link) to [[album:oceanfalls-vol-2]]! (thanks to leii for help with the art tags!)
     - added a bunch of fan animations (thanks, Jebb!)
         - added animations by [[artist:shadok]]: [[flash:homestuck-the-baby-is-you-animated]] through [[flash:noelle-is-spamtons-mom]]
         - added animations by [[artist:bugflower413]]: [[flash:damara-ascend]] through [[flash:dethrone-bugflower413]]
@@ -230,6 +234,7 @@ Content: |-
     - fixed [[track:skaian-overdrive]] not sampling [[track:anubis-septicflesh]]
     - fixed [[track:skaian-happy-flight]] not referencing [[track:bastians-happy-flight]]
     - fixed [[track:breeze]] not referencing [[track:evanescence-maria-schneider]]
+    - fixed [[track:this-time-its-eridan]] not referencing [[track:buskers-theme]]
     - fixed [[track:gog-rest-ye-merry-prospitians]] referencing [[track:santa-claus-is-comin-to-town]] instead of [[track:here-comes-santa-claus]] (thanks, Pyryte!)
     - fixed [[track:eternal-suffering]] not sampling [[track:through-fire-justice-is-served]] (thanks, Rosetta Leijonde, FF!)
     - fixed [[track:lullaby-of-the-furthest-ring]] not referencing [[track:lullaby-of-the-furthest-ring-feb-21]] (thanks, Lilith!)
@@ -243,7 +248,7 @@ Content: |-
     - fixed [[track:blue-blood-group]] not referencing [[track:vriskas-theme]] (thanks, Lilith!)
     - fixed [[track:made-in-heaven-canwave-3]] referencing [[track:the-show-must-go-on-friendsymphony]] instead of [[track:the-show-must-go-on-queen]]
     - fixed [[track:miasmatic-chacon]] not sampling [[track:phat1]] (thanks indirectly, Rosetta Leijonde!)
-    - fixed [[track:king-crab]] referencing [[track:crustacean]] instead of [[track:crustacean-pq]] (thanks, Jebb!)
+    - fixed [[track:king-crab]] referencing [[track:crustacean]] instead of [[track:crustacean-pesterquest]] (thanks, Jebb!)
     - fixed [[track:battle-with-a-legendary-fiduspawn]] not referencing [[track:english]] (thanks, FF!)
     - fixed [[track:dreams-of-a-better-future]] not sampling [[track:through-fire-justice-is-served]] (thanks, Pyryte, FF!)
     - fixed [[track:galactic-incoherence-cosmic-nan-propagation]] not referencing [[track:umbral-ultimatum]] (thanks, Jebb!)
@@ -262,8 +267,10 @@ Content: |-
         - fixed [[track:wieczna-wiedza]] not referencing [[track:royalty-unbind]]
         - fixed [[track:to-ashes-it-returns]] not referencing [[track:right-hand]]
     - fixed [[track:megalo-strike-back]] not referencing [[track:prologue-earthbound]] (thanks, FF, Cello!)
-    - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
     - fixed [[track:a-heaven-broad-and-ochre]] not sampling [[track:scientific-method-omegalodon]] (thanks, Lilith!)
+    - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
+    - fixed [[track:namco-high-be-true-to-yourself]] referencing [[track:title-theme-namco-high]], instead of the other way around (thanks, Niklink!)
+    - fixed [[track:battle-music]] referencing [[track:title-theme-namco-high]] instead of [[track:namco-high-be-true-to-yourself]]
     - fixed [[track:fallen-down-undertale]] not referencing [[track:fallen-down]]
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
@@ -287,7 +294,30 @@ Content: |-
     - fixed [[track:break-shot]] not being tagged [[tag:green-sun]] and [[tag:ah]] (thanks, Pyryte, FF!)
     - fixed [[track:lost-memories]] not being tagged [[tag:bk]] (thanks, Pyryte!)
     - fixed [[track:feels-jam]] being tagged [[tag:lomax]] instead of [[tag:lotak]] (thanks, Pyryte!)
+    - fixed [[track:random-encounter]] not being tagged [[tag:ludwig-oceanfalls]]
+    - fixed [[track:ghostdog-good-boy]] not being tagged [[tag:ludwig-oceanfalls]]
+    - fixed [[track:arts-and-crafts]] not being tagged [[tag:sis-oceanfalls]] (thanks, leii!)
+    - fixed [[track:encounter-with-hostile-maids]] not being tagged [[tag:avarita-oceanfalls]], [[tag:gula-oceanfalls]], and [[tag:ira-oceanfalls]] (thanks, leii!)
+    - fixed [[track:a-long-time-ago]] not being tagged [[tag:lady-oshen-oceanfalls]] (thanks, leii!)
+    - fixed [[track:sea-patrol-ocean-quarrel]] not being tagged [[tag:boyfriend-oceanfalls]]
+    - fixed [[track:best-boyfriend]] not being tagged [[tag:boyfriend-oceanfalls]]
+    - fixed [[track:adventure-at-sea]] not being tagged [[tag:blackfin-oceanfalls]], [[tag:warty-oceanfalls]], and [[tag:weddell-oceanfalls]] (thanks, leii!)
+    - fixed [[track:cinders-oceanfalls]] not being tagged [[tag:marzipan-aries-oceanfalls]] (thanks, leii!)
+    - fixed [[track:angry-cat-owo-oceanfalls-version]] not being tagged [[tag:cats]]
+    - fixed [[track:onyxs-theme]] not being tagged [[tag:onyx-oceanfalls]]
+    - fixed [[track:tale-of-valkyries]] not being tagged [[tag:herja-aquarius-oceanfalls]] (thanks, leii!)
+    - fixed [[track:galactic-princess-selene-battle-theme]] not being tagged [[tag:cats]]
+    - fixed [[track:sea-patrol-ocean-calm]] not being tagged [[tag:blackfin-oceanfalls]], [[tag:warty-oceanfalls]], and [[tag:weddell-oceanfalls]] (thanks, leii!)
+    - fixed [[track:oceancute]] not being tagged [[tag:boyfriend-oceanfalls]]
+    - fixed [[track:burning-wood-blocks]] not being tagged [[tag:sis-oceanfalls]]
+    - fixed [[track:portside]] not being tagged [[tag:warty-oceanfalls]] (thanks, leii!)
+    - fixed [[album:oceanfalls-vol-five]] not being tagged [[tag:sis-oceanfalls]]
+    - fixed [[track:metal-and-meat]] not being tagged [[tag:zachery-oceanfalls]] (thanks, leii!)
+    - fixed [[track:hollowed-halls]] not being tagged [[tag:sis-oceanfalls]]
+    - fixed [[track:emblems-of-a-magnum-opus]] not being tagged [[tag:sis-oceanfalls]]
+    - fixed [[track:cinq]] not being tagged [[tag:ludwig-oceanfalls]] and [[tag:boyfriend-oceanfalls]]
     - fixed [[flash:1940]] not featuring [[track:squiddles]] and [[track:friendship-aneurysm]] (thanks, Pyryte!)
+    - fixed [[flash:pq-vol6]] not featuring [[track:midnight-calliope-pesterquest]]
     - fixed domains for battleofthebits links on [[track:grrrarrr]] and [[artist:baron-knoxburry]] (thanks, Pyryte!)
     - fixed Bandcamp link for [[track:the-land-of-wind-and-shade]] (thanks, Pyryte!)
     - fixed YouTube link for [[track:old-secret]] (thanks, SoupyLenny, vriska/leo!)
@@ -306,6 +336,7 @@ Content: |-
         - listed referenced tracks in [[track:cascade]] also as sampled tracks
     - fixed [[artist:raizor]] having some credits under another name
     - added [[artist:buoyant]] to credits for [[track:switchback]] (thanks, Lilith!)
+    - added [[album:hiveswap-act-1-ost]] and [[album:hiveswap-act-2-ost]] to [[group:toby-fox]] group (as well as new [[group:james-roach]] group)
     - added details to cover art credits for [[album:prospit-and-derse]] (thanks, Lilith!)
     - tidied details in artist credits for [[track:takeover-havoc]] (was "Takeover / Havoc organ solo", "Takeover / Havoc guitar solo"; thanks, vriska/leo!)
     - added [[artist:tavia-morra]] to credits for [[track:maplehoofs-adventure]] (thanks, Lilith!)
@@ -332,6 +363,7 @@ Content: |-
     - updated [[group:cristata]] group description for legibility (thanks, Cello!)
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
+    - removed fan-made, unofficial artworks from [[album:pesterquest-soundtrack]] and unreleased Pesterquest tracks (for now)
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
     - changed directory of [[track:gone-vast-error]] from <code>gone-bonus</code> to <code>gone-vast-error</code>
@@ -340,6 +372,18 @@ Content: |-
     - changed directory of [[track:courage-catch-322]] from <code>courage-vast-error</code> to <code>courage-catch-322</code>
     - changed directory of [[track:mimesiswing]] from <code>intermission-mimesiswing</code> to <code>mimesiswing</code>
     - changed directory of [[track:the-show-must-go-on-friendsymphony]] from <code>the-show-must-go-on</code> to <code>the-show-must-go-on-friendsymphony</code>
+    - changed directory of [[track:title-theme-namco-high]] from <code>namco-theme</code> to <code>title-theme-namco-high</code>
+    - changed directory of [[track:school-times]] from <code>school-namco-high</code> to <code>school-times</code>
+    - changed directory of [[track:romance-times]] from <code>romance</code> to <code>romance-times</code>
+    - changed directory of [[track:upbeat-times]] from <code>upbeat</code> to <code>upbeat-times</code>
+    - changed directory of [[track:upbeat-times-half]] from <code>upbeat-half</code> to <code>upbeat-times-half</code>
+    - changed directory of [[track:battle-music]] from <code>boss-theme</code> to <code>battle-music</code>
+    - changed directory of [[track:namco-high-be-true-to-yourself]] from <code>credits</code> to <code>namco-high-be-true-to-yourself</code>
+    - changed directory of [[track:24-7-lo-fi-anime-beats-to-question-your-sexuality-to]] from <code>247-lo-fi-anime-beats-to-question-your-sexuality-to</code> to <code>24-7-lo-fi-anime-beats-to-question-your-sexuality-to</code>
+    - changed directory of [[track:drone-pesterquest]] from <code>drone-pq</code> to <code>drone-pesterquest</code>
+    - changed directory of [[track:crustacean-pesterquest]] from <code>crustacean-pq</code> to <code>crustacean-pesterquest</code>
+    - changed directory of [[track:this-time-its-eridan]] from <code>busters-theme-mk-ii</code> to <code>this-time-its-eridan</code>
+    - changed directory of [[track:riches-to-ruins-movements-pt-ii]] from <code>riches-to-ruins-movement-ii</code> to <code>riches-to-ruins-movements-pt-ii</code>
     - changed directory of [[track:lucaslee-mp3]] from <code>lucasleemp3</code> to <code>lucaslee-mp3</code>
     - changed directory of [[track:pokemon-theme]] from <code>pokmon-theme-gotta-catch-em-all</code> to <code>pokemon-theme</code>
     - changed a bunch of malformed, single-word, or inconsistent directories: (thanks, Rosetta Leijonde!)
@@ -1220,7 +1264,7 @@ Content: |-
     - fixed [[flash:5440|[S] ==>]] (the A6I4 intro flash) listing [[track:english]] instead of [[track:eternity-served-cold]]
     - fixed a number of syntax errors in data files, thanks to improved parsing and data review by Gio (thank you!) detecting misspelled names of various data fields (that would therefore would not display) for [[track:fuchsia-ruler]], [[track:frogsong]], [[track:schrodingers-harbinger]], [[artist:dsnake]], [[artist:first-turn-fold]], [[artist:thiefofstars]], and [[tag:carapacians]]
     - added Bandcamp links back to [[group:clark-powell]]'s albums: [[album:we-are-all-satellites]], [[album:namesake]], [[album:someday]], and [[album:labyrinths-heart]] (thanks, Celeste!), and also to  [[album:perfectly-generic-object]] (thanks, vriska/leo!)
-    - added YouTube links to [[album:perfectly-generic-album]] (thanks, vriska/leo!), also [[track:guardian]], [[track:nightlife-extended]], [[track:kinetic-verdancy]], [[track:rediscover-fusion-remix]], [[track:mutiny]], [[track:guardian-v2]], [[track:contention-vol4]], [[track:null-vol8]], [[track:its-good-to-see-you-again]], [[track:before-before-the-beginning]], [[track:isnt-this-is-this-the-end-again]], [[track:non-compos-mentis]], [[track:drone-pq]], [[track:its-a-cover-of-made-of-time]], [[track:its-nothing]]
+    - added YouTube links to [[album:perfectly-generic-album]] (thanks, vriska/leo!), also [[track:guardian]], [[track:nightlife-extended]], [[track:kinetic-verdancy]], [[track:rediscover-fusion-remix]], [[track:mutiny]], [[track:guardian-v2]], [[track:contention-vol4]], [[track:null-vol8]], [[track:its-good-to-see-you-again]], [[track:before-before-the-beginning]], [[track:isnt-this-is-this-the-end-again]], [[track:non-compos-mentis]], [[track:drone-pesterquest]], [[track:its-a-cover-of-made-of-time]], [[track:its-nothing]]
     - added Spotify listen links to [[album:mobius-trip-and-hadron-kaleido]], [[album:strife]], [[album:strife-2]], [[track:sburban-jungle]], and [[track:ascend]]
     - added listen links to [[artist:bill-bolin]]'s tracks on the official Homestuck albums
     - fixed wrong YouTube links for [[track:virgin-orb]] (thanks, Sgeo!) and  [[track:how-do-i-live-d8-night-version]] (thanks, Makin!)
@@ -1788,7 +1832,7 @@ Content: |-
         - added new tracks [[track:friendvangelion-rebuild]], [[track:its-a-cover-of-made-of-time]], and [[track:its-nothing]] to the <i>Tracks featured in Pesterquest</i> section
         - added [[track:its-a-cover-of-made-of-time]] to the reference list of [[track:yeah-it-is]]
         - moved [[track:seer-of-same-color-scalemate-combos]] from <i>Other tracks originating outside of Homestuck</i> to <i>Other Homestuck tracks</i>
-        - renamed "DRONE_PQ" to [[track:drone-pq]] and gave it track art from [[artist:tempest2k]]'s <a href="https://twitter.com/nueclear333/status/1331330835245535232">PESTERQUEST OST</a> collection
+        - renamed "DRONE_PQ" to [[track:drone-pesterquest]] and gave it track art from [[artist:tempest2k]]'s <a href="https://twitter.com/nueclear333/status/1331330835245535232">PESTERQUEST OST</a> collection
         - renamed "THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)" to [[track:buskers-theme-mk-ii]] and added commentary from James Roach's tumblr
         - removed a bunch of tracks that were moved into [[album:undertale-soundtrack]]
     - miscellaneous changes to data for [[site:flash/|Flashes &amp; Games]]
