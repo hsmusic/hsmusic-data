@@ -273,8 +273,10 @@ Content: |-
     - fixed [[track:battle-music]] referencing [[track:title-theme-namco-high]] instead of [[track:namco-high-be-true-to-yourself]]
     - fixed [[track:fallen-down-undertale]] not referencing [[track:fallen-down]]
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
+    - fixed [[track:megalovania-smash-bros]] referencing [[track:megalovania-halloween]] instead of [[track:megalovania-undertale]], and not referencing [[track:heartache]] and [[track:nyeh-heh-heh]] (thanks, Morris!)
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:spider-dance-from-undertale-but-now-its-ska-i-guess-yikes]] not referencing [[track:spider-dance]], and added a SoundCloud listening link (thanks, Rosetta Leijonde!)
+    - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, Morris!)
     - fixed [[track:no-credit-card]] not sampling [[track:the-power-of-love]] (thanks, Rosetta Leijonde!)
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a rerelease of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
     - fixed [[track:flare-with-vocals]] being duplicated in [[album:more-homestuck-fandom]] (as "Flare (horizon's lyricover)"), and tidied this track's lyrics (thanks, Jebb, vriska/leo!)
@@ -285,6 +287,10 @@ Content: |-
     - fixed [[track:not-a-creature-was-stirring]] being named "not a creature was stirring" (different capitalization)
     - fixed [[track:life-liberated]] being named its working title, "Wind Waker", and filled in some details for it (thanks, Rainy, FF!)
     - fixed [[track:cosmic-eternity-believe-in-yourself]] being named "Cosmic Eternity ~ Believe in Yourself" (tilde instead of dash; thanks, Morris!)
+    - fixed [[track:egg-reverie-egg-reverie-zone]] being named "Egg Reverie (Egg Reverie Zone)" (thanks, Morris!)
+    - fixed [[track:hydro-city-zone-act-2]] being named "Hydrocity Zone (Act 2)" (thanks, Morris!)
+    - fixed [[track:lights-camera-action-studiopolis-zone-act-1]] being named "Lights, Camera, Action! (Studiopolis Zone Act 1)" (thanks, Morris!)
+    - fixed [[track:main-theme-the-legend-of-zelda-breath-of-the-wild]] being named "Breath of the Wild Theme" (thanks, Morris!)
     - fixed [[track:westminster-quarters]] being named "Westminister Quarters" (thanks, Circlejourney, Jebb!)
     - fixed [[artist:siivagunner]] being named "SilvaGunner" (thanks, Rosetta Leijonde!)
     - fixed [[track:phat1]], [[track:phat2]], [[track:phat3]], [[track:phat4]], [[track:phat5]], [[track:phat8]], [[track:phat9]], [[track:phat10]], and [[track:phat11]] not crediting [[artist:bill-bolin]] (for mastering and syncing)
@@ -368,6 +374,7 @@ Content: |-
     - updated [[group:cristata]] group description for legibility (thanks, Cello!)
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
+    - moved [[track:a-new-day]] from "Other works originating outside of Homestuck" to "Music from video games" (thanks, Morris!)
     - removed fan-made, unofficial artworks from [[album:pesterquest-soundtrack]] and unreleased Pesterquest tracks (for now)
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
