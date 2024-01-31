@@ -480,6 +480,7 @@ Aliases:
 - aei-sb
 - anonei_art
 - anonei_24
+- Dronema
 URLs:
 - https://twitter.com/anonei_24
 - https://aei-sb.tumblr.com/
@@ -1862,11 +1863,10 @@ URLs:
 - https://cristata.bandcamp.com/
 ---
 Artist: Cozy Skeleton
-Aliases:
-- Octo
 URLs:
-- https://twitter.com/Cozy_Skeleton
 - https://www.deviantart.com/cozy-skeleton
+Dead URLs:
+- https://twitter.com/Cozy_Skeleton  # Not dead but 18+ and protected account
 ---
 Artist: Cratmang
 URLs:
@@ -3494,8 +3494,15 @@ Artist: Griffington
 Artist: Grim Harlequin
 Aliases:
 - Mingmingfurb
+- mingmingfurby
 URLs:
 - https://grimharlequin.tumblr.com/
+- https://furbyfridays.tumblr.com/
+Dead URLs:
+- https://www.deviantart.com/mingmingfurb/posts
+- https://www.deviantart.com/ribbonista-hime
+- https://mingmingfurby.tumblr.com/
+- https://mingmingfurb.tumblr.com/
 ---
 Artist: Grimlock495
 Aliases:
@@ -5861,17 +5868,6 @@ Artist: Mila Kunis
 ---
 Artist: Mildred Hill
 ---
-Artist: mingmingfurby
-Aliases:
-- Mingmingfurb
-URLs:
-- https://furbyfridays.tumblr.com/
-Dead URLs:
-- https://www.deviantart.com/mingmingfurb/posts
-- https://www.deviantart.com/ribbonista-hime
-- https://mingmingfurby.tumblr.com/
-- https://mingmingfurb.tumblr.com/
----
 Artist: Minish
 Aliases:
 - minishLAN
@@ -7585,8 +7581,6 @@ URLs:
 ---
 Artist: Russell Shaw
 ---
-Artist: Rutares
----
 Artist: Ruth White
 ---
 Artist: RWBY
@@ -7613,8 +7607,6 @@ Artist: Ryoji Ikeda
 Artist: Ryuji Sasai
 ---
 Artist: SK
----
-Artist: Skip
 ---
 Artist: Sabina Kim
 ---
@@ -10127,16 +10119,6 @@ URLs:
 ---
 Artist: dromswell
 ---
-Artist: Dronema
-Aliases:
-- aei-sb
-URLs:
-- https://dronema.carrd.co/
-- https://twitter.com/Dronema3D
-- https://twitter.com/BarelyNSFW
-- https://bsky.app/profile/dronema.bsky.social
-- https://aei-sb.tumblr.com/
----
 Artist: ehlsea
 URLs:
 - https://ehlsea.tumblr.com/
@@ -10293,8 +10275,6 @@ URLs:
 - https://greaserparty.tumblr.com/
 ---
 Artist: greenTetrahedron
----
-Artist: Guy
 ---
 Artist: Hajime Wakai
 ---
