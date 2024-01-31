@@ -7,10 +7,8 @@ URLs:
 - https://circlejourney.bandcamp.com/album/worlds-await
 Cover Artists:
 - Circlejourney
-Cover Art File Extension: jpg
-Default Track Cover Artists:
-- Circlejourney
-Track Art File Extension: jpg
+Cover Art File Extension: png
+Track Art File Extension: png
 Color: '#EC91F8'
 Groups:
 - Circlejourney
@@ -24,7 +22,6 @@ Commentary: |-
     This album features no shortage of works inspired by fiction: tributes, rearrangements, commissions and tie-ins for my projects. But more importantly, each track here is a place captured in sound, and I hope you can discover it as you listen.
 ---
 Track: Worlds Await
-Has Cover Art: false
 Duration: '04:13'
 URLs:
 - https://circlejourney.bandcamp.com/track/worlds-await
@@ -33,6 +30,8 @@ Track: Spin
 Directory: spin-worlds-await
 Always Reference By Directory: true
 Duration: '05:19'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/spin
 Commentary: |-
@@ -43,6 +42,8 @@ Track: Vesper
 Directory: vesper
 Always Reference By Directory: true
 Duration: '01:57'
+Cover Artists:
+- Circlejourney
 Referenced Tracks:
 - track:spin-worlds-await
 URLs:
@@ -52,7 +53,6 @@ Commentary: |-
     An extension of the fourth theme featured in Spin, belonging to the character Vesper, a soldier who has devoted her life to service and whose leaderly drive is rivalled only by her loyalty.
 ---
 Track: Time Corridors
-Has Cover Art: false
 Duration: '01:25'
 URLs:
 - https://circlejourney.bandcamp.com/track/time-corridors
@@ -62,6 +62,8 @@ Commentary: |-
 ---
 Track: Guiding Light
 Duration: '03:42'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/guiding-light
 Commentary: |-
@@ -69,7 +71,6 @@ Commentary: |-
     Another tie-in for <a href="https://rd.circlejourney.net/">Revolving Door</a>, this time relating to a chapter of the same title. A girl has just been saved from prison by a young man she does not know (and a rather well-dressed one, at that), and he is taking her to see the city she has not laid eyes on for years.
 ---
 Track: MIDNIGHT BLACK
-Has Cover Art: false
 Duration: '03:26'
 URLs:
 - https://circlejourney.bandcamp.com/track/midnight-black
@@ -79,6 +80,8 @@ Commentary: |-
 ---
 Track: Frost and Clockwork
 Duration: '02:18'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/frost-and-clockwork
 Commentary: |-
@@ -86,7 +89,6 @@ Commentary: |-
     My tribute to the webcomic Homestuck, which changed me in the best way. The melody came to me while I was reading, and the title is a reference to the names of two characters' planets.
 ---
 Track: Over the Hills
-Has Cover Art: false
 Duration: '01:22'
 URLs:
 - https://circlejourney.bandcamp.com/track/over-the-hills
@@ -95,7 +97,6 @@ Commentary: |-
     A circling dance, a ritual fire, a folk tune sung to drums and wine. Somewhere over the hills.
 ---
 Track: Thousand Tribes River
-Has Cover Art: false
 Duration: '01:12'
 URLs:
 - https://circlejourney.bandcamp.com/track/thousand-tribes-river
@@ -104,7 +105,6 @@ Commentary: |-
     Commissioned and titled by my friend Felicia Prasaja Natasha for a trailer project she was working on.
 ---
 Track: 'Ruins: Crumbled Staircase'
-Has Cover Art: false
 Duration: '00:37'
 URLs:
 - https://circlejourney.bandcamp.com/track/ruins-crumbled-staircase
@@ -115,7 +115,6 @@ Commentary: |-
 Track: Marketplaces
 Directory: marketplaces-worlds-await
 Always Reference By Directory: true
-Has Cover Art: false
 Duration: '01:25'
 URLs:
 - https://circlejourney.bandcamp.com/track/marketplaces
@@ -124,7 +123,6 @@ Commentary: |-
     Composed as background music for my visual novel <a href="https://compass.circlejourney.net/">Compass</a>. Travellers seeking strange wares at a faraway coastal marketplace.
 ---
 Track: Common Test 2
-Has Cover Art: false
 Duration: '01:16'
 URLs:
 - https://circlejourney.bandcamp.com/track/common-test-2
@@ -133,7 +131,6 @@ Commentary: |-
     The repeating piano motif features my 2012 CT2 grades.
 ---
 Track: "'A' Levels"
-Has Cover Art: false
 Duration: '01:43'
 URLs:
 - https://circlejourney.bandcamp.com/track/a-levels
@@ -142,7 +139,6 @@ Commentary: |-
     The repeating piano motif features my 'A' levels grades.
 ---
 Track: Of the Morning
-Has Cover Art: false
 Duration: '03:28'
 URLs:
 - https://circlejourney.bandcamp.com/track/of-the-morning
@@ -154,6 +150,8 @@ Track: Unsaid
 Directory: unsaid-worlds-await
 Always Reference By Directory: true
 Duration: '01:04'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/unsaid
 Commentary: |-

@@ -28,6 +28,7 @@ Style: |-
     }
 Content: |-
     <h2 id="01-nov-2099" class="major-release"><a href="#01-nov-2099">[[date:01 November 2099]] - Allan, if you would</a></h2>
+    <h3>incorporate this into full changelog when merging</h3>
     - fixed track listening links in [[album:deltarune-ch2-ost]] to remove Spotify site tracking and YouTube playlists (thanks, Niklink!)
     - fixed YouTube link for [[track:upw4rd-sn1ffm3nt]] from linking to a playlist (thanks, Niklink!)
     - removed duplicate listening link from [[album:cool-and-new-voulem1]] (thanks, Niklink!)
@@ -36,16 +37,21 @@ Content: |-
     - added background, banner, and additional files to [[album:autumn-every-day]] (thanks, Niklink!)
     - added background to [[album:bittersweet]], [[album:sburb-funkin-edition-ost]], and [[album:rappets-davekat-collection]] (thanks, Niklink!)
     - added missing bonus track [[track:fiction-bittersweet]] to [[album:bittersweet]] (thanks, Niklink!)
-    - fixed bonus tracks from [[group:deconrecon]] to not have 'BONUS' in the track title: [[track:dear-pesky-shufflers]], [[track:arcalicious]], [[track:euphoria-magnum-opus]], [[track:coronal-mass-ejection-beta]], [[track:fools-plea]], [[track:on-the-hunt-for-something-dangerous-beta]], and [[track:left-2-die]] (thanks, Niklink!)
-    - added full-size artwork to some [[group:deconrecon]] album covers: [[album:vast-error-vol-4]], [[album:catch-322]], [[album:empyreal-rhapsody]], [[album:vast-error-vol-5-side-1]], [[album:vast-error-vol-5-side-2]], [[album:perils-of-probability]], [[album:magnum-opus]], and [[album:fighting-further]] (thanks, Niklink!)
+    - fixed [[track:dear-pesky-shufflers]] & [[track:arcalicious]] having 'BONUS' as part of their track titles (thanks, Niklink!)
+    - added full-size artwork to some [[group:deconrecon]] album covers: [[album:vast-error-vol-4]], [[album:catch-322]], [[album:empyreal-rhapsody]] (thanks, Niklink!)
     - added full-size artwork to the cover of [[album:skies-forever-blue]], [[album:sburb-funkin-edition-ost]], [[album:rappets-davekat-collection]], and [[album:the-rebornening]] (thanks, Niklink!)
-    - adjusted album page colors for [[album:empyreal-rhapsody]], [[album:vast-error-vol-5-side-1]], [[album:vast-error-vol-5-side-2]], and [[album:magnum-opus]] to improve contrast (thanks, Niklink!)
     - fixed [[track:davekat-rappets]] and [[track:davekat-alt]] not listing [[artist:kawaiimochiora]] as a contributor (thanks, Niklink!)
-    - improved background image for [[album:sunday-night-strifin-act-1-plus-2-ost]] to be higher quality and smaller filesize (thanks, Niklink!)
+    - improved background image for [[album:sunday-night-strifin-act-1-plus-2-ost]] to be higher quality (thanks, Niklink!)
     - improved banner image for [[album:sburb-funkin-edition-ost]] and [[album:svert-ost-volume-one]] to avoid stretching (thanks, Niklink!)
     - added additional file of logo-less cover art to [[album:sburb-funkin-edition-ost]] (thanks, Jebb!)
-    - added full-size artwork across [[group:svert]] albums (thanks, Niklink!)
-    - fixed listening link for [[album:svert-ost-volume-one]] linking to a different album (thanks, Niklink!)
+    <h3>delete these when merging</h3>
+    - added full-size artwork to [[group:deconrecon]] album covers new to this update
+    - removed 'BONUS' from some [[group:deconrecon]] bonus track titles: [[track:euphoria-magnum-opus]], [[track:coronal-mass-ejection-beta]], [[track:fools-plea]], [[track:on-the-hunt-for-something-dangerous-beta]], and [[track:left-2-die]]
+    - adjusted album page colors for [[album:empyreal-rhapsody]], [[album:vast-error-vol-5-side-1]], [[album:vast-error-vol-5-side-2]], and [[album:magnum-opus]] to improve contrast
+    - added full-size artwork across [[group:svert]] albums
+    - fixed listening link for [[album:svert-ost-volume-one]] linking to a different album
+    - added full size artwork to [[group:circlejourney]] albums (only Bandcamp ones so far), also [[album:summer-by-the-sea]], [[album:laknat-suria]], [[album:fate-and-choice-music-for-stardust]], [[album:whats-soon-to-be-lost]]
+    - added backgrounds to [[group:circlejourney]] albums: [[album:coastal-dreaming]], [[album:between-sky-and-sea]], [[album:some-other-horizon]], [[album:time-and-tide]], [[album:the-changing-light]], [[album:the-sky-is-ours]], [[album:a-memory-finds-its-name]], [[album:flyways]], [[album:the-sky-beyond-our-bay]], [[album:fate-and-choice-music-for-stardust]], [[album:dreamers-diarchy]]
     <h3>albums</h3>
     - added [[album:oceanfables-ethological]] by [[artist:witchs-cadence]]! (thanks, Niklink!)
     - added [[album:i-miss-you-earthbound-2012]]! (thanks, Jebb!)

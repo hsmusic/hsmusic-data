@@ -7,14 +7,15 @@ URLs:
 - https://circlejourney.bandcamp.com/album/some-other-horizon
 Cover Artists:
 - Circlejourney
-Cover Art File Extension: jpg
-Wallpaper File Extension: png
 Wallpaper Artists:
 - Circlejourney
-- Jebb (edits for wiki)
-Default Track Cover Artists:
-- Circlejourney
-Track Art File Extension: jpg
+- Niklink (edits for wiki)
+Wallpaper Style: |-
+    opacity: 0.7;
+    background-position-y: top;
+Wallpaper File Extension: png
+Cover Art File Extension: png
+Track Art File Extension: png
 Color: '#C64947'
 Groups:
 - Circlejourney
@@ -23,38 +24,35 @@ Groups:
 Section: Main album
 ---
 Track: Titles, Glories and Other Inconsequential Things
-Has Cover Art: false
 Duration: '04:54'
 URLs:
 - https://circlejourney.bandcamp.com/track/titles-glories-and-other-inconsequential-things
 ---
 Track: Hyalomancy
-Has Cover Art: false
 Duration: '04:14'
 URLs:
 - https://circlejourney.bandcamp.com/track/hyalomancy
 ---
 Track: Interstellar Space
-Has Cover Art: false
 Duration: '02:48'
 URLs:
 - https://circlejourney.bandcamp.com/track/interstellar-space
 ---
 Track: Idyllic
 Duration: '03:41'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/idyllic
 ---
 Track: Sundae
 Directory: sundae-some-other-horizon
 Always Reference By Directory: true
-Has Cover Art: false
 Duration: '04:51'
 URLs:
 - https://circlejourney.bandcamp.com/track/sundae
 ---
 Track: Break the World
-Has Cover Art: false
 Duration: '02:10'
 URLs:
 - https://circlejourney.bandcamp.com/track/break-the-world
@@ -63,6 +61,8 @@ Track: Crescent
 Directory: crescent-some-other-horizon
 Always Reference By Directory: true
 Duration: '03:11'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/crescent
 ---
@@ -85,7 +85,6 @@ Commentary: |-
     This was also featured on the album Bee-forus: Seatbelt Safebee by unofficialmspafans.
 ---
 Track: Saturday Nights at the HQ
-Has Cover Art: false
 Referenced Tracks:
 - Lovefool
 Duration: '01:55'
@@ -100,6 +99,8 @@ Artists:
 - Circlejourney
 - magnoliajades
 Duration: '03:33'
+Cover Artists:
+- Circlejourney
 Referenced Tracks:
 - Memorialisation (Demo)
 URLs:
@@ -168,11 +169,9 @@ Commentary: |-
 Section: Bonus tracks
 ---
 Track: Titles, Glories and Other Inconsequential Things (Breakdown) (Bonus)
-Has Cover Art: false
 Duration: '2:15'
 Referenced Tracks:
 - Titles, Glories and Other Inconsequential Things
 ---
 Track: Memorialisation (Demo)
-Has Cover Art: false
 Duration: '3:33'

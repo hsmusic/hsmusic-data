@@ -7,11 +7,13 @@ URLs:
 - https://circlejourney.bandcamp.com/album/the-sky-is-ours
 Cover Artists:
 - Circlejourney
-Cover Art File Extension: jpg
-Wallpaper File Extension: png
 Wallpaper Artists:
 - Circlejourney
-- Jebb (edits for wiki)
+Cover Art File Extension: png
+Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.6;
+    background-position-y: top;
 Color: '#D8BBCF'
 Groups:
 - Circlejourney

@@ -7,10 +7,8 @@ URLs:
 - https://circlejourney.bandcamp.com/album/compass
 Cover Artists:
 - Circlejourney
-Cover Art File Extension: jpg
-Default Track Cover Artists:
-- Circlejourney
-Track Art File Extension: jpg
+Cover Art File Extension: png
+Track Art File Extension: png
 Color: '#E7BD75'
 Groups:
 - Circlejourney
@@ -23,17 +21,17 @@ Track: Dreamt
 Directory: dreamt-compass
 Always Reference By Directory: true
 Duration: '04:13'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/dreamt
 ---
 Track: Compass
-Has Cover Art: false
 Duration: '04:21'
 URLs:
 - https://circlejourney.bandcamp.com/track/compass
 ---
 Track: Lost Road to Heaven
-Has Cover Art: false
 Duration: '02:54'
 URLs:
 - https://circlejourney.bandcamp.com/track/lost-road-to-heaven
@@ -84,19 +82,19 @@ Commentary: |-
     Just an unremembered feather drifting in the sea
 ---
 Track: The Long Road Home
-Has Cover Art: false
 Duration: '03:21'
 URLs:
 - https://circlejourney.bandcamp.com/track/the-long-road-home
 ---
 Track: Firebird's Fury
-Has Cover Art: false
 Duration: '02:48'
 URLs:
 - https://circlejourney.bandcamp.com/track/firebirds-fury
 ---
 Track: Sparrows by the Door
 Duration: '02:44'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/sparrows-by-the-door
 Commentary: |-
@@ -106,7 +104,6 @@ Commentary: |-
 Track: Sky
 Directory: sky-compass
 Always Reference By Directory: true
-Has Cover Art: false
 Duration: '02:02'
 URLs:
 - https://circlejourney.bandcamp.com/track/sky
@@ -115,7 +112,6 @@ Commentary: |-
     Something short.
 ---
 Track: Fly Away
-Has Cover Art: false
 Referenced Tracks:
 - track:fly-away-2010
 Duration: '03:37'
@@ -123,19 +119,16 @@ URLs:
 - https://circlejourney.bandcamp.com/track/fly-away-2
 ---
 Track: Seasons of the Sky
-Has Cover Art: false
 Duration: '03:33'
 URLs:
 - https://circlejourney.bandcamp.com/track/seasons-of-the-sky
 ---
 Track: New Year Fireworks
-Has Cover Art: false
 Duration: '03:45'
 URLs:
 - https://circlejourney.bandcamp.com/track/new-year-fireworks
 ---
 Track: From a Windchime to Its Long-Lost Owner
-Has Cover Art: false
 Duration: '02:22'
 URLs:
 - https://circlejourney.bandcamp.com/track/from-a-windchime-to-its-long-lost-owner
@@ -143,7 +136,6 @@ URLs:
 Track: LT
 Directory: lt-compass
 Always Reference By Directory: true
-Has Cover Art: false
 Duration: '00:39'
 URLs:
 - https://circlejourney.bandcamp.com/track/lt
@@ -153,6 +145,8 @@ Commentary: |-
 ---
 Track: Chasing Wind
 Duration: '01:36'
+Cover Artists:
+- Circlejourney
 Referenced Tracks:
 - Sparrows By the Door
 URLs:
@@ -162,13 +156,14 @@ Commentary: |-
     Composed for my friend Darren's Touhou mod, a remix of sorts of Sparrows by the Door.
 ---
 Track: Hymn of Those Destined to Die
-Has Cover Art: false
 Duration: '05:29'
 URLs:
 - https://circlejourney.bandcamp.com/track/hymn-of-those-destined-to-die
 ---
 Track: High Spirit
 Duration: '04:54'
+Cover Artists:
+- Circlejourney
 Referenced Tracks:
 - Westminster Quarters
 URLs:
@@ -176,11 +171,15 @@ URLs:
 ---
 Track: You Are You
 Duration: '03:46'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/you-are-you
 ---
 Track: Enthronement (Instrumental)
 Duration: '04:48'
+Cover Artists:
+- Circlejourney
 URLs:
 - https://circlejourney.bandcamp.com/track/enthronement-instrumental
 Commentary: |-
@@ -188,7 +187,6 @@ Commentary: |-
     The filler instrument track for Enthronement. I haven't written the lyrics but I plan to.
 ---
 Track: 'Sparrows by the Door (Karaoke)'
-Has Cover Art: false
 Duration: '02:44'
 Referenced Tracks:
 - Sparrows By the Door
