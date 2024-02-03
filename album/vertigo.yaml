@@ -7,11 +7,16 @@ URLs:
 - https://solatrus.bandcamp.com/track/vertigo
 Cover Artists:
 - Dawn Davis
-Cover Art File Extension: jpg
-Wallpaper File Extension: png
 Wallpaper Artists:
-- Circlejourney
+- Dawn Davis
 - Jebb (edits for wiki)
+Cover Art File Extension: png
+Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.55;
+    background-position-y: bottom;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Color: '#15FFAA'
 Groups:
 - Solatrus
