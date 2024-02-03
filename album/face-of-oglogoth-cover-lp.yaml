@@ -5,38 +5,54 @@ URLs:
 - https://jademade.bandcamp.com/album/face-of-oglogoth-cover-lp
 Artists:
 - Xszelor
+- artist:abbysalite
 Cover Artists:
 - Xszelor
 Art Tags:
 - Horrorterrors
-Track Art File Extension: jpg
+Cover Art File Extension: png
 Color: '#4ea252'
 Groups:
 - Xszelor
 - Fandom
 ---
-Track: Homestuck - Black
+Track: Black
+Directory: black-faces-of-oglogoth-cover-lp
+Always Reference By Directory: true
+Additional Names:
+- Homestuck - Black (unedited name)
 Duration: '3:11'
 Referenced Tracks:
 - track:black
 URLs:
 - https://jademade.bandcamp.com/track/homestuck-black
 ---
-Track: 'Homestuck - BL1ND JUST1C3: 1NV3ST1G4T1ON'
+Track: 'BL1ND JUST1C3: 1NV3ST1G4T1ON'
+Directory: bl1nd-just1c3-1nv3st1g4t1on-faces-of-oglogoth-cover-lp
+Always Reference By Directory: true
+Additional Names:
+- 'Homestuck - BL1ND JUST1C3: 1NV3ST1G4T1ON (unedited name)'
 Duration: '2:55'
 Referenced Tracks:
 - track:bl1nd-just1c3-1nv3st1g4t1on
 URLs:
 - https://jademade.bandcamp.com/track/homestuck-bl1nd-just1c3-1nv3st1g4t1on
 ---
-Track: Homestuck - Dance of Thorns
+Track: Dance of Thorns
+Directory: dance-of-thorns-faces-of-oglogoth-cover-lp
+Always Reference By Directory: true
+Additional Names:
+- Homestuck - Dance of Thorns (unedited name)
 Duration: '6:41'
 Referenced Tracks:
 - Dance of Thorns
 URLs:
 - https://jademade.bandcamp.com/track/homestuck-dance-of-thorns
 ---
-Track: Homestuck - MeGaLoVania (Nektannn Ver.)
+Track: MeGaLoVania (Nektannn Ver.)
+Additional Names:
+- Name: Homestuck - MeGaLoVania (Nektannn Ver.)
+  Annotation: unedited name
 Artists:
 - Xszelor
 - Nektann
@@ -46,7 +62,10 @@ Referenced Tracks:
 URLs:
 - https://jademade.bandcamp.com/track/homestuck-megalovania-nektannn-ver
 ---
-Track: Homestuck - MeGaLoVania (Collector ver.)
+Track: MeGaLoVania (Collector ver.)
+Additional Names:
+- Name: Homestuck - MeGaLoVania (Collector ver.)
+  Annotation: unedited name
 Artists:
 - Xszelor
 - Collector
@@ -56,14 +75,22 @@ Referenced Tracks:
 URLs:
 - https://jademade.bandcamp.com/track/homestuck-megalovania-collector-ver
 ---
-Track: Homestuck - Karkat`s Theme
+Track: Karkat`s Theme
+Directory: karkats-theme-faces-of-oglogoth-cover-lp
+Always Reference By Directory: true
+Additional Names:
+- Homestuck - Karkat`s Theme (unedited name)
 Duration: '2:41'
 Referenced Tracks:
 - Karkat's Theme
 URLs:
 - https://jademade.bandcamp.com/track/homestuck-karkats-theme
 ---
-Track: Homestuck - Purple Tyrant
+Track: Purple Tyrant
+Directory: purple-tyrant-faces-of-oglogoth-cover-lp
+Always Reference By Directory: true
+Additional Names:
+- Homestuck - Purple Tyrant (unedited name)
 Duration: '8:21'
 Referenced Tracks:
 - Purple Tyrant
