@@ -5729,6 +5729,7 @@ URLs:
 Track: Wii Shop Channel
 # No official release
 Artists:
+- Wii
 - Kazumi Totaka
 URLs:
 - https://www.youtube.com/watch?v=yyjUmv1gJEg
@@ -9327,6 +9328,7 @@ Lyrics: |-
 ---
 Track: Superman Theme
 Artists:
+- Superman
 - John Williams
 Duration: '4:24'
 URLs:
@@ -21861,6 +21863,8 @@ URLs:
 Referenced Tracks:
 - track:slider-super-mario-64
 - Meet the Flintstones
+Sampled Tracks:
+- track:slider-super-mario-64
 ---
 Track: Griffin Space Jam
 Artists:
