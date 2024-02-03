@@ -280,7 +280,7 @@ Commentary: |-
 Track: Viridian Suede
 Directory: viridian-suede-the-green-box-set-1
 Originally Released As: track:viridian-suede
-# Not marking a "Date First Released" for this track because it's part of the (somewhat) more robust re-release system. -Lan
+Date First Released: May 15, 2018
 Duration: '02:40'
 Cover Artists:
 - Chestnut
@@ -297,9 +297,20 @@ Commentary: |-
 
     <i>iodbc - The Black Box:</i> ([Bandcamp credits blurb](https://iodbc.bandcamp.com/track/viridian-suede))
 
-    This track is part of Fatebreak Volume 1.
+    This track is part of [[album:fatebreak-volume-1|Fatebreak Volume 1]].
 
-    Download the full album here: [hexane.bandcamp.com/album/hexane-volume-6](https://hexane.bandcamp.com/album/hexane-volume-6)
+    Download the full album here: [fatebreak.bandcamp.com/track/viridian-suede](https://fatebreak.bandcamp.com/track/viridian-suede)
+Review Points:
+- Date Recorded: February 3, 2024
+  Field: Date First Released
+  Notes: |-
+    From Lan during the initial album review: "Not marking a "Date First Released" for this track because it's part of the (somewhat) more robust re-release system." We put it there anyway in the end, for consistency with the rest of the tracks in the album, but still!
+
+    It SEEMS like this compilation, the green box set 1, was released all at once and not updated over time (its `datePublished` is November 1, 2018). Which would mean, in current wiki terms, this really is all just one release that came out on that day. But then should we be doing *anything* with the individual track dates on Bandcamp? They're purely annotations to this Nov. 1 release, entered by the artist, so should they go in commentary? But they aren't written commentary, and they do at least *feel* "data-y" - is there some other way to incorporate them?
+
+    To compound the funkiness for this track in particular, its custom date is May 15, 2018... one day BEFORE the album it's from, Fatebreak Volume 1, actually released. Obviously this track is the re-release, having actually come out about six months later, but as far as the wiki's concerned its own date is one day earlier - preceding the original! The wiki has no problem displaying this, but that could definitely be confusing. "Date First Released" sort of goes at odds with "Originally Released As" in the first place, which makes sense because it's an earlier feature largely replaced by the latter, but if we're going to get rid of it outright (and replace it with re-releases or something even better), we still need to figure how to archive and present the artist's own custom track dates.
+  Reference Discussions:
+  - "(February 3, 2024, #hsmusic-chat) https://discord.com/channels/749042497610842152/779895315750715422/1203159826432262255"
 ---
 Track: Cruoric Competitors
 Duration: '02:47'
