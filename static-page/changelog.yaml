@@ -28,43 +28,6 @@ Style: |-
     }
 Content: |-
     <h2 id="01-nov-2099" class="major-release"><a href="#01-nov-2099">[[date:01 November 2099]] - Allan, if you would</a></h2>
-    <h3>incorporate this into full changelog when merging</h3>
-    - fixed track listening links in [[album:deltarune-ch2-ost]] to remove Spotify site tracking and YouTube playlists (thanks, Niklink!)
-    - fixed YouTube link for [[track:upw4rd-sn1ffm3nt]] from linking to a playlist (thanks, Niklink!)
-    - removed duplicate listening link from [[album:cool-and-new-voulem1]] (thanks, Niklink!)
-    - added full-size artwork across [[group:jamie-paige]]'s albums (thanks, Niklink!)
-    - improved commentary, listening links, and contributor credits across [[group:jamie-paige]]'s albums (thanks, Niklink!)
-    - added background, banner, and additional files to [[album:autumn-every-day]] (thanks, Niklink!)
-    - added background to [[album:lofam]], [[album:lofam2]], [[album:bittersweet]], [[album:sburb-funkin-edition-ost]], and [[album:rappets-davekat-collection]] (thanks, Niklink!)
-    - added missing bonus track [[track:fiction-bittersweet]] to [[album:bittersweet]] (thanks, Niklink!)
-    - fixed [[track:dear-pesky-shufflers]] having 'BONUS' as part of their track titles (thanks, Niklink!)
-    - added full-size artwork to some [[group:deconrecon]] album covers: [[album:vast-error-vol-4]], [[album:catch-322]], [[album:empyreal-rhapsody]] (thanks, Niklink!)
-    - added full-size artwork to the cover of [[album:skies-forever-blue]], [[album:sburb-funkin-edition-ost]], [[album:rappets-davekat-collection]], and [[album:the-rebornening]] (thanks, Niklink!)
-    - added additional files to [[album:s-press-play]] (thanks, Niklink!)
-    - added artist commentary to [[track:on-an-island-far-away]] (thanks, Niklink!)
-    - fixed [[track:davekat-rappets]] and [[track:davekat-alt]] not listing [[artist:kawaiimochiora]] as a contributor (thanks, Niklink!)
-    - improved background image for [[album:sunday-night-strifin-act-1-plus-2-ost]] to be higher quality (thanks, Niklink!)
-    - improved banner image for [[album:sburb-funkin-edition-ost]] and [[album:svert-ost-volume-one]] to avoid stretching (thanks, Niklink!)
-    - added additional file of logo-less cover art to [[album:sburb-funkin-edition-ost]] (thanks, Jebb!)
-    <h3>delete these when merging</h3>
-    - added full-size artwork to [[group:deconrecon]] album covers new to this update
-    - removed 'BONUS' from some [[group:deconrecon]] bonus track titles: [[track:arcalicious]], [[track:euphoria-magnum-opus]], [[track:coronal-mass-ejection-beta]], [[track:fools-plea]], [[track:on-the-hunt-for-something-dangerous-beta]], and [[track:left-2-die]]
-    - removed 'Homestuck' from [[album:face-of-oglogoth-cover-lp]] track titles
-    - adjusted album page colors for [[album:empyreal-rhapsody]], [[album:vast-error-vol-5-side-1]], [[album:vast-error-vol-5-side-2]], [[album:magnum-opus]], [[album:empress]], [[album:army-of-the-wicked-god]], [[album:war-marks]], [[album:legion]], and [[album:genesis-genocide]] to improve contrast
-    - added full-size artwork across [[group:svert]] albums
-    - added full-size artwork across [[artist:devieus]] albums
-    - added full-size artwork across [[group:solatrus]] albums (the newly added ones)
-    - added full-size artwork across [[artist:phemiec]] albums
-    - added full-size artwork across [[group:xszelor]] albums
-    - added full size artwork to [[group:circlejourney]] albums: the Bandcamp ones plus [[album:summer-by-the-sea]], [[album:laknat-suria]], [[album:fate-and-choice-music-for-stardust]], [[album:whats-soon-to-be-lost]]
-    - added full-size artwork to [[album:senior-recital]], [[album:haymakers-rehearsal-preview-album]], [[album:cookiefonsters-2016-famitracker-covers]], [[album:the-baby-is-june-instrumental]], [[album:coffee-with-zebruh-codakk]], [[album:confinis]], [[album:brostuck]], [[album:us]], [[album:paradox-lost-opening-gambit-ost]], [[album:single-christmastime-is-here-lo-fi]], [[album:slam-jam-bakery-soundtrack]], [[album:writhe-the-thing-from-the-omega-sector-ost]], [[album:homestuck-anniversary-excl-act-6]], [[album:homestuck-anniversary-act-6]], [[album:bl1nd-just1c3-1nv3st1g4t1on-soapstone]], [[album:im-a-member-of-the-midnight-crew-soapstone]], [[album:assorted-mythological-textbooks-and-strange-beasts]], and [[album:comissions-i]]
-    - added backgrounds to [[group:circlejourney]] albums: [[album:coastal-dreaming]], [[album:between-sky-and-sea]], [[album:some-other-horizon]], [[album:time-and-tide]], [[album:the-changing-light]], [[album:the-sky-is-ours]], [[album:a-memory-finds-its-name]], [[album:flyways]], [[album:the-sky-beyond-our-bay]], [[album:fate-and-choice-music-for-stardust]], [[album:dreamers-diarchy]]
-    - added background to [[album:vertigo]]
-    - improved banner for [[album:vivid-spectrum]] and [[album:brostuck]] and made original banners additional files
-    - improved background for [[album:haymakers-rehearsal-preview-album]], [[album:slam-jam-bakery-soundtrack]], [[album:writhe-the-thing-from-the-omega-sector-ost]]
-    - fixed listening links for [[album:svert-ost-volume-one]] and [[album:songs-for-doomed-timelines]] linking to different albums
-    - fixed [[track:im-a-member-of-the-midnight-crew-soapstone]] missing track artwork
-    - fixed [[album:face-of-oglogoth-cover-lp]] not crediting [[artist:abbysalite]]
     <h3>albums</h3>
     - added [[album:oceanfables-ethological]] by [[artist:witchs-cadence]]! (thanks, Niklink!)
     - added [[album:i-miss-you-earthbound-2012]]! (thanks, Jebb!)
@@ -203,9 +166,19 @@ Content: |-
         - added animations by [[artist:bugflower413]]: [[flash:damara-ascend]] through [[flash:dethrone-bugflower413]]
         - added animations by [[artist:ichellor]] & co: [[flash:wake-3d-reanimated-old]] through [[flash:echidna-of-fates-and-choices]]
         - added fan-game [[flash:paradox-lost-volume-one]]
+    - added missing bonus track [[track:fiction-bittersweet]] to [[album:bittersweet]] (thanks, Niklink!)
     - added full-size art by [[artist:raizor]] to [[track:awakening]], [[track:wsw-beatdown]] and [[track:sburban-reversal]]
     - added alternate art by [[artist:clorinspats]] to [[track:lancer]] (thanks, clorinspats!!)
-    - added album wallpaper to [[album:homestuck-swagazaki]] (thanks, Jebb!)
+    - added full-size art across [[group:jamie-paige]]'s albums (thanks, Niklink!)
+    - added wallpapers to [[album:lofam]], [[album:lofam2]], [[album:bittersweet]], [[album:sburb-funkin-edition-ost]], and [[album:rappets-davekat-collection]] (thanks, Niklink!)
+    - added wallpaper, banner, and additional files to [[album:autumn-every-day]] (thanks, Niklink!)
+    - added wallpaper to [[album:homestuck-swagazaki]] (thanks, Jebb!)
+    - added higher quality wallpaper to [[album:sunday-night-strifin-act-1-plus-2-ost]] (thanks, Niklink!)
+    - added stretch-free banners to [[album:sburb-funkin-edition-ost]] and [[album:svert-ost-volume-one]] (thanks, Niklink!)
+    - added full-size art to some [[group:deconrecon]] album covers: [[album:vast-error-vol-4]], [[album:catch-322]], [[album:empyreal-rhapsody]] (thanks, Niklink!)
+    - added full-size art to the covers of [[album:skies-forever-blue]], [[album:sburb-funkin-edition-ost]], [[album:rappets-davekat-collection]], and [[album:the-rebornening]] (thanks, Niklink!)
+    - added additional files to [[album:s-press-play]] (thanks, Niklink!)
+    - added additional file of logo-less cover art to [[album:sburb-funkin-edition-ost]] (thanks, Jebb!)
     - added Discord liveblog commentary (featuring various community members) to [[artist:jebb|Jebb's]] tracks on [[album:lofam5a2]] (thanks, Jebb!)
     - added track art anthology commentary across [[album-commentary:homestuck-vol-5]]:
         - added commentary from [[artist:cityinthesea]] to [[track:savior-of-the-waking-world]] and [[track:an-unbreakable-union]]
@@ -282,6 +255,7 @@ Content: |-
         - added various links for [[artist:burnedkirby]], including mini-commentary relating to [[track:rediscover-fusion]]
     - added commentary from [[artist:mark-j-hadley]] (YouTube) to [[track:ocean-stars]] (thanks, Pyryte!)
     - added commentary from [[artist:wheals]] (SoundCloud) to [[track:step-back-doors-closing-step-back-to-allow-the-doors-to-close]] (thanks, Rosetta Leijonde!)
+    - added commentary from [[artist:circlejourney]] (Jade commentary.txt) to [[track:on-an-island-far-away]] (thanks, Niklink!)
     - added commentary by [[artist:clark-powell]] (and co.) from Tumblr to [[track:doctor]]
     - added reference breakdown commentary to [[track:caliborns-lament]] (thanks, Grace, Jebb!)
     - added alternate animated banner to [[album:cyber-city-sound-pak]] under additional files (thanks, Niklink!)
@@ -307,6 +281,7 @@ Content: |-
     - fixed broken lyrics formatting in [[track:trollcops-radio-play]]
     - fixed outdated names or typos in commentary credits for album and track commentary in [[album:the-baby-is-you]], [[album:shortcuts]], [[album:cool-and-new-homestuck-2]], [[album:cool-and-new-homestuck-3]], [[album:v8lume]], [[album:jpeg]], [[album:cool-and-new-volume-3]]
     - fixed typos and minor tweaks in commentary for more tracks: [[track:stab-stab-stab-lofam5]], [[track:furthest-ringside]] (thanks, Jebb!)
+    - improved commentary, listening links, and contributor credits across [[group:jamie-paige]]'s albums (thanks, Niklink!)
     - fixed [[track:frost-vol6]] not referencing [[track:vertigo]] (thanks, Jebb!)
     - fixed [[track:trollcops-radio-play]] referencing [[track:trollcops]], now the other way around
     - fixed [[track:havoc]] not referencing [[track:my-hibernation]] (thanks, Lilith!)
@@ -414,6 +389,9 @@ Content: |-
     - fixed [[flash:pq-vol6]] not featuring [[track:midnight-calliope-pesterquest]]
     - fixed domains for battleofthebits links on [[track:grrrarrr]] and [[artist:baron-knoxburry]] (thanks, Pyryte!)
     - fixed Bandcamp link for [[track:the-land-of-wind-and-shade]] (thanks, Pyryte!)
+    - removed duplicate listening link from [[album:cool-and-new-voulem1]] (thanks, Niklink!)
+    - fixed YouTube link for [[track:upw4rd-sn1ffm3nt]] from linking to a playlist (thanks, Niklink!)
+    - fixed track listening links in [[album:deltarune-ch2-ost]] to remove Spotify site tracking and YouTube playlists (thanks, Niklink!)
     - fixed YouTube link for [[track:old-secret]] (thanks, SoupyLenny, vriska/leo!)
     - fixed [[track:back-2-back]] linking to YouTube upload of [[track:vela-nova]] (thanks, Pyryte!)
     - fixed duplicate YouTube link for [[artist:levc]] (thanks, FF!)
@@ -439,6 +417,7 @@ Content: |-
     - added [[artist:decon-theed]] to credits for [[track:gold-mage]] and [[track:gold-mage-playtime-is-over-mix]]
     - added [[artist:cookiefonster]], [[artist:wheals]], and [[artist:difarem]] to credits for [[track:multi-track-drifting-last-stop]] (thanks, Rosetta Leijonde!)
     - added [[artist:levc]] to credits for [[track:flying-witch]]
+    - added [[artist:kawaiimochiora]] to credits for [[track:davekat-rappets]] and [[track:davekat-alt]] (thanks, Niklink!)
     - added [[artist:riki-tsuji]] to credits for [[track:get-start]] (thanks, Lilith!)
     - added [[artist:siivagunner]] to credits for [[track:my-grand-dad-is-the-green-sun]] (thanks, Rosetta Leijonde!)
     - added [[artist:lethal-league-blaze]] to credits for [[track:aint-nothin-like-a-funky-beat]] (thanks, Jebb!)
@@ -474,6 +453,7 @@ Content: |-
     - changed directory of [[track:where-to-now]] from <code>bonus-where-to-now</code> to <code>where-to-now</code>
     - changed directory of [[track:courage-catch-322]] from <code>courage-vast-error</code> to <code>courage-catch-322</code>
     - changed directory of [[track:mimesiswing]] from <code>intermission-mimesiswing</code> to <code>mimesiswing</code>
+    - changed directory of [[track:dear-pesky-shufflers]] from <code>dear-pesky-shufflers-bonus</code> to <code>dear-pesky-shufflers</code> (thanks, Niklink!)
     - changed directory of [[track:the-show-must-go-on-friendsymphony]] from <code>the-show-must-go-on</code> to <code>the-show-must-go-on-friendsymphony</code>
     - changed directory of [[track:title-theme-namco-high]] from <code>namco-theme</code> to <code>title-theme-namco-high</code>
     - changed directory of [[track:school-times]] from <code>school-namco-high</code> to <code>school-times</code>
