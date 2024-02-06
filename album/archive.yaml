@@ -1,21 +1,28 @@
 Album: Archive
+Directory: archive
 Artists:
 - Michael Guy Bowman
-Date: September 24, 2018
-Date Added: February 12, 2021
+Date: July 19, 2016
+Date Added:
 URLs:
 - https://bowman.bandcamp.com/album/archive
 - https://www.youtube.com/playlist?list=OLAK5uy_lwrc2bi-Eb7q9mvtmLZxyV7nUEYnW5l6o
 Cover Artists:
-- Hadron
 - Michael Guy Bowman
 Color: '#89aebe'
 Groups:
 - Michael Guy Bowman
 - Beyond
 Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Commissions, novelty tracks, experiments in electronica from 2012-2016. Download features 10 bonus tracks.
+    <i>Michael Guy Bowman:</i> ([Bandcamp about blurb](https://web.archive.org/web/20160910052459/bowman.bandcamp.com/album/archive))
+
+    A compilation of non-album tracks going back a few years presented in reverse chronological order. Tracks 1-4, 12-13 are commissions from various projects, including [[track:jungle-boogie|"Jungle Boogie"]], an outtake from [[album:homestuck-vol-10|Homestuck Vol. 10]]. Tracks 5-11 are single tracks off of Soundcloud selected from 2013. Tracks 14-30 were created by request as rewards for my Kickstarter from 2012. Tracks 31 and 32 are remixes by a couple of friends of tracks off of [[album:ithaca|Ithaca]].
+
+    There's a lot of jingle length stuff on here, so individual tracks less than a minute long are pay-what-you-want. Enjoy!
+
+    <i>Michael Guy Bowman:</i> ([Bandcamp credits blurb](https://web.archive.org/web/20160910052459/bowman.bandcamp.com/album/archive))
+
+    Written and produced by [[artist:michael-guy-bowman|Michael Guy Bowman]]. [[track:aba-daba-honeymoon-archive|"Aba Daba Honeymoon"]] written by Arthur Fields and Walter Donovan. Featuring [[artist:clark-powell|Clark Powell]] (cello; [[track:awake-2012-version|track 17]]), [[artist:erik-scheele|Erik Scheele]] (piano; [[track:ismelda-the-bearded-mermaid|track 23]]), and [[artist:riki-tsuji|Riki Tsuji]] (additional synths, vocals, arrangement; [[track:get-start|track 25]]). [[track:old-buggy-now|"Old Buggy Now"]] remixed by [[artist:solatrus|Jeremy Iamurri]] ([[track:old-buggy-now-solatrus-remix|track 31]]). [[track:ithaca|"Ithaca"]] remixed by [[artist:jamie-paige|Jamie Paige]] ([[track:ithaca-hrmnzr-remix|track 32]]).
 Banner Artists:
 - Hadron
 Banner Dimensions: 975x100
@@ -29,14 +36,46 @@ Additional Files:
   - banner.png
   - bg.jpg
 ---
-Section: Main album
----
-Track: Awake (2012 Version)
-Originally Released As: Awake (2012 Version)
-Duration: '3:32'
+Track: Jungle Boogie
+Duration: '4:00'
 URLs:
-- https://bowman.bandcamp.com/track/awake-2012-version
-- https://www.youtube.com/watch?v=V2RhvFHAbB0
+- https://bowman.bandcamp.com/track/jungle-boogie
+- https://www.youtube.com/watch?v=Df9m1mux-BU
+Referenced Tracks:
+- Sburban Jungle
+---
+Track: Crimesters Theme
+Duration: 0:57
+Referenced Tracks:
+- Crimesters Credits
+---
+Track: Crimesters Credits
+Duration: '1:24'
+URLs:
+- https://bowman.bandcamp.com/track/emerys-theme
+- https://www.youtube.com/watch?v=KqCIGInFoA8
+---
+Track: Just Destroy It
+Duration: '1:30'
+URLs:
+- https://bowman.bandcamp.com/track/just-destroy-it
+- https://www.youtube.com/watch?v=5QZ-3oBnzOI
+---
+Track: Got It?
+Duration: '2:52'
+URLs:
+- https://bowman.bandcamp.com/track/got-it
+- https://www.youtube.com/watch?v=ScxdTiqjD5U
+---
+Track: Awake
+Directory: awake-archive
+Always Reference By Directory: true
+Duration: '3:28'
+URLs:
+- https://bowman.bandcamp.com/track/awake-2013-version
+- https://www.youtube.com/watch?v=FmKaslOTrXs
+Referenced Tracks:
+- Awake (2012 Version)
 Lyrics: |-
     Awake again
     Here in my bed
@@ -65,22 +104,14 @@ Lyrics: |-
     And time restarts and life resumes
     I rise to meet the coming day
     But someone's laughing far away
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Kaolin Maia Cash, 2012
 ---
-Track: Got It?
-Originally Released As: Got It?
-Duration: '2:52'
+Track: Polyominoes
+Duration: '3:56'
 URLs:
-- https://bowman.bandcamp.com/track/got-it
-- https://www.youtube.com/watch?v=ScxdTiqjD5U
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Soundcloud, 2013
+- https://bowman.bandcamp.com/track/polyominoes
+- https://www.youtube.com/watch?v=a6Nkz4nKzNo
 ---
 Track: Airwaves
-Originally Released As: Airwaves
 Duration: '3:02'
 URLs:
 - https://bowman.bandcamp.com/track/airwaves
@@ -115,12 +146,211 @@ Lyrics: |-
     Blow away everybody you pass
     Just a bunch of peculiar people
     Looking for a party to crash
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Soundcloud, 2013
+---
+Track: Gondwanaland
+Duration: '2:36'
+URLs:
+- https://bowman.bandcamp.com/track/gondwanaland
+- https://www.youtube.com/watch?v=Q79TReINYQ0
+---
+Track: Slow Bay
+Duration: '2:41'
+URLs:
+- https://bowman.bandcamp.com/track/slow-bay
+- https://www.youtube.com/watch?v=feyHwRVnPWE
+---
+Track: The New Window
+Duration: '2:26'
+URLs:
+- https://bowman.bandcamp.com/track/the-new-window
+- https://www.youtube.com/watch?v=03ZLS3bp13s
+---
+Track: Electroverture
+Duration: '2:38'
+URLs:
+- https://bowman.bandcamp.com/track/electroverture
+- https://www.youtube.com/watch?v=O9O7DOmuEqk
+---
+Track: Aba Daba Honeymoon
+Directory: aba-daba-honeymoon-archive
+Duration: '1:27'
+Referenced Tracks:
+- track:aba-daba-honeymoon
+Lyrics: |-
+    Aba daba daba daba daba daba dab
+    Said the chimpie to the monk
+    Baba daba daba daba daba daba dab
+    Said the monkey to the chimp
+
+    All night long they chatter away
+    All day long they were happy and gay
+    Swingin' and singin'
+    In their honkie tonkie way
+
+    Aba daba daba daba daba daba dab
+    Means Monk I love but you
+    Baba daba dab in monkey talk
+    Means Chimp I love you too
+
+    Then the big baboon one night in June
+    He married them and very soon
+    They went upon their aba daba honeymoon
+
+    Aba daba daba daba daba daba dab
+    Said the chimpie to the monk
+    Baba daba daba daba daba daba dab
+    Said the monkey to the chimp
+
+    All night long they chatter away
+    All day long they were happy and gay
+    Swingin' and singin'
+    In their honkie tonkie way
+
+    Aba daba daba daba daba daba dab
+    Means Monk I love but you
+    Baba daba dab in monkey talk
+    Means Chimp I love you too
+
+    Then the big baboon one night in June
+    He married them and very soon
+    They went upon their aba daba honeymoon
+---
+Track: Valentine To Sarah From Julian
+Duration: '2:12'
+Lyrics: |-
+    Nobody
+    Would ever have guessed we'd be homebuddies
+    Or that you even would be somebody
+    To someone you barely knew like me
+
+    Like me
+    Like me
+    Like me
+
+    I met you
+    Through a mutual friend
+    Oh, we were introduced
+    All I knew was you liked Doctor Who
+    I guess that was good enough for me
+
+    For me
+    For me
+    For me
+
+    I wanna play that
+    Like a snow-baked thing
+    I couldn't say that
+    'Cuz this ain't just a fling
+    I wanna know you
+    Like the back of my hand
+    I gotta show you
+    The person I really am
+
+    We'll make our own world
+    Where we can run away
+    To where it's all play
+    All day
+    Yeah yeah yeah
+
+    [Dare you to transcribe this part, Niklink!]
+
+    You called me
+    Just seconds before I tried to
+    Make my plea
+    For you to entertain this
+    Fantasy
+    So glad to know that it was
+    Not just me
+
+    Just me
+    Just me
+    Just me
+
+    Now you're here
+    We're sharing together in these golden years
+    And though our lives have many hopes and fears
+    I'll be there with you and me
+
+    You and me
+    You and me
+    You and me
+    You and me
+
+    (Mwah!)
+---
+Track: Make It Bounce
+Duration: '1:47'
+URLs:
+- https://bowman.bandcamp.com/track/make-it-bounce
+- https://www.youtube.com/watch?v=r3Z9FMR4R_E
+Lyrics: |-
+    Make it bounce
+    Make it bounce
+    Make it bounce
+---
+Track: Diamonds and Diamonds and Diamonds
+Duration: '1:56'
+URLs:
+- https://bowman.bandcamp.com/track/diamonds-and-diamonds-and-diamonds
+- https://www.youtube.com/watch?v=SDQVevEiNKM
+Lyrics: |-
+    Hidden from the naked eye
+    Beyond the view of telescopes
+    Behind the diamonds in the sky
+    From where the oldest light elopes
+    Nothing written in the waves
+    The signal's clear, the picture's black
+    Nothing standing in the way
+    The anti-matter stares straight back
+    Nothing to see but diamonds and diamonds and diamonds and diamonds and diamonds and diamonds and diamonds and diamonds
+
+    Objects brighter than the sun
+    Shift to red and fade away
+    A universe built on the run
+    Eclipsed so easily by the day
+    Nothing written in the waves
+    Event horizon, no return
+    Nothing standing in the way
+    Perhaps these things cannot be learned
+    Nothing there but diamonds and diamonds and diamonds and diamonds and diamonds and diamonds and diamonds and diamonds
+---
+Track: Awake (2012 Version)
+Contributors:
+- Clark Powell (cello)
+Duration: '3:32'
+URLs:
+- https://bowman.bandcamp.com/track/awake-2012-version
+- https://www.youtube.com/watch?v=V2RhvFHAbB0
+Lyrics: |-
+    Awake again
+    Here in my bed
+    Eyes staring up at the ceiling
+
+    A breath of air
+    Light in my window
+    Heart still aglow with the feeling
+    I was dreaming
+
+    Another time, another place
+    A strange and yet familiar face
+    Buried deep within my bed
+    I wade through memories in my head
+
+    My sock's half on
+    Hand in a book
+    Finger is still on the chapter
+
+    We both were there
+    I told a joke
+    I can't recall what came after
+    Just your laughter
+
+    Clock goes off across the room
+    And time restarts and life resumes
+    I rise to meet the coming day
+    But someone's laughing far away
 ---
 Track: Mad Science
-Originally Released As: Mad Science
 Duration: '3:14'
 URLs:
 - https://bowman.bandcamp.com/track/mad-science
@@ -200,132 +430,40 @@ Lyrics: |-
     Consequence means nothing when you learn to break the rules
 
     "Okay, back to work."
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Nich Maragos, 2012
+---
+Track: This Sunset
+Duration: '3:20'
+URLs:
+- https://bowman.bandcamp.com/track/this-sunset
+- https://www.youtube.com/watch?v=GzAs-WDXdNU
+Lyrics: |-
+    As I watch this sunset
+    The enchantment of the long night descends around me
+    Through the fading blue sky, stars arrive quietly
+    And the chirps of crickets herald the golden hour
+
+    The day is at an end
+    And there are ten million things I'll have to do before I sleep
+    In the morning, there will be ten million, yet still
+    And then again, a sunset
+
+    But in this moment
+    The sun is not just some giant ball put there to make me feel small
+    It is an old friend who I have known longer than anyone else
+    And this evening, I am by its side to tuck it into bed
+
+    In this moment
+    I can feel only the grace of the world around me
+    This calm, this light, this air, this body
+    This sunset
 ---
 Track: Millennium Bug
-Originally Released As: Millennium Bug
 Duration: '3:33'
 URLs:
 - https://bowman.bandcamp.com/track/millennium-bug
 - https://www.youtube.com/watch?v=fhzogRWBZ1E
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Sixar, 2012
----
-Track: Far Away
-Directory: far-away-archive
-Originally Released As: track:far-away-archive-original
-Duration: 0:53
-URLs:
-- https://bowman.bandcamp.com/track/far-away
-- https://www.youtube.com/watch?v=vAiKtjk1Q9g
-Lyrics: |-
-    So far away
-    Way out beyond
-
-    No capsule you could swallow
-    Could possibly compare
-    To the one that swallows you
-    And takes you through the air
-
-    Hollow rockets filled with solid fuel
-    Faster than the Earth can pull
-    Body of the aether's night
-    Takes you on your maiden flight!
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Jon Drobny, 2012
----
-Track: Gondwanaland
-Originally Released As: Gondwanaland
-Duration: '2:36'
-URLs:
-- https://bowman.bandcamp.com/track/gondwanaland
-- https://www.youtube.com/watch?v=Q79TReINYQ0
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Soundcloud, 2013
----
-Track: Diamonds and Diamonds and Diamonds
-Originally Released As: Diamonds and Diamonds and Diamonds
-Duration: '1:56'
-URLs:
-- https://bowman.bandcamp.com/track/diamonds-and-diamonds-and-diamonds
-- https://www.youtube.com/watch?v=SDQVevEiNKM
-Lyrics: |-
-    Hidden from the naked eye
-    Beyond the view of telescopes
-    Behind the diamonds in the sky
-    From where the oldest light elopes
-    Nothing written in the waves
-    The signal's clear, the picture's black
-    Nothing standing in the way
-    The anti-matter stares straight back
-    Nothing to see but diamonds and diamonds and diamonds and diamonds and diamonds and diamonds and diamonds and diamonds
-
-    Objects brighter than the sun
-    Shift to red and fade away
-    A universe built on the run
-    Eclipsed so easily by the day
-    Nothing written in the waves
-    Event horizon, no return
-    Nothing standing in the way
-    Perhaps these things cannot be learned
-    Nothing there but diamonds and diamonds and diamonds and diamonds and diamonds and diamonds and diamonds and diamonds
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Michael Orr, 2012
----
-Track: Bandages
-Directory: bandages-archive
-Originally Released As: track:bandages-archive-original
-Always Reference By Directory: true
-Duration: 0:56
-URLs:
-- https://bowman.bandcamp.com/track/bandages
-- https://www.youtube.com/watch?v=FsOz_7QFr68
-Lyrics: |-
-    Colin Burns
-    But he does not char
-    The fire laps at his appendages
-
-    Embers spurned
-    Cannot leave a scar
-    He is safe behind his Bandages
-
-    The alias
-    The other skin
-    Who knows what can lie within
-    The Bandages
-    The Bandages
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Colin "Bandages" Burns, 2012
----
-Track: Electroverture
-Originally Released As: Electroverture
-Duration: '2:38'
-URLs:
-- https://bowman.bandcamp.com/track/electroverture
-- https://www.youtube.com/watch?v=O9O7DOmuEqk
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Commission for Cari Garafalo, 2013
----
-Track: Emery's Theme
-Originally Released As: Crimesters Credits
-Duration: '1:24'
-URLs:
-- https://bowman.bandcamp.com/track/emerys-theme
-- https://www.youtube.com/watch?v=KqCIGInFoA8
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Commission for Emery Ferguson, 2015
 ---
 Track: Know That You're Mine
-Originally Released As: Know That You're Mine
 Duration: '1:58'
 URLs:
 - https://bowman.bandcamp.com/track/know-that-youre-mine
@@ -350,22 +488,117 @@ Lyrics: |-
     And we'll write out our names in the stars
     Though it's dark here on land, when we're both holding hands
     All the lights up above will be ours
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Kalen Boley, 2012
 ---
-Track: Just Destroy It
-Originally Released As: Just Destroy It
-Duration: '1:30'
+Track: Far Away
+Directory: far-away-archive
+Always Reference By Directory: true
+Duration: 0:53
 URLs:
-- https://bowman.bandcamp.com/track/just-destroy-it
-- https://www.youtube.com/watch?v=5QZ-3oBnzOI
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Commission for Lindsay Hejl, 2014
+- https://bowman.bandcamp.com/track/far-away
+- https://www.youtube.com/watch?v=vAiKtjk1Q9g
+Lyrics: |-
+    So far away
+    Way out beyond
+
+    No capsule you could swallow
+    Could possibly compare
+    To the one that swallows you
+    And takes you through the air
+
+    Hollow rockets filled with solid fuel
+    Faster than the Earth can pull
+    Body of the aether's night
+    Takes you on your maiden flight!
+---
+Track: Ismelda The Bearded Mermaid
+Contributors:
+- Erik Scheele (piano)
+Duration: 0:52
+Lyrics: |-
+    (Ladies and gentlemen, it is my distinct privilege to bring the sounds of Ismelda, the Bearded Mermaid!)
+    (Once again, faster!)
+    (Faster, still!)
+    (Yes!)
+---
+Track: Bandages
+Directory: bandages-archive
+Always Reference By Directory: true
+Duration: 0:56
+URLs:
+- https://bowman.bandcamp.com/track/bandages
+- https://www.youtube.com/watch?v=FsOz_7QFr68
+Lyrics: |-
+    Colin Burns
+    But he does not char
+    The fire laps at his appendages
+
+    Embers spurned
+    Cannot leave a scar
+    He is safe behind his Bandages
+
+    The alias
+    The other skin
+    Who knows what can lie within
+    The Bandages
+    The Bandages
+---
+Track: Get Start!
+Duration: '1:48'
+Artists:
+- Michael Guy Bowman
+- Riki Tsuji (arrangement)
+Contributors:
+- Riki Tsuji (additional synths, vocals)
+---
+Track: You Are The Birthday Girl
+Duration: 0:26
+Lyrics: |-
+    Hooray for you, kid
+    It's your birthday
+    Let's all sing along
+
+    Birthday
+    Birthday
+    Birthday
+    Birthday
+    You are the birthday girl
+
+    Birthday
+    Birthday
+    Birthday
+    Birth
+    You're the best girl in the world
+
+    You're one year older than you were last year
+    So let's all have a big three cheers
+    For this is the best day of the year
+    Happy birthday to
+---
+Track: You Are The Birthday Boy
+Duration: 0:26
+Lyrics: |-
+    Hooray for you, kid
+    It's your birthday
+    Let's all sing along
+
+    Birthday
+    Birthday
+    Birthday
+    Birthday
+    You are the birthday boy
+
+    Birthday
+    Birthday
+    Birthday
+    Birthday
+    You are the pride and joy
+
+    You're one year older than you were last year
+    So let's all have a big three cheers
+    For this is the best day of the year
+    Happy birthday to
 ---
 Track: In The Marching Band
-Originally Released As: In The Marching Band
 Duration: '1:00'
 URLs:
 - https://bowman.bandcamp.com/track/in-the-marching-band
@@ -396,26 +629,8 @@ Lyrics: |-
     Loading the equipment van
     Testing our attention span
     Oh why'd we join the marching band?
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Mason Herschberg, 2012
----
-Track: Make It Bounce
-Originally Released As: Make It Bounce
-Duration: '1:47'
-URLs:
-- https://bowman.bandcamp.com/track/make-it-bounce
-- https://www.youtube.com/watch?v=r3Z9FMR4R_E
-Lyrics: |-
-    Make it bounce
-    Make it bounce
-    Make it bounce
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for McKinley Freeman, 2012
 ---
 Track: Explosion Force (They Do It Right)
-Originally Released As: Explosion Force (They Do It Right)
 Duration: '1:57'
 URLs:
 - https://bowman.bandcamp.com/track/explosion-force-they-do-it-right
@@ -462,301 +677,16 @@ Lyrics: |-
     Who will live and who will die?
     When the war is over, then you'll see why
     Explosion Force, they do it right!
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Jeremy Geist, 2012
----
-Track: The New Window
-Originally Released As: The New Window
-Duration: '2:26'
-URLs:
-- https://bowman.bandcamp.com/track/the-new-window
-- https://www.youtube.com/watch?v=03ZLS3bp13s
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Soundcloud, 2013
----
-Track: Polyominoes
-Originally Released As: Polyominoes
-Duration: '3:56'
-URLs:
-- https://bowman.bandcamp.com/track/polyominoes
-- https://www.youtube.com/watch?v=a6Nkz4nKzNo
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Soundcloud, 2013
----
-Track: Slow Bay
-Originally Released As: Slow Bay
-Duration: '2:41'
-URLs:
-- https://bowman.bandcamp.com/track/slow-bay
-- https://www.youtube.com/watch?v=feyHwRVnPWE
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Soundcloud, 2013
----
-Track: This Sunset
-Originally Released As: This Sunset
-Duration: '3:20'
-URLs:
-- https://bowman.bandcamp.com/track/this-sunset
-- https://www.youtube.com/watch?v=GzAs-WDXdNU
-Lyrics: |-
-    As I watch this sunset
-    The enchantment of the long night descends around me
-    Through the fading blue sky, stars arrive quietly
-    And the chirps of crickets herald the golden hour
-
-    The day is at an end
-    And there are ten million things I'll have to do before I sleep
-    In the morning, there will be ten million, yet still
-    And then again, a sunset
-
-    But in this moment
-    The sun is not just some giant ball put there to make me feel small
-    It is an old friend who I have known longer than anyone else
-    And this evening, I am by its side to tuck it into bed
-
-    In this moment
-    I can feel only the grace of the world around me
-    This calm, this light, this air, this body
-    This sunset
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Kickstarter reward for Leigh-Ann Peach, 2012
----
-Track: Jungle Boogie
-Originally Released As: Jungle Boogie
-Duration: '4:00'
-URLs:
-- https://bowman.bandcamp.com/track/jungle-boogie
-- https://www.youtube.com/watch?v=Df9m1mux-BU
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Outtake from [[album:homestuck-vol-10]], 2016
----
-Track: Awake (2013 Version)
-Originally Released As: Awake
-Duration: '3:28'
-URLs:
-- https://bowman.bandcamp.com/track/awake-2013-version
-- https://www.youtube.com/watch?v=FmKaslOTrXs
-Lyrics: |-
-    Awake again
-    Here in my bed
-    Eyes staring up at the ceiling
-
-    A breath of air
-    Light in my window
-    Heart still aglow with the feeling
-    I was dreaming
-
-    Another time, another place
-    A strange and yet familiar face
-    Buried deep within my bed
-    I wade through memories in my head
-
-    My sock's half on
-    Hand in a book
-    Finger is still on the chapter
-
-    We both were there
-    I told a joke
-    I can't recall what came after
-    Just your laughter
-
-    Clock goes off across the room
-    And time restarts and life resumes
-    I rise to meet the coming day
-    But someone's laughing far away
-Commentary: |-
-    <i>Michael Guy Bowman:</i>
-    Soundcloud, 2013
----
-Section: Bonus tracks
----
-Track: Aba Daba Honeymoon
-Originally Released As: track:aba-daba-honeymoon-archive-original
-Directory: aba-daba-honeymoon-archive
-Duration: '1:27'
-Lyrics: |-
-    Aba daba daba daba daba daba dab
-    Said the chimpie to the monk
-    Baba daba daba daba daba daba dab
-    Said the monkey to the chimp
-
-    All night long they chatter away
-    All day long they were happy and gay
-    Swingin' and singin'
-    In their honkie tonkie way
-
-    Aba daba daba daba daba daba dab
-    Means Monk I love but you
-    Baba daba dab in monkey talk
-    Means Chimp I love you too
-
-    Then the big baboon one night in June
-    He married them and very soon
-    They went upon their aba daba honeymoon
-
-    Aba daba daba daba daba daba dab
-    Said the chimpie to the monk
-    Baba daba daba daba daba daba dab
-    Said the monkey to the chimp
-
-    All night long they chatter away
-    All day long they were happy and gay
-    Swingin' and singin'
-    In their honkie tonkie way
-
-    Aba daba daba daba daba daba dab
-    Means Monk I love but you
-    Baba daba dab in monkey talk
-    Means Chimp I love you too
-
-    Then the big baboon one night in June
-    He married them and very soon
-    They went upon their aba daba honeymoon
----
-Track: Valentine To Sarah From Julian
-Originally Released As: Valentine To Sarah From Julian
-Duration: '2:12'
-Lyrics: |-
-    Nobody
-    Would ever have guessed we'd be homebuddies
-    Or that you even would be somebody
-    To someone you barely knew like me
-
-    Like me
-    Like me
-    Like me
-
-    I met you
-    Through a mutual friend
-    Oh, we were introduced
-    All I knew was you liked Doctor Who
-    I guess that was good enough for me
-
-    For me
-    For me
-    For me
-
-    I wanna play that
-    Like a snow-baked thing
-    I couldn't say that
-    'Cuz this ain't just a fling
-    I wanna know you
-    Like the back of my hand
-    I gotta show you
-    The person I really am
-
-    We'll make our own world
-    Where we can run away
-    To where it's all play
-    All day
-    Yeah yeah yeah
-
-    [Dare you to transcribe this part, Niklink!]
-
-    You called me
-    Just seconds before I tried to
-    Make my plea
-    For you to entertain this
-    Fantasy
-    So glad to know that it was
-    Not just me
-
-    Just me
-    Just me
-    Just me
-
-    Now you're here
-    We're sharing together in these golden years
-    And though our lives have many hopes and fears
-    I'll be there with you and me
-
-    You and me
-    You and me
-    You and me
-    You and me
-
-    (Mwah!)
----
-Track: Ismelda The Bearded Mermaid
-Originally Released As: Ismelda The Bearded Mermaid
-Duration: 0:52
-Lyrics: |-
-    (Ladies and gentlemen, it is my distinct privilege to bring the sounds of Ismelda, the Bearded Mermaid!)
-    (Once again, faster!)
-    (Faster, still!)
-    (Yes!)
----
-Track: Emery's Theme (Fast Version)
-Originally Released As: Crimesters Theme
-Duration: 0:57
 ---
 Track: Conro Corp Anthem
-Originally Released As: Conro Corp Anthem
 Duration: 0:36
 ---
-Track: Get Start!
-Originally Released As: Get Start!
-Duration: '1:48'
----
-Track: You Are The Birthday Boy
-Originally Released As: You Are The Birthday Boy
-Duration: 0:26
-Lyrics: |-
-    Hooray for you, kid
-    It's your birthday
-    Let's all sing along
-
-    Birthday
-    Birthday
-    Birthday
-    Birthday
-    You are the birthday boy
-
-    Birthday
-    Birthday
-    Birthday
-    Birthday
-    You are the pride and joy
-
-    You're one year older than you were last year
-    So let's all have a big three cheers
-    For this is the best day of the year
-    Happy birthday to
----
-Track: You Are The Birthday Girl
-Originally Released As: You Are The Birthday Girl
-Duration: 0:26
-Lyrics: |-
-    Hooray for you, kid
-    It's your birthday
-    Let's all sing along
-
-    Birthday
-    Birthday
-    Birthday
-    Birthday
-    You are the birthday girl
-
-    Birthday
-    Birthday
-    Birthday
-    Birth
-    You're the best girl in the world
-
-    You're one year older than you were last year
-    So let's all have a big three cheers
-    For this is the best day of the year
-    Happy birthday to
----
 Track: Old Buggy Now (Solatrus remix)
-Originally Released As: Old Buggy Now (Solatrus remix)
+Artists:
+- Solatrus
 Duration: '4:04'
+Referenced Tracks:
+- Old Buggy Now
 Lyrics: |-
     Riding through the night like a jaded vagabond
     No one else in sight I could be the only one
@@ -799,8 +729,11 @@ Lyrics: |-
     In this old buggy old buggy now
 ---
 Track: Ithaca (hrmnzr remix)
-Originally Released As: Ithaca (hrmnzr remix)
+Artists:
+- Jamie Paige
 Duration: '4:14'
+Referenced Tracks:
+- Ithaca
 Lyrics: |-
     (The journey made by all)
 
