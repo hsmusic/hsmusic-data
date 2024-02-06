@@ -340,7 +340,7 @@ Artists:
 URLs:
 - https://soundcloud.com/circlejourney-comms/emmy-for-asteriddle
 Referenced Tracks:
-- Battle! (Lorekeeper Zinnia)
+- track:battle-lorekeeper-zinnia
 Commentary: |-
     <i>Circlejourney:</i> ([SoundCloud commentary](https://soundcloud.com/circlejourney-comms/emmy-for-asteriddle))
     A commission for asteriddle's character <a href="toyhou.se/721835.emmy">Emmy</a>! Quotes Battle! Zinnia by Shota Kageyama.
@@ -730,21 +730,6 @@ URLs:
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Originally shared in a 2012 Tumblr post as part of several "made up yume nikkis" snippets where it was known as "waltz of seccom masada".
----
-Track: MEGALOVANIA
-Directory: megalovania-smash-bros
-# No official release
-# Title and duration taken from ingame music player feature
-Artists:
-- Super Smash Bros.
-- Toby Fox
-Duration: '2:24'
-URLs:
-- https://www.youtube.com/watch?v=3APGNHk3Y8M
-Referenced Tracks:
-- track:megalovania-undertale
-- Heartache
-- Bonetrousle
 ---
 Track: Michael Bowman Remix
 Artists:
@@ -1809,6 +1794,7 @@ URLs:
 - https://www.youtube.com/watch?v=eQq2v6kBKSM
 ---
 Track: Battle! (Lorekeeper Zinnia)
+Directory: battle-lorekeeper-zinnia
 # Official release:
 #   Nintendo 3DS Pokémon Omega Ruby & Alpha Sapphire Super Music Complete
 #   ニンテンドー3DS ポケモン オメガルビー・アルファサファイア スーパーミュージックコンプリート
@@ -3103,6 +3089,28 @@ Duration: '2:42'
 URLs:
 - https://www.youtube.com/watch?v=O3q_hXrgp8w
 ---
+Track: Ground Theme (Super Mario Bros. 2)
+# Reference:
+#   https://vgmdb.net/album/54247
+Directory: ground-theme-smb2
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '1:31'
+URLs:
+- https://www.youtube.com/watch?v=yBISfv-6hfo
+---
+Track: Ground Theme (Super Mario Bros. 3)
+# Reference:
+#   https://vgmdb.net/album/54247
+Directory: ground-theme-smb3
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '1:05'
+URLs:
+- https://www.youtube.com/watch?v=Q_saM7I20pY
+---
 Track: Guile's Theme
 # From Street Fighter II, which was released in several different versions but... carried the same soundtrack... I think?
 # Original release:
@@ -3681,133 +3689,6 @@ Lyrics: |-
     Wubbadubbadubba 'zat true? (Yes.)
     Whoa, you go big guy!
     Pose for the fans!
----
-Track: Lifelight
-# No official release
-Artists:
-- Super Smash Bros.
-- Hideki Sakamoto
-- Masahiro Sakurai (Japanese lyrics)
-- Eric M. Smith (lyrics translation)
-- Ryan N. Kelley (lyrics translation)
-Contributors:
-- Abby Trott (vocals)
-- Super Smash Bros. Orchestra (performance)
-Duration: '3:46'
-URLs:
-- https://www.youtube.com/watch?v=EhgDibw7vB4
-Referenced Tracks:
-- Lifelight (JP)
-Lyrics: |-
-    Colors weave into a spire of flame
-    Distant sparks call to a past still unnamed
-    Bear this torch against the cold of the night
-    Search your soul and reawaken the undying light
-
-    On that day, when the sky fell away
-    Our world came to an end
-    In our eyes did a fading sun rise
-    In the dark, glimmering shadows
-
-    Silence grows, in the spaces between
-    Stretching far beyond time
-    Rising up, as a chorus of souls finds a voice
-    Flickering through the void
-
-    These little sparks cling on to life
-    Everyone caught in the struggle
-    And then the storms of change, they fan the flames
-    Scattering ashes to the wind
-
-    Every soul contains a whisper of light
-    Gleaming faintly as it dwindles from sight
-    No escape, no greater fate to be made
-    In the end, the chains of time will not break
-
-    Colors weave into a spire of flame
-    Distant sparks call to a past still unnamed
-    Bear this torch against the cold of the night
-    Search your soul and reawaken the undying light
-
-    As fate spins a thread without end
-    New life draws its first breath
-    Blossoming in a soil reclaimed from the past
-    Where destiny holds fast
-
-    Here where we stand, hand clenched in hand
-    Everyone caught in the struggle
-    This is the day we finally find our way
-    Stepping into our tomorrow
-
-    Every soul contains a whisper of light
-    Growing louder as it calls to unite
-    From the distance sings a chorus of souls
-    Rising slowly, stirring heat from the coals
-
-    Colors weave into a spire of flame
-    Distant sparks call to a past still unnamed
-    Bear this torch against the cold of the night
-    Light will guide you on your way to the ultimate fight
-
-    Every soul contains a whisper of light
-    Growing louder as it calls to unite
-    From the distance sings a chorus of souls
-    Rising slowly, stirring heat from the coals
-
-    Colors weave into a spire of flame
-    Distant sparks call to a past still unnamed
-    Bear this torch against the cold of the night
-    Light will guide you on your way to the ultimate fight
----
-Track: Lifelight (JP)
-# JP: ロウラル城
-# No official release
-Artists:
-- Super Smash Bros.
-- Hideki Sakamoto
-- Masahiro Sakurai (lyrics)
-Contributors:
-- Erina Koga (vocals)
-- Super Smash Bros. Orchestra (performance)
-Duration: '3:46'
-URLs:
-- https://www.youtube.com/watch?v=qiI7wTGV6Go
-Lyrics: |-
-    toridori no irotachi ga tsumugu honō no rasen (<i>Various colors weave into a spiral of flame</i>)
-    hateshi naku tsudzuite ku haruka kara uketsuida hikari (<i>Continue endlessly, the distant, inherited light</i>)
-
-    sora ga ochita ano hi-me ni shita no wa (<i>The sky fell before our eyes on that day</i>)
-    kuchi ru myōjō ka tsukinai yoiyami ka (<i>Is it a dying star or an endless twilight?</i>)
-
-    towa ni tsudzuku yōna shijima no naka (<i>In between the everlasting silence</i>)
-    musū no tamashī ga hono kana kodō o utsu (<i>Countless spirits, a faint heartbeat</i>)
-
-    inochi no tomoshibi subete no hitotachi (<i>Everyone's lights of life</i>)
-    fukinukete yuku kaze ni mi o yudaneta mama (<i>Entrusting their bodies to the wind blowing through</i>)
-
-    ikerumono ga kasukana hikari o hanachi kieru (<i>Living things release faint light</i>)
-    yūkyū no toki no naka kakeru sadame to kizuna (<i>Run in the heart of eternity, destiny and bonds</i>)
-
-    toridori no irotachi ga tsumugu honō no rasen (<i>Various colors weave into a spiral of flame</i>)
-    hateshi naku tsudzuite ku haruka kara uketsuida hikari (<i>Continue endlessly, the distant, inherited light</i>)
-
-    meguru inga no naka ikiga mebuki (<i>A breath sprouts in the fate that surrounds</i>)
-    arata naru inochi ga tsutsumu kono daichi de (<i>New life will cover this earth</i>)
-
-    tatakai majiwaru subete no hitotachi (<i>Everyone caught in the struggle</i>)
-    tachiagari fumidashite asu e susumiyuku (<i>Stand, step forward, and advance towards tomorrow</i>)
-
-    ikerumono ga kasukana hikari de orinasu hoshi (<i>Living things weave faint light into a star</i>)
-    yūkyū no kanata made tamashi-tachi wa utau (<i>Spirits sing to the distant eternity</i>)
-
-    toridori no irotachi ga tsumugu honō no rasen (<i>Various colors weave into a spiral of flame</i>)
-    hateshi naku tsudzuite ku doko ma demo nagare yuku hikari (<i>Continue endlessly, light which flows everywhere</i>)
-
-    ikerumono ga kasukana hikari de orinasu hoshi (<i>Living things weave faint light into a star</i>)
-    yūkyū no kanata made tamashi-tachi wa utau (<i>Spirits sing to the distant eternity</i>)
-
-    toridori no irotachi ga tsumugu honō no rasen (<i>Various colors weave into a spiral of flame</i>)
-    hateshi naku tsudzuite ku doko ma demo nagare yuku hikari (<i>Continue endlessly, light which flows everywhere</i>)
 ---
 Track: Lights, Camera, Action! - Studiopolis Zone Act 1
 # Official release:
@@ -5220,6 +5101,17 @@ Duration: '4:34'
 URLs:
 - https://www.youtube.com/watch?v=8Y-ptqPoYFI
 ---
+Track: Title (Luigi's Mansion)
+Artists: ##Kazumi Totaka and Shinobu Tanaka are both listed in the credits of Luigi's Mansion. It is unknown who made this track.
+- Super Mario
+- Kazumi Totaka
+- Shinobu Tanaka
+Duration: '0:23'
+URLs:
+- https://www.youtube.com/watch?v=nwiPbcLUsEg
+Referenced Tracks:
+- Main Theme (Luigi's Mansion)
+---
 Track: Title (Mega Man 3)
 # Official release:
 #   カプコン ミュージック ジェネレーション ファミコン音楽全集 ロックマン 1~6
@@ -5753,7 +5645,7 @@ URLs:
 Track: Wii Shop Channel
 # No official release
 Artists:
-- Wii
+- Wii System Music
 - Kazumi Totaka
 URLs:
 - https://www.youtube.com/watch?v=yyjUmv1gJEg
@@ -6502,6 +6394,19 @@ Artists:
 Duration: '2:38'
 URLs:
 - https://www.youtube.com/watch?v=Rpc8K-zQoYM
+---
+Track: Course Clear (Super Mario Bros. 3)
+# Reference:
+#   https://vgmdb.net/album/533
+Directory: course-clear-smb3
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '0:05'
+URLs:
+- https://www.youtube.com/watch?v=ZckpYymv7GU
+Referenced Tracks:
+- track:ground-theme-smb3
 ---
 Track: Crystal Kingdom - Part One
 Artists:
@@ -7355,6 +7260,15 @@ Lyrics: |-
 
     How do I live...
 ---
+Track: How to Play
+Directory: how-to-play-melee
+Artists:
+- Super Smash Bros.
+- Hirokazu Ando
+Duration: '1:41' ##as on https://vgmdb.net/album/50394
+URLs:
+- https://www.youtube.com/watch?v=J4D4zJVR354
+---
 Track: I Am A Man Of Constant Sorrow
 Artists:
 - O Brother, Where Art Thou?
@@ -7935,6 +7849,18 @@ Lyrics: |-
     It makes me wanna wag my tail
     When it comes I wanna wail
     MAIL!
+---
+Track: Main Theme (Luigi's Mansion)
+# Reference:
+#   https://vgmdb.net/album/533
+Artists:
+- Super Mario
+- Kazumi Totaka
+Contributors:
+- Charles Martinet (voice)
+Duration: '1:50'
+URLs:
+- https://www.youtube.com/watch?v=dM3Swv9s2kQ
 ---
 Track: 'Main Theme (The Legend of Zelda: Breath of the Wild)'
 # JP: メインテーマ
@@ -20473,6 +20399,17 @@ Lyrics: |-
     For Reverend Green
     For Reverend Green
 ---
+Track: Fortress Boss (Super Mario Bros. 3)
+# Reference:
+#   https://vgmdb.net/album/533
+Directory: fortress-boss-smb3
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '0:48'
+URLs:
+- https://www.youtube.com/watch?v=03gX-re5C9g
+---
 Track: Friday
 Directory: friday-rebecca-black
 Always Reference By Directory: true
@@ -24147,6 +24084,7 @@ Directory: intro-c418
 Always Reference By Directory: true
 Duration: '4:36'
 Artists:
+- Minecraft
 - C418
 URLs:
 - https://c418.bandcamp.com/track/intro
@@ -25183,6 +25121,17 @@ Lyrics: |-
     Motherfucker!
     Uggh!
 ---
+Track: King Bowser
+# Reference:
+#   https://vgmdb.net/album/533
+Directory: king-bowser-smb3
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '1:20'
+URLs:
+- https://www.youtube.com/watch?v=h-xih93YIwk
+---
 Track: kodak moment
 Artists:
 - Jane Remover
@@ -25630,6 +25579,16 @@ Lyrics: |-
     Until I do
     I'll be thinking of you
     Let you break my heart again
+---
+Track: Library Piano
+Artists: ##Chad York, Darren Radtke, and Mike Peacock are credited for Music Composition in Luigi's Mansion: Dark Moon. It is unknown who did this track.
+- Super Mario
+- Chad York
+- Darren Radtke
+- Mike Peacock
+Duration: '1:24'
+URLs:
+- https://www.youtube.com/watch?v=fGvZRNzagH0
 ---
 Track: Life in Technicolor
 Artists:
@@ -35820,6 +35779,15 @@ Lyrics: |-
     And don't you know I would move heaven and earth
     To be together forever with you?
 ---
+Track: Training (Luigi's Mansion)
+Artists: ##Kazumi Totaka and Shinobu Tanaka are both listed in the credits of Luigi's Mansion. It is unknown who made this track.
+- Super Mario
+- Kazumi Totaka
+- Shinobu Tanaka
+Duration: '2:38'
+URLs:
+- https://www.youtube.com/watch?v=ttgQqiv72AY
+---
 Track: Transmission 3
 Duration: '1:10'
 Artists:
@@ -38089,6 +38057,39 @@ Lyrics: |-
     You're gonna be the one that saves me (That saves me)
     You're gonna be the one that saves me (That saves me)
     You're gonna be the one that saves me (That saves me)
+---
+Track: World 1 (Super Mario Bros. 3)
+# Reference:
+#   https://vgmdb.net/album/533
+Directory: world-1-smb3
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '0:39'
+URLs:
+- https://www.youtube.com/watch?v=LI_mwl3QcYA
+---
+Track: World 6 (Super Mario Bros. 3)
+# Reference:
+#   https://vgmdb.net/album/533
+Directory: world-6-smb3
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '0:25'
+URLs:
+- https://www.youtube.com/watch?v=c8LnHIODRMM
+---
+Track: World 8 (Super Mario Bros. 3)
+# Reference:
+#   https://vgmdb.net/album/533
+Directory: world-8-smb3
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '0:28'
+URLs:
+- https://www.youtube.com/watch?v=XA6xrfUb06E
 ---
 Track: Without Me
 Artists:
