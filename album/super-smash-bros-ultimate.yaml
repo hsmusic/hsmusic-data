@@ -575,7 +575,7 @@ Artists:
 - Shota Kageyama
 Contributors: # https://twitter.com/shotakageyama/status/1072403314137071617
 - Kon Shirasu (violin)
-- Hiroaki Tsutsumi (e.guitar)
+- Hiroaki Tsutsumi (electric guitar)
 - Akio Noguchi (tin whistle)
 Duration: '2:59'
 Directory: termina-field-ssbu
@@ -678,8 +678,13 @@ Color: '#5ddd32'
 Track: Main Theme - Yoshi's New Island
 Artists:
 - Yoshi
+- Shota Kageyama
+Contributors:
+- Hiroaki Tsutsumi (acoustic guitar)
 Duration: '2:45'
 Directory: main-theme-yoshis-new-island-ssbu
+Referenced Tracks:
+- track:main-theme-yoshis-new-island
 ---
 Section: Kirby
 Color: '#ef8db3'
