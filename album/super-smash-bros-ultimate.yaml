@@ -499,30 +499,59 @@ Color: '#af5223'
 Track: Donkey Kong / Donkey Kong Jr. Medley
 Artists:
 - Donkey Kong
+- Yusuke Takahama
 Duration: '2:34'
+Referenced Tracks:
+- Game Start (Donkey Kong)
+- 25m Theme
+- Hammer Theme (Donkey Kong)
+- Hurry Up! (Donkey Kong)
+- 25m / 75m Clear
+- 100m Theme
+- 100m Clear
+- Game Start (Donkey Kong Jr.)
+- Level 1 Theme (Donkey Kong Jr.)
+- Level 4 Theme (Donkey Kong Jr.)
+- Level 1 Clear (Donkey Kong Jr.)
+- Level 4 Clear (All Clear!) (Donkey Kong Jr.)
 ---
 Track: The Map Page / Bonus Level
 Artists:
 - Donkey Kong
+- Hiroshi Yamaguchi
 Duration: '2:39'
+Referenced Tracks:
+- Simian Segue
+- Bonus Room Blitz
 ---
 Track: Snakey Chantey
 Artists:
 - Donkey Kong
+- Kumi Tanioka
 Duration: '2:04'
 Directory: snakey-chantey-ssbu
+Referenced Tracks:
+- track:snakey-chantey
+- track:gang-plank-galleon
 ---
 Track: Gang-Plank Galleon
 Artists:
 - Donkey Kong
+- artist:ace-tomori-kudo-chico
 Duration: '2:42'
 Directory: gang-plank-galleon-ssbu
+Referenced Tracks:
+- track:gang-plank-galleon
 ---
 Track: Crocodile Cacophony
 Artists:
 - Donkey Kong
+- Soshi Abe
 Duration: '2:23'
 Directory: crocodile-cacophony-ssbu
+Referenced Tracks:
+- track:crocodile-cacophony
+- K. Rool Returns
 ---
 Section: The Legend of Zelda
 Color: '#f8d000'
@@ -530,50 +559,87 @@ Color: '#f8d000'
 Track: Death Mountain
 Artists:
 - The Legend of Zelda
+- Akihiro Honda
 Duration: '2:43'
 Directory: death-mountain-ssbu
+Referenced Tracks:
+- Death Mountain (The Legend of Zelda)
+- Ganon Appear/Defeat Fanfare
+- Game Over (The Legend of Zelda)
+- Ending (The Legend of Zelda)
+- Overworld Theme (The Legend of Zelda)
 ---
 Track: Termina Field
 Artists:
 - The Legend of Zelda
+- Shota Kageyama
+Contributors: # https://twitter.com/shotakageyama/status/1072403314137071617
+- Kon Shirasu (violin)
+- Hiroaki Tsutsumi (e.guitar)
+- Akio Noguchi (tin whistle)
 Duration: '2:59'
 Directory: termina-field-ssbu
+Referenced Tracks:
+- track:termina-field
 ---
 Track: Molgera
 Artists:
 - The Legend of Zelda
+- Kumi Tanioka
 Duration: '2:27'
 Directory: molgera-ssbu
+Referenced Tracks:
+- track:molgera
 ---
 Track: Midna's Lament
 Artists:
 - The Legend of Zelda
+- Hideaki Kobayashi
 Duration: '3:02'
 Directory: midnas-lament-ssbu
+Referenced Tracks:
+- track:midnas-lament
+- Midna's Theme
+- 'Ending (The Legend of Zelda: Twilight Princess)'
+- Light Spirit's Elegy
+- The whole new world ##The main theme of the Phantasy Star Online games, for which Hideaki Kobayashi is the main composer. Kobayashi's Midna's Lament remix includes a quick nod to the song before the loop.
 ---
 Track: 'Main Theme - The Legend of Zelda: Tri Force Heroes'
 Artists:
 - The Legend of Zelda
+- Manami Kiyota
 Duration: '2:33'
 Directory: main-theme-tri-force-heroes-ssbu
+Referenced Tracks:
+- 'Main Theme (The Legend of Zelda: Tri Force Heroes)'
 ---
 Track: Nintendo Switch Presentation 2017 Trailer BGM
 Artists:
 - The Legend of Zelda
+- Ryo Nagamatsu
 Duration: '2:47'
 Directory: nintendo-switch-presentation-2017-trailer-bgm-ssbu
+Referenced Tracks:
+- track:nintendo-switch-presentation-2017-trailer-bgm
+- 'Main Theme (The Legend of Zelda: Breath of the Wild)'
 ---
 Track: 'Main Theme - The Legend of Zelda: Breath of the Wild'
 Artists:
 - The Legend of Zelda
+- Yoshino Aoki
 Duration: '2:16'
 Directory: main-theme-botw-ssbu
+Referenced Tracks:
+- 'Main Theme (The Legend of Zelda: Breath of the Wild)'
 ---
 Track: Kass's Theme
 Artists:
 - The Legend of Zelda
+- Yoko Shimomura
 Duration: '1:46'
 Directory: kasss-theme-ssbu
+Referenced Tracks:
+- Kass's Theme (Song of the Hero ver.)
 ---
 Section: Metroid
 Color: '#f8883a'
@@ -581,20 +647,30 @@ Color: '#f8883a'
 Track: Brinstar Depths
 Artists:
 - Metroid
+- Yasushi Asada
 Duration: '2:24'
-Directory: brinstar-depths
+Directory: brinstar-depths-ssbu
+Referenced Tracks:
+- Kraid's Chamber
 ---
 Track: Vs. Ridley
 Artists:
 - Metroid
+- Yusuke Takahama
 Duration: '2:44'
 Directory: vs-ridley-ssbu
+Referenced Tracks:
+- Big Boss Confrontation BGM (Ridley, Draigon)
+- Opening (Destroyed Science Academy Research Station)
 ---
 Track: Vs. Parasite Queen
 Artists:
 - Metroid
+- Motoi Sakuraba
 Duration: '2:31'
-Directory: vs-parasite-queen
+Directory: vs-parasite-queen-ssbu
+Referenced Tracks:
+- track:vs-parasite-queen
 ---
 Section: Yoshi
 Color: '#5ddd32'
@@ -770,12 +846,14 @@ Duration: '2:29'
 Directory: gear-up-for-ssbu
 ---
 Track: 'Fire Emblem: Three Houses Main Theme (JP)'
+Date First Released: January 28, 2021
 Artists:
 - Fire Emblem
 Duration: '2:35'
 Directory: fire-emblem-three-houses-main-theme-jp-ssbu
 ---
 Track: 'Fire Emblem: Three Houses Main Theme'
+Date First Released: January 28, 2021
 Artists:
 - Fire Emblem
 Duration: '2:35'
@@ -844,17 +922,20 @@ Section: Xenoblade Chronicles
 Color: '#ff0000'
 ---
 Track: Xenoblade Chronicles 2 Medley
+Date First Released: March 4, 2021
 Artists:
 - Xenoblade Chronicles
 Duration: '3:20'
 ---
 Track: Tiger! Tiger!
+Date First Released: March 4, 2021
 Artists:
 - Xenoblade Chronicles
 Duration: '2:35'
 Directory: tiger-tiger-ssbu
 ---
 Track: Counterattack
+Date First Released: March 4, 2021
 Artists:
 - Xenoblade Chronicles
 Duration: '3:24'
@@ -1157,12 +1238,14 @@ Section: Persona
 Color: '#e90000'
 ---
 Track: Beneath the Mask
+Date First Released: April 17, 2019
 Artists:
 - Persona
 Duration: '3:00'
 Directory: beneath-the-mask-ssbu
 ---
 Track: I'll Face Myself
+Date First Released: April 17, 2019
 Artists:
 - Persona
 Duration: '2:13'
@@ -1170,6 +1253,7 @@ Directory: ill-face-myself-ssbu
 Color: '#ffeb19'
 ---
 Track: Aria of the Soul
+Date First Released: April 17, 2019
 Artists:
 - Persona
 Duration: '2:30'
@@ -1182,42 +1266,49 @@ Section: Banjo-Kazooie
 Color: '#fee22f'
 ---
 Track: Main Theme - Banjo-Kazooie
+Date First Released: September 4, 2019
 Artists:
 - Banjo Kazooie
 Duration: '3:01'
 Directory: main-theme-banjo-kazooie-ssbu
 ---
 Track: Spiral Mountain
+Date First Released: September 4, 2019
 Artists:
 - Banjo Kazooie
 Duration: '2:41'
 Directory: spiral-mountain
 ---
 Track: Mumbo's Mountain
+Date First Released: September 4, 2019
 Artists:
 - Banjo Kazooie
 Duration: '2:38'
 Directory: mumbos-mountain-ssbu
 ---
 Track: Treasure Trove Cove
+Date First Released: September 4, 2019
 Artists:
 - Banjo Kazooie
 Duration: '2:19'
 Directory: treasure-trove-cove
 ---
 Track: Gobi's Valley
+Date First Released: September 4, 2019
 Artists:
 - Banjo Kazooie
 Duration: '2:39'
 Directory: gobis-valley
 ---
 Track: Mad Monster Mansion
+Date First Released: September 4, 2019
 Artists:
 - Banjo Kazooie
 Duration: '2:12'
 Directory: mad-monster-mansion
 ---
 Track: Vs. Klungo
+Date First Released: September 4, 2019
 Artists:
 - Banjo Kazooie
 Duration: '2:01'
@@ -1227,48 +1318,56 @@ Section: FATAL FURY
 Color: '#ff401e'
 ---
 Track: Haremar Faith Capoeira School - Song of the Fight (Believers Will Be Saved) - FATAL FURY
+Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 Duration: '3:12'
 Directory: haremar-faith-capoeira-school-ssbu
 ---
 Track: Kurikinton - FATAL FURY 2
+Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 Duration: '2:37'
 Directory: kurikinton-ff2-ssbu
 ---
 Track: Pasta - FATAL FURY 2
+Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 Duration: '2:00'
 Directory: pasta-ff2-ssbu
 ---
 Track: Tarkun and Kitapy - FATAL FURY 2
+Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 Duration: '2:48'
 Directory: tarkun-and-kitapy-ff2-ssbu
 ---
 Track: Let's Go to Seoul! - FATAL FURY 2
+Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 Duration: '2:39'
 Directory: lets-go-to-seoul-ff2-ssbu
 ---
 Track: The London March - FATAL FURY 2
+Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 Duration: '2:43'
 Directory: the-london-march-ff2-ssbu
 ---
 Track: 11th Street - FATAL FURY WILD AMBITION
+Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 Duration: '2:42'
 Directory: 11th-street-ffwa-ssbu
 ---
 Track: Stormy Saxophone 2 - KOF '96
+Date First Released: November 6, 2019
 Artists:
 - The King of Fighters
 Duration: '2:52'
@@ -1276,6 +1375,7 @@ Directory: stormy-saxophone-2-kof96-ssbu
 Color: '#e61b00'
 ---
 Track: Theme of SYD - Alpha Mission
+Date First Released: November 6, 2019
 Artists:
 - Alpha Mission
 Duration: '2:27'
@@ -1283,6 +1383,7 @@ Directory: theme-of-syd-alpha-mission-ssbu
 Color: '#429c25'
 ---
 Track: Forest World - Athena
+Date First Released: November 6, 2019
 Artists:
 - Athena
 Duration: '2:19'
@@ -1290,6 +1391,7 @@ Directory: forest-world-athena-ssbu
 Color: '#ed75a6'
 ---
 Track: Psycho Soldier Theme
+Date First Released: November 6, 2019
 Artists:
 - Athena
 Duration: '3:13'
@@ -1297,6 +1399,7 @@ Directory: psycho-soldier-theme-ssbu
 Color: '#e61b00'
 ---
 Track: Psycho Soldier Theme (Overseas Version)
+Date First Released: November 6, 2019
 Artists:
 - Athena
 Duration: '3:13'
@@ -1304,6 +1407,7 @@ Directory: psycho-soldier-theme-ssbu-overseas
 Color: '#e61b00'
 ---
 Track: ART of FIGHT - Art of Fighting
+Date First Released: November 6, 2019
 Artists:
 - Art of Fighting
 Duration: '2:42'
@@ -1311,6 +1415,7 @@ Directory: art-of-fight-aof-ssbu
 Color: '#e61b00'
 ---
 Track: Banquet of Nature - SAMURAI SHODOWN
+Date First Released: November 6, 2019
 Artists:
 - Samurai Shodown
 Duration: '3:04'
@@ -1318,6 +1423,7 @@ Directory: banquet-of-nature-ss-ssbu
 Color: '#e61b00'
 ---
 Track: Gaia - SAMURAI SHODOWN
+Date First Released: November 6, 2019
 Artists:
 - Samurai Shodown
 Duration: '2:23'
@@ -1325,6 +1431,7 @@ Directory: gaia-ss-ssbu
 Color: '#e61b00'
 ---
 Track: Main Theme from Metal Slug - METAL SLUG
+Date First Released: November 6, 2019
 Artists:
 - Metal Slug
 Duration: '2:25'
@@ -1332,6 +1439,7 @@ Directory: main-theme-from-metal-slug-ssbu
 Color: '#ffbd06'
 ---
 Track: Assault Theme - METAL SLUG 1-3
+Date First Released: November 6, 2019
 Artists:
 - Metal Slug
 Duration: '2:19'
@@ -1342,12 +1450,14 @@ Section: ARMS
 Color: '#ffff02'
 ---
 Track: ARMS Grand Prix Official Theme Song
+Date First Released: June 9, 2020
 Artists:
 - ARMS
 Duration: '2:34'
 Directory: arms-grand-prix-official-theme-song-ssbu
 ---
 Track: Ramen Bowl
+Date First Released: June 9, 2020
 Artists:
 - ARMS
 Duration: '2:33'
@@ -1357,35 +1467,41 @@ Section: Minecraft
 Color: '#60af27'
 ---
 Track: Halland / Dalarna
+Date First Released: October 13, 2020
 Artists:
 - Minecraft
 Duration: '2:52'
 ---
 Track: Earth
+Date First Released: October 13, 2020
 Artists:
 - Minecraft
 Duration: '2:47'
 Directory: earth-ssbu
 ---
 Track: Toys on a Tear
+Date First Released: October 13, 2020
 Artists:
 - Minecraft
 Duration: '2:28'
 Directory: toys-on-a-tear-ssbu
 ---
 Track: Dance of the Blocks
+Date First Released: October 13, 2020
 Artists:
 - Minecraft
 Duration: '2:12'
 Directory: dance-of-the-blocks-ssbu
 ---
 Track: Glide
+Date First Released: October 13, 2020
 Artists:
 - Minecraft
 Duration: '2:49'
 Directory: glide-ssbu
 ---
 Track: The Arch-Illager
+Date First Released: October 13, 2020
 Artists:
 - Minecraft
 Duration: '2:42'
@@ -1395,48 +1511,56 @@ Section: Tekken
 Color: '#f34a01'
 ---
 Track: Kazuya Mishima, Devil Kazuya
+Date First Released: June 29, 2021
 Artists:
 - Tekken
 Duration: '3:21'
 Directory: kazuya-mishima-devil-kazuya-ssbu
 ---
 Track: Dist Thins Out
+Date First Released: June 29, 2021
 Artists:
 - Tekken
 Duration: '2:37'
 Directory: dist-thins-out-ssbu
 ---
 Track: Karma
+Date First Released: June 29, 2021
 Artists:
 - Tekken
 Duration: '2:51'
 Directory: karma-ssbu
 ---
 Track: Landscape Under the Ghost-Kaminano
+Date First Released: June 29, 2021
 Artists:
 - Tekken
 Duration: '3:01'
 Directory: landscape-under-the-ghost-kaminano-ssbu
 ---
 Track: Dojo (Japanese-Style Mix)
+Date First Released: June 29, 2021
 Artists:
 - Tekken
 Duration: '2:14'
 Directory: dojo-japanese-style-mix-ssbu
 ---
 Track: Moonsiders 1st
+Date First Released: June 29, 2021
 Artists:
 - Tekken
 Duration: '2:18'
 Directory: moonsiders-1st-ssbu
 ---
 Track: Desperate Struggle
+Date First Released: June 29, 2021
 Artists:
 - Tekken
 Duration: '3:06'
 Directory: desperate-struggle-ssbu
 ---
 Track: Aloneness
+Date First Released: June 29, 2021
 Artists:
 - Tekken
 Duration: '2:45'
@@ -1528,6 +1652,7 @@ Directory: noisy-notebook-ssbu
 Color: '#ee3f66'
 ---
 Track: MEGALOVANIA
+Date First Released: September 4, 2019
 Directory: megalovania-ssbu
 Color: '#b962b9'
 Artists:
