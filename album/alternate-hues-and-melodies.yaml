@@ -26,7 +26,6 @@ Art Tags:
 Cover Art File Extension: png
 Color: '#d3eee4'
 Groups:
-- The Paradox Music Team
 - Fandom
 ---
 Track: DUNGENESS SHOWDOWN
@@ -58,7 +57,7 @@ Color: '#a34bff'
 URLs:
 - https://youtu.be/nJfOa2H8O-M
 Sampled Tracks:
-- mIrAcLeS
+- track:miracles
 ---
 Track: 1NF1N1T3 T34L
 Additional Names:
@@ -77,7 +76,7 @@ Color: '#008b8b'
 URLs:
 - https://youtu.be/WqcUmngM2nM
 Referenced Tracks:
-- track:infinite-blue
+- Infinite Blue
 - track:bl1nd-just1c3-1nv3st1g4t1on
 - track:terezis-theme
 ---
@@ -150,7 +149,8 @@ Referenced Tracks:
 - track:nepetas-theme
 ---
 Track: F8tal Flaw
-Additional Names: Fatal Flaw (English, normalized)
+Additional Names:
+- Fatal Flaw (English, normalized)
 Artists:
 - apatheticPianist
 - Pascal van den Bos
