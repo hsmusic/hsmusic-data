@@ -275,6 +275,7 @@ Content: |-
     - added lyrics to [[track:theotokos]] (thanks, Pyryte!)
     - added lyrics to [[track:dance-of-the-dead]] (thanks, Pyryte!)
     - added lyrics to [[track:blue-blood-group]] (thanks, Lilith!)
+    - added lyrics to [[track:sillygoofysillygoofy]] and fixed a crediting typo (was "Lalaid", now "Lalald"; thanks, FF!)
     - added lyrics to [[track:lucaslee-mp3]] (thanks, FF!)
     - added lyrics to [[track:best-boyfriend]]
     - added listening links to lots of tracks altogether missing them (thanks, FF, Rosetta Leijonde!)
@@ -329,6 +330,7 @@ Content: |-
     - fixed [[track:im-a-member-of-the-midnight-crew-special-soapstone-version]] not referencing [[track:im-a-member-of-the-midnight-crew-soapstone]] (thanks, Jebb!)
     - fixed [[track:caliborns-lament]] referencing [[track:ophiuchus-full-suite]] instead of [[track:spirals-including-illusions-of-freedom]], not sampling [[track:welcome-to-hell]], and placing [[track:carne-vale]] and [[track:the-rarest-and-most-interpretive-dance-meatcabre]] in the wrong spots (thanks, Grace, Jebb!)
     - fixed [[track:home-stuck]] not sampling [[track:home]] and [[track:stuck]] (thanks, Makin!)
+    - fixed [[track:playtime-sunday-night-strifin]] not sampling [[track:oh-shit-for-msx]] (thanks, FF!)
     - fixed [[track:broseph-bash]] not referencing [[track:chop-suey-but-everything-is-a-table]] nor sampling [[track:vinesauce-joel-insane-mario-bootleg-games-part-1]] (thanks, Jebb!)
     - fixed many [[group:oceanfalls]] references: (thanks, leii!!)
         - fixed [[track:snow-cacophony]] not referencing [[track:iceshards-oceanfalls]] and [[track:rosen-wings]]
@@ -359,9 +361,10 @@ Content: |-
     - fixed [[track:megalovania-smash-bros]] referencing [[track:megalovania-halloween]] instead of [[track:megalovania-undertale]], and not referencing [[track:heartache]] and [[track:bonetrousle]] (thanks, Morris!)
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:spider-dance-from-undertale-but-now-its-ska-i-guess-yikes]] not referencing [[track:spider-dance]], and added a SoundCloud listening link (thanks, Rosetta Leijonde!)
+    - fixed [[track:bright-spinning-planet]] not referencing [[track:haltmann-works-co-theme-song]] (thanks, FF!)
     - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, Morris!)
-    - fixed [[track:backbone]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]]
     - fixed [[track:grand-dads-secret-slide]] not sampling [[track:slider-super-mario-64]]
+    - fixed [[track:backbone]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]]
     - fixed [[track:no-credit-card]] not sampling [[track:the-power-of-love]] (thanks, Rosetta Leijonde!)
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a rerelease of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
     - fixed [[track:flare-with-vocals]] being duplicated in [[album:more-homestuck-fandom]] (as "Flare (horizon's lyricover)"), and tidied this track's lyrics (thanks, Jebb, vriska/leo!)
@@ -380,6 +383,7 @@ Content: |-
     - fixed [[artist:siivagunner]] being named "SilvaGunner" (thanks, Rosetta Leijonde!)
     - fixed [[track:phat1]], [[track:phat2]], [[track:phat3]], [[track:phat4]], [[track:phat5]], [[track:phat8]], [[track:phat9]], [[track:phat10]], and [[track:phat11]] not crediting [[artist:bill-bolin]] (for mastering and syncing)
     - fixed duration of [[track:song-of-storms]] (thanks, Geese!)
+    - added durations to [[track:baby-face-morgan]], [[track:the-pay-off]], and [[track:vinesauce-joel-insane-mario-bootleg-games-part-1]] (thanks, FF!)
     - fixed [[track:savior-of-the-dreaming-dead]] not being tagged with content warnings (thanks, Lilith, vriska/leo!)
     - fixed [[album:lofam]] not being tagged [[tag:lofam]] (thanks, Lilith!)
     - fixed [[track:break-shot]] not being tagged [[tag:green-sun]] and [[tag:ah]] (thanks, Pyryte, FF!)
@@ -467,13 +471,21 @@ Content: |-
     - added [[artist:wii]] to credits for [[track:wii-shop-channel]] (thanks, Rosetta Leijonde!)
     - added [[artist:doki-doki-literature-club]] to credits for [[track:your-reality]] (thanks, Jebb, Rosetta Leijonde!)
     - added [[artist:the-simpsons]] to credits for [[track:do-the-bartman]] and [[track:deep-deep-trouble]], and fixed the latter's placement in [[album:references-beyond-homestuck]] (thanks, Niklink, Rosetta Leijonde!)
+    - added [[artist:howls-moving-castle]] to credits for [[track:merry-go-round-of-life]] (thanks, FF!)
+    - added [[artist:chris-headrick]], [[artist:danny-jacob]], and [[artist:dan-povenmire]] to credits for [[track:my-name-is-doof]] (thanks, FF!)
+    - added [[artist:undertale-halloween-hack]] to credits for [[track:no-more-nuzzles]] (thanks, FF!)
+    - added [[artist:monogatari]], [[artist:megumi-hinata]], and [[artist:kana-hanazawa]] to credits for [[track:renai-circulation]] (thanks, FF!)
+    - added [[artist:uhf]] to credits for [[track:spatula-city]] (thanks, FF!)
     - added [[artist:superman]] to credits for [[track:superman-theme]] (thanks, Rosetta Leijonde!)
+    - added [[artist:sword-art-online]] to credits for [[track:swordland]] (thanks, FF!)
+    - added [[artist:the-nightmare-before-christmas]] to credits for [[track:this-is-halloween]] (thanks, FF!)
     - added [[artist:emma-essex]] to credits for [[track:white-nuxxle-driver]] (thanks, Lilith!)
     - added performance credits to [[track:fist-bump]] and updated its lyrics (thanks, Morris!)
     - added performance credits to [[track:lifelight]] and [[track:lifelight-jp]] (thanks, Morris!)
     - added performance credits to [[track:open-your-heart]] and updated its lyrics (thanks, Morris!)
     - added performance credits to [[track:unknown-from-me]] and updated its lyrics (thanks, Morris!)
     - removed [[artist:andrew-huo]] from credits for [[track:skaian-skirmish]], per Vol. 5 booklet and [[track:skaian-skuffle]] commentary (thanks, Lilith!)
+    - removed [[artist:mariko-nanba]] from credits for [[track:evening-star]], based on what's widely accepted (thanks, Morris!)
     - added sheet music blueprint for [[track:narrative-command]] as proper sheet music file, instead of just linking from commentary
     - moved Bandcamp wallpaper/banner additional files from [[album:archive-2018]] (2018) to [[album:archive]] (original)
     - updated [[group:cristata]] group description for legibility (thanks, Cello!)

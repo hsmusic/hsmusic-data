@@ -2065,6 +2065,8 @@ Artists:
 - Kirby
 - Hirokazu Ando
 Duration: '1:10'
+Referenced Tracks:
+- Haltmann Works Co. Theme Song
 URLs:
 - https://www.youtube.com/watch?v=6Kb1WMZBG9k
 - https://open.spotify.com/track/48wfJa6hyfiXB0RZnzUKRJ
@@ -2692,11 +2694,10 @@ URLs:
 ---
 Track: Evening Star
 # No official release of the in-game track, name is from in-game sound test feature
-# Also we don't know which of the two composers for the game made this particular track
+# No concrete proof for which of the two composers for Knuckles' Chaotix made this particular track, but it's widely accepted as only Junko Shiratsu
 Artists:
 - Sonic the Hedgehog
 - Junko Shiratsu
-- Mariko Nanba
 URLs:
 - https://www.youtube.com/watch?v=O9XLWW39F08
 ---
@@ -7969,6 +7970,16 @@ Duration: 3:31
 URLs:
 - https://www.youtube.com/watch?v=KXecgcKhVfc
 ---
+Track: Merry-Go-Round of Life
+# Also known as the Howl's Moving Castle main theme
+# Reference: https://en.wikipedia.org/wiki/Music_of_Howl%27s_Moving_Castle#Howl's_Moving_Castle_CD_Maxi-Single
+Artists:
+- Howl's Moving Castle
+- Joe Hisaishi
+Duration: '5:11'
+URLs:
+- https://www.youtube.com/watch?v=f7SS57LFPco
+---
 Track: Meet the Flintstones
 Artists:
 - The Flintstones
@@ -8082,11 +8093,16 @@ Lyrics: |-
 Track: My Name is Doof
 Artists:
 - Phineas and Ferb
+- Chris Headrick
+- Danny Jacob
+Contributors:
+- Dan Povenmire (vocals)
 URLs:
 - https://www.youtube.com/watch?v=1kRHpBFs-V4
 ---
 Track: No More Nuzzles
 Artists:
+- 'UNDERTALE: Halloween Hack'
 - Lunaxis
 Duration: '4:38'
 URLs:
@@ -8575,7 +8591,11 @@ Lyrics: |-
 ---
 Track: Renai Circulation
 Artists:
+- Monogatari
 - Satoru Kōsaki
+- Megumi Hinata (lyrics)
+Contributors:
+- Kana Hanazawa (vocals)
 Duration: '4:15'
 URLs:
 - https://www.youtube.com/watch?v=auQxNYJ07Lc
@@ -9070,6 +9090,7 @@ Lyrics: |-
 ---
 Track: Spatula City
 Artists:
+- UHF
 - Weird Al Yankovic
 Duration: '1:07'
 URLs:
@@ -9375,6 +9396,7 @@ Commentary: |-
 ---
 Track: Swordland
 Artists:
+- Sword Art Online
 - Yuki Kajiura
 Duration: '1:49'
 URLs:
@@ -9621,15 +9643,6 @@ Lyrics: |-
     You feel the power of love
     Feel the power of love
 ---
-Track: Merry-Go-Round of Life
-# Also known as the Howl's Moving Castle main theme
-# Reference: https://en.wikipedia.org/wiki/Music_of_Howl%27s_Moving_Castle#Howl's_Moving_Castle_CD_Maxi-Single
-Artists:
-- Joe Hisaishi
-Duration: '5:11'
-URLs:
-- https://www.youtube.com/watch?v=f7SS57LFPco
----
 Track: The Raising Fighting Spirit
 Artists:
 - Naruto
@@ -9792,6 +9805,7 @@ Lyrics: |-
 ---
 Track: This Is Halloween
 Artists:
+- The Nightmare Before Christmas
 - Danny Elfman
 Duration: '3:16'
 URLs:
@@ -38821,6 +38835,7 @@ URLs:
 - https://www.youtube.com/watch?v=qItugh-fFgg
 ---
 Track: Baby Face Morgan
+Duration: '1:03:00'
 Artists:
 - Arthur Dreifuss
 URLs:
@@ -39084,6 +39099,7 @@ URLs:
 - https://www.youtube.com/watch?v=s3SZ5sIMY6o
 ---
 Track: The Pay-Off
+Duration: '1:05:00'
 Artists:
 - Lowell Sherman
 URLs:
@@ -39105,6 +39121,7 @@ URLs:
 - https://www.poetryfoundation.org/poems/45002/up-hill
 ---
 Track: '[Vinesauce] Joel - Insane Mario Bootleg Games ( Part 1 )'
+Duration: '2:04:23'
 Artists:
 - Vargskelethor Joel
 URLs:
