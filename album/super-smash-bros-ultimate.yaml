@@ -432,7 +432,7 @@ Color: '#e31617'
 Track: Ground Theme - Super Mario Bros 2.
 Artists:
 - Super Mario
-- Keiichi Okaba
+- Keiichi Okabe
 Duration: '2:43'
 Directory: ground-theme-smb2-ssbu
 Referenced Tracks:
@@ -692,14 +692,21 @@ Color: '#ef8db3'
 Track: Staff Credits - Kirby's Dream Land
 Artists:
 - Kirby
+- artist:masaki-zuntata
 Duration: '2:09'
 Directory: staff-credit-kirbys-dream-land-ssbu
+Referenced Tracks:
+- A New Wind for Tomorrow
+- 'Milky Way Wishes: Staff Credits'
 ---
 Track: City Trial
 Artists:
 - Kirby
+- Noriyuki Iwadare
 Duration: '2:30'
 Directory: city-trial-ssbu
+Referenced Tracks:
+- 'City Trial: City'
 ---
 Section: Star Fox ##no new tracks
 ---
@@ -709,49 +716,80 @@ Color: '#f3d823'
 Track: Battle! (Steven)
 Artists:
 - Pokémon
+- Soshi Abe
 Duration: '2:12'
 Directory: battle-steven-ssbu
+Referenced Tracks:
+- 'Battle! (Steven) (Pokémon Omega Ruby / Pokémon Alpha Sapphire)'
 ---
 Track: Battle! (Lorekeeper Zinnia)
 Artists:
 - Pokémon
+- Shota Kageyama
+Contributors:
+- Kon Shirasu (violin)
+- Hiroaki Tsutsumi (electric guitar)
 Duration: '2:37'
 Directory: battle-lorekeeper-zinnia-ssbu
+Referenced Tracks:
+- track:battle-lorekeeper-zinnia
 ---
 Track: Battle! (Wild Pokémon) - Pokémon Sun / Pokémon Moon
 Artists:
 - Pokémon
+- Hiroyuki Kawada
 Duration: '2:14'
-Directory: battle-wild-pokemon-sun-moon-ssbu
+Directory: battle-wild-pokemon-sun-pokemon-moon-ssbu
+Referenced Tracks:
+- 'Battle! (Wild Pokémon) (Pokémon Sun / Pokémon Moon)'
+- Title Screen (Pokémon Red & Blue Versions)
 ---
 Track: Battle! (Trainer) - Pokémon Sun / Pokémon Moon
 Artists:
 - Pokémon
+- Yasushi Asada
 Duration: '2:17'
-Directory: battle-trainer-pokemon-sun-moon-ssbu
+Directory: battle-trainer-pokemon-sun-pokemon-moon-ssbu
+Referenced Tracks:
+- Battle! (Trainer) (Pokémon Sun / Pokémon Moon)
 ---
 Track: Battle! (Island Kahuna)
 Artists:
 - Pokémon
+- Yasuaki Iwata
 Duration: '2:07'
 Directory: battle-island-kahuna-ssbu
+Referenced Tracks:
+- track:battle-island-kahuna
 ---
 Track: Battle! (Gladion)
 Artists:
 - Pokémon
+- Manami Kiyota
 Duration: '2:59'
 Directory: battle-gladion-ssbu
+Referenced Tracks:
+- track:battle-gladion
 ---
 Track: Battle! (Elite Four) / Battle! (Solgaleo / Lunala)
 Artists:
 - Pokémon
+- Akihiro Honda
 Duration: '2:52'
+Referenced Tracks:
+- Battle! (Elite Four) (Pokémon Sun / Pokémoon Moon)
+- Battle! (Solgaleo / Lunala)
 ---
 Track: The Battle at the Summit!
 Artists:
 - Pokémon
+- Shota Kageyama
+Contributors:
+- Hiroaki Tsutsumi (electric guitar)
 Duration: '2:52'
 Directory: the-battle-at-the-summit-ssbu
+Referenced Tracks:
+- track:the-battle-at-the-summit
 ---
 Section: F-ZERO
 Color: '#4b4fcc'
@@ -759,19 +797,73 @@ Color: '#4b4fcc'
 Track: Big Blue
 Artists:
 - F-ZERO
+- Takeshi Kuramochi
 Duration: '2:20'
 Directory: big-blue-ssbu
+Referenced Tracks:
+- track:big-blue
 ---
 Track: Sand Ocean
 Artists:
 - F-ZERO
+- Hirokazu Tanaka
 Duration: '2:12'
 Directory: sand-ocean-ssbu
+Referenced Tracks:
+- track:sand-ocean
 ---
 Track: F-ZERO Medley
 Artists:
 - F-ZERO
+- Takenobu Mitsuyoshi
 Duration: '2:33'
+Referenced Tracks:
+- Life Lost (F-ZERO)
+- Death Wind
+- White Land
+- Fire Field
+- Mute City
+- Red Canyon
+- Port Town
+Lyrics: |-
+    F-ZERO!
+
+    F-ZERO!
+
+    He steps right out on the dangerous track
+    Stunning skyscrapers lining the perilous path
+    Endless Horizon above the sea and deserts
+    Silent, impressive, going fast as a valiant horse
+    
+    For the first to win the Queen’s Distress
+    The silent city that fades away into darkness
+    Certain to taste fevered kinetic energy
+    Sonic booms rip through the rest of the scenery
+
+    Flashing white! (Flashing white)
+    Worlds asleep! (Worlds asleep)
+    
+    From the left to the right, let me first fighting you
+    Who lets you do the fighting that we need to burst right through
+    Go towards the promise to rock and roll!
+
+    The king’s majesty broker in the silk city
+    (in the silk city)
+    Dwarf enemies, ride the wind with no pity
+    (the wind with no pity)
+    
+    Once more the sea spreads itself before us
+    Cowering the monsters, the heavens up above
+    
+    The rider up on the burning horizon
+    (the burning horizon)
+    The monsters of F-ZERO warp into real
+    (into real)
+    
+    Fight to the ending, but don’t let up at speed of sound
+    (the speed of sound)
+    Pass the power, then grasp the power granted by the gods
+    (granted by the gods)
 ---
 Section: EarthBound
 Color: '#d80b1a'
@@ -779,14 +871,21 @@ Color: '#d80b1a'
 Track: Magicant
 Artists:
 - Mother
+- Motoi Sakuraba
 Duration: '2:32'
 Directory: magicant-ssbu
+Referenced Tracks:
+- track:magicant
 ---
 Track: Fourside
 Artists:
 - Mother
+- Motoi Sakuraba
 Duration: '2:31'
 Directory: fourside-ssbu
+Referenced Tracks:
+- track:fourside
+- Eight Melodies
 ---
 Section: Fire Emblem
 Color: '#adadad'
@@ -794,75 +893,140 @@ Color: '#adadad'
 Track: Fire Emblem Theme (Heroic Origins)
 Artists:
 - Fire Emblem
+- Hideki Sakamoto
 Duration: '2:37'
+Directory: fire-emblem-theme-heroic-origins-ssbu
+Referenced Tracks:
+- track:fire-emblem-theme-heroic-origins
 ---
 Track: Under This Banner
 Artists:
 - Fire Emblem
+- Takeshi Kuramochi
 Duration: '2:28'
 Directory: under-this-banner-ssbu
+Referenced Tracks:
+- track:under-this-banner
 ---
 Track: Advance
 Artists:
 - Fire Emblem
+- Takeshi Kuramochi
 Duration: '2:14'
 Directory: advance-ssbu
+Referenced Tracks:
+- track:advance
 ---
 Track: Edge of Adversity
 Artists:
 - Fire Emblem
+- Yuka Tsujiyoko
 Duration: '2:53'
 Directory: edge-of-adversity-ssbu
+Referenced Tracks:
+- track:edge-of-adversity
 ---
 Track: Beyond Distant Skies - Roy's Departure
 Artists:
 - Fire Emblem
+- Takeshi Kuramochi
 Duration: '2:11'
 Directory: beyond-distant-skies-roys-departure-ssbu
+Referenced Tracks:
+- track:beyond-distant-skies-roys-departure
 ---
 Track: Prelude (Ablaze)
 Artists:
 - Fire Emblem
+- Tetsuya Shibata
 Duration: '2:30'
 Directory: prelude-ablaze-ssbu
+Referenced Tracks:
+- track:prelude-ablaze
 ---
 Track: Destiny (Ablaze)
 Artists:
 - Fire Emblem
+- Akihiro Honda
 Duration: '2:37'
 Directory: destiny-ablaze-ssbu
+Referenced Tracks:
+- track:destiny-ablaze
 ---
 Track: Id (Purpose)
 Artists:
 - Fire Emblem
+- Takeshi Kuramochi
 Duration: '2:23'
 Directory: id-purpose-ssbu
+Referenced Tracks:
+- track:id-purpose
 ---
 Track: Lost in Thoughts All Alone
 Artists:
 - Fire Emblem
+- Masato Coda
 Duration: '2:41'
-Directory: lost-in-thoughts-all-alone
+Directory: lost-in-thoughts-all-alone-ssbu
+Referenced Tracks:
+- track:lost-in-thoughts-all-alone
+- End of All
 ---
 Track: Gear Up For...
 Artists:
 - Fire Emblem
+- Hiroki Morishita
 Duration: '2:29'
 Directory: gear-up-for-ssbu
+Referenced Tracks:
+- track:gear-up-for
+- track:fire-emblem-theme-heroic-origins
 ---
 Track: 'Fire Emblem: Three Houses Main Theme (JP)'
 Date First Released: January 28, 2021
 Artists:
 - Fire Emblem
+- Akihiro Honda
+Contributors:
+- Caro (vocals)
 Duration: '2:35'
 Directory: fire-emblem-three-houses-main-theme-jp-ssbu
+Lyrics: |-
+    ステンドグラスを通る光 (<i>Sutendo gurasu wo tooru hikari</i>)
+    銀の燭台煌めいて (<i>Gin no shokudai kirameite</i>)
+    並んだ笑顔はみんな眩しくて (<i>Naranda egao wa minna mobushikute</i>)
+    自分の居場所に絆される (<i>Jibun no ibasho ni hodasaneru</i>)
+
+    夜明けの手を取り高く羽ばたく日まで (<i>Yoake no te wo tori takaku habataku hi made</i>)
+    安らぎの縁に身を預けて震えている (<i>Yasuragi no yosuga ni mi wo azukete furueteiru</i>)
+Referenced Tracks:
+- track:fire-emblem-three-houses-main-theme-jp
+- The Edge of Dawn (Seasons of Warfare) (JP)
 ---
 Track: 'Fire Emblem: Three Houses Main Theme'
 Date First Released: January 28, 2021
 Artists:
 - Fire Emblem
+- Akihiro Honda
+Contributors:
+- Buttercup (vocals)
 Duration: '2:35'
 Directory: fire-emblem-three-houses-main-theme-ssbu
+Lyrics: |-
+    Faint lights pass through colored glass, in this beloved place
+    Silver shines, the world dines, a smile on each face
+
+    As joy surrounds, comfort abounds and I can feel I'm breaking free
+    For just this moment lost in time, I am finally me
+
+    Reach for my hand, I'll soar away
+    Into the dawn, oh, I wish I could stay
+    Here in cherished halls, in peaceful days
+    I fear the edge of dawn knowing time betrays
+Referenced Tracks:
+- track:fire-emblem-three-houses-main-theme-jp-ssbu
+- track:fire-emblem-three-houses-main-theme
+- The Edge of Dawn (Seasons of Warfare)
 ---
 Section: Game & Watch ##no new tracks
 ---
@@ -876,14 +1040,20 @@ Color: '#48ed0b'
 Track: Main Theme - Pikmin
 Artists:
 - Pikmin
+- Hideki Sakamoto
 Duration: '2:28'
 Directory: main-theme-pikmin-ssbu
+Referenced Tracks:
+- track:main-theme-pikmin
 ---
 Track: Garden of Hope
 Artists:
 - Pikmin
+- Yoshino Aoki
 Duration: '2:24'
 Directory: garden-of-hope-ssbu
+Referenced Tracks:
+- track:garden-of-hope
 ---
 Section: Animal Crossing
 Color: '#ffc837'
@@ -891,20 +1061,31 @@ Color: '#ffc837'
 Track: Title Theme - Animal Crossing
 Artists:
 - Animal Crossing
+- artist:ace-tomori-kudo-chico
 Duration: '2:53'
 Directory: title-theme-animal-crossing-ssbu
+Referenced Tracks:
+- track:title-theme-animal-crossing
 ---
 Track: 'Title Theme - Animal Crossing: Wild World'
 Artists:
 - Animal Crossing
+- Maki Kirioka
 Duration: '2:43'
 Directory: title-theme-animal-crossing-wild-world-ssbu
+Referenced Tracks:
+- track:title-theme-animal-crossing-wild-world
+- track:3-pm-animal-crossing-wild-world
+- track:2-am-animal-crossing-wild-world
 ---
 Track: 'Title Theme - Animal Crossing: Happy Home Designer'
 Artists:
 - Animal Crossing
+- Kazumi Totaka
 Duration: '2:35'
 Directory: title-theme-animal-crossing-happy-home-designer-ssbu
+Referenced Tracks:
+- track:title-theme-animal-crossing-happy-home-designer
 ---
 Section: Wii Fit
 Color: '#8cc63f'
@@ -912,14 +1093,23 @@ Color: '#8cc63f'
 Track: Main Menu - Wii Fit
 Artists:
 - Wii Fit
+- Kumi Tanioka
 Duration: '1:58'
 Directory: main-menu-wii-fit-ssbu
+Referenced Tracks:
+- track:main-menu-wii-fit
+- Advanced Step
+- Settings (Wii Fit)
+- Rhythm Boxing
 ---
 Track: Training Menu - Wii Fit U
 Artists:
 - Wii Fit
+- Hiroki Morishita
 Duration: '2:36'
 Directory: training-menu-wii-fit-u-ssbu
+Referenced Tracks:
+- track:training-menu-wii-fit-u
 ---
 Section: Punch-Out!! ##no new tracks
 ---
@@ -930,21 +1120,35 @@ Track: Xenoblade Chronicles 2 Medley
 Date First Released: March 4, 2021
 Artists:
 - Xenoblade Chronicles
+- artist:ace-tomori-kudo-chico
 Duration: '3:20'
+Referenced Tracks:
+- Gormott
+- Argentum
+- Kingdom of Uraya
+- Mor Ardain - Roaming the Wastes -
+- Tantal
+- Leftherian Archipelago
 ---
 Track: Tiger! Tiger!
 Date First Released: March 4, 2021
 Artists:
 - Xenoblade Chronicles
+- Yuzo Koshiro
 Duration: '2:35'
 Directory: tiger-tiger-ssbu
+Referenced Tracks:
+- track:tiger-tiger
 ---
 Track: Counterattack
 Date First Released: March 4, 2021
 Artists:
 - Xenoblade Chronicles
+- Nobuko Toda
 Duration: '3:24'
 Directory: counterattack-ssbu
+Referenced Tracks:
+- track:counterattack
 ---
 Section: Splatoon
 Color: '#fea00a'
@@ -952,26 +1156,41 @@ Color: '#fea00a'
 Track: Splattack!
 Artists:
 - Splatoon
+- artist:shohei-tsuchiya-zuntata
 Duration: '2:40'
 Directory: splattack-ssbu
+Referenced Tracks:
+- Opening (Splatoon)
+- track:splattack
+- Now or Never! (Splatoon)
 ---
 Track: Seaskape
 Artists:
 - Splatoon
+- Hirokazu Tanaka
 Duration: '1:26'
 Directory: seaskape-ssbu
+Referenced Tracks:
+- track:seaskape
 ---
 Track: Now or Never!
 Artists:
 - Splatoon
+- Yuzo Koshiro
 Duration: '2:33'
 Directory: now-or-never-ssbu
+Referenced Tracks:
+- Now or Never! (Splatoon)
 ---
 Track: Bomb Rush Blush
 Artists:
 - Splatoon
+- Tomoya Ohtani
 Duration: '2:36'
 Directory: bomb-rush-blush-ssbu
+Referenced Tracks:
+- track:bomb-rush-blush
+- Tide Goes Out
 ---
 Section: Metal Gear
 Color: '#df040c'
@@ -979,14 +1198,20 @@ Color: '#df040c'
 Track: Theme of Solid Snake
 Artists:
 - Metal Gear
+- Masami Ueda
 Duration: '2:43'
 Directory: theme-of-solid-snake-ssbu
+Referenced Tracks:
+- track:theme-of-solid-snake
 ---
 Track: Snake Eater
 Artists:
 - Metal Gear
+- Nobuko Toda
 Duration: '2:02'
 Directory: snake-eater-ssbu
+Referenced Tracks:
+- track:snake-eater
 ---
 Section: Sonic ##no new tracks
 ---
@@ -996,103 +1221,168 @@ Color: '#0573eb'
 Track: Guts Man Stage
 Artists:
 - Mega Man
+- artist:ace-tomori-kudo-chico
 Duration: '2:44'
 Directory: guts-man-stage-ssbu
+Referenced Tracks:
+- track:guts-man-stage
 ---
 Track: Ice Man Stage
 Artists:
 - Mega Man
+- Yasushi Asada
 Duration: '2:23'
 Directory: ice-man-stage-ssbu
+Referenced Tracks:
+- track:ice-man-stage
 ---
 Track: Bomb Man Stage
 Artists:
 - Mega Man
+- Nobuko Toda
 Duration: '1:56'
-Directory: bomb-man-stage
+Directory: bomb-man-stage-ssbu
+Referenced Tracks:
+- track:bomb-man-stage
 ---
 Track: Fire Man Stage
 Artists:
 - Mega Man
+- Nobuko Toda
 Duration: '2:18'
 Directory: fire-man-stage-ssbu
+Referenced Tracks:
+- track:fire-man-stage
 ---
 Track: Metal Man Stage
 Artists:
 - Mega Man
+- Yusuke Takahama
 Duration: '2:26'
 Directory: metal-man-stage-ssbu
+Referenced Tracks:
+- track:metal-man-stage
+- Title (Mega Man 2)
 ---
 Track: Crash Man Stage
 Artists:
 - Mega Man
+- Nobuko Toda
 Duration: '1:53'
 Directory: crash-man-stage-ssbu
+Referenced Tracks:
+- track:crash-man-stage
 ---
 Track: Flash Man Stage
 Artists:
 - Mega Man
+- Keiichi Okabe
 Duration: '3:00'
 Directory: flash-man-stage-ssbu
+Referenced Tracks:
+- track:flash-man-stage
 ---
 Track: Wood Man Stage
 Artists:
 - Mega Man
+- Motoi Sakuraba
 Duration: '2:29'
 Directory: wood-man-stage-ssbu
+Referenced Tracks:
+- track:wood-man-stage
 ---
 Track: Hard Man Stage
 Artists:
 - Mega Man
+- Shota Kageyama
+Contributors:
+- Yujin Imanishi (electric guitar)
 Duration: '2:23'
 Directory: hard-man-stage-ssbu
+Referenced Tracks:
+- track:hard-man-stage
 ---
 Track: Top Man Stage
 Artists:
 - Mega Man
+- Noriyuki Iwadare
 Duration: '2:44'
 Directory: top-man-stage-ssbu
+Referenced Tracks:
+- track:top-man-stage
 ---
 Track: Snake Man Stage
 Artists:
 - Mega Man
+- Hideki Sakamoto
 Duration: '2:33'
 Directory: snake-man-stage-ssbu
+Referenced Tracks:
+- track:snake-man-stage
 ---
 Track: Mega Man 4 Medley
 Artists:
 - Mega Man
+- Jun Senoue
+Contributors:
+- Takeshi Taneda (bass)
+- Akht. (drums)
 Duration: '2:43'
+Referenced Tracks:
+- track:dive-man-stage
+- track:skull-man-stage
+- track:drill-man-stage
 ---
 Track: Gravity Man Stage
 Artists:
 - Mega Man
+- Yumi Takahashi
 Duration: '2:30'
 Directory: gravity-man-stage-ssbu
+Referenced Tracks:
+- track:gravity-man-stage
 ---
 Track: Napalm Man Stage
 Artists:
 - Mega Man
+- Naoto Kubo
 Duration: '2:32'
 Directory: napalm-man-stage-ssbu
+Referenced Tracks:
+- track:napalm-man-stage
+- Opening (Mega Man 5)
+- Get a Weapon (Mega Man 5)
 ---
 Track: Dark Man Stage
 Artists:
 - Mega Man
+- Hiroki Morishita
 Duration: '2:28'
 Directory: dark-man-stage-ssbu
+Referenced Tracks:
+- Proto Man (Mega Man 3)
+- Get a Weapon (Mega Man 5)
+- track:dark-man-stage
+- Opening (Mega Man 5)
+- Title (Mega Man 5)
 ---
 Track: We're Robots (Dr. Wily Stage 2)
 Artists:
 - Mega Man
+- Yu Shimoda
 Duration: '3:01'
 Directory: were-robots-dr-wily-stage-2-ssbu
+Referenced Tracks:
+- track:were-robots-dr-wily-stage-2
 ---
 Track: Opening Stage
 Artists:
 - Mega Man
+- Yusuke Takahama
 Duration: '2:26'
 Directory: opening-stage-mmx-ssbu
+Referenced Tracks:
+- Opening Stage (Mega Man X)
 ---
 Section: PAC-MAN
 Color: '#ffff00'
@@ -1100,21 +1390,42 @@ Color: '#ffff00'
 Track: Galaga Medley
 Artists:
 - Galaga
+- Yusuke Takahama
 Duration: '2:40'
 Color: '#1b9594'
+Referenced Tracks:
+- Start Music (Galaga)
+- Capture Music (Galaga)
+- Challenging Stage (Perfect)
+- Name Entry (1st) (Galaga)
 ---
 Track: Mappy Medley
 Artists:
 - Mappy
+- Masafumi Takada
 Duration: '2:31'
 Color: '#ffffff'
+Referenced Tracks:
+- Credit Sound (Mappy)
+- Opening Animation Music (Mappy)
+- In-Game Music (Main Theme) (Mappy)
+- Round Clear Music (Mappy)
+- Bonus Round Fanfare (Mappy)
+- Bonus Round Music (Mappy)
+- 'Big Balloon: Get (Bonus Round Clear) (Mappy)'
+- Extend Music (Mappy)
+Sampled Tracks:
+- Game Start Sound (Mappy)
 ---
 Track: Area 1 - Dragon Spirit
 Artists:
 - Dragon Spirit
+- Maki Kirioka
 Directory: area-1-dragon-spirit-ssbu
 Duration: '2:37'
 Color: '#f3c000'
+Referenced Tracks:
+- Area_1 (Dragon Spirit)
 ---
 Section: Street Fighter
 Color: '#ff5704'
@@ -1122,14 +1433,20 @@ Color: '#ff5704'
 Track: Guile Stage
 Artists:
 - Street Fighter
+- Yuzo Koshiro
 Duration: '2:49'
 Directory: guile-stage-ssbu
+Referenced Tracks:
+- Guile's Theme
 ---
 Track: Vega Stage
 Artists:
 - Street Fighter
+- Yoko Shimomura
 Duration: '2:26'
 Directory: vega-stage-ssbu
+Referenced Tracks:
+- Vega's Theme
 ---
 Section: FINAL FANTASY VII
 Color: '#197560'
