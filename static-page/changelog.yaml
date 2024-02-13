@@ -234,6 +234,9 @@ Content: |-
         - added commentary from [[artist:bea]] (Tumblr) to [[track:hallowed-halls]] (featuring alternate artworks) and [[track:encore]]
         - added commentary from [[artist:shelby-cragg]] (Tumblr) to [[track:center-of-brilliance]] (replaced cover art with what's posted here, but kept original in commentary; it's lower resolution, but free of JPEG artefacts)
         - added commentary from [[artist:8bitkitten]] (Tumblr) to [[track:carefree-action]], [[track:elephant-gun]] (featuring alternate artwork), [[track:bridge-of-stars]], [[track:iRRRRRRRRECONCILA8LE]], [[track:consort-air]]
+        - added commentary from [[artist:derples]] (Tumblr) to [[track:wv-become-the-mayor-of-cans]]
+        - added commentary from [[artist:kurimja]] (Tumblr) to [[track:clockstopper]] (featuring additional artworks)
+        - added commentary from [[artist:soju]] (Tumblr, DeviantArt) to [[track:dapper-dueling]] (featuring full-size artwork)
         - added commentary from [[artist:shad-andrews]] (Tumblr) to [[track:checkmate]] (featuring alternate artwork)
         - added commentary from [[artist:kiko-b]] (Tumblr) to [[track:trepidation]] (replaced low resolution track cover with this one) and [[track:castle]] (featuring alternate artworks)
         - added commentary from [[artist:nic-carey]] (Tumblr) to [[track:austin-atlantis]] (featuring full-size artwork)
@@ -315,7 +318,7 @@ Content: |-
     - fixed [[track:multi-track-drifting-last-stop]] referencing tracks it only samples (thanks, Rosetta Leijonde!)
     - fixed [[track:24x-showdown-combo]] not sampling [[track:phat2]] (thanks, Rosetta Leijonde!)
     - fixed [[track:theotokos]] not sampling [[track:through-fire-justice-is-served]] (thanks, Rosetta Leijonde, Pyryte, FF!)
-    - fixed [[track:frost-and-clockwork-lofam4]] not referencing [[track:frost-and-clockwork]] (thanks, Jebb, Circlejourney!)
+    - fixed [[track:frost-and-clockwork-lofam4]] ([[album:lofam4]]) not referencing [[track:frost-and-clockwork]] ([[album:worlds-await]]; thanks, Jebb, Circlejourney!)
     - fixed [[track:dance-of-the-dead]] not referencing [[track:watercolour-pendulum]] (thanks, Rosetta Leijonde, Pyryte!)
     - fixed [[track:the-tacocats-secret-slide]] not referencing [[track:inspector-gadget-main-theme]], [[track:moshi-moshi]], [[track:bad-apple-feat-nomico]], [[track:meet-the-flintstones]], and [[track:we-are-number-one]] (thanks, Rosetta Leijonde, vriska/leo!)
     - fixed [[track:hehehe-i-am-the-greatest-canrival-ripping-warria-in-the-galaxy]] not sampling [[track:the-greatest-warrior-in-the-galaxy-ever]] and not referencing [[track:the-greatest-warrior-in-the-galaxy]] (thanks, FF!)
@@ -347,7 +350,7 @@ Content: |-
     - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
     - fixed [[track:namco-high-be-true-to-yourself]] referencing [[track:title-theme-namco-high]], instead of the other way around (thanks, Niklink!)
     - fixed [[track:battle-music]] referencing [[track:title-theme-namco-high]] instead of [[track:namco-high-be-true-to-yourself]]
-    - fixed [[track:fallen-down-undertale]] not referencing [[track:fallen-down]]
+    - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) not referencing [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]])
     - fixed [[track:bonetrousle]] referencing [[track:nyeh-heh-heh]], instead of the other way around (thanks, Morris!)
     - fixed [[track:song-that-might-play-when-you-fight-sans]] and [[track:bring-it-in-guys]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]] (thanks, Morris!)
     - fixed many [[track:undertale]] references: (thanks, vriska/leo!)
@@ -370,9 +373,9 @@ Content: |-
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a rerelease of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
     - fixed [[track:flare-with-vocals]] being duplicated in [[album:more-homestuck-fandom]] (as "Flare (horizon's lyricover)"), and tidied this track's lyrics (thanks, Jebb, vriska/leo!)
     - fixed [[track:empirical]] being named "--Emperical" (thanks, Rosetta Leijonde!)
-    - fixed [[track:do-anbroids-dream-of]] being named "Do Androids Dream Of…?" (anbroid / android; thanks, Lilith, Grace!)
+    - fixed [[track:do-anbroids-dream-of]] being named "Do Androids Dream Of…?" (was "Androids", now "Anbroids"; thanks, Lilith, Grace!)
     - fixed [[track:squiddles-op-1-supercrush-guitar]] being named "Squiddles OP1: Supercrush Guitar!" (missing space in "OP 1"; thanks, Lilith, Grace!)
-    - fixed [[track:sillygoofysillygoofy]] being named "Sillygoofysillygoofy (Ft. Andrew Libman)" ("Andrew" instead of "Andrea", just a typo)
+    - fixed [[track:sillygoofysillygoofy]] being named "Sillygoofysillygoofy (Ft. Andrew Libman)" (was "Andrew", now "Andrea"; just a typo)
     - fixed [[track:not-a-creature-was-stirring]] being named "not a creature was stirring" (different capitalization)
     - fixed [[track:life-liberated]] being named its working title, "Wind Waker", and filled in some details for it (thanks, Rainy, FF!)
     - fixed [[track:cosmic-eternity-believe-in-yourself]] being named "Cosmic Eternity ~ Believe in Yourself" (tilde instead of dash; thanks, Morris!)
@@ -493,10 +496,12 @@ Content: |-
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
     - moved [[track:a-new-day]] from "Other works originating outside of Homestuck" to "Music from video games" (thanks, Morris!)
+    - moved [[track:old-skacret]] from [[album:references-beyond-homestuck]] to [[album:more-homestuck-fandom]] (thanks, Rosetta Leijonde!)
     - removed fan-made, unofficial artworks from [[album:pesterquest-soundtrack]] and unreleased Pesterquest tracks (for now)
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
     - changed directory of [[track:gone-vast-error]] from <code>gone-bonus</code> to <code>gone-vast-error</code>
+    - changed directory of [[track:frost-and-clockwork-lofam4]] from <code>frost-and-clockwork</code> to <code>frost-and-clockwork-lofam4</code>
     - changed directory of [[track:risk-vast-error]] from <code>intermission-risk</code> to <code>risk-vast-error</code>
     - changed directory of [[track:where-to-now]] from <code>bonus-where-to-now</code> to <code>where-to-now</code>
     - changed directory of [[track:courage-catch-322]] from <code>courage-vast-error</code> to <code>courage-catch-322</code>
@@ -510,6 +515,7 @@ Content: |-
     - changed directory of [[track:upbeat-times-half]] from <code>upbeat-half</code> to <code>upbeat-times-half</code>
     - changed directory of [[track:battle-music]] from <code>boss-theme</code> to <code>battle-music</code>
     - changed directory of [[track:namco-high-be-true-to-yourself]] from <code>credits</code> to <code>namco-high-be-true-to-yourself</code>
+    - changed directory of [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) from <code>fallen-down</code> to <code>fallen-down-undertale</code>
     - changed directory of [[track:24-7-lo-fi-anime-beats-to-question-your-sexuality-to]] from <code>247-lo-fi-anime-beats-to-question-your-sexuality-to</code> to <code>24-7-lo-fi-anime-beats-to-question-your-sexuality-to</code>
     - changed directory of [[track:drone-pesterquest]] from <code>drone-pq</code> to <code>drone-pesterquest</code>
     - changed directory of [[track:crustacean-pesterquest]] from <code>crustacean-pq</code> to <code>crustacean-pesterquest</code>
