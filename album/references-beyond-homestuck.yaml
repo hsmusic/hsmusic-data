@@ -2928,6 +2928,19 @@ Duration: '4:33'
 URLs:
 - https://www.youtube.com/watch?v=2dga4-7PPAA
 ---
+Track: Course Clear (Super Mario Bros. 3)
+# Reference:
+#   https://vgmdb.net/album/533
+Directory: course-clear-smb3
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '0:05'
+URLs:
+- https://www.youtube.com/watch?v=ZckpYymv7GU
+Referenced Tracks:
+- track:ground-theme-smb3
+---
 Track: Crash Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -4543,6 +4556,15 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=28ZcsyOayLM
 ---
+Track: How to Play
+Directory: how-to-play-melee
+Artists:
+- Super Smash Bros.
+- Hirokazu Ando
+Duration: '1:41' ##as on https://vgmdb.net/album/50394
+URLs:
+- https://www.youtube.com/watch?v=J4D4zJVR354
+---
 Track: Humming the Bassline
 # Official release:
 #   JET SET RADIO ORIGINAL SOUND TRACKS
@@ -4771,6 +4793,17 @@ Duration: '3:22'
 URLs:
 - https://www.youtube.com/watch?v=xeEwEVDQQFw
 ---
+Track: Intro
+Directory: intro-c418
+Always Reference By Directory: true
+Duration: '4:36'
+Artists:
+- Minecraft
+- C418
+URLs:
+- https://c418.bandcamp.com/track/intro
+- https://www.youtube.com/watch?v=y7sm01H0w9Y
+---
 Track: Invincibility Theme (Super Mario Bros.)
 # Reference:
 #   https://vgmdb.net/album/533
@@ -4902,6 +4935,16 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
 
     While the lyrics here are from the (probably known to you) English version of the song, the Japanese version was the first version to be created (although both launched simultaneously).
+---
+Track: K. Rool Returns
+# Reference:
+#   https://vgmdb.net/album/1516
+Artists:
+- Donkey Kong
+- David Wise
+Duration: '0:43'
+URLs:
+- https://www.youtube.com/watch?v=pUUUWxBu_zU
 ---
 Track: Karma (Electric Fountain)
 # Reference:
@@ -5700,6 +5743,16 @@ Artists:
 Duration: '0:02'
 URLs:
 - https://www.youtube.com/watch?v=7fkgjgBJKzk
+---
+Track: Molgera
+# Reference:
+#   https://vgmdb.net/album/418
+Artists: ## no one is credited for this song on the soundtrack, however the file name original version of the Molgera theme in the files of Wind Waker HD reveal that this song is by Hajime Wakai. The file name is P_Moldgera_CK.w.32.dspadpcm.bfstm. Nintendo composers are assigned letters that appear in a decent amount of file names for music in Nintendo games. Hajime Wakai's letter is "w", so P_Moldgera_CK.w.32.dspadpcm.bfstm is by Wakai. Another example from Wind Waker HD: 11_m_14_02.g.32.c4.dspadpcm.bfstm, g = Toru Minegishi.
+- The Legend of Zelda
+- Hajime Wakai
+Duration: '2:37'
+URLs:
+- https://www.youtube.com/watch?v=wlF0-Qs2xkI
 ---
 Track: Monster Dance (By Night BGM)
 # Reference:
@@ -7345,6 +7398,16 @@ Artists: #composer unknown
 Duration: '3:34'
 URLs:
 - https://www.youtube.com/watch?v=84vPDrLutNo
+---
+Track: Sun's Song
+# Reference:
+#   https://vgmdb.net/album/293
+Artists:
+- The Legend of Zelda
+- Koji Kondo
+Duration: '0:07'
+URLs:
+- https://www.youtube.com/watch?v=oLOyVDP_ckQ
 ---
 Track: Super Dry Dance
 # (See Eight Melodies, no official soundtrack release)
@@ -9447,19 +9510,6 @@ Duration: '2:38'
 URLs:
 - https://www.youtube.com/watch?v=Rpc8K-zQoYM
 ---
-Track: Course Clear (Super Mario Bros. 3)
-# Reference:
-#   https://vgmdb.net/album/533
-Directory: course-clear-smb3
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: '0:05'
-URLs:
-- https://www.youtube.com/watch?v=ZckpYymv7GU
-Referenced Tracks:
-- track:ground-theme-smb3
----
 Track: Crystal Kingdom - Part One
 Artists:
 - Griffin McElroy
@@ -10311,15 +10361,6 @@ Lyrics: |-
     Without you baby
 
     How do I live...
----
-Track: How to Play
-Directory: how-to-play-melee
-Artists:
-- Super Smash Bros.
-- Hirokazu Ando
-Duration: '1:41' ##as on https://vgmdb.net/album/50394
-URLs:
-- https://www.youtube.com/watch?v=J4D4zJVR354
 ---
 Track: I Am A Man Of Constant Sorrow
 Artists:
@@ -15034,16 +15075,6 @@ Lyrics: |-
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
     This folk dates back to at least the 1920s, but its origins probably lie further back. The title ('Μισιρλού') translates to 'Egyptian (feminine)' therefore this song is also known as 'Egyptian Girl'. The earliest known recording by Theodotos Demetriades, from 1927, is linked.
----
-Track: Molgera
-# Reference:
-#   https://vgmdb.net/album/418
-Artists: ## no one is credited for this song on the soundtrack, however the file name original version of the Molgera theme in the files of Wind Waker HD reveal that this song is by Hajime Wakai. The file name is P_Moldgera_CK.w.32.dspadpcm.bfstm. Nintendo composers are assigned letters that appear in a decent amount of file names for music in Nintendo games. Hajime Wakai's letter is "w", so P_Moldgera_CK.w.32.dspadpcm.bfstm is by Wakai. Another example from Wind Waker HD: 11_m_14_02.g.32.c4.dspadpcm.bfstm, g = Toru Minegishi.
-- The Legend of Zelda
-- Hajime Wakai
-Duration: '2:37'
-URLs:
-- https://www.youtube.com/watch?v=wlF0-Qs2xkI
 ---
 Track: Moonlight Sonata
 Artists:
@@ -27105,17 +27136,6 @@ Lyrics: |-
     Interior crocodile alligator
     I drive a Chevrolet movie theater
 ---
-Track: Intro
-Directory: intro-c418
-Always Reference By Directory: true
-Duration: '4:36'
-Artists:
-- Minecraft
-- C418
-URLs:
-- https://c418.bandcamp.com/track/intro
-- https://www.youtube.com/watch?v=y7sm01H0w9Y
----
 Track: I Really, Really, Really Like This Image
 Artists:
 - Hot Dad
@@ -27885,16 +27905,6 @@ Lyrics: |-
     (You do it to yourself!)
     (Oh, you do it to yourself!)
     (Oh, you do it to yourself!)
----
-Track: K. Rool Returns
-# Reference:
-#   https://vgmdb.net/album/1516
-Artists:
-- Donkey Kong
-- David Wise
-Duration: '0:43'
-URLs:
-- https://www.youtube.com/watch?v=pUUUWxBu_zU
 ---
 Track: KARATE
 Artists:
@@ -36160,16 +36170,6 @@ Artists:
 URLs:
 - https://vanillabeats.bandcamp.com/track/summer-2
 - https://www.youtube.com/watch?v=8CDXBHpvC04
----
-Track: Sun's Song
-# Reference:
-#   https://vgmdb.net/album/293
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: '0:07'
-URLs:
-- https://www.youtube.com/watch?v=oLOyVDP_ckQ
 ---
 Track: Sun King
 Artists:
