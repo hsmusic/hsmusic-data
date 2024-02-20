@@ -1231,6 +1231,27 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=qjngsu4_AAo
 ---
+Track: 11th Street (Terry Bogard)
+# Reference:
+#   https://vgmdb.net/album/3539
+Artists:
+- Fatal Fury
+- Jojouha KITAPY
+Duration: '4:01'
+URLs:
+- https://www.youtube.com/watch?v=__lXHHt5joE
+Referenced Tracks:
+- 11th Street (Terry Bogard STAGE)
+---
+Track: 11th Street (Terry Bogard STAGE)
+# Reference:
+#   https://vgmdb.net/album/3539
+Artists: ##composer unknown
+- Fatal Fury
+Duration: '3:00'
+URLs:
+- https://www.youtube.com/watch?v=1x4eaXGtNoQ
+---
 Track: 25m / 75m Clear
 # Reference:
 #   https://vgmdb.net/product/10348
@@ -1337,6 +1358,48 @@ Artists:
 Duration: '3:33'
 URLs:
 - https://www.youtube.com/watch?v=OW-lJdk3CY4
+---
+Track: Aerith's Theme
+# Reference:
+#   https://vgmdb.net/album/3
+Artists:
+- Final Fantasy
+- Nobuo Uematsu
+Duration: '4:18'
+URLs:
+- https://www.youtube.com/watch?v=n0H6kTppjP8
+---
+Track: Afternoon on the Island (Tomodachi Collection)
+# Reference:
+#   https://vgmdb.net/album/29635
+Artists:
+- Tomodachi Life
+- Daisuke Shiiba
+Duration: '1:41'
+URLs:
+- https://www.youtube.com/watch?v=ENIz73EPXAM
+---
+Track: Afternoon on the Island (Tomodachi Life)
+# Reference:
+#   https://vgmdb.net/product/10848
+Artists:
+- Tomodachi Life
+- Daisuke Shiiba
+- Asuka Ito
+#Duration: '1:41'
+URLs:
+- https://www.youtube.com/watch?v=8Ub9E1lAtNo
+---
+Track: Agents of S.T.E.A.M.
+# Reference:
+#   https://vgmdb.net/product/9338
+Artists:
+- 'Code Name: S.T.E.A.M.'
+- Yoshito Sekigawa
+#Duration: ''
+# unreleased
+URLs:
+- https://www.youtube.com/watch?v=D1ViTAu6d2Y
 ---
 Track: AIN'T NOTHIN' LIKE A FUNKY BEAT
 # Official release:
@@ -1525,6 +1588,18 @@ Duration: '2:45'
 URLs:
 - https://www.youtube.com/watch?v=k4QwSPQaIVA
 ---
+Track: Aloneness
+# Reference:
+#   https://vgmdb.net/album/71811
+Artists:
+- Tekken
+- Taku Inoue (lyrics & music)
+Contributors:
+- Yumi Hara (vocal)
+Duration: '3:38'
+URLs:
+- https://www.youtube.com/watch?v=bQ4oRO_6wBw
+---
 Track: Alf
 Artists:
 - Alf Clausen
@@ -1532,6 +1607,15 @@ Artists:
 Duration: '1:11'
 URLs:
 - https://www.youtube.com/watch?v=z5VFngsQPok
+---
+Track: Aquarius (Sunken City Stage)
+# Reference:
+#   https://vgmdb.net/album/114949
+Artists:
+- Castlevania
+Duration: '1:27'
+URLs:
+- https://www.youtube.com/watch?v=5J8XqDENH1Y
 ---
 Track: Area_1 (Dragon Spirit)
 # Reference:
@@ -1585,6 +1669,66 @@ Duration: '3:57'
 URLs:
 - https://www.youtube.com/watch?v=MLHR9ltzuWM
 ---
+Track: Aria of the Soul
+Directory: aria-of-the-soul
+# Reference:
+#   https://vgmdb.net/album/3131
+Artists:
+- Persona
+- Shoji Meguro
+Duration: '6:09'
+URLs:
+- https://www.youtube.com/watch?v=XycavGYpdgM
+---
+Track: Aria of the Soul
+Directory: aria-of-the-soul-p3
+# Reference:
+#   https://vgmdb.net/album/63053
+Artists:
+- Persona
+- Shoji Meguro
+Contributors:
+- Haruko Komiya (vocal)
+Duration: '5:38'
+URLs:
+- https://www.youtube.com/watch?v=m347gRsIZY4
+Referenced Tracks:
+- track:aria-of-the-soul
+---
+Track: ARMS Grand Prix Official Theme Song
+# Reference:
+#   https://vgmdb.net/product/8925
+Artists:
+- ARMS
+- Atsuko Asahi
+Contributors:
+- Eliana (vocals)
+Duration: '1:44'
+URLs:
+- https://www.youtube.com/watch?v=bjvH6x3GRZI
+---
+Track: ART of FIGHT (Ryuhaku Todoh Stage)
+# Reference:
+#   https://vgmdb.net/album/61048
+#   https://vgmdb.net/album/894
+Artists:
+- Art of Fighting
+- Yasumasa Yamada
+Duration: '2:42'
+URLs:
+- https://www.youtube.com/watch?v=uZEvlslq-kQ
+---
+Track: Assault Theme (Metal Slug) ##Also known as Stage 3
+# Reference:
+#   https://vgmdb.net/album/1113
+#   https://vgmdb.net/album/80958
+Artists:
+- Metal Slug
+- Takushi Hiyamuta
+Duration: '4:19'
+URLs:
+- https://www.youtube.com/watch?v=FipchRsSO68
+---
 Track: At Doom's Gate [E1M1]
 # Only released as an arranged version. Original MS-DOS release of game uses MIDI files with playback varying based on user hardware but contains specific additional sound information for OPL and GUS synthesizers. URL is to OPL recording.
 # Sources:
@@ -1595,6 +1739,17 @@ Artists:
 - Bobby Prince
 URLs:
 - https://www.youtube.com/watch?v=18TTxhoF_EI
+---
+Track: Awake
+Directory: awake-castlevania
+# Reference:
+#   https://vgmdb.net/album/2947
+Artists:
+- Castlevania
+- Sotaro Tojima
+Duration: '1:32'
+URLs:
+- https://www.youtube.com/watch?v=bgI58RrZbt8
 ---
 Track: Awakening
 # Official release:
@@ -1806,6 +1961,41 @@ Lyrics: |-
     (<i>I still don't know about you, about myself, about everything</i>)
     Omoi mabuta wo aketa no naraba subete kowasu no nara kuro ni nare!
     (<i>If I can open my heavy eyelids, if I break everything, then turn black!</i>)
+---
+Track: Banquet of Nature (Nakoruru)
+# Reference:
+#   https://vgmdb.net/album/89832
+Artists:
+- Samurai Shodown
+- Tate Norio
+Duration: '2:34'
+URLs:
+- https://www.youtube.com/watch?v=pnnnKdq21yk
+---
+Track: Bathtime Theme
+# Reference:
+#   https://vgmdb.net/product/9658
+Artists:
+- nintendogs
+- Hajime Wakai
+##Duration: ''
+URLs:
+- https://www.youtube.com/watch?v=Kz9D-zxnXa0
+---
+Track: Bathtime Theme (for 3DS / Wii U)
+Directory: bathtime-theme-ssb4
+# Reference:
+#   https://www.ssbwiki.com/List_of_SSBU_Music_(Other_series)
+Artists:
+- nintendogs
+- Masato Coda
+Contributors:
+- RiRiKA (vocals)
+Duration: '2:14'
+URLs:
+- https://www.youtube.com/watch?v=vZmlbotvIxY
+Referenced Tracks:
+- track:bathtime-theme
 ---
 Track: Battle
 Directory: battle-final-fantasy
@@ -2033,6 +2223,17 @@ Duration: '3:04'
 URLs:
 - https://youtu.be/PjZvJZ6wRe8
 ---
+Track: Battle Theme (Yūyūki)
+Directory: battle-theme-yuyuki
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
+---
 Track: Battle Tower (Pokemon Diamond & Pearl Versions)
 # Official release:
 #   Pokémon Diamond & Pokémon Pearl: Super Music Collection
@@ -2057,7 +2258,7 @@ Duration: '0:30'
 URLs:
 - https://www.youtube.com/watch?v=-7WQn-SXY
 ---
-Track: Beginning
+Track: Beginning (Church, Town, Graveyard Stage)
 Directory: beginning-castlevania-draculas-curse
 Always Reference By Directory: true
 # From Castlevania III: Dracula's Curse
@@ -2089,6 +2290,73 @@ Duration: '1:15'
 URLs:
 - https://www.youtube.com/watch?v=OeBKwxAqpOg
 ---
+Track: Beneath the Mask
+# Reference:
+#   https://vgmdb.net/album/63053
+Artists:
+- Persona
+- Shoji Meguro (composer & arranger)
+Contributors:
+- Lyn (vocal)
+- Rike Schmalz (lyricist)
+Duration: '4:37'
+URLs:
+- https://www.youtube.com/watch?v=woz5qvDdMRM
+Lyrics: |-
+    Where have you been?
+    Been searching all along
+    Came facing twilight on and on
+    Without a clue
+    Without a sign
+    Without grasping yet
+    The real question to be asked
+    Where have I been?
+    
+    I'm a shape shifter
+    At Poe's masquerade
+    Hiding both face and mind
+    All free for you to draw
+    I'm a shape shifter
+    What else should I be?
+    Please don't take off my mask
+    Revealing dark
+    
+    Moments of calm
+    Nothing left to be found
+    A mirror right in front of me
+    That's where I find
+    An empty glass
+    Reflecting the sad truth
+    It's telling words not to be told
+    I need the mask
+    
+    I'm a shape shifter
+    At Poe's masquerade
+    Hiding both face and mind
+    All free for you to draw
+    I'm a shape shifter
+    Chained down to my core
+    Please don't take off my mask
+    My place to hide
+    
+    I can't tell you
+    How to see me
+    Just a cage of bones
+    There's nothing inside
+    Will it unleash me?
+    Burning down the walls
+    Is there a way
+    For me to break?
+    
+    I'm a shape shifter
+    At Poe's masquerade
+    Hiding both face and mind
+    All free for you to draw
+    I'm a shape shifter
+    Have no face to show
+    Please don't take off my mask
+    My disguise
+---
 Track: Beyond Distant Skies - Roy's Departure
 # Reference:
 #   https://vgmdb.net/album/81305
@@ -2098,6 +2366,26 @@ Artists:
 Duration: '1:31'
 URLs:
 - https://www.youtube.com/watch?v=Wa1-WZIyYco
+---
+Track: BGM A (Wrecking Crew)
+# Reference:
+#   https://vgmdb.net/album/1419
+Artists:
+- Wrecking Crew
+- Hirokazu Tanaka
+Duration: '2:05'
+URLs:
+- https://www.youtube.com/watch?v=qEPciC7x0ck
+---
+Track: BGM B (Power Up) (Wrecking Crew)
+# Reference:
+#   https://vgmdb.net/album/1419
+Artists:
+- Wrecking Crew
+- Hirokazu Tanaka
+Duration: '1:20'
+URLs:
+- https://www.youtube.com/watch?v=oKvkRexMTNI
 ---
 Track: 'Big Balloon: Get (Bonus Round Clear) (Mappy)'
 # Reference:
@@ -2141,7 +2429,7 @@ Duration: '1:48'
 URLs:
 - https://www.youtube.com/watch?v=ZUWQ2ythA0g
 ---
-Track: Bloody Tears
+Track: Bloody Tears (Roads by Day BGM)
 # From Castlevania II: Simon's Quest
 # Released on the same album as Beginning, but it has its own dedicated track vs. Castlevania III's OST.
 # JP: Bloody Tears (昼の道BGM)
@@ -2373,6 +2661,16 @@ Duration: '1:22'
 URLs:
 - https://www.youtube.com/watch?v=xWttnA3VsCI
 - https://static1.squarespace.com/static/55c03d20e4b0e6d1aa62052f/55c4408ee4b0a3278e566ec9/55c8e574e4b0dc37dda73df5/1439230093498/BrownPuffleLab.mp3
+---
+Track: Bull Demon King Clear
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
 ---
 Track: Calamari Inkantation
 # JP: シオカラ節
@@ -2618,16 +2916,6 @@ Duration: '2:29'
 URLs:
 - https://www.youtube.com/watch?v=180sjeAMKPE
 ---
-Track: Counterattack
-# Reference:
-#   https://vgmdb.net/album/75751
-Artists:
-- Xenoblade Chronicles
-- Kenji Hiramatsu
-Duration: '4:33'
-URLs:
-- https://www.youtube.com/watch?v=2dga4-7PPAA
----
 Track: Cool Morning
 # Official release:
 #   Danganronpa V3: Killing Harmony O.S.T. WHITE
@@ -2639,6 +2927,26 @@ Artists:
 Duration: '3:23'
 URLs:
 - https://www.youtube.com/watch?v=hiNSu24BNGQ
+---
+Track: Cosmo Canyon
+# Reference:
+#   https://vgmdb.net/album/3
+Artists:
+- Final Fantasy
+- Nobuo Uematsu
+Duration: '3:36'
+URLs:
+- https://www.youtube.com/watch?v=3RUtPuO8alo
+---
+Track: Counterattack
+# Reference:
+#   https://vgmdb.net/album/75751
+Artists:
+- Xenoblade Chronicles
+- Kenji Hiramatsu
+Duration: '4:33'
+URLs:
+- https://www.youtube.com/watch?v=2dga4-7PPAA
 ---
 Track: Crash Man Stage
 # Reference:
@@ -2710,6 +3018,54 @@ Artists:
 Duration: '1:46'
 URLs:
 - https://www.youtube.com/watch?v=9_sAzyTCZzQ
+---
+Track: Cross Your Heart (Graveyard BGM)
+# Reference:
+#   https://vgmdb.net/album/17063
+Artists:
+- Castlevania
+Duration: '0:55'
+URLs:
+- https://www.youtube.com/watch?v=BVDfQQdVEuI
+---
+Track: Dalarna
+# Reference:
+#   https://vgmdb.net/album/100692
+Artists:
+- Minecraft
+- Peter Hont
+Duration: '3:32'
+URLs:
+- https://www.youtube.com/watch?v=McKTbntEShA
+---
+Track: Dance of Gold
+# Reference:
+#   https://vgmdb.net/album/4772
+Artists:
+- Castlevania
+Duration: '1:53'
+URLs:
+- https://www.youtube.com/watch?v=t-WyvRCYHF0
+---
+Track: Dance of the Blocks (Shrunk)
+# Reference:
+#   https://vgmdb.net/album/63322
+Artists:
+- Minecraft
+- Gareth Coker
+Duration: '2:15'
+URLs:
+- https://www.youtube.com/watch?v=vOQrj5514CQ
+---
+Track: Dancing People
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
 ---
 Track: Danganronpa!
 Duration: '2:13'
@@ -2804,6 +3160,27 @@ Duration: '2:58'
 URLs:
 - https://www.youtube.com/watch?v=KYdRWC6MCgM
 ---
+Track: Demo BGM (Yūyūki)
+Directory: demo-bgm-yuyuki
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
+---
+Track: Desperate Struggle
+# Reference:
+#   https://vgmdb.net/album/71811
+Artists:
+- Tekken
+- Taku Inoue
+Duration: '3:27'
+URLs:
+- https://www.youtube.com/watch?v=QtcpQ_XRvKI
+---
 Track: Destiny (Ablaze)
 # Reference:
 #   https://vgmdb.net/album/37510
@@ -2824,6 +3201,17 @@ Duration: '1:52'
 URLs:
 - https://giantspacepickle.bandcamp.com/track/dissonance
 ---
+Track: Dist Thins Out (Character Select)
+# Reference:
+#   https://vgmdb.net/album/16044
+#   https://www.youtube.com/playlist?list=OLAK5uy_mrfxBZva4h7z1yZZfU_zB1TuQKZWtOQMk
+Artists:
+- Tekken
+- Keiichi Okabe
+Duration: '1:37'
+URLs:
+- https://www.youtube.com/watch?v=nJzvZmRmeEM
+---
 Track: Dive Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -2833,6 +3221,16 @@ Artists:
 Duration: '1:39'
 URLs:
 - https://www.youtube.com/watch?v=6bXE8ldC2DA
+---
+Track: Divine Bloodlines (Stage 1 BGM)
+# Reference:
+#   https://vgmdb.net/album/2938
+Artists:
+- Castlevania
+- akiropito
+Duration: '3:22'
+URLs:
+- https://www.youtube.com/watch?v=XoGCokTDSyA
 ---
 Track: Doctor Frog
 # Track named in-game, no official releases
@@ -2940,6 +3338,16 @@ Lyrics: |-
     Grapes, melons, oranges and coconut shells!
     Ahh yeah!
 ---
+Track: Dojo 1st
+# Reference:
+#   https://vgmdb.net/album/135815
+Artists:
+- Tekken
+- Rio Hamamoto
+Duration: '4:27'
+URLs:
+- https://www.youtube.com/watch?v=IVPOmE687Yw
+---
 Track: Doll Judgement ~ The Girl Who Played with People's Shapes
 # No official release of the in-game track
 Artists:
@@ -3041,6 +3449,16 @@ Duration: '1:44'
 URLs:
 - https://www.youtube.com/watch?v=Tud96HogGbo
 ---
+Track: Duck Get! (Duck Hunt)
+# Reference:
+#   https://vgmdb.net/album/1424
+Artists:
+- Duck Hunt
+- Hirokazu Tanaka
+Duration: '0:01'
+URLs:
+- https://www.youtube.com/watch?v=PKS8EBHj9fc
+---
 Track: Dungeon Theme
 # The only upload I could find of the apparent original soundtrack release, on "The Legend of Zelda SOUND & DRAMA", was on Niconico: https://www.nicovideo.jp/watch/sm16507868 - I don't think it's possible to link timestamps on nicovideo.jp though.
 # JP: 地下
@@ -3055,6 +3473,16 @@ Artists:
 Duration: '1:05'
 URLs:
 - https://youtu.be/IDp0Mu1E1Bw
+---
+Track: Earth
+# Reference:
+#   https://vgmdb.net/album/109148
+Artists:
+- Minecraft
+- Shauny Jang
+Duration: '5:47'
+URLs:
+- https://www.youtube.com/watch?v=n9ic7EcnaBY
 ---
 Track: Eastern Ghostly Dream ~ Ancient Temple
 # Also known as Mystic Oriental Dream
@@ -3182,6 +3610,15 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=-F3_Cj-fMWw
 ---
+Track: Famicom Disk System
+# Reference:
+#   https://vgmdb.net/album/41635
+##Artists:
+##- unknown
+Duration: '0:10'
+URLs:
+- https://www.youtube.com/watch?v=FzmH9nUXCiQ
+---
 Track: Fear of the Heavens
 # JP: 天使の怖れ
 # Official release:
@@ -3194,6 +3631,17 @@ Artists:
 Duration: '1:42'
 URLs:
 - https://youtu.be/xgM9f0CSFe8
+---
+Track: Fight On, Heroes!
+# Reference:
+#   https://nintendo.fandom.com/wiki/Daisuke_Matsuoka#Game_Works
+Artists:
+- Mii
+- Daisuke Matsuoka
+#Duration: ''
+# no release
+URLs:
+- https://www.youtube.com/watch?v=s9G0SrydpUw
 ---
 Track: File Select (Super Mario 64)
 # JP: ファイルセレクト
@@ -3405,6 +3853,15 @@ Duration: '2:42'
 URLs:
 - https://www.youtube.com/watch?v=FkdMeqbHh1M
 ---
+Track: Forest World
+# Reference:
+#   https://vgmdb.net/album/6177
+Artists: #composer unknown
+- Athena
+Duration: '1:30'
+URLs:
+- https://www.youtube.com/watch?v=tndPRfdxyws
+---
 Track: Fortress Boss (Super Mario Bros. 3)
 # Reference:
 #   https://vgmdb.net/album/533
@@ -3427,14 +3884,13 @@ URLs:
 - https://www.youtube.com/watch?v=vRr9qG2VeWk
 ---
 Track: Freezeezy Peak
-# Official release
-#   Banjo Kazooie: Re-Jiggyed
+# This track was using Re-Jiggyed as reference, which is an arrangement album released in 2021 and not the original Banjo-Kazooie soundtrack. Replaced with a release of BK's original soundtrack.
 # Reference:
-#   https://vgmdb.net/album/119462
+#   https://vgmdb.net/album/48423
 Artists:
 - Banjo Kazooie
 - Grant Kirkhope
-Duration: '4:12'
+Duration: '4:18'
 URLs:
 - https://www.youtube.com/watch?v=fXxkjnizIMA
 ---
@@ -3451,6 +3907,16 @@ Artists:
 Duration: '1:50'
 URLs:
 - https://www.youtube.com/watch?v=EFBlzu96RkU
+---
+Track: Gaia (Earthquake)
+# Reference:
+#   https://vgmdb.net/album/89832
+Artists:
+- Samurai Shodown
+- Tate Norio
+Duration: '2:37'
+URLs:
+- https://www.youtube.com/watch?v=6fMhNdVwMCI
 ---
 Track: Galactic Nova
 # No official release of the in-game track (or Kirby Super Star's in-game soundtrack at all)
@@ -3486,6 +3952,26 @@ URLs:
 - https://youtu.be/OsSDYf5yMOE
 - https://kawaisprite.bandcamp.com/track/game-over-dont-stop
 ---
+Track: Game A/B Start (Duck Hunt)
+# Reference:
+#   https://vgmdb.net/album/1424
+Artists:
+- Duck Hunt
+- Hirokazu Tanaka
+Duration: '0:06'
+URLs:
+- https://www.youtube.com/watch?v=LhuP6RaQDzM
+---
+Track: Game C Start (Duck Hunt)
+# Reference:
+#   https://vgmdb.net/album/1424
+Artists:
+- Duck Hunt
+- Hirokazu Tanaka
+Duration: '0:05'
+URLs:
+- https://www.youtube.com/watch?v=O6s8zQHa7NY
+---
 Track: Game Start (Donkey Kong)
 # Reference:
 #   https://vgmdb.net/product/10348
@@ -3517,6 +4003,16 @@ Artists:
 Duration: '0:02'
 URLs:
 - https://www.youtube.com/watch?v=biZ-6T5fUEE
+---
+Track: Game Over (Duck Hunt)
+# Reference:
+#   https://vgmdb.net/album/1424
+Artists:
+- Duck Hunt
+- Hirokazu Tanaka
+Duration: '0:06'
+URLs:
+- https://www.youtube.com/watch?v=KwaIWYu8h2Q
 ---
 Track: Game Over (The Legend of Zelda)
 # Reference:
@@ -3634,6 +4130,16 @@ Duration: '0:55'
 URLs:
 - https://youtu.be/Wq8FK9Z_RGQ
 ---
+Track: Glide (Map 1)
+# Reference:
+#   https://vgmdb.net/album/111056
+Artists:
+- Minecraft
+- Gareth Coker
+Duration: '2:11'
+URLs:
+- https://www.youtube.com/watch?v=MSaxAAqw4Yw
+---
 Track: goldenslaughterer
 # Official release:
 #   Umineko no Naku Koro ni musicbox Red
@@ -3701,6 +4207,26 @@ Lyrics: |-
     Harikitte yukimashou (<i>Let's move forward enthusiastically</i>)
     Subete no kagayaki (<i>All of the shining things</i>)
     Kono yubi ni tomare (<i>Come rest on this finger</i>)
+---
+Track: GO WEST!
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
+---
+Track: Gobi's Valley
+# Reference:
+#   https://vgmdb.net/album/48423
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '4:19'
+URLs:
+- https://www.youtube.com/watch?v=4qGVCijjJlk
 ---
 Track: Gormott
 # Reference:
@@ -3813,6 +4339,16 @@ Duration: '1:05'
 URLs:
 - https://www.youtube.com/watch?v=Q_saM7I20pY
 ---
+Track: Gruntilda's Lair
+# Reference:
+#   https://vgmdb.net/album/48423
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '4:03'
+URLs:
+- https://www.youtube.com/watch?v=lO78gtoZDF4
+---
 Track: Guile's Theme
 # From Street Fighter II, which was released in several different versions but... carried the same soundtrack... I think?
 # Original release:
@@ -3850,6 +4386,16 @@ Artists:
 Duration: '1:02'
 URLs:
 - https://www.youtube.com/watch?v=b9Sp1eRE5o0
+---
+Track: Halland
+# Reference:
+#   https://vgmdb.net/album/100692
+Artists:
+- Minecraft
+- Johan Johnson
+Duration: '4:56'
+URLs:
+- https://www.youtube.com/watch?v=Qw4YH3fNPWQ
 ---
 Track: Haltmann Works Co. HQ
 # JP: ハルトマンワークスカンパニーHQ
@@ -3903,6 +4449,16 @@ Artists:
 Duration: '1:47'
 URLs:
 - https://www.youtube.com/watch?v=JzzJwrIN6Mc
+---
+Track: Haremar Faith Capoeira School - Song of the Fight [Believers Will Be Saved] (Richard Meyer's Theme)
+# Reference:
+#   https://vgmdb.net/album/102108
+Artists:
+- Fatal Fury
+- Toshikazu Tanaka
+Duration: '2:41'
+URLs:
+- https://www.youtube.com/watch?v=opRGVPgICps
 ---
 Track: Harmony
 Directory: harmony-runescape
@@ -4034,6 +4590,16 @@ URLs:
 - https://www.youtube.com/watch?v=t6JgG__XbRA
 Referenced Tracks:
 - Title (The Legend of Zelda)
+---
+Track: I'll Face Myself
+# Reference:
+#   https://vgmdb.net/album/63053
+Artists:
+- Persona
+- Shoji Meguro
+Duration: '2:41'
+URLs:
+- https://www.youtube.com/watch?v=u211NEojTLg
 ---
 Track: Ice Man Stage
 # Reference:
@@ -4205,6 +4771,27 @@ Duration: '3:22'
 URLs:
 - https://www.youtube.com/watch?v=xeEwEVDQQFw
 ---
+Track: Invincibility Theme (Super Mario Bros.)
+# Reference:
+#   https://vgmdb.net/album/533
+Directory: invincibility-theme-smb
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '0:21'
+URLs:
+- https://www.youtube.com/watch?v=yBISfv-6hfo
+---
+Track: Iron-Blue Intention (Stage 4 BGM · German Iron and Steel Factory)
+# Reference:
+#   https://vgmdb.net/album/2938
+Artists:
+- Castlevania
+- Tomoko Sano
+Duration: '1:57'
+URLs:
+- https://www.youtube.com/watch?v=XoGCokTDSyA
+---
 Track: Jump Up, Super Star!
 # Officially released as an iTunes single.
 # Reference:
@@ -4316,6 +4903,19 @@ Commentary: |-
 
     While the lyrics here are from the (probably known to you) English version of the song, the Japanese version was the first version to be created (although both launched simultaneously).
 ---
+Track: Karma (Electric Fountain)
+# Reference:
+#   https://vgmdb.net/album/16044
+#   https://www.youtube.com/playlist?list=OLAK5uy_mrfxBZva4h7z1yZZfU_zB1TuQKZWtOQMk
+Artists:
+- Tekken
+- Akitaka Tohyama
+Contributors:
+- Nami Nakagawa (vocal)
+Duration: '3:32'
+URLs:
+- https://www.youtube.com/watch?v=6uQv-dihEcE
+---
 Track: Kass's Theme
 # Reference:
 #   https://vgmdb.net/album/75831
@@ -4410,6 +5010,17 @@ Lyrics: |-
     Nana nananananana na na Katamari Damacy
     Nana nananananana na na Katamari Damacy
 ---
+Track: Kazuya Mishima, Devil Kazuya
+# Reference:
+#   https://vgmdb.net/album/49622
+#   https://www.youtube.com/playlist?list=OLAK5uy_mK7MbS6PyCan9bo0aqHZlca0mUxyV1xuE
+Artists:
+- Tekken
+- Yoshie Arakawa
+Duration: '1:09'
+URLs:
+- https://www.youtube.com/watch?v=AQYdiY-tOZM
+---
 Track: King Bowser
 # Reference:
 #   https://vgmdb.net/album/533
@@ -4453,6 +5064,27 @@ Duration: '0:48'
 URLs:
 - https://www.youtube.com/watch?v=bz2_H5gizpQ
 ---
+Track: Kurikinton (America Stage I) Terry Bogard
+# Reference:
+#   https://vgmdb.net/album/1139
+#    https://www.youtube.com/playlist?list=OLAK5uy_l35SJL1ZB6vCexNgyEwT11QZc7ckSbKKM
+Artists:
+- Fatal Fury
+- Toshio Shimizu
+Duration: '2:00'
+URLs:
+- https://www.youtube.com/watch?v=n-vIHzWdHMI
+---
+Track: Lament of Innocence ~Leon's Theme~
+# Reference:
+#   https://vgmdb.net/album/481
+Artists:
+- Castlevania
+- Michiru Yamane
+Duration: '4:34'
+URLs:
+- https://www.youtube.com/watch?v=jZLRnQqEyt0
+---
 Track: Lambda Core
 # https://joelnielsen.bandcamp.com/album/black-mesa-terra-soundtrack-definitive-edition-vol-1-2
 Artists:
@@ -4462,6 +5094,35 @@ Duration: '1:15'
 URLs:
 - https://joelnielsen.bandcamp.com/track/lambda-core
 - https://www.youtube.com/watch?v=uTvYl4IgEcM
+---
+Track: Landscape Under The Ghost -Kaminano (AD2012)
+# Reference:
+#   https://vgmdb.net/album/39369
+Artists:
+- Tekken
+- Yoshihito Yano
+Contributors:
+- Ryoko Shiraishi (vocal)
+Duration: '2:33'
+URLs:
+- https://www.youtube.com/watch?v=lc6yWqxtw1s
+Referenced Tracks:
+- Landscape Under The Ghost -Kaminano
+---
+Track: Landscape Under The Ghost -Kaminano
+# Reference:
+#   https://vgmdb.net/album/49622
+#   https://www.youtube.com/playlist?list=OLAK5uy_mK7MbS6PyCan9bo0aqHZlca0mUxyV1xuE
+Artists:
+- Tekken
+- Akira Nishizaki
+Contributors:
+- Ryoko Shiraishi (voice)
+- Camilla Hakelind (voice)
+- Mahoro Nakada (sub vocal)
+Duration: '2:19'
+URLs:
+- https://www.youtube.com/watch?v=4Cj2HxMjkSg
 ---
 Track: Last Battle
 # The original Cave Story's soundtrack hasn't been officially released.
@@ -4528,6 +5189,16 @@ Duration: '4:02'
 URLs:
 - https://www.youtube.com/watch?v=22VRuM1f6AA
 ---
+Track: Let's Go to Seoul! (Korea Stage) Kim
+# Reference:
+#   https://vgmdb.net/album/1139
+#    https://www.youtube.com/playlist?list=OLAK5uy_l35SJL1ZB6vCexNgyEwT11QZc7ckSbKKM
+Artists: ##composer unknown
+- Fatal Fury
+Duration: '2:47'
+URLs:
+- https://www.youtube.com/watch?v=vkrKJyXJUZM
+---
 Track: Level 1 Clear (Donkey Kong Jr.)
 # Reference:
 #   https://vgmdb.net/product/10349
@@ -4587,6 +5258,16 @@ Artists:
 - F-ZERO
 URLs:
 - https://www.youtube.com/watch?v=yOAK2byXilo
+---
+Track: Light Plane
+# Reference:
+#   https://vgmdb.net/album/2032
+Artists:
+- Pilotwings
+- Soyo Oka
+Duration: '1:54'
+URLs:
+- https://www.youtube.com/watch?v=LBnHnog1TwI
 ---
 Track: Light Spirit's Elegy
 # Reference:
@@ -4735,6 +5416,25 @@ Duration: '5:56'
 URLs:
 - https://www.youtube.com/watch?v=eU9y5b_Hh-8
 ---
+Track: Lost Painting
+# Reference:
+#   https://vgmdb.net/album/4772
+Artists:
+- Castlevania
+Duration: '1:42'
+URLs:
+- https://www.youtube.com/watch?v=mkwwAaQEZ38
+---
+Track: Mad Monster Mansion
+# Reference:
+#   https://vgmdb.net/album/48423
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '4:17'
+URLs:
+- https://www.youtube.com/watch?v=dx3rA7VZduU
+---
 Track: Magicant
 # Reference
 #   https://vgmdb.net/album/106653
@@ -4811,6 +5511,37 @@ Contributors:
 URLs:
 - https://www.youtube.com/watch?v=SzDmvY2pRJI
 ---
+Track: Main Theme from Metal Slug ##Also known as Stage 1
+# Reference:
+#   https://vgmdb.net/album/1113
+#   https://vgmdb.net/album/80958
+Artists:
+- Metal Slug
+- Takushi Hiyamuta
+Duration: '4:19'
+URLs:
+- https://www.youtube.com/watch?v=0IIfLwcLTgc
+---
+Track: Main Theme of FINAL FANTASY VII
+# Reference:
+#   https://vgmdb.net/album/3
+Artists:
+- Final Fantasy
+- Nobuo Uematsu
+Duration: '6:30'
+URLs:
+- https://www.youtube.com/watch?v=ORpKwkq5z-4
+---
+Track: Main Title (Banjo-Kazooie)
+# Reference:
+#   https://vgmdb.net/album/48423
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '1:04'
+URLs:
+- https://www.youtube.com/watch?v=pGWwe4OysKA
+---
 Track: Make it better (Ending)
 # Official Release:
 #   DJMAX Respect Original Soundtrack
@@ -4871,6 +5602,16 @@ Duration: '2:41'
 URLs:
 - https://www.youtube.com/watch?v=upOhRRYVGkA
 ---
+Track: Mayahem Temple
+# Reference:
+#   https://vgmdb.net/album/278
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '4:18'
+URLs:
+- https://www.youtube.com/watch?v=t0qbmd0rAqI
+---
 Track: Maybe I'm a Lion
 # JP: メイビー・アイ・アム・ア・ライオン
 # Official release:
@@ -4896,6 +5637,16 @@ Artists:
 Duration: '2:12'
 URLs:
 - https://www.youtube.com/watch?v=Z2OjZM9Qvpc
+---
+Track: Meteor Shower
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
 ---
 Track: Metal Man Stage
 # Reference:
@@ -4940,6 +5691,26 @@ Duration: '2:55'
 URLs:
 - https://www.youtube.com/watch?v=Nj6pkTO9AEA
 ---
+Track: Miss (Duck Hunt)
+# Reference:
+#   https://vgmdb.net/album/1424
+Artists:
+- Duck Hunt
+- Hirokazu Tanaka
+Duration: '0:02'
+URLs:
+- https://www.youtube.com/watch?v=7fkgjgBJKzk
+---
+Track: Monster Dance (By Night BGM)
+# Reference:
+#   https://vgmdb.net/album/121
+Artists:
+- Castlevania
+- Kenichi Matsubara
+Duration: '0:58'
+URLs:
+- https://www.youtube.com/watch?v=-HUwLA57paU
+---
 Track: Moon Over the Castle
 # Original release:
 #   グランツーリスモ オリジナル・ゲームサウンドトラック
@@ -4951,6 +5722,16 @@ Artists:
 Duration: '5:25'
 URLs:
 - https://youtu.be/LLXtfo6eXbE
+---
+Track: Moonsiders 1st
+# Reference:
+#   https://vgmdb.net/album/71811
+Artists:
+- Tekken
+- Taku Inoue
+Duration: '3:46'
+URLs:
+- https://www.youtube.com/watch?v=gUI9lQb_d0o
 ---
 Track: Moonsong
 # The original Cave Story's soundtrack hasn't been officially released.
@@ -4982,6 +5763,16 @@ Duration: '1:10'
 URLs:
 - https://youtu.be/TyN4aGJVkKY
 ---
+Track: Mumbo's Mountain
+# Reference:
+#   https://vgmdb.net/album/48423
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '4:17'
+URLs:
+- https://www.youtube.com/watch?v=o84aZ6iQoKA
+---
 Track: Mute City
 # Reference:
 #   https://vgmdb.net/product/200
@@ -5003,6 +5794,17 @@ Artists:
 Duration: '0:24'
 URLs:
 - https://www.youtube.com/watch?v=DJyjkB0DEsw
+---
+Track: Name Entry (Yūyūki)
+Directory: name-entry-yuyuki
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
 ---
 Track: Napalm Man Stage
 # Reference:
@@ -5056,6 +5858,17 @@ Artists:
 - Studio EIM
 URLs:
 - https://www.youtube.com/watch?v=EXv5madDarI
+---
+Track: Noisy Notebook
+# Reference:
+#   https://vgmdb.net/product/9068
+Artists:
+- Snipperclips
+- Calum Bowen
+#Duration: ''
+# unreleased
+URLs:
+- https://www.youtube.com/watch?v=mEZ7o7UQY94
 ---
 Track: Now or Never! (Splatoon)
 # Reference:
@@ -5185,6 +5998,16 @@ Lyrics: |-
     Open your heart
     Yeah
 ---
+Track: Opening - Bombing Mission
+# Reference:
+#   https://vgmdb.net/album/3
+Artists:
+- Final Fantasy
+- Nobuo Uematsu
+Duration: '3:58'
+URLs:
+- https://www.youtube.com/watch?v=NoWU28L_ZmQ
+---
 Track: Opening (Destroyed Science Academy Research Station)
 # Reference:
 #   https://vgmdb.net/album/883
@@ -5239,6 +6062,17 @@ Duration: '1:40'
 URLs:
 - https://www.youtube.com/watch?v=8F2jf0NRl2Y
 ---
+Track: Opening Title (Yūyūki)
+Directory: opening-title-yuyuki
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
+---
 Track: Otherworld
 Directory: otherworld-final-fantasy-ix
 Always Reference By Directory: true
@@ -5286,6 +6120,16 @@ Lyrics: |-
     Free now ride up on it Up to the heights it takes you
     Go now if you want it An otherworld awaits you
 ---
+Track: Out of Time (Clock Tower BGM)
+# Reference:
+#   https://vgmdb.net/album/12153
+Artists:
+- Castlevania
+- Satoe Terashima
+Duration: '1:22'
+URLs:
+- https://www.youtube.com/watch?v=5jh3B4TXNfw
+---
 Track: Overworld Adventure Part 2
 # JP: 汽車フィールド その2(メインテーマ)
 # The Spirit Tracks soundtrack was never individually released.
@@ -5310,6 +6154,36 @@ Artists:
 Duration: '1:21'
 URLs:
 - https://www.youtube.com/watch?v=ncg72VswyTs
+---
+Track: Pasta (Italy Stage) Andy Bogard
+# Reference:
+#   https://vgmdb.net/album/1139
+#    https://www.youtube.com/playlist?list=OLAK5uy_l35SJL1ZB6vCexNgyEwT11QZc7ckSbKKM
+Artists: ##composer unknown
+- Fatal Fury
+Duration: '2:05'
+URLs:
+- https://www.youtube.com/watch?v=llhVvjvImS4
+---
+Track: Parting Ways
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
+---
+Track: Perfect (Duck Hunt)
+# Reference:
+#   https://vgmdb.net/album/1424
+Artists:
+- Duck Hunt
+- Hirokazu Tanaka
+Duration: '0:02'
+URLs:
+- https://www.youtube.com/watch?v=hAjSCoxB1Ig
 ---
 Track: Phoenix Wright - Objection! 2001
 # JP: 成歩堂龍一　～異議あり！ 2001
@@ -5439,6 +6313,97 @@ Duration: '0:15'
 URLs:
 - https://www.youtube.com/watch?v=wt4UpLez4Fc
 ---
+Track: Psycho Soldier Theme
+# Reference:
+#   https://vgmdb.net/album/6947
+#   https://vgmdb.net/product/11406
+Artists:
+- Athena
+- Eikichi Kawasaki (composer & lyricist)
+Contributors:
+- Kaori Shimizu (vocals)
+Duration: '1:10'
+URLs:
+- https://www.youtube.com/watch?v=l5Ob0cBPjQg
+Lyrics: |-
+    SAIKO BŌRU ga hikari hanachi (<i>The Psycho Ball's light bursts</i>)
+    ATENA no sugata terashi dasu no (<i>Athena's form begins to illuminate</i>)
+    SAIKO PAWĀ o kokoro ni himete (<i>With Psycho Power hidden in her heart</i>)
+    Hateshinai michi o hashiru (<i>Down the endless road, she runs</i>)
+    Ima wa mō aozora mienaikedo (<i>Now she can no longer see the blue sky</i>)
+
+    FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
+    FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
+---
+Track: Psycho Soldier Theme
+Directory: psycho-soldier-theme-cassette
+# Reference:
+#   https://vgmdb.net/album/6182
+Artists:
+- Athena
+- Eikichi Kawasaki (composer & lyricist)
+Contributors:
+- Kaori Shimizu (vocals)
+Duration: '3:06'
+URLs:
+- https://www.youtube.com/watch?v=y4y13vnGXec
+Referenced Tracks:
+- track:psycho-soldier-theme
+Lyrics: |-
+    SAIKO BŌRU ga hikari hanachi (<i>The Psycho Ball's light bursts</i>)
+    no sugata terashi dasu no (<i>Athena's form begins to illuminate</i>)
+    SAIKO PAWĀ o kokoro ni himete (<i>With Psycho Power hidden in her heart</i>)
+    Hateshinai michi o hashiru (<i>Down the endless road, she runs</i>)
+    Ima wa mō aozora mienaikedo (<i>Now she can no longer see the blue sky</i>)
+
+    FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
+    FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
+
+    SAIKO SŌDO ga yami o sai te (<i>The Psycho Sword cuts through the darkness</i>)
+    ATENA wa yume o sukui dasu no (<i>Athena begins to rescue dreams</i>)
+    Honō no yō ni moeru hitomi (<i>With eyes burning like flames</i>)
+    Kibō no kake-ra o mitsume (<i>She stares at a glimmer of hope</i>)
+    Ima wa mada namida wa misenai wa (<i>Now she can't have her tears be seen yet</i>)
+
+    FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
+    FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
+
+    SAIKO BĪMU no kagayaki nokoshi (<i>The Psycho Beam leaves radiance behind</i>)
+    ATENA wa mirai o motome tabidatsu (<i>Athena sets out to find the future</i>)
+    are hitori shiranai ashita (<i>In the unknown tomorrow</i>)
+    Hi no tori no sugata karite (<i>She takes the shape of a phoenix</i>)
+    Doko made mo tsudzuku sora o tobu no (<i>And flies across the endless sky</i>)
+
+    FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
+    FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
+---
+Track: Psycho Soldier Theme (Overseas Version)
+Directory: psycho-soldier-theme-overseas
+# Reference:
+#   https://vgmdb.net/album/6947
+#   https://vgmdb.net/product/11406
+Artists:
+- Athena
+- Eikichi Kawasaki (composer & lyricist)
+Contributors:
+- Kaori Shimizu (vocals)
+Duration: '1:09'
+URLs:
+- https://www.youtube.com/watch?v=l5Ob0cBPjQg
+Referenced Tracks:
+- track:psycho-soldier-theme
+Lyrics: |-
+    Athena’s name is magic
+    Mystery, it’s what you’ll see
+    Her crystal is the answer
+    Fighting fair to keep us free
+    She’s just a little girl with power inside, burning bright
+    You better hide if you are bad, she’ll get you
+    She’ll read your mind and find if you believe in right or wrong
+
+    Fire! Fire! Psycho Soldier
+    Fire! Fire! Psycho Soldier
+---
 Track: Pursuit - Corner the Culprit
 # JP: 追求　～追いつめられて
 # Official releases:
@@ -5474,6 +6439,16 @@ Artists:
 Duration: '4:37'
 URLs:
 - https://www.youtube.com/watch?v=kR7azqI6wik
+---
+Track: Ramen Bowl
+# Reference:
+#   https://vgmdb.net/product/8925
+Artists:
+- ARMS
+- Atsuko Asahi
+Duration: '1:12' #one loop
+URLs:
+- https://www.youtube.com/watch?v=ZiHTUIi68rs
 ---
 Track: "Re: Mr. Monokuma's Lesson"
 Duration: '3:45'
@@ -5715,6 +6690,16 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=VQPqmS5iGzY
 ---
+Track: Rusty Bucket Bay
+# Reference:
+#   https://vgmdb.net/album/48423
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '3:54'
+URLs:
+- https://www.youtube.com/watch?v=GSv-v-uSxSA
+---
 Track: Ryuunosuke Akutagawa's "Kappa" ~ Candid Friend
 # No official release of the in-game track
 Artists:
@@ -5743,6 +6728,17 @@ Artists:
 - Yumiko Kanki
 URLs:
 - https://www.youtube.com/watch?v=XUJOlDhh7C4
+---
+Track: Save the World, Heroes!
+# Reference:
+#   https://nintendo.fandom.com/wiki/Daisuke_Matsuoka#Game_Works
+Artists:
+- Mii
+- Daisuke Matsuoka
+#Duration: ''
+# no release
+URLs:
+- https://www.youtube.com/watch?v=HBCobfFCmzI
 ---
 Track: Say "I Gotta Believe!"
 # Official release:
@@ -5968,6 +6964,18 @@ Artists:
 Duration: '1:47'
 URLs:
 - https://www.youtube.com/watch?v=V-z1HLxLJto
+---
+Track: Sky Arena
+# Reference:
+#   https://vgmdb.net/product/8925
+Artists:
+- ARMS
+- Atsuko Asahi
+Duration: '1:57' #one loop
+URLs:
+- https://www.youtube.com/watch?v=JcZEJKbFm4w
+Referenced Tracks:
+- track:arms-grand-prix-official-theme-song
 ---
 Track: Sleeping Terror
 # No official release of the in-game track
@@ -6220,6 +7228,16 @@ Duration: '2:59'
 URLs:
 - https://waterflame.bandcamp.com/track/space-pirates
 ---
+Track: Spiral Mountain
+# Reference:
+#   https://vgmdb.net/album/48423
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '4:20'
+URLs:
+- https://www.youtube.com/watch?v=Je_kcqS9zcs
+---
 Track: Splattack!
 # Reference:
 #   https://vgmdb.net/album/54591
@@ -6259,6 +7277,28 @@ Lyrics: |-
     Ambush this dude!
     Splatatatatatatata Splatoon!
 ---
+Track: Spring Stadium
+# Reference:
+#   https://vgmdb.net/product/8925
+Artists:
+- ARMS
+- Atsuko Asahi
+Duration: '1:08' #one loop
+URLs:
+- https://www.youtube.com/watch?v=ZiHTUIi68rs
+Referenced Tracks:
+- track:arms-grand-prix-official-theme-song
+---
+Track: Starker (Tower BGM)
+# Reference:
+#   https://vgmdb.net/album/12153
+Artists:
+- Castlevania
+- Satoe Terashima
+Duration: '1:15'
+URLs:
+- https://www.youtube.com/watch?v=WW0fSo7P7CE
+---
 Track: Start Music (Galaga)
 # Reference:
 #   https://vgmdb.net/album/15951
@@ -6297,6 +7337,15 @@ Duration: '2:00'
 URLs:
 - https://www.youtube.com/watch?v=oMSCjGJp8Gk
 ---
+Track: Stormy Saxophone 2 (Yagami Team Theme)
+# Reference:
+#   https://vgmdb.net/album/1567
+Artists: #composer unknown
+- The King of Fighters
+Duration: '3:34'
+URLs:
+- https://www.youtube.com/watch?v=84vPDrLutNo
+---
 Track: Super Dry Dance
 # (See Eight Melodies, no official soundtrack release)
 Artists:
@@ -6305,6 +7354,15 @@ Artists:
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=VjSUpctGEUQ
+---
+Track: SYD Overdrive
+# Reference:
+#   none! yay!
+Artists: #composer unknown
+- Alpha Mission
+Duration: '1:53'
+URLs:
+- https://www.youtube.com/watch?v=AxPqfuI0Uu4
 ---
 Track: Synchrony
 Directory: synchrony-brandish-the-planet-buster
@@ -6330,6 +7388,16 @@ Artists:
 Duration: '3:25'
 URLs:
 - https://www.youtube.com/watch?v=5G8Z4p7PIck
+---
+Track: Tarkun and Kitapy (Australia Stage) Big Bear
+# Reference:
+#   https://vgmdb.net/album/1139
+#    https://www.youtube.com/playlist?list=OLAK5uy_l35SJL1ZB6vCexNgyEwT11QZc7ckSbKKM
+Artists: ##composer unknown
+- Fatal Fury
+Duration: '2:49'
+URLs:
+- https://www.youtube.com/watch?v=XuSTcFfGPwg
 ---
 Track: Termina Field
 # Reference:
@@ -6369,6 +7437,16 @@ URLs:
 - https://www.youtube.com/watch?v=-7WQn-SXYZ
 Referenced Tracks:
 - Before the Sequel - Title Screen
+---
+Track: The Arch-Illager
+# Reference:
+#   https://vgmdb.net/album/100692
+Artists:
+- Minecraft
+- Gareth Coker
+Duration: '2:45'
+URLs:
+- https://www.youtube.com/watch?v=WZboTEqcJdU
 ---
 Track: The Battle at the Summit!
 # Reference:
@@ -6550,6 +7628,42 @@ Duration: 0:52
 URLs:
 - https://youtu.be/UrA3yf_W_I4
 ---
+Track: The London March (Billy Kane)
+# Reference:
+#   https://vgmdb.net/album/2758
+#    https://www.youtube.com/playlist?list=OLAK5uy_lK4nHNdpAwGgGgkJMckNWtUNBEQ05oG2c
+Artists: ##composer unknown
+- Fatal Fury
+Duration: '3:12'
+URLs:
+- https://www.youtube.com/watch?v=J5njxCv0jls
+Referenced Tracks:
+- The London March (England Stage) Billy Kane
+---
+Track: The London March (England Stage) Billy Kane
+# Reference:
+#   https://vgmdb.net/album/1139
+#    https://www.youtube.com/playlist?list=OLAK5uy_l35SJL1ZB6vCexNgyEwT11QZc7ckSbKKM
+Artists: ##composer unknown
+- Fatal Fury
+Duration: '2:55'
+URLs:
+- https://www.youtube.com/watch?v=EW1qLlDvn7k
+---
+Track: The Long Goodbye
+# Reference:
+#   https://vgmdb.net/album/71811
+#   https://vgmdb.net/album/135815
+Artists:
+- Tekken
+- Taku Inoue (lyrics & music)
+Contributors:
+- Darnell Abraham (vocal)
+- Yumi Hara (choir)
+Duration: '2:45'
+URLs:
+- https://www.youtube.com/watch?v=NPFNUNkgh8w
+---
 Track: The Primal Scene of Japan the Girl Saw
 # No official release of the in-game track
 Artists:
@@ -6655,6 +7769,15 @@ Artists:
 Duration: '3:17'
 URLs:
 - https://www.youtube.com/watch?v=matq6G5jgyE
+---
+Track: Theme of SYD
+# Reference:
+#   none! yay!
+Artists: #composer unknown
+- Alpha Mission
+Duration: '3:14'
+URLs:
+- https://www.youtube.com/watch?v=2nRERYlmKDE
 ---
 Track: Thin RED Line
 # JP: Thin RED Line-アラクネ　テーマ曲
@@ -6769,6 +7892,58 @@ Duration: '1:12'
 URLs:
 - https://www.youtube.com/watch?v=weB1XprepU4
 ---
+Track: Title Theme (Duck Hunt)
+# Reference:
+#   https://vgmdb.net/album/1424
+Artists:
+- Duck Hunt
+- Hirokazu Tanaka
+Duration: '0:04'
+URLs:
+- https://www.youtube.com/watch?v=gHHoR5kMooY
+---
+Track: Title Theme (Find Mii)
+# Reference:
+#   https://nintendo.fandom.com/wiki/Daisuke_Matsuoka#Game_Works
+Artists:
+- Mii
+- Daisuke Matsuoka
+#Duration: ''
+# no release
+URLs:
+- https://www.youtube.com/watch?v=86eBnzJaXIo
+---
+Track: Title Theme (Find Mii II)
+# Reference:
+#   https://nintendo.fandom.com/wiki/Daisuke_Matsuoka#Game_Works
+Artists:
+- Mii
+- Daisuke Matsuoka
+#Duration: ''
+# no release
+URLs:
+- https://www.youtube.com/watch?v=1EukjsHlxh0
+---
+Track: Title Theme (Wii Sports)
+# Reference:
+#   https://vgmdb.net/album/10379
+Artists:
+- Wii Sports
+- Kazumi Totaka
+Duration: '2:23'
+URLs:
+- https://www.youtube.com/watch?v=2qvAxPqy2wA
+---
+Track: Title Theme (Wii Sports Club)
+# Reference:
+#   https://vgmdb.net/product/10900
+Artists:
+- Wii Sports
+- Kazumi Totaka
+#Duration: '2:23'
+URLs:
+- https://www.youtube.com/watch?v=nNFT8HRwbdQ
+---
 Track: Title (Luigi's Mansion)
 Artists: ##Kazumi Totaka and Shinobu Tanaka are both listed in the credits of Luigi's Mansion. It is unknown who made this track.
 - Super Mario
@@ -6861,6 +8036,16 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Originally found in Mario Paint and known as 'Mario Paint song', it was its discovery in Animal Crossing as a secret track you could only hear by requesting 'K.K. Song' from K.K. Slider that clued fans in as to its true nature, as the character is based on Nintendo composer Kazumi Totaka. Versions of this song have been hidden in almost every game he has been involved in, usually by idling in some specific part of the game for several minutes.
 ---
+Track: Toys on a Tear (Shrunk)
+# Reference:
+#   https://vgmdb.net/album/63322
+Artists:
+- Minecraft
+- Gareth Coker
+Duration: '2:30'
+URLs:
+- https://www.youtube.com/watch?v=HAMPtw35Gjk
+---
 Track: Training (Luigi's Mansion)
 Artists: ##Kazumi Totaka and Shinobu Tanaka are both listed in the credits of Luigi's Mansion. It is unknown who made this track.
 - Super Mario
@@ -6896,6 +8081,17 @@ URLs:
 Lyrics: |-
     (Danganronpa!)
 ---
+Track: Trouble Brewing II
+# Reference:
+#   https://vgmdb.net/product/9338
+Artists:
+- 'Code Name: S.T.E.A.M.'
+- Yoshito Sekigawa
+#Duration: ''
+# unreleased
+URLs:
+- https://www.youtube.com/watch?v=12F3ebqCZHw
+---
 Track: Toxic Caves
 # This friggen' game got its soundtrack released on vinyl in 2022! What were the chances!? Nice!
 # Official release:
@@ -6908,6 +8104,16 @@ Artists:
 Duration: '3:29'
 URLs:
 - https://youtu.be/KYhA2RisjP0?t=43
+---
+Track: Treasure Trove Cove
+# Reference:
+#   https://vgmdb.net/album/48423
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+Duration: '4:04'
+URLs:
+- https://www.youtube.com/watch?v=ECMUo0tcf-c
 ---
 Track: Twinkle Elementary School
 # Official release:
@@ -7118,6 +8324,29 @@ Duration: '1:53'
 URLs:
 - https://www.youtube.com/watch?v=gLEZuDkEuDk
 ---
+Track: Vampire Killer (Castle Infiltration BGM)
+# Reference:
+#   overall info: https://vgmdb.net/album/114949
+#   composer: https://vgmdb.net/album/12153
+Artists:
+- Castlevania
+- Satoe Terashima
+Duration: '1:16'
+URLs:
+- https://www.youtube.com/watch?v=btgi3TPL3AE
+---
+Track: Vampire Killer (Castlevania Judgment)
+# Reference:
+#   https://vgmdb.net/album/10987
+Artists:
+- Castlevania
+- Yasushi Asada
+Duration: '3:11'
+URLs:
+- https://www.youtube.com/watch?v=9Q_da2FxEPI
+Referenced Tracks:
+- Vampire Killer (Castle Infiltration BGM)
+---
 Track: Vega's Theme
 # Reference:
 #   https://vgmdb.net/album/1520
@@ -7216,6 +8445,16 @@ Artists:
 Duration: '3:15'
 URLs:
 - https://www.youtube.com/watch?v=RZRNd6osQrk
+---
+Track: Vs. Klungo
+# Reference:
+#   https://vgmdb.net/product/2148
+Artists:
+- Banjo Kazooie
+- Grant Kirkhope
+# Duration: ''
+URLs:
+- https://www.youtube.com/watch?v=hRM1YCQjkws
 ---
 Track: Vs. Parasite Queen
 # Reference:
@@ -7380,6 +8619,16 @@ Duration: '1:53'
 URLs:
 - https://www.youtube.com/watch?v=VRuHFouBRVw
 ---
+Track: Wicked Child (Outdoors BGM)
+# Reference:
+#   https://vgmdb.net/album/12153
+Artists:
+- Castlevania
+- Kinuyo Yamashita
+Duration: '2:07'
+URLs:
+- https://www.youtube.com/watch?v=E7PFm7mrdVY
+---
 Track: Wii Shop Channel
 # No official release
 Artists:
@@ -7401,6 +8650,16 @@ Artists:
 Duration: '3:23'
 URLs:
 - https://youtu.be/psMnbEmvx7w
+---
+Track: Women Village
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#- 
 ---
 Track: World 1 (Super Mario Bros. 3)
 # Reference:
@@ -7504,6 +8763,18 @@ Lyrics: |-
     What do you call love in your reality?
     And in your reality, if I don't know how to love you
     I'll leave you be
+---
+Track: '[NAME REDACTED]'
+# Reference:
+#   https://vgmdb.net/product/8925
+Artists:
+- ARMS
+- Atsuko Asahi
+Duration: '1:13' #one loop
+URLs:
+- https://www.youtube.com/watch?v=XOHSOZ_j0pM
+Referenced Tracks:
+- track:arms-grand-prix-official-theme-song
 ---
 Section: Music composed for movies, television, and other visual arts
 ---
