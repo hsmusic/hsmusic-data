@@ -1,7 +1,6 @@
 Album: Super Smash Bros. Ultimate
 Directory: super-smash-bros-ultimate
 Date: December 7, 2018
-Date Added: ##
 URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFYDdAAm33UKYWuulJqKFN8-
 Cover Artists:
@@ -9,19 +8,16 @@ Cover Artists:
 Wallpaper Artists:
 - Yusuke Nakano ##https://www.ndw.jp/smashsp-illust_hiwa/
 Color: '#f20d0d'
-## Commentary:
-## - 
 Groups:
 - Beyond
-- Toby Fox
 Commentary: |-
     <i>Morris:</i> (wiki editor)
     This is not an actually released album, rather a primitive type of <i>game "album" page</i>, something that might get implemented to the wiki proper in the future. These game pages will act like albums, but be for music contained within games, as opposed to a released soundtrack album.
 
     You might be wondering "<i>Where are the other 872 songs that are in the game?</i>". Due to the immense scope of the game's soundtrack, and the dubious relevancy of this game's inclusion on the wiki (ironically, [[track:megalovania-ssbu|the only relevant track]] is listed as the very last track), as well as the immense amount of work required to add <i><b>all</b></i> tracks to the wiki, only the songs that were produced <i>for</i> Super Smash Bros. Ultimate are included. This means that none of the songs taken directly from other games or works, as well as any of the original tracks and remixes from other Super Smash Bros. games are not included.
-    
+
     The track listing is based on the in-game sound test, which sorts music into categories for each franchise. The track order here is also taken from the sound test, but with the aforementioned songs that are taken from other games taken out.
-    
+
     Furthermore, there is one additional track that's not actually in the game itself: [[track:ssbu-main-theme-e3-version]]. This song has been available on [the website](https://www.smashbros.com/en_US/sound/index.html) since E3 2018. It's mainly included here to simplify the references, as there is no actual "final" version of the main theme in the game, or elsewhere. Only arrangements (such as [[track:battlefield-ssbu]] and [[track:menu-ssbu]]). This is why the E3 version of the main theme is treated as <b>the</b> main theme.
 ---
 Section: Super Smash Bros.
@@ -156,7 +152,7 @@ Lyrics: |-
     Light will guide you on your way to the ultimate fight
 ---
 Track: Menu
-Artists: 
+Artists:
 - Super Smash Bros.
 - Junichi Nakatsuru
 Duration: '2:47'
@@ -167,7 +163,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: Battlefield
-Artists: 
+Artists:
 - Super Smash Bros.
 - Junichi Nakatsuru
 Duration: 2:44
@@ -491,7 +487,6 @@ Referenced Tracks:
 - track:how-to-play-melee
 ---
 Track: Super Smash Bros. Ultimate Main Theme (E3 2018 version)
-## This track is not in the game, however it has been added to simplify the references in the soundtrack. The "main theme" composition turned into the song we know as "Lifelight", and the "Main Theme", the latter of which does not actually exist. There is no Main Theme, outside of variations (E3 2018 version, Piano Solo). Battlefield, Menu, and Galeem / Dharkon are the most explicitely arrangements of this theme. Hence, those songs will be listed as referencing this song. There is no "concrete" main theme in SSBU, no definitive song to be considered *the* Main Theme, only songs referencing the common/shared composition. Lifelight is *not* the main theme, as "Main Theme Piano Solo" exists. As the E3 version is the most "complete" version we have, it will be treated as the common main theme for references.
 Artists:
 - Super Smash Bros.
 - Hideki Sakamoto
@@ -579,8 +574,6 @@ Referenced Tracks:
 - Title (Luigi's Mansion)
 - Training (Luigi's Mansion)
 - Library Piano
----
-Section: Mario Kart ##no new tracks
 ---
 Section: Donkey Kong
 Color: '#c46327'
@@ -835,8 +828,6 @@ URLs:
 Referenced Tracks:
 - 'City Trial: City'
 ---
-Section: Star Fox ##no new tracks
----
 Section: Pokémon
 Color: '#f3d823'
 ---
@@ -983,7 +974,7 @@ Lyrics: |-
     Stunning skyscrapers lining the perilous path
     Endless Horizon above the sea and deserts
     Silent, impressive, going fast as a valiant horse
-    
+
     For the first to win the Queen’s Distress
     The silent city that fades away into darkness
     Certain to taste fevered kinetic energy
@@ -991,7 +982,7 @@ Lyrics: |-
 
     Flashing white! (Flashing white)
     Worlds asleep! (Worlds asleep)
-    
+
     From the left to the right, let me first fighting you
     Who lets you do the fighting that we need to burst right through
     Go towards the promise to rock and roll!
@@ -1000,15 +991,15 @@ Lyrics: |-
     (in the silk city)
     Dwarf enemies, ride the wind with no pity
     (the wind with no pity)
-    
+
     Once more the sea spreads itself before us
     Cowering the monsters, the heavens up above
-    
+
     The rider up on the burning horizon
     (the burning horizon)
     The monsters of F-ZERO warp into real
     (into real)
-    
+
     Fight to the ending, but don’t let up at speed of sound
     (the speed of sound)
     Pass the power, then grasp the power granted by the gods
@@ -1205,12 +1196,6 @@ Referenced Tracks:
 - track:fire-emblem-three-houses-main-theme
 - The Edge of Dawn (Seasons of Warfare)
 ---
-Section: Game & Watch ##no new tracks
----
-Section: Kid Icarus ##no new tracks
----
-Section: Wario ##no new tracks
----
 Section: Pikmin
 Color: '#48ed0b'
 ---
@@ -1301,8 +1286,6 @@ URLs:
 - https://www.youtube.com/watch?v=UzAZf27vcZk
 Referenced Tracks:
 - track:training-menu-wii-fit-u
----
-Section: Punch-Out!! ##no new tracks
 ---
 Section: Xenoblade Chronicles
 Color: '#ff0000'
@@ -1421,8 +1404,6 @@ URLs:
 - https://www.youtube.com/watch?v=1WwgtWIxxHo
 Referenced Tracks:
 - track:snake-eater
----
-Section: Sonic ##no new tracks
 ---
 Section: Mega Man
 Color: '#1483fa'
@@ -1752,8 +1733,6 @@ URLs:
 Referenced Tracks:
 - track:cosmo-canyon
 ---
-Section: Bayonetta ##no new tracks
----
 Section: Castlevania
 Color: '#9baf19'
 ---
@@ -1925,7 +1904,7 @@ Lyrics: |-
     Without grasping yet
     The real question to be asked
     Where have I been?
-    
+
     I'm a shape shifter
     At Poe's masquerade
     Hiding both face and mind
@@ -1934,7 +1913,7 @@ Lyrics: |-
     What else should I be?
     Please don't take off my mask
     Revealing dark
-    
+
     Moments of calm
     Nothing left to be found
     A mirror right in front of me
@@ -1943,7 +1922,7 @@ Lyrics: |-
     Reflecting the sad truth
     It's telling words not to be told
     I need the mask
-    
+
     I'm a shape shifter
     At Poe's masquerade
     Hiding both face and mind
@@ -1952,7 +1931,7 @@ Lyrics: |-
     Chained down to my core
     Please don't take off my mask
     My place to hide
-    
+
     I can't tell you
     How to see me
     Just a cage of bones
@@ -1961,7 +1940,7 @@ Lyrics: |-
     Burning down the walls
     Is there a way
     For me to break?
-    
+
     I'm a shape shifter
     At Poe's masquerade
     Hiding both face and mind
@@ -1996,8 +1975,6 @@ URLs:
 - https://www.youtube.com/watch?v=785x2m-LU-k
 Referenced Tracks:
 - track:aria-of-the-soul-p3
----
-Section: DRAGON QUEST ##no new tracks
 ---
 Section: Banjo-Kazooie
 Color: '#fee22f'
@@ -2564,8 +2541,6 @@ URLs:
 Referenced Tracks:
 - track:aloneness
 - The Long Goodbye
----
-Section: KINGDOM HEARTS ##no new tracks
 ---
 Section: Other
 Color: '#7f7f7f'
