@@ -361,14 +361,15 @@ Content: |-
         - fixed [[track:finale-undertale]] referencing [[track:his-theme]] instead of [[track:memory-undertale]]
         - fixed [[track:his-theme]] not referencing [[track:memory-undertale]]
     - fixed [[track:toby-fox-has-written-hundreds-of-unique-original-songs]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]]
+    - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, Morris!)
+    - fixed [[track:megalovania-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing [[track:megalovania-halloween]] ([[album:earthbound-halloween-hack]]) instead of [[track:megalovania-undertale]] ([[album:undertale-soundtrack]]), and not referencing [[track:heartache]] and [[track:bonetrousle]] (thanks, Morris!)
     - fixed [[track:my-grand-dad-is-the-green-sun]] not sampling [[track:flare]] (thanks, Rosetta Leijonde!)
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
-    - fixed [[track:megalovania-ssbu]] referencing [[track:megalovania-halloween]] instead of [[track:megalovania-undertale]], and not referencing [[track:heartache]] and [[track:bonetrousle]] (thanks, Morris!)
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:spider-dance-from-undertale-but-now-its-ska-i-guess-yikes]] not referencing [[track:spider-dance]], and added a SoundCloud listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:bright-spinning-planet]] not referencing [[track:haltmann-works-co-theme-song]] (thanks, FF!)
-    - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, Morris!)
     - fixed [[track:grand-dads-secret-slide]] not sampling [[track:slider-super-mario-64]]
+    - fixed [[track:mm2wood]] not referencing [[track:wood-man-stage]] (thanks, Morris!)
     - fixed [[track:backbone]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]]
     - fixed [[track:no-credit-card]] not sampling [[track:the-power-of-love]] (thanks, Rosetta Leijonde!)
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a rerelease of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
@@ -379,6 +380,8 @@ Content: |-
     - fixed [[track:sillygoofysillygoofy]] being named "Sillygoofysillygoofy (Ft. Andrew Libman)" (was "Andrew", now "Andrea"; just a typo)
     - fixed [[track:not-a-creature-was-stirring]] being named "not a creature was stirring" (different capitalization)
     - fixed [[track:life-liberated]] being named its working title, "Wind Waker", and filled in some details for it (thanks, Rainy, FF!)
+    - fixed [[track:beginning-castlevania-draculas-curse]] being named "Beginning" (thanks, Morris!)
+    - fixed [[track:bloody-tears-roads-by-day-bgm]] being named "Bloody Tears" (thanks, Morris!)
     - fixed [[track:cosmic-eternity-believe-in-yourself]] being named "Cosmic Eternity ~ Believe in Yourself" (tilde instead of dash; thanks, Morris!)
     - fixed [[track:egg-reverie-egg-reverie-zone]] being named "Egg Reverie (Egg Reverie Zone)" (thanks, Morris!)
     - fixed [[track:hydro-city-zone-act-2]] being named "Hydrocity Zone (Act 2)" (thanks, Morris!)
@@ -464,6 +467,7 @@ Content: |-
     - added [[artist:kawaiimochiora]] to credits for [[track:davekat-rappets]] and [[track:davekat-alt]] (thanks, Niklink!)
     - added [[artist:riki-tsuji]] to credits for [[track:get-start]] (thanks, Lilith!)
     - added [[artist:siivagunner]] to credits for [[track:my-grand-dad-is-the-green-sun]] (thanks, Rosetta Leijonde!)
+    - added [[artist:sonic-the-hedgehog]] to credits for [[track:a-new-day]] (thanks, Morris!)
     - added [[artist:lethal-league-blaze]] to credits for [[track:aint-nothin-like-a-funky-beat]] (thanks, Jebb!)
     - added [[artist:valkyrie-profile]] to credits for [[track:behave-irrationally]] (thanks, Jebb!)
     - added [[artist:club-penguin]] to credits for [[track:brown-puffle-lab]] (thanks, Jebb, Rosetta Leijonde!)
@@ -486,19 +490,20 @@ Content: |-
     - added [[artist:sword-art-online]] to credits for [[track:swordland]] (thanks, FF!)
     - added [[artist:the-nightmare-before-christmas]] to credits for [[track:this-is-halloween]] (thanks, FF!)
     - added [[artist:emma-essex]] to credits for [[track:white-nuxxle-driver]] (thanks, Lilith!)
-    - added performance credits to [[track:fist-bump]] and updated its lyrics (thanks, Morris!)
     - added performance credits to [[track:lifelight]] and [[track:lifelight-jp]] (thanks, Morris!)
+    - added performance credits to [[track:fist-bump]] and updated its lyrics (thanks, Morris!)
     - added performance credits to [[track:open-your-heart]] and updated its lyrics (thanks, Morris!)
     - added performance credits to [[track:unknown-from-me]] and updated its lyrics (thanks, Morris!)
-    - removed [[artist:andrew-huo]] from credits for [[track:skaian-skirmish]], per Vol. 5 booklet and [[track:skaian-skuffle]] commentary (thanks, Lilith!)
-    - removed [[artist:mariko-nanba]] from credits for [[track:evening-star]], based on what's widely accepted (thanks, Morris!)
-    - added sheet music blueprint for [[track:narrative-command]] as proper sheet music file, instead of just linking from commentary
-    - moved Bandcamp wallpaper/banner additional files from [[album:archive-2018]] (2018) to [[album:archive]] (original)
-    - updated [[group:cristata]] group description for legibility (thanks, Cello!)
     - changed [[artist:toby-fox]]'s credit on [[track:fiduspawn-go]] from contributor to co-artist
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to (lyrical) co-artist
-    - moved [[track:a-new-day]] from "Other works originating outside of Homestuck" to "Music from video games" (thanks, Morris!)
+    - removed [[artist:andrew-huo]] from credits for [[track:skaian-skirmish]], per Vol. 5 booklet and [[track:skaian-skuffle]] commentary (thanks, Lilith!)
+    - removed [[artist:mariko-nanba]] from credits for [[track:evening-star]] (thanks, Morris!)
+    - updated [[group:cristata]] group description for legibility (thanks, Cello!)
+    - moved Bandcamp wallpaper/banner additional files from [[album:archive-2018]] (2018) to [[album:archive]] (original)
+    - moved [[track:lifelight]] and [[track:megalovania-ssbu]] from [[album:references-beyond-homestuck]] into [[album:super-smash-bros-ultimate]] (thanks, Morris!)
     - moved [[track:old-skacret]] from [[album:references-beyond-homestuck]] to [[album:more-homestuck-fandom]] (thanks, Rosetta Leijonde!)
+    - moved [[track:a-new-day]] from "Other works originating outside of Homestuck" to "Music from video games" (thanks, Morris!)
+    - changed sheet music blueprint for [[track:narrative-command]] into proper sheet music file, instead of just linking from commentary
     - removed fan-made, unofficial artworks from [[album:pesterquest-soundtrack]] and unreleased Pesterquest tracks (for now)
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
@@ -518,6 +523,7 @@ Content: |-
     - changed directory of [[track:battle-music]] from <code>boss-theme</code> to <code>battle-music</code>
     - changed directory of [[track:namco-high-be-true-to-yourself]] from <code>credits</code> to <code>namco-high-be-true-to-yourself</code>
     - changed directory of [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) from <code>fallen-down</code> to <code>fallen-down-undertale</code>
+    - changed directory of [[track:megalovania-ssbu]] from <code>megalovania-smash-bros</code> to <code>megalovania-ssbu</code> (thanks, Morris!)
     - changed directory of [[track:24-7-lo-fi-anime-beats-to-question-your-sexuality-to]] from <code>247-lo-fi-anime-beats-to-question-your-sexuality-to</code> to <code>24-7-lo-fi-anime-beats-to-question-your-sexuality-to</code>
     - changed directory of [[track:drone-pesterquest]] from <code>drone-pq</code> to <code>drone-pesterquest</code>
     - changed directory of [[track:crustacean-pesterquest]] from <code>crustacean-pq</code> to <code>crustacean-pesterquest</code>
