@@ -8,6 +8,14 @@ Cover Artists:
 - artist:dizzims
 Cover Art File Extension: png
 Track Art File Extension: png
+Wallpaper File Extension: png
+Wallpaper Artists:
+- artist:dizzims
+- Niklink (edits for wiki)
+Wallpaper Style: |-
+    opacity: 0.85;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Color: '#d10311'
 Groups:
 - group:desynced
