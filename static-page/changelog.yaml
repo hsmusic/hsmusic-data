@@ -27,7 +27,7 @@ Style: |-
         margin-bottom: 0.6em;
     }
 Content: |-
-    <h2 id="01-nov-2099" class="major-release"><a href="#01-nov-2099">[[date:01 November 2099]] - Allan, if you would</a></h2>
+    <h2 id="01-nov-2099" class="major-release"><html:a href="#01-nov-2099">[[date:01 November 2099]] - Allan, if you would</a></h2>
     <h3>albums</h3>
     - added [[album:oceanfables-ethological]] by [[artist:witchs-cadence]]! (thanks, Niklink!)
     - added [[album:i-miss-you-earthbound-2012]]! (thanks, Jebb!)
@@ -557,7 +557,7 @@ Content: |-
         - moved [[group:unofficial-mspa-fans]] above [[group:jamie-paige]] on [[album:vaporwave-2016]]
         - moved [[group:deconrecon]] above [[group:nasqueron]] on [[album:empyreal-rhapsody]]
 
-    <h2 id="07-nov-2023"><a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h2>
+    <h2 id="07-nov-2023"><html:a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h2>
     <h3>data changes</h3>
     - changed directories of most one-common-word tracks, outside [[group:official]], to indicate the album or source material in the name
         - added <code>-a-nameless-inheritance</code> to directories of [[track:exploratory-a-nameless-inheritance]], [[track:execute-a-nameless-inheritance]], [[track:abandoned-a-nameless-inheritance]], [[track:enclosure-a-nameless-inheritance]], [[track:heart-attack-a-nameless-inheritance]], [[track:horrify-a-nameless-inheritance]], [[track:exterminate-a-nameless-inheritance]], [[track:outbreak-a-nameless-inheritance]], [[track:lurk-a-nameless-inheritance]], [[track:terrify-a-nameless-inheritance]], [[track:undisturbed-a-nameless-inheritance]], [[track:ritual-a-nameless-inheritance]], [[track:doomed-a-nameless-inheritance]], [[track:heritage-a-nameless-inheritance]], [[track:bequest-a-nameless-inheritance]]
@@ -669,7 +669,7 @@ Content: |-
     - removed duplicate of [[track:overlook-vast-error]] from [[album:more-homestuck-fandom]]
     - added [[album:empyreal-rhapsody]] to [[group:nasqueron]] group (aka [[artist:kal-la-kal-la]])
 
-    <h2 id="30-oct-2023"><a href="#30-oct-2023">[[date:30 October 2023]] - patchin' it up</a></h2>
+    <h2 id="30-oct-2023"><html:a href="#30-oct-2023">[[date:30 October 2023]] - patchin' it up</a></h2>
     <h3>data fixes</h3>
     - added art tags for [[album:the-rebornening]]
     - added art content warnings across [[group:deconrecon]]
@@ -679,7 +679,7 @@ Content: |-
     - fixed broken link to [[artist:momo]] in notes for [[artist:the-new-caliborn]] (thanks, Celeste!)
     - fixed minor misplaced/typoed commentary errors (thanks, Grace, Jebb!)
 
-    <h2 id="25-oct-2023" class="major-release"><a href="#25-oct-2023">[[date:25 October 2023]] - crystal hung in firmament's descent</a></h2>
+    <h2 id="25-oct-2023" class="major-release"><html:a href="#25-oct-2023">[[date:25 October 2023]] - crystal hung in firmament's descent</a></h2>
     (news entry: [[news-entry:crystal-hung-in-firmaments-descent]])
     <h3>site changes</h3>
     - redesigned album commentary page to have a sticky sidebar for navigating tracks, as well as track artworks; check out [[album-commentary:lofam5a2]], [[album-commentary:beforus]] and [[album-commentary:homestuck-vol-10]] for some examples
@@ -789,7 +789,7 @@ Content: |-
     - fixed [[track:oppa-toby-style]] featuring [[tag:rose]] tag instead of [[tag:jasprose]] (thanks, Lilith!)
     - fixed out-of-date Bandcamp link for [[group:cristata]]
 
-    <h2 id="06-oct-2023"><a href="#06-oct-2023">[[date:06 October 2023]] - the fixes are IN</a></h2>
+    <h2 id="06-oct-2023"><html:a href="#06-oct-2023">[[date:06 October 2023]] - the fixes are IN</a></h2>
     <h3>bug fixes</h3>
     - fixed "Random" link in album and track nav bars not working
     <h3>data changes</h3>
@@ -804,7 +804,7 @@ Content: |-
     - fixed many typo'd or miscredited artist names in album commentary across the wiki
     - fixed YouTube link for [[Sburban Reversal]] (thanks, Sgeo!)
 
-    <h2 id="23-sep-2023"><a href="#23-sep-2023">[[date:23 September 2023]] - jerry's theme for deltarune ch. 7</a></h2>
+    <h2 id="23-sep-2023"><html:a href="#23-sep-2023">[[date:23 September 2023]] - jerry's theme for deltarune ch. 7</a></h2>
     <h3>other additions</h3>
     - added [[track:penumbra-phantasm-morris]] by [[artist:morris]], the base for [[track:penumbral-awakening]] in [[album:lofam5a2]] (thanks, Morris!)
     - replaced heavyweight (\~2MB) background art for [[album:psycholonials]] (and EPs) with optimized version (\~200kB)
@@ -825,16 +825,16 @@ Content: |-
         - added [[tag:victory-platform]] (new tag) to [[track:farewell-lofam]], [[track:higher-hopes]], [[track:disc2-beforus]], [[track:black-hole-white-door]], [[track:reunion-lofam5]]
         - [[track:720x-showdown-combo]]: added [[tag:the-condesce]], [[tag:consorts]], [[tag:battlefield]], [[tag:earth]]
 
-    <h2 id="20-sep-2023"><a href="#20-sep-2023">[[date:20 September 2023]] - after<sup>2</sup>party cleanup</a></h2>
+    <h2 id="20-sep-2023"><html:a href="#20-sep-2023">[[date:20 September 2023]] - after<sup>2</sup>party cleanup</a></h2>
     <h3>bug fixes</h3>
-    - fixed <a href="https://github.com/hsmusic/hsmusic-wiki/issues/277">some links</a> stripping "&lt;", such as in [[album:exile]]
-    - fixed <a href="https://github.com/hsmusic/hsmusic-wiki/issues/273">certain listings</a> displaying 12/31/1969 for albums without release dates
-    - various <a href="https://github.com/hsmusic/hsmusic-wiki/pull/275">internal</a> <a href="https://github.com/hsmusic/hsmusic-wiki/pull/281">improvements</a> and <a href="https://github.com/hsmusic/hsmusic-wiki/compare/d09e04b155fe2ed3d0681edf14f7de67ae8be61c...9745cf89d808bc2e4698af346ddbc53e1ae08a2c">fixes</a>
+    - fixed [some links](https://github.com/hsmusic/hsmusic-wiki/issues/277) stripping "&lt;", such as in [[album:exile]]
+    - fixed [certain listings](https://github.com/hsmusic/hsmusic-wiki/issues/273) displaying 12/31/1969 for albums without release dates
+    - various [internal](https://github.com/hsmusic/hsmusic-wiki/pull/275) [improvements](https://github.com/hsmusic/hsmusic-wiki/pull/281) and [fixes](https://github.com/hsmusic/hsmusic-wiki/compare/d09e04b155fe2ed3d0681edf14f7de67ae8be61c...9745cf89d808bc2e4698af346ddbc53e1ae08a2c)
     <h3>data fixes</h3>
     - updated and filled in latest commentary for [[album:lofam5a2]] (thanks, Circlejourney!)
     - tidied up crediting for [[artist:pixels-and-paradiddles]] (thanks, Circlejourney!)
 
-    <h2 id="18-sep-2023"><a href="#18-sep-2023">[[date:18 September 2023]] - afterparty cleanup</a></h2>
+    <h2 id="18-sep-2023"><html:a href="#18-sep-2023">[[date:18 September 2023]] - afterparty cleanup</a></h2>
     <h3>other additions</h3>
     - added YouTube listening links and album premiere stream link to [[album:lofam5a2]]
     - added artist commentary to [[track:maybe-itll-turn-out-better-this-time]], [[track:karkat-loses-his-mind-and-learns-holy-c]], [[track:sunbumper]], [[track:sburban-juxtaposition]], [[track:celestial-company]], [[track:dance-of-storms]], and [[track:caliborns-lament]]
@@ -851,7 +851,7 @@ Content: |-
     - fixed [[track:green-hill-zone-canmt]] referencing... itself, instead of [[track:green-hill-zone]]
     - fixed incorrect art tag for [[track:hauntjelly]] (thanks, Horizonseek!)
 
-    <h2 id="16-sep-2023" class="major-release"><a href="#16-sep-2023">[[date:16 September 2023]] - Yo Quiero la Homestuck</a></h2>
+    <h2 id="16-sep-2023" class="major-release"><html:a href="#16-sep-2023">[[date:16 September 2023]] - Yo Quiero la Homestuck</a></h2>
     (news entry: [[news-entry:yo-quiero-la-homestuck]])
     <h3>albums</h3>
     - added [[album:lofam5a2]] from [[group:unofficial-mspa-fans]]!
@@ -890,7 +890,7 @@ Content: |-
     - fixed [[track:another-noir-extended-void-mix]] referencing other tracks directly instead of [[track:another-noir]]
     - fixed [[track:you-reposted-in-the-wrong-neighborhood]] not referencing [[track:shake-that]] or [[track:casin-glue70]]
 
-    <h2 id="04-sep-2023"><a href="#04-sep-2023">[[date:04 September 2023]] - maintenance, mayhaps</a></h2>
+    <h2 id="04-sep-2023"><html:a href="#04-sep-2023">[[date:04 September 2023]] - maintenance, mayhaps</a></h2>
     <h3>other additions</h3>
     - added commentary booklet file to [[album:cool-and-new-volume-v]]
     - added links to album premiere stream recordings to [[album:cyclica]], [[album:call-and-new]], [[album:cool-and-new-volume-sx]], [[album:canwc-sound-test-1]], [[album:basement-tale]], [[album:cool-and-new-volume-7]], [[album:s-hecka-jef]], and [[album:canwc-for-the-holidays]] (thanks for these, Ngame!)
@@ -927,7 +927,7 @@ Content: |-
         - fixed original art for [[track:hallowed-halls]] being a 404 when viewing its source file
         - fixed bonus art for [[track:kamina-burana]] displaying source file instead of thumbnail
 
-    <h2 id="18-aug-2023" class="major-release"><a href="#18-aug-2023">[[date:18 August 2023]] - Iridescent Noon</a></h2>
+    <h2 id="18-aug-2023" class="major-release"><html:a href="#18-aug-2023">[[date:18 August 2023]] - Iridescent Noon</a></h2>
     (news entry: [[news-entry:iridescent-noon]])
     <h3>site changes</h3>
     - major rework of how each website page's contents are generated, making it way easier to prototype new features or test changes, and allowing for better stability as code internals are expanded or updated
@@ -1055,7 +1055,7 @@ Content: |-
         - fixed [[album:strife]] missing credits for [[artist:homestuck]]
         - fixed [[album:land-of-hue-and-duels-trollside]] missing credits for [[artist:priestlybeast]]
 
-    <h2 id="14-jul-2023"><a href="#14-jul-2023">[[date:14 July 2023]] - moderately belated maintenance</a></h2>
+    <h2 id="14-jul-2023"><html:a href="#14-jul-2023">[[date:14 July 2023]] - moderately belated maintenance</a></h2>
     <h3>bug fixes</h3>
     - fixed direct links to URLs with spaces in 'em all being 404s, e.g. the listen link for [[track:where-making-this-hapen]], due to misplaced URL encoding
     <h3>data fixes</h3>
@@ -1063,7 +1063,7 @@ Content: |-
     - added [[track:once-upon-a-time]] to reference list for [[track:dating-start-fm-version]] (thanks, FF!)
     - added [[track:unreeeal-superhero-3]] to reference list for [[track:keygen]] (thanks, vriska and FF!)
     - fixed incorrect track art for [[track:fighting-spirit-second-form]] (thanks, Makin!)
-    - fixed incorrect YouTube link for [[track:wind]] (used to be to a <a href="https://www.youtube.com/watch?v=mwFWnxZVIFk">reversed version</a>, which was in the original Bandcamp download before being replaced!)
+    - fixed incorrect YouTube link for [[track:wind]] (used to be to a [reversed version](https://www.youtube.com/watch?v=mwFWnxZVIFk), which was in the original Bandcamp download before being replaced!)
     - fixed dead YouTube links for tracks by [[artist:kevin-grant]], whose channel with official uploads went offline
         - from [[album:coloUrs-and-mayhem-universe-a]]: [[track:purple-tyrant]]
         - from [[album:lofam2]]: [[track:fighting-spirit]], [[track:fighting-spirit-second-form]], [[track:dark-funk]]
@@ -1080,16 +1080,16 @@ Content: |-
     - removed dead YouTube links from [[album-commentary:hiveswap-act-1-ost]] commentary (thanks, Sgeo!)
     - linked to wiki pages instead of external sites in commentary for [[track:ballad-of-awakening]] and [[track:we-shall-go-together]]
 
-    <h2 id="24-jun-2023"><a href="#24-jun-2023">[[date:24 June 2023]] - doctor commentary AMA</a></h2>
+    <h2 id="24-jun-2023"><html:a href="#24-jun-2023">[[date:24 June 2023]] - doctor commentary AMA</a></h2>
     <h3>additions</h3>
     - added commentary from r/Homestuck AMA by [[artist:buzinkai]] to [[track:doctor]]
 
-    <h2 id="16-jun-2023"><a href="#16-jun-2023">[[date:16 June 2023]] - sburban jungle touch-up</a></h2>
+    <h2 id="16-jun-2023"><html:a href="#16-jun-2023">[[date:16 June 2023]] - sburban jungle touch-up</a></h2>
     <h3>additions</h3>
     - new YouTube link for [[track:sburban-jungle]], with fresh artwork by [[artist:alice-hu]]!
     - added commentary to [[track:sburban-jungle]] and [[track:chorale-for-jaspers]]
 
-    <h2 id="27-apr-2023"><a href="#27-apr-2023">[[date:27 April 2023]] - rainy day repairs</a></h2>
+    <h2 id="27-apr-2023"><html:a href="#27-apr-2023">[[date:27 April 2023]] - rainy day repairs</a></h2>
     <h3>additions</h3>
     - added bonus track [[track:bequest-a-nameless-inheritance]] to [[album:a-nameless-inheritance]]
     - added bonus tracks [[track:glide-what]] and [[track:wake-what]] to [[album:what]]
@@ -1110,7 +1110,7 @@ Content: |-
     - fixed cover art in "sticky" page heading having gone totally missing!
         - this was a code error introduced in early March - it was supposed to only make cover art with content warnings show up in the sticky heading after the main cover was revealed by the user clicking on it, but accidentally made all covers with art tags be hidden from the heading instead, oops
 
-    <h2 id="22-apr-2023"><a href="#22-apr-2023">[[date:22 April 2023]] - media mismatch remedial</a></h2>
+    <h2 id="22-apr-2023"><html:a href="#22-apr-2023">[[date:22 April 2023]] - media mismatch remedial</a></h2>
     <h3>data &amp; media fixes</h3>
     - implemented a new tool for automatically detecting missing and misplaced media files whenever the project is built, revealing a bunch of issues fixed below, and helping to prevent similar media mismatches from popping up again in the future
     - fixed missing or misplaced track artwork across the wiki
@@ -1136,7 +1136,7 @@ Content: |-
         - miscellaneous tracks in early official albums
     - added original crop of art from [[track:bargaining-with-the-beast]] to track commentary
 
-    <h2 id="13-apr-2023" class="major-release"><a href="#13-apr-2023">[[date:13 April 2023]] - happy birthday nannasprite</a></h2>
+    <h2 id="13-apr-2023" class="major-release"><html:a href="#13-apr-2023">[[date:13 April 2023]] - happy birthday nannasprite</a></h2>
     (news entry: [[news-entry:happy-birthday-nannasprite]])
     <h3>albums</h3>
     - added [[album:act-8-volume-1]]!
@@ -1165,7 +1165,7 @@ Content: |-
     - fixed [[track:sarabande-symphony]] not listing [[artist:erik-scheele]] as a contributor
     - fixed unordered flash links on [[track:elevatorstuck]]'s page (thanks, FF!)
 
-    <h2 id="31-mar-2023"><a href="#31-mar-2023">[[date:31 March 2023]] - Track Doctor<sup>2</sup></a></h2>
+    <h2 id="31-mar-2023"><html:a href="#31-mar-2023">[[date:31 March 2023]] - Track Doctor<sup>2</sup></a></h2>
     <h3>additions</h3>
     - added missing bonus track to [[album:deltarune-ch2-ost]]
     - added two missing bonus tracks to [[album:are-you-lost]]
@@ -1184,11 +1184,11 @@ Content: |-
     - fixed trailer link for [[album:cool-and-new-volume-ii]] linking to the trailer for [[album:cool-and-new-volume-2]]
     - fixed incorrect or missing art tags in [[album:s-collide]], [[track:eternity-served-cold-canon-edit]], [[track:riches-to-ruins-movements-i-and-ii]], [[track:nine-lives-one-love]], [[track:adios-lost-boys]], [[track:dance-of-viridian-and-violet]], [[track:beetermination-thinking-bee]], [[track:dr-pepper]], [[track:carefree-consternation]], [[track:urban-jungle]], [[track:rex-duodecim-angelus-remix]], [[track:infinite-zest]], [[track:predomination-lofam5]], and [[track:shattered-spacetime]]
 
-    <h2 id="05-mar-2023" class="major-release"><a href="#05-mar-2023">[[date:05 March 2023]] - Track Doctor</a></h2>
+    <h2 id="05-mar-2023" class="major-release"><html:a href="#05-mar-2023">[[date:05 March 2023]] - Track Doctor</a></h2>
     <h3>site changes</h3>
     - new sheet music & MIDI/project file sections on track pages
         - check out almost any album from the [[group-gallery:official]], or the new [[listing:all-sheet-music-files|All Sheet Music]], [[listing:tracks/with-sheet-music-files|Tracks - with Sheet Music]], and [[listing:tracks/with-midi-project-files|Tracks - with MIDI & Project Files]] listings!
-        - current selection is mostly sourced from <a href="https://homestuck.net/music/sheetmusic/">the homestuck.net archive</a>, thanks to Makin and wheals for maintaining this reference!
+        - current selection is mostly sourced from [the homestuck.net archive](https://homestuck.net/music/sheetmusic/), thanks to Makin and wheals for maintaining this reference!
     - high resolution artworks brought to the entire [[group-gallery:official]] and many [[group-gallery:fandom]] albums!
     - new image overlay feature: a large preview of track or album artwork shows up when you click 'em, giving a focused view instead of leaving the page!
         - this is a high resolution compressed version of the original art; since highest-resolution artwork files can sometimes be pretty huge (e.g. 40 MB+), these are now accessible behind a "view original" link
@@ -1226,7 +1226,7 @@ Content: |-
     - fixed typos in commentary citation for [[track:pumpkin-tide-tvs-i-can-barely-sleep-i-have-to-quickly-finish-this-rock-cover]] and [[track:lapis-lazuli-extended]], making these listed properly on their artists' wiki pages
     - fixed [[track:frustracean]] not referencing [[track:hardlyquin]] (thanks, OneOfTheChips!)
 
-    <h2 id="04-feb-2023"><a href="#04-feb-2023">[[date:04 February 2023]] - Feferi's Theme</a></h2>
+    <h2 id="04-feb-2023"><html:a href="#04-feb-2023">[[date:04 February 2023]] - Feferi's Theme</a></h2>
     <h3>site changes</h3>
     - selected albums for the homepage carousel by hand instead of just pulling the latest official discography releases
         - meant to do this before the new year's release but it totally slipped one developer's mind, please forgive &lt;3&lt;3&lt;3
@@ -1247,7 +1247,7 @@ Content: |-
     - fixed a typo in [[artist:daxfactorz]]' name
     - fixed typoes in [[artist:marcy-nabors]]' contributions to [[track:im-a-member-of-the-midnight-crew-post-punk-version]] (thanks, Makin!)
 
-    <h2 id="05-jan-2023"><a href="#05-jan-2023">[[date:05 January 2023]] - picking up the ball</a></h2>
+    <h2 id="05-jan-2023"><html:a href="#05-jan-2023">[[date:05 January 2023]] - picking up the ball</a></h2>
     <h3>site changes</h3>
     - slightly tweaked the homepage album selection
     <h3>data fixes</h3>
@@ -1264,7 +1264,7 @@ Content: |-
     - fixed [[track:title-mega-man-3]] not listing [[artist:yasuaki-fujita]] as an artist (thanks, FF!)
     - fixed [[track:title-uwol-quest-for-money]] being named 'Game Over', being listed as being from Felix the Cat instead of from [[artist:uwol]], and not attributing [[artist:augusto-ruiz]] (thanks, FF!)
 
-    <h2 id="1-jan-2023" class="major-release"><a href="#1-jan-2023">[[date:1 January 2023]] - Ball Drop '23</a></h2>
+    <h2 id="1-jan-2023" class="major-release"><html:a href="#1-jan-2023">[[date:1 January 2023]] - Ball Drop '23</a></h2>
     (news entry: [[news-entry:ball-drop-23]])
     <h3>site changes</h3>
     - major restructure of all internal data structures as well as data file format, laying foundations for all following changes and additions to wiki features and lending much better to interoperability with outside code and internal data validation and error reporting
@@ -1282,7 +1282,7 @@ Content: |-
         - mostly newly added albums for now, but more official and fandom artwork will be brought over soon
     - support added for albums which don't have cover art at all, as seen in new albums from [[group:additional-tracks]] and some releases from the community
     - listing changes:
-        - "new" [[listing:albums/by-date-added|Albums - by Date Added]] listing, which has actually existed since [[news-entry:the-my-ex-wife-is-a-real-bitch-update|May 2021]], but was previously somehow at <a href="https://github.com/hsmusic/hsmusic-wiki/issues/53">a typo'd path</a> and wasn't accessible from the listing index
+        - "new" [[listing:albums/by-date-added|Albums - by Date Added]] listing, which has actually existed since [[news-entry:the-my-ex-wife-is-a-real-bitch-update|May 2021]], but was previously somehow at [a typo'd path](https://github.com/hsmusic/hsmusic-wiki/issues/53) and wasn't accessible from the listing index
         - [[listing:tracks/with-lyrics|Tracks - with Lyrics]] listing now sorts by album date instead of track date, i.e. so all tracks from the same album are always grouped together (thanks, Geese!)
         - [[listing:tracks/by-times-referenced|Tracks - by Times Referenced]] listing now excludes re-release tracks (such as [[track:black-vol-1-4]] from [[album:homestuck-vol-1-4]])
     - "Tracks that reference..." lists are now grouped by Beyond and Additional Tracks as well, instead of grouping everything that's not an official Homestuck track under Fandom
@@ -1301,7 +1301,7 @@ Content: |-
         - thanks to vriska/leo for entering the initial album data for [[album:deltarune-ch2-ost]], plus other additions under [[group:undertale-and-deltarune]]
         - thanks to FF for refining the album data for [[album:deltarune-ch2-ost]]
         - thanks to [[artist:circlejourney|Circlejourney]] for filling out the album data for [[album:bee-forus-seatbelt-safebee]] and [[album:sburban-neighborhood]]
-        - thanks to Niklink for filling out the album data for pretty much every other album listed below, and going to much-commendable effort to catalogue <a href="https://docs.google.com/spreadsheets/d/1TKeZd4dwk-PfE2FQs-nD-D7Nam48P1JlsPkM8I4F2n8/edit#gid=43393414">a master list of over 300 albums (and singles)</a> from the Homestuck fandom, as well as almost all other uncredited changes listed below
+        - thanks to Niklink for filling out the album data for pretty much every other album listed below, and going to much-commendable effort to catalogue [a master list of over 300 albums (and singles)](https://docs.google.com/spreadsheets/d/1TKeZd4dwk-PfE2FQs-nD-D7Nam48P1JlsPkM8I4F2n8/edit#gid=43393414) from the Homestuck fandom, as well as almost all other uncredited changes listed below
         - thanks to everyone who shared missed album media and reported data errors, listed later in the "other additions" and "data changes" section!
     - added [[album:deltarune-ch2-ost]] by [[group:toby-fox]]!
     - added [[album:lofam5]]!
@@ -1371,7 +1371,7 @@ Content: |-
     - added art tags for all [[group:desynced]] albums, [[album:weird-puzzle-tunes]] (thanks, Celeste!), all [[group:oceanfalls]] albums (thanks, Celeste & tempest2k!)
     - added art tags for [[album:strife]], [[album:act-7]], [[album:hiveswap-act-1-ost]], [[album:perfectly-generic-album]], [[album:the-funk-mclovin-homestuck-experience]], [[album:the-baby-is-you]], and [[album:the-baby-is-june]]'s covers (thanks, Celeste!)
     - added art tags for all track arts consisting of screenshots of official material (filed under [[artist:homestuck]])
-    - added YouTube links for relevant videos to [[track:doctor-original-loop]] (with a transcription by Celeste!), [[album:homestuck-vol-10]] and [[group:michael-guy-bowman]]'s <a href="https://www.youtube.com/playlist?list=PLXwrWDm-S4oGBYovRwe2L4BA5yyZ7WzJv">music videos</a>
+    - added YouTube links for relevant videos to [[track:doctor-original-loop]] (with a transcription by Celeste!), [[album:homestuck-vol-10]] and [[group:michael-guy-bowman]]'s [music videos](https://www.youtube.com/playlist?list=PLXwrWDm-S4oGBYovRwe2L4BA5yyZ7WzJv)
     <h3>data changes</h3>
     - moved [[group:desynced]] and [[album:perfectly-generic-object]] from [[group:beyond]] to [[group:fandom]]
     - moved the individual [[group:psycholonials]] episode albums into [[group:beyond]]
@@ -1419,7 +1419,7 @@ Content: |-
     - fixed art tags for [[track:skaian-happy-flight]], [[track:respit]], [[track:hardchorale]], [[track:gravediggers-dirge]], and [[track:ithaca-is-calling]] (thanks, Celeste!)
     - a truly uncountable amount of little fixes, adjustments, and improvements that haven't been exhaustively kept track of as this update swelled in size during the year and a half (!!!) it spent in the oven, from everyone who contributed to the wiki during this time. thank you.
 
-    <h2 id="1-sep-2021"><a href="#1-sep-2021">[[date:1 September 2021]]</a></h2>
+    <h2 id="1-sep-2021"><html:a href="#1-sep-2021">[[date:1 September 2021]]</a></h2>
     <h3>data changes</h3>
     - added missing A6I3 "[[track:weird-moody-horse-shit]]" flashes (thanks, FF!)
     - added missing bonus tracks from [[album:rust-apocalypse]] as re-releases of their original appearances on [[album:coloUrs-and-mayhem-universe-a]] (thanks, deesoff!)
@@ -1438,7 +1438,7 @@ Content: |-
     - fixed re-release track links never text wrapping, messing up layout on pages such as [[track:three-in-the-morning]]
     - fixed flash art for [[flash:5426]] (may take a while to load)
 
-    <h2 id="10-aug-2021"><a href="#10-aug-2021">[[date:10 August 2021]]</a></h2>
+    <h2 id="10-aug-2021"><html:a href="#10-aug-2021">[[date:10 August 2021]]</a></h2>
     <h3>data changes</h3>
     - added missing (public!) bonus tracks from [[album:p-s]] (thanks, deesoff!):
         - [[track:synchronise-instrumental]]
@@ -1463,7 +1463,7 @@ Content: |-
         - added corpse cw to [[track:corpse-casanova]], [[track:disc2-ancestral]], [[track:crockercorpse]], [[track:checkerboard-checkmate]], [[track:a-rebels-requiem]]
         - swapped out blood (abstract) cw for blood in [[track:cardinal-movement]]
 
-    <h2 id="5-aug-2021"><a href="#5-aug-2021">[[date:5 August 2021]]</a></h2>
+    <h2 id="5-aug-2021"><html:a href="#5-aug-2021">[[date:5 August 2021]]</a></h2>
     <h3>data changes</h3>
     - a bunch of tag fixes from Celeste (thank you!):
         - added [[tag:karkat]] tag to [[track:stride]]
@@ -1471,27 +1471,27 @@ Content: |-
         - added corpse cw and [[tag:horrorterrors]] tag to [[track:doctor-remix]]
         - added corpse cw to [[track:underfoot]]
 
-    <h2 id="2-aug-2021"><a href="#2-aug-2021">[[date:2 August 2021]]</a></h2>
+    <h2 id="2-aug-2021"><html:a href="#2-aug-2021">[[date:2 August 2021]]</a></h2>
     <h3>data changes</h3>
     - made "reasonpeason" an alias for [[artist:rebecca-peason]], updating art credits for [[track:chaotic-strength]] and [[track:science-seahorse]]
     - added [[track:black-rose-green-sun]] to the reference list of [[track:orchid-horror]] (thanks, Celeste!)
     <h3>bug fixes</h3>
     - fixed artist pages and chronology links always ordering artworks by a track's release date rather than accounting for later art additions (e.g. anthology projects for [[album:homestuck-vol-5]], [[album:alterniabound]], [[album:beyond-canon]])
 
-    <h2 id="24-jul-2021"><a href="#24-jul-2021">[[date:24 July 2021]]</a></h2>
+    <h2 id="24-jul-2021"><html:a href="#24-jul-2021">[[date:24 July 2021]]</a></h2>
     <h3>data changes</h3>
     - per guidance from the artist, removed listen links from [[album:perfectly-generic-album]] and [[album:perfectly-generic-object]], which are now going offline-only
 
-    <h2 id="18-jul-2021"><a href="#18-jul-2021">[[date:18 July 2021]]</a></h2>
+    <h2 id="18-jul-2021"><html:a href="#18-jul-2021">[[date:18 July 2021]]</a></h2>
     <h3>data changes</h3>
-    - better quality cover art for [[album:sburb]], from <a href="https://jamesdever.bandcamp.com/album/sburb">its more recent independent release</a> (thanks, FF!)
+    - better quality cover art for [[album:sburb]], from [its more recent independent release](https://jamesdever.bandcamp.com/album/sburb) (thanks, FF!)
 
-    <h2 id="16-jul-2021"><a href="#16-jul-2021">[[date:16 July 2021]]</a></h2>
+    <h2 id="16-jul-2021"><html:a href="#16-jul-2021">[[date:16 July 2021]]</a></h2>
     <h3>data changes</h3>
     - added blood CW tag to [[track:eternity-served-cold]] (thanks, vriska/leo!)
     - added [[track:sburban-jungle]] to reference list of Void Session (thanks, Niklink!)
 
-    <h2 id="7-jul-2021"><a href="#7-jul-2021">[[date:7 July 2021]] - Wiki Finalization</a></h2>
+    <h2 id="7-jul-2021"><html:a href="#7-jul-2021">[[date:7 July 2021]] - Wiki Finalization</a></h2>
     (news entry: [[news-entry:wiki-finalization]])
     <h3>site changes</h3>
     - adjusted phrasing on footer and homepage rows to better reflect the wiki in its essentially finalized state
@@ -1501,7 +1501,7 @@ Content: |-
     - added [[track:dungeon-theme-zelda1]] to reference list of [[track:an-ascii-image-of-bowsette]] (thanks, Makin!)
     - updated description for INHOSPITABLE (thanks, tempest2k!)
 
-    <h2 id="12-jun-2021"><a href="#12-jun-2021">[[date:12 June 2021]] - June Attuned</a></h2>
+    <h2 id="12-jun-2021"><html:a href="#12-jun-2021">[[date:12 June 2021]] - June Attuned</a></h2>
     (news entry: [[news-entry:june-attuned]])
     <h3>site changes</h3>
     - updated CSS styling code to improve site layout on mobile devices
@@ -1531,7 +1531,7 @@ Content: |-
     - [[track:pony-chorale]] now credits [[artist:tavia-morra]] for vocals (thanks, GiovanH!)
     - [[track:lori-and-erich-baker]] has updated name and listen link (thanks, tempest2k!)
 
-    <h2 id="13-may-2021"><a href="#13-may-2021">[[date:13 May 2021]] - tMEWIARBu next-day patch</a></h2>
+    <h2 id="13-may-2021"><html:a href="#13-may-2021">[[date:13 May 2021]] - tMEWIARBu next-day patch</a></h2>
     <h3>site changes</h3>
     - made the primary color of a page "bleed" into its backdrop area, subtly tinting pages across the site
     - removed the <code>backdrop-filter</code> CSS effect, which previously would the wallpaper behind the page container to create a "glossy glass" effect, but isn't suported consistently across browsers yet
@@ -1546,7 +1546,7 @@ Content: |-
         - added bandcamp links to all referenced [[artist:siivagunner]] tracks
         - ty nata for reference fixes and vriska/leo for bandcamp links!
 
-    <h2 id="12-may-2021" class="major-release"><a href="#12-may-2021">[[date:12 May 2021]] - the my ex-wife is a real bitch update</a></h2>
+    <h2 id="12-may-2021" class="major-release"><html:a href="#12-may-2021">[[date:12 May 2021]] - the my ex-wife is a real bitch update</a></h2>
     (news entry: [[news-entry:the-my-ex-wife-is-a-real-bitch-update]])
     <h3>site changes</h3>
     - a whole variety of updates and improvements to album sidebars:
@@ -1605,11 +1605,11 @@ Content: |-
         - credits to niklink for noticing makin for noticing someone else noticing this
     - added [[track:showtime-original-mix]] and [[track:the-beginning-of-something-really-excellent]] to reference list for [[track:confrontation-jailbreak]] (thanks, Mixolydian!)
 
-    <h2 id="17-apr-2021"><a href="#17-apr-2021">[[date:17 April 2021]] - album links on tag pages fix</a></h2>
+    <h2 id="17-apr-2021"><html:a href="#17-apr-2021">[[date:17 April 2021]] - album links on tag pages fix</a></h2>
     <h3>bug fixes</h3>
     - fixed links to album cover art featuring characters on tag pages being broken (thanks, Megatti!)
 
-    <h2 id="12-apr-2021" class="major-release"><a href="#12-apr-2021">[[date:12 April 2021]] - solo albums aplenty</a></h2>
+    <h2 id="12-apr-2021" class="major-release"><html:a href="#12-apr-2021">[[date:12 April 2021]] - solo albums aplenty</a></h2>
     (news entry: [[news-entry:solo-albums-aplenty]])
     <h3>site changes</h3>
     - added per-album banners, as a compliment to wallpapers (from February)
@@ -1673,11 +1673,11 @@ Content: |-
     - fixed sidebar of [[album:unreleased-tracks]] all being one color, instead of applying distinguishing colors for each track group (thanks, foreverFlummoxed!)
     - fixed a few dates at the end of the changelog being formatted inconsistently with the rest of the wiki
 
-    <h2 id="16-mar-2021"><a href="#16-mar-2021">[[date:16 March 2021]] - "random" link fixes</a></h2>
+    <h2 id="16-mar-2021"><html:a href="#16-mar-2021">[[date:16 March 2021]] - "random" link fixes</a></h2>
     <h3>bug fixes</h3>
     - fixed "random" links (e.g. on album pages and [[listing:random|Random Pages]] listing) redirecting to "undefined" URLs instead of the appropriate type directory (track, group, etc)
 
-    <h2 id="12-mar-2021" class="major-release"><a href="#12-mar-2021">[[date:12 March 2021]] - translation &amp; renovation</a></h2>
+    <h2 id="12-mar-2021" class="major-release"><html:a href="#12-mar-2021">[[date:12 March 2021]] - translation &amp; renovation</a></h2>
     (news entry: [[news-entry:translation-renovation]])
     <h3>site changes</h3>
     - translation/localization support:
@@ -1691,7 +1691,7 @@ Content: |-
         - previously, <em>every</em> image on the site was full-size! this was particularly terrible for people with slow connections or limited bandwidths
         - example stats: download size of scrolling entire homepage reduced from 3.8mb to 0.6mb
     - internal renovation across build file:
-        - (<a href="https://youtu.be/6G6_vo50OBo">before</a>, <a href="https://youtu.be/1dqP4Vrjp3c">after</a>)
+        - ([before](https://youtu.be/6G6_vo50OBo), [after](https://youtu.be/1dqP4Vrjp3c))
         - url system restructured:
             - link-related bugs are much harder to run into
             - link references in content (e.g. "\[[album:foo-bar]]") are modularized and can more easily link to anywhere across the wiki
@@ -1761,11 +1761,11 @@ Content: |-
         - fixed typo in lyrics for [[track:cr1m1n4l-cr1m1n4l]] (used to be "Hey, crinimal scum, ...")
     - added art tags to [[track:the-golden-towers]] and [[track:prospit-dreamers]], thanks to Celeste!
     - fixed duplicate commentary entries in [[track:doctor-vol-1-4]] and [[track:endless-climb-vol-1-4]]
-    - removed some old commentary from [[track:sports-lofam2]]. <a href="https://web.archive.org/web/20210310160447/https://hsmusic.wiki/track/sports/">RIP</a>
+    - removed some old commentary from [[track:sports-lofam2]]. [RIP](https://web.archive.org/web/20210310160447/https://hsmusic.wiki/track/sports/)
     - clarified wallpaper contributions that said "edits" (e.g. [[album:homestuck-vol-5]]) to say "edits for wiki"
     - album and flash data additions for [[group:psycholonials]] over the course of the month
 
-    <h2 id="12-feb-2021" class="major-release"><a href="#12-feb-2021">[[date:12 February 2021]] - retrace, retexture</a></h2>
+    <h2 id="12-feb-2021" class="major-release"><html:a href="#12-feb-2021">[[date:12 February 2021]] - retrace, retexture</a></h2>
     (news entry: [[news-entry:retrace-retexture]])
     <h3>site changes</h3>
     - added per-album wallpapers
@@ -1790,7 +1790,7 @@ Content: |-
         - homepage rows can also be customized; while there's only one type of row available currently (albums from list or group and optionally action links), the foundations are there to add more in the future
         - most site features, e.g. [[site:flash/|Flashes &amp; Games]], [[listing-index:-|Listings]], and [[news-index:-|News]], can now be selectively enabled and disabled
         - a variety of changes to the internal text transformer, making longform text in data files (e.g. commentary, lyrics, static pages) much easier to read and write
-        - <a href="https://git.ed1.club/nebula/hsmusic-wiki/">code</a> and <a href="https://git.ed1.club/nebula/hsmusic-data/">data</a> repositories have been separated (media as well, but it's not pushed online anywhere yet); CLI tool for actually building the site has been updated accordingly
+        - [code](https://git.ed1.club/nebula/hsmusic-wiki/) and [data](https://git.ed1.club/nebula/hsmusic-data/) repositories have been separated (media as well, but it's not pushed online anywhere yet); CLI tool for actually building the site has been updated accordingly
         - all these changes are in service of making running your own wiki off the same codebase accessible and powerful; there's still much to be done before it's totally ready, though
     <h3>albums</h3>
     - added another set of new albums, summarized below
@@ -1883,7 +1883,7 @@ Content: |-
     - updated a bunch of references in [[album:undertale-soundtrack]] and [[album:deltarune-ch1-ost]], courtesy of [[artist:foreverflummoxed]]:
         - [[track:snowy]] now referenced in [[track:snowdin-town]]
         - [[track:core]] now referenced in [[track:death-by-glamour]] (and [[track:its-showtime]] moved to end of reference list)
-        - [[track:undertale]] now referenced in [[track:the-choice]] (<a href="https://www.youtube.com/watch?v=dVBClEwAY_8">slowed down 666%</a>)
+        - [[track:undertale]] now referenced in [[track:the-choice]] ([slowed down 666%](https://www.youtube.com/watch?v=dVBClEwAY_8))
         - [[track:undertale]] now referenced in [[track:hopes-and-dreams]]
         - [[track:hopes-and-dreams]] now referenced in [[track:save-the-world]]
         - [[track:hopes-and-dreams]] now referenced in [[track:final-power]]
@@ -1912,11 +1912,11 @@ Content: |-
     <h3>bug fixes</h3>
     - fixed certain tracks [[root:media/misc/changelog/duplicate-contribs.png|showing up twice]] in artist track lists
 
-    <h2 id="12-jan-2021" class="major-release"><a href="#12-jan-2021">[[date:12 January 2021]] - traversing fandom</a></h2>
+    <h2 id="12-jan-2021" class="major-release"><html:a href="#12-jan-2021">[[date:12 January 2021]] - traversing fandom</a></h2>
     (news entry: [[news-entry:traversing-fandom]])
     <h3>site changes</h3>
     - added wallpaper and refined site layout
-        - [[root:media/misc/changelog/bg-january.jpg|the current wallpaper]] is pulled from <a href="https://www.homestuck.com/info-more">More from Homestuck</a> and might be changed or expanded upon in future updates
+        - [[root:media/misc/changelog/bg-january.jpg|the current wallpaper]] is pulled from [More from Homestuck](https://www.homestuck.com/info-more) and might be changed or expanded upon in future updates
         - a margin has been applied to the whole site layout, centering content to better visually balance it
         - "skip to content" and "skip to sidebar" buttons have been added, and show up when navigating using the tab key
     - tweaked the homepage with updated links, e.g. to new [[static:discord|Discord]] and [[static:donate|Donate]] pages, and updated wording across existing info pages
@@ -1977,7 +1977,7 @@ Content: |-
         - added new tracks [[track:friendvangelion-rebuild]], [[track:its-a-cover-of-made-of-time]], and [[track:its-nothing]] to the <i>Tracks featured in Pesterquest</i> section
         - added [[track:its-a-cover-of-made-of-time]] to the reference list of [[track:yeah-it-is]]
         - moved [[track:seer-of-same-color-scalemate-combos]] from <i>Other tracks originating outside of Homestuck</i> to <i>Other Homestuck tracks</i>
-        - renamed "DRONE_PQ" to [[track:drone-pesterquest]] and gave it track art from [[artist:tempest2k]]'s <a href="https://twitter.com/nueclear333/status/1331330835245535232">PESTERQUEST OST</a> collection
+        - renamed "DRONE_PQ" to [[track:drone-pesterquest]] and gave it track art from [[artist:tempest2k]]'s [PESTERQUEST OST](https://twitter.com/nueclear333/status/1331330835245535232) collection
         - renamed "THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)" to [[track:this-time-its-eridan|Busker's Theme mk II]] and added commentary from James Roach's tumblr
         - removed a bunch of tracks that were moved into [[album:undertale-soundtrack]]
     - miscellaneous changes to data for [[site:flash/|Flashes &amp; Games]]
@@ -1988,14 +1988,14 @@ Content: |-
         - replaced [[track:sburban-jungle]] with [[track:sburban-jungle-brief-mix]] in [[flash:137]]
         - replaced "pseudo-tracks" with actual, credited tracks in [[flash:338]], [[flash:769]], [[flash:3438]], and [[flash:4113]]
         - replaced the individual component tracks with [[track:cascade]] in [[flash:4109]]
-        - removed "Loading..." easter egg from [[flash:5426]], but not before <a href="https://web.archive.org/web/20210111224459/https://hsmusic.wiki/flash/5426/">archiving it</a> for you, personally
+        - removed "Loading..." easter egg from [[flash:5426]], but not before [archiving it](https://web.archive.org/web/20210111224459/https://hsmusic.wiki/flash/5426/) for you, personally
         - interweaved tracks in [[flash:hiveswap-act2]] according to their position in the game (thanks, FF!)
     - added [[track:austin-atlantis]] to the reference list of [[track:the-rarest-and-most-interpretive-dance-meatcabre]]
     - added [[track:limelight]], [[track:light-in-the-darkness]], and [[track:glide-lofam4]] to the reference list of [[track:come-diverging-delicacies]]
     - added [[track:cross-examination]] to the reference list of [[track:ticket-to-ride-down-with-the-clown]]
     - added [[track:ticket-to-ride-rusty]] to the reference list of [[track:service-car]] (reflecting it already being in the re-release track [[track:shell-game]])
     - added [[track:amen-brother]] and [[track:your-best-nightmare]] to the reference list of [[track:galactic-princess-selene-opening-1]]
-    - added link to the <a href="https://www.youtube.com/watch?v=JyxgBfhPEG8">Vol. 5 Anthology Presentation</a> to commentary of [[album:homestuck-vol-5]]
+    - added link to the [Vol. 5 Anthology Presentation](https://www.youtube.com/watch?v=JyxgBfhPEG8) to commentary of [[album:homestuck-vol-5]]
     - added art tags for the cover of [[album:hiveswap-friendsim]]
     - added blood content warning for the cover of [[track:game-over]]
     - attributed cover of [[album:homestuck-vol-6]] to [[artist:andrew-hussie]] rather than [[artist:homestuck]]
@@ -2005,7 +2005,7 @@ Content: |-
     - miscellaneous artist name fixes
     - added [[tag:shrek]]
 
-    <h2 id="12-dec-2020" class="major-release"><a href="#12-dec-2020">[[date:12 December 2020]] - launch of hsmusic.wiki</a></h2>
+    <h2 id="12-dec-2020" class="major-release"><html:a href="#12-dec-2020">[[date:12 December 2020]] - launch of hsmusic.wiki</a></h2>
     (news entry: [[news-entry:hsmusicwiki]])
     <h3>site changes</h3>
     - redesigned the homepage from the ground up to be a better landing page for the wiki!
@@ -2045,7 +2045,7 @@ Content: |-
     <h3>data changes</h3>
     - five new albums archived: [[album:hiveswap-act-2-ost]], [[album:homestuck-for-the-holidays]], [[album:tomb-of-the-ancestors]], [[album:the-genesis-project-vol-1]], [[album:oceanfalls-vol-3]]; plus the track [[album:perfectly-generic-object]]
     - grouped tracks in a bunch of releases: [[album:alternia]], [[album:squiddles]], [[album:strife]], [[album:alterniabound]], [[album:homestuck-vol-7]], [[album:the-wanderers]], [[album:homestuck-vol-1-4]], [[album:homestuck-vol-8]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:genesis-frog]], [[album:sburb-ost]], [[album:lofam2]], [[album:lofam3]], [[album:beforus]], [[album:ancestral]], [[album:lofam4]], and [[album:hiveswap-act-1-ost]]
-    - a bunch of additions to [[album:coloUrs-and-mayhem-universe-a]] and various credited artists, working with help from [[artist:tempest2k]] and <a href="https://twitter.com/Bamboshu">Bambosh</a>:
+    - a bunch of additions to [[album:coloUrs-and-mayhem-universe-a]] and various credited artists, working with help from [[artist:tempest2k]] and [Bambosh](https://twitter.com/Bamboshu):
         - added bonus art by [[artist:astrom]] to [[track:olive-rogue]]
         - added lyrics to [[track:iron-infidel]] and [[track:bronze-page]]
         - added commentary to [[track:fuchsia-ruler]] and [[track:gold-mage]]
@@ -2070,7 +2070,7 @@ Content: |-
         - added more commentary for [[track:eternity-served-cold]]
         - fixed a typo in the commentary credits for [[track:flare-with-vocals]] (which left it missing on [[artist:horizon]]'s page)
         - fixed some typos in the commentary for [[track:thought-and-flow]] and [[track:minihoofs-adventure]]
-        - attributed [[track:skaia-voyages]] to [[artist:seth-peelle]] instead of [[artist:clark-powell]], per <a href="https://youtu.be/HJWqqikd6S0?t=556">Vol. 10 listening stream</a>
+        - attributed [[track:skaia-voyages]] to [[artist:seth-peelle]] instead of [[artist:clark-powell]], per [Vol. 10 listening stream](https://youtu.be/HJWqqikd6S0?t=556)
     - tweaked the [[album:unreleased-tracks]] album layout once again!
         - before:
             - Tracks featured in Homestuck
@@ -2102,7 +2102,7 @@ Content: |-
     - added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:fenkko]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:paradiddlesjosh]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:koukouvayia]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-j-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:molly-gur]], [[artist:plumegeist]], [[artist:rah-bop]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:temmie-chang]], [[artist:tensei]], [[artist:the-everlasting-ash]], [[artist:thomas-ferkol]], [[artist:toastyglow]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:pixelseph]], [[artist:killian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]
     - added a bunch of new artist pages for those whose contributions are showing up on the wiki for the first time (e.g. several contributors to [[flash:hiveswap-act1]])
 
-    <h2 id="10-oct-2020" class="major-release"><a href="#10-oct-2020">[[date:10 October 2020]] - autumnal polish haul</a></h2>
+    <h2 id="10-oct-2020" class="major-release"><html:a href="#10-oct-2020">[[date:10 October 2020]] - autumnal polish haul</a></h2>
     <h3>new features</h3>
     - artist links will now have icons to jump directly to their personal websites most places they're linked
     <h3>flash pages</h3>
@@ -2110,15 +2110,15 @@ Content: |-
     - plus a variety of additions, see data changes section
     <h3>data changes</h3>
     - three new solo albums archived: [[album:labyrinths-heart]], [[album:i-am-writing-myself-a-dream-in-a-letter]], [[album:exceptis-excipiendis]]; plus the 2011 collaborative album [[album:jailbreak-vol-1]]
-    - added track art for [[album:alternia]] and [[album:alterniabound]], brought over from the <a href="https://alterniaart.tumblr.com/">Alternia/Bound</a> track art anthology projects!
+    - added track art for [[album:alternia]] and [[album:alterniabound]], brought over from the [Alternia/Bound](https://alterniaart.tumblr.com/) track art anthology projects!
     - added album links to the index pages for [[album:shortcuts]] and [[album:p-s]], since i forgot them last time (oops!)
     - added bandcamp links to the rereleased album [[album:prospit-and-derse]], plus remastered track art for [[track:hallowed-halls]]!
     - added thumbnail art for [[flash:pony2]]
     - added a bunch of pages for artists/contributors that were previously left linkless
-    - added new flash pages for [[flash:7635]] and [[flash:2070]] (sorry, <a href="https://www.homestuck.com/story/4229">[S??????] ==&gt;</a> isn't getting the same treatment! :P)
+    - added new flash pages for [[flash:7635]] and [[flash:2070]] (sorry, [\[S??????] ==&gt;](https://www.homestuck.com/story/4229) isn't getting the same treatment! :P)
     - added missing durations on [[track:galaxy-hearts]], [[track:fighting-spirit]], [[track:joy-and-dreams-eternal]], [[track:master-of-puppets]], and Bill Bolin's removed tracks (thanks, foreverFlummoxed!)
     - added better resolution track art for [[track:tomahawk-head]]
-    - copied flash art credits info from <a href="https://www.homestuck.com/credits/art">Homestuck's Art Credits page</a>
+    - copied flash art credits info from [Homestuck's Art Credits page](https://www.homestuck.com/credits/art)
     - fixed [[flash:pq-vol9]] featuring [[track:requiem]] (from [[album:sburb]]) instead of [[track:requiem-labyrinths-heart]] (from [[album:labyrinths-heart]])
     - fixed [[flash:644]] and [[flash:651]] featuring "John Sleeps - Skaian Magicant" instead of [[track:john-sleeps-skaian-magicant]]
     - fixed contributor credits for [[track:minihoofs-adventure]] to correctly attribute vocals to [[artist:tavia-morra]] (was crediting "Tavio Morra")
@@ -2133,9 +2133,9 @@ Content: |-
     - renamed the ambiguous artist "Kat" to [[artist:kato]] in [[track:the-obsidian-towers]], and to [[artist:nyanface]] in [[track:gilded-sands]], [[track:cumulating-dreams]], [[track:buy-NAK-sell-DOOF]], [[track:nakkadile]], [[track:planet-in-shadow]], and [[track:paradoxical-meteor-shower]]
     - added artist links for [[artist:bea]], [[artist:pride]], [[artist:kato]], and [[artist:shad-andrews]] (per credits in [[album:prospit-and-derse]] Bandcamp release)
 
-    <h2 id="24-july-2020" class="major-release"><a href="#24-july-2020">[[date:24 July 2020]] - recompose, refine</a></h2>
+    <h2 id="24-july-2020" class="major-release"><html:a href="#24-july-2020">[[date:24 July 2020]] - recompose, refine</a></h2>
     <h3>new features</h3>
-    - two new albums archived, both from <a href="https://casualsunday.bandcamp.com/">Casual Sunday</a> (a group of the artists behind countless homestuck tracks): [[album:shortcuts]] and [[album:p-s]]
+    - two new albums archived, both from [Casual Sunday](https://casualsunday.bandcamp.com/) (a group of the artists behind countless homestuck tracks): [[album:shortcuts]] and [[album:p-s]]
     - added durations to every track, and rough total sums to album and artist pages
     - added keybindings (shift+N, shift+P, shift+R) for common navigation (respectively next, previous, random) on track, album, and flash pages
     - six new listings:
@@ -2157,7 +2157,7 @@ Content: |-
     - added playlist links for [[album:s-collide]] and [[album:prospit-and-derse]]
     - added contribution credits to [[Buy NAK Sell DOOF]]
     - tweaked the reference data for [[FIDUSPAWN, GO!]], [[The Blind Prophet]], [[Highland Thunder]], [[Irrelevance Event Horizon]], [[Hero's Growth]], and [[The Brave and the Bronze]] to show more referenced tracks
-    - fixed the bandcamp link for [[Another Jungle]] (it was previously linking to <a href="https://homestuck.bandcamp.com/track/skaianet-2">Skaianet</a>)
+    - fixed the bandcamp link for [[Another Jungle]] (it was previously linking to [Skaianet](https://homestuck.bandcamp.com/track/skaianet-2))
     - fixed the commentary for [[Princess of Helium]] being attributed to Clark Powell instead of Tavia Morra
     - fixed the commentary for [[Violet Mariner]] being attributed to... "Violet Mariner" instead of Willow Ascenzo
     - fixed the commentary for [[Despot]] not showing up at all
@@ -2186,7 +2186,7 @@ Content: |-
     - added a new track [[Onett Theme]] to the list of tracks referenced in [[Secret ROM]]
     - hid [[album:unreleased-tracks]] from the [[site:list/albums/by-date/|Albums - by Date]] and [[site:list/tracks/by-date/|Tracks - by Date]] listings
 
-    <h2 id="12-jun-20" class="major-release"><a href="#12-jun-20">[[date:12 June 2020]] - happy birthday karkat</a></h2>
+    <h2 id="12-jun-20" class="major-release"><html:a href="#12-jun-20">[[date:12 June 2020]] - happy birthday karkat</a></h2>
     <h3>homepage</h3>
     - a new [[static:changelog|Changelog]] page! you are probably reading it now.
     - two new albums: [[album:rust-apocalypse]] by Willow Ascenzo, and the follow-up to [[album:beforus]], [[album:ancestral]]!
@@ -2194,7 +2194,7 @@ Content: |-
     - flash pages now have links at which they can be listened, besides just on homestuck.com! most importantly: links to HD recordings, so they can be watched at good resolution on any device
     <h3>track pages</h3>
     - previously, all tracks required a URL to be added to the wiki; now, for tracks which don't have any links to be listened at online (but are still referenced by other tracks), they have been added alongside a message saying there aren't any listening links
-    - as such, another full pass through <a href="https://homestuck.net/music/references.html">NSND</a> has been completed, and many tracks which weren't present on the wiki before have been added to the newly reorganized [[album:unreleased-tracks]] album!
+    - as such, another full pass through [NSND](https://homestuck.net/music/references.html) has been completed, and many tracks which weren't present on the wiki before have been added to the newly reorganized [[album:unreleased-tracks]] album!
     <h3>listings</h3>
     - the [[site:list/all-commentary/|All Commentary]] listing page has been tweaked so that links in commentary will follow the color of the album the commentary is from
     - the [[site:list/|listing index]] shows its list in the main content area now too, for when the sidebar is collapsed (see below!)
@@ -2202,13 +2202,13 @@ Content: |-
     - a new navigation header added to every album, track, flash, and listing page, making the site considerably more usable on any device
     - the header has links to the previous and next (or random) track/flash, and chronology links have been moved into the header too, so you don't need to scroll to the bottom of the page to access them
     - on top of redoing the sidebar-header layout, changes to styling (collapsing the sidebar when the screen isn't very wide, for example) have made the site usable on mobile devices now!
-    - also, some changes to the way pages are generated, to make the site usable from hit command-line web browser <a href="https://lynx.browser.org/">Lynx</a>
+    - also, some changes to the way pages are generated, to make the site usable from hit command-line web browser [Lynx](https://lynx.browser.org/)
 
-    <h2 id="2-jun-20"><a href="#2-jun-20">[[date:2 June 2020]] - track art for beyond canon</h2>
-    - thanks to the folx who contributed art to and organized the <a href="https://hsfanmusic.skaia.net/post/619761136023257089/unofficialmspafans-we-are-proud-to-announce-the">Beyond Canon Track Art Anthology</a>, the [[album:beyond-canon]] album now has track art!
+    <h2 id="2-jun-20"><html:a href="#2-jun-20">[[date:2 June 2020]] - track art for beyond canon</h2>
+    - thanks to the folx who contributed art to and organized the [Beyond Canon Track Art Anthology](https://hsfanmusic.skaia.net/post/619761136023257089/unofficialmspafans-we-are-proud-to-announce-the), the [[album:beyond-canon]] album now has track art!
     - this anthology also came with a commentary booklet, and that (alongside the sketches contained!) has been transcribed into the wiki!
 
-    <h2 id="25-may-20" class="major-release"><a href="#25-may-20">[[date:25 May 2020]] - albums, artists, and urls</a></h2>
+    <h2 id="25-may-20" class="major-release"><html:a href="#25-may-20">[[date:25 May 2020]] - albums, artists, and urls</a></h2>
     <h3>homepage</h3>
     - another four new fandom albums! [[album:sburb-ost]], [[album:beforus]], [[album:strife-2]], [[album:perfectly-generic-album]]
     - the entire homepage has been restructured, placing official albums from the music team for <i>Homestuck^2: Beyond Canon</i> front and center, and generally adding flare to the rest of the page too
@@ -2225,22 +2225,22 @@ Content: |-
     - many, many artists whose names are either typo'd or out of date or otherwise duplicate have been updated, making artist pages a considerably more reliable resource than they were before
     - behind the scenes, lots of code changes to make accidentally typo'd or duplicate artist names much more difficult
 
-    <h2 id="15-apr-20"><a href="#15-apr-20">[[date:15 April 2020]] - chronology links</a></h2>
+    <h2 id="15-apr-20"><html:a href="#15-apr-20">[[date:15 April 2020]] - chronology links</a></h2>
     - "chronology links" have been added to the bottom of the sidebar on track pages
     - these let you follow through the history of an artist's contributions without having to navigate back and forth between their own artist page
 
-    <h2 id="13-apr-20"><a href="#13-apr-20">[[date:13 April 2020]] - beyond canon</a></h2>
+    <h2 id="13-apr-20"><html:a href="#13-apr-20">[[date:13 April 2020]] - beyond canon</a></h2>
     - the new official album [[album:beyond-canon]] has been transcribed! pretty minimal commentary and no track art, as yet.
     - pages for the routes of Hiveswap: Friendsim and Pesterquest were added to the [[site:flash/|Flashes]] page!
     - the new "flash" pages contain full credits for their authors and asset artists, and these can be explored like any other link
 
-    <h2 id="31-mar-20"><a href="#31-mar-20">[[date:31 March 2020]] - typo fixes from foreverFlummoxed</a></h2>
-    - per foreverFlummoxed's <a href="https://forum.homestuck.xyz/viewtopic.php?f=7&t=151&sid=4d28b089724502b9019dd52c0fc7cdb2&start=20#p14209">excellent page-checking</a>, a bunch of typos and missing track art around the site have been fixed!
+    <h2 id="31-mar-20"><html:a href="#31-mar-20">[[date:31 March 2020]] - typo fixes from foreverFlummoxed</a></h2>
+    - per foreverFlummoxed's [excellent page-checking](https://forum.homestuck.xyz/viewtopic.php?f=7&t=151&sid=4d28b089724502b9019dd52c0fc7cdb2&start=20#p14209), a bunch of typos and missing track art around the site have been fixed!
 
-    <h2 id="18-mar-20"><a href="#18-mar-20">[[date:18 March 2020]] - more sburb commentary</a></h2>
+    <h2 id="18-mar-20"><html:a href="#18-mar-20">[[date:18 March 2020]] - more sburb commentary</a></h2>
     - the [[album:sburb]] solo album was rereleased by its artist, so Bandcamp links have been copied to its track pages, as have the new commentary released with it
 
-    <h2 id="16-mar-20" class="major-release"><a href="#16-mar-20">[[date:16 March 2020]] - Land of Fans and Music <small>(and References and Randomness and Art and Also Some Other Stuff)</small></a></h2>
+    <h2 id="16-mar-20" class="major-release"><html:a href="#16-mar-20">[[date:16 March 2020]] - Land of Fans and Music <small>(and References and Randomness and Art and Also Some Other Stuff)</small></a></h2>
     <h3>homepage</h3>
     - four new albums archived (and their booklets transcribed): [[album:lofam]], [[album:lofam2]], [[album:lofam3]], and [[album:lofam4]]
     - (the commentary booklets transcribed here are hilarious and very insightful and there are a bunch of easter eggs - check them out!)
@@ -2255,11 +2255,11 @@ Content: |-
     <h3>artist pages</h3>
     - track credit listings already showed collaborators in contribution lines; now cover art credits do too, e.g. the page for [[artist:mika-b]].</a>
     <h3>miscellaneous</h3>
-    - the <a href="https://sollay-b.tumblr.com/post/188094230423/hello-a-couple-of-years-ago-allyssinian">Homestuck Vol. 5 Anthology</a> has been mirrored in the [[album:homestuck-vol-5]] album page
+    - the [Homestuck Vol. 5 Anthology](https://sollay-b.tumblr.com/post/188094230423/hello-a-couple-of-years-ago-allyssinian) has been mirrored in the [[album:homestuck-vol-5]] album page
     - a new feature acknowledgements section has been added to the [[static:about|About &amp; Credits]] page
     - a bunch of code changes to make expanding the wiki a fair bit less difficult
 
-    <h2 id="1-mar-20" class="major-release"><a href="#1-mar-20">[[date:1 March 2020]] - embracing fanon</a></h2>
+    <h2 id="1-mar-20" class="major-release"><html:a href="#1-mar-20">[[date:1 March 2020]] - embracing fanon</a></h2>
     <h3>homepage</h3>
     - the homepage is now split into two sections: "Fandom" and "Official"
     - only one fandom album now, [[album:diverging-delicacies]], but more to come soon
@@ -2269,7 +2269,7 @@ Content: |-
     <h3>flashes</h3>
     - a CSS change targeting the homepage inadvertently made the headings on the flash index look very fancy, and i kept this because it looks cool
 
-    <h2 id="7-feb-20" class="major-release"><a href="#7-feb-20">[[date:7 February 2020]] - flash pages</a></h2>
+    <h2 id="7-feb-20" class="major-release"><html:a href="#7-feb-20">[[date:7 February 2020]] - flash pages</a></h2>
     <h3>homepage</h3>
     - link to the new [[site:flash/|Flashes]] index page
     <h3>flash pages</h3>
@@ -2277,7 +2277,7 @@ Content: |-
     - each flash gets its own unique thumbnail (except A6I4 flashes, please forgive me troll clown jegus)
     - every flash page has a link to play the flash on homestuck.com, its page number, release date, and a list of the tracks featured in it
     - the code to generate sidebar was absolute hell to write
-    - <a href="https://archiveofourown.org/works/19708732/chapters/46642894">jadevris</a>
+    - [jadevris](https://archiveofourown.org/works/19708732/chapters/46642894)
     <h3>track pages</h3>
     - a track's page will list the flashes in which it's been referenced, e.g. [[Elevatorstuck]]
     <h3>artist pages</h3>
@@ -2286,18 +2286,18 @@ Content: |-
     - switched a couple artist names around, for consistency with credits in the latest release ([[album:homestuck-vol-10]])</a>
     - added a new [[static:feedback|Feedback]] page, with links to contact me; this is also linked from the homepage
 
-    <h2 id="14-jan-20"><a href="#14-jan-20">[[date:14 January 2020]] - commentary for Sburb</a></h2>
+    <h2 id="14-jan-20"><html:a href="#14-jan-20">[[date:14 January 2020]] - commentary for Sburb</a></h2>
     - copied commentary for the [[album:sburb]] album, per descriptions of the YouTube videos
 
-    <h2 id="6-dec-19"><a href="#6-dec-19">[[date:6 December 2019]] - commentary for [S] Collide.</a></h2>
+    <h2 id="6-dec-19"><html:a href="#6-dec-19">[[date:6 December 2019]] - commentary for [S] Collide.</a></h2>
     - copied commentary from James Roach on twitter about his contributions to the [[album:s-collide]] album
 
-    <h2 id="3-dec-19"><a href="#3-dec-19">[[date:3 December 2019]] - commentary &amp; lyrics</a></h2>
+    <h2 id="3-dec-19"><html:a href="#3-dec-19">[[date:3 December 2019]] - commentary &amp; lyrics</a></h2>
     - copied over official commentary booklets for three official albums - [[album:alterniabound]], [[album:one-year-older]], [[album:homestuck-vol-10]] - beginning a long tale of booklet transcription going forward
     - added a new section to track pages for lyrics, e.g. on [[Temporal Shenanigans]]
     - added two new listing pages: [[site:list/tracks/with-lyrics/|Tracks - with Lyrics]] and [[site:list/all-commentary/|All Commentary]]
 
-    <h2 id="24-nov-19" class="major-release"><a href="#24-nov-19">[[date:24 November 2019]] - so many new pages</a></h2>
+    <h2 id="24-nov-19" class="major-release"><html:a href="#24-nov-19">[[date:24 November 2019]] - so many new pages</a></h2>
     <h3>homepage / "About &amp; Credits"</h3>
     - moved the intro message to a new [[static:about|About &amp; Credits]] page
     - structured the site credits list more nicely there
@@ -2316,26 +2316,26 @@ Content: |-
     - [[site:list/tracks/by-album/|Tracks - by Album]]: every track, grouped by album
     - [[site:list/tracks/by-date/|Tracks - by Date]]: every track, grouped by release date
 
-    <h2 id="19-nov-19"><a href="#19-nov-19">[[date:19 November 2019]] - grouped artist listings</a></h2>
+    <h2 id="19-nov-19"><html:a href="#19-nov-19">[[date:19 November 2019]] - grouped artist listings</a></h2>
     - artist page credit listings have been sigificantly restructured ([[root:media/misc/changelog/old-artist-page.png|before]], [[root:media/misc/changelog/new-artist-page.png|after]])
     - contributions are now grouped by album (or more specifically, by release date, which is noteworthy in the case of [[album:homestuck-vol-1-4]], which was originally released over a period of four distinct dates, plus one for the final compiled album release)
     - because it's easy to see where tracks are referenced now, dim contribution lines (showing tracks which reference a track by the specific artist, but were not otherwise contributed to by them) have been removed
     - the lists aren't numbered anymore because, with this grouping, it was sort of ambiguous whether that referred to a track's position in the album or if it was a continuous counter of the artist's contributions (it was the latter); both such counters can now be displayed by holding still the cursor over a contribution line for a moment
     - removed a few referenced-track contributions i'd missed switching to the new format (distinct reference lists) earlier
 
-    <h2 id="18-nov-19"><a href="#18-nov-19">[[date:18 November 2019]] - high-res cover art</a></h2>
-    - copied cover art from <a href="https://www.reddit.com/r/homestuck/comments/dn2s69/i_was_prepared_for_this_eventuality_and_also/">this archive</a>, which was originally compiled by clicking each cover art off the bandcamp to get a higher-resolution cover art (it is intentionally still less than the resolution gotten in purchased album downloads, for particularly high-res art)
+    <h2 id="18-nov-19"><html:a href="#18-nov-19">[[date:18 November 2019]] - high-res cover art</a></h2>
+    - copied cover art from [this archive](https://www.reddit.com/r/homestuck/comments/dn2s69/i_was_prepared_for_this_eventuality_and_also/), which was originally compiled by clicking each cover art off the bandcamp to get a higher-resolution cover art (it is intentionally still less than the resolution gotten in purchased album downloads, for particularly high-res art)
     - commentary for [[album:hiveswap-act-1-ost]]
 
-    <h2 id="16-nov-19" class="major-release"><a href="#16-nov-19">[[date:16 November 2019]] - track references &amp; commentary</a></h2>
+    <h2 id="16-nov-19" class="major-release"><html:a href="#16-nov-19">[[date:16 November 2019]] - track references &amp; commentary</a></h2>
     <h3>homepage</h3>
     - got rid of the twitter link on my name and added two links in its place - my twitter and reddit accounts - as well as a note that suggestions and feedback are welcome
     <h3>track pages</h3>
     - track references show up in a dedicated list now
     - forward-facing reference links: track pages list not just the tracks they reference, but the tracks <i>which reference them</i>
-    - reference data is from <a href="https://homestuck.net/music/references.html"><dfn title="nobody knows what NSND stands for">NSND</dfn></a> (credited on the homepage)
+    - reference data is from [<dfn title="nobody knows what NSND stands for">NSND</dfn>](https://homestuck.net/music/references.html) (credited on the homepage)
     - "listen on" links show up before the contributor list instead of after; reference list after contributor list
-    - at the very bottom, a new section for artist commentary, largely copied from <a href="https://pastebin.com/gqpHsKkE">this pastebin</a>
+    - at the very bottom, a new section for artist commentary, largely copied from [this pastebin](https://pastebin.com/gqpHsKkE)
     <h3>artist pages</h3>
     - added a message describing dim contribution lines: "Dim tracks are tracks that this artist contributed only a based-upon song to."
     - for tracks with multiple contributors, those are listed as well, e.g. "(with Michael Guy Bowman)"
@@ -2343,10 +2343,10 @@ Content: |-
     - a new section for commentary
     - a "jump to" paragraph at the top, to quickly scroll to any of the track/art/commentary sections
 
-    <h2 class="major-release" id="15-nov-19"><a href="#15-nov-19">[[date:15 November 2019]] - initial release</a></h2>
+    <h2 class="major-release" id="15-nov-19"><html:a href="#15-nov-19">[[date:15 November 2019]] - initial release</a></h2>
     <h3>initial release of the website</h3>
-    - published <a href="https://github.com/hsmusic/hsmusic.github.io/">on github</a> with code under the GPL; hosted on hsmusic.github.io
-    - advertised exclusively <a href="https://www.reddit.com/r/homestuck/comments/dwtc4w/i_made_a_wiki_for_homestuck_albums_including/">on reddit</a>
+    - published [on github](https://github.com/hsmusic/hsmusic.github.io/) with code under the GPL; hosted on hsmusic.github.io
+    - advertised exclusively [on reddit](https://www.reddit.com/r/homestuck/comments/dwtc4w/i_made_a_wiki_for_homestuck_albums_including/)
     - (and maybe twitter but my account has long been deleted)
     <h3>homepage</h3>
     - an intro message which has since been moved to [[static:about|About &amp; Credits]]
