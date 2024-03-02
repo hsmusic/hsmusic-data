@@ -8,7 +8,7 @@ URLs:
 Cover Artists:
 - Svix
 Cover Art File Extension: png
-Color: #8e8785
+Color: '#009a85'
 Groups:
 - Beyond
 Commentary: |-
@@ -24,7 +24,7 @@ Commentary: |-
 
     Guest remixes by<br>
     [[artist:glaze]]<br>
-    [[artist:saxxon-fox|Sanxion7]]<br>
+    [[artist:sanxion7]]<br>
     [[artist:metawulf]]
 ---
 Section: Main album
@@ -46,8 +46,8 @@ Duration: '3:32'
 URLs:
 - https://svix.bandcamp.com/track/my-hibernation-2
 Referenced Tracks:
-- Havoc
 - track:my-hibernation-original
+- Havoc
 Lyrics: |-
     Come and find me when the night's bright
     The place we like to hear
@@ -310,8 +310,12 @@ Referenced Tracks:
 - Havoc
 - track:my-hibernation-original
 - track:verisimilitude-induction
-- track:flying-battery-zone-act-1
+- track:flying-battery-zone-act-2
 - track:fire-forget
+- track:wistful-induction
+- You Fade Away
+- Shake Your Tail
+- The Fox Cub
 Commentary: |-
   <i>Svix:</i> ([composer, YouTube description](https://www.youtube.com/watch?v=8UFXoZfWagQ))
 
@@ -325,6 +329,7 @@ Track: Verisimilitude (Glaze Remix)
 Directory: verisimilitude-glaze-remix
 Artists:
 - Glaze
+- WoodenToaster
 Duration: '3:53'
 URLs:
 - https://svix.bandcamp.com/track/verisimilitude-glaze-remix
