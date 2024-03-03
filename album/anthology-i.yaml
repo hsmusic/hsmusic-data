@@ -61,11 +61,14 @@ URLs:
 - https://desynced.bandcamp.com/track/serendipity
 ---
 Track: Missing In Action
+Additional Names:
+- Missing in Action ([YouTube](https://www.youtube.com/watch?v=cjQ4tNC4OME))
 Duration: 1:50
 Artists:
 - Rainy
 URLs:
 - https://desynced.bandcamp.com/track/missing-in-action
+- https://www.youtube.com/watch?v=cjQ4tNC4OME
 ---
 Track: Persistent Patronage
 Duration: 2:24
@@ -121,6 +124,8 @@ Directory: battalion-anthology-i
 Duration: 2:16
 Artists:
 - Rainy
+Sampled Tracks:
+- track:war-edwin-starr
 URLs:
 - https://desynced.bandcamp.com/track/battalion
 ---
@@ -147,6 +152,25 @@ Artists:
 - Rainy
 Art Tags:
 - 'cw: blood'
+Referenced Tracks:
+- Old Enemy
+- Antigone
+- track:escapade-desynced
+- Lullaby for a Drifter
+- Saving Grace
+Sampled Tracks:
+- Takyon (Death Yon)
+- audio from Undertale
+- All Star
+- Feel Good Inc.
+- Forced Battle
+- Back 2 Back
+- track:axel-f-crazy-frog
+- NEW MAGIC WAND
+- Money Machine
+- audio from Mischief Makers
+- Amen, Brother
+- track:distortion-vast-error
 URLs:
 - https://desynced.bandcamp.com/track/your-blood-not-mine-beta
 ---
@@ -197,15 +221,28 @@ Directory: haymaker-anthology-i
 Duration: 2:12
 Artists:
 - Rainy
+Referenced Tracks:
+- Your Blood Not Mine (Beta)
+Sampled Tracks:
+- All American Badass
+- Takyon (Death Yon)
 URLs:
 - https://desynced.bandcamp.com/track/disc-4-haymaker
+- https://www.youtube.com/watch?v=c6CQBB7Z8Aw
 ---
 Track: Wrong Number
 Duration: 3:07
 Artists:
 - Rainy
+Referenced Tracks:
+- track:pokerface-desynced
+- track:escapade-desynced
+Sampled Tracks:
+- Hotline Bling
+- Touchtone Telephone
 URLs:
 - https://desynced.bandcamp.com/track/wrong-number
+- https://www.youtube.com/watch?v=AwCv-AkW26g
 ---
 Track: Angelic Beauty
 Duration: 2:24
@@ -221,8 +258,13 @@ Artists:
 - Rainy
 Art Tags:
 - 'cw: eye horror'
+Sampled Tracks:
+- audio from NASA
+Referenced Tracks:
+- Saving Grace
 URLs:
 - https://desynced.bandcamp.com/track/emergency-broadcast
+- https://www.youtube.com/watch?v=JuDB6bzN6n0
 ---
 Track: Death Defied
 Duration: 5:20

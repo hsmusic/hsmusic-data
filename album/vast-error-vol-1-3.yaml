@@ -20,6 +20,8 @@ Groups:
 - Deconreconstruction
 - Fandom
 ---
+Section: Main album
+---
 Track: The Static
 Directory: the-static-vol-1-3
 Originally Released As: The Static
@@ -176,6 +178,8 @@ URLs:
 ---
 Track: Clamor
 Directory: clamor-vast-error
+Artists:
+- Husr
 Cover Artists:
 - Xagave
 Duration: '01:53'
@@ -505,6 +509,8 @@ URLs:
 - https://vasterror.bandcamp.com/track/gone
 - https://music.deconreconstruction.com/albums/vast-error-vol-1-3?track=gone
 ---
+Section: Download-only tracks
+---
 Track: Sortir (Alpha Demo)
 Directory: sortir-alpha-demo-vol-1-3
 Originally Released As: Sortir (Alpha Demo)
@@ -513,3 +519,12 @@ Cover Artists:
 Duration: '01:36'
 URLs:
 - https://www.youtube.com/watch?v=W1_g9SDfm68
+---
+Track: Distortion
+Directory: distortion-vast-error-vol-1-3
+Originally Released As: track:distortion-vast-error
+Duration: '00:02'
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    Positioned as the zeroth track in the album, this has the actual album cover as its cover artwork, so the first track ([[track:the-static-vol-1-3]]) can retain its own artwork without messing with the album's presentation in music players.
