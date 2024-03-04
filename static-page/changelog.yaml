@@ -373,10 +373,13 @@ Content: |-
         - fixed [[track:finale-undertale]] referencing [[track:his-theme]] instead of [[track:memory-undertale]]
         - fixed [[track:his-theme]] not referencing [[track:memory-undertale]]
     - fixed [[track:toby-fox-has-written-hundreds-of-unique-original-songs]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]]
+    - fixed [[track:beginning-deltarune]], [[track:school-deltarune]], [[track:field-of-hopes-and-dreams]], [[track:scarlet-forest]], [[track:the-world-revolving]], [[track:friendship-deltarune]], [[track:your-power]], [[track:a-town-called-hometown]], and [[track:you-can-always-come-home]] referencing [[track:dont-forget]] instead of [[track:game-main-theme-piano-sketch]] (thanks, Morris!)
+    - fixed [[track:dont-forget]] not referencing [[track:game-main-theme-piano-sketch]], and updated its credits accordingly (thanks, Morris!)
     - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, Morris!)
     - fixed [[track:megalovania-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing [[track:megalovania-halloween]] ([[album:earthbound-halloween-hack]]) instead of [[track:megalovania-undertale]] ([[album:undertale-soundtrack]]), and not referencing [[track:heartache]] and [[track:bonetrousle]] (thanks, Morris!)
     - fixed [[track:bloodstained-camellias]] not sampling [[track:amen-brother]]
     - fixed [[track:antigone]] not referencing [[track:psycho-desynced]] and [[track:saving-grace]]
+    - fixed [[track:faint-glow]] and [[track:the-dark-truth]] referencing [[track:dont-forget]] instead of [[track:game-main-theme-piano-sketch]] (thanks, Morris!)
     - fixed [[track:my-grand-dad-is-the-green-sun]] not sampling [[track:flare]] (thanks, Rosetta Leijonde!)
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
