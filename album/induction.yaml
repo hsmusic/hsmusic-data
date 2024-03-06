@@ -12,7 +12,7 @@ Color: '#009a85'
 Groups:
 - Beyond
 Commentary: |-
-    <i>Svix:</i> (Bandcamp credits blurb)
+    <i>Svix:</i> ([Bandcamp about blurb](https://svix.bandcamp.com/album/induction))
 
     The culmination of nearly 3 years of learning and producing music.
 
@@ -20,7 +20,7 @@ Commentary: |-
 
     Hidden track included with album purchase!
 
-    <i>Svix:</i> (Bandcamp about blurb, excerpt)
+    <i>Svix:</i> ([Bandcamp credits blurb](https://svix.bandcamp.com/album/induction))
 
     Guest remixes by<br>
     [[artist:glaze]]<br>
@@ -36,9 +36,9 @@ Duration: '2:30'
 URLs:
 - https://svix.bandcamp.com/track/induction
 Commentary:
-    <i>Svix:</i> (Bandcamp description, excerpt)
+    <i>Svix:</i> ([Bandcamp about blurb](https://svix.bandcamp.com/track/induction))
 
-    Originally appeared as '[[track:havoc|Havoc]]' on [[album:homestuck-vol-8|Homestuck Volume 8]]
+    Originally appeared as [[track:havoc|'Havoc']] on [[album:homestuck-vol-8|Homestuck Volume 8]]
 ---
 Track: My Hibernation
 Directory: my-hibernation
@@ -298,7 +298,7 @@ Duration: '2:56'
 URLs:
 - https://svix.bandcamp.com/track/the-fox-cub-2
 ---
-Section: Bonus tracks
+Section: Download-only track
 ---
 Track: Fin
 Directory: fin-induction
@@ -317,13 +317,11 @@ Referenced Tracks:
 - Shake Your Tail
 - The Fox Cub
 Commentary: |-
-  <i>Svix:</i> ([composer, YouTube description](https://www.youtube.com/watch?v=8UFXoZfWagQ))
+    <i>Svix:</i> ([YouTube description](https://www.youtube.com/watch?v=8UFXoZfWagQ), excerpt)
 
-  The bonus track for my album [[album:induction|Induction]]:
-
-  This was incredibly fun to make, I used the VST VOPM to achieve the YM2612 chip sound and emulated various leads and basses from some of my favourite sonic zones, of which this is a homage to. Also I couldn't help but mix elements from Flying Battery zone in with [[track:fire-forget|Fire + Forget]] since they seemed to work together so well!
+    This was incredibly fun to make, I used the VST VOPM to achieve the YM2612 chip sound and emulated various leads and basses from some of my favourite sonic zones, of which this is a homage to. Also I couldn't help but mix elements from Flying Battery zone in with [[track:fire-forget|Fire + Forget]] since they seemed to work together so well!
 ---
-Section: Main album
+Section: Remixes
 ---
 Track: Verisimilitude (Glaze Remix)
 Directory: verisimilitude-glaze-remix
