@@ -3641,6 +3641,15 @@ URLs:
 Lyrics: |-
     Dei, quod reliquum est, nolite metuere, et ossa tua liberabit, exspectans
 ---
+Track: Evolution (Pokémon Red / Pokémon Blue)
+Directory: evolution-pokemon-red-blue
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:35'
+URLs:
+- https://www.youtube.com/watch?v=oVIpkXSN_o0
+---
 Track: Extend Music (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -4450,6 +4459,16 @@ Artists:
 Duration: '4:03'
 URLs:
 - https://www.youtube.com/watch?v=lO78gtoZDF4
+---
+Track: Guide (Pokémon Red / Pokémon Blue)
+# https://vgmdb.net/album/141
+Directory: guide-pokemon-red-blue
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:38'
+URLs:
+- https://www.youtube.com/watch?v=hisJvtF8qu0
 ---
 Track: Guile's Theme
 # From Street Fighter II, which was released in several different versions but... carried the same soundtrack... I think?
@@ -6389,7 +6408,7 @@ Commentary: |-
     <i>Makin:</i> (wiki editor)
     Also known as Cave Story's Title Theme or Main Theme.
 ---
-Track: Pokémon Center (Pokémon Red & Blue Versions)
+Track: Pokémon Center (Pokémon Red / Pokémon Blue)
 # JP: ポケモンセンター
 # Official release:
 #   ポケモン 赤・緑 スーパーミュージック・コレクション
@@ -6402,6 +6421,17 @@ Artists:
 Duration: '1:14'
 URLs:
 - https://www.youtube.com/watch?v=MjZIjHu0OfY
+---
+Track: Pokémon Gym (Pokémon Red / Pokémon Blue)
+# Reference:
+#   https://vgmdb.net/album/141
+Directory: pokemon-gym-pokemon-red-and-blue-versions
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '1:15'
+URLs:
+- https://www.youtube.com/watch?v=A3IQFA-we6I
 ---
 Track: Power
 Directory: power-mother
@@ -6644,6 +6674,23 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=Rq7PkSBaUG8
 ---
+Track: Received a Pokémon Egg! (Pokémon Gold / Pokémon Silver)
+Directory: received-a-pokemon-egg-pokemon-gold-silver
+Artists:
+- Pokémon
+- Morikazu Aoki
+Duration: '0:04'
+URLs:
+- https://www.youtube.com/watch?v=_xycGmmgbF4
+---
+Track: Received a TM! (Pokémon Gold / Pokémon Silver)
+#cant find standalone upload xd
+Directory: received-a-tm-pokemon-gold-silver
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: ''
+---
 Track: Reconstructing More Science
 # Official release in a lovely free download
 # Reference:
@@ -6654,6 +6701,19 @@ Artists:
 Duration: '2:37'
 URLs:
 - https://www.youtube.com/watch?v=WAeiqxNH3W0
+---
+Track: Recovery (Pokémon Red / Pokémon Blue)
+# JP: ポケモンセンター
+# Official release:
+#   ポケモン 赤・緑 スーパーミュージック・コレクション
+# Reference:
+#   https://vgmdb.net/album/141
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:07'
+URLs:
+- https://www.youtube.com/watch?v=cI7a0d4u9SA
 ---
 Track: Recruitment Theme
 # Official release has this track as a medley of other in-game BGM at the end of an album mostly comprising arrangements; duration is from timestamps 41:33 to 42:07 on the album as a whole.
@@ -7683,11 +7743,12 @@ Track: The Battle at the Summit!
 #   https://vgmdb.net/album/61193
 Artists:
 - artist:pokemon
-- Go Ichinose (composer & arranger)
-- Junichi Masuda (composer)
+- Go Ichinose
 Duration: '3:46'
 URLs:
 - https://www.youtube.com/watch?v=-dkK9r57BNk
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
 ---
 Track: The Butcher's Circus Lobby
 # Official release: Darkest Dungeon - The Butcher's Circus DLC EP
@@ -7855,6 +7916,18 @@ URLs:
 - https://www.youtube.com/watch?v=U3-0w9eVENw
 Referenced Tracks:
 - Meet the Flintstones
+---
+Track: The Final Road (Pokémon Red / Pokémon Blue)
+# https://vgmdb.net/album/141
+Directory: the-final-road-pokemon-red-blue
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '1:14'
+URLs:
+- https://www.youtube.com/watch?v=kM1b7xUi3gI
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
 ---
 Track: The Little Sprite
 # JP: 妖精族のこども
@@ -8196,13 +8269,13 @@ URLs:
 Referenced Tracks:
 - Main Theme (Luigi's Mansion)
 ---
-Track: Title Screen (Pokémon Red & Blue Versions)
+Track: Title Screen (Pokémon Red / Pokémon Blue)
 # JP: 〜オープニング〜
 # Official release:
 #   ポケモン 赤・緑 スーパーミュージック・コレクション
 # Reference:
 #   https://vgmdb.net/album/141
-Directory: title-screen-pokemon-red-and-blue-versions
+Directory: title-screen-pokemon-red-blue
 Artists:
 - artist:pokemon
 - Junichi Masuda
@@ -8676,6 +8749,17 @@ Artists:
 Duration: '0:39'
 URLs:
 - https://youtu.be/ZSdNARyfaZY
+---
+Track: Victory! (Trainer Battle) (Pokémon Red / Pokémon Blue)
+# Reference:
+#   https://vgmdb.net/album/141
+Directory: victory-trainer-battle-pokemon-red-blue
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '0:31'
+URLs:
+- https://www.youtube.com/watch?v=NFch6XO5I_c
 ---
 Track: Vortal Combat
 # Official release:
@@ -32504,6 +32588,23 @@ Lyrics: |-
     It's obsession
     Uh huh, it’s obsession
     It's obsession
+---
+Track: Obtained a Gym Badge (Pokémon Red / Pokémon Blue)
+Directory: obtained-a-gym-badge-pokemon-red-blue
+## I can't find any uploads of the original Red / Blue jingle
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: ''
+---
+Track: Obtained an Item! (Pokémon Red / Pokémon Blue)
+Directory: obtained-an-item-pokemon-red-blue
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:02'
+URLs:
+- https://www.youtube.com/watch?v=1yTPevyGoKk
 ---
 Track: OK
 Directory: ok-madeon
