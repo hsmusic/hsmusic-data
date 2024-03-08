@@ -1244,6 +1244,7 @@ Direct Descendant Tags:
 - Characters from Shrek
 - Characters from The Simpsons
 - Characters from Sonic
+- Characters from Portal
 ---
 Tag: Characters from EarthBound
 Direct Descendant Tags:
@@ -1275,6 +1276,11 @@ Direct Descendant Tags:
 Tag: Characters from Sonic
 Direct Descendant Tags:
 - Sonic
+---
+Tag: Characters from Portal
+Direct Descendant Tags:
+- P-Body
+- Atlas
 
 # -------------------------------------
 #  Species.
@@ -1346,6 +1352,11 @@ Direct Descendant Tags:
 - Tavia Morra
 - Toby Fox
 - Weird Al
+- Joe Hawley
+- Rob Cantor
+- Zubin Sedghi
+- Ross Federman
+- Andrew Horowitz
 ---
 Tag: Trolls
 # Description: |-
@@ -1478,6 +1489,27 @@ Tag: Squiddles
 Color: '#cb87f6'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Squiddles
+
+# -------------------------------------
+#  Other character groupings
+# -------------------------------------
+#  Entries here are for other character groupings such as music groups 
+#  which don't quite fit anywhere above
+
+
+---
+Tag: Music Groups
+Direct Descendant Tags:
+- Tally Hall
+---
+Tag: Tally Hall
+Direct Descendant Tags:
+- Rob Cantor
+- Joe Hawley
+- Andrew Horowitz
+- Zubin Sedghi
+- Ross Federman
+
 
 # -------------------------------------
 #  Individual character entries.
@@ -3092,8 +3124,20 @@ Color: '#FFD90F'
 Tag: Sonic
 Color: '#4040ff'
 
+# Characters from Portal
+
+---
+Tag: P-body
+Color: '#ffdb70'
+---
+Tag: Atlas
+Color: '#4ed4fa'
+
 # Real-world humans.
 
+---
+Tag: Andrew Horowitz
+Color: '#f0f7fc'
 ---
 Tag: Barack Obama
 Color: '#e5e5e5'
@@ -3106,6 +3150,9 @@ Color: '#e5e5e5'
 ---
 Tag: Bruce Willis
 Color: '#e5e5e5'
+---
+Tag: Joe Hawley
+Color: '#e4d13b'
 ---
 Tag: John Cusack
 Color: '#e5e5e5'
@@ -3124,6 +3171,12 @@ Color: '#32c7fe'
 Tag: Nicolas Cage
 Color: '#e5e5e5'
 ---
+Tag: Rob Cantor
+Color: '#d64343'
+---
+Tag: Ross Federman
+Color: '#f0f7fc'
+---
 Tag: Scott Stutzman
 Color: '#32c7fe'
 ---
@@ -3135,6 +3188,9 @@ Color: '#32c7fe'
 ---
 Tag: Weird Al
 Color: '#e5e5e5'
+---
+Tag: Zubin Sedghi
+Color: '#46549e'
 
 
 
