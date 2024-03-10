@@ -405,6 +405,7 @@ Content: |-
     - fixed [[track:mm2wood]] not referencing [[track:wood-man-stage]] (thanks, Morris!)
     - fixed [[track:xmas-i-dont-know-such-a-thing]] not referencing [[track:the-one-horse-open-sleigh]] (thanks, Rosetta Leijonde!)
     - fixed [[track:no-credit-card]] not sampling [[track:the-power-of-love]] (thanks, Rosetta Leijonde!)
+    - fixed [[track:before-the-story]] ([[album:undertale-soundtrack]]) being listed as a rerelease of [[track:before-the-story-ch1]] ([[album:deltarune-ch1-ost]]), instead of the other way around
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a rerelease of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
     - fixed [[track:flare-with-vocals]] being duplicated in [[album:more-homestuck-fandom]] (as "Flare (horizon's lyricover)"), and tidied this track's lyrics (thanks, Jebb, vriska/leo!)
     - fixed [[track:empirical]] being named "--Emperical" (thanks, Rosetta Leijonde!)
@@ -426,6 +427,7 @@ Content: |-
     - fixed artworks by [[artist:fueledbyanimation]] being credited to separate aliases between [[album:lofam2]] and [[album:lofam3]]
     - fixed duration of [[track:song-of-storms]] (thanks, Geese!)
     - added durations to [[track:baby-face-morgan]], [[track:the-pay-off]], and [[track:vinesauce-joel-insane-mario-bootleg-games-part-1]] (thanks, FF!)
+    - added release dates to [[album:undertale-soundtrack]] bonus tracks: [[track:mysterious-shrine]], [[track:absolutely-overfamiliar-shrine]], [[track:mad-mew-mew]], [[track:dating-start-fm-version]], [[track:bereavement]], [[track:bonetrousle-trailer-version]], [[track:before-the-story]], and [[track:dog-dating]] (thanks, Morris, vriska/leo!)
     - fixed [[track:savior-of-the-dreaming-dead]] not being tagged with content warnings (thanks, Lilith, vriska/leo!)
     - fixed [[track:airtime]] not being tagged [[tag:john]] (thanks, Grace, Niklink!)
     - fixed [[track:break-shot]] not being tagged [[tag:green-sun]] and [[tag:ah]] (thanks, Pyryte, FF!)
@@ -498,6 +500,7 @@ Content: |-
     - added [[artist:tavia-morra]] to credits for [[track:maplehoofs-adventure]] (thanks, Lilith!)
     - added [[artist:decon-theed]] to credits for [[track:gold-mage]] and [[track:gold-mage-playtime-is-over-mix]]
     - added [[artist:the-basco-brothers]] to credits for [[track:gangsta-lofam2]] (thanks, t2k!)
+    - added [[artist:coda]] to credits for [[track:dog-dating]] (was mistakenly credited to [[artist:toby-fox]]; thanks, Pyryte!)
     - added [[artist:cookiefonster]], [[artist:wheals]], and [[artist:difarem]] to credits for [[track:multi-track-drifting-last-stop]] (thanks, Rosetta Leijonde!)
     - added [[artist:fruitytee]] to credits for [[track:predestination-vast-error]] and [[track:nothing-special]]
     - added [[artist:husr]] to credits for [[track:clamor-vast-error]] (was mistakenly credited to no one)
@@ -567,6 +570,8 @@ Content: |-
     - changed directory of [[track:battle-music]] from <code>boss-theme</code> to <code>battle-music</code>
     - changed directory of [[track:namco-high-be-true-to-yourself]] from <code>credits</code> to <code>namco-high-be-true-to-yourself</code>
     - changed directory of [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) from <code>fallen-down</code> to <code>fallen-down-undertale</code>
+    - changed directory of [[track:before-the-story]] ([[album:undertale-soundtrack]]) from <code>before-the-story-undertale</code> to <code>before-the-story</code>
+    - changed directory of [[track:before-the-story-ch1]] ([[album:deltarune-ch1-ost]]) from <code>before-the-story</code> to <code>before-the-story-ch1</code>
     - changed directory of [[track:megalovania-ssbu]] from <code>megalovania-smash-bros</code> to <code>megalovania-ssbu</code> (thanks, Morris!)
     - changed directory of [[track:24-7-lo-fi-anime-beats-to-question-your-sexuality-to]] from <code>247-lo-fi-anime-beats-to-question-your-sexuality-to</code> to <code>24-7-lo-fi-anime-beats-to-question-your-sexuality-to</code>
     - changed directory of [[track:drone-pesterquest]] from <code>drone-pq</code> to <code>drone-pesterquest</code>
