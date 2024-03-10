@@ -5945,6 +5945,16 @@ Duration: '2:29'
 URLs:
 - https://www.youtube.com/watch?v=QxU0eHnQjo8
 ---
+Track: Mystery Gift (Pokémon Platinum)
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- Pokémon
+- Hitomi Sato
+Duration: '0:49'
+URLs:
+- https://www.youtube.com/watch?v=gBjNXWPPSoM
+---
 Track: Name Entry (1st) (Galaga)
 # Reference:
 #   https://vgmdb.net/album/15951
@@ -6408,6 +6418,17 @@ Commentary: |-
     <i>Makin:</i> (wiki editor)
     Also known as Cave Story's Title Theme or Main Theme.
 ---
+Track: Pokédex Evaluation... Complete! (Pokémon Gold / Pokémon Silver)
+# Reference:
+#   none xd
+Directory: pokedex-evalution-complete-pokemon-gold-silver
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '1:14'
+URLs:
+- https://www.youtube.com/watch?v=MjZIjHu0OfY
+---
 Track: Pokémon Center (Pokémon Red / Pokémon Blue)
 # JP: ポケモンセンター
 # Official release:
@@ -6417,10 +6438,10 @@ Track: Pokémon Center (Pokémon Red / Pokémon Blue)
 Directory: pokemon-center-pokemon-red-and-blue-versions
 Artists:
 - Pokémon
-- Junichi Masuda
-Duration: '1:14'
+- Morikazu Aoki
+Duration: ''
 URLs:
-- https://www.youtube.com/watch?v=MjZIjHu0OfY
+- https://youtu.be/voX_Xd-LuZc?t=53
 ---
 Track: Pokémon Gym (Pokémon Red / Pokémon Blue)
 # Reference:
@@ -8282,6 +8303,17 @@ Artists:
 Duration: '1:58'
 URLs:
 - https://www.youtube.com/watch?v=qsRdjQWbh8E
+---
+Track: 'Title Screen: Main Theme (Pokémon Ruby / Pokémon Sapphire)'
+# Reference:
+#   https://vgmdb.net/album/1024
+Directory: title-screen-main-theme-pokemon-ruby-sapphire
+Artists:
+- artist:pokemon
+- Go Ichinose
+Duration: '1:42'
+URLs:
+- https://www.youtube.com/watch?v=4sa_0aCfdCU
 ---
 Track: Title (The Legend of Zelda)
 # (See dungeon-theme-zelda1 for release info)
