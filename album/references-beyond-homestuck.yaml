@@ -1597,9 +1597,7 @@ Track: Alola Region Theme
 #   https://vgmdb.net/album/61193
 Artists:
 - artist:pokemon
-- Junichi Masuda
-- Hitomi Sato
-- Go Ichinose
+- Minako Adachi
 Duration: '2:45'
 URLs:
 - https://www.youtube.com/watch?v=k4QwSPQaIVA
@@ -2088,13 +2086,15 @@ Track: Battle! (Elite Four) (Pokémon Black / Pokémon White)
 Directory: battle-elite-four-pokemon-black-white
 Artists:
 - artist:pokemon
-- Junichi Masuda
-- Go Ichinose
+- Go Ichinose (arranger)
+Contributors:
+- Junichi Masuda (composer)
 Duration: '2:51'
 URLs:
 - https://www.youtube.com/watch?v=xTIX7f9wFB8
 ---
 Track: Battle! (Elite Four) (Pokémon Sun / Pokémon Moon)
+Directory: battle-elite-four-pokemon-sun-moon
 # Reference:
 #   https://vgmdb.net/album/61193
 Artists:
@@ -2121,6 +2121,7 @@ Track: Battle! (Island Kahuna)
 Artists:
 - artist:pokemon
 - Go Ichinose (composer & arranger)
+Contributors:
 - Junichi Masuda (composer)
 Duration: '3:34'
 URLs:
@@ -2136,10 +2137,10 @@ Duration: '3:17'
 URLs:
 - https://www.youtube.com/watch?v=sGAnfjPn6lc
 ---
-Track: 'Battle! (Steven) (Pokémon Omega Ruby / Pokémon Alpha Sapphire)'
+Track: Battle! (Steven) (Pokémon Omega Ruby / Pokémon Alpha Sapphire)
 # Reference:
 #   https://vgmdb.net/album/48057
-Directory: battle-steven-pokemon-omega-ruby-pokemon-alpha-sapphire
+Directory: battle-steven-pokemon-omega-ruby-alpha-sapphire
 Artists:
 - artist:pokemon
 - Minako Adachi
@@ -2150,10 +2151,10 @@ URLs:
 Referenced Tracks:
 - Battle! (Steven) (Pokémon Ruby / Pokémon Sapphire)
 ---
-Track: 'Battle! (Steven) (Pokémon Ruby / Pokémon Sapphire)'
+Track: Battle! (Steven) (Pokémon Ruby / Pokémon Sapphire)
 # Reference:
 #   https://vgmdb.net/album/48057
-Directory: battle-steven-pokemon-ruby-pokemon-sapphire
+Directory: battle-steven-pokemon-ruby-sapphire
 Artists:
 - artist:pokemon
 - Junichi Masuda
@@ -2176,13 +2177,15 @@ URLs:
 - https://www.youtube.com/watch?v=9qbk_pPCxCc
 ---
 Track: Battle! (Trainer) (Pokémon Sun / Pokémon Moon)
+Directory: battle-trainer-pokemon-sun-moon
 # Reference:
 #   https://vgmdb.net/album/61193
 Artists:
 - artist:pokemon
-- Junichi Masuda (composer)
 - Minako Adachi (arranger)
 - Go Ichinose (arranger)
+Contributors:
+- Junichi Masuda (composer)
 Duration: '2:54'
 URLs:
 - https://www.youtube.com/watch?v=KwI02CpAod8
@@ -2201,13 +2204,15 @@ Duration: '1:30'
 URLs:
 - https://www.youtube.com/watch?v=vgBoQUaEKpk
 ---
-Track: 'Battle! (Wild Pokémon) (Pokémon Sun / Pokémon Moon)'
+Track: Battle! (Wild Pokémon) (Pokémon Sun / Pokémon Moon)
+Directory: battle-wild-pokemon-pokemon-sun-moon
 # Reference:
 #   https://vgmdb.net/album/61193
 Artists:
 - artist:pokemon
-- Junichi Masuda (composer)
 - Go Ichinose (arranger)
+Contributors:
+- Junichi Masuda (composer)
 Duration: '2:04'
 URLs:
 - https://www.youtube.com/watch?v=vgBoQUaEKpk
@@ -2250,7 +2255,8 @@ Artists:
 #URLs:
 #-
 ---
-Track: Battle Tower (Pokemon Diamond / Pokémon Pearl)
+Track: Battle Tower (Pokémon Diamond / Pokémon Pearl)
+Directory: battle-tower-pokemon-diamond-pearl
 # Official release:
 #   Pokémon Diamond & Pokémon Pearl: Super Music Collection
 #   ニンテンドーDS ポケモン ダイヤモンド・パール スーパーミュージックコレクション
@@ -5946,6 +5952,7 @@ URLs:
 - https://www.youtube.com/watch?v=QxU0eHnQjo8
 ---
 Track: Mystery Gift (Pokémon Platinum)
+Directory: mystery-gift-pokemon-platinum
 # Reference:
 #   https://vgmdb.net/album/33367
 Artists:
@@ -6055,6 +6062,23 @@ Contributors:
 Duration: '1:04'
 URLs:
 - https://www.youtube.com/watch?v=cLJiAWspUw4
+---
+Track: Obtained a Gym Badge (Pokémon Red / Pokémon Blue)
+Directory: obtained-a-gym-badge-pokemon-red-blue
+## I can't find any uploads of the original Red / Blue jingle
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: ''
+---
+Track: Obtained an Item! (Pokémon Red / Pokémon Blue)
+Directory: obtained-an-item-pokemon-red-blue
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:02'
+URLs:
+- https://www.youtube.com/watch?v=1yTPevyGoKk
 ---
 Track: Old Enemy
 # JP: 宿敵（アキラ編）
@@ -6424,7 +6448,7 @@ Track: Pokédex Evaluation... Complete! (Pokémon Gold / Pokémon Silver)
 Directory: pokedex-evalution-complete-pokemon-gold-silver
 Artists:
 - Pokémon
-- Junichi Masuda
+- Morikazu Aoki
 Duration: '1:14'
 URLs:
 - https://www.youtube.com/watch?v=MjZIjHu0OfY
@@ -6435,10 +6459,10 @@ Track: Pokémon Center (Pokémon Red / Pokémon Blue)
 #   ポケモン 赤・緑 スーパーミュージック・コレクション
 # Reference:
 #   https://vgmdb.net/album/141
-Directory: pokemon-center-pokemon-red-and-blue-versions
+Directory: pokemon-center-pokemon-red-blue
 Artists:
 - Pokémon
-- Morikazu Aoki
+- Junichi Masuda
 Duration: ''
 URLs:
 - https://youtu.be/voX_Xd-LuZc?t=53
@@ -6724,6 +6748,7 @@ URLs:
 - https://www.youtube.com/watch?v=WAeiqxNH3W0
 ---
 Track: Recovery (Pokémon Red / Pokémon Blue)
+Directory: recovery-pokemon-red-blue
 # JP: ポケモンセンター
 # Official release:
 #   ポケモン 赤・緑 スーパーミュージック・コレクション
@@ -32620,23 +32645,6 @@ Lyrics: |-
     It's obsession
     Uh huh, it’s obsession
     It's obsession
----
-Track: Obtained a Gym Badge (Pokémon Red / Pokémon Blue)
-Directory: obtained-a-gym-badge-pokemon-red-blue
-## I can't find any uploads of the original Red / Blue jingle
-Artists:
-- Pokémon
-- Junichi Masuda
-Duration: ''
----
-Track: Obtained an Item! (Pokémon Red / Pokémon Blue)
-Directory: obtained-an-item-pokemon-red-blue
-Artists:
-- Pokémon
-- Junichi Masuda
-Duration: '0:02'
-URLs:
-- https://www.youtube.com/watch?v=1yTPevyGoKk
 ---
 Track: OK
 Directory: ok-madeon
