@@ -2162,6 +2162,19 @@ Duration: '1:51'
 URLs:
 - https://www.youtube.com/watch?v=LaAGsbtETIg
 ---
+Track: Battle! (Trainer Battle) (Pokémon Black / Pokémon White)
+Directory: battle-trainer-battle-pokemon-black-white
+# Reference:
+#   https://vgmdb.net/album/20831
+Artists:
+- artist:pokemon
+- Go Ichinose (arranger)
+Contributors:
+- Junichi Masuda (composer)
+Duration: '3:33'
+URLs:
+- https://www.youtube.com/watch?v=UFffYnhlWyQ
+---
 Track: Battle! (Trainer Battle) (Pokémon Red / Pokémon Blue)
 # JP: 戦い(VSトレーナー)
 # Official release:
@@ -2189,6 +2202,19 @@ Contributors:
 Duration: '2:54'
 URLs:
 - https://www.youtube.com/watch?v=KwI02CpAod8
+---
+Track: Battle! (Wild Pokémon) (Pokémon Black / Pokémon White)
+# Reference:
+#   https://vgmdb.net/album/20831
+Directory: battle-wild-pokemon-pokemon-black-white
+Artists:
+- artist:pokemon
+- Go Ichinose (arranger)
+Contributors:
+- Junichi Masuda (composer)
+Duration: '2:03'
+URLs:
+- https://www.youtube.com/watch?v=iBvj8Qt2ndI
 ---
 Track: Battle! (Wild Pokémon) (Pokémon Red / Pokémon Blue)
 # JP: 戦い(VS野生ポケモン)
@@ -3473,6 +3499,14 @@ Artists:
 Duration: '1:37'
 URLs:
 - https://youtu.be/YM75br4y4Z0
+---
+Track: Driftveil City
+Artists:
+- Pokémon
+- Hitomi Sato
+Duration: '1:31'
+URLs:
+- https://www.youtube.com/watch?v=9hZ7gYB4E_c
 ---
 Track: Drill Man Stage
 # Reference:
@@ -6063,6 +6097,17 @@ Duration: '1:04'
 URLs:
 - https://www.youtube.com/watch?v=cLJiAWspUw4
 ---
+Track: Obtained a Berry! (Pokémon Ruby / Pokémon Sapphire)
+# Reference:
+#   https://vgmdb.net/album/1024
+Directory: obtained-a-berry-pokemon-ruby-sapphire
+Artists:
+- Pokémon
+- Morikazu Aoki
+Duration: '0:04'
+URLs:
+- https://www.youtube.com/watch?v=yTNFVf7HBoI
+---
 Track: Obtained a Gym Badge (Pokémon Red / Pokémon Blue)
 Directory: obtained-a-gym-badge-pokemon-red-blue
 ## I can't find any uploads of the original Red / Blue jingle
@@ -6070,6 +6115,15 @@ Artists:
 - Pokémon
 - Junichi Masuda
 Duration: ''
+---
+Track: Obtained a Pokémon (Pokémon Red / Pokémon Blue)
+Directory: obtained-a-pokemon-pokemon-red-blue
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:03'
+URLs:
+- https://www.youtube.com/watch?v=hphjpkEfIW0
 ---
 Track: Obtained an Item! (Pokémon Red / Pokémon Blue)
 Directory: obtained-an-item-pokemon-red-blue
@@ -6134,6 +6188,34 @@ Artists:
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=XKfXsTkA71I
+---
+Track: Opelucid City (Pokémon Black)
+# Reference:
+#   https://vgmdb.net/album/20831
+#   mislabeled as Opelucid City Gym
+Directory: opelucid-city-pokemon-black
+Artists:
+- Pokémon
+- Go Ichinose
+Duration: '4:06'
+URLs:
+- https://www.youtube.com/watch?v=xRWWKVPlaeo
+Referenced Tracks:
+- Opelucid City (Pokémon White)
+---
+Track: Opelucid City (Pokémon White)
+# Reference:
+#   https://vgmdb.net/album/20831
+#   mislabeled as Opelucid City Gym
+Directory: opelucid-city-pokemon-white
+Artists:
+- Pokémon
+- Go Ichinose
+Duration: '3:30'
+URLs:
+- https://www.youtube.com/watch?v=uexroE8wGys
+Referenced Tracks:
+- Opelucid City (Pokémon Black)
 ---
 Track: Open Your Heart
 # From SONIC THE HEDGEHOG 10th Anniversary
@@ -6453,6 +6535,37 @@ Duration: '1:14'
 URLs:
 - https://www.youtube.com/watch?v=MjZIjHu0OfY
 ---
+Track: 'Pokégear Radio: Pokémon Lullaby (Pokémon Gold / Pokémon Silver)'
+# Reference:
+#   https://vgmdb.net/album/15237
+Directory: pokegear-radio-pokemon-lullaby-pokemon-gold-silver
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: ''
+URLs:
+- https://www.youtube.com/watch?v=_i3TpsP_NJ0
+---
+Track: 'Pokégear Radio: Pokémon March (Pokémon Gold / Pokémon Silver)'
+# Reference:
+#   https://vgmdb.net/album/15237
+Directory: pokegear-radio-pokemon-march-pokemon-gold-silver
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '1:14'
+URLs:
+- https://www.youtube.com/watch?v=7Wmk58-o_r8
+---
+Track: Pokémon Caught (Pokémon Red / Pokémon Blue)
+Directory: pokemon-caught-pokemon-red-blue
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:03'
+URLs:
+- https://www.youtube.com/watch?v=xgX0zPfAsv0
+---
 Track: Pokémon Center (Pokémon Red / Pokémon Blue)
 # JP: ポケモンセンター
 # Official release:
@@ -6477,6 +6590,17 @@ Artists:
 Duration: '1:15'
 URLs:
 - https://www.youtube.com/watch?v=A3IQFA-we6I
+---
+Track: Pokémon Healed (Pokémon Red / Pokémon Blue)
+# Reference:
+#   https://vgmdb.net/album/57107
+Directory: pokemon-healed-pokemon-red-and-blue-versions
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:07'
+URLs:
+- https://www.youtube.com/watch?v=2tyuKGLVHTQ
 ---
 Track: Power
 Directory: power-mother
@@ -6815,6 +6939,17 @@ Duration: '6:07'
 URLs:
 - https://disasterpeace.bandcamp.com/track/the-refiners-fire
 ---
+Track: Relic Song (Pokémon Black 2 / Pokémon White 2)
+# Reference:
+#   https://vgmdb.net/album/33367
+Directory: relic-song-pokemon-black-2-white-2
+Artists:
+- Pokémon
+- Shota Kageyama
+Duration: '0:40'
+URLs:
+- https://www.youtube.com/watch?v=AAtGtY9-UCs
+---
 Track: The Reverse Will
 # Official release:
 #   サイレントヒル2 オリジナル・サウンドトラック
@@ -6954,6 +7089,40 @@ Artists:
 Duration: '0:03'
 URLs:
 - https://www.youtube.com/watch?v=1geG058Bpls
+---
+Track: Route 2 (Spring/Summer)
+Directory: route-2-spring-summer
+# Reference:
+#   https://vgmdb.net/album/20831
+Artists:
+- artist:pokemon
+- Hitomi Sato
+Duration: '1:32'
+URLs:
+- https://www.youtube.com/watch?v=T4dDCK4f9nU
+---
+Track: Route 4 (Spring)
+# Reference:
+#   https://vgmdb.net/album/20831
+Artists:
+- artist:pokemon
+- Shota Kageyama (arranger)
+Contributors:
+- Junichi Masuda (composer)
+Duration: '1:24'
+URLs:
+- https://www.youtube.com/watch?v=BhtijNtEc3g
+---
+Track: Route 6 (Spring/Summer)
+Directory: route-6-spring-summer
+# Reference:
+#   https://vgmdb.net/album/20831
+Artists:
+- artist:pokemon
+- Shota Kageyama
+Duration: '1:22'
+URLs:
+- https://www.youtube.com/watch?v=2LjFKoykfLE
 ---
 Track: Route 228 (Day)
 # JP: 228ばんどうろ(昼)

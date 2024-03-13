@@ -6,11 +6,8 @@ Artists:
 Date: February 27, 2024
 ## https://vgmdb.net/album/134816
 Date Added: 
-URLs:
-- https://tobyfox.bandcamp.com/album/deltarune-chapter-2-ost
-- https://www.youtube.com/watch?v=u9YheqFuyng
-- https://www.youtube.com/playlist?list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54
-- https://open.spotify.com/album/7DAiPXN3HdbktwwFzQXqrZ
+#URLs:
+#- https://tobyfox.bandcamp.com/album/deltarune-chapter-2-ost
 Cover Artists:
 - Toshiyuki Takahashi
 - Hiromi Yasuda
@@ -85,9 +82,12 @@ Artists:
 - Hitomi Sato
 ---
 Track: Obtained a Key Item!
+Directory: obtained-a-key-item-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+Referenced Tracks:
+- Obtained a Pokémon (Pokémon Red / Pokémon Blue)
 ---
 Track: Poco Path
 Duration: '2:19'
@@ -97,6 +97,7 @@ Referenced Tracks:
 - Cabo Poco
 ---
 Track: Battle! (Wild Pokémon)
+Directory: battle-wild-pokemon-pokemon-scarlet-violet
 Duration: '2:50'
 Artists:
 - Minako Adachi
@@ -104,6 +105,7 @@ Referenced Tracks:
 - Poco Path
 ---
 Track: Victory! (Wild Pokémon)
+Directory: victory-wild-pokemon-pokemon-scarlet-violet
 Duration: '0:05'
 Artists:
 - Minako Adachi
@@ -111,11 +113,12 @@ Referenced Tracks:
 - Battle! (Wild Pokémon)
 ---
 Track: Obtained a Berry!
+Directory: obtained-a-berry-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
-- Hitomi Sato (arranger)
-Contributors:
-- Morikazu Aoki (composer)
+- Hitomi Sato
+Referenced Tracks:
+- Obtained a Berry! (Pokémon Ruby / Pokémon Sapphire)
 ---
 Track: Obtained an Item!
 Duration: '0:04'
@@ -128,6 +131,9 @@ Track: On the Beach
 Duration: '0:31'
 Artists:
 - Hiromitsu Maeba
+Referenced Tracks:
+- Soar Through the Paldea Skies
+- The Academy
 ---
 Track: Go Through the Cave in the Cove
 Duration: '2:36'
@@ -167,6 +173,7 @@ Referenced Tracks:
 - The Academy
 ---
 Track: Battle! (Wild Pokémon in the South)
+Directory: battle-wild-pokemon-in-the-south
 Duration: '2:47'
 Artists:
 - Minako Adachi
@@ -174,9 +181,12 @@ Referenced Tracks:
 - South Province
 ---
 Track: You Caught a Pokémon!
+Directory: you-caught-a-pokemon-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+Referenced Tracks:
+- Pokémon Caught (Pokémon Red / Pokémon Blue)
 ---
 Track: Pokémon Center
 Directory: pokemon-center-pokemon-scarlet-violet
@@ -266,12 +276,14 @@ Artists:
 Referenced Tracks:
 - The Academy
 ---
-Track: Start the Treasure Hunt!
+Track: Take a Break
 Duration: '0:06'
 Artists:
 - Hitomi Sato
+Referenced Tracks:
+- Pokémon Healed (Pokémon Red / Pokémon Blue)
 ---
-Track: Take a Break
+Track: Start the Treasure Hunt!
 Duration: '0:09'
 Artists:
 - Hitomi Sato
@@ -340,6 +352,7 @@ Artists:
 - Hitomi Sato
 ---
 Track: Obtained an Egg!
+Directory: obtained-an-egg-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
@@ -347,6 +360,7 @@ Referenced Tracks:
 - Received a Pokémon Egg! (Pokémon Gold / Pokémon Silver)
 ---
 Track: Evolution
+Directory: evolution-pokemon-scarlet-violet
 Duration: '0:33'
 Artists:
 - Hitomi Sato
@@ -354,6 +368,7 @@ Referenced Tracks:
 - Evolution (Pokémon Red / Pokémon Blue)
 ---
 Track: Congratulations! Your Pokémon Evolved!
+Directory: congratulations-your-pokemon-evolved-pokemon-scarlet-violet
 Duration: '0:05'
 Artists:
 - Hitomi Sato (arranger)
@@ -392,6 +407,7 @@ Referenced Tracks:
 - Gym Test
 ---
 Track: Obtained a Gym Badge!
+Directory: obtained-a-gym-badge-pokemon-scarlet-violet
 Duration: '0:09'
 Artists:
 - Hitomi Sato
@@ -399,6 +415,7 @@ Referenced Tracks:
 - Obtained a Gym Badge (Pokémon Red / Pokémon Blue)
 ---
 Track: Obtained a TM!
+Directory: obtained-a-tm-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
@@ -411,6 +428,7 @@ Artists:
 - Minako Adachi
 ---
 Track: Battle! (Wild Pokémon in the West)
+Directory: battle-wild-pokemon-in-the-west
 Duration: '2:01'
 Artists:
 - Minako Adachi
@@ -515,6 +533,7 @@ Artists:
 - Minako Adachi
 ---
 Track: Battle! (Wild Pokémon in the East)
+Directory: battle-wild-pokemon-in-the-east
 Duration: '2:41'
 Artists:
 - Minako Adachi
@@ -627,6 +646,7 @@ Artists:
 - Minako Adachi
 ---
 Track: Battle! (Wild Pokémon in the North)
+Directory: battle-wild-pokemon-in-the-north
 Duration: '4:33'
 Artists:
 - Minako Adachi
@@ -698,6 +718,7 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: Pokémon League - Interview Phase
+Directory: pokemon-league-interview-phase
 Duration: '2:44'
 Artists:
 - Hitomi Sato
@@ -710,6 +731,7 @@ Artists:
 - Hitomi Sato
 ---
 Track: Pokémon League
+Directory: pokemon-league-pokemon-scarlet-violet
 Duration: '2:21'
 Artists:
 - Hitomi Sato (composer & arranger)
@@ -826,6 +848,7 @@ Commentary: |-
     I also composed "Area Zero", which was re-arranged by my friend [[artist:go-ichinose]].
 ---
 Track: Battle! (Pokémon in Area Zero)
+Directory: battle-pokemon-in-area-zero
 Duration: '3:59'
 Artists:
 - Go Ichinose
@@ -840,6 +863,7 @@ Referenced Tracks:
 - The Academy
 ---
 Track: Battle! (Pokémon in Area Zero) 2
+Directory: battle-pokemon-in-area-zero-2
 Duration: '3:59'
 Artists:
 - Go Ichinose
@@ -938,6 +962,7 @@ Artists:
 - Hitomi Sato
 ---
 Track: Battle! (Calamity Pokémon)
+Directory: battle-calamity-pokemon
 Duration: '3:39'
 Artists:
 - Go Ichinose
@@ -962,9 +987,482 @@ Referenced Tracks:
 Section: Disc 5
 Color: '#01b5ac'
 ---
-Track: Disc 5
+Track: 'The Hidden Treasure of Area Zero: The Teal Mask'
+Duration: '0:20'
+Artists:
+- Minako Adachi
+---
+Track: Ex-c-c-change
+Duration: '1:00'
+Artists:
+- Minako Adachi
+---
+Track: Battle! (Carmine)
+Duration: '2:08'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Ex-c-c-change
+---
+Track: Mossui Town
+Duration: '3:29'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Kitakami
+---
+Track: Battle! (Kieran)
+Duration: '2:04'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Battle! (Carmine)
+---
+Track: Kitakami
+Duration: '3:29'
+Artists:
+- Minako Adachi
+---
+Track: Battle! (Pokémon in Kitakami)
+Directory: battle-pokemon-in-kitakami
+Duration: '3:32'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Kitakami
+---
+Track: 'Photography: March'
+Duration: '0:52'
+Artists:
+- Teruo Taniguchi
+Referenced Tracks:
+- 'Pokégear Radio: Pokémon March (Pokémon Gold / Pokémon Silver)'
+---
+Track: 'Photography: Victory'
+Duration: '1:43'
+Artists:
+- Teruo Taniguchi
+Referenced Tracks:
+- Battle! (Wild Pokémon—Johto Version) (Pokémon Gold / Pokémon Silver)
+---
+Track: 'Photography: Lullaby'
+Duration: '1:11'
+Artists:
+- Teruo Taniguchi
+Referenced Tracks:
+- 'Pokégear Radio: Pokémon Lullaby (Pokémon Gold / Pokémon Silver)'
+---
+Track: Perrin's Theme
+Duration: '2:18'
+Artists:
+- Hitomi Sato
+---
+Track: History of the Signboard
+Duration: '1:12'
+Artists:
+- Minako Adachi
+---
+Track: With Perrin
+Duration: '2:19'
+Artists:
+- Hitomi Sato
+Referenced Tracks:
+- Perrin's Theme
+- History of the Signboard
+---
+Track: Festival of Masks
+Duration: '1:33'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- History of the Signboard
+---
+Track: Ogre Oustin'!
+Duration: '2:24'
+Artists:
+- Hiromitsu Maeba
+---
+Track: Cleared Ogre Oustin'!
+Duration: '0:40'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Ogre Oustin'!
+---
+Track: The Mysterious Child Who Dropped a Mask
+Duration: '0:39'
+Artists:
+- Hiromitsu Maeba
+---
+Track: The Real History
+Duration: '1:49'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- History of the Signboard
+---
+Track: Crystal Pool
+Duration: '4:55'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- Area Zero
+---
+Track: Distortion
+Duration: '1:15'
+Artists:
+- Hitomi Sato
+Referenced Tracks:
+- History of the Signboard
+---
+Track: The Loyal Three Come Back to Life
+Duration: '0:42'
+Artists:
+- Minako Adachi
+---
+Track: The Loyal Three Wreak Havoc
+Duration: '1:03'
+Artists:
+- Hitomi Sato
+Referenced Tracks:
+- The Loyal Three Come Back to Life
+---
+Track: Battle! (The Loyal Three)
+Duration: '2:43'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- The Loyal Three Come Back to Life
+---
+Track: Decisive Battle! (Kieran)
+Duration: '2:53'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Battle! (Kieran)
+---
+Track: Battle! (Ogerpon)
+Duration: '2:44'
+Artists:
+- Minako Adachi
+---
+Track: Caught an Ogerpon
+Duration: '0:36'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Battle! (Ogerpon)
+---
+Track: They're Relaxed Now
+Duration: '2:21'
+Artists:
+- Hiromitsu Maeba
+---
+Track: I Have to Become Stronger
+Duration: '0:53'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Kitakami
+---
+Track: 'The Hidden Treasure of Area Zero: The Indigo Disk'
+Duration: '0:19'
+Artists:
+- Minako Adachi
+---
+Track: Blueberry Academy
+Duration: '2:48'
+Artists:
+- Minako Adachi
+---
+Track: To the Dome
+Duration: '1:05'
+Artists:
+- Go Ichinose
+---
+Track: This is the Terarium Dome!
+Duration: '2:18'
+Artists:
+- Go Ichinose
+---
+Track: Terarium (Savanna Biome)
+Duration: '4:42'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- This is the Terarium Dome!
+- Route 6 (Spring/Summer)
+- Route 2 (Spring/Summer)
+- Route 4 (Spring)
+---
+Track: Battle! (Pokémon in the Terarium)
+Directory: battle-pokemon-in-the-terarium
+Duration: '2:27'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- Battle! (Wild Pokémon) (Pokémon Black / Pokémon White)
+---
+Track: Terarium (Coastal Biome)
+Duration: '4:42'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- This is the Terarium Dome!
+- Route 6 (Spring/Summer)
+- Driftveil City
+- Route 4 (Spring)
+---
+Track: Trainers' Eyes Meet (Academy Trainer)
+Duration: '0:11'
+Artists:
+- Haruka Soeda
+Referenced Tracks:
+- Battle! (Academy Trainer)
+---
+Track: Battle! (Academy Trainer)
+Duration: '3:34'
+Artists:
+- Haruka Soeda
+Referenced Tracks:
+- Battle! (Trainer Battle) (Pokémon Black / Pokémon White)
 ---
 Section: Disc 6
 Color: '#0e5f87'
 ---
-Track: Disc 6
+Track: Terarium (Central Plaza)
+Duration: '4:42'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- This is the Terarium Dome!
+- Route 6 (Spring/Summer)
+- Route 2 (Spring/Summer)
+- Route 4 (Spring)
+---
+Track: Unsettling Atmosphere
+Duration: '1:14'
+Artists:
+- Hitomi Sato
+Referenced Tracks:
+- Daily Life at the Academy
+---
+Track: Daily Life at the Academy
+Duration: '2:09'
+Artists:
+- Hitomi Sato
+Referenced Tracks:
+- Blueberry Academy
+---
+Track: Blueberry Academy - Your Room
+Duration: '2:48'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Blueberry Academy
+---
+Track: Item Printer
+Duration: '0:04'
+Artists:
+- Haruka Soeda
+---
+Track: Terarium (Canyon Biome)
+Duration: '4:42'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- This is the Terarium Dome!
+- Route 6 (Spring/Summer)
+- Route 2 (Spring/Summer)
+- Route 4 (Spring)
+---
+Track: Battle! (Tera Pokémon in the Terarium)
+Directory: battle-tera-pokemon-in-the-terarium
+Duration: '2:23'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- Battle! (Pokémon in the Terarium)
+---
+Track: Flying Time Trial!
+Duration: '1:17'
+Artists:
+- Hitomi Sato
+---
+Track: You Completed the Elite Trial!
+Duration: '0:40'
+Artists:
+- Hitomi Sato
+Referenced Tracks:
+- Flying Time Trial!
+- Blueberry Academy
+---
+Track: Terarium (Polar Biome)
+Duration: '4:42'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- Route 6 (Spring/Summer)
+- Opelucid City (Pokémon White)
+- Route 4 (Spring)
+---
+Track: Battle! (BB League Elite Four)
+Duration: '2:54'
+Artists:
+- Minako Adachi
+---
+Track: Victory! (BB League Elite Four)
+Duration: '0:36'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Battle! (BB League Elite Four)
+---
+Track: True Intentions
+Duration: '2:13'
+Artists:
+- Hitomi Sato
+---
+Track: The Battle Begins
+Duration: '0:38'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Decisive Battle! (Kieran)
+- Battle! (Champion Kieran)
+---
+Track: Battle! (Champion Kieran)
+Duration: '3:30'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Decisive Battle! (Kieran)
+---
+Track: The Defeated Kieran
+Duration: '0:47'
+Artists:
+- Minako Adachi
+Referenced Tracks:
+- Battle! (Kieran)
+---
+Track: Briar's Theme
+Duration: '2:16'
+Artists:
+- Hitomi Sato
+---
+Track: Area Zero Underdepths
+Duration: '4:37'
+Artists:
+- Hitomi Sato
+Referenced Tracks:
+- Area Zero
+---
+Track: Terapagos Comes Back to Life
+Duration: '1:06'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Area Zero
+- Battle! (Terapagos)
+---
+Track: Battle! (Terapagos)
+Duration: '2:46'
+Artists:
+- Go Ichinose (composer & arranger)
+Contributors:
+- Rei Murayama (composer)
+Referenced Tracks:
+- Area Zero
+---
+Track: Conditions of the Hidden Treasure
+Duration: '1:23'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Area Zero
+---
+Track: Terapagos Goes Rampage
+Duration: '1:01'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Area Zero
+- Battle! (Terapagos)
+---
+Track: Battle! (Terapagos - The Hidden Treasure of Area Zero)
+Duration: '5:27'
+Artists:
+- Go Ichinose
+Referenced Tracks:
+- Area Zero
+- Battle! (Terapagos)
+- Tera Raid Battle!
+---
+Track: Caught the Terapagos!
+Duration: '0:58'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Area Zero
+---
+Track: Once Again, Starting from Zero
+Duration: '1:15'
+Artists:
+- Hiromitsu Maeba
+---
+Track: Star Training Centers! Team Star
+Duration: '2:18'
+Artists:
+- Haruka Soeda
+Referenced Tracks:
+- Battle! (Team Star)
+- Battle! (Team Star Boss)
+---
+Track: Relic Song
+Directory: relic-song-pokemon-scarlet-violet
+Duration: '2:01'
+Artists:
+- Go Ichinose
+- Hitomi Sato
+Referenced Tracks:
+- Relic Song (Pokémon Black 2 / Pokémon White 2)
+---
+Track: 'The Hidden Treasure of Area Zero: Epilogue'
+Duration: '0:11'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Mochi Mayhem
+---
+Track: A Village Curse...?
+Duration: '0:42'
+Artists:
+- Go Ichinose
+---
+Track: Mochi Mayhem
+Duration: '1:15'
+Artists:
+- Go Ichinose (arranger & arranger)
+Contributors:
+- Minako Adachi (composer)
+---
+Track: A Drone? A Pokémon? It's a Binding Mochi!
+Directory: a-drone-a-pokemon-its-a-binding-mochi
+Duration: '0:40'
+Artists:
+- Minako Adachi
+---
+Track: Battle! (Pecharunt)
+Duration: '3:09'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Mochi Mayhem
+---
+Track: Title Screen 2
+Directory: title-screen-2-pokemon-scarlet-violet
+Duration: '2:08'
+Artists:
+- Hiromitsu Maeba
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
