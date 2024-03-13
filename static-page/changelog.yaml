@@ -339,6 +339,8 @@ Content: |-
     - fixed [[track:he-is-already-here]] not referencing [[track:clubbed-to-death-kurayamino-variation]]
     - fixed [[track:the-note-desolation-plays]] not referencing [[track:presentiment]]
     - fixed [[track:lullaby-of-the-furthest-ring]] not referencing [[track:lullaby-of-the-furthest-ring-feb-21]] (thanks, Lilith!)
+    - fixed [[track:harlecoaster-lame-and-old]] sampling [[track:harlecoaster]] instead of the other way around, and moved references [[track:harlequin]] and [[track:rollercoaster-tycoon-theme]] from [[track:harlecoaster]] to [[track:harlecoaster-lame-and-old]] (thanks, Rosetta Leijonde!)
+    - fixed [[track:tycoontime-lame-and-old]] samplign [[track:tycoontime]] instead of the other way around, and moved references [[track:rollercoaster-tycoon-theme]] and [[track:showtime-piano-refrain]] from [[track:tycoontime]] to [[track:tycoontime-lame-and-old]] (thanks, Rosetta Leijonde!)
     - fixed [[track:its-megaman-except-the-song-is-homestuck-too]] not referencing [[track:title-mega-man-3]], [[track:doctor]], and [[track:explore]], and not sampling [[track:title-mega-man-3]] (thanks, Rosetta Leijonde, FF!)
     - fixed [[track:fighting-spirit-double-ascended-form]] referencing itself instead of [[track:fighting-spirit-second-form]] (thanks, Pyryte!)
     - fixed [[track:multi-track-drifting-last-stop]] referencing tracks it only samples (thanks, Rosetta Leijonde!)
@@ -390,7 +392,7 @@ Content: |-
     - fixed [[track:beginning-deltarune]], [[track:school-deltarune]], [[track:field-of-hopes-and-dreams]], [[track:scarlet-forest]], [[track:the-world-revolving]], [[track:friendship-deltarune]], [[track:your-power]], [[track:a-town-called-hometown]], and [[track:you-can-always-come-home]] referencing [[track:dont-forget]] instead of [[track:game-main-theme-piano-sketch]] (thanks, Morris!)
     - fixed [[track:dont-forget]] not referencing [[track:game-main-theme-piano-sketch]], and updated its credits accordingly (thanks, Morris!)
     - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, Morris!)
-    - fixed [[track:megalovania-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing [[track:megalovania-halloween]] ([[album:earthbound-halloween-hack]]) instead of [[track:megalovania-undertale]] ([[album:undertale-soundtrack]]), and not referencing [[track:heartache]] and [[track:bonetrousle]] (thanks, Morris!)
+    - fixed [[track:megalovania-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing [[track:megalovania-halloween]] ([[album:earthbound-halloween-hack]]) instead of [[track:megalovania-undertale]] ([[album:undertale-soundtrack]]), not sampling the same track, and not referencing [[track:heartache]] and [[track:bonetrousle]] (thanks, Morris, Rosetta Leijonde!)
     - fixed [[track:bloodstained-camellias]] not sampling [[track:amen-brother]]
     - fixed [[track:antigone]] not referencing [[track:psycho-desynced]] and [[track:saving-grace]]
     - fixed [[track:faint-glow]] and [[track:the-dark-truth]] referencing [[track:dont-forget]] instead of [[track:game-main-theme-piano-sketch]] (thanks, Morris!)
@@ -405,6 +407,7 @@ Content: |-
     - fixed [[track:mm2wood]] not referencing [[track:wood-man-stage]] (thanks, Morris!)
     - fixed [[track:xmas-i-dont-know-such-a-thing]] not referencing [[track:the-one-horse-open-sleigh]] (thanks, Rosetta Leijonde!)
     - fixed [[track:no-credit-card]] not sampling [[track:the-power-of-love]] (thanks, Rosetta Leijonde!)
+    - fixed [[track:consonant-conquest]] not being listed as a rerelease of [[track:learn-with-caliborn-typing-adventure-3-consonant-conquest]] (thanks, Pyryte!)
     - fixed [[track:before-the-story]] ([[album:undertale-soundtrack]]) being listed as a rerelease of [[track:before-the-story-ch1]] ([[album:deltarune-ch1-ost]]), instead of the other way around
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a rerelease of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
     - fixed [[track:flare-with-vocals]] being duplicated in [[album:more-homestuck-fandom]] (as "Flare (horizon's lyricover)"), and tidied this track's lyrics (thanks, Jebb, vriska/leo!)
@@ -416,6 +419,7 @@ Content: |-
     - fixed [[track:life-liberated]] being named its working title, "Wind Waker", and filled in some details for it (thanks, Rainy, FF!)
     - fixed [[track:beginning-castlevania-draculas-curse]] being named "Beginning" (thanks, Morris!)
     - fixed [[track:bloody-tears-roads-by-day-bgm]] being named "Bloody Tears" (thanks, Morris!)
+    - fixed [[track:boss-battle-pokemon-typing-adventure]] being named "Boss Battle" only (thanks, Rosetta Leijonde!)
     - fixed [[track:cosmic-eternity-believe-in-yourself]] being named "Cosmic Eternity ~ Believe in Yourself" (tilde instead of dash; thanks, Morris!)
     - fixed [[track:egg-reverie-egg-reverie-zone]] being named "Egg Reverie (Egg Reverie Zone)" (thanks, Morris!)
     - fixed [[track:hydro-city-zone-act-2]] being named "Hydrocity Zone (Act 2)" (thanks, Morris!)
@@ -503,12 +507,13 @@ Content: |-
     - added [[artist:coda]] to credits for [[track:dog-dating]] (was mistakenly credited to [[artist:toby-fox]]; thanks, Pyryte!)
     - added [[artist:cookiefonster]], [[artist:wheals]], and [[artist:difarem]] to credits for [[track:multi-track-drifting-last-stop]] (thanks, Rosetta Leijonde!)
     - added [[artist:fruitytee]] to credits for [[track:predestination-vast-error]] and [[track:nothing-special]]
-    - added [[artist:husr]] to credits for [[track:clamor-vast-error]] (was mistakenly credited to no one)
+    - added [[artist:husr]] to credits for [[track:clamor-vast-error]] (was mistakenly credited to no one; thanks, Pyryte!)
     - added [[artist:cookiefonster]] to art credits for [[track:twilight-rhythm]], replacing [[artist:kobacat]] (thanks, Rosetta Leijonde!)
     - added [[artist:levc]] to credits for [[track:flying-witch]]
     - added [[artist:kawaiimochiora]] to credits for [[track:davekat-rappets]] and [[track:davekat-alt]] (thanks, Niklink!)
     - added [[artist:riki-tsuji]] to credits for [[track:get-start]] (thanks, Lilith!)
     - added [[artist:siivagunner]] to credits for [[track:my-grand-dad-is-the-green-sun]] (thanks, Rosetta Leijonde!)
+    - added [[artist:nedthenerd]] to credits for [[track:the-dirk-rap-instrumental]] (was mistakenly credited to [[artist:ray-mike]]; thanks, Rosetta Leijonde!)
     - tidied details in artist credits for [[track:takeover-havoc]] (was "Takeover / Havoc organ solo", "Takeover / Havoc guitar solo"; thanks, vriska/leo!)
     - added [[artist:sonic-the-hedgehog]] to credits for [[track:a-new-day]] (thanks, Morris!)
     - added [[artist:lethal-league-blaze]] to credits for [[track:aint-nothin-like-a-funky-beat]] (thanks, Jebb!)
