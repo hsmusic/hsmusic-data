@@ -1479,7 +1479,7 @@ Extra Reading URLs:
 ---
 Tag: Human ghosts
 Direct Descendant Tags:
-- Human ghosts (Homestuck)
+- ghosts (Homestuck)
 ---
 Tag: Troll ghosts
 Direct Descendant Tags:
@@ -3387,6 +3387,11 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Drone
 ---
 Tag: SBaHJ
+Direct Descendant Tags:
+- sord
+- Sweet Bro
+- Hella Jeff
+- Geromy
 Color: '#e00707'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Sweet_Bro_and_Hella_Jeff
@@ -4042,6 +4047,8 @@ Direct Descendant Tags:
 - Regisword
 - Royal Deringer
 - Unbreakable Katana
+- Scarlet Ribbitar
+- sord
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind
 ---
@@ -4054,6 +4061,7 @@ Direct Descendant Tags:
 - Dragon Cane
 - Walking Cane
 - Green Sun Sceptor
+- Black Sceptor
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Canekind
 ---
@@ -4206,6 +4214,7 @@ Direct Descendant Tags:
 - Ahab's Crosshairs
 - Ancestral Awakening
 - Black Rifle
+- Black Sceptor
 - Blunderbuss
 - Caledfwlch
 - Caledscratch
@@ -4228,8 +4237,11 @@ Direct Descendant Tags:
 - Red Skaia Fork
 - Regisword
 - Royal Deringer
+- Scarlet Ribbitar
+- sord
 - Telescopic Sassacrusher
 - Thorns of Oglogoth
+- Trusty Knife
 - Twin M9 Berettas
 - Unbreakable Katana
 - Walking Cane
@@ -4279,6 +4291,9 @@ Tag: Black Rifle
 Color: '#818181'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind#Black_Rifle
+---
+Tag: Black Sceptor
+Color: '#818181'
 ---
 Tag: Blunderbuss
 Color: '#1f9400'
@@ -4377,6 +4392,9 @@ Extra Reading URLs:
 Tag: God Clock
 Color: '#ffff01'
 ---
+Tag: Grand piano
+Color: '#cccccc'
+---
 Tag: Green Sun Sceptor
 Color: '#00ff00'
 ---
@@ -4427,6 +4445,7 @@ Tag: Piano
 Color: '#5c66e8'
 Direct Descendant Tags:
 - Standing piano
+- Grand piano
 ---
 Tag: Pogo Hammer
 Color: '#38f43d'
@@ -4501,10 +4520,16 @@ Color: '#ffff01'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Scalemate
 ---
+Tag: Scarlet Ribbitar
+Color: '#ff0000'
+---
 Tag: Smuppets
 Color: '#f2a400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Puppet#Smuppets
+---
+Tag: sord
+Color: '#0000ff'
 ---
 Tag: Standing piano
 Color: '#5c66e8'
@@ -4521,6 +4546,9 @@ Tag: Thorns of Oglogoth
 Color: '#fcc3df'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Needlekind#Thorns_of_Oglogoth
+---
+Tag: Trusty Knife
+Color: '#aa0000'
 ---
 Tag: Twin M9 Berettas
 Color: '#a2a2a2'
@@ -4595,7 +4623,12 @@ Direct Descendant Tags:
 ---
 Tag: Iconography from media
 Direct Descendant Tags:
+- Iconography from MSPA
+---
+Tag: Iconography from MSPA
+Direct Descendant Tags:
 - Iconography from Homestuck
+- More iconography from MSPA
 ---
 Tag: Iconography from Homestuck
 Direct Descendant Tags:
@@ -4621,6 +4654,10 @@ Tag: More iconography (Homestuck)
 Direct Descendant Tags:
 - Sburb
 - Sgrub
+---
+Tag: More iconography from MSPA
+Direct Descendant Tags:
+- ==>
 
 # -------------------------------------
 #  Individual Icons
@@ -4674,6 +4711,12 @@ Color: '#4be14e'
 ---
 Tag: Sgrub
 Color: '#8f00ff'
+
+# Iconography from MSPA
+
+---
+Tag: ==>
+Color: '#0000ff'
 
 # General Icons
 
