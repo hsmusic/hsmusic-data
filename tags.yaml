@@ -3280,12 +3280,18 @@ Tag: Bugs & insects
 Direct Descendant Tags:
 - Bees
 - Wasps
+- Fireflies
 ---
 Tag: Bees
 Color: '#fcba03'
 ---
 Tag: Wasps
 Color: '#e7e01f'
+---
+Tag: Fireflies
+Direct Descendant Tags:
+- Serenity
+Color: '#e3ff2b'
 ---
 Tag: Land animals
 Direct Descendant Tags:
@@ -4002,6 +4008,8 @@ Direct Descendant Tags:
 Tag: More instruments
 Direct Descendant Tags:
 - Turntables
+- Synthesizer
+- Music Box
 ---
 Tag: Percussion instruments
 Direct Descendant Tags:
@@ -4035,6 +4043,7 @@ Direct Descendant Tags:
 Tag: 2x3dentkind
 Direct Descendant Tags:
 - Ψdon's Entente
+- Meenah's Trident
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/2x3dentkind
 ---
@@ -4119,6 +4128,7 @@ Direct Descendant Tags:
 - Thorns of Oglogoth
 - Quills of Echidna
 - Knitting Needles
+- Cue Needles
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Needlekind
 ---
@@ -4221,6 +4231,7 @@ Direct Descendant Tags:
 - Cigarette Holder Lance
 - Claw Hammer
 - Clawsickle
+- Cue Needles
 - Deuce Clubs
 - Dragon Cane
 - Empiricist's Wand
@@ -4230,6 +4241,7 @@ Direct Descendant Tags:
 - Knitting Needles
 - Laser Gun
 - Lipstick
+- Meenah's Trident
 - Ninja Sword
 - Pogo Hammer
 - Pop-a-matic Vrillyhoo Hammer
@@ -4334,6 +4346,9 @@ Color: '#ffffff'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Cue_ball
 ---
+Tag: Cue Needles
+Color: '#ffffff'
+---
 Tag: Deuce Clubs
 Color: '#a47ec0'
 Extra Reading URLs:
@@ -4416,6 +4431,12 @@ Extra Reading URLs:
 Tag: Keyboard
 Color: '#5c66e8'
 ---
+Tag: Meenah's Trident
+Color: '#ffff00'
+---
+Tag: Music Box
+Color: '#9e4704'
+---
 Tag: Knitting Needles
 Color: '#EEEEEE'
 ---
@@ -4432,6 +4453,7 @@ Tag: Magic 8 Ball
 Color: '#3796c6'
 ---
 Tag: Marimba
+Color: '#76420a'
 ---
 Tag: Ninja Sword
 Color: '#a4a4a4'
@@ -4534,6 +4556,9 @@ Color: '#0000ff'
 Tag: Standing piano
 Color: '#5c66e8'
 ---
+Tag: Synthesizer
+Color: '#cccccc'
+---
 Tag: Timetables
 Color: '#e00707'
 ---
@@ -4541,6 +4566,9 @@ Tag: Telescopic Sassacrusher
 Color: '#c492f3'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hammerkind#Telescopic_Sassacrusher
+---
+Tag: The Condesce's Trident
+Color: '#ffff00'
 ---
 Tag: Thorns of Oglogoth
 Color: '#fcc3df'
