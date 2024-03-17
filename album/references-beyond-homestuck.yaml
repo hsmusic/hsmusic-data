@@ -16127,50 +16127,55 @@ URLs:
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Also known as the "Westminster Chimes", "Cambridge Quarters", or "Cambridge Chimes". While the task of composing the chimes was given to Joseph Jowett in 1793, it's believed that he was probably assisted by either John Randall or William Crotch.
----
-Track: When Johnny Comes Marching Home
-Artists:
-- Patrick Gilmore
-URLs:
-- https://www.youtube.com/watch?v=WtEqgG2EdTs
-Referenced Tracks:
-- Johnny Fill Up the Bowl
-Lyrics: |-
-    When Johnny comes marching home again
-    Hurrah! Hurrah!
-    We'll give him a hearty welcome then
-    Hurrah! Hurrah!
-    The men will cheer and the boys will shout
-    The ladies they will all turn out
-    And we'll all feel gay
-    When Johnny comes marching home
-
-    The old church bell will peal with joy
-    Hurrah! Hurrah!
-    To welcome home our darling boy
-    Hurrah! Hurrah!
-    The village lads and lassies say
-    With roses they will strew the way
-    And we'll all feel gay
-    When Johnny comes marching home
-
-    Get ready for the Jubilee
-    Hurrah! Hurrah!
-    We'll give the hero three times three
-    Hurrah! Hurrah!
-    The laurel wreath is ready now
-    To place upon his loyal brow
-    And we'll all feel gay
-    When Johnny comes marching home
-
-    Let love and friendship on that day
-    Hurrah, hurrah!
-    Their choicest pleasures then display
-    Hurrah, hurrah!
-    And let each one perform some part
-    To fill with joy the warrior's heart
-    And we'll all feel gay
-    When Johnny comes marching home
+# ---
+# Track: When Johnny Comes Marching Home
+#
+#   # Used to be referenced by Land of Sand and Rails,
+#   # presently orphaned. See #hsmusic-chat:
+#   # https://discord.com/channels/749042497610842152/779895315750715422/1199169695908118600
+#
+# Artists:
+# - Patrick Gilmore
+# URLs:
+# - https://www.youtube.com/watch?v=WtEqgG2EdTs
+# Referenced Tracks:
+# - Johnny Fill Up the Bowl
+# Lyrics: |-
+#     When Johnny comes marching home again
+#     Hurrah! Hurrah!
+#     We'll give him a hearty welcome then
+#     Hurrah! Hurrah!
+#     The men will cheer and the boys will shout
+#     The ladies they will all turn out
+#     And we'll all feel gay
+#     When Johnny comes marching home
+#
+#     The old church bell will peal with joy
+#     Hurrah! Hurrah!
+#     To welcome home our darling boy
+#     Hurrah! Hurrah!
+#     The village lads and lassies say
+#     With roses they will strew the way
+#     And we'll all feel gay
+#     When Johnny comes marching home
+#
+#     Get ready for the Jubilee
+#     Hurrah! Hurrah!
+#     We'll give the hero three times three
+#     Hurrah! Hurrah!
+#     The laurel wreath is ready now
+#     To place upon his loyal brow
+#     And we'll all feel gay
+#     When Johnny comes marching home
+#
+#     Let love and friendship on that day
+#     Hurrah, hurrah!
+#     Their choicest pleasures then display
+#     Hurrah, hurrah!
+#     And let each one perform some part
+#     To fill with joy the warrior's heart
+#     And we'll all feel gay
+#     When Johnny comes marching home
 ---
 Track: Yama No Ongakuka
 Artists:
@@ -18032,6 +18037,15 @@ Lyrics: |-
     Since 1990, put a smile on your face like ultra-bright
     You're just fessing man
     I don't even wanna hear about it, you're just fessing
+---
+Track: Big Bird Ate Grandma!
+Duration: '3:20'
+Artists:
+- Witch's Cadence
+Sampled Tracks:
+- BOIDY_LAUGH.wav
+URLs:
+- https://www.youtube.com/watch?v=IZ_oNz46Lzk
 ---
 Track: Big Chungus
 Duration: '1:51'
@@ -42374,6 +42388,16 @@ Artists:
 - Arthur Dreifuss
 URLs:
 - https://archive.org/details/babyface_morgan
+---
+Track: BOIDY_LAUGH.wav
+Duration: '0:06'
+Artists:
+- Witch's Cadence
+# Sampled Tracks:
+# - some sesame street clip of some of the characters laughing.
+#   And it sounded close enough to big bird so I went with it
+URLs:
+- https://hsmusic.wiki/media/misc/archive/BOIDY_LAUGH.wav
 ---
 Track: Disney Bootlegs - JonTron
 # Specifically, the Circle of Life mini-cover
