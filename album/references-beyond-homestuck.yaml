@@ -741,9 +741,11 @@ Artists:
 Duration: '0:11'
 URLs:
 - https://www.youtube.com/watch?v=lEJpVwvKq1g
+Referenced Tracks:
+- waltz of seccom masada
 Commentary: |-
     <i>Niklink:</i> (wiki editor)
-    Originally shared in a 2012 Tumblr post as part of several "made up yume nikkis" snippets where it was known as "waltz of seccom masada".
+    Originally shared in a 2012 Tumblr post as part of several [[album:made-up-yume-nikkis|"made up yume nikkis"]] snippets where it was known as [[track:waltz-of-seccom-masada|"waltz of seccom masada"]].
 ---
 Track: Michael Bowman Remix
 Artists:
@@ -7273,12 +7275,18 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=Xy_-7OXophY
 ---
-Track: Song of Storms
-# Sometimes named 'Ocarina "Song of Storms"'
-# From THE LEGEND OF ZELDA ORIGINAL SOUND TRACK
+Track: Ocarina "Song of Storms"
 # JP: オカリナ「嵐の歌」
 # Official release:
 #   ゼルダの伝説 時のオカリナ オリジナルサウンドトラック
+#   The Legend of Zelda: Ocarina of Time Original Sound Track
+# Note:
+#   This track shouldn't be confused with Windmill Hut. The internet has
+#   generally taken "Song of Storms" to be the canonical name for the full
+#   song, but on the soundtrack the only instance of "Song of Storms" is
+#   for this eight second track featuring just the partial motif played
+#   on the ocarina. Windmill Hut is the full song usually referred to as
+#   "Song of Storm" online.
 # Reference:
 #   https://vgmdb.net/album/293
 Artists:
@@ -7286,7 +7294,7 @@ Artists:
 - Koji Kondo
 Duration: '0:08'
 URLs:
-- https://www.youtube.com/watch?v=UtgHZaq0EGs
+- https://www.youtube.com/watch?v=m86VCw2JqOE
 ---
 Track: Sonic Electronic
 # This is from officially licensed album of Sonic-themed music from Germany, none of which is related to actual in-game music in any way.
@@ -8823,6 +8831,26 @@ Artists:
 Duration: '3:23'
 URLs:
 - https://youtu.be/psMnbEmvx7w
+---
+Track: Windmill Hut
+# JP: 風車小屋
+# Official release:
+#   ゼルダの伝説 時のオカリナ オリジナルサウンドトラック
+#   The Legend of Zelda: Ocarina of Time Original Sound Track
+# Note:
+#   Generally referred to as "Song of Storms" online, this track is the
+#   full song which is typically remixed or referenced. Not to be confused
+#   with the partial motif played on ocarina, track:ocarina-song-of-storms.
+# Reference:
+#   https://vgmdb.net/album/293
+Artists:
+- The Legend of Zelda
+- Koji Kondo
+Duration: '0:53'
+URLs:
+- https://www.youtube.com/watch?v=mQLBEJ-Nj3A
+Referenced Tracks:
+- Ocarina "Song of Storms"
 ---
 Track: Women Village
 # Reference:
