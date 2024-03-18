@@ -344,6 +344,7 @@ Content: |-
     - fixed [[track:harlecoaster-lame-and-old]] sampling [[track:harlecoaster]] instead of the other way around, and moved references [[track:harlequin]] and [[track:rollercoaster-tycoon-theme]] from [[track:harlecoaster]] to [[track:harlecoaster-lame-and-old]] (thanks, Rosetta Leijonde!)
     - fixed [[track:tycoontime-lame-and-old]] samplign [[track:tycoontime]] instead of the other way around, and moved references [[track:rollercoaster-tycoon-theme]] and [[track:showtime-piano-refrain]] from [[track:tycoontime]] to [[track:tycoontime-lame-and-old]] (thanks, Rosetta Leijonde!)
     - fixed [[track:its-megaman-except-the-song-is-homestuck-too]] not referencing [[track:title-mega-man-3]], [[track:doctor]], and [[track:explore]], and not sampling [[track:title-mega-man-3]] (thanks, Rosetta Leijonde, FF!)
+    - fixed [[track:yule-and-new]] referencing [[track:ocarina-song-of-storms]] instead of [[track:windmill-hut]]
     - fixed [[track:fighting-spirit-double-ascended-form]] referencing itself instead of [[track:fighting-spirit-second-form]] (thanks, Pyryte!)
     - fixed [[track:multi-track-drifting-last-stop]] referencing tracks it only samples (thanks, Rosetta Leijonde!)
     - fixed [[track:24x-showdown-combo]] not sampling [[track:phat2]] (thanks, Rosetta Leijonde!)
@@ -428,11 +429,11 @@ Content: |-
     - fixed [[track:hydro-city-zone-act-2]] being named "Hydrocity Zone (Act 2)" (thanks, Morris!)
     - fixed [[track:lights-camera-action-studiopolis-zone-act-1]] being named "Lights, Camera, Action! (Studiopolis Zone Act 1)" (thanks, Morris!)
     - fixed [[track:main-theme-the-legend-of-zelda-breath-of-the-wild]] being named "Breath of the Wild Theme" (thanks, Morris!)
+    - fixed [[track:windmill-hut]] being named "Song of Storms", and not referencing [[track:ocarina-song-of-storms]]
     - fixed [[track:westminster-quarters]] being named "Westminister Quarters" (thanks, Circlejourney, Jebb!)
     - fixed [[artist:siivagunner]] being named "SilvaGunner" (thanks, Rosetta Leijonde!)
     - fixed [[track:phat1]], [[track:phat2]], [[track:phat3]], [[track:phat4]], [[track:phat5]], [[track:phat8]], [[track:phat9]], [[track:phat10]], and [[track:phat11]] not crediting [[artist:bill-bolin]] (for mastering and syncing)
     - fixed artworks by [[artist:fueledbyanimation]] being credited to separate aliases between [[album:lofam2]] and [[album:lofam3]]
-    - fixed duration of [[track:song-of-storms]] (thanks, Geese!)
     - added durations to [[track:baby-face-morgan]], [[track:the-pay-off]], and [[track:vinesauce-joel-insane-mario-bootleg-games-part-1]] (thanks, FF!)
     - added release dates to [[album:undertale-soundtrack]] bonus tracks: [[track:mysterious-shrine]], [[track:absolutely-overfamiliar-shrine]], [[track:mad-mew-mew]], [[track:dating-start-fm-version]], [[track:bereavement]], [[track:bonetrousle-trailer-version]], [[track:before-the-story]], and [[track:dog-dating]] (thanks, Morris, vriska/leo!)
     - fixed [[track:savior-of-the-dreaming-dead]] not being tagged with content warnings (thanks, Lilith, vriska/leo!)
