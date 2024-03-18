@@ -5,19 +5,19 @@ URLs:
 - https://gigidigi.bandcamp.com/album/soul-of-sovereignty-prelude-ost
 Artists:
 - Toby Fox
-- Gigi D.G.
+- ggdg
 Cover Artists:
-- Gigi D.G.
+- ggdg
 Cover Art File Extension: png
 Wallpaper File Extension: png
 Wallpaper Artists:
-- Gigi D.G.
+- ggdg
 Color: '#8FB5D9'
 Groups:
 - Toby Fox
 - Beyond
 Commentary: |-
-    <i>Gigi D.G.:</i> ([Bandcamp](https://gigidigi.bandcamp.com/album/soul-of-sovereignty-prelude-ost))
+    <i>ggdg:</i> ([Bandcamp](https://gigidigi.bandcamp.com/album/soul-of-sovereignty-prelude-ost))
 
     Music from the visual novel. [gigidigi.itch.io/soulsov](https://gigidigi.itch.io/soulsov)
 
@@ -42,27 +42,69 @@ Commentary: |-
     <img width="640" height="318" src="media/misc/soul-of-sovereignty-prelude.png" link="https://gigidigi.itch.io/soulsov">
 
     As I implied, the soundtrack to this was a collaboration! While the two of us both made our own independent tracks here and there, most of the tracks were created by the two of us passing project files back and forth. It honestly felt like a true 50-50 effort, or maybe even more 60-40 on the side of Gigi. Gigi did mention that they wanted the soundtrack to sound like a PlayStation game, so I... Well, I just sent them all of the sounds I usually use and we just went wild. Anyway, I don't think I've ever collaborated so back-and-forth like this, so it was really fun!!! (Plus, it's Gigi's debut as a composer and I'm really proud.)
+
+    <i>ggdg:</i> ([Tumblr](https://pallisia.tumblr.com/post/736998461897064448/the-climax-is-so-so-so-so-good-i-replayed-the), excerpt)
+
+    > the climax is so so so so good i replayed the whole game 4 times already just to see it (and i'll do it again. i can't be stopped) also the music slaps so hard i can't wait for an official release. i'm curious which tracks were yours and what kind of directions you gave for the ones toby did.
+    >
+    > anyway, congrats for soulsov real, it may be only a couple hours long but it's already so impactful and i can't wait to see what's next !!
+
+    thanks so much! i’m excited to release the soundtrack eventually. for now, here’s a proper songlist and more detailed credits (warning for vague spoilers):
+
+    - title - [[track:prelude-soul-of-sovereignty|“Prelude”]] (GGDG)
+    - whisper - [[track:whisper-soul-of-sovereignty|“Whisper”]] (GGDG)
+    - loic - [[track:words-in-lavender|“Words in Lavender”]] (Toby Fox, GGDG)
+    - sadgirl - [[track:small-theme-for-a-sad-girl|“Small Theme for a Sad Girl”]] (GGDG, Toby Fox)
+    - snowfall - [[track:snowfall-soul-of-sovereignty|“Snowfall”]] (GGDG, Toby Fox)
+    - loic_magic - [[track:fayims-gift|“Fayim’s Gift”]] (Toby Fox)
+    - hollow - [[track:hollow-temple|“Hollow Temple”]] (Toby Fox)
+    - ysme_slow - [[track:master-of-illusion|“Master of Illusion”]] (Toby Fox)
+    - creepy - [[track:unease-soul-of-sovereignty|“Unease”]] (Toby Fox)
+    - sage_tension, sage_tension2 - [[track:frenzied-rite|“Frenzied Rite”]] (Toby Fox)
+    - loiclia - [[track:sunflowers-soul-of-sovereignty|“Sunflowers”]] (Toby Fox)
+    - ysme_normal - [[track:normal-theme-for-a-normal-woman|“Normal Theme for a Normal Woman”]] (Toby Fox)
+    - lamp_7 - [[track:lamplight|“Lamplight”]] (GGDG)
+    - sage_2, sage_pre - [[track:sage-invocation|“Sage Invocation”]] (GGDG, Toby Fox)
+    - ysme_god - [[track:light-and-hunger|“Light and Hunger”]] (Toby Fox)
+    - end_2 - [[track:soul-tether|“Soul Tether”]] (GGDG, Toby Fox)
+    - whis2 - [[track:prayer-to-the-builder|“Prayer to the Builder”]] (GGDG)
+
+    if my name is listed first, that means i composed an early version, then toby took it from there.
+
+    the general direction we went in with was “ps1 rpg,” but i ended up taking a lot of influence from ffxi in my own compositions ([[track:snowfall-soul-of-sovereignty|“snowfall”]] in particular.)
+
+    *(Continued in track commentary)*
+
+    those are the biggest points i can think of! it was such a joy working together on this soundtrack and i’m looking forward to more.
 ---
 Track: Prelude
 Directory: prelude-soul-of-sovereignty
 Always Reference By Directory: true
 Duration: '00:56'
 Artists:
-- Gigi D.G.
+- ggdg
 URLs:
 - https://gigidigi.bandcamp.com/track/prelude
 ---
 Track: Whisper
+Directory: whisper-soul-of-sovereignty
+Always Reference By Directory: true
 Duration: '01:38'
 Artists:
-- Gigi D.G.
+- ggdg
 URLs:
 - https://gigidigi.bandcamp.com/track/whisper
 ---
 Track: Words in Lavender
 Duration: '01:48'
+Referenced Tracks:
+- track:sunflowers-soul-of-sovereignty
 URLs:
 - https://gigidigi.bandcamp.com/track/words-in-lavender
+Commentary: |-
+    <i>ggdg:</i> ([Tumblr](https://pallisia.tumblr.com/post/736998461897064448/the-climax-is-so-so-so-so-good-i-replayed-the), excerpt)
+
+    for loic’s theme, toby originally made [[track:sunflowers-soul-of-sovereignty|“sunflowers”]] (the version that plays in the flashback) but i thought it sounded too warm and positive for general use, so i composed the minor-key version that you hear at the start.
 ---
 Track: Small Theme for a Sad Girl
 Duration: '01:40'
@@ -70,13 +112,19 @@ URLs:
 - https://gigidigi.bandcamp.com/track/small-theme-for-a-sad-girl
 ---
 Track: Snowfall
-Duration: '02:52'
 Directory: snowfall-soul-of-sovereignty
 Always Reference By Directory: true
+Duration: '02:52'
 URLs:
 - https://gigidigi.bandcamp.com/track/snowfall
+Commentary: |-
+    <i>ggdg:</i> ([Tumblr](https://pallisia.tumblr.com/post/736998461897064448/the-climax-is-so-so-so-so-good-i-replayed-the), excerpt)
+
+    the general direction we went in with [for the album] was “ps1 rpg,” but i ended up taking a lot of influence from ffxi in my own compositions (“snowfall” in particular.)
 ---
 Track: Unease
+Directory: unease-soul-of-sovereignty
+Always Reference By Directory: true
 Duration: '00:19'
 Artists:
 - Toby Fox
@@ -123,11 +171,17 @@ URLs:
 - https://gigidigi.bandcamp.com/track/frenzied-rite-pt-2
 ---
 Track: Sunflowers
+Directory: sunflowers-soul-of-sovereignty
+Always Reference By Directory: true
 Duration: '01:15'
 Artists:
 - Toby Fox
 URLs:
 - https://gigidigi.bandcamp.com/track/sunflowers
+Commentary: |-
+    <i>ggdg:</i> ([Tumblr](https://pallisia.tumblr.com/post/736998461897064448/the-climax-is-so-so-so-so-good-i-replayed-the), excerpt)
+
+    for loic’s theme, toby originally made “sunflowers” (the version that plays in the flashback) but i thought it sounded too warm and positive for general use, so i composed [[track:words-in-lavender|the minor-key version]] that you hear at the start.
 ---
 Track: Normal Theme for a Normal Woman
 Duration: '01:42'
@@ -141,16 +195,20 @@ URLs:
 Track: Lamplight
 Duration: '01:13'
 Artists:
-- Gigi D.G.
+- ggdg
 URLs:
 - https://gigidigi.bandcamp.com/track/lamplight
 ---
 Track: Sage Invocation
 Referenced Tracks:
-- Whisper
+- track:whisper-soul-of-sovereignty
 Duration: '02:59'
 URLs:
 - https://gigidigi.bandcamp.com/track/sage-invocation
+Commentary: |-
+    <i>GGDG:</i> ([Tumblr](https://pallisia.tumblr.com/post/736998461897064448/the-climax-is-so-so-so-so-good-i-replayed-the), excerpt)
+
+    “sage invocation” is my favorite of the tracks i composed. there was a weak, filler-y piano part in my original version, but toby replaced it with something much nicer.
 ---
 Track: Light and Hunger
 Duration: '03:09'
@@ -160,6 +218,10 @@ Referenced Tracks:
 - Master of Illusion
 URLs:
 - https://gigidigi.bandcamp.com/track/light-and-hunger
+Commentary: |-
+    <i>GGDG:</i> ([Tumblr](https://pallisia.tumblr.com/post/736998461897064448/the-climax-is-so-so-so-so-good-i-replayed-the), excerpt)
+
+    “light and hunger” was the main track i wanted toby to take the reins on from start to finish. basically the only direction i gave was “kefka + sleazy casino music” and he knocked it out of the park.
 ---
 Track: Soul Tether
 Duration: '02:06'
@@ -171,6 +233,6 @@ URLs:
 Track: Prayer to the Builder
 Duration: '00:55'
 Artists:
-- Gigi D.G.
+- ggdg
 URLs:
 - https://gigidigi.bandcamp.com/track/prayer-to-the-builder
