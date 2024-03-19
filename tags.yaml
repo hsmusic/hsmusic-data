@@ -3341,6 +3341,7 @@ Direct Descendant Tags:
 - Clawkind
 - Clubkind
 - Dicekind
+- Forkkind
 - Hammerkind
 - Jokerkind
 - Lancekind
@@ -3460,6 +3461,17 @@ Color: '#0169fd'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Dicekind#Fluorite_Octet
 ---
+Tag: Forkkind
+Direct Descendant Tags:
+- Red Skaia Fork
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Spoonkind
+---
+Tag: Red Skaia Fork
+Color: '#ff0000'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Spoonkind#Red_Skaia_fork
+---
 Tag: Hammerkind
 Direct Descendant Tags:
 - Pogo Hammer
@@ -3539,10 +3551,16 @@ Extra Reading URLs:
 ---
 Tag: Pistolkind
 Direct Descendant Tags:
+- Flintlocks of Zillyhau
 - Twin M9 Berettas
 - White Magnum
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Pistolkind
+---
+Tag: Flintlocks of Zillyhau
+Color: '#ffd800'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Pistolkind#Flintlocks_of_Zillyhau
 ---
 Tag: Twin M9 Berettas
 Color: '#a2a2a2'
