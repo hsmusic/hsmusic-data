@@ -2162,6 +2162,19 @@ Duration: '1:51'
 URLs:
 - https://www.youtube.com/watch?v=LaAGsbtETIg
 ---
+Track: Battle! (Strong Wild Pokémon) (Pokémon Black / Pokémon White)
+# Reference:
+#   https://vgmdb.net/album/20831
+Directory: battle-strong-wild-pokemon-pokemon-black-white
+Artists:
+- artist:pokemon
+- Go Ichinose
+Referenced Tracks:
+- Battle! (Wild Pokémon) (Pokémon Black / Pokémon White)
+Duration: '2:04'
+URLs:
+- https://www.youtube.com/watch?v=2jxRBxUSvCo
+---
 Track: Battle! (Trainer Battle) (Pokémon Black / Pokémon White)
 Directory: battle-trainer-battle-pokemon-black-white
 # Reference:
@@ -7123,6 +7136,16 @@ Artists:
 Duration: '1:22'
 URLs:
 - https://www.youtube.com/watch?v=2LjFKoykfLE
+---
+Track: Route 23
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- artist:pokemon
+- Go Ichinose
+Duration: '2:19'
+URLs:
+- https://www.youtube.com/watch?v=xiTmg0pzWIc
 ---
 Track: Route 228 (Day)
 # JP: 228ばんどうろ(昼)
