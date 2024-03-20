@@ -372,6 +372,7 @@ Content: |-
     - fixed [[track:galactic-incoherence-cosmic-nan-propagation]] not referencing [[track:umbral-ultimatum]] (thanks, Jebb!)
     - fixed [[track:dusksetter]] not referencing [[track:MeGaLoVania]] (thanks, Jebb!)
     - fixed [[track:im-a-member-of-the-midnight-crew-special-soapstone-version]] not referencing [[track:im-a-member-of-the-midnight-crew-soapstone]] (thanks, Jebb!)
+    - fixed [[track:penumbral-awakening]] directly referencing [[track:pseudumbra-phauxtasm]], and directly sampling [[track:typheus]] instead of [[track:penumbra-phantasm-morris]] (thanks, Morris, Rosetta Leijonde!)
     - fixed [[track:caliborns-lament]] referencing [[track:ophiuchus-full-suite]] instead of [[track:spirals-including-illusions-of-freedom]], not sampling [[track:welcome-to-hell]], and placing [[track:carne-vale]] and [[track:the-rarest-and-most-interpretive-dance-meatcabre]] in the wrong spots (thanks, Grace, Jebb!)
     - fixed [[track:home-stuck]] not sampling [[track:home]] and [[track:stuck]] (thanks, Makin!)
     - fixed [[track:playtime-sunday-night-strifin]] not sampling [[track:oh-shit-for-msx]] (thanks, FF!)
@@ -412,6 +413,7 @@ Content: |-
     - fixed [[track:my-grand-dad-is-the-green-sun]] not sampling [[track:flare]] (thanks, Rosetta Leijonde!)
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
+    - fixed [[track:penumbra-phantasm-morris]] not referencing [[track:pseudumbra-phauxtasm]], and sampling [[track:typheus]] (thanks, Morris!)
     - fixed [[track:spider-dance-from-undertale-but-now-its-ska-i-guess-yikes]] not referencing [[track:spider-dance]], and added a SoundCloud listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:bright-spinning-planet]] not referencing [[track:haltmann-works-co-theme-song]] (thanks, FF!)
     - fixed [[track:twinkle-elementary-school]] not referencing [[track:westminster-quarters]] (thanks, FF!)
