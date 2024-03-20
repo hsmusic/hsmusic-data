@@ -338,6 +338,8 @@ Content: |-
     - fixed [[track:skaian-overdrive]] not sampling [[track:anubis-septicflesh]]
     - fixed [[track:skaian-happy-flight]] not referencing [[track:bastians-happy-flight]]
     - fixed [[track:breeze]] not referencing [[track:evanescence-maria-schneider]]
+    - fixed [[track:fortnite-funny-moments-epic-fails-episode-413]] not referencing [[track:nuclear-james-roach]] (thanks, Rosetta Leijonde!)
+    - fixed [[track:yeah-it-is]] not referencing [[track:nuclear-james-roach]] (thanks, JG!)
     - fixed [[track:this-time-its-eridan]] not referencing [[track:buskers-theme]]
     - fixed [[track:gog-rest-ye-merry-prospitians]] referencing [[track:santa-claus-is-comin-to-town]] instead of [[track:here-comes-santa-claus]] (thanks, Pyryte!)
     - fixed [[track:candles-and-merry-gentlemen]] referencing [[track:candlelight]], instead of the other way around (thanks, Grace, Niklink!)
@@ -359,7 +361,7 @@ Content: |-
     - fixed [[track:dance-of-the-dead]] not referencing [[track:watercolour-pendulum]] (thanks, Rosetta Leijonde, Pyryte!)
     - fixed [[track:the-tacocats-secret-slide]] not referencing [[track:inspector-gadget-main-theme]], [[track:moshi-moshi]], [[track:bad-apple-feat-nomico]], [[track:meet-the-flintstones]], and [[track:we-are-number-one]] (thanks, Rosetta Leijonde, vriska/leo!)
     - fixed [[track:hehehe-i-am-the-greatest-canrival-ripping-warria-in-the-galaxy]] not sampling [[track:the-greatest-warrior-in-the-galaxy-ever]] and not referencing [[track:the-greatest-warrior-in-the-galaxy]] (thanks, FF!)
-    - fixed [[track:made-in-heaven-canwave-3]] referencing [[track:the-show-must-go-on-friendsymphony]] instead of [[track:the-show-must-go-on-queen]]
+    - fixed [[track:made-in-heaven-canwave-3]] referencing [[track:the-show-must-go-on-friendsymphony]] ([[album:friendsymphony]]) instead of [[track:the-show-must-go-on-queen]] ([[artist:queen]])
     - fixed [[track:blue-blood-group]] not referencing [[track:vriskas-theme]] (thanks, Lilith!)
     - fixed [[track:doctoral-replicollision-final-exam]] referencing tracks it only samples (thanks, Rosetta Leijonde!)
     - fixed [[track:miasmatic-chacon]] not sampling [[track:phat1]] (thanks indirectly, Rosetta Leijonde!)
@@ -425,6 +427,7 @@ Content: |-
     - fixed [[track:empirical]] being named "--Emperical" (thanks, Rosetta Leijonde!)
     - fixed [[track:do-anbroids-dream-of]] being named "Do Androids Dream Of…?" (was "Androids", now "Anbroids"; thanks, Lilith, Grace!)
     - fixed [[track:squiddles-op-1-supercrush-guitar]] being named "Squiddles OP1: Supercrush Guitar!" (missing space in "OP 1"; thanks, Lilith, Grace!)
+    - fixed [[track:eturnedtothree-served-cold-full]] being named "Eturndtothree Served Cold (Full)" (was "Eturnd...", now "Eturned..."; thanks, Rosetta Leijonde!)
     - fixed [[track:sillygoofysillygoofy]] being named "Sillygoofysillygoofy (Ft. Andrew Libman)" (was "Andrew", now "Andrea"; just a typo)
     - fixed [[track:not-a-creature-was-stirring]] being named "not a creature was stirring" (different capitalization)
     - fixed [[track:life-liberated]] being named its working title, "Wind Waker", and filled in some details for it (thanks, Rainy, FF!)
@@ -500,6 +503,7 @@ Content: |-
     - fixed bonus tracks in several albums not being divided into a dedicated section of the track list:
         - [[album:oceanfables-ray-of-light]], [[album:oceanfalls-vol-4]], and [[album:oceanfalls-vol-five]] (thanks, Niklink!)
         - [[album:vast-error-vol-2]], [[album:vast-error-vol-3]], [[album:repiton]], [[album:vast-error-vol-4]], [[album:catch-322]], [[album:dead-shufflers-anything-goes]]
+    - renamed second section of [[album:cool-and-new-volume-7]] from "2 Skid" to "2 skiD" (thanks, Rosetta Leijonde!)
     - divided [[album:licord-you-can-not-sound-good]] into side sections (thanks, Rosetta Leijonde!)
     - divided [[album:election-season]] into Prospit / Derse sections (thanks, Jebb!)
     - divided [[track:revelations-i|Revelations']] [[track:revelations-ii|three]] [[track:revelations-iii|movements]] into their own section in [[album:sburb]], in line with their composer's notes
@@ -568,6 +572,7 @@ Content: |-
     - changed sheet music blueprint for [[track:narrative-command]] into proper sheet music file, instead of just linking from commentary
     - fixed MIDIs for [[track:clockstopper]], [[track:dord-waltz]], and [[track:darling-dolorosa]] being categorized as sheet music files
     - removed fan-made, unofficial artworks from [[album:pesterquest-soundtrack]] and unreleased Pesterquest tracks (for now)
+    - removed release date details from [[track:penumbra-phantasm-morris]] (until addressing individual-track release dates more broadly)
     - changed directory of [[track:starsetter-canmt]] from <code>starsetter</code> to <code>starsetter-canmt</code>
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
