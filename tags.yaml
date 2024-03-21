@@ -3422,16 +3422,6 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Drone
 
 ---
-Tag: Gate
-Color: '#f8fcbf'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Gate
----
-Tag: Lotus
-Color: '#f7addc'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Time_capsule
----
 Tag: Matriorb
 Color: '#008f48'
 Extra Reading URLs:
@@ -3989,9 +3979,23 @@ Color: '#ffffcc'
 ---
 Tag: Object classifications
 Direct Descendant Tags:
+- General objects
 - Musical instruments
 - Weapons
-- General objects
+---
+Tag: General objects
+Direct Descendant Tags:
+- General objects (Homestuck)
+- More general objects
+---
+Tag: More general objects
+Direct Descendant Tags:
+- Clocks
+- Cue Ball
+- Fans
+- Magic 8 Ball
+- Rockets
+- Rollercoaster
 ---
 Tag: Musical instruments
 Direct Descendant Tags:
@@ -4027,27 +4031,11 @@ Tag: Percussion instruments
 Direct Descendant Tags:
 - Marimba
 ---
-Tag: Turntables
-Color: '#e00707'
-Direct Descendant Tags:
-- Timetables 
----
 Tag: Weapons
 Direct Descendant Tags:
 - Weapons (Homestuck)
 - Weapons (Problem Sleuth)
----
-Tag: General objects
-Direct Descendant Tags:
-- Clocks
-- Cue Ball
-- Fenestrology
-- Gate
-- Lotus
-- Magic 8 Ball
-- Rockets
-- Rollercoaster
-- Fans
+- Weapons (SBaHJ)
 
 # -------------------------------------
 #  Objects from media.
@@ -4058,14 +4046,22 @@ Tag: Objects from media
 Direct Descendant Tags:
 - Objects from Homestuck
 - Objects from Problem Sleuth
+- Objects from SBaHJ
 ---
 Tag: Objects from Homestuck
 Direct Descendant Tags:
-- Unique objects (Homestuck)
----
-Tag: Unique objects (Homestuck)
-Direct Descendant Tags:
+- General objects (Homestuck)
 - Weapons (Homestuck)
+- More objects (Homestuck)
+---
+Tag: General objects (Homestuck)
+Direct Descendant Tags:
+- Fenestrology
+- Gate
+- Lotus
+---
+Tag: More objects (Homestuck)
+Direct Descendant Tags:
 - Fiduspawn
 - Scalemates
 - Smuppets
@@ -4121,7 +4117,6 @@ Direct Descendant Tags:
 - Royal Deringer
 - Unbreakable Katana
 - Scarlet Ribbitar
-- sord
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind
 ---
@@ -4234,10 +4229,6 @@ Extra Reading URLs:
 Tag: More weapons (Homestuck)
 Direct Descendant Tags:
 - Trusty Knife
-
-
-# Objects from Problem Sleuth
-
 ---
 Tag: Objects from Problem Sleuth
 Direct Descendant Tags:
@@ -4251,63 +4242,37 @@ Direct Descendant Tags:
 - Hairpin
 ---
 Tag: Weapons (Problem Sleuth)
-Direct Descendant Tags: 
+Direct Descendant Tags:
 - Handgun
 - Tommy Gun
 - Machine Gun
-
-# ------------------------------------
-# Problem Sleuth Individual Objects
-# ------------------------------------
-#
-# These have their own section because of how much weapon/object duality there is in PS. 
-# Sorted by Object/Weapon Duality
-# 
-
 ---
-Tag: Handgun
-Color: '#383838'
-Related Tags:
-- Tag: PS Key
-  Annotation: Object Duality
+Tag: Objects from SBaHJ
+Direct Descendant Tags:
+- Weapons (SBaHJ)
 ---
-Tag: PS Key
-Color: '#383838'
-Related Tags:
-- Tag: Handgun
-  Annotation: Object Duality
----
-Tag: Tommy Gun
-Color: '#2a2a2a'
-Related Tags:
-- Tag: Ring of Keys
-  Annotation: Object Duality
----
-Tag: Ring of Keys
-Color: '#4a4a4a'
-Related Tags:
-- Tag: Tommy Gun
-  Annotation: Object Duality
----
-Tag: Machine Gun
-Color: '#333333'
-Related Tags:
-- Tag: Hairpin
-  Annotation: Object Duality
----
-Tag: Hairpin
-Color: '#434343'
-Related Tags:
-- Tag: Machine Gun
-  Annotation: Object Duality
+Tag: Weapons (SBaHJ)
+Direct Descendant Tags:
+- sord
 
 # -------------------------------------
 #  Individual object entries.
 # -------------------------------------
 #
-#  These aren't subsectioned at all (currently).
-#  Only sorted alphabetically.
+#  Entries for individual objects. These shouldn't have any
+#  descendant tags.
 #
+#  Every object belongs to ONE "objects from media" entry.
+#  These are sectioned accordingly, matching the top-to-bottom
+#  same order as "obejcts from media", and then sorted
+#  ALPHABETICALLY. Objects not from any media are included
+#  in a single, flat section, at the bottom.
+#
+#  There is no further subsectioning for this area.
+#  Entries are only organized by media.
+#
+
+# Objects from Homestuck.
 
 ---
 Tag: Ψdon's Entente
@@ -4330,11 +4295,6 @@ Tag: Ancestral Awakening
 Color: '#5e67e5'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Ancestral_Awakening_Sword
----
-Tag: Bass
-Color: '#4ac925'
-Direct Descendant Tags:
-- Eclectic Bass
 ---
 Tag: Black Rifle
 Color: '#818181'
@@ -4359,9 +4319,6 @@ Color: '#f88424'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Caledscratch
 ---
-Tag: Cello
-Color: '#cc5f5e'
----
 Tag: Cigarette Holder Lance
 Color: '#b8b8b8'
 Extra Reading URLs:
@@ -4372,16 +4329,6 @@ Tag: Claw Hammer
 Tag: Clawsickle
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Sicklekind#Clawsickle
----
-Tag: Clocks
-Color: '#008c45'
-Direct Descendant Tags:
-- God Clock
----
-Tag: Cue Ball
-Color: '#ffffff'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Cue_ball
 ---
 Tag: Cue Needles
 Color: '#ffffff'
@@ -4406,9 +4353,6 @@ Color: '#f6eed3'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wandkind#Empiricist's_wand
 ---
-Tag: Fans
-Color: '#dddddd'
----
 Tag: Fenestrology
 Color: '#bbbbbb'
 Extra Reading URLs:
@@ -4432,7 +4376,11 @@ Direct Descendant Tags:
 Color: '#0169fd'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Dicekind#Fluorite_Octet
-
+---
+Tag: Gate
+Color: '#f8fcbf'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Gate
 ---
 Tag: Girl's Best Friend
 Color: '#707070'
@@ -4441,9 +4389,6 @@ Extra Reading URLs:
 ---
 Tag: God Clock
 Color: '#ffff01'
----
-Tag: Grand piano
-Color: '#cccccc'
 ---
 Tag: Green Sun Sceptor
 Color: '#00ff00'
@@ -4463,14 +4408,8 @@ Color: '#34220a'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind#Hunting_Rifle
 ---
-Tag: Keyboard
-Color: '#5c66e8'
----
 Tag: Meenah's Trident
 Color: '#ffff00'
----
-Tag: Music Box
-Color: '#9e4704'
 ---
 Tag: Knitting Needles
 Color: '#EEEEEE'
@@ -4484,25 +4423,15 @@ Tag: Lipstick
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Makeupkind#Lipstick
 ---
-Tag: Magic 8 Ball
-Color: '#3796c6'
----
-Tag: Marimba
-Color: '#76420a'
+Tag: Lotus
+Color: '#f7addc'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Time_capsule
 ---
 Tag: Ninja Sword
 Color: '#a4a4a4'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Ninja_Sword
----
-Tag: Organ
-Color: '#5c66e8'
----
-Tag: Piano
-Color: '#5c66e8'
-Direct Descendant Tags:
-- Standing piano
-- Grand piano
 ---
 Tag: Pogo Hammer
 Color: '#38f43d'
@@ -4556,21 +4485,10 @@ Color: '#00d5f2'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/John's_inventory#Remote_Ghost_Gauntlets
 ---
-Tag: Rockets
-Color: '#fc3120'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Rocket
----
-Tag: Rollercoaster
-Color: '#851f1a'
----
 Tag: Royal Deringer
 Color: '#fff482'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Royal_Deringer
----
-Tag: Saxophone
-Color: '#ebcb92'
 ---
 Tag: Scalemates
 Color: '#ffff01'
@@ -4584,18 +4502,6 @@ Tag: Smuppets
 Color: '#f2a400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Puppet#Smuppets
----
-Tag: sord
-Color: '#0000ff'
----
-Tag: Standing piano
-Color: '#5c66e8'
----
-Tag: Synthesizer
-Color: '#cccccc'
----
-Tag: Timetables
-Color: '#e00707'
 ---
 Tag: Telescopic Sassacrusher
 Color: '#c492f3'
@@ -4622,9 +4528,6 @@ Tag: Unbreakable Katana
 Color: '#c3c3c3'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Unbreakable_Katana
----
-Tag: Violin
-Color: '#b536da'
 ---
 Tag: Walking Cane
 Color: '#f2bcbc'
@@ -4660,16 +4563,159 @@ Color: '#aeaeae'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hammerkind#Wrinklefucker
 
+# Objects from Problem Sleuth.
+
+---
+Tag: Handgun
+Color: '#383838'
+Related Tags:
+- Tag: PS Key
+  Annotation: Object Duality
+---
+Tag: PS Key
+Color: '#383838'
+Related Tags:
+- Tag: Handgun
+  Annotation: Object Duality
+---
+Tag: Tommy Gun
+Color: '#2a2a2a'
+Related Tags:
+- Tag: Ring of Keys
+  Annotation: Object Duality
+---
+Tag: Ring of Keys
+Color: '#4a4a4a'
+Related Tags:
+- Tag: Tommy Gun
+  Annotation: Object Duality
+---
+Tag: Machine Gun
+Color: '#333333'
+Related Tags:
+- Tag: Hairpin
+  Annotation: Object Duality
+---
+Tag: Hairpin
+Color: '#434343'
+Related Tags:
+- Tag: Machine Gun
+  Annotation: Object Duality
+
+# Objects from SBaHJ.
+
+---
+Tag: sord
+Color: '#0000ff'
+
+# Objects not from media.
+
+---
+Tag: Bass
+Color: '#4ac925'
+Direct Descendant Tags:
+- Eclectic Bass
+---
+Tag: Cello
+Color: '#cc5f5e'
+---
+Tag: Clocks
+Color: '#008c45'
+Direct Descendant Tags:
+- God Clock
+---
+Tag: Cue Ball
+Color: '#ffffff'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Cue_ball
+---
+Tag: Fans
+Color: '#dddddd'
+---
+Tag: Grand piano
+Color: '#cccccc'
+---
+Tag: Keyboard
+Color: '#5c66e8'
+---
+Tag: Magic 8 Ball
+Color: '#3796c6'
+---
+Tag: Marimba
+Color: '#76420a'
+---
+Tag: Music Box
+Color: '#9e4704'
+---
+Tag: Organ
+Color: '#5c66e8'
+---
+Tag: Piano
+Color: '#5c66e8'
+Direct Descendant Tags:
+- Standing piano
+- Grand piano
+---
+Tag: Rockets
+Color: '#fc3120'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rocket
+---
+Tag: Rollercoaster
+Color: '#851f1a'
+---
+Tag: Saxophone
+Color: '#ebcb92'
+---
+Tag: Standing piano
+Color: '#5c66e8'
+---
+Tag: Synthesizer
+Color: '#cccccc'
+---
+Tag: Timetables
+Color: '#e00707'
+---
+Tag: Turntables
+Color: '#e00707'
+Direct Descendant Tags:
+- Timetables
+---
+Tag: Violin
+Color: '#b536da'
+
 # -------------------------------------
 #  Iconography classifications.
 # -------------------------------------
+#
+#  This section DOES NOT include lists of icons of each classification,
+#  which are grouped by media. It's only responsible for sectionining
+#  and structuring those "classification from media" groupings. Refer
+#  to "iconography from media" for icon lists.
+#
+#  Within a given classification tag, follow the top-to-bottom
+#  same order as "iconography from media".
+#
 
 ---
 Tag: Iconography classifications
 Direct Descendant Tags:
-- Music Iconography
+- General iconography
+- Musical iconography
 ---
-Tag: Music Iconography
+Tag: General iconography
+Direct Descendant Tags:
+- General iconography (MSPA)
+- General iconography (Homestuck)
+- More general iconography
+---
+Tag: More general iconography
+---
+Tag: Musical iconography
+Direct Descendant Tags:
+- More musical iconography
+---
+Tag: More musical iconography
 Direct Descendant Tags:
 - Music Staff
 - Music Note
@@ -4685,13 +4731,26 @@ Direct Descendant Tags:
 ---
 Tag: Iconography from MSPA
 Direct Descendant Tags:
+- General iconography (MSPA)
 - Iconography from Homestuck
-- More iconography from MSPA
+---
+Tag: General iconography (MSPA)
+Direct Descendant Tags:
+- ==>
+- SBaHJ
 ---
 Tag: Iconography from Homestuck
 Direct Descendant Tags:
+- General iconography (Homestuck)
 - Aspects (Homestuck)
-- More iconography (Homestuck)
+---
+Tag: General iconography (Homestuck)
+Direct Descendant Tags:
+- FreshJamz
+- GameBro
+- Homosuck
+- Sburb
+- Sgrub
 ---
 Tag: Aspects (Homestuck)
 Direct Descendant Tags:
@@ -4707,66 +4766,46 @@ Direct Descendant Tags:
 - Doom
 - Breath
 - Blood
----
-Tag: More iconography (Homestuck)
-Direct Descendant Tags:
-- FreshJamz
-- GameBro
-- Homosuck
-- SBaHJ
-- Sburb
-- Sgrub
----
-Tag: More iconography from MSPA
-Direct Descendant Tags:
-- ==>
 
 # -------------------------------------
-#  Individual Icons
-#  This list is sorted by type and then alphabetically
+#  Individual icon entries.
 # -------------------------------------
+#
+#  Entries for individual icons. These shouldn't have any
+#  descendant tags.
+#
+#  Every icon belongs to ONE "iconography from media" entry.
+#  These are sectioned accordingly, matching the top-to-bottom
+#  same order as "iconography from media", and then sorted
+#  ALPHABETICALLY. Icons not from any media are included
+#  in a single, flat section, at the bottom.
+#
+#  There is no further subsectioning for this area.
+#  Entries are only organized by media.
+#
 
-# Aspects
+# Iconography from MSPA.
 
 ---
-Tag: Space
-Color: '#000000'
+Tag: ==>
+Color: '#0000ff'
 ---
-Tag: Time
-Color: '#ff2106'
+Tag: SBaHJ
+Color: '#e00707'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sweet_Bro_and_Hella_Jeff
+
+# Iconography from Homestuck.
+
 ---
-Tag: Mind
-Color: '#06ffc9'
----
-Tag: Heart
-Color: '#bd1864'
----
-Tag: Hope
-Color: '#ffde55'
----
-Tag: Rage
-Color: '#9c4dad'
----
-Tag: Light
-Color: '#f0840c'
----
-Tag: Void
-Color: '#104ea2'
----
-Tag: Life
-Color: '#72eb34'
----
-Tag: Doom
-Color: '#306800'
+Tag: Blood
+Color: '#ba1016'
 ---
 Tag: Breath
 Color: '#47dff9'
 ---
-Tag: Blood
-Color: '#ba1016'
-
-
-# Recurring Homestuck Images
+Tag: Doom
+Color: '#306800'
 ---
 Tag: FreshJamz
 Color: '#ff1366'
@@ -4776,36 +4815,43 @@ Color: '#f2c079'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/GameBro
 ---
-Tag: SBaHJ
-Direct Descendant Tags:
-- sord
-- Sweet Bro
-- Hella Jeff
-- Geromy
-Color: '#e00707'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Sweet_Bro_and_Hella_Jeff
+Tag: Heart
+Color: '#bd1864'
 ---
 Tag: Homosuck
 Color: '#009c68'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Homosuck
-
-
-# Other Homestuck Icons
-
+---
+Tag: Hope
+Color: '#ffde55'
+---
+Tag: Life
+Color: '#72eb34'
+---
+Tag: Light
+Color: '#f0840c'
+---
+Tag: Mind
+Color: '#06ffc9'
+---
+Tag: Rage
+Color: '#9c4dad'
 ---
 Tag: Sburb
 Color: '#4be14e'
 ---
 Tag: Sgrub
 Color: '#8f00ff'
-
-# Iconography from MSPA
-
 ---
-Tag: ==>
-Color: '#0000ff'
+Tag: Space
+Color: '#000000'
+---
+Tag: Time
+Color: '#ff2106'
+---
+Tag: Void
+Color: '#104ea2'
 
 # General Icons
 
