@@ -3997,6 +3997,30 @@ Direct Descendant Tags:
 - Rockets
 - Rollercoaster
 ---
+Tag: Clocks
+Color: '#008c45'
+Direct Descendant Tags:
+- Clocks (Homestuck)
+---
+Tag: Cue Ball
+Color: '#ffffff'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Cue_ball
+---
+Tag: Fans
+Color: '#dddddd'
+---
+Tag: Magic 8 Ball
+Color: '#3796c6'
+---
+Tag: Rockets
+Color: '#fc3120'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rocket
+---
+Tag: Rollercoaster
+Color: '#851f1a'
+---
 Tag: Musical instruments
 Direct Descendant Tags:
 - Keyboard instruments
@@ -4004,6 +4028,7 @@ Direct Descendant Tags:
 - More instruments
 - Brass instruments
 - Percussion instruments
+- Musical instruments (Homestuck)
 ---
 Tag: Keyboard instruments
 Direct Descendant Tags:
@@ -4011,25 +4036,76 @@ Direct Descendant Tags:
 - Piano
 - Organ
 ---
+Tag: Keyboard
+Color: '#5c66e8'
+---
+Tag: Piano
+Color: '#5c66e8'
+Direct Descendant Tags:
+- Grand Piano
+- Standing Piano
+---
+Tag: Grand Piano
+Color: '#cccccc'
+---
+Tag: Standing Piano
+Color: '#5c66e8'
+---
+Tag: Organ
+Color: '#5c66e8'
+---
 Tag: String instruments
+Direct Descendant Tags:
+- String instruments (Homestuck)
+- More string instruments
+---
+Tag: More string instruments
 Direct Descendant Tags:
 - Bass
 - Cello
 - Violin
 ---
+Tag: Bass
+Color: '#4ac925'
+Direct Descendant Tags:
+- Bass (Homestuck)
+---
+Tag: Cello
+Color: '#cc5f5e'
+---
+Tag: Violin
+Color: '#b536da'
+---
 Tag: Brass instruments
 Direct Descendant Tags:
 - Saxophone
 ---
+Tag: Saxophone
+Color: '#ebcb92'
+---
 Tag: More instruments
 Direct Descendant Tags:
-- Turntables
-- Synthesizer
 - Music Box
+- Synthesizer
+- Turntables
+---
+Tag: Music Box
+Color: '#9e4704'
+---
+Tag: Synthesizer
+Color: '#cccccc'
+---
+Tag: Turntables
+Color: '#e00707'
+Direct Descendant Tags:
+- Turntables (Homestuck)
 ---
 Tag: Percussion instruments
 Direct Descendant Tags:
 - Marimba
+---
+Tag: Marimba
+Color: '#76420a'
 ---
 Tag: Weapons
 Direct Descendant Tags:
@@ -4051,14 +4127,45 @@ Direct Descendant Tags:
 Tag: Objects from Homestuck
 Direct Descendant Tags:
 - General objects (Homestuck)
+- Musical instruments (Homestuck)
 - Weapons (Homestuck)
 - More objects (Homestuck)
 ---
 Tag: General objects (Homestuck)
 Direct Descendant Tags:
+- Clocks (Homestuck)
+- More general objects (Homestuck)
+---
+Tag: Clocks (Homestuck)
+Direct Descendant Tags:
+- God Clock
+---
+Tag: More general objects (Homestuck)
+Direct Descendant Tags:
 - Fenestrology
 - Gate
 - Lotus
+---
+Tag: Musical instruments (Homestuck)
+Direct Descendant Tags:
+- String instruments (Homestuck)
+- More instruments (Homestuck)
+---
+Tag: String instruments (Homestuck)
+Direct Descendant Tags:
+- Bass (Homestuck)
+---
+Tag: Bass (Homestuck)
+Direct Descendant Tags:
+- Eclectic Bass
+---
+Tag: More instruments (Homestuck)
+Direct Descendant Tags:
+- Turntables (Homestuck)
+---
+Tag: Turntables (Homestuck)
+Direct Descendant Tags:
+- Timetables
 ---
 Tag: More objects (Homestuck)
 Direct Descendant Tags:
@@ -4068,7 +4175,6 @@ Direct Descendant Tags:
 - Squiddles
 - What Pumpkin?
 - Grist
-- Eclectic Bass
 - Matriorb
 - Queen's Ring
 - Rag of Souls
@@ -4076,7 +4182,6 @@ Direct Descendant Tags:
 - Red Miles
 - Remote Ghost Gauntlets
 - Tumor
-- Timetables
 ---
 Tag: Weapons (Homestuck)
 Direct Descendant Tags:
@@ -4232,10 +4337,10 @@ Direct Descendant Tags:
 ---
 Tag: Objects from Problem Sleuth
 Direct Descendant Tags:
+- General objects (Problem Sleuth)
 - Weapons (Problem Sleuth)
-- Unique Objects (Problem Sleuth)
 ---
-Tag: Unique Objects (Problem Sleuth)
+Tag: General objects (Problem Sleuth)
 Direct Descendant Tags:
 - PS Key
 - Ring of Keys
@@ -4264,9 +4369,8 @@ Direct Descendant Tags:
 #
 #  Every object belongs to ONE "objects from media" entry.
 #  These are sectioned accordingly, matching the top-to-bottom
-#  same order as "obejcts from media", and then sorted
-#  ALPHABETICALLY. Objects not from any media are included
-#  in a single, flat section, at the bottom.
+#  same order as "objects from media", and then sorted
+#  ALPHABETICALLY.
 #
 #  There is no further subsectioning for this area.
 #  Entries are only organized by media.
@@ -4516,6 +4620,9 @@ Color: '#fcc3df'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Needlekind#Thorns_of_Oglogoth
 ---
+Tag: Timetables
+Color: '#e00707'
+---
 Tag: Trusty Knife
 Color: '#aa0000'
 ---
@@ -4607,82 +4714,6 @@ Related Tags:
 ---
 Tag: sord
 Color: '#0000ff'
-
-# Objects not from media.
-
----
-Tag: Bass
-Color: '#4ac925'
-Direct Descendant Tags:
-- Eclectic Bass
----
-Tag: Cello
-Color: '#cc5f5e'
----
-Tag: Clocks
-Color: '#008c45'
-Direct Descendant Tags:
-- God Clock
----
-Tag: Cue Ball
-Color: '#ffffff'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Cue_ball
----
-Tag: Fans
-Color: '#dddddd'
----
-Tag: Grand piano
-Color: '#cccccc'
----
-Tag: Keyboard
-Color: '#5c66e8'
----
-Tag: Magic 8 Ball
-Color: '#3796c6'
----
-Tag: Marimba
-Color: '#76420a'
----
-Tag: Music Box
-Color: '#9e4704'
----
-Tag: Organ
-Color: '#5c66e8'
----
-Tag: Piano
-Color: '#5c66e8'
-Direct Descendant Tags:
-- Standing piano
-- Grand piano
----
-Tag: Rockets
-Color: '#fc3120'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Rocket
----
-Tag: Rollercoaster
-Color: '#851f1a'
----
-Tag: Saxophone
-Color: '#ebcb92'
----
-Tag: Standing piano
-Color: '#5c66e8'
----
-Tag: Synthesizer
-Color: '#cccccc'
----
-Tag: Timetables
-Color: '#e00707'
----
-Tag: Turntables
-Color: '#e00707'
-Direct Descendant Tags:
-- Timetables
----
-Tag: Violin
-Color: '#b536da'
 
 # -------------------------------------
 #  Iconography classifications.
@@ -4853,7 +4884,7 @@ Color: '#ff2106'
 Tag: Void
 Color: '#104ea2'
 
-# General Icons
+# Icons not from media.
 
 ---
 Tag: Music Staff
