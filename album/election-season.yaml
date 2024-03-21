@@ -17,6 +17,9 @@ Groups:
 - Desynced
 - Fandom
 ---
+Section: Prospit
+Color: '#ffcc00'
+---
 Track: Under the Sun
 Artists:
 - Levc
@@ -174,6 +177,8 @@ Referenced Tracks:
 - Light of the Sun
 - Desynced Anthem
 ---
+Section: Intermission
+---
 Track: 'INTERMISSION: Switch the Station'
 Directory: switch-the-station
 Artists:
@@ -189,6 +194,9 @@ Art Tags:
 Referenced Tracks:
 - Light of the Sun
 - Void of the Moon
+---
+Section: Derse
+Color: '#cc44cc'
 ---
 Track: Under the Moon
 Artists:
