@@ -24,6 +24,11 @@ Wallpaper Style: 'opacity: 0.9;'
 Section: Main album
 ---
 Track: Into the Forest
+Additional Names:
+- Name: >-
+    Into The Forest
+  Annotation: >-
+    [YouTube album in-video](https://youtu.be/UyeKdsKg0vw?t=0)
 Artists:
 - dbnet18
 Duration: '2:10'
@@ -169,6 +174,11 @@ Cover Art Date: January 25, 2024
 # Unnamed one-off character, per leii
 ---
 Track: Nothing But a Small Request
+Additional Names:
+- Name: >-
+    Nothing but a small request
+  Annotation: >-
+    [YouTube album timestamp](https://www.youtube.com/watch?v=UyeKdsKg0vw)
 Artists:
 - whimsi
 Duration: '1:36'
@@ -396,6 +406,16 @@ Section: Bonus tracks
 ---
 Track: Atomic
 Directory: atomic-oceanfalls
+Additional Names:
+- Name: >-
+    Atomic (Bonus Track)
+  Annotation: >-
+    [Bandcamp](https://nightslights.bandcamp.com/track/atomic-bonus-track), minus artist name
+- Name: >-
+    Atomic (Bonus)
+  Annotation: >-
+    [YouTube album in-video](https://youtu.be/UyeKdsKg0vw?t=4197),
+    [YouTube album timestamp](https://www.youtube.com/watch?v=UyeKdsKg0vw)
 Always Reference By Directory: true
 Artists:
 - WHATISLOSTINTHEMINES
@@ -408,6 +428,16 @@ Art Tags:
 - Selene (Oceanfalls)
 ---
 Track: Kiss of Death
+Additional Names:
+- Name: >-
+    Kiss of Death (Bonus Track)
+  Annotation: >-
+    [Bandcamp](https://nightslights.bandcamp.com/track/kiss-of-death-bonus-track), minus artist name
+- Name: >-
+    Kiss of Death (Bonus)
+  Annotation: >-
+    [YouTube album in-video](https://youtu.be/UyeKdsKg0vw?t=4325),
+    [YouTube album timestamp](https://www.youtube.com/watch?v=UyeKdsKg0vw)
 Artists:
 - keyboard cait
 Duration: '2:02'
@@ -421,6 +451,19 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: Kotori With A Gun Fusion Collab
+Additional Names:
+- Name: >-
+    Kotori With A Gun Fusion Collab (Bonus Track)
+  Annotation: >-
+    [Bandcamp](https://nightslights.bandcamp.com/track/kotori-with-a-gun-fusion-collab-bonus-track), minus artist names
+- Name: >-
+    Kotori With A Gun Fusion Collab (bonus)
+  Annotation: >-
+    [YouTube album in-video](https://youtu.be/UyeKdsKg0vw?t=4447)
+- Name: >-
+    Kotori with a Gun (Bonus)
+  Annotation: >-
+    [YouTube album timestamp](https://www.youtube.com/watch?v=UyeKdsKg0vw)
 Artists:
 - SplitSuns
 - yazshu
@@ -494,3 +537,6 @@ Art Tags:
 - Five (Oceanfalls)
 Referenced Tracks:
 - Snowfalls
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+    This track isn't labelled "(Bonus Track)" on Bandcamp as [[track:atomic-oceanfalls|the]] [[track:kiss-of-death|previous]] [[track:kotori-with-a-gun-fusion-collab|three]] are. It's also not labelled "(bonus)" in the YouTube full album stream, and isn't included in the stream's timestamp list at all. ([It is part of the stream, though!](https://youtu.be/UyeKdsKg0vw?t=4641))

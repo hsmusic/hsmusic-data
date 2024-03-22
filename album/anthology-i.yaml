@@ -273,11 +273,15 @@ Artists:
 URLs:
 - https://desynced.bandcamp.com/track/death-defied
 ---
-Section: Bonus tracks
+Section: Bonus track
 ---
-Track: "[BONUS] ~ What Could Have Been"
-Directory: what-could-have-been
-Duration: 2:45
+Track: What Could Have Been
+Additional Names:
+- Name: >-
+    [BONUS] ~ What Could Have Been
+  Annotation: >-
+    [Bandcamp](https://desynced.bandcamp.com/album/anthology-i)
+    Duration: 2:45
 Artists:
 - Levc
 Has Cover Art: false

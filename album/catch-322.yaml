@@ -268,8 +268,16 @@ URLs:
 ---
 Section: Bonus tracks
 ---
-Track: 'The Black Depths'
-Directory: the-black-depths
+Track: The Black Depths
+Additional Names:
+- Name: >-
+    BONUS: The Black Depths
+  Annotation: >-
+    [Bandcamp](https://vasterror.bandcamp.com/track/bonus-the-black-depths)
+- Name: >-
+    The Black Depths (Bonus)
+  Annotation: >-
+    album download
 Duration: '4:30'
 Artists:
 - Kate Mitchell

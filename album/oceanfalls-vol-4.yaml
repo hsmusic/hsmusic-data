@@ -26,6 +26,12 @@ Wallpaper Style: 'opacity: 0.75;'
 Section: Main album
 ---
 Track: Up From the Depths
+Additional Names:
+- Name: >-
+    Up From The Depths
+  Annotation: >-
+    [YouTube album timestamp](https://www.youtube.com/watch?v=FCYAQhBv0kE),
+    [YouTube album in-video](https://youtu.be/FCYAQhBv0kE?t=0)
 Artists:
 - Wights End
 Duration: '05:24'
@@ -56,6 +62,12 @@ Referenced Tracks:
 - Rosen Wings
 ---
 Track: First Blood
+Additional Names:
+- Name: >-
+    <span style="color: #0439c4">First</span>
+    <span style="color: #f24448">Blood</span>
+  Annotation: >-
+    [YouTube album in-video](https://youtu.be/FCYAQhBv0kE?t=485)
 Artists:
 - nights
 Duration: '02:06'
@@ -205,6 +217,11 @@ Art Tags:
 - Corona (Oceanfalls)
 ---
 Track: The Sunderer's Reprisal
+Additional Names:
+- Name: >-
+    Sunderer's Reprisal
+  Annotation: >-
+    [YouTube album in-video](https://youtu.be/FCYAQhBv0kE?t=2512)
 Artists:
 - Wights End
 Duration: '03:55'
@@ -251,6 +268,12 @@ Referenced Tracks:
 - Emotional Moment
 ---
 Track: Spolia Opima
+Additional Names:
+- Name: >-
+    <span style="color: #7b1f58">Spolia</span>
+    <span style="color: #393a67">Opima</span>
+  Annotation: >-
+    [YouTube album in-video](https://youtu.be/FCYAQhBv0kE?t=3256)
 Artists:
 - RoZ8
 Duration: '04:26'
@@ -330,6 +353,15 @@ Referenced Tracks:
 Section: Bonus track
 ---
 Track: Know Thyself
+Additional Names:
+- Name: >-
+    Know Thyself (Bonus)
+  Annotation: >-
+    [Bandcamp](https://nightslights.bandcamp.com/track/know-thyself-bonus), minus artist name
+- Name: >-
+    Know Thyself [Bonus]
+  Annotation: >-
+    [YouTube album timestamp](https://www.youtube.com/watch?v=FCYAQhBv0kE)
 Artists:
 - keyboard cait
 Duration: '02:58'

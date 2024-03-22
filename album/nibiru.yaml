@@ -70,6 +70,11 @@ URLs:
 - https://www.youtube.com/watch?v=DuH9Ul07rQ4
 ---
 Track: Redeye (feat. Kasane Teto)
+Additional Names:
+- Name: >-
+    Redeye
+  Annotation: >-
+    [YouTube album in-video](https://youtu.be/HWIbTv3W8Eo?t=41)
 Directory: redeye-nibiru
 Always Reference By Directory: true
 Duration: 3:38
@@ -461,8 +466,10 @@ Section: Bonus tracks
 ---
 Track: Until My Blood Runs Dry
 Additional Names:
-- Name: '[BONUS] ~ Until My Blood Runs Dry'
-  Annotation: '[Bandcamp](https://desynced.bandcamp.com/track/bonus-until-my-blood-runs-dry)'
+- Name: >-
+    [BONUS] ~ Until My Blood Runs Dry
+  Annotation: >-
+    [Bandcamp](https://desynced.bandcamp.com/track/bonus-until-my-blood-runs-dry)
 Duration: 3:44
 Artists:
 - Witch's Cadence
@@ -484,8 +491,10 @@ Track: Megalovania
 Directory: megalovania-nibiru
 Always Reference By Directory: true
 Additional Names:
-- Name: '[BONUS] ~ Megalovania'
-  Annotation: '[Bandcamp](https://desynced.bandcamp.com/track/bonus-megalovania)'
+- Name: >-
+    [BONUS] ~ Megalovania
+  Annotation: >-
+    [Bandcamp](https://desynced.bandcamp.com/track/bonus-megalovania)
 Duration: 3:34
 Artists:
 - Witch's Cadence

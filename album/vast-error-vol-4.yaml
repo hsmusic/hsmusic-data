@@ -456,7 +456,15 @@ URLs:
 Section: Bonus tracks
 ---
 Track: Nothing Special
-Directory: nothing-special
+Additional Names:
+- Name: >-
+    BONUS: Nothing Special
+  Annotation: >-
+    [Bandcamp](https://vasterror.bandcamp.com/track/bonus-nothing-special)
+- Name: >-
+    Nothing Special (Bonus)
+  Annotation: >-
+    album download
 Duration: '3:46'
 Artists:
 - Cristata
@@ -468,7 +476,15 @@ URLs:
 - https://music.deconreconstruction.com/albums/vast-error-vol-4?track=bonus-nothing-special
 ---
 Track: Twelve By Twelve
-Directory: twelve-by-twelve
+Additional Names:
+- Name: >-
+    BONUS: Twelve By Twelve
+  Annotation: >-
+    [Bandcamp](https://vasterror.bandcamp.com/track/bonus-twelve-by-twelve)
+- Name: >-
+    Twelve By Twelve (Bonus)
+  Annotation: >-
+    album download
 Duration: '2:48'
 Artists:
 - Nicholas Nakano
