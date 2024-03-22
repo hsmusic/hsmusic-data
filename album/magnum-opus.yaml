@@ -306,7 +306,11 @@ Track: Euphoria
 Directory: euphoria-magnum-opus
 Always Reference By Directory: true
 Additional Names:
-- 'BONUS: Euphoria (unedited name)'
+- Name: >-
+    BONUS: Euphoria
+  Annotation: >-
+    [Bandcamp](https://vasterror.bandcamp.com/track/bonus-euphoria),
+    album download
 Artists:
 - Cerulean
 Cover Artists:
@@ -319,7 +323,10 @@ Referenced Tracks:
 ---
 Track: Coronal Mass Ejection [Beta]
 Additional Names:
-- 'BONUS: Coronal Mass Ejection [Beta] (unedited name)'
+- Name: >-
+    BONUS: Coronal Mass Ejection [Beta]
+  Annotation: >-
+    [Bandcamp](https://vasterror.bandcamp.com/track/bonus-coronal-mass-ejection-beta), album download
 Artists:
 - Rabooski
 Cover Artists:
