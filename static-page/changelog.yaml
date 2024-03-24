@@ -584,6 +584,7 @@ Content: |-
     - removed fan-made, unofficial artworks from [[album:pesterquest-soundtrack]] and unreleased Pesterquest tracks (for now)
     - removed release date details from [[track:penumbra-phantasm-morris]] (until addressing individual-track release dates more broadly)
     - removed MIDIs by [[artist:toby-fox]] from [[track:liquid-negrocity]], [[track:atomyk-ebonpyre]], [[track:keepers]], and [[track:eridans-theme]] (for now)
+    - removed SoundCloud close-matches, marked as original releases, for [[track:i-have-some-ideas]], [[track:blood-on-their-hands]], [[track:in-the-loop]], and [[track:love-song]] (now entered as additional names)
     - changed directory of [[track:starsetter-canmt]] from <code>starsetter</code> to <code>starsetter-canmt</code>
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
@@ -1534,7 +1535,7 @@ Content: |-
     - fixed [[artist:paige-turner]] (thanks, cookiefonster!), [[artist:carla-bravo]], [[artist:danna-vital]], [[artist:griffin-mcelroy]], [[artist:josefin-b]], [[artist:kate-holden]], [[artist:kobacat]], and [[artist:neil-cicierega]] having some artist credits under a different name
     - lyrics fixes for [[track:black]], [[track:friendship-aneurysm]], [[track:indigo-heir]], [[track: temporal-shenanigans]], [[track:austin-atlantis]], [[track:robert-jailbreak]], [[track:the-sock-ruse]] (thanks, Celeste!), [[track:kalesa-in-binondo]] (thanks, Comfy!), [[track:looking-for-a-rock]] (thanks, Cello!), [[track:today-i-put-jelly-on-this-hot-god]] (thanks, HermitCyclop!), [[track:dawn-of-man]] (thanks, Kidpen!), [[track:an-apple-disaster]] (thanks, MrCheeze!)
     - fixed [[track:spare-friendship-maam]] having incorrect artwork and [[track:purgatory-electric-daydreams]] missing its artwork
-    - fixed [[track:gay-love-song-for-four-cellos]] not being marked as the original release for [[track:love-song]]
+    - fixed Gay Love Song for Four Cellos not being marked as the original release for [[track:love-song]]
     - fixed broken media link in [[track:jane-dargason]]'s commentary (thanks, Comfy!)
     - fixed pronouns in commentary for [[track:stress]] (thanks, Comfy!)
     - [[flash:338|Dave's Phat Beat Machine]] no longer features [[track:john-do-the-windy-thing]] after the demise of Flash
