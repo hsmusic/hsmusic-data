@@ -395,6 +395,11 @@ Content: |-
     - fixed [[track:megalo-strike-back]] not referencing [[track:prologue-earthbound]] (thanks, FF, Cello!)
     - fixed [[track:a-heaven-broad-and-ochre]] not sampling [[track:scientific-method-omegalodon]] (thanks, Lilith!)
     - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
+    - various fixes for [[album:someday]] and [[album:psycholonials]]:
+        - fixed [[track:day-that-never-came]] not referencing [[track:westminster-quarters]]
+        - fixed [[track:together-psycholonials-ep-2]] not sampling [[track:someday-clark-powell]]
+        - fixed [[track:together-vocal-remix]] not sampling [[track:together-psycholonials-ep-2]] and [[track:someday-clark-powell]]
+        - added lyrics to [[track:day-that-never-came]], [[track:someday-clark-powell]], [[track:someday-astro-kid-remix]], and [[track:together-vocal-remix]]
     - fixed [[track:namco-high-be-true-to-yourself]] referencing [[track:title-theme-namco-high]], instead of the other way around (thanks, Niklink!)
     - fixed [[track:battle-music]] referencing [[track:title-theme-namco-high]] instead of [[track:namco-high-be-true-to-yourself]]
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) not referencing [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]])

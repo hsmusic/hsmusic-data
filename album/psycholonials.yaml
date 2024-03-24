@@ -67,7 +67,7 @@ URLs:
 ---
 Track: Together
 Directory: together-psycholonials
-Originally Released As: Day That Never Came
+Originally Released As: track:together-psycholonials-ep-2
 Duration: '2:04'
 URLs:
 - https://psycholonials.bandcamp.com/track/together-2
@@ -346,10 +346,31 @@ URLs:
 Section: Bonus tracks
 ---
 Track: 'Together: Vocal Remix'
-Originally Released As: track:someday-clark-powell
 Duration: '2:56'
+Sampled Tracks:
+- track:together-psycholonials-ep-2
+- track:someday-clark-powell
 URLs:
 - https://open.spotify.com/track/37viwKrZf0k5atmUR40D30
+Review Points:
+- Date Recorded: March 24, 2024
+  Field: Sampled Tracks
+  Reference Discussions:
+  - Date: March 24, 2024
+    Annotation: "#music-discussion"
+    URL: https://discord.com/channels/749042497610842152/749067042250031214/1221525842098655272
+Lyrics: |-
+    Someday, we'll be together  <!-- 2:04 -->
+    Oh yeah, oh yeah (mmmm)
+
+    Someday, we'll be together
+    Oh yes, we will (mmmm)
+
+    Someday, we'll be together
+    Oh yeah, oh yeah (mmmm)
+
+    Someday, we'll be together
+    Oh yes, we will (mmmm)
 Commentary: |-
     <i>Clark Powell:</i> ([Twitter](https://twitter.com/barkbarkclark/status/1544760860534460416), 7/6/2022)
 
@@ -357,4 +378,4 @@ Commentary: |-
 
     [(link to album)](https://psycholonials.bandcamp.com/album/psycholonials)
 
-    it's the second time in my career i snuck [[track:westminster-chimes|"westminster chimes"]] into a song just because my blood seethes with evil and i love clocks
+    it's the second time in my career i snuck [[track:westminster-quarters|"westminster chimes"]] into a song just because my blood seethes with evil and i love clocks
