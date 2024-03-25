@@ -437,6 +437,7 @@ Content: |-
     - fixed [[track:before-the-story]] ([[album:undertale-soundtrack]]) being listed as a rerelease of [[track:before-the-story-ch1]] ([[album:deltarune-ch1-ost]]), instead of the other way around
     - fixed [[track:ephemeral-muse-final-remix-psycholonials]] not being listed as a rerelease of [[track:ephemeral-muse-final-remix]] (thanks, Lilith!)
     - fixed [[track:flare-with-vocals]] being duplicated in [[album:more-homestuck-fandom]] (as "Flare (horizon's lyricover)"), and tidied this track's lyrics (thanks, Jebb, vriska/leo!)
+    - fixed [[album:hiveswap-act-2-ost]] being named "Hiveswap Act 2 OST" (thanks, Niklink!)
     - fixed [[track:empirical]] being named "--Emperical" (thanks, Rosetta Leijonde!)
     - fixed [[track:do-anbroids-dream-of]] being named "Do Androids Dream Of…?" (was "Androids", now "Anbroids"; thanks, Lilith, Grace!)
     - fixed [[track:squiddles-op-1-supercrush-guitar]] being named "Squiddles OP1: Supercrush Guitar!" (missing space in "OP 1"; thanks, Lilith, Grace!)
@@ -592,6 +593,7 @@ Content: |-
     - removed release date details from [[track:penumbra-phantasm-morris]] (until addressing individual-track release dates more broadly)
     - removed MIDIs by [[artist:toby-fox]] from [[track:liquid-negrocity]], [[track:atomyk-ebonpyre]], [[track:keepers]], and [[track:eridans-theme]] (for now)
     - removed SoundCloud close-matches, marked as original releases, for [[track:i-have-some-ideas]], [[track:blood-on-their-hands]], [[track:in-the-loop]], and [[track:love-song]] (now entered as additional names)
+    - removed SoundCloud original releases for [[track:studio-space]] and [[track:homestead]] (now entered as additional names)
     - changed directory of [[track:starsetter-canmt]] from <code>starsetter</code> to <code>starsetter-canmt</code>
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
@@ -1152,9 +1154,9 @@ Content: |-
     - removed full album listening link for [[album:alternia]] due to missing bonus tracks
     - replaced "smart" quotation marks and apostraphes (&#147;like these&#148; &#145;and these&#146;) as well as ellipses with portable ASCII characters, mostly throughout commentary
     - changed a few track fields to handle re-releases more consistently
-        - switched the re-release directions of [[track:charuns-cave]] and [[track:studio-space]], and of [[track:beekeeper-who-i-dont-know-her]] and [[track:homestead]]
-        - moved commentary on [[track:beekeeper-who-i-dont-know-her]] over to [[track:homestead]], and annotated where it originates from
-        - added rerelease context in commentary for [[track:charuns-cave]] and [[track:beekeeper-who-i-dont-know-her]]
+        - switched the re-release directions of "Charun's Cave" and [[track:studio-space]], and of "beekeeper who? i dont know her." and [[track:homestead]]
+        - moved commentary on "beekeeper who? i dont know her." over to [[track:homestead]], and annotated where it originates from
+        - added rerelease context in commentary for "Charun's Cave" and "beekeeper who? i dont know her."
         - changed [[lame and old webcomic voluem 10 (MEGA MILX)]] to sample [[track:of-gods-and-witches]] (from [[album:songs-unsung]]) instead of [[track:of-gods-and-witches-vol-10]] (from [[album:homestuck-vol-10]])
         - changed [[track:ephemeral-muse-final-remix]] to reference [[track:harrigan-we-are-all-satellites]] instead of [[track:ephemeral-muse]]
     <h3>data fixes</h3>
