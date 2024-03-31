@@ -320,6 +320,30 @@ URLs:
 Referenced Tracks:
 - WELCOME TO THE CITY
 ---
+Track: Crystalline
+Directory: crystalline-soluslunes
+Always Reference By Directory: true
+Artists:
+- SolusLunes
+Duration: '1:05'
+URLs:
+- https://www.newgrounds.com/audio/listen/77781
+Commentary: |-
+    <i>SolusLunes:</i> ([Newgrounds description](https://www.newgrounds.com/audio/listen/77781))
+    Ambient, discovery -ish music loop. Imagine you're seeing the universe born...
+---
+Track: Crystalline Shards
+Artists:
+- SolusLunes
+Duration: '4:14'
+URLs:
+- https://www.newgrounds.com/audio/listen/79451
+Referenced Tracks:
+- track:crystalline-soluslunes
+Commentary: |-
+    <i>SolusLunes:</i> ([Newgrounds description](https://www.newgrounds.com/audio/listen/79451))
+    Longer, more crystally. Tempo tricks, instrumentation at its best. Apocalyptic feeling too
+---
 Track: Emmy
 Artists:
 - Circlejourney
@@ -25344,6 +25368,15 @@ Lyrics: |-
     Let me take you to flavortown
     Let me take you to flavortown
     Oh let me take ya, oh let me take you to flavortown
+---
+Track: Happiness
+Directory: happiness-dj-splatta
+Always Reference By Directory: true
+Artists:
+- Dj Splatta
+Duration: '2:04'
+URLs:
+- https://www.youtube.com/watch?v=oW55rfa0XMU
 ---
 Track: Happy Happy Christmas
 # Also known as 'it is a mystery'
