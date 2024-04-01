@@ -5264,20 +5264,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=vMhMck1Uwms
 ---
-Track: Last Battle (VS Rival)
-# JP: ラストバトル（ＶＳライバル）
-# Official release:
-#   GB Pokémon Complete Sound CD
-#   ゲームボーイ『ポケモン』のサウンドがまるごと入って、遊べるCD
-# Reference:
-#   https://vgmdb.net/album/141
-Artists:
-- artist:pokemon
-- Junichi Masuda
-Duration: '2:30'
-URLs:
-- https://www.youtube.com/watch?v=5I3Cm9necF0
----
 Track: Layton's Theme
 # JP: レイトン教授のテーマ
 # Official release:
@@ -8827,7 +8813,10 @@ URLs:
 - https://www.youtube.com/watch?v=_K9-SwNBMSY
 ---
 Track: Welcome, Me
-# Most often known as "Welcome Home" but for some reason in the official release it's titled differently.
+Additional Names:
+- ウェルカムぼく (Japanese name)
+- Welcome Self (Wikipedia translation)
+- Welcome Home (Starmen.net translation)
 # JP: ウェルカムぼく
 # Official release:
 #   マザー2 ギーグの逆襲
@@ -8840,6 +8829,9 @@ Artists:
 Duration: '0:55'
 URLs:
 - https://youtu.be/7TNIAxPPr0A
+Commentary: |-
+    <i>Niklink:</i> (wiki editor)
+    Title is VGMdb's translation of its original Japanese title, as there is no official English translation. The track is a movement of the 'Magicant' medley on the international 2016 vinyl release.
 ---
 Track: We Were a Small But Peaceful Community
 # "This was town music from "Me and Myself, Like the Sun and the Moon".
@@ -12741,14 +12733,6 @@ Lyrics: |-
 
     Now, let's all agree
     To never be creative again
----
-Track: The Good, the Bad and the Ugly
-Artists:
-- The Good, the Bad and the Ugly
-- Ennio Morricone
-Duration: '2:45'
-URLs:
-- https://www.youtube.com/watch?v=bBixD-rTB_c
 ---
 Track: The Nutshack Intro
 Artists:
@@ -42191,8 +42175,8 @@ Referenced Tracks:
 # "Vivid Memories turn to Fantasies" is an earlier song where Neil sentence mixes a Will Smith movie tie-in song and adds an original instrumental, that one has a lot more Bees. -rosetta
 Sampled Tracks:
 - All Star
-- track:wild-wild-west
 - Steve Miller Band's "The Joker"
+- track:wild-wild-west
 - Kid Rock's "Cowboy"
 - Jamiroquai's "The Kids"
 Lyrics: |-

@@ -177,7 +177,8 @@ Content: |-
     - added working titles for [[track:blue-atom]] and [[track:cyan-beast]] (thanks, Niklink!)
     - added original names across tracks by [[artist:jebb]] (mostly [[album:lofam5a2]]), plus some more in [[album:sunday-night-strifin-act-1-plus-2-ost]] (thanks, Jebb!)
     - added internal and alternate names, plus historical commentary, for [[track:roblox-death-sound]] (thanks, Rosetta Leijonde!)
-    - added original name and literal transiation for [[track:xmas-i-dont-know-such-a-thing]] (thanks, Rosetta Leijonde!)
+    - added original name and literal translation for [[track:xmas-i-dont-know-such-a-thing]] (thanks, Rosetta Leijonde!)
+    - added original name and alternate translations for [[track:welcome-me]]
     - added original and alternate names for [[track:chorale-for-war]], [[track:havoc]], [[track:john-do-the-windy-thing]], [[track:apexhalation]], [[track:the-new-crew]], [[track:heir-of-grief-8-bit]], [[track:myststuck-suite-full-version]], [[track:heel-girl]], [[track:heel-girl-beta]], [[track:woman-i-never-met]], [[track:puzzle-i-never-solved]] (thanks, Lilith!)
     - added original and alternate names for [[track:sarabande-vol5]], [[track:galactic-cancer]], [[track:unite-synchronization]]
     - added original and alternate names for [[track:beginnings-press-start-to-play]], [[track:joker-strife]], [[track:prince-of-seas]], [[track:the-hymn-of-making-babies]], [[track:corpse-casanova]], [[track:growing-up]], [[track:rabbunctious]], [[track:unforgiving-terrain]] [[track:till-the-last-breath]], [[track:fighting-spirit-second-form]], [[track:ave-dei-novi]], [[track:dance-of-viridian-and-violet]], [[track:oh-hi-there-lil-cal]], [[track:sign-of-the-scorpion]], [[track:aqueous-armagourddon]], [[track:retrobution-ohgodwhy-remix]], [[track:explore-keygen-mix]], [[track:airtime-assault]], [[track:the-sin-and-the-salvation]], [[track:raise-of-the-conductors-baton]], [[track:friends-to-the-end]], [[track:what-was-yall-thinking]], [[track:spritely-gardener-lofam5]], [[track:battle-with-a-legendary-fiduspawn]], [[track:grave-of-the-fireflies]]
@@ -312,6 +313,7 @@ Content: |-
     - added commentary from [[artist:isorakathed-zorethan-f]] (email) to [[track:maibasojen]]
     - added commentary from [[artist:clark-powell]] (Twitter) to [[album:we-are-all-satellites]], [[album:labyrinths-heart]], [[track:together-vocal-remix]], [[album:after-party-animal-ep]]
     - added commentary from [[artist:aysha-u-farah]] (Twitter) to [[track:embittered-shore]]
+    - added commentary from [[artist:psithurist]] (SoundCloud) to [[track:the-sin-and-the-salvation]]
     - added commentary from [[artist:toby-fox]] (collector's edition sheet music booklet) to [[track:once-upon-a-time]], [[track:fallen-down-undertale]], [[track:nyeh-heh-heh]], [[track:snowdin-town]], [[track:memory-undertale]], and [[track:hopes-and-dreams]] (thanks, vriska/leo, Autumn!)
     - added commentary from [[artist:toby-fox]] (Tumblr) to [[track:undertale]] (thanks, vriska/leo!)
     - added commentary from [[artist:wheals]] (SoundCloud) to [[track:step-back-doors-closing-step-back-to-allow-the-doors-to-close]] (thanks, Rosetta Leijonde!)
@@ -412,6 +414,10 @@ Content: |-
     - fixed [[track:penumbral-awakening]] directly referencing [[track:pseudumbra-phauxtasm]], and directly sampling [[track:typheus]] instead of [[track:penumbra-phantasm-morris]] (thanks, Morris, Rosetta Leijonde!)
     - fixed [[track:caliborns-lament]] referencing [[track:ophiuchus-full-suite]] instead of [[track:spirals-including-illusions-of-freedom]], not sampling [[track:welcome-to-hell]], and placing [[track:carne-vale]] and [[track:the-rarest-and-most-interpretive-dance-meatcabre]] in the wrong spots (thanks, Grace, Jebb!)
     - fixed [[track:home-stuck]] not sampling [[track:home]] and [[track:stuck]] (thanks, Makin!)
+    - fixed [[track:flickwave]] not sampling [[track:flicker-porter-robinson]] (thanks, Rosetta Leijonde!)
+    - fixed [[track:le-psyrival]] not sampling [[track:gentleman-psy]] (thanks, Niklink!)
+    - fixed [[track:cognito-hazard]] not sampling [[track:dr-robotniks-theme-adventures-of-sonic-the-hedgehog]] (thanks, Niklink!)
+    - fixed [[track:analemma]] not referencing [[track:replica-oneohtrix-point-never]] (thanks, Niklink!)
     - fixed [[track:playtime-sunday-night-strifin]] not sampling [[track:oh-shit-for-msx]] (thanks, FF!)
     - fixed [[track:broseph-bash]] not referencing [[track:chop-suey-but-everything-is-a-table]] nor sampling [[track:vinesauce-joel-insane-mario-bootleg-games-part-1]] (thanks, Jebb!)
     - fixed many [[group:oceanfalls]] references: (thanks, leii!!)
@@ -447,7 +453,6 @@ Content: |-
     - fixed [[track:beginning-deltarune]], [[track:school-deltarune]], [[track:field-of-hopes-and-dreams]], [[track:scarlet-forest]], [[track:the-world-revolving]], [[track:friendship-deltarune]], [[track:your-power]], [[track:a-town-called-hometown]], and [[track:you-can-always-come-home]] referencing [[track:dont-forget]] instead of [[track:game-main-theme-piano-sketch]] (thanks, Morris!)
     - fixed [[track:dont-forget]] not referencing [[track:game-main-theme-piano-sketch]], and updated its credits accordingly (thanks, Morris!)
     - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, Morris!)
-    - fixed [[track:megalovania-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing [[track:megalovania-halloween]] ([[album:earthbound-halloween-hack]]) instead of [[track:megalovania-undertale]] ([[album:undertale-soundtrack]]), not sampling the same track, and not referencing [[track:heartache]] and [[track:bonetrousle]] (thanks, Morris, Rosetta Leijonde!)
     - fixed [[track:heart-of-the-land]] not referencing [[track:daughter-desynced]]
     - fixed [[track:chat-desynced]] not referencing [[track:winds-of-change]] and [[track:light-of-the-sun]]
     - fixed [[track:bloodstained-camellias]] not sampling [[track:amen-brother]]
@@ -482,7 +487,6 @@ Content: |-
     - fixed [[track:bloody-tears-roads-by-day-bgm]] being named "Bloody Tears" (thanks, Morris!)
     - fixed [[track:boss-battle-pokemon-typing-adventure]] being named "Boss Battle" only (thanks, Rosetta Leijonde!)
     - fixed [[track:cosmic-eternity-believe-in-yourself]] being named "Cosmic Eternity ~ Believe in Yourself" (tilde instead of dash; thanks, Morris!)
-    - fixed [[track:egg-reverie-egg-reverie-zone]] being named "Egg Reverie (Egg Reverie Zone)" (thanks, Morris!)
     - fixed [[track:hydro-city-zone-act-2]] being named "Hydrocity Zone (Act 2)" (thanks, Morris!)
     - fixed [[track:lights-camera-action-studiopolis-zone-act-1]] being named "Lights, Camera, Action! (Studiopolis Zone Act 1)" (thanks, Morris!)
     - fixed [[track:main-theme-the-legend-of-zelda-breath-of-the-wild]] being named "Breath of the Wild Theme" (thanks, Morris!)
@@ -526,6 +530,7 @@ Content: |-
     - fixed [[track:hollowed-halls]] not being tagged [[tag:sis-oceanfalls]]
     - fixed [[track:emblems-of-a-magnum-opus]] not being tagged [[tag:sis-oceanfalls]]
     - fixed [[track:cinq]] not being tagged [[tag:ludwig-oceanfalls]] and [[tag:boyfriend-oceanfalls]]
+    - fixed [[album:placelocked-demo]] being tagged [[tag:skaia]] (thanks, Jebb!)
     - added content warnings to many images in content/commentary, including in [[track:sarabande-vol5]], [[track:walls-covered-in-blood]], [[track:death-of-the-lusii]], [[track:bl1nd-just1c3-1nv3st1g4t1on]], [[track:darling-kanaya]], [[track:requiem-of-sunshine-and-rainbows]], [[track:blackest-heart-with-honks]], [[track:killed-by-br8k-spider]], [[track:catapult-capuchin]], [[track:a-fairy-battle]], [[track:the-blind-prophet]], [[track:noirscape]], [[track:eternity-served-cold]], [[track:light-burns-out-gestalt]], [[track:death-of-swet-bro]]
     - fixed [[flash:1940]] not featuring [[track:squiddles]] and [[track:friendship-aneurysm]] (thanks, Pyryte!)
     - fixed [[flash:pq-vol6]] not featuring [[track:midnight-calliope-pesterquest]]
@@ -635,6 +640,7 @@ Content: |-
     - removed MIDIs by [[artist:toby-fox]] from [[track:liquid-negrocity]], [[track:atomyk-ebonpyre]], [[track:keepers]], and [[track:eridans-theme]] (for now)
     - removed SoundCloud close-matches, marked as original releases, for [[track:i-have-some-ideas]], [[track:blood-on-their-hands]], [[track:in-the-loop]], and [[track:love-song]] (now entered as additional names)
     - removed SoundCloud original releases for [[track:studio-space]] and [[track:homestead]] (now entered as additional names)
+    - removed 'Last Battle (VS Rival)', 'The Good, the Bad and the Ugly' from [[album:references-beyond-homestuck]] which were not being used anywhere on the wiki
     - changed directory of [[track:starsetter-canmt]] from <code>starsetter</code> to <code>starsetter-canmt</code>
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
     - changed directory of [[track:revelations-vast-error]] from <code>revelations-bonus</code> to <code>revelations-vast-error</code>
