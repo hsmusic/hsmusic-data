@@ -1,4 +1,5 @@
 Album: The Strider Mixtape
+Directory: the-strider-mixtape
 Artists:
 - Pascal van den Bos
 Date: July 19, 2019
@@ -7,14 +8,26 @@ URLs:
 - https://www.youtube.com/playlist?list=PLtcgklmZsk9Ac7DKm_Z36R64b8u1xW2q5
 Cover Artists: 
 - Phos
-Color: '#efa662'
+Art Tags:
+- Dave
+- Dirk
+Color: '#fc430c'
 Groups:
 - The Paradox Music Team
 - Fandom
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://pascalpotatovandenbos.bandcamp.com/album/the-strider-mixtape))
 
+    From sweet chill Lo-Fi beats to kickin’ rad 16-Bit CARNAGE, The Strider Mixtape has it all! 14 tracks based on all your favorite Striders, a PDF with commentary from [[artist:pascal-van-den-bos]] AND an extra bonus track at the end!
+
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/album/the-strider-mixtape))
+
+    Music by: [[artist:pascal-van-den-bos]]
+
+    Art by: [[artist:phos|Maria Panaiotti]]
+
+    Album mastering by: [[artist:spad3s]]
+
 Additional Files:
 - Title: Album Booklet
   Files:
@@ -23,13 +36,25 @@ Additional Files:
 Section: Main album
 ---
 Track: New Ironic Depths
+Art Tags:
+- Dave
 Duration: '3:52'
+Color: '#e00707'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/new-ironic-depths
 - https://www.youtube.com/watch?v=KuCsCoOFzNU
+Referenced Tracks:
+- Coolkid
+Commentary: |-
+    <i>Pascal van den Bos:</i> (booklet commentary)
+
+    I wanted to try to make a dubstep song for Dave since he was originally supposed to be an EDM producer before everyone started making hip hop songs for him. I had never made a dubstep song before, or anything like this for that matter so it was quite a challenge. I also wanted to reference [[track:coolkid]] by [[artist:haunter]] from [[album:coloUrs-and-mayhem-universe-b|colours and mayhem universe b]] since I think it's an awesome song and i haven't seen it referenced anywhere yet.
 ---
 Track: Blankest Stare
+Art Tags:
+- Lil Cal
 Duration: '3:06'
+Color: '#2ed73a'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/blankest-stare
 - https://www.youtube.com/watch?v=ntC2C2cp2yc
@@ -39,18 +64,46 @@ Commentary: |-
     I started this with the idea of a Kurloz song in mind but i later realized i didnt need a kurloz song as much as i needed a Cal song, why was i making a Kurloz song? no idea! Either way i had only written the piano and some heartbeats when i decided to make this a song for Cal. I used a lot of samples from the game WarioWare D.I.Y since they all sound very wacky and sometimes eerie, perfect for cal lol. I also used the SOM chants that were used in versus to represent Cal's voice.
 ---
 Track: The Remains of the Rambunctious Crow
+Art Tags:
+- Dave's bro
+Duration: '2:01'
+Color: '#f2a400'
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/the-remains-of-the-rambunctious-crow
+- https://www.youtube.com/watch?v=4gmwjz8Yrk8
+Referenced Tracks:
+- Versus
+Commentary: |-
+    <i>Pascal van den Bos:</i> (booklet commentary)
+
+    One day i was trying to recreate [[track:versus]] by [[artist:toby-fox]]. I got some of the start and then i just gave up and decided to remix the song as a theme for Dave's bro. I used some crow sound effects because there are always plenty of unwanted crows around where Dave and Bro live, and i used some disk scratches here and there for max coolness.
 ---
 Track: Mr. Orange Creamsicles
-Duration: ' :  '
+Contributors:
+- Erik Scheele (project file)
+#unsure about if being the one who still had the project file counts as contributing, but it probably does
+Art Tags:
+- Davesprite
+Duration: '1:55'
+Color: '#f2a400'
 URLs:
--
--
+- https://pascalpotatovandenbos.bandcamp.com/track/mr-orange-creamsicles
+- https://www.youtube.com/watch?v=rl7g7apoDqY
 Referenced Tracks:
 - Davesprite2
 - Temporal Virtuoso
+Commentary: |-
+    <i>Pascal van den Bos:</i> (booklet commentary)
+
+    Ever since i heard [[track:davesprite2|Davesprite 2]] for the first time i've wanted to remix it in some way. When i had to make the song for Davesprite on this album i knew what i wanted to do, so i sent [[artist:erik-scheele]] a message on Twitter asking if he still had the project file for Davesprite 2, and he did! With this song i basically tried to make a finished version of Davesprite 2 while throwing in some stuff of my own like the [[track:temporal-virtuoso]] reference.
 ---
 Track: Heart Beat
+Art Tags:
+- Dirk
+- Lil Cal
+- Earth
 Duration: '2:49'
+Color: '#f2a400'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/heart-beat
 - https://www.youtube.com/watch?v=Wj_gN138rd4
@@ -75,19 +128,29 @@ Commentary: |-
 Track: Brobot Scrimmage
 Contributors:
 - Funk McLovin (trumpets)
+Art Tags:
+- Dirk
+- Jake
+- Earth
+- Frog Temple
 Duration: '2:16'
+Color: '#f2a400'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/brobot-scrimmage
 - https://www.youtube.com/watch?v=SlBic0tJpok
 Referenced Tracks:
-- track:heir-of-grief-collide
+- track:heir-of-grief
 Commentary: |-
     <i>Pascal van den Bos:</i> (composer, booklet commentary)
     
     So i was watching some old Pokemon movies and i got a bit inspired by the music in said old Pokemon movies, i wanted to make a part orchestral piece for the epic Brobot battle that takes place in [[flash:4572|[S] Prince of Heart: Rise Up.]] When i finished the song i posted it in the Music channel to see if anyone had feedback, when i checked back [[artist:funk-mclovin|JoJo]] had offered to play live trumpet since the horns i used were pretty trashy, so obviously i took that and now the song sounds amazing.
 ---
 Track: Good Morning, Dirk
+#Art Tags:
+#- Dirk
+#unsure cause like AR (dirk's talking shades, also known as Hal) has like, a tag as Arquiusprite, but not by himself. this is Hal.
 Duration: '2:09'
+Color: '#e00707'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/good-morning-dirk
 - https://www.youtube.com/watch?v=Tozc5YQFpW4
@@ -98,13 +161,48 @@ Commentary: |-
 ---
 Track: Shattered
 Directory: shattered-strider-mixtape
+Art Tags:
+- Dirk's bro
+- Earth
+- 'cw: blood'
+Duration: '2:03'
+Color: '#e00707'
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/shattered
+- https://www.youtube.com/watch?v=cLJnHK83mGQ
+Sampled Tracks:
+- Very Ape
+Referenced Tracks:
+- track:megalovania-halloween
+- Spider's Claw
+Commentary: |-
+    <i>Pascal van den Bos:</i> (booklet commentary)
+
+    One day i stayed up till the sun came up and i just sampled a bit from a [[track:very-ape|Nirvana song]] and slapped the base for this song together. I finished the rest later when i wasnt half asleep. I wanted it to be a very powerful sounding song for Dirk's epic mysterious bro who kills juggalo's for a living, i think i got that down pretty well so i just threw some random references in it too cause i felt it was a little empty.
 ---
-Track: Waveform Showdown
+Track: Waveform Showdown!
+Art Tags:
+- Squarewave
+- Sawtooth
+Duration: '1:26'
+Color: '#a7a7a7'
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/waveform-showdown
+- https://www.youtube.com/watch?v=lFTxVrRPAes
+Commentary: |-
+    <i>Pascal van den Bos:</i> (booklet commentary)
+
+    With this song the 2 leads (which are a square and a saw instrument) are supposed to be Sawtooth and Squarewave singing/rapping over the beat. It's kind of like a rap battle between the two. This song is also very inspired by Sonic music, lol. This song is probably also cursed because it crashed 3 times forcing me to recreate it by ear from the last wip i exported, so it almost didn't exist.<br>
+    But of course us over at [[group:paradox-music-team|PMT]] have the most epic DETERMINATION B)
 ---
 Track: Jittery Optimist
+Art Tags:
+- Davepeta
 Duration: '2:13'
+Color: '#4ac925'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/jittery-optimist
+- https://www.youtube.com/watch?v=Iob2jQgiY4I
 Sampled Tracks:
 - them meows
 Commentary: |-
@@ -112,19 +210,69 @@ Commentary: |-
     
     Dave already produced music before he became Davepetasprite^2 or even Davesprite, so with this song i tried to make something that Davepetasprite^2 would make. A song with influences from Dave and Nepeta, that means lots of MarioPaint but PHAT MarioPaint.
 ---
-Track: To Die a Legend
+Track: To Die A Legend
+Art Tags:
+- Davesprite
+- Dave's bro
+- Jack Noir
+- 'cw: blood'
+- 'cw: corpse'
+Duration: '3:08'
+Color: '#f2a400'
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/to-die-a-legend
+- https://www.youtube.com/watch?v=8963O41BxwI
+Commentary: |-
+    <i>Pascal van den Bos:</i> (booklet commentary)
+
+    This is a song i made about a year ago, i later remixed it into a theme for a planet in a fansession and then recently into a theme for Jack. But this is the original version. I tried to make a song that was upbeat and kinda sad and slow too, perfect fit for the [[flash:4109|battle vs. Bec when Bro died]], so that's what i decided to clean it up and use it for.
 ---
 Track: Infinity Beatdown
+Art Tags:
+- Dave
+- Dave's bro
+- Lil Cal
+- Earth
+Duration: '3:05'
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/infinity-beatdown
+- https://www.youtube.com/watch?v=4P_bhfQXBUk
+Sampled Tracks:
+- Upward Movement (Dave Owns)
+Referenced Tracks:
+- Versus
+- Beatdown (Strider Style)
+Commentary: |-
+    <i>Pascal van den Bos:</i> (booklet commentary)
+
+    This was originally made for a Homestuck fighting game, it was meant to play on the Strider stage.<br>
+    But since then not much has happened with that project, so i decided to clean up the song and use it for this album. It's a remix of [[track:versus]] with some [[track:beatdown-strider-style|other stuff]] in there.
 ---
 Track: Gamebro (1989 Hip-Hop Mix)
+Duration: '2:18'
+Color: '#e00707'
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/gamebro-1989-hip-hop-mix
+- https://www.youtube.com/watch?v=m6nUcvRAqV0
+Referenced Tracks:
+- GameBro (Original 1990 Mix)
+Commentary: |-
+    <i>Pascal van den Bos:</i> (booklet commentary)
+
+    I wanted this to be like a shitty remix of the [[track:gamebro-original-1990-mix|GameBro theme]] made by Dave in his bedroom, shitty mic and all. I also hate recording vocals for things now because this took a while and it still sounds horrible lmao.
+#Lyrics: |-
 ---
 Track: Rematch
 Directory: rematch-strider-mixtape
-Always Reference By Directory: true
+Art Tags:
+- Dave
+- Dirk
 Duration: '2:15'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/rematch
 - https://www.youtube.com/watch?v=V3MhvkhUXz8
+Referenced Tracks:
+- Versus
 Commentary: |-
     <i>Pascal van den Bos:</i> (booklet commentary)
     
@@ -146,3 +294,5 @@ Commentary: |-
     <i>Pascal van den Bos:</i> (booklet commentary)
     
     Meme.
+#Lyrics: |-
+#doing this to say there are lyrics for both this and Gamebro (1989 Hip-Hop Mix) but I don't feel like doing them right now
