@@ -6,20 +6,18 @@ Artists:
 Date: February 27, 2024
 ## https://vgmdb.net/album/134816
 Date Added: 
-#URLs:
-#- https://tobyfox.bandcamp.com/album/deltarune-chapter-2-ost
+URLs:
+- https://www.youtube.com/playlist?list=PLjjzf1NYDNrlrtLn41YRK1uPjQZl8GnvX
 Cover Artists:
 - Toshiyuki Takahashi
 - Hiromi Yasuda
 - Momoko Fukuda
 - 上野愛恵 ##can't find who this is lol
 Cover Art File Extension: png
-Color: '#fef105'
+Color: '#f8ce00'
 Groups:
 - Toby Fox
 - Beyond
-##Wallpaper Artists:
-##- Toby Fox
 Wallpaper Style: |-
     image-rendering: pixelated;
     image-rendering: crisp-edges;
@@ -37,8 +35,8 @@ Track: Welcome to the Paldea region!
 Duration: '2:13'
 Artists:
 - Minako Adachi
-##URLs:
-##- 
+URLs:
+- https://www.youtube.com/watch?v=AAvmwUAXHPg
 Referenced Tracks:
 - The Academy
 ---
@@ -46,6 +44,8 @@ Track: Soar Through the Paldea Skies
 Duration: '1:15'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=o9RvTeIJEHY
 Referenced Tracks:
 - The Academy
 ---
@@ -56,11 +56,15 @@ Artists:
 - Minako Adachi (arranger)
 Contributors:
 - Junichi Masuda (composer)
+URLs:
+- https://www.youtube.com/watch?v=aWfJUCakY5g
 ---
 Track: Cabo Poco
 Duration: '1:56'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=PecTxPc6ymA
 Referenced Tracks:
 - track:home-pokemon-scarlet-violet
 ---
@@ -68,6 +72,8 @@ Track: Meetings
 Duration: '1:05'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=0M_rCy2fgVA
 Referenced Tracks:
 - The Academy
 ---
@@ -75,17 +81,23 @@ Track: Let's Try to Get Stronger!
 Duration: '1:25'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=dnriCo9MkCk
 ---
 Track: Battle! (Nemona)
 Duration: '2:12'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=-BQBo66ir_Y
 ---
 Track: Obtained a Key Item!
 Directory: obtained-a-key-item-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=h3M322QWZC4
 Referenced Tracks:
 - Obtained a Pokémon (Pokémon Red / Pokémon Blue)
 ---
@@ -93,6 +105,8 @@ Track: Poco Path
 Duration: '2:19'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=2Q1iwx6vEjs
 Referenced Tracks:
 - Cabo Poco
 ---
@@ -100,23 +114,29 @@ Track: Battle! (Wild Pokémon)
 Directory: battle-wild-pokemon-pokemon-scarlet-violet
 Duration: '2:50'
 Artists:
-- Minako Adachi
-Referenced Tracks:
-- Poco Path
+- Minako Adachi (arranger)
+Contributors:
+- Junichi Masuda (composer)
+URLs:
+- https://www.youtube.com/watch?v=S0bz0QVZ3j0
 ---
 Track: Victory! (Wild Pokémon)
 Directory: victory-wild-pokemon-pokemon-scarlet-violet
 Duration: '0:05'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=dcLywOLQ5Hc
 Referenced Tracks:
-- Battle! (Wild Pokémon)
+- track:battle-wild-pokemon-pokemon-scarlet-violet
 ---
 Track: Obtained a Berry!
 Directory: obtained-a-berry-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=YzwBuNUVdWE
 Referenced Tracks:
 - Obtained a Berry! (Pokémon Ruby / Pokémon Sapphire)
 ---
@@ -126,11 +146,15 @@ Artists:
 - Hitomi Sato (arranger)
 Contributors:
 - Junichi Masuda (composer)
+URLs:
+- https://www.youtube.com/watch?v=-JQYrOnpyr4
 ---
 Track: On the Beach
 Duration: '0:31'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=7_oKN0bCOAA
 Referenced Tracks:
 - Soar Through the Paldea Skies
 - The Academy
@@ -139,11 +163,15 @@ Track: Go Through the Cave in the Cove
 Duration: '2:36'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=5PD1mgon5Ww
 ---
 Track: Battle in the Cave
 Duration: '2:36'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=Tnfvi_mRV1g
 Referenced Tracks:
 - Go Through the Cave in the Cove
 ---
@@ -151,6 +179,8 @@ Track: Escape from the Cave!
 Duration: '1:26'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=oCWH7PrfmBs
 Referenced Tracks:
 - Go Through the Cave in the Cove
 - South Province
@@ -159,16 +189,22 @@ Track: It's a Test of Strength!
 Duration: '1:21'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=uW9OajNcEfU
 ---
 Track: Battle! (Arven)
 Duration: '3:22'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=13jWvUj6w_c
 ---
 Track: South Province
 Duration: '3:13'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=E-4LC1eKpU8
 Referenced Tracks:
 - The Academy
 ---
@@ -177,6 +213,8 @@ Directory: battle-wild-pokemon-in-the-south
 Duration: '2:47'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=PpcjibxY15Q
 Referenced Tracks:
 - South Province
 ---
@@ -185,6 +223,8 @@ Directory: you-caught-a-pokemon-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=Qd8Fce4vGSo
 Referenced Tracks:
 - Pokémon Caught (Pokémon Red / Pokémon Blue)
 ---
@@ -193,6 +233,8 @@ Directory: pokemon-center-pokemon-scarlet-violet
 Duration: '2:43'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=WMhh1t4tYpY
 Referenced Tracks:
 - Pokémon Center (Pokémon Red / Pokémon Blue)
 ---
@@ -201,6 +243,8 @@ Directory: recovery-pokemon-scarlet-violet
 Duration: '0:06'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=6mhdhfG6bTI
 Referenced Tracks:
 - Recovery (Pokémon Red / Pokémon Blue)
 ---
@@ -208,11 +252,15 @@ Track: Happy Birthday!
 Duration: '0:11'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=bhnK60Xi-AQ
 ---
 Track: Los Platos
 Duration: '2:54'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=zr0CHjVGlcI
 Referenced Tracks:
 - South Province
 ---
@@ -220,6 +268,8 @@ Track: Walk Through the South Province
 Duration: '2:54'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=GbCCz5-ICVE
 Referenced Tracks:
 - South Province
 ---
@@ -227,6 +277,8 @@ Track: Mesagoza
 Duration: '2:30'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=l5aSWOc0WZw
 Referenced Tracks:
 - The Academy
 ---
@@ -234,6 +286,8 @@ Track: One Song in Mesagoza, If You Please
 Duration: '2:30'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=OjGdj8C8PFs
 Referenced Tracks:
 - The Academy
 ---
@@ -241,11 +295,15 @@ Track: Team Star!
 Duration: '1:48'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=U0lOYIkL5ro
 ---
 Track: Battle! (Team Star)
 Duration: '3:55'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=naCymfMaRdU
 Referenced Tracks:
 - Team Star!
 ---
@@ -255,6 +313,8 @@ Artists:
 - Minako Adachi (arranger)
 Contributors:
 - Toby Fox (composer)
+URLs:
+- https://www.youtube.com/watch?v=ruTH9Whn0QI
 Commentary: |-
     <i>Toby Fox:</i> (UNDERTALE / DELTARUNE NEWSLETTER - ISSUE 1 (Winter Season), excerpt)
     I also composed a majestic theme melody for the song "Academy". Surprisingly, this ended up used as a field theme for the whole game! Though, all songs using the melody were made by other amazing composers. (I love [[track:one-song-in-mesagoza-if-you-please|the soft piano version]] that plays at night.) Anyhow, that's all I did!
@@ -263,23 +323,32 @@ Track: Phone Call from Cassiopeia
 Duration: '1:28'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=0LCPwH3iNpc
 ---
 Track: Professor Sada / Professor Turo
 Duration: '1:27'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=ClHYHd6f-DI
 ---
 Track: The Academy - Your Room
 Duration: '2:30'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=ruTH9Whn0QI
 Referenced Tracks:
 - The Academy
 ---
 Track: Take a Break
+Directory: take-a-break-pokemon-scarlet-violet
 Duration: '0:06'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=jcXDSddMoC8
 Referenced Tracks:
 - Pokémon Healed (Pokémon Red / Pokémon Blue)
 ---
@@ -287,11 +356,16 @@ Track: Start the Treasure Hunt!
 Duration: '0:09'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=Fats_yOZLAs
 ---
 Track: Trainers' Eyes Meet (Trainer)
+Directory: trainers-eyes-meet-trainer-pokemon-scarlet-violet
 Duration: '0:17'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=iBF1VhqGeiU
 Referenced Tracks:
 - track:battle-trainer-battle-pokemon-scarlet-violet
 ---
@@ -302,12 +376,16 @@ Artists:
 - Minako Adachi (arranger)
 Contributors:
 - Junichi Masuda (composer)
+URLs:
+- https://www.youtube.com/watch?v=lxT27YJ1YNc
 ---
 Track: Victory! (Trainer Battle)
 Directory: victory-trainer-battle-pokemon-scarlet-violet
 Duration: '0:31'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=LrgMYHuenjQ
 Referenced Tracks:
 - track:victory-trainer-battle-pokemon-red-blue
 ---
@@ -316,6 +394,8 @@ Directory: level-up-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=joZ7BjBRt3A
 Referenced Tracks:
 - track:obtained-an-item-pokemon-red-blue
 ---
@@ -323,11 +403,15 @@ Track: Let's Make a Sandwich!
 Duration: '1:45'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=WH_WniRbq0A
 ---
 Track: Let's Eat!
 Duration: '1:45'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=BlVZE4Ml_Yw
 Referenced Tracks:
 - Let's Make a Sandwich!
 ---
@@ -335,27 +419,37 @@ Track: Meal - It's Really Tasty!
 Duration: '0:05'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=XpxZsS7j3eE
 ---
 Track: Meal - It's Pretty Tasty!
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=flva3Pq2Kuw
 ---
-Track: Meal - Not Bad
+Track: Meal - Not Bad!
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=bXw51g-FY20
 ---
 Track: Meal - It's Maybe... Not So Great
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=AG-7yxzTmns
 ---
 Track: Obtained an Egg!
 Directory: obtained-an-egg-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=34FdX-9rGa8
 Referenced Tracks:
 - Received a Pokémon Egg! (Pokémon Gold / Pokémon Silver)
 ---
@@ -364,6 +458,8 @@ Directory: evolution-pokemon-scarlet-violet
 Duration: '0:33'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=EhHlMrD_a8s
 Referenced Tracks:
 - Evolution (Pokémon Red / Pokémon Blue)
 ---
@@ -374,6 +470,8 @@ Artists:
 - Hitomi Sato (arranger)
 Contributors:
 - Junichi Masuda (composer)
+URLs:
+- https://www.youtube.com/watch?v=aYGpvpToJ-s
 ---
 Section: Disc 2
 Color: '#bc4cb4'
@@ -382,6 +480,8 @@ Track: Gym Lobby
 Duration: '1:20'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=U-F6zYY5noM
 Referenced Tracks:
 - Gym Test
 ---
@@ -389,6 +489,8 @@ Track: Gym Test
 Duration: '1:20'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=Y4FiuVCib8w
 Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
@@ -396,6 +498,8 @@ Track: You've Passed the Gym Test!
 Duration: '0:06'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=00hpt4WJdgs
 Referenced Tracks:
 - Battle! (Gym Leader) / Victory! (Gym Leader)
 ---
@@ -403,14 +507,19 @@ Track: Battle! (Gym Leader) / Victory! (Gym Leader)
 Duration: '4:29'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=ZraHu3IacTo
 Referenced Tracks:
 - Gym Test
+- Victory! (Gym Leader Battle) (Pokémon Red / Pokémon Blue)
 ---
 Track: Obtained a Gym Badge!
 Directory: obtained-a-gym-badge-pokemon-scarlet-violet
 Duration: '0:09'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=aM9_LFAmptc
 Referenced Tracks:
 - Obtained a Gym Badge (Pokémon Red / Pokémon Blue)
 ---
@@ -419,6 +528,8 @@ Directory: obtained-a-tm-pokemon-scarlet-violet
 Duration: '0:04'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=0uBhMvnBkXU
 Referenced Tracks:
 - Received a TM! (Pokémon Gold / Pokémon Silver)
 ---
@@ -426,12 +537,16 @@ Track: West Province
 Duration: '2:16'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=xsbxhr7dsd8
 ---
 Track: Battle! (Wild Pokémon in the West)
 Directory: battle-wild-pokemon-in-the-west
 Duration: '2:01'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=8OGinZuBx00
 Referenced Tracks:
 - Asado Desert
 ---
@@ -439,6 +554,8 @@ Track: Asado Desert
 Duration: '2:01'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=pKZFJqSwqos
 Referenced Tracks:
 - West Province
 ---
@@ -446,6 +563,8 @@ Track: Tera Raid Battle!
 Duration: '4:06'
 Artists:
 - Toby Fox
+URLs:
+- https://www.youtube.com/watch?v=_b7VfRAUSy4
 Referenced Tracks:
 - Battle! (Zero Lab)
 ---
@@ -453,6 +572,8 @@ Track: Victory! (Tera Raid Battle)
 Duration: '0:42'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=mK9YzsAxmB4
 Referenced Tracks:
 - Tera Raid Battle!
 ---
@@ -460,6 +581,8 @@ Track: Walk Through the Asado Desert
 Duration: '2:00'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=dQ5IPUqv82k
 Referenced Tracks:
 - Asado Desert
 ---
@@ -467,11 +590,15 @@ Track: Cascarrafa
 Duration: '3:01'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=QO3gSPTw3S4
 ---
 Track: The Gym Test's Not Over!
 Duration: '0:59'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=CBfeDr1PC98
 Referenced Tracks:
 - Guide (Pokémon Red / Pokémon Blue)
 ---
@@ -479,6 +606,8 @@ Track: Battle! (Titan)
 Duration: '2:38'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=ymlxSu9w7-U
 Referenced Tracks:
 - The Academy
 ---
@@ -486,6 +615,8 @@ Track: Confront the Titan Again
 Duration: '0:32'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=X52wYzch8NM
 Referenced Tracks:
 - Battle! (Titan)
 ---
@@ -493,6 +624,8 @@ Track: Victory! (Titan)
 Duration: '0:08'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=FBo9PJL68kw
 Referenced Tracks:
 - Battle! (Titan)
 ---
@@ -500,11 +633,15 @@ Track: Just a Moment
 Duration: '1:54'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=nBYrlquV5xw
 ---
 Track: Your Ride Ability Went Up!
 Duration: '0:05'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=e9dklOks64E
 Referenced Tracks:
 - The Academy
 ---
@@ -512,6 +649,8 @@ Track: Walk Through the West Province
 Duration: '2:00'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=4XgaI2GvNUc
 Referenced Tracks:
 - West Province
 ---
@@ -519,6 +658,8 @@ Track: Medali
 Duration: '2:01'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=ulruaxuBYps
 Referenced Tracks:
 - West Province
 ---
@@ -526,17 +667,23 @@ Track: Heartwarming Time
 Duration: '1:04'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=sbvdBu4z7L8
 ---
 Track: East Province
 Duration: '2:59'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=rVeF3Gd_-pI
 ---
 Track: Battle! (Wild Pokémon in the East)
 Directory: battle-wild-pokemon-in-the-east
 Duration: '2:41'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=0D7P9UbJu0I
 Referenced Tracks:
 - East Province
 ---
@@ -544,6 +691,8 @@ Track: Artazon
 Duration: '2:41'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=gfCs9byZTU0
 Referenced Tracks:
 - East Province
 ---
@@ -551,21 +700,29 @@ Track: Levincia
 Duration: '2:55'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=8hZpjHzWOYY
 ---
 Track: Iono Zone!
 Duration: '0:07'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=he-pD06tOeE
 ---
 Track: "'Ello, 'ello, hola! Ciao and bonjour!"
 Duration: '1:19'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=fsZ5dC4BGQs
 ---
 Track: East Province (Area Three)
 Duration: '2:41'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=dyRqQ3pnEvY
 Referenced Tracks:
 - East Province
 ---
@@ -573,6 +730,8 @@ Track: Walk Through the East Province
 Duration: '2:41'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=kGSjfopP9NU
 Referenced Tracks:
 - East Province
 ---
@@ -580,6 +739,8 @@ Track: Tagtree Thicket
 Duration: '2:41'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=86IqDjBOGo4
 Referenced Tracks:
 - East Province
 ---
@@ -587,11 +748,15 @@ Track: Right Now I'm Clive
 Duration: '0:38'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=ReF8gm-a_qs
 ---
 Track: C'mon, Let's Raid the Place!
 Duration: '0:33'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=XvsRUtIBfPk
 Referenced Tracks:
 - Team Star!
 ---
@@ -599,6 +764,8 @@ Track: Star Barrage
 Duration: '4:46'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=UHYwwJwfyz4
 Referenced Tracks:
 - Battle! (Team Star)
 ---
@@ -606,6 +773,8 @@ Track: Star Barrage Completed!
 Duration: '0:07'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=-6KBMpMTGBw
 Referenced Tracks:
 - Star Barrage
 ---
@@ -613,6 +782,8 @@ Track: Team Star Boss Appears!
 Duration: '0:52'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=TZquGVr7_Ag
 Referenced Tracks:
 - Team Star!
 ---
@@ -620,6 +791,8 @@ Track: Battle! (Team Star Boss)
 Duration: '5:57'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=IiaNy2xyMnM
 Referenced Tracks:
 - Battle! (Team Star)
 ---
@@ -627,6 +800,8 @@ Track: Victory! (Team Star Boss)
 Duration: '0:52'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=GE5-pAu0I1o
 Referenced Tracks:
 - Battle! (Team Star Boss)
 ---
@@ -634,6 +809,8 @@ Track: Treasure of the Stars
 Duration: '3:13'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=2k6D6kYWHJQ
 Referenced Tracks:
 - Team Star!
 ---
@@ -644,12 +821,16 @@ Track: North Province
 Duration: '4:33'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=X3NdQgAlO_8
 ---
 Track: Battle! (Wild Pokémon in the North)
 Directory: battle-wild-pokemon-in-the-north
 Duration: '4:33'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=2ULuv6trhfk
 Referenced Tracks:
 - North Province
 ---
@@ -657,6 +838,8 @@ Track: Montenevera
 Duration: '4:33'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=3L_dpeAg_Oo
 Referenced Tracks:
 - North Province
 ---
@@ -664,6 +847,8 @@ Track: Opening Act!
 Duration: '4:03'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=A0pKXJcgEKE
 Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
@@ -671,6 +856,8 @@ Track: Soulful Beat!
 Duration: '1:34'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=OT8W8j67Eas
 Referenced Tracks:
 - Opening Act!
 ---
@@ -678,6 +865,8 @@ Track: Walk Through the North Province
 Duration: '4:33'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=HF8ijW8ZD84
 Referenced Tracks:
 - North Province
 ---
@@ -685,6 +874,8 @@ Track: Casseroya Lake
 Duration: '4:33'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=rMTKHliMNBo
 Referenced Tracks:
 - North Province
 ---
@@ -692,6 +883,8 @@ Track: Snow Slope Run
 Duration: '2:10'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=6Ywi2wZQtm8
 Referenced Tracks:
 - North Province
 ---
@@ -699,6 +892,8 @@ Track: North Province (Area Two)
 Duration: '4:33'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=BannyTUojPA
 Referenced Tracks:
 - North Province
 ---
@@ -706,6 +901,8 @@ Track: Alfornada
 Duration: '2:52'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=i-pzDLQouWo
 Referenced Tracks:
 - North Province
 - The Academy
@@ -714,6 +911,8 @@ Track: Emotional Spectrum Practice
 Duration: '1:01'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=CLFXTAlR42o
 Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
@@ -722,6 +921,8 @@ Directory: pokemon-league-interview-phase
 Duration: '2:44'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=8SiKiSWRnjw
 Referenced Tracks:
 - The Final Road (Pokémon Red / Pokémon Blue)
 ---
@@ -729,6 +930,8 @@ Track: You Passed the Interview Phase!
 Duration: '0:07'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=GcLEFnQlawY
 ---
 Track: Pokémon League
 Directory: pokemon-league-pokemon-scarlet-violet
@@ -737,23 +940,31 @@ Artists:
 - Hitomi Sato (composer & arranger)
 Contributors:
 - Junichi Masuda (composer)
+URLs:
+- https://www.youtube.com/watch?v=yMrN4HDovTY
 ---
 Track: Battle! (Elite Four)
 Duration: '3:23'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=Nvuc3lYl7z0
 ---
 Track: Battle! (Top Champion)
 Duration: '3:18'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=oni7wbcHfhs
 Referenced Tracks:
-- Title Screen (Pokémon Red / Pokémon Blue)
+- Battle! (Champion) (Pokémon Gold / Pokémon Silver)
 ---
 Track: Victory! (Top Champion)
 Duration: '1:09'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=fnvLELTxrmE
 Referenced Tracks:
 - Battle! (Top Champion)
 ---
@@ -761,6 +972,8 @@ Track: With Nemona
 Duration: '1:59'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=jUdWQ9lHwuQ
 Referenced Tracks:
 - Battle! (Nemona)
 ---
@@ -768,6 +981,8 @@ Track: Battle! (Champion Nemona)
 Duration: '3:07'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=OK6WM8tfKd8
 Referenced Tracks:
 - Battle! (Nemona)
 ---
@@ -775,6 +990,8 @@ Track: The Only Rival
 Duration: '1:07'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=bR0bzTzUgt8
 Referenced Tracks:
 - Battle! (Nemona)
 ---
@@ -785,6 +1002,8 @@ Track: Battle! (Principal Clavell)
 Duration: '3:25'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=qj5GCNHaTwE
 Referenced Tracks:
 - The Only Rival
 - The Academy
@@ -793,6 +1012,8 @@ Track: Clive's True Identity
 Duration: '1:06'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=HDZtn0rl-YQ
 Referenced Tracks:
 - Right Now I'm Clive
 ## i love sotww
@@ -801,6 +1022,8 @@ Track: Battle! (Cassiopeia)
 Duration: '5:33'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=tydDw7rif_o
 Referenced Tracks:
 - Battle! (Team Star)
 ---
@@ -808,6 +1031,8 @@ Track: Hasta la vistar
 Duration: '4:03'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=vSoeQKNNj4o
 Referenced Tracks:
 - Battle! (Team Star)
 ---
@@ -815,6 +1040,8 @@ Track: Heart
 Duration: '1:54'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=KbJDtIkm0JQ
 Referenced Tracks:
 - Hasta la vistar
 ---
@@ -822,6 +1049,8 @@ Track: Arven's Treasure
 Duration: '0:58'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=u7oUQ1z1ZKA
 Referenced Tracks:
 - Battle! (Arven)
 ---
@@ -829,11 +1058,15 @@ Track: You Completed the Treasure Hunt!
 Duration: '0:09'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=_6tTQGoS1Bs
 ---
 Track: To the Great Crater of Paldea
 Duration: '0:50'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=1pzDQYf4ijg
 Referenced Tracks:
 - The Academy
 ---
@@ -843,6 +1076,8 @@ Artists:
 - Go Ichinose (arranger)
 Contributors:
 - Toby Fox (composer)
+URLs:
+- https://www.youtube.com/watch?v=2rfuDxPHxwc
 Commentary: |-
     <i>Toby Fox:</i> (UNDERTALE / DELTARUNE NEWSLETTER - ISSUE 1 (Winter Season), excerpt)
     I also composed "Area Zero", which was re-arranged by my friend [[artist:go-ichinose]].
@@ -850,13 +1085,14 @@ Commentary: |-
     <i>Morris:</i> (wiki editor)
     <img src="media/misc/toby-fox-go-ichinose.gif" width="498" height="374">
     Also, not an actual reference, but the main arpeggio in this song happens to use the same scale as [[track:alphys]]. It' worth pointing out as the songs end up sounding slightly similar.
-##I just find this gif really funny, feel free to get rid of it if it is deemed inappropriate for the wiki^^
 ---
 Track: Battle! (Pokémon in Area Zero)
 Directory: battle-pokemon-in-area-zero
 Duration: '3:59'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=In7CMDxed8E
 Referenced Tracks:
 - Area Zero
 ---
@@ -864,6 +1100,8 @@ Track: The Gate is Open
 Duration: '0:47'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=7hE4-LZPzRc
 Referenced Tracks:
 - The Academy
 ---
@@ -873,6 +1111,8 @@ Duration: '3:59'
 Artists:
 - Go Ichinose
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=knjbe5hAr6U
 Referenced Tracks:
 - Battle! (Pokémon in Area Zero)
 ---
@@ -880,6 +1120,8 @@ Track: Battle Program Activated
 Duration: '0:39'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=WxyZMbsqHfQ
 Referenced Tracks:
 - Area Zero
 ---
@@ -889,6 +1131,8 @@ Artists:
 - Toby Fox
 Contributors:
 - Toby Fox (breathing)
+URLs:
+- https://www.youtube.com/watch?v=4eHTOfuCsdU
 Referenced Tracks:
 - Area Zero
 Commentary: |-
@@ -899,6 +1143,8 @@ Track: Victory! (Zero Lab)
 Duration: '1:07'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=BD5Qdsryy5M
 Referenced Tracks:
 - Battle! (Zero Lab)
 ---
@@ -906,22 +1152,30 @@ Track: Reunion
 Duration: '1:22'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=5okVzsEgByw
 ---
 Track: Paradise Protection Protocol
 Duration: '2:05'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=UlsF8H7G2Pw
 ---
 Track: Battle Form
 Duration: '0:21'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=Dw4rmTkXvzU
 ---
 Track: Battle! (■■■■)
 Directory: battle-koraidon-miraidon
 Duration: '3:36'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=KJ_GgT5LaRw
 Referenced Tracks:
 - The Academy
 ---
@@ -929,16 +1183,22 @@ Track: Earnest Feelings
 Duration: '1:51'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=J-af9dxY55E
 ---
 Track: Bon Voyage!
 Duration: '0:35'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=k9HLgpBUOhI
 ---
 Track: The Way Home
 Duration: '2:22'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=WW-muKZZARw
 Referenced Tracks:
 - The Academy
 ---
@@ -946,6 +1206,8 @@ Track: Let's Take the Scenic Route Home
 Duration: '1:02'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=uyhk5fa5nXM
 Referenced Tracks:
 - The Academy
 ---
@@ -953,6 +1215,8 @@ Track: Academy Ace Tournament
 Duration: '4:53'
 Artists:
 - Toby Fox
+URLs:
+- https://www.youtube.com/watch?v=fPQlf3xv3Nk
 Referenced Tracks:
 - The Academy
 ---
@@ -961,6 +1225,8 @@ Directory: mystery-git-pokemon-scarlet-violet
 Duration: '0:39'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=_lIYNKfUjXA
 Referenced Tracks:
 - Mystery Gift (Pokémon Platinum)
 ---
@@ -968,18 +1234,24 @@ Track: Battle Stadium
 Duration: '0:52'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=FiHP2ChYboY
 ---
 Track: Battle! (Calamity Pokémon)
 Directory: battle-calamity-pokemon
 Duration: '3:39'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=RNqrin6f-yE
 ---
 Track: Pokédex Evaluation - It's Perfect!
 Directory: pokedex-evalution-its-perfect-pokemon-scarlet-violet
 Duration: '0:06'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=PKgYt-l0agA
 Referenced Tracks:
 - Pokédex Evaluation... Complete! (Pokémon Gold / Pokémon Silver)
 ---
@@ -988,6 +1260,8 @@ Directory: title-screen-pokemon-scarlet-violet
 Duration: '1:36'
 Artists:
 - Yuri Habuka
+URLs:
+- https://www.youtube.com/watch?v=cyOUWdwll50
 Referenced Tracks:
 - Title Screen (Pokémon Red / Pokémon Blue)
 - 'Title Screen: Main Theme (Pokémon Ruby / Pokémon Sapphire)'
@@ -999,16 +1273,22 @@ Track: 'The Hidden Treasure of Area Zero: The Teal Mask'
 Duration: '0:20'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=MP07XNOl4oQ
 ---
 Track: Ex-c-c-change
 Duration: '1:00'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=_i1F00d_7GQ
 ---
 Track: Battle! (Carmine)
 Duration: '2:08'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=O37kazdrQlU
 Referenced Tracks:
 - Ex-c-c-change
 ---
@@ -1016,6 +1296,8 @@ Track: Mossui Town
 Duration: '3:29'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=ku6HCEY2y9o
 Referenced Tracks:
 - Kitakami
 ---
@@ -1023,6 +1305,8 @@ Track: Battle! (Kieran)
 Duration: '2:04'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=FPUWt65pB_0
 Referenced Tracks:
 - Battle! (Carmine)
 ---
@@ -1030,12 +1314,16 @@ Track: Kitakami
 Duration: '3:29'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=GAsrehyERj0
 ---
 Track: Battle! (Pokémon in Kitakami)
 Directory: battle-pokemon-in-kitakami
 Duration: '3:32'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=Lf8XXD6DPQc
 Referenced Tracks:
 - Kitakami
 ---
@@ -1043,6 +1331,8 @@ Track: 'Photography: March'
 Duration: '0:52'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=jD_UFbccXfQ
 Referenced Tracks:
 - 'Pokégear Radio: Pokémon March (Pokémon Gold / Pokémon Silver)'
 ---
@@ -1050,6 +1340,8 @@ Track: 'Photography: Victory'
 Duration: '1:43'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=CP378J2Jp3o
 Referenced Tracks:
 - Battle! (Wild Pokémon—Johto Version) (Pokémon Gold / Pokémon Silver)
 ---
@@ -1057,6 +1349,8 @@ Track: 'Photography: Lullaby'
 Duration: '1:11'
 Artists:
 - Teruo Taniguchi
+URLs:
+- https://www.youtube.com/watch?v=5HQX5S3MRQw
 Referenced Tracks:
 - 'Pokégear Radio: Pokémon Lullaby (Pokémon Gold / Pokémon Silver)'
 ---
@@ -1064,16 +1358,22 @@ Track: Perrin's Theme
 Duration: '2:18'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=hGDwEpdr33M
 ---
 Track: History of the Signboard
 Duration: '1:12'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=bXEfQoOybJI
 ---
 Track: With Perrin
 Duration: '2:19'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=C288CSMm_W4
 Referenced Tracks:
 - Perrin's Theme
 - History of the Signboard
@@ -1082,6 +1382,8 @@ Track: Festival of Masks
 Duration: '1:33'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=fz96Ameh-78
 Referenced Tracks:
 - History of the Signboard
 ---
@@ -1089,11 +1391,15 @@ Track: Ogre Oustin'!
 Duration: '2:24'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=10r0MiS5zJI
 ---
 Track: Cleared Ogre Oustin'!
 Duration: '0:40'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=445V6xQDwwc
 Referenced Tracks:
 - Ogre Oustin'!
 ---
@@ -1101,11 +1407,15 @@ Track: The Mysterious Child Who Dropped a Mask
 Duration: '0:39'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=dCGuL9drQIY
 ---
 Track: The Real History
 Duration: '1:49'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=ixxH1KOT4sg
 Referenced Tracks:
 - History of the Signboard
 ---
@@ -1113,6 +1423,8 @@ Track: Crystal Pool
 Duration: '4:55'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=78fjxs0_-So
 Referenced Tracks:
 - Area Zero
 ---
@@ -1120,6 +1432,8 @@ Track: Distortion
 Duration: '1:15'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=QboM4LfEm6A
 Referenced Tracks:
 - History of the Signboard
 ---
@@ -1127,11 +1441,15 @@ Track: The Loyal Three Come Back to Life
 Duration: '0:42'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=t4VjKjWiidY
 ---
 Track: The Loyal Three Wreak Havoc
 Duration: '1:03'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=Nfg2Pu8WP_Y
 Referenced Tracks:
 - The Loyal Three Come Back to Life
 ---
@@ -1139,6 +1457,8 @@ Track: Battle! (The Loyal Three)
 Duration: '2:43'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=AGqyltDenPU
 Referenced Tracks:
 - The Loyal Three Come Back to Life
 ---
@@ -1146,6 +1466,8 @@ Track: Decisive Battle! (Kieran)
 Duration: '2:53'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=IhjvhcdwGzI
 Referenced Tracks:
 - Battle! (Kieran)
 ---
@@ -1153,11 +1475,15 @@ Track: Battle! (Ogerpon)
 Duration: '2:44'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=vra1NsKxvrg
 ---
 Track: Caught an Ogerpon
 Duration: '0:36'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=Ez568a30N5E
 Referenced Tracks:
 - Battle! (Ogerpon)
 ---
@@ -1165,11 +1491,15 @@ Track: They're Relaxed Now
 Duration: '2:21'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=eJhm8SSGaiA
 ---
 Track: I Have to Become Stronger
 Duration: '0:53'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=bO6XmCn1qfo
 Referenced Tracks:
 - Kitakami
 ---
@@ -1177,21 +1507,29 @@ Track: 'The Hidden Treasure of Area Zero: The Indigo Disk'
 Duration: '0:19'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=whWnPCNlvw4
 ---
 Track: Blueberry Academy
 Duration: '2:48'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=2hc-dc_37UQ
 ---
 Track: To the Dome
 Duration: '1:05'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=NyFoZzdFMI4
 ---
 Track: This is the Terarium Dome!
 Duration: '2:18'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=45W8EXfszGc
 Referenced Tracks:
 - Route 23
 - Area Zero
@@ -1200,6 +1538,8 @@ Track: Terarium (Savanna Biome)
 Duration: '4:42'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=lqIhYF66LPU
 Referenced Tracks:
 - This is the Terarium Dome!
 - Route 6 (Spring/Summer)
@@ -1211,6 +1551,8 @@ Directory: battle-pokemon-in-the-terarium
 Duration: '2:27'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=kst-WJrXa5U
 Referenced Tracks:
 - Battle! (Wild Pokémon) (Pokémon Black / Pokémon White)
 ---
@@ -1218,6 +1560,8 @@ Track: Terarium (Coastal Biome)
 Duration: '4:42'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=eoKorfoW1S8
 Referenced Tracks:
 - This is the Terarium Dome!
 - Route 6 (Spring/Summer)
@@ -1228,6 +1572,8 @@ Track: Trainers' Eyes Meet (Academy Trainer)
 Duration: '0:11'
 Artists:
 - Haruka Soeda
+URLs:
+- https://www.youtube.com/watch?v=L8cMC7nGqaQ
 Referenced Tracks:
 - Battle! (Academy Trainer)
 ---
@@ -1235,8 +1581,11 @@ Track: Battle! (Academy Trainer)
 Duration: '3:34'
 Artists:
 - Haruka Soeda
+URLs:
+- https://www.youtube.com/watch?v=PvAbixv5ETY
 Referenced Tracks:
 - Battle! (Trainer Battle) (Pokémon Black / Pokémon White)
+- Blueberry Academy
 ---
 Section: Disc 6
 Color: '#0e5f87'
@@ -1245,6 +1594,8 @@ Track: Terarium (Central Plaza)
 Duration: '4:42'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=EDm7x_PcviI
 Referenced Tracks:
 - This is the Terarium Dome!
 - Route 6 (Spring/Summer)
@@ -1255,6 +1606,8 @@ Track: Unsettling Atmosphere
 Duration: '1:14'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=6JigxXs-dUQ
 Referenced Tracks:
 - Daily Life at the Academy
 ---
@@ -1262,6 +1615,8 @@ Track: Daily Life at the Academy
 Duration: '2:09'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=u3cHlJwAClQ
 Referenced Tracks:
 - Blueberry Academy
 ---
@@ -1269,6 +1624,8 @@ Track: Blueberry Academy - Your Room
 Duration: '2:48'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=wD6NcUGhBkE
 Referenced Tracks:
 - Blueberry Academy
 ---
@@ -1276,11 +1633,15 @@ Track: Item Printer
 Duration: '0:04'
 Artists:
 - Haruka Soeda
+URLs:
+- https://www.youtube.com/watch?v=oNIy5A3bKQA
 ---
 Track: Terarium (Canyon Biome)
 Duration: '4:42'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=LRKf2X1qwC0
 Referenced Tracks:
 - This is the Terarium Dome!
 - Route 6 (Spring/Summer)
@@ -1292,6 +1653,8 @@ Directory: battle-tera-pokemon-in-the-terarium
 Duration: '2:23'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=tcZMd7axt7A
 Referenced Tracks:
 - Battle! (Pokémon in the Terarium)
 - Battle! (Strong Wild Pokémon) (Pokémon Black / Pokémon White)
@@ -1301,11 +1664,15 @@ Track: Flying Time Trial!
 Duration: '1:17'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=xK0QLcynZug
 ---
 Track: You Completed the Elite Trial!
 Duration: '0:40'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=3C5TVG0z8VI
 Referenced Tracks:
 - Flying Time Trial!
 - Blueberry Academy
@@ -1314,6 +1681,8 @@ Track: Terarium (Polar Biome)
 Duration: '4:42'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=iVuHJHt88NA
 Referenced Tracks:
 - Route 6 (Spring/Summer)
 - Opelucid City (Pokémon White)
@@ -1323,11 +1692,15 @@ Track: Battle! (BB League Elite Four)
 Duration: '2:54'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=cJ36mhkjkiE
 ---
 Track: Victory! (BB League Elite Four)
 Duration: '0:36'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=Bv9YSRnxKhY
 Referenced Tracks:
 - Battle! (BB League Elite Four)
 ---
@@ -1335,11 +1708,15 @@ Track: True Intentions
 Duration: '2:13'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=zBJqdrnufL0
 ---
 Track: The Battle Begins
 Duration: '0:38'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=ESEOnqsZQoI
 Referenced Tracks:
 - Decisive Battle! (Kieran)
 - Battle! (Champion Kieran)
@@ -1348,6 +1725,8 @@ Track: Battle! (Champion Kieran)
 Duration: '3:30'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=J4aOX5s9nhM
 Referenced Tracks:
 - Decisive Battle! (Kieran)
 ---
@@ -1355,6 +1734,8 @@ Track: The Defeated Kieran
 Duration: '0:47'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=Onhf__nO190
 Referenced Tracks:
 - Battle! (Kieran)
 ---
@@ -1362,11 +1743,15 @@ Track: Briar's Theme
 Duration: '2:16'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=aq9u0NN5R3Q
 ---
 Track: Area Zero Underdepths
 Duration: '4:37'
 Artists:
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=X7f_KfNa-L4
 Referenced Tracks:
 - Area Zero
 ---
@@ -1374,6 +1759,8 @@ Track: Terapagos Comes Back to Life
 Duration: '1:06'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=cqxPenkMSWE
 Referenced Tracks:
 - Area Zero
 - Battle! (Terapagos)
@@ -1384,6 +1771,8 @@ Artists:
 - Go Ichinose (composer & arranger)
 Contributors:
 - Rei Murayama (composer)
+URLs:
+- https://www.youtube.com/watch?v=W4bDs6ljGdw
 Referenced Tracks:
 - Area Zero
 ---
@@ -1391,6 +1780,8 @@ Track: Conditions of the Hidden Treasure
 Duration: '1:23'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=zRReTlR_i3M
 Referenced Tracks:
 - Area Zero
 ---
@@ -1398,6 +1789,8 @@ Track: Terapagos Goes Rampage
 Duration: '1:01'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=1PUOw1JLH_Q
 Referenced Tracks:
 - Area Zero
 - Battle! (Terapagos)
@@ -1406,6 +1799,8 @@ Track: Battle! (Terapagos - The Hidden Treasure of Area Zero)
 Duration: '5:27'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=QGbphKRAfLE
 Referenced Tracks:
 - Area Zero
 - Battle! (Terapagos)
@@ -1415,6 +1810,8 @@ Track: Caught the Terapagos!
 Duration: '0:58'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=R0HJo3vw3s4
 Referenced Tracks:
 - Area Zero
 ---
@@ -1422,11 +1819,15 @@ Track: Once Again, Starting from Zero
 Duration: '1:15'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=07Df0C8CqB0
 ---
 Track: Star Training Centers! Team Star
 Duration: '2:18'
 Artists:
 - Haruka Soeda
+URLs:
+- https://www.youtube.com/watch?v=Irev7VSpgFg
 Referenced Tracks:
 - Battle! (Team Star)
 - Battle! (Team Star Boss)
@@ -1437,6 +1838,8 @@ Duration: '2:01'
 Artists:
 - Go Ichinose
 - Hitomi Sato
+URLs:
+- https://www.youtube.com/watch?v=ypDharbiC-w
 Referenced Tracks:
 - Relic Song (Pokémon Black 2 / Pokémon White 2)
 ---
@@ -1444,6 +1847,8 @@ Track: 'The Hidden Treasure of Area Zero: Epilogue'
 Duration: '0:11'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=I3cKi5Z8jSk
 Referenced Tracks:
 - Mochi Mayhem
 ---
@@ -1451,24 +1856,32 @@ Track: A Village Curse...?
 Duration: '0:42'
 Artists:
 - Go Ichinose
+URLs:
+- https://www.youtube.com/watch?v=th5_OPA0kQE
 ---
 Track: Mochi Mayhem
 Duration: '1:15'
 Artists:
-- Go Ichinose (arranger & arranger)
+- Go Ichinose (composer & arranger)
 Contributors:
 - Minako Adachi (composer)
+URLs:
+- https://www.youtube.com/watch?v=M7LwxT2q7AE
 ---
 Track: A Drone? A Pokémon? It's a Binding Mochi!
 Directory: a-drone-a-pokemon-its-a-binding-mochi
 Duration: '0:40'
 Artists:
 - Minako Adachi
+URLs:
+- https://www.youtube.com/watch?v=3tWNrpAVw2M
 ---
 Track: Battle! (Pecharunt)
 Duration: '3:09'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=tvvbz_ns97o
 Referenced Tracks:
 - Mochi Mayhem
 ---
@@ -1477,5 +1890,7 @@ Directory: title-screen-2-pokemon-scarlet-violet
 Duration: '2:08'
 Artists:
 - Hiromitsu Maeba
+URLs:
+- https://www.youtube.com/watch?v=ylq89oYTv9A
 Referenced Tracks:
 - Title Screen (Pokémon Red / Pokémon Blue)

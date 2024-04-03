@@ -1334,6 +1334,15 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=IlgLQA416-4
 ---
+Track: A Trainer Appears (Girl Version) (Pokémon Red / Pokémon Blue)
+# Reference:
+#   https://vgmdb.net/album/57107
+Artists:
+- Pokémon
+- Junichi Masuda
+URLs:
+- https://www.youtube.com/watch?v=NIwTJi861IA
+---
 Track: Accelerant
 # Track from a mod, so the links are the official releases
 Artists:
@@ -2044,6 +2053,8 @@ Artists:
 Duration: '1:11'
 URLs:
 - https://www.youtube.com/watch?v=Jxk9DqdYsJ4
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
 ---
 Track: Battle! (Colress)
 # JP: 戦闘！アクロマ
@@ -2127,6 +2138,17 @@ Duration: '3:34'
 URLs:
 - https://www.youtube.com/watch?v=wIjsuw0uIqA
 ---
+Track: Battle! (Regirock/Regice/Registeel) (Pokémon Ruby / Pokémon Sapphire)
+Directory: battle-regirock-regice-registeel-pokemon-ruby-sapphire
+# Reference:
+#   https://vgmdb.net/album/1024
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '1:28'
+URLs:
+- https://www.youtube.com/watch?v=lO4pTKg8HEs
+---
 Track: Battle! (Solgaleo / Lunala)
 # Reference:
 #   https://vgmdb.net/album/61193
@@ -2187,6 +2209,8 @@ Contributors:
 Duration: '3:33'
 URLs:
 - https://www.youtube.com/watch?v=UFffYnhlWyQ
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
 ---
 Track: Battle! (Trainer Battle) (Pokémon Red / Pokémon Blue)
 # JP: 戦い(VSトレーナー)
@@ -2294,6 +2318,17 @@ Artists:
 #URLs:
 #-
 ---
+Track: Battle Tower (Johto) (Pokémon Crystal)
+Directory: battle-tower-johto-pokemon-crystal
+# Reference:
+#   https://vgmdb.net/album/15237
+Artists:
+- artist:pokemon
+- Morikazu Aoki
+Duration: '0:40'
+URLs:
+- https://www.youtube.com/watch?v=klTyL5O03Tw
+---
 Track: Battle Tower (Pokémon Diamond / Pokémon Pearl)
 Directory: battle-tower-pokemon-diamond-pearl
 # Official release:
@@ -2307,6 +2342,8 @@ Artists:
 Duration: '1:05'
 URLs:
 - https://www.youtube.com/watch?v=rOgEDehCPCM
+Referenced Tracks:
+- Battle Tower (Johto) (Pokémon Crystal)
 ---
 Track: Before the Sequel - Title Screen
 # From Sonic Before the Sequel '12 Original Sound Track
@@ -3730,6 +3767,15 @@ Duration: '0:10'
 URLs:
 - https://www.youtube.com/watch?v=FzmH9nUXCiQ
 ---
+Track: 'Fanfare: Evolution'
+# Reference:
+#   https://vgmdb.net/product/2236
+Artists:
+- Pokémon
+- Junichi Masuda
+URLs:
+- https://www.youtube.com/watch?v=pJ63z7FeWdc
+---
 Track: Fear of the Heavens
 # JP: 天使の怖れ
 # Official release:
@@ -4560,6 +4606,19 @@ Artists:
 Duration: '1:02'
 URLs:
 - https://www.youtube.com/watch?v=b9Sp1eRE5o0
+Referenced Tracks:
+- Hall of Fame (Pokémon Red / Pokémon Blue)
+---
+Track: Hall of Fame (Pokémon Red / Pokémon Blue)
+# Reference:
+#   https://vgmdb.net/album/57107
+Directory: hall-of-fame-pokemon-red-blue
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '1:04'
+URLs:
+- https://www.youtube.com/watch?v=uq86eIdMNdY
 ---
 Track: Halland
 # Reference:
@@ -5432,6 +5491,16 @@ Artists:
 Duration: '0:32'
 URLs:
 - https://www.youtube.com/watch?v=w6xXKBHJCkg
+---
+Track: Level Up! (Pokémon Red / Pokémon Blue)
+# Reference:
+#   https://vgmdb.net/album/57107 I guess?
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '0:02'
+URLs:
+- https://www.youtube.com/watch?v=OGXUoqSYscc
 ---
 Track: Library Piano
 Artists: ##Chad York, Darren Radtke, and Mike Peacock are credited for Music Composition in Luigi's Mansion: Dark Moon. It is unknown who did this track.
@@ -9009,6 +9078,28 @@ Artists:
 Duration: '0:31'
 URLs:
 - https://www.youtube.com/watch?v=NFch6XO5I_c
+---
+Track: Victory! (Gym Leader Battle) (Pokémon Red / Pokémon Blue)
+# Reference:
+#   https://vgmdb.net/album/57107
+Directory: victory-gym-leader-battle-pokemon-red-blue
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '0:57'
+URLs:
+- https://www.youtube.com/watch?v=EBgSIonPpp0
+---
+Track: Victory! (Wild Pokémon) (Pokémon Red / Pokémon Blue)
+# Reference:
+#   https://vgmdb.net/album/57107
+Directory: victory-wild-pokemon-pokemon-red-blue
+Artists:
+- artist:pokemon
+- Junichi Masuda
+Duration: '0:37'
+URLs:
+- https://www.youtube.com/watch?v=lhif3fo6oCU
 ---
 Track: Vortal Combat
 # Official release:
