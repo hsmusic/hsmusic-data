@@ -1,8 +1,10 @@
+Side: Side 1 (Acts 1-5)
+Directory: s1
+Color: '#4ac925'
+---
 Act: Act 1 - The Note Desolation Plays
 Directory: a1
 Color: '#7799ff'
-Jump: Side 1 (Acts 1-5)
-Jump Color: '#4ac925'
 ---
 Date: April 16, 2009
 Featured Tracks:
@@ -877,11 +879,13 @@ Featured Tracks:
 Flash: '[S] Begin intermission 2.'
 Page: '4111'
 ---
+Side: Side 2 (Acts 6-7)
+Directory: s2
+Color: '#3796c6'
+---
 Act: Act 6 Act 1 - Through Broken Glass
 Directory: a6a1
 Color: '#7799ff'
-Jump: Side 2 (Acts 6-7)
-Jump Color: '#3796c6'
 ---
 Date: November 11, 2011
 URLs:
@@ -1603,12 +1607,13 @@ Featured Tracks:
 Flash: '[S] ==>'
 Page: '8130'
 ---
+Side: Additional Canon
+Color: '#f2a400'
+---
 Act: Hiveswap
 Directory: hiveswap
 Color: '#33cc77'
 List Terminology: Games in this series
-Jump: Additional Canon
-Jump Color: '#f2a400'
 ---
 Flash: Hiveswap Act 1
 Directory: hiveswap-act1
@@ -2237,12 +2242,13 @@ Featured Tracks:
 - Embittered Shore
 Flash: Just Go Ahead Now
 ---
+Side: Fan Adventures
+Color: '#c466ff'
+---
 Act: Cool and New Web Comic
 Directory: cool-and-new-web-comic
 Color: '#00cde0'
 List Terminology: Flashes in this story
-Jump: Fan Adventures
-Jump Color: '#c466ff'
 ---
 Flash: '{s]every one; enter'
 Directory: every-one-enter
@@ -3947,12 +3953,13 @@ URLs:
 - https://mspfa.com/?s=50076&p=212
 - https://www.youtube.com/watch?v=F41HZ9ZkzMM
 ---
+Side: Fan Games & More
+Color: '#32c7fe'
+---
 Act: Sunday Night Strifin'
 Directory: sunday-night-strifin
 Color: '#FFFF00'
 List Terminology: Mods in this section
-Jump: Fan Games & More
-Jump Color: '#32c7fe'
 ---
 Flash: 'Act 1: Beatdown, Strider Style'
 Directory: act-1-sunday-night-strifin
