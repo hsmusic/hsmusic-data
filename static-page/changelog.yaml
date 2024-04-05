@@ -199,7 +199,7 @@ Content: |-
     - added alternate art by [[artist:clorinspats]] to [[track:lancer]] (thanks, clorinspats!!)
     - added wallpapers to [[album:lofam]], [[album:lofam2]], [[album:bittersweet]], [[album:sburb-funkin-edition-ost]], and [[album:rappets-davekat-collection]] (thanks, Niklink!)
     - added art and commentary by [[artist:lunise]] to [[track:stalemate-play-the-rain]] (later repurposed for [[track:dogfight-dirtiests-dubstep-remix]])
-    - added wallpaper to [[album:homestuck-swagazaki]] (thanks, Jebb!)
+    - added wallpapers to [[album:desynced-vol-1]], [[album:pantheon]], and [[album:homestuck-swagazaki]] (thanks, Jebb!)
     - added higher quality wallpaper to [[album:sunday-night-strifin-act-1-plus-2-ost]] (thanks, Niklink!)
     - added stretch-free banners to [[album:sburb-funkin-edition-ost]] and [[album:svert-ost-volume-one]] (thanks, Niklink!)
     - added full-size art to some [[group:deconrecon]] album covers: [[album:vast-error-vol-4]], [[album:catch-322]], [[album:empyreal-rhapsody]] (thanks, Niklink!)
@@ -526,6 +526,18 @@ Content: |-
     - fixed [[track:thyme-on-my-fries-lofam4]] ([[album:lofam4]]) not being tagged [[tag:hb]], [[tag:ace-dick]], and [[tag:pickle-inspector]] (thanks, Jebb, FF!)
     - fixed [[track:lost-memories]] not being tagged [[tag:bk]] (thanks, Pyryte!)
     - fixed [[track:feels-jam]] being tagged [[tag:lomax]] instead of [[tag:lotak]] (thanks, Pyryte!)
+    - updated lots of [[group:desynced]] tag details: (thanks, Jebb, dizzims!!)
+        - added new tags: [[tag:bette-diaz-desynced]], [[tag:bianca-queens-desynced]], [[tag:brent-kampel-desynced]], [[tag:clan-chief-desynced]], [[tag:charlie-davis-desynced]], [[tag:chester-newman-desynced]], [[tag:crack-desynced]], [[tag:daniel-dime-desynced]], [[tag:dusken-desynced]], [[tag:evans-mum-desynced]], [[tag:fosvas-desynced]], [[tag:grace-kameron-desynced]], [[tag:harvey-barret-desynced]], [[tag:jack-noir-desynced]], [[tag:jes-desynced]], [[tag:jill-desynced]], [[tag:kronos-desynced]], [[tag:lily-desynced]], [[tag:lydia-kameron-desynced]], [[tag:momo-jr-desynced]], [[tag:rancid-desynced]], [[tag:moon-desynced]], [[tag:lodam-desynced]], [[tag:lodap-desynced]], [[tag:losas-desynced]], [[tag:lotam-desynced]]
+        - added [[tag:evan-desynced]] to [[track:puppet-master-desynced]]
+        - added [[tag:earth]] to [[album:desynced-vol-2]], [[track:friends-to-the-end]], [[track:asimov-3]], [[track:desynced]], [[track:matriarch-pantheon]], [[track:tyrant-pantheon]], [[track:luminary-pantheon]], and [[track:nemesis-pantheon]]
+        - added [[tag:ruined-earth]] to [[track:psycho-desynced]]
+        - added [[tag:prospit]] to [[track:strange-signals]]; removed from [[track:light-of-the-sun]] and [[track:daylight-dreamers]]
+        - added [[tag:derse]] to [[track:desaffectee]]; removed from [[track:void-of-the-moon]]
+        - added [[tag:meteor]] to [[track:alpha-admission]], [[track:matriarch-pantheon]], [[track:luminary-pantheon]]
+        - removed [[tag:gaea-desynced]] from [[track:flying-witch]]
+        - removed [[tag:hemera-desynced]] from [[track:tsukuyomi-remix]]
+        - removed [[tag:phoebe-desynced]] from [[track:automata]]
+        - removed [[tag:styx-desynced]] from [[track:joshs-theme]]
     - fixed [[track:random-encounter]] not being tagged [[tag:ludwig-oceanfalls]]
     - fixed [[track:ghostdog-good-boy]] not being tagged [[tag:ludwig-oceanfalls]]
     - fixed [[track:arts-and-crafts]] not being tagged [[tag:sis-oceanfalls]] (thanks, leii!)
