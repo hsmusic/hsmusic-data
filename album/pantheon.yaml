@@ -14,6 +14,8 @@ Default Track Cover Artists:
 Cover Art File Extension: png
 Wallpaper Artists:
 - Jebb (edits for wiki)
+Wallpaper Style: |-
+    width: 100%; /* override 100lvw, frame vertical borders nicer */
 Wallpaper File Extension: png
 Track Art File Extension: png
 Art Tags:
