@@ -20,10 +20,14 @@ Groups:
 ---
 Section: Disc 1
 ---
-Track: "[Disc 1] ~ Life Liberated"
-Directory: life-liberated
+Track: Life Liberated
 Additional Names:
-- Wind Waker (original name)
+- Name: >-
+    [Disc 1] ~ Life Liberated
+  Annotation: >-
+    [Bandcamp](https://desynced.bandcamp.com/track/disc-1-life-liberated)
+- Name: Wind Waker
+  Annotation: original name
 Duration: 3:22
 Artists:
 - Levc
@@ -111,8 +115,12 @@ Commentary: |-
 ---
 Section: Disc 2
 ---
-Track: "[Disc 2] ~ God's Country"
-Directory: gods-country
+Track: God's Country
+Additional Names:
+- Name: >-
+    [Disc 2] ~ God's Country
+  Annotation: >-
+    [Bandcamp](https://desynced.bandcamp.com/track/disc-2-gods-country)
 Duration: 2:10
 Artists:
 - GhostElevator
@@ -176,8 +184,13 @@ URLs:
 ---
 Section: Disc 3
 ---
-Track: "[Disc 3] ~ Gravitas"
+Track: Gravitas
 Directory: gravitas-anthology-i
+Additional Names:
+- Name: >-
+    [Disc 3] ~ Gravitas
+  Annotation: >-
+    [Bandcamp](https://desynced.bandcamp.com/track/disc-3-gravitas)
 Duration: 3:04
 Artists:
 - Spad3s
@@ -216,8 +229,13 @@ URLs:
 ---
 Section: Disc 4
 ---
-Track: "[Disc 4] ~ Haymaker"
+Track: Haymaker
 Directory: haymaker-anthology-i
+Additional Names:
+- Name: >-
+    [Disc 4] ~ Haymaker
+  Annotation: >-
+    [Bandcamp](https://desynced.bandcamp.com/track/disc-4-haymaker)
 Duration: 2:12
 Artists:
 - Rainy
