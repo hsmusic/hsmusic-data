@@ -17,6 +17,10 @@ Art Tags:
 - Earth
 Cover Art File Extension: png
 Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.4;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Color: '#F4D23A'
 Groups:
 - Fandom

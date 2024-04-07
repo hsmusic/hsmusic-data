@@ -21,6 +21,9 @@ Cover Art File Extension: png
 Wallpaper File Extension: png
 Banner File Extension: png
 Wallpaper Style: 'opacity: 0.65;'
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Color: '#86C06C'
 Groups:
 - Toby Fox

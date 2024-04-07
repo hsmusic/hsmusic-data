@@ -9,7 +9,10 @@ Artists:
 Cover Artists:
 - horizon
 Cover Art File Extension: png
-Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.6;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Wallpaper Artists:
 - horizon
 - Jebb (edits for wiki)
