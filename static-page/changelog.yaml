@@ -37,6 +37,7 @@ Style: |-
     }
 Content: |-
     <h2 id="13-apr-2024" class="major-release"><html:a href="#13-apr-2024">[[date:13 April 2024]] - Let's Make This a Thing</a></h2>
+    (news entry: [[news-entry:lets-make-this-a-thing]])
     <h3>site changes</h3>
     - completely new "additional names" feature, <html:a href="#additional-names-intro">see below</a>; present only on track pages, just initially, but easy to expand to other pages later; displays when page title heading clicked; automatically shared between rereleases
     - artist external links, previously inline icons, are now displayed in a "wiki tooltip", displaying when hovered with a pointer or when tapped; these show the platform icon as well as aliases/handles or domain names, where relevant ([[media:misc/changelog/artist-externals-old.png|old]], [[media:misc/changelog/artist-externals-new.png|new]])
