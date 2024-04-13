@@ -26,6 +26,15 @@ Style: |-
         margin-top: 0.2em;
         margin-bottom: 0.6em;
     }
+
+    #content summary span {
+        color: var(--primary-color);
+    }
+
+    #content details {
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
 Content: |-
     <h2 id="13-apr-2024" class="major-release"><html:a href="#13-apr-2024">[[date:13 April 2024]] - Let's Make This a Thing</a></h2>
     <h3>site changes</h3>
@@ -569,6 +578,8 @@ Content: |-
         - fixed [[track:metal-and-meat]] not being tagged [[tag:zachery-oceanfalls]] (thanks, leii!)
         - fixed [[track:cinq]] not being tagged [[tag:ludwig-oceanfalls]] and [[tag:boyfriend-oceanfalls]]
     - added content warnings to many images in content/commentary, including in [[track:sarabande-vol5]], [[track:walls-covered-in-blood]], [[track:death-of-the-lusii]], [[track:bl1nd-just1c3-1nv3st1g4t1on]], [[track:darling-kanaya]], [[track:requiem-of-sunshine-and-rainbows]], [[track:blackest-heart-with-honks]], [[track:killed-by-br8k-spider]], [[track:catapult-capuchin]], [[track:a-fairy-battle]], [[track:the-blind-prophet]], [[track:noirscape]], [[track:eternity-served-cold]], [[track:light-burns-out-gestalt]], [[track:death-of-swet-bro]]
+    <h3>directory changes</h3>
+    <details><summary><span>Toggle Directorylog</span></summary>
     - changed directory of [[track:showtime-svix-mix-lofam2]] from <code>showtime-svix-mix</code> to <code>showtime-svix-mix-lofam2</code>
     - changed directory of [[track:starsetter-canmt]] from <code>starsetter</code> to <code>starsetter-canmt</code>
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
@@ -674,9 +685,11 @@ Content: |-
         - changed directory of [[track:the-same-digital-boy-reprise]] from <code>the-samedigital-boy-reprise</code> to <code>the-same-digital-boy-reprise</code>
         - changed directory of [[track:splash-free-50-percent-off-cover]] from <code>splash-free50-off-cover</code> to <code>splash-free-50-percent-off-cover</code>
         - many similar fixes for artists, including e.g. [[artist:fabricio-podesta]], [[artist:kesha]], [[artist:laurent-desautels-seguin]], [[artist:night-milk]], [[artist:the-eighth-bit]], [[artist:the-idolmaster]]
+    </details>
 
     <h2 id="07-nov-2023"><html:a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h2>
-    <h3>data changes</h3>
+    <h3>directory changes</h3>
+    <details><summary><span>Toggle Directorylog</span></summary>
     - changed directories of most one-common-word tracks, outside [[group:official]], to indicate the album or source material in the name
         - added <code>-a-nameless-inheritance</code> to directories of [[track:exploratory-a-nameless-inheritance]], [[track:execute-a-nameless-inheritance]], [[track:abandoned-a-nameless-inheritance]], [[track:enclosure-a-nameless-inheritance]], [[track:heart-attack-a-nameless-inheritance]], [[track:horrify-a-nameless-inheritance]], [[track:exterminate-a-nameless-inheritance]], [[track:outbreak-a-nameless-inheritance]], [[track:lurk-a-nameless-inheritance]], [[track:terrify-a-nameless-inheritance]], [[track:undisturbed-a-nameless-inheritance]], [[track:ritual-a-nameless-inheritance]], [[track:doomed-a-nameless-inheritance]], [[track:heritage-a-nameless-inheritance]], [[track:bequest-a-nameless-inheritance]]
         - added <code>-a-shade-of-blue</code> to directory of [[track:ignite-a-shade-of-blue]]
@@ -763,6 +776,7 @@ Content: |-
         - added <code>-weird-puzzle-tunes</code> to directory of [[track:aggress-weird-puzzle-tunes]]
         - added <code>-xenoplanetarium</code> to directory of [[track:acquiesce-xenoplanetarium]]
         - added artists or source material to directories across [[group:additional-tracks]]: [[track:calliope-malcolm-brown]], [[track:cats-toby-fox]], [[track:feel-luke-benjamins]], [[track:flow-solatrus]], [[track:haunt-andrew-hussie]], [[track:valor-toby-fox]], [[track:gnade-redditstuck]], [[track:higher-ost]], [[track:rematch-paradox-music-team]], [[track:snowfall-paradox-music-team]], [[track:wanderlust-canmt]], [[track:man-deltarune]], [[track:nuclear-james-roach]], [[track:terra-solatrus]], [[track:beginning-castlevania-draculas-curse]], [[track:dissonance-quincy-pringle]], [[track:focus-super-hexagon]], [[track:harmony-runescape]], [[track:homicide-danganronpa]], [[track:infinite-sonic-forces]], [[track:otherworld-final-fantasy-ix]], [[track:plantation-cave-story]], [[track:power-mother]], [[track:redial-bomberman-hero]], [[track:slider-super-mario-64]], [[track:synchrony-brandish-the-planet-buster]], [[track:you-dai]], [[track:chase-jjba]], [[track:courage-jjba]], [[track:mailtime-blues-clues]], [[track:smack-khonjin-house]], [[track:chopsticks-euphemia-allen]], [[track:badgers-mrweebl]], [[track:bodies-drowning-pool]], [[track:bonfire-childish-gambino]], [[track:carnival-gorillaz]], [[track:casin-glue70]], [[track:crawling-linkin-park]], [[track:discordant-cecily-renns]], [[track:divinity-porter-robinson]], [[track:dust-moon]], [[track:earth-smile]], [[track:faint-linkin-park]], [[track:fever-little-willie-john]], [[track:fireflies-owl-city]], [[track:flicker-porter-robinson]], [[track:friday-rebecca-black]], [[track:gentleman-psy]], [[track:hoverboard-dirtyphonics]], [[track:hydrogen-moon]], [[track:if-placeboing]], [[track:killers-cboyardee]], [[track:lawnmower-neil-cicierega]], [[track:linger-the-cranberries]], [[track:parade-justice]], [[track:piss-neil-cicierega]], [[track:risen-terry-a-davis]], [[track:darude-sandstorm]], [[track:separator-radiohead]], [[track:september-earth-wind-fire]], [[track:shelter-porter-robinson]], [[track:smooth-santana]], [[track:spleen-ruth-white]], [[track:teardrop-massive-attack]], [[track:teenagers-my-chemical-romance]], [[track:ultimate-denzel-curry]], [[track:verified-your-favorite-martian]], [[track:whales-hail-mary-mallons]], [[track:hackers-iain-softley]], [[track:howl-allen-ginsberg]]
+    </details>
     <h3>data fixes</h3>
     - fixed [[track:dance-stab-dance]] not referencing [[track:sburban-jungle]] (thanks, Sgeo!)
     - fixed [[track:revisit-rewind]] and [[track:omega-timeline]] referencing [[track:intro-canwave-2]] instead of [[track:gunshow-2-theme-instrumental]] (thanks, Makin!)
