@@ -26,11 +26,15 @@ Content: |-
 
     Commentary is broadly revamped in this update! Much thanks to Lilith, we've located tons of commentary source links (both live on the web and preserved on the Wayback Machine). We've added all of these directly to the commentary entries, so that you can easily locate the original source and presentation. We've redesigned the visual appearance of commentary entries to accommodate source links and make for better reading, and we've reviewed most of the official discography as well as the earlier LOFAMs and touched content up with modern formatting and links.
 
-    We've made tons of visual and feature updates to the wiki, some obvious and some much more subtle. It's impossible to summarize everything concisely, but stand-outs include:
+    We've made tons of visual and feature updates to the wiki, some obvious and some much more subtle. It's impossible to summarize everything concisely, but more stand-outs besides the above include:
 
     - Hover or touch tooltips for artist names on track pages! These replace the row of always-visible icons, and show the artists' links on music platforms, social media, and personal websites. They usually include the artists' handles, and we hope they're easy, fun, and exciting to explore.
 
-    - Totally redesigned cover and track artwork presentation! Tons of small changes bring a greater visual focus to the art itself; we want the artworks to not just fit in with the rest of the page, but feel like the visual centerpiece.
+    - Totally redesigned cover and track artwork presentation! Tons of small changes bring a greater visual focus to the art itself; we want the artworks to not just fit in with the rest of the page, but feel like the visual centerpiece. We've also refined the look of artworks in gallery grids and elsewhere on the site, and completely reworked the appearance of artworks with content warnings.
+
+    - New and better-nuanced processing for links to other websites (like social media or music platforms) — besides making the existing system here way more expandable, we now support many new platforms and are smarter with how external links are presented. Also, links in commentary (and other content text) now pop open in a new tab (and indicate as much), so you can easily get back to reading where you left off.
+
+    - A whole host of visual touch-ups, mostly to do with shadows and depth, including: better shadows and effects in pages' heading bars; shadow and glow for pages' main artworks; color toning in the overlay when viewing an artwork in full; and improvements to responsiveness, making the wiki look nicer in any page dimensions, and generally bringing better stability and reducing rough edges.
 
     With this update, we've really hoped that all our redesigns work together to reflect and reprise things the wiki has held important from the very beginning. HSMusic began in large part *because* the official Bandcamp removed almost all track artworks in 2019. Fans and illustrators alike were disheartened and discouraged.
 
