@@ -1491,11 +1491,12 @@ Referenced Tracks:
 - track:flash-man-stage
 ---
 Track: Wood Man Stage
+Directory: wood-man-stage-ssbu
+Always Reference By Directory: true
 Artists:
 - Mega Man
 - Motoi Sakuraba
 Duration: '2:29'
-Directory: wood-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=o4ydruqAnrw
 Referenced Tracks:
