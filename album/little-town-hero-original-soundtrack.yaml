@@ -5,23 +5,42 @@ Artists:
 - Hitomi Sato
 - GAME FREAK
 Date: April 23, 2020
-#https://vgmdb.net/album/100935
-#URLs:
-#- 
+# Reference: https://vgmdb.net/album/100935
+URLs:
+- https://www.youtube.com/playlist?list=PLnVpmehyaOFZKdsXGSh0NXbRtAjuek78S
 Cover Artists:
 - GAME FREAK
 Cover Art File Extension: png
 Wallpaper Artists:
 - GAME FREAK
 Wallpaper Style: |-
-    background-position: top center;
-Color: '#68d0d1'
+    opacity: 0.6;
+Color: '#e26843'
 Groups:
 - Toby Fox
 - Beyond
 Commentary: |-
     <i>Morris:</i> (wiki editor)
-    Fun Fact: Among some early versions of songs in the game, [[group:undertale-and-deltarune|UNDERTALE]]'s [[track:last-episode]] goes unused in the game's files.
+
+    Fun Fact: Among some early versions of songs in the game, UNDERTALE's [[track:last-episode]] goes unused in the game's files.
+
+    <i>Morris:</i> ([album addition pull request](https://github.com/hsmusic/hsmusic-data/pull/473))
+
+    references may seem a bit odd, but I tried to make the order of them as accurate as possible. Nintendo Switch DOWNLOAD SOFT COMPILATION ALBUM ([VGMdb](https://vgmdb.net/album/98119)) includes a "Concept Medley" containing [[The Fields Before Us]], [[Win by a Hair]], [[Pasmina]], [[Blood-red Carpet]], [[Neverending Roar]], and [[End the Story!]] Some of these are the same as in the final game, some are early versions (The Fields Before Us is an early version that can still be found unused in the game's files, Win by a Hair is Toby's original version while the final game has a Sato arrangement). I used this medley as the foundation of the references. In a developer interview, devs mentioned that once they got Toby for the music, he immediately layed out some main motif concepts, I presume these are what appear in the medley. Hence, for songs appearing in the medley, I point to them as the origins.
+
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    This track listing is based on the digital-download release included with the Japanese physical release of Little Town Hero ([see VGMdb](https://vgmdb.net/album/100935)). [Little Town Hero - Big Idea Edition!](https://www.nisamerica.com/little-town-hero/) included a CD soundtrack titled "Town Tunes" ([VGMdb](https://vgmdb.net/album/95456)), and this came with 28 tracks (in a slightly different order), excluding these:
+
+    - [[track:welcome-to-my-town]]
+    - [[track:pasmina]]
+    - [[track:this-is-my-town-shop-area]]
+    - [[track:this-is-my-town-farm-area]]
+    - [[track:lost-reminiscence]]
+    - [[track:clanking-caverns]]
+    - [[track:evolution-dance]]
+    - [[track:tale-of-the-dark]]
+    - [[track:blood-red-carpet]]
 ---
 Track: Welcome to My Town
 Duration: '1:51'
@@ -83,6 +102,8 @@ Referenced Tracks:
 - Three Bad Boys
 ---
 Track: Roar
+Directory: roar-little-town-hero
+Always Reference By Directory: true
 Duration: '1:23'
 Artists:
 - Toby Fox
@@ -101,6 +122,7 @@ URLs:
 - https://www.youtube.com/watch?v=OCwxYGEJGgk
 ---
 Track: You Won!
+Directory: you-won-little-town-hero
 Duration: '0:12'
 Artists:
 - Hitomi Sato
@@ -352,4 +374,4 @@ Referenced Tracks:
 - The Fields Before Us
 Commentary: |-
     <i>Morris:</i> (wiki editor)
-    The title of this song feels like it's a reference to the [[group:undertale-and-deltarune|DELTARUNE]] songs [[track:a-town-called-hometown]] and [[track:you-can-always-come-home]].
+    The title of this song feels like it's a reference to the DELTARUNE songs [[track:a-town-called-hometown]] and [[track:you-can-always-come-home]].
