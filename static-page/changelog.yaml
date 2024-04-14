@@ -61,7 +61,7 @@ Content: |-
     - fixed artists being credited as both "artist" and "contributor" on a track, with an annotation only on the latter, being mispresented as *only* contributing that part, by hiding annotation altogether ([[media:misc/changelog/artist-contrib-mispresentation-old.png|old]], [[media:misc/changelog/artist-contrib-mispresentation-new.png|new]])
     - added support for image content warnings in commentary (e.g. [[track:walls-covered-in-blood]] original artwork, [[track:light-burns-out-gestalt]] WIPs)
     - practically endless internal changes, both as groundworks for new and future features, and improvements for anyone working on data files locally
-    <h3>albums</h3>
+    <h3 id="lets-make-this-a-thing-albums">albums</h3>
     - <b>album addition credits:</b>
         - thanks to [[artist:morris]] for unrelentingly documenting the complete soundtracks of every AAA game [[group:toby-fox]] has had even the slightest involvement in, as well as [[album:unbeatable-demo-tapes]] and the original version of [[album:archive]]
         - thanks to vriska/leo for providing review input on Pokémon references from [[artist:morris]]'s additions
