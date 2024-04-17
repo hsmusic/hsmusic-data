@@ -44,6 +44,11 @@ Content: |-
     - fixed various tracks referencing [[track:the-academy]] instead of [[track:south-province]], including: [[track:battle-titan]], [[track:your-ride-ability-went-up]], [[track:alfornada]], [[track:the-gate-is-open]], [[track:battle-koraidon-miraidon]], [[track:the-way-home]], [[track:lets-take-the-scenic-route-home]], [[track:celestial-toby-fox]] (thanks, Morris!)
     - fixed [[track:to-the-great-crater-of-paldea]] not referencing [[track:south-province]] (in addition to [[track:the-academy]]; thanks, Morris!)
     - improved commentary formatting in [[track:stress]] (thanks, Lilith!)
+    <h3>directory changes</h3>
+    <details><summary><span>Toggle Directorylog</span></summary>
+    - changed directory of [[album:ava-original-soundtrack]] from <code>ava</code> to <code>ava-original-soundtrack</code>
+    - changed directory of [[track:a-song-about-a-circle-constant-entertaining-sound]] from <code>a-song-about-a-circle-constant-jan-misali</code> to <code>a-song-about-a-circle-constant-entertaining-sound</code>
+    </details>
 
     <h2 id="13-apr-2024" class="major-release"><html:a href="#13-apr-2024">[[date:13 April 2024]] - Let's Make This a Thing</a></h2>
     (news entry: [[news-entry:lets-make-this-a-thing]])
@@ -1279,7 +1284,7 @@ Content: |-
         - [[track:go-down-cool-and-new-mix-feat-john-j-damn-now-those-are-some-tunes-renns]], [[track:tycoonival]], and [[track:tick-tock-comes-the-bad-wolf]] from [[album:cool-and-new-homestuck]]
         - [[track:spare-friendship-maam]] from [[album:friendsymphony]]
         - [[track:jet-black-kal-la-kal-la]] from [[album:i-am-writing-myself-a-dream-in-a-letter]]
-        - [[track:a-song-about-a-circle-constant-jan-misali]] from [[album:entertaining-sound]]
+        - [[track:a-song-about-a-circle-constant-entertaining-sound]] from [[album:entertaining-sound]]
         - various other tracks where files in the media repository didn't match what was represented in the data repo, but which didn't show an error online because older media files hadn't been removed from the server
     - replaced compressed or missing artwork with original resolution works from various albums:
         - [[album:alterniabound]] (previously uploaded but inaccessible)
@@ -1792,7 +1797,7 @@ Content: |-
     - from [[group:tempest2k]]:
         - [[album:nuclears-explosion-1]]
         - [[album:chilled-processor]]
-        - [[album:ava]]
+        - [[album:ava-original-soundtrack]]
         - [[album:old-world]]
         - [[album:losing-heart]]
     - from [[group:what-is-lost-in-the-mines]]:
