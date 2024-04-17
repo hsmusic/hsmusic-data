@@ -6,6 +6,8 @@ URLs:
 - https://www.youtube.com/playlist?list=PLnVpmehyaOFa8lNfIzETogLpPBnC_ZIDw
 Cover Artists:
 - Robert J! Lake
+Cover Art File Extension: png
+Track Art File Extension: gif
 Color: '#ffd052'
 Groups:
 - Homestuck Gaiden
@@ -71,6 +73,7 @@ Cover Artists:
 - Robert J! Lake
 ---
 Track: Title Screen
+Directory: title-screen-jailbreak
 Artists:
 - Robert J! Lake
 Duration: '1:12'
@@ -79,6 +82,7 @@ URLs:
 - https://youtu.be/6cpKRI9eeUs
 Cover Artists:
 - Paige Turner
+Cover Art File Extension: png
 ---
 Track: Logorg
 Artists:
@@ -89,6 +93,7 @@ URLs:
 - https://youtu.be/5B9lCnQcvTY
 Cover Artists:
 - Paige Turner
+Cover Art File Extension: png
 ---
 Track: Elf Shanty
 Artists:
@@ -146,6 +151,7 @@ URLs:
 - https://youtu.be/q8V8ekHyA98
 Cover Artists:
 - Paige Turner
+Cover Art File Extension: png
 ---
 Track: Moment of Pause
 Artists:
@@ -193,6 +199,7 @@ URLs:
 - https://youtu.be/RjIFBWSxM2I
 Cover Artists:
 - Paige Turner
+Cover Art File Extension: png
 ---
 Track: Console Thunder
 Artists:
@@ -240,6 +247,7 @@ URLs:
 - https://youtu.be/ddseVIfXERU
 Cover Artists:
 - Paige Turner
+Cover Art File Extension: png
 Lyrics: |-
     I, am
     Drillgorg Drillgorg Drill-Drill-Drill-Drill-Drillgorg
@@ -261,6 +269,7 @@ URLs:
 - https://youtu.be/uCS_Bz-5ocM
 Cover Artists:
 - Robert J! Lake
+Cover Art File Extension: png
 Sampled Tracks:
 - Meet the Spy
 Lyrics: Your mother
@@ -447,7 +456,7 @@ Lyrics: |-
     GFD: I only listened to the stuff that was in the Google Doc, recently. And—
     Nick: Yeah, I haven't listened to it recently.
 
-    [[track:title-screen|-TITLE SCREEN-]]
+    [[track:title-screen-jailbreak|-TITLE SCREEN-]]
     GFD: —and from a long time ago, when I got a bunch of MP3s from everybody from the forums 'cause I can't the forums.
     RJ!: Mhmm.
     Jit: Oh man...
