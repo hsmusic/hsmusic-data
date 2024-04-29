@@ -1,5 +1,5 @@
 Album: Stable Time Loops and Paradoxes 2
-Directory: stable-time-loops-and-paradoxes-2
+Directory: stlap2
 Date: April 13, 2019
 URLs:
 - https://www.youtube.com/playlist?list=PLtcgklmZsk9Bco0c5efHd-gP14IIMfBIK
@@ -9,6 +9,7 @@ Cover Artists:
 - animmania
 - Knil
 Cover Art File Extension: png
+Track Art File Extension: png
 Art Tags:
 - John
 - Rose
@@ -43,7 +44,7 @@ Commentary: |-
     [[artist:apatheticpianist]]<br>
     [[artist:rowyn-berlan]]<br>
     [[artist:caelan-kier]]<br>
-    [[artist:pascal-van-den-bos|Pascal "PotatoBoss" van den Bos]]<br>
+    [[artist:pascal-van-den-bos]]<br>
     [[artist:rainy]]<br>
     [[artist:the-pure-spectre]]<br>
     [[artist:frost-carter]]<br>
@@ -51,7 +52,7 @@ Commentary: |-
     [[artist:beau-brian]]<br>
     [[artist:asian|Asian Trash]]<br>
     [[artist:spad3s]]<br>
-    [[artist:michael-parker|Michael "Parsec" Parker]]<br>
+    [[artist:michael-parker]]<br>
     [[artist:quantumbun]]<br>
     [[artist:monobrow|monobrow]]
 
@@ -59,12 +60,12 @@ Commentary: |-
     [[artist:wumby]]<br>
     [[artist:naturestormz]]<br>
     [[artist:knil]]<br>
-    seacode<br>
+    [[artist:seacode]]<br>
     [[artist:camelote]]<br>
     [[artist:phos]]<br>
     [[artist:kiddlescribbles]]<br>
     [[artist:cookie-josh]]<br>
-    [[artist:sketchoodles|Sketchoodles]]<br>
+    [[artist:sketchoodles]]<br>
     [[artist:t4ngl3p4l]]<br>
     [[artist:citriare]]<br>
     [[artist:diolis]]<br>
@@ -78,10 +79,10 @@ Commentary: |-
 Section: Disc 1
 ---
 Track: ~~Disc 1~~
-Directory: disc-1-stlap2
+Directory: disc1-stlap2
 Artists:
 - Asian
-Duration: '0:27'
+Duration: 0:27
 URLs:
 - https://www.youtube.com/watch?v=W2pa50GBuTM
 Cover Artists:
@@ -98,12 +99,11 @@ Commentary: |-
 Track: Miasmic Decay
 Artists:
 - Rowyn Berlan
-Duration: '3:34'
+Duration: 3:34
 URLs:
 - https://www.youtube.com/watch?v=NvmxWizEJNM
 Cover Artists:
 - animmania
-Cover Art File Extension: png
 Art Tags:
 - Dirk
 - LoTaK
@@ -115,7 +115,7 @@ Commentary: |-
 Track: Versus Remix
 Artists:
 - Michael Frank
-Duration: '1:12'
+Duration: 1:12
 URLs:
 - https://www.youtube.com/watch?v=Af2eRFDo4jY
 Cover Artists:
@@ -135,7 +135,7 @@ Commentary: |-
 Track: This Baby's Timeless!
 Artists:
 - Pascal van den Bos
-Duration: '2:12'
+Duration: 2:12
 URLs:
 - https://www.youtube.com/watch?v=HXSj_gIVkEY
 Cover Artists:
@@ -158,37 +158,58 @@ Commentary: |-
 Track: Prismatic Season
 Artists:
 - Beau Brian
-Duration: '4:51'
+Duration: 4:51
+Cover Artists:
+- MarbleMint
 ---
 Track: Rough and Jungle
 Artists:
 - Caldw3ll
-Duration: '2:10'
+Duration: 2:10
+Cover Artists:
+- KiddleScribbles
 ---
 Track: Gale Force Winds
 Artists:
 - Frost Carter
+Duration: 2:51
+Cover Artists:
+- KiddleScribbles
 ---
 Track: Chill Out (Strider Style)
 Artists:
 - Pascal van den Bos
+Duration: 3:20
+Cover Artists:
+- Knil
+Cover Art File Extension: jpg
 ---
 Track: Celestic Aviators
 Artists:
 - Caelan Kier
+Duration: 3:56
+Cover Artists:
+- animmania
 ---
 Track: Moonstruck (Vinyl)
 Artists:
 - Pascal van den Bos
+Duration: 3:18
+Cover Artists:
+- Sketchoodles
 ---
-Track: Fireflies and CLockwork
+Track: Fireflies and Clockwork
+Cover Art File Extension: jpg
 Artists:
 - apatheticPianist
+Duration: 2:53
+Cover Artists:
+- doctorcorby
 ---
 Track: Distortion Navigator
 Artists:
 - Caelan Kier
-Duration: '4:14'
+Duration: 4:14
 URLs:
 - https://www.youtube.com/watch?v=2Y-MXug_oA4
 Cover Artists:
@@ -204,12 +225,14 @@ Commentary:
 Track: Thread the Needle
 Artists:
 - Frost Carter
-Duration: '2:15'
+Duration: 2:15
+Cover Artists:
+- artist:cookie-josh
 ---
 Track: Rebirth without Elegance, True is Resolve; Young is the GAME
 Artists:
 - Beau Brian
-Duration: '9:10'
+Duration: 9:10
 URLs:
 - https://www.youtube.com/watch?v=FYpA6W91uIs
 Cover Artists:
@@ -224,10 +247,10 @@ Commentary: |-
 Section: Disc 2
 ---
 Track: ~~Disc 2~~
-Directory: disc-2-stlap2
+Directory: disc2-stlap2
 Artists:
 - Rowyn Berlan
-Duration: '0:34'
+Duration: 0:34
 URLs:
 - https://www.youtube.com/watch?v=fAbIrLkJQS8
 Cover Artists:
@@ -241,7 +264,7 @@ Track: Insurrection
 Directory: insurrection-stlap2
 Artists:
 - Caelan Kier
-Duration: '4:04'
+Duration: 4:04
 URLs:
 - https://www.youtube.com/watch?v=z2sQq7lciCI
 Cover Artists:
@@ -260,8 +283,20 @@ Commentary: |-
 ---
 Track: Lust
 Directory: lust-stlap2
+Artists:
+- Pascal van den Bos
+Duration: 4:03
+Cover Artists:
+- seacode
+Cover Art File Extension: jpg
 ---
 Track: Candlelit Contemplation
+Duration: 3:37
+Artists:
+- Rowyn Berlan
+Cover Artists:
+- Naturestormz
+Cover Art File Extension: jpg
 ---
 Track: CITH - Beatdown (Strider in the House)
 Artists:
@@ -269,7 +304,7 @@ Artists:
 Contributors:
 - Michael Parker (Dave)
 - QuantumBun (Vriska)
-Duration:
+Duration: 1:00
 URLs:
 - https://www.youtube.com/watch?v=OEIhetsdJzA
 Cover Artists:
@@ -305,13 +340,23 @@ Lyrics: |-
     [Dave]: I'm your man!
 ---
 Track: Balabushka
+Artists:
+- Frost Carter
+Duration: 3:13
+Cover Artists:
+- Knil
 ---
 Track: Purely Black
+Artists:
+- The Pure Spectre
+Duration: 6:07
+Cover Artists:
+- Knil
 ---
 Track: Spritely Gardener
 Artists:
 - Rainy
-Duration: '3:41'
+Duration: 3:41
 URLs:
 - https://www.youtube.com/watch?v=MOyg1dtrTgI
 Cover Artists:
@@ -328,58 +373,178 @@ Commentary: |-
     This song has a special place in my heart because it my first homestuck remix. I started this song months before I joined [[group:the-paradox-music-team|the PMT]] and I remember doing it out of boredom. I wanted to make remix a song the no one had done before, so I decided to remix the first half of the unreleased song [[track:jadesprite|"Jadesprite."]] The original demo of the song was like 30 seconds long and wasn't very good imo. Joining the team gave me the impetus I needed to expand upon my original demo and finish the song. Of my remixes, this one is probably my favorite.
 ---
 Track: Davesprite 3
+Artists:
+- Pascal van den Bos
+Duration: 3:24
+Cover Artists:
+- diolis
+Cover Art File Extension: jpg
 ---
 Track: Between Mediums
+Artists:
+- Rainy
+Duration: 3:24
+Cover Artists:
+- Knil
+---
+Track: Lovely and Saccharine
+Artists:
+- Pascal van den Bos
+Duration: 2:10
+Cover Artists:
+- Camelote
+Cover Art File Extension: jpg
+Commentary: |-
+    <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://web.archive.org/web/20220317221220/https://pascalpotatovandenbos.bandcamp.com/track/lovely-and-saccharine))
+
+    For the fantroll Ilenah Helpin by: Doodlele on HSA
 ---
 Track: Black - Electro Swing Remix
+Artists:
+- Spad3s
+Duration: 2:55
+Cover Artists:
+- KiddleScribbles
 Referenced Tracks:
 - Black
 ---
 Track: An Orange-Blue Rose
+Artists:
+- Beau Brian
+Duration: 3:26
+Cover Artists:
+- Phos
+Cover Art File Extension: jpg
 ---
 Track: Artificial Extortion
+Artists:
+- Pascal van den Bos
+Duration: 3:02
+Cover Artists:
+- Knil
 ---
 Track: Cascading Towards the End
+Artists:
+- Rainy
+Duration: 3:17
+Cover Artists:
+- Knil
+Cover Art File Extension: jpg
+---
+Track: Land of the Sharpest Shale
+Artists:
+- Beau Brian
+Duration: 2:57
+Cover Artists:
+- animmania
+Cover Art File Extension: jpg
 ---
 Section: Disc 3
 ---
 Track: ~~Disc 3~~
-Directory: disc-3-stlap2
+Directory: disc3-stlap2
+Artists:
+- Pascal van den Bos
+Duration: 0:33
+Cover Artists:
+- animmania
 ---
 Track: Moonlight Waltz
+Artists:
+- Asian
+Duration: 2:39
+Cover Artists:
+- KiddleScribbles
 ---
 Track: Windsong
-Directory: windsong-stlap2
+Artists:
+- Rowyn Berlan
+Duration: 2:17
+Cover Artists:
+- KiddleScribbles
 ---
 Track: At the Strike of Three
+Artists:
+- Beau Brian
+Duration: 5:22
+Cover Artists:
+- doctorcorby
+Cover Art File Extension: jpg
 ---
 Track: Vaporsecata - ベーパセタ
 Directory: vaporsecata
+Artists:
+- Pascal van den Bos
+Duration: 4:05
+Cover Artists:
+- Hilaletto
 ---
 Track: Latum Alterum
+Artists:
+- Beau Brian
+Duration: 2:53
+Cover Artists:
+- starcrossedAnalyst
 ---
 Track: Troublemaker Tango
+Artists:
+- Pascal van den Bos
+Duration: 4:13
+Cover Artists:
+- wumby
 ---
-Track: More than a Game
+Track: More Than a Game
+Artists:
+- Frost Carter
+Duration: 1:50
+Cover Artists:
+- siedlag
+Cover Art File Extension: jpg
 ---
 Track: Black (Cucumber Quest)
+Artists:
+- Pascal van den Bos
+Duration: 1:50
+Cover Artists:
+- Knil
 ---
 Track: Learning to Stack-Modus
+Artists:
+- Caldw3ll
+Duration: 2:52
+Cover Artists:
+- Cup
+Cover Art File Extension: jpg
 ---
 Track: I Warned You About the Elevator Bro
+Artists:
+- Pascal van den Bos
+Duration: 3:21
+Cover Artists:
+- wumby
+Commentary: |-
+    <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://web.archive.org/web/20220317221227/https://pascalpotatovandenbos.bandcamp.com/track/i-warned-you-about-the-elevator-bro))
+
+    For the OC Vilros Safron by: Vilros Safron on HSA
 ---
 Track: Threxecute
+Artists:
+- Rainy
+Duration: 3:32
+Cover Artists:
+- KiddleScribbles
 ---
 Track: Windwielder
 Additional Names:
 - Wind Wielder (booklet name)
 Artists:
 - Caelan Kier
-Duration: '4:35'
+Duration: 4:35
 URLs:
 - https://www.youtube.com/watch?v=mLwwOH0qy9o
 Cover Artists:
 - starcrossedAnalyst
+Cover Art File Extension: jpg
 Art Tags:
 - John
 - Rose
@@ -398,11 +563,16 @@ Commentary: |-
 ---
 Track: Turntables
 Directory: turntables-stlap2
+Artists:
+- Asian
+Duration: 1:33
+Cover Artists:
+- KiddleScribbles
 ---
 Track: Wish Upon a Firefly
 Artists:
 - Pascal van den Bos
-Duration: 
+Duration: 1:58
 URLs:
 - https://www.youtube.com/watch?v=Ci2t1GrCbos
 Cover Artists:
@@ -413,7 +583,7 @@ Art Tags:
 Referenced Tracks:
 - Doctor
 Commentary: |-
-    <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://web.archive.org/web/20220317221229/https://pascalpotatovandenbos.bandcamp.com/track/wish-upon-a-firefly), excerpt)
+    <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://web.archive.org/web/20220317221229/https://pascalpotatovandenbos.bandcamp.com/track/wish-upon-a-firefly))
 
     Rest in Peace, [[artist:buzinkai|Usagi Buzinkai]].
     
@@ -422,25 +592,60 @@ Commentary: |-
     Wish Upon a Firefly was made right after [[artist:buzinkai|Usagi Buzinkai]] unfortunately passed away, i wanted to make a tribute song and there was no better track than [[track:doctor]]. I tried making it a more upbeat hero version of Doctor. In my opinion i could never get doctor right whenever i tried remixing it but this definitely worked out well.
 ---
 Track: Minuteman
-Directory: minuteman-stlap2
+Artists:
+- Rainy
+Duration: 3:16
+Cover Artists:
+- Knil
 ---
 Section: Disc 4
 ---
 Track: ~~Disc 4~~
-Directory: disc-4-stlap2
+Directory: disc4-stlap2
+Artists:
+- Beau Brian
+Duration: 0:17
 ---
 Track: Sta-ag-gered Move-me-ent
+Artists:
+- The Pure Spectre
+Duration: 5:22
+Cover Artists:
+- MarbleMint
 ---
 Track: Pascal "Don't call me Starkemeister" van den Bos and TimelessHeir's DX collab (gone wrong(gone sexual)) definitive edition
-Directory: pascal-and-rowyn-dx-collab-definitive-edition
+Artists:
+- Rowyn Berlan
+- Pascal van den Bos
+Duration: 9:36
+Cover Artists:
+- Knil
+Cover Art File Extension: jpg
+---
+Track: Wind Awakening
+Artists:
+- Asian
+Duration: 5:26
+Cover Artists:
+- KiddleScribbles
 ---
 Track: Land of the Orange
+Artists:
+- Pascal van den Bos
+Duration: 3:42
+Cover Artists:
+- spaceklownz
+Cover Art File Extension: jpg
 ---
 Track: Lifesaver
 Directory: lifesaver-stlap2
-Duration: '4:57'
+Artists:
+- Rainy
+Duration: 4:57
 URLs:
 - https://www.youtube.com/watch?v=V77q32mulbU
+Cover Artists:
+- T4NGL3P4L
 Art Tags:
 - Jane
 - The Condesce
@@ -448,25 +653,61 @@ Art Tags:
 ---
 Track: Contentment
 Directory: contentment-stlap2
+Artists:
+- Rowyn Berlan
+Duration: 3:51
+Cover Artists:
+- seacode
+Cover Art File Extension: jpg
 ---
 Track: Beastly Skirmish
+Artists:
+- Rainy
+Duration: 5:30
+Cover Artists:
+- doctorcorby
 ---
 Track: Time on My Side 16-Bit Cover
 Artists:
 - Pascal van den Bos
+Duration: 3:22
+Cover Artists:
+- Knil
+Cover Art File Extension: jpg
 Referenced Tracks:
 - Time on My Side
 ---
 Track: Saxslammer
+Artists:
+- Pascal van den Bos
+- Grace Medley (lyrics)
+Duration: 3:03
+Cover Artists:
+- SapphireSkeletons
+Lyrics: |-
+    got 'em em in the slammer
+    slam 'em in the getter
+    these lyrics are
+    a genuine upsetter
 ---
 Track: Autonomous Autumn
+Artists:
+- Beau Brian
+Duration: 6:03
+Cover Artists:
+- MarbleMint
 ---
 Track: Of the Grim and Godlike
+Artists:
+- apatheticPianist
+Duration: 2:29
+Cover Artists:
+- T4NGL3P4L
 ---
 Track: Play the Rain
 Artists:
 - Monobrow
-Duration: '3:47'
+Duration: 3:47
 URLs:
 - https://www.youtube.com/watch?v=5f6asOx076A
 Cover Artists:
@@ -494,12 +735,14 @@ Commentary: |-
 Track: Ascend x10 Combo
 Artists:
 - Pascal van den Bos
-Duration: '2:39'
+Duration: 2:39
+Cover Artists:
+- doctorcorby
 ---
 Track: A Happy Ending
 Artists:
 - Rainy
-Duration: '10:34'
+Duration: 10:34
 URLs:
 - https://www.youtube.com/watch?v=xsg9sPO4Kl4
 Cover Artists:
@@ -528,11 +771,12 @@ Track: Caring, Compassion, Kindness. The 3 Elements of SALE!
 Directory: caring-compassion-kindness-the-3-elements-of-sale
 Artists:
 - Pascal van den Bos
-Duration: '1:06'
+Duration: 1:06
 URLs:
 - https://www.youtube.com/watch?v=QZ4dgmD0zcQ
 Cover Artists:
 - KiddleScribbles
+Cover Art File Extension: jpg
 Referenced Tracks:
 - Passionate Duelists
 Commentary: |-
