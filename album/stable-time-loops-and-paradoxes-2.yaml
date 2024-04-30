@@ -80,6 +80,11 @@ Section: Disc 1
 ---
 Track: ~~Disc 1~~
 Directory: disc1-stlap2
+Additional Names:
+- Name: >-
+    Disc 1
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=W2pa50GBuTM)
 Artists:
 - Asian
 Duration: 0:27
@@ -159,6 +164,8 @@ Track: Prismatic Season
 Artists:
 - Beau Brian
 Duration: 4:51
+URLs:
+- https://www.youtube.com/watch?v=Q3Q0Z6TgNks
 Cover Artists:
 - MarbleMint
 ---
@@ -166,6 +173,8 @@ Track: Rough and Jungle
 Artists:
 - Caldw3ll
 Duration: 2:10
+URLs:
+- https://www.youtube.com/watch?v=-2Im7mGpFj8
 Cover Artists:
 - KiddleScribbles
 ---
@@ -173,6 +182,8 @@ Track: Gale Force Winds
 Artists:
 - Frost Carter
 Duration: 2:51
+URLs:
+- https://www.youtube.com/watch?v=nDT5zXwOOck
 Cover Artists:
 - KiddleScribbles
 ---
@@ -180,6 +191,8 @@ Track: Chill Out (Strider Style)
 Artists:
 - Pascal van den Bos
 Duration: 3:20
+URLs:
+- https://www.youtube.com/watch?v=3ooEdICnlGE
 Cover Artists:
 - Knil
 Cover Art File Extension: jpg
@@ -188,6 +201,8 @@ Track: Celestic Aviators
 Artists:
 - Caelan Kier
 Duration: 3:56
+URLs:
+- https://www.youtube.com/watch?v=9nC2ZxZREPU
 Cover Artists:
 - animmania
 ---
@@ -195,6 +210,8 @@ Track: Moonstruck (Vinyl)
 Artists:
 - Pascal van den Bos
 Duration: 3:18
+URLs:
+- https://www.youtube.com/watch?v=yhgtEiIHW4s
 Cover Artists:
 - Sketchoodles
 ---
@@ -203,6 +220,8 @@ Cover Art File Extension: jpg
 Artists:
 - apatheticPianist
 Duration: 2:53
+URLs:
+- https://www.youtube.com/watch?v=f6NQCrX6yjI
 Cover Artists:
 - doctorcorby
 ---
@@ -226,6 +245,8 @@ Track: Thread the Needle
 Artists:
 - Frost Carter
 Duration: 2:15
+URLs:
+- https://www.youtube.com/watch?v=tBEjpgRLe54
 Cover Artists:
 - artist:cookie-josh
 ---
@@ -248,6 +269,11 @@ Section: Disc 2
 ---
 Track: ~~Disc 2~~
 Directory: disc2-stlap2
+Additional Names:
+- Name: >-
+    Disc 2
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=fAbIrLkJQS8)
 Artists:
 - Rowyn Berlan
 Duration: 0:34
@@ -286,12 +312,16 @@ Directory: lust-stlap2
 Artists:
 - Pascal van den Bos
 Duration: 4:03
+URLs:
+- https://www.youtube.com/watch?v=81M9yLFPl4k
 Cover Artists:
 - seacode
 Cover Art File Extension: jpg
 ---
 Track: Candlelit Contemplation
 Duration: 3:37
+URLs:
+- https://www.youtube.com/watch?v=yK_vGEn16jY
 Artists:
 - Rowyn Berlan
 Cover Artists:
@@ -343,6 +373,8 @@ Track: Balabushka
 Artists:
 - Frost Carter
 Duration: 3:13
+URLs:
+- https://www.youtube.com/watch?v=XiUduSkwDHg
 Cover Artists:
 - Knil
 ---
@@ -350,6 +382,8 @@ Track: Purely Black
 Artists:
 - The Pure Spectre
 Duration: 6:07
+URLs:
+- https://www.youtube.com/watch?v=6L2HP0VsqIo
 Cover Artists:
 - Knil
 ---
@@ -376,6 +410,8 @@ Track: Davesprite 3
 Artists:
 - Pascal van den Bos
 Duration: 3:24
+URLs:
+- https://www.youtube.com/watch?v=AwosPuFXgF0
 Cover Artists:
 - diolis
 Cover Art File Extension: jpg
@@ -384,6 +420,8 @@ Track: Between Mediums
 Artists:
 - Rainy
 Duration: 3:24
+URLs:
+- https://www.youtube.com/watch?v=KRv70kGqEgI
 Cover Artists:
 - Knil
 ---
@@ -391,6 +429,8 @@ Track: Lovely and Saccharine
 Artists:
 - Pascal van den Bos
 Duration: 2:10
+URLs:
+- https://www.youtube.com/watch?v=yXqIGOkg7Gg
 Cover Artists:
 - Camelote
 Cover Art File Extension: jpg
@@ -403,15 +443,24 @@ Track: Black - Electro Swing Remix
 Artists:
 - Spad3s
 Duration: 2:55
+URLs:
+- https://www.youtube.com/watch?v=25rSl1kGEVM
 Cover Artists:
 - KiddleScribbles
 Referenced Tracks:
 - Black
 ---
 Track: An Orange-Blue Rose
+Additional Names:
+- Name: >-
+    An Orange Blue Rose
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=812hSMnzk-4)
 Artists:
 - Beau Brian
 Duration: 3:26
+URLs:
+- https://www.youtube.com/watch?v=812hSMnzk-4
 Cover Artists:
 - Phos
 Cover Art File Extension: jpg
@@ -420,6 +469,8 @@ Track: Artificial Extortion
 Artists:
 - Pascal van den Bos
 Duration: 3:02
+URLs:
+- https://www.youtube.com/watch?v=d2Q5bqTUDM0
 Cover Artists:
 - Knil
 ---
@@ -427,6 +478,8 @@ Track: Cascading Towards the End
 Artists:
 - Rainy
 Duration: 3:17
+URLs:
+- https://www.youtube.com/watch?v=0USfsJQZdHQ
 Cover Artists:
 - Knil
 Cover Art File Extension: jpg
@@ -435,6 +488,8 @@ Track: Land of the Sharpest Shale
 Artists:
 - Beau Brian
 Duration: 2:57
+URLs:
+- https://www.youtube.com/watch?v=2WFgYU74T1Q
 Cover Artists:
 - animmania
 Cover Art File Extension: jpg
@@ -443,9 +498,16 @@ Section: Disc 3
 ---
 Track: ~~Disc 3~~
 Directory: disc3-stlap2
+Additional Names:
+- Name: >-
+    Disc 3
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=qf1-otUiQHQ)
 Artists:
 - Pascal van den Bos
 Duration: 0:33
+URLs:
+- https://www.youtube.com/watch?v=qf1-otUiQHQ
 Cover Artists:
 - animmania
 ---
@@ -453,6 +515,8 @@ Track: Moonlight Waltz
 Artists:
 - Asian
 Duration: 2:39
+URLs:
+- https://www.youtube.com/watch?v=2qpDuoCPotg
 Cover Artists:
 - KiddleScribbles
 ---
@@ -460,6 +524,8 @@ Track: Windsong
 Artists:
 - Rowyn Berlan
 Duration: 2:17
+URLs:
+- https://www.youtube.com/watch?v=0xzwXJPlXc4
 Cover Artists:
 - KiddleScribbles
 ---
@@ -467,6 +533,8 @@ Track: At the Strike of Three
 Artists:
 - Beau Brian
 Duration: 5:22
+URLs:
+- https://www.youtube.com/watch?v=j0YrEYWSVKw
 Cover Artists:
 - doctorcorby
 Cover Art File Extension: jpg
@@ -476,6 +544,8 @@ Directory: vaporsecata
 Artists:
 - Pascal van den Bos
 Duration: 4:05
+URLs:
+- https://www.youtube.com/watch?v=utRxoAL_H3k
 Cover Artists:
 - Hilaletto
 ---
@@ -483,6 +553,8 @@ Track: Latum Alterum
 Artists:
 - Beau Brian
 Duration: 2:53
+URLs:
+- https://www.youtube.com/watch?v=XhP6otqp-XE
 Cover Artists:
 - starcrossedAnalyst
 ---
@@ -490,6 +562,8 @@ Track: Troublemaker Tango
 Artists:
 - Pascal van den Bos
 Duration: 4:13
+URLs:
+- https://www.youtube.com/watch?v=ESS95sJff2M
 Cover Artists:
 - wumby
 ---
@@ -497,6 +571,8 @@ Track: More Than a Game
 Artists:
 - Frost Carter
 Duration: 1:50
+URLs:
+- https://www.youtube.com/watch?v=ERTcTX61Mas
 Cover Artists:
 - siedlag
 Cover Art File Extension: jpg
@@ -505,13 +581,22 @@ Track: Black (Cucumber Quest)
 Artists:
 - Pascal van den Bos
 Duration: 1:50
+URLs:
+- https://www.youtube.com/watch?v=3AAfquGLS20
 Cover Artists:
 - Knil
 ---
 Track: Learning to Stack-Modus
+Additional Names:
+- Name: >-
+    Learning to Stack Modus
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=5XJNm3m3r4w)
 Artists:
 - Caldw3ll
 Duration: 2:52
+URLs:
+- https://www.youtube.com/watch?v=5XJNm3m3r4w
 Cover Artists:
 - Cup
 Cover Art File Extension: jpg
@@ -520,6 +605,8 @@ Track: I Warned You About the Elevator Bro
 Artists:
 - Pascal van den Bos
 Duration: 3:21
+URLs:
+- https://www.youtube.com/watch?v=E5jenlpu1Io
 Cover Artists:
 - wumby
 Commentary: |-
@@ -531,6 +618,8 @@ Track: Threxecute
 Artists:
 - Rainy
 Duration: 3:32
+URLs:
+- https://www.youtube.com/watch?v=GwK-b4Jf804
 Cover Artists:
 - KiddleScribbles
 ---
@@ -566,6 +655,8 @@ Directory: turntables-stlap2
 Artists:
 - Asian
 Duration: 1:33
+URLs:
+- https://www.youtube.com/watch?v=7Hpa0z9EWII
 Cover Artists:
 - KiddleScribbles
 ---
@@ -595,6 +686,8 @@ Track: Minuteman
 Artists:
 - Rainy
 Duration: 3:16
+URLs:
+- https://www.youtube.com/watch?v=804pHkyeFrA
 Cover Artists:
 - Knil
 ---
@@ -602,24 +695,40 @@ Section: Disc 4
 ---
 Track: ~~Disc 4~~
 Directory: disc4-stlap2
+Additional Names:
+- Name: >-
+    Disc 4
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=fX1zLRxw8bQ)
 Artists:
 - Beau Brian
 Cover Artists:
 - MarbleMint
 Duration: 0:17
+URLs:
+- https://www.youtube.com/watch?v=fX1zLRxw8bQ
 ---
 Track: Sta-ag-gered Move-me-ent
 Artists:
 - The Pure Spectre
 Duration: 5:22
+URLs:
+- https://www.youtube.com/watch?v=K74qhP5R0Rc
 Cover Artists:
 - MarbleMint
 ---
 Track: Pascal "Don't call me Starkemeister" van den Bos and TimelessHeir's DX collab (gone wrong(gone sexual)) definitive edition
+Additional Names:
+- Name: >-
+    PotatoBoss' and TimelessHeir's DX collab
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=qTwRgtfk4tk)
 Artists:
 - Rowyn Berlan
 - Pascal van den Bos
 Duration: 9:36
+URLs:
+- https://www.youtube.com/watch?v=qTwRgtfk4tk
 Cover Artists:
 - Knil
 Cover Art File Extension: jpg
@@ -628,6 +737,8 @@ Track: Wind Awakening
 Artists:
 - Asian
 Duration: 5:26
+URLs:
+- https://www.youtube.com/watch?v=tP8Cypu9O4s
 Cover Artists:
 - KiddleScribbles
 ---
@@ -635,6 +746,8 @@ Track: Land of the Orange
 Artists:
 - Pascal van den Bos
 Duration: 3:42
+URLs:
+- https://www.youtube.com/watch?v=j-26aGLITAA
 Cover Artists:
 - spaceklownz
 Cover Art File Extension: jpg
@@ -658,6 +771,8 @@ Directory: contentment-stlap2
 Artists:
 - Rowyn Berlan
 Duration: 3:51
+URLs:
+- https://www.youtube.com/watch?v=mTydFXb8DC0
 Cover Artists:
 - seacode
 Cover Art File Extension: jpg
@@ -666,6 +781,8 @@ Track: Beastly Skirmish
 Artists:
 - Rainy
 Duration: 5:30
+URLs:
+- https://www.youtube.com/watch?v=oBSYE478iSI
 Cover Artists:
 - doctorcorby
 ---
@@ -673,6 +790,8 @@ Track: Time on My Side 16-Bit Cover
 Artists:
 - Pascal van den Bos
 Duration: 3:22
+URLs:
+- https://www.youtube.com/watch?v=f6hJoz86Qrc
 Cover Artists:
 - Knil
 Cover Art File Extension: jpg
@@ -684,6 +803,8 @@ Artists:
 - Pascal van den Bos
 - Grace Medley (lyrics)
 Duration: 3:03
+URLs:
+- https://www.youtube.com/watch?v=Mg9N_YfIuXQ
 Cover Artists:
 - SapphireSkeletons
 Lyrics: |-
@@ -696,6 +817,8 @@ Track: Autonomous Autumn
 Artists:
 - Beau Brian
 Duration: 6:03
+URLs:
+- https://www.youtube.com/watch?v=qaxxu6jehFI
 Cover Artists:
 - MarbleMint
 ---
@@ -703,6 +826,8 @@ Track: Of the Grim and Godlike
 Artists:
 - apatheticPianist
 Duration: 2:29
+URLs:
+- https://www.youtube.com/watch?v=L3lo9AuB48Y
 Cover Artists:
 - T4NGL3P4L
 ---
@@ -738,6 +863,8 @@ Track: Ascend x10 Combo
 Artists:
 - Pascal van den Bos
 Duration: 2:39
+URLs:
+- https://www.youtube.com/watch?v=U5SjchVabw4
 Cover Artists:
 - doctorcorby
 ---
