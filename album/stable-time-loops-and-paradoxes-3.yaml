@@ -12,6 +12,7 @@ Art Tags:
 - Dave
 - Jade
 - Earth
+Track Art File Extension: png
 Color: '#0ce2fc'
 Groups:
 - The Paradox Music Team
@@ -28,16 +29,16 @@ Commentary: |-
 
     Yet ANOTHER entry in the [[album:stable-time-loops-and-paradoxes|STLaP]] series of Homestuck fanmusic compilation albums, this album includes a PDF with commentary from the musicians and one delicious bonus track at the end!
 
-    <i>The Paradox Music Team:</i> (Bandcamp credits blurb)
+    <i>The Paradox Music Team:</i> (Bandcamp credits blurb, excerpt)
 
     Musicians:<br>
     [[artist:spad3s]]<br>
     [[artist:pascal-van-den-bos]]<br>
     [[artist:caelan-kier]]<br>
-    [[artist:rainy|Andrew "Rainy" Obeng]]<br>
+    [[artist:rainy]]<br>
     [[artist:chromaphantasia]]<br>
     [[artist:rowyn-berlan]]<br>
-    [[artist:tee-vee|Tee-Vee]]<br>
+    [[artist:tee-vee]]<br>
     [[artist:beau-brian]]<br>
     [[artist:caldw3ll]]<br>
     [[artist:warxtron]]<br>
@@ -46,17 +47,17 @@ Commentary: |-
     Artists:<br>
     [[artist:kiddlescribbles]]<br>
     [[artist:caelan-kier]]<br>
-    [[artist:phos|Maria Panaiotti]]<br>
+    [[artist:phos]]<br>
     [[artist:siedlag]]<br>
     [[artist:wumby]]<br>
-    [[artist:doctorcorby|Queen of Black Crows]]<br>
+    [[artist:doctorcorby]]<br>
     emusic<br>
-    [[artist:bisectro|Pendicular]]<br>
-    [[artist:artatruc|Artatniap]]<br>
+    [[artist:bisectro]]<br>
+    [[artist:artatruc]]<br>
     [[artist:t4ngl3p4l]]<br>
     [[artist:animmania]]<br>
-    [[artist:temporaryvoid|Clownvoid]]<br>
-    [[artist:hermannco|Pi3shark]]
+    [[artist:temporaryvoid]]<br>
+    [[artist:hermannco]]
 
     Cover art by: [[artist:siedlag]]
  
@@ -65,9 +66,15 @@ Commentary: |-
 Section: Disc 1
 ---
 Track: ~~Disc 1~~
-Directory: disc-1-stlap3
+Directory: disc1-stlap3
 Artists:
 - Rainy
+Duration: 0:38
+URLs:
+- https://www.youtube.com/watch?v=9aHMb-byM1w
+Cover Artists:
+- KiddleScribbles
+Cover Art File Extension: jpg
 Art Tags:
 - John
 - Rose
@@ -89,11 +96,6 @@ Art Tags:
 - Jack Noir
 - John's dad
 - WV
-Duration: '0:38'
-URLs:
-- https://www.youtube.com/watch?v=9aHMb-byM1w
-Cover Artists:
-- KiddleScribbles
 Commentary: |-
     <i>Rainy:</i> (composer, booklet commentary)
 
@@ -102,13 +104,15 @@ Commentary: |-
 Track: Escapade
 Directory: escapade-stlap3
 Always Reference By Directory: true
-Art Tags:
-- Jack Noir
-Duration: '3:22'
+Artists:
+- Pascal van den Bos
+Duration: 3:22
 URLs:
 - https://www.youtube.com/watch?v=eS7-pcAKKqo
 Cover Artists:
 - doctorcorby
+Art Tags:
+- Jack Noir
 Commentary: |-
     <i>Pascal van den Bos:</i> (composer, booklet commmentary)
 
@@ -118,60 +122,123 @@ Commentary: |-
 Track: Megalovania - Spad3s Dubstep Remix
 Artists:
 - Spad3s
-Duration: '2:35'
+Duration: 2:35
+Cover Artists:
+- Siedlag
 ---
 Track: dude dont touch my cape
 Additional Names:
 - Dude don't touch my cape (booklet name)
 Artists:
 - Frost Carter
-Art Tags:
-- Dave
-Duration: '2:04'
+Duration: 2:04
 URLs:
 - https://www.youtube.com/watch?v=fd_oljefq9I
 Cover Artists:
 - animmania
+Art Tags:
+- Dave
 Commentary: |-
     <i>Frost Carter:</i> (composer, booklet commentary)
 
     idk why, since it isn't exactly a super complex song, but this one kinda took a lot out of me. Don't get me wrong, I'm a lazy motherflipper and all, but oh boy was I unmotivated to work on this one more than usual. It probably doesn't help that I was going through some intense imposter syndrome as a musician at the time, and I was kinda getting out of the HS fandom as well. Still, I powered through, and honestly, I think it turned out fairly well, all things considered.
 ---
 Track: A Handmaid's Last Stand
+Artists:
+- Rainy
+Duration: 4:19
+Cover Artists:
+- Siedlag
 ---
 Track: Heated Metal
+Artists:
+- Caldw3ll
+Duration: 2:04
+Cover Artists:
+- Siedlag
 ---
 Track: Splinter
 Directory: splinter-stlap3
+Always Reference By Directory: true
+Artists:
+- Rowyn Berlan
+Duration: 2:14
+Cover Artists:
+- doctorcorby
+Cover Art File Extension: jpg
 ---
 Track: Dual Voltage
+Artists:
+- Pascal van den Bos
+Duration: 1:56
+Cover Artists:
+- Hermannco
 ---
 Track: Cardioscillate
+Artists:
+- Chromaphantasia
+Duration: 2:52
+Cover Artists:
+- Artatniap
 ---
 Track: Belly of the Beast
+Artists:
+- Rainy
+Duration: 4:02
+Cover Artists:
+- animmania
 ---
 Section: Disc 2
 ---
 Track: ~~Disc 2~~
-Directory: disc-2-stlap3
+Directory: disc2-stlap3
+Artists:
+- Caelan Kier
+Duration: 0:27
+Cover Artists:
+- T4NGL3P4L
 ---
 Track: Double Dose of Midnight
+Artists:
+- Rainy
+Duration: 2:31
+Cover Artists:
+- KiddleScribbles
 ---
 Track: Baleishsprite
+Artists:
+- Caelan Kier
+Duration: 2:57
+Cover Artists:
+- wumby
 ---
 Track: Spacetime Continuum
+Artists:
+- apatheticPianist
+- Pascal van den Bos
+Duration: 4:13
+Cover Artists:
+- KiddleScribbles
 ---
 Track: Heirflow
+Artists:
+- Rowyn Berlan
+Duration: 2:56
+Cover Artists:
+- Siedlag
 ---
 Track: Snowfall
 Directory: snowfall-stlap3
 Always Reference By Directory: true
 Artists:
 - Rainy
-Duration: '6:25'
+Duration: 6:25
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/snowfall
 - https://www.youtube.com/watch?v=aAYcwg40nPA
+Cover Artists:
+- doctorcorby
+Cover Art File Extension: jpg
 Referenced Tracks:
 - Diamond Dust
 Commentary: |-
@@ -182,32 +249,71 @@ Commentary: |-
 Track: Unite Synchronization - Spad3s Glitch Hop Remix
 Artists:
 - Spad3s
+Duration: 3:17
+Cover Artists:
+- Siedlag
 Referenced Tracks:
 - Unite Synchronization
 ---
 Track: The Outer Veil
+Artists:
+- Chromaphantasia
+Duration: 2:44
+Cover Artists:
+- doctorcorby
+Cover Art File Extension: jpg
 ---
 Track: Color of the Ocean
+Artists:
+- Pascal van den Bos
+Duration: 4:13
+Cover Artists:
+- doctorcorby
+Cover Art File Extension: jpg
 ---
 Track: Threshold
 Directory: threshold-stlap3
+Always Reference By Directory: true
+Artists:
+- Beau Brian
+Duration: 2:32
+Cover Artists:
+- bisectro
 ---
 Section: Disc 3
 ---
 Track: ~~Disc 3~~
-Directory: disc-3-stlap3
+Directory: disc3-stlap3
+Artists:
+- Pascal van den Bos
+Duration: 0:28
+Cover Artists:
+- doctorcorby
+Cover Art File Extension: jpg
 ---
 Track: Everlasting Hope
+Artists:
+- Rowyn Berlan
+Duration: 2:51
+Cover Artists:
+- animmania
 ---
 Track: Moonsetter - Spad3s Jazz Lofi Remix
+Artists:
+- Spad3s
+Duration: 2:12
+Cover Artists:
+- Caelan Kier
 ---
 Track: Sunsetter X
 Artists:
 - Pascal van den Bos
+Duration: 2:12
+Cover Artists:
+- temporaryVoid
 Art Tags:
 - Dave
 - Earth
-Duration: '2:12'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/sunsetter-x
 - https://www.youtube.com/watch?v=Y0sBGNWIJDQ
@@ -219,55 +325,127 @@ Referenced Tracks:
 - Atomyk Ebonpyre
 ---
 Track: Newer Doors
+Artists:
+- Beau Brian
+Duration: 2:31
+Cover Artists:
+- T4NGL3P4L
 ---
 Track: Tale of the Lone Servant
+Artists:
+- Pascal van den Bos
+Duration: 2:12
+Cover Artists:
+- Siedlag
 ---
 Track: Of Cats and Martinis
+Artists:
+- Pascal van den Bos
+- Rowyn Berlan
+Duration: 2:07
+Cover Artists:
+- Artatniap
 ---
 Track: Of the Grim and Godlike - Spad3s Deathstep Remix
+Artists:
+- Spad3s
+Duration: 2:16
+Cover Artists:
+- wumby
 ---
 Track: Destiny Paradox
-Duration: '4:13'
+Artists:
+- Levc
+Duration: 4:13
+Cover Artists:
+- animmania
 ---
 Track: Forgotten Member of the Lost Weeaboos
 Artists:
 - Chromaphantasia
-Art Tags:
-- Damara
-Duration: '3:02'
+Duration: 3:02
 Cover Artists:
 - doctorcorby
+Cover Art File Extension: jpg
+Art Tags:
+- Damara
 ---
 Section: Disc 4
 ---
 Track: ~~Disc 4~~
-Directory: disc-4-stlap3
+Directory: disc4-stlap3
+Artists:
+- Rowyn Berlan
+Duration: 0:39
+Cover Artists:
+- wumby
 ---
 Track: Photoluminescence
 Directory: photoluminescence-stlap3
+Always Reference By Directory: true
+Artists:
+- Beau Brian
+Duration: 3:27
+Cover Artists:
+- e_music
 ---
 Track: Chaos Flames
+Artists:
+- Rainy
+Duration: 5:09
+Cover Artists:
+- animmania
 ---
 Track: Cascade DX
+Artists:
+- Caelan Kier
+Duration: 4:07
+Cover Artists:
+- Siedlag
 ---
 Track: Soft as the Clouds
+Artists:
+- WarxTron
+Duration: 5:47
+Cover Artists:
+- doctorcorby
+Cover Art File Extension: jpg
 ---
 Track: Hell0! 0u0
+Artists:
+- Beau Brian
+Duration: 2:36
+Cover Artists:
+- doctorcorby
+Cover Art File Extension: jpg
 ---
 Track: Black - Spad3s Glitch Hop Remix
+Artists:
+- Spad3s
+Duration: 4:25
+Cover Artists:
+- bisectro
 ---
 Track: Lotus (Dream)
-Duration: '1:22'
+Artists:
+- Pascal van den Bos
+Duration: 1:22
+Cover Artists:
+- temporaryVoid
 ---
 Track: Slave State
-Duration: '3:57'
+Artists:
+- Caelan Kier
+Duration: 3:57
+Cover Artists:
+- Caelan Kier
 ---
 Track: Collapse
 Directory: collapse-stlap3
 Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
-Duration: '6:22'
+Duration: 6:22
 URLs:
 - https://www.youtube.com/watch?v=zcLpKzsamY4
 Cover Artists:
@@ -281,11 +459,12 @@ Track: MeGaLoVania - BeforusBound Version (Cover)
 Artists:
 - Pascal van den Bos
 - Tee-vee
-Duration: '2:46'
+Duration: 2:46
 URLs:
 - https://www.youtube.com/watch?v=rrLcjkAH460
 Cover Artists:
 - Siedlag
+Cover Art File Extension: jpg
 Referenced Tracks:
 - MeGaLoVania (BeforusBound)
 Commentary: |-
