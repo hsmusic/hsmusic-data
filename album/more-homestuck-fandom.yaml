@@ -2348,6 +2348,15 @@ Duration: '4:17'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/all-alone
 ---
+Track: Avarice
+Directory: avarice-paradox-music-team
+Always Reference By Directory: true
+Artists:
+- Rowyn Berlan
+Duration: '3:46'
+URLs:
+- https://potatoboss.bandcamp.com/track/avarice
+---
 Track: Blankest Stare
 Artists:
 - Pascal van den Bos
@@ -2377,6 +2386,28 @@ Referenced Tracks:
 - Spider8ite!!!!!!!!
 - Carne Vale
 - Hate You
+---
+Track: Deception
+Directory: deception-paradox-music-team
+Always Reference By Directory: true
+Artists:
+- Rowyn Berlan
+Duration: '1:42'
+URLs:
+- https://potatoboss.bandcamp.com/track/deception
+Commentary: |-
+    <i>Pascal van den Bos:</i> ([HSMusic Discord](https://discord.com/channels/749042497610842152/749067042250031214/1234910765157453875), excerpt)
+
+    as said earlier its from the sound test, but the soundtest thats online doesnt have even half of it in there
+---
+Track: Dimlight
+Directory: dimlight-paradox-music-team
+Always Reference By Directory: true
+Artists:
+- Beau Brian
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+    Currently not released, but included in reference lists.
 ---
 Track: Dwelling Among the Dream Bubbles
 Artists:
@@ -2456,6 +2487,15 @@ Referenced Tracks:
 Sampled Tracks:
 - track:megalovania-halloween
 ---
+Track: Proletariat
+Directory: proletariat-paradox-music-team
+Always Reference By Directory: true
+Artists:
+- Pascal van den Bos
+Duration: '0:45'
+URLs:
+- https://potatoboss.bandcamp.com/track/proletariat
+---
 Track: Rematch
 Directory: rematch-paradox-music-team
 Always Reference By Directory: true
@@ -2477,7 +2517,16 @@ URLs:
 Referenced Tracks:
 - Diamond Dust
 ---
+Track: Static Dust
+Artists:
+- Rowyn Berlan
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+    Currently not released, but included in reference lists.
+---
 Track: Vexation
+Directory: vexation-paradox-music-team
+Always Reference By Directory: true
 Artists:
 - Rowyn Berlan
 Duration: '3:40'
