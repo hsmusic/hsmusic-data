@@ -5037,13 +5037,28 @@ Duration: '0:16'
 URLs:
 - https://www.youtube.com/watch?v=B3anaPEhivM
 ---
+Track: Hydro City Zone Act 1
+# Track name is official, from the Museum in Sonic Origins.
+# Reference:
+#   https://sonic.fandom.com/wiki/Sonic_Origins/Museum
+#   https://info.sonicretro.org/Sonic_the_Hedgehog_3/Development/Music
+Artists:
+- Sonic the Hedgehog
+URLs:
+- https://www.youtube.com/watch?v=CrWepCaCJ7c
+---
 Track: Hydro City Zone Act 2
 # Track name is official, from the Museum in Sonic Origins.
+# Reference:
+#   https://sonic.fandom.com/wiki/Sonic_Origins/Museum
+#   https://info.sonicretro.org/Sonic_the_Hedgehog_3/Development/Music
 Artists:
 - Sonic the Hedgehog
 - Masayuki Nagao
 URLs:
 - https://www.youtube.com/watch?v=PNYL4w-qxcE
+Referenced Tracks:
+- Hydro City Zone Act 1
 ---
 Track: Hyrule Field Main Theme
 # THE LEGEND OF ZELDA: Twilight Princess HD ORIGINAL SOUNDTRACK
@@ -7423,6 +7438,28 @@ Lyrics: |-
     Jab, jab, jab, jab
     Go go go!
     One two
+---
+Track: Right There, Ride On
+# Official release:
+#   SONIC RUSH Original Groove Rush.
+# Note:
+#   Track 10 is in-game; 01 is "digital remakin' trax".
+# Reference:
+#   https://vgmdb.net/album/1651
+#   https://sonic.fandom.com/wiki/Right_There,_Ride_On
+Artists:
+- Sonic the Hedgehog
+- Hideki Naganuma
+Duration: '1:38'
+URLs:
+- https://www.youtube.com/watch?v=_NpqKMesXWM
+Lyrics: |-
+    (Right there, right there, right there, right there)
+    (Right there, right there, right there)
+
+    (Right there, right there, right there, right there)
+    (Right there, right there, right there, right there)
+    (Right there, right there, right there)
 ---
 Track: Rise and Shine, Ursine!
 Duration: '3:22'
@@ -36761,6 +36798,30 @@ Artists:
 URLs:
 - https://lapfox.bandcamp.com/track/self-coffinizing-prototype-ver
 ---
+Track: Sell Your Soul
+Duration: 0:20
+Artists:
+- The Watts Prophets
+URLs:
+- https://www.youtube.com/watch?v=OU_LYAsvync
+Lyrics: |-
+    We are the Watts Prophets! Rappin' black
+    (Rappin' black)
+    (Rappin' black)
+    (Rappin' black)
+    (Rappin' black) I say,
+    (Rappin' black) When people pass
+    (Rappin' black) their souls around,
+    (Rappin' black)
+    (Rappin' black) like tethered heads
+    (Rappin' black) or old
+    (Rappin' black) tin cups,
+    (Rappin' black) they chance to sell
+    (Rappin' black) for pennies
+    (Rappin' black) their most worthy
+    (Rappin' black) possession.
+    (Rappin' black) (Rappin' black)
+---
 Track: Separator
 Directory: separator-radiohead
 Always Reference By Directory: true
@@ -43686,6 +43747,62 @@ Lyrics: |-
     [Indecipherable]
     (Wild Wild) (Wow wow)
 ---
+Track: Wrapped in Black
+# Official release:
+#   SONIC RUSH Original Groove Rush.
+# Note:
+#   Track 41 is in-game; 07 is "digital remakin' trax".
+# Reference:
+#   https://vgmdb.net/album/1651
+#   https://sonic.fandom.com/wiki/Wrapped_in_Black
+Artists:
+- Sonic the Hedgehog
+- Hideki Naganuma
+Duration: '2:35'
+URLs:
+- https://www.youtube.com/watch?v=IvyelV9e4UY
+Sampled Tracks:
+- Message to the Grass Roots
+- Sell Your Soul
+Lyrics: |-
+    Too black, too strong, too black, too strong
+    Too black, too strong, too strong, too strong
+    Too black, too strong, too black, too strong
+    Too black, too strong, too strong, too strong
+
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black (Rappin' black), too strong (Rappin' black)
+
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black, too strong, too black, too strong
+    Too black, too strong, too strong, too strong
+
+    Too black, too black, too black, too black
+    Too black, black, black, black
+    Too- too- too- too- too- too-
+
+    Rappin' black, in black, in black, rappin' black (Rappin' black)
+    Rappin' black, in black, in black, rappin' black (Rappin' black)
+    Rappin' black, in black, in black, rappin' black (Rappin' black)
+
+    (Rappin' black) Rappin' black, (Rappin' black) Rappin' black
+    (Rappin' black, in' black, in' black, rappin' black) Rappin' black
+    Rappin' black (Rappin' black), Rappin' black (Rappin' black)
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+
+    Too strong, too black, too strong, too black
+    Too strong, too black, too black, too black
+    Too black, too strong, too black, too strong
+    Too black, too strong, too strong, too strong
+---
 Track: X Gon' Give It to Ya
 Artists:
 - DMX
@@ -44236,6 +44353,10 @@ Lyrics: |-
     When we're together!
     That's all that mattress!
     I can feel it building deep inside!
+---
+Track: Message to the Grass Roots
+Artists:
+- Malcolm X
 ---
 Track: Mush X Makin
 Artists:
