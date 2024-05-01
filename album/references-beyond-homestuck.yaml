@@ -3738,6 +3738,19 @@ Duration: '1:36'
 URLs:
 - https://www.youtube.com/watch?v=s7fqllhtdHI
 ---
+Track: Dramatic Fanatic
+# Official release:
+#   Cuphead Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/71570
+Artists:
+- Cuphead
+- Kristofer Maddigan
+Duration: '4:57'
+URLs:
+- https://studiomdhr.bandcamp.com/track/dramatic-fanatic
+- https://www.youtube.com/watch?v=Q0TIFoZjSIk
+---
 Track: Dream Maze
 # Most often known as "Deeper into Ness's Subconscious" but for some reason in the official release it's titled differently.
 # JP: 夢の迷路
@@ -6578,7 +6591,7 @@ URLs:
 ---
 Track: One Hell of a Time
 # Official release:
-#  Cuphead Original Soundtrack
+#   Cuphead Original Soundtrack
 # Reference:
 #   https://vgmdb.net/album/71570
 Artists:
@@ -6586,8 +6599,8 @@ Artists:
 - Kristofer Maddigan
 Duration: '3:02'
 URLs:
-- https://youtu.be/pOqsFMNFdDo
 - https://studiomdhr.bandcamp.com/track/one-hell-of-a-time
+- https://youtu.be/pOqsFMNFdDo
 ---
 Track: Onett Theme
 # (See Eight Melodies, no official soundtrack release)
@@ -23134,6 +23147,20 @@ Lyrics: |-
     Dragostea din tei
     Mi-amintesc de ochii tăi
 ---
+Track: Dramatic Fanatic Electro Swing Remix!
+Directory: dramatic-fanatic-electro-swing-spad3s
+Always Reference By Directory: true
+Artists:
+- Spad3s
+Duration: '4:26'
+URLs:
+- https://www.youtube.com/watch?v=pu-WmNzFi2c
+Referenced Tracks:
+- Dramatic Fanatic
+Commentary: |-
+    <i>Spad3s:</i> ([YouTube description](https://www.youtube.com/watch?v=pu-WmNzFi2c), excerpt)
+    It's a good day for a swell battle!
+---
 Track: Dramophone
 Artists:
 - Caravan Palace
@@ -24522,6 +24549,29 @@ Lyrics: |-
     Fever when you hold me tight
     Fever (Fever, burn through) in the mornin'
     And fever all through the night
+---
+Track: Field of Hopes and Dreams | DnB Remix
+Directory: field-of-hopes-and-dreams-dnb-spad3s
+Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Field Of Hopes And Dreams
+  Annotation: >-
+    [SoundCloud](https://soundcloud.com/spad3y/field-of-hopes-and-dreams)
+Artists:
+- Spad3s
+Duration: '2:25'
+URLs:
+- https://soundcloud.com/spad3y/field-of-hopes-and-dreams
+- https://www.youtube.com/watch?v=2aiDoyb9lLs
+Referenced Tracks:
+- Field of Hopes and Dreams
+Commentary: |-
+    <i>Spad3s:</i> ([YouTube description](https://www.youtube.com/watch?v=2aiDoyb9lLs), excerpt)
+
+    Midi I used for the song made by [[artist:caelan-kier]] - [Check them out!!!](https://www.youtube.com/watch?v=ICQbN4fdS0g)
+
+    Had some fun with drum and bass, hehe. Delta rune was fun.
 ---
 Track: Final Savage All Voice
 # JP: 最終鬼畜全部声
