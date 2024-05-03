@@ -462,10 +462,10 @@ Section: Bonus tracks
 ---
 Track: Pondsquatter (Live Chamber Version)
 Additional Names:
-- Name: [BONUS] Pondsquatter (Live Chamber Version)
-  Annotation: album download
-- Name: -BONUS- Pondsquatter (Live Chamber Version)
-  Annotation: rerelease album download
+- Name: '[BONUS] Pondsquatter (Live Chamber Version)'
+  Annotation: 'album download'
+- Name: '-BONUS- Pondsquatter (Live Chamber Version)'
+  Annotation: 'rerelease album download'
 Contributors:
 - Talea Ensemble (performance)
 Duration: '6:02'
@@ -486,10 +486,8 @@ Commentary: |-
 ---
 Track: Frogsong
 Additional Names:
-- Name: [BONUS] Frogsong
-  Annotation: album download
-- Name: -BONUS- Frogsong
-  Annotation: rerelease album download
+- [BONUS] Frogsong (album download)
+- -BONUS- Frogsong (rerelease album download)
 Duration: '2:24'
 URLs:
 - https://youtu.be/xINZv3-S6xU
