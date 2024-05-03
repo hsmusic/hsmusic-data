@@ -486,8 +486,10 @@ Commentary: |-
 ---
 Track: Frogsong
 Additional Names:
-- [BONUS] Frogsong (album download)
-- -BONUS- Frogsong (rerelease album download)
+- Name: '[BONUS] Frogsong'
+  Annotation: 'album download'
+- Name: '-BONUS- Frogsong'
+  Annotation: 'rerelease album download'
 Duration: '2:24'
 URLs:
 - https://youtu.be/xINZv3-S6xU
