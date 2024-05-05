@@ -125,6 +125,7 @@ Direct Descendant Tags:
 Tag: Cool and New Web Comic (media)
 Direct Descendant Tags:
 - Characters from Cool and New Web Comic
+- Items from Cool and New Web Comic
 ---
 Tag: Crossmound (media)
 Direct Descendant Tags:
@@ -311,6 +312,7 @@ Direct Descendant Tags:
 - Rosebot (Meat)
 - Rose (Candy)
 - Rose (Heinoustuck)
+- Roze
 ---
 Tag: Dave (archetype)
 Color: '#e00707'
@@ -1109,6 +1111,7 @@ Direct Descendant Tags:
 - Consorts (CaNWC)
 - Sprites (CaNWC)
 - First guardians (CaNWC)
+- More Characters (CaNWC)
 ---
 Tag: Carapacians (CaNWC)
 Direct Descendant Tags:
@@ -1135,6 +1138,11 @@ Direct Descendant Tags:
 - Jhon
 - Jaed
 - Dabe
+- Roze
+---
+Tag: More Characters (CaNWC)
+Direct Descendant Tags:
+- Bunnie
 ---
 Tag: More humans (CaNWC)
 Direct Descendant Tags:
@@ -2887,6 +2895,12 @@ Color: '#C3C3C3'
 Tag: Beq
 Color: '#e0e0e0'
 ---
+Tag: Bg'ogubmom'ibulsprite
+Color: '#ff6ff2'
+---
+Tag: Bunnie
+Color: '#ffde55'
+---
 Tag: Dabe
 Color: '#e00707'
 ---
@@ -2928,6 +2942,9 @@ Color: '#a47b54'
 ---
 Tag: Rubs Juice
 Color: '#a8a8a8'
+---
+Tag: Roze
+Color: '#b536da'
 ---
 Tag: Spdaes Sleck
 Color: '#8a8a8a'
@@ -3781,9 +3798,6 @@ Color: '#487aef'
 Tag: Gametez
 Color: '#a34bff'
 ---
-Tag: Bg'ogubmom'ibulsprite
-Color: '#ff6ff2'
----
 Tag: Imperial Drones
 Color: '#fb0332'
 Extra Reading URLs:
@@ -4514,6 +4528,7 @@ Direct Descendant Tags:
 - Weapons (Homestuck)
 - Weapons (Problem Sleuth)
 - Weapons (SBaHJ)
+- Weapons (Canwc)
 
 # -------------------------------------
 #  Objects from media.
@@ -4542,6 +4557,16 @@ Direct Descendant Tags:
 #  Within each tag that actually lists individual objects,
 #  sort objects alphabetically.
 #
+
+# Objects from Canwc, by classification
+--- 
+Tag: Objects from Cool and New Webcomic
+Direct Descendant Tags:
+- Weapons (Canwc)
+---
+Tag: Weapons (Canwc)
+Direct Descendant Tags:
+- Conducters Batons of Ogloglob
 
 # Objects from Homestuck, by classification.
 
@@ -4797,6 +4822,11 @@ Direct Descendant Tags:
 #  Entries in each top-level section are always sorted
 #  alphabetically.
 #
+
+# Objects from Canwc
+---
+Tag: Conducters Batons of Ogloglob
+Color: '#aa20cc'
 
 # Objects from Homestuck.
 
