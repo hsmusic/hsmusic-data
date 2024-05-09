@@ -41,6 +41,7 @@ Content: |-
     - added [[album:hammerkind-ost]] by [[artist:stephen-maxwell]]! (thanks, Makin!)
     - added [[album:sburbmon-ost]] by [[artist:twix-stix]]! (thanks, Makin!)
     - added [[album:intense-symphonic-metal-covers-vol-16]] by [[artist:falkkone]]! (thanks, Jebb!)
+    - added [[album:james-roach-collection]] by [[group:james-roach]]!
     - added [[album:puppeteer-beforus-single]] by [[artist:thesketchqueen]]! (thanks, Lilith!)
     - added [[album:versus-hardmode-remix]] by [[artist:ludicrousfalcon]]! (thanks, Lilith!)
     - added [[album:love-letters]] by [[group:circlejourney]]! (thanks, Jebb!)
@@ -62,6 +63,7 @@ Content: |-
         - added [[album:oppa-toby-style-richaadeb]]!
     <h3>other additions</h3>
     - updated [[album:brobots]] to align with new SoundCloud release (thanks, Jebb!)
+    - marked [[track:yeah-it-is-soundtrack]] ([[album:pesterquest-soundtrack]]) newly as a rerelease
     - marked [[track:black-electro-swing-remix-lofam5]] ([[album:lofam5]]) newly as a rerelease
     - added commentary from [[artist:michael-guy-bowman]] (and co, from Bowmantown, with permission) to [[track:explore]], [[track:lunar-eclipse]], [[track:hauntjam]], [[track:sburban-jungle]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:i-dont-want-to-miss-a-thing]], [[track:forever]], [[track:chain-of-prospit]], [[track:ruins-rising]], [[track:ocean-stars-falling]], [[track:busting-makes-me-feel-good]], [[track:mechanic-panic]], [[track:old-buggy-now]], [[track:noun-ithaca]], [[track:roll-with-the-punches]], [[track:tribes-hush]], [[track:hush]], and [[track:crimesters-credits]] (thanks, Celeste, Bowman, Liza, Ucklin!)
     - added [[flash:hammerkind]] game (thanks, Makin!)
@@ -84,6 +86,7 @@ Content: |-
     - removed release date details from [[track:celestial-toby-fox]] (until addressing individual-track release dates more broadly)
     <h3>directory changes</h3>
     <details><summary><span>Toggle Directorylog</span></summary>
+    - changed directory of [[track:yeah-it-is-soundtrack]] from <code>yeah-it-is</code> to <code>yeah-it-is-soundtrack</code>
     - changed directory of [[album:stlap]] from <code>stable-time-loops-and-paradoxes</code> to <code>stlap</code>
     - changed directory of [[track:disc1-stlap]] from <code>disc-1-stlap</code> to <code>disc1-stlap</code>
     - changed directory of [[track:disc2-stlap]] from <code>disc-2-stlap</code> to <code>disc2-stlap</code>
@@ -92,6 +95,8 @@ Content: |-
     - changed directory of [[track:rematch-strider-mixtape]] from <code>rematch-paradox-music-team</code> to <code>rematch-strider-mixtape</code>
     - changed directory of [[track:snowfall-stlap3]] from <code>snowfall-paradox-music-team</code> to <code>snowfall-stlap3</code>
     - changed directory of [[track:vexation-paradox-music-team]] from <code>vexation</code> to <code>vexation-paradox-music-team</code>
+    - changed directory of [[track:a-song-about-a-circle-constant-entertaining-sound]] from <code>a-song-about-a-circle-constant-jan-misali</code> to <code>a-song-about-a-circle-constant-entertaining-sound</code>
+    - changed directory of [[album:ava-original-soundtrack]] from <code>ava</code> to <code>ava-original-soundtrack</code>
     </details>
 
     <h2 id="15-may-2024"><html:a href="#15-may-2024">[[date:15 May 2024]] - midmay mayhem</a></h2>
@@ -450,7 +455,7 @@ Content: |-
     - fixed [[track:worst-end]] not referencing [[track:pascal-kepler-thief-of-mind]] (thanks, Rosetta Leijonde!)
     - fixed [[track:namco-high-be-true-to-yourself]] referencing [[track:title-theme-namco-high]], instead of the other way around
     - fixed [[track:battle-music]] referencing [[track:title-theme-namco-high]] instead of [[track:namco-high-be-true-to-yourself]]
-    - fixed [[track:yeah-it-is]] not referencing [[track:nuclear-james-roach]] (thanks, JG!) and referencing [[track:MeGaLoVania]] instead of [[track:megalovania-undertale]] (thanks, Jebb!)
+    - fixed [[track:yeah-it-is-collection]] not referencing [[track:nuclear-james-roach]] (thanks, JG!) and referencing [[track:MeGaLoVania]] instead of [[track:megalovania-undertale]] (thanks, Jebb!)
     - fixed [[track:this-time-its-eridan]] not referencing [[track:buskers-theme]]
     - fixed [[track:gog-rest-ye-merry-prospitians]] referencing "Santa Claus Is Comin' to Town" instead of [[track:here-comes-santa-claus]] (thanks, Pyryte!)
     - fixed [[track:candles-and-merry-gentlemen]] referencing [[track:candlelight]], instead of the other way around (thanks, Grace!)
@@ -2222,7 +2227,7 @@ Content: |-
     - miscellaneous changes to [[album:unreleased-tracks]] (thanks for PQ and Hiveswap changes go to foreverFlummoxed, Niklink, and tempest2k!)
         - added new tracks [[track:phat1]] through [[track:phat16]], [[track:flute-refrain]], [[track:miracles-icp]], and [[track:sick-bleats]], and moved existing tracks [[track:captain-planet-and-the-planeteers-end-title]], [[track:ghostbusters]], [[track:i-dont-want-to-miss-a-thing-aerosmith]], and [[track:heros-growth]], to the <i>Tracks featured in Homestuck</i> section
         - added new tracks [[track:friendvangelion-rebuild]], [[track:its-a-cover-of-made-of-time]], and [[track:its-nothing]] to the <i>Tracks featured in Pesterquest</i> section
-        - added [[track:its-a-cover-of-made-of-time]] to the reference list of [[track:yeah-it-is]]
+        - added [[track:its-a-cover-of-made-of-time]] to the reference list of [[track:yeah-it-is-collection]]
         - moved [[track:seer-of-same-color-scalemate-combos]] from <i>Other tracks originating outside of Homestuck</i> to <i>Other Homestuck tracks</i>
         - renamed "DRONE_PQ" to [[track:drone-pesterquest]] and gave it track art from [[artist:tempest2k]]'s [PESTERQUEST OST](https://twitter.com/nueclear333/status/1331330835245535232) collection
         - renamed "THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)" to [[track:this-time-its-eridan|Busker's Theme mk II]] and added commentary from James Roach's tumblr
