@@ -32,8 +32,16 @@ Cover Art Date: May 8, 2024
 Color: '#08b173'
 Groups:
 - Fandom
+Additional Files:
+- Title: Track Upload Dates
+  Description: >-
+    Besides the main OST folder, [The Big 'Mon Checklist](https://docs.google.com/spreadsheets/d/1M5_IsAy0bIRb6qG_9PSMAIQ_gheKOPK_E_LHTTOUepo/edit#gid=111709853) also links to a Dropbox download for each track. These files archive the timestamps of when those files were uploaded and modified, according to Dropbox. These might not reflect the dates when the tracks were actually created or first included in Sburbmon.
+  Files:
+  - sburbmon-dates-by-sheet.txt
+  - sburbmon-dates-by-modified.txt
+  - sburbmon-dates-by-uploaded.txt
 Commentary: |-
-    <i>Twix Stix:</i> (composer, project lead)
+    <i>Twix Stix:</i> (composer, project lead, wiki communications over Discord)
 
     The [[track:land-of-wind-and-shade|Doctor cover]] was the first one I made on a whim before I ever became the lead on the project, and the tracklist slowly expanded from there. The entire project was inspired by [Touhoumon](https://touhou.fandom.com/wiki/Touhoumon), and while I wasn't quite skilled enough to create the same 'remix' vibe that game had, I still wanted to include some of Homestuck's music in the game in a similar way.
     
@@ -44,6 +52,14 @@ Commentary: |-
     This is the soundtrack for [Sburbmon](https://sburbmon.tumblr.com/), a Homestuck-themed mod for Pokemon Fire Red. It was composed in full by Twix Stix, who currently heads development of the mod itself.
 
     The album was only ever released as a zip download, and is now fully hosted on YouTube and Archive.org. Additionally, MIDIs have been extracted from the game files, and I've made a cover in the style of Fire Red's box art using a few sprites made by the Sburbmon team over the years.
+
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    Summarizing details Twix Stix shared with Makin ([#hsmusic-chat](https://discord.com/channels/749042497610842152/779895315750715422/1238160122539413727)) over Discord DMs:
+
+    Although Sburbmon's first demo was published [[date:April 26, 2013]], the mod eventually came to include all the tracks compiled here. These were released as a soundtrack folder linked from [The Big 'Mon Checklist](https://docs.google.com/spreadsheets/d/1M5_IsAy0bIRb6qG_9PSMAIQ_gheKOPK_E_LHTTOUepo/edit#gid=111709853); Twix Stix indicates the last track was created on [[date:October 10, 2019]], which is the date we've used for the album here.
+
+    Also, thanks for the beautiful cover artwork, Makin.
 ---
 Section: Main album
 ---
@@ -427,7 +443,7 @@ MIDI Project Files:
   Files:
   - 'Friendship is Paramount - Twix Stix.mid'
 ---
-Section: Bonus tracks
+Section: Bonus track
 ---
 Track: Music Box
 Directory: music-box-sburbmon
