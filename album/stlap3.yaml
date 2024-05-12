@@ -106,6 +106,8 @@ Commentary: |-
 Track: Escapade
 Directory: escapade-stlap3
 Always Reference By Directory: true
+Additional Names:
+- LoSaS (original name)
 Artists:
 - Pascal van den Bos
 Duration: 3:22
@@ -122,7 +124,8 @@ Referenced Tracks:
 Commentary: |-
     <i>Pascal van den Bos:</i> (composer, booklet commmentary)
 
-    Escapade is a song i wrote a long time ago under the name "LoSaS" (don't look it up) because i originally wrote it as a land theme for a land [[artist:kiddlescribbles|Kiddles]] made for some stupid dead pmt comic thing we were working on at the time. I later reused it on my shitty solo album for god knows what reason, and now it has made it's way into [[album:desynced-vol-1|Desynced]] and STLaP 3. This version of Escapade was supposed to be a song about a good guy version of Jack Noir which is why it sounds so much like [[track:black]], later though when I just joined the Desynced music team, Emily said they would need a song like Escapade for something later on in the comic so i just offered to let her use it and thats pretty much why its also in there now.<br>
+    Escapade is a song i wrote a long time ago under the name "LoSaS" (don't look it up) because i originally wrote it as a land theme for a land [[artist:kiddlescribbles|Kiddles]] made for some stupid dead pmt comic thing we were working on at the time. I later reused it on my shitty solo album for god knows what reason, and now it has made it's way into [[album:desynced-vol-1|Desynced]] and STLaP 3. This version of Escapade was supposed to be a song about a good guy version of Jack Noir which is why it sounds so much like [[Black]], later though when I just joined the Desynced music team, Emily said they would need a song like Escapade for something later on in the comic so i just offered to let her use it and thats pretty much why its also in there now.
+
     This is most definitely my favorite version of Escapade by far but i still dont like a lot of things about it so who knows...
 ---
 Track: Megalovania - Spad3s Dubstep Remix
@@ -134,8 +137,24 @@ URLs:
 - https://www.youtube.com/watch?v=cceS4jJAzCM
 Cover Artists:
 - Siedlag
-Referenced Tracks:
+Referenced Tracks:  # order not reviewed
 - track:megalovania-undertale
+- track:MeGaLoVania
+Commentary: |-
+    <i>Spad3s:</i> (composer, booklet commentary)
+
+    basically this is pretty self explanatory because all my remixes are very straightforward with their names, but I wanted to go into a bit more detail with the workflow and progress on each one, and what makes each song what it is
+
+    so! megalovania, that's original...<br>
+    good song, so why not make another remix.
+
+    megalovania for a while has been kind of a song I keep returning to every once in a while and the quality each time sort of captures my progress from one to the next. this, unsurprisingly being my best regalovania remix, is a dubstep-y complextro genre but it was easier to classify it as dubstep so i went with that. the start is pretty straight forward using simple sound design and some reverb & vibrato to build the distant, grand yet funky-ish feeling. drop is just me fucking around with Serum and making a bunch of growls and bass fills to make an overall interesting, but not immediately noticeable texture of bass for the song. given complaints i have received about some of my megalovanias not being Homestuck, or not being undertale, i just kinda chose a key and crammed them both in, as you can hear at the sections where the versions differ - one version on the left, the other on the right. this game the melody a cool split and created some chaos in the vibe so i went with it uwu
+
+    towards the end of the song is my bro just doin a solo on my keys and i just went with it,,, i really like how it sounds together with the Homestuck megalovania in the background that joins the second time it plays (of course i added vibrato on the original soundfont as well because that sounds fucking awesome)
+
+    ending is a pretty standard ending, just added some delay and reverb to close it off with a cute melody change at the very end
+
+    unlike the other remixes, i had no intention of what i was gonna do when i came into making this remix, so using sound design to make the bass texture was a really cool experiment for me, to just try to make something without worrying what it ends up in the end
 ---
 Track: dude dont touch my cape
 Additional Names:
@@ -168,6 +187,10 @@ Referenced Tracks:
 - All Alone
 - Penumbra Phantasm
 - Hate You
+Commentary: |-
+    <i>Rainy:</i> (composer, booklet commentary)
+
+    So [[All Alone]] was a pretty big milestone for me as it was my first original song I wrote for the PMT. Shortly after I initially wrote it, I had this idea for a upbeat battle theme version of the track about the Handmaid's final confrontation with HIC. A Handmaid's Last Stand is that idea fully realized. To make this track I re-arrange the main melody of All Alone into a 4/4 time signature as well as changing the chord progression from the original. Of course, if I was going to make this a song about The Handmaid fighting Condy I had to quote [[Hate You]] by Toby Fox. Overall, I'm pretty happy with how this turned out and I hope you enjoy it.
 ---
 Track: Heated Metal
 Artists:
@@ -178,6 +201,12 @@ URLs:
 - https://www.youtube.com/watch?v=gXsgfSwelD8
 Cover Artists:
 - Siedlag
+Sampled Tracks:
+- Savior of the Waking World
+Commentary: |-
+    <i>Caldw3ll:</i> (composer, booklet commentary)
+
+    Honestly, this isn't one of my favorite tracks that I've composed. It's supposed to be an entirely original song themed around Dave's planet, the Land of Heat and Clockwork, but it is too... energetic? I don't know, something about it just feels off. This track was originally supposed to be much more slow and foreboding, but I just couldn't get it to sound right with the limited instrument library that the music software that I use, Medley, has at its disposal. I really need to splurge and buy FL Studio already. Anyway, here's a fun-fact -- the "ding" sounds that start after the intro are sampled from [[Savior of the Waking World]]. So that's neat, I guess.
 ---
 Track: Splinter
 Directory: splinter-stlap3
@@ -191,8 +220,18 @@ URLs:
 Cover Artists:
 - doctorcorby
 Cover Art File Extension: jpg
+Art Tags:
+- Dirk
+# - Brain Ghost Dirk
+# - Unbreakable Katana
 Referenced Tracks:
 - Petrichor
+Sampled Tracks:
+- Amen, Brother  # not reviewed
+Commentary: |-
+    <i>Rowyn Berlan:</i> (composer, booklet commentary)
+
+    If you can't tell I have an addiction to making a Dirk song on every album I can and STLaP 3 is no exception. Splinter is a song based on Brain Ghost Dirk and because of that I tried to make something atmospheric and kinda glitchy. I started by editing a couple of FLEX synths to my liking then bitcrushed them a bit after I wrote the chords and arps with them. I proceeded to render the chord and arp patterns as audio clips so I could easily cut them up and individually edit them. After I laid down the base structure for the song with the cut up audio clips I layered two amen break loops with a basic loop on an 8bit kit and bitcrushed everything for the drums. Then I wrote the leads and finished the song up by making a sweep out of a static sample. This song was probably the hardest for me to make but also the most enjoyable because of all the things I experimented with while writing it. Splinter is definitely out of my comfort zone but I'm glad I made it how I did cause it's given me ideas for future songs. Enjoy!
 ---
 Track: Dual Voltage
 Artists:
@@ -208,6 +247,10 @@ Referenced Tracks:
 - Fate of the Heir
 - The La2t Frontiier
 - Perxenic Highlands
+Commentary: |-
+    <i>Pascal van den Bos:</i> (composer, booklet commentary)
+
+    I never really liked [[Mituna's Theme]] from BeforusBound ever since i just finished it, in my opinion i left in way too many mixing issues and i didn't really like the composition too crazy much. I wanted it to be way more upbeat and to have cooler instruments etc, i wasnt able to do this in the original cause i was using FL Studio 20 and sforzando which is just the worst soundfont player ever which is kinda also why the pitch bending in Mituna's theme is so horrid. There's also this extremely nasty cut near the end of it because it crashed and i basically just glued 2 parts together. Anyway enough rambling about that song, gee i sure do hate my own songs huh. For Dual Voltage i used a lot of the same instruments from [[track:the-la2t-frontiier|the La2t Frontiier]], i also referenced it in there. Overall the composition became way fuller and the mixing is a little bit better too, im also really happy with that shamisen solo i thought that was really cool. And for references other than Mituna's theme and the La2t Frontiier, i threw in one of the pmt's most referenced songs [[Fate of the Heir]] and [[Perxenic Highlands]] because Fate of the Heir fits really well for obvious reasons and we had just finished Perxenic when i started working on this song so i wanted to reference it somewhere, and it came out really cool and epic sounding luckily!
 ---
 Track: Cardioscillate
 Artists:
@@ -218,6 +261,10 @@ URLs:
 - https://www.youtube.com/watch?v=7TWzN_2SMMo
 Cover Artists:
 - Artatniap
+Commentary: |-
+    <i>Chromaphantasia:</i> (composer, booklet commentary)
+
+    For starters, this song took absolute ages to create. While writing it, I was listening to a lot of Japanese Alt-Rock/Metal, as well as some of the Homestuck tracks of those genres, like the [[album:strife|Strife]] album and [[artist:david-ellis|David Ellis']] work. Those definitely influenced a lot of the choices I made, especially in reference to the guitar tone and the drums. In terms of the technical theory behind it, I used a Phrygian mode, which is very similar to the Minor mode, which most Rock/Metal uses. The extra flat second from the Phrygian scale really lends a lot of interesting possibilities for resolution, because of the way it clashes with the root note, being only a half step above it. I mostly used a jazz guitar tone for the guitars to keep the sound more clean, however there is definitely a more liberal use of distortion on some of the leads.
 ---
 Track: Belly of the Beast
 Artists:
@@ -230,6 +277,10 @@ Cover Artists:
 - animmania
 Referenced Tracks:
 - Doctor
+Commentary: |-
+    <i>Rainy:</i> (composer, booklet commentary)
+
+    So this was the hardest song to bring together for stlap 3. I had started and stopped working on this 4 times during the development of STLaP 3. As for the song itself, there really isn't much to say aside I wanted to make a proper [[track:doctor|doctor]] remix. You can't really calll yourself a homestuck fan musician if you haven't remixed doctor at least once lol.
 ---
 Section: Disc 2
 ---
@@ -243,6 +294,10 @@ URLs:
 - https://www.youtube.com/watch?v=sVMjx-ZQJxc
 Cover Artists:
 - T4NGL3P4L
+Commentary: |-
+    <i>Caelan Kier:</i> (composer, booklet commentary)
+
+    I was struggling to come up with a small jingle so I went back to some old projects and found this piano sketch i made way back, so i just sorta made it soudn shiner and, well, ended up with this.
 ---
 Track: Double Dose of Midnight
 Artists:
@@ -260,7 +315,7 @@ Sampled Tracks:
 - Amen, Brother
 - Wrapped in Black
 - Freefall
-- Time on My Side
+- Time on My Side  # explicitly a reference, not sample, in booklet
 Lyrics: |-
     (Right there, right there, right there, right there)
 
@@ -295,6 +350,10 @@ Lyrics: |-
     (Right there)
 
     (Right there)
+Commentary: |-
+    <i>Rainy:</i> (composer, booklet commentary)
+
+    So I made this song on whim like during the Summer of 2019. I had just discovered the Sonic Rush soundfont and wanted to see how the combo of the samples and Shreddage soundfont sounded together. Much to my surprise it actually turned out decent.
 ---
 Track: Baleishsprite
 Artists:
@@ -309,6 +368,10 @@ Referenced Tracks:
 - Character Catastrophe
 - Eridan's Theme
 - Hydro City Zone Act 1
+Commentary: |-
+    <i>Caelan Kier:</i> (composer, booklet commentary)
+
+    I wasn't gonna put this on STLaP 3, it was kinda just a meme song I was saving for the soundtest. I think [[artist:pascal-van-den-bos|Potato Boss]] was making his own Baleishsprite track to put on here but then I made this, so then he just repaced his song with mine I think, lol. The reference to [[track:hydro-city-zone-act-1|Hydrocity Zone]] is inspired from a birthday remix of Hydrocity that was made for me nearly 2 years ago (ty again fo that, pencil and crisp).
 ---
 Track: Spacetime Continuum
 Artists:
@@ -347,6 +410,10 @@ Referenced Tracks:
 - Penumbra Phantasm
 - Versus
 - Umbral Ultimatum
+Commentary: |-
+    <i>Pascal van den Bos:</i> (co-composer, booklet commentary)
+
+    For this one [[artist:apatheticpianist|aP]] did most of the composition, i did all the instrumentation and added some stuff like the Shreddage guitars, the reversed parts and the [[track:upward-movement-dave-owns|Upward Movement]] drumbreak to name a few. I also mixed everything. Some of my favorite parts that i added are in the [[Sunsetter]] part cause it now uses the original Sunsetter saxophone, bass and drums and it has Cyclops saying Optic Blast because fuckin thats epic. Other than that i gotta praise aP for her epic composition, i could never write something as cool as this and im glad she asked me to collab with her because this is definitely one of my favorite songs i worked on for this album!
 ---
 Track: Heirflow
 Artists:
@@ -361,6 +428,12 @@ Referenced Tracks:
 - Doctor
 - Heir Transparent
 - Heir Conditioning
+Sampled Tracks:
+- Amen, Brother  # not reviewed
+Commentary: |-
+    <i>Rowyn Berlan:</i> (composer, booklet commentary)
+
+    One day I was bored and wrote a song. The End... is what I would say if it stopped there, but alas the story continues. That song I wrote ended up becoming the main original melody in Heirflow after I found out that a handful of John motifs complimented it nicely. From there I arranged everything together to the best of my ability by adding distinct sections in between the main melody that introduced the different motifs. I also added an amen break for whatever reason, but it works. This was also my first time heavily using portamento and modulation on my lead which I really like and feel dumb for not diong sooner. Composition wise this might be my favorite song I made on STLaP 3 and I hope to make more songs like it in the future.
 ---
 Track: Snowfall
 Directory: snowfall-stlap3
@@ -379,7 +452,7 @@ Referenced Tracks:
 Commentary: |-
     <i>Rainy:</i> (composer, booklet commentary)
     
-    Alright so I have quite a bit to say about this track. A last year [[group:the-paradox-music-team|the PMT]] put out [our earthbound album](https://pascalpotatovandenbos.bandcamp.com/album/whats-your-favorite-song-earthbound-2019), which was a fun little break from our usual homestuck music thing. I wrote a song on that album called [[track:diamond-dust|"Diamond Dust"]] that quickly became one of my favorite songs I had written at the time. Shortly after the album came out I had the desire make a proper follow up to that track. Sometime later, I was improving on the piano and got this really nice sounding chord progression that made me think of snow. I was looking for an idea at the time for STLaP 3 at the time, so I made this my last song for the album. During the process of writing this song, I had the idea of remixing "Diamond Dust" into this, effectively making Snowfall the a sequel to that song. Overall I'm pretty proud how this turned out and I'm glad I got to make the follow up I wanted.
+    Alright so I have quite a bit to say about this track. A last year the PMT put out [our earthbound album](https://pascalpotatovandenbos.bandcamp.com/album/whats-your-favorite-song-earthbound-2019), which was a fun little break from our usual homestuck music thing. I wrote a song on that album called [[track:diamond-dust|"Diamond Dust"]] that quickly became one of my favorite songs I had written at the time. Shortly after the album came out I had the desire make a proper follow up to that track. Sometime later, I was improving on the piano and got this really nice sounding chord progression that made me think of snow. I was looking for an idea at the time for STLaP 3 at the time, so I made this my last song for the album. During the process of writing this song, I had the idea of remixing "Diamond Dust" into this, effectively making Snowfall the a sequel to that song. Overall I'm pretty proud how this turned out and I'm glad I got to make the follow up I wanted.
 ---
 Track: Unite Synchronization - Spad3s Glitch Hop Remix
 Artists:
@@ -392,6 +465,16 @@ Cover Artists:
 - Siedlag
 Referenced Tracks:
 - Unite Synchronization
+Commentary: |-
+    <i>Spad3s:</i> (composer, booklet commentary)
+
+    This one is probably my favorite one of the 5, and I have to mention that when asking for commentary advice I was told "Spades you could talk about how you don't know [[artist:malcolm-brown|malcolm brown]] and yet remix [[track:unite-synchronization|unite synchronization]] which is by him lmao" so,, I guess thats a thing
+
+    starting is really chill, I like building atmosphere and i think it can really make or break a song, choosing the right reverb sounds and settings, making the compressions the right amount of crushing, etc. designing desigining the electronic yet kind of organic pads was also fun, but then the real fun starts.
+
+    something i do a lot that you can hear in this song is, just show the cards in my hand soon after the song starts, hooking in the listener because its like, woah, super cool trippy basses and the song hasn't even started! then i kinda make a generic electro beat that gets switched with breaks every few seconds to make a cool hook, then right off to the breakdown. I love how the supersaws came out on this one, I must have layered like 6 sounds or something, supersaws and basses to make that huge strong monolithic texture, disrupted by small bass fills that set the mood for whats to come. Into the rise we go, a pretty standard edm rise, with lots of weird sidechain stuff going on, and the drop imo delivers if in a different way than the intro suggested. You still get those fills here and there in the drop to glue it all together, but i think the use of supersaws and melodies in the drop, turning this from complextro to progressive house-ish is a pleasant surprise. The second part of the drop goes back to the monolithic saws but now they're just a part of a texture instead of being the main focus, of course i had to go to the glitchy drum breaks after, using a piano for more of the melody of the original song i wanted to bring in. being familiar with the original song, this might strike you as a weird change, as the 3rd (i think) bar gets a 1 semitone raise that isn't in the original. I felt like that gave it a cool twist that made the section kinda distant from the rest of a song, kind of a dreamy break to get you back on your feet, and going around the circle again, for a second drop. after the second drop, i completely bring the song full circle and end it with the same sounds that started it, and like i often do, slowly bit crush it because that makes songs endings sound awesome
+
+    Anyway, can you tell i like this one by the amount of commentary?
 ---
 Track: The Outer Veil
 Artists:
@@ -403,6 +486,10 @@ URLs:
 Cover Artists:
 - doctorcorby
 Cover Art File Extension: jpg
+Commentary: |-
+    <i>Chromaphantasia:</i> (composer, booklet commentary)
+
+    This song was an absolute joy to write, its my favorite song I created for the album. Its heavily inspired by the works of Disasterpeace as well as other ambient style electronic mussic producers. It utilizes two chords, in two similar modes. Those two dual modes, Ionian/Major and Dorian, create an interesting motion for the song, while never actually moving anywhere, because of the lack of any traditional functional harmony. (TL;DR for the non-music nerds, the song feels open and spacey because it lacks the chord-to-chord motion created by a traditional chord structure.) All in all I think this song came out great, and I got a chance to utilize some music principles I've never really experimented with before.
 ---
 Track: Color of the Ocean
 Artists:
@@ -416,6 +503,10 @@ Cover Artists:
 Cover Art File Extension: jpg
 Referenced Tracks:
 - Love You (Feferi's Theme)
+Commentary: |-
+    <i>Pascal van den Bos:</i> (composer, booklet commentary)
+
+    Last summer my girlfriend had just visited from italy, she had been here for about a bit over 2 months. my neighbor gave me an M-Audio midi keyboard just for free a few days after she left, i was pretty sad at that time because i was completely alone now with just my dog. So one evening i was just improvising on this keyboard and i played the opening piano that you now hear in Color of the Ocean and decided to make it a song. I noticed [[track:love-you-feferis-theme|Love You]] fit with it perfectly too so i made it an entire Love You remix because the original doesnt have enough DVS Sax lol. Anyway i guess you could say this song is a big ol love letter to my girlfriend. Love You!
 ---
 Track: Threshold
 Directory: threshold-stlap3
@@ -433,6 +524,12 @@ Referenced Tracks:
 - Arisen Anew
 - Clockwork Melody
 - Gentle Heat
+Commentary: |-
+    <i>Beau Brian:</i> (composer, booklet commentary)
+
+    I made this song really just to familiarize myself with a more amateur side of EDM, and to just use a few Time motifs ([[Gentle Heat]] just made its way in there when I got stuck). At the time that I made it it was one of the many electronic tracks I had attempted in a short time, but one of the only ones of any merit.
+
+    I have a weird relationship with electronic music, and this song is an example of that, too. For a pretty decent amount of time I didn't even consider myself an electronic musician; sure, I used virtual instruments, but my main genre was (and still kinda is) pretty undecided. That said, when I tried to make electronic stuff, the plan and the outcome always differed a lot, but not as much in a quality way as a stylistic one. Still for this song, unlike a lot of others, I decided to keep it despite it being different from what I was going for.
 ---
 Section: Disc 3
 ---
@@ -449,6 +546,12 @@ Cover Artists:
 Cover Art File Extension: jpg
 Referenced Tracks:
 - Distortion Navigator
+Commentary: |-
+    <i>Pascal van den Bos:</i> (composer, booklet commentary)
+
+    This song is clearly referencing [[Distortion Navigator]].. right? is it? well yes and no not specifically, but you'll see in a bit ;)
+
+    (For anyone reading this outside of the stream sorry lol i wanted the effect)
 ---
 Track: Everlasting Hope
 Artists:
@@ -461,8 +564,17 @@ Cover Artists:
 - animmania
 Referenced Tracks:
 - Perxenic Highlands
+Commentary: |-
+    <i>Rowyn Berlan:</i> (composer, booklet commentary)
+
+    So ever since I finished The Nobles™ I wanted to reference [[Perxenic Highlands]] in some fashion. The opportunity presented itself with STLaP 3 in which I took the melody of Perxenic and worked it into a semi-strife theme for Page of Hope Jake. I did this song in one night literally 3 days before the release of the album because I procrastinated and rewatched Initial D as you do. One good thing came of it though, I took a lot of inspiration from the structure and feel of common Eurobeat songs when writing the original parts and then frankensteined the arrangement of Perxenic in. In the end I'm really happy with how the song came out despite all the odds being stacked against me when I made it. hope you enjoy this energetic Jake theme!
 ---
 Track: Moonsetter - Spad3s Jazz Lofi Remix
+Additional Names:
+- Name: >-
+    Moonsetter - Spad3s Jazz Remix
+  Annotation: >-
+    name in booklet
 Artists:
 - Spad3s
 Duration: 2:12
@@ -473,6 +585,14 @@ Cover Artists:
 - Caelan Kier
 Referenced Tracks:
 - Moonsetter
+Commentary: |-
+    <i>Spad3s:</i> (composer, booklet commentary)
+
+    whoooooooooooo whe this one had a lot of thought put into it. I went in knowing a lot of people who picked up [[track:moonsetter|moonsetter]] had done lofi, so i knew i had to do something different, and my first go to was quick chord and key changes, giving it the very intense jazzy feel, wrapped up in the standard lofi palette
+
+    This commentary is gonna be mostly analysis of my own song so, if you're not into music theory you can uhh... look away?? Mind you, most if not all of these chords have other extensions in their voicings like add2 and add4 and add6 etc, so i mostly won't be pointing those out, as i don't want every chord to look like a clusterfuck
+
+    so at first after i made this, i tried to label all of the chrods <!-- [sic] --> in this song and i gave up after the first 4 bars - most of the chords are relatively simple for jazz, but its more about the changes in key and tone and voicings that make it what it is. the first two chords are Am7 followed by Adim7, a movement i always like a lot since the diminished sound is very "concerning" after the calm Am7. then i bring in 2 different voicings of Gmaj7 going to an E7 for the dominant, then delaying the satisfying tonic by 3 eighth notes with a minor second interval of G and A, with a bass of C3 for that off putting, jazzy kind of "what's going on" chord, then resolving to Am for a quick second and moving back up to the interval, going back to Am, constantly changing the root note. Then comes a Gmaj7, giving a kind of calm break from the weird chords that come before, only to modulate half a semitone up, and to a dominant 7th as well, giving extreme instability to the structure. We go back to Am7add2 to a G, then to an Amadd67# and some more stuff in there, just to kinda throw off the whole scale and give you that sense of eeriness, then going to my favorite progression of the song - the bass note goes from an E to an F and back to an E, with super funky chords on top, making some super strong dissonance and sticking the jazz vibe i wanted to the song for good. I won't be going further because most movements are either repeats or variations. anyway, this song was a lot of fun to make, really good exercise for my music theory muscles >:)
 ---
 Track: Sunsetter X
 Artists:
@@ -492,6 +612,10 @@ Referenced Tracks:
 - Davesprite
 - Versus
 - Atomyk Ebonpyre
+Commentary: |-
+    <i>Pascal van den Bos:</i> (composer, booklet commentary)
+
+    One day i was recreating [[Sunsetter]] for a potential funi youtube video, but hten i gave up and wanted to make an "X" remix, kinda in the same idea as [Versus X](https://soundcloud.com/thotska-ridgewell/versus-x). So thats basically what i tried to do here, i took the parts that i had recreated from the original Sunsetter and from there i added stuff that i thought sounded really cool, i also added some songs like [[Atomyk Ebonpyre]] cause that was also in [[Davesprite]] which is just a Sunsetter remix... what a fucking inception.
 ---
 Track: Newer Doors
 Artists:
@@ -502,6 +626,10 @@ URLs:
 - https://www.youtube.com/watch?v=Pej_gqn7YDA
 Cover Artists:
 - T4NGL3P4L
+Commentary: |-
+    <i>Beau Brian:</i> (composer, booklet commentary)
+
+    This song is ALSO pretty different from what I'd been making before, as is to be expected of everything I've made for this album. I didnt really make this with anything in midn; no commentary planned, no art for in in my head - I hadn't even chosen a genre. This was just an improv session that I ended up fleshing out later in a collection of sounds and strange little growths. Still, I kinda like what it turned into, slightly disfigured as it may be.
 ---
 Track: Tale of the Lone Servant
 Artists:
@@ -514,6 +642,10 @@ Cover Artists:
 - Siedlag
 Referenced Tracks:
 - All Alone
+Commentary: |-
+    <i>Pascal van den Bos:</i> (composer, booklet commentary)
+
+    I had been wanting tom ake an [[All Alone]] remix for a while so i decided to make a [[Lotus Land Story]] style remix, it's a bit old now but i really like how i used Doublesix in this. Nothing else to really say on this other than All Alone is epic and it was very fun to remix.
 ---
 Track: Of Cats and Martinis
 Artists:
@@ -527,6 +659,23 @@ Cover Artists:
 - Artatniap
 Referenced Tracks:
 - Mituna's Theme
+Commentary: |-
+    <i>Pascal van den Bos:</i> (co-composer, booklet commentary)
+
+    Ah yes another collab with my favorite guy to collab with, this song is no [[track:perxenic-highlands|Perxenic]] but i still feel like we did a pretty good job here, especially since we made this song in one day. I sent Rowyn a piano sketch and we just kept adding things and sending the flp back and forth, actually this will explain it better: [(youtube link)](https://www.youtube.com/watch?v=9WSA2u4CDN0) But yeah, i like what we came up with here, epic Roxy strife.
+
+    <i>Rowyn Berlan:</i> (co-composer)
+
+    This was a fun collab to work on with the man, the myth, the boss of potatoes. Pascal pretty much took care of the lead melody while I mainly messed with the Cavestory+ Harp and the chords. I'm still in love with the progression I wrote for the B section and the ending of the song even though it's been forever since it was made. For reference this was made all the way back in september before [[track:perxenic-highlands|Perxenic]] and it shows. That said it's still good in it's own right. Enjoy!
+
+    <i>Pascal van den Bos:</i> ([YouTube in-video, "Of Cats and Martini's...?"](https://www.youtube.com/watch?v=9WSA2u4CDN0))
+
+    (0:00) PB writes a piano sketch<br>
+    (0:14) [Rowyn] adds a drumloop and a lead synth and sends it back to PB<br>
+    (0:27) PB changes some things and adds a bass, strings and some bells<br>
+    (0:41) [Rowyn] starts with the b section and adds some reverse cymbals<br>
+    (1:02) PB adds a chiptune section, adds a lead and changes up the chords a little<br>
+    (1:29) [Rowyn] writes an ending and finishes the song
 ---
 Track: Of the Grim and Godlike - Spad3s Deathstep Remix
 Artists:
@@ -539,6 +688,10 @@ Cover Artists:
 - wumby
 Referenced Tracks:
 - Of the Grim and Godlike
+Commentary: |-
+    <i>Spad3s:</i> (composer, booklet commentary)
+
+    This one was kinda last minute so I wasn't able to do with it as much as I wanted, but it still came out pretty cool! this is a remix of [[track:of-the-grim-and-godlike|a song from stlap2]] that I really liked the composition of, and I thought it would sound sick in a deathstep song, which I think it kinda did so :3
 ---
 Track: Destiny Paradox
 Artists:
@@ -552,6 +705,16 @@ Cover Artists:
 Referenced Tracks:
 - Sburban Jungle
 - Eternity Served Cold
+Commentary: |-
+    <i>Levc:</i> (composer, booklet commentary)
+
+    This track its about caliborn/lord english and his life in the comci as a paradox that loops (but this song doesn't loop because it would be boring)
+
+    How i did it? well, i tried to represent most of the tracks i could related to the character, in a narrative way. starting with a melancholic piano representing [[track:eternity-served-cold|eternity served cold]], mostly to the entirety of the comic where lil cal where allways there to complete the loop with everything about doc scratch etc etc.
+
+    after that we go to the section that represents the final battle in homestuck (the part that goes crazy its a reference to [[track:oppa-toby-style|oppa toby style]].. in style lol), and when the rock/metal Part ends we got to the part that i decided to go full orchestra that represents how caliborn gets his sould (and others too) into lil cal, and the loops BEGINS (thats why i decided to do again the start of the rock part with a sound clip in reverse of the preivous part before that)
+
+    As my first track here in the \*paradox music team\* i'm really proud with this. and i hope everyone likes it :D
 ---
 Track: Forgotten Member of the Lost Weeaboos
 Artists:
@@ -565,6 +728,10 @@ Cover Artists:
 Cover Art File Extension: jpg
 Art Tags:
 - Damara
+Commentary: |-
+    <i>Chromaphantasia:</i> (composer, booklet commentary)
+
+    Good lord, this song. This song was an absolute pain to write for, due to the technical limitations that come with this kind of music. I had to do a lot of research for this song, such as what types of melodic structures, and what types of instruments to use. This song utilizes Japanese Tetrachords, which are a pain to write around. There are four of them, and you pick two and stack them upon each other to make a full octave scale. Each tetrachord is three notes, which means a sclae is only six notes, instead of the usual eight. This means you have that many less options when writing chord structures and melodies, hence why this song was such a pain. Hopefully the trouble was worth it, at least I think so.
 ---
 Section: Disc 4
 ---
@@ -578,8 +745,15 @@ URLs:
 - https://www.youtube.com/watch?v=B_7x5N2Bqlw
 Cover Artists:
 - wumby
+Art Tags:
+- Jill (Desynced)
+# - Light  # (?) same symbol as used in other desynced art
 Referenced Tracks:
 - Lullaby for a Drifter
+Commentary: |-
+    <i>Rowyn Berlan:</i> (composer, booklet commentary)
+
+    So this is me sampling the original piano sketch for my song [[Lullaby for a Drifter]] and layering it with a rhodes. Lullaby for a Drifter was made for the MSPFA [[group:desynced]] ([Go check it out it epic](https://desynced.xyz/)) for a carapacian girl named Jill which is what the art is a reference to. That's it really...
 ---
 Track: Photoluminescence
 Directory: photoluminescence-stlap3
@@ -594,6 +768,14 @@ Cover Artists:
 - e_music
 Referenced Tracks:
 - Doctor
+Commentary: |-
+    <i>Beau Brian:</i> (composer, booklet commentary)
+
+    One day I opened up my DAW to find out that I suddenly had more plugins, since that's apparently just a thing that has happened on multiple occasions and will probably keep happening until the end of time. This time, the plugins happened to be effects, (as they usually are, but new instruments *have* made their way into my catalog without me updating anything once or twice) so I immediately put them to work to see any real applications they could have, notably on that static-ey, bitcrushed piano heard through the song.
+
+    This track is also just a little bit inspired by Track 17- Chromaphasia's [[track:the-outer-veil|"Outer Veil,"]] and a little bit of Terraria music since a lot of the team had been playing a *lot* of Terraria together around the time this track was made. Terraria was just stuck on the brain, and I really dug the vibe Chroma gave off with "Outer Veil," and though I didn't really keep the same vibe as either of the two, especially near the later parts of the song, they did get me started on this.
+
+    I also figured I just didn't make enough LoWaS tracks, and wanted to hear some more of those.
 ---
 Track: Chaos Flames
 Artists:
@@ -606,6 +788,12 @@ Cover Artists:
 - animmania
 Referenced Tracks:
 - Beastly Skirmish
+Sampled Tracks:
+- Amen, Brother  # not reviewed
+Commentary: |-
+    <i>Rainy:</i> (composer, booklet commentary)
+
+    This song actually a bit of history. I wrote the original version of this track back in the summer of 2018 a few months before I jined <!-- [sic] --> the PMT. I had this idea for ambitious 2-part final boss theme in the vain of Dancing Mad. To make a long story short, I made the first part and it turned out so bad that I lost all motivation to finish the second part. I returned to the project 2 months later and got a decent demo out of it but I never got around to finishing it. At one point, I was actually going to try to finish it for [[album:stlap2|STLaP 2]] but I was pretty weird about putting original work on a Homestuck Fan-album at the time. Needless to say I've since changed my mind on that and it's honestly been for the best lol. As for the song itself, it borrows elements of second demo I made in 2018 but the song is completely different. The most notable inclusion is the amen break that I sliced up that acts as the rhythmic back bone for the entire song. Aside from that it's a lot of synth, guitar and orchestral nonsense. I even added a small reference to [[Beastly Skirmish]], whose arrangement was based on an early demo of this track. This is probably my favorite song I've ever made and I hope you enjoy it.
 ---
 Track: Cascade DX
 Artists:
@@ -624,6 +812,10 @@ Referenced Tracks:
 - Flare
 - Courser
 - Spider8ite!!!!!!!!
+Commentary: |-
+    <i>Caelan Kier:</i> (composer, booklet commentary)
+
+    I couldn't get [[track:cascade-beta|Cascade]] out of my head so I kinda had to make this, then I sorta kept going and going then ended up with the full song. The cringe guitar you hear in the background was my own actual recording. Just before I made this song I tried to learn the starting chords for Cascade just 'cause, then I recorded it, that was actually the first thing I did to start this remix. Oh yeah I can't tell why of all things I decided to reference [[track:spider8ite|Spider8ite!]] in this but I did.
 ---
 Track: Soft as the Clouds
 Artists:
@@ -639,12 +831,19 @@ Referenced Tracks:
 - Softly
 - Softbit
 - The Beginning of Something Really Excellent
+  # could be Gardener, not reviewed
 - Penumbra Phantasm
 - Sunsetter
 - Spider's Claw
 - Dissension (Original)
+Commentary: |-
+    <i>Pascal van den Bos:</i> (album team, booklet commentary)
+
+    I haven't seen that many [[Gardener]] remixes around pretty much ever, this is the first song i learned to play on my Bass Guitar and Warx did an amazing job with it, this is really the ultimate version of Gardener.
 ---
 Track: Hell0! 0u0
+Additional Names:
+- Hell0!! 0u0 (name in booklet)
 Artists:
 - Beau Brian
 Duration: 2:36
@@ -654,6 +853,12 @@ URLs:
 Cover Artists:
 - doctorcorby
 Cover Art File Extension: jpg
+Commentary: |-
+    <i>Beau Brian:</i> (composer, booklet commentary)
+
+    When I started on this song, I started with blazing progress in a few sessions - I had some mixer presets I had made fro some other, less important tracks at the ready, and I was just itching to put them to good use. I was working on this song *fervently*...
+
+    ...And then I dropped it for a couple of months. All motivation towards anything musical was severely lacking, and it affected a lot more than just this song, but after a good wait I did get back to this. I don't know if I kept the shape I originally wanted it to have, seeing as how I remember nothing else about the process that went into it, but it's done now, and I think I like it.
 ---
 Track: Black - Spad3s Glitch Hop Remix
 Artists:
@@ -674,6 +879,14 @@ Lyrics: |-
     (The following message is transmitted at the request of the federal aviation administration.)
 
     Make-m-m-make-make her a me-mber of the midnight crew!
+Commentary: |-
+    <i>Spad3s:</i> (composer, booklet commentary)
+
+    another black remix? yes black is a good song
+
+    When I first did this remix I just knew I wanted something grand and scary, and when playing with Serum I accidentally made a sine-y sound that sounded like the stereotypical alien music sound, so I just went with the whole alien aesthetic for that part with the glitchy radio and the war announcement etc
+
+    At first the drop was actually some psytrance (although very tame) because I was really into that at the time, but I returned to my specialty of glitch-hop/complextro/electro house, and the song just kinda flowed for me from there uwu
 ---
 Track: Lotus (Dream)
 Additional Names:
@@ -691,6 +904,10 @@ Cover Artists:
 - temporaryVoid
 Referenced Tracks:
 - Lotus
+Commentary: |-
+    <i>Pascal van den Bos:</i> (composer, booklet commentary)
+
+    Thsi one was requested by [[artist:wumby|Wumby]] a while back, i can't exactly remember why but it was definitely a fun idea to make a Lo-Fi version of [[Lotus]], even [[artist:seth-peelle]] himself said he liked this remix and that is extremely awesome to me. For the song itself I just used a lot of Major and Minor 7th chords to give it that standard Lo-Fi feel and added a really cool bassline, other than that i also added a choir and rain sounds cause lol. I'm pretty satisfied with it, it came out pretty beautiful.
 ---
 Track: Slave State
 Artists:
@@ -701,6 +918,10 @@ URLs:
 - https://www.youtube.com/watch?v=bsqftCzdX5o
 Cover Artists:
 - Caelan Kier
+Commentary: |-
+    <i>Caelan Kier:</i> (composer, booklet commentary)
+
+    Making this was actually pretty exciting, it was the first time I actually finished a LSDj song which I was trying to do for a few weeks now. I came to love the tracker because a lot of my favorite chiptune artists used it and I've grown to love the sound. I eventually bought it, spent a while figuring it out, then spent way longer trying to make a finished song out of it. I'm kind of a sucker for Sollux songs and I thought the timbre of Game Boy fidelity-majyykz were underutilized, hence the inspiration. I especially wanted that kinda pseudo-edm, hard chiptune-esque writing since I dunno I thought it sounded cool and sounded like Sollux aswell <!-- [sic] --> as doom.
 ---
 Track: Collapse
 Directory: collapse-stlap3
@@ -744,10 +965,19 @@ Referenced Tracks:
 - AlL kInDs Of MiRaCuLoUs ShIt
 - Jittery Optimist
 - Lust
+Commentary: |-
+    <i>Pascal van den Bos:</i> (composer, booklet commentary)
+
+    Ah here it is, the big one. I've always wanted to make a giant medley of PMT songs and here it is finally. I decided to do it in a style similar to [[Descend]] because it sounds really cool. In total i've referenced about 30 songs here, i won't list them all because that's way too many but i'm really proud of this song. Other than that i think the song pretty much speaks for itself so i hope you enjoy it as much as i did making it, and uh.. try to find all the references ;)
 ---
 Section: Bonus tracks
 ---
 Track: MeGaLoVania - BeforusBound Version (Cover)
+Additional Names:
+- Name: >-
+    MeGaLoVania (BeforusBound) (Cover)(Bonus)
+  Annotation: >-
+    name in booklet
 Artists:
 - Pascal van den Bos
 - Tee-vee
@@ -761,4 +991,4 @@ Referenced Tracks:
 Commentary: |-
     <i>Pascal van den Bos:</i> (composer, booklet commentary)
 
-    So i asked [[artist:tee-vee|Tee-Vee]] cover my remix of [[track:MeGaLoVania]] as a bonus song for this album because i originally wanted it to be played live for BefoprusBound but we ran out of time so i left my original guitars in there. He did an amazing job though, like i didn't think that solo at the end was playable to be honest but whaddaya know, it sounds fucking epic lmao. Now i just gotta get him to play the DX version...
+    So i asked [[artist:tee-vee|Tee-Vee]] cover [[track:megalovania-beforusbound|my remix of MeGaLoVania]] as a bonus song for this album because i originally wanted it to be played live for BefoprusBound <!-- [sic] --> but we ran out of time so i left my original guitars in there. He did an amazing job though, like i didn't think that solo at the end was playable to be honest but whaddaya know, it sounds fucking epic lmao. Now i just gotta get him to play [the DX version](https://www.youtube.com/watch?v=SBzLLxBfWPM)...
