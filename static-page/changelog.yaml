@@ -44,14 +44,14 @@ Content: |-
     <h3>data fixes</h3>
     - fixed [[track:the-twilight-reverie]] and [[track:the-twilight-reverie-extended-mix]] not sampling [[track:amen-brother]] (thanks, Maukustus!)
     - fixed [[track:the-twilight-reverie-extended-mix]] referencing [[track:umbral-ultimatum]] instead of [[track:the-blind-prophet]] (thanks, Maukustus!)
-    - fixed [[track:megalovania-ebhh]] not referencing [[track:gadobadorrer]]
+    - fixed [[track:megalovania-ebhh]] ([[album:earthbound-halloween-hack]]) not referencing [[track:gadobadorrer]]
     - fixed [[track:battle-lorekeeper-zinnia]] not referencing [[track:the-heirs-to-eternity]] (thanks, vriska/leo!)
     - fixed [[track:showtime-svix-mix-lofam2]] ([[album:lofam2]]) YouTube listening link pointing to upload of [[track:showtime-svix-mix|original version]] (thanks, sb0rp!)
     - fixed mistaken lyrics in [[track:sunsetter-ska]] (thanks, vriska/leo!)
     <h3>directory changes</h3>
     <details><summary><span>Toggle Directorylog</span></summary>
-    - changed directory of [[track:megalovania-ebhh]] from <code>megalovania-halloween</code> to <code>megalovania-ebhh</code>
     - changed directory of [[track:game-over-ebhh]] from <code>game-over-earthbound-halloween-hack</code> to <code>game-over-ebhh</code>
+    - changed directory of [[track:megalovania-ebhh]] from <code>megalovania-halloween</code> to <code>megalovania-ebhh</code>
     </details>
 
     <h2 id="04-may-2024"><html:a href="#04-may-2024">[[date:04 May 2024]] - Allan, if you would</a></h2>
