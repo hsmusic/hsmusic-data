@@ -46,6 +46,11 @@ Content: |-
     - fixed [[track:battle-lorekeeper-zinnia]] not referencing [[track:the-heirs-to-eternity]] (thanks, vriska/leo!)
     - fixed [[track:showtime-svix-mix-lofam2]] ([[album:lofam2]]) YouTube listening link pointing to upload of [[track:showtime-svix-mix|original version]] (thanks, sb0rp!)
     - fixed mistaken lyrics in [[track:sunsetter-ska]] (thanks, vriska/leo!)
+    <h3>directory changes</h3>
+    <details><summary><span>Toggle Directorylog</span></summary>
+    - changed directory of [[track:megalovania-ebhh]] from <code>megalovania-halloween</code> to <code>megalovania-ebhh</code>
+    - changed directory of [[track:game-over-ebhh]] from <code>game-over-earthbound-halloween-hack</code> to <code>game-over-ebhh</code>
+    </details>
 
     <h2 id="04-may-2024"><html:a href="#04-may-2024">[[date:04 May 2024]] - Allan, if you would</a></h2>
     <h3>additions</h3>
@@ -362,7 +367,7 @@ Content: |-
     - fixed [[track:squiddles-in-paradise]] not referencing [[track:squiddles]] (thanks, ceruleanModulator!) and not sampling [[track:plumbthroat-gives-chase]] (plus a lyric adjustment)
     - fixed [[track:frost-vol6]] not referencing [[track:vertigo]] (thanks, Jebb!)
     - fixed [[track:umbral-ultimatum]] not referencing [[track:sburban-jungle]] (thanks, Mauskustus!)
-    - fixed [[track:MeGaLoVania]] not sampling [[track:megalovania-halloween]] (thanks, Morris!)
+    - fixed [[track:MeGaLoVania]] not sampling [[track:megalovania-ebhh]] (thanks, Morris!)
     - fixed [[track:trollcops-radio-play]] referencing [[track:trollcops]], now the other way around
     - fixed [[track:havoc]] not referencing [[track:my-hibernation]] (thanks, Lilith!)
     - fixed [[track:judgment-day]] not referencing [[track:psych0ruins]] (thanks, Lilith!)
@@ -1420,7 +1425,7 @@ Content: |-
     <h3>data changes</h3>
     - replaced background image for [[album:friendsymphony]] with uncompressed version
     - added [[album:nice-wizards-electronic-extravaganza]] to the [[group:beyond]] category
-    - moved [[track:gasters-theme]], [[track:megalovania-halloween]], and [[track:room-of-dog]] from the "Music from video games" subgroup to the "Miscellany by Homestuck musicians" subgroup in [[album:references-beyond-homestuck]]
+    - moved [[track:gasters-theme]], [[track:megalovania-ebhh]], and [[track:room-of-dog]] from the "Music from video games" subgroup to the "Miscellany by Homestuck musicians" subgroup in [[album:references-beyond-homestuck]]
     <h3>data fixes</h3>
     - fixed [[track:i-want-you-to-wear-a-seatbelt]] not referencing [[track:savior-of-the-driving-dead]]
     - fixed [[track:sea-patrol-ocean-calm]] not referencing [[track:sea-patrol-ocean-quarrel]]
