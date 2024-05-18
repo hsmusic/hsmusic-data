@@ -18320,9 +18320,17 @@ URLs:
 Track: Anubis
 Directory: anubis-septicflesh
 Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Annubis
+  Annotation: >-
+    [Bandcamp release](https://septicflesh.bandcamp.com/track/annubis)
+Artists:
+- Septicflesh
 Duration: 4:17
 URLs:
 - https://www.youtube.com/watch?v=qFkkSDIkA4Y
+- https://septicflesh.bandcamp.com/track/annubis
 Lyrics: |-
     Come, approach
     My trusty jackal's nose
