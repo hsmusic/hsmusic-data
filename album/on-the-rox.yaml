@@ -19,7 +19,6 @@ Color: '#F1D3DD'
 Groups:
 - The Paradox Music Team
 - Fandom
-# Track Art URL: https://f4.bcbits.com/img/a3281446869_16.jpg
 ---
 Section: Main album
 ---
@@ -85,7 +84,6 @@ Art Tags:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/broken-bottles-broken-dreams
 - https://youtu.be/NCk8HOO-jsU
-# Track Art URL: https://f4.bcbits.com/img/a3696223124_16.jpg
 ---
 Track: Sleepwalker
 Duration: '05:01'
@@ -99,7 +97,6 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/sleepwalker
 - https://youtu.be/R0X_7opJc98
-# Track Art URL: https://f4.bcbits.com/img/a0769675107_16.jpg
 ---
 Track: Communing With Fireflies
 Duration: '02:56'
@@ -113,9 +110,10 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/communing-with-fireflies
 - https://youtu.be/NuCn71XQLck
-# Track Art URL: https://f4.bcbits.com/img/a0876507565_16.jpg
 ---
 Track: Saboteur
+Directory: saboteur-on-the-rox
+Always Reference By Directory: true
 Duration: '03:58'
 Cover Artists:
 - Siedlag
@@ -129,10 +127,10 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/saboteur
 - https://youtu.be/q-VIKJv6M3w
-# Track Art URL: https://f4.bcbits.com/img/a3951741870_16.jpg
 ---
 Track: -Interlude-
 Directory: interlude-on-the-rox
+Always Reference By Directory: true
 Duration: '03:11'
 Cover Artists:
 - Siedlag
@@ -186,6 +184,8 @@ URLs:
 - https://youtu.be/CapQgind2GQ
 ---
 Track: Choices
+Directory: choices-on-the-rox
+Always Reference By Directory: true
 Duration: '04:54'
 Cover Artists:
 - SoulofWoods
@@ -197,7 +197,6 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/choices
 - https://youtu.be/5SINT4SlQgU
-# Track Art URL: https://f4.bcbits.com/img/a3775567844_16.jpg
 ---
 Track: A Future Worth Stealing
 Duration: '05:22'
@@ -213,10 +212,10 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/a-future-worth-stealing
 - https://youtu.be/HzONuhbbOME
-# Track Art URL: https://f4.bcbits.com/img/a2528244795_16.jpg
 ---
 Track: Reunion
 Directory: reunion-on-the-rox
+Always Reference By Directory: true
 Duration: '03:11'
 Cover Artists:
 - doctorcorby
@@ -228,7 +227,6 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/reunion
 - https://youtu.be/C37B09VxKDc
-# Track Art URL: https://f4.bcbits.com/img/a1397999856_16.jpg
 ---
 Track: From the Void
 Duration: '04:38'
@@ -243,7 +241,6 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/from-the-void
 - https://youtu.be/0cFwdANtIiI
-# Track Art URL: https://f4.bcbits.com/img/a2371058826_16.jpg
 ---
 Track: Fight For the Future
 Duration: '06:48'
@@ -256,6 +253,8 @@ Art Tags:
 - Rose
 - Kanaya
 Referenced Tracks:
+  # order is most likely wrong here
+  # credit list groups tracks by artist
 - track:rex-duodecim-angelus
 - track:showtime-original-mix
 - On Apocalyptic Shores
@@ -268,7 +267,6 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/fight-for-the-future
 - https://youtu.be/VwZYHC7jank
-# Track Art URL: https://f4.bcbits.com/img/a1461431087_16.jpg
 ---
 Track: A Life Worth Living
 Duration: '04:20'
@@ -286,7 +284,6 @@ Referenced Tracks:
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/a-life-worth-living
 - https://youtu.be/OP1gj8SwBHE
-# Track Art URL: https://f4.bcbits.com/img/a3465217661_16.jpg
 ---
 Section: Bonus tracks
 ---
