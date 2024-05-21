@@ -1,5 +1,5 @@
 Album: The Planets
-Directory: the-planets
+Always Reference Tracks By Directory: true
 Artists:
 - Ducky Senpai
 Date: April 13, 2015
@@ -52,26 +52,25 @@ Commentary: |-
     [[track:rain-the-planets]] - overhauled and remastered<br>
     [[track:clockwork-the-planets]] - remastered, minor overhaul<br>
     [[track:frost-the-planets]] - remastered, a few minor changes<br>
-    [[Helium]] - remastered<br>
-    [[Xenon]] - remastered<br>
-    [[Neon]] - remastered<br>
-    [[Krypton]] - remastered<br>
-    [[Melody]] - remastered, entirely overhauled "music box" parts<br>
-    [[Zephyr]] - subtly remastered<br>
-    [[Fire]] - subtly remastered<br>
-    [[Haze]] - overhauled and remastered<br>
-    [[Tea]] - remastered<br>
-    [[Rays]] - remastered<br>
+    [[track:helium-the-planets]] - remastered<br>
+    [[track:xenon-the-planets]] - remastered<br>
+    [[track:neon-the-planets]] - remastered<br>
+    [[track:krypton-the-planets]] - remastered<br>
+    [[track:melody-the-planets]] - remastered, entirely overhauled "music box" parts<br>
+    [[track:zephyr-the-planets]] - subtly remastered<br>
+    [[track:fire-the-planets]] - subtly remastered<br>
+    [[track:haze-the-planets]] - overhauled and remastered<br>
+    [[track:tea-the-planets]] - remastered<br>
+    [[track:rays-the-planets]] - remastered<br>
     [[track:flow-the-planets]] - overhauled and remastered<br>
-    [[Treasure]] - no changes<br>
-    [[Silence]] - remastered<br>
-    [[Mirth]] - remastered, a few minor changes<br>
-    [[Angels]] - remastered<br>
-    [[Glass]] - remastered
+    [[track:treasure-the-planets]] - no changes<br>
+    [[track:silence-the-planets]] - remastered<br>
+    [[track:mirth-the-planets]] - remastered, a few minor changes<br>
+    [[track:angels-the-planets]] - remastered<br>
+    [[track:glass-the-planets]] - remastered
 ---
 Track: Shade
 Directory: shade-the-planets
-Always Reference By Directory: true
 Duration: 2:09
 Color: '#666fe9'
 URLs:
@@ -83,7 +82,6 @@ Commentary: |-
 ---
 Track: Rain
 Directory: rain-the-planets
-Always Reference By Directory: true
 Duration: 2:51
 Color: '#b536da'
 URLs:
@@ -95,7 +93,6 @@ Commentary: |-
 ---
 Track: Clockwork
 Directory: clockwork-the-planets
-Always Reference By Directory: true
 Duration: 2:45
 Color: '#e00707'
 URLs:
@@ -107,7 +104,6 @@ Commentary: |-
 ---
 Track: Frost
 Directory: frost-the-planets
-Always Reference By Directory: true
 Duration: 2:39
 Color: '#4ac925'
 URLs:
@@ -118,6 +114,7 @@ Commentary: |-
     Land of Frost and Frogs
 ---
 Track: Helium
+Directory: helium-the-planets
 Duration: 3:39
 Color: '#00d5f2'
 URLs:
@@ -128,6 +125,7 @@ Commentary: |-
     Land of Crypts and Helium
 ---
 Track: Xenon
+Directory: xenon-the-planets
 Duration: 2:38
 Color: '#1f9400'
 URLs:
@@ -138,6 +136,7 @@ Commentary: |-
     Land of Mounds and Xenon
 ---
 Track: Neon
+Directory: neon-the-planets
 Duration: 3:01
 Color: '#ff6ff2'
 URLs:
@@ -148,6 +147,7 @@ Commentary: |-
     Land of Pyramids and Neon
 ---
 Track: Krypton
+Directory: krypton-the-planets
 Duration: 2:47
 Color: '#f2a400'
 URLs:
@@ -158,6 +158,7 @@ Commentary: |-
     Land of Tombs and Krypton
 ---
 Track: Melody
+Directory: melody-the-planets
 Duration: 2:08
 Color: '#eb0000'
 URLs:
@@ -168,6 +169,7 @@ Commentary: |-
     Land of Quartz and Melody
 ---
 Track: Zephyr
+Directory: zephyr-the-planets
 Duration: 3:00
 Color: '#c36100'
 URLs:
@@ -178,6 +180,7 @@ Commentary: |-
     Land of Sand and Zephyr
 ---
 Track: Fire
+Directory: fire-the-planets
 Duration: 2:29
 Color: '#a1a100'
 URLs:
@@ -188,8 +191,9 @@ Commentary: |-
     Land of Brains and Fire
 ---
 Track: Haze
+Directory: haze-the-planets
 Duration: 2:54
-Color: '#ff0000' 
+Color: '#ff0000'
 URLs:
 - https://duckysenpai.bandcamp.com/track/haze
 Commentary: |-
@@ -198,6 +202,7 @@ Commentary: |-
     Land of Pulse and Haze
 ---
 Track: Tea
+Directory: tea-the-planets
 Duration: 1:32
 Color: '#588a00'
 URLs:
@@ -208,6 +213,7 @@ Commentary: |-
     Land of Little Cubes and Tea
 ---
 Track: Rays
+Directory: rays-the-planets
 Duration: 2:10
 Color: '#008f48'
 URLs:
@@ -229,6 +235,7 @@ Commentary: |-
     Land of Thought and Flow
 ---
 Track: Treasure
+Directory: treasure-the-planets
 Duration: 1:10
 Color: '#3796c6'
 URLs:
@@ -239,6 +246,7 @@ Commentary: |-
     Land of Maps and Treasure
 ---
 Track: Silence
+Directory: silence-the-planets
 Duration: 2:35
 Color: '#487aef'
 URLs:
@@ -249,6 +257,7 @@ Commentary: |-
     Land of Caves and Silence
 ---
 Track: Mirth
+Directory: mirth-the-planets
 Duration: 2:18
 Color: '#a34bff'
 URLs:
@@ -259,6 +268,7 @@ Commentary: |-
     Land of Tents and Mirth
 ---
 Track: Angels
+Directory: angels-the-planets
 Duration: 2:33
 Color: '#db00db'
 URLs:
@@ -269,6 +279,7 @@ Commentary: |-
     Land of Wrath and Angels
 ---
 Track: Glass
+Directory: glass-the-planets
 Duration: 2:11
 Color: '#e30072'
 URLs:
@@ -279,6 +290,7 @@ Commentary: |-
     Lands of Dew and Glass
 ---
 Track: Mayhem
+Directory: mayhem-the-planets
 Duration: 3:04
 Color: '#888888'
 URLs:
