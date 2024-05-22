@@ -125,7 +125,8 @@ Direct Descendant Tags:
 Tag: Cool and New Web Comic (media)
 Direct Descendant Tags:
 - Characters from Cool and New Web Comic
-- Items from Cool and New Web Comic
+- Locations from Cool and New Web Comic
+- Objects from Cool and New Web Comic
 ---
 Tag: Crossmound (media)
 Direct Descendant Tags:
@@ -208,8 +209,10 @@ Direct Descendant Tags:
 - EarthBound (media)
 - EarthBound Halloween Hack (media)
 - Friday Night Funkin' (media)
+- Looney Tunes (media)
 - The NeverEnding Story (media)
 - Portal (media)
+- Rollercoaster Tycoon (media)
 - Shrek (media)
 - The Simpsons (media)
 - Sonic (media)
@@ -226,6 +229,10 @@ Tag: Friday Night Funkin' (media)
 Direct Descendant Tags:
 - Characters from Friday Night Funkin'
 ---
+Tag: Looney Tunes (media)
+Direct Descendant Tags:
+- Characters from Looney Tunes
+---
 Tag: The NeverEnding Story (media)
 Direct Descendant Tags:
 - Characters from The NeverEnding Story
@@ -233,6 +240,10 @@ Direct Descendant Tags:
 Tag: Portal (media)
 Direct Descendant Tags:
 - Characters from Portal
+---
+Tag: Rollercoaster Tycoon (media)
+Direct Descendant Tags:
+- Locations from Rollercoaster Tycoon
 ---
 Tag: Shrek (media)
 Direct Descendant Tags:
@@ -1314,6 +1325,13 @@ Tag: Characters from Karkat Goes to a Convention
 Direct Descendant Tags:
 - Dave Cosplayer (KGTAC)
 
+# Characters from Looney Tunes, by species (TBD)
+
+---
+Tag: Characters from Looney Tunes
+Direct Descendant Tags:
+- Bugs Bunny
+
 # Characters from Moonsplit, by species (TBD).
 
 ---
@@ -1662,6 +1680,7 @@ Direct Descendant Tags:
 - Liv Tyler
 - Meg Ryan
 - Michael Guy Bowman
+- Michael Jordan
 - Nicolas Cage
 - RJ Lake
 - Rob Cantor
@@ -2889,6 +2908,15 @@ Color: '#aa0000'
 Tag: Elli (Breadstuck)
 Color: '#C3C3C3'
 
+# Characters from Cool and New Music Team.
+
+---
+Tag: CANMT-Tan
+Color: '#2d79db'
+---
+Tag: Cool and New Music Team
+Color: '#8e6be5'
+
 # Characters from Cool and New Web Comic.
 
 ---
@@ -3147,6 +3175,15 @@ Color: '#FF290B'
 Tag: PDR Guy (PAY DAT RENT!!!1)
 Color: '#cb5116'
 
+# Characters from Portal
+
+---
+Tag: P-body
+Color: '#ffdb70'
+---
+Tag: Atlas
+Color: '#4ed4fa'
+
 # Characters from Shackstuck.
 
 ---
@@ -3321,15 +3358,6 @@ Color: '#ffffff'
 Tag: White Noise (Vast Error)
 Color: '#ffffff'
 
-# Characters from Cool and New Music Team.
-
----
-Tag: CANMT-Tan
-Color: '#2d79db'
----
-Tag: Cool and New Music Team
-Color: '#8e6be5'
-
 # Characters from Oceanfalls.
 
 ---
@@ -3483,8 +3511,8 @@ Color: '#84fff2'
 ---
 Tag: Spamton
 Color: '#fff200'
-# Characters from EarthBound.
 
+# Characters from EarthBound.
 
 ---
 Tag: Ness (EarthBound)
@@ -3511,6 +3539,11 @@ Color: '#780828'
 Tag: Boyfriend (Friday Night Funkin')
 Color: '#66ffff'
 
+# Characters from Looney Tunes
+---
+Tag: Bugs Bunny
+Color: '#b6bcc0'
+
 # Characters from The NeverEnding Story.
 
 ---
@@ -3534,15 +3567,6 @@ Color: '#FFD90F'
 ---
 Tag: Sonic
 Color: '#4040ff'
-
-# Characters from Portal
-
----
-Tag: P-body
-Color: '#ffdb70'
----
-Tag: Atlas
-Color: '#4ed4fa'
 
 # Real-world humans.
 
@@ -3578,6 +3602,9 @@ Color: '#e5e5e5'
 ---
 Tag: Michael Guy Bowman
 Color: '#32c7fe'
+---
+Tag: Michael Jordan
+Color: '#d1142f'
 ---
 Tag: Nicolas Cage
 Color: '#e5e5e5'
@@ -3838,6 +3865,76 @@ Tag: Victory Platform
 Color: '#90dd58'
 
 # -------------------------------------
+#  Location Archetypes
+# -------------------------------------
+
+---
+Tag: Location Archetypes
+Direct Descendant Tags:
+- Alternia (Archetype)
+- Battlefield (Archetype)
+- Derse (Archetype)
+- Earth (Archetype)
+- Forge (Archetype)
+- Frog Temple (Archetype)
+- Green Sun (Archetype)
+- Prospit (Archetype)
+- Skaia (Archetype)
+- Veil (Archetype)
+- Victory Platform (Archetype)
+---
+Tag: Alternia (Archetype)
+Direct Descendant Tags:
+- Alternia
+- Beforus
+- Nibiru (Desynced)
+---
+Tag: Battlefield (Archetype)
+Direct Descendant Tags:
+- Battlefield
+---
+Tag: Derse (Archetype)
+Direct Descendant Tags:
+- Derse
+- Durst
+---
+Tag: Earth (Archetype)
+Direct Descendant Tags:
+- Earth
+- Ruined Earth
+- Flooded Earth
+---
+Tag: Forge (Archetype)
+Direct Descendant Tags:
+- Forge
+---
+Tag: Frog Temple (Archetype)
+Direct Descendant Tags:
+- Frog Temple
+---
+Tag: Green Sun (Archetype)
+Direct Descendant Tags:
+- Green Sun
+---
+Tag: Prospit (Archetype)
+Direct Descendant Tags:
+- Prospit
+- Prostit
+---
+Tag: Skaia (Archetype)
+Direct Descendant Tags:
+- Skaia
+---
+Tag: Veil (Archetype)
+Direct Descendant Tags:
+- Veil
+---
+Tag: Victory Platform (Archetype)
+Direct Descendant Tags:
+- Victory Platform
+---
+
+# -------------------------------------
 #  Location classifications.
 # -------------------------------------
 
@@ -3847,7 +3944,7 @@ Direct Descendant Tags:
 - Locations on Earth
 - Locations on Alternia
 - Astronomical bodies
-- Lands in the Medium
+- Locationss in the Medium
 - Mobile locations
 - Recurring game locations
 - Real-world locations
@@ -3855,6 +3952,7 @@ Direct Descendant Tags:
 Tag: Locations on Earth
 Direct Descendant Tags:
 - Locations on Earth (Homestuck)
+- Locations on Earth (Rollercoaster Tycoon)
 ---
 Tag: Locations on Alternia
 Direct Descendant Tags:
@@ -3866,18 +3964,20 @@ Direct Descendant Tags:
 - 'Astronomical bodies (Homestuck: Beyond Canon)'
 - Astronomical bodies (Desynced)
 - Astronomical bodies (Vast Error)
+- Astronomical bodies (CANWC)
 - More astronomical bodies
 ---
 Tag: More astronomical bodies
 Direct Descendant Tags:
 - Earth
 ---
-Tag: Lands in the Medium
+Tag: Locations in the Medium
 Direct Descendant Tags:
-- Lands in the Medium (Homestuck)
-- Lands in the Medium (Aleph Null)
-- Lands in the Medium (Vast Error)
-- More lands in the Medium
+- Locations in the Medium (Homestuck)
+- Locations in the Medium (Aleph Null)
+- Locations in the Medium (Vast Error)
+- Locations in the Medium (CANWC)
+- More locations in the Medium
 ---
 Tag: Mobile locations
 Direct Descendant Tags:
@@ -3904,7 +4004,7 @@ Direct Descendant Tags:
 - 'Houston, TX'
 - 'Rajavihara'
 ---
-Tag: More lands in the Medium
+Tag: More locations in the Medium
 Direct Descendant Tags:
 - LoFaM
 
@@ -3937,9 +4037,9 @@ Direct Descendant Tags:
 ---
 Tag: Locations from Aleph Null
 Direct Descendant Tags:
-- Lands in the Medium (Aleph Null)
+- Locations in the Medium (Aleph Null)
 ---
-Tag: Lands in the Medium (Aleph Null)
+Tag: Locations in the Medium (Aleph Null)
 Direct Descendant Tags:
 - LoAaF (Aleph Null)
 - LoCaS (Aleph Null)
@@ -3947,6 +4047,23 @@ Direct Descendant Tags:
 - LoPaK (Aleph Null)
 - LoRaD (Aleph Null)
 - LoTaF (Aleph Null)
+
+# Locations from Cool and New Webcomic, by classification
+
+---
+Tag: Locations from Cool and New Webcomic
+Direct Descendant Tags:
+- Locations in the Medium (CANWC)
+- Astronomical Bodies (CANWC)
+---
+Tag: Locations in the Medium (CANWC)
+Direct Descendant Tags:
+- Prostit
+- Durst
+---
+Tag: Astronomical Bodies (CANWC)
+Direct Descendant Tags:
+
 
 # Locations from Desynced, by classification.
 
@@ -3965,7 +4082,7 @@ Direct Descendant Tags:
 Tag: Locations from Homestuck
 Direct Descendant Tags:
 - Astronomical bodies (Homestuck)
-- Lands in the Medium (Homestuck)
+- Locationss in the Medium (Homestuck)
 - Mobile locations (Homestuck)
 - Locations on Earth (Homestuck)
 - Locations on Alternia (Homestuck)
@@ -3998,8 +4115,9 @@ Direct Descendant Tags:
 - Jade's home
 - Jake's home
 ---
-Tag: Lands in the Medium (Homestuck)
+Tag: Locationss in the Medium (Homestuck)
 Direct Descendant Tags:
+- Derse
 - LoWaS
 - LoLaR
 - LoHaC
@@ -4021,6 +4139,7 @@ Direct Descendant Tags:
 - LoTaM
 - LoDaG
 - LoCaM
+- Prospit
 ---
 Tag: Locations on Alternia (Homestuck)
 Direct Descendant Tags:
@@ -4062,19 +4181,30 @@ Tag: 'Mobile locations (Homestuck: Beyond Canon)'
 Direct Descendant Tags:
 - The Theseus
 
+# Locations from Rollercoaster Tycoon
+
+---
+Tag: Locations from Rollercoaster Tycoon
+Direct Descendant Tags:
+- Locations on Earth (Rollercoaster Tycoon)
+---
+Tag: Locations on Earth (Rollercoaster Tycoon)
+Direct Descendant Tags:
+- MR BONES WILD RIDE
+
 # Locations from Vast Error, by classification.
 
 ---
 Tag: Locations from Vast Error
 Direct Descendant Tags:
 - Astronomical bodies (Vast Error)
-- Lands in the Medium (Vast Error)
+- Locations in the Medium (Vast Error)
 ---
 Tag: Astronomical bodies (Vast Error)
 Direct Descendant Tags:
 - Repiton (Vast Error)
 ---
-Tag: Lands in the Medium (Vast Error)
+Tag: Locations in the Medium (Vast Error)
 Direct Descendant Tags:
 - LoMaM (Vast Error)
 
@@ -4170,6 +4300,15 @@ Color: '#d17c6a'
 ---
 Tag: LoTaF (Aleph Null)
 Color: '#ffffcc'
+
+# Locations from Cool and New Webcomic
+
+---
+Tag: Durst
+Color: '#ff01fe'
+---
+Tag: Prostit
+Color: '#ffff01'
 
 # Locations from Desynced.
 
@@ -4381,6 +4520,12 @@ Color: '#f2a400'
 Tag: Deltritus
 Color: '#62c9e7'
 
+# Locations from Rollercoaster Tycoon
+
+---
+Tag: MR BONES WILD RIDE
+Color: '#ffffff'
+
 # Locations from Vast Error.
 
 ---
@@ -4439,6 +4584,8 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Rocket
 ---
 Tag: Rollercoaster
+Direct Descendant Tags:
+- MR BONES WILD RIDE
 Color: '#851f1a'
 ---
 Tag: Musical instruments
@@ -4478,6 +4625,7 @@ Tag: String instruments
 Direct Descendant Tags:
 - Bass
 - Cello
+- Guitar
 - Violin
 - String instruments (Homestuck)
 ---
@@ -4488,6 +4636,14 @@ Direct Descendant Tags:
 ---
 Tag: Cello
 Color: '#cc5f5e'
+---
+Tag: Electric Guitar
+Color: '#bf0103'
+---
+Tag: Guitar
+Color: '#e0ad67'
+Direct Descendant Tags:
+- Electric Guitar
 ---
 Tag: Violin
 Color: '#b536da'
