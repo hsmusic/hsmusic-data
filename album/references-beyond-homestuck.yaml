@@ -273,6 +273,22 @@ Commentary: |-
     <i>Quasar Nebula:</i>
     Unofficial name - it's the main theme from [Backyard Fun](https://www.youtube.com/watch?v=pa7xBUKruEw).
 ---
+Track: Battle! Wild Pokémon (Piano Sketch)
+Artists:
+- Jose "Phazonruler" Villanueva
+Duration: '0:56'
+URLs:
+- https://www.youtube.com/watch?v=Sll0CHvAmqc
+---
+Track: Beta Gym Theme
+Artists:
+- Pascal van den Bos
+Duration: '1:28'
+URLs:
+- https://www.youtube.com/watch?v=_PwVgV2IEjI
+Referenced Tracks:
+- Pokémon Gym (Pokémon Red / Pokémon Blue)
+---
 Track: Bogey Theme
 Artists:
 - Mark J. Hadley
@@ -601,6 +617,13 @@ Commentary: |-
 
     <i>Scott Stutzman:</i>
     I did a mix of a classmate's song as a school project. (I added a little somethin' to the middle. I don't think she liked it.)
+---
+Track: Fallshore City Day Beta
+Artists:
+- Pascal van den Bos
+Duration: '0:24'
+URLs:
+- https://www.youtube.com/watch?v=cIvkdbhBnnc
 ---
 Track: Featherlight
 Artists:
@@ -1276,6 +1299,13 @@ URLs:
 - https://www.youtube.com/watch?v=EOA5M74kv5k
 - https://soundcloud.com/jamesroachmusic/spider-dance-from-undertale-but-its-ska-i-guess-yikes
 ---
+Track: Tarmigan Town Day and Night (Solo Piano)
+Artists:
+- Blanders
+Duration: '1:36'
+URLs:
+- https://www.youtube.com/watch?v=nvjPdKdb_-s
+---
 Track: Texas History Theme
 # The song in Texas History from when the flag of Texas shows up and stuff, unreleased
 Duration: 0:24
@@ -1326,6 +1356,13 @@ Lyrics: |-
     Teenage Mutant Ninja Turtles
     Teenage Mutant Ninja Turtles
     Heroes in a Half-shell Turtle Power
+---
+Track: The Borrius Motif
+Duration: '0:12'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://hsmusic.wiki/media/misc/archive/Borrius%20Motif.mp3
 ---
 Track: Theme of Dr. Brinner
 Artists:
@@ -2346,6 +2383,22 @@ Duration: '3:34'
 URLs:
 - https://www.youtube.com/watch?v=wIjsuw0uIqA
 ---
+Track: Battle! (Lorekeeper Zinnia)
+Directory: battle-lorekeeper-zinnia
+# Official release:
+#   Nintendo 3DS Pokémon Omega Ruby & Alpha Sapphire Super Music Complete
+#   ニンテンドー3DS ポケモン オメガルビー・アルファサファイア スーパーミュージックコンプリート
+# Reference:
+#   https://vgmdb.net/album/48057
+Artists:
+- artist:pokemon
+- Shota Kageyama
+Duration: '3:04'
+URLs:
+- https://youtu.be/PjZvJZ6wRe8
+Referenced Tracks:
+- The Heirs to Eternity
+---
 Track: Battle! (Regirock/Regice/Registeel) (Pokémon Ruby / Pokémon Sapphire)
 Directory: battle-regirock-regice-registeel-pokemon-ruby-sapphire
 # Reference:
@@ -2501,21 +2554,17 @@ Duration: '0:55'
 URLs:
 - https://www.youtube.com/watch?v=eQq2v6kBKSM
 ---
-Track: Battle! (Lorekeeper Zinnia)
-Directory: battle-lorekeeper-zinnia
-# Official release:
-#   Nintendo 3DS Pokémon Omega Ruby & Alpha Sapphire Super Music Complete
-#   ニンテンドー3DS ポケモン オメガルビー・アルファサファイア スーパーミュージックコンプリート
+Track: Battle! (Xerneas/Yveltal)
 # Reference:
-#   https://vgmdb.net/album/48057
+#   https://vgmdb.net/album/41066
+Directory: battle-xerneas-yveltal
 Artists:
 - artist:pokemon
-- Shota Kageyama
-Duration: '3:04'
+- Junichi Masuda (composition)
+- Shota Kageyama (arrangement)
+Duration: '2:40'
 URLs:
-- https://youtu.be/PjZvJZ6wRe8
-Referenced Tracks:
-- The Heirs to Eternity
+- https://www.youtube.com/watch?v=00kfwPjXxwk
 ---
 Track: Battle Theme (Yūyūki)
 Directory: battle-theme-yuyuki
@@ -5176,6 +5225,16 @@ Duration: '8:00'
 URLs:
 - https://www.youtube.com/watch?v=1CitcacBARw
 ---
+Track: In the Room
+# Reference:
+#   https://vgmdb.net/album/29635
+Artists:
+- Tomodachi Life
+- Daisuke Shiiba
+Duration: '3:25'
+URLs:
+- https://www.youtube.com/watch?v=NtuujEslrAE
+---
 Track: In-Game Music (Main Theme) (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -6388,6 +6447,14 @@ Duration: '3:06'
 URLs:
 - https://www.youtube.com/watch?v=z0v9FX-hLR0
 ---
+Track: Most Favorite Ranks
+# Reference:
+#   none xd
+Artists:
+- Tomodachi Life
+URLs:
+- https://www.youtube.com/watch?v=gOmwwgZzbyc
+---
 Track: Mother 3 Love Theme
 # From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
 # Reference:
@@ -6996,6 +7063,16 @@ URLs:
 Commentary: |-
     <i>Makin:</i> (wiki editor)
     Also known as Cave Story's Title Theme or Main Theme.
+---
+Track: Poké Mart (Pokémon Ruby / Pokémon Sapphire)
+# Reference:
+#   https://vgmdb.net/album/1024
+Directory: poke-mart-pokemon-ruby-sapphire
+Artists:
+- Go Ichinose
+Duration: '1:16'
+URLs:
+- https://www.youtube.com/watch?v=RK0FO-Oe760
 ---
 Track: Pokédex Evaluation... Complete! (Pokémon Gold / Pokémon Silver)
 # Reference:
@@ -9012,6 +9089,19 @@ URLs:
 Referenced Tracks:
 - Main Theme (Luigi's Mansion)
 ---
+Track: Title Screen (Pokémon Black / Pokémon White)
+# Reference:
+#   https://vgmdb.net/album/20831
+Directory: title-screen-pokemon-black-white
+Artists:
+- artist:pokemon
+- Go Ichinose
+Duration: '1:19'
+URLs:
+- https://www.youtube.com/watch?v=SVc6sQcQMmA
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
+---
 Track: Title Screen (Pokémon Red / Pokémon Blue)
 # JP: 〜オープニング〜
 # Official release:
@@ -9036,6 +9126,8 @@ Artists:
 Duration: '1:42'
 URLs:
 - https://www.youtube.com/watch?v=4sa_0aCfdCU
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
 ---
 Track: Title (The Legend of Zelda)
 # (See dungeon-theme-zelda1 for release info)
@@ -9113,6 +9205,17 @@ Artists:
 Duration: '2:30'
 URLs:
 - https://www.youtube.com/watch?v=HAMPtw35Gjk
+---
+Track: Trainers' Eyes Meet (Psychic) (Pokémon Ruby / Pokémon Sapphire)
+# Reference:
+#   https://vgmdb.net/album/1024
+Directory: trainers-eyes-meet-psychic-pokemon-ruby-sapphire
+Artists:
+- artist:pokemon
+- Go Ichinose
+Duration: '0:30'
+URLs:
+- https://www.youtube.com/watch?v=0F71tYN3skA
 ---
 Track: Training (Luigi's Mansion)
 Artists: ##Kazumi Totaka and Shinobu Tanaka are both listed in the credits of Luigi's Mansion. It is unknown who made this track.
@@ -9503,6 +9606,19 @@ Artists:
 Duration: '0:39'
 URLs:
 - https://youtu.be/ZSdNARyfaZY
+---
+Track: Victory! (Trainer Battle) (Pokémon Ruby / Pokémon Sapphire)
+# Reference:
+#   https://vgmdb.net/album/1024
+Directory: victory-trainer-battle-pokemon-ruby-sapphire
+Artists:
+- artist:pokemon
+- Go Ichinose
+Duration: '0:31'
+URLs:
+- https://www.youtube.com/watch?v=Qd2Apz2RGnk
+Referenced Tracks:
+- track:victory-trainer-battle-pokemon-red-blue
 ---
 Track: Victory! (Trainer Battle) (Pokémon Red / Pokémon Blue)
 # Reference:
@@ -14966,6 +15082,16 @@ Lyrics: |-
     Yu-Gi-Oh!
     It's time to du-du-du-du-dududududududuel!
     Yu-Gi-Oh! (-Oh! -Oh! -Oh!)
+---
+Track: '気分爽快'
+Directory: refreshed
+#Reference
+#   https://vgmdb.net/album/61848
+Artists:
+- Kenichiro Ohishi
+Duration: '1:19'
+URLs:
+- https://www.youtube.com/watch?v=XcYT_e_KT5g
 ---
 Section: Traditional music
 ---
