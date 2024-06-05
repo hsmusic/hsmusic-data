@@ -39,8 +39,9 @@ Content: |-
     <h2 id="12-jun-2024" class="major-release"><html:a href="#12-jun-2024">[[date:12 June 2024]] - Snow Pollen Appreciation Station</a></h2>
     <h3>albums</h3>
     - added [[album:hammerkind-ost]] by [[artist:stephen-maxwell]]! (thanks, Makin!)
-    - added [[album:sburbmon-ost]] by [[artist:twix-stix]]! (thanks, Makin!)
+    - added [[album:bowmania-gordian]] by [[artist:gordian]]!
     - added [[album:intense-symphonic-metal-covers-vol-16]] by [[artist:falkkone]]! (thanks, Jebb!)
+    - added [[album:sburbmon-ost]] by [[artist:twix-stix]]! (thanks, Makin!)
     - added [[album:james-roach-collection]] by [[group:james-roach]]!
     - added [[album:puppeteer-beforus-single]] by [[artist:thesketchqueen]]! (thanks, Lilith!)
     - added [[album:versus-hardmode-remix]] by [[artist:ludicrousfalcon]]! (thanks, Lilith!)
@@ -92,6 +93,8 @@ Content: |-
     - moved [[track:dance-of-thorns-richaadeb]] from [[album:more-homestuck-fandom]] into single release (thanks, Jebb!)
     - moved various tracks from [[album:more-homestuck-fandom]] into respective albums, including: [[track:miasmic-decay]], [[track:distortion-navigator]], [[track:spritely-gardener]], [[track:windwielder]], [[track:blankest-stare]], [[track:heart-beat]], [[track:brobot-scrimmage]], [[track:good-morning-dirk]], [[track:jittery-optimist]], [[track:rematch-strider-mixtape]], [[track:snowfall-stlap3]]
     <h3>data fixes</h3>
+    - fixed [[track:bowmaniasmr-roleplay-intentional-part-one]] referencing [[track:sburban-jungle]] and [[track:MeGaLoVania]], and not sampling [[track:mutual-addiction]]
+    - fixed [[track:bowmaniasmr-roleplay-intentional-part-two]] referencing [[track:chorale-for-jaspers]] and [[track:haltmann-works-co-theme-song]], not referencing [[track:radiation-is-now-on-youtube]], and not sampling [[track:chorale-for-toby]], [[track:according-to-keikaku]], [[track:super-smash-bowman-brawl]], and [[track:ch-tingle-was-her]]
     - fixed [[track:escapade-desynced]] not sampling [[track:fear-of-the-heavens]] and [[track:im-a-member-of-the-midnight-crew]]
     - fixed [[track:collapse-reprise]] not referencing [[track:collapse-stlap3]]
     - fixed [[track:used-to]] not referencing [[track:all-star]] or sampling [[track:somebody-that-i-used-to-know]], [[track:power-kanye-west]], [[track:gods-plan]], [[track:super-mario-in-real-life]], [[track:september-earth-wind-fire]], [[track:all-i-want-for-christmas-is-you]], [[track:call-me]], and [[track:message-in-a-bottle]] (thanks, SpilledCereals, Jebb!)
