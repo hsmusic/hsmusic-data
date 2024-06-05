@@ -16,6 +16,9 @@ Wallpaper Style: |-
     image-rendering: pixelated;
     image-rendering: crisp-edges;
 Track Art File Extension: png
+Art Tags:
+- Jack Noir
+# - White Magnum
 Color: '#fe3f45'
 Additional Files:
 - Title: Album Booklet
@@ -85,6 +88,11 @@ Additional Names:
 Duration: 0:56
 Cover Artists:
 - Artazura
+Art Tags:
+- Jack Noir
+- Derse
+- 'cw: blood'
+- 'cw: corpse'
 Referenced Tracks:
 - The Ballad of Jack Noir
 URLs:
@@ -102,6 +110,9 @@ Track: The Dirty Snake's Coup
 Duration: 4:03
 Cover Artists:
 - Saturn of Astora
+Art Tags:
+- Jack Noir
+- 'cw: blood'
 Referenced Tracks:
 - Void of the Moon
 - Snake-Eyes!
@@ -119,6 +130,8 @@ Track: Nomad of Nothing
 Duration: 2:37
 Cover Artists:
 - artist:dizzims
+Art Tags:
+- Jack Noir
 Referenced Tracks:
 - I'm Sorry
 - The Ballad of Jack Noir
@@ -139,6 +152,8 @@ Track: City Streets
 Duration: 2:52
 Cover Artists:
 - Haxatax
+Art Tags:
+- Jack Noir
 Referenced Tracks:
 - Liquid Negrocity
 - track:noir-desynced
@@ -164,6 +179,8 @@ Additional Names:
 Duration: 1:29
 Cover Artists:
 - Napster
+Art Tags:
+- Jack Noir
 URLs:
 - https://desynced.bandcamp.com/track/im-sorry
 Commentary: |-
@@ -177,6 +194,8 @@ Track: Ballad of a Jack
 Duration: 3:36
 Cover Artists:
 - LimeadeArcade
+Art Tags:
+- Jack Noir
 Referenced Tracks:
 - The Ballad of Jack Noir
 - Light of the Sun
@@ -201,6 +220,11 @@ Additional Names:
 Duration: 2:47
 Cover Artists:
 - artist:dizzims
+Art Tags:
+- Jack Noir
+- Masky (Desynced)
+# - White Magnum
+- 'cw: blood'
 Referenced Tracks:
 - Double Midnight
 Sampled Tracks:
@@ -247,6 +271,8 @@ Always Reference By Directory: true
 Duration: 2:56
 Cover Artists:
 - METIANULL
+Art Tags:
+- Masky (Desynced)
 Referenced Tracks:
   # Order may be wrong, grouped by referenced track's artist - but appears to line up with commentary
 - track:escapade-desynced
@@ -285,14 +311,22 @@ Additional Names:
 Duration: 9:20
 Cover Artists:
 - artist:dizzims
+Art Tags:
+- Jack Noir
+- Masky (Desynced)
+# - White Magnum
+# - Reckoning
+- 'cw: blood'
 Referenced Tracks:
 - Oppa Toby Style
 - Liquid Negrocity
 - The Ballad of Jack Noir
 - Double Midnight
 # - I'm a Member of the Midnight Crew
-- I'm Sorry
 - The Dirty Snake's Coup
+  # presence according to https://witchscadence.bandcamp.com/track/act-3-the-epic-of-jack-noir
+  # placement according to https://discord.com/channels/749042497610842152/749067042250031214/1247897810985291867
+- I'm Sorry
 Sampled Tracks:
 - Black
 - I'm a Member of the Midnight Crew
@@ -388,6 +422,8 @@ Always Reference By Directory: true
 Duration: 1:08
 Cover Artists:
 - artist:dizzims
+Art Tags:
+- Jack Noir
 Referenced Tracks:
 - Liquid Negrocity
 URLs:
