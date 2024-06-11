@@ -37,6 +37,26 @@ Style: |-
     }
 Content: |-
     <h2 id="12-jun-2024" class="major-release"><html:a href="#12-jun-2024">[[date:12 June 2024]] - Snow Pollen Appreciation Station</a></h2>
+    <h3>site changes</h3>
+    - completely new search feature, present at top of sidebar or page
+        - runs completely in-browser, so queries never leave your device and are typically instantaneous after an initial automatic, couple-megabyte download
+        - currently only matches exact words (no "stemming" yet), like putting quotation marks around every word in other search engines
+        - search results include albums, tracks, artists, groups, flashes, and art tags
+        - most queries require entering at least one word from the name of what you're looking for, with additional words filtering by artist, album, group, or art tags
+        - keywords like "track", "album", "artist" etc filter final results to the specified kind
+        - search results remain visible while navigating pages, disappear when dismissed; an active search generally collapses and deemphasizes other boxes in the sidebar though they can still be used like normal
+    - chronology links (in track nav bar) now show "across this wiki", switches to "within this album" when clicked; always display even if an artist only has one contribution (across the wiki or album)
+    - group links now show below track nav bar, not just album nav bar, when browser is narrow; just shows group name, no previous/next
+    - dates in commentary entry headings are now aligned with the right edge ([[media:misc/changelog/commentary-date-old.png|old]], [[media:misc/changelog/commentary-date-new.png|new]])
+    - "View additional files" line no longer lists entry names ([[media:misc/changelog/additional-files-jump-old.png|old]], [[media:misc/changelog/additional-files-jump-new.png|new]]); section heading no longer shows number of files ([[media:misc/changelog/additional-files-heading-old.png|old]], [[media:misc/changelog/additional-files-heading-new.png|new]])
+    - various improvements for sticky subheading, to help identify where you're scrolled to on a page: track subheadings don't double the track name; "tracks that reference/sample this one" headings show the group name; albums' track section headings show just the name, not duration; album commentary page shows "(album commentary)" for comemntary section of album itself
+    - many, many internal improvements, as usual aiding data work and code debugging, serving as groundworks for upcoming features, cleaning up crustier code, and so on
+    <h3>bug fixes</h3>
+    - fixed [[listing:artists/by-duration]] double-counting tracks where an artist is both "artist" and "contributor"
+    - fixed [[listing:artists/by-group]] showing contribution counts across entire wiki, rather than within each group
+    - fixed [[listing:tracks/by-date]] including tracks without dates (at bottom, and displaying as though from [[date:12/31/1969]])
+    - fixed "Sorting by date." - "Sorting by count." switcher showing on group contributions table when none of an artist's tracks have any duration
+    - fixed italicized external link arrows in commentary headings ([[media:misc/changelog/italicized-external-link-old.png|old]], [[media:misc/changelog/italicized-external-link-new.png|new]])
     <h3 id="snow-pollen-appreciation-station-albums">albums</h3>
     - <b>album addition credits:</b>
         - thanks to [[artist:makin|Makin]] for adding the soundtracks for the fangames [[album:hammerkind-ost]] and [[album:sburbmon-ost]]
@@ -211,12 +231,13 @@ Content: |-
     - track lyrics are now inherited from original release, avoiding accidental variations
     - news entry page gets previous and next links at bottom, including date of the linked news entry as well as, in a tooltip, how much earlier or later it was posted compared to the current entry ([[media:misc/changelog/news-entry-previous-next.png|example]])
     - various improvements for layout responsiveness, especially when slightly adjusting browser window size: nav bar generally performs better word wrapping; on album pages, very long artist lists wrap earlier than track names ([[media:misc/changelog/album-track-responsiveness-old.png|old]], [[media:misc/changelog/album-track-responsiveness-new.png|new]])
+    - added support for image content warnings in commentary (e.g. [[track:walls-covered-in-blood]] original artwork, [[track:light-burns-out-gestalt]] WIPs)
+    - practically endless internal changes, both as groundworks for new and future features, and improvements for anyone working on data files locally
+    <h3>bug fixes</h3>
     - fixed rereleases being counted in artist per-group duration info ([[media:misc/changelog/artist-group-rerelease-duration-old.png|old]], [[media:misc/changelog/artist-group-rerelease-duration-new.png|new]])
     - removed tracks which aren't dated from artist chronology links, so most an artist's recently dated track doesn't have "next" link leading into dateless tracks ([[media:misc/changelog/chronology-before-dateless-old.png|old]], [[media:misc/changelog/chronology-before-dateless-new.png|new]])
     - fixed album YouTube video links displaying as "full album" when the album includes only a single track
     - fixed artists being credited as both "artist" and "contributor" on a track, with an annotation only on the latter, being mispresented as *only* contributing that part, by hiding annotation altogether ([[media:misc/changelog/artist-contrib-mispresentation-old.png|old]], [[media:misc/changelog/artist-contrib-mispresentation-new.png|new]])
-    - added support for image content warnings in commentary (e.g. [[track:walls-covered-in-blood]] original artwork, [[track:light-burns-out-gestalt]] WIPs)
-    - practically endless internal changes, both as groundworks for new and future features, and improvements for anyone working on data files locally
     <h3 id="lets-make-this-a-thing-albums">albums</h3>
     - <b>album addition credits:</b>
         - thanks to [[artist:morris]] for unrelentingly documenting the complete soundtracks of every AAA game [[group:toby-fox]] has had even the slightest involvement in, as well as [[album:unbeatable-demo-tapes]] and the original version of [[album:archive]]
