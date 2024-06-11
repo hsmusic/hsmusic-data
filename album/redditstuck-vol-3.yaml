@@ -6,8 +6,16 @@ URLs:
 - https://redditstuckmusic.bandcamp.com/album/redditstuck-vol-3-small-medium-at-large
 Cover Artists:
 - Radical Dude 42
+Wallpaper Artists:
+- Radical Dude 42
+- Quasar Nebula (edits for wiki)
 Cover Art File Extension: png
 Track Art File Extension: png
+Wallpaper File Extension: png
+Wallpaper Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    opacity: 0.7;
 Art Tags:
 - Skaia
 - LoSaA (Redditstuck)
