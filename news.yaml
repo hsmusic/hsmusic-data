@@ -1,3 +1,51 @@
+Name: Snow Pollen Appreciation Station
+Directory: snow-pollen-appreciation-station
+Date: June 12, 2024
+Content: |-
+    Hey hey, happy 6/12! For this update we've got a whole bunch of albums and additions to share, and several new features too - yes, including a search bar! Details, as ever, past the split!
+
+    <hr class="split">
+
+    We added a search bar! Please stop applausing, there really isn't that much to say about it LOL. Let's give all the new albums a look, first!
+
+    - We've added almost all the [[group:the-paradox-music-team|Paradox Music Team]] albums released from 2019 through 2020! This includes their latest numbered release [[album:stlap3]], from 4/13/2020, of course, plus team albums [[album:stlap2]] and [[album:beforusbound]], and three solo releases set about particular Homestuck characters: [[album:the-strider-mixtape]] by [[artist:pascal-van-den-bos]], [[album:the-nobles]] by [[artist:rowyn-berlan]], and [[album:on-the-rox]] by [[artist:rainy]]. Most of these albums come with thorough commentary and they all have incredible art, so there's a ton to explore here! Thanks to Lilith and Jebb for all their work on these, and Pascal and the rest of the PMT for their help!
+
+    - Likewise, we've added the main discography of [[group:redditstuck]]! These albums include most of the music from the Redditstuck fanventure ([[flash-act:redditstuck|whose flashes]] you can also explore!) and are all scored; the latest, [[album:redditstuck-vol-3]], is also fully comentated. Thanks to FF for initial work here and the Redditstuck team for lots of help!
+
+    - We've added two brand new releases, [[album:noirscape]] by [[artist:witchs-cadence]] and [[album:the-homestuck-strife-project-vol-1]] by [[artist:pascal-van-den-bos]]...
+
+    - ...and the music of two rather early fangames, [[album:hammerkind-ost]] and [[album:sburbmon-ost]]...
+
+    - ...and in-between many works, fandom and beyond, including [[album:alternian-misadventures-volume-1|both volumes]] of [[album:alternian-misadventures-volume-2|Alternian Misadventures]], [[group:circlejourney]]'s [[album:love-letters]], [[artist:falkkone]]'s [[album:intense-symphonic-metal-covers-vol-16|sixteenth symphonic metal cover album]], [[artist:gordian]]'s [[album:bowmania-gordian|BowmaniASMR piano suite]], a bunch of remixes by [[artist:richaadeb]], [[artist:ducky-senpai|Ducky Senpai's]] [[album:the-planets]] and [[album:ad-astra]], the one and only [[album:james-roach-collection]], and various new collaborative works from [[group:toby-fox]]!
+
+    The full list of additions, as ever, is [[static:changelog#12-jun-2024|in the changelog]], and you can find proper credits there too. So many people helped out with this update - we're grateful to each and everyone!
+
+    We've added a search bar to any page with a sidebar! It does the searchy thing. The music wiki is all a static website of course, so all the code works in your browser - it'll take a few seconds or so to download the search data into your browser (about two megabytes), but then all searches are basically instantaneous.
+
+    We're using a JavaScript library for searching called [FlexSearch](https://github.com/nextapps-de/flexsearch) which is, well, quite flexible ✨ (And thanks to Gio for lots of help getting us started with it!!) But it also means almost all of the actual search guts is coded by us and by hand, not handled by someone else's battle-hardened super-professional code work. That's great for the way we work on the music wiki, but it also means we're learning as we go, so please bear with us as the very first iteration is pretty basic LOL. There's an ocean of room for improvement!
+
+    Here's some of the stuff you can do with search right now:
+
+    - Find things by their name! Most of searching right now requires you to enter one or more words to do with the name of the thing you're lookin' for. These expect each word to match exactly (we don't do "stemming" yet). Otherwise stuff should work as you expect: "vol 10" or "beforus" or "one year older" or "toby" or "john". (This wiki has a lot of Johns.)
+
+    - Filter for only tracks or albums or artists or so-on! Just write the ordinary word "track" or album" or "artist", and it'll only include those kinds of results.
+
+    - Find stuff with contributions from a particular artist, belonging to a specific album or group! Did you know [[artist:rainy]] wrote a solo album for [[group:the-paradox-music-team]]? Find it with "rainy paradox album"! Or try "toby official album", or "ferkol fandom", or "clark vol 5".
+
+    - Find combinations with art tags! "john rabbit", "dirk dave official", "ruined earth fandom", "jack noir wv". Or just look for all the tags from one media - "ooceanfalls tag", "desynced tag" - and explore from there!
+
+    More features?? Yes! Well, just one, but it's a fun one: y'know these "chronology link" doohickers that've stuck around in the nav bar for [[static:changelog#15-apr-20|more or less]] as long as the wiki's been around?
+
+    <img src="media/misc/news/chronology-links-what.png" width="421" height="118" align="center">
+
+    Well, now you can click that "across this wiki" text to limit chronology to just the other tracks in the current album! This is pretty great if you're following along as you listen to an album in order, and it's fun for exploring in general.
+
+    Apart from that we've made a bunch of smaller improvements and tweaks across the site - these are [[static:changelog#2024-jun-12|all in the changelog]], of course. And the scale and depth of internal work - as support for the new search bar, improvements behind data processing shenanigans, and groundworks of things to come in the future - is kind of impossible to summarize. Suffice to say, it's been a busy couple months, and neat new things are always in the works! 🦥
+
+    Thanks so much to everyone for all your help and support, feedback and energy, care and time!! All the best wishes, through everything ahead for you. 🎻
+
+    <i>~ Quasar Nebula</i>
+---
 Name: Let's Make This a Thing
 Directory: lets-make-this-a-thing
 Date: April 13, 2024
