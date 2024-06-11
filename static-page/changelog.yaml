@@ -51,6 +51,12 @@ Content: |-
     - added [[album:love-letters]] by [[group:circlejourney]]! (thanks, Jebb!)
     - added [[album:unknown-diva]] by [[artist:amane-kanata]]! (thanks, Morris!)
     - added [[album:im-your-treasure-box]] by [[artist:houshou-marine]]! (thanks, Morris!)
+    - added albums from [[group:redditstuck]]! (thanks, FF!)
+        - added [[album:redditstuck-vol-1]]!
+        - added [[album:redditstuck-vol-2]]!
+        - added [[album:hypertonic-dreams]] by [[artist:jj-pollution]]!
+        - added [[album:redditstuck-vol-3]]!
+        - thanks to Gordian, Christofferoff, and Bin for lots of help adding and learning about these albums!
     - added albums from [[group:the-paradox-music-team]]!
         - added [[album:stlap2]]!
         - added [[album:the-strider-mixtape]] by [[artist:pascal-van-den-bos]]! (thanks, Lilith!)
@@ -92,16 +98,18 @@ Content: |-
     - added citations for commentary across [[album:junior-recital]] and [[album:senior-recital]]
     - added current details about "Music in Circles" album to [[track:new-irish-stew]]
     - moved [[track:dance-of-thorns-richaadeb]] from [[album:more-homestuck-fandom]] into single release (thanks, Jebb!)
-    - moved various tracks from [[album:more-homestuck-fandom]] into respective albums, including: [[track:miasmic-decay]], [[track:distortion-navigator]], [[track:spritely-gardener]], [[track:windwielder]], [[track:blankest-stare]], [[track:heart-beat]], [[track:brobot-scrimmage]], [[track:good-morning-dirk]], [[track:jittery-optimist]], [[track:rematch-strider-mixtape]], [[track:snowfall-stlap3]]
+    - moved various tracks from [[album:more-homestuck-fandom]] into respective albums, including: [[track:conflict]], [[track:gnade-redditstuck]], [[track:malediction]], [[track:wanderlust-redditstuck]], [[track:miasmic-decay]], [[track:distortion-navigator]], [[track:spritely-gardener]], [[track:windwielder]], [[track:blankest-stare]], [[track:heart-beat]], [[track:brobot-scrimmage]], [[track:good-morning-dirk]], [[track:jittery-optimist]], [[track:rematch-strider-mixtape]], [[track:snowfall-stlap3]]
     <h3>data fixes</h3>
     - fixed [[track:bowmaniasmr-roleplay-intentional-part-one]] referencing [[track:sburban-jungle]] and [[track:MeGaLoVania]], and not sampling [[track:mutual-addiction]]
     - fixed [[track:bowmaniasmr-roleplay-intentional-part-two]] referencing [[track:chorale-for-jaspers]] and [[track:haltmann-works-co-theme-song]], not referencing [[track:radiation-is-now-on-youtube]], and not sampling [[track:chorale-for-toby]], [[track:according-to-keikaku]], [[track:super-smash-bowman-brawl]], and [[track:ch-tingle-was-her]]
     - fixed [[track:escapade-desynced]] not sampling [[track:fear-of-the-heavens]] and [[track:im-a-member-of-the-midnight-crew]]
+    - fixed [[track:the-dreamer-and-the-dream-lofam5]] ([[album:lofam5]]) not referencing [[track:the-dreamer-and-the-dream]] ([[album:redditstuck-vol-2]])
     - fixed [[track:collapse-reprise]] not referencing [[track:collapse-stlap3]]
     - fixed [[track:used-to]] not referencing [[track:all-star]] or sampling [[track:somebody-that-i-used-to-know]], [[track:power-kanye-west]], [[track:gods-plan]], [[track:super-mario-in-real-life]], [[track:september-earth-wind-fire]], [[track:all-i-want-for-christmas-is-you]], [[track:call-me]], and [[track:message-in-a-bottle]] (thanks, SpilledCereals, Jebb!)
     - fixed [[track:broseph-bash]] not referencing [[track:vinesauce-joel-voices-of-the-void-part-5]] (thanks, Jebb!)
     - fixed [[track:deliverance-riddle-of-dixy]] ([[album:riddle-of-dixy-path-of-mind-ost]]) not referencing [[track:deliverance-alternian-misadventures]] ([[album:alternian-misadventures-volume-1]]; thanks, Jebb!)
     - fixed [[track:keys-of-a-piano]] not referencing [[track:home-keys-of-a-piano]] (thanks, Lilith!)
+    - fixed [[artist:nice-wizard]] having some credits under another name (thanks, Rosetta Leijonde!)
     - added [[artist:ash-taylor]] to credits for [[track:funkstuck-24]] (thanks, EtchJetty!)
     - added [[artist:will-ecker]] to credits for [[track:the-fall]]
     - added [[artist:brett-andrews]] to credits for [[track:soliloquy]]
@@ -116,6 +124,7 @@ Content: |-
     <h3>directory changes</h3>
     <details><summary><span>Toggle Directorylog</span></summary>
     - changed directory of [[track:yeah-it-is-soundtrack]] from <code>yeah-it-is</code> to <code>yeah-it-is-soundtrack</code>
+    - changed directory of [[track:wanderlust-redditstuck]] from <code>wanderlust-canmt</code> to <code>wanderlust-redditstuck</code>
     - changed directory of [[album:stlap]] from <code>stable-time-loops-and-paradoxes</code> to <code>stlap</code>
     - changed directory of [[track:disc1-stlap]] from <code>disc-1-stlap</code> to <code>disc1-stlap</code>
     - changed directory of [[track:disc2-stlap]] from <code>disc-2-stlap</code> to <code>disc2-stlap</code>
@@ -123,6 +132,7 @@ Content: |-
     - changed directory of [[track:disc4-stlap]] from <code>disc-4-stlap</code> to <code>disc4-stlap</code>
     - changed directory of [[track:rematch-strider-mixtape]] from <code>rematch-paradox-music-team</code> to <code>rematch-strider-mixtape</code>
     - changed directory of [[track:snowfall-stlap3]] from <code>snowfall-paradox-music-team</code> to <code>snowfall-stlap3</code>
+    - changed directory of [[track:the-dreamer-and-the-dream-lofam5]] from <code>the-dreamer-and-the-dream</code> to <code>the-dreamer-and-the-dream-lofam5</code>
     - changed directory of [[track:vexation-paradox-music-team]] from <code>vexation</code> to <code>vexation-paradox-music-team</code>
     - changed directory of [[track:a-song-about-a-circle-constant-entertaining-sound]] from <code>a-song-about-a-circle-constant-jan-misali</code> to <code>a-song-about-a-circle-constant-entertaining-sound</code>
     - changed directory of [[album:ava-original-soundtrack]] from <code>ava</code> to <code>ava-original-soundtrack</code>
