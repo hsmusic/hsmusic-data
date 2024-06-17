@@ -18,6 +18,8 @@ Groups:
 #- GAME FREAK
 Wallpaper Style: 'opacity: 0.45;' #... 
 ---
+Section: Disc 1
+---
 Track: Skeli Games Logo
 Duration: '0:10'
 Artists:
@@ -675,11 +677,12 @@ Referenced Tracks:
 Track: Tehl Town (Day)
 Duration: '1:01'
 Artists:
-- Blanders (composition)
-- Pascal van den Bos (arrangement)
+- Pascal van den Bos
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/tehl-town-day
 - https://www.youtube.com/watch?v=NQC5Fqr4pUw
+Referenced Tracks:
+- Tehl Town (Solo Piano)
 ---
 Track: Underground Path
 Directory: underground-path-pokemon-unbound
@@ -1092,6 +1095,8 @@ URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/pok-mon-league
 - https://www.youtube.com/watch?v=lQMZml_99yw
 ---
+Section: Disc 2
+---
 Track: Frozen Heights (Night)
 Duration: '0:59'
 Artists:
@@ -1101,3 +1106,161 @@ URLs:
 - https://www.youtube.com/watch?v=7izv-H6htSk
 Referenced Tracks:
 - Frozen Heights (Day)
+---
+Track: Battle! Wild Pokémon (Galar)
+Duration: '2:08'
+Artists:
+- CyanSixFour
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-wild-pok-mon-galar
+- https://www.youtube.com/watch?v=ZoiSufxtN5Y
+Referenced Tracks:
+- track:battle-wild-pokemon-pokemon-sword-shield
+---
+Track: Battle! Legendary Birds
+Duration: '4:21'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-legendary-birds
+- https://www.youtube.com/watch?v=BSyL7ksO270
+Referenced Tracks:
+- Battle! (Legendary Bird Pokémon)
+- Battle! Galarian Legendary Birds - Gen 5 Remix
+---
+Track: Bellin Town (Night)
+Duration: '1:16'
+Artists:
+- KiddleScribbles
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/bellin-town-night
+- https://www.youtube.com/watch?v=yRiSluy31YY
+Referenced Tracks:
+- Bellin Town (Day)
+---
+Track: Pokémon Center (Night)
+Directory: pokemon-center-night-pokemon-unbound
+Always Reference By Directory: true
+Duration: '1:42'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/pok-mon-center-night-2
+- https://www.youtube.com/watch?v=_Fw_Cpx_vS8
+Referenced Tracks:
+- track:pokemon-center-night-pokemon-diamond-pearl
+---
+Track: Dresco Town (Night)
+Duration: '1:15'
+Artists:
+- Levc
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/dresco-town-night
+- https://www.youtube.com/watch?v=_ke3IMOLK1M
+Referenced Tracks:
+- Dresco Town (Day)
+- In the Room
+- The Borrius Motif
+---
+Track: Battle! Max Raid
+Duration: '2:01'
+Artists:
+- CyanSixFour
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-max-raid
+- https://www.youtube.com/watch?v=T2zzOvI2zJE
+Referenced Tracks:
+- Max Raid Battle!
+---
+Track: Crater Town (Night)
+Duration: '1:07'
+Artists:
+- Levc
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/crater-town-night
+- https://www.youtube.com/watch?v=mpGwTE_N7ks
+Referenced Tracks:
+- Crater Town (Day)
+---
+Track: Battle! Deoxys
+Directory: battle-deoxys-pokemon-unbound
+Always Reference By Directory: true
+Duration: '2:45'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-deoxys
+- https://www.youtube.com/watch?v=7rpE3M_nBL0
+Referenced Tracks:
+- Battle! (Deoxys)
+- Capture (Deoxys' Shadow)
+---
+Track: Blizzard City (Night)
+Duration: '1:26'
+Artists:
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/blizzard-city-night
+- https://www.youtube.com/watch?v=lU27mkdjxXs
+Referenced Tracks:
+- Blizzard City (Day)
+---
+Track: Battle! Gym Leader (Sinnoh)
+Duration: '2:52'
+Artists:
+- CyanSixFour
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-gym-leader-sinnoh
+- https://www.youtube.com/watch?v=LvF0Tomqd2Y
+Referenced Tracks:
+- Battle! (Gym Leader) (Pokémon Diamond / Pokémon Pearl)
+---
+Track: Frozen Forest
+Duration: '1:06'
+Artists:
+- Blanders
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/frozen-forest-2
+- https://www.youtube.com/watch?v=k4FuUOfnWi0
+---
+Track: Mysterious Cavern
+Duration: '0:44'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/mysterious-cavern-2
+- https://www.youtube.com/watch?v=UR1hmfFzZOE
+Referenced Tracks:
+- Underground Ruins
+---
+Track: Battle! Regirock/Regice/Registeel
+Directory: battle-regirock-regice-registeel-pokemon-unbound
+Duration: '1:41'
+Artists:
+- Humanly
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-regirock-regice-registeel
+- https://www.youtube.com/watch?v=3nxK3LQQiOE
+Referenced Tracks:
+- Battle! (Regirock/Regice/Registeel) (Pokémon Ruby / Pokémon Sapphire)
+---
+Track: Tehl Town (Night)
+Duration: '0:59'
+Artists:
+- Levc
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/tehl-town-night
+- https://www.youtube.com/watch?v=KLfc5nBgm78
+Referenced Tracks:
+- Tehl Town (Day)
+---
+Track: Encounter! Twins
+Duration: '0:32'
+Artists:
+- KiddleScribbles
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/encounter-twins
+- https://www.youtube.com/watch?v=WjHsKn_rzqg
+Referenced Tracks:
+- Tehl Town (Day)
