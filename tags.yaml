@@ -208,6 +208,7 @@ Tag: Additional media
 Direct Descendant Tags:
 - EarthBound (media)
 - EarthBound Halloween Hack (media)
+- The Flintstones (media)
 - Friday Night Funkin' (media)
 - Looney Tunes (media)
 - The NeverEnding Story (media)
@@ -216,6 +217,7 @@ Direct Descendant Tags:
 - Shrek (media)
 - The Simpsons (media)
 - Sonic (media)
+- Vocaloid (media)
 ---
 Tag: EarthBound (media)
 Direct Descendant Tags:
@@ -224,6 +226,10 @@ Direct Descendant Tags:
 Tag: EarthBound Halloween Hack (media)
 Direct Descendant Tags:
 - Characters from EarthBound Halloween Hack
+---
+Tag: The Flintstones (media)
+Direct Descendant Tags:
+- Characters from The Flintstones
 ---
 Tag: Friday Night Funkin' (media)
 Direct Descendant Tags:
@@ -256,6 +262,10 @@ Direct Descendant Tags:
 Tag: Sonic (media)
 Direct Descendant Tags:
 - Characters from Sonic
+---
+Tag: Vocaloid (media)
+Direct Descendant Tags:
+- Characters from Vocaloid
 
 # -------------------------------------
 #  Character archetypes.
@@ -1286,6 +1296,12 @@ Direct Descendant Tags:
 - Oryyan (Fatebreak)
 - Syldis (Fatebreak)
 
+# Characters from The Flintstones, alphabetically
+---
+Tag: Characters from The Flintstones
+Direct Descendant Tags:
+- Fred Flintstone
+
 # Characters from Friday Night Funkin', by species (TBD).
 
 ---
@@ -1437,8 +1453,8 @@ Direct Descendant Tags:
 ---
 Tag: Characters from Portal
 Direct Descendant Tags:
-- P-Body
-- Atlas
+- P-Body (Portal)
+- Atlas (Portal)
 
 # Characters from SBaHJ, by species.
 
@@ -1472,7 +1488,7 @@ Direct Descendant Tags:
 ---
 Tag: Characters from The Simpsons
 Direct Descendant Tags:
-- Bart
+- Bart Simpson
 
 # Characters from Sonic, by species (TBD).
 
@@ -1615,6 +1631,13 @@ Direct Descendant Tags:
 - The Static (Vast Error)
 - White Noise (Vast Error)
 
+# Characters from Vocaloid, no species
+
+---
+Tag: Characters from Vocaloid
+Direct Descendant Tags:
+- Hatsune Miku
+
 # -------------------------------------
 #  Species.
 # -------------------------------------
@@ -1675,6 +1698,7 @@ Direct Descendant Tags:
 - Ben Affleck
 - Bing Crosby
 - Bruce Willis
+- Charles Barkley
 - Joe Hawley
 - John Cusack
 - Liv Tyler
@@ -1682,6 +1706,7 @@ Direct Descendant Tags:
 - Michael Guy Bowman
 - Michael Jordan
 - Nicolas Cage
+- Rick Astley
 - RJ Lake
 - Rob Cantor
 - Ross Federman
@@ -3175,15 +3200,6 @@ Color: '#FF290B'
 Tag: PDR Guy (PAY DAT RENT!!!1)
 Color: '#cb5116'
 
-# Characters from Portal
-
----
-Tag: P-body
-Color: '#ffdb70'
----
-Tag: Atlas
-Color: '#4ed4fa'
-
 # Characters from Shackstuck.
 
 ---
@@ -3533,6 +3549,12 @@ Color: '#f9fbf7'
 Tag: Varik (EBHH)
 Color: '#780828'
 
+# Characters from The Flintstones
+
+---
+Tag: Fred Flintstone
+Color: '#dd6a05'
+
 # Characters from Friday Night Funkin'.
 
 ---
@@ -3550,6 +3572,15 @@ Color: '#b6bcc0'
 Tag: Falkor
 Color: '#e1dcf1'
 
+# Characters from Portal
+
+---
+Tag: P-body (Portal)
+Color: '#ffdb70'
+---
+Tag: Atlas (Portal)
+Color: '#4ed4fa'
+
 # Characters from Shrek.
 
 ---
@@ -3559,7 +3590,7 @@ Color: '#a9c500'
 # Characters from The Simpsons.
 
 ---
-Tag: Bart
+Tag: Bart Simpson
 Color: '#FFD90F'
 
 # Characters from Sonic.
@@ -3567,6 +3598,12 @@ Color: '#FFD90F'
 ---
 Tag: Sonic
 Color: '#4040ff'
+
+# Characters from Vocaloid
+
+---
+Tag: Hatsune Miku
+Color: '#299ba5'
 
 # Real-world humans.
 
@@ -3585,6 +3622,9 @@ Color: '#e5e5e5'
 ---
 Tag: Bruce Willis
 Color: '#e5e5e5'
+---
+Tag: Charles Barkley
+Color: '#c17a4e'
 ---
 Tag: Joe Hawley
 Color: '#e4d13b'
@@ -3608,6 +3648,9 @@ Color: '#d1142f'
 ---
 Tag: Nicolas Cage
 Color: '#e5e5e5'
+---
+Tag: Rick Astley
+Color: '#1186ee'
 ---
 Tag: RJ Lake
 Color: '#ffffff'
@@ -3810,7 +3853,7 @@ Color: '#666fe9'
 Tag: Rose (Heinoustuck)
 Color: '#b536da'
 
-# Characters from CANWC
+# Characters from Canwc
 
 ---
 Tag: Terexi
@@ -3887,6 +3930,7 @@ Tag: Alternia (Archetype)
 Direct Descendant Tags:
 - Alternia
 - Beforus
+- Harold (Canwc)
 - Nibiru (Desynced)
 ---
 Tag: Battlefield (Archetype)
@@ -3924,6 +3968,7 @@ Direct Descendant Tags:
 Tag: Skaia (Archetype)
 Direct Descendant Tags:
 - Skaia
+- Skya
 ---
 Tag: Veil (Archetype)
 Direct Descendant Tags:
@@ -3944,7 +3989,7 @@ Direct Descendant Tags:
 - Locations on Earth
 - Locations on Alternia
 - Astronomical bodies
-- Locationss in the Medium
+- Locations in the Medium
 - Mobile locations
 - Recurring game locations
 - Real-world locations
@@ -3964,7 +4009,7 @@ Direct Descendant Tags:
 - 'Astronomical bodies (Homestuck: Beyond Canon)'
 - Astronomical bodies (Desynced)
 - Astronomical bodies (Vast Error)
-- Astronomical bodies (CANWC)
+- Astronomical bodies (Canwc)
 - More astronomical bodies
 ---
 Tag: More astronomical bodies
@@ -3976,7 +4021,7 @@ Direct Descendant Tags:
 - Locations in the Medium (Homestuck)
 - Locations in the Medium (Aleph Null)
 - Locations in the Medium (Vast Error)
-- Locations in the Medium (CANWC)
+- Locations in the Medium (Canwc)
 - More locations in the Medium
 ---
 Tag: Mobile locations
@@ -4053,16 +4098,19 @@ Direct Descendant Tags:
 ---
 Tag: Locations from Cool and New Webcomic
 Direct Descendant Tags:
-- Locations in the Medium (CANWC)
-- Astronomical Bodies (CANWC)
+- Locations in the Medium (Canwc)
+- Astronomical Bodies (Canwc)
 ---
-Tag: Locations in the Medium (CANWC)
+Tag: Locations in the Medium (Canwc)
 Direct Descendant Tags:
-- Prostit
 - Durst
+- LoLaF (Canwc)
+- Prostit
+- Skya
 ---
-Tag: Astronomical Bodies (CANWC)
+Tag: Astronomical Bodies (Canwc)
 Direct Descendant Tags:
+- Harold (Canwc)
 
 
 # Locations from Desynced, by classification.
@@ -4307,8 +4355,17 @@ Color: '#ffffcc'
 Tag: Durst
 Color: '#ff01fe'
 ---
+Tag: Harold (Canwc)
+Color: '#8e4fee'
+---
+Tag: LoLaF (Canwc)
+Color: '#FFFFFF'
+---
 Tag: Prostit
 Color: '#ffff01'
+---
+Tag: Skya
+Color: '#4bdcf9'
 
 # Locations from Desynced.
 
@@ -4551,6 +4608,7 @@ Direct Descendant Tags:
 Tag: General objects
 Direct Descendant Tags:
 - General objects (Homestuck)
+- General objects (Canwc)
 - More general objects
 ---
 Tag: More general objects
@@ -4562,32 +4620,6 @@ Direct Descendant Tags:
 - Rockets
 - Rollercoaster
 ---
-Tag: Clocks
-Color: '#008c45'
-Direct Descendant Tags:
-- Clocks (Homestuck)
----
-Tag: Cue Ball
-Color: '#ffffff'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Cue_ball
----
-Tag: Fans
-Color: '#dddddd'
----
-Tag: Magic 8 Ball
-Color: '#3796c6'
----
-Tag: Rockets
-Color: '#fc3120'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Rocket
----
-Tag: Rollercoaster
-Direct Descendant Tags:
-- MR BONES WILD RIDE
-Color: '#851f1a'
----
 Tag: Musical instruments
 Direct Descendant Tags:
 - Keyboard instruments
@@ -4595,6 +4627,7 @@ Direct Descendant Tags:
 - More instruments
 - Brass instruments
 - Percussion instruments
+- Woodwind instruments
 - Musical instruments (Homestuck)
 ---
 Tag: Keyboard instruments
@@ -4602,24 +4635,6 @@ Direct Descendant Tags:
 - Keyboard
 - Piano
 - Organ
----
-Tag: Keyboard
-Color: '#5c66e8'
----
-Tag: Piano
-Color: '#5c66e8'
-Direct Descendant Tags:
-- Grand Piano
-- Standing Piano
----
-Tag: Grand Piano
-Color: '#cccccc'
----
-Tag: Standing Piano
-Color: '#5c66e8'
----
-Tag: Organ
-Color: '#5c66e8'
 ---
 Tag: String instruments
 Direct Descendant Tags:
@@ -4629,31 +4644,9 @@ Direct Descendant Tags:
 - Violin
 - String instruments (Homestuck)
 ---
-Tag: Bass
-Color: '#4ac925'
-Direct Descendant Tags:
-- Bass (Homestuck)
----
-Tag: Cello
-Color: '#cc5f5e'
----
-Tag: Electric Guitar
-Color: '#bf0103'
----
-Tag: Guitar
-Color: '#e0ad67'
-Direct Descendant Tags:
-- Electric Guitar
----
-Tag: Violin
-Color: '#b536da'
----
 Tag: Brass instruments
 Direct Descendant Tags:
-- Saxophone
----
-Tag: Saxophone
-Color: '#ebcb92'
+- Trombone
 ---
 Tag: More instruments
 Direct Descendant Tags:
@@ -4661,23 +4654,9 @@ Direct Descendant Tags:
 - Synthesizer
 - Turntables
 ---
-Tag: Music Box
-Color: '#9e4704'
----
-Tag: Synthesizer
-Color: '#cccccc'
----
-Tag: Turntables
-Color: '#e00707'
-Direct Descendant Tags:
-- Turntables (Homestuck)
----
 Tag: Percussion instruments
 Direct Descendant Tags:
 - Marimba
----
-Tag: Marimba
-Color: '#76420a'
 ---
 Tag: Weapons
 Direct Descendant Tags:
@@ -4685,6 +4664,11 @@ Direct Descendant Tags:
 - Weapons (Problem Sleuth)
 - Weapons (SBaHJ)
 - Weapons (Canwc)
+---
+Tag: Woodwind instruments
+Direct Descendant Tags:
+- Saxophone
+
 
 # -------------------------------------
 #  Objects from media.
@@ -4718,7 +4702,12 @@ Direct Descendant Tags:
 --- 
 Tag: Objects from Cool and New Webcomic
 Direct Descendant Tags:
+- General Objects (Canwc)
 - Weapons (Canwc)
+---
+General Objects (Canwc)
+Direct Descendant Tags:
+- Hams
 ---
 Tag: Weapons (Canwc)
 Direct Descendant Tags:
@@ -4979,10 +4968,103 @@ Direct Descendant Tags:
 #  alphabetically.
 #
 
+# General Objects
+---
+Tag: Clocks
+Color: '#008c45'
+Direct Descendant Tags:
+- Clocks (Homestuck)
+---
+Tag: Cue Ball
+Color: '#ffffff'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Cue_ball
+---
+Tag: Fans
+Color: '#dddddd'
+---
+Tag: Magic 8 Ball
+Color: '#3796c6'
+---
+Tag: Rockets
+Color: '#fc3120'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rocket
+---
+Tag: Rollercoaster
+Direct Descendant Tags:
+- MR BONES WILD RIDE
+Color: '#851f1a'
+
+# Musical Instruments
+
+---
+Tag: Bass
+Color: '#4ac925'
+Direct Descendant Tags:
+- Bass (Homestuck)
+---
+Tag: Cello
+Color: '#cc5f5e'
+---
+Tag: Electric Guitar
+Color: '#bf0103'
+---
+Tag: Guitar
+Color: '#e0ad67'
+Direct Descendant Tags:
+- Electric Guitar
+---
+Tag: Grand Piano
+Color: '#cccccc'
+---
+Tag: Keyboard
+Color: '#5c66e8'
+---
+Tag: Marimba
+Color: '#db2104'
+---
+Tag: Music Box
+Color: '#9e4704'
+---
+Tag: Organ
+Color: '#5c66e8'
+---
+Tag: Piano
+Color: '#5c66e8'
+Direct Descendant Tags:
+- Grand Piano
+- Standing Piano
+---
+Tag: Saxophone
+Color: '#ebcb92'
+---
+Tag: Standing Piano
+Color: '#5c66e8'
+---
+Tag: Synthesizer
+Color: '#cccccc'
+---
+Tag: Trombone
+Color: '#ebcb92'
+---
+Tag: Turntables
+Color: '#e00707'
+Direct Descendant Tags:
+- Turntables (Homestuck)
+---
+Tag: Violin
+Color: '#b536da'
+
+
+
 # Objects from Canwc
 ---
 Tag: Conducters Batons of Ogloglob
 Color: '#aa20cc'
+---
+Tag: Hams
+Color: '#a5473d'
 
 # Objects from Homestuck.
 
@@ -5322,6 +5404,7 @@ Related Tags:
 ---
 Tag: sord
 Color: '#0000ff'
+
 
 # -------------------------------------
 #  Iconography classifications.
