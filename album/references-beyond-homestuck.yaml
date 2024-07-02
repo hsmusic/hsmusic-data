@@ -1387,7 +1387,7 @@ Track: Tehl Town (Solo Piano)
 Duration: '1:46'
 Artists:
 - Blanders
-URls:
+URLs:
 - https://www.youtube.com/watch?v=HcL6mBhbgqw
 ---
 Track: The Borrius Motif
@@ -2362,6 +2362,18 @@ Duration: '2:43'
 URLs:
 - https://www.youtube.com/watch?v=ATBooGt3nmM
 ---
+Track: Battle! (Dusk Mane Necrozma / Dawn Wings Necrozma)
+# Reference:
+#   https://vgmdb.net/forums/showthread.php?t=27272
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: 2:56 #only gamerip stuff no actual release
+URLs:
+- https://www.youtube.com/watch?v=p2y4AvGQX3E
+Referenced Tracks:
+- Battle! (Solgaleo / Lunala)
+---
 Track: Battle! (Elite Four) (Pokémon Black / Pokémon White)
 # JP: 戦闘！四天王
 # Official release:
@@ -2555,6 +2567,18 @@ Contributors:
 Duration: '2:54'
 URLs:
 - https://www.youtube.com/watch?v=KwI02CpAod8
+---
+Track: Battle! (Ultra Necrozma)
+# Reference:
+#   https://vgmdb.net/forums/showthread.php?t=27272
+Artists:
+- Pokémon
+- Go Ichinose
+Duration: 3:11 #only gamerip stuff no actual release
+URLs:
+- https://www.youtube.com/watch?v=dy7F6RytrTM
+Referenced Tracks:
+- Battle! (Dusk Mane Necrozma / Dawn Wings Necrozma)
 ---
 Track: Battle! (Wild Pokémon) (Pokémon Black / Pokémon White)
 # Reference:
@@ -6543,6 +6567,15 @@ Artists:
 Duration: '1:10'
 URLs:
 - https://youtu.be/TyN4aGJVkKY
+---
+Track: Mt. Layuda
+# Reference:
+#   https://vgmdb.net/product/9896
+Artists: #any of the following. actual artist unknown due to lack of credits breakdown.
+- Pokémon
+- Kenichi Koyano
+- Sigero Yoshida
+- Keisuke Oku
 ---
 Track: Mumbo's Mountain
 # Reference:
