@@ -525,6 +525,13 @@ Commentary: |-
 
     Longer, more crystally. Tempo tricks, instrumentation at its best. Apocalyptic feeling too
 ---
+Track: Dive (Emerald Version)
+Duration: '1:29'
+Artists:
+- Caelan Kier
+URLs:
+- https://www.youtube.com/watch?v=2EY8orJRs14
+---
 Track: Emmy
 Artists:
 - Circlejourney
@@ -2303,6 +2310,16 @@ Duration: '1:41'
 URLs:
 - https://www.youtube.com/watch?v=pBr0VWbDwpk
 ---
+Track: Battle Frontier (Hoenn Version)
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- Pokémon
+- Go Ichinose
+Duration: '1:29'
+URLs:
+- https://www.youtube.com/watch?v=1tgf4WUO4lg
+---
 Track: Battle! (Champion) (Pokémon Gold / Pokémon Silver)
 # JP: 戦闘！チャンピオン
 # Official release:
@@ -2390,6 +2407,17 @@ Contributors:
 Duration: '2:51'
 URLs:
 - https://www.youtube.com/watch?v=xTIX7f9wFB8
+Referenced Tracks:
+- Battle! (Elite Four) (Pokémon Ruby / Pokémon Sapphire)
+---
+Track: Battle! (Elite Four) (Pokémon Ruby / Pokémon Sapphire)
+Directory: battle-elite-four-pokemon-ruby-sapphire
+# Reference
+#   https://vgmdb.net/album/1024
+Artists:
+- Pokémon
+- Junichi Masuda
+Duration: '1:47'
 ---
 Track: Battle! (Elite Four) (Pokémon Sun / Pokémon Moon)
 Directory: battle-elite-four-pokemon-sun-moon
@@ -2401,6 +2429,30 @@ Artists:
 Duration: '2:06'
 URLs:
 - https://www.youtube.com/watch?v=mAk0dNzrPcE
+---
+Track: Battle! (Frontier Brain—Hoenn Version)
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- Pokémon
+- Go Ichinose
+Duration: '3:09'
+URLs:
+- https://www.youtube.com/watch?v=Cuf_i3Ivm0c
+Referenced Tracks:
+- Battle! (Champion) (Pokémon Gold / Pokémon Silver)
+---
+Track: Battle! (Frontier Brain—Sinnoh Version)
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- Pokémon
+- Hitomi Sato
+Duration: '3:06'
+URLs:
+- https://www.youtube.com/watch?v=ERHKYSxI_eI
+Referenced Tracks:
+- Battle! (Frontier Brain—Hoenn Version)
 ---
 Track: Battle! (Gladion)
 # Reference:
@@ -7482,6 +7534,16 @@ Duration: '3:39'
 URLs:
 - https://souleyedigitalmusic.bandcamp.com/track/pushing-onwards
 - https://www.youtube.com/watch?v=25m3Gk7mRQM
+---
+Track: PWT Final Round!
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- Pokémon
+- Go Ichinose
+Duration: '3:13'
+URLs:
+- https://www.youtube.com/watch?v=asMBwy0xl5Q
 ---
 Track: Rainbow Road (Super Mario Kart)
 # No official release.
