@@ -402,7 +402,7 @@ URLs:
 Track: Flower Paradise
 Duration: '1:12'
 Artists:
-- Rowyn Berlan (compostion & arrangement)
+- Rowyn Berlan (composition & arrangement)
 - Pascal van den Bos (arrangement)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/flower-paradise
@@ -1055,8 +1055,8 @@ URLs:
 Track: Redwood Village (Day)
 Duration: '1:20'
 Artists:
-- Blanders
-- Pascal van den Bos
+- Blanders (composition & arrangement)
+- Pascal van den Bos (arrangement)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/redwood-village-day
 - https://www.youtube.com/watch?v=lKtdnOVecwQ
@@ -1088,6 +1088,8 @@ URLs:
 - https://www.youtube.com/watch?v=nHuFSXEom7k
 ---
 Track: Pokémon League
+Directory: pokemon-league-pokemon-unbound
+Always Reference By Directory: True
 Duration: '1:30'
 Artists:
 - Rowyn Berlan
@@ -1358,3 +1360,479 @@ URLs:
 - https://www.youtube.com/watch?v=icHCiqAmRFE
 Referenced Tracks:
 - track:battle-xerneas-yveltal
+---
+Track: Gurun Town (Night)
+Duration: '1:12'
+Artists:
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/gurun-town-night
+- https://www.youtube.com/watch?v=uKeCZl2M-g0
+Referenced Tracks:
+- Gurun Town (Day)
+---
+Track: Vivill Woods
+Duration: '1:30'
+Artists:
+- Humanly
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/vivill-woods-2
+- https://www.youtube.com/watch?v=6y_kbA459P0
+---
+Track: Vivill Town
+Duration: '1:09'
+Artists:
+- Humanly
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/vivill-town
+- https://www.youtube.com/watch?v=NwOIeLohfGE
+---
+Track: Encounter! Aroma Lady
+Duration: '0:36'
+Artists:
+- KiddleScribbles
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/encounter-aroma-lady
+- https://www.youtube.com/watch?v=gcfe35k5GuQ
+---
+Track: Antisis City (Night)
+Duration: '2:14'
+Artists:
+- salex_r3kt
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/antisis-city-night
+- https://www.youtube.com/watch?v=MMB9GDVhgJU
+Referenced Tracks:
+- Antisis City (Day)
+---
+Track: Antisis Sewers
+Duration: '0:58'
+Artists:
+- Beau Brian
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/antisis-sewers
+- https://www.youtube.com/watch?v=LJyjn6Hvi9E
+---
+Track: Black Ferrothorn Turf
+Duration: '1:18'
+Artists:
+- AdAstra
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/black-ferrothorn-turf
+- https://www.youtube.com/watch?v=qzdIaClUYb0
+Referenced Tracks:
+- Antisis City (Day)
+---
+Track: Battle! Barbs
+Duration: '2:29'
+Artists:
+- Blanders (composition)
+- Pascal van den Bos (composition)
+- Rainy (arrangement)
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-barbs-2
+- https://www.youtube.com/watch?v=05GRC5HUl4Q
+---
+Track: Seaport City (Night)
+Duration: '1:24'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/seaport-city-night
+- https://www.youtube.com/watch?v=KLEPvszA9Sw
+Referenced Tracks:
+- Seaport City (Day)
+- Slateport City
+- The Borrius Motif
+---
+Track: Battleground
+Duration: '0:54'
+Artists:
+- Caelan Kier
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battleground
+- https://www.youtube.com/watch?v=DYkKfU-D7N0
+Referenced Tracks:
+- Phosphor Bronze
+---
+Track: Dive
+Duration: '1:29'
+Artists:
+- Caelan Kier
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/dive-2
+- https://www.youtube.com/watch?v=OWa5CaNqO9Q
+Referenced Tracks:
+- Dive (Emerald Version)
+---
+Track: Ruins of Void
+Duration: '0:56'
+Artists:
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/ruins-of-void
+- https://www.youtube.com/watch?v=BTGw_hNe-Ko
+---
+Track: S.S. Marine
+Duration: '1:10'
+Artists:
+- Blanders (composition & arrangement)
+- Pascal van den Bos (arrangement)
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/s-s-marine
+- https://www.youtube.com/watch?v=CkObT2kuoyA
+---
+Track: Polder Town (Night)
+Duration: '1:15'
+Artists:
+- DrakeSycamore
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/polder-town-night-2
+- https://www.youtube.com/watch?v=aUXbyDhcw6U
+Referenced Tracks:
+- Polder Town (Day)
+---
+Track: Safari Zone
+Duration: '2:40'
+Artists:
+- Humanly 
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/safari-zone-2
+- https://www.youtube.com/watch?v=VVEaLNrAM1o
+---
+Track: Magnolia Town (Night)
+Duration: '2:08'
+Artists:
+- KiddleScribbles
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/magnolia-town-night-2
+- https://www.youtube.com/watch?v=LkFV1-7OuEQ
+Referenced Tracks:
+- Magnolia Town (Day)
+- Piano Sonata No. 16
+---
+Track: Encounter! Pokémon Collector
+Duration: '0:36'
+Artists:
+- KiddleScribbles
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/encounter-pok-mon-collector
+- https://www.youtube.com/watch?v=wM4AtYRVfGk
+---
+Track: Redwood Village (Night)
+Duration: '1:47'
+Artists:
+- KiddleScribbles
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/redwood-village-night-2
+- https://www.youtube.com/watch?v=AgBAtzftY-k
+Referenced Tracks:
+- Redwood Village (Day)
+---
+Track: Redwood Forest
+Duration: '1:06'
+Artists:
+- Blanders
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/redwood-forest-2
+- https://www.youtube.com/watch?v=B9MbbWqDxEQ
+---
+Track: Crystal Peak
+Duration: '1:06'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/crystal-peak-2
+- https://www.youtube.com/watch?v=npVevawCEQU
+---
+Track: Science Society Appears!
+Duration: '0:27'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/science-society-appears
+- https://www.youtube.com/watch?v=WwmFYDTHE_Q
+Referenced Tracks:
+- Battle! Fey
+---
+Track: Battle! Science Society Scientist
+Duration: '2:11'
+Artists:
+- Rainy
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-science-society-scientist
+- https://www.youtube.com/watch?v=cpBZAj8ZZ2c
+Referenced Tracks:
+- Battle! Fey
+---
+Track: Cube Corp.
+Duration: '1:18'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/cube-corp-2
+- https://www.youtube.com/watch?v=6opey0qTpIY
+Referenced Tracks:
+- Kuprum's Theme
+---
+Track: Battle! Fey
+Duration: '2:16'
+Artists:
+- Pascal van den Bos
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-fey-3
+- https://www.youtube.com/watch?v=YMSh5b28v7w
+---
+Track: Black Horizon Appears!
+Duration: '0:47'
+Artists:
+- Levc
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/black-horizon-appears
+- https://www.youtube.com/watch?v=3-hv6lqXAXI
+Referenced Tracks:
+- Battle! Black Horizon Goon
+- Battle! Black Horizon Boss
+---
+Track: Battle! Black Horizon Goon
+Duration: '2:30'
+Artists:
+- Jose "Phazonruler" Villanueva
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-black-horizon-goon-2
+- https://www.youtube.com/watch?v=hFoP4GEUhrg
+---
+Track: Battle! Black Horizon Boss
+Duration: '2:45'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-black-horizon-boss-3
+- https://www.youtube.com/watch?v=Xx8UAb2O0GU
+---
+Track: Battle Frontier
+Directory: battle-frontier-pokemon-unbound
+Duration: '0:51'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-frontier
+- https://www.youtube.com/watch?v=snnOGGWaXv0
+Referenced Tracks:
+- Battle Frontier (Hoenn Version)
+- The Borrius Motif
+---
+Track: Battle Tower
+Directory: battle-tower-pokemon-unbound
+Duration: '1:03'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-tower
+- https://www.youtube.com/watch?v=snaAUCKFB94
+Referenced Tracks:
+- Battle Frontier (Hoenn Version)
+- The Borrius Motif
+---
+Track: Battle Mine
+Duration: '1:41'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-mine-2
+- https://www.youtube.com/watch?v=ngbsCzCXZf4
+Referenced Tracks:
+- track:derse-desynced-soundtest
+---
+Track: Battle Circus
+Duration: '1:25'
+Artists:
+- Blanders
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-circus-2
+- https://www.youtube.com/watch?v=aqGuS9WoYnw
+---
+Track: Battle! Frontier Brain
+Duration: '3:12'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-frontier-brain-2
+- https://www.youtube.com/watch?v=pvRTmKZT_Lc
+Referenced Tracks:
+- Battle! (Frontier Brain—Hoenn Version)
+- Battle! (Frontier Brain—Sinnoh Version)
+- Battle! (Elite Four) (Pokémon Ruby / Pokémon Sapphire)
+- PWT Final Round!
+---
+Track: Challenging the Pokémon League!
+Duration: '1:18'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/challenging-the-pok-mon-league
+- https://www.youtube.com/watch?v=Swpz4mD-3qM
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
+- The Borrius Motif
+---
+Track: Elite 4 Appears!
+Duration: '0:42'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/elite-4-appears
+- https://www.youtube.com/watch?v=7GX_Hk8gfpE
+Referenced Tracks:
+- Violet and Proud
+---
+Track: Battle! Elite 4
+Duration: '2:16'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-elite-4-2
+- https://www.youtube.com/watch?v=T-6jZiLxnmk
+Referenced Tracks:
+- Title Screen (Pokémon Red / Pokémon Blue)
+- PWT Final Round!
+---
+Track: Victory Against Elite 4!
+Duration: '0:42'
+Artists:
+- Blanders (composition & arrangement)
+- Humanly (arrangement)
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/victory-against-elite-4
+- https://www.youtube.com/watch?v=kgb6oRGG3qI
+---
+Track: Battle! Jax
+Duration: '2:09'
+Artists:
+- Rowyn Berlan
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/battle-jax-3
+- https://www.youtube.com/watch?v=nf0GqnPPUVA
+---
+Track: Victory! Champion Title Match
+Duration: '0:41'
+Artists:
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/victory-champion-title-match
+- https://www.youtube.com/watch?v=iTkF6nTwFt4
+Referenced Tracks:
+- The Borrius Motif
+---
+Track: Room of Glory
+Duration: '0:42'
+Artists:
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/room-of-glory
+- https://www.youtube.com/watch?v=ilJbXY1i-Zc
+Referenced Tracks:
+- The Borrius Motif
+---
+Track: Hall of Fame
+Duration: '0:31'
+Artists:
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/hall-of-fame-2
+- https://www.youtube.com/watch?v=3apIZLLAT4M
+Referenced Tracks:
+- Hall of Fame (Pokémon Red / Pokémon Blue)
+---
+Track: Staff Credits
+Directory: staff-credits-pokemon-unbound
+Always Reference By Directory: True
+Duration: '5:29'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/staff-credits
+- https://www.youtube.com/watch?v=AQasGLBDcXY
+Referenced Tracks:
+- Battle! Light of Ruin Grunt
+- Dehara City (Night)
+- Dresco Town (Day)
+- The Borrius Motif
+- KBT Expressway
+- Auburn Waterway
+- Title Screen (Pokémon Red / Pokémon Blue)
+- Frozen Heights (Day)
+---
+Track: The End
+Directory: the-end-pokemon-unbound
+Always Reference By Directory: True
+Duration: '1:49'
+Artists:
+- CyanSixFour
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/the-end
+- https://www.youtube.com/watch?v=p6BmkkOcvtY
+Referenced Tracks:
+- track:staff-credits-pokemon-unbound
+- The Borrius Motif
+---
+Track: Depths of Thundercap
+Duration: '2:26'
+Artists:
+- Pascal van den Bos
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/depths-of-thundercap
+- https://www.youtube.com/watch?v=oMA6w-YAM_4
+Referenced Tracks:
+- Thundercap Mt.
+- Mt. Layuda
+---
+Track: Cube Space - Terrke Mix
+Duration: '2:42'
+Artists:
+- NewoRGBY
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/cube-space-terrke-mix
+- https://www.youtube.com/watch?v=Qx4ATki2qVA
+Referenced Tracks:
+- Cube Space
+---
+Track: Sands of the Titans
+Duration: '5:41'
+Artists:
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/sands-of-the-titans
+- https://www.youtube.com/watch?v=kqFNrbpBKV8
+Referenced Tracks:
+- The Great Desert
+- Gurun Town (Day)
+---
+Track: SEAPORT CITY
+Duration: '2:06'
+Artists:
+- Pascal van den Bos
+Contributors:
+- YWAN (drums)
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/seaport-city
+- https://www.youtube.com/watch?v=0BeEiiV8DHw
+Referenced Tracks:
+- Seaport City (Day)
+- Slateport City
+- The Borrius Motif
+---
+Track: Calm Before the Storm
+Directory: calm-before-the-storm-pokemon-unbound
+Always Reference By Directory: True
+Duration: '4:24'
+Artists:
+- Rowyn Berlan
+URLs:
+- https://pascalpotatovandenbos.bandcamp.com/track/calm-before-the-storm
+- https://www.youtube.com/watch?v=pbdGxZH9VoU
+Referenced Tracks:
+- track:pokemon-league-pokemon-unbound
