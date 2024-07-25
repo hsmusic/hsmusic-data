@@ -1089,7 +1089,7 @@ URLs:
 ---
 Track: Pokémon League
 Directory: pokemon-league-pokemon-unbound
-Always Reference By Directory: True
+Always Reference By Directory: true
 Duration: '1:30'
 Artists:
 - Rowyn Berlan
@@ -1749,7 +1749,7 @@ Referenced Tracks:
 ---
 Track: Staff Credits
 Directory: staff-credits-pokemon-unbound
-Always Reference By Directory: True
+Always Reference By Directory: true
 Duration: '5:29'
 Artists:
 - Pascal van den Bos
@@ -1768,7 +1768,7 @@ Referenced Tracks:
 ---
 Track: The End
 Directory: the-end-pokemon-unbound
-Always Reference By Directory: True
+Always Reference By Directory: true
 Duration: '1:49'
 Artists:
 - CyanSixFour
@@ -1827,7 +1827,7 @@ Referenced Tracks:
 ---
 Track: Calm Before the Storm
 Directory: calm-before-the-storm-pokemon-unbound
-Always Reference By Directory: True
+Always Reference By Directory: true
 Duration: '4:24'
 Artists:
 - Rowyn Berlan
