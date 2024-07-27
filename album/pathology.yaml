@@ -13,6 +13,8 @@ Groups:
 - Kalibration
 - Beyond
 ---
+Section: Main album
+---
 Track: Murder
 Directory: murder-pathology
 Always Reference By Directory: true
@@ -56,5 +58,8 @@ Track: Executioner
 Duration: '03:00'
 URLs:
 - https://screamcatcher.bandcamp.com/track/executioner
-
-
+---
+Section: Bonus tracks
+---
+Track: Samurai
+Duration: '03:31'

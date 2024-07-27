@@ -12,10 +12,16 @@ Cover Art File Extension: png
 Wallpaper File Extension: png
 URLs:
 - https://kalibration.bandcamp.com/album/chips-bits-vol-2
+Additional Files:
+- Title: "I look like this" bonus image
+  Files:
+  - i look like this.png
 Color: '#babdf4'
 Groups:
 - Kalibration
 - Beyond
+---
+Section: Main album
 ---
 Track: swirly-eyed
 Duration: '02:21'
@@ -29,6 +35,10 @@ URLs:
 ---
 Track: mountain pass
 Duration: '01:46'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'mountain_pass.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/mountain-pass
 ---
@@ -39,16 +49,28 @@ URLs:
 ---
 Track: you were late for dinner i was late for lunch
 Duration: '00:44'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'you were late for dinner i was late for lunch.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/you-were-late-for-dinner-i-was-late-for-lunch
 ---
 Track: pictures of the real world
 Duration: '01:07'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'pictures of the real world.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/pictures-of-the-real-world
 ---
 Track: timid flame
 Duration: '00:41'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'timid flame.it'
 URLs:
 - https://kalibration.bandcamp.com/track/timid-flame
 ---
@@ -59,26 +81,46 @@ URLs:
 ---
 Track: sealife & see death
 Duration: '01:05'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'sealife_seedeath.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/sealife-see-death
 ---
 Track: saltmarsh
 Duration: '00:47'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'saltmarsh.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/saltmarsh
 ---
 Track: arc quake
 Duration: '00:39'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'arc quake.it'
 URLs:
 - https://kalibration.bandcamp.com/track/arc-quake
 ---
 Track: cool tea squad
 Duration: '01:57'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'cool tea squad.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/cool-tea-squad
 ---
 Track: that season will never come
 Duration: '00:56'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'that season will never come.it'
 URLs:
 - https://kalibration.bandcamp.com/track/that-season-will-never-come
 ---
@@ -104,11 +146,19 @@ URLs:
 ---
 Track: eatin my omelett
 Duration: '00:48'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'eatin my omelett.it'
 URLs:
 - https://kalibration.bandcamp.com/track/eatin-my-omelett
 ---
 Track: maidenless mf
 Duration: '00:58'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'maidenless mf.it'
 URLs:
 - https://kalibration.bandcamp.com/track/maidenless-mf
 ---
@@ -119,6 +169,10 @@ URLs:
 ---
 Track: your new thursday forever
 Duration: '03:04'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'your new thursday forever.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/your-new-thursday-forever
 ---
@@ -144,6 +198,10 @@ URLs:
 ---
 Track: fungus eating roots
 Duration: '01:14'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'fungus eating roots.it'
 URLs:
 - https://kalibration.bandcamp.com/track/fungus-eating-roots
 ---
@@ -154,6 +212,10 @@ URLs:
 ---
 Track: man hat too small
 Duration: '00:57'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'manhat2smal.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/man-hat-too-small
 ---
@@ -164,6 +226,10 @@ URLs:
 ---
 Track: clay the element of tennis
 Duration: '00:41'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'clay the element of tennis.it'
 URLs:
 - https://kalibration.bandcamp.com/track/clay-the-element-of-tennis
 ---
@@ -179,11 +245,19 @@ URLs:
 ---
 Track: last cold snap before i snap back
 Duration: '01:07'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'last cold snap before i snap back.it'
 URLs:
 - https://kalibration.bandcamp.com/track/last-cold-snap-before-i-snap-back
 ---
 Track: she moved from canada
 Duration: '00:50'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'she moved from canada.it'
 URLs:
 - https://kalibration.bandcamp.com/track/she-moved-from-canada
 ---
@@ -194,6 +268,10 @@ URLs:
 ---
 Track: you hang up first
 Duration: '01:39'
+MIDI Project Files:
+- Title: MOD by Kalibration (original composer)
+  Files:
+  - 'you hang up first.mod'
 URLs:
 - https://kalibration.bandcamp.com/track/you-hang-up-first
 ---
@@ -204,6 +282,10 @@ URLs:
 ---
 Track: oo ooh oo AA AAA AAAAAA
 Duration: '00:32'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'oo ooh oo AA AAA AAAAAA.it'
 URLs:
 - https://kalibration.bandcamp.com/track/oo-ooh-oo-aa-aaa-aaaaaa
 ---
@@ -214,11 +296,19 @@ URLs:
 ---
 Track: couldnt tell ya man
 Duration: '00:58'
+MIDI Project Files:
+- Title: XM by Kalibration (original composer)
+  Files:
+  - 'couldnt tell ya man.xm'
 URLs:
 - https://kalibration.bandcamp.com/track/couldnt-tell-ya-man
 ---
 Track: compound nostalgia
 Duration: '01:21'
+MIDI Project Files:
+- Title: MOD by Kalibration (original composer)
+  Files:
+  - 'compound nostalgia.mod'
 URLs:
 - https://kalibration.bandcamp.com/track/compound-nostalgia
 ---
@@ -229,6 +319,10 @@ URLs:
 ---
 Track: mario in the world of cruel illusion
 Duration: '01:27'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'mario in the world of cruel illusion.it'
 URLs:
 - https://kalibration.bandcamp.com/track/mario-in-the-world-of-cruel-illusion
 ---
@@ -244,6 +338,10 @@ URLs:
 ---
 Track: burning staircase
 Duration: '01:06'
+MIDI Project Files:
+- Title: IT by Kalibration (original composer)
+  Files:
+  - 'burning staircase.it'
 URLs:
 - https://kalibration.bandcamp.com/track/burning-staircase
 ---
@@ -251,3 +349,14 @@ Track: Teddy
 Duration: '03:36'
 URLs:
 - https://kalibration.bandcamp.com/track/teddy
+---
+Section: Bonus tracks
+---
+Track: shitty life lizard
+Duration: '00:52'
+---
+Track: gas station robbery
+Duration: '01:32'
+---
+Track: snowing in new jersey
+Duration: '02:12'

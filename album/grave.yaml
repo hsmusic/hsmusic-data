@@ -17,6 +17,8 @@ Groups:
 - Kalibration
 - Beyond
 ---
+Section: Main album
+---
 Track: Unit 02
 Duration: '03:20'
 URLs:
@@ -61,6 +63,13 @@ Track: Impact
 Duration: '07:02'
 URLs:
 - https://screamcatcher.bandcamp.com/track/impact
-
-
-
+---
+Section: Bonus tracks
+---
+Track: Nagisa (Ghoti Remix)
+Duration: '03:57'
+Referenced Tracks:
+- Nagisa
+---
+Track: Ikari (Instrumental)
+Duration: '06:47'
