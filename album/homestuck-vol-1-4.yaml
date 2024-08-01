@@ -62,8 +62,10 @@ Commentary: |-
     [[artist:michael-vallejo]]<br>
     [[artist:toby-fox|Toby "Radiation" Fox]]
 ---
-Color: '#38f43d'
 Section: From Homestuck Vol. 1
+Color: '#38f43d'
+Description: >-
+    Doesn't include [[track:sburban-jungle-brief-mix]] or [[track:aggrieve-violin-redux]].
 ---
 Track: Showtime (Piano Refrain)
 Directory: showtime-piano-refrain-vol-1-4
@@ -158,8 +160,10 @@ URLs:
 - https://homestuck.bandcamp.com/track/skies-of-skaia-3
 - https://youtu.be/tjq32cJRqpc
 ---
-Color: '#cb87f6'
 Section: From Homestuck Vol. 2
+Color: '#cb87f6'
+Description: >-
+    Tracks [[track:john-sleeps-skaian-magicant|11]], [[track:gardener|15]], and [[track:potential-verdancy|19]] are new to this release, replacing [[track:skaian-dreams-remix]], [[track:guardian]], and [[track:kinetic-verdancy]] respectively; [[track:nightlife-extended]] is excluded without a replacement.
 ---
 Track: Harlequin (Rock Version)
 Directory: harlequin-rock-version-vol-1-4
@@ -282,8 +286,10 @@ Referenced Tracks:
 Sampled Tracks:
 - Verdancy (Bassline)
 ---
-Color: '#ef001d'
 Section: From Homestuck Vol. 3
+Color: '#ef001d'
+Description: >-
+    Doesn't include [[track:rediscover-fusion-remix]] (which had been previously removed from the original Vol. 3).
 ---
 Track: Beatdown (Strider Style)
 Directory: beatdown-strider-style-vol-1-4
@@ -404,8 +410,10 @@ URLs:
 - https://homestuck.bandcamp.com/track/pony-chorale-3
 - https://youtu.be/B88bE5niVFQ
 ---
-Color: '#51a2fd'
 Section: From Homestuck Vol. 4
+Color: '#51a2fd'
+Description: >-
+    Doesn't include [[track:mutiny]], [[track:guardian-v2]], or [[track:contention-vol4]] (all of which had been previously removed from the original Vol. 4).
 ---
 Track: Revelawesome
 Directory: revelawesome-vol-1-4
@@ -528,7 +536,9 @@ URLs:
 - https://homestuck.bandcamp.com/track/black-3
 - https://youtu.be/dJ7H7MkL1Yk
 ---
-Section: Bonus tracks
+Section: Bonus track
+Description: >-
+    New to this release.
 ---
 Track: Doctor (Original Loop)
 Artists:
