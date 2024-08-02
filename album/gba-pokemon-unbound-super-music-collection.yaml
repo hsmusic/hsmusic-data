@@ -13,9 +13,16 @@ Color: '#9c6cc1'
 Groups:
 - The Paradox Music Team
 - Beyond
-#Wallpaper Artists: #todo wallpaper
-#- GAME FREAK
-#Wallpaper Style: 'opacity: 0.45;' #...
+Wallpaper Artists:
+- Phos
+Wallpaper Style: |-
+    position: absolute;
+    background-position: top;
+    width: 100%;
+    height: 100%;
+    background-size: unset;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/album/gba-pok-mon-unbound-super-music-collection), excerpt)
 
@@ -84,6 +91,14 @@ Commentary: |-
     Skeli/Skeli Games
 
     Pokémon is a trademark of Nintendo, GAME FREAK & The Pokémon Company International.
+
+    <i>The Paradox Music Team:</i> ([Twitter](https://twitter.com/pmtofficial/status/1500619575158886400), 03/07/2022)
+
+    The Pokémon Unbound: Super Music Collection is finally out! Enjoy all the original songs you've heard on your adventure in Borrius so far, plus five extra bonus tracks not heard in-game!
+
+    <i>Morris:</i> (wiki editor)
+
+    [[track:fallshore-city-day]] credits Psychic Lover for referencing [[track:refreshed|a track]] that is actually by [[artist:kenichiro-ohishi|Kenichiro Ohishi]].
 ---
 Section: Disc 1
 ---
@@ -710,6 +725,10 @@ URLs:
 Referenced Tracks:
 - Fallshore City Day Beta
 - track:refreshed
+Commentary: |-
+    <i>Morris:</i> (wiki editor)
+
+    On Bandcamp, original composition on this track is credited to both [[artist:pascal-van-den-bos|Pascal]] and Psychic Lover, the latter being for the [[track:refreshed|referenced track]]. As I was doing research for adding this album to the Wiki, I found out that the referenced song is by [[artist:kenichiro-ohishi|Kenichiro Ohishi]] instead. I've let Pascal know about this. As of writing this commentary, the Bandcamp page hasn't been corrected yet.
 ---
 Track: Auburn Waterway
 Duration: '2:00'
