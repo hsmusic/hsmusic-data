@@ -7327,6 +7327,16 @@ Duration: '0:07'
 URLs:
 - https://www.youtube.com/watch?v=2tyuKGLVHTQ
 ---
+Track: Pokémon World Tournament (PWT)
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- Pokémon
+- Go Ichinose
+Duration: '2:33'
+URLs:
+- https://www.youtube.com/watch?v=M9iwJ-byZ_o
+---
 Track: Power
 Directory: power-mother
 Always Reference By Directory: true
@@ -7544,6 +7554,8 @@ Artists:
 Duration: '3:13'
 URLs:
 - https://www.youtube.com/watch?v=asMBwy0xl5Q
+Referenced Tracks:
+- Pokémon World Tournament (PWT)
 ---
 Track: Rainbow Road (Super Mario Kart)
 # No official release.
