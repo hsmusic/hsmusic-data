@@ -50,6 +50,8 @@ Content: |-
     - fixed [[track:ascend-famitracker]] referencing [[track:ascend]]
     - fixed [[track:happy-hospital]] referencing itself (thanks, mehbark!)
     - fixed [[track:bowmans-credit-score-a-rock-opera]] referencing [[track:showtime-original-mix]] instead of [[track:showtime-piano-refrain]], and referencing [[track:liquid-negrocity]] (thanks, Niklink!)
+    - fixed [[track:vi-rulent-vi-ndication]] not referencing [[track:negative-feedback]] (thanks, Grace!)
+    - fixed [[track:stuck]] not sampling [[track:better-saint-pepsi]] and [[track:when-the-sun-hits]] (thanks, Grace!)
     - added [[artist:mloreley]] "Kanaya voice" credit to [[flash:feline-carnival]] (thanks, Jebb!)
     - fixed YouTube link for [[track:umbral-ultimatum-famitracker]] ([[album:cookiefonsters-2016-famitracker-covers]]; was to [newer version](https://www.youtube.com/watch?v=NX2GKdiDh2M)), as well as associated commentary
 
