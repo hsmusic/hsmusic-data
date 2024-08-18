@@ -1,4 +1,5 @@
 Album: CLASS ACT (B Side)
+Always Reference Tracks By Directory: true
 Artists:
 - Funk McLovin
 Date: August 31, 2020 12:00:00
@@ -19,24 +20,56 @@ Additional Files:
 - Title: Bandcamp Banner
   Files:
   - banner.jpg
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/album/class-act-b-side))
+
+    An album full of covers! Enjoy this one for free. Original artists and video links are included per track!
 ---
 Track: Accept My Shaft
 Directory: accept-my-shaft-funk-mclovin
+Additional Names:
+- Name: >-
+    Accept My Shaft [Song A Day 2020 Day 32]
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=IDt2HHrjqC0)
 Duration: '3:45'
 URLs:
 - https://funkmclovin.bandcamp.com/track/accept-my-shaft
 - https://www.youtube.com/watch?v=IDt2HHrjqC0
 Referenced Tracks:
-- track:accept-my-shaft
+- Accept My Shaft
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/accept-my-shaft), excerpt)
+
+    Originally by Ninja Sex Party (Daniel Avidan and Brian Wecht)
+
+    <i>Funk McLovin:</i> ([YouTube description](https://www.youtube.com/watch?v=IDt2HHrjqC0), excerpt)
+
+    Month 2 of Song A Day kicks off with a favorite: ACCEPT MY SHAFT
+
+    Original song by NINJA SEX PARTY: [youtube.com/watch?v=nxvz325stqw](https://www.youtube.com/watch?v=nxvz325stqw)
 ---
 Track: Get It On
 Directory: get-it-on-funk-mclovin
+Additional Names:
+- Name: >-
+    GET IT ON [Song a Day 2020 Day 36]
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=TALiw8ahfzA)
 Duration: '2:33'
 URLs:
 - https://funkmclovin.bandcamp.com/track/get-it-on
 - https://www.youtube.com/watch?v=TALiw8ahfzA
 Referenced Tracks:
-- track:get-it-on
+- Get It On
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/get-it-on), excerpt)
+
+    Originally by Bill Chase
+
+    <i>Funk McLovin:</i> ([YouTube description](https://www.youtube.com/watch?v=TALiw8ahfzA), excerpt)
+
+    This one's an old favorite. Enjoy.
 ---
 Track: LAWNMOWER
 Directory: lawnmower-funk-mclovin
@@ -46,32 +79,75 @@ URLs:
 - https://www.youtube.com/watch?v=eOxJH4XCHjE
 Referenced Tracks:
 - track:lawnmower-neil-cicierega
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/lawnmower), excerpt)
+
+    Originally by Lemon Demon (Niel Cicierga)
+
+    <i>Funk McLovin:</i> ([YouTube description](https://www.youtube.com/watch?v=eOxJH4XCHjE), excerpt)
+
+    Originally by Lemon Demon
 ---
 Track: Lonely Rolling Star (English)
+Additional Names:
+- Name: >-
+    Lonely Rolling Star: English Lyrics
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=Vt4VSTqOUdg)
 Duration: '5:38'
 URLs:
 - https://funkmclovin.bandcamp.com/track/lonely-rolling-star-english
 - https://www.youtube.com/watch?v=Vt4VSTqOUdg
 Referenced Tracks:
 - Lonely Rolling Star
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/lonely-rolling-star-english), excerpt)
+
+    Lyrics: [katamari.fandom.com/wiki/Lonely_Rolling_Star](https://katamari.fandom.com/wiki/Lonely_Rolling_Star?oldid=15479)
+
+    Originally featured in Katamari Damacy
+
+    <i>Funk McLovin:</i> ([YouTube description](https://www.youtube.com/watch?v=Vt4VSTqOUdg), excerpt)
+
+    Loosely based on: [katamari.fandom.com/wiki/Lonely_Rolling_Star](https://katamari.fandom.com/wiki/Lonely_Rolling_Star?oldid=15479)
+
+    Song-a-day 234
 ---
 Track: Hey Baby
 Directory: hey-baby-funk-mclovin
+Additional Names:
+- Name: >-
+    "Hey Baby" AKA That Stand Cheer From Pep Band [Song A Day 2020 Day 46]
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=r7RbFsG2TOg)
 Duration: '2:01'
 URLs:
 - https://funkmclovin.bandcamp.com/track/hey-baby
 - https://www.youtube.com/watch?v=r7RbFsG2TOg
 Referenced Tracks:
-- track:hey-baby
+- Hey! Baby
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/hey-baby), excerpt)
+
+    Originally by Bruce Chanel
 ---
 Track: Fever
 Directory: fever-funk-mclovin
+Additional Names:
+- Name: >-
+    FEVER 🎶🌡 [Song a Day 2020 Day 66]
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=gBaWWnmNtNU)
 Duration: '3:13'
 URLs:
 - https://funkmclovin.bandcamp.com/track/fever
 - https://www.youtube.com/watch?v=gBaWWnmNtNU
 Referenced Tracks:
 - track:fever-little-willie-john
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/fever), excerpt)
+
+    Traditional Jazz
 ---
 Track: Man of Constant Sorrow
 Duration: '2:56'
@@ -80,20 +156,56 @@ URLs:
 - https://www.youtube.com/watch?v=mKyqO5LIw6w
 Referenced Tracks:
 - I Am A Man Of Constant Sorrow
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/man-of-constant-sorrow), excerpt)
+
+    Originally featured in the film "O Brother Where Art Thou?"
+
+    <i>Funk McLovin:</i> ([YouTube description](https://www.youtube.com/watch?v=mKyqO5LIw6w), excerpt)
+
+    A song about loss and love. Watch "O Brother Where Art Thou"
+
+    Song a Day Day 55
 ---
 Track: Teenagers
 Directory: teenagers-funk-mclovin
+Additional Names:
+- Name: >-
+    TEENAGERS - Jazz Cover
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=s9a-ddeXY80), minus artist name
 Duration: '2:04'
 URLs:
 - https://funkmclovin.bandcamp.com/track/teenagers
 - https://www.youtube.com/watch?v=s9a-ddeXY80
 Referenced Tracks:
 - track:teenagers-my-chemical-romance
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/teenagers), excerpt)
+
+    Originally by My Chemical Romance (Brendon Urie)
+
+    <i>Funk McLovin:</i> ([YouTube description](https://www.youtube.com/watch?v=s9a-ddeXY80), excerpt)
+
+    Originally by My Chemical Romance
+
+    Song-a-day 189
 ---
 Track: Rainbow Connection
 Directory: rainbow-connection-funk-mclovin
 Duration: '2:51'
 URLs:
 - https://funkmclovin.bandcamp.com/track/rainbow-connection
+- https://www.youtube.com/watch?v=dpfBbrJwcDg
 Referenced Tracks:
-- track:rainbow-connection
+- Rainbow Connection
+Commentary: |-
+    <i>Funk McLovin:</i> ([Bandcamp about blurb](https://funkmclovin.bandcamp.com/track/rainbow-connection), excerpt)
+
+    Originally by the Muppets (Jim Henson)
+
+    <i>Funk McLovin:</i> ([YouTube description](https://www.youtube.com/watch?v=dpfBbrJwcDg), excerpt)
+
+    Song A Day 2020 Day 54
+
+    This one was fun! I choose to interpret this as a gay anthem.
