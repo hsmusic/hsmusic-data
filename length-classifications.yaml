@@ -1,0 +1,11 @@
+Length Classification: Album-length
+Directory: album
+Minimum Tracks: 5
+Minimum Duration: 15:00
+---
+Length Classification: EP-length
+Directory: ep
+Minimum Tracks: 3
+---
+Length Classification: Single-length
+Directory: single
