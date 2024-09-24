@@ -9608,9 +9608,15 @@ Track: U.N. Owen Was Her?
 Artists:
 - Touhou Project
 - ZUN
-Duration: '5:20'
+Duration: '4:09'
 URLs:
-- https://www.youtube.com/watch?v=8jJZA-O_B78
+- https://www.youtube.com/watch?v=ssdcX1vVBTo
+Commentary: |-
+    <i>Lilithtreasure:</i> (wiki editor)
+
+    So the whole deal with the [unofficial full/long version of U.N. Owen Was Her?](https://www.youtube.com/watch?v=8jJZA-O_B78) is that after U.N. Owen Was Her? plays out, it goes straight to [[Final Savage Sister, Flandre S.]].
+
+    To put it shortly, the original in-game track (and the slightly different Dolls in Pseudo Paradise version, by extension) is much shorter than the unofficial full version, and does not contain beatMARIO's Final Savage Sister, Flandre S., in any capacity.
 ---
 Track: Ultimate Koopa
 # JP: クッパ3号
@@ -25372,7 +25378,7 @@ Duration: '2:37'
 URLs:
 - https://www.youtube.com/watch?v=4MKrYxtCLyY
 Referenced Tracks:
-- U.N. Owen Was Her?
+- track:final-savage-sister-flandre-s
 ---
 Track: Final Savage All Voice
 # JP: 最終鬼畜全部声
@@ -25391,6 +25397,21 @@ URLs:
 - https://www.youtube.com/watch?v=Za0kamPfdeE
 Referenced Tracks:
 - track:final-savage-all-voice
+---
+Track: Final Savage Sister, Flandre S.
+# JP: 最終鬼畜妹フランドール・Ｓ
+# Official release:
+#   Touhou Strike
+#   東方ストライク
+# Reference:
+#   https://vgmdb.net/album/4280
+Artists:
+- beatMARIO
+Duration: '3:26'
+URLs:
+- https://www.youtube.com/watch?v=R_lYJpMqsiQ
+Referenced Tracks:
+- track:un-owen-was-her
 ---
 Track: Fireflies
 Directory: fireflies-owl-city
