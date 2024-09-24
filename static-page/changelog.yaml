@@ -49,10 +49,15 @@ Content: |-
     - added commentary blurbs from Bandcamp and YouTube, as well as additional names mostly from YouTube, across [[album:the-funk-mclovin-homestuck-experience]], [[album:class-act]], and [[album:class-act-b-side]]
     - added album release commentary to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
     - added album release photoset to [[album:ulterior-motives]]
+    - added Tumblr commentary and listening link from [[artist:toby-fox]] to [[track:valor-toby-fox]] (thanks, Lilith!)
+    - added Tumblr commentary from [[artist:malcolm-brown]] to [[track:cheer-up-crabface-its-halloween]] and [[track:flight-of-the-white-wolf]] (thanks, Lilith!)
     - moved [[track:thunderhead-loftlocked]] from [[album:more-homestuck-fandom]] to [[album:loftlocked-vol-1]] (thanks, Lilith!)
     <h3>data fixes</h3>
     - fixed [[track:fiduspawn-go]] not referencing [[track:title-screen-pokemon-red-blue]] (thanks, Morris!)
     - fixed [[track:anarchy-gravity-makes-the-flame-rise]] not sampling [[track:nothing-but-the-best]] (thanks, Morris!)
+    - fixed [[track:cheer-up-crabface-its-halloween]] not referencing [[track:crustacean]] and [[track:rex-duodecim-angelus]] (thanks, Lilith!)
+    - fixed [[track:valor-toby-fox]] not referencing [[track:showtime-original-mix]] (thanks, Lilith!)
+    - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
     - added [[tag:bowman]] tag to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
     - fixed spacing in lyrics for [[track:squiddles-the-movie-trailer-the-day-the-unicorns-couldnt-play]]
     <h3>directory changes</h3>
