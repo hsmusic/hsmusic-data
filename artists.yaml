@@ -8827,8 +8827,12 @@ URLs:
 - https://twitter.com/Rabooski1
 ---
 Artist: Rachel Lake
+Aliases:
+- Rachel Lundin
 URLs:
 - https://twitter.com/rachelklake
+Dead URLs:
+- http://maybegirl.com/
 ---
 Artist: RaChoTamer
 URLs:
@@ -8836,11 +8840,6 @@ URLs:
 - https://twitter.com/rachotamer
 ---
 Artist: Rachel Jost
----
-Artist: Rachel Lundin
-URLs:
-- http://maybegirl.com/
-- https://twitter.com/rachelklake
 ---
 Artist: Rachel Rose Mitchell
 URLs:
@@ -10297,12 +10296,6 @@ Dead URLs:
 ---
 Artist: Sol Marcus
 ---
-Artist: Solarbear
-URLs:
-- https://solarbearchiptunes.bandcamp.com/
-- https://soundcloud.com/solarbearchiptune
-- https://www.youtube.com/user/solarbearchiptune
----
 Artist: Solatorobo
 ---
 Artist: Solatrus
@@ -11525,8 +11518,14 @@ URLs:
 - https://twitter.com/lian_qa
 ---
 Artist: Twirlin' Curtis
+Aliases:
+- Solarbear
 URLs:
 - https://twitter.com/twirlincurtis
+- https://solarbearchiptunes.bandcamp.com/ #previous links
+- https://soundcloud.com/solarbearchiptune #under
+- https://www.youtube.com/user/solarbearchiptune #solarbear
+#wasn't sure how to do this, cause like... well.. these links are still accessible, just dormant
 ---
 Artist: Twix Stix
 URLs:
