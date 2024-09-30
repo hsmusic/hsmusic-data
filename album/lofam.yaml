@@ -207,17 +207,18 @@ Banner Dimensions: 1100x180
 Banner File Extension: png
 Additional Files:
 - Title: Album Booklet
+  Description: >-
+    Credit and commentary booklet, included with the album download.
   Files:
   - Commentary Booklet.pdf
 - Title: Bandcamp Banner
   Files:
   - banner.png
 - Title: Site Banner
+  Description: >-
+    Banner on [hsfanmusic.skaia.net](https://hsfanmusic.skaia.net/lofam.html).
   Files:
   - banner_alt.png
-- Title: The Straggler (Sburban Rush animation) 
-  Files:
-  - the_straggler___sburban_rush_by_ralengainsborough.swf
 ---
 Track: Beginnings (Press Start to Play)
 Additional Names:
@@ -719,6 +720,12 @@ Art Tags:
 - John
 Referenced Tracks:
 - Sburban Jungle
+Additional Files:
+- Title: The Straggler
+  Description: >-
+    Fan-animation referenced in commentary, by [[artist:ralen-gainsborough]] (this track's composer). [Shared on DeviantArt.](https://www.deviantart.com/ralengainsborough/art/The-Straggler-Sburban-Rush-172750637)
+  Files:
+  - the_straggler___sburban_rush_by_ralengainsborough.swf
 Commentary: |-
     <i>Ralen Gainsborough:</i> (booklet commentary)
 
