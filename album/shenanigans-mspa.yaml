@@ -32,7 +32,8 @@ Referenced Tracks:
 - The Ballad of Jack Noir
 ---
 Track: Advance
-Directory: advance-shenanigans
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:18
 URLs:
 - https://soundcloud.com/sparksd2145/advance
@@ -63,7 +64,7 @@ Commentary: |-
     Thought I'd put [[track:curtain-roll|the original Curtain Roll mix]] and [[track:overture-of-paradox-space|the Overture to Paradox Space orchestral mix]] together! This is what I came up with.
 ---
 Track: Downtime
-Directory: downtime-shenanigans
+Suffix Directory: true
 Main Release: Land of Fans and Music
 Duration: 2:15
 URLs:
@@ -79,7 +80,8 @@ Referenced Tracks:
 - Showtime (Original Mix)
 ---
 Track: Feathered
-Directory: feathered-shenanigans
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:47
 URLs:
 - https://soundcloud.com/sparksd2145/feathered
@@ -104,7 +106,8 @@ Commentary: |-
     An inspired track loosely based around the [[track:lotus|"Lotus"]]] and [[track:lotus-land-story|"Lotus Land Story"]] tracks from MSPA's Homestuck.
 ---
 Track: Interlude
-Directory: interlude-shenanigans
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:53
 Referenced Tracks:
 - Explore
@@ -140,7 +143,7 @@ Commentary: |-
     As he ventures into the post-apocalyptic ruins of Earth, John discovers truth; that even the Heir of Breath cannot restore life and happiness into the world alone.
 ---
 Track: Lotus
-Directory: lotus-shenanigans
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:56
 URLs:
@@ -170,12 +173,13 @@ Commentary: |-
     Based largely on an edited version of [[track:curtain-roll|curtain roll]], Overture of Paradox Space focuses on the melodic nature of [[track:showtime-piano-refrain|Showtime]] by the MSPA Team.
 ---
 Track: Pilot Light
-Directory: pilot-light-shenanigans
+Suffix Directory: true
 Main Release: 'coloUrs and mayhem: Universe B'
 Duration: 2:51
 ---
 Track: Rectify
-Directory: rectify-shenanigans
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:52
 URLs:
 - https://soundcloud.com/sparksd2145/rectify
@@ -201,7 +205,8 @@ Referenced Tracks:
 - Pyrocumulus (Sicknasty)
 ---
 Track: Revelations
-Directory: revelations-shenanigans
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:15
 URLs:
 - https://soundcloud.com/sparksd2145/revelations
@@ -210,7 +215,8 @@ Referenced Tracks:
 - Sburban Jungle
 ---
 Track: Sburb
-Directory: sburb-shenanigans
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:27
 URLs:
 - https://soundcloud.com/sparksd2145/sburb
@@ -231,7 +237,8 @@ Referenced Tracks:
 - Showtime (Original Mix)
 ---
 Track: Shatter
-Directory: shatter-shenanigans
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:00
 URLs:
 - https://www.youtube.com/watch?v=KPhSjyajhuU
@@ -239,7 +246,8 @@ Referenced Tracks:
 - Shatterface
 ---
 Track: Strife
-Directory: strife-shenanigans
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:15
 URLs:
 - https://soundcloud.com/sparksd2145/strife
