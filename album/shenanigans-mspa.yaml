@@ -3,7 +3,8 @@ Directory: shenanigans-mspa
 Artists:
 - Thomas Ibarra
 Date: September 22, 2012
-Has Track Numbers: false
+URLs:
+- https://soundcloud.com/sparksd2145/sets/homestuck-mixes
 Cover Artists:
 - Thomas Ibarra
 Cover Art File Extension: png
@@ -64,26 +65,47 @@ Additional Files:
 ---
 Section: Main album
 Description: >-
-    In alphabetical order, matching [Bandcamp release](https://web.archive.org/web/20130409111336/http://sparksd2145.bandcamp.com/).
+    In composer-selected order, matching [SoundCloud album/set](https://soundcloud.com/sparksd2145/sets/homestuck-mixes).
 ---
-Track: Ace of Spades
-Duration: 3:40
-Referenced Tracks:
-- Liquid Negrocity
-- The Ballad of Jack Noir
----
-Track: Advance
-Directory: advance-shenanigans-mspa
+Track: Rectify
+Directory: rectify-shenanigans-mspa
 Always Reference By Directory: true
-Date First Released: 10/20/2011
-Duration: 3:18
+Date First Released: 1/23/2012
+Duration: 2:52
 URLs:
-- https://soundcloud.com/sparksd2145/advance
+- https://soundcloud.com/sparksd2145/rectify
 Referenced Tracks:
 - Liquid Negrocity
 - Atomyk Ebonpyre
-- track:MeGaLoVania
-- Showtime (Original Mix)
+- Showtime (Piano Refrain)
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/rectify), 1/23/2012)
+
+    Rectify, by AutoDevote. (now completed!)
+
+    \- I had an idea after I watched [[flash:4109|[S] Cascade]], and though I know it would go against Jack's present nature, I really feel like if he had the motivation to redirect his bloodthirsty warpath in the name of helping the kids (due to some unprecedented character development) he might. That being said, I sat down and began thinking. I've noticed a majority of the entries I've seen so far are covers of present songs, and while I was trying to stray away from using melodies and motifs that were already in existence, I decided to try my hand at it.
+
+    I present my track for Jack Noir, Rectify. This is my second entry for [[album:coloUrs-and-mayhem-universe-a|the Homestuck Music Contest]], and I really like the way this one turned out. I've logged twelve hours and nine minutes on this track so far, and I intend to polish it up just a bit further before I submit it officially. :D
+---
+Track: Pilot Light
+Directory: pilot-light-shenanigans-mspa
+Date First Released: 1/10/2012
+Additional Names:
+- Name: >-
+    Pilot Light: The Witch's Cauldron
+  Annotation: >-
+    [SoundCloud](https://soundcloud.com/sparksd2145/pilot-light-the-witchs)
+Duration: 2:51
+URLs:
+- https://soundcloud.com/sparksd2145/pilot-light-the-witchs
+Referenced Tracks:
+- Flare
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/pilot-light-the-witchs))
+
+    Centered around Jade as she makes her way to the heart of the forge, this track portrays the ignition and thawing of the land surrounding the mythical device of creation. The world begins to thaw in the warmth of the forge, and its inhabitants spur to life.
+
+    This is my first attempt at an entry for [[album:coloUrs-and-mayhem-universe-a|the 2012 Homestuck Music Contest]].
 ---
 Track: Curtain Roll
 Date First Released: 8/12/2011
@@ -93,73 +115,6 @@ URLs:
 Referenced Tracks:
 - Showtime (Original Mix)
 - Atomyk Ebonpyre
----
-Track: Curtain Roll - Extended Mix
-Date First Released: 11/25/2011
-Duration: 2:54
-URLs:
-- https://soundcloud.com/sparksd2145/curtain-roll-extended-mix
-Referenced Tracks:
-- Curtain Roll
-- Overture of Paradox Space
-Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/curtain-roll-extended-mix))
-
-    Thought I'd put [[track:curtain-roll|the original Curtain Roll mix]] and [[track:overture-of-paradox-space|the Overture to Paradox Space orchestral mix]] together! This is what I came up with.
----
-Track: Downtime
-Directory: downtime-shenanigans-mspa
-Always Reference By Directory: true
-Originally Released As: track:downtime-lofam
-Date First Released: 8/12/2011
-Duration: 2:15
-URLs:
-- https://soundcloud.com/sparksd2145/downtime
----
-Track: Electric Fireflies
-Date First Released: 1/28/2013
-Duration: 3:39
-URLs:
-- https://soundcloud.com/sparksd2145/electric-fireflies
-Referenced Tracks:
-- Firefly Cloud
-- Doctor
-- Showtime (Original Mix)
----
-Track: Feathered
-Directory: feathered-shenanigans-mspa
-Always Reference By Directory: true
-Date First Released: 1/1/2012
-Duration: 1:47
-URLs:
-- https://soundcloud.com/sparksd2145/feathered
-Referenced Tracks:
-- Carefree Victory
-- Ohgodwhat
-Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/feathered))
-
-    An older piece largely based on the [[Carefree Victory]] and [[track:ohgodwhat|Omgwhat]] tracks, originating from Homestuck. :D
----
-Track: Flowers and Fireflies
-Date First Released: 10/2/2011
-Duration: 4:14
-URLs:
-- https://soundcloud.com/sparksd2145/flowers-and-fireflies
-Referenced Tracks:
-- Lotus
-- Lotus Land Story
-Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/flowers-and-fireflies))
-
-    An inspired track loosely based around the [[track:lotus|"Lotus"]]] and [[track:lotus-land-story|"Lotus Land Story"]] tracks from MSPA's Homestuck.
----
-Track: Interlude
-Directory: interlude-shenanigans-mspa
-Always Reference By Directory: true
-Duration: 1:53
-Referenced Tracks:
-- Explore
 ---
 Track: Irradiated
 Directory: irradiated-shenanigans-mspa
@@ -191,96 +146,27 @@ Commentary: |-
 
     As the SoundCloud description and comment there indicate, this isn't the original version of Irradiated. It does appear to be the same version as included in [the Bandcamp release](https://web.archive.org/web/20130409111336/http://sparksd2145.bandcamp.com/) of Shenanigans: MSPA, with matching 2:16 duration and included in [the SoundCloud album/set](https://soundcloud.com/sparksd2145/sets/homestuck-mixes).
 ---
-Track: John - Walk along the Ruins
-Date First Released: 7/31/2012
-Additional Names:
-- Name: >-
-    John: Walk along the Ruins
-  Annotation: >-
-    [SoundCloud release](https://soundcloud.com/sparksd2145/sample-john-walk-along-the)
-Duration: 2:45
-URLs:
-- https://soundcloud.com/sparksd2145/sample-john-walk-along-the
-Referenced Tracks:
-- Showtime (Original Mix)
-Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/sample-john-walk-along-the))
-
-    As he ventures into the post-apocalyptic ruins of Earth, John discovers truth; that even the Heir of Breath cannot restore life and happiness into the world alone.
----
-Track: Lotus
-Directory: lotus-shenanigans-mspa
+Track: Downtime
+Directory: downtime-shenanigans-mspa
 Always Reference By Directory: true
-Date First Released: 12/2/2011
-Duration: 2:56
+Originally Released As: track:downtime-lofam
+Date First Released: 8/12/2011
+Duration: 2:15
 URLs:
-- https://soundcloud.com/sparksd2145/lotus
-Referenced Tracks:
-- Lotus
-Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/lotus))
-
-    A deviation of the [[track:lotus|Lotus theme]] originally from Homestuck, arriving at a completely new tune with orchestral hints of the former. :D
+- https://soundcloud.com/sparksd2145/downtime
 ---
-Track: Mjollnir
-Directory: mjollnir-shenanigans-mspa
-Always Reference By Directory: true
-Duration: 2:00
-Referenced Tracks:
-- Sunsetter
-- Skaian Skuffle
----
-Track: Overture of Paradox Space
-Date First Released: 10/11/2011
-Duration: 1:27
+Track: 'The Felt: Rise of Lord English'
+Date First Released: 6/27/2012
+Duration: 2:50
 URLs:
-- https://soundcloud.com/sparksd2145/overture-of-paradox-space
+- https://soundcloud.com/sparksd2145/the-felt-rise-of-lord
 Referenced Tracks:
-- Curtain Roll
-Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/overture-of-paradox-space))
-
-    Based largely on an edited version of [[track:curtain-roll|curtain roll]], Overture of Paradox Space focuses on the melodic nature of [[track:showtime-piano-refrain|Showtime]] by the MSPA Team.
----
-Track: Pilot Light
-Directory: pilot-light-shenanigans-mspa
-Date First Released: 1/10/2012
-Additional Names:
-- Name: >-
-    Pilot Light: The Witch's Cauldron
-  Annotation: >-
-    [SoundCloud](https://soundcloud.com/sparksd2145/pilot-light-the-witchs)
-Duration: 2:51
-URLs:
-- https://soundcloud.com/sparksd2145/pilot-light-the-witchs
-Referenced Tracks:
-- Flare
-Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/pilot-light-the-witchs))
-
-    Centered around Jade as she makes her way to the heart of the forge, this track portrays the ignition and thawing of the land surrounding the mythical device of creation. The world begins to thaw in the warmth of the forge, and its inhabitants spur to life.
-
-    This is my first attempt at an entry for [[album:coloUrs-and-mayhem-universe-a|the 2012 Homestuck Music Contest]].
----
-Track: Rectify
-Directory: rectify-shenanigans-mspa
-Always Reference By Directory: true
-Date First Released: 1/23/2012
-Duration: 2:52
-URLs:
-- https://soundcloud.com/sparksd2145/rectify
-Referenced Tracks:
+- track:MeGaLoVania
 - Liquid Negrocity
-- Atomyk Ebonpyre
-- Showtime (Piano Refrain)
 Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/rectify), 1/23/2012)
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/the-felt-rise-of-lord))
 
-    Rectify, by AutoDevote. (now completed!)
-
-    \- I had an idea after I watched [[flash:4109|[S] Cascade]], and though I know it would go against Jack's present nature, I really feel like if he had the motivation to redirect his bloodthirsty warpath in the name of helping the kids (due to some unprecedented character development) he might. That being said, I sat down and began thinking. I've noticed a majority of the entries I've seen so far are covers of present songs, and while I was trying to stray away from using melodies and motifs that were already in existence, I decided to try my hand at it.
-
-    I present my track for Jack Noir, Rectify. This is my second entry for [[album:coloUrs-and-mayhem-universe-a|the Homestuck Music Contest]], and I really like the way this one turned out. I've logged twelve hours and nine minutes on this track so far, and I intend to polish it up just a bit further before I submit it officially. :D
+    The updated Rise of Lord English track for use in the [[album:lofam2|second Land of Fans and Music album.]]
 ---
 Track: Requiem of Space
 Date First Released: 8/12/2011
@@ -290,17 +176,6 @@ URLs:
 Referenced Tracks:
 - Skaian Skuffle
 - Pyrocumulus (Sicknasty)
----
-Track: Revelations
-Directory: revelations-shenanigans-mspa
-Always Reference By Directory: true
-Date First Released: 8/12/2011
-Duration: 2:15
-URLs:
-- https://soundcloud.com/sparksd2145/revelations
-Referenced Tracks:
-- track:frost-vol6
-- Sburban Jungle
 ---
 Track: Sburb
 Directory: sburb-shenanigans-mspa
@@ -326,15 +201,6 @@ Referenced Tracks:
 - Atomyk Ebonpyre
 - Showtime (Original Mix)
 ---
-Track: Shatter
-Directory: shatter-shenanigans-mspa
-Always Reference By Directory: true
-Duration: 2:00
-URLs:
-- https://www.youtube.com/watch?v=KPhSjyajhuU
-Referenced Tracks:
-- Shatterface
----
 Track: Strife
 Directory: strife-shenanigans-mspa
 Always Reference By Directory: true
@@ -348,32 +214,30 @@ Referenced Tracks:
 - Dissension (Original)
 - Beatdown (Strider Style)
 ---
-Track: Sweet-Tart Theme
-Date First Released: 10/30/2011
-Duration: 1:13
+Track: Curtain Roll - Extended Mix
+Date First Released: 11/25/2011
+Duration: 2:54
 URLs:
-- https://soundcloud.com/sparksd2145/sweet-tart-theme
-Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/sweet-tart-theme))
-
-    A composition done especially for my friend and fellow tumblr-blogger (askthwigglers, [pother](https://pother.tumblr.com)). My first attempt at a cutesy theme. :D
----
-Track: 'The Felt: Rise of Lord English'
-Date First Released: 6/27/2012
-Duration: 2:50
-URLs:
-- https://soundcloud.com/sparksd2145/the-felt-rise-of-lord
+- https://soundcloud.com/sparksd2145/curtain-roll-extended-mix
 Referenced Tracks:
-- track:MeGaLoVania
-- Liquid Negrocity
+- Curtain Roll
+- Overture of Paradox Space
 Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/the-felt-rise-of-lord))
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/curtain-roll-extended-mix))
 
-    The updated Rise of Lord English track for use in the [[album:lofam2|second Land of Fans and Music album.]]
+    Thought I'd put [[track:curtain-roll|the original Curtain Roll mix]] and [[track:overture-of-paradox-space|the Overture to Paradox Space orchestral mix]] together! This is what I came up with.
 ---
-Section: Exclusive to SoundCloud
-Description: >-
-    Additional tracks present on [the SoundCloud set/album](https://soundcloud.com/sparksd2145/sets/homestuck-mixes).
+Track: Overture of Paradox Space
+Date First Released: 10/11/2011
+Duration: 1:27
+URLs:
+- https://soundcloud.com/sparksd2145/overture-of-paradox-space
+Referenced Tracks:
+- Curtain Roll
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/overture-of-paradox-space))
+
+    Based largely on an edited version of [[track:curtain-roll|curtain roll]], Overture of Paradox Space focuses on the melodic nature of [[track:showtime-piano-refrain|Showtime]] by the MSPA Team.
 ---
 Track: Irradiated (Animation Version)
 Date First Released: 10/13/2011
@@ -387,6 +251,99 @@ Commentary: |-
 
     The reworked version of Irradiated used in my homestuck fan animation.
 ---
+Track: Revelations
+Directory: revelations-shenanigans-mspa
+Always Reference By Directory: true
+Date First Released: 8/12/2011
+Duration: 2:15
+URLs:
+- https://soundcloud.com/sparksd2145/revelations
+Referenced Tracks:
+- track:frost-vol6
+- Sburban Jungle
+---
+Track: Advance
+Directory: advance-shenanigans-mspa
+Always Reference By Directory: true
+Date First Released: 10/20/2011
+Duration: 3:18
+URLs:
+- https://soundcloud.com/sparksd2145/advance
+Referenced Tracks:
+- Liquid Negrocity
+- Atomyk Ebonpyre
+- track:MeGaLoVania
+- Showtime (Original Mix)
+---
+Track: Sweet-Tart Theme
+Date First Released: 10/30/2011
+Duration: 1:13
+URLs:
+- https://soundcloud.com/sparksd2145/sweet-tart-theme
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/sweet-tart-theme))
+
+    A composition done especially for my friend and fellow tumblr-blogger (askthwigglers, [pother](https://pother.tumblr.com)). My first attempt at a cutesy theme. :D
+---
+Track: Lotus
+Directory: lotus-shenanigans-mspa
+Always Reference By Directory: true
+Date First Released: 12/2/2011
+Duration: 2:56
+URLs:
+- https://soundcloud.com/sparksd2145/lotus
+Referenced Tracks:
+- Lotus
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/lotus))
+
+    A deviation of the [[track:lotus|Lotus theme]] originally from Homestuck, arriving at a completely new tune with orchestral hints of the former. :D
+---
+Track: Flowers and Fireflies
+Date First Released: 10/2/2011
+Duration: 4:14
+URLs:
+- https://soundcloud.com/sparksd2145/flowers-and-fireflies
+Referenced Tracks:
+- Lotus
+- Lotus Land Story
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/flowers-and-fireflies))
+
+    An inspired track loosely based around the [[track:lotus|"Lotus"]]] and [[track:lotus-land-story|"Lotus Land Story"]] tracks from MSPA's Homestuck.
+---
+Track: Feathered
+Directory: feathered-shenanigans-mspa
+Always Reference By Directory: true
+Date First Released: 1/1/2012
+Duration: 1:47
+URLs:
+- https://soundcloud.com/sparksd2145/feathered
+Referenced Tracks:
+- Carefree Victory
+- Ohgodwhat
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/feathered))
+
+    An older piece largely based on the [[Carefree Victory]] and [[track:ohgodwhat|Omgwhat]] tracks, originating from Homestuck. :D
+---
+Track: John - Walk along the Ruins
+Date First Released: 7/31/2012
+Additional Names:
+- Name: >-
+    John: Walk along the Ruins
+  Annotation: >-
+    [SoundCloud release](https://soundcloud.com/sparksd2145/sample-john-walk-along-the)
+Duration: 2:45
+URLs:
+- https://soundcloud.com/sparksd2145/sample-john-walk-along-the
+Referenced Tracks:
+- Showtime (Original Mix)
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/sample-john-walk-along-the))
+
+    As he ventures into the post-apocalyptic ruins of Earth, John discovers truth; that even the Heir of Breath cannot restore life and happiness into the world alone.
+---
 Track: Sweet-Tart Theme (Extended)
 Date First Released: 7/17/2012
 Duration: 1:43
@@ -399,6 +356,16 @@ Commentary: |-
 
     Extended track for the wiggler's sweet-tart theme.
 ---
+Track: Electric Fireflies
+Date First Released: 1/28/2013
+Duration: 3:39
+URLs:
+- https://soundcloud.com/sparksd2145/electric-fireflies
+Referenced Tracks:
+- Firefly Cloud
+- Doctor
+- Showtime (Original Mix)
+---
 Track: Adieu
 Date First Released: 4/13/2016
 Directory: adieu-shenanigans-mspa
@@ -406,3 +373,37 @@ Always Reference By Directory: true
 Duration: 0:40
 URLs:
 - https://soundcloud.com/sparksd2145/adieu
+---
+Section: Exclusive to Bandcamp
+Description: >-
+    Additional tracks present on [the Bandcamp release](https://web.archive.org/web/20130409111336/http://sparksd2145.bandcamp.com/).
+---
+Track: Ace of Spades
+Duration: 3:40
+Referenced Tracks:
+- Liquid Negrocity
+- The Ballad of Jack Noir
+---
+Track: Interlude
+Directory: interlude-shenanigans-mspa
+Always Reference By Directory: true
+Duration: 1:53
+Referenced Tracks:
+- Explore
+---
+Track: Mjollnir
+Directory: mjollnir-shenanigans-mspa
+Always Reference By Directory: true
+Duration: 2:00
+Referenced Tracks:
+- Sunsetter
+- Skaian Skuffle
+---
+Track: Shatter
+Directory: shatter-shenanigans-mspa
+Always Reference By Directory: true
+Duration: 2:00
+URLs:
+- https://www.youtube.com/watch?v=KPhSjyajhuU
+Referenced Tracks:
+- Shatterface
