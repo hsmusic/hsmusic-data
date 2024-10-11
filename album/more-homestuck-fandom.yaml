@@ -363,7 +363,7 @@ Duration: '4:20'
 URLs:
 - https://hsmusic.wiki/media/misc/archive/Exploring%20the%20Depths%20of%20Sburb.mp3
 ---
-Track: Feel (Old. Ver)
+Track: Feel (Old Ver.)
 Artists:
 - Luke Benjamins
 Duration: '1:30'
@@ -380,6 +380,9 @@ Artists:
 Duration: '1:07'
 URLs:
 - https://hsmusic.wiki/media/misc/archive/Feel.mp3
+#Referenced Tracks:
+#- track:feel-old-ver
+#since feel (old ver.) is labeled as such, yet its referenced tracks are backwards; feel (gfd) would be referencing feel old ver, not the other way around- uncommented until the investigation
 ---
 Track: Fill 'Em With Midnight
 Duration: '2:14'
