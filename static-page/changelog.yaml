@@ -27,10 +27,6 @@ Style: |-
         margin-bottom: 0.6em;
     }
 
-    #content summary span {
-        color: var(--primary-color);
-    }
-
     #content details {
         margin-top: 0.5em;
         margin-bottom: 0.5em;
@@ -89,7 +85,7 @@ Content: |-
         - was missing speaker in "(DAVE: He's gonna run out of words sometime!)"
     - fixed spacing in lyrics for [[track:squiddles-the-movie-trailer-the-day-the-unicorns-couldnt-play]]
     <h3>directory changes</h3>
-    <details><summary><span>Toggle Directorylog</span></summary>
+    <details><summary>Toggle Directorylog</summary>
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
     </details>
@@ -240,7 +236,7 @@ Content: |-
     - fixed typo in credits for [[flash:pq-vol11]] (was "prorgamming", now "programming")
     - removed release date details from [[track:celestial-toby-fox]] (until addressing individual-track release dates more broadly)
     <h3>directory changes</h3>
-    <details><summary><span>Toggle Directorylog</span></summary>
+    <details><summary><b>Toggle Directorylog</b> (13 changes)</summary>
     - changed directory of [[track:yeah-it-is-soundtrack]] from <code>yeah-it-is</code> to <code>yeah-it-is-soundtrack</code>
     - changed directory of [[track:wanderlust-redditstuck]] from <code>wanderlust-canmt</code> to <code>wanderlust-redditstuck</code>
     - changed directory of [[album:stlap]] from <code>stable-time-loops-and-paradoxes</code> to <code>stlap</code>
@@ -269,7 +265,7 @@ Content: |-
     - fixed [[track:showtime-svix-mix-lofam2]] ([[album:lofam2]]) YouTube listening link pointing to upload of [[track:showtime-svix-mix|original version]] (thanks, sb0rp!)
     - fixed mistaken lyrics in [[track:sunsetter-ska]] (thanks, vriska/leo!)
     <h3>directory changes</h3>
-    <details><summary><span>Toggle Directorylog</span></summary>
+    <details><summary><b>Toggle Directorylog</b> (2 changes)</summary>
     - changed directory of [[track:game-over-ebhh]] from <code>game-over-earthbound-halloween-hack</code> to <code>game-over-ebhh</code>
     - changed directory of [[track:megalovania-ebhh]] from <code>megalovania-halloween</code> to <code>megalovania-ebhh</code>
     </details>
@@ -295,7 +291,7 @@ Content: |-
     - improved colors for [[group:desynced]] tags [[tag:auranue-desynced|Auranue]], [[tag:layssah-desynced|Layssah]], [[tag:nelrith-desynced|Nelrith]], [[tag:odelia-desynced|Odelia]], [[tag:pollyon-desynced|Pollyon]], [[tag:romelia-desynced|Romelia]], [[tag:simsei-desynced|Simsei]], and [[tag:tsanzer-desynced|Tsanzer]] (thanks, Jebb!)
     - improved commentary formatting in [[track:stress]] (thanks, Lilith!)
     <h3>directory changes</h3>
-    <details><summary><span>Toggle Directorylog</span></summary>
+    <details><summary><b>Toggle Directorylog</b> (3 changes)</summary>
     - changed directory of [[track:title-screen-jailbreak]] from <code>title-screen</code> to <code>title-screen-jailbreak</code>
     - changed directory of [[track:a-song-about-a-circle-constant-entertaining-sound]] from <code>a-song-about-a-circle-constant-jan-misali</code> to <code>a-song-about-a-circle-constant-entertaining-sound</code>
     - changed directory of [[album:ava-original-soundtrack]] from <code>ava</code> to <code>ava-original-soundtrack</code>
@@ -857,7 +853,7 @@ Content: |-
         - fixed [[track:cinq]] not being tagged [[tag:ludwig-oceanfalls]] and [[tag:boyfriend-oceanfalls]]
     - added content warnings to many images in content/commentary, including in [[track:sarabande-vol5]], [[track:walls-covered-in-blood]], [[track:death-of-the-lusii]], [[track:bl1nd-just1c3-1nv3st1g4t1on]], [[track:darling-kanaya]], [[track:requiem-of-sunshine-and-rainbows]], [[track:blackest-heart-with-honks]], [[track:killed-by-br8k-spider]], [[track:catapult-capuchin]], [[track:a-fairy-battle]], [[track:the-blind-prophet]], [[track:noirscape]], [[track:eternity-served-cold]], [[track:light-burns-out-gestalt]], [[track:death-of-swet-bro]]
     <h3>directory changes</h3>
-    <details><summary><span>Toggle Directorylog</span></summary>
+    <details><summary><b>Toggle Directorylog</b> (102+ changes)</summary>
     - changed directory of [[track:showtime-svix-mix-lofam2]] from <code>showtime-svix-mix</code> to <code>showtime-svix-mix-lofam2</code>
     - changed directory of [[track:starsetter-canmt]] from <code>starsetter</code> to <code>starsetter-canmt</code>
     - changed directory of [[track:on-repeat]] from <code>on-repeat-intermission</code> to <code>on-repeat</code>
@@ -967,7 +963,7 @@ Content: |-
 
     <h2 id="07-nov-2023"><html:a href="#07-nov-2023">[[date:07 November 2023]] - directories upon directories</a></h2>
     <h3>directory changes</h3>
-    <details><summary><span>Toggle Directorylog</span></summary>
+    <details><summary><b>Toggle Directorylog</b> (155+ changes)</summary>
     - changed directories of most one-common-word tracks, outside [[group:official]], to indicate the album or source material in the name
         - added <code>-a-nameless-inheritance</code> to directories of [[track:exploratory-a-nameless-inheritance]], [[track:execute-a-nameless-inheritance]], [[track:abandoned-a-nameless-inheritance]], [[track:enclosure-a-nameless-inheritance]], [[track:heart-attack-a-nameless-inheritance]], [[track:horrify-a-nameless-inheritance]], [[track:exterminate-a-nameless-inheritance]], [[track:outbreak-a-nameless-inheritance]], [[track:lurk-a-nameless-inheritance]], [[track:terrify-a-nameless-inheritance]], [[track:undisturbed-a-nameless-inheritance]], [[track:ritual-a-nameless-inheritance]], [[track:doomed-a-nameless-inheritance]], [[track:heritage-a-nameless-inheritance]], [[track:bequest-a-nameless-inheritance]]
         - added <code>-a-shade-of-blue</code> to directory of [[track:ignite-a-shade-of-blue]]
