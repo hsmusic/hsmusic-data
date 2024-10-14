@@ -53,6 +53,13 @@ Content: |-
     - added names on original releases as additional names for [[track:lies-with-the-sea]] and [[track:chain-of-prospit]], and for newly renamed [[track:the-prelude]], [[track:revelations-i]], [[track:revelations-ii]], and [[track:revelations-iii]] (thanks, Lilith!)
     - added alternative name from commentary to [[track:in-the-beginning-basement-tale]] ([[album:basement-tale]]; thanks, Lilith!)
     <h3>data changes</h3>
+    - consolidated [[album:archive]] as a single album on the wiki, based on 2024 release/restoration (was previously two albums, <code>archive</code> from 2016 and <code>archive-2018</code> from 2018; thanks, Whisper, Lan, Bowman, Celeste, Niklink, Morris!)
+        - added 2016 and 2018 release names to [[track:crimesters-theme]], [[track:crimesters-credits]], and [[track:awake-2013-version]]
+        - added lots of commentary and context on the album page
+        - added updated Bandcamp about and credits blurbs
+        - added Bandcamp listening links for previously bonus tracks
+        - fixed duration for [[track:bandages-archive]] (0:46 rather than 0:56; thanks, Lilith!)
+        - removed unavailable streaming links
     - removed "Infection 2" and made this into an additional name on [[track:chronic-infection]] (and added commentary here; thanks, Lilith!)
     - removed "Flare (Green Sun Remix)" and made this into an additional name on [[track:flare-insurrection-remix]] (which was previously listed as a rerelease)
     - moved [[track:thunderhead-loftlocked]] from [[album:more-homestuck-fandom]] to [[album:loftlocked-vol-1]] (thanks, Lilith!)
@@ -536,7 +543,7 @@ Content: |-
         - added animations by [[artist:bugflower413]]: [[flash:damara-ascend]] through [[flash:dethrone-bugflower413]]
         - added animations by [[artist:ichellor]] & co: [[flash:wake-3d-reanimated-old]] through [[flash:echidna-of-fates-and-choices]]
         - added fan-game [[flash:paradox-lost-volume-one]]
-    - added composer commentary to [[track:doctor]], [[track:skaian-ride]], [[track:blue-atom]], [[track:disc3-lofam4]], [[track:the-sin-and-the-salvation]], [[track:on-an-island-far-away]], [[track:the-land-of-wind-and-shade]], [[track:a-very-forgiving-kind-of-guy]], [[track:behind-the-door]], [[track:witch-hunting]], [[track:lady-desynced]], [[track:desynced-anthem]], [[album:archive-2018]], [[album:we-are-all-satellites]], [[album:labyrinths-heart]], [[track:together-vocal-remix]], [[album:after-party-animal-ep]], [[track:the-undying]], [[track:the-uranian]], and track artist commentary to [[track:cyan-beast]]
+    - added composer commentary to [[track:doctor]], [[track:skaian-ride]], [[track:blue-atom]], [[track:disc3-lofam4]], [[track:the-sin-and-the-salvation]], [[track:on-an-island-far-away]], [[track:the-land-of-wind-and-shade]], [[track:a-very-forgiving-kind-of-guy]], [[track:behind-the-door]], [[track:witch-hunting]], [[track:lady-desynced]], [[track:desynced-anthem]], [[album:archive]], [[album:we-are-all-satellites]], [[album:labyrinths-heart]], [[track:together-vocal-remix]], [[album:after-party-animal-ep]], [[track:the-undying]], [[track:the-uranian]], and track artist commentary to [[track:cyan-beast]]
     - added composer commentary to [[track:ocean-stars]] (thanks, Pyryte!), [[track:chat-desynced]] (thanks, Levc, Jebb!), [[track:caliborns-lament]] (thanks, Grace, Jebb!), [[track:step-back-doors-closing-step-back-to-allow-the-doors-to-close]] (thanks, Rosetta Leijonde!)
     - added commentary from [[artist:andrew-hussie]] to [[track:MeGaLoVania]] (thanks, vriska/leo!)
     - added commentary from [[artist:aysha-u-farah]] to [[track:embittered-shore]]
@@ -790,7 +797,7 @@ Content: |-
     - moved [[track:nv-strife]] and [[track:wanderlust-redditstuck]] from "From the Paradox Music Team" to "From the Cool and New Music Team" (thanks, Lilith!)
     - moved [[track:a-new-day]] from "Other works originating outside of Homestuck" to "Music from video games" (thanks, Morris!)
     - moved [[track:summer-vanilla]] from "Other works originating outside of Homestuck" to "Other music originating outside of Homestuck"
-    - moved Bandcamp wallpaper/banner additional files from [[album:archive-2018]] (2018) to [[album:archive]] (original)
+    - moved Bandcamp wallpaper/banner additional files from Archive (2018) to [[album:archive]] (original)
     - changed sheet music blueprint for [[track:narrative-command]] into proper sheet music file, instead of just linking from commentary
     - fixed MIDIs for [[track:clockstopper]], [[track:dord-waltz]], and [[track:darling-dolorosa]] being categorized as sheet music files
     - renamed guitar tabs for [[track:noirscape]] to original filename and reflected that they were by the track's composer
