@@ -8,6 +8,7 @@ URLs:
 - https://duckysenpai.bandcamp.com/album/the-planets
 Cover Artists:
 - Ducky Senpai
+Cover Art File Extension: png
 Color: '#edd4f9'
 Groups:
 - Fandom
@@ -38,10 +39,8 @@ Art Tags:
 - Gate
 Wallpaper Artists:
 - Ducky Senpai
-Wallpaper File Extension: png
 Wallpaper Style: |-
     opacity: 0.8;
-    background-size: cover;
 Commentary: |-
     <i>Ducky Senpai:</i> ([Tumblr](https://kamokachan.tumblr.com/post/116316791675/a-song-for-every-single-homestuck-land-in), excerpt)
 
@@ -70,7 +69,7 @@ Commentary: |-
     [[track:angels-the-planets]] - remastered<br>
     [[track:glass-the-planets]] - remastered
 
-    <i>Lilithtreasure, Ducky Senpai|[[artist:ducky-senpai]]:</i> ([Tumblr](https://kamokachan.tumblr.com/post/750765475009527808/quick-question-where-did-the-space-backdrop-used))
+    <i>Lilithtreasure, Ducky Senpai|[[artist:ducky-senpai]]:</i> ([Tumblr ask](https://kamokachan.tumblr.com/post/750765475009527808/quick-question-where-did-the-space-backdrop-used), 5/17/2024)
 
     > quick question, where did the space backdrop used on your The Planets album art come from? or was it done by you? like, if you have the separate layer or know where it came from, that'd be great [[artist:lilithtreasure|- Lilith]]
 
@@ -79,11 +78,12 @@ Commentary: |-
     anyway, that was almost a decade ago at this point, but I apparently never throw anything away, so I still have the exact images I used
 
     <img src="media/misc/eye-of-god-space-wallpaper.jpg" width="320">
+
     <img src="media/misc/space-wallpaper.jpg" width="320">
 
     and I've also got the old project file for the art too, so here's what the finished album art looks like with all the foreground stuff removed
 
-    <img src="media/album-art/the-planets/bg.png" width="320">
+    <img src="media/misc/the-planets-full-bg.png" width="320">
 
     and for comparison...
 

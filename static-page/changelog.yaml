@@ -63,6 +63,8 @@ Content: |-
     - added SoundCloud commentary from [[artist:difarem]] and additional name to [[track:hankage-fantazumu-2]] (thanks, Lilith!)
     - added Tumblr commentary and full-size artwork to [[track:hate-you]] (thanks, Lilith, Whisper!)
     - added Tumblr commentary and full-size artwork to [[track:pink-cat]] (thanks, Makin, Lilith, Whisper!)
+    - added Tumblr commentary and better-quality background to [[album:the-planets]] (thanks, Lilith, Whisper!)
+    - added better-quality alternate artwork to [[track:elephant-gun]] (thanks, Lilith!)
     - added additional names to many tracks: (thanks, Lilith, Lan, Tangle!)
         - [[track:rediscover-fusion]] ("RS5" as remixed)
         - [[track:blackest-heart-with-honks]] (earlier MSPA credit)
@@ -121,9 +123,13 @@ Content: |-
     - fixed [[track:cheer-up-crabface-its-halloween]] not referencing [[track:crustacean]] and [[track:rex-duodecim-angelus]] (thanks, Lilith!)
     - fixed [[track:valor-toby-fox]] not referencing [[track:showtime-original-mix]] (thanks, Lilith!)
     - fixed [[track:final-savage-all-voice]] ([[artist:beat-throat-mario]]) referencing [[track:un-owen-was-her]] instead of [[track:final-savage-sister-flandre-s]] (thanks, Lilith!)
+    - fixed [[track:happy-cat-song]] crediting [[artist:michael-guy-bowman]] before [[artist:toby-fox]], as co-artists (thanks, Lilith, Whisper!)
+    - fixed [[track:renewed-return]] crediting [[artist:kyle-g-jamolin]] with two separate credits inside same contributor list (thanks, Whisper, Lilith!)
     - fixed [[track:the-will-to-fight-further]] not crediting [[artist:marcy-nabors]] for Shreddage guitar (thanks, Lilith, Lan, Morris, Rainy, Whisper!)
     - fixed [[track:vaporwave-2016-track1]] not crediting [[artist:marcy-nabors]] as co-artist (thanks, Lilith!)
     - fixed [[track:hankage-fantazumu-2]] not crediting [[artist:difarem]] - nor anyone at all! - as artist (thanks, Lilith!)
+    - fixed [[track:voids-edge]] not crediting [[artist:rainy]] as co-artist (thanks, Lilith!)
+    - fixed [[artist:corbin-pangilinan]] having some credits under another name (thanks, Lilith!)
     - fixed [[artist:rachel-lake]] having some credits under another name (thanks, Rainy, Lilith!)
     - fixed [[artist:twirlin-curtis]] having some credits under another name (thanks, Makin, Lilith!)
     - fixed [[album:homestuck-vol-4]] not listing "Homestuck_Vol4_alt9.jpg" additional file (thanks, Lilith!)
@@ -138,8 +144,12 @@ Content: |-
     - fixed some [[group:fandom]] tracks' names not aligning with their own releases
         - fixed [[track:in-the-beginning]] ([[album:the-genesis-project-vol-1]]) being named "In the Beginning" (lowercase "the"; thanks, Surge!)
         - fixed [[track:configure-the-universe]] being named "Configure the Universe" (lowercase "the"; thanks, Surge!)
+    - fixed some [[group:beyond]] tracks' names not aligning with composers' releases (thanks, Lilith!)
+        - fixed [[track:north-walk-south-walk]] being named "North Walk / South Walk" (spaces around slashes)
+        - fixed [[track:hues-tone]] being named "Hues / Tone" (spaces around slashes)
     - fixed [[track:carbon-nadsat-cuestick-genius]] being named "Carbon Nadsat / Cuestick Genius" (spaces around slash; thanks, Pyryte, Lilith, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
+    - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
     - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
     - fixed [[track:a-new-world-reprise]] ([[album:reprise]]) not being listed as a bonus track (thanks, Tangle!)
     - fixed [[track:the-song-of-all-time]] not being listed as a bonus track (thanks, Lan!)
@@ -147,6 +157,7 @@ Content: |-
     - fixed YouTube listening link for [[album:oppa-toby-style-richaadeb]] ([[artist:richaadeb]]; thanks, Tangle!)
     - fixed duration of [[track:wanderlust-redditstuck]] (was 3:52, now 3:24; thanks, Lilith, Lan, Makin!)
     - fixed YouTube listening link for [[track:un-owen-was-her]] (was to [unofficial "full version"](https://www.youtube.com/watch?v=8jJZA-O_B78); thanks, Lilith!)
+    - fixed wiki-archive listening link for [[track:searching-the-desert-for-chiptunes]] (thanks, Geese, Lan, Lilith!)
     - removed "?in=" from SoundCloud track links, affecting albums [[album:7th-gate-project]], [[album:aspect-clock]], [[album:a-viral-medium-vol-1]], [[album:incipient-overture]], [[album:crossmound-vol-1]], and [[album:vinculum-vitae]] (thanks, Lan!)
     - removed country codes from Apple Music links, affecting albums [[album:funkstuck-24]] and [[album:references-beyond-homestuck]], and various artists (thanks, Lan!)
     - added [[tag:bowman]] tag to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
@@ -156,6 +167,7 @@ Content: |-
     - fixed spacing in lyrics for [[track:squiddles-the-movie-trailer-the-day-the-unicorns-couldnt-play]]
     <h3>directory changes</h3>
     <details><summary>Toggle Directorylog</summary>
+    - changed directory of [[track:f-climbing-lofam5]] from <code>f-climbing-lofam4</code> to <code>f-climbing-lofam5</code> (thanks, Lilith!)
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
     - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
