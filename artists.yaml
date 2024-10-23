@@ -2220,8 +2220,6 @@ Aliases:
 URLs:
 - https://soundcloud.com/clydesdale-edwin/
 ---
-Artist: Cobin Pangilinan
----
 Artist: CochetVVVV
 Aliases:
 - Cochet
@@ -2687,6 +2685,8 @@ URLs:
 Artist: Danny Brown
 ---
 Artist: Daniel Saylor
+---
+Artist: Daniel Williams
 ---
 Artist: Danny Cragg
 Aliases:
@@ -3711,7 +3711,9 @@ Artist: F-ZERO
 ---
 Artist: Fabricio Podestá
 ---
-Artist: Facetious (Alex Votl) & Friends
+Artist: Facetious & Friends
+Context Notes: |-
+    Band comprising [[artist:alex-votl]] and friends.
 ---
 Artist: Falk Au Yeong
 Aliases:
@@ -3950,8 +3952,6 @@ URLs:
 - https://witnesstheabsurd.tumblr.com/
 - https://witnesstheabsurd.artstation.com/
 ---
-Artist: Frank Haught
----
 Artist: Frank Loesser
 ---
 Artist: Frank Sinatra
@@ -3959,6 +3959,8 @@ Artist: Frank Sinatra
 Artist: Franz Xaver Gruber
 ---
 Artist: Free!
+---
+Artist: Freeroam
 ---
 Artist: Freshy Kanal
 URLs:
@@ -6585,7 +6587,11 @@ Artist: Luka
 Artist: Lukanya
 ---
 Artist: Luke Benjamins
+Aliases:
+- GFD
 URLs:
+- https://mastodon.social/@GFD
+- https://www.youtube.com/@G-F-D
 - https://twitter.com/Gee_Eff_Dee
 ---
 Artist: luminantAegis
@@ -6634,6 +6640,8 @@ Artist: Lew Schneider
 Artist: Ly
 Dead URLs:
 - https://www.tumblr.com/kanariacode
+---
+Artist: Lydia
 ---
 Artist: LydianChord
 URLs:
@@ -7404,10 +7412,6 @@ URLs:
 - https://www.youtube.com/channel/UCnQizU4YTNNujxzVxezoKjw
 ---
 Artist: Miss Prince
----
-Artist: MissNK
-URLs:
-- https://missnk.tumblr.com/
 ---
 Artist: MithrilNova
 ---
@@ -8244,11 +8248,25 @@ Artist: Off-cast Project
 ---
 Artist: OG Maco
 ---
+Artist: OhThatNK
+Aliases:
+- MissNK
+- Enkei  # via https://x.com/OhThatNK_VT
+- Anne-Laure Osborn  # via https://www.artstation.com/OhThatNK
+URLs:
+- https://ohthatnk.tumblr.com
+- https://bsky.app/profile/ohthatnk.bsky.social
+- https://www.artstation.com/OhThatNK
+Dead URLs:
+- https://missnk.tumblr.com
+---
 Artist: Okieriete Onaodowan
 ---
 Artist: OK Go
 ---
 Artist: Oliver Hendricks
+---
+Artist: OLIVIAB
 ---
 Artist: Olivia Olson
 ---
@@ -9871,6 +9889,8 @@ URLs:
 - https://slogbait.newgrounds.com/
 ---
 Artist: Seth Peelle
+Aliases:
+- Beatfox
 URLs:
 - https://beatfox.tumblr.com/
 - http://www.beatfox.com/
@@ -10227,6 +10247,10 @@ URLs:
 Artist: Snapdrag0on
 Dead URLs:
 - https://twitter.com/snapdrag0on
+---
+Artist: SnerkFlerks
+URLs:
+- https://snerkflerks.tumblr.com
 ---
 Artist: SNESology
 URLs:
@@ -11827,6 +11851,8 @@ URLs:
 - https://wuzyin.neocities.org/
 ---
 Artist: Waif
+Aliases:
+- Frank Haught
 URLs:
 - https://shesbeautiful.bandcamp.com/
 - https://soundcloud.com/shes-beautiful
@@ -12409,6 +12435,8 @@ Artist: All Time Low
 ---
 Artist: Alf Clausen
 ---
+Artist: amtrax
+---
 Artist: angryoct
 ---
 Artist: Aphex Twin
@@ -12487,7 +12515,16 @@ Aliases:
 URLs:
 - https://soundcloud.com/avianzo
 ---
+Artist: Avocado
+Directory: avocadosan
+Aliases:
+- Lord Avocado
+URLs:
+- https://avocadoblog.tumblr.com/
+- https://avocadosan.bandcamp.com/
+---
 Artist: avocado
+Directory: avocado-canmt
 ---
 Artist: awakesleeping
 URLs:
@@ -13046,6 +13083,8 @@ URLs:
 ---
 Artist: JPEGMAFIA
 ---
+Artist: justinisabitch
+---
 Artist: kayak
 ---
 Artist: Kendle Iulus
@@ -13078,6 +13117,8 @@ URLs:
 Artist: kindergraph
 URLs:
 - https://kindergraph.tumblr.com/
+---
+Artist: Kurenai
 ---
 Artist: ladylovelycocks
 ---
@@ -13185,6 +13226,8 @@ Artist: Metaflare
 URLs:
 - https://metaflare.tumblr.com/
 ---
+Artist: MettaToreodere
+---
 Artist: Mii
 ---
 Artist: Minae Fujii
@@ -13269,6 +13312,8 @@ URLs:
 ---
 Artist: njeekyo
 ---
+Artist: NLTM_
+---
 Artist: not-the-kind-you-save
 URLs:
 - https://not-the-kind-you-save.tumblr.com/
@@ -13341,6 +13386,8 @@ Artist: pizzagremlin
 Artist: plaidcushion
 URLs:
 - https://plaidart.tumblr.com/
+---
+Artist: poignantGlare
 ---
 Artist: pointblankerror
 URLs:
@@ -13536,14 +13583,14 @@ URLs:
 Artist: sidewalkbanana
 ---
 Artist: Skelletang
+Aliases:
+- Mandy R
 URLs:
 - https://skelletang.tumblr.com
 - https://www.artstation.com/skallen
 - https://www.deviantart.com/lystheni
 Dead URLs:
 - https://www.deviantart.com/skelletang
-Aliases:
-- Mandy R
 ---
 Artist: sketchcomplex
 URLs:
@@ -13606,6 +13653,8 @@ URLs:
 Artist: strife-kind
 URLs:
 - https://strife-kind.tumblr.com/
+---
+Artist: suburrito
 ---
 Artist: subversiveasset
 URLs:
@@ -13747,6 +13796,13 @@ URLs:
 - https://theterriblestidea.tumblr.com/
 ---
 Artist: umibouzu
+---
+Artist: Varynova
+URLs:
+- https://twitter.com/Headlessjulie
+- https://archiveofourown.org/users/Varynova
+Dead URLs:
+- https://www.tumblr.com/varynova
 ---
 Artist: Vast Error
 ---

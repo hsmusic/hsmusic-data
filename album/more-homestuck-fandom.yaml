@@ -152,6 +152,16 @@ Referenced Tracks:
 - Lupus Mortis Aeternae
 - English
 ---
+Track: Candles & Potency
+Directory: candles-and-potency
+Artists:
+- Solatrus
+Duration: 5:23
+URLs:
+- https://hsmusic.wiki/media/misc/archive/candles-and-potency.mp3
+Referenced Tracks:
+- Candles and Clockwork
+---
 Track: Cascading Events
 # No official name, this one is possibly fan-sourced?
 # Also known as "Descend2 Demo", "Freefall Beta" or "cascade2"
@@ -353,14 +363,14 @@ Duration: '4:20'
 URLs:
 - https://hsmusic.wiki/media/misc/archive/Exploring%20the%20Depths%20of%20Sburb.mp3
 ---
-Track: Feel (Old. Ver)
+Track: Feel (Old Ver.)
 Artists:
 - Luke Benjamins
 Duration: '1:30'
 URLs:
 - https://hsmusic.wiki/media/misc/archive/Feel%20%28Old%20Ver.%29.mp3
-Referenced Tracks:
-- track:feel-luke-benjamins
+#Referenced Tracks:
+#- track:feel-luke-benjamins
 ---
 Track: Feel
 Directory: feel-luke-benjamins
@@ -370,6 +380,9 @@ Artists:
 Duration: '1:07'
 URLs:
 - https://hsmusic.wiki/media/misc/archive/Feel.mp3
+Referenced Tracks:
+- track:feel-old-ver
+#since feel (old ver.) is labeled as such, yet its referenced tracks on the wiki currently are backwards; feel (gfd) would be referencing feel old ver, not the other way around
 ---
 Track: Fill 'Em With Midnight
 Duration: '2:14'
@@ -475,6 +488,7 @@ Referenced Tracks:
 - Unite Synchronization
 - Homestuck Anthem
 - Showtime (Original Mix)
+- Apexhalation
 - Doctor
 ---
 Track: haunt
@@ -897,7 +911,7 @@ Artists:
 - Toby Fox
 Duration: '0:42'
 URLs:
-- https://hsmusic.wiki/media/misc/archive/Searching%20the%20Desert%20For%20Chiptunes.mp3
+- https://hsmusic.wiki/media/misc/archive/Searching%20the%20Desert%20for%20Chiptunes.mp3
 ---
 Track: Seer of Same-Color Scalemate Combos
 Artists:
@@ -925,6 +939,16 @@ Referenced Tracks:
 - Sburban Jungle
 - Showtime (Piano Refrain)
 - Skies of Skaia
+---
+Track: Skaian Overdrive
+Directory: skaian-overdrive-original
+Always Reference By Directory: true
+Artists:
+- Thomas Ferkol
+Duration: '2:27'
+Referenced Tracks:
+- Skaian Ride
+- Sburban Jungle
 ---
 Track: Skaian Shuffle
 Artists:
@@ -1251,10 +1275,10 @@ URLs:
 - https://soundcloud.com/serialsymphony/dave-striders-cool-mixtape
 Referenced Tracks:
 - licord nacrasty
-- The Sock Ruse
+- Pg. 7
 - The Light's Rebellion
 Sampled Tracks:
-- The Sock Ruse
+- Pg. 7
 Commentary: |-
     <i>Circlejourney:</i> (wrote [[The Light's Rebellion]])
     so I just had a memory hit me out of nowhere - me and [[artist:serialsymphony|serialsymphony]] discussed quoting each other's tracks reciprocally back when Dave Strider's Cool Mixtape was meant to be on [[album:cosmic-caretakers]]. i.e. this track does reference [[track:the-lights-rebellion|The Light's Rebellion]] at 2:56
