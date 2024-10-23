@@ -34,11 +34,15 @@ Style: |-
 Content: |-
     <h2 id="1-jan-2099" class="major-release"><html:a href="#1-jan-2099">[[date:1 January 2099]] - Anachronist's Library</a></h2>
     <h3>site changes</h3>
-    - obliterated chronology links in the nav bar (<html:a href="#15-apr-20">RIP</a>) and added them into artist tooltips, instead; these show the previous and next things' names (and a description if hovered for longer); they're more dynamic and may be shown for all kinds of credits, not just for track artists/contributors and cover/track art illustrators
+    - obliterated chronology links in the nav bar (<html:a href="#15-apr-20">rest</a> <html:a href="#12-jun-20">in</a> <html:a href="#12-jun-2024">peace</a>) and added them into artist tooltips, instead; these show the previous and next things' names (and a description if hovered for longer); they're more dynamic and may be shown for all kinds of credits, not just for track artists/contributors and cover/track art illustrators
     - new "crediting sources" feature, essentially same as commentary but a dedicated section to collect and detail official credit sources, snippets of relevant commentary, and other observations; these generally inform the specific credits (in artist and contribution lists) for tracks on the wiki and are present so they can be revisited by anyone, at any time, and checked against or added to, to improve on-wiki credits and for thoroughness
+    - added support for "featuring" credits; these get a custom look in track lists anywhere, and make solo albums nice and neat ([[media:misc/changelog/featuring-credits-old.png|old]], [[media:misc/changelog/featuring-credits-new.png|new]]; [[media:misc/changelog/featuring-credits-track.png|track page]])
     - added support for commentary entry access and/or capture dates (read from web.archive.org URLs where given, or specified manually), as well as uncertain or bounded date ranges; see e.g. [[track:snow-halation-famitracker]], [[album:hiveswap-act-2-ost]], and basically any crediting sources
     - added support for descriptions for individual track sections (within an album), e.g. [[album:homestuck-vol-1-4]], bonus tracks in [[album:homestuck-vol-8]]
+    - added support for additional names to albums
+    - added support for expand-collapse "details" elements, and spoiler text ala Discord or GameFAQs, to commentary
     - revamp for "edits for wiki" credits, on banners and wallpapers: now shown in a "+ edits" tooltip; separate from main artwork lists, on artist info page; and excluded from artist gallery page; and support additional details, e.g. "crop" or "based on album cover"
+    - made external links in commentary (with arrowheads) "absorb" immediately-following punctuation, so commas, periods, etc appear next to the word, instead of getting pushed past the arrow ([[media:misc/changelog/external-links-absorb-old.png|old]], [[media:misc/changelog/external-links-absorb-new.png|new]])
     - various appearance improvements for search input: new magnifying glass, input text aligned with results' labels; browser-builtin "x" button, to clear search, now visibly grey rather than black; light highlight when hovered or focused; and a bit taller, overall
     - various appearance improvements for commentary headings: bar beneath heading is now solid and dim, rather than dotted and bright; word-wrapped lines after the first are slightly indented; and date information snaps to bottom, aligning with heading bar
     - new "quick descriptions" on group gallery page, showing the front of the group's description (as well as text past the split, after clicking to expand)
@@ -47,6 +51,7 @@ Content: |-
     - miscellaneous improvements to tooltip placement logic, so large tooltips near page boundaries shouldn't go flying off into the sun so often
     - fixed group info pages showing a different order than group gallery page (besides just being reversed, so old-to-new) when multiple albums were released on same date
     - fixed certain cases where an artist page would be completely inaccessible because they shared the same directory (URL) as an alias of another artist
+    - fixed track social embeds (e.g. when linking to the wiki on Discord) being alomst completely empty, and album social embeds missing the heading line ([[media:misc/changelog/social-embed-fixes-old.png|broken]], [[media:misc/changelog/social-embed-fixes-new.png|fixed]])
     <h3>album additions</h3>
     - added [[album:loftlocked-vol-1]]! (thanks, Lilith, Jebb, Pat, Audrey!)
     - added [[album:rooftop-paladin]] by [[artist:hazama-yuutou]]! (thanks, Lilith!)
