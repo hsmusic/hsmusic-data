@@ -14,6 +14,8 @@ Groups:
 Art Tags:
 - Battlefield
 ---
+Section: Main album
+---
 Track: Penumbra Hurbaderp
 Duration: '4:21'
 URLs:
@@ -59,9 +61,16 @@ Referenced Tracks:
 - Homestuck Anthem
 - Chorale for Jaspers
 ---
+Section: Bonus track
+---
 Track: A New World
 Directory: a-new-world-reprise
 Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    BONUS: A New World
+  Annotation: >-
+    [Bandcamp](https://luminantaegis.bandcamp.com/track/bonus-a-new-world)
 Duration: '1:49'
 URLs:
 - https://luminantaegis.bandcamp.com/track/bonus-a-new-world
