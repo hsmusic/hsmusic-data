@@ -9,6 +9,30 @@ URLs:
 - https://www.youtube.com/playlist?list=OLAK5uy_mCULaO4C21RpqtIPN2cn-NShRYBTbf_Nk
 - https://open.spotify.com/album/04PD4zgt0ZdyCwn4Ap5wuV
 - https://music.apple.com/album/your-majesty/1757139886
+Wallpaper Artists:
+- Alice Hu
+- 'Quasar Nebula (edits for wiki: composition)'
+Wallpaper Parts:
+- Asset: bg-sky.jpg
+  Style: |-
+    opacity: 0.6;
+- Asset: bg-stars.png
+  Style: |-
+    opacity: 0.85;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: unset;
+- Asset: none
+  Style: |-
+    opacity: 0.35;
+    width: 100px; left: 0; right: unset;
+    background-image: linear-gradient(to right, black, transparent);
+- Asset: none
+  Style: |-
+    opacity: 0.35;
+    width: 100px; left: unset; right: 0;
+    background-image: linear-gradient(to left, black, transparent);
 Color: '#deb24e'
 Groups:
 - Michael Guy Bowman
