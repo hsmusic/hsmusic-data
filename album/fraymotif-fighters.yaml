@@ -8,7 +8,17 @@ Cover Artists:
 - Akisephila
 - METIANULL
 - cybergeist
+Banner Artists:
+- gh0stcr33p
+- Akisephila
+- METIANULL
+- cybergeist
 Cover Art File Extension: png
+Banner File Extension: png
+Banner Dimensions: 975x180
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Art Tags:
 - John
 - Dave
@@ -34,7 +44,7 @@ URLs:
 - https://sahcon.bandcamp.com/track/fraymotif-fighters-title-theme
 Referenced Tracks:
 - Showtime (Original Mix)
-- Homestuck
+- Homestuck Anthem
 - Aggrieve
 - Liquid Negrocity
 # megalovania
@@ -267,6 +277,8 @@ Artists:
 Duration: 1:30
 URLs:
 - https://sahcon.bandcamp.com/track/wicked-wax-warrior-vs-dave
+Referenced Tracks:
+- Beatdown (Strider Style)
 ---
 Track: Even in Battle (vs. Rose)
 Directory: even-in-battle
@@ -462,6 +474,10 @@ Directory: try-me-l8ser
 Artists:
 - GRYSCL
 Duration: 2:42
+Referenced Tracks:
+- Game Main Theme (Piano Sketch)
+Sampled Tracks:
+- Objection; The Opposing Counsel is No Longer Alive (vs. Terezi)
 URLs:
 - https://sahcon.bandcamp.com/track/try-me-l8ser-vs-vriska
 ---
@@ -470,6 +486,8 @@ Directory: objection-the-opposing-counsel-is-no-longer-alive
 Artists:
 - SleeveAce22
 Duration: 2:00
+Referenced Tracks:
+- Terezi's Theme
 URLs:
 - https://sahcon.bandcamp.com/track/objection-the-opposing-counsel-is-no-longer-alive-vs-terezi
 ---
@@ -554,6 +572,12 @@ Contributors:
 Duration: 2:02
 URLs:
 - https://sahcon.bandcamp.com/track/pumpkin-party-in-sea-hitlers-water-apocalypse-1982-cabinet-rip
+Referenced Tracks:
+- Pumpkin Party in Sea Hitler's Water Apocalypse
+Lyrics: |-
+    (I'll get you!)
+    (This isn't over!)
+    (You're mine!)
 Commentary: |-
     <i>Funk McLovin:</i> ([Bandcamp about blurb](https://sahcon.bandcamp.com/track/pumpkin-party-in-sea-hitlers-water-apocalypse-1982-cabinet-rip))
 
@@ -578,6 +602,9 @@ URLs:
 - https://soundcloud.com/akisephila/the-rainbow-maw
 - https://www.youtube.com/watch?v=sNU2ehpQGTE
 - https://www.newgrounds.com/audio/listen/1342856
+Referenced Tracks:
+- English
+- Penumbra Phantasm
 Commentary: |-
     <i>Akisephila:</i> ([Bandcamp about blurb](https://sahcon.bandcamp.com/track/the-rainbow-maw-boss-lord-english))
 
