@@ -6,13 +6,16 @@ URLs:
 - https://nightslights.bandcamp.com/album/oceanfalls-vol-6
 - https://www.youtube.com/watch?v=szfsnqqTy28
 Cover Artists:
-- nights # probably?
+- nights
 Cover Art File Extension: png
 Track Art File Extension: png
 Color: '#fff380' # "star gold"
 # Color: '#cdd16a' # "scythe gold"
 # Color: '#a21d27' # "highlight red"
 # Color: '#ce2431' # "brighter red"
+Art Tags:
+- Nino (Oceanfalls)
+- Kotori (Oceanfalls)
 Groups:
 - Oceanfalls
 - Beyond
@@ -37,6 +40,10 @@ Cover Artists:
 - Nights
 URLs:
 - https://nightslights.bandcamp.com/track/oceanfalls-opening
+Art Tags:
+  # WC: "One of the alternate ninos and kotori"
+- Nino (Oceanfalls)
+- Kotori (Oceanfalls)
 ---
 Track: Sundering of the Self
 Duration: 3:04
@@ -47,6 +54,8 @@ Cover Artists:
 URLs:
 - https://nightslights.bandcamp.com/track/sundering-of-the-self
 Art Tags:
+- Nino (Oceanfalls)
+- Nina (Oceanfalls)
 - 'cw: blood'
 Commentary: |-
     <i>leiirue, Nights, Witch's Cadence, Pikarai, Nevermind3476, Finchlet:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=63))
@@ -175,10 +184,10 @@ Artists:
 - Witch's Cadence
 Cover Artists:
 - InkyKnight
-Art Tags:
-- Nino (Oceanfalls)
 URLs:
 - https://nightslights.bandcamp.com/track/smite
+Art Tags:
+- Reed (Oceanfalls)
 Commentary: |-
     <i>Wights End:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=63) during [[Sundering of the Self]])
 
@@ -229,6 +238,12 @@ Cover Artists:
 # needs lyrics
 URLs:
 - https://nightslights.bandcamp.com/track/slumber-view
+Art Tags:
+  # WC: "I don't think the spirit's name was ever confirmed completely?"
+  # Nevermind: "track 5 is also one of the spirits disguised as nino, not nino himself i'm pretty sure"
+  # Nevermind: "im not sure which one, though it's probably one of the unnamed randos?
+  # "i don't think it's the general"
+- Reed (Oceanfalls)
 Commentary: |-
     <i>Mathias Ramalho, Nights, Pikarai, Wights End, leiirue, Witch's Cadence, Nevermind3476, Finchlet:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=571))
 
@@ -276,6 +291,23 @@ Commentary: |-
     *Wights End:* Oceanfalling Away From Me - KoRN probably
 
     *Witch's Cadence:* Sick ending
+Credit Sources: |-
+    <i>Witch's Cadence, Nevermind3476:</i> ([Oceanfalls Discord](https://discord.com/channels/267390861220773889/267539233307230210/1330992164230135818) re: art tags, excerpt, 1/20/2025)
+
+    *Witch's Cadence:* Track 5: I don't think the spirit's name was ever confirmed completely? Either way she probably doesn't need a tag
+
+    *Nevermind:*<br>
+    track 5 is also one of the spirits disguised as nino, not nino himself i'm pretty sure<br>
+    im not sure which one, though it's probably one of the unnamed randos?<br>
+    i don't think it's the general
+
+    *Witch's Cadence:* OH wait yeah because nino wasn't the one dealing with that spirit
+
+    *Nevermind:*<br>
+    let me see if i can figure out which spirit it is specifically<br>
+    i think the tears on it might be distinctive?<br>
+    oh, wait, these are just the two spirits that attack reed and five, i think<br>
+    definitely unnamed and not significant enough to need a tag, then
 ---
 Track: Sand Battle
 Duration: 1:57
@@ -285,6 +317,11 @@ Cover Artists:
 - Nights
 URLs:
 - https://nightslights.bandcamp.com/track/sand-battle
+Art Tags:
+  # WC: "Nino, Mei, Avery, More spirits"
+- Nino (Oceanfalls)
+- Meimona (Oceanfalls)
+- Avery (Oceanfalls)
 Commentary: |-
     <i>Nights, Witch's Cadence, leiirue, Nevermind3476, Pikarai:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=907))
 
@@ -317,6 +354,9 @@ Cover Artists:
 - leiirue
 URLs:
 - https://nightslights.bandcamp.com/track/winter-battle
+Art Tags:
+- Five (Oceanfalls)
+- Reed (Oceanfalls)
 Commentary: |-
     <i>Leonard826, leiirue, Witch's Cadence, Nights, Pikarai:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=1025))
 
@@ -351,6 +391,7 @@ Artists:
 Cover Artists:
 - Nights
 Art Tags:
+- Kaji (Oceanfalls)
 - 'cw: blood'
 URLs:
 - https://nightslights.bandcamp.com/track/dreams-of-lost-purpose
@@ -438,6 +479,9 @@ Cover Artists:
 - Leonard826
 URLs:
 - https://nightslights.bandcamp.com/track/rigid-reflex
+Art Tags:
+- Nino (Oceanfalls)
+- Suvillan (Oceanfalls)
 Referenced Tracks:
 - Sovereign Domain
 - Yellow and Purple
@@ -520,6 +564,8 @@ Artists:
 - Witch's Cadence
 Cover Artists:
 - leiirue
+Art Tags:
+- Dream Nino (Oceanfalls)
 URLs:
 - https://nightslights.bandcamp.com/track/myosotis-in-the-wind
 Referenced Tracks:
@@ -605,6 +651,8 @@ Artists:
 - Finchlet
 Cover Artists:
 - Nevermind3476
+Art Tags:
+- Aria (Oceanfalls)
 URLs:
 - https://nightslights.bandcamp.com/track/crystalline-aurora
 Commentary: |-
@@ -740,10 +788,13 @@ Artists:
 - Finchlet
 Cover Artists:
 - leiirue
-Referenced Tracks:
-- Know Thyself
 URLs:
 - https://nightslights.bandcamp.com/track/conflicted-self
+Art Tags:
+- Nino (Oceanfalls)
+- Dream Nino (Oceanfalls)
+Referenced Tracks:
+- Know Thyself
 Commentary: |-
     <i>leiirue, Nevermind3476, Witch's Cadence, Nights, Pikarai, Wights End:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=2114))
 
@@ -797,6 +848,8 @@ Cover Artists:
 - Leonard826
 URLs:
 - https://nightslights.bandcamp.com/track/suvillans-giant-spiralling-tower
+Art Tags:
+- Solis (Oceanfalls)
 Commentary: |-
     <i>Nevermind3476, Leonard826, Witch's Cadence, Wights End, Finchlet, Pikarai, Nights:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=2301))
 
@@ -829,6 +882,9 @@ Cover Artists:
 - InkyKnight
 URLs:
 - https://nightslights.bandcamp.com/track/wanderlust
+Art Tags:
+- Aria (Oceanfalls)
+- Five (Oceanfalls)
 Commentary: |-
     <i>Wights End, Pikarai, Finchlet, Witch's Cadence, Finchlet, leiirue, Nevermind3476, Nights:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=2361))
 
@@ -892,6 +948,8 @@ Cover Artists:
 - leiirue
 URLs:
 - https://nightslights.bandcamp.com/track/abyssal-median
+Art Tags:
+- Nino (Oceanfalls)
 Commentary: |-
     <i>leiirue, Witch's Cadence, Pikarai, Nevermind3476, Nights, Finchlet:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=2555))
 
@@ -938,6 +996,8 @@ Cover Artists:
 - HikLight
 URLs:
 - https://nightslights.bandcamp.com/track/scarlet-wings
+Art Tags:
+- Kotori (Oceanfalls)
 Commentary: |-
     <i>Nevermind3476, Nights, Pikarai, Witch's Cadence, Leonard826, leiirue, Finchlet, Mathias Ramalho:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=2630))
 
@@ -997,6 +1057,8 @@ Cover Artists:
 - leiirue
 URLs:
 - https://nightslights.bandcamp.com/track/bonus-ruit-dies-in-a-tornado
+Art Tags:
+- Ruit (Oceanfalls)
 Commentary: |-
     <i>leiirue, Pikarai, Finchlet, Nights, Witch's Cadence, Neivei, Leonard826:</i> ([YouTube premiere live chat](https://youtu.be/szfsnqqTy28?t=2739))
 
