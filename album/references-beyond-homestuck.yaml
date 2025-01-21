@@ -3035,6 +3035,20 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=LHhjnJP0VCo
 ---
+Track: Big Boo's Haunt
+# JP: テレサのホラーハウス
+# Official release:
+#   スーパーマリオ64 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/137
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '3:04'
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/540c9f9d-dcbc-4e56-8e5b-cfbe58c2b335
+- https://www.youtube.com/watch?v=Cur1UayJquw
+---
 Track: Big Boss Confrontation BGM (Ridley, Draigon)
 # Reference:
 #   https://vgmdb.net/album/883
@@ -3369,20 +3383,6 @@ Artists:
 Duration: '0:26'
 URLs:
 - https://www.youtube.com/watch?v=HHvDsMhP8yE
----
-Track: Cave Dungeon (Super Mario 64)
-# JP: どうくつ
-# Official release:
-#   スーパーマリオ64 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/137
-Directory: cave-dungeon-sm64
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: '3:46'
-URLs:
-- https://www.youtube.com/watch?v=fMb-WH2UYi0
 ---
 Track: Cave Theme 1
 # From Earthbound, which had an official album release but this track isn't on it.
@@ -5348,19 +5348,19 @@ Duration: '3:07'
 URLs:
 - https://www.youtube.com/watch?v=0Z3odpfwCpE
 ---
-Track: Haunted House (Super Mario 64)
-# JP: テレサのホラーハウス
+Track: Hazy Maze Cave
+# JP: どうくつ
 # Official release:
 #   スーパーマリオ64 オリジナルサウンドトラック
 # Reference:
 #   https://vgmdb.net/album/137
-Directory: haunted-house-sm64
 Artists:
 - Super Mario
 - Koji Kondo
-Duration: '3:06'
+Duration: '3:43'
 URLs:
-- https://www.youtube.com/watch?v=Cur1UayJquw
+- https://m.nintendo.com/shared/en-US/US/tracks/80a7c7b0-7a40-465a-b067-e9192b893fa8
+- https://www.youtube.com/watch?v=fMb-WH2UYi0
 ---
 Track: The Heirs to Eternity
 # Official release:
@@ -8463,8 +8463,9 @@ Directory: slider-super-mario-64
 Artists:
 - Super Mario
 - Koji Kondo
-Duration: '1:14'
+Duration: '2:47'
 URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/7e1af7a5-cca1-4f71-85cf-08d7da1a356f
 - https://youtu.be/vJIjtjGUR9Q?t=401
 ---
 Track: Slinger's Song
@@ -9151,6 +9152,20 @@ URLs:
 Referenced Tracks:
 - Meet the Flintstones
 ---
+Track: The Final Battle (Super Mario 64)
+# JP: クッパ3号
+# Official release:
+#   スーパーマリオ64 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/137
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: '2:49'
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/ddbd8a8d-5e88-47fb-94fb-788b39bb587a
+- https://youtu.be/vJIjtjGUR9Q?t=2447
+---
 Track: The Final Road (Pokémon Red / Pokémon Blue)
 # https://vgmdb.net/album/141
 Directory: the-final-road-pokemon-red-blue
@@ -9753,19 +9768,6 @@ Commentary: |-
     So the whole deal with the [unofficial full/long version](https://www.youtube.com/watch?v=8jJZA-O_B78) is that it's just U.N. Owen Was Her? and beatMARIO's [[Final Savage Sister, Flandre S.]] slapped together as a medley, one after the other, and the YouTube description doesn't even mention this.
 
     The original in-game track (and the slightly different [Dolls in Pseudo Paradise](https://en.touhouwiki.net/wiki/Dolls_in_Pseudo_Paradise) version, by extension) is much shorter than the unofficial full version medley, and does not contain Final Savage Sister, Flandre S. in any capacity.
----
-Track: Ultimate Koopa
-# JP: クッパ3号
-# Official release:
-#   スーパーマリオ64 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/137
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: '2:50'
-URLs:
-- https://youtu.be/vJIjtjGUR9Q?t=2447
 ---
 Track: The Universe is Before You
 # Official release:
