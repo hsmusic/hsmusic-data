@@ -72,6 +72,7 @@ Content: |-
     - added [[album:413-sp3c14l]] by [[artist:afterdevth]]! (thanks, Jebb!)
     - added [[album:rooftop-paladin]] by [[artist:hazama-yuutou]]! (thanks, Lilith!)
     - added [[album:2ollux2-fiinal-frontiier]] by [[artist:maukustus]]! (thanks, Jebb!)
+    - added [[album:midnight-crew-beginning-of-the-end-ost-vol-1]] by [[artist:tristone]]! (thanks, Jebb!)
     <!-- beyond chronologically, single-lines -->
     - added [[album:bittersweet-hilary-troiano]] by [[artist:hilary-troiano]]! (thanks, Lilith!)
     - added [[album:improvised-touhou-music-with-annoying-commentary]] by [[group:toby-fox]]! (thanks, Lilith!)
@@ -92,6 +93,8 @@ Content: |-
         - added [[album:unbound-night-selection-original-soundtrack]]!
     - added latest release from [[group:stuck-at-home-con]]! (thanks, Tangle, Whisper, Surge, Lan, Makin, Rainy, Guffy, Witch's Cadence!)
         - added [[album:fraymotif-fighters]]!
+    - added latest release from [[group:desynced]]! (thanks, Jebb, Lan!)
+        - added [[album:anthology-ii]]!
     - added [[group:8reath-of-light]] discography! (thanks, Lilith!)
         - added [[album:i-dreamed-of-feeling-better-vol-1]]!
         - added [[album:unite-synchronization-breach-the-heavens-mix]]!
@@ -374,6 +377,7 @@ Content: |-
     - fixed [[track:candles-potency]] not referencing [[track:candles-and-potency]], and moved [[track:candles-and-clockwork]] reference to that track (thanks, Lilith!)
     - fixed [[track:probable-cause]] not also sampling its referenced tracks (thanks, Lilith!)
     - fixed [[track:adventurous-ascent]] ([[album:lofam5a2]]) not referencing [[track:adventurous-ascent-single-version]] (thanks, Lilith!)
+    - fixed [[track:the-epic-of-jack-noir]] not referencing [[track:dominus-decem-propugnator]] (thanks, Jebb!)
     - fixed [[track:anarchy-gravity-makes-the-flame-rise]] not sampling [[track:nothing-but-the-best]] (thanks, ruby!)
     - fixed [[track:welcome-to-the-city]] referencing [[track:almost-to-the-guys]], instead of the other way around, and not referencing [[track:74]] (thanks, ruby, Cello, FF!)
     - fixed [[track:nows-your-chance-to-be-a]] and [[track:big-shot]] not sampling [[track:wow-mother]] (thanks, ruby!)
@@ -551,6 +555,7 @@ Content: |-
     - fixed [[track:onett]] being named "Onett Theme" (thanks, ruby, Lan!)
     - fixed [[track:relic-song-pokemon-black-white]] being named "Relic Song (Pokémon Black 2 / Pokémon White 2)" (thanks, ruby!)
     - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
+    - fixed [[tag:kade-desynced]] being named "Kate's dad (Desynced)", and [[tag:ella-desynced]] being named "Evan's mum (Desynced)" (thanks, Jebb!)
     <!-- general data fixes -->
     - fixed duration of [[track:wanderlust-redditstuck]] (was 3:52, now 3:24; thanks, Lilith, Lan, Makin!)
     - fixed duration of many Nintendo tracks to align with Nintendo Music (thanks, ruby!)
@@ -1452,7 +1457,7 @@ Content: |-
     - fixed [[track:feels-jam]] being tagged [[tag:lomax]] instead of [[tag:lotak]] (thanks, Pyryte!)
     - fixed [[album:another-noir]] not being tagged [[tag:jack-noir]]
     - updated lots of [[group:desynced]] tag details: (thanks, Jebb, dizzims!!)
-        - added new tags: [[tag:bette-diaz-desynced]], [[tag:bianca-queens-desynced]], [[tag:brent-kampel-desynced]], [[tag:clan-chief-desynced]], [[tag:charlie-davis-desynced]], [[tag:chester-newman-desynced]], [[tag:crack-desynced]], [[tag:daniel-dime-desynced]], [[tag:drake-desynced]], [[tag:evans-mum-desynced]], [[tag:folly-face-desynced]], [[tag:grace-kameron-desynced]], [[tag:harvey-barret-desynced]], [[tag:jack-noir-desynced]], [[tag:jes-desynced]], [[tag:jill-desynced]], [[tag:kronos-desynced]], [[tag:lily-desynced]], [[tag:lydia-kameron-desynced]], [[tag:mia-desynced]], [[tag:momo-jr-desynced]], [[tag:monsoon-desynced]], [[tag:rancid-desynced]], [[tag:moon-desynced]], [[tag:fosvas-desynced]], [[tag:dusken-desynced]], [[tag:lodam-desynced]], [[tag:lodap-desynced]], [[tag:losas-desynced]], [[tag:losans-desynced]], [[tag:lotam-desynced]], [[tag:lowhat-desynced]]
+        - added new tags: [[tag:bette-diaz-desynced]], [[tag:bianca-queens-desynced]], [[tag:brent-kampel-desynced]], [[tag:clan-chief-desynced]], [[tag:charlie-davis-desynced]], [[tag:chester-newman-desynced]], [[tag:crack-desynced]], [[tag:daniel-dime-desynced]], [[tag:drake-desynced]], [[tag:ella-desynced|Evan's mum (Desynced)]], [[tag:folly-face-desynced]], [[tag:grace-kameron-desynced]], [[tag:harvey-barret-desynced]], [[tag:jack-noir-desynced]], [[tag:jes-desynced]], [[tag:jill-desynced]], [[tag:kronos-desynced]], [[tag:lily-desynced]], [[tag:lydia-kameron-desynced]], [[tag:mia-desynced]], [[tag:momo-jr-desynced]], [[tag:monsoon-desynced]], [[tag:rancid-desynced]], [[tag:moon-desynced]], [[tag:fosvas-desynced]], [[tag:dusken-desynced]], [[tag:lodam-desynced]], [[tag:lodap-desynced]], [[tag:losas-desynced]], [[tag:losans-desynced]], [[tag:lotam-desynced]], [[tag:lowhat-desynced]]
         - added [[tag:evan-desynced]] to [[track:puppet-master-desynced]]
         - added [[tag:earth]] to [[album:desynced-vol-2]], [[track:friends-to-the-end]], [[track:asimov-3]], [[track:desynced]], [[track:matriarch-pantheon]], [[track:tyrant-pantheon]], [[track:luminary-pantheon]], and [[track:nemesis-pantheon]]
         - added [[tag:ruined-earth]] to [[track:psycho-desynced]]
