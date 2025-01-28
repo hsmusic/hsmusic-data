@@ -32,7 +32,7 @@ Style: |-
         margin-bottom: 0.5em;
     }
 Content: |-
-    <h2 id="1-jan-2099" class="major-release"><html:a href="#1-jan-2099">[[date:1 January 2099]] - Anachronist's Library</a></h2>
+    <h2 id="28-jan-2025" class="major-release"><html:a href="#28-jan-2025">[[date:28 January 2025]] - Anachronist's Library</a></h2>
     <h3>site changes</h3>
     - obliterated chronology links in the nav bar (<html:a href="#15-apr-20">rest</a> <html:a href="#12-jun-20">in</a> <html:a href="#12-jun-2024">peace</a>) and added them into artist tooltips, instead; these show the previous and next things' names (and a description if hovered for longer); they're more dynamic and may be shown for all kinds of credits, not just for track artists/contributors and cover/track art illustrators
     - new group series feature, so albums can now belong to specialized "series" within their groups (for example, "Numbered volumes" under [[group:official]]; "Land of Fans and Music" under [[group:unofficial-mspa-fans]]; "Pokémon Unbound" under [[group:the-paradox-music-team]]) - these are shown on group info pages, in full; on album pages, with dedicated previous/next buttons; and on track pages, briefly
@@ -78,6 +78,7 @@ Content: |-
     - added [[album:improvised-touhou-music-with-annoying-commentary]] by [[group:toby-fox]]! (thanks, Lilith!)
     - added [[album:pills-ep]] by [[artist:alex-votl]]! (thanks, Lilith!)
     - added [[album:in-isolation]] by [[artist:david-ellis]]! (thanks, Lilith!)
+    - added [[album:pray]] by [[artist:itoki-hana]] by [[artist:itoki-hana]]! (thanks, ruby, Lan!)
     - added [[album:uufo]] by [[artist:camellia]]! (thanks, ruby, Lan!)
     - added [[album:extermination-shock]] by [[group:what-is-lost-in-the-mines]]! (thanks, Jebb!)
     - added [[album:dead-maams-chest]] and [[album:ahoy-youre-all-pirates]] by [[artist:houshou-marine]]! (thanks, ruby!)
