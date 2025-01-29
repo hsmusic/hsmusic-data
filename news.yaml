@@ -22,6 +22,8 @@ Content: |-
 
     Phew! That's a lot of music. As ever, all the additions are [[static:changelog#28-jan-2025|in the changelog]]. There's a lot of stuff besides, so we really encourage you to check it out, but of special note, many, many of the [[group:official|Official Discography]] tracks now have *a lot* more commentary (plus lots of fandom stuff too). Those additions are thanks to serious web-scouring and wiki-formatting efforts by Lilith (so please say thank you Lilith!!), as well as transcribed from Bowman's big SAHCon 2024 [walk through time](https://www.youtube.com/watch?v=85VXWZTg-vo). On top of that, we've filled properly dated citations for nearly every bit of official commentary, large or small, and noted what we still can't trace earlier than [[media:misc/commentary-collection.txt|our original commentary source]]!
 
+    <hr>
+
     But did you know this update... comes with new features?? [[static:changelog#28-jan-2025|A <em>lot</em> of them]], even!? It's true!
 
     Our favorite new feature is, well, sorry, chronology links. [[news-entry:snow-pollen-appreciation-station|Again.]] It turns out the last design just didn't last, and now we've rethought chronology links all the way through. Here's where they are instead!
@@ -38,7 +40,31 @@ Content: |-
 
     We've got short descriptions for some track sections (like on [[album:homestuck-vol-1-4]]); prettier commentary entry headings; custom-presented "featuring" credits; additional names for albums; "closely linked artists" on group pages, and vice versa; and a dandy little "Album cover for..." message on tracks without their own artworks.
 
-    Oh, and artwork references. Those [[track:sburban-jungle|are]] [[album-referencing-artworks:beyond-canon|pretty]] [[album-referenced-artworks:doctor|flipping]] [[track-referencing-artworks:moonsetter|cool]], too. (Thanks to Makin for all the initial data here, comprehensively covering everything from [[group:canmt|the CaNMT]]!!)
+    Oh, and artwork references. Those [[album-referencing-artworks:midnight-crew-drawing-dead|are]] [[album-referenced-artworks:beyond-canon|pretty]] [[track-referencing-artworks:doctor|flipping]] [[track-referencing-artworks:moonsetter|cool]], too. (Thanks to Makin for all the initial data here, comprehensively covering everything from [[group:canmt|the CaNMT]]!!)
+
+    <hr>
+
+    This update is late - we were targeting new years day, 1/1/2025 - for a handful of reasons. The plainest one is that we (QN) got a job, again, working IRL for the first time since after [[news-entry:ball-drop-23|Ball Drop '23]]. Of course, [[news-entry:wiki-finalization|last time]], we went on a wiki hiatus pretty much as soon as we left to work. This time around, not so! We've been at our job since August, active on the update this whole time - alongside all the awesome wiki-contributing community, of course.
+
+    We also ran clean out of storage room. Actually, preview updates for this update harshly contested space on the server graciously sysadmin'd by [nata](https://equa.space), which [[news-entry:hsmusicwiki|since 2021]] we shared with [our own personal site](https://nebula.ed1.club) and a handful of other internet places. Throughout January we worked out precise plans to get the wiki moved to its own dedicated server... and pulled them off!
+
+    The wiki is now hosted via Digitalocean Spaces, with a pretty bog-simple nginx frontend (via Digitalocaen Droplets) managing URLs the way we need. You shouldn't notice much of anything different - except that all our media files are now under [media.hsmusic.wiki](https://media.hsmusic.wiki), and the preview site is now [preview.hsmusic.wiki](https://preview.hsmusic.wiki)... but for us, it means we get 250 GiB of space! The wiki takes around 15 GiB right now, so we should be tidy for a nice long time. And total expenses are comparable, so it's just as sustainable on that end (only we manage our own billing now!!).
+
+    Also there is a proper [404 page](https://hsmusic.wiki/whoopsey/) now. Oo shiny!
+
+    <hr>
+
+    Just for fun, even though we didn't exactly meet the [[news-entry:ball-drop-23#update-stat-summary|milestone]], here are comparable stat updates for everything new in the last two years:
+
+    - Tracks: 3405 → 10,457 (+207%)
+    - Albums: 150 → 508 (+239%)
+    - Duration: 166 hours → 495 hours (+198%)
+    - Artists: 1615 → 3535 (+119%)
+    - Art tags: 265 → 551 (+108%)
+
+    (We don't have an exact stat for commentary entries handy, but [in June 2023](https://web.archive.org/web/20230601094522/https://hsmusic.wiki/commentary/) around [[news-entry:happy-birthday-nannasprite]], there were 230k words across [roughly](https://github.com/hsmusic/hsmusic-wiki/commit/692bd586495e5fcb6d7c5eae2af6a8c34b380b50) 2000 entries. There are [[commentary-index:-|now]] 417k words across 5,449 entries.)
+
+    The wiki's approximately tripled in scope in those two years.
 ---
 Name: Snow Pollen Appreciation Station
 Directory: snow-pollen-appreciation-station
@@ -477,7 +503,7 @@ Content: |-
     <b>Virtually all site internals met a massive overhaul,</b> which most notably helped us automatically catch a ton of teeny typos throughout all areas of wiki data, but also brought a major cleanup to the data format and made adding and updating features a whole lot friendlier for anyone spinning off or contributing to the wiki code!
     <b>Tons of other data fixes and minor additions</b> from many different people and community members - I summed up most individuals' contributions in the [[news-entry:a-preview-draws-near|previous news entry]], and you can find many more details in [[static:changelog#1-jan-2023|the changelog]]. Thanks so much to everyone who brought this update to fruition!
     <hr>
-    By the way, here are the stats summarizing just how much data is newly part of the wiki:
+    <span id="update-stat-summary">By the way,</span> here are the stats summarizing just how much data is newly part of the wiki:
     - Tracks: 2186 → 3405 (~56% increase)
     - Albums: 110 → 150 (~36% increase)
     - Duration: 109 hours → 166 hours (~53% increase)
