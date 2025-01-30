@@ -33,9 +33,19 @@ Style: |-
     }
 Content: |-
     <h2 id="28-feb-2099"><html:a href="#28-feb-2099">[[date:28 February 2099]] - dusty shelves</a></h2>
+    <h3>additions</h3>
+    <!-- listening links -->
+    - added Nintendo Music listening link to [[track:molgera-battle]] (thanks, ruby!)
     <h3>data fixes</h3>
+    <!-- name fixes -->
+    - fixed [[track:molgera-battle]] being named "Molgera" (thanks, ruby!)
     <!-- general data fixes -->
     - fixed date of [[flash:countdown-paradox-struck]] (was [[date:6/12/2013]], now [[date:6/12/2023]]; thanks, gr1mv4d3r!)
+    - fixed duration of [[track:molgera-battle]] to align with Nintendo Music (was 1:36, now 3:00; thanks, ruby!)
+    <h3>directory changes</h3>
+    <details><summary><b>Toggle Directorylog</b></summary>
+    - changed directory of [[track:molgera-battle]] from <code>molgera</code> to <code>molgera-battle</code>
+    </details>
 
     <h2 id="30-jan-2025" class="major-release"><html:a href="#30-jan-2025">[[date:30 January 2025]] - Anachronist's Library</a></h2>
     <h3>site changes</h3>
