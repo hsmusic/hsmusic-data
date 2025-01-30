@@ -35,15 +35,25 @@ Content: |-
     <h2 id="28-feb-2099"><html:a href="#28-feb-2099">[[date:28 February 2099]] - dusty shelves</a></h2>
     <h3>additions</h3>
     <!-- listening links -->
-    - added Nintendo Music listening link to [[track:molgera-battle]] (thanks, ruby!)
+    - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
     <h3>data fixes</h3>
     <!-- name fixes -->
+    - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)" (thanks, ruby!)
     - fixed [[track:molgera-battle]] being named "Molgera" (thanks, ruby!)
+    - fixed [[track:hazy-maze-cave]] being named "Cave Dungeon (Super Mario 64)" (thanks, ruby!)
     <!-- general data fixes -->
     - fixed date of [[flash:countdown-paradox-struck]] (was [[date:6/12/2013]], now [[date:6/12/2023]]; thanks, gr1mv4d3r!)
-    - fixed duration of [[track:molgera-battle]] to align with Nintendo Music (was 1:36, now 3:00; thanks, ruby!)
+    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
+        - [[track:ground-bgm-super-mario-bros]] (was 2:42, now 3:07)
+        - [[track:hazy-maze-cave]] (was 3:46, now 3:43)
+        - [[track:molgera-battle]] (was 1:36, now 3:00)
+        - [[track:rainbow-road-super-mario-kart]] (was 4:37, now 1:59)
+        - [[track:slider-super-mario-64]] (was 1:14, now 2:47)
+        - [[track:the-final-battle-super-mario-64]] (was 2:50, now 2:49)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
+    - changed directory of [[track:ground-bgm-super-mario-bros]] from <code>ground-theme-super-mario-bros</code> to <code>ground-bgm-super-mario-bros</code>
+    - changed directory of [[track:hazy-maze-cave]] from <code>cave-dungeon-super-mario-64</code> to <code>hazy-maze-cave</code>
     - changed directory of [[track:molgera-battle]] from <code>molgera</code> to <code>molgera-battle</code>
     </details>
 
