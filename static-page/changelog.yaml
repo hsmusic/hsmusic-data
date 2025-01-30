@@ -37,6 +37,8 @@ Content: |-
     <!-- link additions -->
     - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
     <h3>data fixes</h3>
+    <!-- reference fixes -->
+    - fixed [[track:scarlet-wings]] not referencing [[track:kotori]] (thanks, Nevermind!)
     <!-- name fixes -->
     - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)" (thanks, ruby!)
     - fixed [[track:molgera-battle]] being named "Molgera" (thanks, ruby!)
