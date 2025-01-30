@@ -32,6 +32,8 @@ Style: |-
         margin-bottom: 0.5em;
     }
 Content: |-
+    <h2 id="28-feb-2099"><html:a href="#28-feb-2099">[[date:28 February 2099]] - dusty shelves</a></h2>
+
     <h2 id="30-jan-2025" class="major-release"><html:a href="#30-jan-2025">[[date:30 January 2025]] - Anachronist's Library</a></h2>
     <h3>site changes</h3>
     - obliterated chronology links in the nav bar (<html:a href="#15-apr-20">rest</a> <html:a href="#12-jun-20">in</a> <html:a href="#12-jun-2024">peace</a>) and added them into artist tooltips, instead; these show the previous and next things' names (and a description if hovered for longer); they're more dynamic and may be shown for all kinds of credits, not just for track artists/contributors and cover/track art illustrators
