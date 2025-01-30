@@ -33,6 +33,9 @@ Style: |-
     }
 Content: |-
     <h2 id="28-feb-2099"><html:a href="#28-feb-2099">[[date:28 February 2099]] - dusty shelves</a></h2>
+    <h3>data fixes</h3>
+    <!-- general data fixes -->
+    - fixed date of [[flash:countdown-paradox-struck]] (was [[date:6/12/2013]], now [[date:6/12/2023]]; thanks, gr1mv4d3r!)
 
     <h2 id="30-jan-2025" class="major-release"><html:a href="#30-jan-2025">[[date:30 January 2025]] - Anachronist's Library</a></h2>
     <h3>site changes</h3>
