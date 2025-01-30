@@ -34,7 +34,7 @@ Style: |-
 Content: |-
     <h2 id="28-feb-2099"><html:a href="#28-feb-2099">[[date:28 February 2099]] - dusty shelves</a></h2>
     <h3>additions</h3>
-    <!-- listening links -->
+    <!-- link additions -->
     - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
     <h3>data fixes</h3>
     <!-- name fixes -->
@@ -50,6 +50,8 @@ Content: |-
         - [[track:rainbow-road-super-mario-kart]] (was 4:37, now 1:59)
         - [[track:slider-super-mario-64]] (was 1:14, now 2:47)
         - [[track:the-final-battle-super-mario-64]] (was 2:50, now 2:49)
+    <!-- link fixes -->
+    - fixed Twitter link, removed dead desynced.xyz link, and added MSPFA link for [[group:desynced]] (thanks, meulanie!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
     - changed directory of [[track:ground-bgm-super-mario-bros]] from <code>ground-theme-super-mario-bros</code> to <code>ground-bgm-super-mario-bros</code>
