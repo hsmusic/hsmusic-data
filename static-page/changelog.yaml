@@ -40,6 +40,7 @@ Content: |-
     - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
+    - fixed [[track:teal-seer]] not referencing [[track:somethings-different]], and added various commentary related to this (thanks, Makin!)
     - fixed [[track:vriska-dance]] not referencing [[track:regent-erratic]] (thanks, Makin!)
     - fixed [[track:oh-boo-hoo]] sampling "Heartwich" instead of [[track:heartwich-with-strings]] (thanks, Makin!)
     - fixed [[track:how-2-dj-vip-excloosive-feat-dabe]] not sampling [[track:dead-secretary-zero-health]] (thanks, Makin!)
