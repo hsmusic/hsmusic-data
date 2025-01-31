@@ -38,6 +38,13 @@ Content: |-
     - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
+    - fixed [[track:vriska-dance]] not referencing [[track:regent-erratic]] (thanks, Makin!)
+    - fixed [[track:oh-boo-hoo]] sampling "Heartwich" instead of [[track:heartwich-with-strings]] (thanks, Makin!)
+    - fixed [[track:how-2-dj-vip-excloosive-feat-dabe]] not sampling [[track:dead-secretary-zero-health]] (thanks, Makin!)
+    - fixed [[track:ich-bin-dead]] referencing [[track:chorale-for-jaspers]] and not referencing [[track:godtrash]] (thanks, Makin!)
+    - fixed [[track:excess-express]] referencing [[track:chorale-for-jaspers]], and referencing [[track:dead-secretary-zero-health]] instead of [[track:ich-bin-dead]] (thanks, Makin!)
+    - fixed [[track:ich-bin-not-dead]] referencing [[track:chorale-for-jaspers]] and [[track:all-star]], and referencing [[track:dead-secretary-zero-health]] instead of [[track:ich-bin-dead]] (thanks, Makin!)
+    - fixed [[track:light-at-the-end-of-the-tunnel]] referencing [[track:i-despise-this-buildupes]] instead of [[track:i-absolutely-loathe-this-drummer]] (thanks, Makin!)
     - fixed [[track:scarlet-wings]] not referencing [[track:kotori]] (thanks, Nevermind!)
     <!-- name fixes -->
     - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)" (thanks, ruby!)
@@ -53,6 +60,7 @@ Content: |-
         - [[track:slider-super-mario-64]] (was 1:14, now 2:47)
         - [[track:the-final-battle-super-mario-64]] (was 2:50, now 2:49)
     <!-- link fixes -->
+    - fixed YouTube listening link for [[track:train-requiem]] being given to [[track:train-meldey-next-to-last-station]] instead (thanks, Makin!)
     - fixed Twitter link, removed dead desynced.xyz link, and added MSPFA link for [[group:desynced]] (thanks, meulanie!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
