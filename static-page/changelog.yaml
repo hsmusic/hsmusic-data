@@ -36,6 +36,11 @@ Content: |-
     <h3>additions</h3>
     <!-- lyric additions -->
     - added lyrics to [[track:we-are-midnight-crew]] (thanks, Rosetta Leijonde, Makin!)
+    - added lyrics to [[track:sunrise-9]] (thanks, Niklink, Makin!)
+    - added lyrics to [[track:machina-pantheon]] (thanks, Niklink, Makin!)
+    - added lyrics to [[track:malfunction-portalstuck]] (thanks, Niklink, Makin!)
+    - added lyrics to [[track:its-nothing]] (thanks, Niklink, Makin!)
+    - added lyrics to [[track:dave-striders-cool-mixtape]] (thanks, Niklink, Makin!)
     <!-- link additions -->
     - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
     <h3>data fixes</h3>
@@ -49,10 +54,21 @@ Content: |-
     - fixed [[track:ich-bin-not-dead]] referencing [[track:chorale-for-jaspers]] and [[track:all-star]], and referencing [[track:dead-secretary-zero-health]] instead of [[track:ich-bin-dead]] (thanks, Makin!)
     - fixed [[track:light-at-the-end-of-the-tunnel]] referencing [[track:i-despise-this-buildupes]] instead of [[track:i-absolutely-loathe-this-drummer]] (thanks, Makin!)
     - fixed [[track:scarlet-wings]] not referencing [[track:kotori]] (thanks, Nevermind!)
+    - fixed [[track:dave-striders-cool-mixtape]] not sampling [[track:sweet-bro-and-hella-jeff-show]] and [[track:sports-lofam2]] (thanks, Makin!)
     <!-- name fixes -->
     - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)" (thanks, ruby!)
     - fixed [[track:molgera-battle]] being named "Molgera" (thanks, ruby!)
     - fixed [[track:hazy-maze-cave]] being named "Cave Dungeon (Super Mario 64)" (thanks, ruby!)
+    <!-- lyric fixes -->
+    - fixed a bunch of incomplete or missing lyrics in various tracks (thanks, Makin!)
+        - [[track:the-rose-rap]]: was *Apple pie, Cheez Whiz, [???]*, now *...Magic Castles*
+        - [[track:a-baby-is-born]]: was *And it's gonna be awesome when I have a baby (???)*, now *...(Singin' a song!)*
+        - [[track:a-baby-is-born]]: was *KID: ???*, now *KID: Gravity!*
+        - [[track:a-baby-is-born]]: was *It's me! Wah!*, now *I'm your first! It's me! Wah!*
+        - [[track:the-squiddles-save-christmas]]: was *[Unintelligible Squiddle bullshit]*, now *[Squiddles laughing]*
+        - [[track:a-very-special-time]]: was *[Indecipherable Christmassy sentence mixing]*, now:<br>*Christ-a-Co-how poor-for people-but our-oh-there*<br>*Christ-a-Co-how poor-for people-but our-oh-there-or*
+        - [[track:carina-cogwheel]]: was *We're lost, [??]*, now *We're lost souls*
+        - [[track:marisa-stole-the-precious-thing]]: removed *[Unintelligible]* at end
     <!-- general data fixes -->
     - fixed date of [[flash:countdown-paradox-struck]] (was [[date:6/12/2013]], now [[date:6/12/2023]]; thanks, gr1mv4d3r!)
     - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
