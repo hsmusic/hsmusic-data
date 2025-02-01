@@ -40,10 +40,14 @@ Content: |-
     - fixed annotations for commentary entries on flashes, when displayed in commentary list on artist info page, "absorbing" immediately-following punctuation ([[media:misc/changelog/flash-commentary-absorb-old.png|old]], [[media:misc/changelog/flash-commentary-absorb-new.png|new]])
     <h3>additions</h3>
     <!-- commentary additions -->
+    - added Tumblr commentary to [[track:bro-hop]] and [[track:we-shall-not-cease-from-exploration]] (thanks, Lilith!)
     - added full-album commentary, transcribed from YouTube, to [[album:of-troles-and-chiptumes]] (thanks, Makin!!)
     - added homextuck.xyz, YouTube commentary and citations (all re: artwork) to [[track:the-thirteenth-hour]] (thanks, Lan!)
     - added MSPA forums commentary to [[track:MeGaLoVania]] (thanks, Rosetta Leijonde, Makin!)
+    - added missing paragraphs to early commentary from Tumblr to [[track:calamity]], [[track:ocean-stars-falling]], and [[track:constant-conquest]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:jungle-boogie]] (thanks, Lilith!)
     - added LIVE A LIVE commentary to [[track:megalovania-ebhh]] (thanks, Makin!)
+    - added Tumblr commentary to [[album:bittersweet]] (thanks, Lilith!)
     <!-- lyric additions -->
     - added lyrics to [[track:we-are-midnight-crew]] (thanks, Rosetta Leijonde, Makin!)
     - added lyrics to [[track:sunrise-9]] (thanks, Niklink, Makin!)
@@ -55,6 +59,10 @@ Content: |-
     - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
     <!-- citation additions -->
     - added citation for SoundCloud commentary on [[track:sea-of-tranquility]] (thanks, Makin, Lan!)
+    - changed early commentary collection citations for [[track:calamity]], [[track:ocean-stars-falling]], [[track:escape-pod]], and [[track:frog-hunt]] to composer's archived Tumblr citations (thanks, Lilith!)
+    - changed early commentary collection citations for [[track:another-jungle]], [[track:minihoofs-adventure]], [[track:busting-makes-me-feel-good]], [[track:iRRRRRRRRECONCILA8LE]], [[track:im-a-member-of-the-midnight-crew-post-punk-version]], and [[track:another-countdown]] to composer's archived Tumblr citations (thanks, Lilith!)
+    - changed Tumblr citation links for [[track:gamegrl-original-1993-mix]] and [[track:elephant-gun]] to composer's archived Tumblr links (thanks, Lilith!)
+    - changed early commentary collection citation for [[track:constant-conquest]] to composer's archived Tumblr citation (thanks, Lilith!)
     - added date for Tumblr commentary on [[track:condescescion]] (thanks, Lan!)
     <h3>data changes</h3>
     <!-- misc presentational changes -->
@@ -89,6 +97,9 @@ Content: |-
         - [[track:carina-cogwheel]]: was *We're lost, [??]*, now *We're lost souls*
         - [[track:ebichahan]]: added chorus, and backing lines: *(This is a certified shrimp)* and *Or... or there's gonna be problems! (Go!)*
         - [[track:marisa-stole-the-precious-thing]]: removed *[Unintelligible]* at end
+    - fixed a couple composer and track artist commentary transcription typos (thanks, Lilith!)
+        - [[track:out-of-breath]]: was *gneius*, now *genius*
+        - [[track:dawn-of-man]]: was *of train*, now *of a train*
     <!-- general data fixes -->
     - fixed date of [[flash:countdown-paradox-struck]] (was [[date:6/12/2013]], now [[date:6/12/2023]]; thanks, gr1mv4d3r!)
     - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
