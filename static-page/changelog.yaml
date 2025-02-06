@@ -39,15 +39,19 @@ Content: |-
     <h3>bug fixes</h3>
     - fixed annotations for commentary entries on flashes, when displayed in commentary list on artist info page, "absorbing" immediately-following punctuation ([[media:misc/changelog/flash-commentary-absorb-old.png|old]], [[media:misc/changelog/flash-commentary-absorb-new.png|new]])
     <h3>additions</h3>
-    <!-- commentary additions -->
-    - added Tumblr commentary to [[track:bro-hop]] and [[track:we-shall-not-cease-from-exploration]] (thanks, Lilith!)
+    <!-- commentary additions (specially moved up) -->
     - added full-album commentary, transcribed from YouTube, to [[album:of-troles-and-chiptumes]] (thanks, Makin!!)
+    <!-- commentary additions (rest of 'em) -->
     - added homextuck.xyz, YouTube commentary and citations (all re: artwork) to [[track:the-thirteenth-hour]] (thanks, Lan!)
     - added MSPA forums commentary to [[track:MeGaLoVania]] (thanks, Rosetta Leijonde, Makin!)
-    - added missing paragraphs to early commentary from Tumblr to [[track:calamity]], [[track:ocean-stars-falling]], and [[track:constant-conquest]] (thanks, Lilith!)
+    - added missing paragraphs to early Tumblr commentary on [[track:calamity]], [[track:ocean-stars-falling]], and [[track:constant-conquest]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:bro-hop]] and [[track:we-shall-not-cease-from-exploration]] (thanks, Lilith!)
     - added LIVE A LIVE commentary to [[track:megalovania-ebhh]] (thanks, Makin!)
     - added Tumblr commentary to [[album:bittersweet-hilary-troiano]] (thanks, Lilith!)
     - added Tumblr commentary to [[track:jungle-boogie]] (thanks, Lilith!)
+    <!-- additional name additions -->
+    - added booklet name to [[track:ohgodboss]] (thanks, Lilith!)
+    - added YouTube and Spotify name to [[track:isle-unto-thyself]] (thanks, Lilith!)
     <!-- lyric additions -->
     - added lyrics to [[track:we-are-midnight-crew]] (thanks, Rosetta Leijonde, Makin!)
     - added lyrics to [[track:sunrise-9]] (thanks, Niklink, Makin!)
@@ -57,12 +61,11 @@ Content: |-
     - added lyrics to [[track:dave-striders-cool-mixtape]] (thanks, Niklink, Makin!)
     <!-- link additions -->
     - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
+    - added Bandcamp and Spotify listening links to [[track:isle-unto-thyself]] (thanks, Lilith, Lan!)
     <!-- citation additions -->
     - added citation for SoundCloud commentary on [[track:sea-of-tranquility]] (thanks, Makin, Lan!)
-    - changed early commentary collection citations for [[track:calamity]], [[track:ocean-stars-falling]], [[track:escape-pod]], and [[track:frog-hunt]] to composer's archived Tumblr citations (thanks, Lilith!)
-    - changed early commentary collection citations for [[track:another-jungle]], [[track:minihoofs-adventure]], [[track:busting-makes-me-feel-good]], [[track:iRRRRRRRRECONCILA8LE]], [[track:im-a-member-of-the-midnight-crew-post-punk-version]], and [[track:another-countdown]] to composer's archived Tumblr citations (thanks, Lilith!)
-    - changed Tumblr citation links for [[track:gamegrl-original-1993-mix]] and [[track:elephant-gun]] to composer's archived Tumblr links (thanks, Lilith!)
-    - changed early commentary collection citation for [[track:constant-conquest]] to composer's archived Tumblr citation (thanks, Lilith!)
+    - added citations for early Tumblr commentary on [[track:calamity]], [[track:ocean-stars-falling]], [[track:escape-pod]], [[track:frog-hunt]], [[track:another-jungle]], [[track:minihoofs-adventure]], [[track:busting-makes-me-feel-good]], [[track:iRRRRRRRRECONCILA8LE]], [[track:im-a-member-of-the-midnight-crew-post-punk-version]], [[track:another-countdown]], and [[track:constant-conquest]] (thanks, Lilith!)
+    - replaced Tumblr citation links for [[track:gamegrl-original-1993-mix]] and [[track:elephant-gun]] with archived links to composer's blog (thanks, Lilith!)
     - added date for Tumblr commentary on [[track:condescescion]] (thanks, Lan!)
     <h3>data changes</h3>
     <!-- misc presentational changes -->
@@ -82,15 +85,15 @@ Content: |-
     - fixed [[track:dave-striders-cool-mixtape]] not sampling [[track:sweet-bro-and-hella-jeff-show]] and [[track:sports-lofam2]] (thanks, Makin!)
     <!-- crediting fixes -->
     - fixed [[track:ultralovania]] artwork being credited to [[artist:creatorofjanespeak]] rather than [[artist:cloudaria]] (thanks, Lilith, Tangle, Makin!)
-    <!-- name fixes -->
-    - fixed [[track:ohgodboss]] being named "Ohgodboss" (lowercase "godboss") (thanks, Lilith!)
-        - moved previous formatting "Ohgodboss" (booklet name) to additional names
-    - fixed [[track:vaporwave-2016-track9]] being named "$H☯W✝IM€－420－( ▽ ` )ﾉ" (was missing left eye) (thanks, Lilith!)
-    - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)" (thanks, ruby!)
-    - fixed [[track:molgera-battle]] being named "Molgera" (thanks, ruby!)
-    - fixed [[track:hazy-maze-cave]] being named "Cave Dungeon (Super Mario 64)" (thanks, ruby!)
-    - fixed [[track:isle-unto-thyself]] being named "Isle Unto Thyself" (capital "Unto") (thanks, Lilith!)
-        - moved previous formatting "Isle Unto Thyself" to additional names
+    <!-- name fixes (subsections) -->
+    - fixed some tracks' names not aligning with Bandcamp releases (thanks, Lilith!)
+        - fixed [[track:ohgodboss]] being named "Ohgodboss" (lowercase "godboss")
+        - fixed [[track:vaporwave-2016-track9]] being named "$H☯W✝IM€－420－( ▽ ` )ﾉ" (missing left eye)
+        - fixed [[track:isle-unto-thyself]] being named "Isle Unto Thyself" (uppercase "Unto")
+    - fixed some tracks' names not aligning with the Nintendo Music app (thanks, ruby!)
+        - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)" (thanks, ruby!)
+        - fixed [[track:molgera-battle]] being named "Molgera" (thanks, ruby!)
+        - fixed [[track:hazy-maze-cave]] being named "Cave Dungeon (Super Mario 64)" (thanks, ruby!)
     <!-- lyric fixes -->
     - fixed a bunch of incomplete or missing lyrics in various tracks (thanks, Makin!)
         - [[track:the-rose-rap]]: was *Apple pie, Cheez Whiz, [???]*, now *...Magic Castles*
@@ -114,7 +117,7 @@ Content: |-
     - fixed a couple composer and track artist commentary transcription typos (thanks, Lilith!)
         - [[track:dawn-of-man]]: was *of train*, now *of a train*
         - [[track:out-of-breath]]: was *gneius*, now *genius*
-    - slightly updated formatting of Bowman commentary for [[album:homestuck-vol-10]] ("Jungle Boogie" now links to [[track:jungle-boogie]]) (thanks, Lilith!)
+    - tweaked formatting of Bowmantown commentary for [[album:homestuck-vol-10]] ("Jungle Boogie" now links to [[track:jungle-boogie]]; thanks, Lilith!)
     <!-- link fixes -->
     - fixed YouTube listening link for [[track:train-requiem]] being given to [[track:train-meldey-next-to-last-station]] instead (thanks, Makin!)
     - fixed Twitter link, removed dead desynced.xyz link, and added MSPFA link for [[group:desynced]] (thanks, meulanie!)
