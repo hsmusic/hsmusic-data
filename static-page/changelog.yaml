@@ -50,8 +50,10 @@ Content: |-
     - added Tumblr commentary to [[album:bittersweet-hilary-troiano]] (thanks, Lilith!)
     - added Tumblr commentary to [[track:jungle-boogie]] (thanks, Lilith!)
     <!-- additional name additions -->
-    - added booklet name to [[track:ohgodboss]] (thanks, Lilith!)
-    - added YouTube and Spotify name to [[track:isle-unto-thyself]] (thanks, Lilith!)
+    - added additional names to several tracks: (thanks, Lilith, Makin!)
+        - [[track:fool]] (Bandcamp name)
+        - [[track:ohgodboss]] (booklet name)
+        - [[track:isle-unto-thyself]] (YouTube, Spotify)
     <!-- lyric additions -->
     - added lyrics to [[track:we-are-midnight-crew]] (thanks, Rosetta Leijonde, Makin!)
     - added lyrics to [[track:sunrise-9]] (thanks, Niklink, Makin!)
@@ -97,6 +99,8 @@ Content: |-
         - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)" (thanks, ruby!)
         - fixed [[track:molgera-battle]] being named "Molgera" (thanks, ruby!)
         - fixed [[track:hazy-maze-cave]] being named "Cave Dungeon (Super Mario 64)" (thanks, ruby!)
+    <!-- name fixes (single-lines) -->
+    - fixed [[track:fool]] being named "Fool [Explicit]", preferring track art and booklet name over Bandcamp (thanks, Makin!)
     <!-- lyric fixes -->
     - fixed a bunch of incomplete or missing lyrics in various tracks (thanks, Makin!)
         - [[track:the-rose-rap]]: was *Apple pie, Cheez Whiz, [???]*, now *...Magic Castles*
