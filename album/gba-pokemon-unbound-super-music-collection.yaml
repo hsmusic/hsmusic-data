@@ -103,7 +103,7 @@ Commentary: |-
 Section: Disc 1
 ---
 Track: Skeli Games Logo
-Duration: '0:10'
+Duration: 0:10
 Artists:
 - Pascal van den Bos
 URLs:
@@ -113,7 +113,7 @@ URLs:
 Track: Title Screen
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '1:19'
+Duration: 1:19
 Artists:
 - Pascal van den Bos
 URLs:
@@ -125,7 +125,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Borrian History
-Duration: '1:15'
+Duration: 1:15
 Artists:
 - NewoRGBY
 URLs:
@@ -133,7 +133,7 @@ URLs:
 - https://www.youtube.com/watch?v=RoNloFwelGU
 ---
 Track: A New Journey Begins!
-Duration: '0:12'
+Duration: 0:12
 Artists:
 - Pascal van den Bos
 URLs:
@@ -143,7 +143,7 @@ Referenced Tracks:
 - Title Screen (Pokémon Red / Pokémon Blue)
 ---
 Track: Encounter! Hoopa
-Duration: '0:24'
+Duration: 0:24
 Artists:
 - Blanders (composition & arrangement)
 - Pascal van den Bos (arrangement)
@@ -152,7 +152,7 @@ URLs:
 - https://www.youtube.com/watch?v=vdWRGIjh03A
 ---
 Track: The Shadows
-Duration: '0:40'
+Duration: 0:40
 Artists:
 - Pascal van den Bos
 URLs:
@@ -162,7 +162,7 @@ Referenced Tracks:
 - Battle! Shadow Grunt
 ---
 Track: Shadow Base
-Duration: '0:56'
+Duration: 0:56
 Artists:
 - Rowyn Berlan
 URLs:
@@ -170,7 +170,7 @@ URLs:
 - https://www.youtube.com/watch?v=ZGorOFAKEcM
 ---
 Track: Battle! Shadow Grunt
-Duration: '1:55'
+Duration: 1:55
 Artists:
 - Pascal van den Bos
 URLs:
@@ -178,7 +178,7 @@ URLs:
 - https://www.youtube.com/watch?v=HIZcw69eAvI
 ---
 Track: Victory Against The Shadows!
-Duration: '0:41'
+Duration: 0:41
 Artists:
 - Caelan Kier
 URLs:
@@ -188,7 +188,7 @@ Referenced Tracks:
 - D--> Break the Bow
 ---
 Track: Zeph
-Duration: '0:49'
+Duration: 0:49
 Artists:
 - Pascal van den Bos (composition & arrangement)
 - Rowyn Berlan (composition)
@@ -199,7 +199,7 @@ Referenced Tracks:
 - Battle! Shadow Grunt
 ---
 Track: Frozen Heights (Day)
-Duration: '1:00'
+Duration: 1:00
 Artists:
 - Blanders (composition & arrangement)
 - Pascal van den Bos (arrangement)
@@ -208,7 +208,7 @@ URLs:
 - https://www.youtube.com/watch?v=UpLz9iJC3XA
 ---
 Track: Professor Log
-Duration: '0:38'
+Duration: 0:38
 Artists:
 - Rowyn Berlan
 URLs:
@@ -216,7 +216,7 @@ URLs:
 - https://www.youtube.com/watch?v=sw-_4HSzxlY
 ---
 Track: Encounter! Rival
-Duration: '0:47'
+Duration: 0:47
 Artists:
 - Blanders (composition)
 - Pascal van den Bos (composition & arrangement)
@@ -228,7 +228,7 @@ Referenced Tracks:
 ---
 Track: Battle! Rival
 Suffix Directory: true
-Duration: '2:14'
+Duration: 2:14
 Artists:
 - Blanders (composition)
 - Pascal van den Bos (composition & arrangement)
@@ -237,7 +237,7 @@ URLs:
 - https://www.youtube.com/watch?v=t4rzNtj3Wno
 ---
 Track: Professor Log's Lab
-Duration: '0:50'
+Duration: 0:50
 Artists:
 - Rowyn Berlan
 URLs:
@@ -248,7 +248,7 @@ Referenced Tracks:
 ---
 Track: Route 1
 Suffix Directory: true
-Duration: '1:03'
+Duration: 1:03
 Artists:
 - Blanders
 URLs:
@@ -257,7 +257,7 @@ URLs:
 ---
 Track: Battle! Wild Pokémon
 Suffix Directory: true
-Duration: '2:27'
+Duration: 2:27
 Artists:
 - Pascal van den Bos
 URLs:
@@ -267,7 +267,7 @@ Referenced Tracks:
 - Battle! Wild Pokémon (Piano Sketch)
 ---
 Track: Victory Against Wild Pokémon!
-Duration: '0:34'
+Duration: 0:34
 Artists:
 - Rowyn Berlan
 URLs:
@@ -277,7 +277,7 @@ Referenced Tracks:
 - Victory! (Wild Pokémon) (Pokémon Red / Pokémon Blue)
 ---
 Track: Bellin Town (Day)
-Duration: '0:55'
+Duration: 0:55
 Artists:
 - Blanders
 URLs:
@@ -285,7 +285,7 @@ URLs:
 - https://www.youtube.com/watch?v=I6Eu9qKDRk0
 ---
 Track: Pokémon Center (Day) 
-Duration: '0:46'
+Duration: 0:46
 Artists:
 - Pascal van den Bos
 URLs:
@@ -295,7 +295,7 @@ Referenced Tracks:
 - Pokémon Center (Pokémon Red / Pokémon Blue)
 ---
 Track: Friendly Shop
-Duration: '0:46'
+Duration: 0:46
 Artists:
 - Jose "Phazonruler" Villanueva
 URLs:
@@ -306,7 +306,7 @@ Referenced Tracks:
 ---
 Track: Hurry Along
 Suffix Directory: true
-Duration: '0:33'
+Duration: 0:33
 Artists:
 - Humanly
 URLs:
@@ -316,7 +316,7 @@ Referenced Tracks:
 - Guide (Pokémon Red / Pokémon Blue)
 ---
 Track: Icicle Cave
-Duration: '1:05'
+Duration: 1:05
 Artists:
 - Rowyn Berlan
 URLs:
@@ -325,7 +325,7 @@ URLs:
 ---
 Track: Battle! Strong Wild Pokémon
 Suffix Directory: true
-Duration: '2:23'
+Duration: 2:23
 Artists:
 - NewoRGBY
 - Pascal van den Bos
@@ -336,7 +336,7 @@ Referenced Tracks:
 - track:battle-wild-pokemon-pokemon-unbound
 ---
 Track: Mission Completed!
-Duration: '0:06'
+Duration: 0:06
 Artists:
 - NewoRGBY
 URLs:
@@ -344,7 +344,7 @@ URLs:
 - https://www.youtube.com/watch?v=H9_ZkwpSt0c
 ---
 Track: Encounter! Youngster
-Duration: '0:38'
+Duration: 0:38
 Artists:
 - KiddleScribbles
 URLs:
@@ -353,7 +353,7 @@ URLs:
 ---
 Track: Battle! Trainer
 Suffix Directory: true
-Duration: '3:21'
+Duration: 3:21
 Artists:
 - Jose "Phazonruler" Villanueva (composition)
 - Pascal van den Bos (arrangement)
@@ -362,7 +362,7 @@ URLs:
 - https://www.youtube.com/watch?v=8HJQWfZAxW8
 ---
 Track: Victory Against Trainer!
-Duration: '0:23'
+Duration: 0:23
 Artists:
 - Pascal van den Bos
 URLs:
@@ -372,7 +372,7 @@ Referenced Tracks:
 - track:victory-trainer-battle-pokemon-ruby-sapphire
 ---
 Track: Encounter! Lass
-Duration: '0:43'
+Duration: 0:43
 Artists:
 - KiddleScribbles
 URLs:
@@ -381,7 +381,7 @@ URLs:
 ---
 Track: Route 2
 Suffix Directory: true
-Duration: '0:54'
+Duration: 0:54
 Artists:
 - Blanders (composition & arrangement)
 - Pascal van den Bos (arrangement)
@@ -390,7 +390,7 @@ URLs:
 - https://www.youtube.com/watch?v=4IhCtUQMm1k
 ---
 Track: Encounter! Hiker
-Duration: '0:34'
+Duration: 0:34
 Artists:
 - Humanly
 URLs:
@@ -398,7 +398,7 @@ URLs:
 - https://www.youtube.com/watch?v=tGrDvB4DSVs
 ---
 Track: Dresco Town (Day)
-Duration: '1:05'
+Duration: 1:05
 Artists:
 - Pascal van den Bos
 URLs:
@@ -408,7 +408,7 @@ Referenced Tracks:
 - Apartment Hangout
 ---
 Track: Trainer House
-Duration: '1:23'
+Duration: 1:23
 Artists:
 - Beau Brian
 URLs:
@@ -416,7 +416,7 @@ URLs:
 - https://www.youtube.com/watch?v=tX55eLICPyE
 ---
 Track: Dresco Town Gym
-Duration: '1:01'
+Duration: 1:01
 Artists:
 - Pascal van den Bos
 URLs:
@@ -427,7 +427,7 @@ Referenced Tracks:
 ---
 Track: Battle! Gym Leader
 Suffix Directory: true
-Duration: '2:26'
+Duration: 2:26
 Artists:
 - Pascal van den Bos
 URLs:
@@ -435,7 +435,7 @@ URLs:
 - https://www.youtube.com/watch?v=hwiMaCPrpYw
 ---
 Track: Victory Against Gym Leader!
-Duration: '0:51'
+Duration: 0:51
 Artists:
 - Humanly
 URLs:
@@ -446,7 +446,7 @@ Referenced Tracks:
 ---
 Track: Evolution
 Suffix Directory: true
-Duration: '0:46'
+Duration: 0:46
 Artists:
 - NewoRGBY
 URLs:
@@ -456,7 +456,7 @@ Referenced Tracks:
 - Evolution (Pokémon Red / Pokémon Blue)
 ---
 Track: Black Ferrothorn Appears!
-Duration: '1:02'
+Duration: 1:02
 Artists:
 - Levc
 URLs:
@@ -467,7 +467,7 @@ Referenced Tracks:
 ---
 Track: Route 3
 Suffix Directory: true
-Duration: '0:59'
+Duration: 0:59
 Artists:
 - Rowyn Berlan
 URLs:
@@ -475,7 +475,7 @@ URLs:
 - https://www.youtube.com/watch?v=UMIooRVM9fQ
 ---
 Track: Encounter! Fisherman
-Duration: '0:44'
+Duration: 0:44
 Artists:
 - KiddleScribbles
 URLs:
@@ -483,7 +483,7 @@ URLs:
 - https://www.youtube.com/watch?v=ZF784q1n6KY
 ---
 Track: Flower Paradise
-Duration: '1:12'
+Duration: 1:12
 Artists:
 - Rowyn Berlan (composition & arrangement)
 - Pascal van den Bos (arrangement)
@@ -492,7 +492,7 @@ URLs:
 - https://www.youtube.com/watch?v=vKO4qHxhNbg
 ---
 Track: Zygarde Cell Obtained!
-Duration: '0:06'
+Duration: 0:06
 Artists:
 - NewoRGBY
 URLs:
@@ -502,7 +502,7 @@ Referenced Tracks:
 - Battle! (Xerneas/Yveltal)
 ---
 Track: Grim Woods
-Duration: '1:28'
+Duration: 1:28
 Artists:
 - Pascal van den Bos
 URLs:
@@ -510,7 +510,7 @@ URLs:
 - https://www.youtube.com/watch?v=Fy6Had8guJg
 ---
 Track: Encounter! Jax
-Duration: '0:44'
+Duration: 0:44
 Artists:
 - Blanders (composition & arrangement)
 - Pascal van den Bos (arrangement)
@@ -519,7 +519,7 @@ URLs:
 - https://www.youtube.com/watch?v=HRat3o-LpW4
 ---
 Track: Cinder Volcano
-Duration: '1:23'
+Duration: 1:23
 Artists:
 - Pascal van den Bos
 URLs:
@@ -527,7 +527,7 @@ URLs:
 - https://www.youtube.com/watch?v=F9DMRyzcINY
 ---
 Track: Battle! Marlon
-Duration: '2:01'
+Duration: 2:01
 Artists:
 - Pascal van den Bos
 URLs:
@@ -538,7 +538,7 @@ Referenced Tracks:
 - track:battle-rival-pokemon-unbound
 ---
 Track: Route 4 & 5
-Duration: '1:16'
+Duration: 1:16
 Artists:
 - Humanly
 URLs:
@@ -546,7 +546,7 @@ URLs:
 - https://www.youtube.com/watch?v=wwM3AGdiDMQ
 ---
 Track: Crater Town (Day)
-Duration: '0:58'
+Duration: 0:58
 Artists:
 - Jose "Phazonruler" Villanueva
 URLs:
@@ -554,7 +554,7 @@ URLs:
 - https://www.youtube.com/watch?v=OsEySyEiWw4
 ---
 Track: Crater Town Gym
-Duration: '0:49'
+Duration: 0:49
 Artists:
 - Pascal van den Bos
 URLs:
@@ -564,7 +564,7 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: Encounter! Gentleman
-Duration: '0:39'
+Duration: 0:39
 Artists:
 - Pascal van den Bos
 URLs:
@@ -574,7 +574,7 @@ Referenced Tracks:
 - Most Favorite Ranks
 ---
 Track: KBT Expressway
-Duration: '1:04'
+Duration: 1:04
 Artists:
 - Jose "Phazonruler" Villanueva (composition)
 - Pascal van den Bos (arrangement)
@@ -583,7 +583,7 @@ URLs:
 - https://www.youtube.com/watch?v=yq368CdCSq0
 ---
 Track: Black Emboar Appears!
-Duration: '0:21'
+Duration: 0:21
 Artists:
 - Pascal van den Bos
 URLs:
@@ -593,7 +593,7 @@ Referenced Tracks:
 - Battle! Black Emboar
 ---
 Track: Battle! Black Emboar
-Duration: '1:44'
+Duration: 1:44
 Artists:
 - Blanders (composition)
 - Pascal van den Bos (arrangement)
@@ -603,7 +603,7 @@ URLs:
 ---
 Track: Motorcycle
 Suffix Directory: true
-Duration: '2:07'
+Duration: 2:07
 Artists:
 - Pascal van den Bos
 URLs:
@@ -615,7 +615,7 @@ Referenced Tracks:
 - A Noble Goodbye
 ---
 Track: Battle! Ivory
-Duration: '2:00'
+Duration: 2:00
 Artists:
 - Rowyn Berlan
 URLs:
@@ -627,7 +627,7 @@ Referenced Tracks:
 - Battle! Light of Ruin Grunt
 ---
 Track: Battle! Zeph
-Duration: '2:19'
+Duration: 2:19
 Artists:
 - Pascal van den Bos
 - Rowyn Berlan
@@ -638,7 +638,7 @@ Referenced Tracks:
 - Battle! Shadow Grunt
 ---
 Track: Valley Cave
-Duration: '1:03'
+Duration: 1:03
 Artists:
 - Rowyn Berlan
 URLs:
@@ -646,7 +646,7 @@ URLs:
 - https://www.youtube.com/watch?v=QvjTNolqZsk
 ---
 Track: Route 6 & 7
-Duration: '0:57'
+Duration: 0:57
 Artists:
 - Humanly
 URLs:
@@ -655,7 +655,7 @@ URLs:
 ---
 Track: Gate
 Suffix Directory: true
-Duration: '1:00'
+Duration: 1:00
 Artists:
 - Rowyn Berlan
 URLs:
@@ -665,7 +665,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Encounter! Black Belt
-Duration: '0:31'
+Duration: 0:31
 Artists:
 - KiddleScribbles
 URLs:
@@ -675,7 +675,7 @@ Referenced Tracks:
 - track:trainers-eyes-meet-psychic-pokemon-ruby-sapphire
 ---
 Track: Frost Mt.
-Duration: '1:37'
+Duration: 1:37
 Artists:
 - Beau Brian (composition & arrangement)
 - Blanders (composition)
@@ -685,7 +685,7 @@ URLs:
 ---
 Track: Route 8
 Suffix Directory: true
-Duration: '1:06'
+Duration: 1:06
 Artists:
 - Rowyn Berlan
 URLs:
@@ -693,7 +693,7 @@ URLs:
 - https://www.youtube.com/watch?v=GoWzeH4hDSs
 ---
 Track: Blizzard City (Day)
-Duration: '1:24'
+Duration: 1:24
 Artists:
 - Rowyn Berlan
 URLs:
@@ -701,7 +701,7 @@ URLs:
 - https://www.youtube.com/watch?v=6r5SHm8Jgqg
 ---
 Track: Blizzard City Gym
-Duration: '0:46'
+Duration: 0:46
 Artists:
 - Rowyn Berlan
 URLs:
@@ -711,7 +711,7 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: Encounter! Birdkeeper
-Duration: '0:27'
+Duration: 0:27
 Artists:
 - Rowyn Berlan
 URLs:
@@ -719,7 +719,7 @@ URLs:
 - https://www.youtube.com/watch?v=Ua4Ecwi3lWY
 ---
 Track: Fallshore City (Day)
-Duration: '1:14'
+Duration: 1:14
 Artists:
 - Pascal van den Bos
 URLs:
@@ -734,7 +734,7 @@ Commentary: |-
     On Bandcamp, original composition on this track is credited to both [[artist:pascal-van-den-bos|Pascal]] and Psychic Lover, the latter being for the [[track:refreshed|referenced track]]. As I was doing research for adding this album to the Wiki, I found out that the referenced song is by [[artist:kenichiro-ohishi|Kenichiro Ohishi]] instead. I've let Pascal know about this. As of writing this commentary, the Bandcamp page hasn't been corrected yet.
 ---
 Track: Auburn Waterway
-Duration: '2:00'
+Duration: 2:00
 Artists:
 - Zame (composition)
 - AdAstra (arrangement)
@@ -743,7 +743,7 @@ URLs:
 - https://www.youtube.com/watch?v=vEzRKIyqLYA
 ---
 Track: Terror Granbull Appears!
-Duration: '1:34'
+Duration: 1:34
 Artists:
 - Pascal van den Bos
 URLs:
@@ -753,7 +753,7 @@ Referenced Tracks:
 - Lee's Theme
 ---
 Track: Battle! Terror Granbull
-Duration: '2:27'
+Duration: 2:27
 Artists:
 - Pascal van den Bos
 URLs:
@@ -764,7 +764,7 @@ Referenced Tracks:
 - Terror Granbull Appears!
 ---
 Track: Tehl Town (Day)
-Duration: '1:01'
+Duration: 1:01
 Artists:
 - Pascal van den Bos
 URLs:
@@ -775,7 +775,7 @@ Referenced Tracks:
 ---
 Track: Underground Path
 Suffix Directory: true
-Duration: '1:02'
+Duration: 1:02
 Artists:
 - Humanly
 URLs:
@@ -783,7 +783,7 @@ URLs:
 - https://www.youtube.com/watch?v=SowcNS1imjg
 ---
 Track: Fallshore City Gym (Feat. Mel)
-Duration: '0:56'
+Duration: 0:56
 Artists:
 - Pascal van den Bos
 URLs:
@@ -795,7 +795,7 @@ Referenced Tracks:
 ---
 Track: Route 11
 Suffix Directory: true
-Duration: '1:10'
+Duration: 1:10
 Artists:
 - Humanly
 URLs:
@@ -803,7 +803,7 @@ URLs:
 - https://www.youtube.com/watch?v=PW78yChr7x4
 ---
 Track: Epidimy Town (Day)
-Duration: '0:54'
+Duration: 0:54
 Artists:
 - Blanders
 - Pascal van den Bos
@@ -814,7 +814,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Tarmigan Town (Day)
-Duration: '0:54'
+Duration: 0:54
 Artists:
 - Pascal van den Bos
 URLs:
@@ -825,7 +825,7 @@ Referenced Tracks:
 - Tarmigan Town Day and Night (Solo Piano)
 ---
 Track: Tarmigan Mansion
-Duration: '0:59'
+Duration: 0:59
 Artists:
 - Pascal van den Bos (composition & arrangement)
 - Edward Esser (composition)
@@ -834,7 +834,7 @@ URLs:
 - https://www.youtube.com/watch?v=lcV16xjIq5o
 ---
 Track: Battle! Successor
-Duration: '1:29'
+Duration: 1:29
 Artists:
 - Blanders (composition)
 - Caelan Kier (arrangement)
@@ -843,7 +843,7 @@ URLs:
 - https://www.youtube.com/watch?v=5a6UCGhV7mE
 ---
 Track: The Shadows at Thundercap Mt.
-Duration: '1:06'
+Duration: 1:06
 Artists:
 - Rowyn Berlan
 URLs:
@@ -854,7 +854,7 @@ Referenced Tracks:
 - Battle! Shadow Grunt
 ---
 Track: Route 12 & 18
-Duration: '1:13'
+Duration: 1:13
 Artists:
 - Jose "Phazonruler" Villanueva (composition & arrangement)
 - Pascal van den Bos (arrangement)
@@ -863,7 +863,7 @@ URLs:
 - https://www.youtube.com/watch?v=V6KGbXcJJW0
 ---
 Track: Dehara City (Day)
-Duration: '1:10'
+Duration: 1:10
 Artists:
 - Rowyn Berlan
 URLs:
@@ -871,7 +871,7 @@ URLs:
 - https://www.youtube.com/watch?v=ctTypZDatqk
 ---
 Track: Game Corner
-Duration: '0:54'
+Duration: 0:54
 Artists:
 - Pascal van den Bos
 - Rowyn Berlan
@@ -882,7 +882,7 @@ Referenced Tracks:
 - House like we're back in the 90's
 ---
 Track: Cloud Burst
-Duration: '0:56'
+Duration: 0:56
 Artists:
 - Rowyn Berlan
 URLs:
@@ -893,7 +893,7 @@ Referenced Tracks:
 - Heirflow
 ---
 Track: Happening at the Ruins of Void
-Duration: '1:04'
+Duration: 1:04
 Artists:
 - Rowyn Berlan
 URLs:
@@ -906,7 +906,7 @@ Referenced Tracks:
 - Happening at the Ruins of Void Beta
 ---
 Track: Aklove's Scheme
-Duration: '1:10'
+Duration: 1:10
 Artists:
 - Pascal van den Bos
 URLs:
@@ -917,7 +917,7 @@ Referenced Tracks:
 - Battle! Light of Ruin Grunt
 ---
 Track: Cube Space
-Duration: '1:12'
+Duration: 1:12
 Artists:
 - Rowyn Berlan
 URLs:
@@ -925,7 +925,7 @@ URLs:
 - https://www.youtube.com/watch?v=NLzBFNgCKSY
 ---
 Track: An Emotional Moment
-Duration: '0:59'
+Duration: 0:59
 Artists:
 - Rowyn Berlan
 URLs:
@@ -933,7 +933,7 @@ URLs:
 - https://www.youtube.com/watch?v=5aSed6983D4
 ---
 Track: Light of Ruin Appears!
-Duration: '0:43'
+Duration: 0:43
 Artists:
 - Pascal van den Bos
 URLs:
@@ -943,7 +943,7 @@ Referenced Tracks:
 - Battle! Light of Ruin Grunt
 ---
 Track: Battle! Light of Ruin Grunt
-Duration: '2:20'
+Duration: 2:20
 Artists:
 - Rowyn Berlan
 URLs:
@@ -951,7 +951,7 @@ URLs:
 - https://www.youtube.com/watch?v=TxSK7fB2i5s
 ---
 Track: Victory Against Light of Ruin!
-Duration: '0:38'
+Duration: 0:38
 Artists:
 - Rowyn Berlan
 URLs:
@@ -961,7 +961,7 @@ Referenced Tracks:
 - Battle! Light of Ruin Grunt
 ---
 Track: Dehara City Gym
-Duration: '0:49'
+Duration: 0:49
 Artists:
 - Pascal van den Bos
 URLs:
@@ -972,7 +972,7 @@ Referenced Tracks:
 ---
 Track: Surf
 Suffix Directory: true
-Duration: '0:56'
+Duration: 0:56
 Artists:
 - Humanly
 URLs:
@@ -980,7 +980,7 @@ URLs:
 - https://www.youtube.com/watch?v=5Rl3whZJZpg
 ---
 Track: The Great Desert
-Duration: '1:13'
+Duration: 1:13
 Artists:
 - Rowyn Berlan
 URLs:
@@ -988,7 +988,7 @@ URLs:
 - https://www.youtube.com/watch?v=A6MaYC3BidE
 ---
 Track: Gurun Town (Day)
-Duration: '1:07'
+Duration: 1:07
 Artists:
 - Pascal van den Bos
 - Rowyn Berlan
@@ -997,7 +997,7 @@ URLs:
 - https://www.youtube.com/watch?v=Pne9hSu9ysA
 ---
 Track: Vivill Town in Peril
-Duration: '1:14'
+Duration: 1:14
 Artists:
 - Humanly
 URLs:
@@ -1007,7 +1007,7 @@ Referenced Tracks:
 - Vivill Town
 ---
 Track: Vivill Town Warehouse Ambushed!
-Duration: '1:14'
+Duration: 1:14
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1018,7 +1018,7 @@ Referenced Tracks:
 - Vivill Town
 ---
 Track: Battle! Aklove
-Duration: '3:32'
+Duration: 3:32
 Artists:
 - Jose "Phazonruler" Villanueva
 URLs:
@@ -1026,7 +1026,7 @@ URLs:
 - https://www.youtube.com/watch?v=lr9szGgJJ4U
 ---
 Track: Route 16 & 17
-Duration: '0:56'
+Duration: 0:56
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1034,7 +1034,7 @@ URLs:
 - https://www.youtube.com/watch?v=qYDkr390FAA
 ---
 Track: Antisis City (Day)
-Duration: '1:17'
+Duration: 1:17
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1042,7 +1042,7 @@ URLs:
 - https://www.youtube.com/watch?v=pb7eCOKJn_E
 ---
 Track: Battle! Black Ferrothorn Goon
-Duration: '3:30'
+Duration: 3:30
 Artists:
 - Humanly
 URLs:
@@ -1050,7 +1050,7 @@ URLs:
 - https://www.youtube.com/watch?v=kBxuGx4R0hY
 ---
 Track: Antisis City Gym
-Duration: '0:53'
+Duration: 0:53
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1060,7 +1060,7 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: Seaport City (Day)
-Duration: '1:13'
+Duration: 1:13
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1071,7 +1071,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Polder Town (Day)
-Duration: '1:06'
+Duration: 1:06
 Artists:
 - Humanly
 URLs:
@@ -1079,7 +1079,7 @@ URLs:
 - https://www.youtube.com/watch?v=5UCVEhTGYQs
 ---
 Track: Polder Town Gym
-Duration: '0:58'
+Duration: 0:58
 Artists:
 - Humanly
 URLs:
@@ -1089,7 +1089,7 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: Cootes Bog
-Duration: '1:41'
+Duration: 1:41
 Artists:
 - Humanly
 URLs:
@@ -1097,7 +1097,7 @@ URLs:
 - https://www.youtube.com/watch?v=pxNLxXBPhFg
 ---
 Track: Magnolia Town (Day)
-Duration: '1:50'
+Duration: 1:50
 Artists:
 - Blanders
 URLs:
@@ -1107,7 +1107,7 @@ Referenced Tracks:
 - Piano Sonata No. 16
 ---
 Track: Rush to the Top of Crystal Peak!
-Duration: '1:47'
+Duration: 1:47
 Artists:
 - Blanders
 URLs:
@@ -1115,7 +1115,7 @@ URLs:
 - https://www.youtube.com/watch?v=VgYPEfT1-Bo
 ---
 Track: Battle! Hoopa
-Duration: '2:35'
+Duration: 2:35
 Artists:
 - Jose "Phazonruler" Villanueva
 URLs:
@@ -1125,7 +1125,7 @@ Referenced Tracks:
 - Encounter! Hoopa
 ---
 Track: Arthur's Theme
-Duration: '0:44'
+Duration: 0:44
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1135,7 +1135,7 @@ Referenced Tracks:
 - Ralph's Theme
 ---
 Track: Magnolia Fields
-Duration: '1:21'
+Duration: 1:21
 Artists:
 - Blanders
 URLs:
@@ -1143,7 +1143,7 @@ URLs:
 - https://www.youtube.com/watch?v=o90RdsQWstE
 ---
 Track: Redwood Village (Day)
-Duration: '1:20'
+Duration: 1:20
 Artists:
 - Blanders (composition & arrangement)
 - Pascal van den Bos (arrangement)
@@ -1152,7 +1152,7 @@ URLs:
 - https://www.youtube.com/watch?v=lKtdnOVecwQ
 ---
 Track: Redwood Village Gym
-Duration: '1:49'
+Duration: 1:49
 Artists:
 - Humanly
 URLs:
@@ -1162,7 +1162,7 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: Victory Road
-Duration: '1:10'
+Duration: 1:10
 Artists:
 - Humanly
 URLs:
@@ -1170,7 +1170,7 @@ URLs:
 - https://www.youtube.com/watch?v=F-czfdYGsvQ
 ---
 Track: Encounter! Ace Trainer
-Duration: '0:28'
+Duration: 0:28
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1180,7 +1180,7 @@ URLs:
 Track: Pokémon League
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '1:30'
+Duration: 1:30
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1190,7 +1190,7 @@ URLs:
 Section: Disc 2 ##disc 2 would use different cover
 ---
 Track: Frozen Heights (Night)
-Duration: '0:59'
+Duration: 0:59
 Artists:
 - DrakeSycamore
 URLs:
@@ -1200,7 +1200,7 @@ Referenced Tracks:
 - Frozen Heights (Day)
 ---
 Track: Battle! Wild Pokémon (Galar)
-Duration: '2:08'
+Duration: 2:08
 Artists:
 - CyanSixFour
 URLs:
@@ -1210,7 +1210,7 @@ Referenced Tracks:
 - track:battle-wild-pokemon-pokemon-sword-shield
 ---
 Track: Battle! Legendary Birds
-Duration: '4:21'
+Duration: 4:21
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1221,7 +1221,7 @@ Referenced Tracks:
 - Battle! Galarian Legendary Birds - Gen 5 Remix
 ---
 Track: Bellin Town (Night)
-Duration: '1:16'
+Duration: 1:16
 Artists:
 - KiddleScribbles
 URLs:
@@ -1233,7 +1233,7 @@ Referenced Tracks:
 Track: Pokémon Center (Night)
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '1:42'
+Duration: 1:42
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1243,7 +1243,7 @@ Referenced Tracks:
 - track:pokemon-center-night-pokemon-diamond-pearl
 ---
 Track: Dresco Town (Night)
-Duration: '1:15'
+Duration: 1:15
 Artists:
 - Levc
 URLs:
@@ -1255,7 +1255,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Battle! Max Raid
-Duration: '2:01'
+Duration: 2:01
 Artists:
 - CyanSixFour
 - Pascal van den Bos
@@ -1266,7 +1266,7 @@ Referenced Tracks:
 - Max Raid Battle!
 ---
 Track: Crater Town (Night)
-Duration: '1:07'
+Duration: 1:07
 Artists:
 - Levc
 URLs:
@@ -1278,7 +1278,7 @@ Referenced Tracks:
 Track: Battle! Deoxys
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '2:45'
+Duration: 2:45
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1289,7 +1289,7 @@ Referenced Tracks:
 - Capture (Deoxys' Shadow)
 ---
 Track: Blizzard City (Night)
-Duration: '1:26'
+Duration: 1:26
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1299,7 +1299,7 @@ Referenced Tracks:
 - Blizzard City (Day)
 ---
 Track: Battle! Gym Leader (Sinnoh)
-Duration: '2:52'
+Duration: 2:52
 Artists:
 - CyanSixFour
 URLs:
@@ -1309,7 +1309,7 @@ Referenced Tracks:
 - Battle! (Gym Leader) (Pokémon Diamond / Pokémon Pearl)
 ---
 Track: Frozen Forest
-Duration: '1:06'
+Duration: 1:06
 Artists:
 - Blanders
 URLs:
@@ -1317,7 +1317,7 @@ URLs:
 - https://www.youtube.com/watch?v=k4FuUOfnWi0
 ---
 Track: Mysterious Cavern
-Duration: '0:44'
+Duration: 0:44
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1328,7 +1328,7 @@ Referenced Tracks:
 ---
 Track: Battle! Regirock/Regice/Registeel
 Suffix Directory: true
-Duration: '1:41'
+Duration: 1:41
 Artists:
 - Humanly
 URLs:
@@ -1338,7 +1338,7 @@ Referenced Tracks:
 - Battle! (Regirock/Regice/Registeel) (Pokémon Ruby / Pokémon Sapphire)
 ---
 Track: Tehl Town (Night)
-Duration: '0:59'
+Duration: 0:59
 Artists:
 - Levc
 URLs:
@@ -1348,7 +1348,7 @@ Referenced Tracks:
 - Tehl Town (Day)
 ---
 Track: Encounter! Twins
-Duration: '0:32'
+Duration: 0:32
 Artists:
 - KiddleScribbles
 URLs:
@@ -1356,7 +1356,7 @@ URLs:
 - https://www.youtube.com/watch?v=WjHsKn_rzqg
 ---
 Track: Fallshore City (Night)
-Duration: '1:54'
+Duration: 1:54
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1366,7 +1366,7 @@ Referenced Tracks:
 - Fallshore City (Day)
 ---
 Track: Encounter! Painter
-Duration: '0:30'
+Duration: 0:30
 Artists:
 - Humanly
 URLs:
@@ -1374,7 +1374,7 @@ URLs:
 - https://www.youtube.com/watch?v=kKUFi-dCRgs
 ---
 Track: Epidimy Town (Night)
-Duration: '1:29'
+Duration: 1:29
 Artists:
 - Caelan Kier
 URLs:
@@ -1385,7 +1385,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Thundercap Mt.
-Duration: '1:23'
+Duration: 1:23
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1396,7 +1396,7 @@ Referenced Tracks:
 ---
 Track: Battle! Ultra Necrozma
 Suffix Directory: true
-Duration: '3:07'
+Duration: 3:07
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1406,7 +1406,7 @@ Referenced Tracks:
 - Battle! (Ultra Necrozma)
 ---
 Track: Tarmigan Town (Night)
-Duration: '0:57'
+Duration: 0:57
 Artists:
 - Blanders
 URLs:
@@ -1414,7 +1414,7 @@ URLs:
 - https://www.youtube.com/watch?v=Vvzv9ZR_aJM
 ---
 Track: Encounter! Psychic
-Duration: '0:54'
+Duration: 0:54
 Artists:
 - KiddleScribbles
 URLs:
@@ -1422,7 +1422,7 @@ URLs:
 - https://www.youtube.com/watch?v=XEAWSpyr0yg
 ---
 Track: Dehara City (Night)
-Duration: '1:20'
+Duration: 1:20
 Artists:
 - Rowyn Berlan (composition & arrangement)
 - Pascal van den Bos (composition)
@@ -1433,7 +1433,7 @@ Referenced Tracks:
 - Dehara City (Day)
 ---
 Track: Tomb of Borrius
-Duration: '1:51'
+Duration: 1:51
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1442,7 +1442,7 @@ URLs:
 ---
 Track: Battle! Xerneas/Yveltal
 Suffix Directory: true
-Duration: '2:50'
+Duration: 2:50
 Artists:
 - NewoRGBY
 URLs:
@@ -1452,7 +1452,7 @@ Referenced Tracks:
 - track:battle-xerneas-yveltal
 ---
 Track: Gurun Town (Night)
-Duration: '1:12'
+Duration: 1:12
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1462,7 +1462,7 @@ Referenced Tracks:
 - Gurun Town (Day)
 ---
 Track: Vivill Woods
-Duration: '1:30'
+Duration: 1:30
 Artists:
 - Humanly
 URLs:
@@ -1470,7 +1470,7 @@ URLs:
 - https://www.youtube.com/watch?v=6y_kbA459P0
 ---
 Track: Vivill Town
-Duration: '1:09'
+Duration: 1:09
 Artists:
 - Humanly
 URLs:
@@ -1478,7 +1478,7 @@ URLs:
 - https://www.youtube.com/watch?v=NwOIeLohfGE
 ---
 Track: Encounter! Aroma Lady
-Duration: '0:36'
+Duration: 0:36
 Artists:
 - KiddleScribbles
 URLs:
@@ -1486,7 +1486,7 @@ URLs:
 - https://www.youtube.com/watch?v=gcfe35k5GuQ
 ---
 Track: Antisis City (Night)
-Duration: '2:14'
+Duration: 2:14
 Artists:
 - salex_r3kt
 URLs:
@@ -1496,7 +1496,7 @@ Referenced Tracks:
 - Antisis City (Day)
 ---
 Track: Antisis Sewers
-Duration: '0:58'
+Duration: 0:58
 Artists:
 - Beau Brian
 URLs:
@@ -1504,7 +1504,7 @@ URLs:
 - https://www.youtube.com/watch?v=LJyjn6Hvi9E
 ---
 Track: Black Ferrothorn Turf
-Duration: '1:18'
+Duration: 1:18
 Artists:
 - AdAstra
 URLs:
@@ -1514,7 +1514,7 @@ Referenced Tracks:
 - Antisis City (Day)
 ---
 Track: Battle! Barbs
-Duration: '2:29'
+Duration: 2:29
 Artists:
 - Blanders (composition)
 - Pascal van den Bos (composition)
@@ -1524,7 +1524,7 @@ URLs:
 - https://www.youtube.com/watch?v=05GRC5HUl4Q
 ---
 Track: Seaport City (Night)
-Duration: '1:24'
+Duration: 1:24
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1537,7 +1537,7 @@ Referenced Tracks:
 ---
 Track: Battleground
 Suffix Directory: true
-Duration: '0:54'
+Duration: 0:54
 Artists:
 - Caelan Kier
 - Pascal van den Bos
@@ -1549,7 +1549,7 @@ Referenced Tracks:
 ---
 Track: Dive
 Suffix Directory: true
-Duration: '1:29'
+Duration: 1:29
 Artists:
 - Caelan Kier
 URLs:
@@ -1559,7 +1559,7 @@ Referenced Tracks:
 - Dive (Emerald Version)
 ---
 Track: Ruins of Void
-Duration: '0:56'
+Duration: 0:56
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1567,7 +1567,7 @@ URLs:
 - https://www.youtube.com/watch?v=BTGw_hNe-Ko
 ---
 Track: S.S. Marine
-Duration: '1:10'
+Duration: 1:10
 Artists:
 - Blanders (composition & arrangement)
 - Pascal van den Bos (arrangement)
@@ -1576,7 +1576,7 @@ URLs:
 - https://www.youtube.com/watch?v=CkObT2kuoyA
 ---
 Track: Polder Town (Night)
-Duration: '1:15'
+Duration: 1:15
 Artists:
 - DrakeSycamore
 URLs:
@@ -1586,7 +1586,7 @@ Referenced Tracks:
 - Polder Town (Day)
 ---
 Track: Safari Zone
-Duration: '2:40'
+Duration: 2:40
 Artists:
 - Humanly 
 URLs:
@@ -1594,7 +1594,7 @@ URLs:
 - https://www.youtube.com/watch?v=VVEaLNrAM1o
 ---
 Track: Magnolia Town (Night)
-Duration: '2:08'
+Duration: 2:08
 Artists:
 - KiddleScribbles
 URLs:
@@ -1605,7 +1605,7 @@ Referenced Tracks:
 - Piano Sonata No. 16
 ---
 Track: Encounter! Pokémon Collector
-Duration: '0:36'
+Duration: 0:36
 Artists:
 - KiddleScribbles
 URLs:
@@ -1613,7 +1613,7 @@ URLs:
 - https://www.youtube.com/watch?v=wM4AtYRVfGk
 ---
 Track: Redwood Village (Night)
-Duration: '1:47'
+Duration: 1:47
 Artists:
 - KiddleScribbles
 URLs:
@@ -1623,7 +1623,7 @@ Referenced Tracks:
 - Redwood Village (Day)
 ---
 Track: Redwood Forest
-Duration: '1:06'
+Duration: 1:06
 Artists:
 - Blanders
 URLs:
@@ -1631,7 +1631,7 @@ URLs:
 - https://www.youtube.com/watch?v=B9MbbWqDxEQ
 ---
 Track: Crystal Peak
-Duration: '1:06'
+Duration: 1:06
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1639,7 +1639,7 @@ URLs:
 - https://www.youtube.com/watch?v=npVevawCEQU
 ---
 Track: Science Society Appears!
-Duration: '0:27'
+Duration: 0:27
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1649,7 +1649,7 @@ Referenced Tracks:
 - Battle! Fey
 ---
 Track: Battle! Science Society Scientist
-Duration: '2:11'
+Duration: 2:11
 Artists:
 - Rainy
 URLs:
@@ -1659,7 +1659,7 @@ Referenced Tracks:
 - Battle! Fey
 ---
 Track: Cube Corp.
-Duration: '1:18'
+Duration: 1:18
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1669,7 +1669,7 @@ Referenced Tracks:
 - Kuprum's Theme
 ---
 Track: Battle! Fey
-Duration: '2:16'
+Duration: 2:16
 Artists:
 - Pascal van den Bos
 - Rowyn Berlan
@@ -1678,7 +1678,7 @@ URLs:
 - https://www.youtube.com/watch?v=YMSh5b28v7w
 ---
 Track: Black Horizon Appears!
-Duration: '0:47'
+Duration: 0:47
 Artists:
 - Levc
 URLs:
@@ -1689,7 +1689,7 @@ Referenced Tracks:
 - Battle! Black Horizon Boss
 ---
 Track: Battle! Black Horizon Goon
-Duration: '2:30'
+Duration: 2:30
 Artists:
 - Jose "Phazonruler" Villanueva
 URLs:
@@ -1697,7 +1697,7 @@ URLs:
 - https://www.youtube.com/watch?v=hFoP4GEUhrg
 ---
 Track: Battle! Black Horizon Boss
-Duration: '2:45'
+Duration: 2:45
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1706,7 +1706,7 @@ URLs:
 ---
 Track: Battle Frontier
 Suffix Directory: true
-Duration: '0:51'
+Duration: 0:51
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1718,7 +1718,7 @@ Referenced Tracks:
 ---
 Track: Battle Tower
 Suffix Directory: true
-Duration: '1:03'
+Duration: 1:03
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1729,7 +1729,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Battle Mine
-Duration: '1:41'
+Duration: 1:41
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1739,7 +1739,7 @@ Referenced Tracks:
 - track:derse-desynced-soundtest
 ---
 Track: Battle Circus
-Duration: '1:25'
+Duration: 1:25
 Artists:
 - Blanders
 URLs:
@@ -1747,7 +1747,7 @@ URLs:
 - https://www.youtube.com/watch?v=aqGuS9WoYnw
 ---
 Track: Battle! Frontier Brain
-Duration: '3:12'
+Duration: 3:12
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1760,7 +1760,7 @@ Referenced Tracks:
 - PWT Final Round!
 ---
 Track: Challenging the Pokémon League!
-Duration: '1:18'
+Duration: 1:18
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1771,7 +1771,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Elite 4 Appears!
-Duration: '0:42'
+Duration: 0:42
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1781,7 +1781,7 @@ Referenced Tracks:
 - Violet and Proud
 ---
 Track: Battle! Elite 4
-Duration: '2:16'
+Duration: 2:16
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1792,7 +1792,7 @@ Referenced Tracks:
 - PWT Final Round!
 ---
 Track: Victory Against Elite 4!
-Duration: '0:42'
+Duration: 0:42
 Artists:
 - Blanders (composition & arrangement)
 - Humanly (arrangement)
@@ -1801,7 +1801,7 @@ URLs:
 - https://www.youtube.com/watch?v=kgb6oRGG3qI
 ---
 Track: Battle! Jax
-Duration: '2:09'
+Duration: 2:09
 Artists:
 - Rowyn Berlan
 - Pascal van den Bos
@@ -1810,7 +1810,7 @@ URLs:
 - https://www.youtube.com/watch?v=nf0GqnPPUVA
 ---
 Track: Victory! Champion Title Match
-Duration: '0:41'
+Duration: 0:41
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1820,7 +1820,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Room of Glory
-Duration: '0:42'
+Duration: 0:42
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1830,7 +1830,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Hall of Fame
-Duration: '0:31'
+Duration: 0:31
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1842,7 +1842,7 @@ Referenced Tracks:
 Track: Staff Credits
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '5:29'
+Duration: 5:29
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1861,7 +1861,7 @@ Referenced Tracks:
 Track: The End
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '1:49'
+Duration: 1:49
 Artists:
 - CyanSixFour
 URLs:
@@ -1872,7 +1872,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Depths of Thundercap
-Duration: '2:26'
+Duration: 2:26
 Artists:
 - Pascal van den Bos
 URLs:
@@ -1883,7 +1883,7 @@ Referenced Tracks:
 - Mt. Layuda
 ---
 Track: Cube Space - Terrke Mix
-Duration: '2:42'
+Duration: 2:42
 Artists:
 - NewoRGBY
 URLs:
@@ -1893,7 +1893,7 @@ Referenced Tracks:
 - Cube Space
 ---
 Track: Sands of the Titans
-Duration: '5:41'
+Duration: 5:41
 Artists:
 - Rowyn Berlan
 URLs:
@@ -1904,7 +1904,7 @@ Referenced Tracks:
 - Gurun Town (Day)
 ---
 Track: SEAPORT CITY
-Duration: '2:06'
+Duration: 2:06
 Artists:
 - Pascal van den Bos
 Contributors:
@@ -1920,7 +1920,7 @@ Referenced Tracks:
 Track: Calm Before the Storm
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '4:24'
+Duration: 4:24
 Artists:
 - Rowyn Berlan
 URLs:

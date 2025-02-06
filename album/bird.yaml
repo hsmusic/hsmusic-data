@@ -22,19 +22,19 @@ Groups:
 Section: Main album
 ---
 Track: Screamcatcher Theme
-Duration: '03:17'
+Duration: 03:17
 URLs:
 - https://screamcatcher.bandcamp.com/track/screamcatcher-theme
 ---
 Track: Wings
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '03:56'
+Duration: 03:56
 URLs:
 - https://screamcatcher.bandcamp.com/track/wings
 ---
 Track: Coracoid
-Duration: '04:00'
+Duration: 04:00
 URLs:
 - https://screamcatcher.bandcamp.com/track/coracoid
 ---
@@ -48,19 +48,19 @@ Artists:
 - Kalibration
 - Screamcatcher
 - Riki Tsuji (featuring)
-Duration: '03:34'
+Duration: 03:34
 URLs:
 - https://screamcatcher.bandcamp.com/track/proventriculus-ft-astro-kid
 ---
 Track: Interlude
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '00:57'
+Duration: 00:57
 URLs:
 - https://screamcatcher.bandcamp.com/track/interlude
 ---
 Track: Eye Ring
-Duration: '03:43'
+Duration: 03:43
 URLs:
 - https://screamcatcher.bandcamp.com/track/eye-ring
 ---
@@ -76,40 +76,40 @@ Artists:
 - Kalibration
 - Screamcatcher
 - Cadence Cube (featuring)
-Duration: '05:12'
+Duration: 05:12
 URLs:
 - https://screamcatcher.bandcamp.com/track/feathers-ft-cadence-cube
 ---
 Track: Cloaca
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '13:26'
+Duration: 13:26
 URLs:
 - https://screamcatcher.bandcamp.com/track/cloaca
 ---
 Track: Revival
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '03:54'
+Duration: 03:54
 URLs:
 - https://screamcatcher.bandcamp.com/track/revival
 ---
 Section: Bonus tracks
 ---
 Track: Murder (Part 2)
-Duration: '03:58'
+Duration: 03:58
 Referenced Tracks:
 - track:murder-pathology
 ---
 Track: Electric District (Part 2)
-Duration: '03:45'
+Duration: 03:45
 Referenced Tracks:
 - track:electric-district
 ---
 Track: Forever
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '02:56'
+Duration: 02:56
 
 
 

@@ -50,24 +50,24 @@ Commentary: |-
     The soundtrack for the game!
 ---
 Track: Flight Stick
-Duration: '02:02'
+Duration: 02:02
 URLs:
 - https://what.bandcamp.com/track/flight-stick
 ---
 Track: Graveyard of the Cosmos
-Duration: '02:38'
+Duration: 02:38
 URLs:
 - https://what.bandcamp.com/track/graveyard-of-the-cosmos
 ---
 Track: Call It a Test Flight
-Duration: '02:29'
+Duration: 02:29
 URLs:
 - https://what.bandcamp.com/track/call-it-a-test-flight
 ---
 Track: Scramble
 Suffix Directory: true
 Always Reference By Directory: true
-Duration: '03:52'
+Duration: 03:52
 URLs:
 - https://what.bandcamp.com/track/scramble
 Commentary: |-
@@ -78,63 +78,63 @@ Commentary: |-
     The full soundtrack is available on my bandcamp.
 ---
 Track: On Track
-Duration: '02:30'
+Duration: 02:30
 Referenced Tracks:
 - track:scramble-extermination-shock
 URLs:
 - https://what.bandcamp.com/track/on-track
 ---
 Track: Bogey Spotted
-Duration: '02:09'
+Duration: 02:09
 URLs:
 - https://what.bandcamp.com/track/bogey-spotted
 ---
 Track: Nebulas Are Out Of Style
-Duration: '02:30'
+Duration: 02:30
 URLs:
 - https://what.bandcamp.com/track/nebulas-are-out-of-style
 ---
 Track: Low Visibility, High Velocity
-Duration: '02:17'
+Duration: 02:17
 Referenced Tracks:
 - Nebulas Are Out Of Style
 URLs:
 - https://what.bandcamp.com/track/low-visibility-high-velocity
 ---
 Track: Densely Packed Mistakes
-Duration: '03:21'
+Duration: 03:21
 URLs:
 - https://what.bandcamp.com/track/densely-packed-mistakes
 ---
 Track: Laser Party
-Duration: '01:57'
+Duration: 01:57
 URLs:
 - https://what.bandcamp.com/track/laser-party
 ---
 Track: The Torus
-Duration: '02:43'
+Duration: 02:43
 URLs:
 - https://what.bandcamp.com/track/the-torus
 ---
 Track: Enemy Unknown
-Duration: '03:36'
+Duration: 03:36
 URLs:
 - https://what.bandcamp.com/track/enemy-unknown
 ---
 Track: March For Fiends
-Duration: '02:32'
+Duration: 02:32
 URLs:
 - https://what.bandcamp.com/track/march-for-fiends
 ---
 Track: War Is Heaven
-Duration: '04:49'
+Duration: 04:49
 URLs:
 - https://what.bandcamp.com/track/war-is-heaven
 ---
 Track: Extermination
 Directory: extermination-shock
 Always Reference By Directory: true
-Duration: '01:53'
+Duration: 01:53
 Referenced Tracks:
 - track:scramble-extermination-shock
 URLs:
@@ -143,14 +143,14 @@ URLs:
 Track: Shock
 Directory: shock-extermination
 Always Reference By Directory: true
-Duration: '02:35'
+Duration: 02:35
 Referenced Tracks:
 - track:scramble-extermination-shock
 URLs:
 - https://what.bandcamp.com/track/shock
 ---
 Track: Endless Black Void
-Duration: '02:32'
+Duration: 02:32
 Referenced Tracks:
 - Flight Stick
 URLs:
