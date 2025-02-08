@@ -77,6 +77,7 @@ Content: |-
     - added dates to all wiki editor commentary, showing when the entries were actually written or heavily revised, mostly based off the data repository's git commit history (thanks, Amberlina, Whisper!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
+    - fixed [[track:nautical-nightmare]] not referencing [[track:nautical-climb]] (thanks, Lilith, Lan!)
     - fixed [[track:teal-seer]] not referencing [[track:somethings-different]], and added various commentary related to this (thanks, Makin!)
     - fixed [[track:stride]] not sampling [[track:bionic-booger-breaks-side-a]] (thanks, anticore2k!)
     - fixed [[track:carolmanthetime]] referencing [[track:doctor]] instead of [[track:crystalanthemums]] (thanks, Makin!)
