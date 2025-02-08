@@ -75,6 +75,7 @@ Content: |-
     <!-- misc presentational changes -->
     - replaced most YouTube playback links for Homestuck flashes ([[flash-side:s1|side 1]], [[flash-side:s2|side 2]]) with timestamped links to Bambosh's ['[S] Homestuck - All flashes'](https://www.youtube.com/watch?v=AEIOQN3YmNc), replacing YouTube links in 60 flashes, and adding YouTube links to 46 flashes missing them altogether (thanks, Meulanie, Lan!)
     - added dates to all wiki editor commentary, showing when the entries were actually written or heavily revised, mostly based off the data repository's git commit history (thanks, Amberlina, Whisper!)
+    - filled out details for [[track:velkommen-stan-lepard]], previously named "Windows XP Installation Music" with duration 5:22 and no commentary (thanks, vriska, Lan!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
     - fixed [[track:nautical-nightmare]] not referencing [[track:nautical-climb]] (thanks, Lilith, Lan!)
@@ -138,6 +139,7 @@ Content: |-
     - changed directory of [[track:ground-bgm-super-mario-bros]] from <code>ground-theme-super-mario-bros</code> to <code>ground-bgm-super-mario-bros</code>
     - changed directory of [[track:hazy-maze-cave]] from <code>cave-dungeon-super-mario-64</code> to <code>hazy-maze-cave</code>
     - changed directory of [[track:molgera-battle]] from <code>molgera</code> to <code>molgera-battle</code>
+    - changed directory of [[track:velkommen-stan-lepard]] from <code>windows-xp-installation-music</code> to <code>velkommen-stan-lepard</code>
     </details>
 
     <h2 id="30-jan-2025" class="major-release"><html:a href="#30-jan-2025">[[date:30 January 2025]] - Anachronist's Library</a></h2>
