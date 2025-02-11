@@ -2470,6 +2470,44 @@ Duration: 1:29
 URLs:
 - https://www.youtube.com/watch?v=1tgf4WUO4lg
 ---
+Track: Battle Theme (Yūyūki)
+Directory: battle-theme-yuyuki
+# Reference:
+#   none
+Artists:
+- Yūyūki
+- Soyo Oka
+#Duration: ''
+#URLs:
+#-
+---
+Track: Battle Tower (Johto) (Pokémon Crystal)
+Directory: battle-tower-johto-pokemon-crystal
+# Reference:
+#   https://vgmdb.net/album/15237
+Artists:
+- artist:pokemon
+- Morikazu Aoki
+Duration: 0:40
+URLs:
+- https://www.youtube.com/watch?v=klTyL5O03Tw
+---
+Track: Battle Tower (Pokémon Diamond / Pokémon Pearl)
+Directory: battle-tower-pokemon-diamond-pearl
+# Official release:
+#   Pokémon Diamond & Pokémon Pearl: Super Music Collection
+#   ニンテンドーDS ポケモン ダイヤモンド・パール スーパーミュージックコレクション
+# Reference:
+#   https://vgmdb.net/album/3945
+Artists:
+- artist:pokemon
+- Hitomi Sato
+Duration: 1:05
+URLs:
+- https://www.youtube.com/watch?v=rOgEDehCPCM
+Referenced Tracks:
+- Battle Tower (Johto) (Pokémon Crystal)
+---
 Track: Battle! (Champion) (Pokémon Gold / Pokémon Silver)
 # JP: 戦闘！チャンピオン
 # Official release:
@@ -2846,44 +2884,6 @@ Artists:
 Duration: 2:40
 URLs:
 - https://www.youtube.com/watch?v=00kfwPjXxwk
----
-Track: Battle Theme (Yūyūki)
-Directory: battle-theme-yuyuki
-# Reference:
-#   none
-Artists:
-- Yūyūki
-- Soyo Oka
-#Duration: ''
-#URLs:
-#-
----
-Track: Battle Tower (Johto) (Pokémon Crystal)
-Directory: battle-tower-johto-pokemon-crystal
-# Reference:
-#   https://vgmdb.net/album/15237
-Artists:
-- artist:pokemon
-- Morikazu Aoki
-Duration: 0:40
-URLs:
-- https://www.youtube.com/watch?v=klTyL5O03Tw
----
-Track: Battle Tower (Pokémon Diamond / Pokémon Pearl)
-Directory: battle-tower-pokemon-diamond-pearl
-# Official release:
-#   Pokémon Diamond & Pokémon Pearl: Super Music Collection
-#   ニンテンドーDS ポケモン ダイヤモンド・パール スーパーミュージックコレクション
-# Reference:
-#   https://vgmdb.net/album/3945
-Artists:
-- artist:pokemon
-- Hitomi Sato
-Duration: 1:05
-URLs:
-- https://www.youtube.com/watch?v=rOgEDehCPCM
-Referenced Tracks:
-- Battle Tower (Johto) (Pokémon Crystal)
 ---
 Track: Before the Sequel - Title Screen
 # From Sonic Before the Sequel '12 Original Sound Track
