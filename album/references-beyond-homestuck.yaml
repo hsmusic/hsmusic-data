@@ -3477,10 +3477,9 @@ Track: Cosmic Eternity - Believe in Yourself
 Artists:
 - Sonic the Hedgehog
 - Naofumi Hataya
-- Casey Rankin (lyrics)
 Contributors:
 - Keiko Utoku (vocals)
-- Casey Rankin (vocals)
+- Casey Rankin (lyrics & vocals)
 Duration: 3:09
 URLs:
 - https://www.youtube.com/watch?v=IKbr_p4ZBXw
@@ -4548,17 +4547,15 @@ Track: Fist Bump
 #   https://vgmdb.net/album/72211
 Artists:
 - Sonic the Hedgehog
-- Tomoya Ohtani (composition & arrangement)
-- Takahito Eguchi (strings arrangement)
-- Douglas Robb (lyrics)
+- Tomoya Ohtani (composer & arranger)
 Contributors:
-- Douglas Robb (vocals)
-- Daisensei Muroya Strings (strings) ##credited as Muroya Strings
-- Takahito Eguchi (piano)
+- Douglas Robb (vocals & lyrics)
+- Takahito Eguchi (strings arranger, piano)
+- Daisensei Muroya Strings (strings)
 - Koji Igarashi (additional piano)
 - Susumu Nishikawa (guitars)
 - Akinori Yamada (bass)
-- Yoshio Arimatsu (drums) ##credited as MASUO
+- Yoshio Arimatsu (drums)
 Duration: 4:30
 URLs:
 - https://www.youtube.com/watch?v=eCkWlRL3_N0
@@ -4649,7 +4646,6 @@ Track: Flying Battery Zone Act 1
 # Reference:
 #    https://vgmdb.net/album/29437
 # sorry if the duration of the video doesn't match the listed duration, the ones I found that were 1:31 in length but the echo went gradually out of sync after the first loop so I had to find this one
-Directory: flying-battery-zone-act-1
 Artists:
 - Sonic the Hedgehog
 Duration: 1:47
@@ -4658,7 +4654,6 @@ URLs:
 ---
 Track: Flying Battery Zone Act 2
 # No official release of the in-game track (or Sonic the Hedgehog 3 & Knuckles' in-game soundtrack at all)
-Directory: flying-battery-zone-act-2
 Referenced Tracks:
 - Flying Battery Zone Act 1
 Artists:
@@ -5593,11 +5588,11 @@ Always Reference By Directory: true
 #   https://vgmdb.net/album/72211
 Artists:
 - Sonic the Hedgehog
-- Tomoya Ohtani (composition & arrangement)
+- Tomoya Ohtani (composer & arranger)
+Contributors:
 - Tyler Smyth (lyrics, rap & vocals)
 - Andy Bane (lyrics & vocals)
-Contributors:
-- Jun Senoue (guitar)
+- Jun Senoue (guitars)
 URLs:
 - https://www.youtube.com/watch?v=Ki_Nn95hj48
 Duration: 4:35
@@ -7119,14 +7114,13 @@ Track: Open Your Heart
 Artists:
 - Sonic the Hedgehog
 - Crush 40
-- Jun Senoue (composition & arrangement, Japanese lyrics)
-- Kenichi Tokoi (composition)
-- Takahiro Fukada (English lyrics)
 Contributors:
+- Jun Senoue (composer & arranger, Japanese lyrics, guitars)
+- Kenichi Tokoi (composer)
+- Takahiro Fukada (English lyrics)
 - Johnny Gioeli (vocals)
-- Jun Senoue (guitar)
 - Naoto Shibata (bass)
-- Hirotsugu Homma (drums) ##credited as Hiro Homma
+- Hirotsugu Homma (drums)
 Duration: 5:11
 URLs:
 - https://www.youtube.com/watch?v=OrblPxDdUWg
@@ -10411,6 +10405,62 @@ Artists:
 Duration: 1:25
 URLs:
 - https://www.youtube.com/watch?v=WvAAOmoEftg
+---
+Track: Wrapped in Black
+# Official release:
+#   SONIC RUSH Original Groove Rush.
+# Note:
+#   Track 41 is in-game; 07 is "digital remakin' trax".
+# Reference:
+#   https://vgmdb.net/album/1651
+#   https://sonic.fandom.com/wiki/Wrapped_in_Black
+Artists:
+- Sonic the Hedgehog
+- Hideki Naganuma
+Duration: 2:35
+URLs:
+- https://www.youtube.com/watch?v=IvyelV9e4UY
+Sampled Tracks:
+- Message to the Grass Roots
+- Sell Your Soul
+Lyrics: |-
+    Too black, too strong, too black, too strong
+    Too black, too strong, too strong, too strong
+    Too black, too strong, too black, too strong
+    Too black, too strong, too strong, too strong
+
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black (Rappin' black), too strong (Rappin' black)
+
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black (Rappin' black), too strong (Rappin' black)
+    Too black, too strong, too black, too strong
+    Too black, too strong, too strong, too strong
+
+    Too black, too black, too black, too black
+    Too black, black, black, black
+    Too- too- too- too- too- too-
+
+    Rappin' black, in black, in black, rappin' black (Rappin' black)
+    Rappin' black, in black, in black, rappin' black (Rappin' black)
+    Rappin' black, in black, in black, rappin' black (Rappin' black)
+
+    (Rappin' black) Rappin' black, (Rappin' black) Rappin' black
+    (Rappin' black, in' black, in' black, rappin' black) Rappin' black
+    Rappin' black (Rappin' black), Rappin' black (Rappin' black)
+    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
+
+    Too strong, too black, too strong, too black
+    Too strong, too black, too black, too black
+    Too black, too strong, too black, too strong
+    Too black, too strong, too strong, too strong
 ---
 Track: you
 Directory: you-dai
@@ -46388,62 +46438,6 @@ Lyrics: |-
     (The wow wow West) (Big Will, the Wild Wild)
     [Indecipherable]
     (Wild Wild) (Wow wow)
----
-Track: Wrapped in Black
-# Official release:
-#   SONIC RUSH Original Groove Rush.
-# Note:
-#   Track 41 is in-game; 07 is "digital remakin' trax".
-# Reference:
-#   https://vgmdb.net/album/1651
-#   https://sonic.fandom.com/wiki/Wrapped_in_Black
-Artists:
-- Sonic the Hedgehog
-- Hideki Naganuma
-Duration: 2:35
-URLs:
-- https://www.youtube.com/watch?v=IvyelV9e4UY
-Sampled Tracks:
-- Message to the Grass Roots
-- Sell Your Soul
-Lyrics: |-
-    Too black, too strong, too black, too strong
-    Too black, too strong, too strong, too strong
-    Too black, too strong, too black, too strong
-    Too black, too strong, too strong, too strong
-
-    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
-    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
-    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
-    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
-
-    Too black (Rappin' black), too strong (Rappin' black)
-    Too black (Rappin' black), too strong (Rappin' black)
-    Too black (Rappin' black), too strong (Rappin' black)
-    Too black (Rappin' black), too strong (Rappin' black)
-
-    Too black (Rappin' black), too strong (Rappin' black)
-    Too black (Rappin' black), too strong (Rappin' black)
-    Too black, too strong, too black, too strong
-    Too black, too strong, too strong, too strong
-
-    Too black, too black, too black, too black
-    Too black, black, black, black
-    Too- too- too- too- too- too-
-
-    Rappin' black, in black, in black, rappin' black (Rappin' black)
-    Rappin' black, in black, in black, rappin' black (Rappin' black)
-    Rappin' black, in black, in black, rappin' black (Rappin' black)
-
-    (Rappin' black) Rappin' black, (Rappin' black) Rappin' black
-    (Rappin' black, in' black, in' black, rappin' black) Rappin' black
-    Rappin' black (Rappin' black), Rappin' black (Rappin' black)
-    Rappin' black, in' black, in' black, rappin' black (Rappin' black)
-
-    Too strong, too black, too strong, too black
-    Too strong, too black, too black, too black
-    Too black, too strong, too black, too strong
-    Too black, too strong, too strong, too strong
 ---
 Track: X Gon' Give It to Ya
 Artists:
