@@ -19,6 +19,11 @@
 #   Objects from media.
 #   Individual object entries.
 #
+# Iconography:
+#   Iconography classifications.
+#   Iconography from media.
+#   Individual iconography entries.
+#
 # More sections:
 #   Content warnings.
 #
@@ -30,7 +35,7 @@
 Tag: Media
 Direct Descendant Tags:
 - MS Paint Adventures (media)
-- Fanventures (media)
+- Fanventures & fanworks (media)
 - Beyond (media)
 - Additional media
 ---
@@ -63,16 +68,7 @@ Direct Descendant Tags:
 ---
 Tag: The Homestuck Epilogues (media)
 Direct Descendant Tags:
-- The Homestuck Epilogues - Meat (media)
-- The Homestuck Epilogues - Candy (media)
----
-Tag: The Homestuck Epilogues - Meat (media)
-Direct Descendant Tags:
-- Characters from The Homestuck Epilogues - Meat
----
-Tag: The Homestuck Epilogues - Candy (media)
-Direct Descendant Tags:
-- Characters from The Homestuck Epilogues - Candy
+- Characters from The Homestuck Epilogues
 ---
 Tag: 'Homestuck: Beyond Canon (media)'
 Direct Descendant Tags:
@@ -88,20 +84,27 @@ Direct Descendant Tags:
 - Characters from SBaHJ
 - Objects from SBaHJ
 ---
-Tag: Fanventures (media)
+Tag: Fanventures & fanworks (media)
 Direct Descendant Tags:
 - Adobebound (media)
 - Aleph Null (media)
+- Alternian Misadventures! (media)
 - Breadstuck (media)
 - Cool and New Web Comic (media)
 - Crossmound (media)
+- Crud Spade (media)
 - Desynced (media)
 - Fatebreak (media)
+- Freeroam (media)
 - Heinoustuck (media)
 - Hexane (media)
 - Karkat Goes to a Convention (media)
+- Loftlocked (media)
+- 'MIDNIGHT CREW: Beginning Of The End! (media)'
 - Moonsplit (media)
 - PAY DAT RENT!!!1 (media)
+- Redditstuck (media)
+- Riddle of Dixy (media)
 - Shackstuck (media)
 - SVERT (media)
 - Synodic Reboot (media)
@@ -118,6 +121,10 @@ Direct Descendant Tags:
 - Characters from Aleph Null
 - Locations from Aleph Null
 ---
+Tag: Alternian Misadventures! (media)
+Direct Descendant Tags:
+- Characters from Alternian Misadventures!
+---
 Tag: Breadstuck (media)
 Direct Descendant Tags:
 - Characters from Breadstuck
@@ -132,6 +139,10 @@ Tag: Crossmound (media)
 Direct Descendant Tags:
 - Characters from Crossmound
 ---
+Tag: Crud Spade (media)
+Direct Descendant Tags:
+- Characters from Crud Spade
+---
 Tag: Desynced (media)
 Direct Descendant Tags:
 - Characters from Desynced
@@ -140,6 +151,10 @@ Direct Descendant Tags:
 Tag: Fatebreak (media)
 Direct Descendant Tags:
 - Characters from Fatebreak
+---
+Tag: Freeroam (media)
+Direct Descendant Tags:
+- Characters from Freeroam
 ---
 Tag: Heinoustuck (media)
 Direct Descendant Tags:
@@ -153,6 +168,10 @@ Tag: Karkat Goes to a Convention (media)
 Direct Descendant Tags:
 - Characters from Karkat Goes to a Convention
 ---
+Tag: Loftlocked (media)
+Direct Descendant Tags:
+- Characters from Loftlocked
+---
 Tag: 'MIDNIGHT CREW: Beginning Of The End! (media)'
 Direct Descendant Tags:
 - 'Characters from MIDNIGHT CREW: Beginning Of The End!'
@@ -164,6 +183,15 @@ Direct Descendant Tags:
 Tag: PAY DAT RENT!!!1 (media)
 Direct Descendant Tags:
 - Characters from PAY DAT RENT!!!1
+---
+Tag: Redditstuck (media)
+Direct Descendant Tags:
+- Characters from Redditstuck
+- Locations from Redditstuck
+---
+Tag: Riddle of Dixy (media)
+Direct Descendant Tags:
+- Characters from Riddle of Dixy
 ---
 Tag: Shackstuck (media)
 Direct Descendant Tags:
@@ -194,6 +222,7 @@ Tag: Beyond (media)
 Direct Descendant Tags:
 - Cool and New Music Team (media)
 - Oceanfalls (media)
+- Riddle of Dixy (media)
 - Undertale & Deltarune (media)
 ---
 Tag: Cool and New Music Team (media)
@@ -283,8 +312,7 @@ Direct Descendant Tags:
 #   1. The single "main" instance from Homestuck
 #   2. Alternate instances within Homestuck, unless specified below
 #   3. Alternate instances from Homosuck
-#   4. Alternate instances from the Meat epilogue
-#   5. Alternate instances from the Candy epilogue
+#   4. Alternate instances from the Epilogues and HS:BC
 #   6. Instances specific to any given fanventure
 #
 #   The sorting within each of these sections is probably arbitrary,
@@ -321,8 +349,6 @@ Direct Descendant Tags:
 - John
 - Jane's grandpa
 - MALE (Homosuck)
-- John (Meat)
-- John (Candy)
 - June
 - Jhon
 - John (Heinoustuck)
@@ -333,9 +359,7 @@ Direct Descendant Tags:
 - Rose
 - Roxy's mom
 - Jasprose
-- Rose (Meat)
-- Rosebot (Meat)
-- Rose (Candy)
+- Rosebot
 - Rose (Heinoustuck)
 - Roze
 ---
@@ -347,9 +371,6 @@ Direct Descendant Tags:
 - Davesprite
 - Davepeta
 - ALPHA MALE (Homosuck)
-- Dave (Meat)
-- Dave (Candy)
-- Davebot (Candy)
 - Dabe
 - Dave (Heinoustuck)
 ---
@@ -359,8 +380,6 @@ Direct Descendant Tags:
 - Jade
 - Jake's grandma
 - Jadesprite
-- Jade (Meat)
-- Jade (Candy)
 - Jaed
 - Jade (Heinoustuck)
 ---
@@ -370,16 +389,12 @@ Direct Descendant Tags:
 - Jane
 - John's nanna
 - Nannasprite
-- Jane (Meat)
-- Jane (Candy)
 ---
 Tag: Roxy (archetype)
 Color: '#ff6ff2'
 Direct Descendant Tags:
 - Roxy
 - Rose's mom
-- Roxy (Meat)
-- Roxy (Candy)
 ---
 Tag: Dirk (archetype)
 Color: '#f2a400'
@@ -389,16 +404,12 @@ Direct Descendant Tags:
 - Brobot
 - Hal
 - Arquiusprite
-- Dirk (Meat)
-- Dirk (Candy)
 ---
 Tag: Jake (archetype)
 Color: '#1f9400'
 Direct Descendant Tags:
 - Jake
 - Jade's grandpa
-- Jake (Meat)
-- Jake (Candy)
 ---
 Tag: Trolls (archetypes)
 # Description: |-
@@ -436,7 +447,6 @@ Direct Descendant Tags:
 - Aradia
 - Aradia (ghost)
 - Aradia's Soulbot
-- Aradia (Candy)
 - Aradia (Homosuck)
 ---
 Tag: Damara (archetype)
@@ -481,7 +491,6 @@ Color: '#7c7e81'
 Direct Descendant Tags:
 - Karkat
 - KRABKRAB (Homosuck)
-- Karkat (Candy)
 - Kraket
 ---
 Tag: Meulin (archetype)
@@ -502,8 +511,6 @@ Color: '#008f48'
 Direct Descendant Tags:
 - Kanaya
 - Kanaya (Homosuck)
-- Kanaya (Meat)
-- Kanaya (Candy)
 ---
 Tag: Porrim (archetype)
 Color: '#008f48'
@@ -522,7 +529,6 @@ Color: '#008b8b'
 Direct Descendant Tags:
 - Terezi
 - Terezi (Homosuck)
-- Terezi (Meat)
 - Terexi
 ---
 Tag: Aranea (archetype)
@@ -537,7 +543,6 @@ Direct Descendant Tags:
 - Vriska
 - Tavrisprite
 - Vriska (Homosuck)
-- Vriska (Meat)
 - Vrasky
 ---
 Tag: Equius (archetype)
@@ -559,7 +564,6 @@ Color: '#a34bff'
 Direct Descendant Tags:
 - Gamzee
 - HONK FRIEND (Homosuck)
-- Gamzee (Meat)
 - Gametez
 ---
 Tag: Kurloz (archetype)
@@ -591,11 +595,11 @@ Color: '#e30072'
 Direct Descendant Tags:
 - Meenah
 - The Condesce
-- Meenah (Meat)
 ---
 Tag: More archetypes
 Direct Descendant Tags:
 - Dad (archetype)
+- Jack Noir (archetype)
 - Jaspers (archetype)
 ---
 Tag: Dad (archetype)
@@ -605,6 +609,13 @@ Direct Descendant Tags:
 - LARGER HOMO SAPIEN (Homosuck)
 - Dadd
 - Dad (Heinoustuck)
+---
+Tag: Jack Noir (archetype)
+Color: '#8a8a8a'
+Direct Descendant Tags:
+- Jack Noir
+- Jack Noir (Desynced)
+- Jack Noir (Redditstuck)
 ---
 Tag: Jaspers (archetype)
 Color: '#f141ef'
@@ -641,6 +652,316 @@ Direct Descendant Tags:
 #  Top-level sectionining (immediately beneath "Characters from (media)")
 #  is always by species, but may be arbitrarily subsectioned further.
 #
+
+# Characters from Adobebound, by species (TBD).
+
+---
+Tag: Characters from Adobebound
+Direct Descendant Tags:
+- Izzy (Adobebound)
+- Alice (Adobebound)
+- Fred (Adobebound)
+- Lyle (Adobebound)
+
+# Characters from Aleph Null, by species (TBD).
+
+---
+Tag: Characters from Aleph Null
+Direct Descendant Tags:
+- Sauron (Aleph Null)
+- Falmea (Aleph Null)
+- Cyrusk (Aleph Null)
+- Cybele (Aleph Null)
+- Majell (Aleph Null)
+- Heltsm (Aleph Null)
+- Safkas (Aleph Null)
+
+# Characters from Alternian Misadventures! by species (TBD).
+
+---
+Tag: Characters from Alternian Misadventures!
+Direct Descendant Tags:
+- Dev (Alternian Misadventures!)
+
+# Characters from Breadstuck, by species (TBD).
+
+---
+Tag: Characters from Breadstuck
+Direct Descendant Tags:
+- Elli (Breadstuck)
+
+# Characters from Cool and New Music Team (species N/A).
+
+---
+Tag: Characters from Cool and New Music Team
+Direct Descendant Tags:
+- Cool and New Music Team
+- CaNMT-Tan
+
+# Characters from Cool and New Web Comic, by species.
+
+---
+Tag: Characters from Cool and New Web Comic
+Directory: characters-from-canwc
+Direct Descendant Tags:
+- Humans (CaNWC)
+- Trolls (CaNWC)
+- Carapacians (CaNWC)
+- Consorts (CaNWC)
+- Sprites (CaNWC)
+- First guardians (CaNWC)
+- More Characters (CaNWC)
+---
+Tag: Carapacians (CaNWC)
+Direct Descendant Tags:
+- Hrates Bocars
+- Rubs Juice
+- Dacronian Dignity
+- Spdaes Sleck
+---
+Tag: Consorts (CaNWC)
+Direct Descendant Tags:
+- Salamanders (CaNWC)
+---
+Tag: First guardians (CaNWC)
+Direct Descendant Tags:
+- Beq
+---
+Tag: Humans (CaNWC)
+Direct Descendant Tags:
+- Kids (CaNWC)
+- More humans (CaNWC)
+---
+Tag: Kids (CaNWC)
+Direct Descendant Tags:
+- Jhon
+- Jaed
+- Dabe
+- Roze
+---
+Tag: More Characters (CaNWC)
+Direct Descendant Tags:
+- Bunnie
+---
+Tag: More humans (CaNWC)
+Direct Descendant Tags:
+- Femorafreack
+- Germy
+- Hecka Jef
+- Momi
+- Obana
+- Swet Bro
+---
+Tag: Salamanders (CaNWC)
+Direct Descendant Tags:
+- Fresh Jimmy
+---
+Tag: Sprites (CaNWC)
+Direct Descendant Tags:
+- Bg'ogubmom'ibulsprite
+---
+Tag: Trolls (CaNWC)
+Direct Descendant Tags:
+- Kraket
+- Terexi
+- Vrasky
+- Equihorse
+- Gametez
+
+# Characters from Crossmound, by species.
+
+---
+Tag: Characters from Crossmound
+Direct Descendant Tags:
+- Trolls (Crossmound)
+- Lusii (Crossmound)
+---
+Tag: Lusii (Crossmound)
+Direct Descendant Tags:
+- Amenia's lusus (Crossmound)
+- Tahoma's lusus (Crossmound)
+- Egoize's lusus (Crossmound)
+---
+Tag: Trolls (Crossmound)
+Direct Descendant Tags:
+- Tahbbi (Crossmound)
+- Amenia (Crossmound)
+- Meeraz (Crossmound)
+- Kimaiz (Crossmound)
+- Cladem (Crossmound)
+- Dejinn (Crossmound)
+- Elgiza (Crossmound)
+- Tahoma (Crossmound)
+- Lokere (Crossmound)
+- Dulcan (Crossmound)
+- Egoize (Crossmound)
+- Skerrt (Crossmound)
+
+# Characters from Crud Spade, by species (TBD).
+
+---
+Tag: Characters from Crud Spade
+Direct Descendant Tags:
+- Mayonaka (Crud Spade)
+
+# Characters from Desynced, by species.
+
+---
+Tag: Characters from Desynced
+Direct Descendant Tags:
+- Humans (Desynced)
+- Scholars (Desynced)
+- Dragons (Desynced)
+- More characters from Desynced
+- Unsorted characters from Desynced
+---
+Tag: Dragons (Desynced)
+Direct Descendant Tags:
+- Auranue (Desynced)
+- Baltro (Desynced)
+- Layssah (Desynced)
+- Maragi (Desynced)
+- Nelrith (Desynced)
+- Odelia (Desynced)
+- Pollyon (Desynced)
+- Romelia (Desynced)
+- Simsei (Desynced)
+- Tsanzer (Desynced)
+---
+Tag: Humans (Desynced)
+Direct Descendant Tags:
+- Kate (Desynced)
+- Evan (Desynced)
+- Momo (Desynced)
+- Josh (Desynced)
+- Enid (Desynced)
+- Lee (Desynced)
+- Masky (Desynced)
+- Kade (Desynced)
+---
+Tag: Scholars (Desynced)
+Direct Descendant Tags:
+- Gaea (Desynced)
+- Ananke (Desynced)
+- Hemera (Desynced)
+- Styx (Desynced)
+- Phoebe (Desynced)
+---
+Tag: More characters from Desynced
+Direct Descendant Tags:
+- Lord Noir (Desynced)
+- Skaia (Desynced)
+- Van Black (Desynced)
+---
+Tag: Unsorted characters from Desynced
+Direct Descendant Tags:
+- Bette Diaz (Desynced)
+- Bianca Queens (Desynced)
+- Brent Kampel (Desynced)
+- The Champion (Desynced)
+- Charlie Davis (Desynced)
+- Chester Newman (Desynced)
+- Clan Chief (Desynced)
+- Crack (Desynced)
+- Daniel Dime (Desynced)
+- Drake (Desynced)
+- Eden (Desynced)
+- Ella (Desynced)
+- Elton John (Desynced)
+- Folly Face (Desynced)
+- Grace Kameron (Desynced)
+- Guy Fieri (Desynced)
+- Harvey Barret (Desynced)
+- Jes (Desynced)
+- Jill (Desynced)
+- Kronos (Desynced)
+- Lily (Desynced)
+- Lydia Kameron (Desynced)
+- Mako (Desynced)
+- Mia (Desynced)
+- Momo Jr (Desynced)
+- Monsoon (Desynced)
+- Ngā (Desynced)
+- Rancid (Desynced)
+- Weird Al (Desynced)
+
+# Characters from EarthBound, by species (TBD).
+
+---
+Tag: Characters from EarthBound
+Direct Descendant Tags:
+- Ness (EarthBound)
+- Paula (EarthBound)
+- Jeff (EarthBound)
+- Poo (EarthBound)
+
+# Characters from EarthBound Halloween Hack, by species (TBD).
+
+---
+Tag: Characters from EarthBound Halloween Hack
+Direct Descendant Tags:
+- Varik (EBHH)
+
+# Characters from Fatebreak, by species (TBD).
+
+---
+Tag: Characters from Fatebreak
+Direct Descendant Tags:
+- Cerida (Fatebreak)
+- Seytus (Fatebreak)
+- Silena (Fatebreak)
+- Oryyan (Fatebreak)
+- Syldis (Fatebreak)
+
+# Characters from The Flintstones (species N/A).
+
+---
+Tag: Characters from The Flintstones
+Direct Descendant Tags:
+- Fred Flintstone
+
+# Characters from Freeroam, by species (TBD).
+
+---
+Tag: Characters from Freeroam
+Direct Descendant Tags:
+- Arron (Freeroam)
+- Hazel (Freeroam)
+- Jason (Freeroam)
+- Keira (Freeroam)
+- Starmansprite (Freeroam)
+
+# Characters from Friday Night Funkin', by species (TBD).
+
+---
+Tag: Characters from Friday Night Funkin'
+Direct Descendant Tags:
+- Boyfriend (Friday Night Funkin')
+
+# Characters from Heinoustuck, by species.
+
+---
+Tag: Characters from Heinoustuck
+Direct Descendant Tags:
+- Humans (Heinoustuck)
+---
+Tag: Humans (Heinoustuck)
+Direct Descendant Tags:
+- John (Heinoustuck)
+- Rose (Heinoustuck)
+- Dave (Heinoustuck)
+- Jade (Heinoustuck)
+- Dad (Heinoustuck)
+
+# Characters from Hexane, by species (TBD).
+
+---
+Tag: Characters from Hexane
+Direct Descendant Tags:
+- Emmy (Hexane)
+- Laraminia (Hexane)
+- Qamarkino (Hexane)
+- Theremina (Hexane)
 
 # Characters from Hiveswap, by species.
 
@@ -922,6 +1243,15 @@ Direct Descendant Tags:
 - Equius' bots
 - Hal
 ---
+Tag: Dirk's bots
+Color: '#f2a400'
+Direct Descendant Tags:
+- Brobot
+- Sawtooth
+- Squarewave
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Dirk's_robots#Brobot
+---
 Tag: Animals (Homestuck)
 Direct Descendant Tags:
 - Fireflies (Homestuck)
@@ -949,70 +1279,27 @@ Direct Descendant Tags:
 - Lil Cal
 - Rabbit
 
-# Characters from The Homestuck Epilogues - Candy, by species.
+# Characters from The Homestuck Epilogues, by species.
 
 ---
-Tag: Characters from The Homestuck Epilogues - Candy
+Tag: Characters from The Homestuck Epilogues
 Direct Descendant Tags:
-- Humans (The Homestuck Epilogues - Candy)
-- Trolls (The Homestuck Epilogues - Candy)
-- Robots (The Homestuck Epilogues - Candy)
+- Humans (The Homestuck Epilogues)
+- Trolls (The Homestuck Epilogues)
+- Robots (The Homestuck Epilogues)
 ---
-Tag: Humans (The Homestuck Epilogues - Candy)
+Tag: Humans (The Homestuck Epilogues)
 Direct Descendant Tags:
-- John (Candy)
-- Rose (Candy)
-- Dave (Candy)
-- Jade (Candy)
-- Jane (Candy)
-- Roxy (Candy)
-- Dirk (Candy)
-- Jake (Candy)
 - Harry
 - Tavvy
 ---
-Tag: Robots (The Homestuck Epilogues - Candy)
+Tag: Robots (The Homestuck Epilogues)
 Direct Descendant Tags:
-- Davebot (Candy)
+- Rosebot
 ---
-Tag: Trolls (The Homestuck Epilogues - Candy)
+Tag: Trolls (The Homestuck Epilogues)
 Direct Descendant Tags:
-- Aradia (Candy)
-- Karkat (Candy)
-- Kanaya (Candy)
-- Terezi (Meat)
-- Vriska (Meat)
-- Gamzee (Meat)
 - Vrissy
-
-# Characters from The Homestuck Epilogues - Meat, by species.
-
----
-Tag: Characters from The Homestuck Epilogues - Meat
-Direct Descendant Tags:
-- Humans (The Homestuck Epilogues - Meat)
-- Trolls (The Homestuck Epilogues - Meat)
-- Robots (The Homestuck Epilogues - Meat)
----
-Tag: Humans (The Homestuck Epilogues - Meat)
-Direct Descendant Tags:
-- John (Meat)
-- Rose (Meat)
-- Dave (Meat)
-- Jade (Meat)
-- Jane (Meat)
-- Roxy (Meat)
-- Dirk (Meat)
-- Jake (Meat)
----
-Tag: Robots (The Homestuck Epilogues - Meat)
-Direct Descendant Tags:
-- Rosebot (Meat)
----
-Tag: Trolls (The Homestuck Epilogues - Meat)
-Direct Descendant Tags:
-- Kanaya (Meat)
-- Terezi (Meat)
 
 # Characters from Homosuck, by species.
 
@@ -1055,290 +1342,6 @@ Direct Descendant Tags:
 - Vriska (Homosuck)
 - Feferi (Homosuck)
 
-# Characters from MSPA, by species.
-
----
-Tag: Characters from MSPA
-Direct Descendant Tags:
-- Humans (MSPA)
-- More characters from MSPA
----
-Tag: Humans (MSPA)
-Direct Descendant Tags:
-- AH
-- Mobius Trip
-- Hadron Kaleido
----
-Tag: More characters from MSPA
-Direct Descendant Tags:
-- MSPA Reader
-- Squiddles Girl
-
-# Characters from Problem Sleuth, by species (TBD).
-
----
-Tag: Characters from Problem Sleuth
-Direct Descendant Tags:
-- Problem Sleuth
-- Ace Dick
-- Pickle Inspector
-- Mobster Kingpin
-- Nervous Broad
-- Death
-- Demimonde Goddess
-
-# Characters from Adobebound, by species (TBD).
-
----
-Tag: Characters from Adobebound
-Direct Descendant Tags:
-- Izzy (Adobebound)
-- Alice (Adobebound)
-- Fred (Adobebound)
-- Lyle (Adobebound)
-
-# Characters from Aleph Null, by species (TBD).
-
----
-Tag: Characters from Aleph Null
-Direct Descendant Tags:
-- Sauron (Aleph Null)
-- Falmea (Aleph Null)
-- Cyrusk (Aleph Null)
-- Cybele (Aleph Null)
-- Majell (Aleph Null)
-- Heltsm (Aleph Null)
-
-# Characters from Breadstuck, by species (TBD).
-
----
-Tag: Characters from Breadstuck
-Direct Descendant Tags:
-- Elli (Breadstuck)
-
-# Characters from Cool and New Music Team, by species (N/A).
-
----
-Tag: Characters from Cool and New Music Team
-Direct Descendant Tags:
-- Cool and New Music Team
-- CaNMT-Tan
-
-# Characters from Cool and New Web Comic, by species.
-
----
-Tag: Characters from Cool and New Web Comic
-Directory: characters-from-canwc
-Direct Descendant Tags:
-- Humans (CaNWC)
-- Trolls (CaNWC)
-- Carapacians (CaNWC)
-- Consorts (CaNWC)
-- Sprites (CaNWC)
-- First guardians (CaNWC)
-- More Characters (CaNWC)
----
-Tag: Carapacians (CaNWC)
-Direct Descendant Tags:
-- Hrates Bocars
-- Rubs Juice
-- Dacronian Dignity
-- Spdaes Sleck
----
-Tag: Consorts (CaNWC)
-Direct Descendant Tags:
-- Salamanders (CaNWC)
----
-Tag: First guardians (CaNWC)
-Direct Descendant Tags:
-- Beq
----
-Tag: Humans (CaNWC)
-Direct Descendant Tags:
-- Kids (CaNWC)
-- More humans (CaNWC)
----
-Tag: Kids (CaNWC)
-Direct Descendant Tags:
-- Jhon
-- Jaed
-- Dabe
-- Roze
----
-Tag: More Characters (CaNWC)
-Direct Descendant Tags:
-- Bunnie
----
-Tag: More humans (CaNWC)
-Direct Descendant Tags:
-- Femorafreack
-- Germy
-- Hecka Jef
-- Momi
-- Obana
-- Swet Bro
----
-Tag: Salamanders (CaNWC)
-Direct Descendant Tags:
-- Fresh Jimmy
----
-Tag: Sprites (CaNWC)
-Direct Descendant Tags:
-- Bg'ogubmom'ibulsprite
----
-Tag: Trolls (CaNWC)
-Direct Descendant Tags:
-- Kraket
-- Terexi
-- Vrasky
-- Equihorse
-- Gametez
-
-# Characters from Crossmound, by species.
-
----
-Tag: Characters from Crossmound
-Direct Descendant Tags:
-- Trolls (Crossmound)
-- Lusii (Crossmound)
----
-Tag: Lusii (Crossmound)
-Direct Descendant Tags:
-- Amenia's lusus (Crossmound)
-- Tahoma's lusus (Crossmound)
-- Egoize's lusus (Crossmound)
----
-Tag: Trolls (Crossmound)
-Direct Descendant Tags:
-- Tahbbi (Crossmound)
-- Amenia (Crossmound)
-- Meeraz (Crossmound)
-- Kimaiz (Crossmound)
-- Cladem (Crossmound)
-- Dejinn (Crossmound)
-- Elgiza (Crossmound)
-- Tahoma (Crossmound)
-- Lokere (Crossmound)
-- Dulcan (Crossmound)
-- Egoize (Crossmound)
-- Skerrt (Crossmound)
-
-# Characters from Desynced, by species.
-
----
-Tag: Characters from Desynced
-Direct Descendant Tags:
-- Humans (Desynced)
-- Scholars (Desynced)
-- Dragons (Desynced)
-- More characters from Desynced
----
-Tag: Dragons (Desynced)
-Description: |-
-    Note that this character list hasn't been reviewed yet! These might not be accurate character placements.
-Direct Descendant Tags:
-- Auranue (Desynced)
-- Baltro (Desynced)
-- Layssah (Desynced)
-- Maragi (Desynced)
-- Nelrith (Desynced)
-- Odelia (Desynced)
-- Pollyon (Desynced)
-- Romelia (Desynced)
-- Simsei (Desynced)
-- Tsanzer (Desynced)
----
-Tag: Humans (Desynced)
-Direct Descendant Tags:
-- Kate (Desynced)
-- Evan (Desynced)
-- Momo (Desynced)
-- Josh (Desynced)
-- Enid (Desynced)
-- Lee (Desynced)
-- Masky (Desynced)
-- Kade (Desynced)
----
-Tag: Scholars (Desynced)
-Direct Descendant Tags:
-- Gaea (Desynced)
-- Ananke (Desynced)
-- Hemera (Desynced)
-- Styx (Desynced)
-- Phoebe (Desynced)
----
-Tag: More characters from Desynced
-Direct Descendant Tags:
-- Lord Noir (Desynced)
-- Skaia (Desynced)
-- Van Black (Desynced)
-
-# Characters from EarthBound, by species (TBD).
-
----
-Tag: Characters from EarthBound
-Direct Descendant Tags:
-- Ness (EarthBound)
-- Paula (EarthBound)
-- Jeff (EarthBound)
-- Poo (EarthBound)
-
-# Characters from EarthBound Halloween Hack, by species (TBD).
-
----
-Tag: Characters from EarthBound Halloween Hack
-Direct Descendant Tags:
-- Varik (EBHH)
-
-# Characters from Fatebreak, by species (TBD).
-
----
-Tag: Characters from Fatebreak
-Direct Descendant Tags:
-- Cerida (Fatebreak)
-- Seytus (Fatebreak)
-- Silena (Fatebreak)
-- Oryyan (Fatebreak)
-- Syldis (Fatebreak)
-
-# Characters from The Flintstones, alphabetically
----
-Tag: Characters from The Flintstones
-Direct Descendant Tags:
-- Fred Flintstone
-
-# Characters from Friday Night Funkin', by species (TBD).
-
----
-Tag: Characters from Friday Night Funkin'
-Direct Descendant Tags:
-- Boyfriend (Friday Night Funkin')
-
-# Characters from Heinoustuck, by species.
-
----
-Tag: Characters from Heinoustuck
-Direct Descendant Tags:
-- Humans (Heinoustuck)
----
-Tag: Humans (Heinoustuck)
-Direct Descendant Tags:
-- John (Heinoustuck)
-- Rose (Heinoustuck)
-- Dave (Heinoustuck)
-- Jade (Heinoustuck)
-- Dad (Heinoustuck)
-
-# Characters from Hexane, by species (TBD).
-
----
-Tag: Characters from Hexane
-Direct Descendant Tags:
-- Emmy (Hexane)
-- Laraminia (Hexane)
-- Qamarkino (Hexane)
-- Theremina (Hexane)
-
 # Characters from Karkat Goes to a Convention, by species (TBD).
 
 ---
@@ -1346,14 +1349,27 @@ Tag: Characters from Karkat Goes to a Convention
 Direct Descendant Tags:
 - Dave Cosplayer (KGTAC)
 
-# Characters from Looney Tunes, by species (TBD)
+# Characters from Loftlocked, by species (TBD).
+
+---
+Tag: Characters from Loftlocked
+Direct Descendant Tags:
+- Carmen (Loftlocked)
+- Ella (Loftlocked)
+- Hellbrosprite (Loftlocked)
+- Lisa (Loftlocked)
+- Odi (Loftlocked)
+- Pat (Loftlocked)
+- Plink (Loftlocked)
+
+# Characters from Looney Tunes, by species (TBD).
 
 ---
 Tag: Characters from Looney Tunes
 Direct Descendant Tags:
 - Bugs Bunny
 
-# Characters from 'MIDNIGHT CREW: Beginning Of The End!', by species.
+# Characters from MIDNIGHT CREW: Beginning Of The End! by species.
 
 ---
 Tag: 'Characters from MIDNIGHT CREW: Beginning Of The End!'
@@ -1384,6 +1400,25 @@ Direct Descendant Tags:
 - Tamiaz (Moonsplit)
 - Zamora (Moonsplit)
 
+# Characters from MSPA, by species.
+
+---
+Tag: Characters from MSPA
+Direct Descendant Tags:
+- Humans (MSPA)
+- More characters from MSPA
+---
+Tag: Humans (MSPA)
+Direct Descendant Tags:
+- AH
+- Mobius Trip
+- Hadron Kaleido
+---
+Tag: More characters from MSPA
+Direct Descendant Tags:
+- MSPA Reader
+- Squiddles Girl
+
 # Characters from The NeverEnding Story, by species (TBD).
 
 ---
@@ -1401,6 +1436,7 @@ Direct Descendant Tags:
 - Seafolk (Oceanfalls)
 - Winged (Oceanfalls)
 - Celestials (Oceanfalls)
+- Spirits (Oceanfalls)
 - Animals (Oceanfalls)
 ---
 Tag: Humans (Oceanfalls)
@@ -1418,6 +1454,8 @@ Direct Descendant Tags:
 - Zachery (Oceanfalls)
 - Lady Oshen (Oceanfalls)
 - Ruta (Oceanfalls)
+- Dream Nino (Oceanfalls)
+- Nina (Oceanfalls)
 ---
 Tag: Monsters (Oceanfalls)
 Direct Descendant Tags:
@@ -1437,6 +1475,10 @@ Direct Descendant Tags:
 - Weddell (Oceanfalls)
 - Blackfin (Oceanfalls)
 - Onyx (Oceanfalls)
+---
+Tag: Spirits (Oceanfalls)
+Direct Descendant Tags:
+- Avery (Oceanfalls)
 ---
 Tag: Winged (Oceanfalls)
 Direct Descendant Tags:
@@ -1479,6 +1521,69 @@ Tag: Characters from Portal
 Direct Descendant Tags:
 - P-Body (Portal)
 - Atlas (Portal)
+
+# Characters from Problem Sleuth, by species (TBD).
+
+---
+Tag: Characters from Problem Sleuth
+Direct Descendant Tags:
+- Problem Sleuth
+- Ace Dick
+- Pickle Inspector
+- Mobster Kingpin
+- Nervous Broad
+- Death
+- Demimonde Goddess
+
+# Characters from Redditstuck, by species.
+
+---
+Tag: Characters from Redditstuck
+Direct Descendant Tags:
+- Humans (Redditstuck)
+- Sprites (Redditstuck)
+- More characters from Redditstuck
+---
+Tag: Human guardians (Redditstuck)
+Direct Descendant Tags:
+- BKEW (Redditstuck)
+- Chelsea's sis (Redditstuck)
+---
+Tag: Humans (Redditstuck)
+Direct Descendant Tags:
+- Human players (Redditstuck)
+- Human guardians (Redditstuck)
+---
+Tag: Human players (Redditstuck)
+Direct Descendant Tags:
+- Luke (Redditstuck)
+- Sly (Redditstuck)
+- Chelsea (Redditstuck)
+- Sev (Redditstuck)
+- Emily (Redditstuck)
+- Evan (Redditstuck)
+- Tom (Redditstuck)
+- Anton (Redditstuck)
+- Jay (Redditstuck)
+- Pete (Redditstuck)
+- Josh (Redditstuck)
+- Sunil (Redditstuck)
+---
+Tag: Sprites (Redditstuck)
+Direct Descendant Tags:
+- Tomesprite (Redditstuck)
+---
+Tag: More characters from Redditstuck
+Direct Descendant Tags:
+- Altair (Redditstuck)
+- Eve (Redditstuck)
+
+# Characters from Riddle of Dixy, by species (TBD).
+
+---
+Tag: Characters from Riddle of Dixy
+Direct Descendant Tags:
+- Tarlan (Riddle of Dixy)
 
 # Characters from SBaHJ, by species.
 
@@ -1655,7 +1760,7 @@ Direct Descendant Tags:
 - The Static (Vast Error)
 - White Noise (Vast Error)
 
-# Characters from Vocaloid, no species
+# Characters from Vocaloid (species N/A).
 
 ---
 Tag: Characters from Vocaloid
@@ -1707,11 +1812,11 @@ Direct Descendant Tags:
 - Humans (Desynced)
 - Humans (Heinoustuck)
 - Humans (Hiveswap)
-- Humans (The Homestuck Epilogues - Candy)
-- Humans (The Homestuck Epilogues - Meat)
+- Humans (The Homestuck Epilogues)
 - Humans (Homestuck)
 - 'Humans (MIDNIGHT CREW: Beginning Of The End!)'
 - Humans (MSPA)
+- Humans (Redditstuck)
 - Humans (Oceanfalls)
 - Humans (Tumblrstuck)
 - Real-world humans
@@ -1732,7 +1837,7 @@ Direct Descendant Tags:
 - Michael Jordan
 - Nicolas Cage
 - Rick Astley
-- RJ Lake
+- rj lake
 - Rob Cantor
 - Ross Federman
 - Scott Stutzman
@@ -1747,8 +1852,7 @@ Direct Descendant Tags:
 - Trolls (Crossmound)
 - Trolls (Hiveswap)
 - Trolls (Homestuck)
-- Trolls (The Homestuck Epilogues - Meat)
-- Trolls (The Homestuck Epilogues - Candy)
+- Trolls (The Homestuck Epilogues)
 - Trolls (Team Paradox)
 - Trolls (Tumblrstuck)
 - Trolls (Vast Error)
@@ -1844,14 +1948,19 @@ Direct Descendant Tags:
 - Kernelsprite
 - Sprites (CaNWC)
 - Sprites (Homestuck)
+- Sprites (Redditstuck)
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Sprite
+---
+Tag: Imperial Drones
+Color: '#fb0332'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Drone
 ---
 Tag: Robots
 Direct Descendant Tags:
 - Robots (Homestuck)
-- Robots (The Homestuck Epilogues - Meat)
-- Robots (The Homestuck Epilogues - Candy)
+- Robots (The Homestuck Epilogues)
 ---
 Tag: Ghosts
 Direct Descendant Tags:
@@ -1868,10 +1977,98 @@ Tag: Troll ghosts
 Direct Descendant Tags:
 - Troll ghosts (Homestuck)
 ---
-Tag: Squiddles
-Color: '#cb87f6'
+Tag: Animal species
+Direct Descendant Tags:
+- Birds & avians
+- Bugs & insects
+- Land animals
+- Marine animals
+- Amphibians
+---
+Tag: Birds & avians
+Direct Descendant Tags:
+- Crows
+- Eagles
+- Hummingbirds
+---
+Tag: Crows
+Color: '#ee3333'
+---
+Tag: Eagles
+Color: '#eddc28'
+---
+Tag: Hummingbirds
+Color: '#ec73ed'
+---
+Tag: Bugs & insects
+Direct Descendant Tags:
+- Bees
+- Wasps
+- Fireflies
+---
+Tag: Bees
+Color: '#fcba03'
+---
+Tag: Wasps
+Color: '#e7e01f'
+---
+Tag: Fireflies
+Color: '#e3ff2b'
+Direct Descendant Tags:
+- Fireflies (Homestuck)
+---
+Tag: Land animals
+Direct Descendant Tags:
+- Cats
+- Dogs
+- Horses
+---
+Tag: Cats
+Color: '#eee333'
+Direct Descendant Tags:
+- Cats (Homestuck)
+- Cats (Oceanfalls)
+---
+Tag: Dogs
+Color: '#333eee'
+Direct Descendant Tags:
+- Dogs (Oceanfalls)
+---
+Tag: Horses
+Color: '#c76e26'
+Direct Descendant Tags:
+- Horses (Homestuck)
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Squiddles
+- https://mspaintadventures.fandom.com/wiki/Horse
+---
+Tag: Marine animals
+Direct Descendant Tags:
+- Cuttlefish
+- Dolphins
+---
+Tag: Cuttlefish
+Color: '#66ce77'
+---
+Tag: Dolphins
+Color: '#8087ed'
+---
+Tag: Amphibians
+Direct Descendant Tags:
+- Frogs
+---
+Tag: Frogs
+Color: '#06ffc9'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Frog
+---
+Tag: Plant species
+Direct Descendant Tags:
+- Pumpkin
+---
+Tag: Pumpkin
+Direct Descendant Tags:
+- What Pumpkin?
+Color: '#ff7f27'
 
 # -------------------------------------
 #  General groupings.
@@ -1928,6 +2125,14 @@ Direct Descendant Tags:
 #
 
 ---
+Tag: Tally Hall
+Direct Descendant Tags:
+- Rob Cantor
+- Joe Hawley
+- Andrew Horowitz
+- Zubin Sedghi
+- Ross Federman
+---
 Tag: The Felt
 Direct Descendant Tags:
 - Lord English
@@ -1958,14 +2163,6 @@ Direct Descendant Tags:
 - CD
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Midnight_Crew
----
-Tag: Tally Hall
-Direct Descendant Tags:
-- Rob Cantor
-- Joe Hawley
-- Andrew Horowitz
-- Zubin Sedghi
-- Ross Federman
 
 # -------------------------------------
 #  Individual character entries.
@@ -1976,12 +2173,345 @@ Direct Descendant Tags:
 #  versions or variants of individual characters.)
 #
 #  Every character belongs to ONE "characters from media" entry.
-#  These are sectioned accordingly, matching the top-to-bottom same
-#  order as "characters from media", and then sorted ALPHABETICALLY.
+#  These are sectioned accordingly; the sections are ordered
+#  alphabetically, and so are their contents.
 #
-#  There is no further subsectioning for this area - entries here
-#  ARE NOT organized by species. Only by media.
-#
+
+# Characters from Adobebound.
+
+---
+Tag: Alice (Adobebound)
+Color: '#F71434'
+---
+Tag: Fred (Adobebound)
+Color: '#fc660f'
+---
+Tag: Izzy (Adobebound)
+Color: '#8EF664'
+---
+Tag: Lyle (Adobebound)
+Color: '#454A82'
+
+# Characters from Aleph Null.
+
+---
+Tag: Cybele (Aleph Null)
+Color: '#588a00'
+---
+Tag: Cyrusk (Aleph Null)
+Color: '#c36100'
+---
+Tag: Falmea (Aleph Null)
+Color: '#d60000'
+---
+Tag: Heltsm (Aleph Null)
+Color: '#c900c2'
+---
+Tag: Majell (Aleph Null)
+Color: '#0e9bd8'
+---
+Tag: Sauron (Aleph Null)
+Color: '#aa0000'
+
+# Characters from Alternian Misadventures!
+
+---
+Tag: Dev (Alternian Misadventures!)
+Color: '#c1c758'
+
+# Characters from Breadstuck.
+
+---
+Tag: Elli (Breadstuck)
+Color: '#C3C3C3'
+
+# Characters from Cool and New Music Team.
+
+---
+Tag: CANMT-Tan
+Color: '#2d79db'
+---
+Tag: Cool and New Music Team
+Color: '#8e6be5'
+
+# Characters from Cool and New Web Comic.
+
+---
+Tag: Beq
+Color: '#e0e0e0'
+---
+Tag: Bg'ogubmom'ibulsprite
+Color: '#ff6ff2'
+---
+Tag: Bunnie
+Color: '#ffde55'
+---
+Tag: Dabe
+Color: '#e00707'
+---
+Tag: Dacronian Dignity
+Color: '#c39797'
+---
+Tag: Dadd
+Color: '#e0e0e0'
+---
+Tag: Equihorse
+Color: '#487aef'
+---
+Tag: Femorafreack
+Color: '#e0e0e0'
+---
+Tag: Fresh Jimmy
+Color: '#ffff00'
+---
+Tag: Gametez
+Color: '#a34bff'
+---
+Tag: Germy
+Color: '#f34a5e'
+---
+Tag: Hecka Jef
+Color: '#f34a5e'
+---
+Tag: Hrates Bocars
+Color: '#bf0000'
+---
+Tag: Jaed
+Color: '#4ac925'
+---
+Tag: Jhon
+Color: '#666fe9'
+---
+Tag: Kraket
+Color: '#7c7e81'
+---
+Tag: Momi
+Color: '#ff6ff2'
+---
+Tag: Obana
+Color: '#a47b54'
+---
+Tag: Rubs Juice
+Color: '#a8a8a8'
+---
+Tag: Roze
+Color: '#b536da'
+---
+Tag: Spdaes Sleck
+Color: '#8a8a8a'
+---
+Tag: Swet Bro
+Color: '#f34a5e'
+---
+Tag: Terexi
+Color: '#008b8b'
+---
+Tag: Vrasky
+Color: '#3796c6'
+
+# Characters from Crossmound.
+
+---
+Tag: Tahbbi (Crossmound)
+Color: '#7c7e81'
+---
+Tag: Amenia (Crossmound)
+Color: '#eb0000'
+---
+Tag: Amenia's lusus (Crossmound)
+Color: '#eb0000'
+---
+Tag: Meeraz (Crossmound)
+Color: '#c36100'
+---
+Tag: Kimaiz (Crossmound)
+Color: '#a1a100'
+---
+Tag: Cladem (Crossmound)
+Color: '#80A300'
+---
+Tag: Dejinn (Crossmound)
+Color: '#588a00'
+---
+Tag: Elgiza (Crossmound)
+Color: '#008f48'
+---
+Tag: Tahoma (Crossmound)
+Color: '#008b8b'
+---
+Tag: Tahoma's lusus (Crossmound)
+Color: '#008b8b'
+---
+Tag: Lokere (Crossmound)
+Color: '#3796c6'
+---
+Tag: Dulcan (Crossmound)
+Color: '#487aef'
+---
+Tag: Egoize (Crossmound)
+Color: '#db00db'
+---
+Tag: Egoize's lusus (Crossmound)
+Color: '#db00db'
+---
+Tag: Skerrt (Crossmound)
+Color: '#e30072'
+
+# Characters from Crud Spade.
+
+---
+Tag: Mayonaka (Crud Spade)
+Color: '#FB0301'
+
+# Characters from Desynced.
+
+---
+Tag: Ananke (Desynced)
+Color: '#e9139c'
+---
+Tag: Auranue (Desynced)
+Color: '#d24c91'
+---
+Tag: Baltro (Desynced)
+Color: '#a009c7'
+---
+Tag: Enid (Desynced)
+Color: '#fba500'
+---
+Tag: Evan (Desynced)
+Color: '#6a6afa'
+---
+Tag: Gaea (Desynced)
+Color: '#3091ef'
+---
+Tag: Hemera (Desynced)
+Color: '#f8701e'
+---
+Tag: Kade (Desynced)
+Color: '#a75ec0'
+---
+Tag: Kate (Desynced)
+Color: '#ce3382'
+---
+Tag: Josh (Desynced)
+Color: '#1cdd8d'
+---
+Tag: Layssah (Desynced)
+Color: '#ff002e'
+---
+Tag: Lee (Desynced)
+Color: '#5771f1'
+---
+Tag: Lord Noir (Desynced)
+Color: '#a3a3a3'
+---
+Tag: Maragi (Desynced)
+Color: '#b7e077'
+---
+Tag: Masky (Desynced)
+Color: '#e9e9e9'
+---
+Tag: Momo (Desynced)
+Color: '#dd1c1c'
+---
+Tag: Nelrith (Desynced)
+Color: '#e97534'
+---
+Tag: Odelia (Desynced)
+Color: '#ffb457'
+---
+Tag: Phoebe (Desynced)
+Color: '#ffc331'
+---
+Tag: Pollyon (Desynced)
+Color: '#c72aa3'
+---
+Tag: Romelia (Desynced)
+Color: '#53b8c0'
+---
+Tag: Simsei (Desynced)
+Color: '#6256d3'
+---
+Tag: Skaia (Desynced)
+Color: '#fff2d7'
+---
+Tag: Styx (Desynced)
+Color: '#d9000b'
+---
+Tag: Tsanzer (Desynced)
+Color: '#76d972'
+---
+Tag: Van Black (Desynced)
+Color: '#c91ef7'
+
+# Characters from Fatebreak.
+
+---
+Tag: Cerida (Fatebreak)
+Color: '#B0B7A5'
+---
+Tag: Oryyan (Fatebreak)
+Color: '#487aef'
+---
+Tag: Seytus (Fatebreak)
+Color: '#588a00'
+---
+Tag: Silena (Fatebreak)
+Color: '#008f48'
+---
+Tag: Syldis (Fatebreak)
+Color: '#db00db'
+
+# Characters from Heinoustuck.
+
+---
+Tag: Dad (Heinoustuck)
+Color: '#ffffff'
+---
+Tag: Dave (Heinoustuck)
+Color: '#e00707'
+---
+Tag: Jade (Heinoustuck)
+Color: '#4ac925'
+---
+Tag: John (Heinoustuck)
+Color: '#666fe9'
+---
+Tag: Rose (Heinoustuck)
+Color: '#b536da'
+
+# Characters from Hexane.
+
+---
+Tag: Emmy (Hexane)
+Color: '#BC00BE'
+---
+Tag: Laraminia (Hexane)
+Color: '#99389A'
+---
+Tag: Qamarkino (Hexane)
+Color: '#A52222'
+---
+Tag: Theremina (Hexane)
+Color: '#22A52B'
+
+# Characters from Freeroam.
+
+---
+Tag: Arron (Freeroam)
+Color: '#38f04f'
+---
+Tag: Keira (Freeroam)
+Color: '#fdae2c'
+---
+Tag: Jason (Freeroam)
+Color: '#617fff'
+---
+Tag: Hazel (Freeroam)
+Color: '#898989'
+---
+Tag: Starmansprite (Freeroam)
+Color: '#30cf44'
 
 # Characters from Homestuck.
 
@@ -1999,8 +2529,16 @@ Color: '#eb0000'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Aradia_Megido
 ---
+Tag: Aradia (ghost)
+Color: '#eb0000'
+---
 Tag: Aradia's lusus
 Color: '#eb0000'
+---
+Tag: Aradia's Soulbot
+Color: '#838383'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Robotics#Aradia's_Soulbot
 ---
 Tag: Aranea
 Color: '#3796c6'
@@ -2024,6 +2562,10 @@ Tag: BK
 Color: '#7b7b7b'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Black_King
+---
+Tag: Brobot
+Color: '#e0e0e0'
+Extra Reading URLs:
 ---
 Tag: BQ
 Color: '#7b7b7b'
@@ -2067,6 +2609,11 @@ Extra Reading URLs:
 Tag: Clover
 Color: '#a357ff'
 ---
+Tag: The Condesce
+Color: '#e30072'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/The_Condesce
+---
 Tag: Cronus
 Color: '#db00db'
 Extra Reading URLs:
@@ -2074,6 +2621,9 @@ Extra Reading URLs:
 ---
 Tag: Crowbar
 Color: '#c4011d'
+---
+Tag: Crowsprite
+Color: '#f2a400'
 ---
 Tag: Dad
 Color: '#e0e0e0'
@@ -2126,8 +2676,18 @@ Color: '#e00707'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Dave_Strider_(post-scratch)
 ---
+Tag: The Disciple
+Color: '#588a00'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Meulin_Leijon_(post-scratch)
+---
 Tag: Doc Scratch
 Color: '#e0e0e0'
+---
+Tag: The Dolorosa
+Color: '#008f48'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Porrim_Maryam_(post-scratch)
 ---
 Tag: Doze
 Color: '#4040fd'
@@ -2150,6 +2710,9 @@ Color: '#487aef'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Equius_Zahhak
 ---
+Tag: Equius' bots
+Color: '#487aef'
+---
 Tag: Equius' lusus
 Color: '#487aef'
 ---
@@ -2160,6 +2723,11 @@ Extra Reading URLs:
 ---
 Tag: Eridan's lusus
 Color: '#db00db'
+---
+Tag: The Expatriate
+Color: '#487aef'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Horuss_Zahhak_(post-scratch)
 ---
 Tag: Feferi
 Color: '#e30072'
@@ -2184,6 +2752,19 @@ Tag: God Cat
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/God_Cat
+---
+Tag: The Grand Highblood
+Color: '#a34bff'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Kurloz_Makara_(post-scratch)
+---
+Tag: Hal
+Color: '#e00707'
+---
+Tag: The Handmaid
+Color: '#eb0000'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Damara_Megido_(post-scratch)
 ---
 Tag: Harlequinsprite
 Color: '#00d5f2'
@@ -2253,6 +2834,9 @@ Color: '#f141ef'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Jaspers
 ---
+Tag: Jaspersprite
+Color: '#f141ef'
+---
 Tag: Jasprose
 Color: '#b536da'
 Extra Reading URLs:
@@ -2288,6 +2872,11 @@ Extra Reading URLs:
 ---
 Tag: Karkat's lusus
 Color: '#7c7e81'
+---
+Tag: Kernelsprite
+Color: '#ececec'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sprite#Prototyping
 ---
 Tag: Kurloz
 Color: '#a34bff'
@@ -2333,6 +2922,9 @@ Color: '#3796c6'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Aranea_Serket_(post-scratch)
 ---
+Tag: Nannasprite
+Color: '#00d5f2'
+---
 Tag: Nepeta
 Color: '#588a00'
 Extra Reading URLs:
@@ -2350,6 +2942,11 @@ Tag: Porrim
 Color: '#008f48'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Porrim_Maryam
+---
+Tag: The Psiioniic
+Color: '#a1a100'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Mituna_Captor_(post-scratch)
 ---
 Tag: Pyralspite
 Color: '#ff2106'
@@ -2395,6 +2992,11 @@ Extra Reading URLs:
 Tag: Sawbuck
 Color: '#4040fd'
 ---
+Tag: Sawtooth
+Color: '#a7a7a7'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sawtooth
+---
 Tag: Secret Wizard
 Color: '#fefb71'
 Extra Reading URLs:
@@ -2404,6 +3006,11 @@ Tag: Serenity
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Serenity
+---
+Tag: The Signless
+Color: '#7c7e81'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Kankri_Vantas_(post-scratch)
 ---
 Tag: Snowman
 Color: '#e0e0e0'
@@ -2418,13 +3025,28 @@ Extra Reading URLs:
 Tag: Sollux's lusus
 Color: '#a1a100'
 ---
+Tag: Squarewave
+Color: '#ff0000'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Squarewave
+---
 Tag: Stitch
 Color: '#ffea00'
+---
+Tag: The Summoner
+Color: '#c36100'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rufioh_Nitram_(post-scratch)
 ---
 Tag: Tavros
 Color: '#c36100'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Tavros_Nitram
+---
+Tag: Tavrisprite
+Color: '#3b47f7'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Tavrisprite
 ---
 Tag: Tavros' lusus
 Color: '#c36100'
@@ -2433,51 +3055,6 @@ Tag: Terezi
 Color: '#008b8b'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Terezi_Pyrope
----
-Tag: The Condesce
-Color: '#e30072'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/The_Condesce
----
-Tag: The Disciple
-Color: '#588a00'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Meulin_Leijon_(post-scratch)
----
-Tag: The Dolorosa
-Color: '#008f48'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Porrim_Maryam_(post-scratch)
----
-Tag: The Expatriate
-Color: '#487aef'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Horuss_Zahhak_(post-scratch)
----
-Tag: The Grand Highblood
-Color: '#a34bff'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Kurloz_Makara_(post-scratch)
----
-Tag: The Handmaid
-Color: '#eb0000'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Damara_Megido_(post-scratch)
----
-Tag: The Psiioniic
-Color: '#a1a100'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Mituna_Captor_(post-scratch)
----
-Tag: The Signless
-Color: '#7c7e81'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Kankri_Vantas_(post-scratch)
----
-Tag: The Summoner
-Color: '#c36100'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Rufioh_Nitram_(post-scratch)
 ---
 Tag: Trace
 Color: '#df0000'
@@ -2722,512 +3299,47 @@ Color: '#6464ff'
 # Characters from The Homestuck Epilogues.
 
 ---
-Tag: Aradia (Candy)
-Color: '#eb0000'
-# Description: |-
-#     *(Stub description.)* Becomes besties with [[tag:alternate-calliope]] by discussing the practical theory of canon and beyond, and goes to space with her and [[tag:davebot-candy]].
----
-Tag: Dave (Candy)
-Color: '#e00707'
-# Description: |-
-#     *(Stub description.)* Has problems about [[tag:dirk-candy|his brother dying]]. Gets in a relationship with [[tag:jade-candy|Jade]] and [[tag:karkat-candy|Karkat]], which dissolves for war reasons, then meets [[tag:barack-obama|Obama]], dies and becomes a [[tag:davebot-candy|robot]], and screws off without saying goodbye.
----
-Tag: Davebot (Candy)
-Color: '#e00707'
-# Description: |-
-#     *(Stub description.)* Goes to space and hangs out with [[tag:aradia-candy|Aradia]] and [[tag:alternate-calliope|Jade-flavored Alternate Calliope]].
----
-Tag: Dave (Meat)
-Color: '#e00707'
----
-Tag: Dirk (Candy)
-Color: '#f2a400'
-# Description: |-
-#     Dirk stands on the precipice of [[tag:dirk-meat|his own ascension]], and then [[tag:john-candy|everything goes wrong]]. It's not long before he makes good on his eternal principles and commits a final act of egoistic relevance in a wholly meaningless world.
----
-Tag: Dirk (Meat)
-Color: '#f2a400'
-# Description: |-
-#     Dirk takes over the goddamn narrative. The Meat epilogue is, as he'd probably describe it, merely his own prologue. He [[tag:rose-meat|assists Rose during her ascension]], [[tag:kanaya-meat|makes a widow of her wife]], [[tag:jane-meat|helps Jane <em>nearly</em> win an election]], [[tag:jake-meat|leaves his own boyfriend behind forever]], and [[tag:the-theseus|embarks for a new world]].
----
-Tag: Gamzee (Meat)
-Color: '#a34bff'
-# Description: |-
-#     Lands very, very early on in the Candy timeline, where he fortuitously causes everything to be great. [[tag:jane-candy|Gets involved with Jane]] ([[tag:jake-candy|and Jake, too]]), [[tag:tavvy|names a troll pupa Tavros]], and [[tag:vriska-meat|has less than dubious interactions with Vriska]].
----
 Tag: Harry
 Color: '#0671cd'
 ---
-Tag: Jade (Candy)
-Color: '#4ac925'
-# Description: |-
-#     *(Stub description.)* May or may not be responsible for finally roping [[tag:dave-meat|Dave]] and [[tag:karkat-meat|Karkat]] together... with herself in the middle. Very concerned for [[tag:jake-meat|Jake's family situation]].
----
-Tag: Jade (Meat)
-Color: '#4ac925'
-# Description: |-
-#     *(Stub description.)* Is sick of dating for fun. Is very loud about big feelings between Dave and Karkat (who just won't get over it already), listens to Roxy and Callie about gender feelings, then passes the fuck out for twenty chapters to become a comatose vessel for [[tag:alternate-calliope]].
----
-Tag: Jake (Candy)
-Color: '#1f9400'
-# Description: |-
-#     Grives the passing of [[tag:dirk-candy|Dirk]] and gets in a relationship with [[tag:jane-candy|a dictator]] and [[tag:gamzee-meat|a clown]]. Raises [[tag:tavvy]] and eventually leaves, taking refuge at [[tag:john-candy|John's place]].
----
-Tag: Jake (Meat)
-Color: '#1f9400'
-# Description: |-
-#     *(Stub description.)* Is best brawling bros with [[tag:dirk-meat|Dirk]], until he gets left behind. Struggles with being a sexual figure in the (distressingly attentive) public.
----
-Tag: Jane (Candy)
-Color: '#00d5f2'
-# Description: |-
-#     *(Stub description.)* Takes de facto control over the government and puts in grave policies for the future of trolls. Has a lot of family circumstances with [[tag:jake-candy|Jake]] and [[tag:gamzee-candy|Candy]], and adopts and raises [[tag:tavvy|Tavvy (née Tavros)]].
----
-Tag: Jane (Meat)
-Color: '#00d5f2'
-# Description: |-
-#     *(Stub description.)* Campaigns and wins an election, with the help of [[tag:dirk-meat|Dirk]].
----
-Tag: John (Candy)
-Color: '#5c66e8'
-# Description: |-
-#     John decides to stick around in the Candy timeline, and ends up marrying [[tag:roxy-candy|Roxy]], with whom he leads a completely idyllic life, fathering [[tag:harry|a perfect son]]. [[tag:jade-candy|He never]] [[tag:jane-candy|has even]] [[tag:jake-candy|a single]] [[tag:gamzee-meat|concern]], [[tag:karkat-candy|doesn't join a rebellion]], and [[tag:terezi-meat|feels normal]] [[tag:vriska-meat|about everything]].
----
-Tag: John (Meat)
-Color: '#5c66e8'
-# Description: |-
-#     John leaves the Meat timeline behind to battle Lord English. During this fight, he's wounded mortally, but he doesn't die until having floated in the void for a while, made [[tag:meenah-meat|new]] and [[tag:terezi-meat|old acquaintences]], zapped back to Earth C, and gotten halfway through a love confession.
----
-Tag: Kanaya (Candy)
-Color: '#008f48'
-# Description: |-
-#     *(Stub description.)* Wife of [[tag:rose-candy]], with whom she raises [[tag:vrissy]].
----
-Tag: Kanaya (Meat)
-Color: '#008f48'
-# Description: |-
-#     Kanaya struggles to support [[tag:rose-meat|her wife]], whose physical condition worsens by the day. The invasive presence of a certain [[tag:dirk-meat|narrator]] certainly doesn't help, and when he goes ahead and steals Rose on [[tag:the-theseus|a freaking rocket ship]], she's pissed. She joins [[tag:karkat-meat|Karkat]], [[tag:jade-meat|one possessed Jade]], and [[tag:dave-meat|more]] [[tag:roxy-meat|friends]] to get her back.
----
-Tag: Meenah (Meat)
-Color: '#e30072'
-# Description: |-
-#     Meenah joins a certain [[tag:vriska-meat|post-retcon cerulean blood]] in the battle against Lord English, but doesn't fare much better. After a choice encounter with one [[tag:john-meat|wounded and e'er-naive Egbert]], she snags his life ring and makes for oblivion. Landing in the Candy timeline on the other side of the black hole, she promptly teams up with [[tag:karkat-candy|"Commander" Karkat]]. Why not?
----
-Tag: Karkat (Candy)
-Color: '#7c7e81'
-# Description: |-
-#     Karkat cares endlessly about those around him - especially [[tag:dave-candy|Dave]] and [[tag:jade-candy|Jade]], both of whom he's dating, somehow - but [[tag:jane-candy|one major influencer with dictatorial tendencies]] is posing a serious threat to his entire race, and he isn't going to go down without a fight. Though he'd never admit it, he has a knack for bringing people together, and (with the help of [[tag:meenah-meat|an unexpected recruit]]) [[track:universal-remission|wages war]].
----
-Tag: Rose (Candy)
+Tag: Rosebot
 Color: '#b536da'
-# Description: |-
-#     *(Stub description.)* Married to [[tag:kanaya-candy]] and raises [[tag:vrissy]] with her. Carries and secretly raises a [[tag:yiffy|surrogate daughter]] with [[tag:jade-candy|Jade]].
----
-Tag: Rose (Meat)
-Color: '#b536da'
-# Description: |-
-#     In the Meat timeline, Rose gradually approaches a comprehensive understanding of her Ultimate Self, and her mortal body, apparently failing to support this, worsens in condition by the day. Soon enough, she arrives at [[tag:dirk-meat|Dirk's]] place; having been guided past the threshold, she bids farewell to her [[tag:kanaya-meat|somewhat unimpressed wife]], finds her consciousness transferred to [[tag:rosebot-meat|a more permanent form]], and joins Dirk on a [[tag:the-theseus|journey]] to create [[tag:deltritus|a new world]].
----
-Tag: Rosebot (Meat)
-Color: '#b536da'
-# Description: |-
-#     Having reached her Ultimate Self, Rose leaves behind [[tag:rose-meat|her mortal form]] ([[track:postscript-sugar-mix|artificially sustained]]) and, more or less, becomes a robot. She, [[tag:dirk-meat|Dirk]], and [[tag:terezi-meat|one stowaway troll]] set out to create a new world on [[tag:deltritus|a new planet]].
----
-Tag: Roxy (Candy)
-Color: '#ff6ff2'
-# Description: |-
-#     *(Stub description.)* Marries [[tag:john-candy|John]] and raises their son [[tag:harry]] with him, until they break up, though they eventually come to good terms and chat about gender and sexuality.
----
-Tag: Roxy (Meat)
-Color: '#ff6ff2'
-# Description: |-
-#     *(Stub description.)* Transes his gender like it's no one's business. Joins [[tag:kanaya-meat|Kanaya]] and co. on a trip to rescue [[tag:rose-meat|her wife]].
 ---
 Tag: Tavvy
 Color: '#a44bff'
-# Description: |-
-#     *(Stub description.)* Adopted son of [[tag:jane-candy]], [[tag:jake-candy]], and, unfortunately, [[tag:gamzee-meat]]. Is roped into hijinks with [[tag:vrissy]] and [[tag:harry]].
----
-Tag: Terezi (Meat)
-Color: '#008b8b'
-# Description: |-
-#     Since Terezi's hunting down Vriska (without much success) and away from Earth C when John makes his fateful decision, there's only one of her who appears throughout the Homestuck Epilogues. After travelling the void, she returns with [[tag:john-meat|John]] to the Earth C of the Meat timeline, and eventually joins [[tag:dirk-meat|Dirk]] and [[tag:rosebot-meat|Rose]] on [[tag:the-theseus|their journey]] to create [[tag:deltritus|a new world]].
----
-Tag: Vriska (Meat)
-Color: '#3796c6'
-# Description: |-
-#     Vriska's about to win the most important battle in the history of Paradox Space when fate twists cruelly, and she finds herself hurtling past the [[Irrelevance Event Horizon|irrelevance event horizon]]. She pops out the other end on Earth C in the Candy timeline, and although this world is [[tag:john-candy|complete]] and [[tag:jane-candy|utter]] [[tag:karkat-candy|bullshit]], she ends up [[tag:vrissy|making a friend]] and [[tag:terezi-meat|reaching out]] anyway - just not without [[tag:gamzee-meat|a scratch or two along the way]].
 ---
 Tag: Vrissy
 Color: '#3796c6'
-# Description: |-
-#     *(Stub description.)* Adopted daughter of [[tag:rose-candy]] and [[tag:kanaya-candy]]. Gets into shenanigans with [[tag:harry]] and [[tag:tavvy]].
-
-# Characters from Problem Sleuth.
-
----
-Tag: Ace Dick
-Color: '#ed0101'
----
-Tag: Pickle Inspector
-Color: '#3960f0'
----
-Tag: Problem Sleuth
-Color: '#26cb68'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Problem_Sleuth_(character)
----
-Tag: Mobster Kingpin
-Color: '#dc10fc'
----
-Tag: Nervous Broad
-Color: '#26cb68'
----
-Tag: Death
-Color: '#222222'
----
-Tag: Demimonde Goddess
-Color: '#47c5ff'
-# More characters from MSPA.
-
----
-Tag: AH
-Color: '#e0e0e0'
----
-Tag: Geromy
-Color: '#fffe34'
----
-Tag: Hadron Kaleido
-Color: '#ff01fe'
----
-Tag: Hella Jeff
-Color: '#4570ff'
----
-Tag: Mobius Trip
-Color: '#ffff01'
----
-Tag: MSPA Reader
-Color: '#e0e0e0'
----
-Tag: Squiddles Girl
-Color: '#de0286'
-Description: |-
-    Not officially a character of her own, the Squiddles Girl, mysteriously manifest in the track art for [[track:ocean-stars-falling]], is <a href="https://forgottenhsfacts.tumblr.com/post/144839853814/who-is-on-the-cover-art-of-ocean-stars-falling-in">quite</a> <a href="https://www.reddit.com/r/homestuck/comments/162zqa1/track_art_for_ocean_stars_falling_who_is_this/">the</a> <a href="https://www.youtube.com/watch?v=QmEZzp7o8i8&lc=UgzHTEp089uPbq7nMIh4AaABAg">enigma</a>. What's present of her design lines up [[media:misc/magical-squiddles-girl.jpg|quite closely]] with one of the magical girls of [[flash:squiddlevid]], a flash that was bundled with the release of [[album:squiddles]] back in 2010. She may or may not be experiencing a <a href="https://www.tumblr.com/feengoid/721155997772791808/squiddle-girl-from-ocean-stars-falling">recent</a> <a href="https://www.tumblr.com/spaghettidismay/723199915010965504/i-dont-really-like-how-it-turned-out-but-anywayyy">resurgence</a>.
----
-Tag: Sweet Bro
-Color: '#e6032e'
-
-# Characters from Adobebound.
-
----
-Tag: Alice (Adobebound)
-Color: '#F71434'
----
-Tag: Fred (Adobebound)
-Color: '#fc660f'
----
-Tag: Izzy (Adobebound)
-Color: '#8EF664'
----
-Tag: Lyle (Adobebound)
-Color: '#454A82'
-
-# Characters from Aleph Null.
-
----
-Tag: Cybele (Aleph Null)
-Color: '#588a00'
----
-Tag: Cyrusk (Aleph Null)
-Color: '#c36100'
----
-Tag: Falmea (Aleph Null)
-Color: '#d60000'
----
-Tag: Heltsm (Aleph Null)
-Color: '#c900c2'
----
-Tag: Majell (Aleph Null)
-Color: '#0e9bd8'
----
-Tag: Sauron (Aleph Null)
-Color: '#aa0000'
-
-# Characters from Breadstuck.
-
----
-Tag: Elli (Breadstuck)
-Color: '#C3C3C3'
-
-# Characters from Cool and New Music Team.
-
----
-Tag: CANMT-Tan
-Color: '#2d79db'
----
-Tag: Cool and New Music Team
-Color: '#8e6be5'
-
-# Characters from Cool and New Web Comic.
-
----
-Tag: Beq
-Color: '#e0e0e0'
----
-Tag: Bg'ogubmom'ibulsprite
-Color: '#ff6ff2'
----
-Tag: Bunnie
-Color: '#ffde55'
----
-Tag: Dabe
-Color: '#e00707'
----
-Tag: Dacronian Dignity
-Color: '#c39797'
----
-Tag: Dadd
-Color: '#e0e0e0'
----
-Tag: Equihorse
-Color: '#487aef'
----
-Tag: Femorafreack
-Color: '#e0e0e0'
----
-Tag: Fresh Jimmy
-Color: '#ffff00'
----
-Tag: Gametez
-Color: '#a34bff'
----
-Tag: Germy
-Color: '#f34a5e'
----
-Tag: Hecka Jef
-Color: '#f34a5e'
----
-Tag: Hrates Bocars
-Color: '#bf0000'
----
-Tag: Jaed
-Color: '#4ac925'
----
-Tag: Jhon
-Color: '#666fe9'
----
-Tag: Kraket
-Color: '#7c7e81'
----
-Tag: Momi
-Color: '#ff6ff2'
----
-Tag: Obana
-Color: '#a47b54'
----
-Tag: Rubs Juice
-Color: '#a8a8a8'
----
-Tag: Roze
-Color: '#b536da'
----
-Tag: Spdaes Sleck
-Color: '#8a8a8a'
----
-Tag: Swet Bro
-Color: '#f34a5e'
----
-Tag: Terexi
-Color: '#008b8b'
----
-Tag: Vrasky
-Color: '#3796c6'
-
-# Characters from Crossmound.
-
----
-Tag: Tahbbi (Crossmound)
-Color: '#7c7e81'
----
-Tag: Amenia (Crossmound)
-Color: '#eb0000'
----
-Tag: Amenia's lusus (Crossmound)
-Color: '#eb0000'
----
-Tag: Meeraz (Crossmound)
-Color: '#c36100'
----
-Tag: Kimaiz (Crossmound)
-Color: '#a1a100'
----
-Tag: Cladem (Crossmound)
-Color: '#80A300'
----
-Tag: Dejinn (Crossmound)
-Color: '#588a00'
----
-Tag: Elgiza (Crossmound)
-Color: '#008f48'
----
-Tag: Tahoma (Crossmound)
-Color: '#008b8b'
----
-Tag: Tahoma's lusus (Crossmound)
-Color: '#008b8b'
----
-Tag: Lokere (Crossmound)
-Color: '#3796c6'
----
-Tag: Dulcan (Crossmound)
-Color: '#487aef'
----
-Tag: Egoize (Crossmound)
-Color: '#db00db'
----
-Tag: Egoize's lusus (Crossmound)
-Color: '#db00db'
----
-Tag: Skerrt (Crossmound)
-Color: '#e30072'
-
-# Characters from Desynced.
-
----
-Tag: Ananke (Desynced)
-Color: '#e9139c'
----
-Tag: Auranue (Desynced)
-Color: '#d24c91'
----
-Tag: Baltro (Desynced)
-Color: '#a009c7'
----
-Tag: Enid (Desynced)
-Color: '#fba500'
----
-Tag: Evan (Desynced)
-Color: '#6a6afa'
----
-Tag: Gaea (Desynced)
-Color: '#3091ef'
----
-Tag: Hemera (Desynced)
-Color: '#f8701e'
----
-Tag: Kade (Desynced)
-Color: '#a75ec0'
----
-Tag: Kate (Desynced)
-Color: '#ce3382'
----
-Tag: Josh (Desynced)
-Color: '#1cdd8d'
----
-Tag: Layssah (Desynced)
-Color: '#ff002e'
----
-Tag: Lee (Desynced)
-Color: '#5771f1'
----
-Tag: Lord Noir (Desynced)
-Color: '#a3a3a3'
----
-Tag: Maragi (Desynced)
-Color: '#b7e077'
----
-Tag: Masky (Desynced)
-Color: '#e9e9e9'
----
-Tag: Momo (Desynced)
-Color: '#dd1c1c'
----
-Tag: Nelrith (Desynced)
-Color: '#e97534'
----
-Tag: Odelia (Desynced)
-Color: '#ffb457'
----
-Tag: Phoebe (Desynced)
-Color: '#ffc331'
----
-Tag: Pollyon (Desynced)
-Color: '#c72aa3'
----
-Tag: Romelia (Desynced)
-Color: '#53b8c0'
----
-Tag: Simsei (Desynced)
-Color: '#6256d3'
----
-Tag: Skaia (Desynced)
-Color: '#fff2d7'
----
-Tag: Styx (Desynced)
-Color: '#d9000b'
----
-Tag: Tsanzer (Desynced)
-Color: '#76d972'
----
-Tag: Van Black (Desynced)
-Color: '#c91ef7'
-
-# Characters from Fatebreak.
-
----
-Tag: Cerida (Fatebreak)
-Color: '#B0B7A5'
----
-Tag: Oryyan (Fatebreak)
-Color: '#487aef'
----
-Tag: Seytus (Fatebreak)
-Color: '#588a00'
----
-Tag: Silena (Fatebreak)
-Color: '#008f48'
----
-Tag: Syldis (Fatebreak)
-Color: '#db00db'
-
-# Characters from Heinoustuck.
-
----
-Tag: Dad (Heinoustuck)
-Color: '#ffffff'
----
-Tag: Dave (Heinoustuck)
-Color: '#e00707'
----
-Tag: Jade (Heinoustuck)
-Color: '#4ac925'
----
-Tag: John (Heinoustuck)
-Color: '#666fe9'
----
-Tag: Rose (Heinoustuck)
-Color: '#b536da'
-
-# Characters from Hexane.
-
----
-Tag: Emmy (Hexane)
-Color: '#BC00BE'
----
-Tag: Laraminia (Hexane)
-Color: '#99389A'
----
-Tag: Qamarkino (Hexane)
-Color: '#A52222'
----
-Tag: Theremina (Hexane)
-Color: '#22A52B'
 
 # Characters from Karkat Goes to a Convention.
 
 ---
 Tag: Dave Cosplayer (KGTAC)
 Color: '#C800F6'
+
+# Characters from Loftlocked.
+
+---
+Tag: Carmen (Loftlocked)
+Color: '#cc3333'
+---
+Tag: Ella (Loftlocked)
+Color: '#ff8c00'
+---
+Tag: Hellbrosprite (Loftlocked)
+Color: '#99cc33'
+---
+Tag: Lisa (Loftlocked)
+Color: '#33cc99'
+---
+Tag: Odi (Loftlocked)
+Color: '#349c34'
+---
+Tag: Pat (Loftlocked)
+Color: '#3399ff'
+---
+Tag: Plink (Loftlocked)
+Color: '#cc6799'
 
 # Characters from MIDNIGHT CREW: Beginning Of The End!
 
@@ -3268,7 +3380,27 @@ Color: '#008f48'
 Tag: Zamora (Moonsplit)
 Color: '#a34bff'
 
-# Characters from PAY DAT RENT!!!1
+# Characters from MSPA.
+
+---
+Tag: AH
+Color: '#e0e0e0'
+---
+Tag: Hadron Kaleido
+Color: '#ff01fe'
+---
+Tag: Mobius Trip
+Color: '#ffff01'
+---
+Tag: MSPA Reader
+Color: '#e0e0e0'
+---
+Tag: Squiddles Girl
+Color: '#de0286'
+Description: |-
+    Not officially a character of her own, the Squiddles Girl, mysteriously manifest in the track art for [[track:ocean-stars-falling]], is [quite](https://forgottenhsfacts.tumblr.com/post/144839853814/who-is-on-the-cover-art-of-ocean-stars-falling-in) [the](https://www.reddit.com/r/homestuck/comments/162zqa1/track_art_for_ocean_stars_falling_who_is_this/) [enigma](https://www.youtube.com/watch?v=QmEZzp7o8i8&lc=UgzHTEp089uPbq7nMIh4AaABAg). What's present of her design lines up [[media:misc/magical-squiddles-girl.jpg|quite closely]] with one of the magical girls of [[flash:squiddlevid]], a flash that was bundled with the release of [[album:squiddles]] back in 2010. She may or may not be experiencing a [recent](https://www.tumblr.com/feengoid/721155997772791808/squiddle-girl-from-ocean-stars-falling) [resurgence](https://www.tumblr.com/spaghettidismay/723199915010965504/i-dont-really-like-how-it-turned-out-but-anywayyy).
+
+# Characters from PAY DAT RENT!!!1.
 
 ---
 Tag: Faithful Dimwit (PAY DAT RENT!!!1)
@@ -3276,6 +3408,107 @@ Color: '#FF290B'
 ---
 Tag: PDR Guy (PAY DAT RENT!!!1)
 Color: '#cb5116'
+
+# Characters from Problem Sleuth.
+
+---
+Tag: Ace Dick
+Color: '#ed0101'
+---
+Tag: Pickle Inspector
+Color: '#3960f0'
+---
+Tag: Problem Sleuth
+Color: '#26cb68'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Problem_Sleuth_(character)
+---
+Tag: Mobster Kingpin
+Color: '#dc10fc'
+---
+Tag: Nervous Broad
+Color: '#26cb68'
+---
+Tag: Death
+Color: '#222222'
+---
+Tag: Demimonde Goddess
+Color: '#47c5ff'
+
+# Characters from Redditstuck.
+
+---
+Tag: Altair (Redditstuck)
+Color: '#4e4eff'
+---
+Tag: Anton (Redditstuck)
+Color: '#dc381f'
+---
+Tag: BKEW (Redditstuck)
+Color: '#e0e0e0'
+---
+Tag: Chelsea (Redditstuck)
+Color: '#ff91af'
+---
+Tag: Chelsea's sis (Redditstuck)
+Color: '#e0e0e0'
+---
+Tag: Emily (Redditstuck)
+Color: '#65c273'
+---
+Tag: Evan (Redditstuck)
+Color: '#dc143c'
+---
+Tag: Eve (Redditstuck)
+Color: '#c6aab9'
+---
+Tag: Jack Noir (Redditstuck)
+Color: '#8a8a8a'
+---
+Tag: Jay (Redditstuck)
+Color: '#9bbeff'
+---
+Tag: Josh (Redditstuck)
+Color: '#bdad39'
+---
+Tag: Luke (Redditstuck)
+Color: '#ff0000'
+---
+Tag: Pete (Redditstuck)
+Color: '#c92be4'
+---
+Tag: Sly (Redditstuck)
+Color: '#efc033'
+---
+Tag: Sev (Redditstuck)
+Color: '#cc5500'
+---
+Tag: Sunil (Redditstuck)
+Color: '#228b22'
+---
+Tag: Tom (Redditstuck)
+Color: '#bdbdbd'
+---
+Tag: Tomesprite (Redditstuck)
+Color: '#f9a788'
+
+# Characters from Riddle of Dixy.
+
+---
+Tag: Tarlan (Riddle of Dixy)
+Color: '#c36100'
+
+# Characters from SBaHJ.
+
+---
+Tag: Geromy
+Color: '#fffe34'
+---
+Tag: Hella Jeff
+Color: '#4570ff'
+---
+Tag: Sweet Bro
+Color: '#e6032e'
 
 # Characters from Shackstuck.
 
@@ -3670,7 +3903,7 @@ Color: '#a99586'
 Tag: Zachery (Oceanfalls)
 Color: '#21f2c8'
 
-# Characters from Team Paradox
+# Characters from Team Paradox.
 
 ---
 Tag: Aliesh (Team Paradox)
@@ -3697,7 +3930,7 @@ Color: '#3e1384'
 Tag: Vladis (Team Paradox)
 Color: '#009938'
 
-# Characters from Tumblrstuck
+# Characters from Tumblrstuck.
 
 ---
 Tag: Garnex (Tumblrstuck)
@@ -3716,6 +3949,7 @@ Tag: Samm (Tumblrstuck)
 Color: '#06ffc9'
 
 # Characters from Undertale & Deltarune.
+
 ---
 Tag: Mettaton
 Direct Descendant Tags:
@@ -3752,7 +3986,7 @@ Color: '#f9fbf7'
 Tag: Varik (EBHH)
 Color: '#780828'
 
-# Characters from The Flintstones
+# Characters from The Flintstones.
 
 ---
 Tag: Fred Flintstone
@@ -3764,7 +3998,8 @@ Color: '#dd6a05'
 Tag: Boyfriend (Friday Night Funkin')
 Color: '#66ffff'
 
-# Characters from Looney Tunes
+# Characters from Looney Tunes.
+
 ---
 Tag: Bugs Bunny
 Color: '#b6bcc0'
@@ -3775,7 +4010,7 @@ Color: '#b6bcc0'
 Tag: Falkor
 Color: '#e1dcf1'
 
-# Characters from Portal
+# Characters from Portal.
 
 ---
 Tag: P-body (Portal)
@@ -3802,17 +4037,23 @@ Color: '#FFD90F'
 Tag: Sonic
 Color: '#4040ff'
 
-# Characters from Vocaloid
+# Characters from Vocaloid.
 
 ---
 Tag: Hatsune Miku
 Color: '#299ba5'
 
+# Characters not from one particular media.
+
+---
+Tag: June
+Color: '#666fe9'
+
 # Real-world humans.
 
 ---
 Tag: Andrew Horowitz
-Color: '#f0f7fc'
+Color: '#e5e5e5'
 ---
 Tag: Barack Obama
 Color: '#e5e5e5'
@@ -3827,10 +4068,10 @@ Tag: Bruce Willis
 Color: '#e5e5e5'
 ---
 Tag: Charles Barkley
-Color: '#c17a4e'
+Color: '#e5e5e5'
 ---
 Tag: Joe Hawley
-Color: '#e4d13b'
+Color: '#e5e5e5'
 ---
 Tag: John Cusack
 Color: '#e5e5e5'
@@ -3847,22 +4088,22 @@ Tag: Michael Guy Bowman
 Color: '#32c7fe'
 ---
 Tag: Michael Jordan
-Color: '#d1142f'
+Color: '#e5e5e5'
 ---
 Tag: Nicolas Cage
 Color: '#e5e5e5'
 ---
 Tag: Rick Astley
-Color: '#1186ee'
+Color: '#e5e5e5'
 ---
-Tag: RJ Lake
-Color: '#ffffff'
+Tag: rj lake
+Color: '#32c7fe'
 ---
 Tag: Rob Cantor
-Color: '#d64343'
+Color: '#e5e5e5'
 ---
 Tag: Ross Federman
-Color: '#f0f7fc'
+Color: '#e5e5e5'
 ---
 Tag: Scott Stutzman
 Color: '#32c7fe'
@@ -3877,273 +4118,76 @@ Tag: Weird Al
 Color: '#e5e5e5'
 ---
 Tag: Zubin Sedghi
-Color: '#46549e'
-
-
-
-
-
----
-Tag: Kernelsprite
-Color: '#ececec'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Sprite#Prototyping
----
-Tag: Crowsprite
-Color: '#f2a400'
----
-Tag: Jaspersprite
-Color: '#f141ef'
----
-Tag: Nannasprite
-Color: '#00d5f2'
----
-Tag: Tavrisprite
-Color: '#3b47f7'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Tavrisprite
----
-Tag: Aradia's Soulbot
-Color: '#838383'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Robotics#Aradia's_Soulbot
----
-Tag: Dirk's bots
-Color: '#f2a400'
-Direct Descendant Tags:
-- Brobot
-- Sawtooth
-- Squarewave
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Dirk's_robots#Brobot
----
-Tag: Brobot
-Color: '#e0e0e0'
-Extra Reading URLs:
----
-Tag: Sawtooth
-Color: '#a7a7a7'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Sawtooth
----
-Tag: Squarewave
-Color: '#ff0000'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Squarewave
----
-Tag: Equius' bots
-Color: '#487aef'
----
-Tag: Hal
-Color: '#e00707'
----
-Tag: Aradia (ghost)
-Color: '#eb0000'
----
-Tag: Animal species
-Direct Descendant Tags:
-- Birds & avians
-- Bugs & insects
-- Land animals
-- Marine animals
-- Amphibians
----
-Tag: Birds & avians
-Direct Descendant Tags:
-- Crows
-- Eagles
-- Hummingbirds
----
-Tag: Crows
-Color: '#ee3333'
----
-Tag: Eagles
-Color: '#eddc28'
----
-Tag: Hummingbirds
-Color: '#ec73ed'
----
-Tag: Bugs & insects
-Direct Descendant Tags:
-- Bees
-- Wasps
-- Fireflies
----
-Tag: Bees
-Color: '#fcba03'
----
-Tag: Wasps
-Color: '#e7e01f'
----
-Tag: Fireflies
-Color: '#e3ff2b'
-Direct Descendant Tags:
-- Fireflies (Homestuck)
----
-Tag: Land animals
-Direct Descendant Tags:
-- Cats
-- Dogs
-- Horses
----
-Tag: Cats
-Color: '#eee333'
-Direct Descendant Tags:
-- Cats (Homestuck)
-- Cats (Oceanfalls)
----
-Tag: Dogs
-Color: '#333eee'
-Direct Descendant Tags:
-- Dogs (Oceanfalls)
----
-Tag: Horses
-Color: '#c76e26'
-Direct Descendant Tags:
-- Horses (Homestuck)
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Horse
----
-Tag: Marine animals
-Direct Descendant Tags:
-- Cuttlefish
-- Dolphins
----
-Tag: Cuttlefish
-Color: '#66ce77'
----
-Tag: Dolphins
-Color: '#8087ed'
----
-Tag: Amphibians
-Direct Descendant Tags:
-- Frogs
----
-Tag: Frogs
-Color: '#06ffc9'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Frog
----
-Tag: Plant species
-Direct Descendant Tags:
-- Pumpkin
----
-Tag: Pumpkin
-Direct Descendant Tags:
-- What Pumpkin?
-Color: '#ff7f27'
-
-
----
-Tag: June
-Color: '#666fe9'
----
-Tag: Imperial Drones
-Color: '#fb0332'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Drone
----
-Tag: Matriorb
-Color: '#008f48'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Matriorb
----
-Tag: Tumor
-Color: '#808080'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Tumor
----
-Tag: Green Sun
-Color: '#00ff00'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Green_Sun
----
-Tag: Pink Moon
-Color: '#fb889a'
----
-Tag: Alternia
-Color: '#8e4fee'
----
-Tag: Beforus
-Color: '#d743be'
----
-Tag: Dream Bubbles
-Color: '#c2b2eb'
----
-Tag: Frog Temple
-Color: '#c1dd58'
----
-Tag: Victory Platform
-Color: '#90dd58'
+Color: '#e5e5e5'
 
 # -------------------------------------
-#  Location Archetypes
+#  Location archetypes
 # -------------------------------------
 
 ---
-Tag: Location Archetypes
+Tag: Location archetypes
 Direct Descendant Tags:
-- Alternia (Archetype)
-- Battlefield (Archetype)
-- Derse (Archetype)
-- Earth (Archetype)
-- Forge (Archetype)
-- Frog Temple (Archetype)
-- Green Sun (Archetype)
-- Prospit (Archetype)
-- Skaia (Archetype)
-- Veil (Archetype)
-- Victory Platform (Archetype)
+- Alternia (archetype)
+- Battlefield (archetype)
+- Derse (archetype)
+- Earth (archetype)
+- Forge (archetype)
+- Frog Temple (archetype)
+- Green Sun (archetype)
+- Prospit (archetype)
+- Skaia (archetype)
+- Veil (archetype)
+- Victory Platform (archetype)
 ---
-Tag: Alternia (Archetype)
+Tag: Alternia (archetype)
 Direct Descendant Tags:
 - Alternia
 - Beforus
 - Harold (CaNWC)
 - Nibiru (Desynced)
 ---
-Tag: Battlefield (Archetype)
+Tag: Battlefield (archetype)
 Direct Descendant Tags:
 - Battlefield
 ---
-Tag: Derse (Archetype)
+Tag: Derse (archetype)
 Direct Descendant Tags:
 - Derse
 - Durst
 ---
-Tag: Earth (Archetype)
+Tag: Earth (archetype)
 Direct Descendant Tags:
 - Earth
 - Ruined Earth
 - Flooded Earth
 ---
-Tag: Forge (Archetype)
+Tag: Forge (archetype)
 Direct Descendant Tags:
 - Forge
 ---
-Tag: Frog Temple (Archetype)
+Tag: Frog Temple (archetype)
 Direct Descendant Tags:
 - Frog Temple
 ---
-Tag: Green Sun (Archetype)
+Tag: Green Sun (archetype)
 Direct Descendant Tags:
 - Green Sun
 ---
-Tag: Prospit (Archetype)
+Tag: Prospit (archetype)
 Direct Descendant Tags:
 - Prospit
 - Prostit
 ---
-Tag: Skaia (Archetype)
+Tag: Skaia (archetype)
 Direct Descendant Tags:
 - Skaia
 - Skya
 ---
-Tag: Veil (Archetype)
+Tag: Veil (archetype)
 Direct Descendant Tags:
 - Veil
 ---
-Tag: Victory Platform (Archetype)
+Tag: Victory Platform (archetype)
 Direct Descendant Tags:
 - Victory Platform
 
@@ -4175,9 +4219,9 @@ Tag: Astronomical bodies
 Direct Descendant Tags:
 - Astronomical bodies (Homestuck)
 - 'Astronomical bodies (Homestuck: Beyond Canon)'
+- Astronomical bodies (CaNWC)
 - Astronomical bodies (Desynced)
 - Astronomical bodies (Vast Error)
-- Astronomical bodies (CaNWC)
 - More astronomical bodies
 ---
 Tag: More astronomical bodies
@@ -4188,8 +4232,10 @@ Tag: Locations in the Medium
 Direct Descendant Tags:
 - Locations in the Medium (Homestuck)
 - Locations in the Medium (Aleph Null)
-- Locations in the Medium (Vast Error)
 - Locations in the Medium (CaNWC)
+- Locations in the Medium (Desynced)
+- Locations in the Medium (Redditstuck)
+- Locations in the Medium (Vast Error)
 - More locations in the Medium
 ---
 Tag: Mobile locations
@@ -4281,17 +4327,29 @@ Tag: Astronomical Bodies (CaNWC)
 Direct Descendant Tags:
 - Harold (CaNWC)
 
-
 # Locations from Desynced, by classification.
 
 ---
 Tag: Locations from Desynced
 Direct Descendant Tags:
 - Astronomical bodies (Desynced)
+- Locations in the Medium (Desynced)
 ---
 Tag: Astronomical bodies (Desynced)
 Direct Descendant Tags:
+- Moon (Desynced)
 - Nibiru (Desynced)
+---
+Tag: Locations in the Medium (Desynced)
+Direct Descendant Tags:
+- Fosvas (Desynced)
+- LoDaP (Desynced)
+- LoDaM (Desynced)
+- LoSaS (Desynced)
+- LoTaM (Desynced)
+- LoWHaT (Desynced)
+- LoSaNS (Desynced)
+- Dusken (Desynced)
 
 # Locations from Homestuck, by classification.
 
@@ -4352,8 +4410,8 @@ Direct Descendant Tags:
 - LoTaF
 - LoMaT
 - LoCaS
-- LoWaA
 - LoTaM
+- LoWaA
 - LoDaG
 - LoCaM
 - Prospit
@@ -4398,7 +4456,30 @@ Tag: 'Mobile locations (Homestuck: Beyond Canon)'
 Direct Descendant Tags:
 - The Theseus
 
-# Locations from Rollercoaster Tycoon
+# Locations from Redditstuck, by classification.
+
+---
+Tag: Locations from Redditstuck
+Direct Descendant Tags:
+- Locations in the Medium (Redditstuck)
+---
+Tag: Locations in the Medium (Redditstuck)
+Direct Descendant Tags:
+- LoSaA (Redditstuck)
+- LoSaMD (Redditstuck)
+- LoTaF (Redditstuck)
+- LoVaT (Redditstuck)
+- LoGaM (Redditstuck)
+- LoBaD (Redditstuck)
+- LoSaB (Redditstuck)
+- LoLaA (Redditstuck)
+- LoRaS (Redditstuck)
+- LoCaH (Redditstuck)
+- LoTaW (Redditstuck)
+- LoCaF (Redditstuck)
+- LoSaC (Redditstuck)
+
+# Locations from Rollercoaster Tycoon, by classification.
 
 ---
 Tag: Locations from Rollercoaster Tycoon
@@ -4438,7 +4519,7 @@ Direct Descendant Tags:
 #  alphabetically.
 #
 
-# Real world locations
+# Real world locations.
 
 ---
 Tag: 'Houston, TX'
@@ -4465,7 +4546,7 @@ Extra Reading URLs:
 Tag: 'Rajavihara'
 Color: '#41788c'
 
-# Recurring game locations
+# Recurring game locations.
 
 ---
 Tag: Battlefield
@@ -4486,7 +4567,7 @@ Color: '#4bdcf9'
 Tag: Veil
 Color: '#7c7c7c'
 
-# "More" locations, including:
+# "More" locations not from one particular media, including:
 #  - More astronomical bodies
 #  - More lands in the Medium
 
@@ -4547,6 +4628,9 @@ Tag: Nibiru (Desynced)
 # Locations from Homestuck.
 
 ---
+Tag: Alternia
+Color: '#8e4fee'
+---
 Tag: Battleship Condescension
 Color: '#ed004f'
 Extra Reading URLs:
@@ -4561,6 +4645,9 @@ Tag: Bec Head Base
 Color: '#32e335'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bec_Head_Base
+---
+Tag: Beforus
+Color: '#d743be'
 ---
 Tag: Can Town
 Color: '#f7cf60'
@@ -4591,6 +4678,9 @@ Color: '#ff01fe'
 Tag: Dirk's home
 Color: '#f2a400'
 ---
+Tag: Dream Bubbles
+Color: '#c2b2eb'
+---
 Tag: Echidna's lair
 Color: '#4ac925'
 Extra Reading URLs:
@@ -4609,12 +4699,20 @@ Extra Reading URLs:
 Tag: Flooded Earth
 Color: '#33e2db'
 ---
+Tag: Frog Temple
+Color: '#c1dd58'
+---
 Tag: Green Moon
 Color: '#008c45'
 Direct Descendant Tags:
 - Scratch's apartment
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Green_moon
+---
+Tag: Green Sun
+Color: '#00ff00'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Green_Sun
 ---
 Tag: Jade's home
 Color: '#4ac925'
@@ -4704,9 +4802,19 @@ Tag: Nepeta's hive
 Color: '#588a00'
 ---
 Tag: Pacific Island
+Additional Names:
+- Name: Hellmurder Island
+  Annotation: >-
+    [p. 838](https://www.homestuck.com/story/838),
+    [p. 4230](https://www.homestuck.com/story/4230)
 Color: '#4ac925'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Pacific_island
+Direct Descendant Tags:
+- Jade's home
+---
+Tag: Pink Moon
+Color: '#fb889a'
 ---
 Tag: Ruined Earth
 Color: '#d9cbab'
@@ -4739,6 +4847,9 @@ Extra Reading URLs:
 ---
 Tag: Typheus' lair
 Color: '#666fe9'
+---
+Tag: Victory Platform
+Color: '#90dd58'
 
 # Locations from Homestuck: Beyond Canon.
 
@@ -4749,7 +4860,49 @@ Color: '#f2a400'
 Tag: Deltritus
 Color: '#62c9e7'
 
-# Locations from Rollercoaster Tycoon
+# Locations from Redditstuck.
+
+---
+Tag: LoGaM (Redditstuck)
+Color: '#65c273'
+---
+Tag: LoBaD (Redditstuck)
+Color: '#dc143c'
+---
+Tag: LoCaF (Redditstuck)
+Color: '#95909f'
+---
+Tag: LoCaH (Redditstuck)
+Color: '#9bbeff'
+---
+Tag: LoLaA (Redditstuck)
+Color: '#dc381f'
+---
+Tag: LoRaS (Redditstuck)
+Color: '#f9966b'
+---
+Tag: LoSaB (Redditstuck)
+Color: '#bdbdbd'
+---
+Tag: LoSaA (Redditstuck)
+Color: '#ff0000'
+---
+Tag: LoSaC (Redditstuck)
+Color: '#eaeaea'
+---
+Tag: LoSaMD (Redditstuck)
+Color: '#efc033'
+---
+Tag: LoTaF (Redditstuck)
+Color: '#ff91af'
+---
+Tag: LoTaW (Redditstuck)
+Color: '#c9dae2'
+---
+Tag: LoVaT (Redditstuck)
+Color: '#cc5500'
+
+# Locations from Rollercoaster Tycoon.
 
 ---
 Tag: MR BONES WILD RIDE
@@ -4840,7 +4993,6 @@ Direct Descendant Tags:
 Tag: Woodwind instruments
 Direct Descendant Tags:
 - Saxophone
-
 
 # -------------------------------------
 #  Objects from media.
@@ -5136,13 +5288,15 @@ Direct Descendant Tags:
 #  Individual object entries.
 # -------------------------------------
 #
-#  Top-level ordering is alphabetical by media name only.
+#  Top-level ordering is alphabetical by media name only,
+#  except for a handful of arbitrary sections at the top.
 #
 #  Entries in each top-level section are always sorted
 #  alphabetically.
 #
 
-# General Objects
+# General objects.
+
 ---
 Tag: Clocks
 Color: '#008c45'
@@ -5170,7 +5324,7 @@ Direct Descendant Tags:
 - MR BONES WILD RIDE
 Color: '#851f1a'
 
-# Musical Instruments
+# Musical instruments.
 
 ---
 Tag: Bass
@@ -5243,8 +5397,8 @@ Color: '#a5473d'
 
 ---
 Tag: Ψdon's Entente
-Color: '#f8a900'
 Directory: psidons-entente
+Color: '#f8a900'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/2x3dentkind#%CE%A8don's_Entente
 ---
@@ -5395,6 +5549,11 @@ Color: '#f7addc'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Time_capsule
 ---
+Tag: Matriorb
+Color: '#008f48'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Matriorb
+---
 Tag: Ninja Sword
 Color: '#a4a4a4'
 Extra Reading URLs:
@@ -5470,6 +5629,11 @@ Color: '#f2a400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Puppet#Smuppets
 ---
+Tag: Squiddles
+Color: '#cb87f6'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Squiddles
+---
 Tag: Telescopic Sassacrusher
 Color: '#c492f3'
 Extra Reading URLs:
@@ -5488,6 +5652,11 @@ Color: '#e00707'
 ---
 Tag: Trusty Knife
 Color: '#aa0000'
+---
+Tag: Tumor
+Color: '#808080'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Tumor
 ---
 Tag: Twin M9 Berettas
 Color: '#a2a2a2'
@@ -5578,7 +5747,6 @@ Related Tags:
 Tag: sord
 Color: '#0000ff'
 
-
 # -------------------------------------
 #  Iconography classifications.
 # -------------------------------------
@@ -5631,7 +5799,6 @@ Direct Descendant Tags:
 #  "Iconography classifications". This is generally *not* alphabetical!
 #
 
-
 # Iconography from Homestuck, by classification.
 
 ---
@@ -5677,7 +5844,7 @@ Direct Descendant Tags:
 - SBaHJ
 
 # -------------------------------------
-#  Individual icon entries.
+#  Individual iconography entries.
 # -------------------------------------
 #
 #  Top-level ordering is alphabetical by media name only,
@@ -5688,7 +5855,7 @@ Direct Descendant Tags:
 #  alphabetically.
 #
 
-# Icons not from media.
+# Iconography not from one particular media.
 
 ---
 Tag: Music Staff
@@ -5774,192 +5941,6 @@ Extra Reading URLs:
 # -------------------------------------
 
 ---
-Tag: Tarlan (Riddle of Dixy)
-Color: '#c36100'
----
-Tag: Mayonaka (Crud Spade)
-Color: '#FB0301'
----
-Tag: Dev (Alternian Misadventures!)
-Color: '#c1c758'
----
-Tag: Luke (Redditstuck)
-Color: '#ff0000'
----
-Tag: Sly (Redditstuck)
-Color: '#efc033'
----
-Tag: Chelsea (Redditstuck)
-Color: '#ff91af'
----
-Tag: Sev (Redditstuck)
-Color: '#cc5500'
----
-Tag: Emily (Redditstuck)
-Color: '#65c273'
----
-Tag: Evan (Redditstuck)
-Color: '#dc143c'
----
-Tag: Tom (Redditstuck)
-Color: '#bdbdbd'
----
-Tag: Anton (Redditstuck)
-Color: '#dc381f'
----
-Tag: Bill (Redditstuck)
-Color: '#f9966b'
----
-Tag: Jay (Redditstuck)
-Color: '#9bbeff'
----
-Tag: Pete (Redditstuck)
-Color: '#c92be4'
----
-Tag: Elle (Redditstuck)
-Color: '#000080'
----
-Tag: Josh (Redditstuck)
-Color: '#bdad39'
----
-Tag: Austin (Redditstuck)
-Color: '#39b2c9'
----
-Tag: Ronny (Redditstuck)
-Color: '#000000'
----
-Tag: Sunil (Redditstuck)
-Color: '#228b22'
----
-Tag: Nick (Redditstuck)
-Color: '#0101e7'
----
-Tag: Thumbsprite (Redditstuck)
-Color: '#bf9000'
----
-Tag: Adamsprite (Redditstuck)
-Color: '#09e5e9'
----
-Tag: Tomesprite (Redditstuck)
-Color: '#f9a788'
----
-Tag: Bella (Redditstuck)
-Color: '#bc32b7'
----
-Tag: Sidecarsprite (Redditstuck)
-Color: '#ff9900'
----
-Tag: Nanners (Redditstuck)
-Color: '#ffb3b3'
----
-Tag: BKEW (Redditstuck)
-Color: '#e0e0e0'
----
-Tag: Chelsea's Sis (Redditstuck)
-Color: '#e0e0e0'
----
-Tag: Eve (Redditstuck)
-Color: '#c6aab9'
----
-Tag: Cindy (Redditstuck)
-Color: '#00eb89'
----
-Tag: Lucas (Redditstuck)
-Color: '#07a672'
----
-Tag: Timothy (Redditstuck)
-Color: '#e59908'
----
-Tag: Gregory (Redditstuck)
-Color: '#2dc7c7'
----
-Tag: h00dbeard (Redditstuck)
-Color: '#663b94'
----
-Tag: Altair (Redditstuck)
-Color: '#4e4eff'
----
-Tag: Wit (Redditstuck)
-Color: '#999999'
----
-Tag: Jack Noir (Redditstuck)
-Color: '#8a8a8a'
----
-Tag: LoSaA (Redditstuck)
-Color: '#ff0000'
----
-Tag: LoSaMD (Redditstuck)
-Color: '#efc033'
----
-Tag: LoTaF (Redditstuck)
-Color: '#ff91af'
----
-Tag: LoVaT (Redditstuck)
-Color: '#cc5500'
----
-Tag: LoGaM (Redditstuck)
-Color: '#65c273'
----
-Tag: LoBaD (Redditstuck)
-Color: '#dc143c'
----
-Tag: LoSaB (Redditstuck)
-Color: '#bdbdbd'
----
-Tag: LoLaA (Redditstuck)
-Color: '#dc381f'
----
-Tag: LoRaS (Redditstuck)
-Color: '#f9966b'
----
-Tag: LoCaH (Redditstuck)
-Color: '#9bbeff'
----
-Tag: LoTaW (Redditstuck)
-Color: '#c9dae2'
----
-Tag: LoCaF (Redditstuck)
-Color: '#95909f'
----
-Tag: LoSaC (Redditstuck)
-Color: '#eaeaea'
----
-Tag: Pat (Loftlocked)
-Color: '#3399ff'
----
-Tag: Odi (Loftlocked)
-Color: '#349c34'
----
-Tag: Ella (Loftlocked)
-Color: '#ff8c00'
----
-Tag: Lisa (Loftlocked)
-Color: '#33cc99'
----
-Tag: Carmen (Loftlocked)
-Color: '#cc3333'
----
-Tag: Plink (Loftlocked)
-Color: '#cc6799'
----
-Tag: Hellbrosprite (Loftlocked)
-Color: '#99cc33'
----
-Tag: Arron (Freeroam)
-Color: '#38f04f'
----
-Tag: Keira (Freeroam)
-Color: '#fdae2c'
----
-Tag: Jason (Freeroam)
-Color: '#617fff'
----
-Tag: Hazel (Freeroam)
-Color: '#898989'
----
-Tag: Starmansprite (Freeroam)
-Color: '#30cf44'
----
 Tag: act of god
 Is CW: true
 ---
@@ -6015,6 +5996,9 @@ Is CW: true
 Tag: decapitation (abstract)
 Is CW: true
 ---
+Tag: disability slur
+Is CW: true
+---
 Tag: drowning
 Is CW: true
 ---
@@ -6027,23 +6011,20 @@ Is CW: true
 Tag: eye strain
 Is CW: true
 ---
+Tag: genitalia
+Is CW: true
+---
 Tag: hanging
 Is CW: true
 ---
 Tag: hanging (abstract)
 Is CW: true
 ---
-Tag: smoking
-Is CW: true
----
-Tag: genitalia
-Is CW: true
----
-Tag: disability slur
+Tag: nazi symbology
 Is CW: true
 ---
 Tag: racial slur
 Is CW: true
 ---
-Tag: nazi symbology
+Tag: smoking
 Is CW: true
