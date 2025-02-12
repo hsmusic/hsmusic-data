@@ -98,21 +98,38 @@ Content: |-
     - fixed [[track:light-at-the-end-of-the-tunnel]] referencing [[track:i-despise-this-buildupes]] instead of [[track:i-absolutely-loathe-this-drummer]] (thanks, Makin!)
     - fixed [[track:scarlet-wings]] not referencing [[track:kotori]] (thanks, Nevermind!)
     - fixed [[track:dave-striders-cool-mixtape]] not sampling [[track:sweet-bro-and-hella-jeff-show]] and [[track:sports-lofam2]] (thanks, Makin!)
+    - fixed [[track:bomb-rush-blush-ssbu]] ([[album:super-smash-bros-ultimate]]) not also sampling [[track:bomb-rush-blush]] (the original), in addition to referencing it (thanks, ruby!)
     <!-- featuring fixes -->
     - fixed [[flash:sburban-cartdown]] featuring [[track:sburban-countdown]] instead of [[track:sburban-cartdown]], and directly crediting [[artist:erik-scheele]] for sentence mixing (thanks, Sgeo, Tangle, Makin!) <!-- yes this includes a crediting fix; these are sufficiently associated changes that they're together anyway -->
     <!-- crediting fixes -->
     - fixed [[track:ultralovania]] artwork being credited to [[artist:creatorofjanespeak]] rather than [[artist:cloudaria]] (thanks, Lilith, Tangle, Makin!)
+    - fixed [[track:area-1-dragon-spirit]] being credited to [[artist:galaga]] instead of [[artist:dragon-spirit]] (thanks, ruby!)
+    - fixed [[track:big-balloon-get-bonus-round-clear-mappy]], [[track:bonus-round-fanfare-mappy]], [[track:bonus-round-music-mappy]], [[track:credit-sound-mappy]], [[track:extend-music-mappy]], [[track:game-start-sound-mappy]], [[track:in-game-music-main-theme-mappy]], [[track:opening-animation-music-mappy]], and [[track:round-clear-music-mappy]] being franchise-credited to [[artist:galaga]] instead of [[artist:mappy]] (thanks, ruby!)
+    - fixed various tracks from video games crediting artists and contributors differently from current standards: (thanks, ruby!)
+        - fixed [[track:calamari-inkantation]] crediting [[artist:keity-pop]] and [[artist:mari-kikuma]] as co-artists, rather than as contributors (thanks, ruby!)
+        - fixed [[track:cosmic-eternity-believe-in-yourself]] crediting [[artist:casey-rankin]] twice, as co-artist (for writing lyrics) and contributor (for performing vocals), rather than only as contributor (for both; thanks, ruby!)
+        - fixed [[track:fist-bump]] crediting [[artist:takahito-eguchi]] and [[artist:douglas-robb]] twice, as co-artists and as contributors, rather than only as contributors (for various roles; thanks, ruby!)
+        - fixed [[track:open-your-heart]] crediting [[artist:jun-senoue]], [[artist:kenichi-tokoi]], and [[artist:takahiro-fukada]] all as co-artists (for writing roles), rather than as contributors (thanks, ruby!)
+        - fixed [[track:the-stains-of-time-maniac-agenda-mix]] crediting [[artist:kit-walters]] (this credit belonged on [[track:the-stains-of-time|the original track]]), crediting [[artist:logan-mader]] and [[artist:jamie-christopherson]] for generic co-artist roles, and not crediting [[artist:geoff-daigle]] at all (thanks, ruby!)
+        - fixed [[track:wake-up-get-up-get-out-there]] not crediting anyone except [[artist:shoji-meguro]], [[artist:lyn]], and [[artist:benjamin-franklin]] (thanks, ruby!)
+    - added crediting detail annotations to [[track:chapter-20-destroyed-skyworld]] and [[track:the-stains-of-time-maniac-agenda-mix]] (thanks, ruby!)
+    - tweaked phrasing for existing crediting annotations in various video game tracks in [[album:references-beyond-homestuck]] (thanks, ruby!)
+    <!-- track section fixes -->
+    - fixed [[track:wrapped-in-black]] being placed in [[album:references-beyond-homestuck]] under "Other music originating outside Homestuck", instead of under "Music from video games" (thanks, ruby!)
     <!-- name fixes (subsections) -->
     - fixed some tracks' names not aligning with Bandcamp releases: (thanks, Lilith!)
         - fixed [[track:ohgodboss]] being named "Ohgodboss" (lowercase "godboss")
         - fixed [[track:vaporwave-2016-track9]] being named "$H☯W✝IM€－420－( ▽ ` )ﾉ" (missing left eye)
         - fixed [[track:isle-unto-thyself]] being named "Isle Unto Thyself" (uppercase "Unto")
     - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
-        - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)" (thanks, ruby!)
-        - fixed [[track:molgera-battle]] being named "Molgera" (thanks, ruby!)
-        - fixed [[track:hazy-maze-cave]] being named "Cave Dungeon (Super Mario 64)" (thanks, ruby!)
+        - fixed [[track:battle-golden-sun]] being named "Isaac's Battle Theme"
+        - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)"
+        - fixed [[track:hazy-maze-cave]] being named "Cave Dungeon (Super Mario 64)"
+        - fixed [[track:molgera-battle]] being named "Molgera"
     <!-- name fixes (single-lines) -->
     - fixed [[track:fool]] being named "Fool [Explicit]", preferring track art and booklet name over Bandcamp (thanks, Makin!)
+    - fixed [[track:battle-final-fantasy]] being named just "Battle" (thanks, ruby!)
+    - fixed [[track:the-stains-of-time-maniac-agenda-mix]] being named just "The Stains of Time", and not referencing and sampling [[track:the-stains-of-time]] (thanks, ruby!)
     <!-- lyric fixes -->
     - fixed a bunch of incomplete or missing lyrics in various tracks: (thanks, Makin!)
         - [[track:the-rose-rap]]: was *Apple pie, Cheez Whiz, [???]*, now *...Magic Castles*
@@ -124,6 +141,7 @@ Content: |-
         - [[track:carina-cogwheel]]: was *We're lost, [??]*, now *We're lost souls*
         - [[track:ebichahan]]: added chorus, and backing lines: *(This is a certified shrimp)* and *Or... or there's gonna be problems! (Go!)*
         - [[track:marisa-stole-the-precious-thing]]: removed *[Unintelligible]* at end
+    - tweaked formatting and line breaks throughout lyrics for [[track:wake-up-get-up-get-out-there]] (thanks, ruby!)
     <!-- general data fixes -->
     - fixed date of [[flash:countdown-paradox-struck]] (was [[date:6/12/2013]], now [[date:6/12/2023]]; thanks, gr1mv4d3r!)
     - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
@@ -146,6 +164,7 @@ Content: |-
     - changed directory of [[track:ground-bgm-super-mario-bros]] from <code>ground-theme-super-mario-bros</code> to <code>ground-bgm-super-mario-bros</code>
     - changed directory of [[track:hazy-maze-cave]] from <code>cave-dungeon-super-mario-64</code> to <code>hazy-maze-cave</code>
     - changed directory of [[track:molgera-battle]] from <code>molgera</code> to <code>molgera-battle</code>
+    - changed directory of [[track:the-stains-of-time-maniac-agenda-mix]] from <code>the-stains-of-time</code> to <code>the-stains-of-time-maniac-agenda-mix</code> (...basically)
     - changed directory of [[track:velkommen-stan-lepard]] from <code>windows-xp-installation-music</code> to <code>velkommen-stan-lepard</code>
     </details>
 
