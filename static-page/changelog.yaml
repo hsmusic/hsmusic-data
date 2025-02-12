@@ -34,9 +34,15 @@ Style: |-
 Content: |-
     <h2 id="28-feb-2099"><html:a href="#28-feb-2099">[[date:28 February 2099]] - dusty shelves</a></h2>
     <h3>site changes</h3>
+    - changed how a recent search query is remembered so that it doesn't get in the way of page or sidebar content, nor of performing a new search, but still lets you jump between reuslts quickly
+        - results are still remembered, but they're kept hidden until you click the search box again
+        - search box shows your latest query as a "placeholder", in italics; once clicked, the query is restored, and all selected, so you can quickly replace it
+        - clicking the magnifying glass will also select the entire existing query, for quick replacing, at any time
     - divided "wiki editor" commentary into new subsection under artist info page, same as artworks with "edits for wiki" credits are divided, too
     - tweaked phrasing for "tracks that reference/sample this one" sticky subheading, so that "from (group)" is displayed at the end of the heading, rather than in the middle
+    - action rows on the homepage, such as "Explore Official!" - "Explore Beyond!" - etc, and "...and many more!" under Recent Additions, are now always shown center-aligned on their own row
     <h3>bug fixes</h3>
+    - fixed search sometimes getting activated with a totally empty query, while clearing the input's contents
     - fixed annotations for commentary entries on flashes, when displayed in commentary list on artist info page, "absorbing" immediately-following punctuation ([[media:misc/changelog/flash-commentary-absorb-old.png|old]], [[media:misc/changelog/flash-commentary-absorb-new.png|new]])
     <h3>additions</h3>
     <!-- commentary additions (specially moved up) -->
