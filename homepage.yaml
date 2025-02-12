@@ -12,13 +12,9 @@ Navbar Links:
 - '[[static:discord]]'
 - '[[static:changelog]]'
 ---
-Row: Official Discography
-Type: albums
-Display Style: carousel
-Actions:
-- '[[group-gallery:official|Explore Official!]]'
-- '[[group-gallery:fandom|Explore Fandom!]]'
-- '[[group-gallery:beyond|Explore Beyond!]]'
+Section: Official Discography
+---
+Row: album carousel
 Albums:
 - Homestuck Vol. 1-4
 - Homestuck Vol. 10
@@ -32,8 +28,15 @@ Albums:
 - Strife!
 - One Year Older
 ---
-Row: Recent Additions
-Type: albums
+Row: actions
+Actions:
+- '[[group-gallery:official|Explore Official!]]'
+- '[[group-gallery:fandom|Explore Fandom!]]'
+- '[[group-gallery:beyond|Explore Beyond!]]'
+---
+Section: Recent Additions
+---
+Row: album grid
 Albums:
 - album:anthology-ii
 - album:in-medias-res
@@ -63,5 +66,7 @@ Albums:
 - album:stalemate-adieu                                    # Stalemate
 - album:bittersweet-hilary-troiano                         # Troiano, Hilary
 - album:foresight-and-retrospect                           # Wights End
+---
+Row: actions
 Actions:
 - '[[static:changelog#anachronists-library-albums|...and many more!]]'
