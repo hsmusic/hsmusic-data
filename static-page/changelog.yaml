@@ -80,7 +80,7 @@ Content: |-
     - added dates for Tumblr commentary on [[track:condescescion]] and [[track:patient]] (thanks, Lan!)
     <h3>data changes</h3>
     <!-- misc presentational changes -->
-    - replaced most YouTube playback links for Homestuck flashes ([[flash-side:s1|side 1]], [[flash-side:s2|side 2]]) with timestamped links to Bambosh's ['[S] Homestuck - All flashes'](https://www.youtube.com/watch?v=AEIOQN3YmNc), replacing YouTube links in 60 flashes, and adding YouTube links to 46 flashes missing them altogether (thanks, Meulanie, Lan!)
+    - replaced most YouTube playback links for Homestuck flashes ([[flash-side:s1|side 1]], [[flash-side:s2|side 2]]) with timestamped links to Bambosh's ['[S] Homestuck - All flashes'](https://www.youtube.com/watch?v=AEIOQN3YmNc), replacing YouTube links in 60 flashes, and adding YouTube links to 46 flashes missing them altogether (thanks, meulanie, Lan!)
     - added dates to all wiki editor commentary, showing when the entries were actually written or heavily revised, mostly based off the data repository's git commit history (thanks, Amberlina, Whisper!)
     - filled out details for [[track:velkommen-stan-lepard]], previously named "Windows XP Installation Music" with duration 5:22 and no commentary (thanks, vriska, Lan!)
     <h3>data fixes</h3>
@@ -154,10 +154,11 @@ Content: |-
     - fixed a couple composer and track artist commentary transcription typos: (thanks, Lilith!)
         - [[track:dawn-of-man]]: was *of train*, now *of a train*
         - [[track:out-of-breath]]: was *gneius*, now *genius*
-    - tweaked formatting of Tumblr commentary for [[track:frog-hunt]] (DPF now links to [[artist:drpepperfan]]; line originated from early commentary collection and was not originally part of the Tumblr commentary; thanks, Lan, Lilith!)
     - tweaked formatting of Bowmantown commentary for [[album:homestuck-vol-10]] ("Jungle Boogie" now links to [[track:jungle-boogie]]; thanks, Lilith!)
     <!-- art tag fixes -->
     - fixed [[track:stormspirit]] missing [[tag:lowas]] tag (thanks, meulanie, Lilith!)
+    <!-- commentary fixes -->
+    - fixed a "Too late - DPF" line showing under Tumblr commentary for [[track:frog-hunt]], instead of in its own entry, originating from early commentary collection (thanks, Lilith, Lanolin!)
     <!-- link fixes -->
     - changed YouTube listening link for [[track:hometeam-adv8ntage]] to composer's upload (thanks, Lilith!)
     - fixed YouTube listening link for [[track:train-requiem]] being given to [[track:train-meldey-next-to-last-station]] instead (thanks, Makin!)
