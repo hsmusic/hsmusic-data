@@ -38,6 +38,7 @@ Content: |-
         - results are still remembered, but they're kept hidden until you click the search box again
         - search box shows your latest query as a "placeholder", in italics; once clicked, the query is restored, and all selected, so you can quickly replace it
         - clicking the magnifying glass will also select the entire existing query, for quick replacing, at any time
+    - added support for additional names to flashes
     - divided "wiki editor" commentary into new subsection under artist info page, same as artworks with "edits for wiki" credits are divided, too
     - tweaked phrasing for "tracks that reference/sample this one" sticky subheading, so that "from (group)" is displayed at the end of the heading, rather than in the middle
     - action rows on the homepage, such as "Explore Official!" - "Explore Beyond!" - etc, and "...and many more!" under Recent Additions, are now always shown center-aligned on their own row
@@ -62,6 +63,7 @@ Content: |-
         - [[track:fool]] (Bandcamp name)
         - [[track:ohgodboss]] (booklet name)
         - [[track:isle-unto-thyself]] (YouTube, Spotify)
+    - added YouTube name to [[flash:bruxa-desperte]] (thanks, meulanie, Lanolin!)
     <!-- lyric additions -->
     - added lyrics to [[track:we-are-midnight-crew]] (thanks, Rosetta Leijonde, Makin!)
     - added lyrics to [[track:sunrise-9]] (thanks, Niklink, Makin!)
@@ -89,6 +91,8 @@ Content: |-
     - fixed [[track:teal-seer]] not referencing [[track:somethings-different]], and added various commentary related to this (thanks, Makin!)
     - fixed [[track:stride]] not sampling [[track:bionic-booger-breaks-side-a]] (thanks, anticore2k!)
     - fixed [[track:carolmanthetime]] referencing [[track:doctor]] instead of [[track:crystalanthemums]] (thanks, Makin!)
+    - fixed [[track:conferance-call-last-contact]] referencing [[track:touchdown]] twice, [[track:7-grand-end]] referencing [[track:sburban-jungle]] twice, and [[track:collapse-stlap3]] referencing [[track:jittery-optimist]] twice (thanks, Tangle, Lanolin!)
+    - fixed [[track:enter-with-caliborn-destruction-adventure]] referencing [[track:all-were-gonna-get]], and not referencing [[track:showtime-original-mix]] (thanks, Interrobang, Lanolin!)
     - fixed [[track:vriska-dance]] not referencing [[track:regent-erratic]] (thanks, Makin!)
     - fixed [[track:oh-boo-hoo]] sampling "Heartwich" instead of [[track:heartwich-with-strings]] (thanks, Makin!)
     - fixed [[track:how-2-dj-vip-excloosive-feat-dabe]] not sampling [[track:dead-secretary-zero-health]] (thanks, Makin!)
@@ -100,6 +104,7 @@ Content: |-
     - fixed [[track:dave-striders-cool-mixtape]] not sampling [[track:sweet-bro-and-hella-jeff-show]] and [[track:sports-lofam2]] (thanks, Makin!)
     - fixed [[track:bomb-rush-blush-ssbu]] ([[album:super-smash-bros-ultimate]]) not also sampling [[track:bomb-rush-blush]] (the original), in addition to referencing it (thanks, ruby!)
     <!-- featuring fixes -->
+    - fixed [[flash:5308]] and [[flash:5398]] not featuring [[track:elevatorstuck]] (thanks, AirPrime, Lanolin!)
     - fixed [[flash:sburban-cartdown]] featuring [[track:sburban-countdown]] instead of [[track:sburban-cartdown]], and directly crediting [[artist:erik-scheele]] for sentence mixing (thanks, Sgeo, Tangle, Makin!) <!-- yes this includes a crediting fix; these are sufficiently associated changes that they're together anyway -->
     <!-- crediting fixes -->
     - fixed [[track:ultralovania]] artwork being credited to [[artist:creatorofjanespeak]] rather than [[artist:cloudaria]] (thanks, Lilith, Tangle, Makin!)
@@ -157,11 +162,13 @@ Content: |-
     - tweaked formatting of Bowmantown commentary for [[album:homestuck-vol-10]] ("Jungle Boogie" now links to [[track:jungle-boogie]]; thanks, Lilith!)
     <!-- art tag fixes -->
     - fixed [[track:stormspirit]] missing [[tag:lowas]] tag (thanks, meulanie, Lilith!)
+    - fixed [[album:s-forgive]] missing [[tag:dave]] tag (thanks, Lilith, Jebb, FF, Lanolin!)
     <!-- commentary fixes -->
     - fixed a "Too late - DPF" line showing under Tumblr commentary for [[track:frog-hunt]], instead of in its own entry, originating from early commentary collection (thanks, Lilith, Lanolin!)
     <!-- link fixes -->
     - changed YouTube listening link for [[track:hometeam-adv8ntage]] to composer's upload (thanks, Lilith!)
     - fixed YouTube listening link for [[track:train-requiem]] being given to [[track:train-meldey-next-to-last-station]] instead (thanks, Makin!)
+    - fixed YouTube link for [[flash:nina-and-lars-enter]] (was to [YouTube link](https://www.youtube.com/watch?v=Mq8KXxfycyM) for [[flash:lisa-enter]]; thanks, PatManDX, Grace, Lanolin!)
     - fixed Twitter link, removed dead desynced.xyz link, and added MSPFA link for [[group:desynced]] (thanks, meulanie!)
     - removed duplicate homestuck.com link for [[flash:2070]] (thanks, Lan!)
     <h3>directory changes</h3>
