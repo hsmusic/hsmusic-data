@@ -8,6 +8,7 @@ Date Added: January 12, 2021
 URLs:
 - https://nightslights.bandcamp.com/album/oceanfalls-vol-1
 - https://www.youtube.com/watch?v=sF2H_yhCbOU
+- https://www.youtube.com/playlist?list=PLEzR0QEEfd-jSlV6ejkiWJGPBPIGxXP0O
 Cover Artists:
 - Nights
 Default Track Cover Artists:
@@ -48,9 +49,15 @@ Section: Main album
 ---
 Track: '---- In The Beginning ----'
 Suffix Directory: true
+Additional Names:
+- Name: >-
+    In The Beginning
+  Annotation: >-
+    [YouTube title & in-video](https://www.youtube.com/watch?v=MBYTBz46eJk)
 Duration: 2:53
 URLs:
 - https://nightslights.bandcamp.com/track/in-the-beginning
+- https://www.youtube.com/watch?v=MBYTBz46eJk
 Art Tags:
 - Nino (Oceanfalls)
 ---
@@ -58,6 +65,7 @@ Track: Yellow and Purple
 Duration: 2:32
 URLs:
 - https://nightslights.bandcamp.com/track/yellow-and-purple
+- https://www.youtube.com/watch?v=UvKFN14mHu8
 Art Tags:
 - Five (Oceanfalls)
 Credit Sources: |-
@@ -80,6 +88,7 @@ Always Reference By Directory: true
 Duration: 2:37
 URLs:
 - https://nightslights.bandcamp.com/track/illusions
+- https://www.youtube.com/watch?v=Og8hlGvP35Y
 Art Tags:
 - Aria (Oceanfalls)
 Referenced Tracks:
@@ -89,6 +98,7 @@ Track: Rosen Wings
 Duration: 1:38
 URLs:
 - https://nightslights.bandcamp.com/track/rosen-wings
+- https://www.youtube.com/watch?v=yvgHU5ljzUk
 Art Tags:
 - Meimona (Oceanfalls)
 ---
@@ -96,6 +106,7 @@ Track: Secret Below
 Duration: 1:54
 URLs:
 - https://nightslights.bandcamp.com/track/secret-below
+- https://www.youtube.com/watch?v=baOh_YKif30
 Art Tags:
 - Reed (Oceanfalls)
 ---
@@ -105,13 +116,20 @@ Always Reference By Directory: true
 Duration: 1:26
 URLs:
 - https://nightslights.bandcamp.com/track/surge
+- https://www.youtube.com/watch?v=ChTkn2DdTSQ
 Art Tags:
 - Ruta (Oceanfalls)
 ---
 Track: '--- Amidst It All ---'
+Additional Names:
+- Name: >-
+    Amidst It All
+  Annotation: >-
+    [YouTube title & in-video](https://www.youtube.com/watch?v=izzjs3Ge1VA)
 Duration: 3:00
 URLs:
 - https://nightslights.bandcamp.com/track/amidst-it-all
+- https://www.youtube.com/watch?v=izzjs3Ge1VA
 Art Tags:
 - Suvillan (Oceanfalls)
 - Ruit (Oceanfalls)
@@ -132,6 +150,7 @@ Always Reference By Directory: true
 Duration: 1:29
 URLs:
 - https://nightslights.bandcamp.com/track/iceshards
+- https://www.youtube.com/watch?v=JjATwsKexWs
 Art Tags:
 - Kaji (Oceanfalls)
 Referenced Tracks:
@@ -141,6 +160,7 @@ Track: Fiery Depths
 Duration: 2:57
 URLs:
 - https://nightslights.bandcamp.com/track/fiery-depths
+- https://www.youtube.com/watch?v=8G_QHVTKPJs
 Art Tags:
 - Solis (Oceanfalls)
 Referenced Tracks:
@@ -152,6 +172,7 @@ Always Reference By Directory: true
 Duration: 1:33
 URLs:
 - https://nightslights.bandcamp.com/track/performance
+- https://www.youtube.com/watch?v=LnqsUO9JQd0
 Art Tags:
 - Selene (Oceanfalls)
 Referenced Tracks:
@@ -161,6 +182,7 @@ Track: Brought This (Upon Yourself)
 Duration: 2:56
 URLs:
 - https://nightslights.bandcamp.com/track/brought-this-upon-yourself
+- https://www.youtube.com/watch?v=sRb2H4P0XSc
 Art Tags:
 - Corona (Oceanfalls)
 Referenced Tracks:
@@ -170,15 +192,22 @@ Track: Right Hand
 Duration: 1:39
 URLs:
 - https://nightslights.bandcamp.com/track/right-hand
+- https://www.youtube.com/watch?v=qN_19F7liMA
 Art Tags:
 - Lune (Oceanfalls)
 - 'cw: blood'
 ---
 Track: '--- Ending ---'
 Suffix Directory: true
+Additional Names:
+- Name: >-
+    Ending
+  Annotation: >-
+    [YouTube title & in-video](https://www.youtube.com/watch?v=fFZyu_zkYxo)
 Duration: 2:01
 URLs:
 - https://nightslights.bandcamp.com/track/ending
+- https://www.youtube.com/watch?v=fFZyu_zkYxo
 Art Tags:
 - Suvillan (Oceanfalls)
 ---
@@ -190,14 +219,17 @@ Additional Names:
 - Name: >-
     Firefly [bonus]
   Annotation: >-
-    [Bandcamp](https://nightslights.bandcamp.com/track/firefly-bonus)
+    [Bandcamp](https://nightslights.bandcamp.com/track/firefly-bonus),
+    [YouTube title & in-video](https://www.youtube.com/watch?v=uRqsh6yYkDg)
 Duration: 1:31
 URLs:
 - https://nightslights.bandcamp.com/track/firefly-bonus
+- https://www.youtube.com/watch?v=uRqsh6yYkDg
 Art Tags:
 - Kotori (Oceanfalls)
 Referenced Tracks:
 - Yellow and Purple
 Commentary: |-
-    <i>nights:</i>
+    <i>nights:</i> ([Bandcamp about blurb](https://nightslights.bandcamp.com/track/firefly-bonus))
+
     I wasn't going to keep this one in, but i decided against it in the last minute.
