@@ -32,7 +32,7 @@ Style: |-
         margin-bottom: 0.5em;
     }
 Content: |-
-    <h2 id="28-feb-2099"><html:a href="#28-feb-2099">[[date:28 February 2099]] - dusty shelves</a></h2>
+    <h2 id="13-feb-2025"><html:a href="#13-feb-2025">[[date:13 February 2025]] - dusty shelves</a></h2>
     <h3>site changes</h3>
     - changed how a recent search query is remembered so that it doesn't get in the way of page or sidebar content, nor of performing a new search, but still lets you jump between reuslts quickly
         - results are still remembered, but they're kept hidden until you click the search box again
