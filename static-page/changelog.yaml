@@ -55,6 +55,7 @@ Content: |-
     <!-- track section/placement changes (not fixes) -->
     - renamed "Bonus tracks" track sections to "Bonus track" when they contain just a single track, affecting albums [[album:homestuck-vol-1]], [[album:squiddles]], [[album:strife]], [[album:tumblrstuck-bent-ost-volume-0]], [[album:tumblrstuck-bent-ost-volume-2]], [[album:of-troles-and-chiptumes]], [[album:act-8-volume-1]], [[album:canwave]], [[album:vast-error-vol-2]], [[album:vast-error-vol-3]], [[album:cosmic-caretakers]], [[album:stlap2]], [[album:the-strider-mixtape]], [[album:catch-322]], [[album:muse-of-net]], [[album:the-nobles]], [[album:stlap3]], [[album:dead-shufflers-anything-goes]], [[album:crossmound-vol-1]], [[album:vinculum-vitae]], [[album:lofam5a2]], [[album:album-of-stories-and-imagination]], [[album:anthology-ii]], [[album:pathology]], [[album:shortcuts]], [[album:a-nameless-inheritance]], [[album:oceanfalls-vol-1]], [[album:oceanfalls-vol-3]], [[album:psycholonials]], [[album:deltarune-ch2-ost]], [[album:bittersweet]] ([[group:jamie-paige]]), [[album:cyber-city-sound-pak]], and [[album:midworld-merriment]] (thanks, Lanolin!)
     <h3>data fixes</h3>
+    - fixed [[track:enter-with-caliborn-destruction-adventure]] not sampling [[track:all-were-gonna-get]] (thanks, Interrobang, Lanolin!)
 
     <h2 id="13-feb-2025"><html:a href="#13-feb-2025">[[date:13 February 2025]] - dusty shelves</a></h2>
     <h3>site changes</h3>
