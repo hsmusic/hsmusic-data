@@ -4,41 +4,15 @@ Message: Sort artists alphabetically
 Sort Documents: artists.yaml
 By Properties: [name, directory]
 
-# References Beyond Homestuck
+# Additional Tracks
 
 ---
-Message: Sort "Miscellany by Homestuck musicians" alphabetically
-Sort Documents: album/references-beyond-homestuck.yaml
+Message: Sort More Homestuck Fandom alpahbetically
+Sort Documents: album/more-homestuck-fandom.yaml
 By Properties: [name, directory]
-Select Documents Following:
-  Section: "Miscellany by Homestuck musicians"
+Select Documents Under: Section
 ---
-Message: Sort "Music from video games" alphabetically
+Message: Sort References Beyond Homestuck alphabetically
 Sort Documents: album/references-beyond-homestuck.yaml
 By Properties: [name, directory]
-Select Documents Following:
-  Section: "Music from video games"
----
-Message: Sort "Music composed for movies, television, and other visual arts" alphabetically
-Sort Documents: album/references-beyond-homestuck.yaml
-By Properties: [name, directory]
-Select Documents Following:
-  Section: "Music composed for movies, television, and other visual arts"
----
-Message: Sort "Traditional music" alphabetically
-Sort Documents: album/references-beyond-homestuck.yaml
-By Properties: [name, directory]
-Select Documents Following:
-  Section: "Traditional music"
----
-Message: Sort "Other music originating outside Homestuck" alphabetically
-Sort Documents: album/references-beyond-homestuck.yaml
-By Properties: [name, directory]
-Select Documents Following:
-  Section: "Other music originating outside Homestuck"
----
-Message: Sort "Other works originating outside of Homestuck" alphabetically
-Sort Documents: album/references-beyond-homestuck.yaml
-By Properties: [name, directory]
-Select Documents Following:
-  Section: "Other works originating outside of Homestuck"
+Select Documents Under: Section
