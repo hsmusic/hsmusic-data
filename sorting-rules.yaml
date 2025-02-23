@@ -1,2 +1,9 @@
+Message: Sort artists alphabetically
 Sort Documents: artists.yaml
 By Properties: [name, directory]
+---
+Message: Sort "Miscellany by Homestuck musicians" alphabetically
+Sort Documents: album/references-beyond-homestuck.yaml
+By Properties: [name, directory]
+Select Documents Following:
+  Section: "Miscellany by Homestuck musicians"
