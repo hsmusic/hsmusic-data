@@ -15,14 +15,10 @@ Groups:
 - Beyond
 Wallpaper Artists:
 - Phos
-Wallpaper Style: |-
-    position: absolute;
-    background-position: top;
-    width: 100%;
-    height: 100%;
-    background-size: unset;
-    image-rendering: pixelated;
-    image-rendering: crisp-edges;
+Additional Files:
+- Title: Bandcamp background
+  Files:
+  - bg.png
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/album/gba-pok-mon-unbound-super-music-collection), excerpt)
 
