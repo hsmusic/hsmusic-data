@@ -8,7 +8,10 @@ Cover Artists:
 - Kalibration
 Wallpaper Artists:
 - Kalibration
-Wallpaper Style: 'opacity: 0.6;'
+Wallpaper Style: |-
+    opacity: 0.6;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Wallpaper File Extension: png
 URLs:
 - https://kalibration.bandcamp.com/album/haruspex-ost

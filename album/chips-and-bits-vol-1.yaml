@@ -11,6 +11,10 @@ Wallpaper Artists:
 - Jebb (edits for wiki)
 Cover Art File Extension: png
 Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.6;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 URLs:
 - https://kalibration.bandcamp.com/album/chips-bits-vol-1
 Color: '#ca7a70'
