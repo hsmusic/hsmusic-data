@@ -46958,6 +46958,11 @@ Commentary: |-
 Section: Other works originating outside of Homestuck
 Color: '#8ccaf1'
 ---
+Track: The Adventures of Robin Hood
+Artists:
+- The Adventures of Robin Hood
+Duration: 1:41:55
+---
 Track: Ah shit, here we go again.
 Artists:
 - Grand Theft Auto
@@ -46994,6 +46999,13 @@ Artists:
 URLs:
 - https://archive.org/details/babyface_morgan
 ---
+Track: THE BEAST II
+Duration: 2:21
+Artists:
+- Shiro Sagisu
+URLs:
+- https://www.youtube.com/watch?v=-ehdjdZwwTU
+---
 Track: Blast it up 01
 Duration: 0:17
 Artists:
@@ -47023,6 +47035,28 @@ Commentary: |-
 
     I cut it up to make it a better evil laugh
 ---
+Track: The Choir Invisible
+Duration: 4:08
+Artists:
+- Chris Christodoulou
+URLs:
+- https://www.youtube.com/watch?v=DMLeBpAgaNQ
+- https://chrischristodoulou.bandcamp.com/track/the-choir-invisible
+---
+Track: The City of Dreadful Night
+Artists:
+- Bysshe Vanolis
+URLs:
+- https://www.poetryfoundation.org/poems/45407/the-city-of-dreadful-night
+---
+Track: The Danganronpa 3 Experience
+Duration: 14:41
+Artists:
+- Marcie Hobbs
+- Austinado
+URLs:
+- https://www.youtube.com/watch?v=LCcxyCoAh9o
+---
 Track: Disney Bootlegs - JonTron
 # Specifically, the Circle of Life mini-cover
 Artists:
@@ -47040,6 +47074,13 @@ Artists:
 URLs:
 - https://youtu.be/1W0FwxNtukg?t=99
 - https://www.youtube.com/watch?v=eeZlj97sEC8
+---
+Track: 'The End of Evangelion - TV Spot #1'
+Duration: 0:14
+Artists:
+- Neon Genesis Evangelion
+URLs:
+- https://www.youtube.com/watch?v=4HALL5-PZu4
 ---
 Track: Flowey's Laugh
 Artists:
@@ -47116,6 +47157,13 @@ Artists:
 - Allen Ginsberg
 URLs:
 - https://www.poetryfoundation.org/poems/49303/howl
+---
+Track: The Imperial March
+Artists:
+- John Williams
+Duration: 3:00
+URLs:
+- https://www.youtube.com/watch?v=s3SZ5sIMY6o
 ---
 Track: impostor_kill
 Duration: 0:01
@@ -47211,6 +47259,13 @@ Artists:
 Duration: 1:00:39
 URLs:
 - https://soundcloud.com/floodgate-renewal/pastor-bill-bolin-roman-catholicism-cults-the-truth-behind-the-lies-42415
+---
+Track: The Pay-Off
+Duration: 1:05:00
+Artists:
+- Lowell Sherman
+URLs:
+- https://en.wikipedia.org/wiki/The_Pay-Off_(1930_film)
 ---
 Track: Randy Savage Promo on Hulk Hogan (1989)
 Duration: 3:17
@@ -47322,69 +47377,6 @@ URLs:
 - https://www.youtube.com/watch?v=SqayDnQ2wmw
 - https://aphextwin.bandcamp.com/track/t69-collapse
 ---
-Track: THE BEAST II
-Duration: 2:21
-Artists:
-- Shiro Sagisu
-URLs:
-- https://www.youtube.com/watch?v=-ehdjdZwwTU
----
-Track: The Choir Invisible
-Duration: 4:08
-Artists:
-- Chris Christodoulou
-URLs:
-- https://www.youtube.com/watch?v=DMLeBpAgaNQ
-- https://chrischristodoulou.bandcamp.com/track/the-choir-invisible
----
-Track: The City of Dreadful Night
-Artists:
-- Bysshe Vanolis
-URLs:
-- https://www.poetryfoundation.org/poems/45407/the-city-of-dreadful-night
----
-Track: The Adventures of Robin Hood
-Artists:
-- The Adventures of Robin Hood
-Duration: 1:41:55
----
-Track: The Danganronpa 3 Experience
-Duration: 14:41
-Artists:
-- Marcie Hobbs
-- Austinado
-URLs:
-- https://www.youtube.com/watch?v=LCcxyCoAh9o
----
-Track: 'The End of Evangelion - TV Spot #1'
-Duration: 0:14
-Artists:
-- Neon Genesis Evangelion
-URLs:
-- https://www.youtube.com/watch?v=4HALL5-PZu4
----
-Track: The Imperial March
-Artists:
-- John Williams
-Duration: 3:00
-URLs:
-- https://www.youtube.com/watch?v=s3SZ5sIMY6o
----
-Track: The Pay-Off
-Duration: 1:05:00
-Artists:
-- Lowell Sherman
-URLs:
-- https://en.wikipedia.org/wiki/The_Pay-Off_(1930_film)
----
-Track: The Truth About Calder - Vast Error Dubbed
-Duration: 8:14
-Artists:
-- Marcie Hobbs
-- Rom M
-URLs:
-- https://www.youtube.com/watch?v=792eOVKfSFQ
----
 Track: Through fire, justice is served!
 Artists:
 - Mischief Makers
@@ -47393,6 +47385,14 @@ URLs:
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 1/12/2024)
     Spoken by Lunar during the final boss of *Mischief Makers*, which doesn't appear to have voice acting credits available.
+---
+Track: The Truth About Calder - Vast Error Dubbed
+Duration: 8:14
+Artists:
+- Marcie Hobbs
+- Rom M
+URLs:
+- https://www.youtube.com/watch?v=792eOVKfSFQ
 ---
 Track: Tunnel Ambience
 Directory: tunnel-ambience-timbre
@@ -47442,6 +47442,19 @@ URLs:
 Referenced Tracks:
 - Sweet Victory
 ---
+Track: When You Are Old
+Artists:
+- William Butler Yeats
+URLs:
+- https://www.poetryfoundation.org/poems/43283/when-you-are-old
+---
+Track: Windows XP Startup Sound
+Duration: 0:05
+Artists:
+- Bill Brown
+URLs:
+- https://www.youtube.com/watch?v=D1wGOHHiMeU
+---
 Track: WOAH!
 Directory: woah-chris
 Always Reference By Directory: true
@@ -47461,19 +47474,6 @@ Artists:
 Duration: 0:01
 URLs:
 - https://www.youtube.com/watch?v=dQvacicf08A
----
-Track: When You Are Old
-Artists:
-- William Butler Yeats
-URLs:
-- https://www.poetryfoundation.org/poems/43283/when-you-are-old
----
-Track: Windows XP Startup Sound
-Duration: 0:05
-Artists:
-- Bill Brown
-URLs:
-- https://www.youtube.com/watch?v=D1wGOHHiMeU
 ---
 Track: Y'all Ready to Get Funky (Acapella)
 Artists:
