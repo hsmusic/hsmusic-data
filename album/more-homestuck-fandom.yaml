@@ -6,6 +6,16 @@ Color: '#7d88fa'
 ---
 Section: Fanmusic from the official team
 ---
+Track: Aradia's Theme (Pre-Death)
+Artists:
+- Toby Fox
+Duration: 2:06
+URLs:
+- https://www.youtube.com/watch?v=4deATGJcM4A
+Commentary: |-
+    <i>Niklink:</i> (wiki editor, 12/7/2022)
+    Unofficial name. If I recall correctly, I gave it that name for the Homestuck Sound Test because when [[group:toby-fox]] shared the track on his Tumblr, he shared it alongside a picture of Aradia (and nothing else to identify the song with), almost certainly the [[media:misc/aradias-theme-pre-death.png|same picture I used as track art for the song]] in the first versions of the Sound Test.
+---
 Track: A Baby Legend - The Baby is 2
 Directory: a-baby-legend
 Artists:
@@ -38,37 +48,66 @@ Commentary: |-
 
     I made this in early June but never posted it publicly. Sometimes I wonder what my life would be like if I actually finished the second album.
 ---
-Track: A Knight's Reflection
-Artists:
-- Malcolm Brown
-Duration: 4:13
-URLs:
-- https://www.youtube.com/watch?v=Q3XI2kyugT0
-- https://media.hsmusic.wiki/misc/archive/A%20Knight's%20Reflection.mp3
-Referenced Tracks:
-- Crustacean
-- Showtime (Original Mix)
-- Black Rose / Green Sun
----
-Track: Aradia's Theme (Pre-Death)
+Track: The Ballad of Jack Noir
+Directory: the-ballad-of-jack-noir-original
+Always Reference By Directory: true
 Artists:
 - Toby Fox
-Duration: 2:06
+Duration: 2:47
 URLs:
-- https://www.youtube.com/watch?v=4deATGJcM4A
+- https://www.youtube.com/watch?v=GqKvmyPhUf8
+Lyrics: |-
+    Greetings, useless peons
+    You've done terrible so far
+    Treading venom pools for eons
+    Suffering with no scar
+
+    Mercy everlasting
+    Hiding who you are
+    Welcome to the dark side
+    My name is Jack No...
+    Iiiiir!
+
+    I'm the overlord of badass
+    The shadow magic priest
+    Chosen ones cry out for mother
+    Of trouble you're the least!
+
+    I really hate these stupid hats
+    And that stupid king
+    That overarching monarch
+    Can shove something up his thing
+
+    (GRAVEYARD STUFFERS)
+    Oh yeah, they call me Jack Noir
+    You might think that I'm the star
+    When really there's a dad who makes me glad
+    I haven't had the pleasure, yes to treasure
+    This saturnine existence
+    'Tween these fenestrated walls
+
+    Goodbye, useless peons
+    You were horrible in life
+    Jumped off the galleon
+    'Thout so much as a Strife
+    [[track:archagent-everlasting|Archagent everlasting]]
+    I'll tear the sky ajar!
+
+    Goodnight everybody
+    My name is Jack- oh
+    My name is Spades- no!
+    My name is Jack Noir!
+
+    My name (My name is)
+    Jack Noir (Name is Jack)
+    (WHOP!)
 Commentary: |-
-    <i>Niklink:</i> (wiki editor, 12/7/2022)
-    Unofficial name. If I recall correctly, I gave it that name for the Homestuck Sound Test because when [[group:toby-fox]] shared the track on his Tumblr, he shared it alongside a picture of Aradia (and nothing else to identify the song with), almost certainly the [[media:misc/aradias-theme-pre-death.png|same picture I used as track art for the song]] in the first versions of the Sound Test.
----
-Track: A Sour Note of Aggitation Plays
-Artists:
-- Ian White
-- Eston Schweickart
-Duration: 1:31
-URLs:
-- https://media.hsmusic.wiki/misc/archive/A%20Sour%20Note%20of%20Aggitation%20Plays.mp3
-Referenced Tracks:
-- Sburban Jungle
+    <i>Toby Fox:</i>
+    I really wish I was better at singing homogenously hahahaha
+
+    Seriously considering a third person vocal arrangement for a jazz band
+
+    Also I didn't know noir wasn't two syllables so this song is kind of ruined for me hahaha
 ---
 Track: Bane
 Directory: bane-old
@@ -361,20 +400,6 @@ Commentary: |-
 
     However, I love both the harp and flute melodies in this song. It was a blast to play, and I'd definitely think about using them again at some point in the future.
 ---
-Track: Descend(Original Version)
-Date First Released: November 23, 2010
-Additional Names:
-- Descend (name in MP3 metadata)
-Duration: 1:48
-Artists:
-- Tensei
-URLs:
-- https://media.hsmusic.wiki/misc/archive/Descend(Original%20Version).mp3
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor, 12/14/2023)
-
-    [Details from Tindeck.](https://web.archive.org/web/20110317051823/http://tindeck.com/listen/jkbc) The earliest version of [[Cascade (Beta)]].
----
 Track: Descend2 (11/23)
 Additional Names:
 - Tensei-San - Descend2 (name on Tindeck)
@@ -413,6 +438,20 @@ Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 1/1/2025)
 
     The [[Descend]] reference here refers to the way this track cuts (with static) to [[track:friendship-aneurysm]].
+---
+Track: Descend(Original Version)
+Date First Released: November 23, 2010
+Additional Names:
+- Descend (name in MP3 metadata)
+Duration: 1:48
+Artists:
+- Tensei
+URLs:
+- https://media.hsmusic.wiki/misc/archive/Descend(Original%20Version).mp3
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 12/14/2023)
+
+    [Details from Tindeck.](https://web.archive.org/web/20110317051823/http://tindeck.com/listen/jkbc) The earliest version of [[Cascade (Beta)]].
 ---
 Track: Desperado
 Artists:
@@ -494,15 +533,6 @@ Duration: 4:20
 URLs:
 - https://media.hsmusic.wiki/misc/archive/Exploring%20the%20Depths%20of%20Sburb.mp3
 ---
-Track: Feel (Old Ver.)
-Artists:
-- Luke Benjamins
-Duration: 1:30
-URLs:
-- https://media.hsmusic.wiki/misc/archive/Feel%20%28Old%20Ver.%29.mp3
-#Referenced Tracks:
-#- track:feel-luke-benjamins
----
 Track: Feel
 Directory: feel-luke-benjamins
 Always Reference By Directory: true
@@ -514,6 +544,15 @@ URLs:
 - https://media.hsmusic.wiki/misc/archive/Feel.mp3
 Referenced Tracks:
 - track:feel-old-ver
+---
+Track: Feel (Old Ver.)
+Artists:
+- Luke Benjamins
+Duration: 1:30
+URLs:
+- https://media.hsmusic.wiki/misc/archive/Feel%20%28Old%20Ver.%29.mp3
+#Referenced Tracks:
+#- track:feel-luke-benjamins
 ---
 Track: Fill 'Em With Midnight
 Duration: 2:14
@@ -768,6 +807,18 @@ Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 1/17/2024)
 
     The linked file is dated April 16, 2012 (23:16:25 UTC).
+---
+Track: A Knight's Reflection
+Artists:
+- Malcolm Brown
+Duration: 4:13
+URLs:
+- https://www.youtube.com/watch?v=Q3XI2kyugT0
+- https://media.hsmusic.wiki/misc/archive/A%20Knight's%20Reflection.mp3
+Referenced Tracks:
+- Crustacean
+- Showtime (Original Mix)
+- Black Rose / Green Sun
 ---
 Track: '>Lexxer: Ascend'
 Artists:
@@ -1229,6 +1280,16 @@ Commentary: |-
 
     Bapping is what we in the music industry call DJing. We're very professional.
 ---
+Track: A Sour Note of Aggitation Plays
+Artists:
+- Ian White
+- Eston Schweickart
+Duration: 1:31
+URLs:
+- https://media.hsmusic.wiki/misc/archive/A%20Sour%20Note%20of%20Aggitation%20Plays.mp3
+Referenced Tracks:
+- Sburban Jungle
+---
 Track: Sunsetter (Ska)
 Artists:
 - Toby Fox
@@ -1288,67 +1349,6 @@ Commentary: |-
 
     An [[Teal Justice|updated version]] is featured on my EP [[album:rust-apocalypse|"Rust Apocalypse"]]!
 ---
-Track: The Ballad of Jack Noir
-Directory: the-ballad-of-jack-noir-original
-Always Reference By Directory: true
-Artists:
-- Toby Fox
-Duration: 2:47
-URLs:
-- https://www.youtube.com/watch?v=GqKvmyPhUf8
-Lyrics: |-
-    Greetings, useless peons
-    You've done terrible so far
-    Treading venom pools for eons
-    Suffering with no scar
-
-    Mercy everlasting
-    Hiding who you are
-    Welcome to the dark side
-    My name is Jack No...
-    Iiiiir!
-
-    I'm the overlord of badass
-    The shadow magic priest
-    Chosen ones cry out for mother
-    Of trouble you're the least!
-
-    I really hate these stupid hats
-    And that stupid king
-    That overarching monarch
-    Can shove something up his thing
-
-    (GRAVEYARD STUFFERS)
-    Oh yeah, they call me Jack Noir
-    You might think that I'm the star
-    When really there's a dad who makes me glad
-    I haven't had the pleasure, yes to treasure
-    This saturnine existence
-    'Tween these fenestrated walls
-
-    Goodbye, useless peons
-    You were horrible in life
-    Jumped off the galleon
-    'Thout so much as a Strife
-    [[track:archagent-everlasting|Archagent everlasting]]
-    I'll tear the sky ajar!
-
-    Goodnight everybody
-    My name is Jack- oh
-    My name is Spades- no!
-    My name is Jack Noir!
-
-    My name (My name is)
-    Jack Noir (Name is Jack)
-    (WHOP!)
-Commentary: |-
-    <i>Toby Fox:</i>
-    I really wish I was better at singing homogenously hahahaha
-
-    Seriously considering a third person vocal arrangement for a jazz band
-
-    Also I didn't know noir wasn't two syllables so this song is kind of ruined for me hahaha
----
 Track: The Thirteenth Troll
 Artists:
 - Toby Fox
@@ -1362,6 +1362,15 @@ Commentary: |-
     did something cute with UU’s theme from [[album:alternia|Alternia]]
 
     u_u;;;
+---
+Track: Three In The Morning (Davekind)
+Artists:
+- Clark Powell
+Duration: 2:50
+URLs:
+- https://soundcloud.com/eliwood-lord-of-pherae/three-in-the-morning-davekind
+Referenced Tracks:
+- track:three-in-the-morning
 ---
 Track: The Undying
 Artists:
@@ -1390,15 +1399,6 @@ Commentary: |-
     Right around when [[album:cherubim|Cherubim]] came out in March, I got a few requests to hear what the original sketches were for [[Red Sucker]] and [[Green Lolly]]. These were the skeletons that I gave the team. I worked with them through the process with input and suggestions on the pacing and structure, but they really took these simple ideas and ran in the best possible direction!
 
     The cherubs are bizarre creatures, and everything about them is pretty far out there, so I focused on chromaticism in the themes to give it some off kilter base. Caliborn is (pardon my French) a little shit. He’s diabolical and selfish. I decided to base this skeleton on a minor triad to give it a darker tone right off the bat. Mirroring it on the Calliope sketch accidentally gave it a [Kuja’s Theme](https://www.youtube.com/watch?v=ZAXn5t7WjkI) tone to it, which I ended up loving. I immediately approached [[artist:kalibration|Kali]] about adding his own personal flare to it. I’ve always been a monumental fan of his compositions, especially [[album:tomb-of-the-ancestors|TOTA]], which was the sound I was looking for. He nailed it exponentially!
----
-Track: Three In The Morning (Davekind)
-Artists:
-- Clark Powell
-Duration: 2:50
-URLs:
-- https://soundcloud.com/eliwood-lord-of-pherae/three-in-the-morning-davekind
-Referenced Tracks:
-- track:three-in-the-morning
 ---
 Track: Valor
 Directory: valor-toby-fox
@@ -1468,6 +1468,19 @@ Commentary: |-
     (The name’s a spin on the Hanz Zimmer track [“You’re so cool”](https://www.youtube.com/watch?v=1aRDZ6z9yT8) from the movie True Romance, but with some radical Latula Pyrope twist)
 ---
 Section: Other fanmusic
+---
+Track: 🤡
+Directory: clown-face
+Artists:
+- Tee-vee
+Duration: 8:58
+URLs:
+- https://www.youtube.com/watch?v=8hJt37dXAmQ
+Commentary: |-
+    <i>Tee-vee:</i>
+    BGM for the Grand Highblood route of DistantQuest, a fan-made friendsim game about the troll Ancestors from Homestuck. Check it out here: https://distantpast.itch.io/distantquest
+
+    Bandcamp release of the full soundtrack to come soon once the final character routes will be released !
 ---
 Track: Ascend (Famitracker 8-Bit Cover)
 Artists:
@@ -1556,19 +1569,6 @@ Artists:
 Duration: 3:06
 URLs:
 - https://www.youtube.com/watch?v=Db2MA-7geC4
----
-Track: 🤡
-Directory: clown-face
-Artists:
-- Tee-vee
-Duration: 8:58
-URLs:
-- https://www.youtube.com/watch?v=8hJt37dXAmQ
-Commentary: |-
-    <i>Tee-vee:</i>
-    BGM for the Grand Highblood route of DistantQuest, a fan-made friendsim game about the troll Ancestors from Homestuck. Check it out here: https://distantpast.itch.io/distantquest
-
-    Bandcamp release of the full soundtrack to come soon once the final character routes will be released !
 ---
 Track: 'Chelsea: Examine Room'
 Additional Names:
@@ -1663,89 +1663,63 @@ Commentary: |-
     we both made the front half of our tracks, and then traded motifs in the back half, so it really is a reciprocal reference
     sorry for your ears @ anyone who listens through this to confirm its existence
 ---
-Track: '[S] Dirk: Unite Synchronization (WITH LYRICS)'
+Track: The Engineer
 Artists:
-- toucanSandwiches
-Duration: 2:55
+- Aradia Jones
+Duration: 3:42
 URLs:
-- https://www.youtube.com/watch?v=osPRQThfC1E
-Referenced Tracks:
-- Unite Synchronization
+- https://soundcloud.com/aradia-jones/the-engineer-a-dirk-strider-1
 Lyrics: |-
-    Yo, I was out for a while
-    Cuz the red miles, Squarewave, get inside my sylladex
-    Gotta fix shit now with a freestyle
-    My team's a mess and it's all up to reflex
+    Gears spinning inside your head, silently
+    Maybe make a body out of lead if you're ready and
+    Lost inside a shell just a little bit proud of your genes
+    But blood and breath and bones aren't as helpful as they seem so
 
-    Shit's kinda typical but this'll be mighty difficult cuz additional syllables
-    Got a long road to hoe so let's go now acrobatic fucking pirouette
+    Build yourself a suit of armor
+    Encase the heart that still beats fast
+    Tighten screws and loosen wires
+    And build a soul not made of glass
 
-    C'mon I gotta go faster
-    Yo, I'm a blur, colored alabaster
-    Got that Crockercorp sendificator
-    Absurd, I'm like my own flight simulator
-    Zoom, speedyquick like my diction
-    Do flips and shit, I'm twistin'
-    Don't even care who's list'nin'
-    Brace for impact I'm liftin'—
-    Off, and I'm not even sweaty
-    Though if I were, what I'd need'd be a towel
-    Hey, yo, Sawtooth are you ready?
-    Here comes a cruxite dowel (Nice catch!)
+    It's an easy process if you're not seeing
+    Tear yourself apart and pick up all the pieces
+    Put 'em all back together with life and hope
+    But you lost those 400 years ago
 
-    Did I mention that I did this 'cause I gotta build speed, I'm relentless
-    Gotta penchant, gotta mighty need like an engine, end of sentence; cool re-entrance
+    An easy process if you're not believing
+    There's a virus in your system but the trojan is deceiving
+    And you find that you'd do anything, anything
+    If your heart said go and do anything, oh
 
-    (Yes.)
-    (Fuck, yes.)
-    (Hell, fucking, yes.)
+    Running throughout every vein, electricity
+    And you're running out of fuel but you'll repair yourself at sea
+    Talking to the ghost you can barely see
+    But they left you all with nothing, but nothing's all you need so
 
-    Oh
-    Damn, a dead Roxy sans grave
-    Yo Squarewave, take care of this place
-    Now I know it's odd, but I gotta snog
-    So go ahead and say it (Yeah dogg!)
-    Dude, that's hella gay
-    But hey I can't complain cuz the rogue is awake
-    That's one down, two to go, or one
-    If Roxy finds a way to partake
-    (She won't. She's straight.)
+    Build yourself a suit of armor
+    Encase the heart that still beats fast
+    Tighten screws and loosen wires
+    And build a soul not made of glass
 
-    Fuck it, gotta move, Squarewave, see ya later
-    Runnin' out of time, livin' on a prayer, got my
-    Bucket and my Crockercorp sendificator
-    Now as they say it's all gone pear shaped
-    There's no other way
-    So decapatation is my escape
-    Goodbye Squarewave, ja mata ne (<i>see you later</i>)
+    It's an easy process if you're just seeing
+    Tear yourself apart and pick up all the pieces
+    Put 'em all back together with life and hope
+    But you lost those 400 years ago
 
-    Yo, I'm back, did I miss shit?
-    No I didn't, this attempt is kinda pathetic
-    Doof, bitch, out the way
-    Daddy Dirk is taking care of liplocking with Jane
-    Looks like everything is okay
-    One step left and we're headed to Jake
-    Ya better hold on, because this thing is so fast
-    Holy shit I'm cool
+    An easy process if you're not believing
+    There's a virus in your system but the trojan is deceiving
+    And you find that you'd do anything, anything
+    If your heart said go and do anything
 
-    (Did I tell you how cool I am? Cuz I am so fucking awesome.)
-    (It's time for [Unintelligible])
-    Grab on to my fucking skateboard, I'm so
-    Cool, I saved the day, you're welcome watch this
-    Cool shit that I set up earlier it's no
-    Big deal, wait I lied it's actually the coolest thing ever!
-    (Sup.)
----
-Track: Glimpses Of Perfection [Loud]
-Directory: glimpses-of-perfection
-Artists:
-- SplitSuns
-URLs:
-- https://vasterror.bandcamp.com/track/glimpses-of-perfection-loud
-Referenced Tracks:
-- 'The End of Evangelion - TV Spot #1'
-- Uneven Compromise
-- Beyond the Wall (Intermission)
+    Well now the record broke, it's your time to shine
+    But the gear's are off beat and you forgot the rhyme
+    So let's bring it all back, do it one more time
+
+    Gears spinning inside your head, silently
+    Running throughout every vein, electricity
+    So build yourself a suit of armor
+    Encase the heart that still beats fast
+    Tighten screws and loosen wires
+    And build a soul not made of glass
 ---
 Track: Eridan's United States of Wwhatevver
 Artists:
@@ -1806,6 +1780,17 @@ URLs:
 Referenced Tracks:
 - Science Blaster
 - track:megalovania-undertale
+---
+Track: Glimpses Of Perfection [Loud]
+Directory: glimpses-of-perfection
+Artists:
+- SplitSuns
+URLs:
+- https://vasterror.bandcamp.com/track/glimpses-of-perfection-loud
+Referenced Tracks:
+- 'The End of Evangelion - TV Spot #1'
+- Uneven Compromise
+- Beyond the Wall (Intermission)
 ---
 Track: Heir of Grief Sax Cover
 Directory: heir-of-grief-sax-cover-youtube
@@ -1998,6 +1983,20 @@ Commentary: |-
     🎛️ DAW: Reaper<br>
     🎞️ Video Editing Software: Adobe Premiere Pro CC
 ---
+Track: The Land Of Wind And Shade
+Always Reference By Directory: true
+Directory: the-land-of-wind-and-shade-original
+Artists:
+- KDMAnderson
+Duration: 2:38
+URLs:
+- https://soundcloud.com/kdmanderson/the-land-of-wind-and-shade
+Commentary: |-
+    <i>KDMAnderson:</i> ([SoundCloud](https://soundcloud.com/kdmanderson/the-land-of-wind-and-shade))
+
+    This is sort of a tribute tune to the Webcomic "MS Paint Adventures". It's very fresh; I recorded it almost as soon as I finished writing it. I slathered on Phasers, Chorus, Reverb and Echo to support the dreamy feel of the piece. It's played almost entirely with harmonics. Altered Tuning, too. ;)
+    Enjoy!
+---
 Track: A Love Letter From Hyperion
 Artists:
 - Kal-la-kal-la
@@ -2152,6 +2151,13 @@ Duration: 2:01
 URLs:
 - https://www.youtube.com/watch?v=vXPyIEDZy9Q
 ---
+Track: The Paradox Paradigm
+Artists:
+- Jack McMenamin
+Duration: 3:14
+URLs:
+- https://media.hsmusic.wiki/misc/archive/The%20Paradox%20Paradigm.mp3
+---
 Track: Penumbra Phantasm
 # Date First Released: March 16, 2022
 Directory: penumbra-phantasm-ruby
@@ -2164,6 +2170,105 @@ Referenced Tracks:
 - Pseudumbra Phauxtasm
 URLs:
 - https://soundcloud.com/phantom_ruby/penumbra-phantasm
+---
+Track: The Respect You Rightfully Deserve
+Directory: the-respect-you-rightfully-deserve-soundcloud
+Always Reference By Directory: true
+Date First Released: 2023-07-08
+Duration: 6:46
+Artists:
+- autumnalEquinox
+Cover Artists:
+- Psychymify
+Sampled Tracks:
+- The Truth About Calder - Vast Error Dubbed
+URLs:
+- https://soundcloud.com/andromedamvsic/the-respect-you-rightfully-deserve
+Commentary: |-
+    <i>autumnalEquinox:</i> ([SoundCloud description](https://soundcloud.com/andromedamvsic/the-respect-you-rightfully-deserve), excerpt)
+
+    Based on the conversation that starts on this page: [www.deconreconstruction.com/vasterror/2222](https://www.deconreconstruction.com/vasterror/2222)
+
+    Special Thanks to:
+
+    [[artist:psychymify]] - Cover Art
+
+    [[artist:rom-m]] - Isolating the lines from this video: [youtu.be/792eOVKfSFQ](https://www.youtube.com/watch?v=792eOVKfSFQ&feature=youtu.be) + providing sheet music
+
+    You know who you are - Providing feedback on the song
+---
+Track: '[S] Dirk: Unite Synchronization (WITH LYRICS)'
+Artists:
+- toucanSandwiches
+Duration: 2:55
+URLs:
+- https://www.youtube.com/watch?v=osPRQThfC1E
+Referenced Tracks:
+- Unite Synchronization
+Lyrics: |-
+    Yo, I was out for a while
+    Cuz the red miles, Squarewave, get inside my sylladex
+    Gotta fix shit now with a freestyle
+    My team's a mess and it's all up to reflex
+
+    Shit's kinda typical but this'll be mighty difficult cuz additional syllables
+    Got a long road to hoe so let's go now acrobatic fucking pirouette
+
+    C'mon I gotta go faster
+    Yo, I'm a blur, colored alabaster
+    Got that Crockercorp sendificator
+    Absurd, I'm like my own flight simulator
+    Zoom, speedyquick like my diction
+    Do flips and shit, I'm twistin'
+    Don't even care who's list'nin'
+    Brace for impact I'm liftin'—
+    Off, and I'm not even sweaty
+    Though if I were, what I'd need'd be a towel
+    Hey, yo, Sawtooth are you ready?
+    Here comes a cruxite dowel (Nice catch!)
+
+    Did I mention that I did this 'cause I gotta build speed, I'm relentless
+    Gotta penchant, gotta mighty need like an engine, end of sentence; cool re-entrance
+
+    (Yes.)
+    (Fuck, yes.)
+    (Hell, fucking, yes.)
+
+    Oh
+    Damn, a dead Roxy sans grave
+    Yo Squarewave, take care of this place
+    Now I know it's odd, but I gotta snog
+    So go ahead and say it (Yeah dogg!)
+    Dude, that's hella gay
+    But hey I can't complain cuz the rogue is awake
+    That's one down, two to go, or one
+    If Roxy finds a way to partake
+    (She won't. She's straight.)
+
+    Fuck it, gotta move, Squarewave, see ya later
+    Runnin' out of time, livin' on a prayer, got my
+    Bucket and my Crockercorp sendificator
+    Now as they say it's all gone pear shaped
+    There's no other way
+    So decapatation is my escape
+    Goodbye Squarewave, ja mata ne (<i>see you later</i>)
+
+    Yo, I'm back, did I miss shit?
+    No I didn't, this attempt is kinda pathetic
+    Doof, bitch, out the way
+    Daddy Dirk is taking care of liplocking with Jane
+    Looks like everything is okay
+    One step left and we're headed to Jake
+    Ya better hold on, because this thing is so fast
+    Holy shit I'm cool
+
+    (Did I tell you how cool I am? Cuz I am so fucking awesome.)
+    (It's time for [Unintelligible])
+    Grab on to my fucking skateboard, I'm so
+    Cool, I saved the day, you're welcome watch this
+    Cool shit that I set up earlier it's no
+    Big deal, wait I lied it's actually the coolest thing ever!
+    (Sup.)
 ---
 Track: Shimmerserene
 Artists:
@@ -2282,13 +2387,6 @@ Lyrics: |-
     When you tear him apart
     Hurt my friends and break my heart
 ---
-Track: Teal Maestro
-Artists:
-- duplicatetape
-Duration: 4:12
-URLs:
-- https://youtu.be/6e9KaD4rt64
----
 Track: T-Godhead
 Artists:
 - Simply EJ
@@ -2303,121 +2401,12 @@ Duration: 3:01
 URLs:
 - https://altgenstuck.bandcamp.com/track/taureg
 ---
-Track: The Engineer
+Track: Teal Maestro
 Artists:
-- Aradia Jones
-Duration: 3:42
+- duplicatetape
+Duration: 4:12
 URLs:
-- https://soundcloud.com/aradia-jones/the-engineer-a-dirk-strider-1
-Lyrics: |-
-    Gears spinning inside your head, silently
-    Maybe make a body out of lead if you're ready and
-    Lost inside a shell just a little bit proud of your genes
-    But blood and breath and bones aren't as helpful as they seem so
-
-    Build yourself a suit of armor
-    Encase the heart that still beats fast
-    Tighten screws and loosen wires
-    And build a soul not made of glass
-
-    It's an easy process if you're not seeing
-    Tear yourself apart and pick up all the pieces
-    Put 'em all back together with life and hope
-    But you lost those 400 years ago
-
-    An easy process if you're not believing
-    There's a virus in your system but the trojan is deceiving
-    And you find that you'd do anything, anything
-    If your heart said go and do anything, oh
-
-    Running throughout every vein, electricity
-    And you're running out of fuel but you'll repair yourself at sea
-    Talking to the ghost you can barely see
-    But they left you all with nothing, but nothing's all you need so
-
-    Build yourself a suit of armor
-    Encase the heart that still beats fast
-    Tighten screws and loosen wires
-    And build a soul not made of glass
-
-    It's an easy process if you're just seeing
-    Tear yourself apart and pick up all the pieces
-    Put 'em all back together with life and hope
-    But you lost those 400 years ago
-
-    An easy process if you're not believing
-    There's a virus in your system but the trojan is deceiving
-    And you find that you'd do anything, anything
-    If your heart said go and do anything
-
-    Well now the record broke, it's your time to shine
-    But the gear's are off beat and you forgot the rhyme
-    So let's bring it all back, do it one more time
-
-    Gears spinning inside your head, silently
-    Running throughout every vein, electricity
-    So build yourself a suit of armor
-    Encase the heart that still beats fast
-    Tighten screws and loosen wires
-    And build a soul not made of glass
----
-Track: The Land Of Wind And Shade
-Always Reference By Directory: true
-Directory: the-land-of-wind-and-shade-original
-Artists:
-- KDMAnderson
-Duration: 2:38
-URLs:
-- https://soundcloud.com/kdmanderson/the-land-of-wind-and-shade
-Commentary: |-
-    <i>KDMAnderson:</i> ([SoundCloud](https://soundcloud.com/kdmanderson/the-land-of-wind-and-shade))
-
-    This is sort of a tribute tune to the Webcomic "MS Paint Adventures". It's very fresh; I recorded it almost as soon as I finished writing it. I slathered on Phasers, Chorus, Reverb and Echo to support the dreamy feel of the piece. It's played almost entirely with harmonics. Altered Tuning, too. ;)
-    Enjoy!
----
-Track: The Paradox Paradigm
-Artists:
-- Jack McMenamin
-Duration: 3:14
-URLs:
-- https://media.hsmusic.wiki/misc/archive/The%20Paradox%20Paradigm.mp3
----
-Track: The Respect You Rightfully Deserve
-Directory: the-respect-you-rightfully-deserve-soundcloud
-Always Reference By Directory: true
-Date First Released: 2023-07-08
-Duration: 6:46
-Artists:
-- autumnalEquinox
-Cover Artists:
-- Psychymify
-Sampled Tracks:
-- The Truth About Calder - Vast Error Dubbed
-URLs:
-- https://soundcloud.com/andromedamvsic/the-respect-you-rightfully-deserve
-Commentary: |-
-    <i>autumnalEquinox:</i> ([SoundCloud description](https://soundcloud.com/andromedamvsic/the-respect-you-rightfully-deserve), excerpt)
-
-    Based on the conversation that starts on this page: [www.deconreconstruction.com/vasterror/2222](https://www.deconreconstruction.com/vasterror/2222)
-
-    Special Thanks to:
-
-    [[artist:psychymify]] - Cover Art
-
-    [[artist:rom-m]] - Isolating the lines from this video: [youtu.be/792eOVKfSFQ](https://www.youtube.com/watch?v=792eOVKfSFQ&feature=youtu.be) + providing sheet music
-
-    You know who you are - Providing feedback on the song
----
-Track: The Well
-Artists:
-- Mathias Ramalho
-Duration: 3:48
-URLs:
-- https://friendlycoy.bandcamp.com/track/the-well
-- https://www.youtube.com/watch?v=FjyIoAYbSN4
-Commentary: |-
-    <i>Mathias Ramalho:</i> (Composer)
-    Made for a MSPA-styled, DnD Session, named "Colored Castles"
+- https://youtu.be/6e9KaD4rt64
 ---
 Track: Vacuum Spark
 Artists:
@@ -2439,6 +2428,17 @@ Artists:
 - pragmaticNihilist
 URLs:
 - https://soundcloud.com/pragmaticnihilist/welcome-to-night-vasterror
+---
+Track: The Well
+Artists:
+- Mathias Ramalho
+Duration: 3:48
+URLs:
+- https://friendlycoy.bandcamp.com/track/the-well
+- https://www.youtube.com/watch?v=FjyIoAYbSN4
+Commentary: |-
+    <i>Mathias Ramalho:</i> (Composer)
+    Made for a MSPA-styled, DnD Session, named "Colored Castles"
 ---
 Track: White King
 Artists:
@@ -2586,40 +2586,6 @@ Lyrics: |-
 ---
 Section: From the Cool and New Music Team
 ---
-Track: 半影の復帰
-Directory: hankage-fantazumu-2
-Additional Names:
-- Name: >-
-    半影の復帰 (Vol. 11 Cut (kinda))
-  Annotation: >-
-    [SoundCloud](https://soundcloud.com/difarem/vol-11-cut)
-Artists:
-- Difarem
-Duration: 1:55
-URLs:
-- https://soundcloud.com/difarem/vol-11-cut
-Referenced Tracks:
-- Penumbra Phantasm
-Commentary: |-
-    <i>Difarem:</i> ([SoundCloud](https://soundcloud.com/difarem/vol-11-cut), 7/20/2018)
-    https://coolandnewwebcomic.bandcamp.com/track/penumbra-phantasm-extended
-    Track art by [[artist:nights]]
-
-    will i ever finish this? find out never
-
-    <i>Makin:</i>
-    This is an unfinished version of the song known as "Hankage Fantazumu 2", which was never finished.
----
-Track: マイケルボウマンリミックス remix
-Directory: how-do-i-live-wub-machine-remix
-Artists:
-- Difarem
-Duration: 1:42
-Referenced Tracks:
-- How Do I Live (Bunny Back in the Box Version)
-Sampled Tracks:
-- How Do I Live (Bunny Back in the Box Version)
----
 Track: Anime Robot
 Artists:
 - Interrobang
@@ -2669,6 +2635,15 @@ Artists:
 Duration: 0:42
 URLs:
 - https://media.hsmusic.wiki/misc/archive/dirk%20has%20a%20high%20speed%20chase%20down%20the%20highway%20to%20get%20to%20the%20horse%20stable%20on%20time.mp3
+---
+Track: The Dirk Rap instrumental
+Artists:
+- artist:nedthenerd
+Duration: 2:19
+URLs:
+- https://soundcloud.com/nerd-minus-one/the-dirk-rap-instrumental-from-the-baby-is-2
+Referenced Tracks:
+- lucaslee.mp3
 ---
 Track: Doctor's Ringtone (No SFX)
 Artists:
@@ -2801,15 +2776,6 @@ Duration: 0:42
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/spooksong
 ---
-Track: The Dirk Rap instrumental
-Artists:
-- artist:nedthenerd
-Duration: 2:19
-URLs:
-- https://soundcloud.com/nerd-minus-one/the-dirk-rap-instrumental-from-the-baby-is-2
-Referenced Tracks:
-- lucaslee.mp3
----
 Track: Throguher song
 Artists:
 - WHATISLOSTINTHEMINES
@@ -2826,6 +2792,40 @@ URLs:
 - https://www.youtube.com/watch?v=2oKi4oxr2KU
 Referenced Tracks:
 - track:unintentional-touhou
+---
+Track: マイケルボウマンリミックス remix
+Directory: how-do-i-live-wub-machine-remix
+Artists:
+- Difarem
+Duration: 1:42
+Referenced Tracks:
+- How Do I Live (Bunny Back in the Box Version)
+Sampled Tracks:
+- How Do I Live (Bunny Back in the Box Version)
+---
+Track: 半影の復帰
+Directory: hankage-fantazumu-2
+Additional Names:
+- Name: >-
+    半影の復帰 (Vol. 11 Cut (kinda))
+  Annotation: >-
+    [SoundCloud](https://soundcloud.com/difarem/vol-11-cut)
+Artists:
+- Difarem
+Duration: 1:55
+URLs:
+- https://soundcloud.com/difarem/vol-11-cut
+Referenced Tracks:
+- Penumbra Phantasm
+Commentary: |-
+    <i>Difarem:</i> ([SoundCloud](https://soundcloud.com/difarem/vol-11-cut), 7/20/2018)
+    https://coolandnewwebcomic.bandcamp.com/track/penumbra-phantasm-extended
+    Track art by [[artist:nights]]
+
+    will i ever finish this? find out never
+
+    <i>Makin:</i>
+    This is an unfinished version of the song known as "Hankage Fantazumu 2", which was never finished.
 ---
 Section: From the Paradox Music Team
 ---
@@ -2969,6 +2969,13 @@ Duration: 3:40
 URLs:
 - https://potatoboss.bandcamp.com/track/vexation
 ---
+Track: Violet and Proud
+Artists:
+- Pascal van den Bos
+Duration: 1:37
+URLs:
+- https://media.hsmusic.wiki/misc/archive/Violet%20and%20Proud.mp3
+---
 Track: WilyEsp Remix Attempt WIP
 Artists:
 - Rainy
@@ -2978,25 +2985,7 @@ URLs:
 Referenced Tracks:
 - Wily Espionage
 ---
-Track: Violet and Proud
-Artists:
-- Pascal van den Bos
-Duration: 1:37
-URLs:
-- https://media.hsmusic.wiki/misc/archive/Violet%20and%20Proud.mp3
----
 Section: From Ophiuchus (Full Suite)
----
-Track: The Lime Muse
-Artists:
-- WarxTron
-Duration: 4:46
-URLs:
-- https://www.youtube.com/watch?v=0FJZV2S-nFM
-- https://soundcloud.com/user-98942170/ophiuchus-pt-1-the-lime-muse
-Commentary: |-
-    <i>WarxTron:</i>
-    The first part of a planned long song about Calliope and Caliborn im making. Yes, a Homestuck song after a long time! Enjoy,
 ---
 Track: The Blood Lord
 Artists:
@@ -3011,6 +3000,17 @@ Commentary: |-
     <i>WarxTron:</i>
     Finished Caliborn's part for Ophiuchus. This one took a while to finish, thanks a lot to salex_rekt for the Shreddage samples! Hope you enjoy.
 ---
+Track: The Lime Muse
+Artists:
+- WarxTron
+Duration: 4:46
+URLs:
+- https://www.youtube.com/watch?v=0FJZV2S-nFM
+- https://soundcloud.com/user-98942170/ophiuchus-pt-1-the-lime-muse
+Commentary: |-
+    <i>WarxTron:</i>
+    The first part of a planned long song about Calliope and Caliborn im making. Yes, a Homestuck song after a long time! Enjoy,
+---
 Track: Spacetime Subjugation
 Artists:
 - WarxTron
@@ -3021,6 +3021,17 @@ URLs:
 Commentary: |-
     <i>WarxTron:</i>
     Third part's here! We're getting close to the end. Hope you enjoy!
+---
+Track: Spirals (Including Illusions of Freedom)
+Artists:
+- WarxTron
+Duration: 4:58
+URLs:
+- https://www.youtube.com/watch?v=-Clh1iwNMeE
+- https://soundcloud.com/user-98942170/ophiuchus-final-part-spirals-including-illusions-of-freedom
+Commentary: |-
+    <i>WarxTron:</i>
+    And so finally, Ophiuchus is finished. I've been working on it since march, and now this 28 minute long prog rock homestuck epic is done. I had a lot of fun writing all this parts, although it's been quite hard sometimes. You can expect more prog rock songs like these in the future. Thank you all for listening.
 ---
 Track: Takeover / Havoc
 Artists:
@@ -3036,17 +3047,6 @@ Commentary: |-
     It is finally here, the fourth part of Ophiuchus, featuring the amazing David Ellis from Homestuck's Music Team on the Hammond Organ and my friend Fabricio Podestá  on electric guitar. Im really proud of this song, probably my best so far. Hope you enjoy!!
 
     [David Ellis recording the organ solo](https://www.youtube.com/watch?v=-UwPROFqghs)
----
-Track: Spirals (Including Illusions of Freedom)
-Artists:
-- WarxTron
-Duration: 4:58
-URLs:
-- https://www.youtube.com/watch?v=-Clh1iwNMeE
-- https://soundcloud.com/user-98942170/ophiuchus-final-part-spirals-including-illusions-of-freedom
-Commentary: |-
-    <i>WarxTron:</i>
-    And so finally, Ophiuchus is finished. I've been working on it since march, and now this 28 minute long prog rock homestuck epic is done. I had a lot of fun writing all this parts, although it's been quite hard sometimes. You can expect more prog rock songs like these in the future. Thank you all for listening.
 ---
 Section: Other audio-based fanworks
 ---
