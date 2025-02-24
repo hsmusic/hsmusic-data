@@ -24,8 +24,11 @@ Banner Dimensions: 1100x180
 Banner File Extension: png
 Wallpaper Artists:
 - Hadron
-Wallpaper File Extension: png
-Wallpaper Style: 'opacity: 0.9;'
+Wallpaper Parts:
+- Asset: none
+  Style: |-
+    background-color: #e5422e;
+    opacity: 0.9;
 Color: '#5178dd'
 Groups:
 - Cool and New Music Team

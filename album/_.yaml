@@ -36,8 +36,11 @@ Banner Dimensions: 1100x216
 Banner File Extension: png
 Wallpaper Artists:
 - Makin
-Wallpaper Style: 'opacity: 0.75;'
-Wallpaper File Extension: png
+Wallpaper Parts:
+- Asset: none
+  Style: |-
+    background-color: #352935;
+    opacity: 0.75;
 Color: '#9b779b'
 Groups:
 - Cool and New Music Team
