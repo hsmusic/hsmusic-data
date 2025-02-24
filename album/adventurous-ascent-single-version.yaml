@@ -8,7 +8,17 @@ URLs:
 - https://www.youtube.com/watch?v=u3QQQaniznw
 Cover Artists:
 - LudicrousFalcon
+Wallpaper Artists:
+- LudicrousFalcon
+- Niklink (edits for wiki)
+- Jebb (edits for wiki)
 Cover Art File Extension: png
+Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.6;
+    background-position: top;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Color: '#51c4ff'
 Groups:
 - Fandom

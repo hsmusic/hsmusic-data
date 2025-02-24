@@ -29,6 +29,31 @@ Art Tags:
 # - Also it kinda looks more like a captch card than sburb
 # - Also the fire might be Reckoning LOL
 - Gate
+Wallpaper Artists:
+- Wiiuski
+- Jebb (edits for wiki)
+- Niklink (edits for wiki)
+Wallpaper Parts:
+- Asset: none
+  Style: |-
+    background-color: #008442;
+    opacity: 1;
+- Asset: bg-left.png
+  Style: |-
+    background-position-x: 1%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 1;
+- Asset: bg-right.png
+  Style: |-
+    background-position-x: 98%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 1;
+- Asset: none
+  Style: |-
+    background-color: #000000;
+    opacity: 0.4;
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://pascalpotatovandenbos.bandcamp.com/album/the-homestuck-strife-project-vol-1-original-soundtrack))
 

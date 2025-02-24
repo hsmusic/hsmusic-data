@@ -18,7 +18,11 @@ Groups:
 - Fandom
 Wallpaper Artists:
 - Lilithtreasure (edits for wiki)
-Wallpaper File Extension: png
+Wallpaper Parts:
+- Asset: none
+  Style: |-
+    opacity: 0.6;
+    background-image: linear-gradient(#000000 0%,#000000 36.6%, #FFFDD0 36.6%, #FFFDD0 37.33%, #270000 37.33%, #270000 62%); 
 Commentary: |-
    <i>Raid:</i> ([Bandcamp about blurb](https://rudecustard.bandcamp.com/track/black))
 

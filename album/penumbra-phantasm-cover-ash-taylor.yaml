@@ -16,12 +16,15 @@ Art Tags:
 - LoWaS
 Wallpaper Artists:
 - Ash Taylor
+- Niklink (edits for wiki)
 Cover Art File Extension: png
-Wallpaper File Extension: png
-Wallpaper Style: |-
-    opacity: 0.8;
+Wallpaper Parts:
+- Asset: bg.png
+  Style: |-
+    background-position: center;
+    background-size: auto;
     background-repeat: no-repeat;
-    background-size: 1400px;
+    opacity: 0.6;
 Commentary: |-
     <i>Ash Taylor:</i> ([Bandcamp about blurb](https://estrobiologist.bandcamp.com/track/penumbra-phantasm-cover))
 

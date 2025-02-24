@@ -15,6 +15,27 @@ Groups:
 - Beyond
 Wallpaper Artists:
 - Phos
+Wallpaper Parts:
+- Asset: none
+  Style: |-
+    background-color: #220730;
+    opacity: 1;
+- Asset: bg-left.png
+  Style: |-
+    background-position: 10% top;
+    background-size: auto;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+- Asset: bg-right.png
+  Style: |-
+    background-position: 90% top;
+    background-size: auto;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+- Asset: none
+  Style: |-
+    background-color: #000000;
+    opacity: 0.3;
 Additional Files:
 - Title: Bandcamp background
   Files:

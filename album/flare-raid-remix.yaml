@@ -17,7 +17,23 @@ Art Tags:
 Wallpaper Artists:
 - Raid
 - Lilithtreasure (edits for wiki)
-Wallpaper File Extension: jpg
+- Niklink (edits for wiki)
+Wallpaper Parts:
+- Asset: bg-back.jpg
+  Style: |-
+    background-size: contain;
+    background-repeat: repeat-x;
+    opacity: 1;
+- Asset: bg-left.jpg
+  Style: |-
+    background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 1;
+- Asset: none
+  Style: |-
+    background-color: #000000;
+    opacity: 0.35;
 Commentary: |-
    <i>Raid:</i> ([Bandcamp about blurb](https://rudecustard.bandcamp.com/track/flare-raid-remix))
 
