@@ -232,6 +232,7 @@ Direct Descendant Tags:
 Tag: Oceanfalls (media)
 Direct Descendant Tags:
 - Characters from Oceanfalls
+- Locations from Oceanfalls
 ---
 Tag: Undertale & Deltarune (media)
 Direct Descendant Tags:
@@ -4456,6 +4457,129 @@ Tag: 'Mobile locations (Homestuck: Beyond Canon)'
 Direct Descendant Tags:
 - The Theseus
 
+# Locations from Oceanfalls, by classification (TBD).
+# Note: this contains *all* location tags from Oceanfalls,
+# including "individual location entries", because we're
+# going for a more world-specific networked setup.
+# It could get shuffled around differently later.
+# Entries remain alphabetical.
+
+---
+Tag: Locations from Oceanfalls
+Direct Descendant Tags:
+- Monster World (Oceanfalls)
+- Human World (Oceanfalls)
+- The Barrier (Oceanfalls)
+- Winged Overworld (Oceanfalls)
+---
+Tag: Akkarmara (Oceanfalls)
+Color: '#940cb5'
+Direct Descendant Tags:
+- Forest of Illusions (Oceanfalls)
+- Red Tulip Town (Oceanfalls)
+- Cavern of Illusions (Oceanfalls)
+---
+Tag: Aria's house (Oceanfalls)
+Color: '#9868bc'
+---
+Tag: The Barrier (Oceanfalls)
+Color: '#8aa0b6'
+---
+Tag: Cavern of Illusions (Oceanfalls)
+Color: '#6fa8dc'
+---
+Tag: Forest of Illusions (Oceanfalls)
+Color: '#940cb5'
+Direct Descendant Tags:
+- Red Tulip Graveyard (Oceanfalls)
+---
+Tag: Glacialis (Oceanfalls)
+Color: '#ecacd7'
+Direct Descendant Tags:
+- Rose Bud (Oceanfalls)
+- Icicle Bay (Oceanfalls)
+---
+Tag: Garnet Tower (Oceanfalls)
+Color: '#ff0401'
+Direct Descendant Tags:
+- Suvillan's throne room (Oceanfalls)
+---
+Tag: Human World (Oceanfalls)
+Color: '#5c66e8'
+Direct Descendant Tags:
+- Regalis (Oceanfalls)
+- Glacialis (Oceanfalls)
+- Terminus (Oceanfalls)
+---
+Tag: Hyouga (Oceanfalls)
+Color: '#61a4ba'
+---
+Tag: Icicle Bay (Oceanfalls)
+Color: '#76d8fd'
+Direct Descendant Tags:
+- Tipsy Fish (Oceanfalls)
+---
+Tag: Monster World (Oceanfalls)
+Color: '#ff0401'
+Direct Descendant Tags:
+- Akkarmara (Oceanfalls)
+- Ryuuen (Oceanfalls)
+- Hyouga (Oceanfalls)
+---
+Tag: The Moon (Oceanfalls)
+Color: '#e2b82c'
+---
+Tag: Red Tulip Town (Oceanfalls)
+Color: '#eb0013'
+Direct Descendant Tags:
+- Aria's house (Oceanfalls)
+- Red Tulip Graveyard (Oceanfalls)
+---
+Tag: Red Tulip Graveyard (Oceanfalls)
+Color: '#787878'
+---
+Tag: Regalis (Oceanfalls)
+Color: '#64a8ce'
+Direct Descendant Tags:
+- Royal City (Oceanfalls)
+- Regalis Laboratories (Oceanfalls)
+---
+Tag: Regalis Laboratories (Oceanfalls)
+Color: '#21f2c8'
+---
+Tag: Rose Bud (Oceanfalls)
+Color: '#fef49f'
+---
+Tag: Royal City (Oceanfalls)
+Color: '#5c66e8'
+---
+Tag: Ryuuen (Oceanfalls)
+Color: '#56b260'
+Direct Descendant Tags:
+- Garnet Tower (Oceanfalls)
+---
+Tag: Stellar Nursery (Oceanfalls)
+Color: '#d87b56'
+---
+Tag: Suvillan's throne room (Oceanfalls)
+Color: '#ff0401'
+---
+Tag: Terminus (Oceanfalls)
+Color: '#abecdd'
+Direct Descendant Tags:
+- Wither Garden (Oceanfalls)
+---
+Tag: Tipsy Fish (Oceanfalls)
+Color: '#a1a1a1'
+---
+Tag: Wither Garden (Oceanfalls)
+Color: '#548e68'
+---
+Tag: Winged Overworld (Oceanfalls)
+Color: '#73ba7e'
+Direct Descendant Tags:
+- Stellar Nursery (Oceanfalls)
+
 # Locations from Redditstuck, by classification.
 
 ---
@@ -4859,6 +4983,11 @@ Color: '#f2a400'
 ---
 Tag: Deltritus
 Color: '#62c9e7'
+
+# Locations from Oceanfalls.
+
+# No entries here, refer to:
+# "Locations from Oceanfalls, by classification."
 
 # Locations from Redditstuck.
 
