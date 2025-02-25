@@ -57,7 +57,10 @@ Wallpaper File Extension: png
 Wallpaper Artists:
 - Robert J! Lake
 - Niklink (edits for wiki)
-Wallpaper Style: 'opacity: 0.8;'
+Wallpaper Style: |-
+    opacity: 0.75;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Additional Files:
 - Title: Bandcamp Banner and Background
   Files:
