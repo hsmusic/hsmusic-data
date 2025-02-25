@@ -30,8 +30,23 @@ Banner Artists:
 - Niklink (edits for wiki)
 Banner Dimensions: 1100x180
 Banner File Extension: png
-Wallpaper Style: 'opacity: 0.8;'
-Wallpaper File Extension: png
+Wallpaper Parts:
+- Asset: bg-left.png
+  Style: |-
+    background-position-x: 1%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 1;
+- Asset: bg-right.png
+  Style: |-
+    background-position-x: 99%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 1;
+- Asset: none
+  Style: |-
+    background-color: #000000;
+    opacity: 0.2;
 Wallpaper Artists:
 - Shelby Cragg
 - Niklink (edits for wiki)
