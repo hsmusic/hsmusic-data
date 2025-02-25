@@ -32,13 +32,13 @@ Wallpaper Parts:
     opacity: 1;
 - Asset: bg-left.png
   Style: |-
-    background-position-x: 1%;
+    background-position-x: calc(1% + 0.5 * min(0px, 100vw - 1380px / 1206px * 100vh));
     background-size: contain;
     background-repeat: no-repeat;
     opacity: 1;
 - Asset: bg-right.png
   Style: |-
-    background-position-x: 98%;
+    background-position-x: calc(99% - 0.5 * min(0px, 100vw - 1380px / 1206px * 100vh));
     background-size: contain;
     background-repeat: no-repeat;
     opacity: 1;

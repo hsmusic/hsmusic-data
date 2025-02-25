@@ -6,8 +6,16 @@ Cover Artists:
 Wallpaper Artists:
 - Kalibration
 - Niklink (edits for wiki)
-Wallpaper Style: 'opacity: 0.35;'
-Wallpaper File Extension: png
+- Quasar Nebula (edits for wiki)
+Wallpaper Parts:
+- Asset: bg.png
+  Style: |-
+    opacity: 0.75;
+    filter: saturate(0.6) brightness(5) contrast(0.8);
+- Asset: none
+  Style: |-
+    background: black;
+    opacity: 0.74;
 Date: August 4, 2017
 Date Added: January 29, 2025
 URLs:
