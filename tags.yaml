@@ -3431,7 +3431,7 @@ Tag: Nervous Broad
 Color: '#26cb68'
 ---
 Tag: Death
-Color: '#222222'
+Color: '#7f7f7f'
 ---
 Tag: Demimonde Goddess
 Color: '#47c5ff'
@@ -3923,10 +3923,10 @@ Tag: Najash (Team Paradox)
 Color: '#00ab00'
 ---
 Tag: Tolero (Team Paradox)
-Color: '#001a4b'
+Color: '#1342ae'
 ---
 Tag: Tronno (Team Paradox)
-Color: '#3e1384'
+Color: '#6c28dc'
 ---
 Tag: Vladis (Team Paradox)
 Color: '#009938'
@@ -4471,6 +4471,7 @@ Direct Descendant Tags:
 - Human World (Oceanfalls)
 - The Barrier (Oceanfalls)
 - Winged Overworld (Oceanfalls)
+- The Moon (Oceanfalls)
 ---
 Tag: Akkarmara (Oceanfalls)
 Color: '#940cb5'
@@ -5449,9 +5450,9 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Rocket
 ---
 Tag: Rollercoaster
+Color: '#d92f27'
 Direct Descendant Tags:
 - MR BONES WILD RIDE
-Color: '#851f1a'
 
 # Musical instruments.
 
@@ -5654,7 +5655,7 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Sicklekind#Homes_Smell_Ya_Later
 ---
 Tag: Hunting Rifle
-Color: '#34220a'
+Color: '#aa7633'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Riflekind#Hunting_Rifle
 ---
@@ -5814,15 +5815,17 @@ Extra Reading URLs:
 ---
 Tag: White Magnum
 Color: '#e2e2e2'
-# Description: |-
-#     Doubles as the [[tag:white-wand]].
+Related Tags:
+- Tag: White Wand
+  Annotation: object duality
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Pistolkind#White_magnum
 ---
 Tag: White Wand
 Color: '#e2e2e2'
-# Description: |-
-#     Doubles as the [[tag:white-magnum]].
+Related Tags:
+- Tag: White Magnum
+  Annotation: object duality
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wandkind#White_wand
 ---
@@ -5834,41 +5837,41 @@ Extra Reading URLs:
 # Objects from Problem Sleuth.
 
 ---
-Tag: Handgun
-Color: '#383838'
-Related Tags:
-- Tag: PS Key
-  Annotation: Object Duality
----
-Tag: PS Key
-Color: '#383838'
-Related Tags:
-- Tag: Handgun
-  Annotation: Object Duality
----
-Tag: Tommy Gun
-Color: '#2a2a2a'
-Related Tags:
-- Tag: Ring of Keys
-  Annotation: Object Duality
----
-Tag: Ring of Keys
-Color: '#4a4a4a'
-Related Tags:
-- Tag: Tommy Gun
-  Annotation: Object Duality
----
-Tag: Machine Gun
-Color: '#333333'
-Related Tags:
-- Tag: Hairpin
-  Annotation: Object Duality
----
 Tag: Hairpin
-Color: '#434343'
+Color: '#c1c1c1'
 Related Tags:
 - Tag: Machine Gun
-  Annotation: Object Duality
+  Annotation: object duality
+---
+Tag: Handgun
+Color: '#c8c8c8'
+Related Tags:
+- Tag: PS Key
+  Annotation: object duality
+---
+Tag: Machine Gun
+Color: '#c4c4c4'
+Related Tags:
+- Tag: Hairpin
+  Annotation: object duality
+---
+Tag: PS Key
+Color: '#c8c8c8'
+Related Tags:
+- Tag: Handgun
+  Annotation: object duality
+---
+Tag: Ring of Keys
+Color: '#eaeaea'
+Related Tags:
+- Tag: Tommy Gun
+  Annotation: object duality
+---
+Tag: Tommy Gun
+Color: '#bababa'
+Related Tags:
+- Tag: Ring of Keys
+  Annotation: object duality
 
 # Objects from SBaHJ.
 
@@ -6005,7 +6008,7 @@ Tag: Breath
 Color: '#47dff9'
 ---
 Tag: Doom
-Color: '#306800'
+Color: '#439100'
 ---
 Tag: FreshJamz
 Color: '#ff1366'
@@ -6051,7 +6054,7 @@ Tag: Time
 Color: '#ff2106'
 ---
 Tag: Void
-Color: '#104ea2'
+Color: '#2468c5'
 
 # Iconography from MSPA.
 
