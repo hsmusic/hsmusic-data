@@ -3780,16 +3780,6 @@ Duration: 2:05
 URLs:
 - https://www.youtube.com/watch?v=6cuDFYZXw0c
 ---
-Track: Dark Mountain Forest
-# Reference:
-#   https://vgmdb.net/album/885
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:52
-URLs:
-- https://www.youtube.com/watch?v=jGbhi5U4Qb0
----
 Track: The Dark One
 Directory: the-dark-one-scott-pilgrim
 # Official release:
@@ -7097,6 +7087,17 @@ Artists:
 Duration: 1:10
 URLs:
 - https://youtu.be/TyN4aGJVkKY
+---
+Track: Mountains and Forests of the Dark World
+# Reference:
+#   https://vgmdb.net/album/885
+Artists:
+- The Legend of Zelda
+- Koji Kondo
+Duration: 1:57
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/5f118cf9-a5f8-43e1-9aa6-a969a6a07e1f
+- https://www.youtube.com/watch?v=jGbhi5U4Qb0
 ---
 Track: Mt. Layuda
 # Reference:
