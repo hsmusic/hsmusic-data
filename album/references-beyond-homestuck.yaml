@@ -6449,7 +6449,7 @@ Duration: 1:25
 URLs:
 - https://www.youtube.com/watch?v=YYuocN46Fac
 Referenced Tracks:
-- 'Select Screen (The Legend of Zelda: A Link to the Past)'
+- 'Player Select (The Legend of Zelda: A Link to the Past)'
 ---
 Track: Lights, Camera, Action! - Studiopolis Zone Act 1
 # Official release:
@@ -7725,6 +7725,17 @@ Commentary: |-
     <i>Makin:</i> (wiki editor, 8/13/2023)
     Also known as Cave Story's Title Theme or Main Theme.
 ---
+Track: 'Player Select (The Legend of Zelda: A Link to the Past)'
+# Reference:
+#   https://vgmdb.net/album/885
+Artists:
+- The Legend of Zelda
+- Koji Kondo
+Duration: 1:02
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/fad03893-fb53-4f9d-8da7-60ae433f996d
+- https://www.youtube.com/watch?v=Lahn6mN-hnk
+---
 Track: Poké Mart (Pokémon Ruby / Pokémon Sapphire)
 # Reference:
 #   https://vgmdb.net/album/1024
@@ -8650,16 +8661,6 @@ Artists:
 Duration: 3:01
 URLs:
 - https://www.youtube.com/watch?v=fKex3QoPc8A
----
-Track: 'Select Screen (The Legend of Zelda: A Link to the Past)'
-# Reference:
-#   https://vgmdb.net/album/885
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:55
-URLs:
-- https://www.youtube.com/watch?v=Lahn6mN-hnk
 ---
 Track: September Pumpkin
 # No official release of the in-game track
