@@ -77,6 +77,7 @@ Content: |-
     <!-- track section/placement changes (not fixes) -->
     - renamed "Bonus tracks" track sections to "Bonus track" when they contain just a single track, affecting albums [[album:homestuck-vol-1]], [[album:squiddles]], [[album:strife]], [[album:tumblrstuck-bent-ost-volume-0]], [[album:tumblrstuck-bent-ost-volume-2]], [[album:of-troles-and-chiptumes]], [[album:act-8-volume-1]], [[album:canwave]], [[album:vast-error-vol-2]], [[album:vast-error-vol-3]], [[album:cosmic-caretakers]], [[album:stlap2]], [[album:the-strider-mixtape]], [[album:catch-322]], [[album:muse-of-net]], [[album:the-nobles]], [[album:stlap3]], [[album:dead-shufflers-anything-goes]], [[album:crossmound-vol-1]], [[album:vinculum-vitae]], [[album:lofam5a2]], [[album:album-of-stories-and-imagination]], [[album:anthology-ii]], [[album:pathology]], [[album:shortcuts]], [[album:a-nameless-inheritance]], [[album:oceanfalls-vol-1]], [[album:oceanfalls-vol-3]], [[album:psycholonials]], [[album:deltarune-ch2-ost]], [[album:bittersweet]] ([[group:jamie-paige]]), [[album:cyber-city-sound-pak]], and [[album:midworld-merriment]] (thanks, Lanolin!)
     - colored "Disc 2" track section in [[album:bowmanstuck]] to a nice red (thanks, ruby!)
+    - moved [[track:chamber-complex]] from [[album:references-beyond-homestuck]] to [[album:more-homestuck-fandom]] (thanks, Makin!)
     <!-- renamed art tags -->
     - renamed "Chelsea's Sis (Redditstuck)" to [[tag:chelseas-sis-redditstuck|Chelsea's sis (Redditstuck)]]
     - renamed "Bowman" to [[tag:michael-guy-bowman|Michael Guy Bowman]]
@@ -92,6 +93,7 @@ Content: |-
     <!-- reference fixes -->
     - fixed [[track:enter-with-caliborn-destruction-adventure]] not sampling [[track:all-were-gonna-get]] (thanks, Interrobang, Lanolin!)
     - fixed [[track:limefalls]] not referencing [[track:rozepiano]] (thanks, Nevermind!)
+    - fixed [[track:chamber-complex]] not referencing [[track:penumbra-phantasm]] (thanks, Makin!)
     <!-- crediting fixes -->
     - tidied credits for [[track:lifelight-jp]] and [[track:lifelight]] (thanks, ruby!)
         - moved contributors besides [[artist:hideki-sakamoto]] into contributors, rather than artists
