@@ -685,7 +685,10 @@ URLs:
 - https://youtu.be/gbiS4WkCOVo?t=9580
 ---
 Track: Ham And Steak
+Date First Released: 5/27/2016
 Artists:
+- Malcolm Brown
+Cover Artists:
 - Malcolm Brown
 Duration: 8:24
 URLs:
@@ -700,6 +703,118 @@ Referenced Tracks:
 - Showtime (Original Mix)
 - Apexhalation
 - Doctor
+Commentary: |-
+    <i>Malcolm Brown:</i> ([SoundCloud description](https://soundcloud.com/dragonxvi/ham-and-steak-unused-homestuck-music))
+
+    A whole bunch of unused Homestuck music in no particular order. A good chunk of this is some final boss concepts merged with what would later become [[track:oppa-toby-style|"Oppa Toby Style"]] by Toby Fox, along with some other misc tracks. Figure it's nice for a bit of posterity although don't expect anything cleaned up... (That's for later :D)
+
+    Contains references to tracks from [[artist:toby-fox|Toby Fox]], [[artist:mark-j-hadley|Mark Hadley]], [[artist:buzinkai|George Buzinkai]] and probably someone else I'm forgetting.
+
+    <i>Grace Medley:</i> ([HSMusic Discord](https://discord.com/channels/749042497610842152/749067042250031214/1353306034281648202), 3/23/2025)
+
+    Alright, I promised I’d make a case for it, so let’s discuss the question of **Who Oppa’d Toby’s Style?**
+
+    The entire ambiguity to the case of whether or not Malcolm Brown had a hand in writing [[Oppa Toby Style]] stemmed from the following description to Ham and Steak on SoundCloud:
+
+    > A whole bunch of unused Homestuck music in no particular order. A good chunk of this is some final boss concepts merged with what would later become "Oppa Toby Style" by Toby Fox, along with some other misc tracks.
+
+    So what I want to do is first look at what this remark might actually mean, and then why it wouldn’t have made sense for Malcolm to have written any material which appears in the final version of Oppa Toby Style. And I’m realising now as I write this that I’m going to have to write an entire serious breakdown of artists’ musical techniques while repeatedly saying “Oppa Toby Style”.
+
+    **Part 1: The SoundCloud Description**
+
+    So the bit to focus on here is “A good chunk of this is some final boss concepts merged with what would later become "Oppa Toby Style" by Toby Fox”. This has caused some confusion because some people have taken it to mean, “This is the missing link between Rex English and Oppa Toby Style”, when what it’s saying at face value is, “This interpolates what would one day be Oppa Toby Style, which didn’t exist at the time”.
+
+    What’s important to note is that Malcolm says “merged with”, rather than “is”, and nowhere in this description does he indicate that “what would later become "Oppa Toby Style"” is something which he himself had penned. Let me draw a diagram:
+
+    <img src="media/misc/ham-and-steak/ham-and-steak-lineage.png" width="480" height="270">
+
+    So to begin with, there’s no reason to believe Malcolm Brown wrote what would later become Oppa Toby Style. Now I’m going to explain why there is reason to believe that he didn’t. For the “is” scenario in the above diagram to be true – that is to say, for there to be elements of Oppa Toby Style  written by Malcolm Brown – there needs to be at least one element present in Ham and Steak and Oppa Toby Style, and not in Rex English. And as it happens, there is one. The main ostinato:
+
+    <img src="media/misc/ham-and-steak/oppa-toby-style-ostinato.png" width="486" height="60">
+
+    <audio src="media/misc/ham-and-steak/Exhibit A - OstinaToby Style.mp3"></audio>
+
+    **Part 2: The Rhythm**
+
+    Now I do want to stress beforehand that everything I’m going to explain in this section pertains to Malcolm’s work in 4/4 time. I’m ignoring tracks like [[Joy And Dreams Eternal]], [[Apexhalation]], and all the rest of them, because the following just doesn’t apply to them.
+
+    The rhythm is a bit of a smoking gun because there’s very little variety in how Malcolm writes rhythm, and the main ostinato does not fall under that umbrella. The first point is that this ostinato is played throughout OTS on guitar and on bass, which you won’t find to be true of the main rhythm of any of Malcolm Brown’s tracks. The overwhelming majority of the time, one of Malcolm’s main rhythms will either be on the drums:
+
+    <audio src="media/misc/ham-and-steak/Exhibit B - Drum Examples.mp3"></audio>
+
+    Or the strings:
+
+    <audio src="media/misc/ham-and-steak/Exhibit C - String Examples.mp3"></audio>
+
+    Even if you’re not musical, try to clap along to these tracks. You should find that you’re clapping alongside these instruments, whether it be alongside every note, or along every phrase of notes (e.g. with DYRM, you’re probably clapping along to each descending set of eight notes in the strings (or possibly subdividing each of those phrases into two groups of four notes)).
+
+    The other, and even more important matter, is that the palette of rhythms Malcolm uses is very, very small. Disqualifying tracks without a particularly strong rhythm (or the aforementioned outside-of-4/4 tracks) I could only find three rhythms which appear in his work.
+
+    Some of the below examples feature slight embellishment – Malcolm generally adds a few notes here or there to his drum or string ostinati, because they’re built from very elementary rhythms. I’ve tried to collect examples with as little embellishment as possible in the hopes of conveying the general idea of each rhythm.
+
+    A straight rhythm (with the occasional variation of the rhythm being played on the backbeat). This is the simplest kind of rhythm there is, and the most consistent. This is a beat where every note is the same length:
+
+    <audio src="media/misc/ham-and-steak/Exhibit D - Straight.mp3"></audio>
+
+    A swung rhythm, which you can think of as sounding like a “galloping” beat. This one should feel like short beats, followed by long beats. Short-long. Short-long. Short-long:
+
+    <audio src="media/misc/ham-and-steak/Exhibit E - Swung.mp3"></audio>
+
+    And... I don’t think there’s a name for this one? It’s a very, very common variation on the straight rhythm with the third beat split in half. You can count it out as... One! Two! Three and four! Or maybe it might be easier to understand as... Long, long, short-short-long. Here are some examples:
+
+    <img src="media/misc/ham-and-steak/one-two-three-and-four.png" width="532" height="236">
+
+    <audio src="media/misc/ham-and-steak/Exhibit F - One Two Three-and-Four.mp3"></audio>
+
+    Now let’s refer back to the Oppa Toby Style ostinato in exhibit A.
+
+    You may notice that this doesn’t fit any of the above categories at all, even when we simplify it:
+
+    <img src="media/misc/ham-and-steak/entirely-new-guy.png" width="532" height="236">
+
+    If you can’t read music, count out these ratios. ONE-two-three-four-ONE-two-three-four-ONE-two-three-ONE-two-three-ONE-two. Do that fast enough and you should start to feel yourself counting out the Oppa Toby Style rhythm.
+
+    <img src="media/misc/ham-and-steak/4-4-3-3-2.png" width="532" height="236">
+
+    Now, if you’re a Toby Fox diehard, you’ll recognise this tendency to start a bar with long notes and finish it with short ones anywhere:
+
+    > <i>[[artist:toby-fox|Toby Fox]]:</i> “Here's my theory about why people favor the syncopation they do: It seems like ending a measure with a shorter note ON the beat leads into the next measure more naturally. It even sounds like a leadin: dun-DUN! This is supported by the fact that one of the most popular syncopations in existence is the one in 4/4 that goes 3 3 2. This is probably the same principle.”
+
+    Let’s hear some more examples of Toby’s rhythms that end bars with shorter notes than they start with.
+
+    <audio src="media/misc/ham-and-steak/Exhibit G - The Toby Lead-In.mp3"></audio>
+
+    This is the kind of thing where, once you notice how often Toby does it, you kind of can’t un-see it. The frequency with which he ends a bar quickly to lead in to the next one is astounding, and he’s right – it really is a useful tool for making music catchier!
+
+    So while it’s not impossible based on the rhythm alone that OTS’s main ostinato could have been written by Malcolm, it’s a very long shot from his signature sound, and it is something Toby pulls off a lot. But rhythm isn’t all there is to the ostinato.
+
+    **Part 3: The Melody**
+
+    Let’s look again at the sheet music to the ostinato.
+
+    <img src="media/misc/ham-and-steak/oppa-toby-style-ostinato.png" width="486" height="60">
+
+    If you can sight-read and you know anything about jazz, you could probably peg this as being in the hexatonic blues scale (with a seventh from the harmonic minor, or sharp seventh, at the end of the second bar). If you don’t know anything about jazz, the hexatonic blues scale is the pentatonic minor scale, but you’re fun enough to have a flat fifth in there every now and then. If you don’t know any music theory at all, you’ll recognise this scale from every time Toby does something dark and jazzy sounding. Here are the first five examples I could think of:
+
+    <audio src="media/misc/ham-and-steak/Exhibit H - Toby Blues.mp3"></audio>
+
+    Malcolm, on the other hand, sticks to your usual classical diatonic scales (your natural minor and major keys, that sort of thing – music without any sharps or flats in the scale), with very, very few exceptions. In fact, I trawled through every single Malcolm Brown track I could, and found literally only one example of a flat fifth in all of his music that wasn’t a cover of someone else. It’s at the start of Time Is Money, which Malcolm describes as “based on a old [sic] track I did yonks ago” and “abandoned because it was kinda naff”.
+
+    <img src="media/misc/ham-and-steak/time-is-money.png" width="198" height="45">
+
+    <audio src="media/misc/archive/Time Is Money.mp3"></audio>
+
+    That is, to my knowledge, the only time Malcolm Brown has ever penned a single flat fifth.
+
+    **Conclusion**
+
+    Ultimately I guess what I’m asking is which possibility takes fewer assumptions to believe:
+
+    1. A key component of Oppa Toby Style, which matches Toby’s musical style exactly, was actually written by Malcolm Brown, who was uncredited, did not explicitly credit himself as writing, and who very, very rarely ever used even one of the characteristic marks of Toby Fox’s style, let alone multiple at the same time, or
+
+    2. A few people read the SoundCloud description the wrong way?
+
+    Also B.T.W. there’s [[Penumbra Phantasm]] in Ham and Steak at 7:43 (it’s the piano) and in Oppa Toby Style at 4:48 (in the left ear)
 ---
 Track: haunt
 Directory: haunt-andrew-hussie
@@ -1053,8 +1168,8 @@ Commentary: |-
 
     so [[track:descend|descend]] references [[track:endless-climb|endless climb]], but I've noticed that the way it sounds there, here in this one (Nautical Climb) (around 1:13), it's like, less buried and rawer
 
-    <audio src="/media/misc/nautical-climb-endless-climb.mp3" controls></audio><br>
-    <audio src="/media/misc/descend-endless-climb.mp3" controls></audio>
+    <audio src="media/misc/nautical-climb-endless-climb.mp3" inline></audio><br>
+    <audio src="media/misc/descend-endless-climb.mp3" inline></audio>
 
     <i>Quasar Nebula:</i> (wiki editor, 2/8/2025)
 
