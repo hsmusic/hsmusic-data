@@ -136,7 +136,7 @@ Wallpaper Artists:
 Wallpaper Style: 'opacity: 0.75;'
 Wallpaper File Extension: png
 Track Art File Extension: png
-Default Track Cover Art Date: October 25, 2017
+# Default Track Cover Art Date: October 25, 2017
 ---
 Section: Main album
 ---
@@ -145,11 +145,23 @@ Duration: 1:31
 URLs:
 - https://homestuck.bandcamp.com/track/crustacean-2
 - https://youtu.be/U5CGEwHZoss
-Cover Artists:
-- Kirvia
-Art Tags:
-- Karkat
-- Alternia
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - Kirvia
+  Tags:
+  - Karkat
+  - Alternia
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Karkat
+  - Karkat's lusus # Crabsprite
+  - Karkat's hive
+  - Karkat's sickle
 Sheet Music Files:
 - Title: Band arrangement by Ryan "Jay Furor" Burnette
   Files:
@@ -177,20 +189,27 @@ Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 11/13/2023)
 
     "Harlequin (partial)" refers, as it was [originally credited](https://web.archive.org/web/20100209092013/http://www.mspaintadventures.com/soundcredits.html), to the shorter cut of Harlequin which was used in [[flash:88|[S] John: Enter.]]
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/crustacean.png" width="300">
 ---
 Track: Showdown
 Duration: 1:43
 URLs:
 - https://homestuck.bandcamp.com/track/showdown-2
 - https://youtu.be/5mdkmTXDG2I
-Cover Artists:
-- sicklydoodles
-Art Tags:
-- Karkat
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - sicklydoodles
+  Tags:
+  - Karkat
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Karkat
+  - Karkat's lusus
+  - Karkat's sickle
 Sheet Music Files:
 - Title: Sheet music by Gamehunter
   Files:
@@ -226,10 +245,6 @@ Commentary: |-
     ????????
 
     ok that's better. now I am the biggest jerk.
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/showdown.png" width="300">
 ---
 Track: mIrAcLeS
 Additional Names:
@@ -238,12 +253,22 @@ Duration: 2:31
 URLs:
 - https://homestuck.bandcamp.com/track/miracles-2
 - https://youtu.be/ztovKMiiolU
-Cover Artists:
-- scatterpunk
-Art Tags:
-- Gamzee
-- Gamzee's lusus
-- Alternia
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - scatterpunk
+  Tags:
+  - Gamzee
+  - Gamzee's lusus
+  - Alternia
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Gamzee
+  - Gamzee's hive
 Lyrics: |-
     Miracles
     Miracles
@@ -275,21 +300,27 @@ Commentary: |-
     MIRACLES.
 
     PS - Andrew wanted to put a ton of honking on this track to the point that the actual music was undiscernable. He actually linked me to some free sound websites and told me to register. I guess in that way, this track is off-character for Gamzee. If he wants the honking he's going to have to do it himself and make it a bonus track; I think I'm more content with this track than any of the other oens and I don't think it needs to be ruined by anything except my own voice saying "MIRACLES..."
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/miracles.png" width="300">
 ---
 Track: The Lemonsnout Turnabout
 Duration: 2:23
 URLs:
 - https://homestuck.bandcamp.com/track/the-lemonsnout-turnabout-2
 - https://youtu.be/pvgyx0w8B1E
-Cover Artists:
-- rose-ebottles
-Art Tags:
-- Terezi
-- Scalemates
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - rose-ebottles
+  Tags:
+  - Terezi
+  - Scalemates
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Terezi
+  - Scalemates
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -316,23 +347,32 @@ Commentary: |-
     (Lemonsnout screams as he is thrown out the window.)
 
     THE END
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/the-lemonsnout-turnabout.png" width="300">
 ---
 Track: Phaze and Blood
 Duration: 1:38
 URLs:
 - https://homestuck.bandcamp.com/track/phaze-and-blood-2
 - https://youtu.be/fNsqqoGNLpE
-Cover Artists:
-- floralmarsupial
-Art Tags:
-- Karkat
-- Karkat's hive
-- LoPaH
-- 'cw: blood (abstract)'
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - floralmarsupial
+  Tags:
+  - Karkat
+  - Karkat's hive
+  - LoPaH
+  - 'cw: blood (abstract)'
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Karkat
+  - Karkat's hive
+  - LoPaH
+  - Homes Smell Ya Later
+  - Gate
 MIDI Project Files:
 - Title: MIDI by IronInvoker47 (piano)
   Files:
@@ -349,10 +389,6 @@ Commentary: |-
     My inspiration for this track (and I think superior to it even as a theme for Karkat's medium, at least for the first few notes) is ["Burn in the Dark"](https://www.youtube.com/watch?v=ucB7vR5ln1c) from Brandish 3. Fantastic track from an awesome-terrible video game with a wicked soundtrack.
 
     BURRRRRRRRRRRRRRN BABY BURRRRRRRRRRRRRRN.
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/phaze-and-blood.png" width="300">
 ---
 Track: psych0ruins
 Additional Names:
@@ -361,10 +397,20 @@ Duration: 2:15
 URLs:
 - https://homestuck.bandcamp.com/track/psych0ruins-2
 - https://youtu.be/ueccsD074a8
-Cover Artists:
-- Josefin B.
-Art Tags:
-- Aradia
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - Josefin B.
+  Tags:
+  - Aradia (ghost)
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Aradia (ghost)
+  - Alternia
 Sheet Music Files:
 - Title: Sheet music by Gamehunter
   Files:
@@ -387,22 +433,29 @@ Commentary: |-
     Today just found out AA was dead all along... this theme seems a lot more haunting now.
 
     Fitting.
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/psych0ruins.png" width="300">
 ---
 Track: Walls Covered In Blood
 Duration: 2:00
 URLs:
 - https://homestuck.bandcamp.com/track/walls-covered-in-blood-2
 - https://youtu.be/REM1E8wC3Gs
-Cover Artists:
-- lime-time
-Art Tags:
-- Nepeta
-- Nepeta's lusus
-- Nepeta's hive
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - lime-time
+  Tags:
+  - Nepeta
+  - Nepeta's lusus
+  - Nepeta's hive
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Nepeta
+  - Nepeta's hive
+  - 'cw: blood'
 # Sampled Tracks:
 # - Mario Paint
 MIDI Project Files:
@@ -421,10 +474,6 @@ Commentary: |-
     But some people might not like my choice to sacrifice sound quality for nostalgic novelty - that's why I made the [[Walls Covered in Blood DX|DX version]]. (Just for little whiners like you.)
 
     Hopefully this piece is successfully cute. As cute as the fabled mountain of cute? I don't think so. I can only hope. If it is, please tell me. I will be so proud.
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/walls-covered-in-blood.png" width="300" warning="blood">
 ---
 Track: dESPERADO ROCKET CHAIRS,
 Additional Names:
@@ -433,12 +482,22 @@ Duration: 1:37
 URLs:
 - https://homestuck.bandcamp.com/track/desperado-rocket-chairs-2
 - https://youtu.be/KPYJ9TuXZmQ
-Cover Artists:
-- deuxknives
-Art Tags:
-- Tavros
-- Rockets
-- LoSaZ
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - deuxknives
+  Tags:
+  - Tavros
+  - Rockets
+  - LoSaZ
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Tavros
+  - Tavros' hive
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -459,23 +518,31 @@ Commentary: |-
     desperado rocket chair joust duh. FLY FLY FIGHT THEM OFF TAVROS
 
     (Actually, I could see the jousting donation page using this song... Andrew, how much money does it cost for me to request an [S] donation page...?)
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/desperado-rocket-chairs.png" width="300">
 ---
 Track: Death of the Lusii
 Duration: 2:00
 URLs:
 - https://homestuck.bandcamp.com/track/death-of-the-lusii-2
 - https://youtu.be/mrflmgFRrYo
-Cover Artists:
-- Aeritus
-Art Tags:
-- Gamzee
-- Gamzee's lusus
-- Alternia
-- 'cw: animal death'
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - Aeritus
+  Tags:
+  - Gamzee
+  - Gamzee's lusus
+  - Alternia
+  - 'cw: animal death'
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Gamzee
+  - Gamzee's lusus
+  - Alternia
+  - 'cw: animal death'
 Referenced Tracks:
 - Crustacean
 Commentary: |-
@@ -494,21 +561,29 @@ Commentary: |-
     MY SQUIDDLE DOLL HAS A STOMACHE-ACHE.
 
     Et cetera.
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/death-of-the-lusii.png" width="300" warning="animal death">
 ---
 Track: Virgin Orb
 Duration: 2:23
 URLs:
 - https://homestuck.bandcamp.com/track/virgin-orb-2
 - https://www.youtube.com/watch?v=xHuyPJpvo4Y
-Cover Artists:
-- allyssinian
-Art Tags:
-- Kanaya
-- Matriorb
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - allyssinian
+  Tags:
+  - Kanaya
+  - Matriorb
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Kanaya
+  - Kanaya's lusus
+  - Lipstick
+  - Alternia
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -525,10 +600,6 @@ Commentary: |-
     <br>... and die.
 
     (I imagine that GA would be on the other moon than Tavros actually, but... now that I think about it, wouldn't it be fitting if the two "teams" were split up according which moon they were on? So maybe it's not too far-fetched that I'm thinking this.)
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/virgin-orb.png" width="300">
 ---
 Track: The La2t Frontiier
 Additional Names:
@@ -537,10 +608,19 @@ Duration: 1:50
 URLs:
 - https://homestuck.bandcamp.com/track/the-la2t-frontiier-2
 - https://youtu.be/aPd9mP7ZrlY
-Cover Artists:
-- Kirvia
-Art Tags:
-- Sollux
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - Kirvia
+  Tags:
+  - Sollux
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Sollux
 Referenced Tracks:
 - Sunsetter
 - Guile's Theme
@@ -578,21 +658,26 @@ Commentary: |-
     <br>WE
 
     <br>WON'T.
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/the-la2t-frontiier.png" width="300">
 ---
 Track: Skaian Summoning
 Duration: 2:22
 URLs:
 - https://homestuck.bandcamp.com/track/skaian-summoning-2
 - https://youtu.be/gWBlVTuyp0s
-Cover Artists:
-- scatterpunk
-Art Tags:
-- Reckoning
-- Communal Hive Stems
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - scatterpunk
+  Tags:
+  - Reckoning
+  - Communal Hive Stems
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Alternia
 MIDI Project Files:
 - Title: MIDI by Unknown (piano, partial)
   Files:
@@ -605,10 +690,6 @@ Commentary: |-
     but
 
     is there anything i can do to change your mind?
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/skaian-summoning.png" width="300">
 ---
 Section: Bonus tracks
 Description: >-
@@ -621,7 +702,6 @@ URLs:
 - https://youtu.be/SixKHx18sqk
 Cover Artists:
 - Homestuck
-Cover Art Date: July 18, 2010
 Cover Art File Extension: jpg
 Referenced Tracks:
 - Sburban Jungle
@@ -688,10 +768,19 @@ Duration: 0:37
 URLs:
 - https://homestuck.bandcamp.com/track/spiders-claw
 - https://youtu.be/ZA9M-ZpdlC8
-Cover Artists:
-- fenkko
-Art Tags:
-- Vriska
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - fenkko
+  Tags:
+  - Vriska
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Vriska
 Sheet Music Files:
 - Title: Sheet music by Gamehunter
   Files:
@@ -719,10 +808,6 @@ Commentary: |-
     I'm also sure she has a different track if you fight her as a boss. Why don't you think about what that would sound like instead, little boy?
 
     bluh bluh mwuh mwuh
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/spiders-claw.png" width="300">
 ---
 Track: Staring
 Additional Names:
@@ -732,13 +817,22 @@ Duration: 1:21
 URLs:
 - https://homestuck.bandcamp.com/track/staring
 - https://youtu.be/4TUOfRlT1ks
-Cover Artists:
-- pbnj-art
-Art Tags:
-- Equius
-- Equius' bots
-- 'cw: asphyxiation (abstract)'
-- 'cw: body horror (abstract)'
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - pbnj-art
+  Tags:
+  - Equius
+  - Equius' bots
+  - 'cw: asphyxiation (abstract)'
+  - 'cw: body horror (abstract)'
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Equius
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -753,10 +847,6 @@ Commentary: |-
     Those chainsaws are from my favorite game, of course. But who didn't expect that?
 
     This track is kind of hilarious in retrospect, after seeing what Equius has become. He really needs a nice manly abusive wifebeaterly wrestling theme with a lot of highfalutin' harpsichord sensibilities, you know what I mean? I do. Watch out.
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/staring.png" width="300">
 ---
 Track: Keepers
 Additional Names:
@@ -766,13 +856,24 @@ Duration: 1:55
 URLs:
 - https://homestuck.bandcamp.com/track/keepers
 - https://youtu.be/Sy3Au5UsykI
-Cover Artists:
-- frantastically
-Art Tags:
-- Eridan
-- Feferi
-- Feferi's lusus
-- Alternia
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - frantastically
+  Tags:
+  - Eridan
+  - Feferi
+  - Feferi's lusus
+  - Alternia
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Feferi
+  - Ψdon's Entente
+  - Alternia
 MIDI Project Files:
 - Title: MIDI by Twix Stix (from Sburbmon)
   Files:
@@ -789,10 +890,6 @@ Commentary: |-
     I asked Andrew and he said Caligula invented horse hugs. So there.
 
     (I also told my mom that. She believed me.)
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/keepers.png" width="300">
 ---
 Track: Theme
 Additional Names:
@@ -802,11 +899,21 @@ Duration: 1:28
 URLs:
 - https://homestuck.bandcamp.com/track/theme-2
 - https://youtu.be/S2Pr-_j0qcc
-Cover Artists:
-- Sollay
-Art Tags:
-- Aradia
-- Communal Hive Stems
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - Sollay
+  Tags:
+  - Aradia
+  - Communal Hive Stems
+- Directory: original
+  File Extension: jpg
+  Artists:
+  - Homestuck
+  Tags:
+  - Alternia
 Sheet Music Files:
 - Title: Sheet music by Gamehunter
   Files:
@@ -825,10 +932,6 @@ Commentary: |-
     Sorry.
 
     That's the end.
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/theme.jpg" width="300">
 ---
 Track: Walls Covered in Blood DX
 Additional Names:
@@ -838,16 +941,20 @@ Duration: 2:01
 URLs:
 - https://homestuck.bandcamp.com/track/walls-covered-in-blood-dx-2
 - https://youtu.be/WPqca-NWV2k
-Cover Artists:
-- atissi
-Art Tags:
-- Nepeta
-- Nepeta's lusus
-- Nepeta's hive
-- 'cw: blood'
+Track Artwork:
+- Label: Anthology art
+  Source: '[ALTERNIA/BOUND](https://alterniaart.tumblr.com)'
+  Date: October 25, 2017
+  Artists:
+  - atissi
+  Tags:
+  - Nepeta
+  - Nepeta's lusus
+  - Nepeta's hive
+  - 'cw: blood'
+- Directory: original
+  File Extension: jpg
+  Artists:
+  - Homestuck
 Referenced Tracks:
 - Walls Covered In Blood
-Commentary: |-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/walls-covered-in-blood-dx.jpg" width="300">
