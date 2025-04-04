@@ -59,7 +59,7 @@ Content: |-
     <!-- link additions -->
     - added YouTube track and playlist links across [[album:oceanfalls-vol-1]], [[album:oceanfalls-vol-2]], [[album:oceanfalls-vol-3]], [[album:oceanfalls-vol-4]], and [[album:oceanfalls-vol-five]] (thanks, Lanolin!)
     - added YouTube listening links to [[track:buskers-theme]], [[track:cascade2]], [[track:nautical-climb]], [[track:skaia-voyages]], and [[track:skaian-shuffle]] (thanks, meulanie, Lanolin!)
-    - added Nintendo Music listening links to [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]], [[track:dj-kk-instrumental]], [[track:fight-on-heroes]], [[track:ground-bgm-super-mario-bros-2]], [[track:ground-bgm-super-mario-bros-3]], [[track:king-of-the-koopas]], [[track:mountains-and-forests-of-the-dark-world]], [[track:player-select-the-legend-of-zelda-a-link-to-the-past]], [[track:save-the-world-heroes]], [[track:title-find-mii]], [[track:title-find-mii-ii]], [[track:world-1-map-grass-land]], [[track:world-6-map-ice-land]], and [[track:world-8-map-dark-land]] (thanks, ruby, vriska!)
+    - added Nintendo Music listening links to [[track:big-blue]], [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]], [[track:death-wind]], [[track:dj-kk-instrumental]], [[track:fight-on-heroes]], [[track:fire-field]], [[track:ground-bgm-super-mario-bros-2]], [[track:ground-bgm-super-mario-bros-3]], [[track:king-of-the-koopas]], [[track:mountains-and-forests-of-the-dark-world]], [[track:mute-city]], [[track:player-select-the-legend-of-zelda-a-link-to-the-past]], [[track:port-town]], [[track:red-canyon]], [[track:sand-ocean]], [[track:save-the-world-heroes]], [[track:title-find-mii]], [[track:title-find-mii-ii]], [[track:white-land-i]], [[track:world-1-map-grass-land]], [[track:world-6-map-ice-land]], [[track:world-8-map-dark-land]], and [[track:you-lost-f-zero]] (thanks, ruby, vriska!)
     <!-- additional files additions -->
     - added Bandcamp background files for [[album:your-majesty]], [[album:bowmanstuck]], and [[album:gba-pokemon-unbound-super-music-collection]] (thanks, Niklink!)
     - added Bandcamp banner file for [[album:fraymotif-fighters]] (thanks, Niklink!)
@@ -107,23 +107,57 @@ Content: |-
         - fixed [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] being named "Select Screen (The Legend of Zelda: A Link to the Past)"
         - fixed [[track:title-find-mii]] being named "Title Theme (Find Mii)"
         - fixed [[track:title-find-mii-ii]] being named "Title Theme (Find Mii II)"
+        - fixed [[track:white-land-i]] being named "White Land"
         - fixed [[track:world-1-map-grass-land]] being named "World 1 (Super Mario Bros. 3)"
         - fixed [[track:world-6-map-ice-land]] being named "World 6 (Super Mario Bros. 3)"
         - fixed [[track:world-8-map-dark-land]] being named "World 8 (Super Mario Bros. 3)"
+        - fixed [[track:you-lost-f-zero]] being named "Life Lost (F-ZERO)"
     - fixed [[track:ground-theme-smb2-ssbu]], [[track:ground-theme-smb3-ssbu]], and [[track:king-bowser-smb3-ssbu]] (all [[album:super-smash-bros-ultimate]]) being named with dot after number, instead of after "Bros" (thanks, ruby!)
     <!-- general data fixes -->
     - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby, vriska!)
+        - fixed duration of [[track:afternoon-on-the-island-tomodachi-collection]] (was 1:39, now 1:40)
+        - fixed duration of [[track:bathing-nintendogs]] (was 2:53, now 2:54)
+        - fixed duration of [[track:battle-golden-sun]] (was 2:37, now 2:38)
+        - fixed duration of [[track:big-blue]] (was none, now 2:33)
+        - fixed duration of [[track:big-boos-haunt]] (was 3:04, now 3:05)
         - fixed duration of [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]] (was 2:23, now 2:21)
+        - fixed duration of [[track:death-wind]] (was none, now 2:23)
         - fixed duration of [[track:dj-kk-instrumental]] (was 1:24, now 1:43)
+        - fixed duration of [[track:dragon-roost-island]] (was 3:00, now 3:01)
         - fixed duration of [[track:fight-on-heroes]] (was none, now 2:41)
+        - fixed duration of [[track:the-final-battle-super-mario-64]] (was 2:49, now 2:50)
+        - fixed duration of [[track:fire-field]] (was 1:47, now 3:14)
+        - fixed duration of [[track:gang-plank-galleon]] (was 1:48, now 1:49)
         - fixed duration of [[track:ground-bgm-super-mario-bros-2]] (was 1:31, now 1:33)
         - fixed duration of [[track:ground-bgm-super-mario-bros-3]] (was 1:05, now 1:10)
+        - fixed duration of [[track:hazy-maze-cave]] (was 3:43, now 3:44)
+        - fixed duration of [[track:jump-up-super-star]] (was 4:06, now 4:07)
+        - fixed duration of [[track:k-rool-returns-title-theme]] (was 0:39, now 0:40)
+        - fixed duration of [[track:kasss-theme]] (was 1:08, now 1:09)
+        - fixed duration of [[track:main-theme-the-legend-of-zelda-breath-of-the-wild]] (was 1:58, now 1:59)
+        - fixed duration of [[track:main-theme-wii-shop-channel]] (was 2:05, now 2:06)
+        - fixed duration of [[track:molgera-battle]] (was 2:34, now 2:35)
         - fixed duration of [[track:mountains-and-forests-of-the-dark-world]] (was 1:52, now 1:57)
+        - fixed duration of [[track:mute-city]] (was 2:29, now 2:06)
+        - fixed duration of [[track:a-new-wind-for-tomorrow]] (was 1:35, now 1:36)
+        - fixed duration of [[track:parasite-queen-battle]] (was 1:36, now 1:37)
         - fixed duration of [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] (was 0:55, now 1:02)
+        - fixed duration of [[track:port-town]] (was 2:15, now 2:37)
+        - fixed duration of [[track:rainbow-road-super-mario-kart]] (was 1:59, now 2:01)
+        - fixed duration of [[track:red-canyon]] (was 2:48, now 2:23)
+        - fixed duration of [[track:sand-ocean]] (was none, now 2:22)
         - fixed duration of [[track:save-the-world-heroes]] (was none, now 2:41)
+        - fixed duration of [[track:simian-segue]] (was 1:51, now 1:52)
+        - fixed duration of [[track:slider-super-mario-64]] (was 2:47, now 2:48)
+        - fixed duration of [[track:song-of-storms]] (was 0:06, now 0:07)
+        - fixed duration of [[track:steam-gardens]] (was 3:41, now 3:42)
+        - fixed duration of [[track:suns-song]] (was 0:05, now 0:06)
+        - fixed duration of [[track:title-theme-wii-sports]] (was 2:23, now 2:21)
+        - fixed duration of [[track:white-land-i]] (was 1:53, now 2:09)
         - fixed duration of [[track:world-1-map-grass-land]] (was 0:39, now 0:44)
         - fixed duration of [[track:world-6-map-ice-land]] (was 0:25, now 0:41)
         - fixed duration of [[track:world-8-map-dark-land]] (was 0:28, now 0:50)
+        - fixed duration of [[track:you-lost-f-zero]] (was none, now 0:04)
     <!-- art tag fixes -->
     - added [[tag:gate]] to [[track:sburban-jungle-brief-mix]], [[track:skaian-dreams-remix]], [[track:chain-of-prospit]], [[track:sburban-elevator]], [[track:sburban-piano-doctor]], [[track:lets-level-up]], [[album:sburb-ost]], [[track:waiting-for-adventure]], [[track:mysterious-messengers]], [[track:finale-strife]], and [[track:thermporia]]
     - added [[tag:can-town]] to [[track:vagabounce]]
@@ -251,6 +285,7 @@ Content: |-
     - changed directory of [[track:world-1-map-grass-land]] from `world-1-smb3` to `world-1-map-grass-land`
     - changed directory of [[track:world-6-map-ice-land]] from `world-6-smb3` to `world-6-map-ice-land`
     - changed directory of [[track:world-8-map-dark-land]] from `world-8-smb3` to `world-8-map-dark-land`
+    - changed directory of [[track:you-lost-f-zero]] from `life-lost-f-zero` to `you-lost-f-zero`
     </details>
 
     <h2 id="13-feb-2025"><html:a href="#13-feb-2025">[[date:13 February 2025]] - dusty shelves</a></h2>
