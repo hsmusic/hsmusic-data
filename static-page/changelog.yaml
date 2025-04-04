@@ -59,6 +59,7 @@ Content: |-
     <!-- link additions -->
     - added YouTube track and playlist links across [[album:oceanfalls-vol-1]], [[album:oceanfalls-vol-2]], [[album:oceanfalls-vol-3]], [[album:oceanfalls-vol-4]], and [[album:oceanfalls-vol-five]] (thanks, Lanolin!)
     - added YouTube listening links to [[track:buskers-theme]], [[track:cascade2]], [[track:nautical-climb]], [[track:skaia-voyages]], and [[track:skaian-shuffle]] (thanks, meulanie, Lanolin!)
+    - added Nintendo Music listening links to [[track:dj-kk-instrumental]] and [[track:ground-bgm-super-mario-bros-2]] (thanks, ruby!)
     <!-- additional files additions -->
     - added Bandcamp background files for [[album:your-majesty]], [[album:bowmanstuck]], and [[album:gba-pokemon-unbound-super-music-collection]] (thanks, Niklink!)
     - added Bandcamp banner file for [[album:fraymotif-fighters]] (thanks, Niklink!)
@@ -89,6 +90,22 @@ Content: |-
     <!-- reference fixes -->
     - fixed [[track:enter-with-caliborn-destruction-adventure]] not sampling [[track:all-were-gonna-get]] (thanks, Interrobang, Lanolin!)
     - fixed [[track:limefalls]] not referencing [[track:rozepiano]] (thanks, Nevermind!)
+    <!-- crediting fixes -->
+    - tidied credits for [[track:lifelight-jp]] and [[track:lifelight]] (thanks, ruby!)
+        - moved contributors besides [[artist:hideki-sakamoto]] into contributors, rather than artists
+        - annotated [[artist:hideki-sakamoto]] contributions as "composition and arrangement supervisor"
+        - annotated [[artist:masahiro-sakurai]] contributions as "lyrics supervisor" (was "lyrics")
+        - added [[artist:mahito-yokota]] (recording management) contribution
+        - added [[artist:noriko-sekiya]] (musician coordinator) contribution
+    <!-- name fixes (subsections, then single-lines) -->
+    - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
+        - fixed [[track:ground-bgm-super-mario-bros-2]] being named "Ground Theme (Super Mario Bros. 2)"
+        - fixed [[track:dj-kk-instrumental]] being named "DJ K.K. (Aircheck)"
+    - fixed [[track:ground-theme-smb2-ssbu]], [[track:ground-theme-smb3-ssbu]], and [[track:king-bowser-smb3-ssbu]] (all [[album:super-smash-bros-ultimate]]) being named with dot after number, instead of after "Bros" (thanks, ruby!)
+    <!-- general data fixes -->
+    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
+        - fixed duration of [[track:ground-bgm-super-mario-bros-2]] (was 1:31, now 1:33)
+        - fixed duration of [[track:dj-kk-instrumental]] (was 1:24, now 1:43)
     <!-- art tag fixes -->
     - added [[tag:gate]] to [[track:sburban-jungle-brief-mix]], [[track:skaian-dreams-remix]], [[track:chain-of-prospit]], [[track:sburban-elevator]], [[track:sburban-piano-doctor]], [[track:lets-level-up]], [[album:sburb-ost]], [[track:waiting-for-adventure]], [[track:mysterious-messengers]], [[track:finale-strife]], and [[track:thermporia]]
     - added [[tag:can-town]] to [[track:vagabounce]]
@@ -203,6 +220,10 @@ Content: |-
     - removed [[tag:ar]] from [[track:freefall]]
     - removed [[tag:dd]] and [[tag:dave]] from [[track:25x-showdown-combo]]
     - removed [[tag:dave]], [[tag:jade]], and [[tag:john]] from [[track:melody-of-the-buttocks]]
+    <h3>directory changes</h3>
+    <details><summary><b>Toggle Directorylog</b></summary>
+    - changed directory of [[track:ground-bgm-super-mario-bros-2]] from `ground-theme-smb2` to `ground-bgm-super-mario-bros-2`
+    </details>
 
     <h2 id="13-feb-2025"><html:a href="#13-feb-2025">[[date:13 February 2025]] - dusty shelves</a></h2>
     <h3>site changes</h3>
