@@ -59,7 +59,7 @@ Content: |-
     <!-- link additions -->
     - added YouTube track and playlist links across [[album:oceanfalls-vol-1]], [[album:oceanfalls-vol-2]], [[album:oceanfalls-vol-3]], [[album:oceanfalls-vol-4]], and [[album:oceanfalls-vol-five]] (thanks, Lanolin!)
     - added YouTube listening links to [[track:buskers-theme]], [[track:cascade2]], [[track:nautical-climb]], [[track:skaia-voyages]], and [[track:skaian-shuffle]] (thanks, meulanie, Lanolin!)
-    - added Nintendo Music listening links to [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]], [[track:dj-kk-instrumental]], [[track:fight-on-heroes]], [[track:ground-bgm-super-mario-bros-2]], [[track:mountains-and-forests-of-the-dark-world]], [[track:player-select-the-legend-of-zelda-a-link-to-the-past]], [[track:save-the-world-heroes]], [[track:title-find-mii]], and [[track:title-find-mii-ii]] (thanks, ruby!)
+    - added Nintendo Music listening links to [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]], [[track:dj-kk-instrumental]], [[track:fight-on-heroes]], [[track:ground-bgm-super-mario-bros-2]], [[track:ground-bgm-super-mario-bros-3]], [[track:king-of-the-koopas]], [[track:mountains-and-forests-of-the-dark-world]], [[track:player-select-the-legend-of-zelda-a-link-to-the-past]], [[track:save-the-world-heroes]], [[track:title-find-mii]], [[track:title-find-mii-ii]], [[track:world-1-map-grass-land]], [[track:world-6-map-ice-land]], and [[track:world-8-map-dark-land]] (thanks, ruby, vriska!)
     <!-- additional files additions -->
     - added Bandcamp background files for [[album:your-majesty]], [[album:bowmanstuck]], and [[album:gba-pokemon-unbound-super-music-collection]] (thanks, Niklink!)
     - added Bandcamp banner file for [[album:fraymotif-fighters]] (thanks, Niklink!)
@@ -98,23 +98,32 @@ Content: |-
         - added [[artist:mahito-yokota]] (recording management) contribution
         - added [[artist:noriko-sekiya]] (musician coordinator) contribution
     <!-- name fixes (subsections, then single-lines) -->
-    - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
+    - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby, vriska!)
         - fixed [[track:dj-kk-instrumental]] being named "DJ K.K. (Aircheck)"
         - fixed [[track:ground-bgm-super-mario-bros-2]] being named "Ground Theme (Super Mario Bros. 2)"
+        - fixed [[track:ground-bgm-super-mario-bros-3]] being named "Ground Theme (Super Mario Bros. 3)"
+        - fixed [[track:king-of-the-koopas]] being named "King Bowser"
         - fixed [[track:mountains-and-forests-of-the-dark-world]] being named "Dark Mountain Forest"
         - fixed [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] being named "Select Screen (The Legend of Zelda: A Link to the Past)"
         - fixed [[track:title-find-mii]] being named "Title Theme (Find Mii)"
         - fixed [[track:title-find-mii-ii]] being named "Title Theme (Find Mii II)"
+        - fixed [[track:world-1-map-grass-land]] being named "World 1 (Super Mario Bros. 3)"
+        - fixed [[track:world-6-map-ice-land]] being named "World 6 (Super Mario Bros. 3)"
+        - fixed [[track:world-8-map-dark-land]] being named "World 8 (Super Mario Bros. 3)"
     - fixed [[track:ground-theme-smb2-ssbu]], [[track:ground-theme-smb3-ssbu]], and [[track:king-bowser-smb3-ssbu]] (all [[album:super-smash-bros-ultimate]]) being named with dot after number, instead of after "Bros" (thanks, ruby!)
     <!-- general data fixes -->
-    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
-        - fixed duration of [[track:ground-bgm-super-mario-bros-2]] (was 1:31, now 1:33)
+    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby, vriska!)
         - fixed duration of [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]] (was 2:23, now 2:21)
         - fixed duration of [[track:dj-kk-instrumental]] (was 1:24, now 1:43)
         - fixed duration of [[track:fight-on-heroes]] (was none, now 2:41)
+        - fixed duration of [[track:ground-bgm-super-mario-bros-2]] (was 1:31, now 1:33)
+        - fixed duration of [[track:ground-bgm-super-mario-bros-3]] (was 1:05, now 1:10)
         - fixed duration of [[track:mountains-and-forests-of-the-dark-world]] (was 1:52, now 1:57)
         - fixed duration of [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] (was 0:55, now 1:02)
         - fixed duration of [[track:save-the-world-heroes]] (was none, now 2:41)
+        - fixed duration of [[track:world-1-map-grass-land]] (was 0:39, now 0:44)
+        - fixed duration of [[track:world-6-map-ice-land]] (was 0:25, now 0:41)
+        - fixed duration of [[track:world-8-map-dark-land]] (was 0:28, now 0:50)
     <!-- art tag fixes -->
     - added [[tag:gate]] to [[track:sburban-jungle-brief-mix]], [[track:skaian-dreams-remix]], [[track:chain-of-prospit]], [[track:sburban-elevator]], [[track:sburban-piano-doctor]], [[track:lets-level-up]], [[album:sburb-ost]], [[track:waiting-for-adventure]], [[track:mysterious-messengers]], [[track:finale-strife]], and [[track:thermporia]]
     - added [[tag:can-town]] to [[track:vagabounce]]
@@ -233,10 +242,15 @@ Content: |-
     <details><summary><b>Toggle Directorylog</b></summary>
     - changed directory of [[track:dj-kk-instrumental]] from `dj-kk-aircheck` to `dj-kk-instrumental`
     - changed directory of [[track:ground-bgm-super-mario-bros-2]] from `ground-theme-smb2` to `ground-bgm-super-mario-bros-2`
+    - changed directory of [[track:ground-bgm-super-mario-bros-3]] from `ground-theme-smb3` to `ground-bgm-super-mario-bros-3`
+    - changed directory of [[track:king-of-the-koopas]] from `king-bowser-smb3` to `king-of-the-koopas`
     - changed directory of [[track:mountains-and-forests-of-the-dark-world]] from `dark-mountain-forest` to `mountains-and-forests-of-the-dark-world`
     - changed directory of [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] from `select-screen-the-legend-of-zelda-a-link-to-the-past` to `player-select-the-legend-of-zelda-a-link-to-the-past`
     - changed directory of [[track:title-find-mii]] from `title-theme-find-mii` to `title-find-mii`
     - changed directory of [[track:title-find-mii-ii]] from `title-theme-find-mii-ii` to `title-find-mii-ii`
+    - changed directory of [[track:world-1-map-grass-land]] from `world-1-smb3` to `world-1-map-grass-land`
+    - changed directory of [[track:world-6-map-ice-land]] from `world-6-smb3` to `world-6-map-ice-land`
+    - changed directory of [[track:world-8-map-dark-land]] from `world-8-smb3` to `world-8-map-dark-land`
     </details>
 
     <h2 id="13-feb-2025"><html:a href="#13-feb-2025">[[date:13 February 2025]] - dusty shelves</a></h2>
