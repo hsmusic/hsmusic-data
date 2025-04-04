@@ -336,9 +336,15 @@ Commentary: |-
     Also, I hope you all caught my nod to March Eridan in the back there.
 ---
 Track: Skaian Shrapnel
+Additional Names:
+- Name: >-
+    Skiain Shrapnel
+  Annotation: >-
+    [composer's Bandcamp](http://web.archive.org/web/20200402000340/https://erikscheele.bandcamp.com/album/one-year-older),
+    probably until 4/13/2021
 Duration: 4:13
 URLs:
-- https://erikscheele.bandcamp.com/track/skiain-shrapnel
+- https://erikscheele.bandcamp.com/track/skaian-shrapnel
 - https://youtu.be/NbWTEFgpxRg
 Cover Artists:
 - Amethyst Barron
@@ -360,6 +366,10 @@ Commentary: |-
     This piece marks the beginning of my writing into "events that have not yet occurred". At the time, the scratched copy of Sburb was just starting to show some real-world effects by making the "game" (aka our viewing experience as an audience) glitch up. So, I set about making some heavier action music for it, incorporating heavy use of weird, messed-up glitching sounds and a few heavy-handed uses of numerical motifs. I also brought in [[Ruins (With Strings)|Ruins]], one of the first piano pieces I ever recorded, the latter section of [[Walk-Stab-Walk (R&E)|Walk-Stab-Walk]], and [[Crystalanthemums]].
 
     Overall, in my opinion at least, the piece turned out a little strange, a little awkward, and not really nice, but really that works just fine for me. Everything was really going for the characters at the time, after all. People were getting hunted down, friends were turning on each other, nobody in the fandom really knew who was going to be next. Was this person? Or this person? Were you next? It all led to a heavy air of unease that sort of manifested itself in the odd piano riff and distorted drums that were used, and all the heavy glitching that led us up to...
+
+    <i>Quasar Nebula:</i> (wiki editor, 4/4/2025)
+
+    On Erik Scheele's own Bandcamp rerelease, dated 10/29/2019, this track was originally typoed as "Skiain Shrapnel". This got fixed up probably on 4/13/2021 - certainly [later than 12/16/2020](https://web.archive.org/web/20201216030903/https://erikscheele.bandcamp.com/album/one-year-older) and [on or earlier than 4/13/2021](http://web.archive.org/web/20220613110729/https://erikscheele.bandcamp.com/track/skaian-shrapnel), considering `TralbumData.current.mod_date` in the latter linked capture.
 ---
 Track: The Scratch
 Duration: 7:34
