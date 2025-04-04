@@ -98,6 +98,7 @@ Content: |-
     - fixed [[track:chamber-complex]] not referencing [[track:penumbra-phantasm]] (thanks, Makin!)
     - fixed [[track:ham-and-steak]] referencing [[track:rex-english]] instead of [[track:oppa-toby-style]] (thanks, Grace, Kenón!)
     <!-- crediting fixes -->
+    - annotated [[artist:jordan-sunlight]] contribution on [[track:yellow-yard]] as "guitar solo" (thanks, Lilith!)
     - tidied credits for [[track:lifelight-jp]] and [[track:lifelight]] (thanks, ruby!)
         - moved contributors besides [[artist:hideki-sakamoto]] into contributors, rather than artists
         - annotated [[artist:hideki-sakamoto]] contributions as "composition and arrangement supervisor"
@@ -286,8 +287,14 @@ Content: |-
     - removed [[tag:ar]] from [[track:freefall]]
     - removed [[tag:dd]] and [[tag:dave]] from [[track:25x-showdown-combo]]
     - removed [[tag:dave]], [[tag:jade]], and [[tag:john]] from [[track:melody-of-the-buttocks]]
+    - removed [[tag:trolls-meteor]] from [[track:my-lady-greensleeves]] (thanks, Makin, Whisper!)
+    <!-- lyric fixes -->
+    - fixed a mistaken lyric in [[track:mister-bowman-tells-you-about-the-squiddles]] (thanks, Niklink!)
+        - was *They Squiddle because in Squiddle Land*<br>now *They squeal because in Squiddle Land*
+    - fixed a duplicated closing parenthesis in lyrics for [[track:infidels]] (thanks, Lan!)
     <!-- commentary fixes -->
     - updated commentary citation for [[track:floweys-laugh]] (and various miscellaneous links) to point to new domain for Undertale wiki (thanks, vriska, Jebb, Lan!)
+    - fixed commentary entries besides the first on each track not being annotated "booklet commentary" across [[album:lofam3]] (thanks, Whisper, Lan!)
     <!-- link fixes -->
     - fixed Bandcamp listening link for [[track:skaian-shrapnel]] (thanks, Surge, Lan!)
     <h3>directory changes</h3>
