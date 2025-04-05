@@ -296,7 +296,9 @@ Content: |-
     - updated commentary citation for [[track:floweys-laugh]] (and various miscellaneous links) to point to new domain for Undertale wiki (thanks, vriska, Jebb, Lan!)
     - fixed commentary entries besides the first on each track not being annotated "booklet commentary" across [[album:lofam3]] (thanks, Whisper, Lan!)
     <!-- link fixes -->
-    - fixed Bandcamp listening link for [[track:skaian-shrapnel]] (thanks, Surge, Lan!)
+    - fixed Bandcamp listening link for [[track:skaian-shrapnel]] (was to a functioning "skiain-shrapnel" URL; thanks, Surge, Lan!)
+    - fixed YouTube listening link for [[track:plantation-cave-story]] (was to a URL for [[track:moonsong]]; thanks, Geese, Lan!)
+    - fixed YouTube listening link for [[track:stone-tower-temple]] (was dead; thanks, Lilith, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
     - changed directory of [[track:dj-kk-instrumental]] from `dj-kk-aircheck` to `dj-kk-instrumental`
