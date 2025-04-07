@@ -12,11 +12,12 @@ Cover Artists:
 Cover Art File Extension: png
 Color: '#ee5a7e' ##color from bandcamp page
 Groups:
+- rj lake
 - Beyond
 Wallpaper Artists:
 - Andrew Tsai
 Additional Files:
-- Title: Bandcamp Background
+- Title: Bandcamp background
   Files:
   - bg.gif
 Commentary: |-
@@ -45,9 +46,10 @@ Commentary: |-
     [[artist:derrick-lightning|Derrick Lightning]] - saxophone on track 9<br>
     [[artist:andrew-tsai|Andrew Tsai]] - cover art design
 ---
-Section: Main Album
+Section: Main album
 ---
 Track: FAMILIAR
+Suffix Directory: true
 Artists:
 - peak divide
 - rj lake
@@ -309,6 +311,7 @@ Lyrics: |-
     i will find you in time in my mind
 ---
 Track: MIRROR
+Suffix Directory: true
 Contributors:
 - Rachel Lake (composition, vocals)
 - rj lake (composition, lyrics)
@@ -489,7 +492,7 @@ URLs:
 Lyrics: |-
     [various ambient vocal noises - oo's and aa's and everything in between]
 ---
-Section: Bonus Tracks
+Section: Bonus tracks
 ---
 Track: WAITING (instrumental)
 Contributors:
@@ -546,7 +549,7 @@ Duration: 3:27
 URLs:
 - https://www.youtube.com/watch?v=MRXVVGRIkSo
 Referenced Tracks:
-- track:mirror
+- track:mirror-unbeatable
 ---
 Track: FOREVER NOW (instrumental)
 Contributors:

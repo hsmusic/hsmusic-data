@@ -6,6 +6,7 @@ Cover Artists:
 - Andrew Tsai
 Color: '#ffffff'
 Groups:
+- rj lake
 - Beyond
 Commentary: |-
     <i>D-CELL GAMES:</i> (CD case back)
@@ -28,7 +29,8 @@ Commentary: |-
     the first track is completely hidden, only accesible by rewinding before the first track on the disc. its title has been confirmed by [[artist:rj-lake|rj]], artist is unknown.
     the last two tracks are not listed on the tracklist on the back, their titles and artists come from the CD-Text.
 ---
-Section: Hidden Pregap Track
+Section: Hidden pregap track
+Start Counting From: 0
 ---
 Track: Empty Diary (Schizoatypical)
 Duration: 3:14
@@ -37,7 +39,7 @@ Referenced Tracks:
 Sampled Tracks:
 - EMPTY DIARY
 ---
-Section: Main Album
+Section: Main album
 ---
 Track: FAMILIAR (original demo)
 Artists:
@@ -132,6 +134,7 @@ Referenced Tracks:
 - FOREVER NOW
 ---
 Track: Sandwiches
+Directory: sandwiches-unbeatable-off-beats # custom suffix
 Artists:
 - Vasily Nikolaev
 Duration: 2:28
@@ -203,7 +206,7 @@ Duration: 1:58
 Referenced Tracks:
 - EMPTY DIARY
 ---
-Section: Hidden Tracks
+Section: Hidden tracks
 ---
 Track: Loner (original demo)
 Artists:
