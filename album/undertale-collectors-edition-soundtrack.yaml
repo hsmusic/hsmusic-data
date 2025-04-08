@@ -604,13 +604,13 @@ URLs:
 Main Release: CORE
 ---
 Track: Last Episode!
-Duration: 0:07
+Always Reference By Directory: true
+Duration: 0:08
 URLs:
 - https://tobyfox.bandcamp.com/track/last-episode
 - https://www.youtube.com/watch?v=Xg3p478sWGg
 - https://open.spotify.com/track/3zoav3LSItdvh7fj0iE43t
-Referenced Tracks:
-- Metal Crusher
+Main Release: Last Episode!
 ---
 Track: Oh My...
 Duration: 0:14
