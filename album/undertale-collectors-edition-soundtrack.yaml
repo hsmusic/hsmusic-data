@@ -190,11 +190,13 @@ URLs:
 Main Release: Dogbass
 ---
 Track: Mysterious Place
-Duration: 0:44
+Always Reference By Directory: true
+Duration: 0:45
 URLs:
 - https://tobyfox.bandcamp.com/track/mysterious-place
 - https://www.youtube.com/watch?v=fgqOiPSvnvo
 - https://open.spotify.com/track/79HBiklNqtQXln5ocHUR3B
+Main Release: Mysterious Place
 ---
 Track: Dogsong
 Duration: 0:37
