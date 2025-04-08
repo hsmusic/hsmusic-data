@@ -370,13 +370,13 @@ URLs:
 Main Release: Spookwave
 ---
 Track: Ghouliday
-Duration: 0:12
+Always Reference By Directory: true
+Duration: 0:13
 URLs:
 - https://tobyfox.bandcamp.com/track/ghouliday
 - https://www.youtube.com/watch?v=QDbwvVvufAw
 - https://open.spotify.com/track/2ErNeINBpB3nr64KRi9JUS
-Referenced Tracks:
-- The One Horse Open Sleigh
+Main Release: Ghouliday
 ---
 Track: Chill
 Suffix Directory: true
