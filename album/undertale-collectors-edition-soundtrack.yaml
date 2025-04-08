@@ -118,14 +118,13 @@ URLs:
 Main Release: Determination
 ---
 Track: Home
-Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:03
 URLs:
 - https://tobyfox.bandcamp.com/track/home-2
 - https://www.youtube.com/watch?v=J_hJDitrh8M
 - https://open.spotify.com/track/5L9MJsGqzTRD09rSzHkCDy
-Referenced Tracks:
-- Once Upon a Time
+Main Release: track:home-undertale
 ---
 Track: Home (Music Box)
 Duration: 2:03
