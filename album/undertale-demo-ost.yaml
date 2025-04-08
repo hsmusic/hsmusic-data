@@ -22,11 +22,12 @@ URLs:
 Main Release: Once Upon a Time
 ---
 Track: Menu
+Always Reference By Directory: true
 Duration: 1:36
 URLs:
 - https://tobyfox.bandcamp.com/track/menu
-
-# Track Art URL: https://f4.bcbits.com/img/a1313023131_10.jpg
+Referenced Tracks:
+- Once Upon a Time
 ---
 Track: Your Best Friend
 Duration: 0:46
