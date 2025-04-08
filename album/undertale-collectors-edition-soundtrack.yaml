@@ -289,15 +289,13 @@ URLs:
 Main Release: Undyne
 ---
 Track: Waterfall
-Duration: 2:06
+Always Reference By Directory: true
+Duration: 2:07
 URLs:
 - https://tobyfox.bandcamp.com/track/waterfall
 - https://www.youtube.com/watch?v=Zb52aE6IZuY
 - https://open.spotify.com/track/2N2lDDaucbMUw1I1GxBrbc
-Referenced Tracks:
-- track:ruins-undertale
-- Another Medium
-- Ooo
+Main Release: Waterfall
 ---
 Track: Run!
 Duration: 0:26
