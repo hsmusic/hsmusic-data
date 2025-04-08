@@ -496,15 +496,13 @@ URLs:
 Main Release: Stronger Monsters
 ---
 Track: Hotel
-Suffix Directory: true
 Always Reference By Directory: true
 Duration: 1:27
 URLs:
 - https://tobyfox.bandcamp.com/track/hotel
 - https://www.youtube.com/watch?v=CgvMoz2LnWA
 - https://open.spotify.com/track/0Tz2tckjhEvAppdWHsgqg6
-Referenced Tracks:
-- Once Upon a Time
+Main Release: track:hotel-undertale
 ---
 Track: Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything
 Duration: 1:01
