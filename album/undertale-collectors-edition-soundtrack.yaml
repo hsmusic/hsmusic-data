@@ -145,11 +145,13 @@ URLs:
 Main Release: Heartache
 ---
 Track: sans.
-Duration: 0:50
+Always Reference By Directory: true
+Duration: 0:51
 URLs:
 - https://tobyfox.bandcamp.com/track/sans
 - https://www.youtube.com/watch?v=b2UHoGnGyvE
 - https://open.spotify.com/track/26lWYpgbcknITI0Fy1eZDs
+Main Release: sans.
 ---
 Track: Nyeh Heh Heh!
 Duration: 0:32
