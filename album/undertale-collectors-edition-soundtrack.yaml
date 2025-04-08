@@ -307,13 +307,13 @@ URLs:
 Main Release: Run!
 ---
 Track: Quiet Water
+Always Reference By Directory: true
 Duration: 0:32
 URLs:
 - https://tobyfox.bandcamp.com/track/quiet-water
 - https://www.youtube.com/watch?v=hGzkdQCvYz0
 - https://open.spotify.com/track/0gt76DuMx7F3UZJPg7jcC5
-Referenced Tracks:
-- track:ruins-undertale
+Main Release: Quiet Water
 ---
 Track: Memory
 Suffix Directory: true
