@@ -127,14 +127,13 @@ URLs:
 Main Release: track:home-undertale
 ---
 Track: Home (Music Box)
+Always Reference By Directory: true
 Duration: 2:03
 URLs:
 - https://tobyfox.bandcamp.com/track/home-music-box-2
 - https://www.youtube.com/watch?v=Jd8w8iPWGM8
 - https://open.spotify.com/track/1DkjqnjgbbpT7cYL2D2ma4
-Referenced Tracks:
-- track:home-undertale
-- Once Upon a Time
+Main Release: Home (Music Box)
 ---
 Track: Heartache
 Duration: 1:48
