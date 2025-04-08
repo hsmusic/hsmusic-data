@@ -343,13 +343,13 @@ URLs:
 Main Release: Dummy!
 ---
 Track: Pathetic House
-Duration: 0:38
+Always Reference By Directory: true
+Duration: 0:39
 URLs:
 - https://tobyfox.bandcamp.com/track/pathetic-house
 - https://www.youtube.com/watch?v=0YlHwRyM26Q
 - https://open.spotify.com/track/4uDhRzIuby0r2dOD7DdYhA
-Referenced Tracks:
-- Ghost Fight
+Main Release: Pathetic House
 ---
 Track: Spooktune
 Suffix Directory: true
