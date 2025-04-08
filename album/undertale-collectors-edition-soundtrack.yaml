@@ -361,13 +361,13 @@ URLs:
 Main Release: track:spooktune-undertale
 ---
 Track: Spookwave
+Always Reference By Directory: true
 Duration: 0:25
 URLs:
 - https://tobyfox.bandcamp.com/track/spookwave
 - https://www.youtube.com/watch?v=1uJ57n8PZ_o
 - https://open.spotify.com/track/7IOkjKXVKvVoWNZCILCQNS
-Referenced Tracks:
-- track:spooktune-undertale
+Main Release: Spookwave
 ---
 Track: Ghouliday
 Duration: 0:12
