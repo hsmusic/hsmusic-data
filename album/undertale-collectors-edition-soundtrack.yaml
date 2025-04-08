@@ -442,11 +442,13 @@ URLs:
 Main Release: Ooo
 ---
 Track: Alphys
-Duration: 1:25
+Always Reference By Directory: true
+Duration: 1:26
 URLs:
 - https://tobyfox.bandcamp.com/track/alphys
 - https://www.youtube.com/watch?v=o30nPgOgfv0
 - https://open.spotify.com/track/5Prf4wpKlnsqj9HTSW4BjW
+Main Release: Alphys
 ---
 Track: It's Showtime!
 Duration: 0:46
