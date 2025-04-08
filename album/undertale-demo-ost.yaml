@@ -1,14 +1,18 @@
 Album: Undertale Demo OST
-Cover Artists:
-- Toby  Fox
+Directory Suffix: undertale-demo
+Suffix Track Directories: true
 Date: May 21, 2013
 Date Added: April 08, 2025
-# Album art URL: https://f4.bcbits.com/img/a1313023131_10.jpg
 URLs:
 - https://tobyfox.bandcamp.com/album/undertale-demo-ost
-Commentary: |-
-    <i>[NAME]:</i>
-    
+Color: '#b962b9'
+Cover Artists:
+- Toby Fox
+Cover Art File Extension: png
+Groups:
+- UNDERTALE & DELTARUNE
+- Toby Fox
+- Beyond
 ---
 Track: Once Upon a Time
 Duration: '1:27'
@@ -116,6 +120,7 @@ URLs:
 # Track Art URL: https://f4.bcbits.com/img/a1313023131_10.jpg
 ---
 Track: Empty House
+Suffix Directory: false
 Duration: '3:01'
 URLs:
 - https://tobyfox.bandcamp.com/track/empty-house
