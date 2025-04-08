@@ -9451,17 +9451,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3f56d56a-f65e-4faa-bebe-d73cca3ab646
 - https://www.youtube.com/watch?v=1EukjsHlxh0
 ---
-Track: Title (Luigi's Mansion)
-Artists: ##Kazumi Totaka and Shinobu Tanaka are both listed in the credits of Luigi's Mansion. It is unknown who made this track.
-- Super Mario
-- Kazumi Totaka
-- Shinobu Tanaka
-Duration: 0:23
-URLs:
-- https://www.youtube.com/watch?v=nwiPbcLUsEg
-Referenced Tracks:
-- Main Theme (Luigi's Mansion)
----
 Track: Title (Mega Man 2)
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -9588,6 +9577,17 @@ Artists:
 Duration: 0:04
 URLs:
 - https://www.youtube.com/watch?v=gHHoR5kMooY
+---
+Track: Title Theme (Luigi's Mansion)
+Artists:
+- Super Mario
+- Kazumi Totaka
+Duration: 0:25
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/e048fb04-a54d-41f6-a122-a2856209b84b
+- https://www.youtube.com/watch?v=nwiPbcLUsEg
+Referenced Tracks:
+- Main Theme (Luigi's Mansion)
 ---
 Track: Title Theme (Wii Sports)
 # Reference:
