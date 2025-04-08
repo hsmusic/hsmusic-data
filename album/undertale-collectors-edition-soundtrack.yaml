@@ -316,25 +316,13 @@ URLs:
 Main Release: Quiet Water
 ---
 Track: Memory
-Suffix Directory: true
 Always Reference By Directory: true
 Duration: 1:15
 URLs:
 - https://tobyfox.bandcamp.com/track/memory
 - https://www.youtube.com/watch?v=-PuXRXftkDA
 - https://open.spotify.com/track/4LrlsO9cnnNjxBiHeRedjF
-Referenced Tracks:
-- Undertale
-Commentary: |-
-    <i>Toby Fox:</i> ([collector's edition sheet music booklet](https://www.fangamer.com/products/undertale-game-switch-ps4-vita))
-
-    This melody was based off of the song [[track:undertale|"UNDERTALE"]] and originally intended to be a theme for Asgore.
-
-    However, the theme ended up used in different contexts, and by the end of the game, it ended up as another character's theme.
-
-    I already said it, but simplicity is purity. It takes only a few notes to create a dream... to create a memory.
-
-    [[track:dont-forget|Don't forget]] that...
+Main Release: track:memory-undertale
 ---
 Track: Bird That Carries You Over A Disproportionately Small Gap
 Duration: 0:25
