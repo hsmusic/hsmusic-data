@@ -352,12 +352,13 @@ URLs:
 Main Release: Pathetic House
 ---
 Track: Spooktune
-Suffix Directory: true
-Duration: 0:23
+Always Reference By Directory: true
+Duration: 0:24
 URLs:
 - https://tobyfox.bandcamp.com/track/spooktune
 - https://www.youtube.com/watch?v=LMWHcTqUcco
 - https://open.spotify.com/track/7jxPl7YKBJuLEgG2iuQ86u
+Main Release: track:spooktune-undertale
 ---
 Track: Spookwave
 Duration: 0:25
