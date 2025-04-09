@@ -18,7 +18,7 @@ Groups:
 #Art Tags:
 #- todo...
 ---
-Section: Disc 1
+Section: 'Record 1 Side A: Ruins'
 ---
 Track: Once Upon a Time
 Always Reference By Directory: true
@@ -145,6 +145,8 @@ URLs:
 - https://www.youtube.com/watch?v=XJ9XtKJHvjQ
 - https://open.spotify.com/track/2bvbLvGD7YnS4Nhf9E4hUl
 Main Release: Heartache
+---
+Section: 'Record 1 Side B: Snowdin'
 ---
 Track: sans.
 Always Reference By Directory: true
@@ -280,6 +282,8 @@ URLs:
 - https://www.youtube.com/watch?v=47GvY9rOMUs
 - https://open.spotify.com/track/4OOA9mtwTevG39jcALusOu
 Main Release: Song That Might Play When You Fight Sans
+---
+Section: 'Record 2 Side A: Waterfall'
 ---
 Track: Danger Mystery
 Always Reference By Directory: true
@@ -443,6 +447,8 @@ URLs:
 - https://open.spotify.com/track/0wae8KoprNjfrXWjYYHGy9
 Main Release: Spear of Justice
 ---
+Section: 'Record 2 Side B: Hotland'
+---
 Track: Ooo
 Always Reference By Directory: true
 Duration: 0:14
@@ -587,6 +593,8 @@ URLs:
 - https://open.spotify.com/track/68QEE1JPRjEBbdhzpEIKGZ
 Main Release: Oh! Dungeon
 ---
+Section: 'Record 3 Side A: Core'
+---
 Track: It's Raining Somewhere Else
 Always Reference By Directory: true
 Duration: 2:50
@@ -659,8 +667,7 @@ URLs:
 - https://open.spotify.com/track/3bmbaQXM98fEAoQotiNu9Q
 Main Release: Long Elevator
 ---
-Section: Disc 2
-Start Counting From: 1
+Section: 'Record 3 Side B: Castle'
 ---
 Track: Undertale
 Always Reference By Directory: true
@@ -715,6 +722,8 @@ URLs:
 - https://www.youtube.com/watch?v=hMa4hZQbrms
 - https://open.spotify.com/track/0ybMBs8mKdAP9WSnFTiZvs
 Main Release: ASGORE
+---
+Section: 'Record 4 Side A: Hopes?'
 ---
 Track: You Idiot
 Always Reference By Directory: true
@@ -780,6 +789,8 @@ URLs:
 - https://open.spotify.com/track/23b9BdZ2WZnDSeDzNUTVvZ
 Main Release: Fallen Down (Reprise)
 ---
+Section: 'Record 4 Side B: Dreams?'
+---
 Track: Don't Give Up
 Always Reference By Directory: true
 Duration: 2:02
@@ -835,6 +846,8 @@ URLs:
 - https://www.youtube.com/watch?v=8K0npQ--ACw
 - https://open.spotify.com/track/4Gk2tZ5l4O3MG1UMm0dTcd
 Main Release: track:reunited-undertale
+---
+Section: 'Record 5 Side A: Determination'
 ---
 Track: Respite
 Always Reference By Directory: true
@@ -899,6 +912,8 @@ URLs:
 - https://www.youtube.com/watch?v=a9-7h0NmMn8
 - https://open.spotify.com/track/6Z3K31BKi5YL9Tj0zD3yvq
 Main Release: Good Night
+---
+Section: 'Record 5 Side B: Bonus'
 ---
 Track: Menu (Full)
 Always Reference By Directory: true
