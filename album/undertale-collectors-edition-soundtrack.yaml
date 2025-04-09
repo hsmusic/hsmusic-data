@@ -661,14 +661,13 @@ URLs:
 Main Release: Undertale
 ---
 Track: Song That Might Play When You Fight Sans
+Always Reference By Directory: true
 Duration: 1:02
 URLs:
 - https://tobyfox.bandcamp.com/track/song-that-might-play-when-you-fight-sans
 - https://www.youtube.com/watch?v=47GvY9rOMUs
 - https://open.spotify.com/track/4OOA9mtwTevG39jcALusOu
-Referenced Tracks:
-- track:sans
-- Bonetrousle
+Main Release: Song That Might Play When You Fight Sans
 ---
 Track: The Choice
 Duration: 2:12
