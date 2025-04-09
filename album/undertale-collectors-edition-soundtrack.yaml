@@ -739,12 +739,12 @@ URLs:
 Main Release: track:finale
 ---
 Track: An Ending
-Duration: 3:28
+Always Reference By Directory: true
+Duration: 3:29
 URLs:
 - https://www.youtube.com/watch?v=gLgUesz8444
 - https://open.spotify.com/track/6eTcxkl9G7C2mwejLJ7Amm
-Referenced Tracks:
-- track:ruins-undertale
+Main Release: An Ending
 ---
 Track: She's Playing Piano
 Duration: 0:18
