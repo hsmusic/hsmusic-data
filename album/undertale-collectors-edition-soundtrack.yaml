@@ -832,16 +832,15 @@ Duration: 4:44
 URLs:
 - https://www.youtube.com/watch?v=8K0npQ--ACw
 - https://open.spotify.com/track/4Gk2tZ5l4O3MG1UMm0dTcd
-Main Release: tracK:reunited
+Main Release: track:reunited
 ---
 Track: Menu (Full)
+Always Reference By Directory: true
 Duration: 0:32
 URLs:
 - https://www.youtube.com/watch?v=q2IYscs_8uY
 - https://open.spotify.com/track/1o7aArKOIkgCQucVQI7LvM
-Referenced Tracks:
-- track:menu-undertale-demo
-- Once Upon a Time
+Main Release: Menu (Full)
 ---
 Track: Respite
 Suffix Directory: true
