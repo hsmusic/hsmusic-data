@@ -935,32 +935,18 @@ Referenced Tracks:
 - Dogsong
 ---
 Track: Dating Start! (FM Version)
-Suffix Directory: false
-Date First Released: March 1, 2017
-# date cite: `product` variable, march 2017 capture of CD soundtrack product page
-# https://web.archive.org/web/20170315221637/https://www.fangamer.com/products/undertale-ost
-Artists:
-- artist:coda
+Always Reference By Directory: true
 Duration: 2:47
 URLs:
 - https://www.youtube.com/watch?v=9nXCOhSYu38
-Referenced Tracks:
-- Dating Start!
-- Once Upon a Time
-- Maya Fey - Turnabout Sisters 2001
+Main Release: Dating Start! (FM Version)
 ---
 Track: Bereavement
-Suffix Directory: false
-Date First Released: March 1, 2017
-# date cite: `product` variable, march 2017 capture of CD soundtrack product page
-# https://web.archive.org/web/20170315221637/https://www.fangamer.com/products/undertale-ost
-Artists:
-- flashygoodness
+Always Reference By Directory: true
 Duration: 5:56
 URLs:
 - https://www.youtube.com/watch?v=OesB3WPzd2k
-Referenced Tracks:
-- ASGORE
+Main Release: Bereavement
 ---
 Track: Bonetrousle (Trailer Version)
 Suffix Directory: false
@@ -985,14 +971,8 @@ URLs:
 - https://www.youtube.com/watch?v=PsvD-aybeh0
 ---
 Track: Dog Dating
-Suffix Directory: false
-Date First Released: March 1, 2017
-# date cite: `product` variable, march 2017 capture of CD soundtrack product page
-# https://web.archive.org/web/20170315221637/https://www.fangamer.com/products/undertale-ost
-Artists:
-- artist:coda
+Always Reference By Directory: true
 Duration: 0:22
 URLs:
 - https://www.youtube.com/watch?v=hagij0gkH7c
-Referenced Tracks:
-- Dogsong
+Main Release: Dog Dating
