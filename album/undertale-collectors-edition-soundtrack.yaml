@@ -899,14 +899,12 @@ URLs:
 Main Release: track:megalovania-undertale
 ---
 Track: Good Night
+Always Reference By Directory: true
 Duration: 0:31
 URLs:
 - https://www.youtube.com/watch?v=a9-7h0NmMn8
 - https://open.spotify.com/track/6Z3K31BKi5YL9Tj0zD3yvq
-Referenced Tracks:
-- track:end-undertale-demo
-Sampled Tracks:
-- track:end-undertale-demo
+Main Release: Good Night
 ---
 Track: Mysterious Shrine
 Additional Names:
