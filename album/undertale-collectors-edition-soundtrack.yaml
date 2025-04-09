@@ -694,7 +694,7 @@ URLs:
 - https://tobyfox.bandcamp.com/track/barrier
 - https://www.youtube.com/watch?v=zXPKuXBPsMI
 - https://open.spotify.com/track/4UJoJcVKSuek1PaFdg238X
-Main Release: track:barrier
+Main Release: track:barrier-undertale
 ---
 Track: Bergentrückung
 Always Reference By Directory: true
@@ -736,7 +736,7 @@ Duration: 1:52
 URLs:
 - https://www.youtube.com/watch?v=5qajT8lS2ok
 - https://open.spotify.com/track/4kNKL8kCCV3vt9U2k28Lyx
-Main Release: track:finale
+Main Release: track:finale-undertale
 ---
 Track: An Ending
 Always Reference By Directory: true
@@ -832,7 +832,7 @@ Duration: 4:44
 URLs:
 - https://www.youtube.com/watch?v=8K0npQ--ACw
 - https://open.spotify.com/track/4Gk2tZ5l4O3MG1UMm0dTcd
-Main Release: track:reunited
+Main Release: track:reunited-undertale
 ---
 Track: Menu (Full)
 Always Reference By Directory: true
@@ -848,7 +848,7 @@ Duration: 1:54
 URLs:
 - https://www.youtube.com/watch?v=USVk9tGQXbo
 - https://open.spotify.com/track/4WYlewJtfeVhAoPlApq5fu
-Main Release: track:respite
+Main Release: track:respite-undertale
 ---
 Track: Bring It In, Guys!
 Always Reference By Directory: true
@@ -891,13 +891,12 @@ URLs:
 Main Release: Power of "NEO"
 ---
 Track: MEGALOVANIA
-Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:36
 URLs:
 - https://www.youtube.com/watch?v=c5daGZ96QGU
 - https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL
-Referenced Tracks:
-- track:megalovania-ebhh
+Main Release: track:megalovania-undertale
 ---
 Track: Good Night
 Duration: 0:31
