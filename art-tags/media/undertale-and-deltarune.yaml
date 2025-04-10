@@ -32,6 +32,7 @@ Direct Descendant Tags:
 - Ice Cap
 - Jerry
 - Knight Knight
+- Mad Mew Mew
 - Madjick
 - Mettaton
 - Mettaton EX
@@ -108,6 +109,8 @@ Color: '#ffc05b'
 ---
 Tag: Dummy
 Color: '#efe4b0'
+Direct Descendant Tags:
+- Mad Dummy
 ---
 Tag: Final Froggit
 Color: '#ffbe00'
@@ -143,6 +146,14 @@ Color: '#22b14c'
 ---
 Tag: Knight Knight
 Color: '#a349a4'
+---
+Tag: Mad Dummy
+Color: '#ff4041'
+Direct Descendant Tags:
+- Mad Mew Mew
+---
+Tag: Mad Mew Mew
+Color: '#ff8a90'
 ---
 Tag: Madjick
 Color: '#993399'
