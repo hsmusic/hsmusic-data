@@ -13,16 +13,25 @@ Extra Reading URLs:
 ---
 Tag: Characters from UNDERTALE & DELTARUNE
 Direct Descendant Tags:
+- Humans (UNDERTALE & DELTARUNE)
+- Monsters (UNDERTALE & DELTARUNE)
+- More characters from UNDERTALE & DELTARUNE
+---
+Tag: Humans (UNDERTALE & DELTARUNE)
+Direct Descendant Tags:
+- Frisk
+---
+Tag: Monsters (UNDERTALE & DELTARUNE)
+Direct Descendant Tags:
 - Aaron
-- Annoying Dog
 - Astigmatism
 - Charles
 - Chilldrake
 - Dad Slime
 - Drunk Bun
+- Dummies
 - Dummy
 - Final Froggit
-- Frisk
 - Froggit
 - Fuku Fire
 - Gerson
@@ -66,6 +75,10 @@ Extra Reading URLs:
 - https://undertale.wiki/w/Category:Characters
 - https://deltarune.wiki/w/Category:Characters
 ---
+Tag: More characters from UNDERTALE & DELTARUNE
+Direct Descendant Tags:
+- Annoying Dog
+---
 Tag: Souls
 Direct Descendant Tags:
 - Human Soul
@@ -82,6 +95,19 @@ Direct Descendant Tags:
 - Soul (Yellow)
 
 # Character entries
+
+---
+Tag: Dummies
+Color: '#efe4b0'
+Direct Descendant Tags:
+- Dummy
+- Mad Dummy
+---
+Tag: Snowdrake (species)
+Direct Descendant Tags:
+- Snowdrake
+- Chilldrake
+Color: '#b7d0e3'
 
 ---
 Tag: Aaron
@@ -109,8 +135,6 @@ Color: '#ffc05b'
 ---
 Tag: Dummy
 Color: '#efe4b0'
-Direct Descendant Tags:
-- Mad Dummy
 ---
 Tag: Final Froggit
 Color: '#ffbe00'
@@ -227,8 +251,6 @@ Tag: Snowdin Shopkeeper
 Color: '#7358cf'
 ---
 Tag: Snowdrake
-Direct Descendant Tags:
-- Chilldrake
 Color: '#b7d0e3'
 ---
 Tag: Spamton
