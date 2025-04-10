@@ -19,6 +19,7 @@ Groups:
 #- todo...
 ---
 Section: 'Record 1 Side A: Ruins'
+Color: '#a349a4'
 ---
 Track: Once Upon a Time
 Always Reference By Directory: true
@@ -147,6 +148,7 @@ URLs:
 Main Release: Heartache
 ---
 Section: 'Record 1 Side B: Snowdin'
+Color: '#85a3d8'
 ---
 Track: sans.
 Always Reference By Directory: true
@@ -284,6 +286,7 @@ URLs:
 Main Release: Song That Might Play When You Fight Sans
 ---
 Section: 'Record 2 Side A: Waterfall'
+Color: '#7bfbfe'
 ---
 Track: Danger Mystery
 Always Reference By Directory: true
@@ -448,6 +451,7 @@ URLs:
 Main Release: Spear of Justice
 ---
 Section: 'Record 2 Side B: Hotland'
+Color: '#ff8011'
 ---
 Track: Ooo
 Always Reference By Directory: true
@@ -594,6 +598,7 @@ URLs:
 Main Release: Oh! Dungeon
 ---
 Section: 'Record 3 Side A: Core'
+Color: '#0d38da'
 ---
 Track: It's Raining Somewhere Else
 Always Reference By Directory: true
@@ -668,6 +673,7 @@ URLs:
 Main Release: Long Elevator
 ---
 Section: 'Record 3 Side B: Castle'
+Color: '#b6b6b6'
 ---
 Track: Undertale
 Always Reference By Directory: true
@@ -724,6 +730,7 @@ URLs:
 Main Release: ASGORE
 ---
 Section: 'Record 4 Side A: Hopes?'
+Color: '#c08226'
 ---
 Track: You Idiot
 Always Reference By Directory: true
@@ -790,6 +797,7 @@ URLs:
 Main Release: Fallen Down (Reprise)
 ---
 Section: 'Record 4 Side B: Dreams?'
+Color: '#ffffff'
 ---
 Track: Don't Give Up
 Always Reference By Directory: true
@@ -848,6 +856,7 @@ URLs:
 Main Release: track:reunited-undertale
 ---
 Section: 'Record 5 Side A: Determination'
+Color: '#ff0000'
 ---
 Track: Respite
 Always Reference By Directory: true
