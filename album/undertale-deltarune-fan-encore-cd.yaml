@@ -1,0 +1,155 @@
+Album: UNDERTALE + deltarune FAN ENCORE CD
+Directory: undertale-deltarune-fan-encore-cd
+Directory Suffix: fan-encore
+Suffix Track Directories: true
+Artists:
+- Toby Fox
+Date: May 21, 2019
+#Date Added: February 5, 2024
+#URLs:
+#- 
+Color: '#ffffff'
+Cover Artists:
+- maitou
+Cover Art File Extension: png
+Groups:
+- Toby Fox
+- UNDERTALE & DELTARUNE
+Art Tags:
+- Frisk
+- Kris (Dark World)
+---
+Section: DELTARUNE Trial Tracks
+---
+Track: DOGTARUNE (Trailer)
+Duration: 0:16
+#URLs:
+#- 
+Commentary: |-
+    <i>Nintendo DREAM:</i> (Booklet)
+
+    ("DELTARUNE Chapter 1" Launch Trailer)
+
+    <i>Toby Fox:</i> (UNDERTALE + deltarune FAN ENCORE CD - Booklet)
+
+    この曲を作ったときは、なんも考えてなかったです。
+---
+Track: Beginning
+Always Reference By Directory: true
+Duration: 0:59
+Main Release: track:beginning-deltarune
+Commentary: |-
+    <i>Nintendo DREAM:</i> (Booklet)
+
+    (From "DELTARUNE Chapter 1")
+
+    <i>Toby Fox:</i> (UNDERTALE + deltarune FAN ENCORE CD - Booklet)
+
+    手を振っている ご近所さん<br>
+    帰ってくるよ お兄ちゃん<br>
+    町は すっかり秋めいて<br>
+    旅の始まりには うってつけ
+---
+Track: Rude Buster
+Always Reference By Directory: true
+Directory: rude-buster-fan-encore-cd
+Duration: 2:44
+Main Release: Rude Buster
+Commentary: |-
+    <i>Nintendo DREAM:</i> (Booklet)
+
+    (From "DELTARUNE Chapter 1")
+
+    <i>Toby Fox:</i> (UNDERTALE + deltarune FAN ENCORE CD - Booklet)
+
+    この曲のメロディは5年前に作ったもので･･･<br>
+    ん･･･? 今、この文章を書き直してる時点では、6年前か。<br>
+    どうなっちゃってるの!?
+---
+Section: UNDERTALE Encore
+---
+Track: SE Collection
+Always Reference By Directory: true
+Duration: 2:25
+Main Release: track:se-collection
+Commentary: |-
+    <i>Nintendo DREAM:</i> (Booklet)
+
+    (Mixed by [[artist:toby-fox]])
+---
+Track: MEGALOVANIA
+Always Reference By Directory: true
+Duration: 5:14
+Main Release: track:megalovania-fan-selection ##purposefully referring to the fan selection. it's a re-release of the double loop version from that CD.
+---
+Track: Hopes and Dreams
+Always Reference By Directory: true
+Duration: 6:03
+Main Release: track:hopes-and-dreams-fan-selection ##purposefully referring to the fan selection. it's a re-release of the double loop version from that CD.
+---
+Track: Battle Against a True Hero
+Always Reference By Directory: true
+Duration: '5:12'
+Main Release: track:battle-against-a-true-hero-fan-selection ##purposefully referring to the fan selection. it's a re-release of the double loop version from that CD.
+---
+Track: Ruins
+Duration: 1:34
+Main Release: track:ruins-undertale
+---
+Section: MUSIC Engine Orchestra
+---
+Track: Ruins
+Directory: ruins-music-engine-fan-encore
+Always Reference By Directory: true
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: 1:53
+Commentary: |-
+    <i>Nintendo DREAM:</i> (Booklet)
+
+    (from "MUSIC Engine UNDERTALE CD Vol.2: Toriel")
+---
+Track: Anticipation / Enemy Approaching
+Directory: anticipation-enemy-approaching-music-engine-fan-encore
+Always Reference By Directory: true
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: 2:23
+Commentary: |-
+    <i>Nintendo DREAM:</i> (Booklet)
+
+    (from "MUSIC Engine UNDERTALE CD Vol.2: Toriel")
+---
+Track: CORE / Death by Glamour
+Directory: core-death-by-glamour-music-engine-fan-encore-cd
+Always Reference By Directory: true
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: 3:58
+Commentary: |-
+    <i>Nintendo DREAM:</i> (Booklet)
+
+    (from "MUSIC Engine UNDERTALE CD Vol.3: Alphys & Mettaton")
+---
+Track: For the Fans ##to be made re-release of MUSIC Engine arrangement albums
+Directory: for-the-fans-music-engine-fan-encore-cd
+Always Reference By Directory: true
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: 1:49
+Commentary: |-
+    <i>Nintendo DREAM:</i> (Booklet)
+
+    (from "MUSIC Engine UNDERTALE CD Vol.3: Alphys & Mettaton")
