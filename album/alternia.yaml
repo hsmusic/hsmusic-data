@@ -712,9 +712,12 @@ Duration: 2:10
 URLs:
 - https://homestuck.bandcamp.com/track/the-thirteenth-hour-2
 - https://youtu.be/SixKHx18sqk
-Cover Artists:
-- Homestuck
-Cover Art File Extension: jpg
+Track Artwork:
+- Label: Official art
+  # Directory: original  # no directory for The Thirteenth Hour... f'd up
+  Artists:
+  - Homestuck
+  File Extension: jpg
 Referenced Tracks:
 - Sburban Jungle
 Sheet Music Files:
