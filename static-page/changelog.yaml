@@ -43,6 +43,9 @@ Content: |-
     - completely reworked the design and behavior of tracks with multiple releases
         - links to other releases are much terser ([[media:misc/changelog/also-released-line-old.png|old]], [[media:misc/changelog/also-released-line-new.png|new]]) and appear in the sidebar too, with the current release's track list positioned according to the order of releases ([[media:misc/changelog/release-sidebar-chronology-2010.png|2010]], [[media:misc/changelog/release-sidebar-chronology-2011.png|2011]], [[media:misc/changelog/release-sidebar-chronology-2025.png|2025]])
         - artist info page marks the first release and later rereleases, including a tooltip that scrolls down or up to the relevant album ([[media:misc/changelog/release-artist-chronology-first-release.png|a first release]] and [[media:misc/changelog/release-artist-chronology-rerelease.png|a rerelease]])
+    - added multiple artworks
+        - STUB CHANGELOG ENTRY!! STERNLY REGARD SHEEP
+        - album gallery page allows switching between sets ([[media:misc/changelog/album-gallery-sets-alternia-official.png|official]], [[media:misc/changelog/album-gallery-sets-alternia-anthology.png|anthology]]) and shows album art in separate section from track art; on "stub" gallery pages, where no tracks have any art, track grid is now completely hidden ([[media:misc/changelog/album-gallery-no-tracks-old.png|old]], [[media:misc/changelog/album-gallery-no-tracks-new.png|new]])
     - added automatic sorting validation and correction for parts of a handful of data files, including the sections under [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]], so these can stay properly alphabetized
     <h3>album additions</h3>
     - added latest release from [[group:unofficial-mspa-fans]]! (thanks, Makin!)
