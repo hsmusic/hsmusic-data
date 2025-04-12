@@ -116,6 +116,8 @@ Track: It Really Doesn't Matter
 Duration: 5:39
 URLs:
 - https://svix.bandcamp.com/track/it-really-doesnt-matter-2
+Referenced Tracks:
+- track:it-really-doesnt-matter-original
 Lyrics: |-
     What would you do if I said
     I'm not coming back
@@ -147,6 +149,8 @@ Always Reference By Directory: true
 Duration: 4:02
 URLs:
 - https://svix.bandcamp.com/track/goodbye-2
+Referenced Tracks:
+- track:goodbye-original
 Lyrics: |-
     Conversation
     No sensation, things I've yet to say
@@ -312,15 +316,15 @@ Duration: 4:33
 URLs:
 - https://www.youtube.com/watch?v=8UFXoZfWagQ
 Referenced Tracks:
-- track:goodbye-induction
+- track:goodbye-original
 - Havoc
 - track:my-hibernation-original
-- track:verisimilitude-induction
+- track:verisimilitude-original
 - track:flying-battery-zone-act-2
 - track:fire-forget
 - track:wistful-induction
 - You Fade Away
-- Shake Your Tail
+- track:shake-your-tail-original
 - The Fox Cub
 Commentary: |-
     <i>Svix:</i> ([YouTube description](https://www.youtube.com/watch?v=8UFXoZfWagQ), excerpt)
@@ -356,4 +360,4 @@ Duration: 4:17
 URLs:
 - https://svix.bandcamp.com/track/goodbye-metawulf-remix
 Referenced Tracks:
-- track:goodbye-induction
+- track:goodbye-original
