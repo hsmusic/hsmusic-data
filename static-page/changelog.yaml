@@ -100,6 +100,12 @@ Content: |-
     - removed "Bart", "Birds", "Meteor", "Repiton", "The Static", "Adamsprite (Redditstuck)", "Austin (Redditstuck)", "Bella (Redditstuck)", "Bill (Redditstuck)", "Cindy (Redditstuck)", "Elle (Redditstuck)", "Gregory (Redditstuck)", "h00dbeard (Redditstuck)", "Lucas (Redditstuck)", "Nanners (Redditstuck)", "Nick (Redditstuck)", "Ronny (Redditstuck)", "Sidecarsprite (Redditstuck)", "Thumbsprite (Redditstuck)", "Timothy (Redditstuck)", "Wit (Redditstuck)"
     <h3>data fixes</h3>
     <!-- reference fixes -->
+    - fixed various [[track:cascade]]-related references (thanks, ruby, Kenón, Lan!)
+        - fixed [[track:cascade]] not referencing and sampling [[track:cascade-directors-cut]] (in addition to [[track:cascade-beta]])
+        - fixed [[track:cascade-directors-cut]] referencing [[track:cascade]] instead of [[track:cascade-beta]]
+        - fixed [[track:cascade-directors-cut]] referencing [[track:cascade1]], instead of the other way around
+        - fixed [[track:cascade1]] referencing [[track:sburban-jungle]] and [[track:beatdown-strider-style]]; moved these references to [[track:cascade-directors-cut]] instead
+        - added more wiki editor commentary to [[track:cascade1]]
     - fixed [[track:oppa-toby-style]] referencing [[track:ham-and-steak]] instead of [[track:rex-english]] (thanks, Grace, Kenón!)
     - fixed [[track:enter-with-caliborn-destruction-adventure]] not sampling [[track:all-were-gonna-get]] (thanks, Interrobang, Lanolin!)
     - fixed [[track:limefalls]] not referencing [[track:rozepiano]] (thanks, Nevermind!)
