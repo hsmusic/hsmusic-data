@@ -68,7 +68,7 @@ Content: |-
     <!-- link additions -->
     - added YouTube track and playlist links across [[album:oceanfalls-vol-1]], [[album:oceanfalls-vol-2]], [[album:oceanfalls-vol-3]], [[album:oceanfalls-vol-4]], and [[album:oceanfalls-vol-five]] (thanks, Lanolin!)
     - added YouTube listening links to [[track:buskers-theme]], [[track:cascade2]], [[track:nautical-climb]], [[track:skaia-voyages]], and [[track:skaian-shuffle]] (thanks, meulanie, Lanolin!)
-    - added Nintendo Music listening links to [[track:big-blue]], [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]], [[track:death-wind]], [[track:dj-kk-instrumental]], [[track:fight-on-heroes]], [[track:file-select-sm64]], [[track:fire-field]], [[track:ground-bgm-super-mario-bros-2]], [[track:ground-bgm-super-mario-bros-3]], [[track:king-of-the-koopas]], [[track:mountains-and-forests-of-the-dark-world]], [[track:mute-city]], [[track:player-select-the-legend-of-zelda-a-link-to-the-past]], [[track:port-town]], [[track:red-canyon]], [[track:sand-ocean]], [[track:save-the-world-heroes]], [[track:title-find-mii]], [[track:title-find-mii-ii]], [[track:white-land-i]], [[track:world-1-map-grass-land]], [[track:world-6-map-ice-land]], [[track:world-8-map-dark-land]], and [[track:you-lost-f-zero]] (thanks, ruby, vriska!)
+    - added Nintendo Music listening links to [[track:big-blue]], [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]], [[track:death-wind]], [[track:dj-kk-instrumental]], [[track:fight-on-heroes]], [[track:file-select-sm64]], [[track:fire-field]], [[track:ground-bgm-super-mario-bros-2]], [[track:ground-bgm-super-mario-bros-3]], [[track:king-of-the-koopas]], [[track:mountains-and-forests-of-the-dark-world]], [[track:mute-city]], [[track:player-select-the-legend-of-zelda-a-link-to-the-past]], [[track:port-town]], [[track:red-canyon]], [[track:sand-ocean]], [[track:save-the-world-heroes]], [[track:title-find-mii]], [[track:title-find-mii-ii]], [[track:title-theme-luigis-mansion]], [[track:title-theme-humming-luigis-mansion]], [[track:training-room-second-half]], [[track:white-land-i]], [[track:world-1-map-grass-land]], [[track:world-6-map-ice-land]], [[track:world-8-map-dark-land]], and [[track:you-lost-f-zero]] (thanks, ruby, vriska!)
     <!-- additional files additions -->
     - added Bandcamp background files for [[album:your-majesty]], [[album:bowmanstuck]], and [[album:gba-pokemon-unbound-super-music-collection]] (thanks, Niklink!)
     - added Bandcamp banner file for [[album:fraymotif-fighters]] (thanks, Niklink!)
@@ -119,6 +119,7 @@ Content: |-
         - annotated [[artist:masahiro-sakurai]] contributions as "lyrics supervisor" (was "lyrics")
         - added [[artist:mahito-yokota]] (recording management) contribution
         - added [[artist:noriko-sekiya]] (musician coordinator) contribution
+    - fixed [[track:training-room-second-half]] co-crediting [[artist:shinobu-tanaka]] alongside [[artist:kazumi-totaka]] (thanks, ruby!)
     <!-- name fixes (subsections, then single-lines) -->
     - fixed some tracks' names not aligning with Bandcamp releases: (thanks, Surge, Lan!)
         - fixed [[track:three-in-the-morning-kalis-2-in-the-am-pm-edit]] being named "Three in the Morning (Kali's 2 in the AM PM Edit)" (parentheses instead of square brackets)
@@ -133,6 +134,9 @@ Content: |-
         - fixed [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] being named "Select Screen (The Legend of Zelda: A Link to the Past)"
         - fixed [[track:title-find-mii]] being named "Title Theme (Find Mii)"
         - fixed [[track:title-find-mii-ii]] being named "Title Theme (Find Mii II)"
+        - fixed [[track:title-theme-luigis-mansion]] being named "Title (Luigi's Mansion)"
+        - fixed [[track:title-theme-humming-luigis-mansion]] being named "Main Theme (Luigi's Mansion)"
+        - fixed [[track:training-room-second-half]] being named "Training (Luigi's Mansion)"
         - fixed [[track:white-land-i]] being named "White Land"
         - fixed [[track:world-1-map-grass-land]] being named "World 1 (Super Mario Bros. 3)"
         - fixed [[track:world-6-map-ice-land]] being named "World 6 (Super Mario Bros. 3)"
@@ -181,7 +185,10 @@ Content: |-
         - fixed duration of [[track:suns-song]] (was 0:05, now 0:06)
         - fixed duration of [[track:title-find-mii]] (was 2:28, now 2:29)
         - fixed duration of [[track:title-find-mii-ii]] (was 3:01, now 3:02)
+        - fixed duration of [[track:title-theme-luigis-mansion]] (was 0:23, now 0:25)
+        - fixed duration of [[track:title-theme-humming-luigis-mansion]] (was 1:50, now 1:59)
         - fixed duration of [[track:title-theme-wii-sports]] (was 2:23, now 2:21)
+        - fixed duration of [[track:training-room-second-half]] (was 2:38, now 2:34)
         - fixed duration of [[track:white-land-i]] (was 1:53, now 2:09)
         - fixed duration of [[track:world-1-map-grass-land]] (was 0:39, now 0:44)
         - fixed duration of [[track:world-6-map-ice-land]] (was 0:25, now 0:41)
@@ -323,6 +330,9 @@ Content: |-
     - changed directory of [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] from `select-screen-the-legend-of-zelda-a-link-to-the-past` to `player-select-the-legend-of-zelda-a-link-to-the-past`
     - changed directory of [[track:title-find-mii]] from `title-theme-find-mii` to `title-find-mii`
     - changed directory of [[track:title-find-mii-ii]] from `title-theme-find-mii-ii` to `title-find-mii-ii`
+    - changed directory of [[track:title-theme-luigis-mansion]] from `title-luigis-mansion` to `title-theme-luigis-mansion`
+    - changed directory of [[track:title-theme-humming-luigis-mansion]] from `main-theme-luigis-mansion` to `title-theme-humming-luigis-mansion`
+    - changed directory of [[track:training-room-second-half]] from `training-luigis-mansion` to `training-room-second-half`
     - changed directory of [[track:world-1-map-grass-land]] from `world-1-smb3` to `world-1-map-grass-land`
     - changed directory of [[track:world-6-map-ice-land]] from `world-6-smb3` to `world-6-map-ice-land`
     - changed directory of [[track:world-8-map-dark-land]] from `world-8-smb3` to `world-8-map-dark-land`
