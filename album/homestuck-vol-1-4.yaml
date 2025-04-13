@@ -442,13 +442,21 @@ URLs:
 ---
 Track: Sburban Jungle
 Main Release: Sburban Jungle
-Cover Artists:
-- artist:alice-bowman-nee-hu
-Art Tags:
-- Rose
-- Earth
-Cover Art Date: May 26, 2023
-Cover Art File Extension: png
+Track Artwork:
+- Directory: original
+  File Extension: jpg
+  Artists:
+  - Homestuck
+  Tags:
+  - Rose
+  - 'Rainbow Falls, NY'
+- Label: Composer-release art
+  Date: May 26, 2023
+  Artists:
+  - artist:alice-bowman-nee-hu
+  Tags:
+  - Rose
+  - 'Rainbow Falls, NY'
 Duration: 3:39
 URLs:
 - https://homestuck.bandcamp.com/track/sburban-jungle-3

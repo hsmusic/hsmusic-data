@@ -249,13 +249,21 @@ Bandcamp Track ID: 1062342164
 Bandcamp Artwork ID: a2947337848
 Artists:
 - Michael Guy Bowman
-Cover Artists:
-- artist:alice-bowman-nee-hu
-Art Tags:
-- Rose
-- 'Rainbow Falls, NY'
-Cover Art Date: May 26, 2023
-Cover Art File Extension: png
+Track Artwork:
+- Directory: original
+  Artists:
+  - Homestuck
+  Tags:
+  - Rose
+  - 'Rainbow Falls, NY'
+- Label: Composer-release art
+  File Extension: png
+  Date: May 26, 2023
+  Artists:
+  - artist:alice-bowman-nee-hu
+  Tags:
+  - Rose
+  - 'Rainbow Falls, NY'
 Duration: 3:39
 URLs:
 - https://homestuck.bandcamp.com/track/sburban-jungle-3
@@ -312,10 +320,6 @@ Commentary: |-
     Big thank you to Michael Guy Bowman for featuring my art on this new official upload of Sburban Jungle!
 
     If you pay attention to the video, you'll notice it moves!!
-
-    <i>Homestuck:</i> (original track art)
-
-    <img src="media/misc/sburban-jungle.jpg" width="350" height="350">
 ---
 Track: Three in the Morning (RJ's I Can Barely Sleep In This Casino Remix)
 Directory: three-in-the-morning-rj
