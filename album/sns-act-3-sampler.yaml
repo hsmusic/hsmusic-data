@@ -1,5 +1,4 @@
 Album: 'SNS: Act 3 Sampler'
-Directory Suffix: sns-act-3-sampler
 Date: April 13, 2025
 Date Added: April 13, 2025
 URLs:
@@ -24,7 +23,7 @@ Groups:
 - Sunday Night Strifin'
 - Fandom
 Commentary: |-
-    <i>Jebb:</i> ([Bandcamp Description](https://strifinsoundteam.bandcamp.com/album/sns-act-3-sampler), excerpt)
+    <i>Jebb:</i> ([Bandcamp about blurb](https://strifinsoundteam.bandcamp.com/album/sns-act-3-sampler))
     Happy 4/13, dear Strifers!
 
     As a celebration of the date, we are releasing a sampler of some of the upcoming tracks for Act 3. Some of the music here we have already previously shown off, and some has never been heard publicly before!
@@ -32,6 +31,7 @@ Commentary: |-
     We hope this little collection gives you a glimpse of what’s to come…
 ---
 Track: Breadsticks
+Suffix Directory: true
 Artists:
 - Jebb
 Duration: 2:27
