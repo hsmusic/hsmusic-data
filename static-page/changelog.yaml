@@ -32,21 +32,40 @@ Style: |-
         margin-bottom: 0.5em;
     }
 Content: |-
-    <h2 id="12-dec-2312" class="major-release"><html:a href="#12-dec-2312">[[date:12 December 2312]] - The Apple Wizard of Mount Fuji</a></h2>
+    <h2 id="13-apr-2025" class="major-release"><html:a href="#13-apr-2025">[[date:13 April 2025]] - The Apple Wizard of Mount Fuji</a></h2>
     <h3>site changes</h3>
     - added networked tags, a system for connecting, organizing, and exploring related art tags
-        - makes a big "forest" of tags, where the roots - like "Media" and "Species classifications" - stand on their own, then branch into tags with multiple roots
+        - makes a big "forest" of tags, where the roots - like "Media" and "Species classifications" - stand on their own, then branch into tags with multiple roots; this structure is coded completely in wiki data files, so it's readily able to be extended and reinterpreted
+        - adds a new [[media:misc/changelog/art-tag-info-page.png|art tag info page]], which shows a summary of the tag's relationships and how many times it and its children tags are featured, and includes [[media:misc/changelog/art-tag-ancestor-map.png|a neat sidebar view]] tracing back to the current tag's uppermost root tags
+        - also supports related tags, tag descriptions, reading links, additional names, and [[listing:tags/network|a handy new listing]]
         - expands the scope of art tagging to include recurrant objects and iconography, and allows detailed representation of tags from outside Homestuck
-        - structure coded completely in wiki data files, so it's readily able to be extended and reinterpreted
-        - also supports related tags, tag descriptions, reading links, additional names
-        - much thanks to Celeste for helping discuss and workshop this feature, and to many many people for offering tagging and structuring suggestions and advice
+        - currently all artworks across [[group:official]] have been reviewed to feature the new tags, more from fandom to come; all existing tags are already integrated into the art tag network
+        - much thanks to Celeste for helping discuss and workshop this feature, and to many many people (especially FF, Jebb, Makin) for offering tagging and structuring suggestions and advice
     - completely reworked the design and behavior of tracks with multiple releases
         - links to other releases are much terser ([[media:misc/changelog/also-released-line-old.png|old]], [[media:misc/changelog/also-released-line-new.png|new]]) and appear in the sidebar too, with the current release's track list positioned according to the order of releases ([[media:misc/changelog/release-sidebar-chronology-2010.png|2010]], [[media:misc/changelog/release-sidebar-chronology-2011.png|2011]], [[media:misc/changelog/release-sidebar-chronology-2025.png|2025]])
         - artist info page marks the first release and later rereleases, including a tooltip that scrolls down or up to the relevant album ([[media:misc/changelog/release-artist-chronology-first-release.png|a first release]] and [[media:misc/changelog/release-artist-chronology-rerelease.png|a rerelease]])
-    - added multiple artworks
-        - STUB CHANGELOG ENTRY!! STERNLY REGARD SHEEP
+    - added multiple artworks, a feature for including more than one artwork on any track or on an album itself
+        - useful, for example, for official art and anthology fanart; for main track art and bonus or alternate track art; for front and back covers of a CD case
+        - artworks are integrated into the existing art-related features, so they feature art tags, appear in artist and tag gallery pages, are part of artist chronology links, etc (proper integration into artwork references is coming Very Soon)
+        - artworks appear in a column along the right ([[media:misc/changelog/multiple-artworks.png|demo]]); the primary one is shown biggest, with the rest all a bit smaller; artwork credits appear right inside the artwork box, rather than getting separated from the art and mixed with musical credits in the content area; other key details are also displayed under the artwork, like a custom label ("Anthology fanart"), the year of release (hover for full date), and the originating "via" source
+        - album wallpaper and banner credits now also appear beneath the main album cover artwork ([[media:misc/changelog/album-layout-credits-old.png|old]], [[media:misc/changelog/album-layout-credits-new.png|new]])
         - album gallery page allows switching between sets ([[media:misc/changelog/album-gallery-sets-alternia-official.png|official]], [[media:misc/changelog/album-gallery-sets-alternia-anthology.png|anthology]]) and shows album art in separate section from track art; on "stub" gallery pages, where no tracks have any art, track grid is now completely hidden ([[media:misc/changelog/album-gallery-no-tracks-old.png|old]], [[media:misc/changelog/album-gallery-no-tracks-new.png|new]])
+        - currently used for the art anthology projects for [[album:homestuck-vol-5]], for [[album:alternia]] and [[album:alterniabound]], and [[album:beyond-canon]], with more to come
     - added automatic sorting validation and correction for parts of a handful of data files, including the sections under [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]], so these can stay properly alphabetized
+    - added support for multiple line breaks in a row between stanzas in lyrics
+    - added support for starting track sections at custom track numbers, for example a pre-gap track in [[album:unbeatable-off-beats]], and soon perhaps some multi-disc albums
+    - added auto-collapsing behavior to the sticky heading visible on most pages across the site; once you've scrolled a bit past the top, it will always display just one line of text, expanding to fit what space is available
+    - added support for showing the image overlay to content text, such as commentary or the changelog ([[media:misc/changelog/content-text-image-links.png|have you been clicking these links??]]), and adjusted the image overlay to fit nicer to its contents, so that rectangular images don't have a bunch of blank padding about the edges
+        - includes some tweaks to CSS (mainly a bit more spacing between lines of the heading, when it's shown at full height) and careful integration with the additional names box, which still shows when the heading is clicked, but only if you've not yet scrolled down the page content area
+    - added nicer support for `<audio>` elements in content text, such as commentary on [[track:ham-and-steak]]
+    - added fancy text-based dynamics to decide when a link with an "extra" icon, like external links or links to images, should decide to "absorb" punctuation which immediately follows it
+    - made the search bar appear on every page, no matter what, instead of being conditional on other stuff in the sidebar
+    - adjusted chronology links to exclude dateless contributions from the main chronology; they'll still show next and previous links, but only pointing to other dateless contributions within the same album
+    <h3>bug fixes</h3>
+    - fixed `<link rel="canonical">` being missing from HTML for all pages, possibly tripping up search engines when the same page exists in multiple places
+    - fixed some really awful word wrapping troubles in the nav bar, when individual nav links are outrageously long ([[media:misc/changelog/nav-word-wrap-woes-old.png|old]], [[media:misc/changelog/nav-word-wrap-woes-new.png|new]])
+    - fixed extensive sets of links to groups and their series in the track secondary nav overflowing past the width of the page ([[media:misc/changelog/sec-nav-series-wrap-woes-old.png|old]], [[media:misc/changelog/sec-nav-series-wrap-woes-new.png|new]])
+    - fixed track numbers for track sections in the sidebar sometimes getting split in the middle ([[media:misc/changelog/sidebar-track-number-split-woes-old.png|old]], [[media:misc/changelog/sidebar-track-number-split-woes-new.png|new]])
     <h3>album additions</h3>
     - added latest release from [[group:unofficial-mspa-fans]]! (thanks, Makin!)
         - added [[album:fondly-regard-illustration]]!
@@ -118,7 +137,7 @@ Content: |-
     - removed lyrics from [[track:f-zero-medley]] ... for now! (thanks, ruby!)
     <h3>data changes</h3>
     <!-- misc presentational changes -->
-    - updated all artwork anthologies (across [[album:homestuck-vol-5]], [[album:alternia]], [[album:alterniabound]], and [[album:beyond-canon]]) to be presented through new "multiple artworks" layout, with original artworks added as the primary artworks; original artworks now get art tags, and anthology artworks are now clearly labelled and link to the anthology's release posts
+    - updated all artwork anthologies (across [[album:homestuck-vol-5]], [[album:alternia]] and [[album:alterniabound]], and [[album:beyond-canon]]) to be presented through new "multiple artworks" layout, with original artworks added as the primary artworks; original artworks now get art tags, and anthology artworks are now clearly labelled and link to the anthology's release posts
     - updated links to "wiki archive" audio files hosted on-wiki, [[static:changelog#30-jan-2025|since recently]] hosted at media.hsmusic.wiki (old URLs continue to redirect; thanks, Lanolin!)
     - improved backgrounds for [[album:413-sp3c14l]], [[album:bittersweet-hilary-troiano]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:doctor-raid-remix]], [[album:flare-raid-remix]], [[album:electricity]], [[album:english-metal-cover]], [[album:gba-pokemon-unbound-super-music-collection]], and [[album:penumbra-phantasm-cover-ash-taylor]] (thanks, Niklink!)
     - improved background rendering for [[album:tomb-of-the-ancestors]], [[album:shortcuts]], [[album:p-s]], [[album:paths]], [[album:chips-and-bits-vol-1]], [[album:chips-and-bits-vol-2]], [[album:haruspex-ost]], and [[album:moonslayer]] and banner aspect ratio for [[album:loftlocked-vol-1]] (thanks, Niklink!)
