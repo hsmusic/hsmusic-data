@@ -1,4 +1,5 @@
 Album: RAKKA Vol. 1 ALTIMINTAK
+Directory Suffix: rakka
 Date: June 11, 2024 
 Date Added: February 9, 2025
 URLs:
@@ -157,6 +158,8 @@ Lyrics: |-
     I’ll tell the people that they’re never gonna catch me)
 ---
 Track: TENT
+Suffix Directory: true
+Always Reference By Directory: true
 Contributors:
 - v1ny4rd (guitar solo)
 - Pascal van den Bos (additional arrangement)
@@ -254,6 +257,8 @@ Lyrics: |-
     Hey girl
 ---
 Track: DIPPING
+Suffix Directory: true
+Always Reference By Directory: true
 Contributors:
 - Pascal van den Bos (additional arrangement)
 Duration: 2:53
@@ -289,6 +294,8 @@ Lyrics: |-
     Is it?
 ---
 Track: PROMISE
+Suffix Directory: true
+Always Reference By Directory: true
 Contributors:
 - Pascal van den Bos (slap bass, additional arrangement)
 Duration: 4:11

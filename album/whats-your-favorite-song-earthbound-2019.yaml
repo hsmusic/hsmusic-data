@@ -1,4 +1,5 @@
 Album: What's Your Favorite Song? - EarthBound 2019
+Directory Suffix: eb2019
 Date: August 27, 2019
 Date Added: February 5, 2025
 URLs:
@@ -151,6 +152,8 @@ URLs:
 - https://open.spotify.com/track/6RQmEp7OcBHbd6dSNxVHQo
 ---
 Track: Pastel
+Suffix Directory: true
+Always Reference By Directory: true
 Artists:
 - Caelan Kier
 Cover Artists:
@@ -247,6 +250,8 @@ URLs:
 - https://open.spotify.com/track/3FFKWWYDzBOpRN3B2KXc6k
 ---
 Track: Nightlight
+Suffix Directory: true
+Always Reference By Directory: true
 Artists:
 - Rowyn Berlan
 Cover Artists:
@@ -302,8 +307,8 @@ URLs:
 - https://open.spotify.com/track/6dDSPTOWxLIO6xXqQ4Kpgd
 ---
 Track: Dust
-Suffix Directory: True
-Always Reference By Directory: True
+Suffix Directory: true
+Always Reference By Directory: true
 Artists:
 - Caelan Kier
 Cover Artists:

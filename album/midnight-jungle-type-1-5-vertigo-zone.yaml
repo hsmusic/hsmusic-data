@@ -1,5 +1,6 @@
 Album: 'MIDNIGHT JUNGLE TYPE 1.5: VERTIGO ZONE - 真夜中のジャングル『目眩ゾーン』'
 Directory: midnight-jungle-type-1-5-vertigo-zone
+Directory Suffix: midnight-jungle
 Date: July 12, 2024
 Date Added: February 5, 2025
 URLs:
@@ -29,13 +30,13 @@ Additional Files:
   Files:
   - M1.5_BOOKLET.pdf
 Commentary: |-
-    <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://pascalpotatovandenbos.bandcamp.com/album/midnight-jungle-type-15-vertigo-zone), excerpt)
+    <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://pascalpotatovandenbos.bandcamp.com/album/midnight-jungle-type-15-vertigo-zone))
 
     The second addition to the "MIDNIGHT JUNGLE" series.
 
     This racing game inspired concept album is a mixed love letter to the music and style of RIDGE RACER TYPE 4/5 and F-Zero GX/AX, which i have completely fallen in love with. So i wanted to create something fresh for fans like me to enjoy.
 
-    This album has also been featured as the soundtrack for the game "Avenge Myself", which you can play here!: madmanepic.itch.io/avenge-myself
+    This album has also been featured as the soundtrack for the game "Avenge Myself", which you can play here!: [madmanepic.itch.io/avenge-myself](https://madmanepic.itch.io/avenge-myself)
 Credit Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/album/midnight-jungle-type-15-vertigo-zone))
 
@@ -201,6 +202,8 @@ URLs:
 - https://open.spotify.com/track/3Edig2qcxB63ro6Jjqeh9D
 ---
 Track: SPIKED
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '4:17'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/spiked
@@ -208,6 +211,8 @@ URLs:
 - https://open.spotify.com/track/1HwUolhj852T70hNWJULmu
 ---
 Track: CORROSION
+Suffix Directory: true
+Always Reference By Directory: true
 Additional Names:
 - CORROSION (Feat. v1ny4rd) (original name)
 Contributors:
@@ -243,7 +248,7 @@ URLs:
 - https://open.spotify.com/track/2TzY8eWX4d6BSconHLcmXL
 ---
 Track: EPILOGUE
-Suffix Directory: true
+Directory: epilogue-midnight-jungle-type-1-5-vertigo-zone
 Always Reference By Directory: true
 Referenced Tracks:
 - M1.5 Motif

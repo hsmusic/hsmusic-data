@@ -1,4 +1,5 @@
 Album: 'RAKKA: WAKE 01 Opening - ME!'
+Directory Suffix: rakka
 Date: February 17, 2025
 Date Added: February 17, 2025
 URLs:
@@ -25,6 +26,8 @@ Groups:
 - Beyond
 ---
 Track: ME!
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:25
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/me

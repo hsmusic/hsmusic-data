@@ -17,6 +17,8 @@ Commentary: |-
     Loudness was created using a modern PC and an Atari 1040STe. The PC controls the Atari via MIDI, essentially turning the Atari into a very flexible YM2149-based synthesizer. FL Studio 9 runs on the PC, and MaxYMiser runs on the Atari.
 ---
 Track: Constant
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:06'
 URLs:
 - https://norock.bandcamp.com/track/constant
@@ -27,11 +29,15 @@ URLs:
 - https://norock.bandcamp.com/track/crime-house-2
 ---
 Track: Depths
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:12'
 URLs:
 - https://norock.bandcamp.com/track/depths
 ---
 Track: Oh Yeah
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '06:12'
 URLs:
 - https://norock.bandcamp.com/track/oh-yeah
@@ -42,6 +48,8 @@ URLs:
 - https://norock.bandcamp.com/track/starship-alligator
 ---
 Track: Sparks
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '05:56'
 URLs:
 - https://norock.bandcamp.com/track/sparks

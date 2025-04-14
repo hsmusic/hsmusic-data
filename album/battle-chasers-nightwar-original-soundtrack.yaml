@@ -1,4 +1,5 @@
 Album: 'Battle Chasers: Nightwar Original Soundtrack'
+Directory Suffix: battle-chasers-nightwar
 #check refs
 Artists:
 - Clark Powell
@@ -26,6 +27,8 @@ Commentary: |-
     Finally you can own the music! This is all of the tracks I wrote for the release of Battle Chasers: Nightwar, even some that aren't in the final game! Additional game tracks not included on this collection were contributed by the inimitable Jesper Kyd.
 ---
 Track: The Beginning
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:02'
 #Referenced Tracks:
 #-
@@ -33,6 +36,8 @@ URLs:
 - https://clarkpowell.bandcamp.com/track/the-beginning
 ---
 Track: Awe
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:25'
 URLs:
 - https://clarkpowell.bandcamp.com/track/awe
@@ -53,6 +58,8 @@ URLs:
 - https://clarkpowell.bandcamp.com/track/when-the-smoke-clears
 ---
 Track: Godspeed
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:57'
 URLs:
 - https://clarkpowell.bandcamp.com/track/godspeed
@@ -63,6 +70,8 @@ URLs:
 - https://clarkpowell.bandcamp.com/track/rolling-fog
 ---
 Track: Mountainside
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:44'
 URLs:
 - https://clarkpowell.bandcamp.com/track/mountainside
@@ -137,6 +146,8 @@ URLs:
 - https://clarkpowell.bandcamp.com/track/hearts-beating-like-drums
 ---
 Track: Concave
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:16'
 URLs:
 - https://clarkpowell.bandcamp.com/track/concave
@@ -144,7 +155,7 @@ URLs:
 Track: Mountainside (Extended)
 Duration: '03:14'
 Referenced Tracks:
-- Mountainside
+- track:mountainside-battle-chasers-nightwar
 URLs:
 - https://clarkpowell.bandcamp.com/track/mountainside-extended
 ---
@@ -171,11 +182,13 @@ URLs:
 Track: The Beginning (Alternate Mix)
 Duration: '04:08'
 Referenced Tracks:
-- The Beginning
+- track:the-beginning-battle-chasers-nightwar
 URLs:
 - https://clarkpowell.bandcamp.com/track/the-beginning-alternate-mix
 ---
 Track: Campfire
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:51'
 URLs:
 - https://clarkpowell.bandcamp.com/track/campfire
