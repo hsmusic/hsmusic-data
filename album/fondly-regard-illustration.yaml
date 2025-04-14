@@ -8,8 +8,54 @@ Groups:
 - Unofficial MSPA Fans
 - Fandom
 Color: '#d8c0a4'
-Cover Artists:
-- Circlejourney
+Cover Artwork:
+- Artists:
+  - Circlejourney
+  File Extension: jpg
+  Tags:
+  - Pickle Inspector
+  - Lotus
+  Referenced Artworks:
+  - Sandstone (edit)
+  - Visions Clouded by Darkness (edit)
+  - Tainted Hope (edit)
+  - Measured Vengeance (edit)
+  - Carnivorous Hearts (edit)
+  - Golden Sights & Skaian Skies (edit)
+  - 4LL3Y C4TZ >:3 (edit)
+  - Just do better. (edit)
+  - Into the Fray (edit)
+  - The Apotheosis of Whistles the Clown (edit)
+  - In A Strange Land (edit)
+  - track:the-end-of-zilliness (edit)
+  - chalk it up to a hung jury (edit)
+  - Dreams and Wakes (edit)
+  - Collide2 (edit)
+  - Blood Hunt Dance (edit)
+  - Coulrocide (edit)
+  - Trolls Who Can Eat Trolls Are the Luckiest Trolls (edit)
+  - Life's a Beach (edit)
+  - À plus tard, les tocards ! (edit)
+  - track:kraken-fondly-regard-illustration (edit)
+  - now it's purrsonal (edit)
+  - Eight Ball of Destiny (edit)
+  - ...and scene (edit)
+  - April 13, 2009 (edit)
+  - track:liminality (edit)
+  - Crustavania (edit)
+  - Live From the Hadron Kaleido (edit)
+  - track:snarl-fondly-regard-illustration (edit)
+  - TIMAEUS TECH FI (edit)
+  - Connection (edit)
+  - Rebellious Symphony (edit)
+- Label: Alternate album art
+  Directory: alt
+  File Extension: jpg
+  Artists:
+  - Circlejourney
+  Tags:
+  - Pickle Inspector
+  - Lotus
 Wallpaper Artists:
 - Circlejourney
 Banner Artists:
@@ -19,50 +65,11 @@ Cover Art File Extension: jpg
 Track Art File Extension: png
 Wallpaper File Extension: jpg
 Banner File Extension: png
-Art Tags:
-- Pickle Inspector
-- Lotus
-Referenced Artworks:
-- Sandstone (edit)
-- Visions Clouded by Darkness (edit)
-- Tainted Hope (edit)
-- Measured Vengeance (edit)
-- Carnivorous Hearts (edit)
-- Golden Sights & Skaian Skies (edit)
-- 4LL3Y C4TZ >:3 (edit)
-- Just do better. (edit)
-- Into the Fray (edit)
-- The Apotheosis of Whistles the Clown (edit)
-- In A Strange Land (edit)
-- track:the-end-of-zilliness (edit)
-- chalk it up to a hung jury (edit)
-- Dreams and Wakes (edit)
-- Collide2 (edit)
-- Blood Hunt Dance (edit)
-- Coulrocide (edit)
-- Trolls Who Can Eat Trolls Are the Luckiest Trolls (edit)
-- Life's a Beach (edit)
-- À plus tard, les tocards ! (edit)
-- Kraken (edit)
-- now it's purrsonal (edit)
-- Eight Ball of Destiny (edit)
-- ...and scene (edit)
-- April 13, 2009 (edit)
-- track:liminality (edit)
-- Crustavania (edit)
-- Live From the Hadron Kaleido (edit)
-- Snarl (edit)
-- TIMAEUS TECH FI (edit)
-- Connection (edit)
-- Rebellious Symphony (edit)
 Additional Files:
-- Title: Album Booklet
+- Title: Album booklet
   Files:
-  - Fondly_Regard_Illustration_Booklet.pdf
-- Title: Alternate album art
-  Files:
-  - alt-album-art.jpg
-- Title: Bandcamp Banner and Background
+  - Fondly Regard Illustration Booklet.pdf
+- Title: Bandcamp banner & background
   Files:
   - banner.png
   - bg.png
@@ -120,7 +127,7 @@ Track: Just do better.
 Cover Artists:
 - Goopifer
 Art Tags:
-- Hal
+- Lil Hal
 - Rabbit
 Artists:
 - METIANULL
@@ -147,6 +154,8 @@ Lyrics: |-
     Now, for a break
 ---
 Track: Kraken
+Suffix Directory: true
+Always Reference By Directory: true
 Cover Artists:
 - dreadedender
 Art Tags:
@@ -198,7 +207,7 @@ Track: TIMAEUS TECH FI
 Cover Artists:
 - halstridergaming
 Art Tags:
-- Hal
+- Lil Hal
 - Heart
 Artists:
 - Cosmoptera
@@ -603,9 +612,11 @@ Lyrics: |-
     And yet eight years
     It still isn't over
     What a time we've had
-    Living life in the after
+    Living life in the afterglow
 
-    (La la la etc)
+    (La la la la la
+    La la la la la la la la
+    La la la la la la la)
 
     You watch the window glow
     What's on the other side
@@ -630,20 +641,38 @@ Lyrics: |-
     And still eight years
     Since the story has ended
     What a time we've had
-    Living life in the after---)
+    Living life in the after—)
 
-    Life goes on
-    But somewhere out there
-    Is a seed of hope
-    Waiting to grow
-    Into a brand new world
-    Waiting just on
-    The other side of home
+    Life goes on (Fifteen years, yeah)
+    But somewhere out there (Since the story has started)
+    Is a seed of hope (Watching skies turn dark)
+    Waiting to grow into (Forgetting and moving on)
+    A brand new world (And yet eight years)
+    Waiting just on (It still isn’t over)
+    The other side of home (What a time we’ve had)
     Stuck in the future
 
-    (Lyrics repeat over each other - this repeat also changes “aftermath” to “afterglow”)
+    Yeah, your life goes on (Fifteen years)
+    But somewhere out there (Since the story has started)
+    Is a seed of hope (Watching four kids play)
+    Waiting to grow into (A game of life and death)
+    A brand new world (And still eight years)
+    Waiting just on the (Since the story has ended)
+    Other side of home (What a time we’ve had living)
+    Stuck in the future (Life in the after)
 
-    It has been fifteen years
+    It has been fifteen years, yeah (Life goes on)
+    Since the story has started (But somewhere out there)
+    Watching skies turn dark (Is a seed of hope)
+    Forgetting and moving on (Waiting to grow into)
+
+    And yet eight years (A brand new world)
+    It still isn’t over (Waiting just on the)
+    What a time we've had (Other side of home)
+    Living life (Stuck)
+    In the afterglow
+
+    Fifteen years
     Since the story has started
     Watching four kids play
     A game of life and death
@@ -916,6 +945,8 @@ Commentary: |-
     Monckat's incredible art was the impetus for me finally reading *Whistles*. As I did, I was trying to think of an angle for lyrics that would convey the most important parts of who Whistles is in his setting— In a way that wasn't so specific as to not have an emotional anchor in real life. I decided to through the eyes of someone who sees the best in him, Doodlebean, and to imagine what she might be enamored with in him. He's someone unwaveringly optimistic in an objectively dark world, and that's a trait I think can inspire awe when you feel grounded yourself. That's how I ended up with the chorus. Then, Monckat mentioned they originally imagined something darker and more like the band Clowncore to go with the art. Oh! Wellll... I didn't want to throw away the chorus, but I paired it with a much more stagnant and distorted verse, and a good old DVS sax bridge. I didn't plan it from the start, but I feel like that juxtaposition was lucky because it highlights how Whistles' optimism verges on unnerving!
 ---
 Track: Snarl
+Suffix Directory: true
+Always Reference By Directory: true
 Cover Artists:
 - ifer
 Art Tags:
