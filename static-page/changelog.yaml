@@ -51,6 +51,9 @@ Content: |-
         - album wallpaper and banner credits now also appear beneath the main album cover artwork ([[media:misc/changelog/album-layout-credits-old.png|old]], [[media:misc/changelog/album-layout-credits-new.png|new]])
         - album gallery page allows switching between sets ([[media:misc/changelog/album-gallery-sets-alternia-official.png|official]], [[media:misc/changelog/album-gallery-sets-alternia-anthology.png|anthology]]) and shows album art in separate section from track art; on "stub" gallery pages, where no tracks have any art, track grid is now completely hidden ([[media:misc/changelog/album-gallery-no-tracks-old.png|old]], [[media:misc/changelog/album-gallery-no-tracks-new.png|new]])
         - currently used for the art anthology projects for [[album:homestuck-vol-5]], for [[album:alternia]] and [[album:alterniabound]], and [[album:beyond-canon]], with more to come
+    - added multiple lyrics, a feature for presenting and preserving lyrics reflecting the artists' intent, right next to and distinct from the lyrics style-edited for the wiki
+        - sets of lyrics are individually labelled and switched with a click; generally, artist-authored lyrics are the default ones displayed
+        - currently in use mostly just across [[album:unbeatable-demo-tapes]], but suitable for loads of lyrics already across the wiki, updates still to come
     - added automatic sorting validation and correction for parts of a handful of data files, including the sections under [[album:more-homestuck-fandom]] and [[album:references-beyond-homestuck]], so these can stay properly alphabetized
     - added support for multiple line breaks in a row between stanzas in lyrics
     - added support for starting track sections at custom track numbers, for example a pre-gap track in [[album:unbeatable-off-beats]], and soon perhaps some multi-disc albums
