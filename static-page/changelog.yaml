@@ -36,11 +36,22 @@ Content: |-
     <h3>bug fixes</h3>
     - fixed [[listing:tracks/with-lyrics|"Tracks - with Lyrics"]] listing including *every* track
     - fixed "+edits" tooltips in wallpaper and banner credits sometimes getting cut off
+    <h3>additions</h3>
+    <!-- art tags additions -->
+    - added real-world people tags: [[tag:silent-j]], [[tag:shaggy-2-dope]] (thanks, Lilith!)
     <h3>data changes</h3>
     - updated SiIvaGunner wiki link in description for [[artist:siivagunner]] (thanks, literallyn01imp0rtant!)
     <h3>data fixes</h3>
-    - fixed [[album:sns-act-3-sampler]] appearing before [[album:fondly-regard-illustration]] in chronology links (thanks, Jebb!)
+    <!-- reference fixes -->
+    - fixed [[track:coulrocide]] referencing [[track:silly-billy]] instead of [[track:silly-billy-churgney-gurgney]] (thanks, Jebb, Lilith!)
+    <!-- merged artists -->
     - fixed [[artist:the-voicing-guy]] having some credits under another name (thanks, Lilith!)
+    <!-- art tag fixes -->
+    - added [[tag:silent-j]] and [[tag:shaggy-2-dope]] to [[track:coulrocide]] (thanks, Lilith!)
+    <!-- lyric fixes -->
+    - fixed lyrics in [[track:coulrocide]] (was missing subtle "Imma fucking kill you!" at the end of final "(Hokus pokus, joker's ride) (Hokus pokus, joker's ride)" section (thanks, Jebb, Lilith!)
+    <!-- general data fixes -->
+    - fixed [[album:sns-act-3-sampler]] appearing before [[album:fondly-regard-illustration]] in chronology links (thanks, Jebb!)
 
     <h2 id="13-apr-2025" class="major-release"><html:a href="#13-apr-2025">[[date:13 April 2025]] - The Apple Wizard of Mount Fuji</a></h2>
     <h3>site changes</h3>
