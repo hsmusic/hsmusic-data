@@ -4366,21 +4366,6 @@ Duration: 0:01
 URLs:
 - https://www.youtube.com/watch?v=PKS8EBHj9fc
 ---
-Track: Dungeon Theme
-# The only upload I could find of the apparent original soundtrack release, on "The Legend of Zelda SOUND & DRAMA", was on Niconico: https://www.nicovideo.jp/watch/sm16507868 - I don't think it's possible to link timestamps on nicovideo.jp though.
-# JP: 地下
-# Official release:
-#   ゼルダの伝説 "サウンド&ドラマ"
-# Reference:
-#   https://vgmdb.net/album/885
-Directory: dungeon-theme-zelda1
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:05
-URLs:
-- https://youtu.be/IDp0Mu1E1Bw
----
 Track: Earth
 # Reference:
 #   https://vgmdb.net/album/109148
@@ -10129,6 +10114,15 @@ URLs:
 - https://www.youtube.com/watch?v=H0CNU7RJkaU
 Referenced Tracks:
 - Sealed Chamber
+---
+Track: Underworld Theme
+Artists:
+- The Legend of Zelda
+- Koji Kondo
+Duration: 0:54
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/1a185134-294d-4503-b8d0-4d2e68e994af
+- https://youtu.be/IDp0Mu1E1Bw
 ---
 Track: Unfounded Revenge
 # From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
