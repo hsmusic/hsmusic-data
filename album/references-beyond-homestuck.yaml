@@ -5876,7 +5876,7 @@ Duration: 3:25
 URLs:
 - https://www.youtube.com/watch?v=t6JgG__XbRA
 Referenced Tracks:
-- Title (The Legend of Zelda)
+- Title Theme (The Legend of Zelda)
 ---
 Track: Ice Man Stage
 # Reference:
@@ -7865,6 +7865,8 @@ Duration: 1:26
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/6ac85bbe-4b9b-463d-8d4c-cdf195efd4c1
 - https://www.youtube.com/watch?v=ncg72VswyTs
+Referenced Tracks:
+- Title Theme (The Legend of Zelda)
 ---
 Track: Parasite Queen Battle
 # Reference:
@@ -9789,20 +9791,6 @@ Duration: 1:58
 URLs:
 - https://www.youtube.com/watch?v=qsRdjQWbh8E
 ---
-Track: Title (The Legend of Zelda)
-# (See dungeon-theme-zelda1 for release info)
-# JP: タイトル
-# Official release:
-#   ゼルダの伝説 "サウンド&ドラマ"
-# Reference:
-#   https://vgmdb.net/album/885
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:20
-URLs:
-- https://youtu.be/-CPrdomMoA4
----
 Track: Title Theme (Animal Crossing)
 # Reference:
 #   https://vgmdb.net/product/8603
@@ -9867,6 +9855,21 @@ URLs:
 - https://www.youtube.com/watch?v=nwiPbcLUsEg
 Referenced Tracks:
 - Title Theme (Humming) [Luigi's Mansion]
+---
+Track: Title Theme (The Legend of Zelda)
+# (See dungeon-theme-zelda1 for release info)
+# JP: タイトル
+# Official release:
+#   ゼルダの伝説 "サウンド&ドラマ"
+# Reference:
+#   https://vgmdb.net/album/885
+Artists:
+- The Legend of Zelda
+- Koji Kondo
+Duration: 2:55
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/e4836022-d604-4ce5-8b21-9ee882fc0849
+- https://youtu.be/-CPrdomMoA4
 ---
 Track: Title Theme (Wii Sports)
 # Reference:
