@@ -35,7 +35,8 @@ Content: |-
     <h2 id="16-apr-2025"><html:a href="#16-apr-2025">[[date:16 April 2025]] - unstranslatable japanese idiom</a><h2>
     <h3>bug fixes</h3>
     - fixed [[listing:tracks/with-lyrics|"Tracks - with Lyrics"]] listing including *every* track
-    - fixed "+edits" tooltips in wallpaper and banner credits sometimes getting cut off
+    - fixed "+edits" tooltips in wallpaper and banner credits sometimes getting cut off ([[media:misc/changelog/edits-tooltip-positioning-woes-old.png|old]], [[media:misc/changelog/edits-tooltip-positioning-woes-new.png|new]])
+    - fixed automatic data file sorting (e.g. for the list of artists for the whole wiki, or tracks in [[album:references-beyond-homestuck]]) inserting mysterious junk line breaks on Windows
     <h3>additions</h3>
     <!-- art tags additions -->
     - added real-world people tags: [[tag:violent-j]], [[tag:shaggy-2-dope]] (thanks, Lilith!)
@@ -51,7 +52,7 @@ Content: |-
     <!-- lyric fixes -->
     - fixed lyrics in [[track:coulrocide]] (was missing subtle "Imma fucking kill you!" at the end of final "(Hokus pokus, joker's ride) (Hokus pokus, joker's ride)" section; thanks, Jebb, Lilith!)
     <!-- general data fixes -->
-    - fixed [[album:sns-act-3-sampler]] appearing before [[album:fondly-regard-illustration]] in chronology links (thanks, Jebb!)
+    - fixed [[album:sns-act-3-sampler]] appearing before [[album:fondly-regard-illustration]] in chronology links (thanks, Jebb, Tangle!)
     <!-- commentary fixes -->
     - tweaked formatting of commentary for [[track:coulrocide]] (thanks, Lilith, Tangle!)
 
