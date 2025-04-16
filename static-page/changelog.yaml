@@ -73,9 +73,20 @@ Content: |-
     - added Nintendo Music listening links to [[track:death-mountain-theme]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-over-the-legend-of-zelda]], [[track:ganon-is-defeated]], [[track:overworld-theme-the-legend-of-zelda]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
     - replaced YouTube listening link for [[track:danger-on-the-dance-floor-mid-boss]] with official upload (thanks, ruby!)
     <h3>data changes</h3>
+    <!-- new stuff & big miscellany -->
     - changed a bunch of entries under "crediting sources" to be shown as "referencing sources" instead, occasionally trimming or rearranging some excerpts to be more focused (thanks, Tangle!)
-    - marked tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] as secondary releases, with main releases now on [[album:deltarune-soundtrack]] (thanks, ruby!)
+    - started using multiple artworks for a lot more tracks and albums, including:
+        - [[track:awakening]] (full-size)
+        - [[track:hate-you]] and [[track:austin-atlantis]] (full-size)
+        - [[album:7th-gate-project]] (album cover via Skaianet Download DB)
+        - [[track:06-12-10-12th-bilunar-perigee-of-the-6th-dark-seasons-equinox]] (alternate and original)
+        - [[track:all-that-matters]] and [[track:life-in-motion]] (alternate via album download)
+    <!-- album presentational tweaks -->
     - revised colors of [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] (thanks, ruby, Cello, Jebb!)
+    <!-- miscellaneous preesntational changes -->
+    - touched up commentary in [[album:7th-gate-project]]
+    <!-- tracks newly marked as a secondary release -->
+    - marked tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] as secondary releases, with main releases now on [[album:deltarune-soundtrack]] (thanks, ruby!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
     - fixed [[track:white]] not referencing [[track:skies-of-skaia]] (thanks, HunZhen!)

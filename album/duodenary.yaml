@@ -117,15 +117,18 @@ Referencing Sources: |-
 ---
 Track: All That Matters
 Duration: 5:27
-Cover Artists:
-- Neviathan
+Track Artwork:
+- Artists:
+  - Neviathan
+- Label: Alternate art
+  Directory: alternate
+  File Extension: gif
+  Source: album download
+  Artists:
+  - Neviathan
 URLs:
 - https://vasterror.bandcamp.com/track/all-that-matters
 - https://www.youtube.com/watch?v=HmMH-eF6gUw
-Commentary: |-
-    <i>Neviathan:</i> (alternate artwork, album download)
-
-    <img src="media/misc/all-that-matters-alt.gif" width="300">
 ---
 Track: Naughts and Crosses
 Duration: 8:47
@@ -193,17 +196,20 @@ URLs:
 ---
 Track: Life In Motion
 Duration: 11:38
-Cover Artists:
-- Larry Reverie
+Track Artwork:
+- Artists:
+  - Larry Reverie
+- Label: Alternate art
+  Directory: alternate
+  File Extension: gif
+  Source: album download
+  Artists:
+  - Larry Reverie
 URLs:
 - https://vasterror.bandcamp.com/track/life-in-motion
 - https://www.youtube.com/watch?v=4GWHsP1pqBk
 Sampled Tracks:
 - Walking on Clouds
-Commentary: |-
-    <i>Larry Reverie:</i> (alternate artwork, album download)
-
-    <img src="media/misc/life-in-motion-alt.gif" width="300">
 Referencing Sources: |-
     <i>Vast Error:</i> ([Bandcamp about blurb](https://vasterror.bandcamp.com/track/life-in-motion), excerpt)
 

@@ -47,12 +47,31 @@ Sampled Tracks:
 ---
 Track: "[06/12/10] 12th bilunar perigee of the 6th dark season's equinox."
 Duration: 5:41
-Cover Artists:
-- Maukustus
-Art Tags:
-- Karkat
-- Skaia
-- Derse
+Track Artwork:
+- Artists:
+  - Maukustus
+  Tags:
+  - Karkat
+  - Skaia
+  - Derse
+- Label: Alternate art
+  Directory: alternate
+  # originally hivebent_human.png
+  Artists:
+  - Maukustus
+  Tags:
+  - Karkat
+  - Skaia
+  - Derse
+- Label: Original art
+  Directory: original
+  File Extension: jpg
+  Artists:
+  - Maukustus
+  Tags:
+  - Skaia
+  - Prospit
+  - Derse
 URLs:
 - https://maukustus.bandcamp.com/track/06-12-10-12th-bilunar-perigee-of-the-6th-dark-seasons-equinox
 - https://soundcloud.com/maukustus/06-12-10-12th-bilunar-perigee
@@ -61,12 +80,6 @@ Referenced Tracks:
 - Skaian Summoning
 Sampled Tracks:
 - Amen, Brother
-Commentary: |-
-    <i>Maukustus:</i> (original track art)
-    <img src="media/misc/06-12-10-12th-bilunar-perigee-of-the-6th-dark-seasons-equinox.jpg" width="250">
-
-    <i>Maukustus:</i> (alternate track art)
-    <img src="media/misc/hivebent_human.png" width="250">
 ---
 Track: Artifact of Confection 
 Duration: 2:03
