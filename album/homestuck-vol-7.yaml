@@ -116,11 +116,20 @@ Duration: 3:23
 URLs:
 - https://homestuck.bandcamp.com/track/at-the-price-of-oblivion-2
 - https://youtu.be/u--wSgeJUOs
-Cover Artists:
-- Shelby Cragg
-Art Tags:
-- Rose
-- 'cw: blood'
+Track Artwork:
+- Artists:
+  - Shelby Cragg
+  Tags:
+  - Rose
+  - 'cw: blood'
+- Label: Full-size artwork
+  Directory: full
+  File Extension: jpg
+  Attach Above: true
+  Dimensions: 700x1248
+  # uploaded April 9, 2013 by Red
+  Source: >-
+    [zerochan](https://www.zerochan.net/1471432)
 Referenced Tracks:
 - Chorale for Jaspers
 - Rex Duodecim Angelus
@@ -161,11 +170,20 @@ Duration: 2:32
 URLs:
 - https://homestuck.bandcamp.com/track/even-in-death-2
 - https://youtu.be/T86uquWB9Mw
-Cover Artists:
-- Yapoos
-Art Tags:
-- Rose
-- LoLaR
+Track Artwork:
+- Artists:
+  - yapoos
+  Tags:
+  - Rose
+  - LoLaR
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 1280x905
+  # uploaded November 5, 2012 by "sync"
+  # source is only: https://yapoos.tumblr.com/
+  Source: >-
+    [MSPA Booru](https://mspabooru.com/index.php?page=post&s=view&id=30303)
 Referenced Tracks:
 - Upward Movement (Dave Owns)
 Sheet Music Files:
@@ -220,20 +238,32 @@ Duration: 1:29
 URLs:
 - https://homestuck.bandcamp.com/track/trial-and-execution-2
 - https://youtu.be/uxWIej66zwc
-Cover Artists:
-- Shelby Cragg
-Art Tags:
-- Terezi
-- Vriska
-- Equius
-- Nepeta
-- Eridan
-- Feferi
-- Gamzee
-- Tavros
-- Trolls' meteor
-- 'cw: decapitation'
-- 'cw: blood'
+Track Artwork:
+- Artists:
+  - Shelby Cragg
+  Tags:
+  - Terezi
+  - Vriska
+  - Equius
+  - Nepeta
+  - Eridan
+  - Feferi
+  - Gamzee
+  - Tavros
+  - Trolls' meteor
+  - Mind
+  - Light
+  - 'cw: decapitation'
+  - 'cw: blood'
+- Label: Full-size artwork
+  Directory: full
+  File Extension: jpg
+  Attach Above: true
+  Dimensions: 1280x711
+  # uploaded November 4, 2012 by "sync"
+  # source is only: https://duedlyfirearms.tumblr.com/
+  Source: >-
+    [MSPA Booru](https://mspabooru.com/index.php?page=post&s=view&id=7577)
 Referenced Tracks:
 - The Lemonsnout Turnabout
 - Crystalanthemums
@@ -257,11 +287,19 @@ Duration: 2:15
 URLs:
 - https://homestuck.bandcamp.com/track/the-carnival-2
 - https://youtu.be/Q5gjYuJrfbc
-Cover Artists:
-- Carla Bravo
-Art Tags:
-- Gamzee
-- 'cw: blood'
+Track Artwork:
+- Artists:
+  - Carla Bravo
+  Tags:
+  - Gamzee
+  - 'cw: blood'
+- Label: Higher-res cut
+  Directory: deviantart
+  Attach Above: true
+  # uploaded November 4, 2012 by "sync"
+  Source: >-
+    [MSPA Booru](https://mspabooru.com/index.php?page=post&s=view&id=12665),
+    [DeviantArt](http://ktysh.deviantart.com/art/The-Dark-CarniLOL-211455663) (dead link)
 Referenced Tracks:
 - Harlequin
 MIDI Project Files:
@@ -278,10 +316,21 @@ Duration: 2:44
 URLs:
 - https://homestuck.bandcamp.com/track/spider8reath-2
 - https://youtu.be/83B083Lsbfc
-Cover Artists:
-- Lazylaz
-Art Tags:
-- Vriska
+Track Artwork:
+- Artists:
+  - Laz
+  Tags:
+  - Vriska
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 577x546
+  # MSPA Booru: https://mspabooru.com/index.php?page=post&s=view&id=24494
+  # uploaded November 5, 2011 by "sync"
+  # tumblr source: https://lazylaz.tumblr.com/post/5795672597/vriska-for-dreadpiraterob-im-sorry-i-was-an
+  # renamed tumblr: lazylaz -> lazili
+  Source: >-
+    [Tumblr](https://lazili.tumblr.com/post/5795672597/vriska-for-dreadpiraterob-im-sorry-i-was-an)
 Referenced Tracks:
 - Spider's Claw
 - Heir Conditioning
@@ -305,6 +354,14 @@ Commentary: |-
     People who said that the exposed guitar solo at the start reminded them of Van Halen were totally right, because the song 'Eruption' was more or less a direct inspiration for it. I think it turned out really well, and it serves as a great intro to the song!
 
     Really though, the main inspiration for this song simply comes from building on the previous Vriska songs that Radiation did. While the brass was a new, spur-of-the-moment addition, the guitar riffs and melodies were always supposed to be reminiscent of stuff like Spider's Claw, Killed by Br8k Spider and MeGaLoVaNia. People definitely seem to associate this song with Vriska too now, so mission accomplished I guess?
+
+    <i>Laz:</i> (track artist, [Tumblr](https://lazili.tumblr.com/post/5795672597/vriska-for-dreadpiraterob-im-sorry-i-was-an), 5/24/2011)
+
+    Vriska for dreadpiraterob
+
+    I'm sorry, I was an idiot and forgot her glasses/robotic arm SO JUST PRETEND PLEASE ;__;
+
+    I hope this isn't too much of an eyesore oh man I made a mess this is all wrong nothing makes sense i'm sorry
 ---
 Track: Lifdoff
 Artists:
@@ -313,11 +370,20 @@ Duration: 2:38
 URLs:
 - https://homestuck.bandcamp.com/track/lifdoff-2
 - https://youtu.be/8NvMi8GJKUM
-Cover Artists:
-- Stevie Borbolla
-Art Tags:
-- John
-- Skaia
+Track Artwork:
+- Artists:
+  - Stevie Borbolla
+  Tags:
+  - John
+  - Skaia
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 600x546
+  # uploaded January 17, 2013 by Pie
+  Source: >-
+    [MSPA Booru](https://mspabooru.com/index.php?page=post&s=view&id=85605),
+    [Tumblr](https://qeti.tumblr.com/post/18918114211/what-happened-to-all-your-homestuck-art-jw-because) (dead link)
 Referenced Tracks:
 - Showtime (Original Mix)
 Commentary: |-
@@ -347,16 +413,10 @@ Track Artwork:
 - Label: Full-size artwork
   Directory: full
   File Extension: gif
+  Attach Above: true
   Dimensions: 1280x800
   Source: >-
     [Tumblr](https://raizor-blog.tumblr.com/post/6033364753/i-fixed-this-up-a-bit-its-nicer-now)
-  Artists:
-  - Raizor
-  Tags:
-  - John
-  - Crocodiles (consort)
-  - Pop-a-matic Vrillyhoo Hammer
-  - LoHaC
 Referenced Tracks:
 - track:ruins
 Commentary: |-
@@ -377,11 +437,24 @@ Duration: 3:16
 URLs:
 - https://homestuck.bandcamp.com/track/havoc-to-be-wrought-2
 - https://youtu.be/E7pBfnN7b1w
-Cover Artists:
-- Left
-Art Tags:
-- The Expatriate
-- 'cw: blood'
+Track Artwork:
+- Artists:
+  - wodnesse
+  Tags:
+  - The Expatriate
+  - 'cw: blood'
+- Label: Full-size artwork
+  Directory: full
+  File Extension: jpg
+  Attach Above: true
+  Dimensions: 751x1000
+  Date: May 2, 2011
+  # MSPA Booru: https://mspabooru.com/index.php?page=post&s=view&id=7577
+  # uploaded August 23, 2013 by Beelzebibble
+  # tumblr source: https://villainsgoleft.tumblr.com/post/5142699227
+  # renamed tumblr: villainsgoleft -> wodnesse
+  Source: >-
+    [Tumblr](https://wodnesse.tumblr.com/post/5142699227)
 Commentary: |-
     <i>Thomas Ferkol:</i> (composer, [Tumblr](https://eidolonorpheus.tumblr.com/post/15715289410/eidolons-other-commentary-whatsits), excerpt, 1/12/2012)
 
@@ -410,6 +483,10 @@ Commentary: |-
     > <p>No? We HEAR it, and it's him saying honk, not random screaming that is supposedly a honk</p>
 
     Been a while, but the noises are the horrorterrors being slaughtered
+
+    <i>wodnesse:</i> (track artist, [Tumblr](https://wodnesse.tumblr.com/post/5142699227), 5/2/2011)
+
+    I’m really into this.
 ---
 Track: Play The Wind
 Artists:
@@ -517,19 +594,11 @@ Track Artwork:
 - Label: Full-size artwork
   Directory: full
   File Extension: gif
+  Attach Above: true
   Dimensions: 540x380
   Date: May 1, 2011
   Source: >-
     [Tumblr](https://raizor-blog.tumblr.com/post/5108985919/and-this-is-what-i-was-taking-a-break-from-its-a)
-  Artists:
-  - Raizor
-  Tags:
-  - Karkat
-  - Terezi
-  - Underlings
-  - Homes Smell Ya Later
-  - Dragon Cane
-  - LoPaH
 Referenced Tracks:
 - Walk-Stab-Walk (R&E)
 - Beatdown (Strider Style)
@@ -545,14 +614,28 @@ Duration: 2:58
 URLs:
 - https://homestuck.bandcamp.com/track/earthsea-borealis-2
 - https://youtu.be/KXgPNyd45A4
-Cover Artists:
-- Molly Gur
-Art Tags:
-- Rose
-- Horrorterrors
-- Thorns of Oglogoth
+Track Artwork:
+- Artists:
+  - Molly Gur
+  Tags:
+  - Rose
+  - Horrorterrors
+  - Thorns of Oglogoth
+- Label: Full-size artwork
+  Directory: full
+  File Extension: jpg
+  Attach Above: true
+  Dimensions: 600x750
+  # uploaded November 5, 2012 by "sync"
+  Source: >-
+    [MSPA Booru](https://mspabooru.com/index.php?page=post&s=view&id=30318),
+    [mspaforums](http://www.mspaforums.com/showthread.php?31993-MSPA-Fan-Art-20-Never-Stop-Drawing&p=4124366&viewfull=1#post4124366) (dead link)
 Referenced Tracks:
 - Endless Climb
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 4/22/2025)
+
+    The full-size artwork reveals it's the eye of the horrorterror which casts that green underglow onto Rose. Cool!
 ---
 Track: Warhammer of Zillyhoo
 Artists:
@@ -590,7 +673,7 @@ URLs:
 - https://homestuck.bandcamp.com/track/savior-of-the-dreaming-dead-2
 - https://youtu.be/Y0PIafh0ssQ
 Cover Artists:
-- Left
+- wodnesse
 Art Tags:
 - Dave
 - Davesprite
@@ -619,12 +702,20 @@ Duration: 3:01
 URLs:
 - https://homestuck.bandcamp.com/track/maplehoofs-adventure-2
 - https://youtu.be/d-7SMRSvnv8
-Cover Artists:
-- Carla Bravo
-Cover Art File Extension: jpg
-Art Tags:
-- Rose
-- Maplehoof
+Track Artwork:
+- File Extension: jpg
+  Artists:
+  - Carla Bravo
+  Tags:
+  - Rose
+  - Maplehoof
+- Label: Higher-res cut
+  Directory: deviantart
+  Attach Above: true
+  # uploaded November 4, 2012 by "sync"
+  Source: >-
+    [MSPA Booru](https://mspabooru.com/index.php?page=post&s=view&id=12666),
+    [DeviantArt](http://ktysh.deviantart.com/art/Maplehoof-s-Adventure-211456090) (dead link)
 Commentary: |-
     <i>Michael Guy Bowman:</i> ([Michael Guy Bowman Talks About His Homestuck Music](https://youtu.be/85VXWZTg-vo?t=1754), adapted to text, 7/20/2024)
 
