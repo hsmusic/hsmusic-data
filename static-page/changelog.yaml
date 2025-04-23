@@ -69,10 +69,12 @@ Content: |-
     - added series for [[group:desynced]] (thanks, Lilith!)
     <!-- commentary additions -->
     - added DeviantArt commentary to [[track:emerald-terror]] (thanks, Makin, Lan!)
+    - added Tumblr commentary to [[album:comfortable-bugs]] (thanks, Lilith, Lan!)
     <!-- artwork additions -->
     - added full-size artworks to [[track:at-the-price-of-oblivion]], [[track:even-in-death]], [[track:trial-and-execution]], [[track:spider8reath]], [[track:lifdoff]], [[track:havoc-to-be-wrought]], and [[track:earthsea-borealis]] (thanks, Meulanie, Lan!)
     - added higher-res artworks to [[track:maplehoofs-adventure]] and [[track:emerald-terror]] (thanks, Meulanie, Makin, Lan!)
     - added composer-release artwork to [[track:surprise-were-back]] (thanks, t2k, Surge!)
+    - added revised artwork ([[date:3/13/2013]]) to [[album:comfortable-bugs]] (thanks, Lilith, Lan!)
     <!-- additional file additions -->
     - added MIDI files by HunZhen to [[track:nightlife-extended]] and [[track:jades-lullaby]] (thanks, HunZhen, Lan!)
     <!-- link additions -->
@@ -129,6 +131,7 @@ Content: |-
     - added [[tag:freshjamz]] tag to [[track:showtime-remix]], [[track:aggrieve-remix]], [[track:verdancy-bassline]], and [[track:potential-verdancy]] (thanks, Lilith!)
     - added [[tag:mind]] and [[tag:light]] tags to [[track:trial-and-execution]] (thanks, Makin!)
     - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer-press-play]] ([[album:s-press-play]]), and [[track:urban-jungle]] (thanks, Lan!)
+    - added [[tag:michael-guy-bowman]] tag to [[album:comfortable-bugs]] and [[album:look-on-my-works-ye-mighty-and-despair]] (thanks, Lan!)
     <!-- commentary fixes -->
     - fixed misplaced anthology art commentary for [[track:pumpkin-cravings]] (was placed on [[track:welcome-to-the-new-extreme]]; thanks, HunZhen, Amberlina!)
     - fixed Bandcamp credits blurb for [[album:jailbreak-vol-1]] listing [[artist:cadalyst]] instead of [[artist:rebecca-harding]] (thanks, Lilith!)
@@ -602,6 +605,8 @@ Content: |-
     - replaced most YouTube playback links for Homestuck flashes ([[flash-side:s1|side 1]], [[flash-side:s2|side 2]]) with timestamped links to Bambosh's ['[S] Homestuck - All flashes'](https://www.youtube.com/watch?v=AEIOQN3YmNc), replacing YouTube links in 60 flashes, and adding YouTube links to 46 flashes missing them altogether (thanks, meulanie, Lan!)
     - added dates to all wiki editor commentary, showing when the entries were actually written or heavily revised, mostly based off the data repository's git commit history (thanks, Amberlina, Whisper!)
     - filled out details for [[track:velkommen-stan-lepard]], previously named "Windows XP Installation Music" with duration 5:22 and no commentary (thanks, vriska, Lan!)
+    <!-- crediting changes (not "fixes" per se...) -->
+    - changed current artwork on [[album:comfortable-bugs]] to be credited to only [[artist:michael-guy-bowman]], pending further confirmation, replacing old [[artist:tavia-morra]] credit; Bowman and Tavia are now both credited on the album's *original* cover artwork, with Tavia's credit annotated for photography and logo
     <h3>data fixes</h3>
     <!-- reference fixes -->
     - fixed [[track:nautical-nightmare]] not referencing [[track:nautical-climb]] (thanks, Lilith, Lan!)
