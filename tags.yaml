@@ -120,6 +120,7 @@ Direct Descendant Tags:
 - Freeroam (media)
 - Heinoustuck (media)
 - Hexane (media)
+- Janestuck (media)
 - Karkat Goes to a Convention (media)
 - Loftlocked (media)
 - 'MIDNIGHT CREW: Beginning Of The End! (media)'
@@ -213,6 +214,10 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://mspfa.com/?s=1032&p=1
 - https://hexane.fandom.com/wiki/Hexane
+---
+Tag: Janestuck (media)
+Direct Descendant Tags:
+- Characters from Janestuck
 ---
 Tag: Karkat Goes to a Convention (media)
 Direct Descendant Tags:
@@ -488,6 +493,7 @@ Direct Descendant Tags:
 - MALE (Homosuck)
 - June
 - Jhon
+- tag:jane-crocker-john-janestuck
 - John (Heinoustuck)
 ---
 Tag: Rose (archetype)
@@ -498,6 +504,7 @@ Direct Descendant Tags:
 - Jasprose
 - Rosebot
 - Rose (Heinoustuck)
+- tag:jane-crocker-rose-janestuck
 - Roze
 ---
 Tag: Dave (archetype)
@@ -509,6 +516,7 @@ Direct Descendant Tags:
 - Davepeta
 - ALPHA MALE (Homosuck)
 - Dabe
+- tag:jane-crocker-dave-janestuck
 - Dave (Heinoustuck)
 ---
 Tag: Jade (archetype)
@@ -518,6 +526,7 @@ Direct Descendant Tags:
 - Jake's grandma
 - Jadesprite
 - Jaed
+- tag:jane-crocker-jade-janestuck
 - Jade (Heinoustuck)
 ---
 Tag: Jane (archetype)
@@ -532,6 +541,7 @@ Color: '#ff6ff2'
 Direct Descendant Tags:
 - Roxy
 - Rose's mom
+- tag:jane-crocker-roxy-janestuck
 ---
 Tag: Dirk (archetype)
 Color: '#f2a400'
@@ -791,6 +801,16 @@ Direct Descendant Tags:
 #  Top-level sectionining (immediately beneath "Characters from (media)")
 #  is always by species, but may be arbitrarily subsectioned further.
 #
+
+# Characters from Adminstuck, by species (TBD).
+
+---
+Tag: Characters from Adminstuck
+Direct Descendant Tags:
+- Jordan (Adminstuck)
+- Ethan (Adminstuck)
+- Jackson (Adminstuck)
+- Matt (Adminstuck)
 
 # Characters from Adobebound, by species (TBD).
 
@@ -1589,6 +1609,17 @@ Direct Descendant Tags:
 - Terezi (Homosuck)
 - Vriska (Homosuck)
 - Feferi (Homosuck)
+
+# Characters from Janestuck, by species (TBD).
+
+---
+Tag: Characters from Janestuck
+Direct Descendant Tags:
+- tag:jane-crocker-john-janestuck
+- tag:jane-crocker-rose-janestuck
+- tag:jane-crocker-dave-janestuck
+- tag:jane-crocker-jade-janestuck
+- tag:jane-crocker-roxy-janestuck
 
 # Characters from Karkat Goes to a Convention, by species (TBD).
 
@@ -2565,6 +2596,21 @@ Tag: Ralph Arynn
 Color: '#be4dcb'
 Description: >-
     Trollsona of [[artist:pascal-van-den-bos]].
+
+# Characters from Adminstuck.
+
+---
+Tag: Jordan (Adminstuck)
+Color: '#009f00'
+---
+Tag: Ethan (Adminstuck)
+Color: '#c054ff'
+---
+Tag: Jackson (Adminstuck)
+Color: '#7979ff'
+---
+Tag: Matt (Adminstuck)
+Color: '#ff3b3b'
 
 # Characters from Adobebound.
 
@@ -3956,6 +4002,29 @@ Tag: Vrissy
 Color: '#3796c6'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Vriska_Maryam-Lalonde
+
+# Characters from Janestuck.
+
+---
+Tag: Jane Crocker (Janestuck)
+Directory: jane-crocker-john-janestuck
+Color: '#5c66e8'
+---
+Tag: Jane Crocker (Janestuck)
+Directory: jane-crocker-rose-janestuck
+Color: '#b536da'
+---
+Tag: Jane Crocker (Janestuck)
+Directory: jane-crocker-dave-janestuck
+Color: '#e00707'
+---
+Tag: Jane Crocker (Janestuck)
+Directory: jane-crocker-jade-janestuck
+Color: '#4ac925'
+---
+Tag: Jane Crocker (Janestuck)
+Directory: jane-crocker-roxy-janestuck
+Color: '#ff6ff2'
 
 # Characters from Karkat Goes to a Convention.
 
