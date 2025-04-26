@@ -52,6 +52,8 @@ Content: |-
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
     <h3>album additions</h3>
+    - added latest release from [[group:studio-june]]! (thanks, ruby, Lilith!)
+        - added [[album:friendsim-2-volume-2]]!
     - added albums from [[group:cheezquest]]! (thanks, Jebb, Lan, Josh, Dust, t2k!)
         - added [[album:selections-from-our-session-ep]]!
         - added [[album:inspired-by-the-void]]!
@@ -191,6 +193,7 @@ Content: |-
     - fixed [[track:home-keys-of-a-piano]] being named "Home (Keys of a PIano)" (thanks, Lilith!)
     - fixed [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) being named "Bad Apple!! feat. nomico" (thanks, Lan!)
     - fixed [[track:danger-on-the-dance-floor-mid-boss]] being named "Danger on the Dance Floor (Mid-Boss)" (to align with soundtrack release; thanks, ruby!)
+<<<<<<< HEAD
     - fixed [[track:chasing-it-down]] being named "Chasing It down" (lowercase "Down"; thanks, Lan!)
     - fixed [[track:does-it-look-like-im-here]] being named "Does it Look Like I'm Here?" (lowercase "it"; thanks, Lan!)
     - fixed [[tag:astronomical-bodies-canwc]] being named "Astronomical Bodies (CaNWC)" (uppercase "Bodies"; thanks, Lan!)
@@ -219,6 +222,11 @@ Content: |-
     - fixed YouTube listening link for [[track:invincibility-bgm-smb]] (was to [SMB2 overworld theme](https://www.youtube.com/watch?v=yBISfv-6hfo); thanks, Lilith, Lan!)
     - replaced dead YouTube listening links for [[track:bad-apple]] ([[artist:zun]]) and [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]; thanks, Lan, bit, Cello!)
     - removed dead Bandcamp listening link for [[album:bl1nd-just1c3-1nv3st1g4t1on-soapstone]] (thanks, Lilith, Lan!)
+=======
+    <!-- art tag fixes (added, then removed) -->
+    - added [[tag:pink-moon]] to [[album:friendsim-2-volume-1]] (thanks, Lilith!)
+    - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer]], and [[track:urban-jungle]] (thanks, Lan!)
+>>>>>>> adf69c9e (studio june, not friendsim 2 (as a group))
     <!-- general data fixes -->
     - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
         - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
