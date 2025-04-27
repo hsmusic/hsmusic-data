@@ -193,7 +193,6 @@ Content: |-
     - fixed [[track:home-keys-of-a-piano]] being named "Home (Keys of a PIano)" (thanks, Lilith!)
     - fixed [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) being named "Bad Apple!! feat. nomico" (thanks, Lan!)
     - fixed [[track:danger-on-the-dance-floor-mid-boss]] being named "Danger on the Dance Floor (Mid-Boss)" (to align with soundtrack release; thanks, ruby!)
-<<<<<<< HEAD
     - fixed [[track:chasing-it-down]] being named "Chasing It down" (lowercase "Down"; thanks, Lan!)
     - fixed [[track:does-it-look-like-im-here]] being named "Does it Look Like I'm Here?" (lowercase "it"; thanks, Lan!)
     - fixed [[tag:astronomical-bodies-canwc]] being named "Astronomical Bodies (CaNWC)" (uppercase "Bodies"; thanks, Lan!)
@@ -208,6 +207,7 @@ Content: |-
     - added [[tag:jack-noir]] tag to [[track:what-a-daring-dream]] (thanks, Meulanie, Tangle!)
     - added [[tag:mind]] and [[tag:light]] tags to [[track:trial-and-execution]] (thanks, Makin!)
     - added [[tag:cue-ball]] tag to [[track:aura-of-colour-lofam4]] (thanks, FF!)
+    - added [[tag:green-moon]] and [[tag:pink-moon]] to [[album:friendsim-2-volume-1]] (thanks, Lilith!)
     - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer-press-play]] ([[album:s-press-play]]), and [[track:urban-jungle]] (thanks, Lan!)
     - added [[tag:michael-guy-bowman]] tag to [[album:comfortable-bugs]] and [[album:look-on-my-works-ye-mighty-and-despair]] (thanks, Lan!)
     - added blood warning to [[track:cobalt-corsair]] (thanks, Lan!)
@@ -222,11 +222,6 @@ Content: |-
     - fixed YouTube listening link for [[track:invincibility-bgm-smb]] (was to [SMB2 overworld theme](https://www.youtube.com/watch?v=yBISfv-6hfo); thanks, Lilith, Lan!)
     - replaced dead YouTube listening links for [[track:bad-apple]] ([[artist:zun]]) and [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]; thanks, Lan, bit, Cello!)
     - removed dead Bandcamp listening link for [[album:bl1nd-just1c3-1nv3st1g4t1on-soapstone]] (thanks, Lilith, Lan!)
-=======
-    <!-- art tag fixes (added, then removed) -->
-    - added [[tag:green-moon]] and [[tag:pink-moon]] to [[album:friendsim-2-volume-1]] (thanks, Lilith!)
-    - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer]], and [[track:urban-jungle]] (thanks, Lan!)
->>>>>>> adf69c9e (studio june, not friendsim 2 (as a group))
     <!-- general data fixes -->
     - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
         - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
