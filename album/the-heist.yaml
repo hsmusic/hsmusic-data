@@ -1,0 +1,86 @@
+Album: The Heist
+Directory Suffix: the-heist
+Artists:
+- SerialSymphony
+Date: January 4, 2018
+URLs:
+- https://serialsymphony.bandcamp.com/album/the-heist
+Cover Artists:
+- SerialSymphony
+Cover Art File Extension: png
+Track Art File Extension: png
+Groups:
+- Fandom
+Wallpaper Artists:
+- SerialSymphony
+- Lilithtreasure (edits for wiki)
+Wallpaper Parts:
+- Asset: bg.png
+  Style: |-
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 1;
+- Asset: none
+  Style: |-
+    background-color: #ffffff;
+    opacity: 0.2;
+Commentary: |-
+    <i>SerialSymphony:</i> ([Bandcamp about blurb](https://serialsymphony.bandcamp.com/album/the-heist))
+
+    A Midnight Crew Fan EP, dedicated to my favourite HS characters and [[album:midnight-crew-drawing-dead|album]].
+---
+Section: Main album
+---
+Track: Boxtrot
+Suffix Directory: true
+Always Reference By Directory: true
+Duration: 4:22
+URLs:
+- https://serialsymphony.bandcamp.com/track/boxtrot
+---
+Track: Hat Full of Bomb
+Duration: 3:30
+URLs:
+- https://serialsymphony.bandcamp.com/track/hat-full-of-bomb
+---
+Track: The Old Ultraviolence
+Additional Names:
+- Name: >-
+    The Getaway
+  Annotation: >-
+    [SoundCloud](https://soundcloud.com/serialsymphony/getaway)
+Duration: 3:34
+URLs:
+- https://serialsymphony.bandcamp.com/track/the-old-ultraviolence
+- https://soundcloud.com/serialsymphony/getaway
+---
+Track: I Made This Town
+Duration: 3:41
+URLs:
+- https://serialsymphony.bandcamp.com/track/i-made-this-town
+---
+Track: Showdown
+Additional Names:
+- Name: >-
+    The Showdown
+  Annotation: >-
+    [SoundCloud](https://soundcloud.com/serialsymphony/theshowdown)
+Suffix Directory: true
+Always Reference By Directory: true
+Duration: 3:54
+URLs:
+- https://serialsymphony.bandcamp.com/track/showdown
+- https://soundcloud.com/serialsymphony/theshowdown
+---
+Section: Bonus track
+---
+Track: Officially Canon
+Additional Names:
+- Name: >-
+    Swing(OFFICIALLY CANON)
+  Annotation: >-
+    [SoundCloud](https://soundcloud.com/serialsymphony/swingofficially-canon)
+Duration: 3:11
+URLs:
+- https://soundcloud.com/serialsymphony/swingofficially-canon
