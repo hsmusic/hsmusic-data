@@ -14,6 +14,36 @@ Commentary: |-
 
     The date the wiki uses, [[date:6/23/2013]], is the date-modified for the album's files in the [alt MediaFire download](http://www.mediafire.com/download/2mh4qa6kl84wdlh/Some+Artifacts+May+Occur.zip) provided in the old Skaianet Radio download masterpost [from Tumblr](https://skaia.net/post/65202358188/its-finally-done-a-complete-collection-of-all).
 
+    <i>DarkMarxSoul:</i> ([Homestuck and MSPA Music Wiki](https://homestuck-and-mspa-music.fandom.com/wiki/List_of_unofficial_Homestuck/MSPA_albums?oldid=8460), 7/16/2017)
+
+    *Some Artifacts May Occur* is a Homestuck remix album by shinokabe. It features a total of seven tracks, most of which are remixes of existing *Homestuck* songs, and uses a mix of electronic sounds and vocal samples to create hectic music reminiscent of glitches. The actual release date is unknown, but its alternate MediaFire link was created by Skaianet on June 23, 2013.
+
+    <i>Quasar Nebula:</i> (wiki editor, 4/29/2025)
+
+    Not much of anything is known about this album. It has two live download links:
+
+    1. The ["alt MediaFire download"](http://www.mediafire.com/download/2mh4qa6kl84wdlh/Some+Artifacts+May+Occur.zip) which Lilith refers to above. It is linked from [IAreKyleW00t's complete collection of fanmusic](https://www.tumblr.com/skaianetradio/58835276529/its-finally-done-a-complete-collection-of-all) for skaianetradio. The tumblr post announcing this collection is dated August 20, 2013, and the files in the zip download itself were all modified within the span of a few minutes on June 23, 2013.
+
+    2. The [current download](http://cdn.skaia.net/music/albums/some_artifacts_may_occur.zip) linked from [Skaianet Download DB](https://dl.skaia.net/albums). This zip file is of the standardized format for all album downloads there. Its `albuminfo.txt` is last modified June 26, 2014, and the track MP3s were all updated at once on July 2, 2014.
+
+    The album's artist is an equal mystery and apparently goes by a number of names:
+
+    - "shinokabe", in the "by" line for the album on [Skaianet Download DB](https://dl.skaia.net/albums)
+    - "&lt;COOLTRAINER&gt;" or "COOLTRAINER", in the album cover artwork itself
+    - "DJ CR33per", in the MP3 artists field for all tracks in the "alt MediaFire download"
+    - "Cass "Azure" October", in the MP3 composer field for all tracks in the "alt MediaFire download"
+    - Just "Cass October", in the MP3 title field for [[track:bad-apple-cass-octobers-and-hell-followed-with-him-remix]]
+    - Possibly "Malleus Malum", in the *filename* for the *same* track, as well as in `Track List.txt`, both in the "alt MediaFire download"
+
+    We reviewed these sources for track names:
+
+    - Filenames in "alt MediaFire download"
+    - MP3 metadata track names in "alt MediaFire download"
+    - Contents of `Track List.txt` in "alt MediaFire download"
+    - Filenames in Skaianet Download DB download
+    - MP3 metadata track names in Skaianet Download DB download
+
+    Differences by source in track names are mostly insignificant. Apart from "Malleus Malum" noted above, the two tracks [[track:mother-some-artifacts-may-occur]] and [[track:adios-toreador]] are both named with the suffix "(Original Mix)" *only* in the file `Track List.txt` included in the "alt MediaFire download". All other sources exclude that suffix, so this wiki does too.
 ---
 Track: Liquid Negrocity (Jack Noir's "Fifty Shades of Stuck" Remix)
 Duration: 5:36
@@ -23,6 +53,11 @@ Referenced Tracks:
 Track: Mother
 Suffix Directory: true
 Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Mother (Original Mix)
+  Annotation: >-
+    ["alt MediaFire download"](https://skaia.net/post/65202358188/its-finally-done-a-complete-collection-of-all) `Track List.txt`
 Duration: 4:24
 ---
 Track: Beatdown (Dirk Strider's "Daikatana" Remix)
@@ -35,13 +70,22 @@ Additional Names:
 - Name: >-
     Bad Apple (Malleus Malum Remix)
   Annotation: >-
-    filename
+    ["alt MediaFire download"](https://skaia.net/post/65202358188/its-finally-done-a-complete-collection-of-all) filename
+- Name: >-
+    Bad Apple ("Malleus Malum" Remix)
+  Annotation: >-
+    ["alt MediaFire download"](https://skaia.net/post/65202358188/its-finally-done-a-complete-collection-of-all) `Track List.txt`
 Duration: 4:37
 Referenced Tracks:
 - Bad Apple!! feat. nomico
 ---
 Track: Adios, Toreador
 Duration: 6:31
+Additional Names:
+- Name: >-
+    Adios, Toreador (Original Mix)
+  Annotation: >-
+    ["alt MediaFire download"](https://skaia.net/post/65202358188/its-finally-done-a-complete-collection-of-all) `Track List.txt`
 ---
 Track: Unite/Synchronization (Alpha Dave's "Caledbreaker" Remix)
 Duration: 4:27
