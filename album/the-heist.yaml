@@ -8,22 +8,24 @@ URLs:
 Cover Artists:
 - SerialSymphony
 Cover Art File Extension: png
+Track Art File Extension: png
+Color: '#8d8888'
 Groups:
 - Fandom
 Wallpaper Artists:
 - SerialSymphony
 - Lilithtreasure (edits for wiki)
 Wallpaper Parts:
+- Asset: none
+  Style: |-
+    background-color: #ffffff;
+    opacity: 1;
 - Asset: bg.png
   Style: |-
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     opacity: 1;
-- Asset: none
-  Style: |-
-    background-color: #ffffff;
-    opacity: 0.2;
 Commentary: |-
     <i>SerialSymphony:</i> ([Bandcamp about blurb](https://serialsymphony.bandcamp.com/album/the-heist))
 
@@ -37,13 +39,15 @@ Always Reference By Directory: true
 Duration: 4:22
 URLs:
 - https://serialsymphony.bandcamp.com/track/boxtrot
-Cover Art File Extension: png
+Cover Artists:
+- SerialSymphony
 ---
 Track: Hat Full of Bomb
 Duration: 3:30
 URLs:
 - https://serialsymphony.bandcamp.com/track/hat-full-of-bomb
-Cover Art File Extension: png
+Cover Artists:
+- SerialSymphony
 ---
 Track: The Old Ultraviolence
 Additional Names:
@@ -55,13 +59,15 @@ Duration: 3:34
 URLs:
 - https://serialsymphony.bandcamp.com/track/the-old-ultraviolence
 - https://soundcloud.com/serialsymphony/getaway
-Cover Art File Extension: png
+Cover Artists:
+- SerialSymphony
 ---
 Track: I Made This Town
 Duration: 3:41
 URLs:
 - https://serialsymphony.bandcamp.com/track/i-made-this-town
-Cover Art File Extension: png
+Cover Artists:
+- SerialSymphony
 ---
 Track: Showdown
 Additional Names:
