@@ -40,6 +40,8 @@ Content: |-
     <h3>other additions</h3>
     <h3>data changes</h3>
     <h3>data fixes</h3>
+    <!-- art tag fixes -->
+    - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer]], and [[track:urban-jungle]] (thanks, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
     </details>
