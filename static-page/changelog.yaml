@@ -38,12 +38,34 @@ Content: |-
     - added [[album:some-artifacts-may-occur]] by [[artist:shinokabe]] (thanks, Lilith, Lan!)
     - added [[album:cognitive-coalescence]] by [[artist:witchs-cadence]] (thanks, Lilith, Lan!)
     <h3>other additions</h3>
+    <!-- link additions -->
+    - added Nintendo Music listening links to [[track:death-mountain-theme]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-over-the-legend-of-zelda]], [[track:ganon-is-defeated]], [[track:overworld-theme-the-legend-of-zelda]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
     <h3>data changes</h3>
     <h3>data fixes</h3>
+    <!-- name fixes (subsections) -->
+    - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
+        - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
+        - fixed [[track:ending-theme-the-legend-of-zelda]] being named "Ending (The Legend of Zelda)"
+        - fixed [[track:ganon-is-defeated]] being named "Ganon Appear/Defeat Fanfare"
+        - fixed [[track:title-theme-the-legend-of-zelda]] being named "Title (The Legend of Zelda)"
+        - fixed [[track:underworld-theme]] being named "Dungeon Theme"
     <!-- art tag fixes -->
     - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer]], and [[track:urban-jungle]] (thanks, Lan!)
+    <!-- general data fixes -->
+    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
+        - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
+        - fixed duration of [[track:ending-theme-the-legend-of-zelda]] (was 2:00, now 1:53)
+        - fixed duration of [[track:game-over-the-legend-of-zelda]] (was 0:32, now 0:37)
+        - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
+        - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
+        - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
+    - changed directory of [[track:death-mountain-theme]] from `death-mountain-the-legend-of-zelda` to `death-mountain-theme`
+    - changed directory of [[track:ending-theme-the-legend-of-zelda]] from `ending-the-legend-of-zelda` to `ending-theme-the-legend-of-zelda`
+    - changed directory of [[track:ganon-is-defeated]] from `ganon-appear-defeat-fanfare` to `ganon-is-defeated`
+    - changed directory of [[track:title-theme-the-legend-of-zelda]] from `title-the-legend-of-zelda` to `title-theme-the-legend-of-zelda`
+    - changed directory of [[track:underworld-theme]] from `dungeon-theme-zelda1` to `underworld-theme`
     </details>
 
     <h2 id="16-apr-2025"><html:a href="#16-apr-2025">[[date:16 April 2025]] - unstranslatable japanese idiom</a><h2>
