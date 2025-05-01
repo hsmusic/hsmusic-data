@@ -40,6 +40,7 @@ Content: |-
     <h3>other additions</h3>
     <!-- link additions -->
     - added Nintendo Music listening links to [[track:death-mountain-theme]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-over-the-legend-of-zelda]], [[track:ganon-is-defeated]], [[track:overworld-theme-the-legend-of-zelda]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
+    - replaced YouTube listening link for [[track:danger-on-the-dance-floor-mid-boss]] with official upload (thanks, ruby!)
     <h3>data changes</h3>
     <h3>data fixes</h3>
     <!-- name fixes (subsections) -->
@@ -49,6 +50,8 @@ Content: |-
         - fixed [[track:ganon-is-defeated]] being named "Ganon Appear/Defeat Fanfare"
         - fixed [[track:title-theme-the-legend-of-zelda]] being named "Title (The Legend of Zelda)"
         - fixed [[track:underworld-theme]] being named "Dungeon Theme"
+    <!-- name fixes (single-lines) -->
+    - fixed [[track:danger-on-the-dance-floor-mid-boss]] being named "Danger on the Dance Floor (Mid-Boss)" (to align with soundtrack release; thanks, ruby!)
     <!-- art tag fixes -->
     - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer]], and [[track:urban-jungle]] (thanks, Lan!)
     <!-- general data fixes -->
@@ -59,6 +62,7 @@ Content: |-
         - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
         - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
         - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
+    - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
     - changed directory of [[track:death-mountain-theme]] from `death-mountain-the-legend-of-zelda` to `death-mountain-theme`
