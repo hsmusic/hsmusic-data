@@ -115,6 +115,7 @@ Content: |-
     - removed Bandcamp listening links for [[track:ascending-strife]], [[track:avarice-paradox-music-team]], [[track:candlelit-contemplation-beta]], [[track:deception-paradox-music-team]], [[track:proletariat-paradox-music-team]], [[track:spritely-gardener-beta]], [[track:vexation-paradox-music-team]], and [[track:wilyesp-remix-attempt-wip]] (thanks, Lilith!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
+    - fixed [[track:black]] referencing [[track:liquid-negrocity]] instead of [[track:plasmic-blaquaciousness]] (thanks, Lilith!)
     - fixed [[track:white]] not referencing [[track:skies-of-skaia]] (thanks, HunZhen!)
     - fixed [[track:scratch]] referencing [[track:the-final-battle]] ([[album:super-smash-bros-ultimate]]) instead of [[track:the-final-battle-super-mario-64]] (thanks, Lilith!)
     - fixed [[track:earthsea-borealis]] not referencing [[track:double-midnight]] (thanks, Grace, Lilith!)
