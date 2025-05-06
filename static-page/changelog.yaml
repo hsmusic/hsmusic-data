@@ -50,6 +50,9 @@ Content: |-
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
     <h3>album additions</h3>
+    - added newsletter clippings from [[group:undertale-and-deltarune]]: (thanks, ruby, Lan!)
+        - added [[album:deltarune-ch3-status-update]]!
+        - added [[album:deltarune-ch2-rejected-tracks]]!
     - added [[album:some-artifacts-may-occur]] by [[artist:shinokabe]] (thanks, Lilith, Lan!)
     - added [[album:cognitive-coalescence]] by [[artist:witchs-cadence]] (thanks, Lilith, Lan!)
     <h3>other additions</h3>
@@ -73,7 +76,7 @@ Content: |-
     - fixed [[track:white]] not referencing [[track:skies-of-skaia]] (thanks, HunZhen!)
     - fixed [[track:scratch]] referencing [[track:the-final-battle]] ([[album:super-smash-bros-ultimate]]) instead of [[track:the-final-battle-super-mario-64]] (thanks, Lilith!)
     - fixed [[track:mx-misery]] referencing [[track:heat]] ([[album:medium]]) instead of [[track:heat-brock-hampton]] ([[artist:brockhampton]]; thanks, Lan!)
-    - updated a bunch of Deltarune references to point to in-between WIPs from "DELTARUNE CHAPTER 2 REJECTED TRACKS" (thanks, ruby!)
+    - updated a bunch of Deltarune references to point to in-between WIPs from [[album:deltarune-ch2-rejected-tracks]] (thanks, ruby!)
         - fixed [[track:my-castle-town]] referencing [[track:the-legend]] instead of [[track:castle-town-unfinished]]
         - fixed [[track:attack-of-the-killer-queen]] referencing [[track:queen-deltarune]] instead of [[track:queen-battle-original]]
         - fixed [[track:giga-size]] referencing [[track:queen-deltarune]] and [[track:attack-of-the-killer-queen]] instead of [[track:giga-queen-old]]
