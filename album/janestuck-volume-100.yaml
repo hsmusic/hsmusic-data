@@ -7,6 +7,7 @@ URLs:
 Cover Artists:
 - CreatorOfJanespeak
 Cover Art File Extension: png
+Track Art File Extension: png
 Art Tags:
 - tag:jane-john-janestuck
 - tag:jane-rose-janestuck
@@ -20,9 +21,9 @@ Additional Files:
   Description: >-
     Additional artwork included in the album download.
   Files:
-  - corrupted jungle art.png
-  - janeve-owns.png
-  - me'.png
+  - Yongqi - corrupted jungle art.png
+  - leaf-green - janeve-owns.png
+  - Yongqi - me'.png
 Commentary: |-
     <i>CreatorOfJanespeak:</i> ([Bandcamp credits blurb](https://janestuckofficial.bandcamp.com/album/janestuck-volume-100))
 
@@ -32,12 +33,12 @@ Commentary: |-
 
     [[artist:creatorofjanespeak|Anervaria]]<br>
     [[artist:bitesizebird]]<br>
-    leaf-green<br>
+    [[artist:leaf-green|leaf-green]]<br>
     [[artist:luminantaegis]]<br>
     [[artist:ostrichlittledungeon]]<br>
     [[artist:sinfrog]]<br>
     [[artist:thefloorisevil|TheFloorisEvil]]<br>
-    Yongqi
+    [[artist:yongqi]]
 
 ---
 Section: Main album
@@ -91,6 +92,14 @@ Referenced Tracks:
 Track: Corrupted Jungle
 Artists:
 - BitesizeBird
+Track Artwork:
+- Label: Additional artwork
+  Source: Album download
+  Artists:
+  - Yongqi
+  Tags:
+  - tag:jane-rose-janestuck
+  - Sburb
 Duration: 3:35
 URLs:
 - https://janestuckofficial.bandcamp.com/track/corrupted-jungle
@@ -125,6 +134,7 @@ Duration: 2:12
 URLs:
 - https://janestuckofficial.bandcamp.com/track/support-of-poppop
 Referenced Tracks:
+- Harleboss
 - Doctor
 - Not-a-Janarlequin
 - Harlequin
@@ -133,6 +143,15 @@ Referenced Tracks:
 Track: Grafted Movement (Janeve Owns)
 Artists:
 - ostrichlittledungeon
+Track Artwork:
+- Label: Additional artwork
+  Source: Album download
+  Artists:
+  - artist:leaf-green
+  Tags:
+  - tag:jane-dave-janestuck
+  - Ninja Sword
+  - Dave's home
 Duration: 1:43
 URLs:
 - https://janestuckofficial.bandcamp.com/track/grafted-movement-janeve-owns
@@ -156,6 +175,13 @@ Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - SinFrog
+Track Artwork:
+- Label: Additional artwork
+  Source: Album download
+  Artists:
+  - Yongqi
+  Tags:
+  - tag:jane-rose-janestuck
 Duration: 2:56
 URLs:
 - https://janestuckofficial.bandcamp.com/track/nurse
@@ -163,6 +189,7 @@ Referenced Tracks:
 - Doctor
 - track:megalovania-ebhh
 - Unite Synchronization
+- Showtime (Original Mix)
 - Beatdown (Strider Style)
 ---
 Track: Unending Ascent
