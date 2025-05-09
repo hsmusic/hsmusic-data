@@ -27,6 +27,8 @@ URLs:
 - https://www.youtube.com/watch?v=ypPK7-x4CE4
 ---
 Track: Light and Rain
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 4:31
 Color: '#b536da'
 URLs:
@@ -65,7 +67,7 @@ Duration: 4:20
 URLs:
 - https://autumnaleqvinox.bandcamp.com/track/light-and-rain-sampleless
 Referenced Tracks:
-- Light and Rain
+- track:light-and-rain-beta
 ---
 Track: Heat and Clockwork (Sampleless)
 Duration: 3:42
