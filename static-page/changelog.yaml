@@ -59,6 +59,19 @@ Content: |-
         - added [[album:inspired-by-the-void]]!
         - added [[album:back-burner]]!
         - added [[album:land-of-logic-and-skyscrapers]]!
+    - added singles and albums by [[artist:autumnalequinox]]! (thanks, Lilith!)
+        - added [[album:4-pass-olds]]!
+        - added [[album:vigor-and-tundra]]!
+        - added [[album:phantasmal]]!
+        - added [[album:just-leave]]!
+        - added [[album:terezi-still-owns]]!
+        - added [[album:1-in-322103112018-incognizable]]!
+        - added [[album:stop-smoking-we-care-about-you]]!
+        - added [[album:wind-and-shade]]!
+        - added [[album:beta]]!
+        - added [[album:tangential-acid]]!
+        - added [[album:where-dreams-go-to-die]]!
+        - added [[album:in-medias-res-autumn-cut]]!
     - added latest releases from [[group:undertale-and-deltarune]]! (thanks, ruby!)
         - added [[album:deltarune-soundtrack]]!
         - added [[album:deltarune-ch3-4-ost]]!
@@ -145,9 +158,12 @@ Content: |-
     <!-- miscellaneous preesntational changes -->
     - touched up commentary in [[album:7th-gate-project]]
     <!-- tracks newly marked as a secondary release -->
+    - marked [[track:frost-and-frogs-lofam5a2]] ([[album:lofam5a2]]) newly as a secondary release (thanks, Lilith!)
     - marked tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] as secondary releases, with main releases now on [[album:deltarune-soundtrack]] (thanks, ruby!)
     <!-- tracks moved within an album, etc -->
     - moved [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) from "Music from video games" to "Other music originating outside Homestuck" (thanks, Lan, bit!)
+    <!-- track section/placement changes (not fixes) -->
+    - moved [[track:the-respect-you-rightfully-deserve-single]] from [[album:more-homestuck-fandom]] to [[album:the-respect-you-rightfully-deserve|single release]] (thanks, Lilith!)
     <!-- general removals -->
     - removed dead link in commentary for [[track:threxecute]] (thanks, Lilith!)
     - removed Bandcamp listening links across [[album:the-strider-mixtape]] (thanks, Geese, Lilith!)
@@ -239,6 +255,7 @@ Content: |-
     - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
+    - changed directory of [[track:the-respect-you-rightfully-deserve-single]] from `the-respect-you-rightfully-deserve-soundcloud` to `the-respect-you-rightfully-deserve-single`
     - changed directories of all tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] to be suffixed `-ch1` and `-ch2` respectively; previous directories now used across [[album:deltarune-soundtrack]]
     - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`
     - changed directory of [[track:death-mountain-theme]] from `death-mountain-the-legend-of-zelda` to `death-mountain-theme`
