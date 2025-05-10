@@ -3906,6 +3906,37 @@ Duration: 2:07
 URLs:
 - https://www.youtube.com/watch?v=wCf3dCnWmTg
 ---
+Track: DAN (OLD SKOOL MIX)
+# Reference:
+#   https://vgmdb.net/album/4918
+Artists:
+- Street Fighter
+- SPASM
+Duration: 5:03
+URLs:
+- https://www.youtube.com/watch?v=Kc4pCZGji28
+Referenced Tracks:
+- Dan's Theme (Street Fighter Alpha 2)
+---
+Track: "Dan's Theme (Street Fighter Alpha: Warriors' Dreams)"
+Artists:
+- Street Fighter
+- Naoshi Mizuta
+Duration: 3:04
+URLs:
+- https://www.youtube.com/watch?v=0MjPeTk98MQ
+---
+Track: Dan's Theme (Street Fighter Alpha 2)
+Artists:
+- Street Fighter
+#- Tatsuro Suzuki
+#disputed, no official artist credit
+Duration: 2:54
+URLs:
+- https://www.youtube.com/watch?v=iXq8_2NttkE
+Referenced Tracks:
+- track:dans-theme-street-fighter-alpha-warriors-dreams
+---
 Track: Dark Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -5491,6 +5522,20 @@ Duration: 2:38
 URLs:
 - https://www.youtube.com/watch?v=NaAb1s0MCQQ
 ---
+Track: GRIP
+# Official release:
+#   Namco Game Sound Express VOL.14 Ridge Racer 2
+# Reference:
+#   https://vgmdb.net/album/570
+Directory: grip-ridge-racer-2
+Always Reference By Directory: true
+Artists:
+- Ridge Racer
+- Nobuyoshi Sano
+Duration: 8:15
+URLs:
+- https://www.youtube.com/watch?v=0GK6WbcyYOY
+---
 Track: Ground BGM (Super Mario Bros.)
 # SMB soundtrack was released on vinyl and cassette simultaneously, the cassette release (linked below) has an extra track (SMB Suite) but the first track is the same duration, at least.
 # Original release:
@@ -5571,6 +5616,18 @@ Artists:
 Duration: 1:07
 URLs:
 - https://www.youtube.com/watch?v=m2jq2YCxAuE
+---
+Track: Had gripped
+# Reference:
+#   https://vgmdb.net/album/1084
+Duration: 4:49
+Artists:
+- Ridge Racer
+- sanodg
+URLs:
+- https://www.youtube.com/watch?v=FVBFpUn7mig
+Referenced Tracks:
+- track:grip-ridge-racer-2
 ---
 Track: Hall of Fame (Pokémon FireRed / Pokémon LeafGreen)
 # JP: 殿堂入り
@@ -8438,6 +8495,20 @@ Artists:
 Duration: 0:04
 URLs:
 - https://www.youtube.com/watch?v=tswKwxzzEik
+---
+Track: Resolve
+# Official release:
+#   beatmania 6thMIX ORIGINAL SOUNDTRACK: THE UK UNDERGROUND MUSIC
+# Reference:
+#   https://vgmdb.net/album/1325
+Directory: resolve-total-science
+Always Reference By Directory: true
+Duration: 1:40
+Artists:
+- beatmania
+- Total Science
+URLs:
+- https://www.youtube.com/watch?v=le79a4KVy0g
 ---
 Track: The Reverse Will
 # Official release:
