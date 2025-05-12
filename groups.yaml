@@ -764,6 +764,24 @@ URLs:
 - https://mspfa.com/?s=28296
 - https://desynced.bandcamp.com/
 - https://twitter.com/_Desynced_
+Series:
+- Name: Numbered volumes
+  Albums:
+  - Desynced Vol. 1
+  - Desynced Vol. 2
+- Name: Numbered anthologies
+  Albums:
+  - Anthology I
+  - Anthology II
+- Name: Team albums
+  Albums:
+  - Election Season
+  - Nibiru
+- Name: Solo albums
+  Show Album Artists: all
+  Albums:
+  - Pantheon
+  - Noirscape
 Description: |-
     A fanventure by a talented team of authors, artists and musicians, in the works since 2017 and updating since early 2020!
 ---
