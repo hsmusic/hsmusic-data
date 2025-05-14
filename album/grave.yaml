@@ -19,7 +19,12 @@ Groups:
 - Beyond
 Commentary: |-
     <i>Lilithtreasure:</i> (wiki editor, 5/14/2025)
+
     Around August 2020, Grave and [[album:home|Home's]] track listings were modified to not include the vocal tracks; the updated version of the album does not include [[track:ikari]] ([capture](https://web.archive.org/web/20211230103742/https://screamcatcher.bandcamp.com/album/grave)), which used to be the ninth track ([capture](https://web.archive.org/web/20130613180227/http://screamcatcher.net/album/grave)) between [[track:nagisa]] and [[track:impact-grave]], and [[track:instrumentality-grave]] ([capture](https://web.archive.org/web/20211230103742/https://screamcatcher.bandcamp.com/album/grave)), which used to be the eleventh track ([capture](https://web.archive.org/web/20130613180227/http://screamcatcher.net/album/grave)) between [[track:impact-grave]] and [[track:nagisa-ghoti-remix]].
+
+    <i>Quasar Nebula:</i> (wiki editor, 5/14/2025)
+
+    We're taking August 19, 2020 as the likely date that this album and [[album:home]] were updated because on this date *both* albums were updated, and no others were (the other Screamcatcher albums were still untouched, since September 2012 or original album release, as of December 2021). We verified this by visiting the first capture, for all Screamcatcher albums, taken *later* than August 2020, and checking the Bandcamp-provided metadata `TralbumData.current.mod_date`.
 ---
 Section: Main album
 ---
@@ -84,7 +89,7 @@ Duration: 06:47
 Referenced Tracks:
 - Ikari
 ---
-Section: Removed in 2020 release
+Section: Removed in 2020 track list
 ---
 Track: Ikari
 Additional Names:
