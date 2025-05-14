@@ -51,6 +51,8 @@ Content: |-
     <h3>data fixes</h3>
     <!-- reference fixes -->
     - fixed [[track:scratch]] referencing [[track:the-final-battle]] ([[album:super-smash-bros-ultimate]]) instead of [[track:the-final-battle-super-mario-64]] (thanks, Lilith!)
+    <!-- crediting fixes -->
+    - fixed Bandcamp credits blurb for [[album:jailbreak-vol-1]] crediting [[artist:melodiousdiscord]] instead of [[artist:rebecca-harding]] (thanks, Lilith!)
     <!-- name fixes (subsections) -->
     - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
         - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
