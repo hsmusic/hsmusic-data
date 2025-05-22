@@ -57,6 +57,8 @@ Content: |-
     - fixed [[track:scratch]] referencing [[track:the-final-battle]] ([[album:super-smash-bros-ultimate]]) instead of [[track:the-final-battle-super-mario-64]] (thanks, Lilith!)
     - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
     - fixed [[track:ikari-instrumental]] not referencing [[track:ikari]] (vocal version; thanks, Lilith!)
+    <!-- track section/placement fixes -->
+    - fixed placement of "To say goodbye" section in [[album:stalemate-adieu]] per Bandcamp blurb (didn't include [[track:closure-and-goodbyes]]; thanks, Lilith!)
     <!-- name fixes (subsections) -->
     - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
         - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
