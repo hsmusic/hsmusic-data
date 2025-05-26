@@ -10,7 +10,7 @@ URLs:
 Cover Artists:
 - P-PAMda
 Default Track Cover Artists:
-- James Roach
+- James Roach (composition)
 Cover Art File Extension: png
 Color: '#d3ff8f'
 Groups:
@@ -248,10 +248,14 @@ Commentary: |-
 Track: Old Secret
 Duration: 4:26
 Track Artwork:
-- Source: >-
+- Artists:
+  - James Roach (edits)
+  Source: >-
     [SoundCloud](https://soundcloud.com/jamesroachmusic/old-secret)
   Origin Details: >-
     Edit of [[album:hiveswap-act-1-ost]] album cover
+  Referenced Artworks:
+  - album:hiveswap-act-1-ost (edit)
   Tags:
   - Joey
   - Alternia
