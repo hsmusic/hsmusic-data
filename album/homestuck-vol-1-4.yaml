@@ -244,6 +244,9 @@ Commentary: |-
 Track: Showtime Remix
 Main Release: Showtime Remix
 Duration: 2:02
+Track Artwork:
+- Tags:
+  - FreshJamz
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-remix-3
 - https://youtu.be/ENWA9aNEkXk
@@ -251,7 +254,10 @@ URLs:
 Track: Aggrieve Remix
 Main Release: Aggrieve Remix
 Duration: 2:11
-Cover Art Dimensions: 350x351
+Track Artwork:
+- Dimensions: 350x351
+  Tags:
+  - FreshJamz
 URLs:
 - https://homestuck.bandcamp.com/track/aggrieve-remix-3
 - https://youtu.be/KilKZfggMOU
@@ -259,7 +265,10 @@ URLs:
 Track: Verdancy (Bassline)
 Main Release: Verdancy (Bassline)
 Duration: 0:52
-Cover Art Dimensions: 350x351
+Track Artwork:
+- Dimensions: 350x351
+  Tags:
+  - FreshJamz
 URLs:
 - https://homestuck.bandcamp.com/track/verdancy-bassline-3
 - https://youtu.be/Hhwop2K7zt0
@@ -269,6 +278,9 @@ Suffix Directory: false
 Artists:
 - rj lake
 Duration: 3:25
+Track Artwork:
+- Tags:
+  - FreshJamz
 URLs:
 - https://homestuck.bandcamp.com/track/potential-verdancy-2
 - https://youtu.be/2W9Dd4RAiHo
