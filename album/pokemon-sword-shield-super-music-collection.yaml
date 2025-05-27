@@ -26,6 +26,7 @@ Wallpaper Style: |-
     opacity: 0.45;
 ---
 Section: Disc 1
+Start Counting From: 1
 Color: '#00a2e7'
 ---
 Track: Title Screen
@@ -365,6 +366,7 @@ URLs:
 - https://www.youtube.com/watch?v=-zlaWWRr-vs
 ---
 Section: Disc 2
+Start Counting From: 1
 Color: '#dd005d'
 ---
 Track: Route 3
@@ -683,6 +685,7 @@ URLs:
 - https://www.youtube.com/watch?v=D1-Eg5bMZp8
 ---
 Section: Disc 3
+Start Counting From: 1
 Color: '#fff001'
 ---
 Track: Spikemuth
@@ -959,6 +962,7 @@ Referenced Tracks:
 - In the Fog
 ---
 Section: Disc 4
+Start Counting From: 1
 Color: '#38ad69'
 ---
 Track: Isle of Armor
