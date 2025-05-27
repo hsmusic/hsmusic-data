@@ -3,8 +3,14 @@ Date: May 27, 2025
 Artists:
 - Witch's Cadence
 Cover Artists:
-- dizzims.
+- artist:dizzims
+Wallpaper Artists:
+- artist:dizzims
 Cover Art File Extension: jpg
+Wallpaper File Extension: png
+Wallpaper Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 URLs:
 - https://witchscadence.bandcamp.com/track/epic-of-jack-noir-directors-cut
 Color: '#cc6c71'
