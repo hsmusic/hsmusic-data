@@ -34,6 +34,17 @@ Style: |-
 Content: |-
     <h2 id="12-jun-2099" class="major-release"><html:a href="#12-jun-2099">[[date:12 June 2099]] - Ascension/Alignment/Conjugation</a></h2>
     <h3>site changes</h3>
+    - added "by series" view to group gallery pages, which presents albums within their series instead of a single chronological grid; "by date" remains the default view
+    - added "origin details" field for artworks, which enables totally custom descriptions about where an artwork comes from; displayed beneath "by (artists)" and "via (source)" line [[media:misc/changelog/artwork-origin-details-cover.png|on album and track pages]], as well as [[media:misc/changelog/artwork-origin-details-list.png|in artists' artwork lists]]; currently used for crops of comic panels and flashes across [[group:official]], and for asset credits in [[album:hiveswap-friendsim]]
+    - added "attach above" field for artworks, which visually links related artworks together (provided they're for the same track or album), and shuttles away identical data e.g. because the artworks have the same artists or tags, and adds auto-inheritence so those identical lists don't have to be typed out twice, either; all in all used for earlier versions of [[album:comfortable-bugs|album covers]] and [[track:white|track art]], [[track:awakening|full-size cuts]], and perhaps other useful places
+    - added a bunch of lines to let lyrics entries be more meaningfully detailed
+        - lyrics sourced from a particular platform or other website may now link to that website in a "Via..." line
+        - wiki lyrics - entries filled out and formatted specially for the wiki - may now list who's helped out in a "Contributions from..." line
+        - wiki lyrics which include annotative text in [square brackets] now automatically draw attention there in a "Mind parts marked in..." line
+        - totally custom details may be included on their own line, through an "origin details" field, similar as for artworks
+    - added "referencing sources" section for track pages, which works the same as crediting sources, and includes citations or conversations which contextualize a track's listed references and samples
+    - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
+    - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
     <h3>bug fixes</h3>
     - fixed flashes ignoring non-square artworks
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
