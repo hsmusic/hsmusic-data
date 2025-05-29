@@ -5,8 +5,15 @@ Artists:
 Date: January 4, 2018
 URLs:
 - https://serialsymphony.bandcamp.com/album/the-heist
-Cover Artists:
-- SerialSymphony
+Cover Artwork:
+- Artists:
+  - SerialSymphony
+  File Extension: png
+- Label: SoundCloud album art
+  Directory: soundcloud
+  File Extension: png
+  Artists:
+  - SerialSymphony
 Cover Art File Extension: png
 Track Art File Extension: png
 Color: '#8d8888'
@@ -23,7 +30,23 @@ Wallpaper Style: |-
 Commentary: |-
     <i>SerialSymphony:</i> ([Bandcamp about blurb](https://serialsymphony.bandcamp.com/album/the-heist))
 
-    A Midnight Crew Fan EP, dedicated to my favourite HS characters and [[album:midnight-crew-drawing-dead|album]].
+    A Midnight Crew Fan EP, dedicated to my favourite HS characters [[album:midnight-crew-drawing-dead|and album]].
+
+    <i>SerialSymphony:</i> ([SoundCloud album description](https://soundcloud.com/serialsymphony/sets/smooth-jazz-will-now-commence))
+    A Tribute to the Midnight Crew from Homestuck
+
+    (more songs to come)
+
+    <i>Lilithtreasure:</i> (wiki editor, 5/29/2025)
+
+    The entry of The Heist is modeled off the later Bandcamp release, from [[date:January 4, 2018]], but [the earlier SoundCloud release](https://soundcloud.com/serialsymphony/sets/smooth-jazz-will-now-commence) of the album had only 4 tracks with a different track order, released on [[date:May 30, 2014]]; only one track appears only on the SoundCloud release, [[track:beatdown-strifing-saxophones-mix]].
+
+    <details><summary>SoundCloud track order</summary>
+
+    1. [[track:showdown-the-heist|Showdown]] (née The Showdown)
+    2. [[track:officially-canon|Officially Canon]] (née Swing(OFFICIALLY CANON))
+    3. [[track:beatdown-strifing-saxophone-mix|Beatdown(Strifing Saxophones Mix)]]
+    4. [[track:the-old-ultraviolence|The Old Ultraviolence]] (née The Getaway)
 ---
 Section: Main album
 ---
@@ -44,6 +67,7 @@ Cover Artists:
 - SerialSymphony
 ---
 Track: The Old Ultraviolence
+Date First Released: May 30, 2014
 Additional Names:
 - Name: >-
     The Getaway
@@ -64,6 +88,7 @@ Cover Artists:
 - SerialSymphony
 ---
 Track: Showdown
+Date First Released: May 30, 2014
 Additional Names:
 - Name: >-
     The Showdown
@@ -79,6 +104,7 @@ URLs:
 Section: Bonus track
 ---
 Track: Officially Canon
+Date First Released: September 21, 2014
 Additional Names:
 - Name: >-
     Swing(OFFICIALLY CANON)
@@ -87,3 +113,19 @@ Additional Names:
 Duration: 3:11
 URLs:
 - https://soundcloud.com/serialsymphony/swingofficially-canon
+Commentary: |-
+    <i>SerialSymphony:</i> ([SoundCloud description](https://soundcloud.com/serialsymphony/swingofficially-canon))
+
+    "Now don't **** this up, Slick."
+---
+Section: Exclusive to SoundCloud
+Description: >-
+    Additional track present on [the SoundCloud release](https://soundcloud.com/serialsymphony/sets/smooth-jazz-will-now-commence).
+---
+Track: Beatdown(Strifing Saxophones Mix)
+Date First Released: May 11, 2014
+Duration: 2:46
+URLs:
+- https://soundcloud.com/serialsymphony/beatdownstrifing-saxophones-mix
+Referenced Tracks:
+- Beatdown (Strider Style)

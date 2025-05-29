@@ -1,5 +1,4 @@
 Album: Thanks for Listening
-Directory Suffix: thanks-for-listening
 Artists:
 - SerialSymphony
 Date: October 28, 2018
@@ -27,16 +26,39 @@ Commentary: |-
     <i>SerialSymphony:</i> ([Bandcamp about blurb](https://serialsymphony.bandcamp.com/album/thanks-for-listening))
 
     Thanks for Listening is a collection of tracks inspired by the webcomic Homestuck, featuring original tracks and remixes from the past 6 years.
+
+    <i>Lilithtreasure:</i> (wiki editor, 5/29/2025)
+
+    While there aren't captures available of the original track listing that included [[Amniotic Reprise]], which used to be the first track before [[track:prospit-towers-thanks-for-listening]], and [[Frostwork]], which used to be the fourth track inbetween [[track:lament-thanks-for-listening]] and [[track:flaring-thanks-for-listening]], the SoundCloud link to Amniotic Reprise still exists; Frostwork previously [had such a link as well,](https://serialsymphony.tumblr.com/post/160408968799/circlejourneyart-machinasolis-its-snowing) but was removed from SoundCloud.
 ---
 Section: Main album
 ---
 Track: Prospit Towers
+Additional Names:
+- Name: >-
+    Towers
+  Annotation: >-
+    [Spotify](https://open.spotify.com/track/7wdahngrjKdT0ooikrKKt0)
 Main Release: Prospit Towers
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 3:36
 URLs:
 - https://serialsymphony.bandcamp.com/track/prospit-towers
+- https://open.spotify.com/track/7wdahngrjKdT0ooikrKKt0
+Track Artwork:
+- Label: Single release
+  Date: August 20, 2019
+  File Extension: jpg
+  Artists:
+  - SerialSymphony
+  Tags:
+  - Dave
+  - Crows
+  - Dave's home
+  - Houston, TX
+  - Bladekind
+  - Light
 ---
 Track: Lament
 Suffix Directory: true
@@ -45,6 +67,7 @@ Duration: 3:52
 URLs:
 - https://serialsymphony.bandcamp.com/track/lament
 - https://soundcloud.com/serialsymphony/lament
+- https://www.youtube.com/watch?v=4yr0dEYPTXQ
 Referenced Tracks:
 - Serenade
 ---
@@ -134,17 +157,21 @@ Track: Candles and Clockwork (String)
 Duration: 2:32
 Referenced Tracks:
 - Candles and Clockwork
-#---
-#Section: Removed tracks
-#---
-#Track: Amniotic Reprise
-#Duration: 4:21
-#URLs:
-#- https://soundcloud.com/serialsymphony/amniotic-reprise
-#Referenced Tracks:
-#- Amniotic Daydream
-#---
-#Track: Frostwork
-#Duration: 4:30
-#Referenced Tracks:
-#- Frost and Clockwork
+---
+Section: Removed tracks
+---
+Track: Amniotic Reprise
+Duration: 4:21
+URLs:
+- https://soundcloud.com/serialsymphony/amniotic-reprise
+Referenced Tracks:
+- JUST1C3 R41NS FROM ABOV3
+Commentary: |-
+    <i>SerialSymphony:</i> ([SoundCloud description](https://soundcloud.com/serialsymphony/amniotic-reprise), excerpt)
+
+    From my new Homestuck Album 'Thanks For Listening.'
+---
+Track: Frostwork
+Duration: 4:30
+Referenced Tracks:
+- Frost and Clockwork
