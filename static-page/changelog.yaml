@@ -47,6 +47,7 @@ Content: |-
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
     <h3>bug fixes</h3>
     - fixed flashes ignoring non-square artworks
+    - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
     <h3>album additions</h3>
     - added [[album:some-artifacts-may-occur]] by [[artist:shinokabe]] (thanks, Lilith, Lan!)
