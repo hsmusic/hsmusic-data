@@ -248,12 +248,15 @@ Duration: 1:08
 URLs:
 - https://homestuck.bandcamp.com/track/firefly-2
 - https://youtu.be/KC9v0nOnDK8
-Cover Artists:
-- Homestuck
-Cover Art File Extension: gif
-Art Tags:
-- John
-- LoWaS
+Track Artwork:
+- File Extension: gif
+  Artists:
+  - Homestuck
+  Origin Details: >-
+    From [page 3078](https://homestuck.com/story/3078)
+  Tags:
+  - John
+  - LoWaS
 Commentary: |-
     <i>Buzinkai:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -266,16 +269,19 @@ Duration: 3:59
 URLs:
 - https://homestuck.bandcamp.com/track/whistling-jackhammer-2
 - https://youtu.be/a9ExRM4xlw8
-Cover Artists:
-- Homestuck
-Cover Art File Extension: gif
-Art Tags:
-- Dirk
-- Sawtooth
-- Imperial Drones
-- Unbreakable Katana
-- Flooded Earth
-- 'Houston, TX'
+Track Artwork:
+- File Extension: gif
+  Artists:
+  - Homestuck
+  Origin Details: >-
+    From [page 4970](https://homestuck.com/story/4970)
+  Tags:
+  - Dirk
+  - Sawtooth
+  - Imperial Drones
+  - Unbreakable Katana
+  - Flooded Earth
+  - 'Houston, TX'
 Sheet Music Files:
 - Title: Sheet music by dcheng334
   Files:
@@ -1380,13 +1386,16 @@ Duration: 3:05
 URLs:
 - https://homestuck.bandcamp.com/track/break-shot-2
 - https://youtu.be/E07s837gHWE
-Cover Artists:
-- Homestuck
-Cover Art File Extension: jpg
-Art Tags:
-- Lord English
-- AH
-- Green Sun
+Track Artwork:
+- File Extension: jpg
+  Artists:
+  - Homestuck
+  Origin Details: >-
+    From [page 4683](https://homestuck.com/story/4683)
+  Tags:
+  - Lord English
+  - AH
+  - Green Sun
 ---
 Track: Portrait
 Artists:
@@ -1435,12 +1444,15 @@ Duration: 2:36
 URLs:
 - https://homestuck.bandcamp.com/track/negative-aperture-2
 - https://youtu.be/x15fE5XGk1g
-Cover Artists:
-- Homestuck
-Cover Art File Extension: gif
-Art Tags:
-- Sawtooth
-- Flooded Earth
+Track Artwork:
+- File Extension: gif
+  Artists:
+  - Homestuck
+  Origin Details: >-
+    From [page 4968](https://homestuck.com/story/4968)
+  Tags:
+  - Sawtooth
+  - Flooded Earth
 ---
 Track: Sweet Dreams, Timaeus
 Artists:
@@ -1470,12 +1482,15 @@ Duration: 3:10
 URLs:
 - https://homestuck.bandcamp.com/track/red-miles-2
 - https://youtu.be/_7ulwTrNnTE
-Cover Artists:
-- Homestuck
-Art Tags:
-- Red Miles
-- Roxy's home
-- 'Rainbow Falls, NY'
+Track Artwork:
+- Artists:
+  - Homestuck
+  Origin Details: >-
+    From [page 5039](https://homestuck.com/story/5039)
+  Tags:
+  - Red Miles
+  - Roxy's home
+  - 'Rainbow Falls, NY'
 Sheet Music Files:
 - Title: Piano score by Purple1222119
   Files:
@@ -1518,12 +1533,15 @@ Duration: 4:12
 URLs:
 - https://homestuck.bandcamp.com/track/the-changing-game-2
 - https://youtu.be/a7UeOYYKrxg
-Cover Artists:
-- Homestuck
-Art Tags:
-- Battleship Condescension
-- Jane's home
-- 'Maple Valley, WA'
+Track Artwork:
+- Artists:
+  - Homestuck
+  Origin Details: >-
+    From [page 4665](https://homestuck.com/story/4665)
+  Tags:
+  - Battleship Condescension
+  - Jane's home
+  - 'Maple Valley, WA'
 ---
 Track: Requited
 Artists:
@@ -1999,11 +2017,14 @@ Duration: 2:47
 URLs:
 - https://www.youtube.com/watch?v=om3VC6ru4yk
 - https://youtu.be/om3VC6ru4yk
-Cover Artists:
-- Homestuck
-Cover Art File Extension: jpg
-Art Tags:
-- Nicolas Cage
+Track Artwork:
+- File Extension: jpg
+  Artists:
+  - Homestuck
+  Origin Details: >-
+    From [[flash:darkcage]]
+  Tags:
+  - Nicolas Cage
 Referenced Tracks:
 - Crustacean
 - Hardlyquin
