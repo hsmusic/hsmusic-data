@@ -99,9 +99,12 @@ Track: Frost
 Suffix Directory: true
 Artists:
 - Solatrus
-Art Tags:
-- Jade
-- LoFaF
+Track Artwork:
+- Origin Details: >-
+    From [[flash:2988]]
+  Tags:
+  - Jade
+  - LoFaF
 Duration: 5:05
 URLs:
 - https://homestuck.bandcamp.com/track/frost-3
@@ -168,9 +171,12 @@ Track: Courser
 Artists:
 - Seth Peelle
 - Alex Rosetti
-Art Tags:
-- Becquerel
-- Reckoning
+Track Artwork:
+- Origin Details: >-
+    From [[flash:2927]]
+  Tags:
+  - Becquerel
+  - Reckoning
 Duration: 4:37
 URLs:
 - https://homestuck.bandcamp.com/track/courser-2
@@ -186,8 +192,11 @@ MIDI Project Files:
 Track: Umbral Ultimatum
 Artists:
 - Toby Fox
-Art Tags:
-- Jade
+Track Artwork:
+- Origin Details: >-
+    From [[flash:2927]]
+  Tags:
+  - Jade
 Duration: 3:33
 URLs:
 - https://homestuck.bandcamp.com/track/umbral-ultimatum-2
@@ -217,8 +226,11 @@ MIDI Project Files:
 Track: GameBro (Original 1990 Mix)
 Artists:
 - Erik Scheele
-Art Tags:
-- GameBro
+Track Artwork:
+- Origin Details: >-
+    From [page 1832](https://homestuck.com/story/1832)
+  Tags:
+  - GameBro
 Duration: 3:24
 URLs:
 - https://homestuck.bandcamp.com/track/gamebro-original-1990-mix-2
@@ -341,10 +353,13 @@ Commentary: |-
 Track: Tribal Ebonpyre
 Artists:
 - Erik Scheele
-Art Tags:
-- Dave
-- Crocodiles (consort)
-- LoHaC
+Track Artwork:
+- Origin Details: >-
+    From [page 2773](https://homestuck.com/story/2773)
+  Tags:
+  - Dave
+  - Crocodiles (consort)
+  - LoHaC
 Duration: 1:48
 URLs:
 - https://homestuck.bandcamp.com/track/tribal-ebonpyre-2
@@ -370,11 +385,14 @@ Commentary: |-
 Track: I Don't Want to Miss a Thing
 Artists:
 - Michael Guy Bowman
-Art Tags:
-- John
-- Ben Affleck
-- Bruce Willis
-- Liv Tyler
+Track Artwork:
+- Origin Details: >-
+    From [page 223](https://homestuck.com/story/223)
+  Tags:
+  - John
+  - Ben Affleck
+  - Bruce Willis
+  - Liv Tyler
 Duration: 3:57
 URLs:
 - https://homestuck.bandcamp.com/track/i-dont-want-to-miss-a-thing-2
@@ -488,8 +506,11 @@ Artists:
 - Toby Fox
 Contributors:
 - Tensei (guitar)
-Art Tags:
-- Vriska
+Track Artwork:
+- Origin Details: >-
+    From [page 2976](https://homestuck.com/story/2976)
+  Tags:
+  - Vriska
 Duration: 2:47
 URLs:
 - https://homestuck.bandcamp.com/track/megalovania-2
@@ -544,10 +565,13 @@ Commentary: |-
 Track: Walk-Stab-Walk (R&E)
 Artists:
 - Erik Scheele
-Art Tags:
-- Jack Noir
-- Karkat
-- LoPaH
+Track Artwork:
+- Origin Details: >-
+    From [page 2298](https://homestuck.com/story/2298)
+  Tags:
+  - Jack Noir
+  - Karkat
+  - LoPaH
 Duration: 3:29
 URLs:
 - https://homestuck.bandcamp.com/track/walk-stab-walk-r-e-2
@@ -568,12 +592,15 @@ Commentary: |-
 Track: Gaia Queen
 Artists:
 - Toby Fox
-Art Tags:
-- Jade
-- Dave
-- Riflekind
-- Echidna
-- LoFaF
+Track Artwork:
+- Origin Details: >-
+    From [[flash:3001]]
+  Tags:
+  - Jade
+  - Dave
+  - Riflekind
+  - Echidna
+  - LoFaF
 Duration: 3:06
 URLs:
 - https://homestuck.bandcamp.com/track/gaia-queen-2
@@ -589,9 +616,12 @@ Lyrics: |-
 Track: Elevatorstuck
 Artists:
 - Tensei
-Art Tags:
-- Dave
-- LoHaC
+Track Artwork:
+- Origin Details: >-
+    From [page 2780](https://homestuck.com/story/2780)
+  Tags:
+  - Dave
+  - LoHaC
 Duration: 2:09
 URLs:
 - https://homestuck.bandcamp.com/track/elevatorstuck-2
@@ -617,13 +647,16 @@ Track: Wacky Antics
 Artists:
 - David Ko
 - Toby Fox
-Art Tags:
-- WV
-- AR
-- Serenity
-- Eggy-Looking Base
-- Frog Temple
-- Ruined Earth
+Track Artwork:
+- Origin Details: >-
+    From [page 1503](https://homestuck.com/story/1503)
+  Tags:
+  - WV
+  - AR
+  - Serenity
+  - Eggy-Looking Base
+  - Frog Temple
+  - Ruined Earth
 Duration: 2:05
 URLs:
 - https://homestuck.bandcamp.com/track/wacky-antics-2
@@ -634,9 +667,12 @@ Referenced Tracks:
 Track: Horschestra
 Artists:
 - Alex Rosetti
-Art Tags:
-- HB
-- Horses
+Track Artwork:
+- Origin Details: >-
+    From [page 1334](https://homestuck.com/story/1334)
+  Tags:
+  - HB
+  - Horses
 Duration: 4:13
 URLs:
 - https://homestuck.bandcamp.com/track/horschestra-2
@@ -645,10 +681,13 @@ URLs:
 Track: Heir Transparent
 Artists:
 - rj lake
-Art Tags:
-- John
-- Skaia
-- 'cw: blood'
+Track Artwork:
+- Origin Details: >-
+    From [[flash:3087]]
+  Tags:
+  - John
+  - Skaia
+  - 'cw: blood'
 Duration: 4:01
 URLs:
 - https://homestuck.bandcamp.com/track/heir-transparent-2
@@ -659,8 +698,11 @@ Referenced Tracks:
 Track: Boy Skylark (Brief)
 Artists:
 - rj lake
-Art Tags:
-- John
+Track Artwork:
+- Origin Details: >-
+    From [page 3075](https://homestuck.com/story/3075)
+  Tags:
+  - John
 Duration: 2:46
 URLs:
 - https://homestuck.bandcamp.com/track/boy-skylark-brief-2
@@ -674,10 +716,13 @@ Track: Squidissension
 Artists:
 - Mark J. Hadley
 Duration: 2:44
-Art Tags:
-- Jade
-- Squiddles
-- Dream Bubbles
+Track Artwork:
+- Origin Details: >-
+    From [[flash:2848]]
+  Tags:
+  - Jade
+  - Squiddles
+  - Dream Bubbles
 URLs:
 - https://homestuck.bandcamp.com/track/squidissension-2
 - https://youtu.be/zJ7y3sWT7l0
@@ -695,10 +740,13 @@ Additional Names:
   Annotation: earlier MSPA credit
 Artists:
 - Mark J. Hadley
-Art Tags:
-- Gamzee
-- Jade's home
-- 'cw: blood'
+Track Artwork:
+- Origin Details: >-
+    From [page 3219](https://homestuck.com/story/3219)
+  Tags:
+  - Gamzee
+  - Jade's home
+  - 'cw: blood'
 Duration: 2:32
 URLs:
 - https://homestuck.bandcamp.com/track/blackest-heart-2
@@ -716,12 +764,15 @@ Additional Names:
   Annotation: earlier MSPA credit, see also [[Nic Cage Romance]]
 Artists:
 - Toby Fox
-Art Tags:
-- Vriska
-- Nicolas Cage
-- John Cusack
-- Meg Ryan
-- Trolls' Meteor
+Track Artwork:
+- Origin Details: >-
+    From [page 3060](https://homestuck.com/story/3060)
+  Tags:
+  - Vriska
+  - Nicolas Cage
+  - John Cusack
+  - Meg Ryan
+  - Trolls' Meteor
 Duration: 2:45
 URLs:
 - https://homestuck.bandcamp.com/track/nic-cage-song-2
@@ -810,14 +861,17 @@ Lyrics: |-
 Track: Phrenic Phever
 Artists:
 - Clark Powell
-Art Tags:
-- Karkat
-- Gamzee
-- Ness (EarthBound)
-- Paula (EarthBound)
-- Jeff (EarthBound)
-- Poo (EarthBound)
-- Trolls' Meteor
+Track Artwork:
+- Origin Details: >-
+    From [[flash:2792]]
+  Tags:
+  - Karkat
+  - Gamzee
+  - Ness (EarthBound)
+  - Paula (EarthBound)
+  - Jeff (EarthBound)
+  - Poo (EarthBound)
+  - Trolls' Meteor
 Duration: 3:18
 URLs:
 - https://homestuck.bandcamp.com/track/phrenic-phever-2
@@ -828,8 +882,11 @@ Referenced Tracks:
 Track: 3 In The Morning (Pianokind)
 Artists:
 - Erik Scheele
-Art Tags:
-- Snowman
+Track Artwork:
+- Origin Details: >-
+    From [page 2555](https://homestuck.com/story/2555)
+  Tags:
+  - Snowman
 Duration: 4:13
 URLs:
 - https://homestuck.bandcamp.com/track/3-in-the-morning-pianokind-2
@@ -861,11 +918,14 @@ Commentary: |-
 Track: A Tender Moment
 Artists:
 - Toby Fox
-Art Tags:
-- Jade
-- Jadesprite
-- Fenestrology
-- Jade's home
+Track Artwork:
+- Origin Details: >-
+    From [page 3243](https://homestuck.com/story/3243)
+  Tags:
+  - Jade
+  - Jadesprite
+  - Fenestrology
+  - Jade's home
 Duration: 2:17
 URLs:
 - https://homestuck.bandcamp.com/track/a-tender-moment-2
@@ -880,8 +940,11 @@ MIDI Project Files:
 Track: Crystalanthology
 Artists:
 - Solatrus
-Art Tags:
-- Vriska
+Track Artwork:
+- Origin Details: >-
+    From [page 3130](https://homestuck.com/story/3130)
+  Tags:
+  - Vriska
 Duration: 4:44
 URLs:
 - https://homestuck.bandcamp.com/track/crystalanthology-2
