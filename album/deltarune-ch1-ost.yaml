@@ -1,6 +1,8 @@
 Album: DELTARUNE Chapter 1 OST
 Directory: deltarune-ch1-ost
-Directory Suffix: deltarune
+Suffix Track Directories: true
+Directory Suffix: ch1
+Always Reference Tracks By Directory: true
 Artists:
 - Toby Fox
 Date: November 1, 2018
@@ -26,38 +28,33 @@ Wallpaper Style: |-
 Wallpaper File Extension: png
 ---
 Track: ANOTHER HIM
+Main Release: ANOTHER HIM
 Duration: 0:48
 URLs:
 - https://tobyfox.bandcamp.com/track/another-him
 - https://www.youtube.com/watch?v=XEdoMoV4D6k
 - https://open.spotify.com/track/63K6koyn1kUIXj4soQ9wNl
-Referenced Tracks:
-- track:gasters-theme
 ---
 Track: Beginning
+Main Release: track:beginning-deltarune
 Suffix Directory: true
 Duration: 0:57
 URLs:
 - https://tobyfox.bandcamp.com/track/beginning
 - https://www.youtube.com/watch?v=NlrYJXWF-yQ
 - https://open.spotify.com/track/5NiD264RGry4WmWRRAZ0uN
-Referenced Tracks:
-- Game Main Theme (Piano Sketch)
-- Once Upon a Time
 ---
 Track: School
+Main Release: track:school-deltarune
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 1:20
 URLs:
 - https://tobyfox.bandcamp.com/track/school
 - https://www.youtube.com/watch?v=xbUi1uDwPAY
 - https://open.spotify.com/track/1xIYcuzRrYEfMkh7CjSKoF
-Referenced Tracks:
-- Game Main Theme (Piano Sketch)
-- Snowdin Town
 ---
 Track: Susie
+Main Release: Susie
 Duration: 0:27
 URLs:
 - https://tobyfox.bandcamp.com/track/susie
@@ -65,17 +62,16 @@ URLs:
 - https://open.spotify.com/track/72tN7vUHvkke6lUwCb2lDy
 ---
 Track: The Door
+Main Release: The Door
 Duration: 0:41
 URLs:
 - https://tobyfox.bandcamp.com/track/the-door
 - https://www.youtube.com/watch?v=iJtIX0sQn0o
 - https://open.spotify.com/track/0r1IrLoXomZ3JFSd4Khp1h
-Referenced Tracks:
-- Nightmare Knight
 ---
 Track: Cliffs
+Main Release: track:cliffs-deltarune
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 0:35
 URLs:
 - https://tobyfox.bandcamp.com/track/cliffs
@@ -83,15 +79,15 @@ URLs:
 - https://open.spotify.com/track/5PiPRr9KGpqWW12Kwq3FsV
 ---
 Track: The Chase
+Main Release: The Chase
 Duration: 0:33
 URLs:
 - https://tobyfox.bandcamp.com/track/the-chase
 - https://www.youtube.com/watch?v=hWWVWfQW1H4
 - https://open.spotify.com/track/1PnxSUmMmpIDWWBhMEY56C
-Referenced Tracks:
-- The Door
 ---
 Track: The Legend
+Main Release: The Legend
 Duration: 1:51
 URLs:
 - https://tobyfox.bandcamp.com/track/the-legend
@@ -99,6 +95,7 @@ URLs:
 - https://open.spotify.com/track/1ZA8wuVp91YbS1uif1hyYR
 ---
 Track: Lancer
+Main Release: track:lancer-deltarune
 Suffix Directory: true
 Duration: 0:48
 URLs:
@@ -107,73 +104,64 @@ URLs:
 - https://open.spotify.com/track/2uE9ZTSf2wJINqCHOrV6a0
 ---
 Track: Rude Buster
+Main Release: Rude Buster
 Duration: 1:15
 URLs:
 - https://tobyfox.bandcamp.com/track/rude-buster
 - https://www.youtube.com/watch?v=GPL5Hkl11IQ
 - https://open.spotify.com/track/322mgWaD4DetiHmoDVlwWc
-Referenced Tracks:
-- Determination
 ---
 Track: Empty Town
+Main Release: Empty Town
 Duration: 1:23
 URLs:
 - https://tobyfox.bandcamp.com/track/empty-town
 - https://www.youtube.com/watch?v=p8jCS2nSMmI
 - https://open.spotify.com/track/6Z9eoMfegGE6pQc9Toawnd
-Referenced Tracks:
-- The Legend
 ---
 Track: Weird Birds
+Main Release: Weird Birds
 Duration: 0:16
 URLs:
 - https://tobyfox.bandcamp.com/track/weird-birds
 - https://www.youtube.com/watch?v=YPLn6R2T5Qw
 - https://open.spotify.com/track/3XFaNF6EbDJdSr3InmAxJO
-Referenced Tracks:
-- One Fateful Night
 ---
 Track: Field of Hopes and Dreams
+Main Release: Field of Hopes and Dreams
 Duration: 2:41
 URLs:
 - https://tobyfox.bandcamp.com/track/field-of-hopes-and-dreams
 - https://www.youtube.com/watch?v=ymNgfwgh1TU
 - https://open.spotify.com/track/2W90IO8eRnFg1qsPunKm9B
-Referenced Tracks:
-- Game Main Theme (Piano Sketch)
 ---
-Track: Fanfare
-Suffix Directory: true
+Track: Fanfare (from Rose of Winter)
+Main Release: Fanfare (from Rose of Winter)
 Duration: 0:15
 URLs:
 - https://tobyfox.bandcamp.com/track/fanfare-from-rose-of-winter
 - https://www.youtube.com/watch?v=OmMdXpuscRY
 - https://open.spotify.com/track/1r3DdJ79HTJ2V62OipRyoC
-Sampled Tracks:
-- track:theme-rose-of-winter
 ---
 Track: Lantern
+Main Release: track:lantern-deltarune
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 1:08
 URLs:
 - https://tobyfox.bandcamp.com/track/lantern
 - https://www.youtube.com/watch?v=5kJ4JJSsJMQ
 - https://open.spotify.com/track/0fBXFpNA9Movn5G2WHPgbM
-Referenced Tracks:
-- The Legend
-- Determination
 ---
 Track: I'm Very Bad
+Main Release: I'm Very Bad
 Duration: 0:13
 URLs:
 - https://tobyfox.bandcamp.com/track/im-very-bad
 - https://www.youtube.com/watch?v=_km4FuXOCbs
 - https://open.spotify.com/track/6actYECaeFH1vOyOUCvTT9
-Referenced Tracks:
-- track:lancer-deltarune
 ---
 Track: Checker Dance
+Main Release: Checker Dance
 Duration: 1:18
 URLs:
 - https://tobyfox.bandcamp.com/track/checker-dance
@@ -181,84 +169,72 @@ URLs:
 - https://open.spotify.com/track/6p3ckEGHB7tIiBmHLWZlVf
 ---
 Track: Quiet Autumn
+Main Release: Quiet Autumn
 Duration: 0:49
 URLs:
 - https://tobyfox.bandcamp.com/track/quiet-autumn
 - https://www.youtube.com/watch?v=SWAQzCNeGWg
 - https://open.spotify.com/track/6jNxEc8nmpFBj3Pje7BVbx
-Referenced Tracks:
-- Quiet Water
-- Scarlet Forest
 ---
 Track: Scarlet Forest
+Main Release: Scarlet Forest
 Duration: 2:08
 URLs:
 - https://tobyfox.bandcamp.com/track/scarlet-forest
 - https://www.youtube.com/watch?v=h2B5F8skpGE
 - https://open.spotify.com/track/4zLEqCe2KCWBJLKN3RyWAG
-Referenced Tracks:
-- Game Main Theme (Piano Sketch)
 ---
 Track: Thrash Machine
+Main Release: Thrash Machine
 Duration: 0:54
 URLs:
 - https://tobyfox.bandcamp.com/track/thrash-machine
 - https://www.youtube.com/watch?v=imH2hItIFlk
 - https://open.spotify.com/track/2gafFAtDIGgDQLiEpRokIx
-Referenced Tracks:
-- track:lancer-deltarune
 ---
 Track: Vs. Lancer
+Main Release: Vs. Lancer
 Duration: 0:42
 URLs:
 - https://tobyfox.bandcamp.com/track/vs-lancer
 - https://www.youtube.com/watch?v=Ce-gU8G6Vik
 - https://open.spotify.com/track/2LsYIw2gn24nkzgwA2g4gw
-Referenced Tracks:
-- track:lancer-deltarune
-- The Chase
 ---
 Track: Basement
+Main Release: track:basement-deltarune
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 0:27
 URLs:
 - https://tobyfox.bandcamp.com/track/basement
 - https://www.youtube.com/watch?v=Cnrvt1h5La4
 - https://open.spotify.com/track/1XfSpjUBuZwrNUDV8AbYpZ
-Referenced Tracks:
-- Card Castle
 ---
 Track: Imminent Death
+Main Release: Imminent Death
 Duration: 0:20
 URLs:
 - https://tobyfox.bandcamp.com/track/imminent-death
 - https://www.youtube.com/watch?v=Ud9mGWvkjJQ
 - https://open.spotify.com/track/1aSimBo97eJ6bHr5vrpoKd
-Referenced Tracks:
-- Your Best Nightmare
 ---
 Track: Vs. Susie
+Main Release: Vs. Susie
 Duration: 1:21
 URLs:
 - https://tobyfox.bandcamp.com/track/vs-susie
 - https://www.youtube.com/watch?v=cGuDpoJNImA
 - https://open.spotify.com/track/5ydKiJ69LWOzfSya9ojhE4
-Referenced Tracks:
-- Your Best Nightmare
-- Susie
 ---
 Track: Card Castle
+Main Release: Card Castle
 Duration: 1:01
 URLs:
 - https://tobyfox.bandcamp.com/track/card-castle
 - https://www.youtube.com/watch?v=tvjuTn9LZwY
 - https://open.spotify.com/track/6JuC5mhOzqPt8lEGfQJQ05
-Referenced Tracks:
-- track:lancer-deltarune
-- Once Upon a Time
 ---
 Track: Rouxls Kaard
+Main Release: Rouxls Kaard
 Duration: 0:19
 URLs:
 - https://tobyfox.bandcamp.com/track/rouxls-kaard
@@ -266,6 +242,7 @@ URLs:
 - https://open.spotify.com/track/6cQuiiADGJDs4H7SfIJdYF
 ---
 Track: April 2012
+Main Release: April 2012
 Duration: 0:20
 URLs:
 - https://tobyfox.bandcamp.com/track/april-2012
@@ -273,6 +250,7 @@ URLs:
 - https://open.spotify.com/track/0HuvIX3Jul87KRTOGpGr9P
 ---
 Track: Hip Shop
+Main Release: Hip Shop
 Duration: 0:39
 URLs:
 - https://tobyfox.bandcamp.com/track/hip-shop
@@ -280,8 +258,8 @@ URLs:
 - https://open.spotify.com/track/2ASkgao4Nv7FtY9AjASDNQ
 ---
 Track: Gallery
+Main Release: track:gallery-deltarune
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 0:12
 URLs:
 - https://tobyfox.bandcamp.com/track/gallery
@@ -289,121 +267,88 @@ URLs:
 - https://open.spotify.com/track/5zDC9xOmwH1yb7KttqbaDH
 ---
 Track: Chaos King
+Main Release: Chaos King
 Duration: 1:46
 URLs:
 - https://tobyfox.bandcamp.com/track/chaos-king
 - https://www.youtube.com/watch?v=tPwzoZ-e664
 - https://open.spotify.com/track/5Y8awVkb5cXvlDyH1kIXaN
-Referenced Tracks:
-- Card Castle
-- track:lancer-deltarune
-- The Legend
 ---
 Track: Darkness Falls
+Main Release: Darkness Falls
 Duration: 1:06
 URLs:
 - https://tobyfox.bandcamp.com/track/darkness-falls
 - https://www.youtube.com/watch?v=snyWVFZBFBM
 - https://open.spotify.com/track/1eodgnlUYiH3s0q99vk18p
-Referenced Tracks:
-- ANOTHER HIM
 ---
 Track: The Circus
+Main Release: The Circus
 Duration: 0:51
 URLs:
 - https://tobyfox.bandcamp.com/track/the-circus
 - https://www.youtube.com/watch?v=qCNztya--aw
 - https://open.spotify.com/track/1N2FBAFlTdHDCRUXq0XHPf
-Referenced Tracks:
-- The Legend
 ---
 Track: THE WORLD REVOLVING
+Main Release: THE WORLD REVOLVING
 Duration: 1:41
 URLs:
 - https://tobyfox.bandcamp.com/track/the-world-revolving
 - https://www.youtube.com/watch?v=Z01Tsgwe2dQ
 - https://open.spotify.com/track/5QBozbgRWIYDSriHCRTsXd
-Referenced Tracks:
-- The Door
-- Game Main Theme (Piano Sketch)
 ---
 Track: Friendship
+Main Release: track:friendship-deltarune
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 2:40
 URLs:
 - https://tobyfox.bandcamp.com/track/friendship
 - https://www.youtube.com/watch?v=RQQ14PKhcs8
 - https://open.spotify.com/track/2R6MB4GkUVnRwLN5VXHiDF
-Referenced Tracks:
-- Game Main Theme (Piano Sketch)
 ---
 Track: THE HOLY
+Main Release: THE HOLY
 Duration: 0:48
 URLs:
 - https://tobyfox.bandcamp.com/track/the-holy
 - https://www.youtube.com/watch?v=8-n6HhNO57E
 - https://open.spotify.com/track/2DORTEXJd9o5Gdhr57M5yC
-Referenced Tracks:
-- Determination
 ---
 Track: Your Power
+Main Release: Your Power
 Duration: 0:13
 URLs:
 - https://tobyfox.bandcamp.com/track/your-power
 - https://www.youtube.com/watch?v=YeU41eDS90A
 - https://open.spotify.com/track/4eLHWCv6pLrxvpKomdGx5w
-Referenced Tracks:
-- Game Main Theme (Piano Sketch)
 ---
 Track: A Town Called Hometown
+Main Release: A Town Called Hometown
 Duration: 1:53
 URLs:
 - https://tobyfox.bandcamp.com/track/a-town-called-hometown
 - https://www.youtube.com/watch?v=bYORCOOYc00
 - https://open.spotify.com/track/1He6isaU9SoB6GzIM2lx6Z
-Referenced Tracks:
-- The Legend
-- Game Main Theme (Piano Sketch)
-- Snowdin Town
 ---
 Track: You Can Always Come Home
+Main Release: You Can Always Come Home
 Duration: 1:40
 URLs:
 - https://tobyfox.bandcamp.com/track/you-can-always-come-home
 - https://www.youtube.com/watch?v=ntHQOPH7CaU
 - https://open.spotify.com/track/1pZrOGjhNld3S2QHdEt87N
-Referenced Tracks:
-- track:home-undertale
-- Once Upon a Time
-- Game Main Theme (Piano Sketch)
 ---
 Track: Don't Forget
-Artists:
-- Laura Shigihara
+Main Release: Don't Forget
 Duration: 0:51
 URLs:
 - https://tobyfox.bandcamp.com/track/dont-forget
 - https://www.youtube.com/watch?v=YLeid-bIRQA
 - https://open.spotify.com/track/7y6NbGuLZuNW0lVaPnYx22
-Referenced Tracks:
-- Game Main Theme (Piano Sketch)
-Lyrics: |-
-    When the light is running low
-    And the shadows start to grow
-    And the places that you know
-    Seem like fantasy
-
-    There's a light inside your soul
-    That's still shining in the cold
-    With the truth
-    The promise in our hearts
-
-    Don't forget
-    I'm with you in the dark
 ---
 Track: Before the Story
-Directory: before-the-story-ch1
+Suffix Directory: true
 Main Release: track:before-the-story
 Duration: 1:28
 URLs:
