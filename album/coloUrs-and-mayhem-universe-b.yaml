@@ -235,11 +235,19 @@ Color: '#5c66e8'
 URLs:
 - https://homestuck.bandcamp.com/track/blue-atom-2
 - https://youtu.be/QrB8PrwBIY0
-Cover Artists:
-- Petra K.
-Art Tags:
-- Jade
-- Frogs
+Track Artwork:
+- Artists:
+  - Petra K.
+  Tags:
+  - Jade
+  - Frogs
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 900x696
+  Date: March 2, 2012
+  Source: >-
+    [Tumblr](https://sigimigi.tumblr.com/post/18631349704/i-havent-done-a-decent-watercolor-painting-in)
 Referenced Tracks:
 - The Beginning of Something Really Excellent
 Sheet Music Files:
@@ -276,9 +284,7 @@ Commentary: |-
 
     *(Continued in [[track:cyan-beast]])*
 
-    <i>Petra K.:</i> (full-size artwork, [Tumblr](https://sigimigi.tumblr.com/post/18631349704/i-havent-done-a-decent-watercolor-painting-in), 3/2/2012)
-
-    <img src="media/misc/blue-atom-full.jpg" width="450">
+    <i>Petra K.:</i> ([Tumblr](https://sigimigi.tumblr.com/post/18631349704/i-havent-done-a-decent-watercolor-painting-in), 3/2/2012)
 
     I haven’t done a decent watercolor painting in years. THIS WAS SO MUCH FUN YOU HAVE NO IDEA!
 
@@ -354,13 +360,42 @@ Color: '#ff6ff2'
 URLs:
 - https://homestuck.bandcamp.com/track/pink-cat-2
 - https://youtu.be/mF7WdQcSkHI
-Cover Artists:
-- OhThatNK
-Cover Art File Extension: png
-Art Tags:
-- Roxy
-- Vodka Mutini
-- 'cw: alcohol'
+Track Artwork:
+- File Extension: png
+  Artists:
+  - OhThatNK
+  Tags:
+  - Roxy
+  - Vodka Mutini
+  - 'cw: alcohol'
+- Label: Full-size artwork
+  Directory: full
+  File Extension: png
+  Attach Above: true
+  Dimensions: 500x964
+  Date: January 19, 2012
+  Source: >-
+    [Tumblr](https://ohthatnk.tumblr.com/post/16135664428/what-a-classy-dame-u)
+- Label: Alternate full-size art
+  Directory: full-alternate
+  File Extension: png
+  Attach Above: true
+  Dimensions: 600x990
+  Source: >-
+    [Tumblr](https://ohthatnk.tumblr.com/post/98954374276/its-a-little-easier-to-set-these-two-side-by-side)
+- Label: Redraw
+  Directory: '2014'
+  File Extension: png
+  Dimensions: 700x990
+  Date: October 1, 2014
+  Artists:
+  - OhThatNK
+  Tags:
+  - Roxy
+  - Vodka Mutiny
+  - 'cw: alcohol'
+  Source: >-
+    [Tumblr](https://ohthatnk.tumblr.com/post/98935131271/so-like-a-couple-of-years-ago-some-homestuck)
 Referenced Tracks:
 - Chorale for Jaspers
 - Aggrieve
@@ -392,15 +427,11 @@ Commentary: |-
 
     Wow I did not expect to type this much. Anyway this song was a blast to make and even if it's not accepted, I still learned a whole lot! I hope you all enjoy listening to it as much as I enjoyed making it!
 
-    <i>OhThatNK:</i> (full-size artwork, [Tumblr](https://ohthatnk.tumblr.com/post/16135664428/what-a-classy-dame-u), 1/19/2012)
-
-    <img src="media/misc/pink-cat-full-original.png" width="225" warning="alcohol">
+    <i>OhThatNK:</i> ([Tumblr](https://ohthatnk.tumblr.com/post/16135664428/what-a-classy-dame-u), 1/19/2012)
 
     What a classy dame.  * u *
 
-    <i>OhThatNK:</i> (artwork redraw, [Tumblr](https://ohthatnk.tumblr.com/post/98935131271/so-like-a-couple-of-years-ago-some-homestuck), 10/1/2014)
-
-    <img src="media/misc/pink-cat-2014.png" width="225" warning="alcohol">
+    <i>OhThatNK:</i> ([Tumblr](https://ohthatnk.tumblr.com/post/98935131271/so-like-a-couple-of-years-ago-some-homestuck), 10/1/2014)
 
     SO LIKE a couple of years ago some Homestuck drawings I'd done were used as album art which is still preeetty cool for me.
 
@@ -408,11 +439,11 @@ Commentary: |-
 
     So I felt like redrawing it. And now I'm happy.
 
-    <i>OhThatNK:</i> (redraw comparison, [Tumblr](https://ohthatnk.tumblr.com/post/98954374276/its-a-little-easier-to-set-these-two-side-by-side), 10/1/2014)
+    <i>OhThatNK:</i> ([Tumblr](https://ohthatnk.tumblr.com/post/98954374276/its-a-little-easier-to-set-these-two-side-by-side), 10/1/2014)
 
     It's a little easier to set these two side by side for comparison, haha.
 
-    [[media:misc/pink-cat-full-adjusted.png|To the left]] is from 2012 (I moved bits around to fit the dimensions for the album), [[media:misc/pink-cat-2014.png|and then]]... yeah 2014.
+    [[media:album-art/coloUrs-and-mayhem-universe-b/pink-cat-full-alternate.png|To the left]] is from 2012 (I moved bits around to fit the dimensions for the album), [[media:misc/pink-cat-2014.png|and then]]... yeah 2014.
 
     <i>Quasar Nebula:</i> (wiki editor, 10/22/2024)
 
@@ -454,20 +485,11 @@ Track Artwork:
   - Lusii
   - Twin M9 Berettas
   - Pacific Island
-- Directory: deviantart
+- Label: Higher-res cut
+  Directory: deviantart
   Attach Above: true
-  Label: >-
-    Higher-res cut
   Source: >-
     [DeviantArt](https://www.deviantart.com/hamsterparade/art/Hellmurder-Island-295783015)
-  Artists:
-  - HamsterParade
-  Tags:
-  - Jake
-  - Brobot
-  - Lusii
-  - Twin M9 Berettas
-  - Pacific Island
 Sheet Music Files:
 - Title: Sheet music by Phantasmicka
   Files:
@@ -549,10 +571,18 @@ URLs:
 - https://homestuck.bandcamp.com/track/squiddle-song-2
 - https://youtu.be/eWNMf4-ZMOQ
 - https://soundcloud.com/isthatwhatyoumint/squiddle-song
-Cover Artists:
-- Maya Kern
-Art Tags:
-- Squiddles
+Track Artwork:
+- Artists:
+  - Maya Kern
+  Tags:
+  - Squiddles
+- Label: Alternate art
+  Directory: alternate
+  File Extension: png
+  Attach Above: true
+  Date: January 5, 2012
+  Source: >-
+    [Tumblr](https://www.tumblr.com/mayakern/18598207373/isthatwhatyoumint-im-a-good-artist-okay-time)
 Lyrics: |-
     (<i>C G6 Am F</i>)
 
@@ -627,8 +657,6 @@ Commentary: |-
     i will be incredibly shocked if this makes it in hahaha
 
     <i>Maya Kern:</i> ([Tumblr](https://www.tumblr.com/mayakern/18598207373/isthatwhatyoumint-im-a-good-artist-okay-time), 3/2/2012)
-
-    <img src="media/misc/squiddle-song-tumblr.png" width="250">
 
     i’m a good artist
 
@@ -900,13 +928,21 @@ Duration: 5:42
 URLs:
 - https://homestuck.bandcamp.com/track/clockstopper-2
 - https://youtu.be/CO5IN60Nt9E
-Cover Artists:
-- Kurimja
-- len-yan (technical help)
-Art Tags:
-- Dave
-- Turntables
-- LoHaC
+Track Artwork:
+- Artists:
+  - Kurimja
+  - len-yan (technical help)
+  Tags:
+  - Dave
+  - Turntables
+  - LoHaC
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 810x1162
+  Date: November 26, 2011
+  Source: >-
+    [DeviantArt](https://www.deviantart.com/kurimja/art/HS-Land-of-Heat-and-Clockwork-270993514)
 Referenced Tracks:
 - Beatdown (Strider Style)
 - Atomyk Ebonpyre
@@ -955,7 +991,7 @@ Commentary: |-
 
     P.S.: There will be more Homestuck works to come. It is a thing that is definitely happening.
 
-    <i>Kurimja:</i> (full-size artwork, [DeviantArt](https://www.deviantart.com/kurimja/art/HS-Land-of-Heat-and-Clockwork-270993514), excerpt, 11/26/2011)
+    <i>Kurimja:</i> ([DeviantArt](https://www.deviantart.com/kurimja/art/HS-Land-of-Heat-and-Clockwork-270993514), excerpt, 11/26/2011)
 
     Alpha Dave in LoHaC ftw~
 
@@ -963,9 +999,7 @@ Commentary: |-
 
     Mm, done from scratch in Adobe PS CS4 with intuos3 tablet, scaled to 30% of the original size - some detail shots at 100% available [here](https://www.deviantart.com/kurimja/art/Details-of-Land-of-Heat-and-Clockwork-270994754).
 
-    <img src="media/misc/clockstopper-full.jpg" width="275">
-
-    <i>Kurimja:</i> (full-size artwork crops, [DeviantArt](https://www.deviantart.com/kurimja/art/Details-of-Land-of-Heat-and-Clockwork-270994754), 11/26/2011)
+    <i>Kurimja:</i> ([DeviantArt](https://www.deviantart.com/kurimja/art/Details-of-Land-of-Heat-and-Clockwork-270994754), 11/26/2011)
 
     Just a few sections from this piece, scaled at 100%. I'm quite fond of that eye;
 
@@ -978,12 +1012,20 @@ Duration: 2:45
 URLs:
 - https://homestuck.bandcamp.com/track/dapper-dueling-2
 - https://youtu.be/-bnKY83hEAc
-Cover Artists:
-- Soju
-Art Tags:
-- Jake
-- Riflekind
-- Lord English
+Track Artwork:
+- Artists:
+  - Soju
+  Tags:
+  - Jake
+  - Riflekind
+  - Lord English
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 2000x1414
+  Date: November 13, 2011
+  Source: >-
+    [DeviantArt](https://www.deviantart.com/shilloshilloh/art/Homestuck-Jake-English-268874606)
 Sheet Music Files:
 - Title: Rough sheet music
   Description: >-
@@ -1020,8 +1062,6 @@ Commentary: |-
     <i>Soju:</i> (track artist, [Tumblr](https://sojubrew.tumblr.com/post/12754503873) / [DeviantArt](https://www.deviantart.com/shilloshilloh/art/Homestuck-Jake-English-268874606), excerpt, 11/13/2011)
 
     Obligatory Jake art, 30 min doodle that I took too seriously ;7;
-
-    <img src="media/misc/dapper-dueling-full.jpg" width="375">
 ---
 Track: Checkmate
 Artists:
@@ -1030,20 +1070,24 @@ Duration: 2:42
 URLs:
 - https://homestuck.bandcamp.com/track/checkmate-2
 - https://youtu.be/Z6IMxFibTTQ
-Cover Artists:
-- Shad Andrews
-Cover Art File Extension: png
-Art Tags:
-- Jack Noir
-- Derse
+Track Artwork:
+- File Extension: png
+  Artists:
+  - Shad Andrews
+  Tags:
+  - Jack Noir
+  - Derse
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 675x1125
+  Date: August 7, 2011
 Commentary: |-
     <i>Shad Andrews:</i> ([Tumblr](https://whaoanon-old.tumblr.com/post/8585938298), 8/7/2011)
 
-    <img src="media/misc/checkmate-alt.jpg" width="275">
-
     *Long Live the Queen.*
 
-    <i>Shad Andrews:</i> ([Tumblr](https://whaoanon-old.tumblr.com/post/21014212039) re: final artwork, 4/13/2012)
+    <i>Shad Andrews:</i> ([Tumblr](https://whaoanon-old.tumblr.com/post/21014212039), 4/13/2012)
 
     (◡‿◡★) this was the album art, with a few edits colorwise and I think I fixed up some bits on Jack i don’t recall. And wow the background a good deal
 ---

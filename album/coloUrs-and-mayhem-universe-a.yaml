@@ -361,22 +361,28 @@ Color: '#008f48'
 URLs:
 - https://homestuck.bandcamp.com/track/jade-mother
 - https://youtu.be/OKQqQ3152QQ
-Cover Artists:
-- Zilon
-Cover Art File Extension: png
-Art Tags:
-- The Dolorosa
-- The Signless
-- Alternia
-- Green Moon
+Track Artwork:
+- File Extension: png
+  Artists:
+  - Zilon
+  Tags:
+  - The Dolorosa
+  - The Signless
+  - Alternia
+  - Green Moon
+- Label: Alternate art
+  Directory: alternate
+  File Extension: png
+  Attach Above: true
+  Date: March 3, 2012
+  Source: >-
+    [Tumblr](https://ra-khana.tumblr.com/post/18704692253)
 Commentary: |-
     <i>Nathan H.:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
     Inspiration for this piece came after listening to a segment of Hans Zimmer's "Attack" from the Pearl Harbor Soundtrack. I intended for the song to have a 'majestic' tone, but initially couldn't think of a character to set this theme to, so I chose the four beta kids. However, after being reassigned characters I think the piece fits equally well if not better with the Dolorosa.
 
     <i>Zilon:</i> ([Tumblr](https://notzilon.tumblr.com/post/18704601867), 03/03/2012)
-
-    <img src="media/misc/jade-mother-alt.png" width="350">
 
     My submission for the album art contest!! Finished super-late!! YEAH!!!!
 
@@ -387,9 +393,15 @@ Commentary: |-
 
     it's the Dolorosa.
 
+    <i>Zilon:</i> ([Tumblr edit](https://notzilon.tumblr.com/post/18704601867), around 3/3/2012)
+
     <b>EDIT:</b> LMAO WHOOPS in my relief and panic from finishing barely on time I realized I <i>uploaded the wrong one.</i> And also submitted the wrong one. Guess who has two thumbs and has a good chance of being disqualified!! (this guy.)
 
     At least the brighter version will be on my blog, I think this one looks more like light is actually shining through it.
+
+    <i>Quasar Nebula:</i> (wiki editor, 6/5/2025)
+
+    Zilon was not disqualified!! The artwork which was submitted first (labelled "alternate" here) is sourced from [a reblog](https://ra-khana.tumblr.com/post/18704692253) of the post above, made prior to the post's edit. The corrected artwork, with brighter colors, was used [by the time the album was released](https://web.archive.org/web/20120405161923/homestuck.bandcamp.com/track/jade-mother), about a month after Zilon's post.
 ---
 Track: Teal Hunter
 Additional Names:
@@ -401,11 +413,24 @@ Color: '#008b8b'
 URLs:
 - https://homestuck.bandcamp.com/track/teal-hunter
 - https://youtu.be/i_ehVzmj7dM
-Cover Artists:
-- Myotishi
-Art Tags:
-- Redglare
-- 'cw: hanging (abstract)'
+Track Artwork:
+- Artists:
+  - Myotishi
+  Tags:
+  - Redglare
+  - 'cw: hanging (abstract)'
+- Label: Full-size artwork
+  Directory: full
+  File Extension: png
+  Attach Above: true
+  Dimensions: 960x751
+  Date: July 10, 2011
+  Source: >-
+    [DeviantArt](https://www.deviantart.com/myotishi/art/Redglare-217647950)
+  Tags:
+  - Redglare
+  - Dragon Cane
+  - 'cw: hanging (abstract)'
 Commentary: |-
     <i>Willow Ascenzo:</i> ([Tumblr](https://mousegard.tumblr.com/post/26493013679/teal-hunter-commentary), 7/4/2012)
 
@@ -419,9 +444,11 @@ Commentary: |-
 
     Stay tuned for [[Rust Servant]] commentary on Friday!
 
-    <i>Myotishi:</i> (full-size artwork, [DeviantArt](https://www.deviantart.com/myotishi/art/Redglare-217647950), 7/10/2011)
+    <i>Myotishi:</i> ([Tumblr](https://web.archive.org/web/20120805062345/https://myotishi.tumblr.com/post/7451721805/drawn-in-livestream), 7/10/2011)
 
-    <img src="media/misc/teal-hunter-full.png" width="480" warning="hanging (abstract)">
+    drawn in livestream
+
+    <i>Myotishi:</i> ([DeviantArt](https://www.deviantart.com/myotishi/art/Redglare-217647950), 7/10/2011)
 
     my favorite ancestor
 ---
@@ -435,12 +462,16 @@ Color: '#3796c6'
 URLs:
 - https://homestuck.bandcamp.com/track/cobalt-corsair
 - https://youtu.be/FhFw9mhGf84
-Cover Artists:
-- Grue
-Cover Art File Extension: png
-Art Tags:
-- Mindfang
-- Dragon Cane
+Track Artwork:
+- File Extension: png
+  Artists:
+  - Grue
+  Tags:
+  - Mindfang
+  - Dragon Cane
+  - 'cw: blood'
+  Referenced Artworks:
+  - Teal Hunter
 Referenced Tracks:
 - Hallowed Halls
 MIDI Project Files:
@@ -476,6 +507,14 @@ Commentary: |-
     Now, as you can probably tell from listening, Cobalt Corsair is very dense texturally. To give you a visual idea, here's a post from a little while ago showing the layout of the sequencer. [It's big.](https://imbrog.tumblr.com/post/23713453688/did-i-ever-mention-just-how-long-cobalt-corsair)
 
     So, I've decided to chop the piece up in terms of the instrument groups, for anyone who wanted to understand what the hell is going on underneath all that sound.
+
+    <i>Grue:</i> ([Tumblr](https://cactuar.tumblr.com/post/18684747570/mindfang-to-sort-of-match-ishis-redglare), 3/3/2012)
+
+    mindfang to sort of match ishi's [[track:teal-hunter|redglare]]
+
+    <i>Quasar Nebula:</i> (wiki editor, 6/5/2025)
+
+    This track art (for that matter, like [[track:teal-hunter]]) also has a similar composition to the same artist's artwork for [[track:spider8ite]] from five months earlier.
 ---
 Track: Indigo Archer
 Additional Names:
@@ -793,12 +832,21 @@ Color: '#588a00'
 URLs:
 - https://homestuck.bandcamp.com/track/olive-rogue
 - https://youtu.be/L2BLUyv7UT0
-Cover Artists:
-- Grim Harlequin
-Cover Art File Extension: png
-Art Tags:
-- Nepeta
-- Karkat
+Track Artwork:
+- File Extension: png
+  Artists:
+  - Grim Harlequin
+  Tags:
+  - Nepeta
+  - Karkat
+- Directory: alternate
+  File Extension: png
+  Source: album download
+  Artists:
+  - Astrom
+  Tags:
+  - Nepeta
+  - Nepeta's lusus
 Sheet Music Files:
 - Title: Bass tabs by Dontrush
   Files:
@@ -810,9 +858,6 @@ MIDI Project Files:
 - Title: MIDI by cookiefonster
   Files:
   - 'Olive Rogue - cookiefonster.mid'
-Commentary: |-
-    <i>Astrom:</i> (alternate artwork)
-    <img src="media/misc/olive-rogue-bonus.png" width="300">
 ---
 Track: Jade Sylph
 Additional Names:
