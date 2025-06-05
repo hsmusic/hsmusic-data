@@ -237,10 +237,14 @@ Wallpaper Artists:
 - Sozzay
 Wallpaper Style: 'opacity: 0.65;'
 Additional Files:
-- Title: Album Booklet
+- Title: Album booklet
+  Description: >-
+    Credit and commentary booklet, included with the album download.
   Files:
   - LOFAM 4 Booklet.pdf
-- Title: Bonus Artwork (DLC)
+- Title: '"Art for the Project" bonus files'
+  Description: >-
+    DLC download from [hsfanmusic.skaia.net](https://hsfanmusic.skaia.net/lofam4.html) homepage, which includes all track art; selected below are just the ones in the "bonus" folder.
   Files:
   - '[Circlejourney] Bonus.png'
   - '[Circlejourney] Bonus 2.png'
@@ -250,7 +254,7 @@ Additional Files:
   - '[Shadok123] Bonus.png'
   - '[Trufflemeep] Bonus.png'
   - '[tti] Bonus.png'
-- Title: Bandcamp Banner and Background
+- Title: Bandcamp banner & background
   Files:
   - banner.png
   - bg.jpg
@@ -1040,12 +1044,24 @@ Duration: 3:43
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/aura-of-colour
 - https://youtu.be/rxiNzk64tSw
-Cover Artists:
-- insecureIllustrator
-Art Tags:
-- Rose
-- Turtles (consort)
-- LoLaR
+Track Artwork:
+- Artists:
+  - insecureIllustrator
+  Tags:
+  - Rose
+  - Turtles (consort)
+  - Cue Ball
+  - LoLaR
+- Directory: alternate
+  Label: Alternate art
+  Artists:
+  - insecureIllustrator
+  Source: >-
+    ["Art for the Project"](https://hsfanmusic.skaia.net/lofam4.html)
+  Tags:
+  - Rose
+  - Horrorterrors
+  - LoLaR
 Commentary: |-
     <i>olegoleg123:</i> (composer, booklet commentary)
 
@@ -1054,10 +1070,6 @@ Commentary: |-
     <i>keyboard cait:</i> (album team, booklet commentary)
 
     This art by insecureIllustrator was actually one of two made for this track! iI sent us both this version and a different one of Rose with just as much incredible detail, and allowed us to choose which one suited the track better. This version won out primarily due to fitting the bright tone of the song more, and the general feeling of an "aura of colour".
-
-    <i>insecureIllustrator:</i> (track artist, alternate artwork)
-
-    <img src="media/misc/aura-of-colour-bonus.png" width="300">
 ---
 Track: Beyond the Death of the King
 Artists:
@@ -1324,13 +1336,27 @@ Duration: 2:45
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/hiatus
 - https://youtu.be/kOKKXW4NsCs
-Cover Artists:
-- Trufflemeep
-Art Tags:
-- Gamzee
-- Terezi
-- 'cw: asphyxiation'
-- 'cw: blood'
+Track Artwork:
+- Artists:
+  - Trufflemeep
+  Tags:
+  - Gamzee
+  - Terezi
+  - 'cw: asphyxiation'
+  - 'cw: blood'
+- Directory: alternate
+  Label: Alternate art
+  Attach Above: true
+  Artists:
+  - Trufflemeep
+  Source: >-
+    ["Art for the Project"](https://hsfanmusic.skaia.net/lofam4.html)
+  Tags:
+  - Vriska
+  - Terezi
+  - Gamzee
+  - 'cw: asphyxiation'
+  - 'cw: blood'
 Referenced Tracks:
 - Upward Movement (Dave Owns)
 Commentary: |-
@@ -2798,16 +2824,44 @@ Duration: 6:33
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/crystalmethequins-broken-bad
 - https://youtu.be/dIfHLsPtDJE
-Cover Artists:
-- tti
-Art Tags:
-- Vriska
-- Aradia
-- 'cw: cops'
+Track Artwork:
+- Artists:
+  - tti
+  Tags:
+  - Vriska
+  - Aradia
+  - 'cw: cops'
+- Directory: alternate
+  Label: Alternate art
+  Attach Above: true
+  Source: >-
+    ["Art for the Project"](https://hsfanmusic.skaia.net/lofam4.html)
+- Directory: soundcloud
+  Label: Alternate art
+  Artists:
+  - Richard Gung
+  Tags:
+  - Vriska
+  - Aradia
+  Source: >-
+    [SoundCloud](https://soundcloud.com/astro_kid/crystalmethequins-broken-bad)
+  # refs by secondary artworks are broken in current wiki code
+  # Referenced Artworks:
+  # - Crystalmethequins
 Referenced Tracks:
 - Crystalmethequins
 Commentary: |-
-    <i>Riki Tsuji:</i> (composer, [Tumblr](https://dog-noise.tumblr.com/post/53629861790))
+    <i>tti:</i> (track artist, booklet commentary)
+
+    dont do drugs
+
+    <i>keyboard cait:</i> (album team, booklet commentary)
+
+    From the co-creator of smash hits Crystalmethequins and Beatup, and the composer of classics like Skaian Starstorm and Starblaze, comes an all-new drug fueled adventure!
+
+    (Note: Don't do drugs, kids. Note 2: Don't even THINK of doing meth, trust on this one, please. Note 3: This isn't actually all-new, it's been around since 2013, but BOY is it still a doozy. Note 4: This is a remix of a remix of a remix. Are you a bad enough dude (or any casual moniker of your choice) to continue the chain? Note 5: I've run out of ntoes, so I guess... enjoy the song?!?!?)
+
+    <i>Riki Tsuji:</i> (composer, [Tumblr](https://dog-noise.tumblr.com/post/53629861790), 6/22/2013)
 
     YO U HOMESTUX AINT READY 4 DEEZ DROPS DOE<br>
     THIS SOME REAL SHIT RITE HERE<br>
@@ -2820,20 +2874,17 @@ Commentary: |-
     BROKEN BAD<br>
     BY ASTRO KID<br>
     ([DOWNLOAD THIS SHIT](https://soundcloud.com/astro_kid/crystalmethequins-broken-bad))
+Crediting Sources: |-
+    <i>Riki Tsuji:</i> ([Tumblr](https://dog-noise.tumblr.com/post/53629861790), excerpt, 6/22/2013)
 
-    <i>Richard Gung:</i> (alternate artwork, for SoundCloud)
+    [...]<br>
+    UPDATED TRACKART BY [[artist:richard-gung|RICHARD GUNG]] AGAIN<br>
+    [...]
 
-    <img src="media/misc/crystalmethequins-broken-bad.png" width="300">
+    <i>Riki Tsuji:</i> ([SoundCloud description](https://soundcloud.com/astro_kid/crystalmethequins-broken-bad), excerpt, 6/22/2013)
 
-    <i>tti:</i> (track artist, booklet commentary)
-
-    dont do drugs
-
-    <i>keyboard cait:</i> (album team, booklet commentary)
-
-    From the co-creator of smash hits Crystalmethequins and Beatup, and the composer of classics like Skaian Starstorm and Starblaze, comes an all-new drug fueled adventure!
-
-    (Note: Don't do drugs, kids. Note 2: Don't even THINK of doing meth, trust on this one, please. Note 3: This isn't actually all-new, it's been around since 2013, but BOY is it still a doozy. Note 4: This is a remix of a remix of a remix. Are you a bad enough dude (or any casual moniker of your choice) to continue the chain? Note 5: I've run out of ntoes, so I guess... enjoy the song?!?!?)
+    a remix of [[track:crystalmethequins|Plazmataz – Crystalmethequins]]<br>
+    track art by [[artist:richard-gung|richard gung]]
 ---
 Track: Thyme on My Fries
 Suffix Directory: true
@@ -3236,10 +3287,19 @@ Duration: 4:10
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/juju-breaker
 - https://youtu.be/W46m0Qyes5g
-Cover Artists:
-- Griever
-Art Tags:
-- Crowbar
+Track Artwork:
+- Artists:
+  - Griever
+  Tags:
+  - Crowbar
+- Directory: alternate
+  Label: Alternate art
+  Attach Above: true
+  Source: >-
+    ["Art for the Project"](https://hsfanmusic.skaia.net/lofam4.html)
+  Tags:
+  - Crowbar
+  - 7 GRAND DAD (media)
 Referenced Tracks:
 - Purple Bard
 - Sburban Jungle
