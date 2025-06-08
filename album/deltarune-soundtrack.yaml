@@ -17,7 +17,7 @@ Groups:
 ---
 Section: 'Chapter 1: The Beginning'
 Start Counting From: 1
-Color: '#00e4fe'
+Color: '#D535D9'
 ---
 Track: ANOTHER HIM
 Duration: 0:48
@@ -412,7 +412,7 @@ URLs:
 ---
 Section: "Chapter 2: A Cyber's World"
 Start Counting From: 1
-Color: '#f1b95d'
+Color: '#42FCFF'
 ---
 Track: Faint Glow
 Duration: 1:17
@@ -901,6 +901,7 @@ URLs:
 ---
 Section: 'Chapter 3: Late Night'
 Start Counting From: 1
+Color: '#00C000'
 ---
 Track: Flashback (Excerpt)
 Duration: 0:32
@@ -911,6 +912,31 @@ Track: Feature Presentation
 Duration: 0:42
 URLs:
 - https://tobyfox.bandcamp.com/track/feature-presentation
+Lyrics: |-
+    <i>Toby Fox:</i> (original lyrics)
+    It's now time for our feature presentation
+
+    Feacher
+
+    Coming straight from your house
+    Coming straight from YOUR house
+
+    COMING
+
+    He's the One
+    COMING
+
+    The king of only
+
+    He's GROOVY and NEVER glooby!
+    You can't get this from an EGG!
+
+    The sensation of your screen
+    The show that makes you scream
+
+    Say it with him, folks!
+
+    Mr. (Ant) Tenna's TV TIME!!!
 ---
 Track: And Now For Today’s Sponsors…!
 Duration: 0:31
@@ -928,6 +954,8 @@ URLs:
 - https://tobyfox.bandcamp.com/track/sandy-board
 ---
 Track: Adventure Board
+Contributors:
+- Marcy Nabors (MIDI cleanup)
 Duration: 0:59
 URLs:
 - https://tobyfox.bandcamp.com/track/adventure-board
@@ -998,6 +1026,8 @@ URLs:
 - https://tobyfox.bandcamp.com/track/sound-check
 ---
 Track: Raise Up Your Bat
+Contributors:
+- Marcy Nabors (MIDI cleanup)
 Duration: 2:13
 URLs:
 - https://tobyfox.bandcamp.com/track/raise-up-your-bat
@@ -1156,6 +1186,7 @@ Duration: 0:16
 ---
 Section: 'Chapter 4: Prophecy'
 Start Counting From: 1
+Color: '#003CFF'
 ---
 Track: Old wooden rafters
 Duration: 1:38
@@ -1188,6 +1219,8 @@ Referenced Tracks:
 - My Funky Town
 ---
 Track: Knock You Down!! (Rhythm Ver.)
+Contributors:
+- Marcy Nabors (MIDI cleanup)
 Duration: 2:17
 URLs:
 - https://tobyfox.bandcamp.com/track/knock-you-down-rhythm-ver
