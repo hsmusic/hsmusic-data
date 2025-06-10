@@ -68,12 +68,14 @@ Content: |-
     - changed a bunch of entries under "crediting sources" to be shown as "referencing sources" instead, occasionally trimming or rearranging some excerpts to be more focused (thanks, Tangle!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
+    - fixed [[track:white]] not referencing [[track:skies-of-skaia]] (thanks, HunZhen!)
     - fixed [[track:scratch]] referencing [[track:the-final-battle]] ([[album:super-smash-bros-ultimate]]) instead of [[track:the-final-battle-super-mario-64]] (thanks, Lilith!)
     - fixed [[track:mx-misery]] referencing [[track:heat]] ([[album:medium]]) instead of [[track:heat-brock-hampton]] ([[artist:brockhampton]]; thanks, Lan!)
     - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
     - fixed [[track:ikari-instrumental]] not referencing [[track:ikari]] (vocal version; thanks, Lilith!)
     - fixed [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] not referencing [[track:penumbra-phantasm]] (thanks, ruby, Makin, Jebb, Interrobang, Witch's Cadence, Monckat, Red Rax, Rainy, Meulanie, Jackie, Lan!)
     - fixed [[track:old-secret]] artwork ([[album:hiveswap-friendsim]]) not referencing [[album:hiveswap-act-1-ost]] album cover (thanks, Jackie!)
+    - added various referencing sources to [[track:dissension-remix]], [[track:white]], [[track:octoroon-rangoon]], [[track:clockwork-sorrow]], [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] (thanks, Lan!)
     <!-- name fixes (subsections) -->
     - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
         - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
@@ -94,6 +96,7 @@ Content: |-
     - added [[tag:freshjamz]] tag to [[track:showtime-remix]], [[track:aggrieve-remix]], [[track:verdancy-bassline]], and [[track:potential-verdancy]] (thanks, Lilith!)
     - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer-press-play]] ([[album:s-press-play]]), and [[track:urban-jungle]] (thanks, Lan!)
     <!-- commentary fixes -->
+    - fixed misplaced anthology art commentary for [[track:pumpkin-cravings]] (was placed on [[track:welcome-to-the-new-extreme]]; thanks, HunZhen, Amberlina!)
     - fixed Bandcamp credits blurb for [[album:jailbreak-vol-1]] listing [[artist:cadalyst]] instead of [[artist:rebecca-harding]] (thanks, Lilith!)
     - fixed some sneaky capitalization errors where the name of the track on the wiki was used, instead of the capitalization written in source commentary, in [[track:dance-stab-dance]], [[track:a-life-worth-living]], and [[track:cinders-oceanfalls]] (thanks, Lan!)
     - made a handful of formatting or transcription tweaks across YouTube video commentary for [[album:of-troles-and-chiptumes]] (thanks, cookiefonster!)
