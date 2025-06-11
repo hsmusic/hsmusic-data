@@ -50,7 +50,10 @@ Content: |-
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
     <h3>album additions</h3>
-    - added newsletter clippings from [[group:undertale-and-deltarune]]: (thanks, ruby, Lan!)
+    - added latest releases from [[group:undertale-and-deltarune]]! (thanks, ruby!)
+        - added [[album:deltarune-soundtrack]]!
+        - added [[album:deltarune-ch3-4-ost]]!
+    - added newsletter clippings from [[group:undertale-and-deltarune]]! (thanks, ruby, Lan!)
         - added [[album:deltarune-ch3-status-update]]!
         - added [[album:deltarune-ch2-rejected-tracks]]!
     - added [[album:some-artifacts-may-occur]] by [[artist:shinokabe]] (thanks, Lilith, Lan!)
@@ -71,6 +74,8 @@ Content: |-
     - replaced YouTube listening link for [[track:danger-on-the-dance-floor-mid-boss]] with official upload (thanks, ruby!)
     <h3>data changes</h3>
     - changed a bunch of entries under "crediting sources" to be shown as "referencing sources" instead, occasionally trimming or rearranging some excerpts to be more focused (thanks, Tangle!)
+    - marked tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] as secondary releases, with main releases now on [[album:deltarune-soundtrack]] (thanks, ruby!)
+    - revised colors of [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] (thanks, ruby, Cello, Jebb!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
     - fixed [[track:white]] not referencing [[track:skies-of-skaia]] (thanks, HunZhen!)
@@ -121,6 +126,7 @@ Content: |-
     - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
+    - changed directories of all tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] to be suffixed `-ch1` and `-ch2` respectively; previous directories now used across [[album:deltarune-soundtrack]]
     - changed directory of [[track:death-mountain-theme]] from `death-mountain-the-legend-of-zelda` to `death-mountain-theme`
     - changed directory of [[track:ending-theme-the-legend-of-zelda]] from `ending-the-legend-of-zelda` to `ending-theme-the-legend-of-zelda`
     - changed directory of [[track:ganon-is-defeated]] from `ganon-appear-defeat-fanfare` to `ganon-is-defeated`
