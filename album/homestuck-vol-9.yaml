@@ -974,12 +974,17 @@ Duration: 2:39
 URLs:
 - https://homestuck.bandcamp.com/track/elephant-gun-2
 - https://youtu.be/60Qjl1iyZ4U
-Cover Artists:
-- 8bitkitten
-Art Tags:
-- Jake
-- Tavros' lusus
-- Blunderbuss
+Track Artwork:
+- Artists:
+  - 8bitkitten
+  Tags:
+  - Jake
+  - Tavros' lusus
+  - Blunderbuss
+- Label: Alternate artwork
+  Directory: alternate
+  Attach Above: true
+  Source: album download
 Commentary: |-
     <i>Michael Guy Bowman:</i> (composer, [Tumblr](https://web.archive.org/web/20181217214959/http://iambowman.tumblr.com/post/25321675570/everything-you-ever-wanted-to-know-about-elephant), excerpt, 6/17/2012)
 
@@ -997,13 +1002,11 @@ Commentary: |-
 
     Elephant Gun, I think that one was a bit Frank Zappa influenced. I like the weird breakdown on it that's jumping around. I think if I were playing a game and I had to do a little battle, and (gesturing) press my buttons and pick my attacks while that was playing, I would be pretty hype, and not get, like, bored and driven crazy, the way that sometimes you can be in an RPG.
 
-    <i>8bitkitten:</i> (alternate artwork, [Tumblr](https://kitten-burrito.tumblr.com/post/24979824333), 6/12/2012)
-
-    <img src="media/misc/elephant-gun-bonus.png" width="300">
+    <i>8bitkitten:</i> ([Tumblr](https://kitten-burrito.tumblr.com/post/24979824333), 6/12/2012)
 
     After listening to this energetic strife theme, I imagined Jake English is hunting down a pesky Tinkerbull. &gt;:3
 
-    <i>8bitkitten:</i> (alternate artwork, [Tumblr](https://kitten-burrito.tumblr.com/post/24982629793), 6/12/2012)
+    <i>8bitkitten:</i> ([Tumblr](https://kitten-burrito.tumblr.com/post/24982629793), 6/12/2012)
 
     <b>Elephant Gun post edit</b>
 
@@ -1342,11 +1345,27 @@ Duration: 3:51
 URLs:
 - https://homestuck.bandcamp.com/track/lancer-2
 - https://youtu.be/C1L6GAcqAVE
-Cover Artists:
-- clorinspats
-Art Tags:
-- DD
-- Cello
+Track Artwork:
+- Artists:
+  - clorinspats
+  Tags:
+  - DD
+  - Cello
+- Label: Alternate artwork
+  Directory: alternate1
+  Attach Above: true
+  Source: >-
+    wiki communications over email
+  Origin Details: >-
+    <code class="filename">droogtrackartfiltersgrayscale.png</code>
+- Label: Alternate artwork
+  Directory: alternate2
+  File Extension: jpg
+  Attach Above: true
+  Source: >-
+    wiki communications over email
+  Origin Details: >-
+    <code class="filename">droogsolotrackartorig.jpg</code>
 Sheet Music Files:
 - Title: Sheet music by asmolfirefly
   Files:
@@ -1365,10 +1384,6 @@ Commentary: |-
     <i>clorinspats:</i> (wiki communications over email, excerpt, 1/18/2024)
 
     Honestly I'm super stoked that someone still remembers I did the art for these two tracks! You're very lucky, I do actually have the alternates around still, and I've attached them here. One is a high contrast black and white option I gave to Clark and the other is a softer version, so she'd have the choice of the lot.
-
-    <img src="media/misc/droogtrackartfiltersgrayscale.png" width="300">
-
-    <img src="media/misc/droogsolotrackartorig.jpg" width="300">
 
     I'm really happy you enjoyed my art from back then, it really does make me smile. I did dig around to double check to see if I had the alternates for [[Serenade]] as well still, but unfortunately those ones were lost. All of these are actually at original size of 1000x1000px (bad form back then, I know!), so these are about as high-res as they get.
 
@@ -1848,11 +1863,30 @@ Duration: 5:08
 URLs:
 - https://homestuck.bandcamp.com/track/noirscape-2
 - https://youtu.be/dG5BjK4194A
-Cover Artists:
-- Kendle Iulus
-Art Tags:
-- Jack Noir
-- 'cw: blood'
+Track Artwork:
+- Artists:
+  - Kendle Iulus
+  Tags:
+  - Jack Noir
+  - 'cw: blood'
+- Label: Reversed artwork
+  Directory: reverse
+  Attach Above: true
+  Source: >-
+    [Tumblr](https://tzepesh.tumblr.com/post/24963148538/album-art-for-noirscape-which-you-can-listen-to)
+- Label: Alternate artwork
+  Directory: alternate
+  Artists:
+  - straightfacedgriff
+  Tags:
+  - Jack Noir
+  - Carapacians
+  - Prospit
+  - 'cw: blood'
+  Source: >-
+    [LOFAM2 "Art for the Project"](https://hsfanmusic.skaia.net/lofam2.html)
+  Origin Details:
+    Created while this track was slated for [[album:lofam2]]
 Referenced Tracks:
 - Liquid Negrocity
 - Crystalanthemums
@@ -1897,17 +1931,11 @@ Commentary: |-
 
     After I posted Noirscape it got added to the tracklist for [[album:lofam2|LOFAM2]] and [[artist:straightfacedgriff|straightfacedgriff]] had actually started doing art for it before I had the chance to quietly let them know that it wasn't going to be on the album. The art pretty much sums up the scene the music was meant to be describing at the start though (assuming jack has a few more knives up his sleeve for the other guards) so I thought I'd include it here.
 
-    <i>straightfacedgriff:</i> (alternate artwork, for [[album:lofam2]])
-
-    <img src="media/misc/noirscape.png" width="300" warning="blood">
-
     <i>Kendle Iulus:</i> ([Tumblr](https://tzepesh.tumblr.com/post/24963148538/album-art-for-noirscape-which-you-can-listen-to), 6/12/2012)
 
     album art for noirscape, which you can listen to [here](https://homestuck.bandcamp.com/track/noirscape-2)
 
     here is the reversed side
-
-    <img src="media/misc/noirscape-reverse.png" width="300" warning="blood">
 ---
 Track: Dogfight
 Artists:
