@@ -1708,12 +1708,24 @@ Duration: 2:28
 URLs:
 - https://homestuck.bandcamp.com/track/candles-and-clockwork-alpha-version-2
 - https://youtu.be/0aPJVZMW4xI
-Cover Artists:
-- Worthikids
-Cover Art File Extension: jpg
-Art Tags:
-- Dave
-- LoHaC
+Track Artwork:
+- Artists:
+  - Worthikids
+  Art Tags:
+  - Dave
+  - LoHaC
+- Label: Higher-res cut
+  Directory: tumblr
+  File Extension: jpg
+  Attach Above: true
+  Source: >-
+    [Tumblr](https://worthikids.tumblr.com/post/22111816772/i-wanted-to-make-something-for-candles-and)
+- Label: Alternate artwork
+  Directory: alternate
+  File Extension: gif
+  Attach Above: true
+  Source: >-
+    [Tumblr](https://worthikids.tumblr.com/post/22141399172/messy-gif-version-the-texture-doesnt-loop)
 Referenced Tracks:
 - Candles and Clockwork
 Sheet Music Files:
@@ -1772,9 +1784,7 @@ Commentary: |-
 
     <small>#HEAVY BURN FILTER</small>
 
-    <i>Worthikids:</i> (alternate artwork, [Tumblr](https://worthikids.tumblr.com/post/22141399172/messy-gif-version-the-texture-doesnt-loop), 4/30/2012)
-
-    <img src="media/misc/candles-and-clockwork-alpha-version-bonus.gif" width="300">
+    <i>Worthikids:</i> ([Tumblr](https://worthikids.tumblr.com/post/22141399172/messy-gif-version-the-texture-doesnt-loop), 4/30/2012)
 
     Messy gif version.
 
@@ -1787,12 +1797,6 @@ Commentary: |-
     Also a bunch of the gears spin in the wrong direction. > n >
 
     <small>#no intention of fixing</small>
-
-    <i>Quasar Nebula:</i> (wiki editor, 3/10/2024)
-
-    There are two "HQ" versions of this track's artwork. The one used as the main cover art is the version posted on Tumblr, which is 800x800 (possibly source resolution), but has JPEG artefacting. Below is the 500x500 artwork used on Bandcamp, which is a clean PNG, but blurs some details (due to downscaling).
-
-    <img src="media/misc/candles-and-clockwork-alpha-version-bandcamp.png" width="300">
 ---
 Track: Coursing
 Artists:
