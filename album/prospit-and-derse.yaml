@@ -99,11 +99,43 @@ Duration: 3:35
 URLs:
 - https://solatrus.bandcamp.com/track/hallowed-halls
 - https://youtu.be/ImNmotu8-pU
-Cover Artists:
-- Bea
-Cover Art File Extension: jpg
-Art Tags:
-- Prospit
+Track Artwork:
+- Artists:
+  - Bea
+  File Extension: jpg
+  Date: December 13, 2019
+  Source: >-
+    [composer's Bandcamp](https://solatrus.bandcamp.com/track/hallowed-halls)
+  Tags:
+  - Prospit
+- Label: Original artwork
+  Directory: original
+  Artists:
+  - Bea
+  Source: >-
+    [official Homestuck Bandcamp](https://web.archive.org/web/20140219020328/http://homestuck.bandcamp.com/track/hallowed-halls)
+  Tags:
+  - Carapacians
+  - John
+  - Jade
+  - Rabbit
+  - Prospit
+- Label: Alternate artwork
+  Directory: alternate1
+  File Extension: jpg
+  Attach Above: true
+  Date: August 19, 2012
+  Source: >-
+    [Tumblr](https://beesmygod.tumblr.com/post/29751107342/whatevr)
+- Label: Alternate artwork
+  Directory: alternate2
+  File Extension: jpg
+  Attach Above: true
+  Date: November 16, 2011
+  Source: >-
+    [Tumblr](https://beesmygod.tumblr.com/post/12870807529/ill-go-with-this-one-for-now-while-i-think-of-more)
+  Tags:
+  - Prospit
 Commentary: |-
     <i>Solatrus:</i> ("original", via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -137,27 +169,23 @@ Commentary: |-
 
     I have to say I'm pleased overall with this song, but, like any artist, it's difficult to look back at my works. They never seem completed. Especially the Prospit half for me.
 
-    <i>Bea:</i> (original track art)
+    <i>Bea:</i> ([Tumblr](https://beesmygod.tumblr.com/post/29751107342/whatevr), 8/19/2012)
 
-    <img src="media/misc/hallowed-halls-original.png" width="300">
+    <img src="media/album-art/prospit-and-derse/hallowed-halls-alternate1.jpg" width="175">
 
-    <i>Bea:</i> (alternate artworks, [Tumblr](https://beesmygod.tumblr.com/post/29751107342/whatevr), 8/19/2012)
-
-    <img src="media/misc/hallowed-halls-bonus1.jpg" width="300">
-
-    <img src="media/misc/hallowed-halls-bonus2.png" width="300">
+    <img src="media/album-art/prospit-and-derse/hallowed-halls-original.png" width="175">
 
     whatevr
 
-    <i>Bea:</i> (alternate artwork, [Tumblr](https://beesmygod.tumblr.com/post/12870807529/ill-go-with-this-one-for-now-while-i-think-of-more), 11/16/2011)
+    <i>Bea:</i> ([Tumblr](https://beesmygod.tumblr.com/post/12870807529/ill-go-with-this-one-for-now-while-i-think-of-more), 11/16/2011)
 
-    <img src="media/misc/hallowed-halls-bonus3.jpg" width="300">
+    <img src="media/album-art/prospit-and-derse/hallowed-halls-alternate2.jpg" width="225">
 
     ill go with this one for now while i think of more stuff to start putting in my portfolio
 
     <i>Bea:</i> ([Tumblr](https://beesmygod.tumblr.com/post/189639797200/in-2011-i-was-inexplicably-tapped-to-do-album-art), excerpt, 12/13/2019)
 
-    <img src="media/album-art/prospit-and-derse/hallowed-halls.jpg" width="300">
+    <img src="media/album-art/prospit-and-derse/hallowed-halls.jpg" width="225">
 
     in 2011 i was inexplicably tapped to do album art for a homestuck song and it was extremely terrible. i redrew it recently and i think its a nice improvement. the halls being empty fits with being the first, introductory song of the album. things are just beginning.
 ---
@@ -258,13 +286,19 @@ Duration: 3:37
 URLs:
 - https://solatrus.bandcamp.com/track/center-of-brilliance
 - https://youtu.be/514f8SzU62M
-Cover Artists:
-- Shelby Cragg
-Cover Art File Extension: jpg
-Art Tags:
-- John
-- Jade
-- Prospit
+Track Artwork:
+- Artists:
+  - Shelby Cragg
+  Tags:
+  - John
+  - Jade
+  - Prospit
+- Label: Higher-res cut
+  Directory: tumblr
+  File Extension: jpg
+  Attach Above: true
+  Source: >-
+    [Tumblr](https://whaoanon-old.tumblr.com/post/9269298819)
 Sheet Music Files:
 - Title: Sheet music by infinityMechanism
   Files:
@@ -300,12 +334,6 @@ Commentary: |-
     Yay, I finally get to post the art that I did for Solatrus’s awesome solo album, Prospit & Derse! Solatrus is a cool dude and you should all go buy the album RIGHT NOW!!
 
     This is on the track Center of Brilliance!
-
-    <i>Quasar Nebula:</i> (wiki editor, 1/15/2024)
-
-    There are two "HQ" versions of this track's artwork. The one used as the main cover art is the version posted on Tumblr, which is 998x998 (appears to be source resolution), but has some JPEG artefacting. Below is the 700x700 artwork used on Bandcamp, which is a clean PNG, but blurs some details (due to downscaling).
-
-    <img src="media/misc/center-of-brilliance-bandcamp.png" width="300">
 ---
 Section: Derse
 ---

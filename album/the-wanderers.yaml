@@ -352,12 +352,20 @@ Artists:
 Duration: 5:00
 URLs:
 - https://youtu.be/pDYCL68d3wI
-Cover Artists:
-- Raizor
-Art Tags:
-- WV
-- Jack Noir
-- Queen's Ring
+Track Artwork:
+- Artists:
+  - Raizor
+  Tags:
+  - WV
+  - Jack Noir
+  - Queen's Ring
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 1280x935
+  Date: June 27, 2011
+  Source: >-
+    [Tumblr](https://raizor-blog.tumblr.com/post/6984292673/redrew-an-idea-i-had-a-while-ago-except-way)
 Referenced Tracks:
 - track:ruins
 Commentary: |-
@@ -375,9 +383,7 @@ Commentary: |-
 
     The other is Ruins Rising, which is, again, another treatment of [[track:ruins|Ruins]] by Erik Scheele. This one, the guitar intro is kind of drawn from the Frippertronics technique of Robert Fripp, and, it actually features a lot of re-re-record scratches and cool textures that I hadn't really experimented with before. *(Caption: "God bless the fruity scratcher")*
 
-    <i>Raizor:</i> (full-size artwork, [Tumblr](https://raizor-blog.tumblr.com/post/6984292673/redrew-an-idea-i-had-a-while-ago-except-way), 06/27/2011)
-
-    <img src="media/misc/ruins-rising-full.png" width="320">
+    <i>Raizor:</i> ([Tumblr](https://raizor-blog.tumblr.com/post/6984292673/redrew-an-idea-i-had-a-while-ago-except-way), 6/27/2011)
 
     Redrew an idea I had a while ago, except way better and quicker and whatnot.
 ---
@@ -387,17 +393,42 @@ Artists:
 Duration: 2:46
 URLs:
 - https://youtu.be/qtt0o-v2yco
-Cover Artists:
-- Noot
-Art Tags:
-- WV
-- Serenity
-- Rag of Souls
-- 'cw: blood (abstract)'
+Track Artwork:
+- Artists:
+  - Noot
+  Tags:
+  - WV
+  - Jack Noir
+  - Serenity
+  - Rag of Souls
+  - 'cw: blood (abstract)'
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 1000x500
+  Date: June 30, 2011
+  Source: >-
+    [DeviantArt](https://www.deviantart.com/shikana/art/Dreams-of-red-and-sunder-215885568)
+  Tags:
+  - WV
+  - Jack Noir
+  - Serenity
+  - Rag of Souls
+  - Reckoning
+  - Prospit
+  - Battlefield
+  - Skyship Base
+  - 'cw: blood (abstract)'
 Lyrics: |-
     What a daring dream, to combine the finest qualities of humanity with the elegance and nobility of the animal kingdom. How you wish you could know their world. To hear one night those muted pawpads traipse up your stairs. A low but friendly growl unsettles your slumber, and as the sopor seeps from your eyes they detect a sharp pair of ears cutting moonlight. A mysterious wolven tongue invites. Wouldn't these ears suit you? Would not this proud long snout assist you in the hunt?
+
     What a daring dream...
-    (Just what do you think you're planning on doing with that ring?)<br>(Whatever it is forget it)<br>(The Slayer is miiiiiiiine)<br>(Now w8ke up)<br>(I said W88888888KE!)
+
+    (Just what do you think you're planning on doing with that ring?)
+    (Whatever it is forget it)
+    (The Slayer is miiiiiiiine)
+    (Now w8ke up)
+    (I said W88888888KE!)
 Commentary: |-
     <i>Alex Rosetti:</i> (composer, [Tumblr](https://albatrossthesoup.tumblr.com/post/25964085415/commentary-for-what-a-daring-dream), excerpt, 6/26/2012)
 
@@ -413,9 +444,7 @@ Commentary: |-
 
     Speaking of bonuses, [[artist:noot]] did the art we used for this track. It was one of a few pieces of track art that weren't commissioned. I happened to be looking around for artists and saw this, and I already knew it was perfect.
 
-    <i>Noot:</i> (full-size artwork, [DeviantArt](https://www.deviantart.com/shikana/art/Dreams-of-red-and-sunder-215885568), excerpt, 6/30/2011)
-
-    <img src="media/misc/what-a-daring-dream-full.png" width="500" warning="blood (abstract)">
+    <i>Noot:</i> ([DeviantArt](https://www.deviantart.com/shikana/art/Dreams-of-red-and-sunder-215885568), excerpt, 6/30/2011)
 
     <b>Dreams of red and sunder</b>
 

@@ -92,8 +92,9 @@ Content: |-
     <!-- new stuff & big miscellany -->
     - changed a bunch of entries under "crediting sources" to be shown as "referencing sources" instead, occasionally trimming or rearranging some excerpts to be more focused (thanks, Tangle!)
     - started using multiple artworks for a lot more tracks and albums, including:
-        - [[track:rumble-at-the-rink]], [[track:lets-all-rock-the-heist]], [[track:awakening]], [[track:wsw-beatdown]], [[track:sburban-reversal]], [[track:white-host-green-room]], [[track:bargaining-with-the-beast]], [[track:teal-hunter]], [[track:blue-atom]], [[track:pink-cat]], [[track:clockstopper]], [[track:dapper-dueling]], [[track:checkmate]], [[track:hate-you]], and [[track:austin-atlantis]] (full-size)
+        - [[track:rumble-at-the-rink]], [[track:lets-all-rock-the-heist]], [[track:awakening]], [[track:wsw-beatdown]], [[track:sburban-reversal]], [[track:white-host-green-room]], [[track:ruins-rising]], [[track:what-a-daring-dream]], [[track:bargaining-with-the-beast]], [[track:teal-hunter]], [[track:blue-atom]], [[track:pink-cat]], [[track:clockstopper]], [[track:dapper-dueling]], [[track:checkmate]], [[track:hate-you]], and [[track:austin-atlantis]] (full-size)
         - [[track:gamebro-original-1990-mix]], [[track:tribal-ebonpyre]], [[track:terezi-owns]], [[track:jade-mother]], [[track:olive-rogue]], [[track:squiddle-song]], [[track:elephant-gun]], [[track:lancer]], [[track:noirscape]], [[track:aura-of-colour-lofam4]], [[track:crystalmethequins-broken-bad]] (alternate)
+        - [[track:center-of-brilliance]] (higher-res cut)
         - [[track:candles-and-clockwork-alpha-version]] (alternate and higher-res cut)
         - [[track:white]], [[track:sarabande-vol5]], [[track:planet-healer]], [[track:bed-of-roses-dreams-of-derse]], and [[track:biophosphoradelecrystalluminescence]] (various full-size and alternate anthology fanart)
         - [[album:7th-gate-project]] (album cover via Skaianet Download DB)
@@ -101,6 +102,7 @@ Content: |-
         - [[track:all-that-matters]] and [[track:life-in-motion]] (alternate via album download)
         - [[track:wilted-petal]], [[track:burn-bright]], [[track:mind-over-chatter]], [[track:face-the-reaper-time-keeper]], [[track:battle-against-perfection]], and [[track:fundamentals-of-matter]] (placeholder)
     <!-- album presentational tweaks -->
+    - revised [[track:center-of-brilliance]] and [[track:candles-and-clockwork-alpha-version]] to present artwork assets from Bandcamp first, with alternatively sourced higher-res cuts as secondary artworks instead (thanks, Lan, Tangle!)
     - revised colors of [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] (thanks, ruby, Cello, Jebb!)
     <!-- miscellaneous preesntational changes -->
     - touched up commentary in [[album:7th-gate-project]]
@@ -138,10 +140,12 @@ Content: |-
     <!-- general data fixes -->
     - fixed date for [[flash:5027]] (was [[date:6/12/2012]], now [[date:6/5/2012]])
     <!-- art tag fixes -->
-    - added [[tag:music-note]] tag to [[track:ohgodwhat]], [[track:ohgodwhat-remix]], [[track:rediscover-fusion]], [[track:rediscover-fusion-remix]], and [[track:explore-remix]] (thanks, Jackie!)
+    - added [[tag:wv]] tag to [[track:explore]] (thanks, Meulanie!)
     - added [[tag:freshjamz]] tag to [[track:showtime-remix]], [[track:aggrieve-remix]], [[track:verdancy-bassline]], and [[track:potential-verdancy]] (thanks, Lilith!)
+    - added [[tag:music-note]] tag to [[track:ohgodwhat]], [[track:ohgodwhat-remix]], [[track:rediscover-fusion]], [[track:rediscover-fusion-remix]], and [[track:explore-remix]] (thanks, Jackie!)
     - fixed [[track:a-fairy-battle]] official artwork being tagged with [[tag:kanaya]] instead of [[tag:rose]] (thanks, Lilith!)
     - added [[tag:derse]] tag to [[track:at-the-price-of-oblivion]] (thanks, Meulanie, Lan!)
+    - added [[tag:jack-noir]] tag to [[track:what-a-daring-dream]] (thanks, Meulanie, Tangle!)
     - added [[tag:mind]] and [[tag:light]] tags to [[track:trial-and-execution]] (thanks, Makin!)
     - added [[tag:cue-ball]] tag to [[track:aura-of-colour-lofam4]] (thanks, FF!)
     - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer-press-play]] ([[album:s-press-play]]), and [[track:urban-jungle]] (thanks, Lan!)

@@ -335,14 +335,11 @@ Track Artwork:
   - Meenah
 - Label: Full-size artwork
   Directory: full
+  Attach Above: true
   Dimensions: 500x833
   Date: February 29, 2012
   Source: >-
     [Tumblr](https://ohthatnk.tumblr.com/post/18481788086/i-wasnt-gonna-draw-her-but-then-i-saw-arguments)
-  Artists:
-  - OhThatNK
-  Tags:
-  - Meenah
 Referenced Tracks:
 - Condescescion
 - Love You (Feferi's Theme)
@@ -707,13 +704,10 @@ Track Artwork:
 - Label: Full-size artwork
   Directory: full
   File Extension: jpg
+  Attach Above: true
   Dimensions: 960x600
   Source: >-
     [Tumblr](https://tynic.tumblr.com/post/24964072895/full-version-of-the-track-art-i-did-for-clark)
-  Artists:
-  - Nic Carey
-  Tags:
-  - Flooded Earth
 Referenced Tracks:
 - Beatdown (Strider Style)
 - Atomyk Ebonpyre
@@ -1711,7 +1705,7 @@ URLs:
 Track Artwork:
 - Artists:
   - Worthikids
-  Art Tags:
+  Tags:
   - Dave
   - LoHaC
 - Label: Higher-res cut
