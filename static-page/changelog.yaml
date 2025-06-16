@@ -129,6 +129,7 @@ Content: |-
     - fixed [[track:scratch]] referencing [[track:the-final-battle]] ([[album:super-smash-bros-ultimate]]) instead of [[track:the-final-battle-super-mario-64]] (thanks, Lilith!)
     - fixed [[track:earthsea-borealis]] not referencing [[track:double-midnight]] (thanks, Grace, Lilith!)
     - fixed [[track:a-common-occurrance-every-night-to-be-exact]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:rise-of-the-denizens]] not sampling [[track:upward-movement-dave-owns]] in addition to referencing it, and referencing [[track:cascade]] instead of sampling [[track:savior-of-the-dreaming-dead-cascade-cut]] (thanks, Makin, Lan!)
     - fixed [[track:bowstutzlogic]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:lore-2-the-revengning]] and [[track:savior-of-a-lot-of-money]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:secretz-barz]] not sampling [[track:your-bed]] (thanks, Lilith!)
@@ -147,6 +148,8 @@ Content: |-
     - fixed [[track:cobalt-corsair]] artwork not referencing [[track:teal-hunter]] artwork (thanks, Lan!)
     - fixed [[track:old-secret]] artwork ([[album:hiveswap-friendsim]]) not referencing [[album:hiveswap-act-1-ost]] album cover (thanks, Jackie!)
     - added various referencing sources to [[track:dissension-remix]], [[track:white]], [[track:octoroon-rangoon]], [[track:clockwork-sorrow]], [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] (thanks, Lan!)
+    <!-- merged artists -->
+    - fixed [[artist:domble]] having some credits under another name (thanks, Makin, Lan!)
     <!-- name fixes (subsections) -->
     - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
         - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
