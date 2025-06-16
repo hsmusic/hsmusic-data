@@ -43,6 +43,7 @@ Content: |-
         - wiki lyrics which include annotative text in [square brackets] now automatically draw attention there in a "Mind parts marked in..." line
         - totally custom details may be included on their own line, through an "origin details" field, similar as for artworks
     - added "referencing sources" section for track pages, which works the same as crediting sources, and includes citations or conversations which contextualize a track's listed references and samples
+    - annotated album and track listening links with "official release" and "composer's release" when the album is released on two separate Bandcamp pages/discographies
     - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
     - moved artist commentary for the current release (if it's a secondary release) above commentary for the main release, when both are preesnt, e.g. [[track:aura-of-colour-lofam4]], removed the box calling out commentary "specific to this release", and placed commentary brought over from the main release into its own visual area ([[media:misc/changelog/secrelease-commentary-placement-old.png|old]], [[media:misc/changelog/secrelease-commentary-placement-new.png|new]])
@@ -93,6 +94,7 @@ Content: |-
     <!-- additional file additions -->
     - added MIDI files by HunZhen to [[track:nightlife-extended]] and [[track:jades-lullaby]] (thanks, HunZhen, Lan!)
     <!-- link additions -->
+    - added official Bandcamp listening links for solo albums [[album:mobius-trip-and-hadron-kaleido]], [[album:sburb]], [[album:prospit-and-derse]], [[album:song-of-skaia]], [[album:one-year-older]], and [[album:genesis-frog]] (thanks, Lan!)
     - added Nintendo Music listening links to [[track:death-mountain-theme]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-over-the-legend-of-zelda]], [[track:ganon-is-defeated]], [[track:overworld-theme-the-legend-of-zelda]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
     - replaced YouTube listening link for [[track:danger-on-the-dance-floor-mid-boss]] with official upload (thanks, ruby!)
     <!-- citation additions -->
