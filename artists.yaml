@@ -3803,9 +3803,15 @@ Artist: DJMax
 Artist: Djo
 ---
 Artist: DJ最テー
+Directory: dj-sai-tae
 Aliases:
 - DJ Sai Tae
 - Andrew Tae
+- DJ # see below
+  # This one's annoying. The old page URL used to be /artist/dj/ because
+  # the directory was automatic, but that means this "alias" only exists
+  # to place a redirect there - dj -> dj-sai-tae - and doesn't serve the
+  # "main" purpose of aliases (fixing up old data or outdated credits).
 URLs:
 - https://soundcloud.com/djsaitae/
 ---
@@ -13661,7 +13667,7 @@ Context Notes: |-
     - [[artist:david-dycus]]
     - [[artist:willow-ascenzo]]
     - [[artist:catboss]]
-    - [[artist:dj]]
+    - [[artist:dj-sai-tae]]
     - [[artist:pixelseph]]
     - [[artist:ian-white]]
 ---
