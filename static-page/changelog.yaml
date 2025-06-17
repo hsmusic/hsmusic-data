@@ -119,6 +119,8 @@ Content: |-
     - touched up commentary in [[album:7th-gate-project]]
     <!-- tracks newly marked as a secondary release -->
     - marked tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] as secondary releases, with main releases now on [[album:deltarune-soundtrack]] (thanks, ruby!)
+    <!-- tracks moved within an album, etc -->
+    - moved [[track:bad-apple-lovelight]] ([[artist:masayoshi-minoshima]]) from "Music from video games" to "Other music originating outside Homestuck" (thanks, Lan, bit!)
     <!-- general removals -->
     - removed dead link in commentary for [[track:threxecute]] (thanks, Lilith!)
     - removed Bandcamp listening links across [[album:the-strider-mixtape]] (thanks, Geese, Lilith!)
@@ -189,6 +191,7 @@ Content: |-
     - fixed Bandcamp link in booklet commentary for [[track:dwelling-among-the-dream-bubbles]] (was to a functioning, but outdated, "the-divide-ep" URL; thanks, Lilith!)
     <!-- link fixes -->
     - fixed YouTube listening link for [[track:invincibility-bgm-smb]] (was to [SMB2 overworld theme](https://www.youtube.com/watch?v=yBISfv-6hfo); thanks, Lilith, Lan!)
+    - replaced dead YouTube listening links for [[track:bad-apple]] ([[artist:zun]]) and [[track:bad-apple-lovelight]] ([[artist:masayoshi-minoshima]]; thanks, Lan, bit, Cello!)
     - removed dead Bandcamp listening link for [[album:bl1nd-just1c3-1nv3st1g4t1on-soapstone]] (thanks, Lilith, Lan!)
     <!-- general data fixes -->
     - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
@@ -202,6 +205,7 @@ Content: |-
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
     - changed directories of all tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] to be suffixed `-ch1` and `-ch2` respectively; previous directories now used across [[album:deltarune-soundtrack]]
+    - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`
     - changed directory of [[track:death-mountain-theme]] from `death-mountain-the-legend-of-zelda` to `death-mountain-theme`
     - changed directory of [[track:ending-theme-the-legend-of-zelda]] from `ending-the-legend-of-zelda` to `ending-theme-the-legend-of-zelda`
     - changed directory of [[track:ganon-is-defeated]] from `ganon-appear-defeat-fanfare` to `ganon-is-defeated`
@@ -2031,7 +2035,7 @@ Content: |-
     - fixed [[track:fighting-spirit-double-ascended-form]] referencing itself and not [[track:fighting-spirit-second-form]] (thx, Pyryte!)
     - fixed [[track:multi-track-drifting-last-stop]] referencing tracks it only samples (thanks, Rosetta Leijonde!)
     - fixed [[track:24x-showdown-combo]] not sampling [[track:phat2]] (thanks, Rosetta Leijonde!)
-    - fixed [[track:the-tacocats-secret-slide]] not referencing [[track:inspector-gadget-main-theme]], [[track:moshi-moshi]], [[track:bad-apple-feat-nomico]], [[track:meet-the-flintstones]], and [[track:we-are-number-one]] (thanks, Rosetta Leijonde, vriska/leo!)
+    - fixed [[track:the-tacocats-secret-slide]] not referencing [[track:inspector-gadget-main-theme]], [[track:moshi-moshi]], [[track:bad-apple-lovelight]], [[track:meet-the-flintstones]], and [[track:we-are-number-one]] (thanks, Rosetta Leijonde, vriska/leo!)
     - fixed [[track:le-psyrival]] not sampling [[track:gentleman-psy]]
     - fixed [[track:hehehe-i-am-the-greatest-canrival-ripping-warria-in-the-galaxy]] not sampling [[track:the-greatest-warrior-in-the-galaxy-ever]] and not referencing [[track:the-greatest-warrior-in-the-galaxy]] (thanks, FF!)
     - fixed [[track:flickwave]] not sampling [[track:flicker-porter-robinson]] (thanks, Rosetta Leijonde!)
