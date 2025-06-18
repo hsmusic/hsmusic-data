@@ -156,6 +156,10 @@ Content: |-
     - fixed [[track:cobalt-corsair]] artwork not referencing [[track:teal-hunter]] artwork (thanks, Lan!)
     - fixed [[track:old-secret]] artwork ([[album:hiveswap-friendsim]]) not referencing [[album:hiveswap-act-1-ost]] album cover (thanks, Jackie!)
     - added various referencing sources to [[track:dissension-remix]], [[track:white]], [[track:octoroon-rangoon]], [[track:clockwork-sorrow]], [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] (thanks, Lan!)
+    <!-- crediting fixes -->
+    - fixed [[track:end-of-act]] not crediting [[artist:psithurist]] as part of the choir (thanks, Lan!)
+    - fixed [[track:bad-apple-lovelight]] not crediting [[artist:nomico]] as a featured artist, and not crediting [[artist:harukapakapa]] for lyrics (thanks, Lan!)
+    - fixed [[track:never-gonna-give-you-up]] crediting [[artist:stock-aitken-waterman]] as artist and [[artist:rick-astley]] as contributor, instead of the reverse (thanks, Lan!)
     <!-- merged artists -->
     - fixed [[artist:domble]] having some credits under another name (thanks, Makin, Lan!)
     <!-- name fixes (subsections) -->
@@ -395,8 +399,6 @@ Content: |-
         - added [[artist:mahito-yokota]] (recording management) contribution
         - added [[artist:noriko-sekiya]] (musician coordinator) contribution
     - fixed [[track:training-room-second-half]] co-crediting [[artist:shinobu-tanaka]] alongside [[artist:kazumi-totaka]] (thanks, ruby!)
-    - fixed [[track:bad-apple-lovelight]] not crediting [[artist:nomico]] as a featured artist, and not crediting [[artist:harukapakapa]] for lyrics (thanks, Lan!)
-    - fixed [[track:never-gonna-give-you-up]] crediting [[artist:stock-aitken-waterman]] as artist and [[artist:rick-astley]] as contributor, instead of the reverse (thanks, Lan!)
     <!-- name fixes (subsections, then single-lines) -->
     - fixed some tracks' names not aligning with Bandcamp releases: (thanks, Surge, Lan!)
         - fixed [[track:three-in-the-morning-kalis-2-in-the-am-pm-edit]] being named "Three in the Morning (Kali's 2 in the AM PM Edit)" (parentheses instead of square brackets)
