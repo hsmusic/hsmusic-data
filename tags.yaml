@@ -113,6 +113,7 @@ Direct Descendant Tags:
 - Aleph Null (media)
 - Alternian Misadventures (media)
 - Breadstuck (media)
+- Cheezquest (media)
 - Cool and New Web Comic (media)
 - Crossmound (media)
 - Crud Spade (media)
@@ -166,6 +167,11 @@ Direct Descendant Tags:
 - Characters from Breadstuck
 Extra Reading URLs:
 - https://mspfa.com/?s=20650&p=1
+---
+Tag: Cheezquest (media)
+Direct Descendant Tags:
+- Characters from Cheezquest
+- Locations from Cheezquest
 ---
 Tag: Cool and New Web Comic (media)
 Direct Descendant Tags:
@@ -865,6 +871,27 @@ Direct Descendant Tags:
 Tag: Characters from Breadstuck
 Direct Descendant Tags:
 - Elli (Breadstuck)
+
+# Characters from Cheezquest, by species.
+
+---
+Tag: Characters from Cheezquest
+Direct Descendant Tags:
+- Humans (Cheezquest)
+- Consorts (Cheezquest)
+---
+Tag: Humans (Cheezquest)
+Direct Descendant Tags:
+- Dima (Cheezquest)
+- Scot (Cheezquest)
+---
+Tag: Consorts (Cheezquest)
+Direct Descendant Tags:
+- Iguanas (Cheezquest)
+---
+Tag: Iguanas (Cheezquest)
+Direct Descendant Tags:
+- Marine Iguanas (Cheezquest)
 
 # Characters from Cool and New Music Team (species N/A).
 
@@ -2179,6 +2206,7 @@ Direct Descendant Tags:
 Tag: Humans
 Direct Descendant Tags:
 - Humans (CaNWC)
+- Humans (Cheezquest)
 - Humans (Desynced)
 - Humans (Heinoustuck)
 - Humans (Hiveswap)
@@ -2282,6 +2310,8 @@ Extra Reading URLs:
 ---
 Tag: Iguanas (consort)
 Color: '#5290f3'
+Direct Descendant Tags:
+- Iguanas (Cheezquest)
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Iguana
 ---
@@ -2692,6 +2722,18 @@ Extra Reading URLs:
 ---
 Tag: Elli (Breadstuck)
 Color: '#C3C3C3'
+
+# Characters from Cheezquest.
+
+---
+Tag: Dima (Cheezquest)
+Color: '#858e96'
+---
+Tag: Marine Iguanas (Cheezquest)
+Color: '#e7120e'
+---
+Tag: Scot (Cheezquest)
+Color: '#de8316'
 
 # Characters from Cool and New Music Team.
 
@@ -5293,6 +5335,7 @@ Tag: Locations in the Medium
 Direct Descendant Tags:
 - Locations in the Medium (Aleph Null)
 - Locations in the Medium (CaNWC)
+- Locations in the Medium (Cheezquest)
 - Locations in the Medium (Desynced)
 - Locations in the Medium (Homestuck)
 - Locations in the Medium (Project Skaia)
@@ -5306,6 +5349,7 @@ Direct Descendant Tags:
 ---
 Tag: Mobile locations
 Direct Descendant Tags:
+- Mobile locations (Cheezquest)
 - Mobile locations (Homestuck)
 - 'Mobile locations (Homestuck: Beyond Canon)'
 ---
@@ -5368,6 +5412,23 @@ Direct Descendant Tags:
 - LoPaK (Aleph Null)
 - LoRaD (Aleph Null)
 - LoTaF (Aleph Null)
+
+# Locations from Cheezquest, by classification.
+
+---
+Tag: Locations from Cheezquest
+Direct Descendant Tags:
+- Locations in the Medium (Cheezquest)
+- Mobile locations (Cheezquest)
+---
+Tag: Locations in the Medium (Cheezquest)
+Direct Descendant Tags:
+- LoLaS (Cheezquest)
+- LoTaP (Cheezquest)
+---
+Tag: Mobile locations (Cheezquest)
+Direct Descendant Tags:
+- Derse Blimp (Cheezquest)
 
 # Locations from Cool and New Web Comic, by classification.
 
@@ -5817,6 +5878,18 @@ Color: '#d17c6a'
 ---
 Tag: LoTaF (Aleph Null)
 Color: '#ffffcc'
+
+# Locations from Cheezquest.
+
+---
+Tag: Derse Blimp (Cheezquest)
+Color: '#eb00f7'
+---
+Tag: LoLaS (Cheezquest)
+Color: '#cc33c8'
+---
+Tag: LoTaP (Cheezquest)
+Color: '#c72e35'
 
 # Locations from Cool and New Web Comic.
 
@@ -7403,36 +7476,6 @@ Tag: Mind (Those Without Shadows)
 Color: '#b9fc87'
 #Extra Reading URLs:
 #- 
----
-Tag: Dima (CheezQuest)
-Color: '#858e96'
-#Extra Reading URLs:
-#-
----
-Tag: Scot (CheezQuest)
-Color: '#de8316'
-#Extra Reading URLs:
-#-
----
-Tag: LoLaS (CheezQuest)
-Color: '#cc33c8'
-#Extra Reading URLs:
-#-
----
-Tag: LoTaP (CheezQuest)
-Color: '#c72e35'
-#Extra Reading URLs:
-#-
----
-Tag: Marine Iguanas (CheezQuest)
-Color: '#e7120e'
-#Extra Reading URLs:
-#-
----
-Tag: Derse Blimp (CheezQuest)
-Color: '#eb00f7'
-#Extra Reading URLs:
-#-
 
 # -------------------------------------
 #  Content warnings.
