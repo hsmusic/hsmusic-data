@@ -5247,6 +5247,14 @@ Direct Descendant Tags:
 # -------------------------------------
 #  Location classifications.
 # -------------------------------------
+#
+#  This section DOES NOT include lists of locations according to each
+#  classification, which are grouped by media. It's only responsible for
+#  sectioning and structuring those "locations from media" groupings.
+#  Refer to "locations from media" for location lists.
+#
+#  Within a given location tag, sort media alphabetically.
+#
 
 ---
 Tag: Location classifications
@@ -5270,10 +5278,10 @@ Direct Descendant Tags:
 ---
 Tag: Astronomical bodies
 Direct Descendant Tags:
-- Astronomical bodies (Homestuck)
-- 'Astronomical bodies (Homestuck: Beyond Canon)'
 - Astronomical bodies (CaNWC)
 - Astronomical bodies (Desynced)
+- Astronomical bodies (Homestuck)
+- 'Astronomical bodies (Homestuck: Beyond Canon)'
 - Astronomical bodies (Vast Error)
 - More astronomical bodies
 ---
@@ -5283,14 +5291,18 @@ Direct Descendant Tags:
 ---
 Tag: Locations in the Medium
 Direct Descendant Tags:
-- Locations in the Medium (Homestuck)
 - Locations in the Medium (Aleph Null)
 - Locations in the Medium (CaNWC)
 - Locations in the Medium (Desynced)
+- Locations in the Medium (Homestuck)
 - Locations in the Medium (Project Skaia)
 - Locations in the Medium (Redditstuck)
 - Locations in the Medium (Vast Error)
 - More locations in the Medium
+---
+Tag: More locations in the Medium
+Direct Descendant Tags:
+- LoFaM
 ---
 Tag: Mobile locations
 Direct Descendant Tags:
@@ -5316,10 +5328,6 @@ Direct Descendant Tags:
 - 'Rainbow Falls, NY'
 - 'Houston, TX'
 - 'Rajavihara'
----
-Tag: More locations in the Medium
-Direct Descendant Tags:
-- LoFaM
 
 # -------------------------------------
 #  Locations from media.
