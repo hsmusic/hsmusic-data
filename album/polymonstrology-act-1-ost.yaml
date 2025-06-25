@@ -1,4 +1,5 @@
 Album: 'Polymonstrology: Act 1 OST'
+Directory Suffix: polymonstrology
 Date: July 14, 2024
 Date Added: June 19, 2025
 URLs:
@@ -17,6 +18,8 @@ Groups:
 - Fandom
 ---
 Track: Act 1
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 0:48
 URLs:
 - https://polymonstrology.bandcamp.com/track/act-1
@@ -50,11 +53,15 @@ URLs:
 - https://polymonstrology.bandcamp.com/track/polymonstrology
 ---
 Track: Scuttling
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:00
 URLs:
 - https://polymonstrology.bandcamp.com/track/scuttling
 ---
 Track: Connect
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:36
 Referenced Tracks:
 - track:sburban-jungle

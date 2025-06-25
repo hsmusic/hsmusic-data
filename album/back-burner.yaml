@@ -1,4 +1,5 @@
 Album: back burner
+Directory Suffix: cheezquest
 Date: December 12, 2024
 Date Added: May 04, 2025
 URLs:
@@ -26,7 +27,7 @@ Commentary: |-
 Track: MicroAvenue
 Duration: 1:20
 Referenced Tracks:
-- Avenue
+- track:avenue-cheezquest
 URLs:
 - https://cheezquest.bandcamp.com/track/microavenue
 Commentary: |-
@@ -35,6 +36,8 @@ Commentary: |-
     A mini-version of the Avenue. Very stripped back.
 ---
 Track: Options Menu
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 4:12
 URLs:
 - https://cheezquest.bandcamp.com/track/options-menu
@@ -62,6 +65,8 @@ Commentary: |-
     A track I made a while back, never really coalesced around a purpose for this one but cool nonetheless.
 ---
 Track: The River
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:31
 URLs:
 - https://cheezquest.bandcamp.com/track/the-river
@@ -72,6 +77,8 @@ Commentary: |-
     Take it in my own direction.
 ---
 Track: Lobby
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:04
 URLs:
 - https://cheezquest.bandcamp.com/track/lobby
@@ -118,6 +125,8 @@ Commentary: |-
     This one goes all the way back to early 2021, maybe even late 2020. First time doing vocals on an album. Repetitive but cool little harmony.
 ---
 Track: The Storm
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:24
 URLs:
 - https://cheezquest.bandcamp.com/track/the-storm

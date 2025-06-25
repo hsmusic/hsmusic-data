@@ -1,4 +1,5 @@
 Album: Inspired by the Void
+Directory Suffix: cheezquest
 Date: July 2, 2022
 Date Added: May 04, 2025
 URLs:
@@ -31,6 +32,8 @@ Commentary: |-
     2\. Order (Tree's Land)
 ---
 Track: The Void
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:00
 URLs:
 - https://cheezquest.bandcamp.com/track/the-void
