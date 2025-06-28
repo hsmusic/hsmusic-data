@@ -24,7 +24,11 @@ Wallpaper Artists:
 - Jebb (edits for wiki)
 Wallpaper File Extension: png
 Wallpaper Style: |-
+    position: absolute;
+    width: 100%;
+    height: 100%;
     opacity: 0.3;
+    background-position: top;
     background-repeat: repeat;
     background-size: 265px 275px;
 Commentary: |-
@@ -33,6 +37,7 @@ Commentary: |-
     A Midnight Crew Fan EP, dedicated to my favourite HS characters [[album:midnight-crew-drawing-dead|and album]].
 
     <i>SerialSymphony:</i> ([SoundCloud album description](https://soundcloud.com/serialsymphony/sets/smooth-jazz-will-now-commence))
+
     A Tribute to the Midnight Crew from Homestuck
 
     (more songs to come)
@@ -45,8 +50,10 @@ Commentary: |-
 
     1. [[track:showdown-the-heist|Showdown]] (née The Showdown)
     2. [[track:officially-canon|Officially Canon]] (née Swing(OFFICIALLY CANON))
-    3. [[track:beatdown-strifing-saxophone-mix|Beatdown(Strifing Saxophones Mix)]]
+    3. [[track:beatdown-strifing-saxophones-mix|Beatdown(Strifing Saxophones Mix)]]
     4. [[track:the-old-ultraviolence|The Old Ultraviolence]] (née The Getaway)
+
+    </details>
 ---
 Section: Main album
 ---

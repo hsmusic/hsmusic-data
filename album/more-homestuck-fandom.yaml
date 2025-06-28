@@ -1867,6 +1867,13 @@ Track: DAVE STRIDER'S COOL MIXTAPE
 Artists:
 - SerialSymphony
 Duration: 4:23
+Track Artwork:
+- Artists:
+  - SerialSymphony (edits)
+  Source: >-
+    [SoundCloud](https://soundcloud.com/serialsymphony/dave-striders-cool-mixtape)
+  Tags:
+  - Dave
 URLs:
 - https://soundcloud.com/serialsymphony/dave-striders-cool-mixtape
 Referenced Tracks:
@@ -1918,11 +1925,33 @@ Lyrics: |-
     SPORTS
 
     I'll say it
-Commentary: |-
-    <i>Circlejourney:</i> (wrote [[The Light's Rebellion]])
+Commentary:
+- Artists: [Circlejourney]
+  Date: January 4, 2023
+  Annotation: >-
+    [HSMusic Discord](https://discord.com/channels/749042497610842152/779895315750715422/1060160882858008657),
+    wrote [[The Light's Rebellion]]
+  Body: |-
     so I just had a memory hit me out of nowhere - me and [[artist:serialsymphony|serialsymphony]] discussed quoting each other's tracks reciprocally back when Dave Strider's Cool Mixtape was meant to be on [[album:cosmic-caretakers]]. i.e. this track does reference [[track:the-lights-rebellion|The Light's Rebellion]] at 2:56
+
     we both made the front half of our tracks, and then traded motifs in the back half, so it really is a reciprocal reference
+
     sorry for your ears @ anyone who listens through this to confirm its existence
+- Artists: [Lilithtreasure, SerialSymphony]
+  Date: May 30, 2025
+  Artist Text: >-
+    [[artist:serialsymphony]]
+  Annotation: >-
+    [Tumblr ask](https://serialsymphony.tumblr.com/post/784981274805813248/),
+    excerpt
+  Body: |-
+    > <i>[[artist:lilithtreasure|Lilith]]:</i> [...] how does [[shitjazz.wav]] relate to DAVE STRIDER'S COOL MIXTAPE? cause the sbahj show sample is autotuned in DSCM, but in shitjazz, it's not; how are they related? which came first?
+
+    COOL MIXTAPE came first, but they're the same song, if there's any difference between the two it's likely just some weird thing that happened when exporting to .wav instead of .mp3, or maybe a random change I added and forgot about.
+
+    As a fun piece of Lore(TM), i chose the soundcloud image for that one based on a profile picture my brother used to use, I thought it was the perfect 'generic anime white guy' version of Dave and it made the horrible quality of the song twice as ironic, which I'm sure he'd approve of.
+
+    I really spent way too much time making music back then. Feels ridiculous to look back at it now.
 ---
 Track: The Engineer
 Artists:
