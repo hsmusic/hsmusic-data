@@ -10,6 +10,16 @@ Banner Dimensions: 975x180
 Banner File Extension: png
 Cover Art File Extension: png
 Track Art File Extension: png
+Wallpaper Artists:
+- Unknown Artist
+Wallpaper Style: |-
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    background-position: top;
+    background-repeat: no-repeat;
+Wallpaper File Extension: png
 Color: '#9dafde'
 Groups:
 - Beyond
@@ -168,7 +178,7 @@ Track: Boss-a Nova
 Additional Names:
 - Name: >-
     Boss-A-Nova
-  Annotation:
+  Annotation: >-
     [SoundCloud](https://soundcloud.com/kal-la-kal-la/boss-a-nova)
 Artists:
 - Kal-la-kal-la
