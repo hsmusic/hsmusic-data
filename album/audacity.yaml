@@ -1,4 +1,5 @@
 Album: Audacity
+Style: single
 Artists:
 - Svix
 Date: June 10, 2012
@@ -13,8 +14,6 @@ Groups:
 Cover Art File Extension: png
 ---
 Track: Audacity
-Directory: audacity-svix
-Always Reference By Directory: true
 Duration: 5:11
 URLs:
 - https://svix.bandcamp.com/track/audacity
