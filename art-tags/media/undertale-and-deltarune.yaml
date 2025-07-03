@@ -1,8 +1,8 @@
 Tag: UNDERTALE & DELTARUNE (media)
 Direct Descendant Tags:
 - Characters from UNDERTALE & DELTARUNE
-- Souls
-- More objects from UNDERTALE & DELTARUNE
+- Golden Flowers (UNDERTALE & DELTARUNE)
+- Souls (UNDERTALE & DELTARUNE)
 Extra Reading URLs:
 - https://undertale.com/
 - https://undertale.wiki/w/Undertale
@@ -104,31 +104,6 @@ Direct Descendant Tags:
 - Annoying Dog
 - Flowey
 - Mystery Man
----
-Tag: More objects from UNDERTALE & DELTARUNE
-Direct Descendant Tags:
-- Golden Flowers (UNDERTALE & DELTARUNE)
-- Souls (UNDERTALE & DELTARUNE)
----
-Tag: Golden Flowers (UNDERTALE & DELTARUNE)
-Color: '#f9f000'
-Direct Descendant Tags:
-- Flowey
----
-Tag: Souls (UNDERTALE & DELTARUNE)
-Direct Descendant Tags:
-- Human Soul
-- Monster Soul
----
-Tag: Human Soul
-Direct Descendant Tags:
-- Soul (Red)
-- Soul (Light Blue)
-- Soul (Orange)
-- Soul (Blue)
-- Soul (Purple)
-- Soul (Green)
-- Soul (Yellow)
 
 # Character entries
 
@@ -334,10 +309,28 @@ Color: '#ff7f27'
 Tag: Woshua
 Color: '#b5e61d'
 
+# Miscellaneous tags
 
 ---
-Tag: Monster Soul
-Color: '#ffffff'
+Tag: Golden Flowers (UNDERTALE & DELTARUNE)
+Color: '#f9f000'
+Direct Descendant Tags:
+- Flowey
+---
+Tag: Souls (UNDERTALE & DELTARUNE)
+Direct Descendant Tags:
+- Human Soul
+- Monster Soul
+---
+Tag: Human Soul
+Direct Descendant Tags:
+- Soul (Red)
+- Soul (Light Blue)
+- Soul (Orange)
+- Soul (Blue)
+- Soul (Purple)
+- Soul (Green)
+- Soul (Yellow)
 ---
 Tag: Soul (Red)
 Color: '#ff0000'
@@ -359,3 +352,6 @@ Color: '#00C000'
 ---
 Tag: Soul (Yellow)
 Color: '#ffff00'
+---
+Tag: Monster Soul
+Color: '#ffffff'
