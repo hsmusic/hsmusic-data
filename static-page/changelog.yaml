@@ -34,6 +34,12 @@ Style: |-
 Content: |-
     <h2 id="12-jun-2099" class="major-release"><html:a href="#12-jun-2099">[[date:12 June 2099]] - Ascension/Alignment/Conjugation</a></h2>
     <h3>site changes</h3>
+    - added basic support for styling albums as "singles"
+        - gets rid of the album page completely (which redirects to the first track)
+        - hides the track list, if the single only has one track, and cuts the "track list" heading if it has two or more
+        - hides the track name in the nav bar, if the single only has one track
+        - presents groups in their full view in the sidebar and nav bar
+        - essentially a custom presentation, so these are still treated like any other album within various parts of the wiki, pending progressively tighter integration
     - added "by series" view to group gallery pages, which presents albums within their series instead of a single chronological grid; "by date" remains the default view
     - added "origin details" field for artworks, which enables totally custom descriptions about where an artwork comes from; displayed beneath "by (artists)" and "via (source)" line [[media:misc/changelog/artwork-origin-details-cover.png|on album and track pages]], as well as [[media:misc/changelog/artwork-origin-details-list.png|in artists' artwork lists]]; currently used for crops of comic panels and flashes across [[group:official]], and for asset credits in [[album:hiveswap-friendsim]]
     - added "attach above" field for artworks, which visually links related artworks together (provided they're for the same track or album), and shuttles away identical data e.g. because the artworks have the same artists or tags, and adds auto-inheritence so those identical lists don't have to be typed out twice, either; all in all used for earlier versions of [[album:comfortable-bugs|album covers]] and [[track:white|track art]], [[track:awakening|full-size cuts]], and perhaps other useful places
@@ -46,7 +52,12 @@ Content: |-
     - annotated album and track listening links with "official release" and "composer's release" when the album is released on two separate Bandcamp pages/discographies
     - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
+    - made reference lists swap out tracks for an alternate release of the same track within the album you're currently viewing, ex. you can jump between [[track:showtime-piano-refrain-vol-1-4]] and [[track:showtime-original-mix-vol-1-4]] while staying in [[album:homestuck-vol-1-4]], now
     - moved artist commentary for the current release (if it's a secondary release) above commentary for the main release, when both are preesnt, e.g. [[track:aura-of-colour-lofam4]], removed the box calling out commentary "specific to this release", and placed commentary brought over from the main release into its own visual area ([[media:misc/changelog/secrelease-commentary-placement-old.png|old]], [[media:misc/changelog/secrelease-commentary-placement-new.png|new]])
+    - adjusted the drop shadow for the main page element, so it's just a little deeper near to the page itself
+    - added a dimming gradient over the bottom part of lyrics within the screen view, so they're revealed nicer as you scroll
+    - added "composer's release" and "official release" annotations for Bandcamp listening links (automatically!) on tracks from solo albums which are released both places
+    - added a nice effect when you hover an album banner... unless you're on Firefox... sorry Firefox...
     <h3>bug fixes</h3>
     - fixed flashes ignoring non-square artworks
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
