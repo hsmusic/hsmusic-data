@@ -28,7 +28,7 @@ URLs:
 Section: Top 10 songs chosen by fans (double loop)
 ---
 Track: Song That Might Play When You Fight Sans
-Always Reference By Directory: true
+Main Release: Song That Might Play When You Fight Sans
 Duration: 2:02
 URLs:
 - https://www.youtube.com/watch?v=sbUq8L4_Ypk
@@ -36,10 +36,9 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: Song That Might Play When You Fight Sans
 ---
 Track: Bonetrousle
-Always Reference By Directory: true
+Main Release: Bonetrousle
 Duration: 1:58
 URLs:
 - https://www.youtube.com/watch?v=zu569jDjx2o
@@ -47,10 +46,9 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: Bonetrousle
 ---
 Track: ASGORE
-Always Reference By Directory: true
+Main Release: ASGORE
 Duration: 5:14
 URLs:
 - https://www.youtube.com/watch?v=ut4KQeMMPMo
@@ -58,17 +56,15 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: ASGORE
 ---
 Track: Undertale
-Always Reference By Directory: true
+Main Release: Undertale
 Duration: 6:25
 URLs:
 - https://www.youtube.com/watch?v=mf6hifdXFgk
-Main Release: Undertale
 ---
 Track: Spider Dance
-Always Reference By Directory: true
+Main Release: Spider Dance
 Duration: 3:30
 URLs:
 - https://www.youtube.com/watch?v=sG3vQ1AiYLQ
@@ -76,10 +72,9 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: Spider Dance
 ---
 Track: Hopes and Dreams
-Always Reference By Directory: true
+Main Release: Hopes and Dreams
 Duration: 6:04
 URLs:
 - https://www.youtube.com/watch?v=OSgr0ro9A1w
@@ -87,10 +82,9 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: Hopes and Dreams
 ---
 Track: Death by Glamour
-Always Reference By Directory: true
+Main Release: Death by Glamour
 Duration: 4:31
 URLs:
 - https://www.youtube.com/watch?v=48RhaY_DrYA
@@ -98,10 +92,9 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: Death by Glamour
 ---
 Track: SAVE the World
-Always Reference By Directory: true
+Main Release: SAVE the World
 Duration: 3:43
 URLs:
 - https://www.youtube.com/watch?v=48RhaY_DrYA
@@ -109,10 +102,9 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: SAVE the World
 ---
 Track: Battle Against a True Hero
-Always Reference By Directory: true
+Main Release: Battle Against a True Hero
 Duration: 5:13
 URLs:
 - https://www.youtube.com/watch?v=UNrWDwvgNNo
@@ -120,10 +112,9 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: Battle Against a True Hero
 ---
 Track: MEGALOVANIA
-Always Reference By Directory: true
+Main Release: track:megalovania-undertale
 Duration: 5:15
 URLs:
 - https://www.youtube.com/watch?v=JcsHQDWZLGc
@@ -131,7 +122,6 @@ Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (double loop)
-Main Release: track:megalovania-undertale
 ---
 Section: Live Arrangements
 ---
@@ -156,7 +146,7 @@ Commentary: |-
 ---
 Track: NGAHHH!! ##re-release of MUSIC Engine arrangement album vol.1
 Directory: ngahhh-music-engine-fan-selection
-Always Reference By Directory: True
+Always Reference By Directory: true
 Duration: 2:01
 Artists:
 - MUSIC Engine
@@ -174,7 +164,7 @@ Commentary: |-
 ---
 Track: Undertale
 Directory: undertale-music-engine-fan-selection
-Always Reference By Directory: True
+Always Reference By Directory: true
 Duration: 6:25
 Artists:
 - MUSIC Engine

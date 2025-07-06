@@ -36,9 +36,8 @@ Commentary: |-
     この曲を作ったときは、なんも考えてなかったです。
 ---
 Track: Beginning
-Always Reference By Directory: true
-Duration: 0:59
 Main Release: track:beginning-deltarune
+Duration: 0:59
 Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
@@ -52,10 +51,9 @@ Commentary: |-
     旅の始まりには うってつけ
 ---
 Track: Rude Buster
-Always Reference By Directory: true
+Main Release: Rude Buster
 Directory: rude-buster-fan-encore-cd
 Duration: 2:44
-Main Release: Rude Buster
 Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
@@ -70,32 +68,28 @@ Commentary: |-
 Section: UNDERTALE Encore
 ---
 Track: SE Collection
-Always Reference By Directory: true
-Duration: 2:25
 Main Release: track:se-collection
+Duration: 2:25
 Commentary: |-
     <i>Nintendo DREAM:</i> (booklet notes)
 
     (Mixed by [[artist:toby-fox]])
 ---
 Track: MEGALOVANIA
-Always Reference By Directory: true
-Duration: 5:14
 Main Release: track:megalovania-undertale
+Duration: 5:14
 ---
 Track: Hopes and Dreams
-Always Reference By Directory: true
-Duration: 6:03
 Main Release: Hopes and Dreams
+Duration: 6:03
 ---
 Track: Battle Against a True Hero
-Always Reference By Directory: true
-Duration: '5:12'
 Main Release: Battle Against a True Hero
+Duration: '5:12'
 ---
 Track: Ruins
-Duration: 1:34
 Main Release: track:ruins-undertale
+Duration: 1:34
 ---
 Section: MUSIC Engine Orchestra
 ---
