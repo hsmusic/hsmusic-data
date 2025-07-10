@@ -1,5 +1,6 @@
 Album: Phantasmal
 Directory Suffix: autumn
+Style: single
 Date: May 13, 2022
 Artists:
 - autumnalEquinox
@@ -17,11 +18,6 @@ Color: '#939393'
 Groups:
 - autumnalEquinox
 - Fandom
-Commentary: |-
-    <i>autumnalEquinox:</i> ([Bandcamp about blurb](https://autumnaleqvinox.bandcamp.com/track/phantasmal))
-
-    vast error fan song<br>
-    cover art from [[artist:vast-error|the comic]]
 ---
 Track: Phantasmal
 Suffix Directory: true
@@ -30,3 +26,8 @@ URLs:
 - https://autumnaleqvinox.bandcamp.com/track/phantasmal
 - https://soundcloud.com/andromedamvsic/phantasmal
 - https://www.youtube.com/watch?v=rgCkkdH8Q-M
+Commentary: |-
+    <i>autumnalEquinox:</i> ([Bandcamp about blurb](https://autumnaleqvinox.bandcamp.com/track/phantasmal))
+
+    vast error fan song<br>
+    cover art from the comic

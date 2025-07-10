@@ -1,4 +1,5 @@
 Album: Perfectly Generic Object
+Style: single
 Artists:
 - Cristata
 Date: November 10, 2020
@@ -12,9 +13,6 @@ Color: '#59f669'
 Groups:
 - Cristata
 - Fandom
-Commentary: |-
-    <i>Cristata:</i>
-    Time may pass, things may end, and people may move on but the memories and your heart are still there.
 ---
 Track: Perfectly Generic Object
 Duration: 2:56
@@ -22,3 +20,7 @@ URLs:
 - https://cristata.bandcamp.com/track/perfectly-generic-object
 Referenced Tracks:
 - Perfectly Generic
+Commentary: |-
+    <i>Cristata:</i> ([Bandcamp credits blurb](https://cristata.bandcamp.com/track/perfectly-generic-object))
+
+    Time may pass, things may end, and people may move on but the memories and your heart are still there.
