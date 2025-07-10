@@ -1,6 +1,7 @@
 Album: Black
 Directory: black-raid-remix
 Always Reference By Directory: true
+Style: single
 Artists:
 - Raid
 Date: October 25, 2021
@@ -27,6 +28,19 @@ Wallpaper Parts:
   Style: |-
     opacity: 0.6;
     background-image: linear-gradient(#000000 0%,#000000 36.6%, #FFFDD0 36.6%, #FFFDD0 37.33%, #270000 37.33%, #270000 62%);
+---
+Track: Black
+Directory: black-raid-remix
+Always Reference By Directory: true
+Duration: 3:42
+URLs:
+- https://rudecustard.bandcamp.com/track/black
+- https://www.youtube.com/watch?v=MVxGkCVClQE
+- https://open.spotify.com/track/5EbYKZVq78NWoPb5H3OPu0
+Referenced Tracks:
+- track:black
+- My Curse
+- Unite Synchronization
 Commentary: |-
    <i>Raid:</i> ([Bandcamp about blurb](https://rudecustard.bandcamp.com/track/black))
 
@@ -56,16 +70,3 @@ Commentary: |-
    Before doing this arrangement, I'd always made sure to avoid using the virtual instrument voice presets that came with my keyboard, like the tenor sax voice I used here. I thought they sounded tacky and strange. But I made an exception for this track because Toby Fox's original version uses a virtual sax and it still sounds great. So I thought I'd imitate him here. And maybe stop being so dismissive of virtual instruments, even if they sound hella fake. The fakeness of the sound does imbue the music with a certain distinctive character, however. I suppose that's something some people might desire and intentionally aim for. This video-gamey, low-fidelity, scrappy kind of character. It does sound good at times.
 
    I was pretty ambitious with this track. Throwing together a ton of parts, altering the track structure to add my own percussion break and solo section, doing a one-man drumline thing with the percussion break, playing a damn virtual guitar on my keyboard. Well. If you thought this was a lot of experimentation for a single video, brace yourself. I got something else coming soon. Get ready.
----
-Track: Black
-Directory: black-raid-remix
-Always Reference By Directory: true
-Duration: 3:42
-URLs:
-- https://rudecustard.bandcamp.com/track/black
-- https://www.youtube.com/watch?v=MVxGkCVClQE
-- https://open.spotify.com/track/5EbYKZVq78NWoPb5H3OPu0
-Referenced Tracks:
-- track:black
-- My Curse
-- Unite Synchronization
