@@ -1,4 +1,5 @@
 Album: Old World
+Style: single
 Artists:
 - tempest2k
 Date: December 20, 2019 12:00:00
@@ -12,12 +13,19 @@ Color: '#cdb38e'
 Groups:
 - tempest2k
 - Beyond
-Commentary: |-
-    <i>tempest2k:</i>
-    unfinished track from an upcoming album that might not be coming out
-    Art by my pal Mabel (rintezukas)!
 ---
 Track: Old World
+Additional Names:
+- Name: >-
+    Old World (Solo)
+  Annotation: >-
+    [Bandcamp album name](https://nuclear333.bandcamp.com/album/old-world-solo)
 Duration: 3:01
-URLs:
-- https://nuclear333.bandcamp.com/track/old-world
+Commentary: |-
+    <i>tempest2k:</i> ([Bandcamp about blurb](https://nuclear333.bandcamp.com/album/old-world-solo), excerpt)
+
+    unfinished track from an upcoming album that might not be coming out
+Crediting Sources: |-
+    <i>tempest2k:</i> ([Bandcamp about blurb](https://nuclear333.bandcamp.com/album/old-world-solo), excerpt)
+
+    Art by my pal Mabel ([[artist:rintezukas]])!
