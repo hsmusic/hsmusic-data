@@ -204,6 +204,7 @@ Content: |-
     - moved stuff from commentary into crediting and referencing sources in [[track:showtime-svix-mix]], [[track:versus-hardmode-remix]], [[track:the-showdown-single-version]], [[track:adventurous-ascent-single-version]], [[track:the-showdown-album-version]], [[track:adventurous-ascent-lofam5a2-version]], [[track:infinite-cataclysm]], [[track:vivid-spectrum]], [[track:old-world]], and [[track:losing-heart]] (thanks, Tangle, Lanolin!)
     - removed a bunch of commentary from [[track:adventurous-ascent-lofam5a2-version]] that was just duplicated from the LOFAM5A2 album booklet
     <!-- tracks newly marked as a secondary release -->
+    - marked [[track:denizen-lofam4]] ([[album:lofam4]]) newly as a secondary release (thanks, Jebb!)
     - marked [[track:frost-and-frogs-lofam5a2]] ([[album:lofam5a2]]) newly as a secondary release (thanks, Lilith!)
     - marked tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] as secondary releases, with main releases now on [[album:deltarune-soundtrack]] (thanks, ruby!)
     <!-- tracks moved within an album, etc -->
@@ -312,6 +313,7 @@ Content: |-
     - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
+    - changed directory of [[track:denizen-lofam4]] from `denizen` to `denizen-lofam`
     - changed directory of [[track:the-respect-you-rightfully-deserve-single]] from `the-respect-you-rightfully-deserve-soundcloud` to `the-respect-you-rightfully-deserve-single`
     - changed directory of [[track:frost-and-frogs-lofam5a2]] from `frost-and-frogs` to `frost-and-frogs-lofam5a2`
     - changed directory of [[track:audacity]] from `audacity-svix` to `audacity`

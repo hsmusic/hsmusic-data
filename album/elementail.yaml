@@ -14,8 +14,13 @@ Groups:
 - Beyond
 ---
 Track: Forest
+Suffix Directory: true
+Always Reference By Directory: true
 Additional Names:
-- 'Elementail: Forest (original name)'
+- Name: >-
+    Elementail: Forest
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/eidolonorpheus/elementail-forest)
 Date First Released: March 17, 2016
 Duration: 1:07
 URLs:
@@ -26,7 +31,14 @@ Commentary: |-
 ---
 Track: Cardboard Prison
 Additional Names:
-- 'Elementail: Cardboard Prison (original name)'
+- Name: >-
+    Elementail: Cardboard Prison (original name)
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/eidolonorpheus/elementail-cardboard-prison-in-progress)
+- Name: >-
+    <code>elementail-cardboard-prison-in-progress</code>
+  Annotation: >-
+    [SoundCloud URL](https://soundcloud.com/eidolonorpheus/elementail-cardboard-prison-in-progress)
 Date First Released: March 24, 2016
 Duration: 1:06
 URLs:

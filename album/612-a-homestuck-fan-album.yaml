@@ -1,4 +1,5 @@
 Album: 612 - a homestuck fan-album
+Directory Suffix: kouta
 Date: September 16, 2015
 Date Added: June 25, 2025
 Artists:
@@ -21,7 +22,8 @@ Commentary: |-
     the first track, "davesprite's theme", was the second thing i'd ever written, after the original, not-yet-released davesprite theme.
 ---
 Track: '612'
-Directory: 612-kouta
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:04
 URLs:
 - https://davestrider.bandcamp.com/track/612
@@ -39,12 +41,15 @@ URLs:
 - https://davestrider.bandcamp.com/track/612-part-2
 ---
 Track: snowman
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 4:30
 URLs:
 - https://davestrider.bandcamp.com/track/snowman
 ---
 Track: john
-Directory: john-kouta
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:52
 URLs:
 - https://davestrider.bandcamp.com/track/john
