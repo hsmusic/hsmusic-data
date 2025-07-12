@@ -59,6 +59,7 @@ Content: |-
     - added "composer's release" and "official release" annotations for Bandcamp listening links (automatically!) on tracks from solo albums which are released both places
     - added a nice effect when you hover an album banner... unless you're on Firefox... sorry Firefox...
     <h3>bug fixes</h3>
+    - fixed chronological sorting in most track-related contexts to sort same-date tracks respective to their album's name and directory, rather than only its directory, which mostly means tracks from an album "The Apple" are now correctly sorted before tracks from another album, released on the same day, "Banana"
     - fixed flashes ignoring non-square artworks
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
