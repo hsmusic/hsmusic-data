@@ -43,25 +43,36 @@ Content: |-
     - added "by series" view to group gallery pages, which presents albums within their series instead of a single chronological grid; "by date" remains the default view
     - added "origin details" field for artworks, which enables totally custom descriptions about where an artwork comes from; displayed beneath "by (artists)" and "via (source)" line [[media:misc/changelog/artwork-origin-details-cover.png|on album and track pages]], as well as [[media:misc/changelog/artwork-origin-details-list.png|in artists' artwork lists]]; currently used for crops of comic panels and flashes across [[group:official]], and for asset credits in [[album:hiveswap-friendsim]]
     - added "attach above" field for artworks, which visually links related artworks together (provided they're for the same track or album), and shuttles away identical data e.g. because the artworks have the same artists or tags, and adds auto-inheritence so those identical lists don't have to be typed out twice, either; all in all used for earlier versions of [[album:comfortable-bugs|album covers]] and [[track:white|track art]], [[track:awakening|full-size cuts]], and perhaps other useful places
+    - revised the presentation of commentary sections on info pages:
+        - if a commentary section has entries annotated "wiki editor", the section is now titled and linked as "artist and wiki commentary" (or as only "wiki commentary")
+        - if a track info page has just about nothing else going on at all, the line with the "read artist commentary" scrolling link is now completely skipped
+        - if an album has commentary on itself but none on any of its tracks, the "view commentary page" link is now skipped, and an ordinary "read artist commentary" scrolling link is shown instead
+        - for all commentary sections, added the name of the track, album, or flash into its title
+    - revised the presentation of commentary sections for secondary release tracks, e.g. across [[album:homestuck-vol-1-4]], in particular: ([[media:misc/changelog/secrelease-commentary-placement-old.png|old]], [[media:misc/changelog/secrelease-commentary-placement-new.png|new]])
+        - moved artist commentary for the current release up above commentary for the main release
+        - removed the box calling out commentary "specific to this release"
+        - placed commentary brought over from the main release into its own visual area
     - added a bunch of lines to let lyrics entries be more meaningfully detailed
         - lyrics sourced from a particular platform or other website may now link to that website in a "Via..." line
         - wiki lyrics - entries filled out and formatted specially for the wiki - may now list who's helped out in a "Contributions from..." line
         - wiki lyrics which include annotative text in [square brackets] now automatically draw attention there in a "Mind parts marked in..." line
         - totally custom details may be included on their own line, through an "origin details" field, similar as for artworks
+    - stopped counting secondary releases as additional track contributions, adjusting counts for almost all artists, visible in [[listing:artists/by-contribs|"Artists - by Contributions"]] listing ([[media:misc/changelog/secrelease-contribution-count-listing-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-listing-new.png|new]] <img src="media/misc/tangup.png" width="18" height="18" inline>) and in artist group contribution info ([[media:misc/changelog/secrelease-contribution-count-groups-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-groups-new.png|new]])
     - added "referencing sources" section for track pages, which works the same as crediting sources, and includes citations or conversations which contextualize a track's listed references and samples
-    - annotated album and track listening links with "official release" and "composer's release" when the album is released on two separate Bandcamp pages/discographies
+    - added "composer's release" and "official release" annotations for Bandcamp listening links (automatically!) on tracks from solo albums which are released both places (currently only affecting rereleased [[group:official]] albums)
     - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
     - made reference lists swap out tracks for an alternate release of the same track within the album you're currently viewing, ex. you can jump between [[track:showtime-piano-refrain-vol-1-4]] and [[track:showtime-original-mix-vol-1-4]] while staying in [[album:homestuck-vol-1-4]], now
-    - moved artist commentary for the current release (if it's a secondary release) above commentary for the main release, when both are preesnt, e.g. [[track:aura-of-colour-lofam4]], removed the box calling out commentary "specific to this release", and placed commentary brought over from the main release into its own visual area ([[media:misc/changelog/secrelease-commentary-placement-old.png|old]], [[media:misc/changelog/secrelease-commentary-placement-new.png|new]])
+    - expanded custom support for media elements in content text (e.g. commentary), with support for full-width images and videos, "nameless" audios which hide insubstantial filename, and inline / non-boxed videos
     - adjusted the drop shadow for the main page element, so it's just a little deeper near to the page itself
+    - added [[media:static/misc/changelog/release-dividing-line.png|decorative dividing line]] after track lists on album info pages
     - added a dimming gradient over the bottom part of lyrics within the screen view, so they're revealed nicer as you scroll
-    - added "composer's release" and "official release" annotations for Bandcamp listening links (automatically!) on tracks from solo albums which are released both places
     - added a nice effect when you hover an album banner... unless you're on Firefox... sorry Firefox...
     <h3>bug fixes</h3>
     - fixed chronological sorting in most track-related contexts to sort same-date tracks respective to their album's name and directory, rather than only its directory, which mostly means tracks from an album "The Apple" are now correctly sorted before tracks from another album, released on the same day, "Banana"
     - fixed flashes ignoring non-square artworks
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
+    - fixed wide inline images escaping the intended bounds for commentary and other content text
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
     <h3>album additions</h3>
     - added latest release from [[group:studio-june]]! (thanks, Lilith, ruby, articulatelyComposed!)
