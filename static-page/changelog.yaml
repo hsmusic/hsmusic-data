@@ -60,6 +60,7 @@ Content: |-
     - stopped counting secondary releases as additional track contributions, adjusting counts for almost all artists, visible in [[listing:artists/by-contribs|"Artists - by Contributions"]] listing ([[media:misc/changelog/secrelease-contribution-count-listing-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-listing-new.png|new]] <img src="media/misc/tangup.png" width="18" height="18" inline>) and in artist group contribution info ([[media:misc/changelog/secrelease-contribution-count-groups-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-groups-new.png|new]])
     - added "referencing sources" section for track pages, which works the same as crediting sources, and includes citations or conversations which contextualize a track's listed references and samples
     - added "composer's release" and "official release" annotations for Bandcamp listening links (automatically!) on tracks from solo albums which are released both places (currently only affecting rereleased [[group:official]] albums)
+    - added support to hide an album's duration, which makes that duration and the album's track count disappear most places, and excludes the album from the [[listing:albums/by-tracks|"Albums - by Tracks"]] and [[listing:albums/by-duration|"Albums - by Duration"]] listings
     - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
     - made reference lists swap out tracks for an alternate release of the same track within the album you're currently viewing, ex. you can jump between [[track:showtime-piano-refrain-vol-1-4]] and [[track:showtime-original-mix-vol-1-4]] while staying in [[album:homestuck-vol-1-4]], now
@@ -206,6 +207,8 @@ Content: |-
         - [[track:06-12-10-12th-bilunar-perigee-of-the-6th-dark-seasons-equinox]] (alternate and original)
         - [[track:all-that-matters]] and [[track:life-in-motion]] (alternate via album download)
         - [[track:wilted-petal]], [[track:burn-bright]], [[track:mind-over-chatter]], [[track:face-the-reaper-time-keeper]], [[track:battle-against-perfection]], and [[track:fundamentals-of-matter]] (placeholder)
+    <!-- album overarching presentation -->
+    - restructured [[album:ophiuchus-full-suite]] into a two-halves album, representing the full suite as a single track as well as its individual parts (moved from a section in [[album:more-homestuck-fandom]]), with track artwork and revised commentary
     <!-- album presentational tweaks -->
     - revised [[track:center-of-brilliance]] and [[track:candles-and-clockwork-alpha-version]] to present artwork assets from Bandcamp first, with alternatively sourced higher-res cuts as secondary artworks instead (thanks, Lan, Tangle!)
     - revised color of [[album:seven-seas]] to match newly added cover artwork (thanks, Jebb!)
@@ -306,6 +309,7 @@ Content: |-
     <!-- commentary fixes -->
     - fixed misplaced anthology art commentary for [[track:pumpkin-cravings]] (was placed on [[track:welcome-to-the-new-extreme]]; thanks, HunZhen, Amberlina!)
     - fixed misplaced commentary for [[track:his-honorable-tyranny]] (was doubled from [[track:legion]]; thanks, Tangle!)
+    - fixed misplaced commentary for [[track:ophiuchus-full-suite-lofam5]] ([[album:lofam5]] - was placed on [[track:ophiuchus-full-suite|original release]] instead; thanks, Whisper!)
     - fixed Bandcamp credits blurb for [[album:jailbreak-vol-1]] listing [[artist:cadalyst]] instead of [[artist:rebecca-harding]] (thanks, Lilith!)
     - fixed some sneaky capitalization errors where the name of the track on the wiki was used, instead of the capitalization written in source commentary, in [[track:dance-stab-dance]], [[track:a-life-worth-living]], and [[track:cinders-oceanfalls]] (thanks, Lan!)
     - fixed some line break errors in commentary or other content text for [[track:vivid-spectrum]], [[track:versus-hardmode-remix]], [[track:remains-of-formed-pain]], [[album:grim-chain-of-feast]], [[album:demo-2019-2021-vicious-valor]], [[track:legion]], [[album:rites-of-bloodgrinded]], [[album:faces-of-oglogoth]], [[track:adventurous-ascent-single-version]], and [[track:infinite-cataclysm]] (thanks, Tangle!)
