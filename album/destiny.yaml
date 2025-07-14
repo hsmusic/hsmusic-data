@@ -1,4 +1,5 @@
 Album: Destiny
+Style: single
 Artists:
 - Jamie Paige
 - Drainpuppet
@@ -16,23 +17,11 @@ Groups:
 - Jamie Paige
 - Beyond
 Cover Art File Extension: png
-Commentary: |-
-    <i>Jamie Paige:</i>
-    The diary of a small town innkeeper.
-
-    Music and lyrics by Jamie Paige and Drainpuppet<br>
-    Mastered and remixed by Marcy Nabors<br>
-    Track art by Bluffy
 ---
 Track: Destiny
 Contributors:
 - Marcy Nabors (mastering)
 Duration: 4:24
-URLs:
-- https://jamiepaige.bandcamp.com/track/destiny
-- https://www.youtube.com/watch?v=277Sh4WaKSM
-- https://open.spotify.com/track/37bfNDR3RTM7naoRl2NdAf
-- https://music.apple.com/album/destiny-feat-drainpuppet/1444562186?i=1444562189
 Lyrics: |-
     You wandered in through the doors last night
     With a warm smile and-a bright eyes
@@ -84,6 +73,16 @@ Lyrics: |-
     We could go together
     Maybe we could make this last forever
     And I could be your lover
+Commentary: |-
+    <i>Jamie Paige:</i> ([Bandcamp album about blurb](https://jamiepaige.bandcamp.com/album/destiny))
+
+    The diary of a small town innkeeper.
+Crediting Sources: |-
+    <i>Jamie Paige:</i> ([Bandcamp album credits blurb](https://jamiepaige.bandcamp.com/album/destiny, excerpt))
+
+    Music and lyrics by [[artist:jamie-paige]] and [[artist:drainpuppet]]<br>
+    Mastered and remixed by [[artist:marcy-nabors]]<br>
+    Track art by [[artist:bluffy]]
 ---
 Track: Destiny (Marcy Nabors Remix)
 Artists:
@@ -147,3 +146,7 @@ Lyrics: |-
     We could go together
     Maybe we could make this last forever
     And I could be your lover
+Crediting Sources: |-
+    <i>Jamie Paige:</i> ([Bandcamp album credits blurb](https://jamiepaige.bandcamp.com/album/destiny), excerpt)
+
+    Remix by [[artist:marcy-nabors]]
