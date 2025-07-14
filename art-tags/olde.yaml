@@ -32,61 +32,6 @@
 #  General media.
 # -------------------------------------
 
-Tag: Media
-Direct Descendant Tags:
-- MS Paint Adventures (media)
-- Fanventures & fanworks (media)
-- Beyond (media)
-- Additional media
----
-Tag: Fanventures & fanworks (media)
-Direct Descendant Tags:
-- Adminstuck (media)
-- Adobebound (media)
-- Aleph Null (media)
-- Alternian Misadventures (media)
-- Breadstuck (media)
-- Cheezquest (media)
-- Cool and New Web Comic (media)
-- Crossmound (media)
-- Crud Spade (media)
-- Desynced (media)
-- Fatebreak (media)
-- Freeroam (media)
-- Heinoustuck (media)
-- Hexane (media)
-- Janestuck (media)
-- Karkat Goes to a Convention (media)
-- Loftlocked (media)
-- 'MIDNIGHT CREW: Beginning Of The End! (media)'
-- Moonsplit (media)
-- PAY DAT RENT!!!1 (media)
-- Project Skaia (media)
-- Redditstuck (media)
-- Riddle of Dixy (media)
-- Shackstuck (media)
-- SVERT (media)
-- Synodic Reboot (media)
-- Team Paradox (media)
-- Tumblrstuck (media)
-- Vast Error (media)
----
-Tag: Adminstuck (media)
-Direct Descendant Tags:
-- Characters from Adminstuck
-Extra Reading URLs:
-- https://mspfa.com/?s=20770&p=1
----
-Tag: Adobebound (media)
-Direct Descendant Tags:
-- Characters from Adobebound
-Extra Reading URLs:
-- https://mspfa.com/?s=22789&p=1
----
-Tag: Aleph Null (media)
-Direct Descendant Tags:
-- Characters from Aleph Null
-- Locations from Aleph Null
 ---
 Tag: Alternian Misadventures (media)
 Direct Descendant Tags:
@@ -246,15 +191,10 @@ Direct Descendant Tags:
 Extra Reading URLs:
 - https://www.deconreconstruction.com/vasterror/1
 - https://wiki.deconreconstruction.com/wiki/Vast_Error
----
-Tag: Beyond (media)
-Direct Descendant Tags:
-- Cool and New Music Team (media)
-- MIDNIGHT JUNGLE (media)
-- Oceanfalls (media)
-- Pokémon Unbound (media)
-- RAKKA (media)
-- UNDERTALE & DELTARUNE (media)
+
+
+
+
 ---
 Tag: Cool and New Music Team (media)
 Direct Descendant Tags:
@@ -290,26 +230,11 @@ Extra Reading URLs:
 - https://undertale.wiki/w/Undertale
 - https://deltarune.com/
 - https://deltarune.wiki/w/Deltarune
----
-Tag: Additional media
-Direct Descendant Tags:
-- 7 GRAND DAD (media)
-- Angelarium (media)
-- 'Battle Chasers: Nightwar (media)'
-- EarthBound (media)
-- EarthBound Halloween Hack (media)
-- The Earthen Scar (media)
-- The Flintstones (media)
-- Friday Night Funkin' (media)
-- Looney Tunes (media)
-- The NeverEnding Story (media)
-- Portal (media)
-- Rollercoaster Tycoon (media)
-- Shrek (media)
-- The Simpsons (media)
-- Sonic (media)
-- Those Without Shadows (media)
-- Vocaloid (media)
+
+
+
+
+
 ---
 Tag: 7 GRAND DAD (media)
 ---
@@ -766,39 +691,6 @@ Direct Descendant Tags:
 #  Top-level sectionining (immediately beneath "Characters from (media)")
 #  is always by species, but may be arbitrarily subsectioned further.
 #
-
-# Characters from Adminstuck, by species (TBD).
-
----
-Tag: Characters from Adminstuck
-Direct Descendant Tags:
-- Jordan (Adminstuck)
-- Ethan (Adminstuck)
-- Jackson (Adminstuck)
-- Matt (Adminstuck)
-
-# Characters from Adobebound, by species (TBD).
-
----
-Tag: Characters from Adobebound
-Direct Descendant Tags:
-- Izzy (Adobebound)
-- Alice (Adobebound)
-- Fred (Adobebound)
-- Lyle (Adobebound)
-
-# Characters from Aleph Null, by species (TBD).
-
----
-Tag: Characters from Aleph Null
-Direct Descendant Tags:
-- Sauron (Aleph Null)
-- Falmea (Aleph Null)
-- Cyrusk (Aleph Null)
-- Cybele (Aleph Null)
-- Majell (Aleph Null)
-- Heltsm (Aleph Null)
-- Safkas (Aleph Null)
 
 # Characters from Alternian Misadventures by species (TBD).
 
@@ -2187,60 +2079,6 @@ Tag: Ralph Arynn
 Color: '#be4dcb'
 Description: >-
     Trollsona of [[artist:pascal-van-den-bos]].
-
-# Characters from Adminstuck.
-
----
-Tag: Jordan (Adminstuck)
-Color: '#009f00'
----
-Tag: Ethan (Adminstuck)
-Color: '#c054ff'
----
-Tag: Jackson (Adminstuck)
-Color: '#7979ff'
----
-Tag: Matt (Adminstuck)
-Color: '#ff3b3b'
-
-# Characters from Adobebound.
-
----
-Tag: Alice (Adobebound)
-Color: '#F71434'
----
-Tag: Fred (Adobebound)
-Color: '#fc660f'
----
-Tag: Izzy (Adobebound)
-Color: '#8EF664'
----
-Tag: Lyle (Adobebound)
-Color: '#454A82'
-
-# Characters from Aleph Null.
-
----
-Tag: Cybele (Aleph Null)
-Color: '#588a00'
----
-Tag: Cyrusk (Aleph Null)
-Color: '#c36100'
----
-Tag: Falmea (Aleph Null)
-Color: '#d60000'
----
-Tag: Heltsm (Aleph Null)
-Color: '#c900c2'
----
-Tag: Majell (Aleph Null)
-Color: '#0e9bd8'
----
-Tag: Sauron (Aleph Null)
-Color: '#aa0000'
----
-Tag: Safkas (Aleph Null)
-Color: '#ef27f7'
 
 # Characters from Alternian Misadventures
 
@@ -3920,22 +3758,6 @@ Direct Descendant Tags:
 #  haven't been fleshed out much, yet.
 #
 
-# Locations from Aleph Null, by classification.
-
----
-Tag: Locations from Aleph Null
-Direct Descendant Tags:
-- Locations in the Medium (Aleph Null)
----
-Tag: Locations in the Medium (Aleph Null)
-Direct Descendant Tags:
-- LoAaF (Aleph Null)
-- LoCaS (Aleph Null)
-- LoGaP (Aleph Null)
-- LoPaK (Aleph Null)
-- LoRaD (Aleph Null)
-- LoTaF (Aleph Null)
-
 # Locations from Cheezquest, by classification.
 
 ---
@@ -4273,27 +4095,6 @@ Color: '#6bf45f'
 ---
 Tag: LoFaM
 Color: '#aed6f0'
-
-# Locations from Aleph Null.
-
----
-Tag: LoAaF (Aleph Null)
-Color: '#51f6c2'
----
-Tag: LoCaS (Aleph Null)
-Color: '#62ffff'
----
-Tag: LoGaP (Aleph Null)
-Color: '#e56d45'
----
-Tag: LoPaK (Aleph Null)
-Color: '#ff5541'
----
-Tag: LoRaD (Aleph Null)
-Color: '#d17c6a'
----
-Tag: LoTaF (Aleph Null)
-Color: '#ffffcc'
 
 # Locations from Cheezquest.
 
