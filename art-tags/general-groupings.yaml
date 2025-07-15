@@ -1,0 +1,97 @@
+# "General groupings" provides completely arbitrary groupings
+# for characters, locations, and other tags. Sorting within each
+# tag must always be alphabetical, and top-level entry sorting
+# is also completely alphabetical (except for the very top
+# "General groupings" tag, placed at the start), regardless
+# any tag relationships.
+#
+# All tags under "general groupings" have a couple of constraints,
+# in order to keep these contents mostly neatly separated away from
+# the more formal groupings:
+#
+# 1. Any grouping may have one or multiple ancestors, but all
+#    ancestors must only have a single root in total - the top-
+#    level "General groupings" tag.
+#
+# 2. A grouping may have descendants which are more groupings,
+#    or any *other* kind of tag, but not a mix. This means it's
+#    just fine to include characters and locations as direct
+#    descendants of one grouping (i.e. as siblings), for example,
+#    but NOT groupings and characters (as siblings).
+#
+# Otherwise, groupings can be organized to your heart's content!
+# Groupings which contain GROUPINGS must be placed in this section
+# and sorted alphabetically; groupings which contain OTHER TAGS
+# must be placed in the "General grouping entries" section
+# further down.
+
+# Groupings which group groupings
+
+---
+Tag: General groupings
+Direct Descendant Tags:
+- In-universe groups
+- Music groups
+- Real-world people  # in own file
+- Standalone fancharacters
+---
+Tag: In-universe groups
+Direct Descendant Tags:
+- The Felt
+- The Midnight Crew
+---
+Tag: Music groups
+Direct Descendant Tags:
+- Tally Hall
+
+# Groupings which group anything besides groupings
+
+---
+Tag: The Felt
+Direct Descendant Tags:
+- Lord English
+- Doc Scratch
+- Itchy
+- Doze
+- Trace
+- Clover
+- Fin
+- Die
+- Crowbar
+- Snowman
+- Stitch
+- Sawbuck
+- Matchsticks
+- Eggs
+- Biscuits
+- Quarters
+- Cans
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/The_Felt
+---
+Tag: The Midnight Crew
+Direct Descendant Tags:
+- Jack Noir
+- HB
+- DD
+- CD
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Midnight_Crew
+---
+Tag: Standalone fancharacters
+Direct Descendant Tags:
+- Trollsonas
+---
+Tag: Tally Hall
+Direct Descendant Tags:
+- Rob Cantor
+- Joe Hawley
+- Andrew Horowitz
+- Zubin Sedghi
+- Ross Federman
+Extra Reading URLs:
+- https://tallyhall.fandom.com/wiki/Tally_Hall
+---
+Tag: Trollsonas
+Direct Descendant Tags:
+- Ralph Arynn
