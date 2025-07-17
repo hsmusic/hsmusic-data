@@ -1,5 +1,5 @@
 Album: Cascade
-Style: single
+#Style: single
 Artists:
 - Tensei
 Date: July 13, 2025
@@ -20,7 +20,7 @@ Art Tags:
 Track: Cascade (Director's Cut)
 Artists:
 - Tensei
-Duration: 4:31
+Duration: 4:30
 URLs:
 - https://www.youtube.com/watch?v=3hiX0j_uX8w
 - https://open.spotify.com/track/1lm8RLMwPRqG5U9NB8nchb
@@ -32,3 +32,12 @@ Referenced Tracks:
 Commentary: |-
     <i>Tensei:</i> ([YouTube description](https://www.youtube.com/watch?v=Ejw-E2HBtlY))
     A slightly updated/different version of my section of Cascade. The most notable differences are the altered melodies at the start and numerous production improvements such as rerecorded guitars, improved string sections, etc.
+---
+Track: Cascade (Beta)
+Directory: cascade-beta-cascade
+Main Release: track:cascade-beta
+Duration: 4:06
+URLs:
+- https://www.youtube.com/watch?v=NbyLzfmtMns
+- https://open.spotify.com/track/35YPYa9WNPFmLefyjxFzT0
+- https://music.apple.com/song/cascade-beta/1826469339
