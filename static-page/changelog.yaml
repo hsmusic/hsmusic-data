@@ -164,7 +164,7 @@ Content: |-
     - added SoundCloud commentary to [[track:heir-seer-knight-witch]] (thanks, Lan!)
     - added YouTube commentary to [[track:end-of-act]] (thanks, Lan!)
     - added Tumblr commentary to [[album:comfortable-bugs]] (thanks, Lilith, Lan!)
-    - added Bandcamp crediting sources to [[track:empress]], [[track:army-of-the-wicked-god]], [[album:grim-chain-of-feast]], [[album:war-marks]], [[album:rites-of-bloodgrinded]], [[track:his-honorable-tyranny]], [[album:genesis-genocide]], [[album:faces-of-oglogoth]], and [[album:jugglanoids-from-outer-space]] (thanks, Tangle!)
+    - added Bandcamp crediting sources to [[track:empress]], [[track:army-of-the-wicked-god]], [[album:grim-chain-of-feast]], [[album:war-marks]], [[album:rites-of-bloodgrinded]], [[track:his-honorable-tyranny]], [[album:genesis-genocide]], [[album:faces-of-oglogoth]], [[track:im-a-member-of-the-midnight-crew-soapstone]], and [[album:jugglanoids-from-outer-space]] (thanks, Tangle!)
     <!-- artwork additions -->
     - added full-size artworks to [[track:at-the-price-of-oblivion]], [[track:even-in-death]], [[track:trial-and-execution]], [[track:spider8reath]], [[track:lifdoff]], [[track:havoc-to-be-wrought]], and [[track:earthsea-borealis]] (thanks, Meulanie, Lan!)
     - added higher-res artworks to [[track:maplehoofs-adventure]] and [[track:emerald-terror]] (thanks, Meulanie, Makin, Lan!)
@@ -175,8 +175,12 @@ Content: |-
     <!-- art tag additions -->
     - added character tags: [[tag:ethan-adminstuck]], [[tag:jackson-adminstuck]], [[tag:jane-dave-janestuck]], [[tag:jane-jade-janestuck]], [[tag:jane-john-janestuck]], [[tag:jane-rose-janestuck]], [[tag:jane-roxy-janestuck]], [[tag:jordan-adminstuck]], [[tag:matt-adminstuck]] (thanks, Lan, Lilith!)
     <!-- additional name additions -->
-    - added additional names to tracks: (thanks, Lan!)
-        - [[track:old-world]] and [[track:losing-heart]] (Bandcamp album name)
+    - added additional names to tracks: (thanks, Lan, Jackie!)
+        - [[track:capricious-mistress]] (Bandcamp, YouTube, SoundCloud)
+        - [[track:fuchsia-ruler]] (Bandcamp)
+        - [[track:memorialisation]] and [[track:shipwreck-time-and-tide]] (Bandcamp)
+        - [[track:old-world]] and [[track:losing-heart]] (Bandcamp)
+        - [[track:christmas-time-is-here-lo-fi]] (Bandcamp, Spotify)
     <!-- additional file additions -->
     - added MIDI files by HunZhen to [[track:nightlife-extended]] and [[track:jades-lullaby]] (thanks, HunZhen, Lan!)
     <!-- link additions -->
@@ -188,10 +192,12 @@ Content: |-
     - replaced YouTube listening link for [[track:end-of-act]] with artist's upload (thanks, Lilith, Lan!)
     - replaced YouTube listening link for [[track:danger-on-the-dance-floor-mid-boss]] with official upload (thanks, ruby!)
     <!-- citation additions -->
-    - added citation for YouTube commentary on [[track:the-raddest]] (thanks, Lan!)
-    - added citations for Bandcamp commentary on [[track:another-noir]], [[track:perfectly-generic-object]], [[track:empress]], [[track:candles-potency]], [[track:army-of-the-wicked-god]], [[track:remains-of-formed-pain]], [[album:grim-chain-of-feast]], [[album:demo-2019-2021-vicious-valor]], [[album:war-marks]], [[track:legion]], [[album:rites-of-bloodgrinded]], [[album:genesis-genocide]], [[album:faces-of-oglogoth]], [[album:jugglanoids-from-outer-space]], [[track:stratosphere]], [[track:terra-solatrus]], [[album:endless]], [[album:somnium-remastered]], [[track:vivid-spectrum]], [[track:chilled-processor]], [[track:old-world]], and [[track:losing-heart]] (thanks, Tangle, Lan!)
+    - added citations for YouTube commentary on [[track:the-raddest]] and [[album:if-one-shall-indulge]] (thanks, Lan!)
+    - added citations for Bandcamp commentary on [[track:capricious-mistress]], [[track:fuchsia-ruler-single]], [[track:confinis]], [[track:another-noir]], [[track:perfectly-generic-object]], [[track:empress]], [[track:candles-potency]], [[track:army-of-the-wicked-god]], [[track:remains-of-formed-pain]], [[album:grim-chain-of-feast]], [[album:demo-2019-2021-vicious-valor]], [[album:war-marks]], [[track:legion]], [[album:rites-of-bloodgrinded]], [[album:genesis-genocide]], [[album:faces-of-oglogoth]], [[track:im-a-member-of-the-midnight-crew-soapstone]], [[album:jugglanoids-from-outer-space]], [[album:dreamers-diarchy]], [[track:stratosphere]], [[track:terra-solatrus]], [[album:endless]], [[album:somnium-remastered]], [[album:compass]], [[track:vivid-spectrum]], [[album:worlds-await]], [[album:coastal-dreaming]], [[album:some-other-horizon]], [[track:chilled-processor]], [[album:time-and-tide]], [[album:the-changing-light]], [[track:old-world]], [[track:losing-heart]], [[album:the-sky-is-ours]], [[album:flyways]], and [[album:the-sky-beyond-our-bay]] (thanks, Tangle, Lan!)
+    - added citations for SoundCloud commentary on [[album:cartographer-symphony]] and [[track:summer-by-the-sea]] (thanks, Lan!)
     - added citation for newsletter commentary on [[track:skies-forever-blue]] (thanks, Whisper!)
     - added citation for Fangamer commentary on [[track:the-greatest-living-show]] (thanks, Lan!)
+    - added citation for Tumblr commentary on [[track:wherever-you-were]] (thanks, Lan!)
     - added dates for Tumblr commentary on [[track:crystalmethequins-broken-bad]] and [[track:the-greatest-living-show]] (thanks, Lan!)
     - added date and citation link for Discord commentary on [[track:dave-striders-cool-mixtape]] (thanks, Lan!)
     <h3>data changes</h3>
@@ -209,6 +215,7 @@ Content: |-
         - [[track:wilted-petal]], [[track:burn-bright]], [[track:mind-over-chatter]], [[track:face-the-reaper-time-keeper]], [[track:battle-against-perfection]], and [[track:fundamentals-of-matter]] (placeholder)
     <!-- album overarching presentation -->
     - restructured [[album:ophiuchus-full-suite]] into a two-halves album, representing the full suite as a single track as well as its individual parts (moved from a section in [[album:more-homestuck-fandom]]), with track artwork and revised commentary
+    - restructured [[album:flyways]] similarly as [[album:ophiuchus-full-suite]]
     <!-- album presentational tweaks -->
     - revised [[track:center-of-brilliance]] and [[track:candles-and-clockwork-alpha-version]] to present artwork assets from Bandcamp first, with alternatively sourced higher-res cuts as secondary artworks instead (thanks, Lan, Tangle!)
     - revised color of [[album:seven-seas]] to match newly added cover artwork (thanks, Jebb!)
@@ -266,12 +273,17 @@ Content: |-
     - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
     - fixed [[track:ikari-instrumental]] not referencing [[track:ikari]] (vocal version; thanks, Lilith!)
     - fixed [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] not referencing [[track:penumbra-phantasm]] (thanks, ruby, Makin, Jebb, Interrobang, Witch's Cadence, Monckat, Red Rax, Rainy, Meulanie, Jackie, Lan!)
+    - fixed [[track:christmas-time-is-here-lo-fi]] not referencing [[track:christmas-time-is-here-vocal]] (thanks, Lilith, Tangle, Lan!)
     - fixed [[track:radiation-is-now-on-youtube]] referencing [[track:bro-hop]] instead of sampling it (thanks, Lilith, Jackie!)
     - fixed [[track:cobalt-corsair]] artwork not referencing [[track:teal-hunter]] artwork (thanks, Lan!)
     - fixed [[track:old-secret]] artwork ([[album:hiveswap-friendsim]]) not referencing [[album:hiveswap-act-1-ost]] album cover (thanks, Jackie!)
+    - fixed [[track:fuchsia-ruler-single]] (single) artwork not referencing [[track:fuchsia-ruler]] ([[album:coloUrs-and-mayhem-universe-a]]; thanks, Jackie!)
     - added various referencing sources to [[track:dissension-remix]], [[track:white]], [[track:octoroon-rangoon]], [[track:clockwork-sorrow]], [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] (thanks, Lan!)
     <!-- crediting fixes -->
+    - fixed [[track:capricious-mistress]] and [[track:fuchsia-ruler-single]] (single) artworks not crediting [[artist:kezinox]] for 'layout for single' (thanks, Jackie!)
     - fixed [[track:end-of-act]] not crediting [[artist:psithurist]] as part of the choir (thanks, Lan!)
+    - fixed [[track:memorialisation]] crediting [[artist:magnoliajades]] as a standard co-artist rather than a featured artist (thanks, Lan!)
+    - fixed [[track:shipwreck-time-and-tide]] crediting [[artist:serialsymphony]] as a standard co-artist rather than a featured artist (thanks, Lan!)
     - fixed [[track:bad-apple-lovelight]] not crediting [[artist:nomico]] as a featured artist, and not crediting [[artist:harukapakapa]] for lyrics (thanks, Lan!)
     - fixed [[track:never-gonna-give-you-up]] crediting [[artist:stock-aitken-waterman]] as artist and [[artist:rick-astley]] as contributor, instead of the reverse (thanks, Lan!)
     <!-- merged artists -->
@@ -312,7 +324,7 @@ Content: |-
     - fixed misplaced commentary for [[track:ophiuchus-full-suite-lofam5]] ([[album:lofam5]] - was placed on [[track:ophiuchus-full-suite|original release]] instead; thanks, Whisper!)
     - fixed Bandcamp credits blurb for [[album:jailbreak-vol-1]] listing [[artist:cadalyst]] instead of [[artist:rebecca-harding]] (thanks, Lilith!)
     - fixed some sneaky capitalization errors where the name of the track on the wiki was used, instead of the capitalization written in source commentary, in [[track:dance-stab-dance]], [[track:a-life-worth-living]], and [[track:cinders-oceanfalls]] (thanks, Lan!)
-    - fixed some line break errors in commentary or other content text for [[track:vivid-spectrum]], [[track:versus-hardmode-remix]], [[track:remains-of-formed-pain]], [[album:grim-chain-of-feast]], [[album:demo-2019-2021-vicious-valor]], [[track:legion]], [[album:rites-of-bloodgrinded]], [[album:faces-of-oglogoth]], [[track:adventurous-ascent-single-version]], and [[track:infinite-cataclysm]] (thanks, Tangle!)
+    - fixed some line break errors in commentary or other content text for [[track:vivid-spectrum]], [[track:versus-hardmode-remix]], [[track:remains-of-formed-pain]], [[album:grim-chain-of-feast]], [[album:demo-2019-2021-vicious-valor]], [[track:legion]], [[album:rites-of-bloodgrinded]], [[album:faces-of-oglogoth]], [[track:im-a-member-of-the-midnight-crew-soapstone]], [[track:adventurous-ascent-single-version]], and [[track:infinite-cataclysm]] (thanks, Tangle!)
     - fixed broken image embed in [[track:aaaaaaaaaaaaa-post-canon-version]] (for "In the Court of the Crimson King")
     - made a handful of formatting or transcription tweaks across YouTube video commentary for [[album:of-troles-and-chiptumes]] (thanks, cookiefonster!)
     - fixed Bandcamp link in booklet commentary for [[track:dwelling-among-the-dream-bubbles]] (was to a functioning, but outdated, "the-divide-ep" URL; thanks, Lilith!)
