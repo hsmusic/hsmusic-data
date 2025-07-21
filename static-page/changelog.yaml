@@ -99,6 +99,14 @@ Content: |-
     - added latest releases from [[group:undertale-and-deltarune]]! (thanks, ruby!)
         - added [[album:deltarune-soundtrack]]!
         - added [[album:deltarune-ch3-4-ost]]!
+    - added special release soundtracks and other additional releases from [[group:undertale-and-deltarune]]! (thanks, ruby, bit, Lan, Tangle!)
+        - added [[album:undertale-soundtrack-cd]]!
+        - added [[album:undertale-collectors-edition-soundtrack]]!
+        - added [[album:undertale-complete-ost]]!
+        - added [[album:undertale-demo-ost]]!
+        - added [[album:undertale-fan-selection-cd]]!
+        - added [[album:undertale-deltarune-fan-encore-cd]]!
+        - added [[album:mad-mew-mew]]!
     - added newsletter clippings from [[group:undertale-and-deltarune]]! (thanks, ruby, Lan, Whisper!)
         - added [[album:deltarune-status-update-sept-2022]]!
         - added [[album:deltarune-ch3-status-update]]!
@@ -222,6 +230,7 @@ Content: |-
     - revised colors of [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] (thanks, ruby, Cello, Jebb!)
     <!-- structural or organizational changes for art tags -->
     - sorted tags which fall under various [[tag:location-classifications]], including [[tag:astronomical-bodies]] and [[tag:locations-in-the-medium]], alphabetically (thanks, Lan!)
+    - reorganized character tags under [[tag:undertale-and-deltarune-media]] across the board (thanks, ruby, Lan!)
     <!-- miscellaneous preesntational changes -->
     - touched up commentary in [[album:7th-gate-project]]
     - touched up commentary in [[track:showtime-svix-mix]] (thanks, Tangle!)
@@ -230,8 +239,13 @@ Content: |-
     <!-- tracks newly marked as a secondary release -->
     - marked [[track:denizen-lofam4]] ([[album:lofam4]]) newly as a secondary release (thanks, Jebb!)
     - marked [[track:frost-and-frogs-lofam5a2]] ([[album:lofam5a2]]) newly as a secondary release (thanks, Lilith!)
+    - marked [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]] newly as a secondary release (thanks, ruby!)
     - marked tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] as secondary releases, with main releases now on [[album:deltarune-soundtrack]] (thanks, ruby!)
-    <!-- tracks moved within an album, etc -->
+    <!-- tracks moved within an album, between albums, etc -->
+    - moved various tracks out of [[album:undertale-soundtrack]], previously under "CD/Vinyl bonus tracks" section, to their proper main releases (thanks, ruby!)
+        - moved [[track:mysterious-shrine]], [[track:absolutely-overfamiliar-shrine]], [[track:bonetrousle-trailer-version]], and [[track:before-the-story]] to [[album:undertale-collectors-edition-soundtrack]]
+        - moved [[track:dating-start-fm-version]], [[track:bereavement]], and [[track:dog-dating]] to [[album:undertale-soundtrack-cd]]
+        - moved [[track:mad-mew-mew]] to single release
     - moved [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) from "Music from video games" to "Other music originating outside Homestuck" (thanks, Lan, bit!)
     <!-- track section/placement changes (not fixes) -->
     - moved [[track:the-respect-you-rightfully-deserve-single]] from [[album:more-homestuck-fandom]] to [[album:the-respect-you-rightfully-deserve|single release]] (thanks, Lilith!)
@@ -265,6 +279,9 @@ Content: |-
         - fixed [[track:shake-your-tail]] not referencing [[track:shake-your-tail-original]] (original single)
         - fixed [[track:fire-forget]] not referencing [[track:fire-forget-original]] (original single)
         - fixed [[track:fin-induction]] referencing [[track:goodbye-induction]], [[track:verisimilitude-induction]], [[track:fire-forget]], [[track:wistful-induction]], [[track:shake-your-tail]], instead of [[track:goodbye-original]], [[track:verisimilitude-original]], [[track:fire-forget-original]], [[track:wistful-original]], [[track:shake-your-tail-original]] (original singles)
+    - fixed [[track:start-menu]] referencing [[track:once-upon-a-time]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
+    - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) sampling [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]]), instead of being the track's main release (thanks, ruby!)
+    - fixed [[track:menu-full]] referencing [[track:start-menu]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - updated a bunch of Deltarune references to point to in-between WIPs from [[album:deltarune-ch2-rejected-tracks]] (thanks, ruby!)
         - fixed [[track:my-castle-town]] referencing [[track:the-legend]] instead of [[track:castle-town-unfinished]]
         - fixed [[track:attack-of-the-killer-queen]] referencing [[track:queen-deltarune]] instead of [[track:queen-battle-original]]
