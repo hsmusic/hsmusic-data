@@ -2002,17 +2002,6 @@ Duration: 3:00
 URLs:
 - https://www.youtube.com/watch?v=1x4eaXGtNoQ
 ---
-Track: 100m Clear
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:10
-URLs:
-- https://www.youtube.com/watch?v=fOeMF7MFc-4
----
 Track: 100m Theme
 # Reference:
 #   https://vgmdb.net/product/10348
@@ -8996,6 +8985,18 @@ Duration: 0:37
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3d033b22-b6e2-4ae3-b1cd-af1a5e0360f3
 - https://www.youtube.com/watch?v=6K6PnejXNGw
+---
+Track: Round 3 Clear (Donkey Kong)
+# Reference:
+#   https://vgmdb.net/product/10348
+#   https://vgmdb.net/album/1412
+Artists:
+- Donkey Kong
+- Yukio Kaneoka
+Duration: 0:8
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/168b19fc-1445-4ef3-8b4a-d716772f7eeb
+- https://www.youtube.com/watch?v=lDrzvAzl9us
 ---
 Track: Round Clear Music (Mappy)
 # Reference:
