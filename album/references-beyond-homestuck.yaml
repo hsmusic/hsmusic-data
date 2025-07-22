@@ -2002,17 +2002,6 @@ Duration: 3:00
 URLs:
 - https://www.youtube.com/watch?v=1x4eaXGtNoQ
 ---
-Track: 25m Theme
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:19
-URLs:
-- https://www.youtube.com/watch?v=wV0686NfV6A
----
 Track: 100m Clear
 # Reference:
 #   https://vgmdb.net/product/10348
@@ -8995,6 +8984,18 @@ Duration: 0:04
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/32afaae9-021d-4434-b1a2-6a23a8b7fe11
 - https://www.youtube.com/watch?v=0ns18p3dRH0
+---
+Track: Round 1 BGM (Donkey Kong)
+# Reference:
+#   https://vgmdb.net/product/10348
+#   https://vgmdb.net/album/1412
+Artists:
+- Donkey Kong
+- Yukio Kaneoka
+Duration: 0:37
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/3d033b22-b6e2-4ae3-b1cd-af1a5e0360f3
+- https://www.youtube.com/watch?v=6K6PnejXNGw
 ---
 Track: Round Clear Music (Mappy)
 # Reference:
