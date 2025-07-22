@@ -2002,17 +2002,6 @@ Duration: 3:00
 URLs:
 - https://www.youtube.com/watch?v=1x4eaXGtNoQ
 ---
-Track: 100m Theme
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:18
-URLs:
-- https://www.youtube.com/watch?v=BU-ALxknLpU
----
 Track: '2:00 a.m. (Animal Crossing: Wild World)'
 # Reference:
 #   https://vgmdb.net/album/5720
@@ -8985,6 +8974,18 @@ Duration: 0:37
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3d033b22-b6e2-4ae3-b1cd-af1a5e0360f3
 - https://www.youtube.com/watch?v=6K6PnejXNGw
+---
+Track: Round 3 BGM (Donkey Kong)
+# Reference:
+#   https://vgmdb.net/product/10348
+#   https://vgmdb.net/album/1412
+Artists:
+- Donkey Kong
+- Yukio Kaneoka
+Duration: 0:18
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/4ff63f3e-3960-4e2c-99c4-4d9f01ecc24b
+- https://www.youtube.com/watch?v=SDIXlTPnu4g
 ---
 Track: Round 3 Clear (Donkey Kong)
 # Reference:
