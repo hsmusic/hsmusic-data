@@ -3294,14 +3294,15 @@ Duration: 1:31
 URLs:
 - https://www.youtube.com/watch?v=Wa1-WZIyYco
 ---
-Track: BGM A (Wrecking Crew)
+Track: Phase BGM (Wrecking Crew)
 # Reference:
 #   https://vgmdb.net/album/1419
 Artists:
 - Wrecking Crew
 - Hirokazu Tanaka
-Duration: 2:05
+Duration: 1:58
 URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/da6fcc8a-cceb-414f-8382-8864ad85f984
 - https://www.youtube.com/watch?v=qEPciC7x0ck
 ---
 Track: BGM B (Power Up) (Wrecking Crew)
@@ -10098,6 +10099,17 @@ Duration: 2:25
 URLs:
 - https://www.youtube.com/watch?v=3gLhy5GcGr8
 ---
+Track: Title BGM (Duck Hunt)
+# Reference:
+#   https://vgmdb.net/album/1424
+Artists:
+- Duck Hunt
+- Hirokazu Tanaka
+Duration: 0:05
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/955e0341-f7ac-4ad4-ac9b-2787156a1fcd
+- https://www.youtube.com/watch?v=gHHoR5kMooY
+---
 Track: Title (Find Mii)
 # Reference:
 #   https://nintendo.fandom.com/wiki/Daisuke_Matsuoka#Game_Works
@@ -10151,17 +10163,6 @@ Artists:
 Duration: 1:09
 URLs:
 - https://www.youtube.com/watch?v=39FN_LsRMzE
----
-Track: Title BGM (Duck Hunt)
-# Reference:
-#   https://vgmdb.net/album/1424
-Artists:
-- Duck Hunt
-- Hirokazu Tanaka
-Duration: 0:05
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/955e0341-f7ac-4ad4-ac9b-2787156a1fcd
-- https://www.youtube.com/watch?v=gHHoR5kMooY
 ---
 Track: 'Title Screen: Main Theme (Pokémon Ruby / Pokémon Sapphire)'
 # Reference:
