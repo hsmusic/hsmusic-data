@@ -2517,15 +2517,16 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=18TTxhoF_EI
 ---
-Track: Athletic BGM (Yoshi's Island)
-# Reference:
-#   https://vgmdb.net/album/281
+Track: "Athletic BGM (Super Mario World 2: Yoshi's Island)"
+Directory: athletic-bgm-yoshis-island
 Artists:
+- Super Mario
 - Yoshi
 - Koji Kondo
-Duration: 2:11
+Duration: 2:10
 URLs:
 - https://www.youtube.com/watch?v=oKJ2EZnnZRE
+- https://m.nintendo.com/shared/en-US/US/tracks/91372f53-f0f6-4114-a732-f2ec84d55aba
 ---
 Track: Awake
 Directory: awake-castlevania
@@ -5212,15 +5213,17 @@ URLs:
 Referenced Tracks:
 - Meet the Flintstones
 ---
-Track: Flower Field BGM (Yoshi's Island)
+Track: Flower Field BGM
 # Reference:
 #   https://vgmdb.net/album/281
 Artists:
+- Super Mario
 - Yoshi
 - Koji Kondo
 Duration: 2:53
 URLs:
 - https://www.youtube.com/watch?v=DTpksvCC-hg
+- https://m.nintendo.com/shared/en-US/US/tracks/b2cb2d99-5b44-4dc5-8e4f-0b7b8042f375
 ---
 Track: Flying Battery Zone Act 1
 # Official release (as Flying Battery)
@@ -5674,15 +5677,18 @@ Artists:
 #URLs:
 #-
 ---
-Track: Goal! (Yoshi's Island)
+Track: "Goal! (Super Mario World 2: Yoshi's Island)"
+Directory: goal-yoshis-island
 # Reference:
 #   https://vgmdb.net/album/281
 Artists:
+- Super Mario
 - Yoshi
 - Koji Kondo
-Duration: 0:50
+Duration: 0:49
 URLs:
 - https://www.youtube.com/watch?v=u1pHkjyuWKU
+- https://m.nintendo.com/shared/en-US/US/tracks/0436e7b2-9633-4888-a5c7-67fd69762080
 ---
 Track: Gobi's Valley
 # Reference:
@@ -9701,15 +9707,18 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=YGBJAmTDKYI
 ---
-Track: Stage Start (Yoshi's Island)
+Track: "Stage Start (Super Mario World 2: Yoshi's Island)"
+Directory: stage-start-yoshis-island
 # Reference:
 #   https://vgmdb.net/album/281
 Artists:
+- Super Mario
 - Yoshi
 - Koji Kondo
-Duration: 0:04
+Duration: 0:02
 URLs:
 - https://www.youtube.com/watch?v=CcTEpaL_GVc
+- https://m.nintendo.com/shared/en-US/US/tracks/0665ee1a-8876-4d35-b4b2-2797752f273e
 ---
 Track: The Stains of Time
 Artists:
@@ -10448,15 +10457,18 @@ Duration: 1:59
 URLs:
 - https://www.youtube.com/watch?v=8SnXrTiynHM
 ---
-Track: Underground BGM (Yoshi's Island)
+Track: "Underground BGM (Super Mario World 2: Yoshi's Island)"
+Directory: underground-bgm-yoshis-island
 # Reference:
 #   https://vgmdb.net/album/281
 Artists:
+- Super Mario
 - Yoshi
 - Koji Kondo
-Duration: 1:46
+Duration: 1:45
 URLs:
 - https://www.youtube.com/watch?v=tnYYq41fCjs
+- https://m.nintendo.com/shared/en-US/US/tracks/5fd7db93-8944-4443-8193-ecf28f0e6f09
 ---
 Track: Underground Ruins
 # Reference:
