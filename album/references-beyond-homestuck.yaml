@@ -2096,8 +2096,9 @@ Track: The Adventure Continues - For Horizon Heights Act 1
 # Reference:
 #   https://vgmdb.net/album/40053
 Artists:
-- Sonic the Hedgehog
 - James Landino
+Media:
+- Sonic After the Sequel (game)
 Duration: 4:13
 URLs:
 - https://www.youtube.com/watch?v=-7WQn-SXYZ
@@ -2520,9 +2521,9 @@ URLs:
 Track: "Athletic BGM (Super Mario World 2: Yoshi's Island)"
 Directory: athletic-bgm-yoshis-island
 Artists:
-- Super Mario
-- Yoshi
 - Koji Kondo
+Media:
+- "Super Mario World 2: Yoshi's Island (game)"
 Duration: 2:10
 URLs:
 - https://www.youtube.com/watch?v=oKJ2EZnnZRE
@@ -2559,8 +2560,9 @@ Track: Back 2 Back
 # Reference:
 #   https://vgmdb.net/album/1651
 Artists:
-- Sonic the Hedgehog
 - Hideki Naganuma
+Media:
+- Sonic Rush (game)
 Duration: 3:00
 URLs:
 - https://www.youtube.com/watch?v=0JY3W5J2UeI
@@ -3188,8 +3190,9 @@ Track: Before the Sequel - Title Screen
 # Reference:
 #   https://vgmdb.net/album/34568
 Artists:
-- Sonic the Hedgehog
 - Falk Au Yeong
+Media:
+- Sonic Before the Sequel (game)
 Duration: 0:30
 URLs:
 - https://www.youtube.com/watch?v=-7WQn-SXY
@@ -3452,8 +3455,9 @@ Track: Bomber Barbara
 # Reference:
 #   https://vgmdb.net/album/1651
 Artists:
-- Sonic the Hedgehog
 - Hideki Naganuma
+Media:
+- Sonic Rush (game)
 Duration: 2:08
 URLs:
 - https://www.youtube.com/watch?v=L4KIxqTYGGI
@@ -3579,8 +3583,9 @@ Track: Breakfast Time - For Horizon Heights Boss Act Phase 2
 # Reference:
 #   https://vgmdb.net/album/40053
 Artists:
-- Sonic the Hedgehog
 - James Landino
+Media:
+- Sonic After the Sequel (game)
 Duration: 3:10
 URLs:
 - https://www.youtube.com/watch?v=-7WQn-SXYZ
@@ -3890,11 +3895,12 @@ Track: Cosmic Eternity - Believe in Yourself
 # Reference:
 #   https://vgmdb.net/album/29131
 Artists:
-- Sonic the Hedgehog
 - Naofumi Hataya
 Contributors:
 - Keiko Utoku (vocals)
 - Casey Rankin (lyrics & vocals)
+Media:
+- Sonic CD (game)
 Duration: 3:09
 URLs:
 - https://www.youtube.com/watch?v=IKbr_p4ZBXw
@@ -4178,8 +4184,9 @@ Track: Danger on the Dance Floor - Mid-Boss
 # Reference
 #   https://vgmdb.net/album/74207
 Artists:
-- Sonic the Hedgehog
 - Tee Lopes
+Media:
+- Sonic Mania (game)
 Duration: 2:07
 URLs:
 - https://www.youtube.com/watch?v=wCf3dCnWmTg
@@ -4785,8 +4792,9 @@ Track: Egg Reverie - Egg Reverie Zone
 # Reference
 #   https://vgmdb.net/album/74207
 Artists:
-- Sonic the Hedgehog
 - Tee Lopes
+Media:
+- Sonic Mania (game)
 Duration: 3:07
 URLs:
 - https://www.youtube.com/watch?v=z4jFUSxcpys
@@ -4875,8 +4883,9 @@ Track: Evening Star
 # No official release of the in-game track, name is from in-game sound test feature
 # No concrete proof for which of the two composers for Knuckles' Chaotix made this particular track, but it's widely accepted as only Junko Shiratsu
 Artists:
-- Sonic the Hedgehog
 - Junko Shiratsu
+Media:
+- Chaotix (game)
 URLs:
 - https://www.youtube.com/watch?v=O9XLWW39F08
 ---
@@ -5108,7 +5117,6 @@ Track: Fist Bump
 # Reference:
 #   https://vgmdb.net/album/72211
 Artists:
-- Sonic the Hedgehog
 - Tomoya Ohtani (composer & arranger)
 Contributors:
 - Douglas Robb (vocals & lyrics)
@@ -5118,6 +5126,8 @@ Contributors:
 - Susumu Nishikawa (guitars)
 - Akinori Yamada (bass)
 - Yoshio Arimatsu (drums)
+Media:
+- Sonic Forces (game)
 Duration: 4:30
 URLs:
 - https://www.youtube.com/watch?v=eCkWlRL3_N0
@@ -5232,17 +5242,21 @@ Track: Flying Battery Zone Act 1
 #    https://vgmdb.net/album/29437
 # sorry if the duration of the video doesn't match the listed duration, the ones I found that were 1:31 in length but the echo went gradually out of sync after the first loop so I had to find this one
 Artists:
-- Sonic the Hedgehog
+- Unknown Artist
+Media:
+- Sonic & Knuckles (game)
 Duration: 1:47
 URLs:
 - https://www.youtube.com/watch?v=_T7hdIh-gtw
 ---
 Track: Flying Battery Zone Act 2
 # No official release of the in-game track (or Sonic the Hedgehog 3 & Knuckles' in-game soundtrack at all)
+Artists:
+- Unknown Artist
+Media:
+- Sonic & Knuckles (game)
 Referenced Tracks:
 - Flying Battery Zone Act 1
-Artists:
-- Sonic the Hedgehog
 URLs:
 - https://www.youtube.com/watch?v=qXchxWqLqyc
 ---
@@ -5800,8 +5814,9 @@ Track: Green Hill Zone
 # Reference:
 #   https://vgmdb.net/album/26814
 Artists:
-- Sonic the Hedgehog
 - Masato Nakamura
+Media:
+- Sonic the Hedgehog (game)
 Duration: 2:38
 URLs:
 - https://www.youtube.com/watch?v=NaAb1s0MCQQ
@@ -5828,8 +5843,9 @@ Track: Ground BGM (Super Mario Bros.)
 #   https://vgmdb.net/album/3436
 #   https://vgmdb.net/album/507
 Artists:
-- Super Mario
 - Koji Kondo
+Media:
+- Super Mario Bros. (game)
 Duration: 3:07
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/efc61259-826b-401d-92ec-17fb452bd6c2
@@ -5839,8 +5855,9 @@ Track: Ground BGM (Super Mario Bros. 2)
 # Reference:
 #   https://vgmdb.net/album/54247
 Artists:
-- Super Mario
 - Koji Kondo
+Media:
+- Super Mario Bros. 2 (game)
 Duration: 1:34
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/30c5c8d3-c22b-4a98-900e-38869ab77a14
@@ -5850,8 +5867,9 @@ Track: Ground BGM (Super Mario Bros. 3)
 # Reference:
 #   https://vgmdb.net/album/54247
 Artists:
-- Super Mario
 - Koji Kondo
+Media:
+- Super Mario Bros. 3 (game)
 Duration: 1:10
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/d3b2ef81-2215-4e05-9b00-67276c449fa8
@@ -6160,7 +6178,9 @@ Track: Hydro City Zone Act 1
 #   https://sonic.fandom.com/wiki/Sonic_Origins/Museum
 #   https://info.sonicretro.org/Sonic_the_Hedgehog_3/Development/Music
 Artists:
-- Sonic the Hedgehog
+- Unknown Artist
+Media:
+- Sonic the Hedgehog 3 (game)
 URLs:
 - https://www.youtube.com/watch?v=CrWepCaCJ7c
 ---
@@ -6170,8 +6190,9 @@ Track: Hydro City Zone Act 2
 #   https://sonic.fandom.com/wiki/Sonic_Origins/Museum
 #   https://info.sonicretro.org/Sonic_the_Hedgehog_3/Development/Music
 Artists:
-- Sonic the Hedgehog
 - Masayuki Nagao
+Media:
+- Sonic the Hedgehog 3 (game)
 URLs:
 - https://www.youtube.com/watch?v=PNYL4w-qxcE
 Referenced Tracks:
@@ -6267,12 +6288,13 @@ Always Reference By Directory: true
 # Reference:
 #   https://vgmdb.net/album/72211
 Artists:
-- Sonic the Hedgehog
 - Tomoya Ohtani (composer & arranger)
 Contributors:
 - Tyler Smyth (lyrics, rap & vocals)
 - Andy Bane (lyrics & vocals)
 - Jun Senoue (guitars)
+Media:
+- Sonic Forces (game)
 URLs:
 - https://www.youtube.com/watch?v=Ki_Nn95hj48
 Duration: 4:35
@@ -6980,8 +7002,9 @@ Track: Lights, Camera, Action! - Studiopolis Zone Act 1
 #   https://vgmdb.net/album/74207
 #   https://sonic.sega.jp/SonicChannel/topics/sound/20180117_001527/
 Artists:
-- Sonic the Hedgehog
 - Tee Lopes
+Media:
+- Sonic Mania (game)
 Duration: 3:07
 URLs:
 - https://www.youtube.com/watch?v=NIWyZmFSep0
@@ -7459,8 +7482,9 @@ Track: Metallic Madness
 # Reference:
 #   https://vgmdb.net/album/29131
 Artists:
-- Sonic the Hedgehog
 - Naofumi Hataya
+Media:
+- Sonic CD (game)
 Duration: 1:51
 URLs:
 - https://www.youtube.com/watch?v=8v26dA0kcsQ
@@ -7758,8 +7782,9 @@ URLs:
 ---
 Track: A New Day
 Artists:
-- Sonic the Hedgehog
 - Hideki Naganuma
+Media:
+- Sonic Rush (game)
 Duration: 2:22
 URLs:
 - https://www.youtube.com/watch?v=NMBL43I3r4g
@@ -7958,7 +7983,6 @@ Track: Open Your Heart
 # Reference:
 #   https://vgmdb.net/album/2072
 Artists:
-- Sonic the Hedgehog
 - Crush 40
 Contributors:
 - Jun Senoue (composer & arranger, Japanese lyrics, guitars)
@@ -7967,6 +7991,8 @@ Contributors:
 - Johnny Gioeli (vocals)
 - Naoto Shibata (bass)
 - Hirotsugu Homma (drums)
+Media:
+- Sonic Adventure (game)
 Duration: 5:11
 URLs:
 - https://www.youtube.com/watch?v=OrblPxDdUWg
@@ -8883,8 +8909,9 @@ Track: Right There, Ride On
 #   https://vgmdb.net/album/1651
 #   https://sonic.fandom.com/wiki/Right_There,_Ride_On
 Artists:
-- Sonic the Hedgehog
 - Hideki Naganuma
+Media:
+- Sonic Rush (game)
 Duration: 1:38
 URLs:
 - https://www.youtube.com/watch?v=_NpqKMesXWM
@@ -9541,10 +9568,11 @@ Track: Sonic Electronic
 # Reference
 #   https://vgmdb.net/album/2054
 Artists:
-- Sonic the Hedgehog
 - Emerald Hill
 - Spike Shellcracker
 - Oscar Oberheim
+Media:
+- Sonic the Hedgehog (series - official)
 Duration: 3:07
 URLs:
 - https://www.youtube.com/watch?v=MkdbN7xDkAM
@@ -10288,8 +10316,9 @@ Track: Toxic Caves
 # Reference:
 #   https://vgmdb.net/album/121665
 Artists:
-- Sonic the Hedgehog
 - Howard Drossin
+Media:
+- Sonic Spinball (game)
 Duration: 3:29
 URLs:
 - https://youtu.be/KYhA2RisjP0?t=43
@@ -10691,8 +10720,9 @@ Track: Vela-Nova
 # Reference:
 #   https://vgmdb.net/album/1651
 Artists:
-- Sonic the Hedgehog
 - Hideki Naganuma
+Media:
+- Sonic Rush (game)
 Duration: 3:00
 URLs:
 - https://www.youtube.com/watch?v=-7WQn-SXYZ4
@@ -11149,8 +11179,9 @@ Track: Wrapped in Black
 #   https://vgmdb.net/album/1651
 #   https://sonic.fandom.com/wiki/Wrapped_in_Black
 Artists:
-- Sonic the Hedgehog
 - Hideki Naganuma
+Media:
+- Sonic Rush (game)
 Duration: 2:35
 URLs:
 - https://www.youtube.com/watch?v=IvyelV9e4UY
@@ -12618,9 +12649,10 @@ URLs:
 Track: Dr. Robotnik's Theme (Adventures of Sonic the Hedgehog)
 Duration: 0:48
 Artists:
-- Sonic the Hedgehog
 - Mark Simon
 - Reed Robbins
+Media:
+- Adventures of Sonic the Hedgehog (show)
 URLs:
 - https://www.youtube.com/watch?v=qxeSNmd55Yc
 ---
