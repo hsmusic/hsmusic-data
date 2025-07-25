@@ -298,6 +298,13 @@ Content: |-
     - fixed [[track:fuchsia-ruler-single]] (single) artwork not referencing [[track:fuchsia-ruler]] ([[album:coloUrs-and-mayhem-universe-a]]; thanks, Jackie!)
     - added various referencing sources to [[track:dissension-remix]], [[track:white]], [[track:octoroon-rangoon]], [[track:clockwork-sorrow]], [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] (thanks, Lan!)
     <!-- crediting fixes -->
+    - fixed many cases of crediting both a solo musician's "main" artist and the actual album artist, as album co-artists (thanks, Jackie, Whisper!)
+        - for example, [[album:intermission]] was previously "by [[artist:kalibration]] and [[artist:screamcatcher]]", and is now just "by [[artist:screamcatcher]]"
+        - these credits existed so that the albums' tracks would be included in both the main artist's and the alias' chronology (i.e. so you could see all Screamcatcher tracks on the [[artist:screamcatcher]] artist page)
+        - this weird double-crediting was causing trouble with new features that care about the artists of an album (rather than of its tracks), and was just a miscredit on the album pages anyway
+        - trouble sorted out... for now... with new "Track Artists" field, which indicates the tracks' artists, and can differ from the album's artists
+        - [[group:kalibration]] ([[artist:screamcatcher]]) and [[group:xszelor]] ([[artist:realmite]], [[artist:highblood]], [[artist:dvojka]]): moved "main" album artist ([[artist:kalibration]], [[artist:xszelor]]) out of album artists, keeping same credits on tracks
+        - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
     - fixed [[track:capricious-mistress]] and [[track:fuchsia-ruler-single]] (single) artworks not crediting [[artist:kezinox]] for 'layout for single' (thanks, Jackie!)
     - fixed [[track:end-of-act]] not crediting [[artist:psithurist]] as part of the choir (thanks, Lan!)
     - fixed [[track:memorialisation]] crediting [[artist:magnoliajades]] as a standard co-artist rather than a featured artist (thanks, Lan!)
