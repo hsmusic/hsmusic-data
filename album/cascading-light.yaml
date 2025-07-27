@@ -1,12 +1,29 @@
 Album: Cascading Light
+Style: single
 Artists:
 - artist:kobacat
 Date: April 21, 2022
 Date Added: April 13, 2024
 URLs:
 - https://kobacat.bandcamp.com/track/cascading-light
-Cover Artists:
-- artist:kobacat
+- https://soundcloud.com/kensabrush/cascading-to-the-light
+Cover Artwork:
+- Artists:
+  - artist:kobacat
+  Referenced Artworks:
+  - Homestuck Vol. 8
+  Tags:
+  - Earth
+  - LoWaS
+  - LoHaC
+- Label: Earlier artwork
+  Directory: soundcloud
+  Attach Above: true
+  Date: 4/20/2022
+  Referenced Artworks: []
+  Tags: [Earth]
+  Source: >-
+    [SoundCloud](https://soundcloud.com/kensabrush/cascading-to-the-light)
 Color: '#C5DBC7'
 Groups:
 - Fandom
@@ -18,18 +35,14 @@ Track Art File Extension: png
 Wallpaper Style: |-
     opacity: 0.8;
     background-position: top left;
-Art Tags:
-- Earth
-- LoWaS
-- LoHaC
 ---
 Track: Cascading Light
 Additional Names:
-- Name: Cascading to the Light
-  Annotation: earlier SoundCloud name
+- Name: >-
+    Cascading to the Light
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/kensabrush/cascading-to-the-light)
 Duration: 3:04
-URLs:
-- https://kobacat.bandcamp.com/track/cascading-light
 Referenced Tracks:
 - Light at the End of the Tunnel
 Sampled Tracks:

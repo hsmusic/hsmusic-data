@@ -8,13 +8,22 @@ URLs:
 - https://youtu.be/VZ8kRr58Wr0
 Artists:
 - Soapstone
-Cover Artists:
-- Soapstone
-Cover Art File Extension: png
-Track Art File Extension: png
+Cover Artwork:
+- Label: Cover artwork
+  File Extension: png
+  Artists:
+  - Soapstone
+  Tags:
+  - Vriska
+- Label: Track artwork
+  Directory: track
+  File Extension: png
+  Dimensions: 1400x1583
+  Artists:
+  - Soapstone
+  Tags:
+  - SBaHJ
 Color: '#D7D6D4'
-Art Tags:
-- Vriska
 Groups:
 - Fandom
 ---
@@ -24,7 +33,6 @@ Always Reference By Directory: true
 Duration: 3:19
 Cover Artists:
 - Soapstone
-Cover Art Dimensions: 1400x1583
 Referenced Tracks:
 - track:im-a-member-of-the-midnight-crew
 - I'm a Member of the Midnight Crew (Post-Punk Version)

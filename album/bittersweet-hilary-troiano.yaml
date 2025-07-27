@@ -1,5 +1,6 @@
 Album: Bittersweet
 Directory: bittersweet-hilary-troiano
+Style: single
 Artists:
 - Hilary Troiano
 Date: March 20, 2010
@@ -21,6 +22,11 @@ Wallpaper File Extension: png
 Color: '#febc90'
 Groups:
 - Beyond
+---
+Track: Bittersweet
+Directory: bittersweet-hilary-troiano
+Always Reference By Directory: true
+Duration: 5:20
 Commentary: |-
     <i>Hilary Troiano:</i> ([Bandcamp credits blurb](https://jaydeis.bandcamp.com/track/bittersweet))
 
@@ -39,7 +45,7 @@ Commentary: |-
     Fun fact 2: A lot of my songs have partial or full lyrics to them, which you'll never hear because they read like bad middle school poetry and I sound like a frog.
 
     Fun fact 3: Yes I know that that instrument is supposed to be used for the baseline. I wanted a more strummy sound for the baseline and a more flutey sound for the melody, so I figured I'd switch them. Apparently this is committing a grave sin in chiptunes, as a better musician has told me to knock that shit off. So fine, I won't do it again. I mean, I won't fix any of my old songs that do it because I'm lazy, but now I know better.
-    
+
     <i>Luke Benjamins:</i> (Tumblr reblog)
 
     but that's one of the reasons i like this
@@ -47,10 +53,3 @@ Commentary: |-
     <i>Hilary Troiano:</i> ([Tumblr reblog](https://jaydeis.tumblr.com/post/48472286151/gamefreakdude-jaydeis-gamefreakdude-posts), April 20, 2013)
 
     See, sometimes I could swear that some NES music did this for the same reasons I did, but the only example I can find is [this one](https://www.youtube.com/watch?v=MRcDLaacTf0).
----
-Track: Bittersweet
-Directory: bittersweet-hilary-troiano
-Always Reference By Directory: true
-Duration: 5:20
-URLs:
-- https://jaydeis.bandcamp.com/track/bittersweet
