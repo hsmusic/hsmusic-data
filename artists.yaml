@@ -273,20 +273,20 @@ Artist: Aki Haruyama
 ---
 Artist: Aki Hata
 ---
-Artist: Akihisa Tsuboy
----
 Artist: Akihiro Honda
+---
+Artist: Akihisa Tsuboy
 ---
 Artist: Akinori Yamada
 ---
 Artist: Akio Noguchi
 ---
-Artist: AKIRA
----
 Artist: Akira
 Directory: akira-series
 Context Notes: |-
     Japanese [1988 film](https://en.wikipedia.org/wiki/Akira_(1988_film)) / [franchise](https://en.wikipedia.org/wiki/Akira_(franchise)).
+---
+Artist: AKIRA
 ---
 Artist: Akira Nishizaki
 ---
@@ -3636,9 +3636,9 @@ URLs:
 ---
 Artist: Deftones
 ---
-Artist: Delfina Isla
----
 Artist: Deguchi Kourei
+---
+Artist: Delfina Isla
 ---
 Artist: Delia Derbyshire
 ---
@@ -6004,9 +6004,9 @@ Artist: Hiromi Yasuda
 ---
 Artist: Hiromitsu Maeba
 ---
-Artist: Hiroshi Imaizumi
----
 Artist: Hiroshi Ikei
+---
+Artist: Hiroshi Imaizumi
 ---
 Artist: Hiroshi Murayama Trio
 ---
@@ -7360,11 +7360,11 @@ URLs:
 ---
 Artist: Kazuhiro Bessho
 ---
-Artist: Kazuyo Iriyama
----
 Artist: Kazumi Evans
 ---
 Artist: Kazumi Totaka
+---
+Artist: Kazuyo Iriyama
 ---
 Artist: KDMAnderson
 Aliases:
@@ -14035,13 +14035,13 @@ Artist: Teegarden
 URLs:
 - https://twitter.com/BurunluKebapcik
 ---
-Artist: Tei Sena
----
 Artist: tegusoft
 Aliases:
 - conspicuousClockwork
 URLs:
 - https://soundcloud.com/tegusoft
+---
+Artist: Tei Sena
 ---
 Artist: Tekken
 ---
@@ -14492,8 +14492,6 @@ Artist: Toshiharu Okajima
 ---
 Artist: Toshikazu Tanaka
 ---
-Artist: Toshiyuki Tanahashi
----
 Artist: Toshio Masuda
 ---
 Artist: Toshio Shimizu
@@ -14504,6 +14502,8 @@ Artist: Toshiyuki Ōmori
 Directory: toshiyuki-omori
 ---
 Artist: Toshiyuki Takahashi
+---
+Artist: Toshiyuki Tanahashi
 ---
 Artist: Toshiyuki Ueno
 ---
@@ -15841,11 +15841,12 @@ Directory: yaroslav-d
 Artist: 上野愛恵
 Directory: ai-ueno
 ---
-Artist: 青海川猩々
-Directory: shojo-omigawa
+Artist: 折本慶太
+Directory: keita-orimoto
+
 ---
 Artist: 菊地武
 Directory: takeshi-kikuchi
 ---
-Artist: 折本慶太
-Directory: keita-orimoto
+Artist: 青海川猩々
+Directory: shojo-omigawa
