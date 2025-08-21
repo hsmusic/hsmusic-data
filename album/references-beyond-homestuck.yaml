@@ -613,6 +613,7 @@ URLs:
 - https://www.youtube.com/watch?v=2EY8orJRs14
 ---
 Track: Emmy
+Duration: 2:51
 Artists:
 - Circlejourney
 URLs:
@@ -732,6 +733,7 @@ URLs:
 - https://toriscrow.bandcamp.com/track/featherlight
 ---
 Track: Fly Away
+Duration: 3:18
 Artists:
 - Circlejourney
 Directory: fly-away-2010
@@ -1806,6 +1808,7 @@ Artists:
 - Unknown Artist
 ---
 Track: ⭑✶✦ TILL TOMORROW ✦✶⭑
+Duration: 1:13
 Artists:
 - Circlejourney
 - SerialSymphony
@@ -1954,6 +1957,17 @@ URLs:
 - https://gryotharian.bandcamp.com/track/your-fear-is-on-my-mind-instrumental
 ---
 Section: Music from video games
+---
+Track: The Final Battle (ラストバトル)
+Directory: final-battle-chrono-trigger
+Always Reference By Directory: true
+Artists:
+- Chrono Trigger
+- Yasunori Mitsuda
+- Mitsunobu Nakamura
+Duration: 3:42
+URLs:
+- https://www.youtube.com/watch?v=CTocv2h10BM
 ---
 Track: '#1f1e33'
 Artists:
