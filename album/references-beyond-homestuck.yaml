@@ -1958,17 +1958,6 @@ URLs:
 ---
 Section: Music from video games
 ---
-Track: The Final Battle (ラストバトル)
-Directory: final-battle-chrono-trigger
-Always Reference By Directory: true
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-- Mitsunobu Nakamura
-Duration: 3:42
-URLs:
-- https://www.youtube.com/watch?v=CTocv2h10BM
----
 Track: '#1f1e33'
 Artists:
 - Arcaea
@@ -5023,6 +5012,16 @@ URLs:
 - https://youtu.be/vJIjtjGUR9Q?t=2447
 Referenced Tracks:
 - Toccata and Fugue in D minor
+---
+Track: The Final Battle (ラストバトル)
+Directory: final-battle-chrono-trigger
+Always Reference By Directory: true
+Artists:
+- Chrono Trigger
+- Yasunori Mitsuda
+Duration: 3:42
+URLs:
+- https://www.youtube.com/watch?v=CTocv2h10BM
 ---
 Track: The Final Road (Pokémon Red / Pokémon Blue)
 # https://vgmdb.net/album/141
