@@ -1,6 +1,6 @@
 Album: 'SBARGv2 Volume 1'
 Date: June 17, 2013
-Date Added: August 19th, 2025
+Date Added: August 19, 2025
 Color: "#bacade"
 URLs:
 - https://sbargv2.bandcamp.com/album/sbargv2-volume-1
@@ -59,7 +59,6 @@ Commentary: |-
 
     <i>wertercatt:</i> (wiki editor)
     Internal filename for this track art was connect.png
-
 ---
 Track: "#bacade"
 Artists:
@@ -197,6 +196,8 @@ Art Tags:
 Cover Art Date: June 15, 2013
 ---
 Track: Cloudscape
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 01:04
 Artists:
 - "Nick 'lavenderSiren' Card"
