@@ -275,7 +275,7 @@ Content: |-
         - fixed [[track:trollcops]] referencing [[track:under-the-hat]] at all, since that reference is really via [[track:trollcops-radio-play]]
         - fixed [[track:trollcops-radio-play]] referencing [[track:under-the-hat]] ([[album:one-year-older]]) instead of [[track:under-the-hat-original]]
         - fixed [[track:under-the-hat]] ([[album:one-year-older]]) referencing [[track:under-the-hat-lofam]] ([[album:lofam]]) instead of [[track:trollcops]]
-        - fixed [[track:under-the-hat-lofam]] ([[album:lofam]]) not referencing [[track:under-the-hat-original]]
+        - fixed [[track:under-the-hat-lofam]] ([[album:lofam]]) not referencing [[track:under-the-hat-battle-mix]]
         - added contextual wiki commentary across all these tracks
     - fixed [[track:liquid-negrocity]] not referencing [[track:liquid-negrocity-original]] (thanks, Lilith, Jackie!)
     - fixed [[track:black]] referencing [[track:liquid-negrocity]] instead of [[track:plasmatic-blaquaciousness]] (thanks, Lilith, Jackie!)
@@ -370,6 +370,8 @@ Content: |-
     - added [[tag:sbahj]] tag to track artwork for [[track:im-a-member-of-the-midnight-crew-soapstone]] (thanks, Lan!)
     - added [[tag:michael-guy-bowman]] tag to [[album:comfortable-bugs]] and [[album:look-on-my-works-ye-mighty-and-despair]] (thanks, Lan!)
     - added blood warning to [[track:cobalt-corsair]] (thanks, Lan!)
+    <!-- additional file fixes -->
+    - moved Twix Stix MIDI from [[track:under-the-hat-lofam]] ([[album:lofam]]) to [[track:under-the-hat]] ([[album:one-year-older]]; thanks, Lan!)
     <!-- commentary fixes -->
     - fixed broken link formatting in annotation of Tumblr commentary for [[track:skaian-ride]] (thanks, Lan!)
     - fixed misplaced anthology art commentary for [[track:pumpkin-cravings]] (was placed on [[track:welcome-to-the-new-extreme]]; thanks, HunZhen, Amberlina!)
