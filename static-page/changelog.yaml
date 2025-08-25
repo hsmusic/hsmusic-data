@@ -104,6 +104,8 @@ Content: |-
         - added [[album:tangential-acid]]!
         - added [[album:where-dreams-go-to-die]]!
         - added [[album:in-medias-res-autumn-cut]]!
+    - added latest release from [[group:oceanfalls]]! (thanks, Lilith, Witch's Cadence, Nevermind!)
+        - added [[album:oceanfalls-vol-7]]!
     - added latest releases from [[group:undertale-and-deltarune]]! (thanks, ruby!)
         - added [[album:deltarune-soundtrack]]!
         - added [[album:deltarune-ch3-4-ost]]!
@@ -358,6 +360,7 @@ Content: |-
         - fixed [[track:shake-your-tail]] not referencing [[track:shake-your-tail-original]] (original single)
         - fixed [[track:fire-forget-induction]] not referencing [[track:fire-forget]] (original single)
         - fixed [[track:fin-induction]] referencing [[track:goodbye-induction]], [[track:verisimilitude-induction]], [[track:fire-forget-induction]], [[track:wistful-induction]], [[track:shake-your-tail]], instead of [[track:goodbye-original]], [[track:verisimilitude-original]], [[track:fire-forget]], [[track:wistful-original]], [[track:shake-your-tail-original]] (original singles)
+    - fixed [[track:judgement-by-genocide]] not referencing [[track:refulgence-of-regality]] (thanks, Witch's Cadence, Lilith!)
     - fixed [[track:start-menu]] referencing [[track:once-upon-a-time]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) sampling [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]]), instead of being the track's main release (thanks, ruby!)
     - fixed [[track:menu-full]] referencing [[track:start-menu]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
