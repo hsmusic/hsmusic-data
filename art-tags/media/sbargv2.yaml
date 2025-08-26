@@ -2,21 +2,41 @@ Tag: SBARGv2 (media)
 Direct Descendant Tags:
 - Characters from SBARGv2
 - Locations from SBARGv2
+- Iconography from SBARGv2
 Extra Reading URLs:
 - https://sbargv2.tumblr.com/
 - https://discord.gg/Ykh6hrf
 - https://mspfa.com/?s=38989
 - https://github.com/wertercatt/Pesterchum-Logs/
 
-# Characters
+# Character classifications
+
 ---
 Tag: Characters from SBARGv2
 Direct Descendant Tags:
-- Chronos (SBARGv2)
+- Humans (SBARGv2)
+- First guardians (SBARGv2)
+- More characters from SBARGv2
+---
+Tag: Humans (SBARGv2)
+Direct Descendant Tags:
+- Samael (SBARGv2)
 - Rise Emit (SBARGv2)
 - Brae Emit (SBARGv2)
-- Samael (SBARGv2)
+---
+Tag: First guardians (SBARGv2)
+Direct Descendant Tags:
 - Flock Ornis (SBARGv2)
+---
+Tag: More characters from SBARGv2
+Direct Descendant Tags:
+- Chronos (SBARGv2)
+
+# Character entries
+
+---
+Tag: Brae Emit (SBARGv2)
+Color: "#fff44f"
 ---
 Tag: Chronos (SBARGv2)
 Color: "#898989"
@@ -24,28 +44,43 @@ Direct Descendant Tags:
 - Fake Guardian Chronos (SBARGv2)
 - Glitch Clone (SBARGv2)
 ---
-Tag: Rise Emit (SBARGv2)
-Color: "#ff3b3b"
----
-Tag: Brae Emit (SBARGv2)
-Color: "#fff44f"
----
-Tag: Samael (SBARGv2)
-Color: "#898989"
+Tag: Fake Guardian Chronos (SBARGv2)
+Color: "#4ac925"
 ---
 Tag: Flock Ornis (SBARGv2)
 Color: "#4ac925"
 ---
-Tag: Fake Guardian Chronos (SBARGv2)
-Color: "#4ac925"
----
 Tag: Glitch Clone (SBARGv2)
 Color: "#898989"
+---
+Tag: Rise Emit (SBARGv2)
+Color: "#ff3b3b"
+---
+Tag: Samael (SBARGv2)
+Color: "#898989"
 
-# Locations
+# Location classifications
+
 ---
 Tag: Locations from SBARGv2
 Direct Descendant Tags:
-- Land of {X} and {Y} (SBARGv2)
+- Locations in the Medium (SBARGv2)
 ---
-Tag: Land of {X} and {Y} (SBARGv2)
+Tag: Locations in the Medium (SBARGv2)
+
+# Iconography classifications
+
+---
+Tag: Iconography from SBARGv2
+Direct Descendant Tags:
+- General iconography (SBARGv2)
+---
+Tag: General iconography (SBARGv2)
+Direct Descendant Tags:
+- SBARGv2
+
+# Iconography entries
+
+---
+Tag: SBARGv2
+Color: '#bacade' # enter whatever color you like...
