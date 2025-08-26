@@ -87,11 +87,13 @@ Artists:
 Duration: 0:33
 URLs:
 - https://sbargv2.bandcamp.com/track/err
-Cover Artists:
-- lavenderSiren
-- Unknown Artist
-Art Tags:
-- SBARGv2
+Track Artwork:
+- Artists:
+  - lavenderSiren
+  - Unknown Artist
+  Tags:
+  - SBARGv2
+  Show Filename: connect.png
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, track credit research document)
     puzzle made by a v2 staff member
@@ -115,9 +117,6 @@ Commentary: |-
 
     <i>lavenderSiren:</i> (assumed track cover artist, album art credit research document)
     I know I at least made the version of the sbarg logo that was edited during sbargv2
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was connect.png
 ---
 Track: "#bacade"
 Artists:
@@ -125,11 +124,12 @@ Artists:
 Duration: 0:47
 URLs:
 - https://sbargv2.bandcamp.com/track/bacade
-Cover Artists:
-- timeTravlur
-- Unknown Artist
-Art Tags:
-- Pumpkin
+Track Artwork:
+- Artists:
+  - timeTravlur
+  - Unknown Artist
+  Tags:
+  - Pumpkin
 Commentary: |-
     <i>lavenderSiren:</i> (album art credit research document, sic)
     \- bacade anmd [[track:bacafe]]: I think [[artist:timetravlur|TT]]? Might have been a rare other v2 staff member
@@ -169,6 +169,12 @@ Artists:
 Duration: 01:31
 URLs:
 - https://sbargv2.bandcamp.com/track/bacafe
+Track Artwork:
+  Artists:
+  - timeTravlur
+  - Unknown Artist
+  Tags:
+  - Pumpkin
 Referenced Tracks:
 - track:bacade
 Commentary: |-
@@ -201,49 +207,46 @@ Commentary: |-
     But for some reason, I actually found Bacafe the fantroll to be compelling and probably one of the more interesting things created by the SBARGv2 fandom.
 
     Next bacafe segment will probably go over the tons of other places the hex color has shown up in.
-Cover Artists:
-- timeTravlur
-- Unknown Artist
-Art Tags:
-- Pumpkin
 ---
 Track: Prospitar
 Duration: 2:04
-URLs:
-- https://sbargv2.bandcamp.com/track/prospitar
 Artists:
 - Unknown Artist
+URLs:
+- https://sbargv2.bandcamp.com/track/prospitar
+Track Artwork:
+- Artists:
+  - timeTravlur
+  Tags:
+  - Rise Emit (SBARGv2)
+  - Prospit
+  - SBARGv2
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, private Discord)
     uh.... not sure, but I'm p sure I can identify the tracks still. I remember the track "Prospitar" is actually a cover of some random-ass classical piece and that I only found that out after hearing it years later on the classical music radio station, but I don't remember what it's actually called or who actually composed the original.
 
     <i>wertercatt:</i> (SBARG archivist, track credit research document)
     Classical cover of something? (independent researchers say this is false) This was for the Prospit Ball flash I think
-Cover Artists:
-- timeTravlur
-Art Tags:
-- Rise Emit (SBARGv2)
-- Prospit
-- SBARGv2
 ---
 Track: Dersings
 Duration: 01:46
-URLs:
-- https://sbargv2.bandcamp.com/track/dersings
 Artists:
 - Unknown Artist
+URLs:
+- https://sbargv2.bandcamp.com/track/dersings
+Track Artwork:
+- Artists:
+  - timeTravlur
+  Tags:
+  - Brae Emit (SBARGv2)
+  - Derse
+  - SBARGv2
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, private Discord)
     P sure "Dersings"  was something written by the whoever we got to write that tho, since a less fleshed out wip was once sent to the sbargv2 staff skype group chat (which is now gone a zillion times over because skype is dead)
 
     <i>wertercatt:</i> (SBARG archivist, track credit research document)
     Had a WIP version posted to internal Skype, probably lost. Derse ball flash.
-Cover Artists:
-- timeTravlur
-Art Tags:
-- Brae Emit (SBARGv2)
-- Derse
-- SBARGv2
 ---
 Track: Cloudscape
 Suffix Directory: true
@@ -253,15 +256,16 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/cloudscape
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Rise Emit (SBARGv2)
+  - Crocodiles (consort)
+  - Prospit
 Commentary: |-
     <i>lavenderSiren:<i> (private Discord)
     cloudscape.png features rise's dreamself
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Rise Emit (SBARGv2)
-- Crocodiles (consort)
-- Prospit
 ---
 Track: Whispers
 Duration: 00:18
@@ -269,18 +273,19 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/whispers
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Brae Emit (SBARGv2)
+  - Iguanas (consort)
+  - Derse
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     I think I used the [[artist:chrono-trigger|chrono trigger]] soundfont for this one? It’s been a while either that or just really slowed down stuff in audacity
 
     <i>lavenderSiren:</i> (private Discord)
     the figure in whispers.png is technically brae's dreamself, because at the time FI and SF looked identical
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Brae Emit (SBARGv2)
-- Iguanas (consort)
-- Derse
 ---
 Track: Two can Play
 Duration: 0:05
@@ -288,6 +293,11 @@ Artists:
 - Unknown Artist
 URLs:
 - https://sbargv2.bandcamp.com/track/two-can-play
+Track Artwork:
+- Artists:
+  - 'Noodles'
+  - 'Mastermordin'
+  Show Filename: twocanplay.png
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, track credit research document)
     puzzle made by a v2 staff member, when viewed in spectrogram {with 1 channel removed}, it says “Gotcha”, was a response to this incident: https://team-spectrum.tumblr.com/post/42914809791 where an ask was sent about having “lost the game” to the v2 blog
@@ -296,12 +306,6 @@ Commentary: |-
 
     <i>lavenderSiren:</i> (album art credit research document, sic)
     I think this was actually by noodles, though maybe that's an altered version of the image. maybe mastermordin?
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was twocanplay.png
-Cover Artists:
-- 'Noodles'
-- 'Mastermordin'
 ---
 Track: Ballad of the Guardian
 Duration: 02:27
@@ -312,18 +316,17 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/ballad-of-the-guardian
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Fake Guardian Chronos (SBARGv2)
+  - Rise Emit (SBARGv2)
+  - Veil
+  Show Filename: guardian.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     iteration on the BACAFE/BACADE motif
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was guardian.png
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Fake Guardian Chronos (SBARGv2)
-- Rise Emit (SBARGv2)
-- Veil
 ---
 Track: Loading
 Duration: 02:38
@@ -332,15 +335,16 @@ Artists:
 URLs:
 - https://sbargv2.bandcamp.com/track/loading
 Referenced Tracks:
-  - track:final-battle-chrono-trigger
+- track:final-battle-chrono-trigger
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Gate
+  - SBARGv2
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     accidentally inspired by the [[track:final-battle-chrono-trigger|lavos final phase theme]], written because I was too afraid to ask [[artist:michael-guy-bowman|bowman]] for permission to use one of his loading songs
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Gate
-- SBARGv2
 ---
 Track: Cataclysm
 Duration: 0:45
@@ -348,15 +352,16 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/cataclysm
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Samael (SBARGv2)
+  - Reckoning
+  - Earth
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     for the Enter flash
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Samael (SBARGv2)
-- Reckoning
-- Earth
 ---
 Track: Climbing
 Duration: 03:02
@@ -364,14 +369,15 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/climbing
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Samael (SBARGv2)
+  - Locations in the Medium (SBARGv2)
 Commentary: |-
     <i>wertercatt:</i> (SBARG archivist, track credit research document)
     Spirebuilder game?
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Samael (SBARGv2)
-- Locations in the Medium (SBARGv2)
 ---
 Track: The Scramble
 Duration: 0:14
@@ -379,19 +385,18 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/the-scramble
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Samael (SBARGv2)
+  - Underlings
+  - Gate
+  - Locations in the Medium (SBARGv2)
+  Show Filename: scramble.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     win screen for spirebuilder game
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was scramble.png
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Samael (SBARGv2)
-- Underlings
-- Gate
-- Locations in the Medium (SBARGv2)
 ---
 Track: Eventual Connection
 Duration: 01:13
@@ -399,20 +404,19 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/eventual-connection
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Derse
+  - Prospit
+  - Skaia
+  - Veil
+  - Locations in the Medium (SBARGv2)
+  Show Filename: connection.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     for the 2nd gate unlock flash
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was connection.png
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Derse
-- Prospit
-- Skaia
-- Veil
-- Locations in the Medium (SBARGv2)
 ---
 Track: Spaghetti Code
 Duration: 01:38
@@ -420,6 +424,10 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/spaghetti-code
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Show Filename: spaghetti.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     was featured in a flash, I think? Was it in the 3rd gate flash?
@@ -429,29 +437,25 @@ Commentary: |-
 
     <i>wertercatt:</i> (wiki editor)
     This didn't have track art on Bandcamp, but I was able to find the missing art in the internal album art zip I was sent.
-    Internal filename for this track art was spaghetti.png
-Cover Artists:
-- "lavenderSiren"
 ---
 Track: Landsweep
+Additional Names:
+- The Great Land Tour (commentary)
 Duration: 0:38
 Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/landsweep
-Additional Names:
-- The Great Land Tour (commentary)
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Gate
+  - Locations in the Medium (SBARGv2)
+  Show Filename: landquest.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     was in the 3rd gate flash, called “The Great Land Tour” on the album, uses the [[artist:the-legend-of-zelda|ocarina of time]] soundfont
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was landquest.png
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Gate
-- Locations in the Medium (SBARGv2)
 ---
 Track: Later Chumps
 Duration: 0:13
@@ -459,19 +463,18 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/later-chumps
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Fake Guardian Chronos (SBARGv2)
+  Show Filename: laterchumps.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     the one part in the end of act 2 flash written by lavenderSiren, the rest of it, which did not get put on this album, was a song by PISS SPEARS
 
     <i>wertercatt:</i> (SBARG archivist, track credit research document)
     The mentioned song in that commentary is “ROB SWIRE CALLED ME COOL ON TWITTER ONCE” from I CREATED PISSCORE. Note: PISS SPEARS was a pseudonym of [[artist:jamie-paige]]
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was laterchumps.png
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Fake Guardian Chronos (SBARGv2)
 ---
 Track: HELP ME
 Duration: 0:11
@@ -479,20 +482,19 @@ Artists:
 - "lavenderSiren"
 URLs:
 - https://sbargv2.bandcamp.com/track/help-me
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  - Unknown Artist
+  Tags:
+  - Green Sun
+  Show Filename: helpme.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     a databent image of the green sun, with some morse code spelling out HELP ME in it
 
     <i>lavenderSiren:</i> (track cover artist, album art credit research document)
     my edit, source of original sun image unknown
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was helpme.png
-Cover Artists:
-- "lavenderSiren"
-- Unknown Artist
-Art Tags:
-- Green Sun
 ---
 Track: Fixing this Mess
 Duration: 0:38
@@ -504,13 +506,12 @@ Additional Names:
 URLs:
 - https://sbargv2.bandcamp.com/track/fixing-this-mess
 - https://sbargv2.tumblr.com/post/52189591727/flock-ornis-how-do-we-fix-this
+Track Artwork:
+- Artists:
+  - "lavenderSiren"
+  Tags:
+  - Flock Ornis (SBARGv2)
+  Show Filename: oratorornis.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document)
     voice acting done by someone that kaylen had contacted. Apparently it was the first time they had done voice acting. lavenderSiren edited it to remove stammering and probably also added the reverb
-
-    <i>wertercatt:</i> (wiki editor)
-    Internal filename for this track art was oratorornis.png
-Cover Artists:
-- "lavenderSiren"
-Art Tags:
-- Flock Ornis (SBARGv2)
