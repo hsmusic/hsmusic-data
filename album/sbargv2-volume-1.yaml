@@ -29,6 +29,7 @@ Commentary: |-
     <i>Flock Ornis:</i> (First Guardian, [Tumblr](https://sbargv2.tumblr.com/post/53171266489/while-im-continuing-work-on-preening-this-code-i))
 
     While I’m continuing work on preening this code, I thought maybe it could be useful to look back on what has happened so far.
+
     ==> Listen
 
     <i>lavenderSiren:</i> (album organizer, private Discord, regarding wallpaper used, 8/23/2025)
@@ -59,7 +60,7 @@ Commentary: |-
     Looking back on it, is there anything you wish you did differently about the Volume 1 release?
 
     *lavenderSiren:*<br>
-    not particularly. only difficulties were in packaging and getting confused on whether I was supposed to render in wav or mp3
+    not particularly. only difficulties were in packaging and getting confused on whether I was supposed to render in wav or mp3<br>
     other than that, I didn't have much expectation beyond what it was
 
     *wertercatt:*<br>
@@ -73,9 +74,10 @@ Commentary: |-
 
     *lavenderSiren:*<br>
     no problem!
-
 Additional Files:
-- Title: WIP Cover Art
+- Title: WIP cover art
+  Description: >-
+    Files included in an album art package, shared while preparing this album for the wiki.
   Files:
   - 4FdBMy2.png
   - 4FdBMy2.bmp
@@ -91,8 +93,8 @@ URLs:
 Track Artwork:
 - Artists:
   - Unknown Artist
-  Origin Details:
-  - SBARGv2 logo by [artist:lavendersiren]
+  Origin Details: >-
+    SBARGv2 logo by [[artist:lavendersiren]]
   Tags:
   - SBARGv2
   Show Filename: connect.png
@@ -122,7 +124,7 @@ Commentary: |-
 
     I know I at least made the version of the sbarg logo that was edited during sbargv2
 ---
-Track: "#bacade"
+Track: '#bacade'
 Artists:
 - lavenderSiren
 Duration: 0:47
@@ -132,8 +134,8 @@ Track Artwork:
 - Artists:
   - timeTravlur
   - Unknown Artist
-  Origin Details:
-  - From [==> Search](http://kipatsu.com/tracker/track.html)
+  Origin Details: >-
+    From [==> Search](http://kipatsu.com/tracker/track.html)
   Tags:
   - Pumpkin
   Show Filename: bacade.png
@@ -170,7 +172,7 @@ Commentary: |-
 
     Next bacafe segment will probably go over the tons of other places the hex color has shown up in.
 ---
-Track: "#bacafe"
+Track: '#bacafe'
 Color: '#bacafe'
 Artists:
 - lavenderSiren
@@ -181,8 +183,8 @@ Track Artwork:
   Artists:
   - timeTravlur
   - Unknown Artist
-  Origin Details:
-  - From [==> Search](http://kipatsu.com/tracker/track.html)
+  Origin Details: >-
+    From [==> Search](http://kipatsu.com/tracker/track.html)
   Tags:
   - Pumpkin
   Show Filename: bacafe.png
@@ -324,6 +326,7 @@ Track Artwork:
   Show Filename: twocanplay.png
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, track credit research document, 8/11/2025)
+
     puzzle made by a v2 staff member, when viewed in spectrogram, it says “Gotcha”, was a response to this incident: https://team-spectrum.tumblr.com/post/42914809791 where an ask was sent about having “lost the game” to the v2 blog
 
     <i>wertercatt:</i> (SBARG archivist, track credit research document (rephrased), 8/11/2025 (rephrase 8/26/2025))
@@ -527,8 +530,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
-  Origin Details:
-  - Original image of the sun by [artist:unknown-artist]
+  Origin Details: >-
+    Original image of the sun by [[artist:unknown-artist]]
   Tags:
   - Green Sun
   Show Filename: helpme.png
@@ -544,8 +547,9 @@ Commentary: |-
 Track: Fixing this Mess
 Duration: 0:38
 Artists:
-- lavenderSiren
 - Unknown Artist
+Contributors:
+- lavenderSiren (mastering, reverb)
 Additional Names:
 - How do we fix this? ([Tumblr](https://sbargv2.tumblr.com/post/52189591727/flock-ornis-how-do-we-fix-this))
 URLs:
@@ -553,12 +557,30 @@ URLs:
 - https://sbargv2.tumblr.com/post/52189591727/flock-ornis-how-do-we-fix-this
 Track Artwork:
 - Artists:
-  - Unknown Artist
-  Contributors:
-  - lavenderSiren (mastering, reverb)
+  - lavenderSiren
   Tags:
   - Flock Ornis (SBARGv2)
   Show Filename: oratorornis.png
+Lyrics: |-
+    <i>Flock Ornis:</i> ([Bandcamp transcript](https://sbargv2.bandcamp.com/track/fixing-this-mess))
+
+    After doing some investigation into the damage, I just have to say, wow. What sort of miracle took place for Chronos to be able to alter the code this badly without everything in the game going down the drain? As promised, a plan towards repairing the wreckage is in the works. First stop: Skaia.
+
+    Without Skaia as its old blue self, the most important parts of the session will be pretty much out of luck. There will definitely be some sections that I would appreciate some assistance with, but first I will have to set up a helper console and get most of the heavy duty patchwork out of the way before handing over the nitty gritty.
+
+    <i>[[artist:wertercatt]], [[artist:quasar-nebula|Lan]]:</i> (wiki lyrics)
+
+    (After doing some investigation into the damage-)
+    (I just have to say.)
+    (Wow.)
+    (What sort of *miracle* took place for Chronos to be able to alter the code *this* badly)
+    (without everything in the game going to hell.)
+
+    (Without Skaia as its old blue self, the most important parts of the g- session will pretty much be out of *luck.*)
+    (There will be definitely be some sections that I would appreciate some assistance with)
+    (but *first* I will have to set up a Helper Console and)
+    (get most of the heavy duty patch work out of the way)
+    (before handing over the *nitty gritty*)
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document, 8/11/2025)
 
