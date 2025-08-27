@@ -25,6 +25,15 @@ Art Tags:
 Groups:
 - Fandom
 - SBARGv2
+Additional Files:
+- Title: WIP cover art
+  Description: >-
+    Files included in an album art package, shared while preparing this album for the wiki.
+  Files:
+  - 4FdBMy2.png
+  - 4FdBMy2.bmp
+  - 4FdBMy2a.bmp
+  - maincover.bmp
 Commentary: |-
     <i>Flock Ornis:</i> (First Guardian, [Tumblr](https://sbargv2.tumblr.com/post/53171266489/while-im-continuing-work-on-preening-this-code-i))
 
@@ -54,7 +63,7 @@ Commentary: |-
     Do you want to give any final commentary on composing specific tracks or the Volume 1 album in general?
 
     *lavenderSiren:*<br>
-    hmm... well, the decision to package it up in album form was sorta spontaneous. from what I could remember. There wasn't any expectation of even making an album until somebody on the team (I think it was Kaylen) decided it would be cool to put all the music that was made for the ARG into an album. This is of course why most of the tracks are just puzzle audio in volume 1.
+    hmm... well, the decision to package it up in album form was sorta spontaneous. from what I could remember. There wasn't any expectation of even making an album until somebody on the team (I think it was [[artist:kaylen|Kaylen]]) decided it would be cool to put all the music that was made for the ARG into an album. This is of course why most of the tracks are just puzzle audio in volume 1.
 
     *wertercatt:*<br>
     Looking back on it, is there anything you wish you did differently about the Volume 1 release?
@@ -74,15 +83,6 @@ Commentary: |-
 
     *lavenderSiren:*<br>
     no problem!
-Additional Files:
-- Title: WIP cover art
-  Description: >-
-    Files included in an album art package, shared while preparing this album for the wiki.
-  Files:
-  - 4FdBMy2.png
-  - 4FdBMy2.bmp
-  - 4FdBMy2a.bmp
-  - maincover.bmp
 ---
 Track: ERR
 Artists:
@@ -353,11 +353,12 @@ Track Artwork:
   - Fake Guardian Chronos (SBARGv2)
   - Rise Emit (SBARGv2)
   - Veil
+  - SBARGv2
   Show Filename: guardian.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document, 8/11/2025)
 
-    iteration on the BACAFE/BACADE motif
+    iteration on the [[track:bacafe|BACAFE]]/[[track:bacade|BACADE]] motif
 ---
 Track: Loading
 Duration: 2:38
@@ -591,4 +592,12 @@ Lyrics: |-
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document, 8/11/2025)
 
-    voice acting done by someone that kaylen had contacted. Apparently it was the first time they had done voice acting. lavenderSiren edited it to remove stammering and probably also added the reverb
+    voice acting done by someone that [[artist:kaylen|kaylen]] had contacted. Apparently it was the first time they had done voice acting. lavenderSiren edited it to remove stammering and probably also added the reverb
+
+    <i>lavenderSiren:</i> (Tumblr release ID3v2 tags, 6/4/2013)
+
+    Title                                    : How do we fix this?<br>
+    Album                                    : SBARGv2<br>
+    Performer                                : Flock Ornis<br>
+    Recorded date                            : 2013<br>
+    Comment                                  : Perhaps recording is harder than I thought...
