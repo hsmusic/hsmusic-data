@@ -180,14 +180,22 @@ Duration: 1:31
 URLs:
 - https://sbargv2.bandcamp.com/track/bacafe
 Track Artwork:
-  Artists:
+- Artists:
   - timeTravlur
   - Unknown Artist
   Origin Details: >-
-    From [==> Search](http://kipatsu.com/tracker/track.html)
+    cropped from [==> Search](http://kipatsu.com/tracker/track.html)
   Tags:
   - Pumpkin
   Show Filename: bacafe.png
+- Label: Full artwork
+  Directory: full
+  File Extension: png
+  Attach Above: true
+  Show Filename: progress.png
+  Source: >-
+    [==> Search](http://kipatsu.com/tracker/track.html)
+  Dimensions: 640x480
 Referenced Tracks:
 - track:bacade
 Commentary: |-
@@ -237,6 +245,14 @@ Track Artwork:
   - Prospit
   - SBARGv2
   Show Filename: prospitar.png
+- Label: Full artwork
+  Directory: full
+  File Extension: png
+  Attach Above: true
+  Show Filename: 01p.png
+  Source: >-
+    Napquest
+  Dimensions: 640x480
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, private Discord, 8/11/2025)
 
@@ -255,11 +271,21 @@ URLs:
 Track Artwork:
 - Artists:
   - timeTravlur
+  Origin Details: >-
+    screenshot from Napquest
   Tags:
   - Brae Emit (SBARGv2)
   - Derse
   - SBARGv2
   Show Filename: dersings.png
+- Label: Full artwork
+  Directory: full
+  File Extension: png
+  Attach Above: true
+  Show Filename: 01d.png
+  Source: >-
+    Napquest (album art was mirrored)
+  Dimensions: 640x480
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, private Discord, 8/11/2025)
 
@@ -280,6 +306,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    screenshot from ===> Clouds: Augur
   Tags:
   - Rise Emit (SBARGv2)
   - Crocodiles (consort)
@@ -299,6 +327,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    mirrored screenshot from ===> Void: Listen
   Tags:
   - Brae Emit (SBARGv2)
   - Iguanas (consort)
@@ -324,6 +354,13 @@ Track Artwork:
   - Noodles
   - Mastermordin
   Show Filename: twocanplay.png
+- Label: Full artwork
+  Directory: full
+  File Extension: png
+  Attach Above: true
+  Show Filename: err0.png
+  Source: >-
+    SBARGv2.com (offline)
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, track credit research document, 8/11/2025)
 
@@ -349,6 +386,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    screenshot from End of Act 2 (the SBARGv2 flash)
   Tags:
   - Fake Guardian Chronos (SBARGv2)
   - Rise Emit (SBARGv2)
@@ -371,6 +410,8 @@ Referenced Tracks:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    screenshot from ==> Play the game
   Tags:
   - Gate
   - SBARGv2
@@ -389,6 +430,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    screenshot from ==> Enter
   Tags:
   - Samael (SBARGv2)
   - Reckoning
@@ -408,6 +451,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    Build ==>
   Tags:
   - Samael (SBARGv2)
   - Locations in the Medium (SBARGv2)
@@ -492,6 +537,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    screenshot from gate2.swf
   Tags:
   - Gate
   - Locations in the Medium (SBARGv2)
