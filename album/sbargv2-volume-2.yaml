@@ -206,8 +206,8 @@ URLs:
 Track Artwork:
 - Artists:
   - timeTravlur
-  Origin Details:
-  - packetblocker.exe
+  Origin Details: |-
+    packetblocker.exe
   Tags:
     - Rise Emit (SBARGv2)
   Show Filename: scramblecant.png
@@ -275,7 +275,7 @@ Track Artwork:
 - Artists:
   - lavenderSiren
   Origin Details: |-
-  endofact3.swf
+    endofact3.swf
   Tags:
     - Flock Ornis (SBARGv2)
     - The Blue Hole (SBARGv2)
