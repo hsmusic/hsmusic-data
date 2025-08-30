@@ -139,6 +139,14 @@ Track Artwork:
   Tags:
   - Pumpkin
   Show Filename: bacade.png
+- Label: Full artwork
+  Directory: full
+  File Extension: png
+  Attach Above: true
+  Show Filename: progress.png
+  Source: >-
+    internal art assets collection
+  Dimensions: 640x480
 Commentary: |-
     <i>lavenderSiren:</i> (album art credit research document, sic, 8/11/2025)
 
@@ -361,6 +369,7 @@ Track Artwork:
   Show Filename: err0.png
   Source: >-
     SBARGv2.com (offline)
+  Dimensions: 640x480
 Commentary: |-
     <i>lavenderSiren:</i> (album organizer, track credit research document, 8/11/2025)
 
@@ -471,6 +480,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    Build ==>
   Tags:
   - Samael (SBARGv2)
   - Underlings
@@ -491,6 +502,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    screenshot from gate2.swf
   Tags:
   - Derse
   - Prospit
@@ -512,6 +525,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: |-
+    from puzzlecomplete.swf
   Show Filename: spaghetti.png
 Commentary: |-
     <i>lavenderSiren:</i> (track credit research document, 8/11/2025)
@@ -537,8 +552,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
-  Origin Details: >-
-    screenshot from gate2.swf
+  Origin Details: |-
+    from puzzlecomplete.swf
   Tags:
   - Gate
   - Locations in the Medium (SBARGv2)

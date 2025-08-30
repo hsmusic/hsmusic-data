@@ -99,7 +99,7 @@ Track Artwork:
   Attach Above: true
   Show Filename: bacafecafe.gif
   Source: >-
-    SBARGv2.com (offline)
+    Glitchquest
   Dimensions: 650x450
 Referenced Tracks:
 - track:bacafe
@@ -138,6 +138,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: >-
+    Screenshot from hatch.swf
   Tags:
   - Rise Emit (SBARGv2)
   - Veil
@@ -204,6 +206,8 @@ URLs:
 Track Artwork:
 - Artists:
   - timeTravlur
+  Origin Details:
+  - packetblocker.exe
   Tags:
     - Rise Emit (SBARGv2)
   Show Filename: scramblecant.png
@@ -270,6 +274,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: |-
+  endofact3.swf
   Tags:
     - Flock Ornis (SBARGv2)
     - The Blue Hole (SBARGv2)
@@ -453,6 +459,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: |-
+    [S] Blue hole: Stop sucking
   Tags:
   - The Blue Hole (SBARGv2)
   - Brae Emit (SBARGv2)
@@ -547,6 +555,8 @@ Track Artwork:
   - Land of Cogs and Portals (SBARGv2)
   - Rise Emit (SBARGv2)
   Show Filename: locapbonus.png
+  Origin Details: |-
+    endofact3.swf?
 - Label: Full Artwork
   Directory: full
   File Extension: png
@@ -574,6 +584,8 @@ URLs:
 Track Artwork:
 - Artists:
   - lavenderSiren
+  Origin Details: |-
+    endofact3.swf?
   Tags:
   - Benny (SBARGv2)
   - Battlefield
