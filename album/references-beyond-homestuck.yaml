@@ -4274,15 +4274,31 @@ Duration: 3:27
 URLs:
 - https://www.youtube.com/watch?v=QtcpQ_XRvKI
 ---
+Track: Destiny
+Directory: destiny-fire-emblem-awakening
+Always Reference By Directory: true
+# Reference:
+#   https://vgmdb.net/album/37510
+Artists:
+- Fire Emblem
+- Rei Kondoh
+Duration: 5:17
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/2ce9fdd6-8135-476d-bd8f-ea9f7b3a53f6
+- https://www.youtube.com/watch?v=JwJFbwSqPnE
+---
 Track: Destiny (Ablaze)
 # Reference:
 #   https://vgmdb.net/album/37510
 Artists:
 - Fire Emblem
 - Rei Kondoh
-Duration: 5:20
+Duration: 5:17
 URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/96536536-e718-4fb2-bd72-67d82ff79bff
 - https://www.youtube.com/watch?v=JwJFbwSqPnE
+Referenced Tracks:
+- track:destiny-fire-emblem-awakening
 ---
 Track: Disco Descent
 Artists:
