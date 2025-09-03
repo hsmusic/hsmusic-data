@@ -8417,15 +8417,31 @@ Duration: 1:09
 URLs:
 - https://youtu.be/NpdNpTOPFOE
 ---
+Track: Prelude
+Directory: prelude-fire-emblem-awakening
+Always Reference By Directory: true
+# Reference:
+#   https://vgmdb.net/album/37510
+Artists:
+- Fire Emblem
+- Hiroki Morishita
+Duration: 5:18
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/becff267-b382-4567-8977-bbfb96b38f86
+- https://www.youtube.com/watch?v=XZVI1Jx8J8M
+---
 Track: Prelude (Ablaze)
 # Reference:
 #   https://vgmdb.net/album/37510
 Artists:
 - Fire Emblem
 - Hiroki Morishita
-Duration: 5:20
+Duration: 5:18
 URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/c0be969a-54ad-4ed2-8e9d-4d019a1d22b4
 - https://www.youtube.com/watch?v=XZVI1Jx8J8M
+Referenced Tracks:
+- track:prelude-fire-emblem-awakening
 ---
 Track: Presentiment
 # JP: 予感
