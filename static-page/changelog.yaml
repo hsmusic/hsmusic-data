@@ -74,6 +74,7 @@ Content: |-
     - fixed flashes ignoring non-square artworks
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
     - fixed wide inline images escaping the intended bounds for commentary and other content text
+    - fixed external links not getting processed by the wiki if they follow some unrelated "[" on the same line
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
     <h3>album additions</h3>
     - added latest release from [[group:studio-june]]! (thanks, Lilith, ruby, articulatelyComposed!)
