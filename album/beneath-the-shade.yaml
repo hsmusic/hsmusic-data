@@ -1,0 +1,64 @@
+Album: Beneath the Shade
+#thanks to pomabug for sending the background assets for Beneath the Shade and Sburb Beta (delete after merge)
+Date: May 30, 2025
+Date Added: August 26, 2025
+Artists:
+- pomabug
+Cover Artists:
+- pomabug
+Wallpaper Artists:
+- pomabug
+- Quasar Nebula (edits for wiki)
+Art Tags:
+- LoWaS
+- Breath
+Cover Art File Extension: png
+Wallpaper Parts:
+- Asset: none
+  Style: |-
+    background-color: #0b0a14; /* <- fix me */
+- Asset: bg-top.png
+  Style: |-
+    height: min(56px, 20vh);
+    height: min(56px, 20lvh);
+    top: 0; bottom: unset;
+    background-repeat: repeat-x;
+    background-size: auto 100%;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    opacity: 0.8;
+- Asset: bg-bottom.png
+  Style: |-
+    height: min(56px, 20vh);
+    height: min(56px, 20lvh);
+    top: unset; bottom: 0;
+    background-repeat: repeat-x;
+    background-size: auto 100%;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    opacity: 0.8;
+URLs:
+- https://pomabug.bandcamp.com/track/beneath-the-shade
+- https://youtube.com/playlist?list=PLEVeijdjBVGsGfjCKmpaycqeXF8TZ1LcA
+Color: '#009dc0'
+Groups:
+- Fandom
+---
+Track: Beneath the Shade
+Duration: 2:30
+Referenced Tracks:
+- track:doctor
+- Penumbra Phantasm
+URLs:
+- https://pomabug.bandcamp.com/track/beneath-the-shade
+- https://youtu.be/bDK11UOnlwU
+Commentary: |-
+    <i>pomabug:</i> ([Bandcamp about blurb](https://pomabug.bandcamp.com/track/beneath-the-shade), excerpt)
+    GLORY TO THE JUNE EGBERT EMPIRE. IN HONOR OF BUZINKAI. MAY SHE REST IN PEACE.
+
+    <i>pomabug:</i> ([YouTube description](https://youtu.be/bDK11UOnlwU))
+    you are free to use this in videos as long as you credit me like so:
+    "Beneath the Shade" by pomabug
+Crediting Sources: |-
+    <i>pomabug:</i> ([Bandcamp credits blurb](https://pomabug.bandcamp.com/track/beneath-the-shade))
+    based on "Doctor" by Buzinkai and "Penumbra Phantasm" by Toby Fox
