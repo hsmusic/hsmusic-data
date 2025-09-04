@@ -59,6 +59,25 @@ Duration: 3:08
 URLs:
 - https://nexxmowarek.bandcamp.com/track/final-act
 - https://www.youtube.com/watch?v=_wHgEGPNsX8
+Track Artwork:
+- Artists:
+  - SatanBean
+- Label: Full-size artwork
+  Directory: full
+  File Extension: jpg
+  Attach Above: true
+  Dimensions: 1454x1023
+  Source: album download
+  Origin Details: >-
+    <code class="filename">final-act-bg.jpg</code>
+- Label: Alternate artwork
+  Directory: full-alt
+  File Extension: jpg
+  Attach Above: true
+  Dimensions: 1200x844
+  Source: album download
+  Origin Details: >-
+    <code class="filename">final-act.jpg</code>
 ---
 Track: Rude Cops
 Duration: 2:53
@@ -93,18 +112,50 @@ Duration: 3:18
 URLs:
 - https://nexxmowarek.bandcamp.com/track/a-story-worth-telling-motivation
 - https://www.youtube.com/watch?v=TvJYOndQme8
+Track Artwork:
+- Artists:
+  - Nexx Mowarek
+- Label: Wide artwork
+  Directory: wide
+  Attach Above: true
+  Dimensions: 1280x720
+  Source: album download
+  Origin Details: >-
+    <code class="filename">motivation.png</code>
 ---
 Track: Vermintopia
 Duration: 2:53
 URLs:
 - https://nexxmowarek.bandcamp.com/track/vermintopia
 - https://www.youtube.com/watch?v=pXHBlwsXcb8
+Track Artwork:
+- Artists:
+  - Draconeiric
+- Label: Textless artwork
+  Directory: textless
+  Attach Above: true
+  Dimensions: 1920x1080
+  Source: album download
+  Origin Details: >-
+    <code class="filename">Lunch1.png</code>
 ---
 Track: Atem
 Duration: 1:56
 URLs:
 - https://nexxmowarek.bandcamp.com/track/atem
 - https://www.youtube.com/watch?v=bwQIvDJ6wTo
+Track Artwork:
+- Artists:
+  - Kamito
+- Label: Underlying artwork
+  Directory: underlying
+  Artists:
+  - Kamito
+  Tags:
+  - Breath
+  Source: album download
+  Origin Details: >-
+    <code class="filename">Atem.png</code>
 Referenced Tracks:
 - track:medic-team-fortress-2
 - Doctor
@@ -114,24 +165,68 @@ Duration: 3:10
 URLs:
 - https://nexxmowarek.bandcamp.com/track/the-adventure
 - https://www.youtube.com/watch?v=ftM0wkY2GSM
+Track Artwork:
+- Artists:
+  - Nexx Mowarek
+  Tags:
+  - Breath
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 1920x1080
+  Source: album download
+  Origin Details: >-
+    <code class="filename">theadventure.png</code>
 ---
 Track: 'Consume: The Game Main Theme (Loop)'
 Duration: 0:47
 URLs:
 - https://nexxmowarek.bandcamp.com/track/consume-the-game-main-theme-loop
 - https://www.youtube.com/watch?v=IrTCh8OLjPQ
+Track Artwork:
+- Artists:
+  - Nexx Mowarek
+  Tags:
+  - Green Sun
+- Label: Wide artwork
+  Directory: wide
+  Attach Above: true
+  Dimensions: 1920x1080
+  Source: album download, [YouTube thumbnail](https://www.youtube.com/watch?v=IrTCh8OLjPQ)
+  Origin Details: >-
+    <code class="filename">title.png</code>
 ---
 Track: melody5
 Duration: 2:35
 URLs:
 - https://nexxmowarek.bandcamp.com/track/melody5
 - https://www.youtube.com/watch?v=fipw_HYLZII
+Track Artwork:
+- Artists:
+  - Nexx Mowarek
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 1920x1080
+  Source: album download
+  Origin Details: >-
+    <code class="filename">melody5.png</code>
 ---
 Track: lumiSwing
 Duration: 3:53
 URLs:
 - https://nexxmowarek.bandcamp.com/track/lumiswing
 - https://www.youtube.com/watch?v=XLEGWqHOhgc
+Track Artwork:
+- Artists:
+  - Nexx Mowarek
+- Label: Wide artwork
+  Directory: wide
+  Attach Above: true
+  Dimensions: 1280x720
+  Source: album download
+  Origin Details: >-
+    <code class="filename">lumiswing_wide.png</code>
 Referenced Tracks:
 - The Scars of Battle
 - Running Hell
