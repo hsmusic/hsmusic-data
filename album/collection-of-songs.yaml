@@ -61,11 +61,17 @@ URLs:
 Track Artwork:
 - Artists:
   - infinite
+  Tags:
+  - Ms. Green
+  - Curly Brace
+  - Quote
+# - Skull Trumpet
+# - Patrick
 - Label: Full-size artwork
   Directory: full
   Attach Above: true
   Dimensions: 1280x720
-  Source: album download
+  Source: album download, [YouTube](https://www.youtube.com/watch?v=RBFw-kpBBJA)
   Origin Details: >-
     <code class="filename">dabbing-through-hell.png</code>
 - Label: Video thumbnail
@@ -157,6 +163,8 @@ Track Artwork:
   - Susie (Dark World)
   - Kris (Dark World)
   - Lancer
+  #Referenced Artworks:
+  #- ElecTrollCopSwing
 - Label: Alternate aspect ratio
   Directory: alt-asp-rat
   Attach Above: true
@@ -430,7 +438,7 @@ Track Artwork:
   Directory: wide
   Attach Above: true
   Dimensions: 1280x720
-  Source: album download
+  Source: album download, [YouTube](https://www.youtube.com/watch?v=XLEGWqHOhgc)
   Origin Details: >-
     <code class="filename">lumiswing_wide.png</code>
 Referenced Tracks:
