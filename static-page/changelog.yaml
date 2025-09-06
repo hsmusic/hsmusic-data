@@ -218,7 +218,7 @@ Content: |-
     - added SoundCloud listening link for [[track:heir-seer-knight-witch]] (thanks, Lilith, Lan!)
     - added Apple Music listening links for [[album:agents-of-reality]] (thanks, Lan!)
     - added Tumblr listening link to [[track:catscratch]] (thanks, Lilith, Lan!)
-    - added Nintendo Music listening links across [[album:pokemon-sword-shield-super-music-collection]], and to [[track:bomb-rush-blush]], [[track:calamari-inkantation]], [[track:death-mountain-theme]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-over-the-legend-of-zelda]], [[track:ganon-is-defeated]], [[track:now-or-never-splatoon]], [[track:opening-splatoon]], [[track:overworld-theme-the-legend-of-zelda]], [[track:seaskape]], [[track:splattack]], [[track:tide-goes-out]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
+    - added Nintendo Music listening links across [[album:pokemon-sword-shield-super-music-collection]], and to [[track:bomb-rush-blush]], [[track:calamari-inkantation]], [[track:death-mountain-theme]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-a-b-start-duck-hunt]], [[track:game-c-start-duck-hunt]], [[track:game-over-duck-hunt]], [[track:game-over-the-legend-of-zelda]], [[track:game-start-donkey-kong]], [[track:game-start-donkey-kong-jr]], [[track:ganon-is-defeated]], [[track:golden-hammer-wrecking-crew]], [[track:got-a-duck-duck-hunt]], [[track:hammer-bgm-donkey-kong]], [[track:hurry-up-donkey-kong]], [[track:miss-duck-hunt]], [[track:now-or-never-splatoon]], [[track:opening-splatoon]], [[track:overworld-theme-the-legend-of-zelda]], [[track:perfect-duck-hunt]], [[track:phase-bgm-wrecking-crew]], [[track:round-1-and-2-clear-donkey-kong]], [[track:round-1-bgm-donkey-kong]], [[track:round-1-bgm-donkey-kong-jr]], [[track:round-1-clear-donkey-kong-jr]], [[track:round-3-clear-donkey-kong]], [[track:round-3-bgm-donkey-kong]], [[track:round-4-bgm-donkey-kong-jr]], [[track:round-4-clear-all-clear-donkey-kong-jr]], [[track:seaskape]], [[track:splattack]], [[track:tide-goes-out]], [[track:title-bgm-duck-hunt]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
     - replaced YouTube listening link for [[track:orange-hat]] with artist's upload (thanks, Lilith, Lan!)
     - replaced YouTube listening links for [[track:solar-voyage]] and [[track:renewed-return]] with artist's uploads (thanks, wertercatt, Lan!)
     - replaced Spotify listening links for [[track:celestial]], [[album:rakka-wake-01-opening-me]], and [[album:rakka-sp1-outside-2]] with link to single, rather than track (thanks, Lan, Whisper!)
@@ -354,6 +354,7 @@ Content: |-
     - fixed [[track:end-of-act]] not crediting [[artist:psithurist]] as part of the choir (thanks, Lan!)
     - fixed [[track:memorialisation]] crediting [[artist:magnoliajades]] as a standard co-artist rather than a featured artist (thanks, Lan!)
     - fixed [[track:shipwreck-time-and-tide]] crediting [[artist:serialsymphony]] as a standard co-artist rather than a featured artist (thanks, Lan!)
+    - fixed [[track:game-start-donkey-kong]] not crediting [[artist:shigeru-miyamoto]] as composer (thanks, ruby!)
     - fixed [[track:bad-apple-lovelight]] not crediting [[artist:nomico]] as a featured artist, and not crediting [[artist:harukapakapa]] for lyrics (thanks, Lan!)
     - fixed [[track:never-gonna-give-you-up]] crediting [[artist:stock-aitken-waterman]] as artist and [[artist:rick-astley]] as contributor, instead of the reverse (thanks, Lan!)
     <!-- merged artists -->
@@ -407,6 +408,19 @@ Content: |-
         - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
         - fixed [[track:ending-theme-the-legend-of-zelda]] being named "Ending (The Legend of Zelda)"
         - fixed [[track:ganon-is-defeated]] being named "Ganon Appear/Defeat Fanfare"
+        - fixed [[track:golden-hammer-wrecking-crew]] being named "BGM B (Power Up) (Wrecking Crew)"
+        - fixed [[track:got-a-duck-duck-hunt]] being named "Duck Get! (Duck Hunt)"
+        - fixed [[track:hammer-bgm-donkey-kong]] being named "Hammer Theme (Donkey Kong)"
+        - fixed [[track:phase-bgm-wrecking-crew]] being namde "BGM A (Wrecking Crew)"
+        - fixed [[track:round-1-and-2-clear-donkey-kong]] being named "25m / 75m Clear"
+        - fixed [[track:round-1-bgm-donkey-kong]] being named "25m Theme"
+        - fixed [[track:round-1-bgm-donkey-kong-jr]] being named "Level 1 Theme (Donkey Kong Jr.)"
+        - fixed [[track:round-1-clear-donkey-kong-jr]] being named "Level 1 Clear (Donkey Kong Jr.)"
+        - fixed [[track:round-3-bgm-donkey-kong]] being named "100m Theme"
+        - fixed [[track:round-4-bgm-donkey-kong-jr]] being named "Level 4 Theme (Donkey Kong Jr.)"
+        - fixed [[track:round-3-clear-donkey-kong]] being named "100m Clear"
+        - fixed [[track:round-4-clear-all-clear-donkey-kong-jr]] being named "Level 4 Clear (All Clear!) (Donkey Kong Jr.)"
+        - fixed [[track:title-bgm-duck-hunt]] being named "Title Theme (Duck Hunt)"
         - fixed [[track:title-theme-the-legend-of-zelda]] being named "Title (The Legend of Zelda)"
         - fixed [[track:underworld-theme]] being named "Dungeon Theme"
     <!-- name fixes (single-lines) -->
@@ -424,12 +438,31 @@ Content: |-
         - fixed duration of [[track:calamari-inkantation]] (was 2:34, now 2:32)
         - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
         - fixed duration of [[track:ending-theme-the-legend-of-zelda]] (was 2:00, now 1:53)
+        - fixed duration of [[track:game-a-b-start-duck-hunt]] (was 0:06, now 0:07)
+        - fixed duration of [[track:game-c-start-duck-hunt]] (was 0:05, now 0:06)
+        - fixed duration of [[track:game-over-duck-hunt]] (was 0:06, now 0:07)
         - fixed duration of [[track:game-over-the-legend-of-zelda]] (was 0:32, now 0:37)
+        - fixed duration of [[track:game-start-donkey-kong]] (was 0:08, now 0:07)
+        - fixed duration of [[track:game-start-donkey-kong-jr]] (was 0:06, now 0:05)
+        - fixed duration of [[track:golden-hammer-wrecking-crew]] (was 1:20, now 1:26)
+        - fixed duration of [[track:got-a-duck-duck-hunt]] (was 0:01, now 0:03)
+        - fixed duration of [[track:hammer-bgm-donkey-kong]] (was 0:21, now 0:26)
+        - fixed duration of [[track:hurry-up-donkey-kong]] (was 0:16, now 0:23)
+        - fixed duration of [[track:miss-duck-hunt]] (was 0:02, now 0:03)
         - fixed duration of [[track:now-or-never-splatoon]] (was 1:04, now 1:02)
         - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
+        - fixed duration of [[track:perfect-duck-hunt]] (was 0:02, now 0:03)
+        - fixed duration of [[track:phase-bgm-wrecking-crew]] (was 2:05, now 1:58)
+        - fixed duration of [[track:round-1-and-2-clear-donkey-kong]] (was 0:05, now 0:04)
+        - fixed duration of [[track:round-1-bgm-donkey-kong]] (was 0:19, now 0:37)
+        - fixed duration of [[track:round-1-bgm-donkey-kong-jr]] (was 0:26, now 0:33)
+        - fixed duration of [[track:round-3-clear-donkey-kong]] (was 0:10, now 0:08)
+        - fixed duration of [[track:round-4-bgm-donkey-kong-jr]] (was 0:32, now 0:37)
+        - fixed duration of [[track:round-4-clear-all-clear-donkey-kong-jr]] (was 0:09, now 0:07)
         - fixed duration of [[track:seaskape]] (was 2:57, now 2:56)
         - fixed duration of [[track:splattack]] (was 3:53, now 3:52)
         - fixed duration of [[track:tide-goes-out]] (was 2:29, now 2:26)
+        - fixed duration of [[track:title-bgm-duck-hunt]] (was 0:04, now 0:05)
         - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
         - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
     - fixed durations of [[track:emmy]], [[track:fly-away]], and [[track:till-tomorrow]] (thanks, wertercatt!)
@@ -469,6 +502,7 @@ Content: |-
     - fixed YouTube listening link for [[track:invincibility-bgm-smb]] (was to [SMB2 overworld theme](https://www.youtube.com/watch?v=yBISfv-6hfo); thanks, Lilith, Lan!)
     - replaced dead YouTube listening link for [[track:gasters-theme]] and added undertale.wiki link here (thanks to an emailer, wertercatt, ruby, Lan!)
     - replaced dead YouTube listening links for [[track:bad-apple]] ([[artist:zun]]) and [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]; thanks, Lan, bit, Cello!)
+    - replaced dead YouTube listening links for [[track:game-start-donkey-kong]], [[track:game-start-donkey-kong-jr]], [[track:hammer-bgm-donkey-kong]], [[track:hurry-up-donkey-kong]], [[track:round-1-and-2-clear-donkey-kong]], [[track:round-1-bgm-donkey-kong]], [[track:round-1-bgm-donkey-kong-jr]], [[track:round-1-clear-donkey-kong-jr]], [[track:round-3-bgm-donkey-kong]], [[track:round-3-clear-donkey-kong]], [[track:round-4-bgm-donkey-kong-jr]], and [[track:round-4-clear-all-clear-donkey-kong-jr]] (thanks, ruby!)
     - removed dead Bandcamp listening link for [[album:bl1nd-just1c3-1nv3st1g4t1on-soapstone]] (thanks, Lilith, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
@@ -522,6 +556,19 @@ Content: |-
     - changed directory of [[track:death-mountain-theme]] from `death-mountain-the-legend-of-zelda` to `death-mountain-theme`
     - changed directory of [[track:ending-theme-the-legend-of-zelda]] from `ending-the-legend-of-zelda` to `ending-theme-the-legend-of-zelda`
     - changed directory of [[track:ganon-is-defeated]] from `ganon-appear-defeat-fanfare` to `ganon-is-defeated`
+    - changed directory of [[track:golden-hammer-wrecking-crew]] from `bgm-b-power-up-wrecking-crew` to `golden-hammer-wrecking-crew`
+    - changed directory of [[track:got-a-duck-duck-hunt]] from `duck-get-duck-hunt` to `got-a-duck-duck-hunt`
+    - changed directory of [[track:hammer-bgm-donkey-kong]] from `hammer-theme-donkey-kong` to `hammer-bgm-donkey-kong`
+    - changed directory of [[track:phase-bgm-wrecking-crew]] from `bgm-a-wrecking-crew` to `phase-bgm-wrecking-crew`
+    - changed directory of [[track:round-1-and-2-clear-donkey-kong]] from `25m-75m-clear` to `round-1-and-2-clear-donkey-kong`
+    - changed directory of [[track:round-1-bgm-donkey-kong]] from `25m-theme` to `round-1-bgm-donkey-kong`
+    - changed directory of [[track:round-1-bgm-donkey-kong-jr]] from `level-1-theme-donkey-kong-jr` to `round-1-bgm-donkey-kong-jr`
+    - changed directory of [[track:round-1-clear-donkey-kong-jr]] from `level-1-clear-donkey-kong-jr` to `round-1-clear-donkey-kong-jr`
+    - changed directory of [[track:round-3-bgm-donkey-kong]] from `100m-theme` to `round-3-bgm-donkey-kong`
+    - changed directory of [[track:round-3-clear-donkey-kong]] from `100m-clear` to `round-3-clear-donkey-kong`
+    - changed directory of [[track:round-4-bgm-donkey-kong-jr]] from `level-4-theme-donkey-kong-jr` to `round-4-bgm-donkey-kong-jr`
+    - changed directory of [[track:round-4-clear-all-clear-donkey-kong-jr]] from `level-4-clear-all-clear-donkey-kong-jr` to `round-4-clear-all-clear-donkey-kong-jr`
+    - changed directory of [[track:title-bgm-duck-hunt]] from `title-theme-duck-hunt` to `title-bgm-duck-hunt`
     - changed directory of [[track:title-theme-the-legend-of-zelda]] from `title-the-legend-of-zelda` to `title-theme-the-legend-of-zelda`
     - changed directory of [[track:underworld-theme]] from `dungeon-theme-zelda1` to `underworld-theme`
     </details>
