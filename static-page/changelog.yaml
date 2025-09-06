@@ -360,6 +360,50 @@ Content: |-
     - fixed [[artist:domble]] having some credits under another name (thanks, Makin, Lan!)
     <!-- name fixes (subsections) -->
     - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
+        - fixed [[track:time-for-a-breather]] being named "Take a Break"
+        - fixed [[track:pokemon-research-lab]] being named "Pokémon Laboratory"
+        - fixed [[track:pokemon-healed-pokemon-sword-shield]] being named "Recovery"
+        - fixed [[track:guide-pokemon-sword-shield]] being named "Lead the Way"
+        - fixed [[track:at-the-train-station]] being named "Wild Area Station"
+        - fixed [[track:battle-max-raid-battle]] being named "Max Raid Battle!"
+        - fixed [[track:curry-koffing-class]] being named "Curry: Koffing Class"
+        - fixed [[track:curry-wobbuffet-class]] being named "Curry: Wobbuffet Class"
+        - fixed [[track:curry-milcery-class]] being named "Curry: Milcery Class"
+        - fixed [[track:curry-copperajah-class]] being named "Curry: Copperajah Class"
+        - fixed [[track:curry-charizard-class]] being named "Curry: Charizard Class"
+        - fixed [[track:curry-dex-keep-going]] being named "Curry Dex: Do Your Best!"
+        - fixed [[track:curry-dex-complete]] being named "Curry Dex: Completed!"
+        - fixed [[track:at-the-stadium]] being named "Stadium"
+        - fixed [[track:an-old-legend]] being named "Legends of History"
+        - fixed [[track:battle-trainer-pokemon-sword-shield]] being named "Battle! (Trainer Battle)"
+        - fixed [[track:victory-trainer-pokemon-sword-shield]] being named "Victory! (Trainer Battle)"
+        - fixed [[track:gym-mission-cleared]] being named "Gym Mission Cleared!!"
+        - fixed [[track:poke-jobs]] being named "Poké Job"
+        - fixed [[track:hair-salon-pokemon-sword-shield]] being named "Salon"
+        - fixed [[track:the-ancient-mural-crumbles]] being named "Crumbling Ruins"
+        - fixed [[track:the-truth-behind-the-mural]] being named "Truth of the Ruins"
+        - fixed [[track:battle-gym-leader-piers]] being named "Battle! (Gym Leader: Piers)"
+        - fixed [[track:reaching-the-top]] being named "Arrival at the Top"
+        - fixed [[track:the-finals-begin]] being named "Final Tournament Begin!"
+        - fixed [[track:battle-finals]] being named "Battle! (Final Tournament)"
+        - fixed [[track:the-darkest-day]] being named "Darkest Day"
+        - fixed [[track:a-bizarre-situation]] being named "Abnormal Situation"
+        - fixed [[track:eternal-power]] being named "Infinite Power"
+        - fixed [[track:you-caught-eternatus]] being named "Caught an Eternatus"
+        - fixed [[track:for-a-bright-future]] being named "To Create a Bright Future"
+        - fixed [[track:battle-zacian-zamazenta]] being named "Battle! (Zacian / Zamazenta)"
+        - fixed [[track:the-amazing-avery]] being named "Super Avery"
+        - fixed [[track:obtained-an-item-but]] being named "Obtained an Item, But..."
+        - fixed [[track:victory-with-kubfu]] being named "Kubfu and Victory"
+        - fixed [[track:legends-of-legendary-pokemon]] being named "A Legend! A Legend of Legends!"
+        - fixed [[track:the-king-of-bountiful-harvests]] being named "King of Bountiful Harvests"
+        - fixed [[track:battle-glastrier-spectrier]] being named "Battle! (Glastrier / Spectrier)"
+        - fixed [[track:as-one]] being named "Unity of Rider and Horse"
+        - fixed [[track:battle-the-king-of-bountiful-harvests]] being named "Battle! (King of Bountiful Harvests)"
+        - fixed [[track:you-found-a-clue]] being named "You Found a Hint!"
+        - fixed [[track:battle-the-giant-of-legend]] being named "Battle! (Legendary Giants)"
+        - fixed [[track:gathering-at-the-tree]] being named "Gather at the Dyna Tree"
+        - fixed [[track:battle-the-bird-pokemon-of-legend]] being named "Battle! (Legendary Bird Pokémon)"
         - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
         - fixed [[track:ending-theme-the-legend-of-zelda]] being named "Ending (The Legend of Zelda)"
         - fixed [[track:ganon-is-defeated]] being named "Ganon Appear/Defeat Fanfare"
@@ -422,16 +466,54 @@ Content: |-
     - fixed duration of [[track:bad-apple]] ([[artist:zun]]) to align with soundtrack release (was 3:13, now 3:15; thanks, Lan!)
     - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
     <h3>directory changes</h3>
-    <details><summary><b>Toggle Directorylog</b></summary>
+    <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
     - changed directory of [[track:denizen-lofam4]] from `denizen` to `denizen-lofam`
     - changed directory of [[track:cloudscape-dialed-to-11]] from `cloudscape` to `cloudscape-dialed-to-11`
     - changed directory of [[track:the-respect-you-rightfully-deserve-single]] from `the-respect-you-rightfully-deserve-soundcloud` to `the-respect-you-rightfully-deserve-single`
     - changed directory of [[track:frost-and-frogs-lofam5a2]] from `frost-and-frogs` to `frost-and-frogs-lofam5a2`
     - changed directory of [[track:audacity]] from `audacity-svix` to `audacity`
     - changed directories of all tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] to be suffixed `-ch1` and `-ch2` respectively; previous directories now used across [[album:deltarune-soundtrack]]
+    - changed directory of [[track:boutique-pokemon-sword-shield]] from `boutique` to `boutique-pokemon-sword-shield`
+    - changed directory of [[track:obtained-an-item-pokemon-scarlet-violet]] from `obtained-an-item` to `obtained-an-item-pokemon-scarlet-violet`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainhoenn-version` to `battle-frontier-brain-hoenn-version`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainsinnoh-version` to `battle-frontier-brain-sinnoh-version`
     - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`
+    </details>
+    <details><summary><b>Toggle Directorylog</b> (Nintendo Music changes)</summary>
+    - changed directory of [[track:time-for-a-breather]] from `take-a-break-pokemon-sword-shield` to `time-for-a-breather`
+    - changed directory of [[track:pokemon-research-lab]] from `pokemon-laboratory` to `pokemon-research-lab`
+    - changed directory of [[track:pokemon-healed-pokemon-sword-shield]] from `reovery-pokemon-sword-shield` to `pokemon-healed-pokemon-sword-shield`
+    - changed directory of [[track:guide-pokemon-sword-shield]] from `lead-the-way` to `guide-pokemon-sword-shield`
+    - changed directory of [[track:at-the-train-station]] from `wild-area-station` to `at-the-train-station`
+    - changed directory of [[track:battle-max-raid-battle]] from `max-raid-battle` to `battle-max-raid-battle`
+    - changed directory of [[track:curry-dex-keep-going]] from `curry-dex-do-your-best` to `curry-dex-keep-going`
+    - changed directory of [[track:curry-dex-complete]] from `curry-dex-completed` to `curry-dex-complete`
+    - changed directory of [[track:at-the-stadium]] from `stadium` to `at-the-stadium`
+    - changed directory of [[track:an-old-legend]] from `legends-of-history` to `an-old-legend`
+    - changed directory of [[track:battle-trainer-pokemon-sword-shield]] from `battle-trainer-battle-pokemon-sword-shield` to `battle-trainer-pokemon-sword-shield`
+    - changed directory of [[track:victory-trainer-pokemon-sword-shield]] from `victory-trainer-battle-pokemon-sword-shield` to `victory-trainer-pokemon-sword-shield`
+    - changed directory of [[track:poke-jobs]] from `poke-job` to `poke-jobs`
+    - changed directory of [[track:hair-salon-pokemon-sword-shield]] from `salon` to `hair-salon-pokemon-sword-shield`
+    - changed directory of [[track:the-ancient-mural-crumbles]] from `crumbling-ruins` to `the-ancient-mural-crumbles`
+    - changed directory of [[track:the-truth-behind-the-mural]] from `truth-of-the-ruins` to `the-truth-behind-the-mural`
+    - changed directory of [[track:reaching-the-top]] from `arrival-at-the-top` to `reaching-the-top`
+    - changed directory of [[track:the-finals-begin]] from `final-tournament-begin` to `the-finals-begin`
+    - changed directory of [[track:battle-finals]] from `battle-final-tournament` to `battle-finals`
+    - changed directory of [[track:the-darkest-day]] from `darkest-day` to `the-darkest-day`
+    - changed directory of [[track:a-bizarre-situation]] from `abnormal-situation` to `a-bizarre-situation`
+    - changed directory of [[track:eternal-power]] from `infinite-power` to `eternal-power`
+    - changed directory of [[track:you-caught-eternatus]] from `caught-an-eternatus` to `you-caught-eternatus`
+    - changed directory of [[track:for-a-bright-future]] from `to-create-a-bright-future` to `for-a-bright-future`
+    - changed directory of [[track:the-amazing-avery]] from `super-avery` to `the-amazing-avery`
+    - changed directory of [[track:victory-with-kubfu]] from `kubfu-and-victory` to `victory-with-kubfu`
+    - changed directory of [[track:legends-of-legendary-pokemon]] from `a-legend-a-legend-of-legends` to `legends-of-legendary-pokemon`
+    - changed directory of [[track:the-king-of-bountiful-harvests]] from `king-of-bountiful-harvests` to `the-king-of-bountiful-harvests`
+    - changed directory of [[track:as-one]] from `unity-of-rider-and-horse` to `as-one`
+    - changed directory of [[track:battle-the-king-of-bountiful-harvests]] from `battle-king-of-bountiful-harvests` to `battle-the-king-of-bountiful-harvests`
+    - changed directory of [[track:you-found-a-clue]] from `you-found-a-hint` to `you-found-a-clue`
+    - changed directory of [[track:battle-the-giant-of-legend]] from `battle-legendary-giants` to `battle-the-giant-of-legend`
+    - changed directory of [[track:gathering-at-the-tree]] from `gather-at-the-dyna-tree` to `gathering-at-the-tree`
+    - changed directory of [[track:battle-the-bird-pokemon-of-legend]] from `battle-legendary-bird-pokemon` to `battle-the-bird-pokemon-of-legend`
     - changed directory of [[track:death-mountain-theme]] from `death-mountain-the-legend-of-zelda` to `death-mountain-theme`
     - changed directory of [[track:ending-theme-the-legend-of-zelda]] from `ending-the-legend-of-zelda` to `ending-theme-the-legend-of-zelda`
     - changed directory of [[track:ganon-is-defeated]] from `ganon-appear-defeat-fanfare` to `ganon-is-defeated`
