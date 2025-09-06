@@ -419,7 +419,17 @@ Content: |-
     - fixed [[track:does-it-look-like-im-here]] being named "Does it Look Like I'm Here?" (lowercase "it"; thanks, Lan!)
     - fixed [[tag:astronomical-bodies-canwc]] being named "Astronomical Bodies (CaNWC)" (uppercase "Bodies"; thanks, Lan!)
     <!-- general data fixes -->
-    - fixed durations to [[track:emmy]], [[track:fly-away]], and [[track:till-tomorrow]] (thanks, wertercatt!)
+    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
+        - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
+        - fixed duration of [[track:ending-theme-the-legend-of-zelda]] (was 2:00, now 1:53)
+        - fixed duration of [[track:game-over-the-legend-of-zelda]] (was 0:32, now 0:37)
+        - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
+        - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
+        - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
+    - fixed durations of [[track:emmy]], [[track:fly-away]], and [[track:till-tomorrow]] (thanks, wertercatt!)
+    - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
+    - fixed duration of [[track:bad-apple]] ([[artist:zun]]) to align with soundtrack release (was 3:13, now 3:15; thanks, Lan!)
+    - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
     - fixed date for [[flash:5027]] (was [[date:6/12/2012]], now [[date:6/5/2012]])
     <!-- art tag fixes -->
     - added [[tag:wv]] tag to [[track:explore]] (thanks, Meulanie!)
@@ -454,17 +464,6 @@ Content: |-
     - replaced dead YouTube listening link for [[track:gasters-theme]] and added undertale.wiki link here (thanks to an emailer, wertercatt, ruby, Lan!)
     - replaced dead YouTube listening links for [[track:bad-apple]] ([[artist:zun]]) and [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]; thanks, Lan, bit, Cello!)
     - removed dead Bandcamp listening link for [[album:bl1nd-just1c3-1nv3st1g4t1on-soapstone]] (thanks, Lilith, Lan!)
-    <!-- general data fixes -->
-    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
-        - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
-        - fixed duration of [[track:ending-theme-the-legend-of-zelda]] (was 2:00, now 1:53)
-        - fixed duration of [[track:game-over-the-legend-of-zelda]] (was 0:32, now 0:37)
-        - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
-        - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
-        - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
-    - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
-    - fixed duration of [[track:bad-apple]] ([[artist:zun]]) to align with soundtrack release (was 3:13, now 3:15; thanks, Lan!)
-    - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
     - changed directory of [[track:denizen-lofam4]] from `denizen` to `denizen-lofam`
