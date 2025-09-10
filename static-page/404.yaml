@@ -2,6 +2,24 @@ Name: 404 Not Found
 Directory: '404'
 Absolute Links: true
 Content: |-
-    Sorry, the page you're trying to access couldn't be found. If you followed a link here from HSMusic Wiki, [[static:feedback|let us know]] and we'll fix it up! Or if you came from another website... perhaps send a friendly notice to its friendly webmaster? ✨
+    Sorry, the page you're trying to access couldn't be found. If you followed a link here from HSMusic Wiki, [[static:feedback|let us know]] and we'll fix it up! Or, if you came from another website... perhaps send a friendly notice to its friendly webmaster? ✨
 
     Please press the back button to return where you came from, or [[home:-|head back to the wiki home page]].
+Script: |-
+    if ((new Date()).getDay() === 3 && Math.random() <= 0.1025) {
+        const title = document.querySelector('title');
+        if (title) title.innerHTML = '404 Wormant';
+
+        const h1 = document.querySelector('h1');
+        if (h1) h1.innerHTML = '404 Wormant';
+
+        const firstP = document.querySelector('#content p');
+        if (firstP) {
+            let next = firstP.nextElementSibling;
+            while (next) {
+                next.innerHTML = 'wormant';
+                next = next.nextElementSibling;
+            }
+            firstP.innerHTML = 'Sorry, this page went wormant. Catch us in a decade!';
+        }
+    }
