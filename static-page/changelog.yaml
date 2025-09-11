@@ -257,6 +257,11 @@ Content: |-
     - revised [[track:center-of-brilliance]] and [[track:candles-and-clockwork-alpha-version]] to present artwork assets from Bandcamp first, with alternatively sourced higher-res cuts as secondary artworks instead (thanks, Lan, Tangle!)
     - revised color of [[album:seven-seas]] to match newly added cover artwork (thanks, Jebb!)
     - revised colors of [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] (thanks, ruby, Cello, Jebb!)
+    <!-- crediting presentational changes -->
+    - reworked cases of crediting both a solo musician's "main" artist and the actual album artist, together, as album and track co-artists (thanks, Lavender, Lan, Whisper!)
+        - [[group:kalibration]], as [[artist:screamcatcher]]: removed album and track credits to [[artist:kalibration]]; replaced relevant album artwork credits and select commentary artists with [[artist:screamcatcher]]; started crediting these tracks as "from (album), by [[artist:screamcatcher]]"
+        - [[group:xszelor]], as [[artist:dvojka]], [[artist:highblood]], [[artist:realmite]]: removed album and track credits to [[artist:xszelor]]; *kept* Xszelor in album artwork credits and commentary artists; started crediting these tracks as "by [[artist:xszelor]], as (alias)"
+        - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
     <!-- structural or organizational changes for art tags -->
     - sorted tags which fall under various [[tag:location-classifications]], including [[tag:astronomical-bodies]] and [[tag:locations-in-the-medium]], alphabetically (thanks, Lan!)
     - moved [[tag:deer-desynced]] tag out of removed "Consorts (Desynced)" tag, now directly under [[tag:characters-from-desynced]] instead (thanks, Lan, Jebb!)
@@ -342,13 +347,6 @@ Content: |-
     - fixed [[track:fuchsia-ruler-single]] (single) artwork not referencing [[track:fuchsia-ruler]] ([[album:coloUrs-and-mayhem-universe-a]]; thanks, Jackie!)
     - added various referencing sources to [[track:dissension-remix]], [[track:white]], [[track:octoroon-rangoon]], [[track:clockwork-sorrow]], [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] (thanks, Lan!)
     <!-- crediting fixes -->
-    - fixed cases of crediting both a solo musician's "main" artist and the actual album artist, as album co-artists (thanks, Jackie, Whisper!)
-        - for example, [[album:intermission]] was previously "by [[artist:kalibration]] and [[artist:screamcatcher]]", and is now just "by [[artist:screamcatcher]]"
-        - these credits existed so that the albums' tracks would be included in both the main artist's and the alias' chronology (i.e. so you could see all Screamcatcher tracks on the [[artist:screamcatcher]] artist page)
-        - this weird double-crediting was causing trouble with new features that care about the artists of an album (rather than of its tracks), and was just a miscredit on the album pages anyway
-        - trouble sorted out... for now... with new "Track Artists" field, which indicates the tracks' artists, and can differ from the album's artists
-        - [[group:kalibration]] ([[artist:screamcatcher]]) and [[group:xszelor]] ([[artist:realmite]], [[artist:highblood]], [[artist:dvojka]]): moved "main" album artist ([[artist:kalibration]], [[artist:xszelor]]) out of album artists, keeping same credits on tracks
-        - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
     - fixed a bunch of missing contributor credits across [[album:super-smash-bros-ultimate]] (thanks, ruby!)
         - fixed [[track:delfino-plaza-ssbu]], [[track:the-map-page-bonus-level]], [[track:kasss-theme-ssbu]], [[track:f-zero-medley]], [[track:vega-stage-ssbu]], [[track:aeriths-theme-ssbu]], [[track:pasta-ff2-ssbu]], [[track:banquet-of-nature-ss-ssbu]] not crediting any performing contributors
         - fixed [[track:hard-man-stage-ssbu]] crediting [[artist:yujin-imanishi]] only on electric guitar, not also on acoustic guitar
