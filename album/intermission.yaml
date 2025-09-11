@@ -3,13 +3,11 @@ Suffix Track Directories: true
 Always Reference Tracks By Directory: true
 Artists:
 - Screamcatcher
-Track Artists:
-- Kalibration
-- Screamcatcher
+Show Album In Tracks Without Artists: true
 Cover Artists:
-- Kalibration
+- Screamcatcher
 Wallpaper Artists:
-- Kalibration
+- Screamcatcher
 - Jebb (edits for wiki)
 Wallpaper File Extension: png
 Cover Art File Extension: png
@@ -23,7 +21,8 @@ Groups:
 - Kalibration
 - Beyond
 Commentary: |-
-    <i>Kalibration:</i> ([Bandcamp about blurb](https://screamcatcher.bandcamp.com/album/intermission))
+    <i>Screamcatcher:</i> ([Bandcamp about blurb](https://screamcatcher.bandcamp.com/album/intermission))
+
     It's been ten years since we last performed for you.
 
     This is not yet the finale.
@@ -31,6 +30,7 @@ Commentary: |-
     This is only the intermission.
 
     <i>Kalibration:</i> ([Twitter post](https://x.com/kalibration/status/1793706625859252498))
+
     10 years later
 
     [(Bandcamp link)](https://screamcatcher.bandcamp.com/album/intermission)
