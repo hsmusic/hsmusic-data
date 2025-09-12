@@ -1,5 +1,6 @@
 Album: Kindred Souls
 Date: September 15, 2025
+Directory Suffix: kindred-souls
 #Date Added: 
 URLs:
 - https://unofficialmspafans.bandcamp.com/album/kindred-souls
@@ -62,6 +63,8 @@ Additional Files:
 #    Slot albums slow things to a crawl because people drag their feet on picking or finishing that one <b>last track</b>, holding everyone else back... if you elect me as <b>UMSPAF president</b>, I will lobby the <b>United Nations</b> to make freeform albums mandatory. Thank you.
 ---
 Track: The Fall
+Suffix Track Directory: true
+Always Reference By Directory: true
 Artists:
 - Circlejourney
 Referenced Tracks:
