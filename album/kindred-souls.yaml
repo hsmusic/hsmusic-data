@@ -23,6 +23,8 @@ Banner Dimensions: 975*180
 #Track Art File Extension: png
 #Wallpaper File Extension: jpg
 Banner File Extension: png
+Banner Style: |-
+    image-rendering: pixelated;
 Additional Files:
 #- Title: Album booklet
 #  Files:
