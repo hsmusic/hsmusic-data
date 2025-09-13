@@ -25,6 +25,7 @@ Extra Reading URLs:
 ---
 Tag: Humans (UNDERTALE & DELTARUNE)
 Direct Descendant Tags:
+- Chara
 - Frisk
 - Kris
 ---
@@ -40,7 +41,8 @@ Tag: More monsters from UNDERTALE & DELTARUNE
 Direct Descendant Tags:
 - Aaron
 - Alphys
-- Asgore
+- Asgore Dreemurr
+- Asriel Dreemurr
 - Astigmatism
 - Burgerpants
 - Charles
@@ -86,7 +88,8 @@ Tag: Lightners (UNDERTALE & DELTARUNE)
 Direct Descendant Tags:
 - Aaron
 - Alphys
-- Asgore
+- Asgore Dreemurr
+- Asriel Dreemurr
 - Berdly
 - Charles
 - Froggit
@@ -113,6 +116,7 @@ Direct Descendant Tags:
 Tag: Darkners (UNDERTALE & DELTARUNE)
 Direct Descendant Tags:
 - C. Round
+- Jevil
 - Mr. Tenna
 - Ralsei
 - Spamton
@@ -122,6 +126,7 @@ Tag: More characters from UNDERTALE & DELTARUNE
 Direct Descendant Tags:
 - Annoying Dog
 - Flowey
+- Knight
 - Mystery Man
 
 # Character entries
@@ -171,8 +176,13 @@ Related Tags:
 - Toby Fox
 Color: '#ffffff'
 ---
-Tag: Asgore
+Tag: Asgore Dreemurr
 Color: '#E4BA00'
+---
+Tag: Asriel Dreemurr
+Color: '#9BFD71'
+Direct Descendant Tags:
+- Flowey
 ---
 Tag: Astigmatism
 Color: '#ffaec9'
@@ -194,6 +204,9 @@ Tag: C. Round
 Color: '#FF294D'
 Direct Descendant Tags:
 - K. Round
+---
+Tag: Chara
+Color: '#40FF40'
 ---
 Tag: Charles
 Color: '#a27b6f'
@@ -260,13 +273,19 @@ Tag: Ice Cap
 Color: '#ffffff'
 ---
 Tag: Jerry
-Color: '#22b14c'
+Color: 
+---
+Tag: Jevil
+Color: '#6D6DC0'
 ---
 Tag: K. Round
 Color: '#FF294D'
 ---
 Tag: Knight Knight
 Color: '#a349a4'
+---
+Tag: Knight
+Color: '#FFFFFF'
 ---
 Tag: Kris
 Color: '#ffc90e'
@@ -389,9 +408,14 @@ Tag: Snowdrake
 Color: '#b7d0e3'
 ---
 Tag: Spamton
-Color: '#fff200'
+Color: '#FFFFFF'
 Extra Reading URLs:
 - https://deltarune.wiki/w/Spamton
+Direct Descendant Tags:
+- Spamton NEO
+---
+Tag: Spamton NEO
+Color: '#BF4385'
 ---
 Tag: Starwalker (original)
 Color: '#FFF200'
