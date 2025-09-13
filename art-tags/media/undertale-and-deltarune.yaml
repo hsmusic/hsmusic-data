@@ -50,7 +50,7 @@ Direct Descendant Tags:
 - Dummies
 - Dummy
 - Fuku Fire
-- Gerson
+- Gerson Boom
 - Glyde
 - Gyftrot
 - Hot Dog Harpy
@@ -91,7 +91,7 @@ Direct Descendant Tags:
 - Charles
 - Froggit
 - Fuku Fire
-- Gerson
+- Gerson Boom
 - Ice Cap
 - Kris
 - Mettaton
@@ -224,14 +224,24 @@ Color: '#ffffff'
 Tag: Fuku Fire
 Color: '#22b14c'
 ---
-Tag: Gerson
+Tag: Gerson Boom
 Color: '#9d8e26'
+Direct Descendant Tags:
+- Gerson Boom (Dark World)
+---
+Tag: Gerson Boom (Dark World)
+Color: '#65AA26'
+Direct Descendant Tags:
+- Hammer of Justice
 ---
 Tag: Glyde
 Color: '#3f48cc'
 ---
 Tag: Gyftrot
 Color: '#f59e81'
+---
+Tag: Hammer of Justice
+Color: '#64A926'
 ---
 Tag: HERO_AXE
 Color: '#FDB0BA'
