@@ -32,7 +32,7 @@ Banner Dimensions: 975*180
 #Wallpaper File Extension: jpg
 Banner File Extension: png
 Banner Style: |-
-    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Additional Files:
 #- Title: Album booklet
 #  Files:
