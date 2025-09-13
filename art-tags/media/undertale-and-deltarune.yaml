@@ -101,6 +101,7 @@ Direct Descendant Tags:
 - Monster Kid
 - Napstablook
 - Nice Cream Guy
+- Noelle
 - Onionsan
 - Pizzapants
 - Royal Guard 01
@@ -357,6 +358,14 @@ Color: '#FFFFFF'
 ---
 Tag: Nice Cream Guy
 Color: '#99d9ea'
+---
+Tag: Noelle
+Color: '#FFCE32'
+Direct Descendant Tags:
+- Noelle (Dark World)
+---
+Tag: Noelle (Dark World)
+Color: '#ECFFBB'
 ---
 Tag: Onionsan
 Color: '#eff5a7'
