@@ -10,7 +10,7 @@ Groups:
 Color: '#ff3f29'
 Cover Artwork:
 - Artists:
-  - Saint
+  - Sartorially
   File Extension: png
   Tags:
   - Soul (Red)
@@ -22,14 +22,14 @@ Cover Artwork:
   - Soul (Yellow)
   - Soul (Light Blue)
   - Soul (Green)
-#Wallpaper Artists:
-#- Circlejourney
+Wallpaper Artists:
+- Sartorially
 Banner Artists:
 - Makin
 Banner Dimensions: 975*180
 #Cover Art File Extension: jpg
 #Track Art File Extension: png
-#Wallpaper File Extension: jpg
+Wallpaper File Extension: png
 Banner File Extension: png
 Banner Style: |-
     image-rendering: crisp-edges;
@@ -37,10 +37,10 @@ Additional Files:
 #- Title: Album booklet
 #  Files:
 #  - Fondly Regard Illustration Booklet.pdf
-- Title: Bandcamp banner #& background
+- Title: Bandcamp banner & background
   Files:
   - banner.png
-#  - bg.png
+  - bg.png
 #Commentary: |-
 #    <i>Unofficial MSPA Fans:</i>
 #    ~[[album:jpeg|.jpeg]]~ 𝓕𝓸𝓷𝓭𝓵𝔂 𝓡𝓮𝓰𝓪𝓻𝓭 𝓘𝓵𝓵𝓾𝓼𝓽𝓻𝓪𝓽𝓲𝓸𝓷 is a concept album: the team's artists draw some art and the musicians have to make music based on that art, instead of the usual other way around.
