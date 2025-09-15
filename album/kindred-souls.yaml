@@ -40,26 +40,15 @@ Additional Files:
   Files:
   - banner.png
   - bg.png
-#Commentary: |-
-#    <i>Unofficial MSPA Fans:</i>
-#    ~[[album:jpeg|.jpeg]]~ 𝓕𝓸𝓷𝓭𝓵𝔂 𝓡𝓮𝓰𝓪𝓻𝓭 𝓘𝓵𝓵𝓾𝓼𝓽𝓻𝓪𝓽𝓲𝓸𝓷 is a concept album: the team's artists draw some art and the musicians have to make music based on that art, instead of the usual other way around.
-#
-#    <i>tempest2k:</i>
-#    i like it
-#
-#    <i>Circlejourney:</i>
-#    Can it be? After a year and a half in the making, the "Art First Album" is finally out?
-#    Typically at UMSPAF, musicians produce the music first, then visual artists illustrate every track. For this album, we flipped the script: developing it in the same pattern as [[group:canmt|CANMT's]] [[album:jpeg|.jpeg]], the artists made the illustrations first, and then musicians created tracks based on them.
-#    The album began work on 23 September 2023. 568 days later, it is finally out in the world. This thing's old enough to walk at this point, but I promise the wait wasn't for nothing. It has some of the best fanmusic I've heard outside a LOFAM (and I'd go so far as to say it rivals a LOFAM in quality).
-#    So, after that protracted development period, I'm beyond delighted that the wider world is finally getting to...
-#    **Fondly Regard Illustration**.
-#
-#    <i>Circlejourney:</i>
-#    Many thanks to all our <b>artists and musicians</b> for contributing their talents to this album over the course of the past year, and to <b>our mastering team</b> for bringing the sound of the album together. And thanks go out to <b>the manager team</b> for coordinating this album, and <b>Makin</b> specifically for putting together the Bandcamp page, collating the art & music files, and setting up this album booklet. We made this hapen.
-#
-#    <i>Makin:</i>
-#    Conditional thanks to all our <b>artists and musicians</b> as long as they never, ever, ever, ever make a <b>SLOT ALBUM</b> again. Even this one was too close.
-#    Slot albums slow things to a crawl because people drag their feet on picking or finishing that one <b>last track</b>, holding everyone else back... if you elect me as <b>UMSPAF president</b>, I will lobby the <b>United Nations</b> to make freeform albums mandatory. Thank you.
+- Title: Album Cover Concepts
+  Files:
+  - 'The UTDR Fan Musicians - Kindred Souls - Album Cover Concepts.png'
+- Title: null.ptb
+  Files:
+  - 'The UTDR Fan Musicians - Kindred Souls - null.ptb'
+Commentary: |-
+    <i>The UTDR Fan Musicians:</i>
+    Kindred Souls is totally UMSPAF's latest MSPA fan-album. The UNDERTALE and DELTARUNE guy made a bunch of music for Homestuck, after all.
 ---
 Section: Main Album
 ---
@@ -320,6 +309,13 @@ Referenced Tracks:
 - Waterfall
 - track:ruins-undertale
 - His Theme
+Sheet Music Files:
+- Title: Sheet music by Rose Gray (original composer)
+  Files:
+  - 'The UTDR Fan Musicians - Kindred Souls - Echo Flowers ~ Full Score.pdf'
+  - 'The UTDR Fan Musicians - Kindred Souls - Echo Flowers ~ Clarinet in A.pdf'
+  - 'The UTDR Fan Musicians - Kindred Souls - Echo Flowers ~ Cello.pdf'
+  - 'The UTDR Fan Musicians - Kindred Souls - Echo Flowers ~ Piano.pdf'
 Commentary: |-
     <i>Rose Gray:</i>
     Echo Flowers was written for the 2025 fan music album Kindred Souls, published in September 2025 by the Unofficial MSPA Fans in commemoration of the 10th anniversary of the video game UNDERTALE by [[artist:toby-fox|Toby Fox]]. The piece depicts the above conversation from the game, overheard by the protagonist in passing through titular echo flowers amidst the deep blacks and shining teals of the Waterfall area. The conversation is one of yearning, of wanting freedom, of wanting a better life for you and your loved ones; it is one of hope, of imagining a better life, of imagining a world that has moved beyond war and beyond strife; and it is one of connection, of vulnerability, of sharing your hopes and dreams with those you love.
@@ -1707,6 +1703,10 @@ Commentary: |-
 
     <i>Sartorially:</i>
     Did you know that the background image in Jevil's fight is a mirrored carousel in grayscale? — So... This piece... How to explain this piece... Initially, I'd wanted to have a reflection of Kris in the scythe. Drawing them is fun, and this IS the first secret boss, so it felt right. However! What I really wanted to play with was Jevil's natural duality. The funny jester turns into a scythe with TEETH?! That's fun! Unfortunately: I spent way too long drawing Jevil, so covering him up later was a great personal sacrifice.
+Additional Files:
+- Title: Uncovered Art
+  Files:
+  - 'The UTDR Fan Musicians - Kindred Souls - Chaos (Uncovered).png'
 ---
 Track: THE ROARING FINALE
 Artists:
@@ -2086,7 +2086,19 @@ Directory: deltarune-instrumental
 Artists:
 - ruby
 Duration: 5:13
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/instrumental
 Referenced Tracks:
 - デルタルーン
+---
+Track: mus_starwalker_overworld
+Artists:
+- Levc
+Duration: 0:15
+Referenced Tracks:
+- THE　　ORIGINAL
+---
+Track: mus_starwalker_battle
+Artists:
+- Levc
+Duration: 1:56
+Referenced Tracks:
+- THE　　ORIGINAL
