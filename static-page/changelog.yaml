@@ -71,6 +71,7 @@ Content: |-
     - added a nice effect when you hover an album banner... unless you're on Firefox... sorry Firefox...
     <h3>bug fixes</h3>
     - fixed chronological sorting in most track-related contexts to sort same-date tracks respective to their album's name and directory, rather than only its directory, which mostly means tracks from an album "The Apple" are now correctly sorted before tracks from another album, released on the same day, "Banana"
+    - fixed sidebar for tracks with multiple releases sorting according to the tracks' albums' dates, instead of the tracks' own dates
     - fixed flashes ignoring non-square artworks
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
     - fixed wide inline images escaping the intended bounds for commentary and other content text
