@@ -2084,10 +2084,16 @@ Directory: deltarune-tv-size-ver
 Artists:
 - ruby
 Duration: 1:22
-URLs:
-- https://unofficialmspafans.bandcamp.com/track/tv-size-ver
 Contributors:
 - Kasane Teto (vocals)
+Cover Artists:
+- Unknown Artist
+Cover Art File Extension: jpg
+Art Tags:
+- Kris (Dark World)
+- Ralsei
+Referenced Artworks:
+- track:deltarune-kindred-souls
 Referenced Tracks:
 - デルタルーン
 ---
@@ -2096,6 +2102,14 @@ Directory: deltarune-instrumental
 Artists:
 - ruby
 Duration: 5:13
+Cover Artists:
+- Unknown Artist
+Cover Art File Extension: jpg
+Art Tags:
+- Kris (Dark World)
+- Ralsei
+Referenced Artworks:
+- track:deltarune-tv-size-ver
 Referenced Tracks:
 - デルタルーン
 ---
@@ -2103,6 +2117,15 @@ Track: mus_starwalker_overworld
 Artists:
 - Levc
 Duration: 0:15
+Cover Artists:
+- Unknown Artist
+Cover Art File Extension: jpg
+Art Tags:
+- Starwalker (original)
+- Mystery Man
+- Spamton
+- Susie (Dark World)
+- FRIEND
 Referenced Tracks:
 - THE　　ORIGINAL
 ---
@@ -2110,5 +2133,16 @@ Track: mus_starwalker_battle
 Artists:
 - Levc
 Duration: 1:56
+Cover Artists:
+- Unknown Artist
+Cover Art File Extension: jpg
+Art Tags:
+- Starwalker (original)
+- Mystery Man
+- Spamton
+- Susie (Dark World)
+- FRIEND
+Referenced Artworks:
+- mus_starwalker_overworld
 Referenced Tracks:
 - THE　　ORIGINAL
