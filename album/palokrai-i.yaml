@@ -26,7 +26,7 @@ Commentary: |-
 
     [[album:palokrai-ii]] will have 13 songs as well, and should be available next June.
 
-    I'll like to thank H/S in general and [[group:official|its constituent musicians]] for getting me to do this in the first place. I would have never gone this far to do so.
+    I'll like to thank H/S in general and its constituent musicians for getting me to do this in the first place. I would have never gone this far to do so.
 
     {1} As funny as this looks, this isn't a semi-open interval. It's a square mouth followed by a parenthesis.
 
@@ -35,6 +35,14 @@ Commentary: |-
     Inspired by H/S<br>
     Made possible by MuseScore and my unending bathroom composing sessions<br>
     Creation secured by the Pseudoans and their Invention Double Reacharound.
+
+    <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
+
+    This album is dated on Bandcamp with a custom release date of 12/23/2010. According to the internal data which Bandcamp makes available in any JavaScript console (`TralbumData.current.publish_date`), the album was actually first published twenty days earlier: 12/03/2010.
+
+    Tracks across this album have custom release dates, which are visible on the track pages on Bandcamp, and reflected here, too. There are some asterisks: see [[track:istojabego]], [[track:cforenso-ii]], [[track:cforenso-iii]]. Also, the final track, [[track:vejisto]], has a notable publish_date, 12/23/2010 - the same as the album's custom release date. (The track is also custom release dated 12/23/2010, and its written lyrics are expressly set on that particular date.)
+
+    All together, this suggests that the album initially had only twelve of its thirteen (main) tracks, and [[track:cforenso-ii]] and [[track:cforenso-iii]] were at the end of the album, the same as bonus tracks typically are. But the tracks still don't self-describe as "bonus tracks", so we're still describing them as just "hidden tracks" here. It's also possible that the album really was published on 12/23/2010 and Bandcamp's internal wires work some way we're not aware, hypothetically e.g. publish_date always recording the earliest publish date, even though an album was un- and later re-published. (That's speculation. We have no record to tell either way, for this album.)
 ---
 Section: Main album
 ---
@@ -44,7 +52,7 @@ Duration: 2:13
 URLs:
 - https://isoraqathedh.bandcamp.com/track/akdoyvonren
 Commentary: |-
-    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp blurb](https://isoraqathedh.bandcamp.com/track/akdoyvonren))
+    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp about blurb](https://isoraqathedh.bandcamp.com/track/akdoyvonren))
 
     The first and foremost piece has two versions; this is the second of them.
 
@@ -59,8 +67,15 @@ URLs:
 Track: Istojabeȝo
 Directory: istojabego
 Duration: 1:14
+Has Date: false
 URLs:
 - https://isoraqathedh.bandcamp.com/track/istojabe-o
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
+
+    Most of Palokrai's tracks have custom release dates on Bandcamp, which we represent here, despite the tracks within the albums themselves actually being released all or almost all at once. This track is missing a custom release date! However, its lime label fits [[track:maibasojen-lofam|the numbering system]] used across Palokrai: 3.03.02 places it after 3.02.02 ([[track:baptikonyen|the previous track]]) and before 3.04.02 ([[track:saltovahr|the next track]]).
+
+    Unfortunately, since the custom track dates on Bandcamp are the *only* source for these track dates (the numbering system does *not* represent specific dates, and the album was prepared on Bandcamp mostly after its tracks were created), the date used for this track is arbitrary. So... this track has no date at all. Eep!
 ---
 Track: Saltovahr
 Date First Released: July 24, 2010
@@ -80,7 +95,7 @@ Duration: 2:01
 URLs:
 - https://isoraqathedh.bandcamp.com/track/zerehanda
 Commentary: |-
-    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp blurb](https://isoraqathedh.bandcamp.com/track/zerehanda))
+    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp about blurb](https://isoraqathedh.bandcamp.com/track/zerehanda))
 
     The very first using the pentatonic scale. I guess that should be poignant because I'm Chinese be begin with!
 ---
@@ -96,7 +111,7 @@ Duration: 3:13
 URLs:
 - https://isoraqathedh.bandcamp.com/track/quensindara
 Commentary: |-
-    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp blurb](https://isoraqathedh.bandcamp.com/track/quensindara))
+    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp about blurb](https://isoraqathedh.bandcamp.com/track/quensindara))
 
     This is a three-in-one medley consisting of Quistrodose, Quenzeyodu and Quelesósta.
 ---
@@ -124,17 +139,23 @@ Duration: 2:09
 URLs:
 - https://isoraqathedh.bandcamp.com/track/cforenso
 ---
-Section: Bonus tracks
+Section: Hidden tracks
 ---
 Track: Cforenso II
+Date First Released: December 2, 2010
 Duration: 2:09
 Cover Art File Extension: jpg
 Referenced Artworks:
 - Cforenso
 Referenced Tracks:
 - Cforenso
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
+
+    Since these two tracks are hidden on Bandcamp and only available as part of the album download, they don't have custom on-site track release dates. However, the artwork for [[track:cforenso]] indicates multiple parts to Cforenso itself, so we're going out on a limb and reusing the date for that track, here.
 ---
 Track: Cforenso III
+Date First Released: December 2, 2010
 Duration: 4:17
 Cover Art File Extension: jpg
 Referenced Artworks:
@@ -143,6 +164,10 @@ Referenced Artworks:
 Referenced Tracks:
 - Cforenso
 - Cforenso II
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
+
+    See [[track:cforenso-ii]]! Since the artwork for [[track:cforenso]] indicates multiple parts to Cforenso itself, so we're reusing the date for that track, here.
 ---
 Section: Main album, continued
 ---
@@ -150,12 +175,8 @@ Track: Vejisto
 Duration: 6:02
 URLs:
 - https://isoraqathedh.bandcamp.com/track/vejisto
-Commentary: |-
-    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp about blurb](https://isoraqathedh.bandcamp.com/track/vejisto))
-
-    This is the first time I added any lyrics. Don't get to excited though -- I haven't sang any.
-
-    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp lyrics blurb](https://isoraqathedh.bandcamp.com/track/vejisto))
+Lyrics: |-
+    <i>Isoraķatheð Zorethan F.:</i> ([artist's lyrics](https://isoraqathedh.bandcamp.com/track/vejisto))
 
     Intro
 
@@ -201,3 +222,7 @@ Commentary: |-
     December 24th, he's gonna have some fun.
 
     Outro
+Commentary: |-
+    <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp about blurb](https://isoraqathedh.bandcamp.com/track/vejisto))
+
+    This is the first time I added any lyrics. Don't get to excited though -- I haven't sang any.
