@@ -24,6 +24,9 @@ Cover Artwork:
   - Soul (Green)
 Wallpaper Artists:
 - Sartorially
+Wallpaper Style: |-
+    background-position: top;
+    opacity: 0.75;
 Banner Artists:
 - Makin
 Banner Dimensions: 975*180
@@ -34,23 +37,29 @@ Banner Style: |-
     image-rendering: crisp-edges;
 Additional Files:
 - Title: Album booklet
+  Description: >-
+    Credit and commentary booklet, included with the album download.
   Files:
   - Kindred Souls Booklet.pdf
 - Title: Bandcamp banner & background
   Files:
   - banner.png
   - bg.png
-- Title: Album Cover Concepts
+- Title: Album cover concepts
+  Description: >-
+    Various sketch concepts for the album cover artwork, included with the album download.
   Files:
-  - 'The UTDR Fan Musicians - Kindred Souls - Album Cover Concepts.png'
+  - Album Cover Concepts.png
 - Title: null.ptb
+  Description: >-
+    Included with the album download.
   Files:
-  - 'The UTDR Fan Musicians - Kindred Souls - null.ptb'
+  - null.ptb
 Commentary: |-
     <i>The UTDR Fan Musicians:</i>
     Kindred Souls is totally UMSPAF's latest MSPA fan-album. The UNDERTALE and DELTARUNE guy made a bunch of music for Homestuck, after all.
 ---
-Section: Main Album
+Section: Main album
 ---
 Track: The Fall
 Suffix Directory: true
@@ -312,10 +321,10 @@ Referenced Tracks:
 Sheet Music Files:
 - Title: Sheet music by Rose Gray (original composer)
   Files:
-  - 'The UTDR Fan Musicians - Kindred Souls - Echo Flowers ~ Full Score.pdf'
-  - 'The UTDR Fan Musicians - Kindred Souls - Echo Flowers ~ Clarinet in A.pdf'
-  - 'The UTDR Fan Musicians - Kindred Souls - Echo Flowers ~ Cello.pdf'
-  - 'The UTDR Fan Musicians - Kindred Souls - Echo Flowers ~ Piano.pdf'
+  - Echo Flowers ~ Full Score.pdf
+  - Echo Flowers ~ Clarinet in A.pdf
+  - Echo Flowers ~ Cello.pdf
+  - Echo Flowers ~ Piano.pdf
 Commentary: |-
     <i>Rose Gray:</i>
     Echo Flowers was written for the 2025 fan music album Kindred Souls, published in September 2025 by the Unofficial MSPA Fans in commemoration of the 10th anniversary of the video game UNDERTALE by [[artist:toby-fox|Toby Fox]]. The piece depicts the above conversation from the game, overheard by the protagonist in passing through titular echo flowers amidst the deep blacks and shining teals of the Waterfall area. The conversation is one of yearning, of wanting freedom, of wanting a better life for you and your loved ones; it is one of hope, of imagining a better life, of imagining a world that has moved beyond war and beyond strife; and it is one of connection, of vulnerability, of sharing your hopes and dreams with those you love.
@@ -1691,8 +1700,13 @@ Artists:
 Duration: 4:15
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/--20
-Cover Artists:
-- Sartorially
+Track Artwork:
+- Artists:
+  - Sartorially
+- Label: Uncovered artwork
+  Directory: uncovered
+  Attach Above: true
+  Source: album download
 Art Tags:
 - Jevil
 Referenced Tracks:
@@ -1703,10 +1717,6 @@ Commentary: |-
 
     <i>Sartorially:</i>
     Did you know that the background image in Jevil's fight is a mirrored carousel in grayscale? — So... This piece... How to explain this piece... Initially, I'd wanted to have a reflection of Kris in the scythe. Drawing them is fun, and this IS the first secret boss, so it felt right. However! What I really wanted to play with was Jevil's natural duality. The funny jester turns into a scythe with TEETH?! That's fun! Unfortunately: I spent way too long drawing Jevil, so covering him up later was a great personal sacrifice.
-Additional Files:
-- Title: Uncovered Art
-  Files:
-  - 'The UTDR Fan Musicians - Kindred Souls - Chaos (Uncovered).png'
 ---
 Track: THE ROARING FINALE
 Artists:
@@ -2067,7 +2077,7 @@ Commentary: |-
     This feels like how Chapter 3's credit song should have been instead of reusing Chapter 2's. Your guess is as good as mine as to how it’s all gonna turn out but I really hope they don’t end up doing any more repeats.<br>
     But I digress. The end of Chapter 3 was great and this track is a bop.
 ---
-Section: Bonus Tracks
+Section: Bonus tracks
 ---
 Track: デルタルーン (TV Size ver.)
 Directory: deltarune-tv-size-ver
