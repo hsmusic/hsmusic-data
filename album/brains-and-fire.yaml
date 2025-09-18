@@ -97,7 +97,7 @@ URLs:
 - https://devieus.bandcamp.com/track/small-part-of-my-brain
 Commentary: |-
     <i>Devieus:</i>
-    ((t/5)&(t/2)%255)<<2
+    ((t/5)&(t/2)%255)\<<2
 
     This one loops really fast due to the left-shifting.
 ---
