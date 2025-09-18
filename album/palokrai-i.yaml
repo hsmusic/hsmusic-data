@@ -38,7 +38,7 @@ Commentary: |-
 
     <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
 
-    This album is dated on Bandcamp with a custom release date of 12/23/2010. According to the internal data which Bandcamp makes available in any JavaScript console (`TralbumData.current.publish_date`), the album was actually first published twenty days earlier: 12/03/2010.
+    This album is dated on Bandcamp with a custom release date of 12/23/2010. As best we can figure from the internal data which Bandcamp makes available in any JavaScript console (`TralbumData.current.publish_date`), the album was actually first published twenty days earlier: 12/03/2010.
 
     Tracks across this album have custom release dates, which are visible on the track pages on Bandcamp, and reflected here, too. There are some asterisks: see [[track:istojabego]], [[track:cforenso-ii]], [[track:cforenso-iii]]. Also, the final track, [[track:vejisto]], has a notable publish_date, 12/23/2010 - the same as the album's custom release date. (The track is also custom release dated 12/23/2010, and its written lyrics are expressly set on that particular date.)
 
@@ -67,7 +67,7 @@ URLs:
 Track: Istojabeȝo
 Directory: istojabego
 Duration: 1:14
-Has Date: false
+Date First Released: July 4, 2025
 URLs:
 - https://isoraqathedh.bandcamp.com/track/istojabe-o
 Commentary: |-
@@ -75,7 +75,11 @@ Commentary: |-
 
     Most of Palokrai's tracks have custom release dates on Bandcamp, which we represent here, despite the tracks within the albums themselves actually being released all or almost all at once. This track is missing a custom release date! However, its lime label fits [[track:maibasojen-lofam|the numbering system]] used across Palokrai: 3.03.02 places it after 3.02.02 ([[track:baptikonyen|the previous track]]) and before 3.04.02 ([[track:saltovahr|the next track]]).
 
-    Unfortunately, since the custom track dates on Bandcamp are the *only* source for these track dates (the numbering system does *not* represent specific dates, and the album was prepared on Bandcamp mostly after its tracks were created), the date used for this track is arbitrary. So... this track has no date at all. Eep!
+    Unfortunately, since the custom track dates on Bandcamp are the *only* source for these track dates (the numbering system does *not* represent specific dates, and the album was prepared on Bandcamp mostly after its tracks were created), the date used for this track is arbitrary. <s>So... this track has no date at all. Eep!</s>
+
+    <i>Quasar Nebula:</i> (wiki editor, 9/18/2025)
+
+    We emailed the artist and received file-modification details for all the tracks from Palokrai I. Since there are multiple files for each track (including MP3, MuseScore, and occasionally alternate versions), there are also multiple dates. The clearest standouts are for <code class="filename">Istojabeȝo.mscz</code> (7/4/2025) and for <code class="filename">Istojabeȝo-2.mscz</code> (7/7/2025). Both of these place this track between the two adjacent ones, as expected. For the wiki we're using the first.
 ---
 Track: Saltovahr
 Date First Released: July 24, 2010
@@ -152,7 +156,23 @@ Referenced Tracks:
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
 
-    Since these two tracks are hidden on Bandcamp and only available as part of the album download, they don't have custom on-site track release dates. However, the artwork for [[track:cforenso]] indicates multiple parts to Cforenso itself, so we're going out on a limb and reusing the date for that track, here.
+    Since these two tracks are hidden on Bandcamp and only available as part of the album download, they don't have custom on-site track release dates. However, the artwork for [[track:cforenso]] indicates multiple parts to Cforenso itself, <s>so we're going out on a limb and reusing the date for that track, here.</s>
+
+    <i>Quasar Nebula:</i> (wiki editor, 9/18/2025)
+
+    We emailed the artist and received file-modification details for all the tracks from Palokrai I. The Cforenso tracks together have a handful of dates and files, sorted earliest to latest here:
+
+    - 11/21/2020, 00:04:49 <code class="filename">CforensoP1.mp3</code>
+    - 11/27/2010, 21:45:37 <code class="filename">CforensoP2.mp3</code>
+    - 11/30/2010, 17:45:39 <code class="filename">Cforenso.mscz</code>
+    - 11/30/2010, 19:07:24 <code class="filename">Cforenso.mp3</code>
+    - 12/02/2010, 23:12:02 <code class="filename">Cforenso II.mscz</code>
+    - 12/02/2010, 23:12:16 <code class="filename">Cforenso III.mscz</code>
+    - 12/02/2010, 23:19:21 <code class="filename">Cforenso II.mp3</code>
+    - 12/02/2010, 23:20:16 <code class="filename">Cforenso III.mp3</code>
+    - 12/18/2010, 18:33:38 <code class="filename">Cforenso No Echo.mp3</code>
+
+    It looks like these tracks were in continuous production for a week or two, and were finalized or exported more or less at the same time. That date is the same as [[track:cforenso]] is custom given on Bandcamp, so this affirms these tracks sharing the same date.
 ---
 Track: Cforenso III
 Date First Released: December 2, 2010
@@ -167,7 +187,11 @@ Referenced Tracks:
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
 
-    See [[track:cforenso-ii]]! Since the artwork for [[track:cforenso]] indicates multiple parts to Cforenso itself, so we're reusing the date for that track, here.
+    See [[track:cforenso-ii]]! Since the artwork for [[track:cforenso]] indicates multiple parts to Cforenso itself, we're reusing the date for that track, here.
+
+    <i>Quasar Nebula:</i> (wiki editor, 9/18/2025)
+
+    File modification dates received from the artist also affirm these tracks sharing the same date.
 ---
 Section: Main album, continued
 ---
