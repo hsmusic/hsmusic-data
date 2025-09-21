@@ -330,8 +330,8 @@ Content: |-
         - fixed [[track:goodbye-induction]] not referencing [[track:goodbye-original]] (original single)
         - fixed [[track:wistful-induction]] not referencing [[track:wistful-original]] (original single)
         - fixed [[track:shake-your-tail]] not referencing [[track:shake-your-tail-original]] (original single)
-        - fixed [[track:fire-forget]] not referencing [[track:fire-forget-original]] (original single)
-        - fixed [[track:fin-induction]] referencing [[track:goodbye-induction]], [[track:verisimilitude-induction]], [[track:fire-forget]], [[track:wistful-induction]], [[track:shake-your-tail]], instead of [[track:goodbye-original]], [[track:verisimilitude-original]], [[track:fire-forget-original]], [[track:wistful-original]], [[track:shake-your-tail-original]] (original singles)
+        - fixed [[track:fire-forget-induction]] not referencing [[track:fire-forget]] (original single)
+        - fixed [[track:fin-induction]] referencing [[track:goodbye-induction]], [[track:verisimilitude-induction]], [[track:fire-forget-induction]], [[track:wistful-induction]], [[track:shake-your-tail]], instead of [[track:goodbye-original]], [[track:verisimilitude-original]], [[track:fire-forget]], [[track:wistful-original]], [[track:shake-your-tail-original]] (original singles)
     - fixed [[track:start-menu]] referencing [[track:once-upon-a-time]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) sampling [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]]), instead of being the track's main release (thanks, ruby!)
     - fixed [[track:menu-full]] referencing [[track:start-menu]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
@@ -531,6 +531,7 @@ Content: |-
     - changed directory of [[track:cloudscape-dialed-to-11]] from `cloudscape` to `cloudscape-dialed-to-11`
     - changed directory of [[track:the-respect-you-rightfully-deserve-single]] from `the-respect-you-rightfully-deserve-soundcloud` to `the-respect-you-rightfully-deserve-single`
     - changed directory of [[track:frost-and-frogs-lofam5a2]] from `frost-and-frogs` to `frost-and-frogs-lofam5a2`
+    - changed directory of [[track:fire-forget-induction]] from `fire-forget` to `fire-forget-induction`
     - changed directory of [[track:audacity]] from `audacity-svix` to `audacity`
     - changed directories of all tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] to be suffixed `-ch1` and `-ch2` respectively; previous directories now used across [[album:deltarune-soundtrack]]
     - changed directory of [[track:boutique-pokemon-sword-shield]] from `boutique` to `boutique-pokemon-sword-shield`
