@@ -1,4 +1,5 @@
 Album: The Homestuck Music Experience
+Always Reference Tracks By Directory: true  # With some exceptions
 Date: August 31, 2024
 Color: '#de5e77'
 URLs:
@@ -40,13 +41,12 @@ Duration: 2:49
 URLs:
 - https://funkmclovin.bandcamp.com/track/gamebro
 - https://www.youtube.com/watch?v=N31qgc7sD68
-- https://www.youtube.com/watch?v=fGqlVg9pli8
 Referenced Tracks:
 - GameBro (Original 1990 Mix)
 Sampled Tracks:
 - GameBro (Original 1990 Mix)
 Lyrics: |-
-    <i>[[artist:lilithreasure|Lilith]], [[artist:quasar-nebula|Lan]]:</i> (wiki lyrics)
+    <i>[[artist:lilithtreasure|Lilith]], [[artist:quasar-nebula|Lan]]:</i> (wiki lyrics)
 
     *(0:02-1:24)*
 
@@ -100,11 +100,11 @@ Lyrics: |-
     The games will, never stop, the games will never stop
 ---
 Track: Midnight Crew
+Suffix Directory: true
 Duration: 3:48
 URLs:
 - https://funkmclovin.bandcamp.com/track/midnight-crew
 - https://www.youtube.com/watch?v=-iveTzqdRMY
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=169s
 Referenced Tracks:
 - I'm a Member of the Midnight Crew
 Lyrics: |-
@@ -167,11 +167,12 @@ Duration: 4:49
 URLs:
 - https://funkmclovin.bandcamp.com/track/take-a-breath
 - https://www.youtube.com/watch?v=DK4hc59Ifag
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=397s
 Referenced Tracks:
 - Welcome to the Black Parade
 - track:megalovania-undertale
 Lyrics: |-
+    <i>Funk McLovin:</i> ([artist's lyrics](https://www.youtube.com/watch?v=DK4hc59Ifag))
+
     When I was 13 I
     Ejected the disc tray from my PC
     To play games with my friends
@@ -286,6 +287,7 @@ Lyrics: |-
     And I'm the girl who's going to see the dawn
 ---
 Track: Knight of Rhymes
+Always Reference By Directory: false
 Additional Names:
 - Name: >-
     Knight of Rhyme
@@ -296,16 +298,16 @@ Needs Lyrics: true
 URLs:
 - https://funkmclovin.bandcamp.com/track/knight-of-rhymes
 - https://www.youtube.com/watch?v=UmuKwN7kLu8
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=686s
 ---
 Track: Ultimate Dirk Can't Rap
 Main Release: Ult!Dirk Can't Rap
 Duration: 0:59
 URLs:
 - https://funkmclovin.bandcamp.com/track/ultimate-dirk-cant-rap
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=749s
+- https://www.youtube.com/watch?v=9w0-kC2mWHU
 ---
 Track: Little Flower
+Always Reference By Directory: false
 Additional Names:
 - Name: >-
     Little Flower feat. ArticulatelyComposed
@@ -318,10 +320,11 @@ Duration: 3:56
 URLs:
 - https://funkmclovin.bandcamp.com/track/little-flower-feat-articulatelycomposed
 - https://www.youtube.com/watch?v=TFhTEVQfk40
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=799s
 Referenced Tracks:
 - Little Flower (original)
 Lyrics: |-
+    <i>Funk McLovin:</i> ([artist's lyrics](https://www.youtube.com/watch?v=TFhTEVQfk40))
+
     Though not alive my eyes have seen
     Epochs rise and fall
     My body tired mind on fire
@@ -400,6 +403,7 @@ Lyrics: |-
     I've adoration vivid]
 ---
 Track: Sixteen Stiffs
+Always Reference By Directory: false
 Additional Names:
 - Name: >-
     Sxiteen Stiffs
@@ -410,17 +414,16 @@ Needs Lyrics: true
 URLs:
 - https://funkmclovin.bandcamp.com/track/sxiteen-stiffs
 - https://www.youtube.com/watch?v=c7drn_bqjjE
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1035s
 Referenced Tracks:
 - Sixteen Tons
 ---
 Track: GIRLS
 Suffix Directory: true
+Always Reference By Directory: false
 Duration: 1:45
 URLs:
 - https://funkmclovin.bandcamp.com/track/girls-2
 - https://www.youtube.com/watch?v=DNhR_MFNeKM
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1162s
 ---
 Track: ExistentHAL Crisis
 Suffix Directory: true
@@ -428,7 +431,7 @@ Main Release: ExistentHal Crisis
 Duration: 3:15
 URLs:
 - https://funkmclovin.bandcamp.com/track/existenthal-crisis
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1267s
+- https://www.youtube.com/watch?v=MeQ3yn_AgTI
 ---
 Track: GameGoth
 Suffix Directory: true
@@ -436,14 +439,14 @@ Main Release: GameGoth
 Duration: 1:42
 URLs:
 - https://funkmclovin.bandcamp.com/track/gamegoth-2
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1463s
+- https://www.youtube.com/watch?v=0jfuBZoNTEg
 ---
 Track: SBURB Beta
+Always Reference By Directory: false
 Duration: 1:04
 URLs:
 - https://funkmclovin.bandcamp.com/track/sburb-beta-2
 - https://www.youtube.com/watch?v=FKapG-XM9Ls
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1565s
 Referenced Tracks:
 - Homestuck Anthem
 ---
@@ -453,7 +456,6 @@ Needs Lyrics: true
 URLs:
 - https://funkmclovin.bandcamp.com/track/indiana-jones-2
 - https://www.youtube.com/watch?v=sZ7K6s37je0
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1630s
 ---
 Track: Four Boys Blues
 Suffix Directory: true
@@ -462,17 +464,18 @@ Duration: 2:57
 URLs:
 - https://funkmclovin.bandcamp.com/track/four-boys-blues
 - https://www.youtube.com/watch?v=u0kP0UGXhWc
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1651s
 ---
 Track: We'll Meet Again
+Suffix Directory: true
 Duration: 1:24
 URLs:
 - https://funkmclovin.bandcamp.com/track/well-meet-again
 - https://www.youtube.com/watch?v=sZ7K6s37je0
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1828s
 Referenced Tracks:
-- track:well-meet-again-vera-lynn
+- We'll Meet Again
 Lyrics: |-
+    <i>[[artist:lilithtreasure|Lilith]]:</i> (wiki lyrics)
+
     We'll meet again
     Don't know where
     Don't know when
@@ -491,15 +494,15 @@ Main Release: The Strider Rap-Off
 Duration: 3:33
 URLs:
 - https://funkmclovin.bandcamp.com/track/dirk-vs-dave
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=1912s
+- https://www.youtube.com/watch?v=fL2GWvyxHSs
 ---
 Track: Stuck at Home is Where I'm Gonna Be
+Always Reference By Directory: false
 Duration: 3:40
 Needs Lyrics: true
 URLs:
 - https://funkmclovin.bandcamp.com/track/stuck-at-home-is-where-im-gonna-be
 - https://www.youtube.com/watch?v=YBpBM0tAR2Q
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=2126s
 ---
 Track: Less Pale More Pail
 Suffix Directory: true
@@ -507,15 +510,17 @@ Main Release: Less Pale, More Pail
 Duration: 2:03
 URLs:
 - https://funkmclovin.bandcamp.com/track/less-pale-more-pail-2
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=2346s
+- https://www.youtube.com/watch?v=LYQj9F5fLMI
 ---
 Track: Sopor Pie
+Always Reference By Directory: false
 Duration: 1:32
 URLs:
 - https://funkmclovin.bandcamp.com/track/sopor-pie
 - https://www.youtube.com/watch?v=Ohz44XFvtLc
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=2470s
 Lyrics: |-
+    <i>Funk McLovin:</i> ([artist's lyrics](https://www.youtube.com/watch?v=Ohz44XFvtLc))
+
     [What's up mother-fuckers and mother-fuck-ettes? This is Gamzee Makara, here to tell you about my signature recipe.]
 
     First you take a pan
@@ -577,7 +582,6 @@ Needs Lyrics: true
 URLs:
 - https://funkmclovin.bandcamp.com/track/gamegrl
 - https://www.youtube.com/watch?v=MwDfBp3rTKM
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=2563s
 Referenced Tracks:
 - GameGrl (Original 1993 Mix)
 ---
@@ -587,14 +591,14 @@ Main Release: track:megalovania-super-lucky-edition
 Duration: 2:33
 URLs:
 - https://funkmclovin.bandcamp.com/track/megalovania-super-lucky-edition
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=2778s
+- https://www.youtube.com/watch?v=UR1hjosqQcI
 ---
 Track: 'Rex Duodecim Angelus: Alternate Universe'
+Always Reference By Directory: false
 Duration: 10:12
 URLs:
 - https://funkmclovin.bandcamp.com/track/rex-duodecim-angelus-alternate-universe
 - https://www.youtube.com/watch?v=SW3G7a6836c
-- https://www.youtube.com/watch?v=fGqlVg9pli8&t=2932s
 Referenced Tracks:
 - Rex Duodecim Angelus 
 - Homestuck Anthem
