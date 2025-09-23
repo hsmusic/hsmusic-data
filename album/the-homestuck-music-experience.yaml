@@ -12,11 +12,11 @@ Cover Artists:
 Wallpaper Artists:
 - Funk McLovin
 Wallpaper Style: |-
-    position: absolute;
+    position: fixed;
     width: 100%;
     height: 100%;
     opacity: 1;
-    background-position: bottom;
+    background-position: top;
     background-repeat: no-repeat;
 Banner Artists:
 - Funk McLovin
@@ -124,7 +124,7 @@ Lyrics: |-
     The stranded and the dead?"
 
     They said "Will you defeat him
-    [[track:the-lording|The lordling]]
+    [[track:the-lordling|The lordling]]
     The man who's here already
     The god of double death"
 

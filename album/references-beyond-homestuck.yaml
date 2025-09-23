@@ -1478,6 +1478,12 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor, 8/12/2023)
     Part of the soundtrack for Malcolm Brown's 2002 Sonic fangame, Sonic ThirdScape 2, which formed a trilogy with previous games Omni Khaos and Sonic ThirdScape. Track name is taken from its filename when extracted from the game.
 ---
+Track: Magnetize
+Directory: magnetize-riki-tsuji
+Always Reference By Directory: true
+Artists:
+- Riki Tsuji
+---
 Track: man
 Directory: man-deltarune
 Always Reference By Directory: true
@@ -1492,12 +1498,6 @@ Referenced Tracks:
 Commentary: |-
     <i>Niklink:</i> (wiki editor, 8/6/2023)
     Originally shared in a 2012 Tumblr post as part of several [[album:made-up-yume-nikkis|"made up yume nikkis"]] snippets where it was known as [["waltz of seccom masada"]].
----
-Track: Magnetize
-Directory: magnetize-riki-tsuji
-Always Reference By Directory: true
-Artists:
-- Riki Tsuji
 ---
 Track: Michael Bowman Remix
 Artists:
@@ -27879,15 +27879,6 @@ Lyrics: |-
 
     Behind thosе eyes
 ---
-Track: Forever
-Directory: forever-excerpt
-Always Reference By Directory: true
-Duration: 6:06
-Artists:
-- Excerpt
-URLs:
-- https://soundcloud.com/excerpt/forever
----
 Track: For Reverend Green
 Duration: 6:34
 Artists:
@@ -27961,6 +27952,15 @@ Lyrics: |-
     For Reverend Green
     For Reverend Green
     For Reverend Green
+---
+Track: Forever
+Directory: forever-excerpt
+Always Reference By Directory: true
+Duration: 6:06
+Artists:
+- Excerpt
+URLs:
+- https://soundcloud.com/excerpt/forever
 ---
 Track: Frankenstein
 Artists:
@@ -47589,58 +47589,6 @@ Lyrics: |-
     No, we didn't light it
     But we tried to fight it
 ---
-Track: We'll Meet Again
-Directory: well-meet-again-vera-lynn
-Always Reference By Directory: true
-Artists:
-- Vera Lynn
-Contributors:
-- Ross Parker (composition, lyrics, & songwriting)
-- Hughie Charles (composition, lyrics, & songwriting)
-Duration: 3:04
-URLs:
-- https://www.youtube.com/watch?v=HsM_VmN6ytk
-Lyrics: |-
-    We'll meet again
-    Don't know where
-    Don't know when
-    But I know we'll meet again some sunny day
-
-    Keep smiling through, just like you always do
-    'Til the blue skies drive the dark clouds far away
-    So will you please say hello
-    To the folks that I know
-
-    Tell them, I won't be long
-    They'll be happy to know
-    That as you saw me go
-    I was singing this song
-
-    We'll meet again
-    Don't know where
-    Don't know when
-    But I know we'll meet again some sunny day
-
-    We'll meet again
-    Don't know where
-    Don't know when
-    But I know we'll meet again some sunny day
-
-    Keep smiling through, just like you always do
-    'Til the blue skies drive the dark clouds far away
-    So will you please say hello
-    To the folks that I know
-
-    Tell them, I won't be long
-    They'll be happy to know
-    That as you saw me go
-    I was singing this song
-
-    We'll meet again
-    Don't know where
-    Don't know when
-    But I know we'll meet again some sunny day
----
 Track: Welcome to Hell
 Artists:
 - Black Midi
@@ -47811,6 +47759,58 @@ Lyrics: |-
     He loved to drive in his Jaguar
 
     So welcome to the machine
+---
+Track: We'll Meet Again
+Directory: well-meet-again-vera-lynn
+Always Reference By Directory: true
+Artists:
+- Vera Lynn
+Contributors:
+- Ross Parker (composition, lyrics, & songwriting)
+- Hughie Charles (composition, lyrics, & songwriting)
+Duration: 3:04
+URLs:
+- https://www.youtube.com/watch?v=HsM_VmN6ytk
+Lyrics: |-
+    We'll meet again
+    Don't know where
+    Don't know when
+    But I know we'll meet again some sunny day
+
+    Keep smiling through, just like you always do
+    'Til the blue skies drive the dark clouds far away
+    So will you please say hello
+    To the folks that I know
+
+    Tell them, I won't be long
+    They'll be happy to know
+    That as you saw me go
+    I was singing this song
+
+    We'll meet again
+    Don't know where
+    Don't know when
+    But I know we'll meet again some sunny day
+
+    We'll meet again
+    Don't know where
+    Don't know when
+    But I know we'll meet again some sunny day
+
+    Keep smiling through, just like you always do
+    'Til the blue skies drive the dark clouds far away
+    So will you please say hello
+    To the folks that I know
+
+    Tell them, I won't be long
+    They'll be happy to know
+    That as you saw me go
+    I was singing this song
+
+    We'll meet again
+    Don't know where
+    Don't know when
+    But I know we'll meet again some sunny day
 ---
 Track: Whales
 Directory: whales-hail-mary-mallons
