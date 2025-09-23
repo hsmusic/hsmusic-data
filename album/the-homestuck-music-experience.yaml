@@ -3,13 +3,12 @@ Date: August 31, 2024
 URLs:
 - https://funkmclovin.bandcamp.com/album/the-homestuck-music-experience
 - https://www.youtube.com/watch?v=fGqlVg9pli8
+- https://www.youtube.com/playlist?list=OLAK5uy_nJRHGhcTM-5Y58wnyPwF5T2QPOrOK622U
 Artists:
 - Funk McLovin
 Cover Artists:
 - Funk McLovin
 Wallpaper Artists:
-- Funk McLovin
-Banner Artists:
 - Funk McLovin
 Wallpaper Style: |-
     position: absolute;
@@ -18,12 +17,19 @@ Wallpaper Style: |-
     opacity: 1;
     background-position: bottom;
     background-repeat: no-repeat;
+Banner Artists:
+- Funk McLovin
+Banner Dimensions: 975x180
 Cover Art File Extension: png
 Wallpaper File Extension: png
 Banner File Extension: png
 Groups:
 - Funk McLovin
 - Fandom
+Additional Files:
+- Title: Bandcamp Banner
+  Files:
+  - banner.png
 ---
 Section: Main album
 ---
