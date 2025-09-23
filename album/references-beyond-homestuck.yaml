@@ -641,7 +641,7 @@ Referenced Tracks:
 - Game Main Theme (Piano Sketch)
 ---
 Track: Dive
-Directory: dive-riki-tsuji
+Directory: dive-astro-kid
 Always Reference By Directory: true
 Artists:
 - Riki Tsuji
@@ -677,6 +677,8 @@ Duration: 3:58
 URLs:
 - https://stabsomething.bandcamp.com/track/dream-diary-feat-easy-girl-2
 Lyrics: |-
+    <i>stab something:</i> ([artist's lyrics](https://stabsomething.bandcamp.com/track/dream-diary-feat-easy-girl-2))
+
     OH COME ON AT LEAST GIVE ME THE BARE MINIMUM
     I MIGHT NOT BE MUCH TO YOU BUT DON'T TELL ME YOU CAN'T SPIN THIS ONE
     THIS MIGHT BE UP MY ALLEY MORE THAN YOURS BUT IT'S ACCESSIBLE
@@ -1479,7 +1481,7 @@ Commentary: |-
     Part of the soundtrack for Malcolm Brown's 2002 Sonic fangame, Sonic ThirdScape 2, which formed a trilogy with previous games Omni Khaos and Sonic ThirdScape. Track name is taken from its filename when extracted from the game.
 ---
 Track: Magnetize
-Directory: magnetize-riki-tsuji
+Directory: magnetize-astro-kid
 Always Reference By Directory: true
 Artists:
 - Riki Tsuji
@@ -2021,8 +2023,7 @@ Commentary: |-
 Track: Twisting Up, Wringing Out
 Artists:
 - Jamie Paige
-- Dakota Medina (featuring)
-- c4g (featuring)
+- Dakota Medina
 Contributors:
 - Dakota Medina (vocals & lyrics)
 - c4g (drum programming)
@@ -2030,6 +2031,8 @@ Duration: 5:07
 URLs:
 - https://snortrax.bandcamp.com/track/twisting-up-wringing-out
 Lyrics: |-
+    <i>Dakota Medina:</i> ([artist's lyrics](https://snortrax.bandcamp.com/track/twisting-up-wringing-out))
+
     Curses are never easy
     Bursting with the worst
     Blowing up and sinking you in wounds that must be nursed
@@ -2080,6 +2083,26 @@ Lyrics: |-
     Trees keep swaying on
     And it won't be long
     Until the world is gone
+Crediting Sources: |-
+    <i>Riki Tsuji:</i> ([Bandcamp track artists & track name](https://astrokid.bandcamp.com/track/twisting-up-wringing-out-astro-kid-remix) for [[track:twisting-up-wringing-out-astro-kid-remix]], 6/24/2013)
+
+    [[artist:jamie-paige|hrmnzr]] feat. [[artist:dakota-medina|[Dakota Medina\]]] - Twisting Up, Wringing Out ([[artist:riki-tsuji|Astro Kid]] remix)
+
+    <i>Riki Tsuji:</i> ([Bandcamp credits blurb](https://astrokid.bandcamp.com/track/twisting-up-wringing-out-astro-kid-remix) for [[track:twisting-up-wringing-out-astro-kid-remix]], excerpt, 6/24/2013)
+
+    Originally produced by [[artist:jamie-paige|hrmnzr]]<br>
+    Vocals by [[artist:dakota-medina|[Dakota Medina\]]]
+
+    <i>Dakota Medina:</i> ([Bandcamp album name](https://snortrax.bandcamp.com/album/twisting-up-wringing-out-ft-jamie-paige), 3/10/2019)
+
+    Twisting Up Wringing out (ft. [[artist:jamie-paige|Jamie Paige]])
+
+    <i>Dakota Medina:</i> ([Bandcamp credits blurb](https://snortrax.bandcamp.com/track/twisting-up-wringing-out), excerpt, 3/10/2019)
+
+    Instrumental and Production by [[artist:jamie-paige|Jamie Paige]]<br>
+    Lyrics and vocals by [[artist:dakota-medina|[Dakota Medina\]]]<br>
+    Remix is located here: [[track:twisting-up-wringing-out-astro-kid-remix|astrokid.bandcamp.com/track/twisting-up-wringing-out-astro-kid-remix]]<br>
+    Drum Programming – [[artist:c4g|c4g]]
 ---
 Track: Verisimilitude
 Directory: verisimilitude-original
@@ -22614,7 +22637,7 @@ URLs:
 ---
 Track: Breaking Down
 Additional Names:
-- Name: 
+- Name:
     Breaking Down (feat. Tamara Fritz)
 Artists:
 - glowfonik
