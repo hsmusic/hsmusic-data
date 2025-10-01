@@ -59,7 +59,6 @@ Content: |-
         - totally custom details may be included on their own line, through an "origin details" field, similar as for artworks
     - stopped counting secondary releases as additional track contributions, adjusting counts for almost all artists, visible in [[listing:artists/by-contribs|"Artists - by Contributions"]] listing ([[media:misc/changelog/secrelease-contribution-count-listing-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-listing-new.png|new]] <img src="media/misc/tangup.png" width="18" height="18" inline>) and in artist group contribution info ([[media:misc/changelog/secrelease-contribution-count-groups-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-groups-new.png|new]])
     - added "referencing sources" section for track pages, which works the same as crediting sources, and includes citations or conversations which contextualize a track's listed references and samples
-    - added "composer's release" and "official release" annotations for Bandcamp listening links (automatically!) on tracks from solo albums which are released both places (currently only affecting rereleased [[group:official]] albums)
     - added support to hide an album's duration, which makes that duration and the album's track count disappear most places, and excludes the album from the [[listing:albums/by-tracks|"Albums - by Tracks"]] and [[listing:albums/by-duration|"Albums - by Duration"]] listings
     - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
@@ -599,6 +598,20 @@ Content: |-
     - changed directory of [[track:title-theme-the-legend-of-zelda]] from `title-the-legend-of-zelda` to `title-theme-the-legend-of-zelda`
     - changed directory of [[track:underworld-theme]] from `dungeon-theme-zelda1` to `underworld-theme`
     </details>
+
+    <h2 id="27-sep-2025" class="major-release"><html:a href="#27-sep-2025">[[date:27 September 2025]] - What a Daring Dream</a></h2>
+    <h3>site changes</h3>
+    - annotated album and track listening links with "official release" and "composer's release" when the album is released on two separate Bandcamp pages/discographies
+    - revisited and revised content of [[static:about|About & Credits]] page, finally, lol
+    <h3>data changes</h3>
+    - replaced 2019 Bandcamp compilation listening links with 2025 un-rerelease listening links for [[group:official]]! (thanks, Lilith!)
+        - replaced Bandcamp listening links for [[album:homestuck-vol-1]], [[album:homestuck-vol-2]], [[album:homestuck-vol-3]], [[album:homestuck-vol-4]], [[album:midnight-crew-drawing-dead]], [[album:homestuck-vol-5]], [[album:alternia]], [[album:the-felt]], [[album:homestuck-vol-6]], [[album:alterniabound]], [[album:medium]], [[album:homestuck-vol-7]], [[album:homestuck-vol-1-4]], [[album:homestuck-vol-8]], [[album:homestuck-vol-9]], [[album:symphony-impossible-to-play]], [[album:cherubim]], [[album:s-collide]], [[album:act-7]], [[album:homestuck-vol-10]], [[album:the-grubbles]], and [[album:hiveswap-act-1-ost]]!
+    - replaced Bandcamp compilation listening links for [[album:pesterquest-soundtrack]] track rereleases with 2025 links! (thanks, Lilith!)
+    - added official Bandcamp listening links for team & solo albums [[album:squiddles]], [[album:strife]], [[album:mobius-trip-and-hadron-kaleido]], [[album:sburb]], [[album:the-wanderers]], [[album:prospit-and-derse]], [[album:song-of-skaia]], [[album:one-year-older]], and [[album:genesis-frog]]! (thanks, Lan, Lilith!)
+    - removed dead Bandcamp listening links for [[track:the-thirteenth-hour]], [[track:theme]], [[track:walls-covered-in-blood-dx]], [[track:trollcops-radio-play]], [[track:catapult-capuchin]], [[track:science-seahorse]], [[track:a-fairy-battle]], [[track:the-blind-prophet]], [[track:alterniabound]], [[track:you-won-a-combat]], [[track:rest-a-while]], [[track:maplehoofs-adventure]], [[track:sburban-reversal]], [[track:white-host-green-room]], [[track:doctor-original-loop]], [[track:how-do-i-live-d8-night-version]], [[track:cascade-beta]], [[track:black-hole-green-sun]], [[track:carefree-action]], and [[track:another-countdown]] (thanks, Lilith!)
+    - removed duplicate YouTube listening link for [[track:frustracean]] (thanks, Lilith!)
+    - retouched group description for [[group:official]] (thanks, Lavender!)
+    - added Bandcamp compillation release additional names to [[track:carbon-nadsat-cuestick-genius]], [[track:bed-of-roses-dreams-of-derse]], [[track:bl1nd-just1c3-1nv3st1g4t1on]], [[track:black-rose-green-sun]], [[track:john-sleeps-skaian-magicant]], and [[track:black-hole-green-sun]] (thanks, Lilith!)
 
     <h2 id="16-jul-2025"><html:a href="#16-jul-2025">[[date:16 July 2025]] - waltz of seccom masada</a><h2>
     <h3>data changes</h3>
