@@ -3,7 +3,7 @@ Date: August 30, 2025
 Artists:
 - Guffy
 Cover Artists:
-- Loomfus # https://twitter.com/Loomfus
+- Loomfus
 Cover Art File Extension: png
 Color: '#de3347'
 URLs:
@@ -32,7 +32,7 @@ Commentary: |-
 Section: Main album
 ---
 Track: JAIL8R8K
-Duration: '2:02'
+Duration: 2:02
 URLs:
 - https://guffin.bandcamp.com/track/jail8r8k
 - https://www.youtube.com/watch?v=UVBUQG26Y-s
@@ -71,7 +71,7 @@ Commentary: |-
     JAIL8R8K, meant to be a sorta vriska + vrissy theme for them, you know, breaking out of jail. i used a lot of vriska motif stuff and i think At The Time i decided "yeah vrissy is the bassline"
 ---
 Track: can i sit down
-Duration: '3:20'
+Duration: 3:20
 URLs:
 - https://guffin.bandcamp.com/track/can-i-sit-down
 - https://www.youtube.com/watch?v=nhwvpD1YYxE
@@ -106,12 +106,10 @@ Commentary: |-
     can i sit down - that scene where dave and kanaya have a chat on their ship kinda early on in act 1. i think this was the first track i wrote when i decided to make this album!
 ---
 Track: Exacerbate
-Duration: '3:01'
+Duration: 3:01
 URLs:
 - https://guffin.bandcamp.com/track/exacerbate
 - https://www.youtube.com/watch?v=UkM9l1zdaaE
-Referenced Tracks:
-#- Aggrieve?
 Commentary: |-
     <i>Guffy:</i> ([Bandcamp about blurb](https://guffin.bandcamp.com/track/exacerbate))
 
@@ -128,12 +126,21 @@ Commentary: |-
     here is some aggrieve styled combat music for harry!<br>
     (filegarden link)<br>
     all original bits in this one but not everything needs to draw on already made works you know :)
+Referencing Sources: |-
+    <i>Quasar Nebula:</i> (wiki editor, 10/1/2025)
+
+    The wiki YAML file that Guffy sent for this album also initially included this text:
+
+    <code>Referenced Tracks:<br>
+    #- Aggrieve?</code>
+
+    We decided not to include this reference since it's more of an inspiration, and is already represented in commentary. See also [#hsmusic-chat](https://discord.com/channels/749042497610842152/779895315750715422/1423020249594466451).
 ---
 Track: GUMPTION
 Additional Names:
 - Name: I hope we make it.
   Annotation: original name
-Duration: '3:51'
+Duration: 3:51
 URLs:
 - https://guffin.bandcamp.com/track/gumption
 - https://www.youtube.com/watch?v=50qyFWfxJYg
@@ -186,9 +193,13 @@ Commentary: |-
     <i>Guffy:</i> ([FRAF forums: "Beyond Canon fan music"](https://www.fruityrumpus.com/forums/reply/688f5e9e8bcb18323dd135a4), excerpt, 8/3/2025)
 
     GUMPTION is a track about like, jake leaving the oppression of jane and getting back to his Hope Filled self. uses a bit of motif from [[track:elephant-gun]].
+Referencing Sources: |-
+    <i>Quasar Nebula:</i> (wiki editor, 10/1/2025)
+
+    The wiki YAML file that Guffy sent for this album notes the [[track:closer-nine-inch-nails|Closer]] sample is in percussion.
 ---
 Track: Meowdy!
-Duration: '3:17'
+Duration: 3:17
 URLs:
 - https://guffin.bandcamp.com/track/meowdy
 - https://www.youtube.com/watch?v=mgCMei9yok0
@@ -216,7 +227,7 @@ Commentary: |-
     Meowdy! jasprosesprite^2 music. happy and upbeat! love this Creature and Thing. no direct quoting motifs but i think im using like 4 different cat instruments. this is also currently my ringtone
 ---
 Track: Oasis
-Duration: '1:24'
+Duration: 1:24
 URLs:
 - https://guffin.bandcamp.com/track/oasis
 - https://www.youtube.com/watch?v=kCxnmqO0DyM
@@ -239,7 +250,7 @@ Commentary: |-
     keeping it simple actually. just doing a second loop, slowly adding on real instruments, before calling it.
 ---
 Track: Ectogenesis
-Duration: '8:11'
+Duration: 8:11
 URLs:
 - https://guffin.bandcamp.com/track/ectogenesis
 - https://www.youtube.com/watch?v=5GP0XurGRt0
@@ -285,7 +296,7 @@ Commentary: |-
     wheee
 ---
 Track: SOMNAFORMATION
-Duration: '2:59'
+Duration: 2:59
 URLs:
 - https://guffin.bandcamp.com/track/somnaformation
 - https://www.youtube.com/watch?v=0XOCJPbOMso
@@ -315,7 +326,7 @@ Commentary: |-
     SOMNAFORMATION is a track i made for stuff On the Moon and the Industry of making that space laser and jane's contingency plan. i should note i also wrote this before the intermission!
 ---
 Track: Time and Time Again
-Duration: '3:41'
+Duration: 3:41
 URLs:
 - https://guffin.bandcamp.com/track/time-and-time-again
 - https://www.youtube.com/watch?v=a4tktaQPawY
@@ -336,7 +347,7 @@ Commentary: |-
 Section: Bonus track
 ---
 Track: Meowdy! Who's There?
-Duration: '0:29'
+Duration: 0:29
 URLs:
 - https://www.youtube.com/watch?v=gyeHKaM_izs
 Referenced Tracks:
