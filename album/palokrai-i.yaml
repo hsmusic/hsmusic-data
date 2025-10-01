@@ -36,6 +36,12 @@ Commentary: |-
     Made possible by MuseScore and my unending bathroom composing sessions<br>
     Creation secured by the Pseudoans and their Invention Double Reacharound.
 
+    <i>Quasar Nebula:</i> (wiki editor, 10/1/2025)
+
+    There's a nice bit of commentary on Palokrai that iso shared when we asked about [[track:maibasojen-lofam]], as featured on the very first Land of Fans and Music - the track was a total mystery to us before, and to various other avid fanmusic nerds, too. Go give that a read for some extra introduction, written in retrospect, if you'd like!
+
+    All MuseScore project files were also shared with the wiki by the artist, on an as-is basis. These are from many years back, made in MuseScore 0.9, and might be a little finnicky opened in more recent versions. We opened all of them in MuseScore 2.1.0 apparently without issue. We've also exported PDFs of the sheet music, also using MuseScore 2. The .mscz files are all the originals. There are lots of alternate and earlier versions of tracks - they're a real delight to explore.
+
     <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
 
     This album is dated on Bandcamp with a custom release date of 12/23/2010. As best we can figure from the internal data which Bandcamp makes available in any JavaScript console (`TralbumData.current.publish_date`), the album was actually first published twenty days earlier: 12/03/2010.
@@ -51,6 +57,14 @@ Date First Released: June 6, 2010
 Duration: 2:13
 URLs:
 - https://isoraqathedh.bandcamp.com/track/akdoyvonren
+Sheet Music Files:
+- Title: MuseScore export
+  Files: [Akdoyvonren.pdf]
+MIDI Project Files:
+- Title: MuseScore 0.9 project
+  Description: >-
+    Shared with the wiki by the composer. This file was nested under two folders, instead of the usual one: "Akdoyvonren + Spinnoffs", then "Akdoyvonren-Original".
+  Files: [Akdoyvonren.mscz]
 Commentary: |-
     <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp about blurb](https://isoraqathedh.bandcamp.com/track/akdoyvonren))
 
@@ -63,13 +77,33 @@ Date First Released: June 7, 2010
 Duration: 1:14
 URLs:
 - https://isoraqathedh.bandcamp.com/track/baptikonyen
+Sheet Music Files:
+- Title: MuseScore export
+  Files: [Baptikonyen.pdf]
+MIDI Project Files:
+- Title: MuseScore 0.9 project
+  Description: >-
+    Shared with the wiki by the composer.
+  Files: [Baptikonyen.mscz]
 ---
 Track: Istojabeȝo
 Directory: istojabego
 Duration: 1:14
-Date First Released: July 4, 2025
+Date First Released: July 4, 2010
 URLs:
 - https://isoraqathedh.bandcamp.com/track/istojabe-o
+Sheet Music Files:
+- Title: MuseScore exports
+  Files:
+  - Istojabeȝo-2.pdf
+  - Istojabeo-2.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer. The folder for this track came with three project files; "Istojabeȝo.mscz" is 5155 bytes but all zeros, probably a lost file. The two remaining files are mostly the same, with a moved "Fine" marker in "Istojabeo-2.mscz", dated from October instead of July.
+  Files:
+  - Istojabeȝo-2.mscz
+  - Istojabeo-2.mscz
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
 
@@ -84,12 +118,37 @@ Commentary: |-
 Track: Saltovahr
 Date First Released: July 24, 2010
 Duration: 2:09
+Sheet Music Files:
+- Title: MuseScore exports
+  Files:
+  - Saltovahr.pdf
+  - Saltovahr-2.pdf
+  - GelsiSaltovahr.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer. The third of these files is the latest, from October and December. The first one's titled "Saltovahr, Version 2.0"; the latter two are both "Saltovahr, Version 2.5".
+  Files:
+  - Saltovahr.mscz
+  - Saltovahr-2.mscz
+  - GelsiSaltovahr.mscz
 URLs:
 - https://isoraqathedh.bandcamp.com/track/saltovahr
 ---
 Track: Xastorojo
+Additional Names:
+- Name: A Vaguely Romantic Duet with a Vaguely Alien Name
+  Annotation: sheet music subtitle
 Date First Released: August 5, 2010
 Duration: 3:11
+Sheet Music Files:
+- Title: MuseScore export
+  Files: [Xastorojo.pdf]
+MIDI Project Files:
+- Title: MuseScore 0.9 project
+  Description: >-
+    Shared with the wiki by the composer. Though you can ignore and bypass it, there is a "file corrupted" warning opening this file.
+  Files: [Xastorojo.mscz]
 URLs:
 - https://isoraqathedh.bandcamp.com/track/xastorojo
 ---
@@ -98,6 +157,18 @@ Date First Released: August 26, 2010
 Duration: 2:01
 URLs:
 - https://isoraqathedh.bandcamp.com/track/zerehanda
+Sheet Music Files:
+- Title: MuseScore exports
+  Files:
+  - Zerehenda-Preliminary.pdf
+  - Zerehanda.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer.
+  Files:
+  - Zerehenda-Preliminary.mscz
+  - Zerehanda.mscz
 Commentary: |-
     <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp about blurb](https://isoraqathedh.bandcamp.com/track/zerehanda))
 
@@ -106,14 +177,43 @@ Commentary: |-
 Track: Kastoronda
 Date First Released: August 25, 2010
 Duration: 1:37
+Sheet Music Files:
+- Title: MuseScore export
+  Files: [Kastoronda.pdf]
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer.
+  Files: [Kastoronda.mscz]
 URLs:
 - https://isoraqathedh.bandcamp.com/track/kastoronda
 ---
 Track: Quensindara
+Additional Names:
+- Name: An agglutination of Three Pieces that Start with QU
+  Annotation: sheet music subtitle
 Date First Released: October 4, 2010
 Duration: 3:13
 URLs:
 - https://isoraqathedh.bandcamp.com/track/quensindara
+Sheet Music Files:
+- Title: MuseScore exports
+  Files:
+  - Quistrodose.pdf
+  - Quelesósta 2.pdf
+  - Quelesósta.pdf
+  - Test.pdf
+  - Quensindara.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer. These files were nested variously, [[media:misc/quensindara-files.png|see image]]. Though you can ignore and bypass it, there are "file corrupted" warnings opening Quelesósta.mscz and Quensindara.mscz.
+  Files:
+  - Quistrodose.mscz
+  - Quelesósta 2.mscz
+  - Quelesósta.mscz
+  - Test.mscz
+  - Quensindara.mscz
 Commentary: |-
     <i>Isoraķatheð Zorethan F.:</i> ([Bandcamp about blurb](https://isoraqathedh.bandcamp.com/track/quensindara))
 
@@ -122,30 +222,136 @@ Commentary: |-
 Track: Degrutos
 Date First Released: September 19, 2010
 Duration: 1:33
+Sheet Music Files:
+- Title: MuseScore export
+  Files: [Degrutos.pdf]
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer. Though you can ignore and bypass it, there is a "file corrupted" warning opening this file.
+  Files: [Degrutos.mscz]
 URLs:
 - https://isoraqathedh.bandcamp.com/track/degrutos
 ---
 Track: Galsordokan
+Additional Names:
+- Name: The Impossible Song
+  Annotation: sheet music subtitle
 Date First Released: October 8, 2010
 Duration: 3:13
+Sheet Music Files:
+- Title: MuseScore exports
+  Files:
+  - Galsordokan.pdf
+  - Galsordokan-2.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer.
+  Files:
+  - Galsordokan.mscz
+  - Galsordokan-2.mscz
 URLs:
 - https://isoraqathedh.bandcamp.com/track/galsordokan
 ---
 Track: Tikijona
+Additional Names:
+- Name: Almost Canon but not quite
+  Annotation: sheet music subtitle
+- Name: SesiTikijona
+  Annotation: version with lyrics, title
+- Name: Absolutely silly!
+  Annotation: version with lyrics, subtitle
 Date First Released: November 13, 2010
 Duration: 3:49
+Sheet Music Files:
+- Title: MuseScore exports
+  Files:
+  - Tikijona-Prelim.pdf
+  - Tikijona-1.pdf
+  - SesiTikijona.pdf
+  - Tikijona - Copy.pdf
+  - Tikijona.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer. These files are all flat together, in one folder, sorted here by date modified (which lines up with apparent completion).
+  Files:
+  - Tikijona-Prelim.mscz
+  - Tikijona-1.mscz
+  - SesiTikijona.mscz
+  - Tikijona - Copy.mscz
+  - Tikijona.mscz
 URLs:
 - https://isoraqathedh.bandcamp.com/track/tikijona
+Lyrics: |-
+    <i>Isoraķatheð Zorethan F.:</i> (SesiTikijona sheet music)
+
+    Sollux Captor was down the street one day when he tripped and fell into a manhole;
+    In there he saw his friends Tavros and Feferi sitting alone in the dark for a while.
+    He ask them what ii2 the matter with you guy2 you siit here doiing ab2olutely nothing
+    Feferi said itś a sign and a certainty and all of them will fall w)(en this day ends.
+
+    Sixteen people will fall down this manhole and no one can do anything about that
+    Sixteen people will fall down this manhole and soon they will find out something no one knows!
+
+    Not very long later Kanaya met the same fate that Sollux has befallen before;
+    She too ask Whats Going On In Here and Feferi told her the whole thing.
+    They sat in silence as they wait for next victim and soon Vriska tumbled down into the dark;
+    Eridan Ampora fumbled down as well his scarf has a loose thread but it doesn't matter.
+
+    Sixteen people will fall down this manhole and no one can do anything about that
+    Sixteen people will fall down this manhole and soon they will find out something no one knows!
+
+    The rest came down pretty quickly after all that Nepeta belly flopped into the dark;
+    Karkat pushed Aradia down but snagged on a rock and he fell with her: 10 out of 10!
+    Equius, idious wore his glasses on a dark day and broke yet more of his teeth;
+    Gamzee and his Faygo simply floated down 'cos of all of his big mIrAcLeS.
+
+    Sixteen people will fall down this manhole and no one can do anything about that
+    Sixteen people will fall down this manhole and soon they will find out something no one knows!
+
+    After Tereze came down with a flump the trolls thought who could be the remaining four;
+    Sudden arrival of Mister John Egbert confirmed that this world is trying to screw them.
+    Rose Lalonde came down with a flump as well followed swiftly by Dave Strider;
+    Jade Harley flumped down too and with that all of the sixteen are present they started to walk.
+
+    Sixteen people will fall down this manhole and no one can do anything about that
+    Sixteen people will fall down this manhole and soon they will find out something no one knows!
+
+    For fifteen minutes they walked down the samey old brick walls and damp floors and aligators;
+    An hour passed and they saw some light and finally they found some unusual light.
+    They found a glowing box and they blew it open and what they saw was a sight to behold;
+    A letter; a letter an invitation of a new story that will start today.
+
+    Sixteen people will fall down this manhole and no one can do anything about that
+    Sixteen people will fall down this manhole and soon they will find out something no one knows!
 ---
 Track: Cforenso
+Additional Names:
+- Name: Two Worlds
+  Annotation: sheet music subtitle
 Date First Released: December 2, 2010
 Duration: 2:09
 URLs:
 - https://isoraqathedh.bandcamp.com/track/cforenso
+Sheet Music Files:
+- Title: MuseScore export
+  Files:
+  - Cforenso.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 project
+  Description: >-
+    Shared with the wiki by the composer.
+  Files:
+  - Cforenso.mscz
 ---
 Section: Hidden tracks
 ---
 Track: Cforenso II
+Additional Names:
+- Name: 'Two Worlds: of which the Second'
+  Annotation: sheet music subtitle
 Date First Released: December 2, 2010
 Duration: 2:09
 Cover Art File Extension: jpg
@@ -153,6 +359,16 @@ Referenced Artworks:
 - Cforenso
 Referenced Tracks:
 - Cforenso
+Sheet Music Files:
+- Title: MuseScore export
+  Files:
+  - Cforenso II.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 project
+  Description: >-
+    Shared with the wiki by the composer. Though you can ignore and bypass it, there is a "file corrupted" warning opening this file.
+  Files:
+  - Cforenso II.mscz
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
 
@@ -175,6 +391,9 @@ Commentary: |-
     It looks like these tracks were in continuous production for a week or two, and were finalized or exported more or less at the same time. That date is the same as [[track:cforenso]] is custom given on Bandcamp, so this affirms these tracks sharing the same date.
 ---
 Track: Cforenso III
+Additional Names:
+- Name: The hidden Third
+  Annotation: sheet music subtitle
 Date First Released: December 2, 2010
 Duration: 4:17
 Cover Art File Extension: jpg
@@ -184,6 +403,16 @@ Referenced Artworks:
 Referenced Tracks:
 - Cforenso
 - Cforenso II
+Sheet Music Files:
+- Title: MuseScore export
+  Files:
+  - Cforenso III.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 project
+  Description: >-
+    Shared with the wiki by the composer.
+  Files:
+  - Cforenso III.mscz
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 9/16/2025)
 
@@ -196,9 +425,26 @@ Commentary: |-
 Section: Main album, continued
 ---
 Track: Vejisto
+Additional Names:
+- Name: Vejisto/December 23
+  Annotation: sheet music title
+- Name: Addressing a non-existent problem
+  Annotation: sheet music subtitle
 Duration: 6:02
 URLs:
 - https://isoraqathedh.bandcamp.com/track/vejisto
+Sheet Music Files:
+- Title: MuseScore exports
+  Files:
+  - Vejisto - Prelim.pdf
+  - Vejisto.pdf
+MIDI Project Files:
+- Title: MuseScore 0.9 projects
+  Description: >-
+    Shared with the wiki by the composer. Though you can ignore and bypass it, there is a "file corrupted" warning opening Vejisto.mscz.
+  Files:
+  - Vejisto - Prelim.mscz
+  - Vejisto.mscz
 Lyrics: |-
     <i>Isoraķatheð Zorethan F.:</i> ([artist's lyrics](https://isoraqathedh.bandcamp.com/track/vejisto))
 
