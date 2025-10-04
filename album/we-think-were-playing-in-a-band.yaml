@@ -1,17 +1,26 @@
-Album: 'We Think We're Playing In A Band: A Tribute To Tally Hall'
+﻿Album: 'We Think We're Playing In A Band: A Tribute To Tally Hall'
 Directory: we-think-were-playing-in-a-band
 Suffix Track Directories: true
 Always Reference Tracks By Directory: true
 Date: November 22, 2015
-Color:
+Color: '#c0d6f4'
 URLs:
 - https://wethinkwereplayinginaband.bandcamp.com/album/we-think-were-playing-in-a-band-a-tribute-to-tally-hall
 Cover Artists:
 - Allegra Rosenberg (art direction & design)
+Wallpaper Style: |-
+    background-color: #c0d6f4;
+    opacity: 1;
+Banner Artists:
+- Allegra Rosenberg
+Cover Art File Extension: png
 Groups:
 - Beyond
 Additional Files:
-- Title: Fan art and fan writings booklet
+- Title: Bandcamp Banner
+  Files:
+  - banner.jpg
+- Title: Fan art & fan writings booklet
   Description: >-
     14-page booklet consisting of fan art & fan writings of [[artist:tally-hall|Tally Hall]], included in album download.
   - WeThinkWe'rePlayingInABand.pdf
@@ -26,7 +35,233 @@ Commentary: |-
 
     Fast forward to 2015. Ten years after the album hit the shelves and four years after Tally Hall left the stage, that fanbase has come together to celebrate the legacy and longevity of Ann Arbor's finest.
 
-    Featuring over twenty collaborators, including some of Tally Hall's former tourmates, YouTube singer-songwriters, members of the Homestuck music team, and many talented young fans, "We Think We're Playing In A Band" pays tribute to Tally Hall with covers spanning their entire discography. With interpretations ranging from the faithful to the wildly inventive, incorporating genres from Brazilian jazz guitar (Rio de Janeiro band Espinoza's cover of "The Bidding") to pummeling metal ([[artist:bora-koraca|Gary Patterson's]] version of "All Of My Friends"), these covers show off the creative spirit of a fanbase inspired by Tally Hall's musical excellence.
+    Featuring over twenty collaborators, including some of Tally Hall's former tourmates, YouTube singer-songwriters, members of the Homestuck music team, and many talented young fans, "We Think We're Playing In A Band" pays tribute to Tally Hall with covers spanning their entire discography. With interpretations ranging from the faithful to the wildly inventive, incorporating genres from Brazilian jazz guitar (Rio de Janeiro band [[artist:espinoza|Espinoza's]] cover of [[The Bidding|"The Bidding"]]) to pummeling metal ([[artist:gary-patterson|Gary Patterson's]] version of [[All of My Friends|"All Of My Friends"]]), these covers show off the creative spirit of a fanbase inspired by Tally Hall's musical excellence.
+
+    All proceeds from the album will go towards the University of Michigan’s Mott Children’s Hospital, a charity selected by the band. The download also includes a 14-page digital booklet featuring art and writing from fans across the world.
+Crediting Sources: |-
+    <i>Allegra Rosenberg:</i> ([Bandcamp credits blurb](https://wethinkwereplayinginaband.bandcamp.com/album/we-think-were-playing-in-a-band-a-tribute-to-tally-hall), excerpt)
+
+    Project Organizers: [[artist:allegra-rosenberg]] & [[artist:marcy-nabors]]<br>
+    Art Direction & Design: [[artist:allegra-rosenberg]]<br>
+    Press & Marketing: [[artist:allegra-rosenberg]]
+
+    Special thanks to [[artist:tally-hall|Rob, Joe, Andrew, Ross, and Zubin]]— for everything.
 ---
 Section: Main album
 ---
+Track: Good Day
+Artists:
+- Minimall
+Contributors:
+- Brennan Doyle
+- Wynne Males
+- Sonia Maral
+- Allegra Rosenberg
+- Merced Stratton
+- Marcy Nabors (mixing & mastering)
+Duration: 3:25
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/good-day
+Referenced Tracks:
+- track:good-day-tally-hall
+Crediting Sources: |-
+    <i>Allegra Rosenberg:</i> ([Bandcamp credits blurb](https://wethinkwereplayinginaband.bandcamp.com/track/good-day), excerpt)
+
+    Minimall is: [[artist:brennan-doyle]], [[artist:wynne-males]], [[artist:sonia-maral|[Sonia Maral/]]], [[artist:allegra-rosenberg]], & [[artist:merced-stratton]]
+
+    Mix & Master by [[artist:marcy-nabors]]
+---
+Track: Taken For A Ride
+Artists:
+- Skye
+#Contributors:
+#- way too many
+#- this is a cry for help
+#https://www.skyetheguy.com/TFARLyrics.html
+#https://www.skyetheguy.com/works.html
+Duration: 4:45
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/taken-for-a-ride
+Referenced Tracks:
+- track:taken-for-a-ride
+---
+Track: The Bidding
+Artists:
+- Espinoza
+Duration: 2:41
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/the-bidding
+Referenced Tracks:
+- track:the-bidding
+---
+Track: Be Born
+Artists:
+- Ben Kling
+Duration: 2:51
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/be-born
+Referenced Tracks:
+- track:be-born
+---
+Track: Banana Man
+Artists:
+- Casey Shea
+Duration: 4:26
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/banana-man
+Referenced Tracks:
+- track:banana-man
+---
+Track: Just Apathy
+Artists:
+- Courtney Flynn
+Duration: 4:55
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/just-apathy
+Referenced Tracks:
+- track:just-apathy
+---
+Track: Spring And A Storm
+Artists:
+- Michael Guy Bowman
+Duration: 4:14
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/spring-and-a-storm
+Referenced Tracks:
+- track:spring-and-a-storm
+---
+Track: Haiku
+Artists:
+- Allegra Rosenberg
+Duration: 4:34
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/haiku
+Referenced Tracks:
+- track:haiku-tally-hall
+---
+Track: The Whole World And You
+Artists:
+- Jamie Paige
+Duration: 1:45
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/the-whole-world-and-you
+Referenced Tracks:
+- track:the-whole-world-and-you
+---
+Track: Ruler Of Everything
+Artists:
+- James LeBlanc
+Duration: 3:34
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/ruler-of-everything
+Referenced Tracks:
+- track:ruler-of-everything
+---
+Track: You & Me
+Artists:
+- artist:molly-lewis-ukelele
+Duration: 2:37
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/you-me
+Referenced Tracks:
+- track:you-and-me
+---
+Track: Cannibal
+Artists:
+- Octopus Tophat
+Duration: 3:16
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/cannibal
+Referenced Tracks:
+- track:cannibal-tally-hall
+---
+Track: Who You Are
+Artists:
+- OK Glass
+Duration: 3:01
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/who-you-are
+Referenced Tracks:
+- track:who-you-are
+---
+Track: Hymn For A Scarecrow
+Artists:
+- artist:zoe-playfulpunch
+Duration: 5:08
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/hymn-for-a-scarecrow
+Referenced Tracks:
+- track:hymn-for-a-scarecrow
+---
+Track: The Trap
+Artists:
+- Marcy Nabors
+Contributors:
+- Allegra Rosenberg (choir)
+- Merced Stratton (choir)
+- Skye (choir)
+- OK Glass (choir)
+- Sonia Maral (choir)
+Duration: 3:30
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/the-trap
+Referenced Tracks:
+- track:the-trap
+Crediting Sources: |-
+    <i>Allegra Rosenberg:</i> ([Bandcamp credits blurb](https://wethinkwereplayinginaband.bandcamp.com/track/the-trap))
+
+    Choir:<br>
+    [[artist:allegra-rosenberg]]<br>
+    [[artist:merced-stratton]]<br>
+    [[artist:skye|Skye (HomeStarRunnerTron)]]<br>
+    [[artist:ok-glass|[OK Glass/]]]<br>
+    [[artist:sonia-maral|[Sonia Maral/]]]
+---
+Track: A Lady
+Artists:
+- Sonia Maral
+Duration: 1:09
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/a-lady
+Referenced Tracks:
+- track:a-lady
+---
+Track: Turn The Lights Off
+Artists:
+- Matt Martin
+Duration: 3:00
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/turn-the-lights-off
+Referenced Tracks:
+- track:turn-the-lights-off
+---
+Track: You
+Artists:
+- Tommy Siegel
+Duration: 3:16
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/you
+Referenced Tracks:
+- track:you-tally-hall
+---
+Track: All Of My Friends
+Artists:
+- Gary Patterson
+Duration: 3:44
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/all-of-my-friends
+Referenced Tracks:
+- track:all-of-my-friends
+Commentary: |-
+    <i>Allegra Rosenberg:</i> ([Bandcamp about blurb](https://wethinkwereplayinginaband.bandcamp.com/track/all-of-my-friends))
+
+    \\m/
+---
+Track: Light and Night
+Artists:
+- Merced Stratton
+Duration: 5:04
+URLs:
+- https://wethinkwereplayinginaband.bandcamp.com/track/light-and-night
+Referenced Tracks:
+- track:light-and-night
