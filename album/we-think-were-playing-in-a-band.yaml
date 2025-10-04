@@ -1,4 +1,4 @@
-﻿Album: 'We Think We're Playing In A Band: A Tribute To Tally Hall'
+﻿Album: "We Think We're Playing In A Band: A Tribute To Tally Hall"
 Directory: we-think-were-playing-in-a-band
 Suffix Track Directories: true
 Always Reference Tracks By Directory: true
@@ -23,6 +23,7 @@ Additional Files:
 - Title: Fan art & fan writings booklet
   Description: >-
     14-page booklet consisting of fan art & fan writings of [[artist:tally-hall|Tally Hall]], included in album download.
+  Files:
   - WeThinkWe'rePlayingInABand.pdf
 Commentary: |-
     <i>Allegra Rosenberg:</i> ([Bandcamp download blurb](https://wethinkwereplayinginaband.bandcamp.com/album/we-think-were-playing-in-a-band-a-tribute-to-tally-hall))
