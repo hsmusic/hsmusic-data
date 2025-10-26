@@ -5729,17 +5729,40 @@ Act: Desynced
 Directory: desynced
 Color: '#CE3382'
 ---
-Flash: '[S] SUNRISE.'
-Directory: sunrise-desynced
+Flash: '[S] SUNRISE. (OLD)'
+Directory: desynced-sunrise-old
 Cover Art File Extension: png
 Date: October 2, 2019
 Featured Tracks:
+- Nouveau Babylonica
+URLs:
+- https://youtu.be/M_NsQu4g2DA
+Contributors:
+- dizzims. (animation)
+---
+Flash: '[S] SUNRISE.'
+Directory: desynced-sunrise
+Cover Art File Extension: png
+Date: March 29, 2020
+Featured Tracks:
 - track:sunrise-desynced
 URLs:
-- https://mspfa.com/?s=28296&p=2
 - https://www.youtube.com/watch?v=6YeUrQjQV-o
 Contributors:
 - artist:dizzims (animation)
+---
+Flash: '[S] Act 1: In The Beginning.'
+Directory: desynced-act-1-in-the-beginning
+Cover Art File Extension: png
+Date: October 13, 2025
+Featured Tracks:
+- Desynced Cataclysm
+- track:in-the-beginning-anthology-ii
+URLs:
+- https://mspfa.com/?s=28296&p=2
+- https://youtu.be/iSS8sRJunqg
+Contributors:
+- dizzims. (art, animation, sound design)
 ---
 Flash: '[S] Desynced'
 Directory: desynced-desynced
@@ -5775,10 +5798,21 @@ URLs:
 Contributors:
 - artist:dizzims (animation)
 ---
+Flash: '[S] Intermission 1. (OLD)'
+Directory: desynced-intermission-1-old
+Cover Art File Extension: png
+Date: January 14, 2020
+Featured Tracks:
+- We'll Be Right Back
+URLs:
+- https://youtu.be/LXV0ArJVJCw
+Contributors:
+- dizzims. (animation)
+---
 Flash: '[I1] [S] Intermission 1.'
 Directory: desynced-intermission-1
 Cover Art File Extension: png
-Date: January 14, 2020
+Date: November 26, 2021
 Featured Tracks:
 - We'll Be Right Back
 URLs:
@@ -5799,6 +5833,7 @@ URLs:
 Contributors:
 - artist:dizzims (animation)
 ---
+Flash: '[S] Kate: Rise. (OLD)'
 Flash: '[S] Kate: Wake Up.'
 Directory: kate-wake-up
 Cover Art File Extension: png
