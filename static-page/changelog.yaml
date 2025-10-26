@@ -119,7 +119,10 @@ Content: |-
         - added [[album:deltarune-status-update-sept-2022]]!
         - added [[album:deltarune-ch3-status-update]]!
         - added [[album:deltarune-ch2-rejected-tracks]]!
-    - added albums and singles from [[group:thomas-ferkol]]! (thanks, Jebb!)
+    - added albums by [[group:rj-lake]]! (thanks, Jebb, Lan!)
+        - added [[album:omegalodon]]!
+        - added [[album:songs-for-rune]]!
+    - added albums and singles by [[group:thomas-ferkol]]! (thanks, Jebb, Lan!)
         - added [[album:dance-of-dregs]]!
         - added [[album:felsite]]!
         - added [[album:the-earthen-scar]]!
@@ -133,7 +136,7 @@ Content: |-
         - added [[album:grigori]]!
         - added [[album:dear-children]]!
         - added [[album:the-earthen-scar-revisited]]!
-    - added albums and singles from [[group:svix]]! (thanks, Lilith, Lan!)
+    - added albums and singles by [[group:svix]]! (thanks, Lilith, Lan!)
         - added [[album:fire-forget]]!
         - added [[album:im-here-for-the-future]]!
         - added [[album:audacity]]!
@@ -310,9 +313,10 @@ Content: |-
         - moved [[track:mad-mew-mew]] to single release
     - moved [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) from "Music from video games" to "Other music originating outside Homestuck" (thanks, Lan, bit!)
     <!-- track section/placement changes (not fixes) -->
-    - moved [[track:lets-read-a-webcomic]] from [[album:references-beyond-homestuck]] to [[album:more-homestuck-fandom]] (thanks, Lan!)
     - moved [[track:the-respect-you-rightfully-deserve-single]] from [[album:more-homestuck-fandom]] to [[album:the-respect-you-rightfully-deserve|single release]] (thanks, Lilith!)
+    - moved [[track:scientific-method]] from [[album:references-beyond-homestuck]] to [[album:omegalodon]] (thanks, Jebb, Lan!)
     - moved [[track:noun-astro-kids-pronoun-remix]] from [[album:references-beyond-homestuck]] to [[album:will-remix-for-food-remixes-vol-i]] (thanks, Lilith!)
+    - moved [[track:lets-read-a-webcomic]] from [[album:references-beyond-homestuck]] to [[album:more-homestuck-fandom]] (thanks, Lan!)
     <!-- general removals -->
     - removed "(…) - Single" additional names automatically enforced on Apple Music and iTunes platforms, affecting [[track:black-richaadeb]], [[track:heir-of-grief-richaadeb]], [[track:dance-of-thorns-richaadeb]], [[track:oppa-toby-style]] (all [[artist:richaadeb]]), and [[album:dreamers-diarchy]] (thanks, Whisper, ruby!)
     - removed dead link in commentary for [[track:threxecute]] (thanks, Lilith!)
@@ -567,6 +571,7 @@ Content: |-
     - changed directory of [[track:frost-and-frogs-lofam5a2]] from `frost-and-frogs` to `frost-and-frogs-lofam5a2`
     - changed directory of [[track:fire-forget-induction]] from `fire-forget` to `fire-forget-induction`
     - changed directory of [[track:audacity]] from `audacity-svix` to `audacity`
+    - changed directory of [[track:scientific-method]] from `scientific-method-omegalodon` to `scientific-method`
     - changed directories of all tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] to be suffixed `-ch1` and `-ch2` respectively; previous directories now used across [[album:deltarune-soundtrack]]
     - changed directory of [[track:do-the-homestuck-demo]] from `do-the-homestuck` to `do-the-homestuck-demo`
     - changed directory of [[track:boutique-pokemon-sword-shield]] from `boutique` to `boutique-pokemon-sword-shield`
@@ -2484,7 +2489,7 @@ Content: |-
     - fixed [[track:made-in-heaven-canwave-3]] referencing [[track:the-show-must-go-on-friendsymphony]] ([[album:friendsymphony]]) instead of [[track:the-show-must-go-on-queen]] ([[artist:queen]])
     - fixed [[track:doctoral-replicollision-final-exam]] referencing tracks it only samples (thanks, Rosetta Leijonde!)
     - fixed [[track:miasmatic-chacon]] not sampling [[track:phat1]] (thanks indirectly, Rosetta Leijonde!)
-    - fixed [[track:a-heaven-broad-and-ochre]] not sampling [[track:scientific-method-omegalodon]] (thanks, Lilith!)
+    - fixed [[track:a-heaven-broad-and-ochre]] not sampling [[track:scientific-method]] (thanks, Lilith!)
     - various fixes for [[album:someday]] and [[album:psycholonials]]:
         - fixed [[track:woman-i-never-met]] not referencing [[track:serenade-vol8]]
         - fixed [[track:day-that-never-came]] not referencing [[track:westminster-quarters]]
