@@ -1155,14 +1155,27 @@ Duration: 2:17
 URLs:
 - https://homestuck.bandcamp.com/track/made-of-time
 - https://youtu.be/MMwFJp_e3BQ
-Cover Artists:
-- Alexia Khodanian
-Cover Art File Extension: png
-Art Tags:
-- Aradia
-- Jack Noir
-- Green Sun
-- 'cw: blood'
+Track Artwork:
+- Artists:
+  - Alexia Khodanian
+  File Extension: png
+  Tags:
+  - Aradia
+  - Jack Noir
+  - Green Sun
+  - 'cw: blood'
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 1400x1100
+  File Extension: png
+  Source: [Tumblr](https://web.archive.org/web/20120510173130/http://alexiadraws.tumblr.com/post/17469516234/full-size-this-morning-i-woke-up-and-said-i-am)
+Commentary: |-
+    <i>Alexia Khodanian:</i> ([Tumblr](https://web.archive.org/web/20120510173130/http://alexiadraws.tumblr.com/post/17469516234/full-size-this-morning-i-woke-up-and-said-i-am))
+
+    this morning I woke up and said “I am going to draw something I can be proud of today”. I think I did it.
+
+    [[flash:3297|[S\] Wake]] is one of my favorite pages
 ---
 Track: Nine Lives One Love
 Artists:
