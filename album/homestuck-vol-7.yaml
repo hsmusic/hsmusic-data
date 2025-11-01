@@ -82,14 +82,30 @@ Duration: 3:18
 URLs:
 - https://homestuck.bandcamp.com/track/black-rose-green-sun
 - https://youtu.be/XoFbJllomCo
-Cover Artists:
-- Vinks (lines)
-- Shelby Cragg (colors)
-Art Tags:
-- Rose
-- Horrorterrors
-- Green Sun
-- Thorns of Oglogoth
+Track Artwork:
+- Artists:
+  - Vinks (lines)
+  - Shelby Cragg (colors)
+  Tags:
+  - Rose
+  - Horrorterrors
+  - Green Sun
+  - Thorns of Oglogoth
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 900x1146
+  Date: May 26, 2011
+  Source: >-
+    [DeviantArt](https://web.archive.org/web/20120201074127/http://schellibie.deviantart.com/art/Seer-of-Light-210386488)
+  Tags:
+  - Rose
+  - Horrorterrors
+  - Green Sun
+  - Thorns of Oglogoth
+  - Casey
+  - Crocodiles (consort)
+  - Turtles (consort)
 Referenced Tracks:
 - Macabre
 Sheet Music Files:
@@ -699,12 +715,26 @@ Duration: 0:49
 URLs:
 - https://homestuck.bandcamp.com/track/warhammer-of-zillyhoo
 - https://youtu.be/0EVrOapzDvg
-Cover Artists:
-- Vinks (lines)
-- Shelby Cragg (colors)
-Art Tags:
-- John
-- Warhammer of Zillyhoo
+Track Artwork:
+- Artists:
+  - Vinks (lines)
+  - Shelby Cragg (colors)
+  Tags:
+  - John
+  - Warhammer of Zillyhoo
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
+  Dimensions: 900x1261
+  Date: May 24, 2011
+  Source: >-
+    [DeviantArt](https://web.archive.org/web/20120201070109/http://schellibie.deviantart.com/art/Heir-of-Breath-210157535)
+  Tags:
+  - John
+  - Warhammer of Zillyhoo
+  - CD
+  - Rabbit
+  - WV
 Lyrics: |-
     Warhammer
     Of Zillyhoo
