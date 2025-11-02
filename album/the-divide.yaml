@@ -5,8 +5,8 @@ Artists:
 - Pascal van den Bos
 Cover Artists:
 - sKetchooDles
-#Art Tags:
-#- pascal's sona
+Art Tags:
+- Ralph Arynn
 Cover Art File Extension: png
 URLs:
 - https://potatoboss.bandcamp.com/album/the-divide
@@ -15,18 +15,24 @@ Groups:
 - Pascal van den Bos
 - Beyond
 Commentary: |-
-    <i>Pascal van den Bos:</i> ([Bandcamp about blurb](https://potatoboss.bandcamp.com/album/the-divide)
+    <i>Pascal van den Bos:</i> ([Bandcamp about blurb](https://potatoboss.bandcamp.com/album/the-divide))
+
     An 80's inspired Synthwave album, i've been wanting to do this for a long time. This album took a while to make but it was definitely worth it. I hope you enjoy!
 Crediting Sources: |-
     <i>Pascal van den Bos:</i> ([Bandcamp credits blurb](https://potatoboss.bandcamp.com/album/the-divide), excerpt)
+
     Art by: [[artist:sketchoodles]]
 ---
 Track: Deviant
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:32
 URLs:
 - https://potatoboss.bandcamp.com/track/deviant
 ---
 Track: Hybrid
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:09
 URLs:
 - https://potatoboss.bandcamp.com/track/hybrid
@@ -37,6 +43,8 @@ URLs:
 - https://potatoboss.bandcamp.com/track/the-getaway
 ---
 Track: Upward
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:01
 URLs:
 - https://potatoboss.bandcamp.com/track/upward
@@ -49,6 +57,6 @@ URLs:
 Track: Upward (Extended Mix)
 Duration: 3:40
 Referenced Tracks:
-- Upward
+- track:upward-the-divide
 URLs:
 - https://potatoboss.bandcamp.com/track/upward-extended-mix
