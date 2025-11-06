@@ -1090,7 +1090,7 @@ Commentary: |-
 ---
 Track: Irradiated
 Suffix Directory: true
-Main Release: 'Shenanigans: MSPA'
+Always Reference By Directory: true
 Duration: 2:21
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/irradiated
@@ -1103,6 +1103,8 @@ Art Tags:
 - 'cw: blood'
 - Warhammer of Zillyhoo
 - Breath
+Referenced Tracks:
+- track:irradiated-thomas-ibarra
 Commentary: |-
     <i>Thomas Ibarra:</i> (composer, booklet commentary)
 
