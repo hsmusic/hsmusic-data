@@ -172,6 +172,8 @@ Content: |-
         - added [[album:inspired-by-the-void]]!
         - added [[album:back-burner]]!
         - added [[album:land-of-logic-and-skyscrapers]]!
+    - added releases from [[group:deconrecon]]! (thanks, Lilith!)
+        - added [[album:sound-test-i]] from [[group:deconrecon]]!
     - added releases from [[group:sbargv2]]! (thanks, <<wertercatt:album data, presentation, research>>, <<lavenderSiren:additional research>>, <<Lan:data review>>, <<Whisper:additional review>>!)
         - added [[album:sbargv2-volume-1]]!
     - added releases from [[group:the-tapestry]]! (thanks, Jebb, Lan, Monckat!)
@@ -468,6 +470,7 @@ Content: |-
         - moved [[track:mysterious-shrine]], [[track:absolutely-overfamiliar-shrine]], [[track:bonetrousle-trailer-version]], and [[track:before-the-story]] to [[album:undertale-collectors-edition-soundtrack]]
         - moved [[track:dating-start-fm-version]], [[track:bereavement]], and [[track:dog-dating]] to [[album:undertale-soundtrack-cd]]
         - moved [[track:mad-mew-mew]] to single release
+    - moved [[track:serpazs-happy-accordion-funtimes]], [[track:alpocalypse]], and [[track:glimpses-of-perfection]] from [[album:more-homestuck-fandom]] to [[album:sound-test-i]] (thanks, Lilith!)
     - moved [[track:the-respect-you-rightfully-deserve-single]] from [[album:more-homestuck-fandom]] to [[album:the-respect-you-rightfully-deserve|single release]] (thanks, Lilith!)
     - moved [[track:cascade-directors-cut]] from [[album:more-homestuck-fandom]] to [[album:cascade|single release]] (thanks, ruby, Lan!)
     - moved [[track:scientific-method]] from [[album:references-beyond-homestuck]] to [[album:omegalodon]] (thanks, Jebb, Lan!)
@@ -513,23 +516,36 @@ Content: |-
     - fixed [[track:harmonize-canmt]] referencing [[track:ruins-with-strings]] instead of [[track:ruins-undertale]] (thanks, Makin, Lilith!)
     - fixed [[track:bowstutzlogic]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:lore-2-the-revengning]] and [[track:savior-of-a-lot-of-money]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:the-static]] not referencing [[track:the-static-demo]] (thanks, Lilith!)
     - fixed [[track:secretz-barz]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:the-disciples-new-beginning]] not referencing [[track:serenade-vol8]] and [[track:requited]] (thanks, Lan!)
     - fixed [[track:black-heart-green-dress]] referencing [[track:amen-brother]] and [[track:temporal-shenanigans]], instead of sampling them (thanks, Lan!)
+    - fixed [[track:sickly-green-glow]] not referencing [[track:sickly-green-glow-demo]] (thanks, Lilith!)
+    - fixed [[track:day-after-day]] not referencing [[track:day-after-day-demo]] (thanks, Lilith!)
     - fixed [[track:your-quest-bed]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:good-old-hornless-jerryatric]] not referencing [[track:seinfeld-theme]] (thanks, Lilith!)
     - fixed [[track:farewell-but-not-goodbye]] not referencing [[track:curtain-call]] (thanks, Lilith, Sprink!)
+    - fixed [[track:be-all-end-all]] not referencing [[track:at-deaths-door-demo]] (thanks, Lilith!)
+    - fixed [[track:bittersweet-vast-error]] not referencing [[track:bittersweet-vast-error-demo]] (thanks, Lilith!)
+    - fixed [[track:minute-to-win-it]] not referencing [[track:minute-to-win-it-no-intro]] (thanks, Lilith!)
+    - fixed [[track:arcjecs-theme]] not referencing [[track:arcjecs-theme-scrapped-guitars]] (thanks, Lilith!)
     - fixed [[track:shows-over]] not referencing [[track:curtain-call]] (thanks, <<koba:organized Vast Error Reference Sheet, although this change was anonymous>>, Lilith!)
+    - fixed [[track:murrits-theme]] not referencing [[track:murrits-theme-demo]] and [[track:the-show-must-go-on-vast-error]] (thanks, Lilith!)
+    - fixed [[track:pursuit-of-happiness]] not referencing [[track:cultista-de-le-sala-radio-mix]] (thanks, Lilith!)
+    - fixed [[track:anywhere-can-be-paradise]] not referencing [[track:anywhere-can-be-paradise-demo]] (thanks, Lilith!)
+    - fixed [[track:ellsees-theme]] not referencing [[track:ellsees-theme-take-2-unfinished]] (thanks, Lilith!)
     - fixed [[track:vrissys-theme]] not referencing [[track:vriskas-theme]] (thanks, Lan!)
     - fixed [[track:lucky-sevens]] not referencing [[track:overlook-vast-error]] (thanks, <<koba:organized Vast Error Reference Sheet, although this change was anonymous>>, Lilith!)
     - fixed [[track:dismantled-vast-error]] not referencing [[track:mantle-piece]] (thanks, <<koba:organized Vast Error Reference Sheet, although this change was anonymous>>, Lilith!)
+    - fixed [[track:lovecraft-vast-error]] not referencing [[track:lovecraft-vast-error-beta]] (thanks, Lilith!)
     - fixed [[track:teleports-behind-you]] not referencing [[track:the-fourth-wall-falls]] (thanks, Gryotharian, Lan!)
     - fixed [[track:still-here-beta]] not referencing [[track:im-right-here]] and [[track:arcjecs-theme]] (thanks, <<koba:organized Vast Error Reference Sheet, although this change was anonymous>>, Lilith!)
     - fixed [[track:phantazein]] not referencing [[track:a-new-world]] and [[track:zehanpuryu]] (thanks, <<koba:organized Vast Error Reference Sheet, although this change was anonymous>>, Lilith!)
     - fixed [[track:inertia-empyreal-rhapsody]] not referencing [[track:ferocity-weaving]] (thanks, <<koba:organized Vast Error Reference Sheet, although this change was anonymous>>, Lilith!)
     - fixed [[track:gold-mage-playtime-is-over-mix]] not referencing [[track:gold-mage-playtime-is-over-mix-demo]] (thanks, Lilith, Lan!)
-    - fixed [[track:mx-misery]] referencing [[track:heat]] ([[album:medium]]) instead of [[track:heat-brock-hampton]] ([[artist:brockhampton]]; thanks, Lan!)
     - fixed [[track:bowman-combat-archive]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:mx-misery]] referencing [[track:heat]] ([[album:medium]]) instead of [[track:heat-brock-hampton]] ([[artist:brockhampton]]; thanks, Lan!)
+    - fixed [[track:negative-feedback]] not referencing [[track:negative-feedback-beta]] (thanks, Lilith!)
     - fixed [[track:the-worlds-heel]] not referencing [[track:production-line-of-the-holy-clown]] (thanks, Gryotharian, Lilith!)
     - fixed [[track:duodenary]] not referencing [[track:six-by-six]] (thanks, Lilith, Rainy!)
     - fixed [[track:coulrocide]] not referencing [[track:jupiter-jebb]] (thanks, Jebb, Lilith!)
