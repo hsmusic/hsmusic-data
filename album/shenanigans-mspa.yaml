@@ -7,7 +7,11 @@ URLs:
 - https://soundcloud.com/sparksd2145/sets/homestuck-mixes
 Cover Artists:
 - Thomas Ibarra
+Default Track Cover Artists:
+- Thomas Ibarra
+Default Track Dimensions: 314x473
 Cover Art File Extension: png
+Track Art File Extension: png
 Color: '#bca5bc'
 Groups:
 - Fandom
@@ -24,7 +28,12 @@ Commentary: |-
 
     Gracious thanks to the talented individuals running MS Paint Adventures, their hard work inspired me to write these recomposed works.
 
-    <i>Quasar Nebula:</i> (wiki editor)
+    <i>Thomas Ibarra:</i> (art booklet opening)
+
+    I hope that my work inspires you to create.<br>
+    This is my thanks to you for inspiring me.
+
+    <i>Quasar Nebula:</i> (wiki editor, 10/2/2024)
 
     This album is a rather early fandom release. Its entry on the wiki is mostly modeled around [the SoundCloud album/set](https://soundcloud.com/sparksd2145/sets/homestuck-mixes), which appears to be where these tracks were originally released. Shenanigans: MSPA was also released [on Bandcamp](tps://web.archive.org/web/20130409111336/http://sparksd2145.bandcamp.com/); this release is no longer directly available, but is rehosted [on skaia.net](http://dl.skaia.net/albums). (Albeit, missing the track art booklet and Irradiated animation rendering, which are currently lost media.)
 
@@ -42,13 +51,34 @@ Commentary: |-
     - [[track:interlude-shenanigans-mspa]]
     - [[track:mjollnir-shenanigans-mspa]]
     - [[track:shatter-shenanigans-mspa]]
+
+    <i>Quasar Nebula:</i> (wiki editor, 11/6/2025)
+
+    All track art in this album is extracted from the track art booklet, which was directly shared with us, with permission to archive, by the artist, [[artist:thomas-ibarra]].
+
+    <i>Thomas Ibarra:</i> (wiki communications over DMs, excerpt, 11/6/2025)
+
+    oh also! I think it would also be worthwhile to mention that the quality of the original track art was bad because it was originally posted on the old MSPA forums, and also because I had no idea what I was doing when it came to resolution.
+
+    *(continued in [[track:adieu-shenanigans-mspa]])*
 Additional Files:
-- Title: Track Art Booklet
+- Title: Track art booklet
   Description: >-
     Booklet containing all original track art.
-- Title: Irradiated Animation Rendering
+  Files:
+  - booklet.pdf
+# - Title: '"Irradiated" animation rendering'
+#   Description: >-
+#     Near-perfect rendering of the [[flash:fan-animation-homestuck|Irradiated]] animation.
+- Title: Additional track artwork
   Description: >-
-    Near-perfect rendering of the [[flash:fan-animation-homestuck|Irradiated]] animation.
+    Track art embedded in the art booklet, which hasn't yet been associated with any track in the album itself.
+  Files:
+  - jack-1.png
+  - lotus-land-story.png
+  - jack-2.png
+  - royal-flush.png
+  - binary-reunion.png
 ---
 Section: Main album
 Description: >-
@@ -66,11 +96,9 @@ Referenced Tracks:
 - Atomyk Ebonpyre
 - Showtime (Piano Refrain)
 Commentary: |-
-    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/rectify), 1/23/2012)
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/rectify), excerpt, 1/23/2012)
 
-    Rectify, by AutoDevote. (now completed!)
-
-    \- I had an idea after I watched [[flash:4109|[S] Cascade]], and though I know it would go against Jack's present nature, I really feel like if he had the motivation to redirect his bloodthirsty warpath in the name of helping the kids (due to some unprecedented character development) he might. That being said, I sat down and began thinking. I've noticed a majority of the entries I've seen so far are covers of present songs, and while I was trying to stray away from using melodies and motifs that were already in existence, I decided to try my hand at it.
+    I had an idea after I watched [[flash:4109|[S] Cascade]], and though I know it would go against Jack's present nature, I really feel like if he had the motivation to redirect his bloodthirsty warpath in the name of helping the kids (due to some unprecedented character development) he might. That being said, I sat down and began thinking. I've noticed a majority of the entries I've seen so far are covers of present songs, and while I was trying to stray away from using melodies and motifs that were already in existence, I decided to try my hand at it.
 
     I present my track for Jack Noir, Rectify. This is my second entry for [[album:coloUrs-and-mayhem-universe-a|the Homestuck Music Contest]], and I really like the way this one turned out. I've logged twelve hours and nine minutes on this track so far, and I intend to polish it up just a bit further before I submit it officially. :D
 ---
@@ -101,6 +129,10 @@ Date First Released: 8/12/2011
 Duration: 1:31
 URLs:
 - https://soundcloud.com/sparksd2145/curtainroll
+Art Tags:
+- Jack Noir
+- Royal Deringer
+- Beat Mesa
 Referenced Tracks:
 - Showtime (Original Mix)
 - Atomyk Ebonpyre
@@ -117,8 +149,12 @@ Additional Names:
 Duration: 2:16
 URLs:
 - https://soundcloud.com/sparksd2145/irradiated-updated
-Referenced Tracks:
-- track:irradiated-thomas-ibarra
+Track Artwork:
+- Tags:
+  - Jack Noir
+- Label: Alternate art
+  Directory: alt
+  Attach Above: true
 Commentary: |-
     <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/irradiated-updated), 6/20/2012)
 
@@ -128,9 +164,13 @@ Commentary: |-
 
     This was the first Homestuck fansong I ever found... literally one year ago, I discovered this song, loved it, and looked for more fanmusic until realizing how big the fanmusic community really was. Hearing this song again one year later is so cool.
 
-    <i>Quasar Nebula:</i> (wiki editor)
+    <i>Quasar Nebula:</i> (wiki editor, 10/3/2024)
 
     [[track:irradiated-thomas-ibarra|The original]] was also released on SoundCloud back in August 2011, alongside a handful of other remixes (which stuck around on this album). However, it dates to earlier than [[track:irradiated-animation-version|the animation version]] from February 2011, so this updated version follows the original by at least fourteen months.
+
+    <i>Quasar Nebula:</i> (wiki editor, 11/6/2025)
+
+    Both artworks for this track are featured in the art booklet next to each other, so while it's possible that one each was intended for this track and [[track:irradiated-animation-version|the animation version]], we can't guess which would belong with which. We also can't *really* say which is the "main" and which is "alternate"... but figure the ones we chose, with "Irradiated" spelled correctly (i.e. maybe revised) in the "main" one.
 ---
 Track: Downtime
 Suffix Directory: true
@@ -142,13 +182,27 @@ URLs:
 - https://soundcloud.com/sparksd2145/downtime
 ---
 Track: 'The Felt: Rise of Lord English'
+Directory: rise-of-lord-english
 Date First Released: 6/27/2012
+Additional Names:
+- Name: >-
+    The Felt - Rise of Lord English (updated)
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/sparksd2145/the-felt-rise-of-lord)
 Duration: 2:50
 URLs:
 - https://soundcloud.com/sparksd2145/the-felt-rise-of-lord
+Track Artwork:
+- Tags:
+  - Jack Noir
+  - Magic 8 Ball
+- Label: Alternate art
+  Directory: alt
+  Attach Above: true
 Referenced Tracks:
 - track:MeGaLoVania
 - Liquid Negrocity
+- Lotus # 1:16
 Commentary: |-
     <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/the-felt-rise-of-lord))
 
@@ -159,6 +213,8 @@ Date First Released: 8/12/2011
 Duration: 1:40
 URLs:
 - https://soundcloud.com/sparksd2145/requiem-of-space
+Art Tags:
+- Space
 Referenced Tracks:
 - Skaian Skuffle
 - Pyrocumulus (Sicknasty)
@@ -167,6 +223,7 @@ Track: Sburb
 Suffix Directory: true
 Always Reference By Directory: true
 Date First Released: 8/12/2011
+Has Cover Art: false
 Duration: 2:27
 URLs:
 - https://soundcloud.com/sparksd2145/sburb
@@ -180,6 +237,7 @@ Referenced Tracks:
 ---
 Track: Schrodinger's Session
 Date First Released: 8/12/2011
+Has Cover Art: false
 Duration: 2:07
 URLs:
 - https://soundcloud.com/sparksd2145/schrodingers-session
@@ -194,6 +252,10 @@ Date First Released: 8/12/2011
 Duration: 3:15
 URLs:
 - https://soundcloud.com/sparksd2145/strife
+Art Tags:
+- Regisword
+- Gate
+- Sburb
 Referenced Tracks:
 - Showtime (Original Mix)
 - Aggrieve
@@ -205,6 +267,11 @@ Date First Released: 11/25/2011
 Duration: 2:54
 URLs:
 - https://soundcloud.com/sparksd2145/curtain-roll-extended-mix
+Art Tags:
+- Jack Noir
+- Royal Deringer
+Referenced Artworks:
+- Curtain Roll
 Referenced Tracks:
 - Curtain Roll
 - Overture of Paradox Space
@@ -227,6 +294,7 @@ Commentary: |-
 ---
 Track: Irradiated (Animation Version)
 Date First Released: 10/13/2011
+Has Cover Art: false
 Duration: 1:46
 URLs:
 - https://soundcloud.com/sparksd2145/irradiated-animation-version
@@ -237,7 +305,7 @@ Commentary: |-
 
     The reworked version of Irradiated used in [[flash:fan-animation-homestuck|my homestuck fan animation]].
 
-    <i>Quasar Nebula:</i> (wiki editor)
+    <i>Quasar Nebula:</i> (wiki editor, 10/3/2024)
 
     This is a rearranged version of [[track:irradiated-thomas-ibarra|the original]], and its release on SoundCloud precedes the [[track:irradiated-shenanigans-mspa|updated version]] - closely aligned with the original - by eight months. However, this version of the track dates back at least to February 2011 (when [[flash:fan-animation-homestuck|the animation]] was released). Since the composer describes this track as a rework, the original Irradiated was written even earlier.
 ---
@@ -248,6 +316,11 @@ Date First Released: 8/12/2011
 Duration: 2:15
 URLs:
 - https://soundcloud.com/sparksd2145/revelations
+Art Tags:
+- Karkat
+- John
+- Sgrub
+- Sburb
 Referenced Tracks:
 - track:frost-vol6
 - Sburban Jungle
@@ -259,11 +332,17 @@ Date First Released: 10/20/2011
 Duration: 3:18
 URLs:
 - https://soundcloud.com/sparksd2145/advance
+Art Tags:
+- Caledfwlch
 Referenced Tracks:
 - Liquid Negrocity
 - Atomyk Ebonpyre
 - track:MeGaLoVania
 - Showtime (Original Mix)
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/advance))
+
+    Black, remixed yet again :D
 ---
 Track: Sweet-Tart Theme
 Date First Released: 10/30/2011
@@ -284,6 +363,8 @@ URLs:
 - https://soundcloud.com/sparksd2145/lotus
 Referenced Tracks:
 - Lotus
+Art Tags:
+- Lotus
 Commentary: |-
     <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/lotus))
 
@@ -297,6 +378,8 @@ URLs:
 Referenced Tracks:
 - Lotus
 - Lotus Land Story
+Art Tags:
+- Lotus
 Commentary: |-
     <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/flowers-and-fireflies))
 
@@ -309,6 +392,8 @@ Date First Released: 1/1/2012
 Duration: 1:47
 URLs:
 - https://soundcloud.com/sparksd2145/feathered
+Art Tags:
+- Crowsprite
 Referenced Tracks:
 - Carefree Victory
 - Ohgodwhat
@@ -317,13 +402,14 @@ Commentary: |-
 
     An older piece largely based on the [[Carefree Victory]] and [[track:ohgodwhat|Omgwhat]] tracks, originating from Homestuck. :D
 ---
-Track: John - Walk along the Ruins
+Track: 'John: Walk along the Ruins'
 Date First Released: 7/31/2012
 Additional Names:
 - Name: >-
-    John: Walk along the Ruins
+    John - Walk along the Ruins
   Annotation: >-
-    [SoundCloud release](https://soundcloud.com/sparksd2145/sample-john-walk-along-the)
+    [Bandcamp](https://web.archive.org/web/20130409111336/http://sparksd2145.bandcamp.com/)
+Has Cover Art: false
 Duration: 2:45
 URLs:
 - https://soundcloud.com/sparksd2145/sample-john-walk-along-the
@@ -336,6 +422,7 @@ Commentary: |-
 ---
 Track: Sweet-Tart Theme (Extended)
 Date First Released: 7/17/2012
+# artwork is reused from Sweet-Tart Theme
 Duration: 1:43
 URLs:
 - https://soundcloud.com/sparksd2145/sweet-tart-theme-3
@@ -348,6 +435,7 @@ Commentary: |-
 ---
 Track: Electric Fireflies
 Date First Released: 1/28/2013
+Has Cover Art: false
 Duration: 3:39
 URLs:
 - https://soundcloud.com/sparksd2145/electric-fireflies
@@ -355,14 +443,32 @@ Referenced Tracks:
 - Firefly Cloud
 - Doctor
 - Showtime (Original Mix)
+Commentary: |-
+    <i>Thomas Ibarra:</i> ([SoundCloud description](https://soundcloud.com/sparksd2145/electric-fireflies), excerpt)
+
+    Based on [[Firefly Cloud]], of the [[album:one-year-older|One Year Older]] album, Electric Fireflies capitalizes on the soft piano twill to bring the familiar [[Doctor]] and [[track:showtime-original-mix|Showtime]] mixes together in a way that was difficult for me to capture previously. I believe it turned out pretty great, but I'll let you be the judge of that. :)
 ---
 Track: Adieu
 Date First Released: 4/13/2016
 Suffix Directory: true
 Always Reference By Directory: true
+Track Artwork:
+- File Extension: jpg
+  Source: >-
+    [SoundCloud](https://soundcloud.com/sparksd2145/adieu)
 Duration: 0:40
 URLs:
 - https://soundcloud.com/sparksd2145/adieu
+Referenced Tracks:
+- Carefree Action
+Commentary: |-
+    <i>Thomas Ibarra, Quasar Nebula|[[artist:thomas-ibarra]]:</i> (wiki communications over DMs, excerpt, 11/6/2025)
+
+    *(continued from [[album:shenanigans-mspa|album commentary]])*
+
+    > <i>[[artist:quasar-nebula|Lan]]:</i> Do you remember if you were posting your tracks to the forum as you finished them, similar as they showed up on soundcloud gradually?
+
+    Exactly, that's exactly what happened. Bandcamp was an attempt to, solidify the album? That didn't work either as I added Adieu and a few others later on. Adieu specifically was a simple song intended to remark on the end of the Homestuck comic, posting on about the same day it ended? I used the theme from [[flash:980|"good dog best friend"]] to signify the fun I shared with the experience, and really the acceptance of it ending.
 ---
 Section: Exclusive to Bandcamp
 Description: >-
@@ -378,6 +484,8 @@ Track: Interlude
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 1:53
+Art Tags:
+- Jack Noir
 Referenced Tracks:
 - Explore
 ---
@@ -385,6 +493,8 @@ Track: Mjollnir
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:00
+Art Tags:
+- Hammerkind
 Referenced Tracks:
 - Sunsetter
 - Skaian Skuffle
@@ -393,6 +503,8 @@ Track: Shatter
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:00
+Art Tags:
+- Trusty Knife
 URLs:
 - https://www.youtube.com/watch?v=KPhSjyajhuU
 Referenced Tracks:
