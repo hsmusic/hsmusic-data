@@ -239,7 +239,7 @@ Content: |-
     - added YouTube and SoundCloud listening links to [[track:two-sweeps-older]], [[track:purple-hot-mess]], [[track:a-narrative-force]], [[track:idle-playthings-mimis-music]], [[track:corruptedcultist]], [[track:perfection-vast-error]], [[track:two-spooks-greater]], [[track:spawn-of-scribes-shadow]], [[track:the-hotel-california-lounge]], [[track:kheparia]], and across [[album:faux-dramatica]] (thanks, Lilith!)
     - added Apple Music listening links to [[album:agents-of-reality]] (thanks, Lan!)
     - added Tumblr listening link to [[track:catscratch]] (thanks, Lilith, Lan!)
-    - added Nintendo Music listening links across [[album:pokemon-sword-shield-super-music-collection]], and to [[track:bomb-rush-blush]], [[track:calamari-inkantation]], [[track:city-trial-city]], [[track:death-mountain-theme]], [[track:destiny-ablaze]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-a-b-start-duck-hunt]], [[track:game-c-start-duck-hunt]], [[track:game-over-duck-hunt]], [[track:game-over-the-legend-of-zelda]], [[track:game-start-donkey-kong]], [[track:game-start-donkey-kong-jr]], [[track:ganon-is-defeated]], [[track:golden-hammer-wrecking-crew]], [[track:got-a-duck-duck-hunt]], [[track:hammer-bgm-donkey-kong]], [[track:hurry-up-donkey-kong]], [[track:id-purpose]], [[track:light-plane]], [[track:miss-duck-hunt]], [[track:now-or-never-splatoon]], [[track:opening-splatoon]], [[track:overworld-theme-the-legend-of-zelda]], [[track:palace-theme]], [[track:perfect-duck-hunt]], [[track:phase-bgm-wrecking-crew]], [[track:prelude-ablaze]], [[track:round-1-and-2-clear-donkey-kong]], [[track:round-1-bgm-donkey-kong]], [[track:round-1-bgm-donkey-kong-jr]], [[track:round-1-clear-donkey-kong-jr]], [[track:round-3-clear-donkey-kong]], [[track:round-3-bgm-donkey-kong]], [[track:round-4-bgm-donkey-kong-jr]], [[track:round-4-clear-all-clear-donkey-kong-jr]], [[track:seaskape]], [[track:splattack]], [[track:tide-goes-out]], [[track:title-bgm-duck-hunt]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
+    - added Nintendo Music listening links across [[album:pokemon-sword-shield-super-music-collection]], and to [[track:advanced-step]], [[track:bomb-rush-blush]], [[track:calamari-inkantation]], [[track:city-trial-city]], [[track:death-mountain-theme]], [[track:destiny-ablaze]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-a-b-start-duck-hunt]], [[track:game-c-start-duck-hunt]], [[track:game-over-duck-hunt]], [[track:game-over-the-legend-of-zelda]], [[track:game-start-donkey-kong]], [[track:game-start-donkey-kong-jr]], [[track:ganon-is-defeated]], [[track:golden-hammer-wrecking-crew]], [[track:got-a-duck-duck-hunt]], [[track:hammer-bgm-donkey-kong]], [[track:hurry-up-donkey-kong]], [[track:id-purpose]], [[track:light-plane]], [[track:main-menu-wii-fit]], [[track:miss-duck-hunt]], [[track:now-or-never-splatoon]], [[track:opening-splatoon]], [[track:overworld-theme-the-legend-of-zelda]], [[track:palace-theme]], [[track:perfect-duck-hunt]], [[track:phase-bgm-wrecking-crew]], [[track:prelude-ablaze]], [[track:round-1-and-2-clear-donkey-kong]], [[track:round-1-bgm-donkey-kong]], [[track:round-1-bgm-donkey-kong-jr]], [[track:round-1-clear-donkey-kong-jr]], [[track:round-3-clear-donkey-kong]], [[track:round-3-bgm-donkey-kong]], [[track:round-4-bgm-donkey-kong-jr]], [[track:round-4-clear-all-clear-donkey-kong-jr]], [[track:seaskape]], [[track:splattack]], [[track:tide-goes-out]], [[track:title-bgm-duck-hunt]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
     - added Bandcamp, Apple Music, and Spotify listening links to [[track:focus-super-hexagon]] (thanks, Lilith!)
     - added Apple Music and Spotify listening links to [[track:pushing-onwards]] (thanks, Lilith!)
     - replaced YouTube listening link for [[track:orange-hat]] with artist's upload (thanks, Lilith, Lan!)
@@ -318,6 +318,7 @@ Content: |-
     - moved [[track:the-respect-you-rightfully-deserve-single]] from [[album:more-homestuck-fandom]] to [[album:the-respect-you-rightfully-deserve|single release]] (thanks, Lilith!)
     - moved [[track:noun-astro-kids-pronoun-remix]] from [[album:references-beyond-homestuck]] to [[album:will-remix-for-food-remixes-vol-i]] (thanks, Lilith!)
     <!-- general removals -->
+    - removed [[album:references-beyond-homestuck]] track "Settings (Wii Fit)" since it's part of [[track:main-menu-wii-fit]] (thanks, ruby!)
     - removed "(…) - Single" additional names automatically enforced on Apple Music and iTunes platforms, affecting [[track:black-richaadeb]], [[track:heir-of-grief-richaadeb]], [[track:dance-of-thorns-richaadeb]], [[track:oppa-toby-style]] (all [[artist:richaadeb]]), and [[album:dreamers-diarchy]] (thanks, Whisper, ruby!)
     - removed dead link in commentary for [[track:threxecute]] (thanks, Lilith!)
     - removed dead Bandcamp listening links across [[album:the-strider-mixtape]] (thanks, Geese, Lilith!)
@@ -455,7 +456,8 @@ Content: |-
         - fixed [[track:golden-hammer-wrecking-crew]] being named "BGM B (Power Up) (Wrecking Crew)"
         - fixed [[track:got-a-duck-duck-hunt]] being named "Duck Get! (Duck Hunt)"
         - fixed [[track:hammer-bgm-donkey-kong]] being named "Hammer Theme (Donkey Kong)"
-        - fixed [[track:phase-bgm-wrecking-crew]] being namde "BGM A (Wrecking Crew)"
+        - fixed [[track:phase-bgm-wrecking-crew]] being named "BGM A (Wrecking Crew)"
+        - fixed [[track:rhythm-boxing-expert]] being named "Rhythm Boxing"
         - fixed [[track:round-1-and-2-clear-donkey-kong]] being named "25m / 75m Clear"
         - fixed [[track:round-1-bgm-donkey-kong]] being named "25m Theme"
         - fixed [[track:round-1-bgm-donkey-kong-jr]] being named "Level 1 Theme (Donkey Kong Jr.)"
@@ -479,6 +481,7 @@ Content: |-
     - fixed [[tag:astronomical-bodies-canwc]] being named "Astronomical Bodies (CaNWC)" (uppercase "Bodies"; thanks, Lan!)
     <!-- general data fixes -->
     - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
+        - fixed duration of [[track:advanced-step]] (was 3:33, now 4:11)
         - fixed duration of [[track:bomb-rush-blush]] (was 2:31, now 2:30)
         - fixed duration of [[track:calamari-inkantation]] (was 2:34, now 2:32)
         - fixed duration of [[track:city-trial-city]] (was 2:11, now 2:13)
@@ -496,6 +499,7 @@ Content: |-
         - fixed duration of [[track:hammer-bgm-donkey-kong]] (was 0:21, now 0:26)
         - fixed duration of [[track:hurry-up-donkey-kong]] (was 0:16, now 0:23)
         - fixed duration of [[track:id-purpose]] (was 8:00, now 7:58)
+        - fixed duration of [[track:main-menu-wii-fit]] (was 1:50, now 3:56)
         - fixed duration of [[track:miss-duck-hunt]] (was 0:02, now 0:03)
         - fixed duration of [[track:now-or-never-splatoon]] (was 1:04, now 1:02)
         - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
@@ -503,6 +507,7 @@ Content: |-
         - fixed duration of [[track:perfect-duck-hunt]] (was 0:02, now 0:03)
         - fixed duration of [[track:phase-bgm-wrecking-crew]] (was 2:05, now 1:58)
         - fixed duration of [[track:prelude-ablaze]] (was 5:20, now 5:18)
+        - fixed duration of [[track:rhythm-boxing-expert]] (was 3:00, now 2:59)
         - fixed duration of [[track:round-1-and-2-clear-donkey-kong]] (was 0:05, now 0:04)
         - fixed duration of [[track:round-1-bgm-donkey-kong]] (was 0:19, now 0:37)
         - fixed duration of [[track:round-1-bgm-donkey-kong-jr]] (was 0:26, now 0:33)
@@ -555,6 +560,8 @@ Content: |-
     - fixed Bandcamp link in booklet commentary for [[track:dwelling-among-the-dream-bubbles]] (was to a functioning, but outdated, "the-divide-ep" URL; thanks, Lilith!)
     <!-- link fixes -->
     - fixed YouTube listening link for [[track:side-1-the-nobles]] ([[album:the-nobles]], was to [[track:determination-of-a-hero]]; thanks, Vi, Lan!)
+    - fixed YouTube listening link for [[track:advanced-step]] (was to [CD track](https://www.youtube.com/watch?v=OW-lJdk3CY4) instead of in-game track; thanks, ruby!)
+    - fixed YouTube listening link for [[track:rhythm-boxing-expert]] (was to [beginner/advanced track](https://www.youtube.com/watch?v=QdJPe21VBc0); thanks, ruby, Lavender!)
     - fixed YouTube listening link for [[track:invincibility-bgm-smb]] (was to [SMB2 overworld theme](https://www.youtube.com/watch?v=yBISfv-6hfo); thanks, Lilith, Lan!)
     - fixed YouTube listening links linking to tracks with playlist attached, across [[album:oceanfalls-vol-2]], [[album:oceanfalls-vol-4]] and [[album:oceanfalls-vol-five]] (thanks, Lilith!)
     - replaced dead YouTube listening link for [[track:gasters-theme]] and added undertale.wiki link here (thanks to an emailer, wertercatt, ruby, Lan!)
@@ -624,6 +631,7 @@ Content: |-
     - changed directory of [[track:hammer-bgm-donkey-kong]] from `hammer-theme-donkey-kong` to `hammer-bgm-donkey-kong`
     - changed directory of [[track:palace-theme]] from `temple-bgm` to `palace-theme`
     - changed directory of [[track:phase-bgm-wrecking-crew]] from `bgm-a-wrecking-crew` to `phase-bgm-wrecking-crew`
+    - changed directory of [[track:rhythm-boxing-expert]] from `rhythm-boxing` to `rhythm-boxing-expert`
     - changed directory of [[track:round-1-and-2-clear-donkey-kong]] from `25m-75m-clear` to `round-1-and-2-clear-donkey-kong`
     - changed directory of [[track:round-1-bgm-donkey-kong]] from `25m-theme` to `round-1-bgm-donkey-kong`
     - changed directory of [[track:round-1-bgm-donkey-kong-jr]] from `level-1-theme-donkey-kong-jr` to `round-1-bgm-donkey-kong-jr`
