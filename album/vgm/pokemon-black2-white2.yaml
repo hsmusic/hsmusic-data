@@ -91,6 +91,29 @@ Duration: 1:06
 URLs:
 - https://www.youtube.com/watch?v=LgO0WKqIQ3c
 ---
+Track: The Frozen City
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- Hitomi Sato
+Duration: 2:02
+URLs:
+- https://www.youtube.com/watch?v=e5a3MVyX-ts
+Referenced Tracks:
+- track:opening-pokemon-black2-white2
+---
+Track: Opening
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/33367
+Artists:
+- Go Ichinose
+Duration: 0:43
+Referenced Tracks:
+- track:title-screen-pokemon-red-blue
+URLs:
+- https://www.youtube.com/watch?v=BshaypuJZPw
+---
 Track: Pokémon World Tournament (PWT)
 # Reference:
 #   https://vgmdb.net/album/33367

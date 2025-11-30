@@ -843,8 +843,7 @@ Commentary: |-
 Track: Waveform
 Suffix Directory: true
 Always Reference By Directory: true
-Artists:
-- keyboard cait
+Main Release: album:tributary
 Duration: 3:07
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/waveform
@@ -854,11 +853,6 @@ Cover Artists:
 Art Tags:
 - Squarewave
 - Sawtooth
-Referenced Tracks:
-- Trepidation
-- Upward Movement (Dave Owns)
-- Negative Aperture
-- Miasmajesty
 Commentary: |-
     <i>keyboard cait:</i> (booklet commentary)
 
@@ -2097,11 +2091,12 @@ Commentary: |-
     That heavenscape is certainly sunsoaked. Neat!
 ---
 Track: Explore [Keygen Mix]
+Suffix Directory: true
+Always Reference By Directory: true
+Main Release: album:tributary
 Additional Names:
 - Name: Explore (Keygen Mix)
   Annotation: name in booklet
-Artists:
-- keyboard cait
 Duration: 2:37
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/explore-keygen-mix
@@ -2114,8 +2109,6 @@ Art Tags:
 - AR
 - Serenity
 - Ruined Earth
-Referenced Tracks:
-- Explore
 Commentary: |-
     <i>keyboard cait:</i> (booklet commentary)
 
