@@ -555,6 +555,16 @@ Content: |-
     - fixed [[track:mx-misery]] referencing [[track:heat]] ([[album:medium]]) instead of [[track:heat-brock-hampton]] ([[artist:brockhampton]]; thanks, Lan!)
     - fixed [[track:negative-feedback]] not referencing [[track:negative-feedback-beta]] (thanks, Lilith!)
     - fixed [[track:the-worlds-heel]] not referencing [[track:production-line-of-the-holy-clown]] (thanks, Gryotharian, Lilith!)
+    - fixed [[track:something-foul-is-stirring]] not referencing [[track:on-the-hunt-for-something-dangerous-beta]], [[track:false-security]], and [[track:be-all-end-all]] (thanks, Lilith!)
+    - fixed various [[album:faux-dramatica]]-related references (thanks, Lilith!)
+        - fixed [[track:lament-for-a-dying-planet]] not referencing [[track:chamber-cultist]] and [[track:requiem-for-a-dying-planet]]
+        - fixed [[track:sillygoofysillygoofy]] not referencing [[track:small-but-knowing-jester]]
+        - fixed [[track:carnage-carnival]] not referencing [[track:the-worlds-heel]]
+        - fixed [[track:dustcatcher-redux]] not referencing [[track:indomitable-vast-error]]
+        - fixed [[track:bite-the-hand-that-feeds-you]] not referencing [[track:corruptedcultist]], [[track:weird-alchemy]], and [[track:perfection-vast-error]]
+        - fixed [[track:turncoat-faux-dramatica]] not referencing [[track:dark-mirror]]
+        - fixed [[track:requiem-for-a-dying-planet]] not referencing [[track:corruptedcultist]], [[track:kheparia]], [[track:perfection-vast-error]], [[track:naught-faux-dramatica]], [[track:arcjecs-theme]], and [[track:ellsees-theme]]
+        - fixed [[track:naught-faux-dramatica]] not referencing the [[track:lament-for-a-dying-planet]], [[track:too-slow]], [[track:sillygoofysillygoofy]], [[track:carnage-carnival]], [[track:dustcatcher-redux]], [[track:bite-the-hand-that-feeds-you]], [[track:turncoat-faux-dramatica]], [[track:requiem-for-a-dying-planet]], [[track:perfection-vast-error]], and [[track:arcjecs-theme]]
     - fixed [[track:duodenary]] not referencing [[track:six-by-six]] (thanks, Lilith, Rainy!)
     - fixed [[track:coulrocide]] not referencing [[track:jupiter-jebb]] (thanks, Jebb, Lilith!)
     - fixed various [[album:induction]]-related references (thanks, Lilith!)
