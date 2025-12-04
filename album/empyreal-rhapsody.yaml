@@ -24,6 +24,9 @@ Groups:
 ---
 Track: Phantazein
 Duration: 05:22
+Referenced Tracks:
+- track:a-new-world
+- Zehanpuryu
 # Sampled Tracks:
 # - Who Has Seen The Wind? - Written by Christina Rossetti
 URLs:
@@ -41,6 +44,8 @@ Track: Inertia
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 03:47
+Referenced Tracks:
+- Ferocity Weaving
 URLs:
 - https://vasterror.bandcamp.com/track/inertia
 ---
