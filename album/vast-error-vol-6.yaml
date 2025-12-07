@@ -409,11 +409,11 @@ URLs:
 Track Artwork:
 - Artists:
   - Neviathan
-- Label: Alternate artwork
-  Directory: alt
-  File Extension: gif
-  Attach Above: true
-  Source: album download
+#- Label: Alternate artwork
+#  Directory: alt
+#  File Extension: gif
+#  Attach Above: true
+#  Source: album download
 Referenced Tracks:
 - Small But Knowing Jester
 #Sampled Tracks:
