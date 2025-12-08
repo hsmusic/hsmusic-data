@@ -135,6 +135,8 @@ Artists:
 Duration: 3:42
 URLs:
 - https://vasterror.bandcamp.com/track/dismas
+- https://www.youtube.com/watch?v=d73ncaaYmPw
+- https://soundcloud.com/romm_music/dismas
 Cover Artists:
 - Polukhina
 ---
@@ -291,16 +293,19 @@ Artists:
 Duration: 3:14
 URLs:
 - https://vasterror.bandcamp.com/track/whiplash-pass-the-yaoi
+- https://www.youtube.com/watch?v=a-vZq5I35TY
+- https://soundcloud.com/romm_music/whiplash-pass-the-yaoi
 Cover Artists:
 - deimos
 Referenced Tracks:
 - Murrit's Theme
 Sampled Tracks:
 #- Caravan (Whiplash)
-#- Bindy (Cowboy Bebop)
-#- Reggie Watts Parodies Radiohead
+- track:bindy-cowboy-bebop
+- Reggieohead
 - Deep, Deep Trouble
-#- Samsara (Tigran Hamsyan)
+- track:turncoat-faux-dramatica
+- Samsara
 - Electric Zoo
 Referencing Sources: |-
     <i>Vast Error:</i> ([Bandcamp credits blurb](https://vasterror.bandcamp.com/track/whiplash-pass-the-yaoi), excerpt)
@@ -312,10 +317,10 @@ Referencing Sources: |-
     Includes samples from:
 
     Caravan - Whiplash<br>
-    Bindy - [[artist:cowboy-bebop]]<br>
-    Reggie Watts Parodies Radiohead - Reggie Watts<br>
+    [[track:bindy-cowboy-bebop]] - [[artist:cowboy-bebop]]<br>
+    [[track:reggieohead|Reggie Watts Parodies Radiohead]] - [[artist:reggie-watts]]<br>
     [[track:deep-deep-trouble|Deep Deep Trouble]] - [[artist:the-simpsons|Simpsons]]<br>
-    Samsara - Tigran Hamsyan<br>
+    [[Samsara]] - [[artist:tigran-hamasyan|Tigran Hamsyan]]<br>
     [[track:electric-zoo]] - [[artist:spongebob-squarepants|Spongebob]]
 ---
 Track: Blood Packt
