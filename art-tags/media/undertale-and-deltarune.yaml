@@ -298,7 +298,7 @@ Tag: Ice Cap
 Color: '#ffffff'
 ---
 Tag: Jerry
-Color: 
+Color:
 ---
 Tag: Jevil
 Color: '#6D6DC0'
@@ -530,25 +530,22 @@ Color: '#FFFFFF'
 Tag: Woshua
 Color: '#b5e61d'
 
-# Location classifications
+# Location classifications & entries
 
 ---
 Tag: Locations from UNDERTALE & DELTARUNE
 Direct Descendant Tags:
-- Locations in Dark Worlds
+- Dark Worlds (DELTARUNE)
 ---
-Tag: Locations in Dark Worlds
+Tag: Dark Worlds (DELTARUNE)
 Direct Descendant Tags:
-- Locations in the closet Dark World
+- Card Kingdom (DELTARUNE)
 ---
-Tag: Locations in the closet Dark World
+Tag: Card Kingdom (DELTARUNE)
 Direct Descendant Tags:
-- Field of Hopes and Dreams
-
-# Location entries
-
+- Field (DELTARUNE)
 ---
-Tag: Field of Hopes and Dreams
+Tag: Field (DELTARUNE)
 Color: '#e6029a'
 
 # Miscellaneous tags
