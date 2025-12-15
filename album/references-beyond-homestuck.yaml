@@ -4233,6 +4233,16 @@ Duration: 0:55
 URLs:
 - https://www.youtube.com/watch?v=BVDfQQdVEuI
 ---
+Track: Crystal Cavern
+# No official release, official name, or more specific artist credits as to who did which track.
+Artists:
+- I-Ninja
+- Nick Arundel
+- Mark Bandola
+- Rob Lord
+URLs:
+- https://www.youtube.com/watch?v=2SPNt2OTgTA
+---
 Track: Dad Battle
 # Official release:
 #   Friday Night Funkin' OST, Vol. 1
@@ -4673,6 +4683,26 @@ Artists:
 - Adrian Moore
 URLs:
 - https://www.youtube.com/watch?v=yL4LkJ4wfLU
+---
+Track: A Dog's Life (Air Vent)
+# No official release.
+Artists:
+- The Fairly OddParents
+- John Guscott
+- Matt Black
+URLs:
+- https://www.youtube.com/watch?v=UrqgG65Ldgc&t=5832s
+Referenced Tracks:
+- A Dog's Life (Normal)
+---
+Track: A Dog's Life (Normal)
+# No official release.
+Artists:
+- The Fairly OddParents
+- John Guscott
+- Matt Black
+URLs:
+- https://www.youtube.com/watch?v=UrqgG65Ldgc&t=5560s
 ---
 Track: Dojo 1st
 # Reference:
@@ -20333,6 +20363,13 @@ Lyrics: |-
     And all that glitters is gold
     Only shootin' stars break the mold...
 ---
+Track: An Ambient Night in Space
+Artists:
+- Bobby Cole
+Duration: 3:13
+URLs:
+- https://www.youtube.com/watch?v=q10AksKMaL8
+---
 Track: Amen, Brother
 Artists:
 - The Winstons
@@ -22328,6 +22365,17 @@ Lyrics: |-
     Oh oh ohhhh
     Oh oh ohhhh
     Oh oh ohhhh
+---
+Track: Boneyard
+Directory: boneyard-waterflame
+Always Reference By Directory: true
+Artists:
+- Waterflame
+Duration: 3:34
+URLs:
+- https://waterflame.bandcamp.com/track/boneyard
+- https://www.newgrounds.com/audio/listen/708497
+- https://www.youtube.com/watch?v=MhE8R3RGbDs
 ---
 Track: Bonfire
 Directory: bonfire-childish-gambino
@@ -30423,6 +30471,15 @@ Lyrics: |-
     Burnin' up in speed
     Lost inside the dreams
     Of teen machines
+---
+Track: Hexagon Force
+Artists:
+- Waterflame
+Duration: 4:13
+URLs:
+- https://waterflame.bandcamp.com/track/hexagon-force
+- https://www.newgrounds.com/audio/listen/568699
+- https://www.youtube.com/watch?v=afwK743PL2Y
 ---
 Track: Hey! Baby
 Artists:
