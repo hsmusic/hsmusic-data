@@ -18,105 +18,137 @@ Section: THEME
 ---
 Track: CTA*
 Additional Names:
-- 'THEME :: CTA* (original name)'
+- Name: >-
+    THEME :: CTA*
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/theme-cta)
+- Name: Can't Trust Anybody
+  Annotation: in full
 Duration: 1:21
 URLs:
 - https://viixyz.bandcamp.com/track/theme-cta
 Commentary: |-
-    <i>viixyz:</i>
+    <i>viixyz:</i> ([Bandcamp about blurb](https://viixyz.bandcamp.com/track/theme-cta))
     *Can't Trust Anybody
     Theme of OCTOBER
 ---
 Track: Turnover
+Suffix Directory: true
 Additional Names:
-- 'THEME :: Turnover (original name)'
+- Name: >-
+    THEME :: Turnover
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/theme-turnover)
 Duration: 1:32
 URLs:
 - https://viixyz.bandcamp.com/track/theme-turnover
 Commentary: |-
-    <i>viixyz:</i>
+    <i>viixyz:</i> ([Bandcamp about blurb](https://viixyz.bandcamp.com/track/theme-turnover))
     Theme of KODY DANIELS
 ---
 Track: XDXDHYPERSPACE!!!
 Additional Names:
-- 'THEME :: XDXDHYPERSPACE!!! (original name)'
+- Name: >-
+    THEME :: XDXDHYPERSPACE!!!
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/theme-xdxdhyperspace)
 Duration: 1:48
 URLs:
 - https://viixyz.bandcamp.com/track/theme-xdxdhyperspace
 Commentary: |-
-    <i>viixyz:</i>
+    <i>viixyz:</i> ([Bandcamp about blurb](https://viixyz.bandcamp.com/track/theme-xdxdhyperspace))
     Theme of REED SHIGIRA
 ---
 Track: Everstrife
 Additional Names:
-- 'THEME :: Everstrife (original name)'
+- Name: >-
+    THEME :: Everstrife
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/theme-everstrife)
 Duration: 1:48
 URLs:
 - https://viixyz.bandcamp.com/track/theme-everstrife
 Commentary: |-
-    <i>viixyz:</i>
+    <i>viixyz:</i> ([Bandcamp about blurb](https://viixyz.bandcamp.com/track/theme-everstrife))
     Theme of KATY CASANOV
 ---
 Track: CANCER.
 Additional Names:
-- 'THEME :: CANCER. (original name)'
+- Name: >-
+    THEME :: CANCER.
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/theme-cancer)
 Duration: 2:10
 URLs:
 - https://viixyz.bandcamp.com/track/theme-cancer
 Commentary: |-
-    <i>viixyz:</i>
+    <i>viixyz:</i> ([Bandcamp about blurb](https://viixyz.bandcamp.com/track/theme-cancer))
     Theme of WREN MOORMAN
 ---
 Section: DEMO
 ---
 Track: Broken Pages
 Additional Names:
-- 'DEMO :: Broken Pages (original name)'
+- Name: >-
+    DEMO :: Broken Pages
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/demo-broken-pages)
 Duration: 1:57
 URLs:
 - https://viixyz.bandcamp.com/track/demo-broken-pages
 Commentary: |-
-    <i>viixyz:</i>
-    Rough idea that eventually became CTA*
+    <i>viixyz:</i> ([Bandcamp about blurb](https://viixyz.bandcamp.com/track/demo-broken-pages))
+    Rough idea that eventually became [[track:cta|CTA*]]
 ---
 Track: Catdirge
 Additional Names:
-- 'DEMO :: Catdirge (original name)'
+- Name: >-
+    DEMO :: Catdirge
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/demo-catdirge)
 Duration: 1:08
 URLs:
 - https://viixyz.bandcamp.com/track/demo-catdirge
 Commentary: |-
-    <i>viixyz:</i>
-    Rough idea that eventually became XDXDHYPERSPACE!!!
+    <i>viixyz:</i> ([Bandcamp about blurb](https://viixyz.bandcamp.com/track/demo-catdirge))
+    Rough idea that eventually became [[XDXDHYPERSPACE!!!]]
 ---
 Track: just like a horror movie
 Additional Names:
-- 'DEMO :: just like a horror movie (original name)'
+- Name: >-
+    DEMO :: just like a horror movie
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/demo-just-like-a-horror-movie)
 Duration: 1:36
 URLs:
 - https://viixyz.bandcamp.com/track/demo-just-like-a-horror-movie
 Commentary: |-
-    <i>viixyz:</i>
+    <i>viixyz:</i> ([Bandcamp about blurb](https://viixyz.bandcamp.com/track/demo-just-like-a-horror-movie))
     Rough idea for a Wren song.
 ---
 Section: BONUS
 ---
 Track: i wrote you a song
 Additional Names:
-- 'BONUS :: i wrote you a song (original name)'
+- Name: >-
+    BONUS :: i wrote you a song
+  Annotation: >-
+    [Bandcamp](https://viixyz.bandcamp.com/track/bonus-i-wrote-you-a-song)
 Duration: 1:13
 URLs:
 - https://viixyz.bandcamp.com/track/bonus-i-wrote-you-a-song
 Lyrics: |-
-    I wrote you this song, and I hope that I belong now
-    Open your eyes, and you'll see that I am gone now
-    Come face the music, it's really not as bad as it
-    Makes itself seem, really it's just one big bad habit
+    <i>viixyz:</i> ([artist's lyrics](https://viixyz.bandcamp.com/track/bonus-i-wrote-you-a-song))
 
     I wrote you this song, and I hope that I belong now
     Open your eyes, and you'll see that I am gone now
-    Come face the music, it's really not as bad as it
-    Makes itself seem, really it's just one big bad habit
+    Come face the music, it's really not as bad as it-
+    -makes itself seem, really it's just one big bad habit
+
+    I wrote you this song, and I hope that I belong now
+    Open your eyes, and you'll see that I am gone now
+    Come face the music, it's really not as bad as it-
+    -makes itself seem, really it's just one big bad habit
 
     It's in the song
 
