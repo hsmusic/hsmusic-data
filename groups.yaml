@@ -436,7 +436,16 @@ URLs:
 - https://soundcloud.com/erikscheele
 - https://www.youtube.com/@Jitmakesstuff
 Description: |-
-    ADD DESCRIPTION LATER
+    Pianist and composer of [[album:one-year-older]], plus dozens of tracks spanning the entire official discography, and a regular fandom presence, too. AKA Jit.
+Series:
+- Name: Composition
+  Show Album Artists: all
+  Albums:
+  - One Year Older
+- Name: Performance
+  Show Album Artists: all
+  Albums:
+  - Sburb
 ---
 Group: Funk McLovin
 Closely Linked Artists:
