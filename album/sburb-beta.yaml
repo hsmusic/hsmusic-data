@@ -1,5 +1,4 @@
 Album: SBURB Beta
-#thanks to pomabug for sending the background assets for Beneath the Shade and Sburb Beta (delete after merge)
 Date: May 25, 2024
 Date Added: August 26, 2025
 Artists:
@@ -29,49 +28,39 @@ Commentary: |-
     © SKAIANET SYSTEMS INCORPORATED. ALL RIGHTS RESERVED.
 ---
 Track: Physician
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:23
 Referenced Tracks:
-- track:doctor
+- Doctor
 URLs:
 - https://pomabug.bandcamp.com/track/physician
 - https://youtu.be/Wg1nD54jKDY
-Commentary: |-
-    <i>pomabug:</i> ([YouTube description](https://youtu.be/Wg1nD54jKDY))
-    you are free to use this in videos as long as you credit me like so:
-    "Physician" by pomabug
-Crediting Sources: |-
+Referencing Sources: |-
     <i>pomabug:</i> ([Bandcamp credits blurb](https://pomabug.bandcamp.com/track/physician))
-    based on "Doctor" by Buzinkai
+    based on [["Doctor"]] by [[artist:buzinkai]]
 ---
 Track: Rose Indefinitely
 Duration: 1:42
 Referenced Tracks:
-- track:endless-climb
-- track:chorale-for-jaspers
+- Endless Climb
+- Chorale for Jaspers
 URLs:
 - https://pomabug.bandcamp.com/track/rose-indefinitely
 - https://youtu.be/9zgUl6SKNn4
-Commentary: |-
-    <i>pomabug:</i> ([YouTube description](https://youtu.be/9zgUl6SKNn4))
-    you are free to use this in videos as long as you credit me like so:
-    "Rose Indefinitely" by pomabug
-Crediting Sources: |-
+Referencing Sources: |-
     <i>pomabug:</i> ([Bandcamp credits blurb](https://pomabug.bandcamp.com/track/rose-indefinitely))
-    based on "Endless Climb" by Buzinkai, references "Chorale for Jaspers" by Michael Guy Bowman
+    based on [["Endless Climb"]] by [[artist:buzinkai]], references [["Chorale for Jaspers"]] by [[artist:michael-guy-bowman]]
 ---
 Track: Record High
 Duration: 1:13
 Referenced Tracks:
-- track:atomyk-ebonpyre
-- track:showtime-original-mix
-- track:upward-movement-dave-owns
+- Atomyk Ebonpyre
+- Showtime (Original Mix)
+- Upward Movement (Dave Owns)
 URLs:
 - https://pomabug.bandcamp.com/track/record-high
 - https://youtu.be/Rzs9ZByfoD0
-Commentary: |-
-    <i>pomabug:</i> ([YouTube description](https://youtu.be/Rzs9ZByfoD0))
-    you are free to use this in videos as long as you credit me like so:
-    "Record High" by pomabug
-Crediting Sources: |-
+Referencing Sources: |-
     <i>pomabug:</i> ([Bandcamp credits blurb](https://pomabug.bandcamp.com/track/record-high))
-    based on "Atomyk Ebonpyre" by Toby Fox, references "Showtime (Original Mix)" by Malcolm Brown and "Upward Movement (Dave Owns)" by Kalibration
+    based on [["Atomyk Ebonpyre"]] by [[artist:toby-fox]], references [["Showtime (Original Mix)"]] by [[artist:malcolm-brown]] and [["Upward Movement (Dave Owns)"]] by [[artist:kalibration]]
