@@ -130,8 +130,14 @@ Track: White Vitriol
 Duration: 4:13
 Artists:
 - Tycoon
-Cover Artists:
-- TK
+Track Artwork:
+- Artists:
+  - TK
+- Label: Alternate artwork
+  Directory: alternate
+  File Extension: gif
+  Attach Above: true
+  Source: album download
 URLs:
 - https://vasterror.bandcamp.com/track/white-vitriol
 Sampled Tracks:

@@ -49,8 +49,14 @@ Track: Sillygoofysillygoofy
 Track Text: >-
   Sillygoofysillygoofy (Ft. [[artist:andrea-libman|Andrea Libman]])
 Duration: 3:42
-Cover Artists:
-- artist:dizzims
+Track Artwork:
+- Artists:
+  - artist:dizzims
+- Label: Alternate artwork
+  Directory: alternate
+  File Extension: gif
+  Attach Above: true
+  Source: album download
 Contributors:
 - Andrea Libman (Talald's vocals)
 Sampled Tracks:
@@ -169,14 +175,22 @@ Track: Naught
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 6:04
-Cover Artists:
-- captkirkland
+Track Artwork:
+- Artists:
+  - captkirkland
+  Tags:
+  - 'cw: blood'
+- Label: Alternate artwork
+  Directory: alternate
+  File Extension: gif
+  Attach Above: true
+  Tags:
+  - 'cw: eye strain'
+  Source: album download
 Sampled Tracks:
 - Dream Palette
 - Uneven Compromise
 - 'The End of Evangelion - TV Spot #1'
-Art Tags:
-- 'cw: blood'
 URLs:
 - https://vasterror.bandcamp.com/track/naught
 - https://www.youtube.com/watch?v=7G0gr66JY9k
@@ -194,8 +208,14 @@ Additional Names:
 Duration: 3:15
 Contributors:
 - Eddie Deezen (Sabine's vocals)
-Cover Artists:
-- Prab
+Track Artwork:
+- Artists:
+  - Prab
+- Label: Alternate artwork
+  Directory: alternate
+  File Extension: gif
+  Attach Above: true
+  Source: album download
 Sampled Tracks:
 - Dr. Robotnik's Theme (Adventures of Sonic the Hedgehog)
 - Kawaii Halloween Opening Track

@@ -135,8 +135,14 @@ Track: Solar Radiation
 Duration: 3:30
 Artists:
 - Alex Votl
-Cover Artists:
-- Xamag
+Track Artwork:
+- Artists:
+  - Xamag
+- Label: Alternate artwork
+  Directory: alternate
+  File Extension: gif
+  Attach Above: true
+  Source: album download
 URLs:
 - https://vasterror.bandcamp.com/track/solar-radiation
 Referenced Tracks:

@@ -18,8 +18,14 @@ Track: Two Sweeps Older
 Duration: 2:35
 Artists:
 - Rom M
-Cover Artists:
-- TK
+Track Artwork:
+- Artists:
+  - TK
+- Label: Alternate artwork
+  Directory: alternate
+  File Extension: gif
+  Attach Above: true
+  Source: album download
 Cover Art File Extension: jpg
 URLs:
 - https://vasterror.bandcamp.com/track/two-sweeps-older
