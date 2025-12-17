@@ -292,8 +292,14 @@ Track: Three Minutes To Midnight
 Duration: 5:14
 Artists:
 - Cerulean
-Cover Artists:
-- hematophagys
+Track Artwork:
+- Artists:
+  - hematophagys
+- Label: Alternate art
+  Directory: alternate
+  Source: album download
+  Artists:
+  - hematophagys
 URLs:
 - https://vasterror.bandcamp.com/track/three-minutes-to-midnight
 ---

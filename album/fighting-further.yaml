@@ -420,8 +420,14 @@ Additional Names:
     album download
 Artists:
 - Ash Taylor
-Cover Artists:
-- Ran Bakudan
+Track Artwork:
+- Artists:
+  - Ran Bakudan
+- Label: Alternate art
+  Directory: alternate
+  Source: album download
+  Artists:
+  - Ran Bakudan
 Duration: 3:08
 URLs:
 - https://vasterror.bandcamp.com/track/bonus-left-2-die

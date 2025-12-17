@@ -171,10 +171,16 @@ URLs:
 Track: Small But Knowing Jester
 Duration: 2:13
 Artists:
-- sympolite 
-Cover Artists:
-- edoloser
-Cover Art Dimensions: 2127x2293
+- sympolite
+Track Artwork:
+- Artists:
+  - edoloser
+  Dimensions: 2127x2293
+- Label: Alternate art
+  Directory: alternate
+  Source: album download
+  Artists:
+  - edoloser
 URLs:
 - https://vasterror.bandcamp.com/track/small-but-knowing-jester-2
 Referenced Tracks:

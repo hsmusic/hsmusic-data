@@ -38,15 +38,16 @@ Track: Road To Recovery
 Duration: 3:27
 Artists:
 - Alex Votl
-Cover Artists:
-- Xamag
+Track Artwork:
+- Artists:
+  - Xamag
+- Label: Alternate art
+  Directory: alternate
+  Attach Above: true
+  Source: album download
 URLs:
 - https://vasterror.bandcamp.com/track/road-to-recovery
 - https://www.youtube.com/watch?v=uTdkuRwZgCg
-Commentary: |-
-    <i>Xamag:</i> (track artist, alternate artwork)
-
-    <img src="media/misc/road-to-recovery_alternate.png" width="300">
 ---
 Track: Immortal
 Directory: immortal-vast-error
@@ -295,15 +296,16 @@ Track: Be All End All
 Duration: 2:06
 Artists:
 - dbnet18
-Cover Artists:
-- Deer
+Track Artwork:
+- Artists:
+  - Deer
+- Label: Alternate art
+  Directory: alternate
+  Attach Above: true
+  Source: album download
 URLs:
 - https://vasterror.bandcamp.com/track/be-all-end-all
 - https://www.youtube.com/watch?v=E0yg37MiCvs
-Commentary: |-
-    <i>Deer:</i> (track artist, alternate artwork)
-
-    <img src="media/misc/be-all-end-all_alternate.png" width="300">
 ---
 Track: Solidarity
 Directory: solidarity-vast-error
