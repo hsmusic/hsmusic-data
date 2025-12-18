@@ -52,11 +52,13 @@ Duration: 3:42
 Track Artwork:
 - Artists:
   - artist:dizzims
-- Label: Alternate artwork
+- Label: Alternate artwork (downscaled)
   Directory: alternate
   File Extension: gif
   Attach Above: true
   Source: album download
+  Origin Details: >-
+    See "additional files" for original .gif
 Contributors:
 - Andrea Libman (Talald's vocals)
 Sampled Tracks:
@@ -73,6 +75,10 @@ URLs:
 - https://vasterror.bandcamp.com/track/sillygoofysillygoofy-ft-andrea-libman
 - https://www.youtube.com/watch?v=2WPhqGDL6wo
 - https://soundcloud.com/romm_music/sillygoofysillygoofy
+Additional Files:
+- Title: Alternate artwork (original file)
+  Description: Included in the album download.
+  Files: [Sillygoofysillygoofy (Alt).gif]
 Lyrics: |-
     (WOWIE ZOWIE! That whole thing was exhilarating! But oh no! It seems like this party is about to die down! We're going to have to fix that now! Heeheehahahaha!)
 ---
@@ -180,17 +186,24 @@ Track Artwork:
   - captkirkland
   Tags:
   - 'cw: blood'
-- Label: Alternate artwork
+- Label: Alternate artwork (downscaled)
   Directory: alternate
   File Extension: gif
   Attach Above: true
   Tags:
+  - 'cw: blood'
   - 'cw: eye strain'
   Source: album download
+  Origin Details: >-
+    See "additional files" for original .gif
 Sampled Tracks:
 - Dream Palette
 - Uneven Compromise
 - 'The End of Evangelion - TV Spot #1'
+Additional Files:
+- Title: Alternate artwork (original file)
+  Description: Included in the album download.
+  Files: [Naught (Alt).gif]
 URLs:
 - https://vasterror.bandcamp.com/track/naught
 - https://www.youtube.com/watch?v=7G0gr66JY9k

@@ -21,11 +21,13 @@ Artists:
 Track Artwork:
 - Artists:
   - TK
-- Label: Alternate artwork
+- Label: Alternate artwork (downscaled)
   Directory: alternate
   File Extension: gif
   Attach Above: true
   Source: album download
+  Origin Details: >-
+    See "additional files" for original .gif
 Cover Art File Extension: jpg
 URLs:
 - https://vasterror.bandcamp.com/track/two-sweeps-older
@@ -34,6 +36,10 @@ URLs:
 Referenced Tracks:
 - track:perfection-vast-error
 - Gaiaeon (Outro)
+Additional Files:
+- Title: Alternate artwork (original file)
+  Description: Included in the album download.
+  Files: [Two Sweeps Older.gif]
 ---
 Track: A Story About Being Free
 Duration: 5:04
