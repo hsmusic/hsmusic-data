@@ -4,10 +4,16 @@ Date Added: January 30, 2025
 URLs:
 - https://vasterror.bandcamp.com/album/in-medias-res
 - https://www.youtube.com/watch?v=pfiB5F82NCc
-Cover Artists:
-- Tyson Northcutt
-- Sparaze
-Cover Art File Extension: png
+Cover Artwork:
+- Artists:
+  - Tyson Northcutt
+  - Sparaze
+  File Extension: png
+- Label: Alternate artwork
+  Directory: alternate
+  File Extension: png
+  Attach Above: true
+  Source: album download
 Track Art File Extension: png
 # Color: '#6e5d10'
 Color: '#6e840e'
