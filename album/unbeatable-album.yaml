@@ -3,17 +3,30 @@ Directory: unbeatable-album
 Directory Suffix: unbeatable
 Artists:
 - UNBEATABLE
-Date: December 21, 2025
+Date: December 21, 2025 00:00:01
 Date Added: June 11, 2025
 Cover Artists:
 - D-CELL GAMES
 Cover Art File Extension: png
-Color: '#ffffff'
+Color: '#FF467F'
+URLs:
+- https://dcellgames.bandcamp.com/album/album
 Groups:
 - rj lake
 - Beyond
-URLs:
-- https://dcellgames.bandcamp.com/album/album
+Banner Artists:
+- D-CELL GAMES
+Banner File Extension: png
+Banner Style: |-
+    object-fit: scale-down;
+    background-color: #000000;
+Wallpaper Artists:
+- ruby (edits for wiki)
+Wallpaper Parts:
+- Asset: none
+  Style: |-
+    background-color: #FFFFFF;
+    opacity: 1;
 Commentary: |-
     <i>UNBEATABLE:</i> ([Bandcamp about blurb](https://dcellgames.bandcamp.com/album/album))
     the debut album from UNBEATABLE. dreams in a world without sleep.
