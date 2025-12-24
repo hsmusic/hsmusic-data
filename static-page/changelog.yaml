@@ -66,6 +66,7 @@ Content: |-
     - made reference lists swap out tracks for an alternate release of the same track within the album you're currently viewing, ex. you can jump between [[track:showtime-piano-refrain-vol-1-4]] and [[track:showtime-original-mix-vol-1-4]] while staying in [[album:homestuck-vol-1-4]], now
     - expanded custom support for media elements in content text (e.g. commentary), with support for full-width images and videos, "nameless" audios which hide insubstantial filename, and inline / non-boxed videos
     - adjusted the drop shadow for the main page element, so it's just a little deeper near to the page itself
+    - adapted the page opacity to album wallpaper elements, keeping text and layout legible while letting brighter, bolder, and deeper colors show in more expressive ways
     - added [[media:misc/changelog/release-dividing-line.png|decorative dividing line]] after track lists on album info pages
     - added a dimming gradient over the bottom part of lyrics within the screen view, so they're revealed nicer as you scroll
     - added a nice effect when you hover an album banner... unless you're on Firefox... sorry Firefox...
@@ -269,6 +270,7 @@ Content: |-
     - restructured [[album:flyways]] similarly as [[album:ophiuchus-full-suite]]
     - styled track sections for each disc of [[album:pokemon-sword-shield-super-music-collection]] and [[album:pokemon-scarlet-violet-super-music-collection]] to separately count track numbers (thanks, ruby!)
     <!-- album presentational tweaks -->
+    - customized page opacity for lots of albums, notably affecting [[album:midnight-crew-drawing-dead]], [[album:medium]], [[album:homestuck-vol-1-4]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:tomb-of-the-ancestors]], [[album:9]], [[album:paths]], [[album:cascading-light]], [[album:lofam5]], [[album:flare-raid-remix]], [[album:lofam5a2]], [[album:rappets-davekat-collection]], [[album:nibiru]], [[album:sns-act-3-sampler]], [[album:cool-and-new-sonic-team]], [[album:the-mayview-mixtape]], [[album:oceanfalls-vol-3]], [[album:oceanfalls-vol-4]]; also reviewed and marked several albums to retain their current appearance, for example [[album:the-wanderers]], [[album:homestuck-vol-7]], [[album:solar-sessions]] (thanks, Lan!)
     - revised [[track:center-of-brilliance]] and [[track:candles-and-clockwork-alpha-version]] to present artwork assets from Bandcamp first, with alternatively sourced higher-res cuts as secondary artworks instead (thanks, Lan, Tangle!)
     - revised color of [[album:seven-seas]] to match newly added cover artwork (thanks, Jebb!)
     - improved background for [[album:i-miss-you-earthbound-2012]] (thanks, Lilith!)
