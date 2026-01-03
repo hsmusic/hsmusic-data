@@ -1,22 +1,21 @@
 Album: Shallow Shores
+Style: single
 Date: April 10, 2025
 Date Added: September 18, 2025
 URLs:
 - https://circlejourney.bandcamp.com/album/shallow-shores
+- https://www.youtube.com/playlist?list=OLAK5uy_lAvtDeMorlcCom7wJIuHJOv4nfUypsd-M
 - https://open.spotify.com/album/0zEraNNCdku9dnqOvK9geI
+- https://music.apple.com/album/shallow-shores-single/1807575758
 Artists:
 - Circlejourney
 Cover Artists:
 - Circlejourney
-Wallpaper Style: 'opacity: 0.6;'
 Cover Art File Extension: jpg
 Color: '#c5feca'
 Groups:
 - Circlejourney
 - Beyond
-Commentary: |-
-    <i>Circlejourney:</i> ([Bandcamp about blurb](https://circlejourney.bandcamp.com/album/shallow-shores))
-    A remaster of [[track:shallow-shores|Shallow Shores]] from [[album:the-sky-beyond-our-bay|The Sky Beyond Our Bay]], plus a mostly Mandarin version. Originally released 10th April 2025.
 ---
 Track: Shallow Shores
 Directory: shallow-shores-remastered
@@ -24,10 +23,9 @@ Always Reference By Directory: true
 Duration: 2:10
 Referenced Tracks:
 - track:shallow-shores
-URLs:
-- https://circlejourney.bandcamp.com/track/shallow-shores-2
-- https://open.spotify.com/track/4QCYFHJeEZ8CZTQFIwNFT7
 Lyrics: |-
+    <i>Circlejourney:</i> ([artist's lyrics](https://circlejourney.bandcamp.com/track/shallow-shores-2))
+
     Wade in the waves when the tide is low
     You hear them lapping at your door
     Here, it's deceptively clear but you don't know
@@ -65,6 +63,49 @@ Lyrics: |-
     There's grands secrets lost on ocean floors
     beware every ripple, as they draw near
     the riptides of my shallow shores
+
+    <i>[[artist:quasar-nebula|Lan]]:</i> (wiki lyrics)
+
+    Wade in the waves when the tide is low
+    You hear them lapping at your door
+    Here, it's deceptively clear but you don't know
+    Just what you're lookin' for
+
+    There's always more than what meets the eye
+    So dive in deep beyond the shore
+    And, let the sand keep you high and dry
+    But watch out as the breakers roar, yeah
+
+    Things always lie closer than they appear
+    There's grand secrets lost on ocean floors
+    Beware every ripple, as they draw near
+    The riptides of my shallow shores
+
+    I stay low, though I'm sure we could go
+    I'll wait for her call to know, mustn't pull her under
+    No, always submerged in her glow
+    She holds back, she's afraid of flying
+    I change tack, guess it's worth trying
+    Lightning crack, am I still denying
+    My hull breakin' on her?
+
+    Hundreds of things you don't see
+    Constellate as the history of me
+
+    There's always more than what meets the eye
+    So dive in deep beyond the shore
+    And, let the sand keep you high and dry
+    But watch out as the breakers roar, yeah
+    (Go with the flow)
+
+    Things always lie closer than they appear
+    There's grand secrets lost on ocean floors
+    Beware every ripple, as they draw near
+    The riptides of my shallow shores
+Commentary: |-
+    <i>Circlejourney:</i> ([Bandcamp about blurb](https://circlejourney.bandcamp.com/album/shallow-shores))
+
+    A remaster of [[track:shallow-shores|Shallow Shores]] from [[album:the-sky-beyond-our-bay|The Sky Beyond Our Bay]], plus a mostly Mandarin version. Originally released 10th April 2025.
 ---
 Track: 浅岸
 Directory: shallow-shores-remastered-mandarin
@@ -73,8 +114,12 @@ Referenced Tracks:
 - track:shallow-shores-remastered
 URLs:
 - https://circlejourney.bandcamp.com/track/-
+- https://www.youtube.com/watch?v=kvgL-XMR3eA
 - https://open.spotify.com/track/0iWhJmG6sv0bRUBWTfQZle
+- https://music.apple.com/song/%E6%B5%85%E5%B2%B8/1807575760
 Lyrics: |-
+    <i>Circlejourney:</i> ([artist's lyrics](https://circlejourney.bandcamp.com/track/-))
+
     当潮汐退去，你慢慢涉海
     涟漪温柔，泡沫苍白
     将波浪上涨你能不能忍耐
