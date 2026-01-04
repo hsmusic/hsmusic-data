@@ -1,4 +1,5 @@
 Album: The Tapestry Vol. 1
+Directory Suffix: the-tapestry
 Date: August 4, 2019
 Date Added: August 31, 2025
 URLs:
@@ -18,6 +19,15 @@ Wallpaper File Extension: png
 Cover Art File Extension: png
 Track Art File Extension: jpg
 Banner File Extension: png
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+Wallpaper Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    background-size: auto calc(max(1080px, 100%));
+    background-repeat-x: repeat;
+    opacity: 0.7;
 Color: '#7affbc'
 Groups:
 - Monckat
@@ -25,6 +35,7 @@ Groups:
 - Fandom
 Commentary: |-
     <i>Monckat:</i> ([Bandcamp about blurb](https://monckat.bandcamp.com/album/the-tapestry-vol-1))
+
     A collection of music I've made over the past two years for my mspfa, The Tapestry. All music and album/track art by myself.
 ---
 Section: Main album
@@ -36,11 +47,14 @@ Referenced Tracks:
 - Lotus
 URLs:
 - https://monckat.bandcamp.com/track/heliotroposphere
-Crediting Sources: |-
-    <i>Monckat:</i> ([Bandcamp about blurb](https://monckat.bandcamp.com/track/heliotroposphere))
-    Contains a brief quote of "Lotus" from Homestuck Vol. 5, by Seth "Beatfox" Peelle.
+Referencing Sources: |-
+    <i>Monckat:</i> ([Bandcamp about blurb](https://monckat.bandcamp.com/track/heliotroposphere), excerpt)
+
+    Contains a brief quote of [["Lotus"]] from [[album:homestuck-vol-5|Homestuck Vol. 5]], by [[artist:seth-peelle]].
 ---
 Track: Pickaxe
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:49
 URLs:
 - https://monckat.bandcamp.com/track/pickaxe
@@ -51,6 +65,8 @@ URLs:
 - https://monckat.bandcamp.com/track/vacuum-spark
 ---
 Track: Beacon
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:24
 Referenced Tracks:
 - Vacuum Spark
@@ -58,6 +74,8 @@ URLs:
 - https://monckat.bandcamp.com/track/beacon
 ---
 Track: Pollinate
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:08
 Referenced Tracks:
 - Heliotroposphere
@@ -65,9 +83,11 @@ URLs:
 - https://monckat.bandcamp.com/track/pollinate
 ---
 Track: Mythos
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:30
 Referenced Tracks:
-- Pickaxe
+- track:pickaxe-the-tapestry
 URLs:
 - https://monckat.bandcamp.com/track/mythos
 ---
@@ -94,7 +114,7 @@ Duration: 3:06
 Referenced Tracks:
 - Heliotroposphere
 - Vacuum Spark
-- Mythos
+- track:mythos-the-tapestry
 - Deime's Theme
 URLs:
 - https://monckat.bandcamp.com/track/vacuum-blaze

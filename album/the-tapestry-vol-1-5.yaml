@@ -1,7 +1,8 @@
 Album: 'The Tapestry Vol. 1.5: Situate'
+Directory: the-tapestry-vol-1-5
+Directory Suffix: the-tapestry
 Date: October 25, 2020
 Date Added: September 02, 2025
-Directory: the-tapestry-vol-1-5-situate
 URLs:
 - https://monckat.bandcamp.com/album/the-tapestry-vol-15-situate
 Artists:
@@ -19,6 +20,9 @@ Wallpaper File Extension: png
 Cover Art File Extension: png
 Track Art File Extension: png
 Banner File Extension: png
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Color: '#fdb200'
 Groups:
 - Monckat
@@ -35,7 +39,7 @@ Duration: 3:27
 Referenced Tracks:
 - Hollow Skies
 - Amnsomnia
-- Mythos
+- track:mythos-the-tapestry
 - Deime's Theme
 URLs:
 - https://monckat.bandcamp.com/track/hollow-skies-tower-merge
@@ -46,6 +50,8 @@ URLs:
 - https://monckat.bandcamp.com/track/siltbound-dragonfly
 ---
 Track: Situator
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:06
 URLs:
 - https://monckat.bandcamp.com/track/situator
@@ -59,6 +65,8 @@ URLs:
 - https://monckat.bandcamp.com/track/voidsigh
 ---
 Track: Dissolute
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:33
 URLs:
 - https://monckat.bandcamp.com/track/dissolute
@@ -71,9 +79,9 @@ URLs:
 Track: Painted Canyon
 Duration: 1:15
 Referenced Tracks:
-- Pickaxe
-- Beacon
-- Mythos
+- track:pickaxe-the-tapestry
+- track:beacon-the-tapestry
+- track:mythos-the-tapestry
 - Vacuum Spark
 - Modified Adventure
 URLs:
@@ -85,11 +93,13 @@ URLs:
 - https://monckat.bandcamp.com/track/from-briskwind
 ---
 Track: Discovery
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:01
 URLs:
 - https://monckat.bandcamp.com/track/discovery
 ---
-Section: Bonus tracks
+Section: Bonus track
 ---
 Track: MSPFA Theme Fragment
 Duration: 0:59
