@@ -1,5 +1,8 @@
 Album: Perfectly Generic Album
 Directory: perfectly-generic-album-chaoticcomposer
+Directory Suffix: perfectly-generic-album
+Suffix Track Directories: true
+Always Reference Tracks By Directory: true
 Date: September 25, 2025
 Date Added: September 26, 2025
 URLs:
@@ -17,6 +20,7 @@ Groups:
 - Fandom
 ---
 Track: Rustblood [Cover]
+Directory: rustblood
 Duration: 4:25
 Referenced Tracks:
 - Rustblood
@@ -24,9 +28,10 @@ URLs:
 - https://soundcloud.com/chaoticcomposer/rustblood
 Referencing Sources: |-
     <i>chaoticComposer:</i> ([SoundCloud description](https://soundcloud.com/chaoticcomposer/rustblood), excerpt)
-    Original: [[track:rustblood]] by [[artist:james-roach|James Roach]] and [[artist:toby-fox|Toby "Radiation" Fox]]
+    Original: [[Rustblood]] by [[artist:james-roach]] and [[artist:toby-fox]]
 ---
 Track: Derse Dreamers [Cover]
+Directory: derse-dreamers
 Duration: 5:40
 Referenced Tracks:
 - Derse Dreamers
@@ -34,9 +39,10 @@ URLs:
 - https://soundcloud.com/chaoticcomposer/derse-dreamers
 Referencing Sources: |-
     <i>chaoticComposer:</i> ([SoundCloud description](https://soundcloud.com/chaoticcomposer/derse-dreamers), excerpt)
-    Original: [[track:derse-dreamers]] by [[artist:solatrus|Jeremy "Solatrus" Iamurri]]
+    Original: [[Derse Dreamers]] by [[artist:solatrus]]
 ---
 Track: Dead Shuffle [Cover]
+Directory: dead-shuffle
 Duration: 2:45
 Referenced Tracks:
 - Dead Shuffle
@@ -44,9 +50,10 @@ URLs:
 - https://soundcloud.com/chaoticcomposer/dead-shuffle
 Referencing Sources: |-
     <i>chaoticComposer:</i> ([SoundCloud description](https://soundcloud.com/chaoticcomposer/dead-shuffle), excerpt)
-    Original: [[track:dead-shuffle]] by [[artist:mark-j-hadley|Mark Hadley]]
+    Original: [[Dead Shuffle]] by [[artist:mark-j-hadley]]
 ---
 Track: Vriska’s Theme [Cover]
+Directory: vriskas-theme
 Duration: 3:07
 Referenced Tracks:
 - Vriska's Theme
@@ -54,9 +61,10 @@ URLs:
 - https://soundcloud.com/chaoticcomposer/vriskas-theme
 Referencing Sources: |-
     <i>chaoticComposer:</i> ([SoundCloud description](https://soundcloud.com/chaoticcomposer/vriskas-theme), excerpt)
-    Original: [[track:vriskas-theme]] by [[artist:toby-fox|Toby "Radiation" Fox]]
+    Original: [[Vriska's Theme]] by [[artist:toby-fox]]
 ---
 Track: Karkat’s Theme [Cover]
+Directory: karkats-theme
 Duration: 3:06
 Referenced Tracks:
 - Karkat's Theme
@@ -64,14 +72,15 @@ URLs:
 - https://soundcloud.com/chaoticcomposer/karkats-theme
 Referencing Sources: |-
     <i>chaoticComposer:</i> ([SoundCloud description](https://soundcloud.com/chaoticcomposer/karkats-theme), excerpt)
-    Original: [[track:karkats-theme]] by [[artist:toby-fox|Toby "Radiation" Fox]]
+    Original: [[Karkat's Theme]] by [[artist:toby-fox]]
 ---
 Track: Black [Cover]
+Directory: black
 Duration: 3:39
 Referenced Tracks:
-- track:black
+- Black
 URLs:
 - https://soundcloud.com/chaoticcomposer/black
 Referencing Sources: |-
     <i>chaoticComposer:</i> ([SoundCloud description](https://soundcloud.com/chaoticcomposer/black), excerpt)
-    Original: [[track:black]] by [[artist:toby-fox|Toby "Radiation" Fox]]
+    Original: [[Black]] by [[artist:toby-fox]]
