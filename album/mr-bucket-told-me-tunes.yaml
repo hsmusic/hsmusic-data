@@ -44,12 +44,14 @@ Commentary: |-
 ---
 Track: me
 Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:18
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/me
 ---
 Track: him
 Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:58
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/him
@@ -62,6 +64,8 @@ Contributors:
 - Xalavier Nelson Jr. (lyrics, vocals)
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/a-bucket-murderers-lament
+- https://music.apple.com/song/a-bucket-murderers-lament/1728342690
+- https://open.spotify.com/track/0NYGzmc6D99eDfGVpFanIM
 Lyrics: |-
     I killed a bucket on an island far away
 
