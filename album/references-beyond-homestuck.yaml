@@ -4012,6 +4012,19 @@ Duration: 2:35
 URLs:
 - https://www.youtube.com/watch?v=c5w68Z-oX30
 ---
+Track: The Castle Depths
+# Mario & Luigi: Bowser's Inside Story, no official release
+# Reference:
+#   Mario & Luigi: Bowser's Inside Story + Bowser Jr's Journey
+#     sound test - name
+#   Super Mario wiki - duration
+Artists:
+- Super Mario
+- Yoko Shimomura
+Duration: 1:08
+URLs:
+- https://www.youtube.com/watch?v=K-4Ku3eXgys
+---
 Track: Cave
 Directory: cave-treasure-cove
 Always Reference By Directory: true
@@ -4590,16 +4603,6 @@ Artists:
 Duration: 2:02
 URLs:
 - https://youtu.be/WmBPTpvYyIY
----
-Track: Deep Castle
-# Official release:
-#   Mario & Luigi: Bowser's Inside Story, no official release
-Artists:
-- Super Mario
-- Yoko Shimomura
-Duration: 2:40
-URLs:
-- https://www.youtube.com/watch?v=K-4Ku3eXgys
 ---
 Track: Delfino Plaza
 # JP: ドルピックタウン
