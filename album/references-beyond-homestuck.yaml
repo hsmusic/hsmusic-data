@@ -7256,14 +7256,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=vMhMck1Uwms
 ---
-Track: The Last Cackletta
-# https://vgmdb.net/product/6171
-Artists:
-- Super Mario
-- Yoko Shimomura
-URLs:
-- https://www.youtube.com/watch?v=n29PU8zXL3o
----
 Track: Layton's Theme
 # JP: レイトン教授のテーマ
 # Official release:
@@ -9899,6 +9891,18 @@ Artists:
 Duration: 1:42
 URLs:
 - https://www.youtube.com/watch?v=A-_vSfRz3wI
+---
+Track: Showdown with Cackletta!
+# JP: ラスト・ゲラゲモーナ
+# Reference:
+#   https://vgmdb.net/album/14666
+#   Mario & Luigi: Superstar Saga + Bowser's Minions sound test
+Artists:
+- Super Mario
+- Yoko Shimomura
+Duration: 2:11
+URLs:
+- https://www.youtube.com/watch?v=kcdGeWw_pvY
 ---
 Track: Silencio
 # Uploaded from in-game files (pretty sure anyway)
