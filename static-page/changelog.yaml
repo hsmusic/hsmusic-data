@@ -43,7 +43,22 @@ Content: |-
     - added "by series" view to group gallery pages, which presents albums within their series instead of a single chronological grid; "by date" remains the default view
     - added "origin details" field for artworks, which enables totally custom descriptions about where an artwork comes from; displayed beneath "by (artists)" and "via (source)" line [[media:misc/changelog/artwork-origin-details-cover.png|on album and track pages]], as well as [[media:misc/changelog/artwork-origin-details-list.png|in artists' artwork lists]]; currently used for crops of comic panels and flashes across [[group:official]], and for asset credits in [[album:hiveswap-friendsim]]
     - added "attach above" field for artworks, which visually links related artworks together (provided they're for the same track or album), and shuttles away identical data e.g. because the artworks have the same artists or tags, and adds auto-inheritence so those identical lists don't have to be typed out twice, either; all in all used for earlier versions of [[album:comfortable-bugs|album covers]] and [[track:white|track art]], [[track:awakening|full-size cuts]], and perhaps other useful places
-    - revised the presentation of commentary sections on info pages:
+    - revised the presentation of credits on artist info pages:
+        - annotations, meaning an artist's specific contribution, are now shown always at the end of the line, following a "—"
+        - the "with other artists" stretch of text has been completely removed, since it typically just confused credited roles, and the most detailed information is always available on the track page
+        - each credit now contextually shows the complete artist information for the track, if that's markedly relevant information; for example [[track:jane-dargason]] shows as "by [[artist:clark-powell]] and [[artist:rj-lake]]" on either artist's page, [[track:solar-voyage]] shows as "by [[artist:marcy-nabors]]" on [[artist:erik-scheele]]'s page
+        - the "chunk" for each album now shows the album's artists; this is one-to-one, so albums not labeled "by" really don't have listed album artists on the wiki
+        - credits which don't count toward the artist's totals are moved into a secondary list below the rest of the artist's contributions within each album; within an album where the artist did both, the artist's own tracks appear above other artists' tracks they mastered
+        - however, tracks which are secondary releases, despite generally not counting themselves toward an artist's totals, are processed in terms of the main release - they aren't demoted to the secondary list just for being secondary releases
+        - that means tracks with other releases show annotations now instead of just dropping them, which was probably at least halfway an accident
+    - revised the presentation of releases on group gallery pages:
+        - albums can now be listed by series here; "by date" is still the default on group gallery pages, "by series" still the default on group info pages
+        - added a "tab" to the top of almost all release boxes on every group gallery page; the text is automatically determined, first showing the names of the release's groups from a different category as the current group, and if none, showing the album artists
+        - for example, [[album:curtain-call-maragi-radi]] shows "Desynced" in [[group-gallery:fandom]] and "Spad3s" in [[group-gallery:desynced]]; [[album:vivid-spectrum]] shows "Solatrus and Marcy Nabors" in [[group-gallery:solatrus]]; [[album:pray]] shows "Itoki Hana" in [[group-gallery:toby-fox]]
+        - added a filter box for [[group-gallery:fandom]] and [[group-gallery:beyond]] which lets you choose to show just albums or just singles
+        - added a control for immediately revealing all artworks with warnings (this is present on art tag galleries too)
+        - let albums with tracks, yet no durations for those tracks, show the number of tracks; also adjusted this info line for singles
+    - revised the presentation of commentary sections on all info pages:
         - if a commentary section has entries annotated "wiki editor", the section is now titled and linked as "artist and wiki commentary" (or as only "wiki commentary")
         - if a track info page has just about nothing else going on at all, the line with the "read artist commentary" scrolling link is now completely skipped
         - if an album has commentary on itself but none on any of its tracks, the "view commentary page" link is now skipped, and an ordinary "read artist commentary" scrolling link is shown instead
@@ -57,20 +72,33 @@ Content: |-
         - wiki lyrics - entries filled out and formatted specially for the wiki - may now list who's helped out in a "Contributions from..." line
         - wiki lyrics which include annotative text in [square brackets] now automatically draw attention there in a "Mind parts marked in..." line
         - totally custom details may be included on their own line, through an "origin details" field, similar as for artworks
+    - changed the big artwork images on info pages to use "srcset" attribute, so they'll generally appear much sharper on high-resolution displays; they still always download thumbnails, just slightly larger ones than we coded some five years ago
     - stopped counting secondary releases as additional track contributions, adjusting counts for almost all artists, visible in [[listing:artists/by-contribs|"Artists - by Contributions"]] listing ([[media:misc/changelog/secrelease-contribution-count-listing-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-listing-new.png|new]] <img src="media/misc/tangup.png" width="18" height="18" inline>) and in artist group contribution info ([[media:misc/changelog/secrelease-contribution-count-groups-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-groups-new.png|new]])
     - made "crediting sources" section collapsed by default, though it stays visible across pages once you've opened it
     - added "referencing sources" section for track pages, which works the same as crediting sources, and includes citations or conversations which contextualize a track's listed references and samples
+    - added "Needs Lyrics" field, and a corresponding [[listing:tracks/needing-lyrics|Tracks - which need Lyrics]] listing
     - added support to hide an album's duration, which makes that duration and the album's track count disappear most places, and excludes the album from the [[listing:albums/by-tracks|"Albums - by Tracks"]] and [[listing:albums/by-duration|"Albums - by Duration"]] listings
     - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
+    - added a link in the search box to return to where you started your search, regardless if you've since navigated further
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
+    - made the search database guess reasonably at group information for artists, so you can search "james official" and get three results (versus 15 or so for just "james"), or just the first letter or two of an artist's name, like "desynced r"
+    - made the search database include additional names, so searching "blind justice" comes up with results now
+    - made the search database include secondary releases (generally rereleases) whose names differ from the main release, so searching "Predomination" comes up with results now
+    - made the search database generally bring releases from [[group:official]] above releases from [[group:fandom]], [[group:fandom]] above [[group:beyond]], etc, provided the search results are matched for the same reasons
+    - made the search database show simple, name-only matches at the very top, instead of the bottom, e.g. [[album:homestuck-vol-3]] (name includes "vol", "3") is now above [[track:3-in-the-morning-pianokind]] (name includes "3", album includes "vol")
+    - made the search box disambiguate multiple tracks with the same name by showing which album each is from, e.g. [[track:light-vol5]] from [[album:homestuck-vol-5]] vs [[track:light-medium]] from [[album:medium]]
+    - made the search box disambiguate multiple resots *of different kinds* by showing their kind, e.g. [[album:s-collide]] the album vs [[flash:8087]] the flash
+    - added tooltips to the "also released on" line on track info pages, so you can see how much earlier or later the other releases came, and know if the track is named differently between releases
     - made reference lists swap out tracks for an alternate release of the same track within the album you're currently viewing, ex. you can jump between [[track:showtime-piano-refrain-vol-1-4]] and [[track:showtime-original-mix-vol-1-4]] while staying in [[album:homestuck-vol-1-4]], now
     - expanded custom support for media elements in content text (e.g. commentary), with support for full-width images and videos, "nameless" audios which hide insubstantial filename, and inline / non-boxed videos
     - adjusted the drop shadow for the main page element, so it's just a little deeper near to the page itself
     - adapted the page opacity to album wallpaper elements, keeping text and layout legible while letting brighter, bolder, and deeper colors show in more expressive ways
+    - added support for <<generic tooltips:very cool>> in content text anywhere, but mostly for the changelog
     - added [[media:misc/changelog/release-dividing-line.png|decorative dividing line]] after track lists on album info pages
     - added a dimming gradient over the bottom part of lyrics within the screen view, so they're revealed nicer as you scroll
     - added a nice effect when you hover an album banner... unless you're on Firefox... sorry Firefox...
     <h3>bug fixes</h3>
+    - swapped out a very naive word-count algorithm for one that tries to be multilingual, affecting totals on the [[commentary-index:-|commentary index]] and on album commentary pages
     - fixed chronological sorting in most track-related contexts to sort same-date tracks respective to their album's name and directory, rather than only its directory, which mostly means tracks from an album "The Apple" are now correctly sorted before tracks from another album, released on the same day, "Banana"
     - fixed sidebar for tracks with multiple releases sorting according to the tracks' albums' dates, instead of the tracks' own dates
     - fixed flashes ignoring non-square artworks
@@ -295,6 +323,8 @@ Content: |-
     - added date for Discord commentary on [[track:the-twilight-reverie]] (thanks, Lan!)
     <h3>data changes</h3>
     <!-- new stuff & big miscellany -->
+    - changed mastering credits across the wiki to never count toward an artist's total number of tracks or total duration, affecting just a handful of artists so far
+    - changed automatically sorted areas of the wiki, e.g. [[album:references-beyond-homestuck]] and "by Name" listings, to skip some articles besides just English "the"
     - changed a bunch of entries under "crediting sources" to be shown as "referencing sources" instead, occasionally trimming or rearranging some excerpts to be more focused (thanks, Tangle!)
     - started using multiple artworks for a lot more tracks and albums, including:
         - [[track:rumble-at-the-rink]], [[track:lets-all-rock-the-heist]], [[track:awakening]], [[track:wsw-beatdown]], [[track:sburban-reversal]], [[track:white-host-green-room]], [[track:ruins-rising]], [[track:what-a-daring-dream]], [[track:bargaining-with-the-beast]], [[track:teal-hunter]], [[track:blue-atom]], [[track:pink-cat]], [[track:clockstopper]], [[track:dapper-dueling]], [[track:checkmate]], [[track:hate-you]], and [[track:austin-atlantis]] (full-size)
