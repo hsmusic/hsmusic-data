@@ -28,6 +28,22 @@ Wallpaper Style: |-
     background-size: auto calc(max(1080px, 100%));
     background-repeat-x: repeat;
     opacity: 0.7;
+Art Tags:
+- Handa Halminth (The Tapestry)
+- Sosav Frauhoul (The Tapestry)
+- Oenia Acanenda (The Tapestry)
+- Deime Lyranell (The Tapestry)
+- Ophani Agent (The Tapestry)
+- Amnsomn (The Tapestry)
+- Hanaway (The Tapestry)
+- Liminocre (The Tapestry)
+- Mistmarble (The Tapestry)
+- Beacon Station (The Tapestry)
+- LoKaM (The Tapestry)
+- LoVaF (The Tapestry)
+- Sosav's land (The Tapestry)
+- Deime's land (The Tapestry)
+- Bean Cube (The Tapestry)
 Color: '#7affbc'
 Groups:
 - Monckat
@@ -43,6 +59,9 @@ Section: Main album
 Track: Heliotroposphere
 Duration: 1:25
 Cover Art File Extension: png
+Art Tags:
+- Sosav Frauhoul (The Tapestry)
+- Sosav's room (The Tapestry)
 Referenced Tracks:
 - Lotus
 URLs:
@@ -56,11 +75,18 @@ Track: Pickaxe
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 1:49
+Art Tags:
+- Handa Halminth (The Tapestry)
+- LoKaM (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/pickaxe
 ---
 Track: Vacuum Spark
 Duration: 2:26
+Art Tags:
+- Oenia Acanenda (The Tapestry)
+- Oenia's room (The Tapestry)
+- Horrorterrors
 URLs:
 - https://monckat.bandcamp.com/track/vacuum-spark
 ---
@@ -68,6 +94,9 @@ Track: Beacon
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 1:24
+Art Tags:
+- Osand Acanenda (The Tapestry)
+- Beacon Station (The Tapestry)
 Referenced Tracks:
 - Vacuum Spark
 URLs:
@@ -77,6 +106,9 @@ Track: Pollinate
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 3:08
+Art Tags:
+- Psycherefectory (The Tapestry)
+- Captcharoid Camera (The Tapestry)
 Referenced Tracks:
 - Heliotroposphere
 URLs:
@@ -86,6 +118,9 @@ Track: Mythos
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 1:30
+Art Tags:
+- LoKaM (The Tapestry)
+- Psycherefectory (The Tapestry)
 Referenced Tracks:
 - track:pickaxe-the-tapestry
 URLs:
@@ -93,16 +128,23 @@ URLs:
 ---
 Track: Unsettling Energy
 Duration: 1:12
+Art Tags:
+- Archesprite (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/unsettling-energy
 ---
 Track: GLASST Theme
 Duration: 1:41
+Art Tags:
+- Metamateria's planet (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/glasst-theme
 ---
 Track: Modified Adventure
 Duration: 2:20
+Art Tags:
+- LoVaF (The Tapestry)
+- Psycherefectory (The Tapestry)
 Referenced Tracks:
 - Vacuum Spark
 - Heliotroposphere
@@ -111,6 +153,14 @@ URLs:
 ---
 Track: Vacuum Blaze
 Duration: 3:06
+Art Tags:
+- The Grand Princesa (The Tapestry)
+- Sosav's Mom (The Tapestry)
+- Hanaway (The Tapestry)
+- Reaction City (The Tapestry)
+- Serrasword (The Tapestry)
+- Railgun (The Tapestry)
+- Gate # Monckat: "Skaia Defense Portal"
 Referenced Tracks:
 - Heliotroposphere
 - Vacuum Spark
@@ -121,6 +171,10 @@ URLs:
 ---
 Track: Cosmodrome
 Duration: 3:08
+Art Tags:
+- Sosav Frauhoul (The Tapestry)
+- Hanaway (The Tapestry)
+- Reaction City (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/cosmodrome
 Commentary: |-
@@ -129,16 +183,27 @@ Commentary: |-
 ---
 Track: Exodendron
 Duration: 2:23
+Art Tags:
+- Mistmarble (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/exodendron
 ---
 Track: Amnsomnia
 Duration: 2:18
+Art Tags:
+- The Grand Princesa (The Tapestry)
+- Ophani Agent (The Tapestry)
+- Amnsomn (The Tapestry)
+- Transient Lance (The Tapestry)
+- Amnsomniac Dropship (The Tapestry)
+- Serrasword (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/amnsomnia
 ---
 Track: Hollow Skies
 Duration: 3:30
+Art Tags:
+- Liminocre (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/hollow-skies
 ---
@@ -146,6 +211,10 @@ Track: Proletarian Prince
 Duration: 2:13
 Referenced Tracks:
 - Deime's Theme
+Art Tags:
+- Deime Lyranell (The Tapestry)
+- Amnsomn (The Tapestry)
+- Amnsomniac Zeppelin (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/proletarian-prince
 ---
