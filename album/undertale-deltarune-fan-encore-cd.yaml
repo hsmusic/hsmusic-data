@@ -24,6 +24,11 @@ Groups:
 Section: DELTARUNE Trial Tracks
 ---
 Track: DOGTARUNE (Trailer)
+Additional Names:
+- Name: >-
+    DOGTARUNE(トレーラー)
+  Annotation: >-
+    Original title
 Duration: 0:16
 #URLs:
 #- 
@@ -37,6 +42,11 @@ Commentary: |-
     この曲を作ったときは、なんも考えてなかったです。
 ---
 Track: Beginning
+Additional Names:
+- Name: >-
+    BEGINNING(トレーラー)
+  Annotation: >-
+    Original title
 Main Release: track:beginning-deltarune
 Duration: 0:59
 Commentary: |-
@@ -52,6 +62,11 @@ Commentary: |-
     旅の始まりには うってつけ
 ---
 Track: Rude Buster
+Additional Names:
+- Name: >-
+    ルードバスター
+  Annotation: >-
+    Original title
 Main Release: Rude Buster
 Directory: rude-buster-fan-encore-cd
 Duration: 2:44
@@ -69,6 +84,11 @@ Commentary: |-
 Section: UNDERTALE Encore
 ---
 Track: SE Collection
+Additional Names:
+- Name: >-
+    SEコレクション
+  Annotation: >-
+    Original title
 Main Release: track:se-collection
 Duration: 2:25
 Commentary: |-
@@ -81,20 +101,40 @@ Main Release: track:megalovania-undertale
 Duration: 5:14
 ---
 Track: Hopes and Dreams
+Additional Names:
+- Name: >-
+    夢と希望
+  Annotation: >-
+    Original title
 Main Release: Hopes and Dreams
 Duration: 6:03
 ---
 Track: Battle Against a True Hero
+Additional Names:
+- Name: >-
+    本物のヒーローとの戦い
+  Annotation: >-
+    Original title
 Main Release: Battle Against a True Hero
 Duration: '5:12'
 ---
 Track: Ruins
+Additional Names:
+- Name: >-
+    いせき
+  Annotation: >-
+    Original title
 Main Release: track:ruins-undertale
 Duration: 1:34
 ---
 Section: MUSIC Engine Orchestra
 ---
 Track: Ruins
+Additional Names:
+- Name: >-
+    いせき
+  Annotation: >-
+    Original title
 Directory: ruins-music-engine-fan-encore
 Always Reference By Directory: true
 Artists:
@@ -111,6 +151,11 @@ Commentary: |-
     (from "MUSIC Engine UNDERTALE CD Vol.2: Toriel")
 ---
 Track: Anticipation / Enemy Approaching
+Additional Names:
+- Name: >-
+    緊迫のとき / ENEMY APPROACHING!
+  Annotation: >-
+    Original title
 Directory: anticipation-enemy-approaching-music-engine-fan-encore
 Always Reference By Directory: true
 Artists:
@@ -128,6 +173,11 @@ Commentary: |-
     (from "MUSIC Engine UNDERTALE CD Vol.2: Toriel")
 ---
 Track: CORE / Death by Glamour
+Additional Names:
+- Name: >-
+    コア / 華麗なる死闘
+  Annotation: >-
+    Original title
 Directory: core-death-by-glamour-music-engine-fan-encore-cd
 Always Reference By Directory: true
 Artists:
@@ -145,6 +195,11 @@ Commentary: |-
     (from "MUSIC Engine UNDERTALE CD Vol.3: Alphys & Mettaton")
 ---
 Track: For the Fans
+Additional Names:
+- Name: >-
+    愛するファンのみんなへ
+  Annotation: >-
+    Original title
 Directory: for-the-fans-music-engine-fan-encore-cd
 Always Reference By Directory: true
 Artists:
