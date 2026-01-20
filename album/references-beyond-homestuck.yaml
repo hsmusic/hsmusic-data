@@ -2606,6 +2606,18 @@ Duration: 0:37
 URLs:
 - https://www.youtube.com/watch?v=fxlXY2LabAM
 ---
+Track: Bopeebo
+# Official release:
+#   Friday Night Funkin' OST, Vol. 1
+# Reference:
+#   https://vgmdb.net/album/107949
+Artists:
+- Friday Night Funkin'
+- Kawai Sprite
+Duration: 1:21
+URLs:
+- https://www.youtube.com/watch?v=v7Bsin2o0J4
+---
 Track: Boss Battle BGM (Ridley/Draygon)
 # Reference:
 #   https://vgmdb.net/album/883
@@ -2994,6 +3006,18 @@ Duration: 2:13
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/c9b8e78b-ec22-4aaf-ba2d-bf20f1b3b210
 - https://www.youtube.com/watch?v=tDwELC-6bz8
+---
+Track: Cocoa
+# Official release:
+#   Friday Night Funkin' OST, Vol. 1
+# Reference:
+#   https://vgmdb.net/album/107949
+Artists:
+- Friday Night Funkin'
+- Kawai Sprite
+Duration: 1:55
+URLs:
+- https://www.youtube.com/watch?v=u-t2_woDvzc
 ---
 Track: Cog Building (Boss)
 # Toontown Online
@@ -4630,6 +4654,14 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/06077d24-6b2a-4a4f-802d-8818725f387a
 - https://www.youtube.com/watch?v=N7OlOrJHLm4
 ---
+Track: I Love You
+Artists:
+- Friday Night Funkin'
+- K-Man
+Duration: 1:28
+URLs:
+- https://soundcloud.com/kmanvtuber/cerulean-symphony-volume-1-14b-i-love-you
+---
 Track: Ice Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -5991,6 +6023,18 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/da6fcc8a-cceb-414f-8382-8864ad85f984
 - https://www.youtube.com/watch?v=qEPciC7x0ck
 ---
+Track: Pico
+# Official release:
+#   Friday Night Funkin' OST, Vol. 1
+# Reference:
+#   https://vgmdb.net/album/107949
+Artists:
+- Friday Night Funkin'
+- Kawai Sprite
+Duration: 1:25
+URLs:
+- https://www.youtube.com/watch?v=Cp8VZY3mq_o
+---
 Track: Poké Mart (Pokémon Ruby & Pokémon Sapphire)
 # Reference:
 #   https://vgmdb.net/album/1024
@@ -6519,6 +6563,18 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/9af3cd62-a072-440a-ab9e-09337f30224f
 - https://www.youtube.com/watch?v=XUJOlDhh7C4
 ---
+Track: Satin Panties
+# Official release:
+#   Friday Night Funkin' OST, Vol. 1
+# Reference:
+#   https://vgmdb.net/album/107949
+Artists:
+- Friday Night Funkin'
+- Kawai Sprite
+Duration: 1:36
+URLs:
+- https://www.youtube.com/watch?v=S-gc36o4q8Q
+---
 Track: Save the World, Heroes!
 # Reference:
 #   https://nintendo.fandom.com/wiki/Daisuke_Matsuoka#Game_Works
@@ -6658,6 +6714,19 @@ Duration: 2:56
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/918c7bd9-473a-4fd0-b9c2-0b681308e529
 - https://www.youtube.com/watch?v=EGcDuLA36_k
+---
+---
+Track: Senpai
+# Official release:
+#   Friday Night Funkin' OST, Vol. 2
+# Reference:
+#   https://vgmdb.net/album/111079
+Artists:
+- Friday Night Funkin'
+- Kawai Sprite
+Duration: 1:48
+URLs:
+- https://www.youtube.com/watch?v=cbXhgM9tiy0
 ---
 Track: Shapes
 # Reference
@@ -6868,6 +6937,18 @@ URLs:
 - https://www.youtube.com/watch?v=QMXmQkfNpGs
 Referenced Tracks:
 - Galactic Nova
+---
+Track: South
+# Official release:
+#   Friday Night Funkin' OST, Vol. 1
+# Reference:
+#   https://vgmdb.net/album/107949
+Artists:
+- Friday Night Funkin'
+- Kawai Sprite
+Duration: 1:28
+URLs:
+- https://www.youtube.com/watch?v=g-ncy3BS4AI
 ---
 Track: Space Pirates
 Artists:
@@ -7154,6 +7235,18 @@ Artists:
 Duration: 4:10
 URLs:
 - https://www.youtube.com/watch?v=hrvamz7tncY
+---
+Track: Thorns
+# Official release:
+#   Friday Night Funkin' OST, Vol. 2
+# Reference:
+#   https://vgmdb.net/album/111079
+Artists:
+- Friday Night Funkin'
+- Kawai Sprite
+Duration: 1:46
+URLs:
+- https://www.youtube.com/watch?v=fSNYhgL7L90
 ---
 Track: Thwomp Volcano
 # Mario & Luigi: Partners in Time, no official release
@@ -7465,6 +7558,20 @@ URLs:
 - https://www.youtube.com/watch?v=NmCCQxVBfyM
 Referenced Tracks:
 - Korobeiniki
+---
+Track: Ugh
+Directory: ugh-fnf
+Always Reference By Directory: true
+# Official release:
+#   Friday Night Funkin' OST, Vol. 2
+# Reference:
+#   https://vgmdb.net/album/111079
+Artists:
+- Friday Night Funkin'
+- Kawai Sprite
+Duration: 1:27
+URLs:
+- https://www.youtube.com/watch?v=Dy12HO2ip6Q
 ---
 Track: The Ultimate Show
 # Very few tracks from Super Paper Mario received an official release,
@@ -27017,6 +27124,84 @@ Lyrics: |-
     Tell me why are we so blind to see
     That the ones we hurt are you and me?
 ---
+Track: GAY
+Directory: gay-kawai-sprite
+Artists:
+- Kawai Sprite
+Duration: 1:55
+URLs:
+- https://www.youtube.com/watch?v=1aNMFgU_X3I
+Lyrics:
+    This song goes out to my parents
+    I love you mom (Yo)
+    I love you dad (Yo)
+    Check it
+
+    Spaghetti I gargle
+    I got balls on my nostrils
+    I’m real gay yeah I said it I fuck dudes everyday
+    DMX in the closet
+    I fuck cute boys and I like it
+    You need a lozenge hoe?
+    Here’s a quick dose
+    You a straight O
+
+    The scoreboard looking pretty slant
+    Like a clam
+    I don’t eat it doe
+    I only like burritos
+    I get more cock than a KFC restaurant
+    I got chains on my neck like it’s Kingdom Hearts
+
+    I like it floppy and sloppy
+    Boy give me top while he in cosplay
+    Eating wieners all day like July fourth
+    I’m a man whore, I like licking dick but eating ass more
+    You a pretty twink let me take you to my house yo
+
+    Bums bums the bums and ding dongs
+    I like big man butts, fuck girls, girls are gross
+
+    Fuck girls
+    All my homies hate girls
+    All my homies are gay
+    We fuck each other everyday
+
+    Ay, breathe if you're gay
+    Ay, blink if you're gay
+    Ay, breathe if you're gay
+    Blink if you're gay
+
+    If you're super gay then clap your ass cheeks
+    Clap your ass cheeks, clap your ass cheeks
+    If you think you're gay then wink your butt hole
+
+    I’m a merman
+    Got a perm, and a sherm man
+    I smoke weed then I fuck dudes, yeah dude
+    Smoking penis and pounding I’m not frowning
+    Turn this lil' bitch into a Pomeranian
+    Getting brain again
+    Out of this world like an alien
+    Fucking man butts till my dick gets inflate again
+
+    Fuck girls
+    All my homies hate girls
+    All my homies are gay
+    Wouldn't have it any other way
+    Gay
+
+    Did you just hear that fucking shit
+    God damn
+    That’s so fucking hard
+    Oh
+    Ay, oh
+    Ay, oh
+    Ay, oh
+
+    Thank you for listening to my song
+    I hope you liked it-
+---
 Track: Gentleman
 Directory: gentleman-psy
 Always Reference By Directory: true
@@ -27290,6 +27475,127 @@ Lyrics: |-
     Movin' up and down, dancin' on the ground
     Feelin' kinda free, security
     House is the sound, that moves you from the ground
+---
+Track: Gett Off
+Artists:
+- Prince Rogers Nelson
+Duration: 4:00
+URLs:
+- https://www.youtube.com/watch?v=GA3dV_McWxE
+Lyrics: |-
+    Club Mix
+    Club Mix
+
+    How can I put this in a way so as not to offend or unnerve?
+    There's a rumor goin' all around that you ain't been gettin' served
+    They say that you ain't you know what
+    In, baby, who knows how long
+    It's hard for me to say what's right
+    When all I wanna do is wrong
+
+    Get off
+    Twenty-three positions in a one-night stand
+    Get off
+    I'll only call you after if you say I can
+    Get off
+    Let a woman be a woman and a man be a man
+    Get off
+    If you want to, baby, here I am
+    Here I am
+
+    I clocked the jizz from a friend
+    Of yours named Vanessa Bet (Bet)
+    She said you told her a fantasy
+    That got her all wet (Wet)
+    Something about a little box with a
+    Mirror and a tongue inside
+    What she told me then got me so hot
+    I knew that we could slide
+
+    Get off
+    Twenty-three positions in a one-night stand
+    Get off
+    I'll only call you after if you say I can
+    Get off
+    Let a woman be a woman and a man be a man
+    Get off
+    If you want to, baby, here I am
+    Here I am
+    Get off
+
+    One, two, three, nah, little cutie, I ain't drinkin' (Get off)
+    Scope this, I was just thinkin'
+    You plus me, what a ride
+    If you was thinkin' the same
+    We could continue outside (Get off)
+    Lay your pretty body against a parkin' meter
+    Strip your dress down
+    Like I was strippin' a Peter Paul's Almond Joy
+    Let me show you, baby, I'm a talented boy
+
+    (Everybody, grab a body
+    Pump it like you want somebody
+    Get off (Get off))
+
+    So here we-so here we-so here we are, here we are (G-G-Get off)
+    In my paisley crib
+    Whatcha want to eat? ("Ribs")
+    Don't toy, I don't serve ribs...
+    You better be happy that dress is still on
+    I heard the rip when you sat down
+    Honey, them hips is gone
+    But that's all right, I clock 'em that way
+    Remind me of something James used to say...
+    "I like 'em fat"
+    "I like 'em proud"
+    "Ya gotta have a mother for me"
+    Now move your big ass 'round this way
+    So I can work on that zipper, baby
+    Tonight, you're a star
+    And I'm the big dipper
+    (Kick it)
+    (Gett off)
+    (Gett off)
+    (Gett off)
+
+    How can I put this in a way so as not to offend or unnerve? (Get off)
+    There's a rumor going all around that you ain't been getting served (Get off)
+    They say that you ain't you know what
+    In, baby, who knows how long (Get off)
+    It's hard for me to say what's right
+    When all I wanna do is wrong
+
+    Get off
+    Twenty-three positions in a one-night stand
+    Get off
+    I'll only call you after if you say I can
+    Get off
+    Let a woman be a woman and a man be a man
+    Get off
+    If you want to, baby, here I am
+    Come on
+
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
 ---
 Track: GHOST
 Artists:
@@ -40453,6 +40759,102 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=1ZQ-gZyuJqA
 ---
+Track: Release the Beast
+Artists:
+- Breakwater
+Duration: 4:58
+URLs:
+- https://www.youtube.com/watch?v=5b0jWlPtP5o
+Lyrics:
+    Release!
+
+    How can you say you wanna sit there
+    With all this going on?
+    Just layin' back in your chair
+    Like you're not even here
+
+    Just give a little push (Push)
+    Go on and let yourself get loose
+    Gonna take the funky side of you
+    Gonna make your body move
+
+    Get up
+    Time to release the beast
+    Get up
+    Get up
+    Time to release the beast
+    Get up
+
+    Time is right for you tonight
+    To get down on the one
+    Everybody get in the groove
+    We're bound to have some fun
+
+    Give the girl a little pull (Pull)
+    Just get her on the floor
+    All we wanna do is jam for you
+    Gonna funk and rock some more
+
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+
+    Everybody get up
+    Everybody get up
+    Everybody get up
+
+    Release!
+
+    Music's got me wanting to say
+    Hey! Everybody get up
+    Don't you want to get up out your chair?
+    Music's got me wanting to say
+    Hey! Everybody get up
+
+    Everybody get up
+    Don't you want to get up out your chair?
+    Music's got me wanting to say
+    Hey! Everybody get up
+    Don't you want to get up out your chair?
+    Music's got me wanting to say
+    Hey! Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+---
 Track: Replica
 Directory: replica-oneohtrix-point-never
 Always Reference By Directory: true
@@ -40679,6 +41081,45 @@ Artists:
 Duration: 4:58
 URLs:
 - https://www.youtube.com/watch?v=rDgacSTLP1s
+---
+Track: Robot Rock
+Artists:
+- Daft Punk
+Duration: 4:47
+Sampled Tracks:
+- Release the Beast
+URLs:
+- https://www.youtube.com/watch?v=HdeYwObD-j4
+Lyrics:
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
 ---
 Track: Rock Lobster
 Artists:
@@ -41611,6 +42052,58 @@ Lyrics: |-
     She'll go alone, and never speak of this again
     We depend on you, we depend...
     I'll depend on you
+---
+Track: Safe and Sound
+Artists:
+- Justice
+Duration: 5:50
+URLs:
+- https://www.youtube.com/watch?v=uXj8FM7lTrw
+Lyrics:
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
 ---
 Track: The Same/Digital Boy (Reprise)
 Artists:
@@ -49417,6 +49910,173 @@ Lyrics: |-
     You'll cowards don't even smoke crack
     What's up with that?
     You'll cowards don't even smoke crack
+---
+Track: Young Girl A
+Artists:
+- siinamota
+Duration: 4:02
+URLs:
+- https://www.youtube.com/watch?v=AqI97zHMoQw
+Lyrics:
+- Annotation: original lyrics
+  Body: |-
+    僕の命っつったって 誰の命っつったって
+    時時々 公平に 裁かれるもんなんでしょ
+    暗い空にやってきた 鬱を連れてやってきた
+    時々雨 総計に 頼り切りだ どうしよう
+    朽ちるまでの愛憎を 朽ちるまでの愛憎を
+    飲み込む君 簡単に 微笑む君 どうして
+    言葉を書く 曖昧に 言葉を書く 曖昧に
+    伝わりきらんないから 君だけをさ 信じて
+
+    捨ててきた夢をあつめて
+    ちょっと　ちょっと　間違えたから
+
+    ああ「時に 時に 躓いたって」
+    寒い 寒い 寒い 寒い 寒い
+    寒い 寒い 寒い 寒い 寒い
+    寒い 寒い 寒い 寒い 言い寄らないで
+    ああ 君の 君の 君の声が
+    遠い 遠い 遠い 遠い 遠い
+    遠い 遠い 遠い 遠い 遠い
+    遠い 遠い 遠い 遠い 傷つけないで
+
+    何番目でも 何番目でも
+    僕が僕であるために？
+
+    契り集め 持ってきた 契り集め 持ってきた
+    あの日の間違いを 飲み込むのが苦るしくて
+    朽ちるまでの愛憎を 朽ちるまでの愛憎を
+    飲み込む君 簡単に 微笑む君 どうして
+
+    「子供だましの花ふたつ、」
+    きっと きっと 諦めたから？
+
+    ああ 遠い夢を追いかけてさ
+    早い 早い 早い 早い 早い
+    早い 早い 早い 早い 早い
+    早い 早い 早い 早い 追いつけないよ
+    捨てきれず残した思いが
+    憎い 憎い 憎い 憎い 憎い
+    憎い 憎い 憎い 憎い 憎い
+    憎い 憎い 憎い 憎い 許されないの？
+
+    ああ 夢を 夢を見てたはずが
+    怖い 怖い 怖い 怖い 怖い
+    怖い 怖い 怖い 怖い 怖い
+    怖い 怖い 怖い 怖い 近づかないで
+    合言葉を繰り返すだけ
+    寒い 寒い 寒い 寒い 寒い
+    寒い 寒い 寒い 寒い 寒い
+    寒い 寒い 寒い 寒い お願いだから
+    何番目でも 何番目でも
+    僕が僕であるために…
+- Annotation: romanized lyrics
+  Body: |-
+    Boku no inochi tsuttatte dare no inochi tsuttatte
+    Tokidoki doki kouhei ni sabakareru mon nan desho
+    Kurai sora ni yattekita utsu wo tsurete yattekita
+    Tokidoki ame soukei ni tayorigiri da dou shiyou
+    Kuchiru made no aizou wo kuchiru made no aizou wo
+    Nomikomu kimi kantan ni hohoemu kimi dou shite
+    Kotoba wo kaku aimai ni kotoba wo kaku aimai ni
+    Tsutawari kirannai kara kimi dake wo sa shinjite
+
+    Sutete kita yume wo atsumete
+    Chotto chotto machigaeta kara
+
+    Aa "Toki ni toki ni tsumazuita tte"
+    Samui-samui-samui-samui-samui
+    Samui-samui-samui-samui-samui
+    Samui-samui-samui-samui ii yoranaide
+    Aa kimi no kimi no kimi no koe ga
+    Tooi-tooi-tooi-tooi-tooi
+    Tooi-tooi-tooi-tooi-tooi
+    Tooi-tooi-tooi-tooi kizutsuke naide
+
+    Nanbanme demo nanbanme demo
+    Boku ga boku de aru tame ni?
+
+    Chigiri atsume mottekita chigiri atsume motte kita
+    Ano hi no machigai wo nomikomu no ga kuru shikute
+    Kuchiru made no aizou wo kuchiru made no aizou wo
+    Nomikomu kimi kantan ni hohoemu kimi dou shite
+
+    "Kodomo damashi no hana futatsu"
+    Kitto kitto akirameta kara?
+
+    Aa tooi yume wo oikakete sa
+    Hayai-hayai-hayai-hayai-hayai
+    Hayai-hayai-hayai-hayai-hayai
+    Hayai-hayai-hayai-hayai oitsukenai yo
+    Sutekirezu nokoshita omoi ga
+    Nikui-nikui-nikui-nikui-nikui
+    Nikui-nikui-nikui-nikui-nikui
+    Nikui-nikui-nikui-nikui yurusare nai no?
+
+    Aa yume wo yume wo miteta hazu ga
+    Kowai-kowai-kowai-kowai-kowai
+    Kowai-kowai-kowai-kowai-kowai
+    Kowai-kowai-kowai-kowai chikazuka nai de
+    Ai kotoba o kuri kaesu dake
+    Samui-samui-samui-samui-samui
+    Samui-samui-samui-samui-samui
+    Samui-samui-samui-samui onegai dakara
+    Nanbanme demo nanbanme demo
+    Boku ga boku de aru tame ni…
+- Annotation: translated lyrics
+  Body: |-
+    My life, and someone else's life
+    Why are they sometimes judged as if they're equal?
+    You came into my dark skies, bringing along depression
+    With some occasional rain, but I'm leaning onto you, what do I do?
+    Love and hate so extreme 'till its decayed, love and hate so extreme 'till its decayed
+    But you take it in so easily and still smile, why?
+    Writing down vague words, writing down vague words
+    I can't express myself well, so you're the only one I trust
+
+    I gather together my abandoned dreams
+    Wait, hold on, I've made a mistake
+
+    Ah, "Even if at times I stumble again and again"
+    It's so cold, it's cold, it's cold, it's cold, it's cold
+    It's so cold, it's cold, it's cold, it's cold, it's cold
+    It's so cold, it's cold, it's cold, it's cold, don't lead me on
+    Ah, your, your, your voice is so
+    Far away, far away, far away, far away, far away
+    Far away, far away, far away, far away, far away
+    Far away, far away, far away, far away, please don't hurt me
+
+    Who cares where I am in this line
+    In order for me to be me...
+
+    I've come with all my promises, I've come with all my promises
+    It was so hard to swallow down the mistakes I've made
+    Love and hate so extreme 'till its decayed, love and hate so extreme 'till its decayed
+    But you take it in so easily and still smile, why?
+
+    "Here are two flowers to trick a child"
+    I'm sure, so sure, it's because I gave up, isn't it?
+
+    Ah, I'm chasing after a far-off dream
+    Too fast, too fast, too fast, too fast, too fast
+    Too fast, too fast, too fast, too fast, too fast
+    Too fast, too fast, too fast, too fast, I can't keep up
+    The feelings left behind that I couldn't throw away are
+    Hate, hate, hate, hate, hate
+    Hate, hate, hate, hate, hate
+    Hate, hate, hate, hate, can't I be forgiven?
+
+    Ah, I thought I was going after my dreams, and yet
+    I'm scared, I'm scared, I'm scared, I'm scared, I'm scared
+    I'm scared, I'm scared, I'm scared, I'm scared, I'm scared
+    I'm scared, I'm scared, I'm scared, I'm scared, don't come near me
+    Doing nothing but repeating my motto over again
+    It's cold, it's cold, it's cold, it's cold, it's cold
+    It's cold, it's cold, it's cold, it's cold, it's cold
+    It's cold, it's cold, it's cold, it's cold, I'm begging you, please
+    Who cares where I am in this line
+    In order for me to be me...
 ---
 Track: your clothes
 Duration: 4:14
