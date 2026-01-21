@@ -498,8 +498,9 @@ Content: |-
     - fixed [[track:bad-apple-lovelight]] not crediting [[artist:nomico]] as a featured artist, and not crediting [[artist:harukapakapa]] for lyrics (thanks, Lan!)
     - fixed [[track:never-gonna-give-you-up]] crediting [[artist:stock-aitken-waterman]] as artist and [[artist:rick-astley]] as contributor, instead of the reverse (thanks, Lan!)
     <!-- merged artists -->
-    - fixed [[artist:kendle-iulus]] & [[artist:nick-tucker]] having some credits under other names (thanks, Lilith!)
     - fixed [[artist:domble]] having some credits under another name (thanks, Makin, Lan!)
+    - fixed [[artist:kendle-iulus]] having some credits under another name (thanks, Lilith!)
+    - fixed [[artist:nick-tucker]] having some credits under another name (thanks, Lilith!)
     <!-- track section fixes -->
     - fixed [[album:vast-error-vol-3]] missing a proper "Main album" section, and showing "Default Track Section" instead (thanks, Lilith!)
     - fixed [[track:the-ultimate-show]] being placed in [[album:references-beyond-homestuck]] under "Other music originating outside Homestuck", instead of under "Music from video games" (thanks, Lilith, Lavender!)
