@@ -364,6 +364,13 @@ Content: |-
         - [[group:kalibration]], as [[artist:screamcatcher]]: removed album and track credits to [[artist:kalibration]]; replaced relevant album artwork credits and select commentary artists with [[artist:screamcatcher]]; started crediting these tracks as "from (album), by [[artist:screamcatcher]]"
         - [[group:xszelor]], as [[artist:dvojka]], [[artist:highblood]], [[artist:realmite]]: removed album and track credits to [[artist:xszelor]]; *kept* Xszelor in album artwork credits and commentary artists; started crediting these tracks as "by [[artist:xszelor]], as (alias)"
         - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
+    - changed various UNBEATABLE-related artist credits (thanks, ruby!)
+        - changed [[artist:peak-divide]] album/release credits to [[artist:unbeatable]] on [[album:unbeatable-demo-tapes]], [[album:future-people]], and [[album:sleeping-in]]
+        - changed [[artist:peak-divide]] track credits to [[artist:unbeatable]] across [[album:unbeatable-demo-tapes]] and [[album:unbeatable-off-beats]]
+        - changed [[track:familiar-unbeatable-demo-tapes]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rj-lake]]
+        - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] / [[artist:unbeatable]]
+        - changed [[track:forever-when-instrumental]] to be by [[artist:unbeatable]], rather than by [[artist:rj-lake]]
+        - changed [[album:future-people]] and [[album:sleeping-in]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rachel-lake]]
     <!-- structural or organizational changes for art tags -->
     - sorted tags which fall under various [[tag:location-classifications]], including [[tag:astronomical-bodies]] and [[tag:locations-in-the-medium]], alphabetically (thanks, Lan!)
     - moved [[tag:deer-desynced]] tag out of removed "Consorts (Desynced)" tag, now directly under [[tag:characters-from-desynced]] instead (thanks, Lan, Jebb!)
@@ -678,9 +685,17 @@ Content: |-
     - changed directory of [[track:audacity]] from `audacity-svix` to `audacity`
     - changed directory of [[track:scientific-method]] from `scientific-method-omegalodon` to `scientific-method`
     - changed directories of all tracks across [[album:deltarune-ch1-ost]] and [[album:deltarune-ch2-ost]] to be suffixed `-ch1` and `-ch2` respectively; previous directories now used across [[album:deltarune-soundtrack]]
-    - changed directory of [[track:do-the-homestuck-demo]] from `do-the-homestuck` to `do-the-homestuck-demo`
+    - changed directory of [[track:familiar-unbeatable-demo-tapes]] from `familiar-unbeatable` to `familiar-unbeatable-demo-tapes`
+    - changed directory of [[track:waiting-unbeatable-demo-tapes]] from `waiting-unbeatable` to `waiting-unbeatable-demo-tapes`
+    - changed directory of [[track:empty-diary-unbeatable-demo-tapes]] from `empty-diary` to `empty-diary-unbeatable-demo-tapes`
+    - changed directory of [[track:proper-rhythm-unbeatable-demo-tapes]] from `proper-rhythm` to `proper-rhythm-unbeatable-demo-tapes`
+    - changed directory of [[track:worn-out-tapes-unbeatable-demo-tapes]] from `worn-out-tapes` to `worn-out-tapes-unbeatable-demo-tapes`
+    - changed directory of [[track:mirror-unbeatable-demo-tapes]] from `mirror-unbeatable` to `mirror-unbeatable-demo-tapes`
+    - changed directory of [[track:forever-now-unbeatable-demo-tapes]] from `forever-now` to `forever-now-unbeatable-demo-tapes`
     - changed directory of [[track:boutique-pokemon-sword-shield]] from `boutique` to `boutique-pokemon-sword-shield`
     - changed directory of [[track:obtained-an-item-pokemon-scarlet-violet]] from `obtained-an-item` to `obtained-an-item-pokemon-scarlet-violet`
+    - changed directory of [[track:sleeping-in-single]] from `sleeping-in` to `sleeping-in-single`
+    - changed directory of [[track:do-the-homestuck-demo]] from `do-the-homestuck` to `do-the-homestuck-demo`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainhoenn-version` to `battle-frontier-brain-hoenn-version`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainsinnoh-version` to `battle-frontier-brain-sinnoh-version`
     - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`

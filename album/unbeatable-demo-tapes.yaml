@@ -1,6 +1,6 @@
 Album: 'UNBEATABLE: DEMO TAPES'
 Directory Suffix: unbeatable-demo-tapes
-Suffix Track Directories: true
+Suffix Track Directories: true # except the instrumentals
 Artists:
 - UNBEATABLE
 Date: May 6, 2021
@@ -28,7 +28,7 @@ Commentary: |-
 
     UNBEATABLE: DEMO TAPES is the official soundtrack for UNBEATABLE [white label] - a special episode set in the world of UNBEATABLE. We will be updating DEMO TAPES with new music each time [white label] is updated, so please check back regularly!
 
-    You can play UNBEATABLE [white label] here:
+    You can play UNBEATABLE [white label] here:<br>
     [store.steampowered.com/app/1290490/UNBEATABLE_white_label/](https://store.steampowered.com/app/1290490/UNBEATABLE_white_label/)
 
     DEMO TAPES is separate from the final UNBEATABLE soundtrack, which will be released when UNBEATABLE is complete. All mixes presented in DEMO TAPES are not final and are subject to change in the full game.
@@ -42,9 +42,9 @@ Commentary: |-
     [[artist:vasily-nikolaev|Vasily Nikolaev]] - composition, arrangement, synths, mixing, mastering
 
     [[artist:rachel-lake|Rachel Lake]] - vocals, composition<br>
-    [[artist:rj-lake|RJ Lake]] - music supervision, lyrics, arrangement & composition on track 1 & 8<br>
-    [[artist:andrew-cleveland|Andrew Cleveland]] - guitar solo on track 2<br>
-    [[artist:derrick-lightning|Derrick Lightning]] - saxophone on track 9<br>
+    [[artist:rj-lake|RJ Lake]] - music supervision, lyrics, arrangement & composition on track [[track:familiar-unbeatable-demo-tapes|1]] & [[track:forever-when|8]]<br>
+    [[artist:andrew-cleveland|Andrew Cleveland]] - guitar solo on track [[track:waiting-unbeatable-demo-tapes|2]]<br>
+    [[artist:derrick-lightning|Derrick Lightning]] - saxophone on track [[track:motherbound-unbeatable-demo-tapes|9]]<br>
     [[artist:andrew-tsai|Andrew Tsai]] - cover art design
 
     <i>ruby:</i> (wiki editor, 06/11/2025)
@@ -53,17 +53,14 @@ Commentary: |-
 Section: Main album
 ---
 Track: FAMILIAR
-Suffix Directory: true
-Always Reference By Directory: true
-Main Release: track:familiar-unbeatable
+Main Release: ALBUM.
 Duration: 1:29
 URLs:
 - https://dcellgames.bandcamp.com/track/familiar
 - https://www.youtube.com/watch?v=Nz9eNC8DcF0
 ---
 Track: WAITING
-Always Reference By Directory: true
-Suffix Directory: true
+Main Release: ALBUM.
 Contributors:
 - Andrew Cleveland (guitar solo)
 - Rachel Lake (composition, vocals)
@@ -217,62 +214,57 @@ Lyrics: |-
     I'm done waiting
 ---
 Track: EMPTY DIARY
-Always Reference By Directory: true
+Main Release: ALBUM.
 Duration: 3:20
 URLs:
 - https://dcellgames.bandcamp.com/track/empty-diary
 - https://www.youtube.com/watch?v=TRnRDO-nwpA
-Main Release: track:empty-diary
 ---
 Track: PROPER RHYTHM
-Always Reference By Directory: true
+Main Release: ALBUM.
 Duration: 2:27
 URLs:
 - https://dcellgames.bandcamp.com/track/proper-rhythm
 - https://www.youtube.com/watch?v=tQjUHtkN7MU
-Main Release: PROPER RHYTHM
 ---
 Track: WORN OUT TAPES
+Main Release: WORN OUT TAPES [tally-ho version] # ALBUM.
 Always Reference By Directory: true
+  # There's a new WORN OUT TAPES there too.
+  # In general, references should point to it, not this.
 Duration: 3:51
 URLs:
 - https://dcellgames.bandcamp.com/track/worn-out-tapes
 - https://www.youtube.com/watch?v=mJLB7SRGgFc
-Main Release: WORN OUT TAPES [tally-ho version]
 ---
 Track: MIRROR
-Always Reference By Directory: true
-Suffix Directory: true
+Main Release: ALBUM.
 Duration: 3:27
 URLs:
 - https://dcellgames.bandcamp.com/track/mirror
 - https://www.youtube.com/watch?v=GaqDu16Rfe4
-Main Release: track:mirror-unbeatable
 ---
 Track: FOREVER NOW
-Always Reference By Directory: true
+Main Release: ALBUM.
 Duration: 3:58
 URLs:
 - https://dcellgames.bandcamp.com/track/forever-now
 - https://www.youtube.com/watch?v=oCv6mGvQQUs
-Main Release: FOREVER NOW
 ---
 Track: Forever When
-Always Reference By Directory: true
+Main Release: ALBUM.
 Duration: 2:36
 URLs:
 - https://dcellgames.bandcamp.com/track/forever-when
 - https://www.youtube.com/watch?v=FnfMFFMfWQc
-Main Release: Forever When
 ---
 Track: Motherbound
-Always Reference By Directory: true
+Main Release: ALBUM.
 Date First Released: October 13, 2023
 Duration: 2:26
 URLs:
 - https://dcellgames.bandcamp.com/track/motherbound
 - https://www.youtube.com/watch?v=Ej2Bk-Ep3rE
-Main Release: Motherbound
 Commentary: |-
     <i>D-CELL GAMES:</i> ([Steam](https://store.steampowered.com/news/app/1290490/view/6479049341160525469), [Itch.io](https://dcellgames.itch.io/unbeatable-demo-tapes/devlog/620412/motherbound-is-now-in-unbeatable-demo-tapes))
 
@@ -284,21 +276,22 @@ Commentary: |-
     <i><b><u><3 FROM D-CELL GAMES</u></b></i>
 ---
 Track: homework salad by night
-Main Release: homework salad
+Main Release: homework salad # ALBUM.
+Suffix Directory: false
 Duration: 3:00
 URLs:
 - https://dcellgames.bandcamp.com/track/homework-salad-by-night
 - https://www.youtube.com/watch?v=CHP6zoTNUPY
 ---
 Track: metro [pink line version]
-Main Release: metro [pink line version]
-Always Reference By Directory: true
+Main Release: unbeatable [ost]
 Date First Released: June 6, 2025
 Duration: 1:49
 URLs:
 - https://dcellgames.bandcamp.com/track/metro-pink-line-version-2
 ---
 Section: Bonus tracks
+Suffix Track Directories: false
 ---
 Track: WAITING (instrumental)
 Contributors:
@@ -311,7 +304,7 @@ Duration: 3:59
 URLs:
 - https://www.youtube.com/watch?v=XCxbjFvQZv0
 Referenced Tracks:
-- track:waiting-unbeatable-demo-tapes
+- WAITING
 ---
 Track: EMPTY DIARY (instrumental)
 Contributors:
@@ -343,7 +336,7 @@ Duration: 3:51
 URLs:
 - https://www.youtube.com/watch?v=i9XmbGlDNR0
 Referenced Tracks:
-- WORN OUT TAPES [tally-ho version]
+- WORN OUT TAPES # From this album, so really the tally-ho version.
 ---
 Track: MIRROR (instrumental)
 Contributors:

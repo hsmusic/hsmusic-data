@@ -1,10 +1,12 @@
 Album: SLEEPING IN
+Style: single
 Artists:
 - UNBEATABLE
 Date: February 25, 2025
 Date Added: April 13, 2025
 URLs:
 - https://dcellgames.bandcamp.com/album/sleeping-in
+- https://www.youtube.com/watch?v=6yA6GlA1xxw
 Cover Artists:
 - Andrew Tsai
 Cover Art File Extension: png
@@ -12,19 +14,17 @@ Color: '#f2f4f0'
 Groups:
 - rj lake
 - Beyond
-Commentary: |-
-    <i>D-CELL GAMES:</i> ([Bandcamp about blurb](https://dcellgames.bandcamp.com/album/unbeatable-demo-tapes))
-
-    you can't remember the version of you from ten seconds ago but it made a promise you need to keep
 ---
-Section: Main album
+Section: Main track
 ---
 Track: SLEEPING IN
-Main Release: track:sleeping-in-unbeatable
+Directory: sleeping-in-single
+Main Release: ALBUM.
 Duration: 2:40
-URLs:
-- https://dcellgames.bandcamp.com/track/sleeping-in
-- https://www.youtube.com/watch?v=6yA6GlA1xxw
+Commentary: |-
+    <i>D-CELL GAMES:</i> ([Bandcamp album about blurb](https://dcellgames.bandcamp.com/album/unbeatable-demo-tapes))
+
+    you can't remember the version of you from ten seconds ago but it made a promise you need to keep
 ---
 Section: Bonus track
 ---
@@ -36,4 +36,4 @@ Contributors:
 Duration: 2:40
 # no URL, hidden bonus track on Bandcamp
 Referenced Tracks:
-- track:sleeping-in-unbeatable
+- SLEEPING IN

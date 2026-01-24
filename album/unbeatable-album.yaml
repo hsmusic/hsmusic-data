@@ -193,10 +193,6 @@ Contributors:
 Duration: 3:59
 URLs:
 - https://dcellgames.bandcamp.com/track/waiting-2
-Referenced Tracks:
-- track:waiting-unbeatable
-Sampled Tracks:
-- track:waiting-unbeatable
 Lyrics: |-
     da da da da da da da da da
     da da da da da da da da da
@@ -388,6 +384,7 @@ Crediting Sources: |-
     additional synths peformed by [[artist:vasily-nikolaev|vasily nikolaev]]
 ---
 Track: MEMORIZED
+Suffix Directory: true
 Contributors:
 - Rachel Lake (vocals)
 - rj lake (composition, arrangement, lyrics)
@@ -509,6 +506,7 @@ Crediting Sources: |-
     mixed and mastered by [[artist:vasily-nikolaev|vasily nikolaev]]
 ---
 Track: LONER
+Suffix Directory: true
 Date First Released: August 20, 2025
 Duration: 2:22
 Contributors:
@@ -581,7 +579,6 @@ Referencing Sources: |-
     based off of "[[track:intimate-rhythm-doctor|Intimate]]" by [[artist:fizzd|fizzd]]
 ---
 Track: SLEEPING IN
-Suffix Directory: true
 Date First Released: June 7, 2025
 Contributors:
 - Rachel Lake (vocals)
@@ -845,6 +842,7 @@ Referencing Sources: |-
     based on ""[[track:proper-rhythm|PROPER RHYTHM]]"" by [[artist:peak-divide|peak divide]]
 ---
 Track: STOLEN
+Suffix Directory: true
 Contributors:
 - Rachel Lake (composition, vocals)
 - rj lake (composition, arrangement, lyrics, guitars)
@@ -1407,7 +1405,7 @@ URLs:
 Referenced Tracks:
 - BOOKEND [opening version]
 - brain poison (demo)
-- track:waiting-unbeatable
+- WAITING
 - metro [pink line version]
 - EMPTY DIARY
 - track:forever-now-ost
@@ -1727,7 +1725,7 @@ Duration: 2:36
 URLs:
 - https://dcellgames.bandcamp.com/track/forever-when-3
 Referenced Tracks:
-- track:forever-now
+- FOREVER NOW # from this album, not forever now from [ost]
 Lyrics: |-
     <i>D-CELL GAMES:</i> ([Bandcamp lyrics](https://dcellgames.bandcamp.com/track/forever-when))
 
