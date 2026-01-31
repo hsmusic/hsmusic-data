@@ -1147,3 +1147,145 @@ Lyrics: |-
 
     As long as there are stars up above
     I will always be in love!
+---
+Track: Little Anger
+Contributors:
+- Yì Xī
+Duration: 4:07
+URLs:
+- https://www.youtube.com/watch?v=sjthYBEWweQ
+Lyrics: |-
+    Little anger
+    A blessing to be capable of fire
+    A heart of rolling thunder
+    Does it burn you to be
+    So possessed by your heat?
+    Never surely complete
+    Don't I know it?
+
+    Little sadness
+    So easily convinced it's all just madness
+    Your self-inflicted malice
+    Does it scare you to be
+    What the mirror repeats?
+    No pretending, just me!
+    Don't I know it?
+
+    So many selves inside me
+    My self assurance hiding
+    I stumble through me blindly
+    As blind can be
+    Oh, always does it hurt me to be
+    Something secret and seem
+    Never surely complete
+    Don't I know it?
+
+    Oh, little simulacra,
+    The pain it takes to know ya
+    I wish that I could feel you in another way.
+    My darling, my companion, you see
+    Every atom of me
+    Do you like what you see?
+    I don't know it
+
+    Little panic
+    Always a friendly fellow to the manic
+    So caught up on semantics
+    Does it calm you to know
+    Walking wires, tip-toe,
+    When the ground's right below?
+    Don't I know it?
+
+    Little envy
+    Your chartreuse color compliments me nicely
+    But compliments seem likely
+    Does it scare you to be
+    Everything you can be,
+    Never surely complete?
+    Don't I know it?
+
+    So many selves inside me
+    My self assurance hiding
+    I stumble through me blindly
+    As blind can be
+    Oh, always does it hurt me to be
+    Something secret and seem
+    Never surely complete
+    Don't I know it?
+
+    Oh, little simulacra
+    The pain it takes to know ya
+    I wish that i could feel you in another way
+    My darling, my companion, you see
+    Every atom of me
+    Do you like what you see?
+    I don't know it
+
+    Little worry
+    A blessing to be capable of misery
+    Do you believe that truly
+    Does it please you to be
+    Everything that you see
+    Self-fulfilled prophecy
+    Don't I know it?
+
+    Little hatred
+    Placated by a mirror, self-directed
+    No inch of me is sacred
+    Does it burn you to be
+    Everything that you see
+    All the bad parts of me
+    All the air that you breathe
+    In a home you can't leave
+    Does it hurt you to be
+    does it hurt you to be...
+
+    So many selves inside-
+    My self assurance hiding
+    I stumble through me blindly
+    As blind can be
+    Oh, always does it hurt me to be
+    Something secret and seem
+    Never surely complete
+    Don't I know it?
+
+    Oh, little simulacra
+    The pain it takes to know ya
+    I wish that I could feel you
+    In another way
+    My darling, my companion, you see
+    Every atom of me
+    Do you like what you see?
+    I don't know it.
+
+    Oh oh, oh oh...
+
+    My reflection, you see
+    Every atom of me
+    Do you like being me?
+    I don't know it.
+
+    Oh, oh...
+
+    Does it burn you to be
+    So possessed by your heat
+    Never surely complete
+Commentary: |-
+    <i>Jamie Paige:</i> ([_.DS_Store](https://www.dropbox.com/scl/fo/gteniety6x4x6b4ekhhu1/AM-pXosY--7xCz1y3ApCRBo/_MACOSX/Constant%20Companions?dl=0&preview=_.DS_Store&rlkey=ug3jic1x284rw8v1bth14m49n&subfolder_nav_tracking=1))
+
+    There are no secrets.
+
+    <i>bit:</i> (wiki editor, 01/31/2026)
+
+    This is a song that's pieced together from files found alongside the stems of constant companions. Here are the steps to reproduce it:
+    1. Download the stems for constant companions. They can be found in the "stems" section of [jamie's page](https://jamies.page/). There's both a Dropbox and a Google Drive download.
+    2. Open the `_MACOSX` directory and then the `Constant Companions` directory inside.
+    3. Open the .gif files (except da bird.gif) in a hex editor, and remove the gif data (basically everything up until the `RIFF` text, which is the WAV header) and save them with a .wav extension.
+    <img src="media/misc/little-anger-gif-hex-example.png" width="586" height="388">
+    4. Load them into an audio editor or DAW, reverse them and play, you will get Little Anger.
+
+    <i>Jamie Paige:</i> ([Twitter](https://x.com/pamiejaige/status/1922465409468424668), 5/14/2025)
+
+    speaking of which, since its been a week:
+
+    the song that's hiding amongst these stems is called Little Anger; its an outtake from the upcoming [[album:constant-companions-deluxe-edition|**********************************]] that didn't quite fit, so i figured i'd release it as a little puzzle :~)
