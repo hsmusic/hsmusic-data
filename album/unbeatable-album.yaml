@@ -12,6 +12,7 @@ Color: '#FF467F'
 URLs:
 - https://dcellgames.bandcamp.com/album/album
 Groups:
+- UNBEATABLE
 - rj lake
 - Beyond
 Banner Artists:
@@ -860,7 +861,8 @@ Crediting Sources: |-
     mixed and mastered by [[artist:vasily-nikolaev|vasily nikolaev]]
 ---
 Track: FUTURE PEOPLE
-Suffix Directory: true
+Directory: future-people-album
+Suffix Directory: false
 Date First Released: June 7, 2025
 Contributors:
 - Rachel Lake (vocals)
