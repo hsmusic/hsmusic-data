@@ -27,12 +27,13 @@ Color: '#ff9700'
 Groups:
 - Cool and New Music Team
 - Fandom
-Commentary: |-
-    <i>XenoZane:</i>
-    ([volme 7 traiIer](https://www.youtube.com/watch?v=eLJE5d3G5rk))
-
-    <i>Ngame:</i>
-    ([Community listening stream w/ chat](https://www.youtube.com/watch?v=UbUTs-9XMC4&t=2650))
+Music Videos:
+- Title: volme 7 traiIer
+  Directory: trailer
+  URL: https://www.youtube.com/watch?v=eLJE5d3G5rk
+- Title: Community listening stream with chat
+  Directory: community-listening-stream
+  URL: https://www.youtube.com/watch?v=UbUTs-9XMC4&t=2650
 ---
 Section: Diks 1
 ---

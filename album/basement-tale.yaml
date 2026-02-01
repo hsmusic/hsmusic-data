@@ -16,12 +16,15 @@ Color: '#c448a9'
 Groups:
 - Cool and New Music Team
 - Fandom
-Commentary: |-
-    <i>Cecily Renns:</i>
-    [Basement Tale but it has my commentary on top of it, on topics such as music, storytelling and 42](https://www.youtube.com/watch?v=fKG0k-D8MNg)
-    
-    <i>Ngame:</i>
-    ([Community listening stream w/ chat](https://www.youtube.com/watch?v=UbUTs-9XMC4&t=385))
+Music Videos:
+- Title: Basement Tale but it has my commentary on top of it, on topics such as music, storytelling and 42
+  Date: December 17, 2016
+  URL: https://www.youtube.com/watch?v=fKG0k-D8MNg
+  Artists:
+  - Cecily Renns
+- Title: Community listening stream with chat
+  Directory: community-listening-stream
+  URL: https://www.youtube.com/watch?v=UbUTs-9XMC4&t=385
 ---
 Track: In the Beginning
 Suffix Directory: true
