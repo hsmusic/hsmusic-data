@@ -1,4 +1,6 @@
 Album: Greatest Hits 2
+Directory Suffix: greatest-hits-2
+Suffix Track Directories: true
 Date: July 20, 2017, 12:00:01
 Date Added: October 25, 2023
 URLs:
@@ -44,7 +46,8 @@ Commentary: |-
 ---
 Track: Revisit/Rewind
 Main Release: Cool and New Homestuck 3
-Directory: revisit-rewind-greatest-hits-2
+Artists:
+- ostrichlittledungeon
 Duration: 06:13
 Cover Artists:
 - Nights
@@ -57,7 +60,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/revisit-rewind-2
 ---
 Track: Downwards
-Directory: downwards-greatest-hits-2
 Artists:
 - StarlightCalliope
 Duration: 04:35
@@ -76,7 +78,8 @@ URLs:
 ---
 Track: 'Jungle #3'
 Main Release: Cool and New Homestuck 2
-Directory: jungle-3-greatest-hits-2
+Artists:
+- cookiefonster
 Duration: 04:05
 Cover Artists:
 - Shadok
@@ -92,7 +95,8 @@ URLs:
 ---
 Track: le canrival
 Main Release: album:v8lume
-Directory: le-canrival-greatest-hits-2
+Artists:
+- Noisemaker
 Duration: 02:12
 Cover Artists:
 - Scarodactyl
@@ -106,7 +110,8 @@ URLs:
 ---
 Track: Thyme on My Fries
 Main Release: Cool and New Homestuck 2
-Directory: thyme-on-my-fries-greatest-hits-2
+Artists:
+- SplitSuns
 Duration: 03:27
 Cover Artists:
 - Ephemerald
@@ -126,7 +131,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/thyme-on-my-fries-2
 ---
 Track: Midnight
-Directory: midnight-greatest-hits-2
 Artists:
 - TirantBacon
 Duration: 02:49
@@ -144,7 +148,8 @@ URLs:
 ---
 Track: Ringleader
 Main Release: Intermishin
-Directory: ringleader-greatest-hits-2
+Artists:
+- Cryptanark
 Duration: 03:07
 Cover Artists:
 - Nights
@@ -156,7 +161,8 @@ URLs:
 ---
 Track: Conflict (Guitarkind)
 Main Release: album:v8lume
-Directory: conflict-guitarkind-greatest-hits-2
+Artists:
+- Tensei
 Duration: 00:53
 Cover Artists:
 - artist:avocado-canmt
@@ -165,7 +171,8 @@ URLs:
 ---
 Track: Meme Voyage
 Main Release: 'cool and new volume s*x: hair transplant'
-Directory: meme-voyage-greatest-hits-2
+Artists:
+- BitesizeBird
 Duration: 05:05
 Cover Artists:
 - koykoy13
@@ -176,7 +183,8 @@ URLs:
 ---
 Track: '{s] coaster: Rise and fall'
 Main Release: album:v8lume
-Directory: s-coaster-rise-and-fall-greatest-hits-2
+Artists:
+- Ragzilla
 Duration: 02:51
 Cover Artists:
 - Makin
@@ -188,7 +196,8 @@ URLs:
 ---
 Track: Light at the End of the Tunnel
 Main Release: 'call and new 2: locomotif'
-Directory: light-at-the-end-of-the-tunnel-greatest-hits-2
+Artists:
+- Cryptanark
 Duration: 01:32
 Cover Artists:
 - Mathias Ramalho
@@ -200,7 +209,8 @@ URLs:
 ---
 Track: Creatrix
 Main Release: '9'
-Directory: creatrix-greatest-hits-2
+Artists:
+- Cerulean
 Duration: 02:09
 Cover Artists:
 - Makin
@@ -211,7 +221,9 @@ URLs:
 ---
 Track: dabestep ULTRAMEGAMIX w aditionel drumbs
 Main Release: album:v8lume
-Directory: dabestep-ultramegamix-w-aditionel-drumbs-greatest-hits-2
+Artists:
+- TirantBacon
+- Kusoro
 Duration: 01:53
 Cover Artists:
 - groeuf
@@ -221,7 +233,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/dabestep-ultramegamix-w-aditionel-drumbs-2
 ---
 Track: Vegetal Colina
-Directory: vegetal-colina-greatest-hits-2
 Artists:
 - Noisemaker
 Duration: 04:24
@@ -238,7 +249,8 @@ URLs:
 ---
 Track: (intractive?) Character Selection Screen
 Main Release: album:v8lume
-Directory: intractive-character-selection-screen-greatest-hits-2
+Artists:
+- William Leonard
 Duration: 01:28
 Cover Artists:
 - William Leonard
@@ -261,7 +273,8 @@ URLs:
 ---
 Track: It's Bb Major Not A# Major (Because The Song Is In D Minor)
 Main Release: Take My Song in a Completely Different Direction
-Directory: its-bb-major-not-a-major-because-the-song-is-in-d-minor-greatest-hits-2
+Artists:
+- Pipko Fanfare
 Duration: 02:49
 Cover Artists:
 - Makin
@@ -272,7 +285,8 @@ URLs:
 ---
 Track: I Miss You
 Main Release: '9'
-Directory: i-miss-you-greatest-hits-2
+Artists:
+- Kusoro
 Duration: 04:15
 Cover Artists:
 - yazshu
@@ -281,7 +295,8 @@ URLs:
 ---
 Track: hors
 Main Release: Cool and New Homestuck 2
-Directory: hors-greatest-hits-2
+Artists:
+- Hadron
 Duration: 03:17
 Cover Artists:
 - Shadok
@@ -293,8 +308,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/hors-2
 ---
 Track: BLΛNK JIMMEE
+Directory: blank-jimmee # plus suffix
 Main Release: album:canwave-2
-Directory: blank-jimmee-greatest-hits-2
+Artists:
+- SplitSuns
 Duration: 02:13
 Cover Artists:
 - SplitSuns
@@ -305,7 +322,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/bl-nk-jimmee-2
 ---
 Track: Horizontal Headshot
-Directory: horizontal-headshot
+Suffix Directory: false
 Artists:
 - ostrichlittledungeon
 Duration: 02:50
@@ -327,7 +344,8 @@ URLs:
 ---
 Track: Dialup
 Main Release: album:v8lume
-Directory: dialup-greatest-hits-2
+Artists:
+- Gordian
 Duration: 02:13
 Cover Artists:
 - William Leonard
@@ -341,7 +359,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/dialup-2
 ---
 Track: 'Enter with Caliborn: Destruction Adventure'
-Directory: enter-with-caliborn-destruction-adventure-greatest-hits-2
 Artists:
 - Interrobang
 Duration: 05:34
@@ -357,7 +374,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/enter-with-caliborn-destruction-adventure-2
 ---
 Track: '"Libera me" From Bowman'
-Directory: libera-me-from-bowman-greatest-hits-2
 Artists:
 - BitesizeBird
 Contributors:
@@ -377,7 +393,8 @@ URLs:
 ---
 Track: A Basketball Calamity
 Main Release: '9'
-Directory: a-basketball-calamity-greatest-hits-2
+Artists:
+- ft-rj
 Duration: 03:48
 Cover Artists:
 - ft-rj
@@ -390,7 +407,8 @@ URLs:
 ---
 Track: Stab - Stab - Stab
 Main Release: Intermishin
-Directory: stab-stab-stab-greatest-hits-2
+Artists:
+- Interrobang
 Duration: 03:55
 Cover Artists:
 - bobthetacocat
@@ -401,7 +419,8 @@ URLs:
 ---
 Track: Resend
 Main Release: Cool and New Homestuck 3
-Directory: resend-greatest-hits-2
+Artists:
+- Noisemaker
 Duration: 04:48
 Cover Artists:
 - Nights
@@ -413,7 +432,8 @@ URLs:
 ---
 Track: Big Bad Beta Kids
 Main Release: .jpeg
-Directory: big-bad-beta-kids-greatest-hits-2
+Artists:
+- Scarodactyl
 Duration: 00:33
 Cover Artists:
 - Scarodactyl
@@ -427,7 +447,8 @@ URLs:
 ---
 Track: FairyDust (Vrasky's Theme)
 Main Release: album:v8lume
-Directory: fairydust-vraskys-theme-greatest-hits-2
+Artists:
+- TirantBacon
 Duration: 02:52
 Cover Artists:
 - artist:avocado-canmt
@@ -438,7 +459,8 @@ URLs:
 ---
 Track: Amidst This Mess
 Main Release: album:v8lume
-Directory: amidst-this-mess-greatest-hits-2
+Artists:
+- Wheals
 Duration: 03:08
 Cover Artists:
 - William Leonard
@@ -451,7 +473,8 @@ URLs:
 ---
 Track: Nightmare Yard
 Main Release: BOWMANIA
-Directory: nightmare-yard-greatest-hits-2
+Artists:
+- Mathias Ramalho
 Duration: 01:21
 Cover Artists:
 - William Leonard
@@ -464,7 +487,8 @@ URLs:
 ---
 Track: Echo Chamber
 Main Release: '9'
-Directory: echo-chamber-greatest-hits-2
+Artists:
+- SplitSuns
 Duration: 02:33
 Cover Artists:
 - yazshu
@@ -475,7 +499,8 @@ URLs:
 ---
 Track: Starsetter
 Main Release: '9'
-Directory: starsetter-greatest-hits-2
+Artists:
+- WarxTron
 Duration: 02:19
 Cover Artists:
 - SplitSuns
@@ -490,7 +515,8 @@ URLs:
 ---
 Track: Endure
 Main Release: '9'
-Directory: endure-greatest-hits-2
+Artists:
+- Pipko Fanfare
 Duration: 02:59
 Cover Artists:
 - Wights End
@@ -504,7 +530,8 @@ URLs:
 ---
 Track: 1x SHOWDOWN COMBO
 Main Release: album:v8lume
-Directory: 1x-showdown-combo-greatest-hits-2
+Artists:
+- Cryptanark
 Duration: 01:39
 Cover Artists:
 - NyashAlex
@@ -515,7 +542,8 @@ URLs:
 ---
 Track: Bowman-o-Matic
 Main Release: BOWMANIA
-Directory: bowman-o-matic-greatest-hits-2
+Artists:
+- Noisemaker
 Duration: 02:53
 Cover Artists:
 - groeuf
@@ -527,7 +555,8 @@ URLs:
 ---
 Track: Nakkin' Ned's Nice Naks
 Main Release: '9'
-Directory: nakkin-neds-nice-naks-greatest-hits-2
+Artists:
+- Interrobang
 Duration: 02:22
 Cover Artists:
 - Makin
@@ -537,7 +566,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/nakkin-neds-nice-naks-2
 ---
 Track: Fighting Spirit ~Double Ascended Form~
-Directory: fighting-spirit-double-ascended-form-greatest-hits-2
 Artists:
 - cookiefonster
 Duration: 04:19
@@ -559,8 +587,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/fighting-spirit-double-ascended-form-2
 ---
 Track: Nobody kn"o"ws
+Directory: nobody-knows # plus suffix
 Main Release: '9'
-Directory: nobody-knows-greatest-hits-2
+Artists:
+- Ragzilla
 Duration: 03:58
 Cover Artists:
 - Ephemerald
@@ -571,7 +601,8 @@ URLs:
 ---
 Track: Aura of Colour
 Main Release: album:v8lume
-Directory: aura-of-colour-greatest-hits-2
+Artists:
+- olegoleg123
 Duration: 03:43
 Cover Artists:
 - CreatorOfJanespeak
@@ -581,8 +612,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/aura-of-colour-2
 ---
 Track: Moshi Finds a(n) NES
+Directory: moshi-finds-an-nes # plus suffix
 Main Release: track:moshi-finds-a-nes
-Directory: moshi-finds-an-nes-greatest-hits-2
+Artists:
+- cookiefonster
 Duration: 02:11
 Cover Artists:
 - bobthetacocat
@@ -594,7 +627,8 @@ URLs:
 ---
 Track: Two master classes, a knife enthusiast, and a green dude walk into a bar.
 Main Release: '9'
-Directory: two-master-classes-a-knife-enthusiast-and-a-green-dude-walk-into-a-bar-greatest-hits-2
+Artists:
+- WHATISLOSTINTHEMINES
 Duration: 05:44
 Cover Artists:
 - Sozzay
@@ -608,7 +642,8 @@ URLs:
 ---
 Track: Rolla Coasta Tycoon
 Main Release: album:v8lume
-Directory: rolla-coasta-tycoon-greatest-hits-2
+Artists:
+- Pipko Fanfare
 Duration: 00:45
 Cover Artists:
 - Wights End
@@ -618,7 +653,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/rolla-coasta-tycoon-2
 ---
 Track: 1 Through 15
-Directory: 1-through-15-greatest-hits-2
 Artists:
 - BitesizeBird
 Duration: 01:31
@@ -634,8 +668,10 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/1-through-15-2
 ---
 Track: How Jack And Calliope Ran Away From An Imaginary Planet Together While Arguing About Whether It Really Did Exist Or Not
+Directory: how-jack-and-calliope-ran-away # plus suffix
 Main Release: .jpeg
-Directory: how-jack-and-calliope-ran-away-greatest-hits-2
+Artists:
+- Kal-la-kal-la
 Duration: 04:11
 Cover Artists:
 - Linkslittlefriend
@@ -649,7 +685,8 @@ URLs:
 ---
 Track: Of Bork and Yifs
 Main Release: '9'
-Directory: of-bork-and-yifs-greatest-hits-2
+Artists:
+- Viridian
 Duration: 04:29
 Cover Artists:
 - ft-rj
@@ -660,7 +697,7 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/of-bork-and-yifs-2
 ---
 Track: 72.0x SHOWDOWN COMBO
-Directory: 720x-showdown-combo-greatest-hits-2
+Directory: 720x-showdown-combo # plus suffix
 Artists:
 - Cryptanark
 Duration: 05:36
@@ -839,7 +876,8 @@ Lyrics: |-
 ---
 Track: feeling cool and new
 Main Release: '9'
-Directory: feeling-cool-and-new-greatest-hits-2
+Artists:
+- artist:kobacat
 Duration: 02:18
 Cover Artists:
 - Sozzay
@@ -850,7 +888,8 @@ URLs:
 ---
 Track: Excess Express
 Main Release: 'call and new 2: locomotif'
-Directory: excess-express-greatest-hits-2
+Artists:
+- Noisemaker
 Duration: 01:14
 Cover Artists:
 - Hadron
@@ -859,7 +898,8 @@ URLs:
 ---
 Track: Despoiled Dunes
 Main Release: '9'
-Directory: despoiled-dunes-greatest-hits-2
+Artists:
+- Wights End
 Duration: 02:09
 Cover Artists:
 - Cloudaria
@@ -870,7 +910,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/despoiled-dunes-2
 ---
 Track: Welcome to Flavortown (Battle Against a Bodacious Foe)
-Directory: welcome-to-flavortown-battle-against-a-bodacious-foe-greatest-hits-2
 Artists:
 - Wheals
 Duration: 04:02
@@ -889,7 +928,9 @@ URLs:
 ---
 Track: o's sekret spageti
 Main Release: '9'
-Directory: os-sekret-spageti-greatest-hits-2
+Artists:
+- TirantBacon
+- Grace Medley
 Duration: 04:40
 Cover Artists:
 - olkiswerve
@@ -900,7 +941,8 @@ URLs:
 ---
 Track: licord eternity
 Main Release: .jpeg
-Directory: licord-eternity-greatest-hits-2
+Artists:
+- Cecily Renns
 Duration: 05:10
 Cover Artists:
 - koykoy13
@@ -913,7 +955,8 @@ URLs:
 ---
 Track: i absolutely loathe this drummer
 Main Release: 'call and new 2: locomotif'
-Directory: i-absolutely-loathe-this-drummer-greatest-hits-2
+Artists:
+- WHATISLOSTINTHEMINES
 Duration: 01:59
 Cover Artists:
 - WHATISLOSTINTHEMINES
@@ -922,7 +965,8 @@ URLs:
 ---
 Track: Sunrise
 Main Release: '9'
-Directory: sunrise-greatest-hits-2
+Artists:
+- Kusoro
 Duration: 03:14
 Cover Artists:
 - XenoZane
@@ -933,7 +977,9 @@ URLs:
 ---
 Track: Bad Credit
 Main Release: BOWMANIA
-Directory: bad-credit-greatest-hits-2
+Artists:
+- Makin (lyrics, vocaloid)
+- Tensei (mixing)
 Duration: 03:38
 Cover Artists:
 - Makin
@@ -944,7 +990,8 @@ URLs:
 ---
 Track: '[s) rose / jef: strife!'
 Main Release: .jpeg
-Directory: s-rose-jef-strife-greatest-hits-2
+Artists:
+- cookiefonster
 Duration: 02:16
 Cover Artists:
 - ft-rj
@@ -956,7 +1003,8 @@ URLs:
 ---
 Track: The Souns of Justis
 Main Release: '9'
-Directory: the-souns-of-justis-greatest-hits-2
+Artists:
+- Viridian
 Duration: 02:59
 Cover Artists:
 - artist:avocado-canmt
@@ -969,7 +1017,8 @@ URLs:
 ---
 Track: Savior of a Lot of Money
 Main Release: BOWMANIA
-Directory: savior-of-a-lot-of-money-greatest-hits-2
+Artists:
+- SplitSuns
 Duration: 02:34
 Cover Artists:
 - Ephemerald
@@ -980,7 +1029,8 @@ URLs:
 ---
 Track: Through Corruption
 Main Release: '9'
-Directory: through-corruption-greatest-hits-2
+Artists:
+- Kusoro
 Duration: 01:35
 Cover Artists:
 - Wights End
@@ -993,7 +1043,8 @@ URLs:
 ---
 Track: Hurt My Finger
 Main Release: 'call and new 2: locomotif'
-Directory: hurt-my-finger-greatest-hits-2
+Artists:
+- Gordian
 Duration: 01:58
 Cover Artists:
 - StarlightCalliope
@@ -1004,7 +1055,8 @@ URLs:
 ---
 Track: Scratching Consequences
 Main Release: Intermishin
-Directory: scratching-consequences-greatest-hits-2
+Artists:
+- TirantBacon
 Duration: 01:45
 Cover Artists:
 - CreatorOfJanespeak
@@ -1015,7 +1067,8 @@ URLs:
 ---
 Track: Andrew Hussie's Wild Ride
 Main Release: '9'
-Directory: andrew-hussies-wild-ride-greatest-hits-2
+Artists:
+- Pipko Fanfare
 Duration: 03:41
 Cover Artists:
 - Shadok
@@ -1028,7 +1081,8 @@ URLs:
 ---
 Track: She's a D8ddy Lon8 L8gs
 Main Release: .jpeg
-Directory: shes-a-d8ddy-lon8-l8gs-greatest-hits-2
+Artists:
+- Mathias Ramalho
 Duration: 05:31
 Cover Artists:
 - Scarodactyl
@@ -1044,7 +1098,8 @@ URLs:
 ---
 Track: Rozepiano
 Main Release: album:v8lume
-Directory: rozepiano-greatest-hits-2
+Artists:
+- Nights
 Duration: 01:47
 Cover Artists:
 - Nights
@@ -1055,7 +1110,8 @@ URLs:
 ---
 Track: Spacetime Starstriker
 Main Release: '9'
-Directory: spacetime-starstriker-greatest-hits-2
+Artists:
+- Cryptanark
 Duration: 02:18
 Cover Artists:
 - artist:avocado-canmt
@@ -1066,7 +1122,8 @@ URLs:
 ---
 Track: Collision Course (Davepeta's Movement)
 Main Release: .jpeg
-Directory: collision-course-davepetas-movement-greatest-hits-2
+Artists:
+- SplitSuns
 Duration: 04:05
 Cover Artists:
 - Shadok
@@ -1080,7 +1137,6 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/collision-course-davepetas-movement-2
 ---
 Track: you have got to be SHITTONG me (temp title)
-Directory: you-have-got-to-be-shittong-me-temp-title-greatest-hits-2
 Always Reference By Directory: true
 Artists:
 - Noisemaker
@@ -1101,7 +1157,11 @@ URLs:
 ---
 Track: MULTI-TRACK DRIFTING ~~LAST STOP~~
 Main Release: 'call and new 2: locomotif'
-Directory: multi-track-drifting-last-stop-greatest-hits-2
+Artists:
+- cookiefonster
+- Wheals
+- Difarem
+- Cecily Renns
 Duration: 12:45
 Cover Artists:
 - Minkt
@@ -1110,7 +1170,8 @@ URLs:
 ---
 Track: 'Rose: Escape'
 Main Release: '9'
-Directory: rose-escape-greatest-hits-2
+Artists:
+- meems
 Duration: 01:46
 Cover Artists:
 - Sozzay
@@ -1127,7 +1188,26 @@ URLs:
 ---
 Track: 7 GRAND END
 Main Release: Cool and New Homestuck 3
-Directory: 7-grand-end-greatest-hits-2
+Artists:
+- Cryptanark
+- artist:kobacat
+- SplitSuns
+- Minish
+- TirantBacon
+- StarlightCalliope
+- Wheals
+- WHATISLOSTINTHEMINES
+- MoreEpicThanYou747
+- Isoleucine
+- ostrichlittledungeon
+- Noisemaker
+- Rom M
+- Cecily Renns
+- cookiefonster
+- Pipko Fanfare
+- Hadron
+- ft-rj
+- Interrobang
 Duration: 09:03
 Cover Artists:
 - Nights
@@ -1144,7 +1224,8 @@ URLs:
 ---
 Track: Savior of the Screaming Dead
 Main Release: Cool and New Homestuck
-Directory: savior-of-the-screaming-dead-greatest-hits-2
+Artists:
+- Griever
 Duration: 04:31
 Cover Artists:
 - Griever
