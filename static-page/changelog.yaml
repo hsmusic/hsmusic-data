@@ -368,12 +368,11 @@ Content: |-
         - [[group:xszelor]], as [[artist:dvojka]], [[artist:highblood]], [[artist:realmite]]: removed album and track credits to [[artist:xszelor]]; *kept* Xszelor in album artwork credits and commentary artists; started crediting these tracks as "by [[artist:xszelor]], as (alias)"
         - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
     - changed various UNBEATABLE-related artist credits (thanks, ruby!)
-        - changed [[artist:peak-divide]] album/release credits to [[artist:unbeatable]] on [[album:unbeatable-demo-tapes]], [[album:future-people]], and [[album:sleeping-in]]
-        - changed [[artist:peak-divide]] track credits to [[artist:unbeatable]] across [[album:unbeatable-demo-tapes]] and [[album:unbeatable-off-beats]]
+        - changed [[artist:peak-divide]] credits to [[artist:unbeatable]] across [[album:unbeatable-demo-tapes]]
+        - changed '[[artist:peak-divide]] featuring [[artist:rachel-lake]]' credit to [[artist:unbeatable]] on [[track:sleeping-in-single]] (but not [[track:future-people-single]])
         - changed [[track:familiar-unbeatable-demo-tapes]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rj-lake]]
-        - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] / [[artist:unbeatable]]
+        - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] (or [[artist:unbeatable]])
         - changed [[track:forever-when-instrumental]] to be by [[artist:unbeatable]], rather than by [[artist:rj-lake]]
-        - changed [[album:future-people]] and [[album:sleeping-in]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rachel-lake]]
     <!-- structural or organizational changes for art tags -->
     - sorted tags which fall under various [[tag:location-classifications]], including [[tag:astronomical-bodies]] and [[tag:locations-in-the-medium]], alphabetically (thanks, Lan!)
     - moved [[tag:deer-desynced]] tag out of removed "Consorts (Desynced)" tag, now directly under [[tag:characters-from-desynced]] instead (thanks, Lan, Jebb!)
@@ -697,6 +696,7 @@ Content: |-
     - changed directory of [[track:forever-now-unbeatable-demo-tapes]] from `forever-now` to `forever-now-unbeatable-demo-tapes`
     - changed directory of [[track:boutique-pokemon-sword-shield]] from `boutique` to `boutique-pokemon-sword-shield`
     - changed directory of [[track:obtained-an-item-pokemon-scarlet-violet]] from `obtained-an-item` to `obtained-an-item-pokemon-scarlet-violet`
+    - changed directory of [[track:future-people-single]] from `future-people` to `future-people-single`
     - changed directory of [[track:sleeping-in-single]] from `sleeping-in` to `sleeping-in-single`
     - changed directory of [[track:do-the-homestuck-demo]] from `do-the-homestuck` to `do-the-homestuck-demo`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainhoenn-version` to `battle-frontier-brain-hoenn-version`
