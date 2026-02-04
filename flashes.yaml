@@ -5727,29 +5727,7 @@ URLs:
 ---
 Act: Desynced
 Directory: desynced
-Color: '#CE3382'
----
-Flash: '[S] SUNRISE. (OLD)'
-Directory: desynced-sunrise-old
-Cover Art File Extension: png
-Date: October 2, 2019
-Featured Tracks:
-- Nouveau Babylonica
-URLs:
-- https://youtu.be/M_NsQu4g2DA
-Contributors:
-- dizzims. (animation)
----
-Flash: '[S] SUNRISE.'
-Directory: desynced-sunrise
-Cover Art File Extension: png
-Date: March 29, 2020
-Featured Tracks:
-- track:sunrise-desynced
-URLs:
-- https://www.youtube.com/watch?v=6YeUrQjQV-o
-Contributors:
-- artist:dizzims (animation)
+Color: '#a185ff'
 ---
 Flash: '[S] Act 1: In The Beginning.'
 Directory: desynced-act-1-in-the-beginning
@@ -5760,29 +5738,31 @@ Featured Tracks:
 - track:in-the-beginning-anthology-ii
 URLs:
 - https://mspfa.com/?s=28296&p=2
-- https://youtu.be/iSS8sRJunqg
+- https://www.youtube.com/watch?v=iSS8sRJunqg
 Contributors:
-- dizzims. (art, animation, sound design)
+- artist:dizzims (art, animation, sound design)
 ---
-Flash: '[S] Desynced'
+Flash: '[S] Desynced.'
 Directory: desynced-desynced
 Cover Art File Extension: png
-Date: November 5, 2019
+Date: November 15, 2025
 Featured Tracks:
-- Daughter (Short Ver.)
+- Breath Suspense
 URLs:
-- https://mspfa.com/?s=28296&p=56
-- https://www.youtube.com/watch?v=MhJRJLt-U0c
+- https://mspfa.com/?s=28296&p=55
+- https://www.youtube.com/watch?v=tmp3dUXEXlY
+Contributors:
+- artist:dizzims (art, animation)
 ---
-Flash: '[S] Kate: Start.'
-Directory: kate-start
+Flash: '[S] Start Up.'
+Directory: start-up
 Cover Art File Extension: png
-Date: November 29, 2019
+Date: November 15, 2025
 Featured Tracks:
 - track:eclipse-desynced
 URLs:
-- https://mspfa.com/?s=28296&p=100
-- https://www.youtube.com/watch?v=2EtI0hub4b0
+- https://mspfa.com/?s=28296&p=98
+- https://www.youtube.com/watch?v=qyOY3ZKIe7A
 Contributors:
 - artist:dizzims (animation)
 ---
@@ -5798,51 +5778,17 @@ URLs:
 Contributors:
 - artist:dizzims (animation)
 ---
-Flash: '[S] Intermission 1. (OLD)'
-Directory: desynced-intermission-1-old
+Flash: '[S] Act 2: Under the Moon.'
+Directory: act-2-under-the-moon
 Cover Art File Extension: png
-Date: January 14, 2020
+Date: December 13, 2025
 Featured Tracks:
-- We'll Be Right Back
+- Under the Moon
 URLs:
-- https://youtu.be/LXV0ArJVJCw
+- https://mspfa.com/?s=28296&p=178
+- https://www.youtube.com/watch?v=M11c3kMqUZ0
 Contributors:
-- dizzims. (animation)
----
-Flash: '[I1] [S] Intermission 1.'
-Directory: desynced-intermission-1
-Cover Art File Extension: png
-Date: November 26, 2021
-Featured Tracks:
-- We'll Be Right Back
-URLs:
-- https://mspfa.com/?s=28296&p=151
-- https://www.youtube.com/watch?v=Qi2mbvd330I
-Contributors:
-- artist:dizzims (animation)
----
-Flash: '[I1] [S] End of Intermission 1.'
-Directory: desynced-end-of-intermission-1
-Cover Art File Extension: png
-Date: January 23, 2020
-Featured Tracks:
-- Your Blood Not Mine (Beta)
-URLs:
-- https://mspfa.com/?s=28296&p=171
-- https://www.youtube.com/watch?v=Esmttv68EfY
-Contributors:
-- artist:dizzims (animation)
----
-Flash: '[S] Kate: Rise. (OLD)'
-Directory: kate-rise-old
-Cover Art File Extension: png
-Date: February 7, 2020
-Featured Tracks:
-- Lullaby for a Drifter
-URLs:
-- https://youtu.be/jeEHuSwqSNU
-Contributors:
-- dizzims. (animation)
+- artist:dizzims (art, animation)
 ---
 Flash: '[S] Kate: Wake Up.'
 Directory: kate-wake-up
@@ -5851,7 +5797,7 @@ Date: August 3, 2023
 Featured Tracks:
 - Inner Demons
 URLs:
-- https://mspfa.com/?s=28296&p=191
+- https://mspfa.com/?s=28296&p=199
 - https://www.youtube.com/watch?v=JP1CZINsW-c
 Contributors:
 - artist:dizzims (art, animation)
@@ -5863,21 +5809,21 @@ Date: March 17, 2020
 Featured Tracks:
 - track:daughter-desynced
 URLs:
-- https://mspfa.com/?s=28296&p=210
+- https://mspfa.com/?s=28296&p=218
 - https://www.youtube.com/watch?v=ICEx7mqgmhk
 Contributors:
 - artist:dizzims (animation)
 ---
-Flash: '[S] But until then.'
-Directory: but-until-then
+Flash: '[S] My Contradiction.'
+Directory: my-contradiction
 Cover Art File Extension: png
-Color: '#AC00F9'
-Date: April 17, 2020
+Color: '#FE0047'
+Date: January 20, 2025
 Featured Tracks:
-- Vantablack
+- Panoptikon
 URLs:
-- https://mspfa.com/?s=28296&p=290
-- https://www.youtube.com/watch?v=VY0YYsjDjyM
+- https://mspfa.com/?s=28296&p=307
+- https://www.youtube.com/watch?v=0T52SZcQoWo
 Contributors:
 - artist:dizzims (art, animation)
 ---
@@ -6024,6 +5970,136 @@ URLs:
 - https://www.youtube.com/watch?v=uo_g0WWIkXQ
 Contributors:
 - artist:dizzims (art, animation, sound design)
+---
+Act: Desynced (Archive)
+Directory: desynced-archive
+Color: '#CE3382'
+---
+Flash: '[S] SUNRISE.'
+Directory: desynced-sunrise-old
+Cover Art File Extension: png
+#Color: '#676767'
+Date: October 2, 2019
+Featured Tracks:
+- Nouveau Babylonica
+URLs:
+- https://www.youtube.com/watch?v=M_NsQu4g2DA
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] SUNRISE.'
+Directory: desynced-sunrise
+Cover Art File Extension: png
+Date: March 29, 2020
+Featured Tracks:
+- track:sunrise-desynced
+URLs:
+- https://www.youtube.com/watch?v=6YeUrQjQV-o
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Desynced'
+Directory: desynced-desynced-old
+Cover Art File Extension: png
+Date: March 29, 2020
+Featured Tracks:
+- Daughter (Short Ver.)
+URLs:
+- https://www.youtube.com/watch?v=MhJRJLt-U0c
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Kate: Start.'
+Directory: kate-start
+Cover Art File Extension: png
+Date: March 29, 2020
+Featured Tracks:
+- track:eclipse-desynced
+URLs:
+- https://www.youtube.com/watch?v=2EtI0hub4b0
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Intermission 1.'
+Directory: desynced-intermission-1-old
+Cover Art File Extension: png
+#Color: '#676767'
+Date: January 14, 2020
+Featured Tracks:
+- We'll Be Right Back
+URLs:
+- https://www.youtube.com/watch?v=LXV0ArJVJCw
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[I1] [S] Intermission 1.'
+Directory: desynced-intermission-1
+Cover Art File Extension: png
+Date: November 26, 2021
+Featured Tracks:
+- We'll Be Right Back
+URLs:
+- https://www.youtube.com/watch?v=Qi2mbvd330I
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[I1] [S] End of Intermission 1.'
+Directory: desynced-end-of-intermission-1
+Cover Art File Extension: png
+Date: January 23, 2020
+Featured Tracks:
+- Your Blood Not Mine (Beta)
+URLs:
+- https://www.youtube.com/watch?v=Esmttv68EfY
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Act 2.'
+Directory: act-2-outdated
+Cover Art File Extension: png
+#Color: '#676767'
+Date: February 1, 2020
+Featured Tracks:
+- Desynced Anthem
+URLs:
+- https://www.youtube.com/watch?v=WBtEdZCTY1c
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Kate: Rise.'
+Directory: kate-rise-old
+Cover Art File Extension: png
+#Color: '#676767'
+Date: February 7, 2020
+Featured Tracks:
+- Lullaby for a Drifter
+URLs:
+- https://www.youtube.com/watch?v=jeEHuSwqSNU
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Just a moment.'
+Directory: just-a-moment
+Cover Art File Extension: png
+#Color: '#676767'
+Date: April 17, 2020
+Featured Tracks:
+- Void of the Moon
+URLs:
+- https://www.youtube.com/watch?v=VY0YYsjDjyM
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] But until then.'
+Directory: but-until-then
+Cover Art File Extension: png
+Date: May 19, 2023
+Featured Tracks:
+- Vantablack
+URLs:
+- https://www.youtube.com/watch?v=VY0YYsjDjyM
+Contributors:
+- artist:dizzims (art, animation)
 ---
 Act: Double Death of the Author
 Directory: double-death-of-the-author
