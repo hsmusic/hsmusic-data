@@ -3,8 +3,9 @@ Directory: s1
 Color: '#4ac925'
 List Terminology: Flashes in this act
 ---
-Act: Act 1 - The Note Desolation Plays
-Directory: a1
+Act: Act 1
+Title: The Note Desolation Plays
+Short: A1
 Color: '#7799ff'
 ---
 Flash: 'John: Examine games on CD rack.'
@@ -81,8 +82,9 @@ URLs:
 Featured Tracks:
 - Sburban Countdown
 ---
-Act: Act 2 - Raise of the Conductor's Baton
-Directory: a2
+Act: Act 2
+Title: Raise of the Conductor's Baton
+Short: A2
 Color: '#ff5555'
 ---
 Flash: '[S] YOU THERE. BOY.'
@@ -236,8 +238,9 @@ URLs:
 Featured Tracks:
 - Explore
 ---
-Act: Act 3 - Insane Corkscrew Haymakers
-Directory: a3
+Act: Act 3
+Title: Insane Corkscrew Haymakers
+Short: A3
 Color: '#55ff77'
 ---
 Flash: '[S] Jade: Play a silly flute refrain.'
@@ -403,7 +406,8 @@ URLs:
 Featured Tracks:
 - Sburban Jungle
 ---
-Act: Intermission - Don't Bleed on the Suits.
+Act: Intermission
+Title: Don't Bleed on the Suits.
 Directory: i1
 Color: '#22cc22'
 ---
@@ -416,8 +420,9 @@ URLs:
 Featured Tracks:
 - Three in the Morning
 ---
-Act: Act 4 - Flight of the Paradox Clones
-Directory: a4
+Act: Act 4
+Title: Flight of the Paradox Clones
+Short: A4
 Color: '#b536da'
 ---
 Flash: '[S] ACT 4 ==>'
@@ -531,11 +536,11 @@ Featured Tracks:
 - Squiddles!
 - Friendship Aneurysm
 ---
-Act: Act 5 Act 1 - MOB1US DOUBL3 R34CH4ROUND
-Act HTML: >-
-    Act 5 Act 1 - <span style="color: #008b8b">MOB1US DOUBL3 R34CH4ROUND</span>
-Directory: a5a1
+Act: Act 5 Act 1
+Title: MOB1US DOUBL3 R34CH4ROUND
+Short: A5A1
 Color: '#8585ff'
+Title Color: '#008b8b'
 ---
 Flash: '[S???] ======>'
 Page: '2070'
@@ -570,11 +575,11 @@ URLs:
 Featured Tracks:
 - Crystamanthequins
 ---
-Act: Act 5 Act 2 - He is already here.
-Act HTML: >-
-    Act 5 Act 2 - <span style="color: #2ed73a">He is already here.</span>
-Directory: a5a2
+Act: Act 5 Act 2
+Title: He is already here.
+Short: A5A2
 Color: '#ff0000'
+Title Color: '#2ed73a'
 ---
 Flash: '[S] ACT 5 ACT 2 ==>'
 Page: '2626'
@@ -931,7 +936,8 @@ URLs:
 Featured Tracks:
 - Cascade
 ---
-Act: Intermission 2 - The Man in the Cairo Overcoat.
+Act: Intermission 2
+Title: The Man in the Cairo Overcoat.
 Directory: i2
 Color: '#22cc22'
 ---
@@ -949,8 +955,9 @@ Directory: s2
 Color: '#3796c6'
 List Terminology: Flashes in this act
 ---
-Act: Act 6 Act 1 - Through Broken Glass
-Directory: a6a1
+Act: Act 6 Act 1
+Title: Through Broken Glass
+Short: A6A1
 Color: '#7799ff'
 ---
 Flash: '[S] ACT 6'
@@ -977,8 +984,9 @@ URLs:
 Featured Tracks:
 - Windchime Foley
 ---
-Act: Act 6 Intermission 1 - corpse party
-Directory: a6i1
+Act: Act 6 Intermission 1
+Title: corpse party
+Short: A6I1
 Color: '#eb0000'
 ---
 Flash: '[S][A6I1] Karkat: Mental breakdown.'
@@ -1032,8 +1040,9 @@ URLs:
 Featured Tracks:
 - Infinity Mechanism
 ---
-Act: Act 6 Act 2 - Your shit is wrecked.
-Directory: a6a2
+Act: Act 6 Act 2
+Title: Your shit is wrecked.
+Short: A6A2
 Color: '#f2a400'
 ---
 Flash: '[S] Roxy: Sleepwalk.'
@@ -1088,8 +1097,9 @@ Featured Tracks:
 - Another Jungle
 - A Taste for Adventure
 ---
-Act: Act 6 Intermission 2 - penis ouija
-Directory: a6i2
+Act: Act 6 Intermission 2
+Title: penis ouija
+Short: A6I2
 Color: '#e00707'
 ---
 Flash: '[S][A6I2] ???'
@@ -1100,8 +1110,9 @@ URLs:
 Featured Tracks:
 - weird moody horse shit
 ---
-Act: Act 6 Act 3 - Nobles
-Directory: a6a3
+Act: Act 6 Act 3
+Title: Nobles
+Short: A6A3
 Color: '#8899cc'
 ---
 Flash: '[S] ACT 6 ACT 3'
@@ -1191,8 +1202,9 @@ URLs:
 Featured Tracks:
 - Eternity Served Cold
 ---
-Act: Act 6 Intermission 3 - Ballet of the Dancestors
-Directory: a6i3
+Act: Act 6 Intermission 3
+Title: Ballet of the Dancestors
+Short: A6I3
 Color: '#b536da'
 ---
 Flash: '[S] ACT 6 INTERMISSION 3'
@@ -1333,8 +1345,9 @@ URLs:
 Featured Tracks:
 - Killed by BR8K Spider!!!!!!!!
 ---
-Act: Act 6 Act 4 - Void
-Directory: a6a4
+Act: Act 6 Act 4
+Title: Void
+Short: A6A4
 Color: '#cccccc'
 ---
 Flash: '[S] ACT 6 ACT 4'
@@ -1353,8 +1366,9 @@ Date: November 14, 2012
 Featured Tracks:
 - Eternity Served Cold
 ---
-Act: Act 6 Intermission 4 - Dead
-Directory: a6i4
+Act: Act 6 Intermission 4
+Title: Dead
+Short: A6I4
 Color: '#777777'
 ---
 Flash: '[S][A6I4] ==>'
@@ -1406,8 +1420,9 @@ Date: November 25, 2012
 Featured Tracks:
 - Elevatorstuck
 ---
-Act: Act 6 Act 5 - Of Gods and Tricksters
-Directory: a6a5
+Act: Act 6 Act 5
+Title: Of Gods and Tricksters
+Short: A6A5
 Color: '#ffee00'
 ---
 Flash: '[S] ACT 6 ACT 5'
@@ -1508,11 +1523,11 @@ URLs:
 Featured Tracks:
 - A Very Trickster Mode Christmas (With Fancy Santas)
 ---
-Act: Act 6 Intermission 5 - I'M PUTTING YOU ON SPEAKER CRAB.
-Act HTML: >-
-    Act 6 Intermission 5 - <span style="color: #929292">I'M PUTTING YOU ON SPEAKER CRAB.</span>
-Directory: a6i5
+Act: Act 6 Intermission 5
+Title: I'M PUTTING YOU ON SPEAKER CRAB.
+Short: A6I5
 Color: '#77ff88'
+Title Color: '#929292'
 ---
 Flash: '[S][A6I5] BEGIN INTERFISHIN'
 Page: '5981'
@@ -1544,8 +1559,9 @@ URLs:
 Featured Tracks:
 - A Taste for Adventure
 ---
-Act: Act 6 Act 6 Act 1 - HOMOSUCK
-Directory: a6a6a1
+Act: Act 6 Act 6 Act 1
+Title: HOMOSUCK
+Short: A6A6A1
 Color: '#2ed73a'
 ---
 Flash: '[S] ACT 6 ACT 6'
@@ -1556,8 +1572,9 @@ URLs:
 Featured Tracks:
 - Homosuck Anthem
 ---
-Act: Act 6 Act 6 Intermission 1 - Stardust
-Directory: a6a6i1
+Act: Act 6 Act 6 Intermission 1
+Title: Stardust
+Short: A6A6I1
 Color: '#dddddd'
 ---
 Flash: '[S] ACT 6 ACT 6 INTERMISSION 1'
@@ -1578,8 +1595,9 @@ URLs:
 Featured Tracks:
 - Elevatorstuck
 ---
-Act: Act 6 Act 6 Intermission 2 - theres problems
-Directory: a6a6i2
+Act: Act 6 Act 6 Intermission 2
+Title: theres problems
+Short: A6A6I2
 Color: '#e00707'
 ---
 Flash: '[S][A6A6I2] ====>'
@@ -1589,8 +1607,9 @@ Date: September 3, 2013
 Featured Tracks:
 - track:fuchsia-ruler
 ---
-Act: Act 6 Act 6 Intermission 3 - GAME OVER
-Directory: a6a6i3
+Act: Act 6 Act 6 Intermission 3
+Title: GAME OVER
+Short: A6A6I3
 Color: '#dddddd'
 ---
 Flash: '[S] GAME OVER.'
@@ -1609,8 +1628,9 @@ URLs:
 Featured Tracks:
 - track:carne-vale
 ---
-Act: Act 6 Act 6 Act 4 - DARK NIGHT OF THE FEELINGS
-Directory: a6a6a4
+Act: Act 6 Act 6 Act 4
+Title: DARK NIGHT OF THE FEELINGS
+Short: A6A6A4
 Color: '#2ed73a'
 ---
 Flash: '[S] BYE FOREVER, ALMOST.'
@@ -1621,11 +1641,11 @@ Cover Art File Extension: png
 Featured Tracks:
 - Warhammer of Zillyhoo
 ---
-Act: Act 6 Act 6 Intermission 4 - F1X TH1S
-Act HTML: >-
-    Act 6 Act 6 Intermission 4 - <span style="color: #008b8b">F1X TH1S</span>
-Directory: a6a6i4
+Act: Act 6 Act 6 Intermission 4
+Title: F1X TH1S
+Short: A6A6I4
 Color: '#4466ff'
+Title Color: '#008b8b'
 ---
 Flash: '[S][A6A6I4] ====>'
 Page: '7086'
@@ -1659,8 +1679,9 @@ URLs:
 Featured Tracks:
 - Not a creature was stirring
 ---
-Act: Act 6 Act 6 Act 5 - MASTERPIECE
-Directory: a6a6a5
+Act: Act 6 Act 6 Act 5
+Title: MASTERPIECE
+Short: A6A6A5
 Color: '#55ff00'
 ---
 Flash: '[S] ACT 6 ACT 6 ACT 5'
@@ -1680,11 +1701,11 @@ URLs:
 Featured Tracks:
 - Hello Zepp
 ---
-Act: Act 6 Act 6 Intermission 5 - She's 8ack
-Act HTML: >-
-    Act 6 Act 6 Intermission 5 - <span style="color: #1076a2">She's 8ack</span>
-Directory: a6a6i5
+Act: Act 6 Act 6 Intermission 5
+Title: She's 8ack
+Short: A6A6I5
 Color: '#00ffff'
+Title Color: '#1076a2'
 ---
 Flash: '[S] ACT 6 ACT 6 INTERMISSION 5'
 Page: '7449'
@@ -1734,11 +1755,11 @@ URLs:
 Featured Tracks:
 - Do You Remem8er Me
 ---
-Act: Act 6 Act 6 Act 6 - Collide.
-Act HTML: >-
-    Act 6 Act 6 Act 6 - <span style="color: #ff0000">Collide.</span>
-Directory: a6a6a6
+Act: Act 6 Act 6 Act 6
+Title: Collide.
+Short: A6A6A6
 Color: '#ee1100'
+Title Color: '#ff0000'
 ---
 Flash: '[S] Collide.'
 Page: '8087'
@@ -1771,11 +1792,11 @@ Featured Tracks:
 - Eternity, Served Cold (Canon Edit)
 - track:heir-of-grief-collide
 ---
-Act: Act 7 - The Rapture & Post Canon
-Act HTML: >-
-    Act 7 - <span style="color: #c7ff43">The Rapture</span><br><i>&amp; Post Canon</i>
-Directory: a7
+Act: Act 7
+Title: The Rapture
+Short: A7
 Color: '#dddddd'
+Title Color: '#c7ff43'
 ---
 Flash: '[S] ACT 7'
 Page: '8127'
@@ -1788,6 +1809,9 @@ URLs:
 - https://youtu.be/FevMNMwvdPw
 Featured Tracks:
 - Overture (Canon Edit)
+---
+Act: Post Canon
+Color: '#dddddd'
 ---
 Flash: '[S] ==>'
 Page: '8129'
@@ -4463,8 +4487,7 @@ URLs:
 - https://mspfa.com/?s=24551&p=1872
 - https://www.youtube.com/watch?v=2E9p-wcaroc
 ---
-Act: "Vast <span style=\"color: #789300\">Error</span>"
-Directory: vast-error
+Act: Vast Error
 Color: '#D66B00'
 ---
 Flash: '[S] Arcjec: Recover.'
