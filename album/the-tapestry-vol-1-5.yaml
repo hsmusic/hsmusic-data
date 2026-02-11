@@ -23,6 +23,13 @@ Banner File Extension: png
 Banner Style: |-
     image-rendering: pixelated;
     image-rendering: crisp-edges;
+Art Tags:
+- Alime Lyranell (The Tapestry)
+- Handa Halminth (The Tapestry)
+- Sosav Frauhoul (The Tapestry)
+- Oenia Acanenda (The Tapestry)
+- Deime Lyranell (The Tapestry)
+- Liminocre (The Tapestry)
 Color: '#fdb200'
 Groups:
 - Monckat
@@ -36,6 +43,8 @@ Section: Main album
 ---
 Track: Hollow Skies/Tower Merge
 Duration: 3:27
+Art Tags:
+- Liminocre (The Tapestry)
 Referenced Tracks:
 - Hollow Skies
 - Amnsomnia
@@ -46,6 +55,9 @@ URLs:
 ---
 Track: Siltbound Dragonfly
 Duration: 3:34
+Art Tags:
+- Sosav Frauhoul (The Tapestry)
+- Fata Morgana (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/siltbound-dragonfly
 ---
@@ -53,6 +65,8 @@ Track: Situator
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 3:06
+Art Tags:
+- Amnsomn (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/situator
 Commentary: |-
@@ -61,6 +75,9 @@ Commentary: |-
 ---
 Track: Voidsigh
 Duration: 2:54
+Art Tags:
+- Liminocre (The Tapestry)
+- Carnival Space (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/voidsigh
 ---
@@ -68,16 +85,28 @@ Track: Dissolute
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:33
+Art Tags:
+- Alime Lyranell (The Tapestry)
+- Siltsphere (The Tapestry)
+- Hyphonese Rotary Rocket (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/dissolute
 ---
 Track: Waversoul
 Duration: 3:13
+Art Tags:
+- Typheus
+- Carapaced Despot (The Tapestry)
+- The Wandering Soul (The Tapestry)
+- Spawnlings (The Tapestry)
+- Setyr (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/waversoul
 ---
 Track: Painted Canyon
 Duration: 1:15
+Art Tags:
+- Painted Canyon (The Tapestry)
 Referenced Tracks:
 - track:pickaxe-the-tapestry
 - track:beacon-the-tapestry
@@ -89,6 +118,8 @@ URLs:
 ---
 Track: From Briskwind
 Duration: 1:05
+Art Tags:
+- Briskwind (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/from-briskwind
 ---
@@ -96,6 +127,10 @@ Track: Discovery
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:01
+Art Tags:
+- Fata Morgana (The Tapestry)
+- Hanaway (The Tapestry)
+- Liminocre (The Tapestry)
 URLs:
 - https://monckat.bandcamp.com/track/discovery
 ---
@@ -112,3 +147,5 @@ Referenced Tracks:
 - track:doctor
 #- a song from a karkat goes to a convention flash that i think got removed
 - Sunslammer
+Art Tags:
+- MSPFA Logo
