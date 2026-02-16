@@ -1,6 +1,8 @@
 Album: Cookiefonster's 2016 Famitracker Covers (mostly Homestuck)
 Directory: cookiefonsters-2016-famitracker-covers
 Directory Suffix: famitracker
+Suffix Track Directories: true
+Reference Tracks By Directory: always
 Date: January 1, 2017
 Date Added: April 13, 2024
 URLs:
@@ -17,27 +19,34 @@ Color: '#00E700'
 Groups:
 - Fandom
 Commentary: |-
-    <i>cookiefonster:</i>
+    <i>cookiefonster:</i> ([Bandcamp about blurb](https://cookiefonster.bandcamp.com/album/cookiefonsters-2016-famitracker-covers-mostly-homestuck))
 
     A collection of all my finished chiptune covers from 2016, sorted in chronological order. Most of them are on my YouTube but there's some that I never released because I didn't feel they were worth publishing there.
 
-    Track 9 has minor changes from its upload on YouTube.
+    [[track:ascend-famitracker|Track 9]] has minor changes from its upload on YouTube.
 
-    <i>cookiefonster:</i> (9/7/2017 edit)
+    <i>cookiefonster:</i> ([Bandcamp about blurb](https://cookiefonster.bandcamp.com/album/cookiefonsters-2016-famitracker-covers-mostly-homestuck), patch note, 9/7/2017)
+
     Bandcamp now only has covers from Homestuck and related fanworks; other ones I made at that time are bonus tracks.
 
-    <i>cookiefonster:</i> (1/27/2019 edit)
+    <i>cookiefonster:</i> ([Bandcamp about blurb](https://cookiefonster.bandcamp.com/album/cookiefonsters-2016-famitracker-covers-mostly-homestuck), patch note, 1/27/2019)
+
     Renamed the album again. Futurama 8-bit cover is no longer a bonus track but the rest still are.
 
-    <i>cookiefonster:</i> (5/28/2021 edit)
+    <i>cookiefonster:</i> ([Bandcamp about blurb](https://cookiefonster.bandcamp.com/album/cookiefonsters-2016-famitracker-covers-mostly-homestuck), patch note, 9/7/2017, edit)
+
     No more bonus tracks, everything on the album is publicly visible again without needing to download the album.
 
     <i>Jebb:</i> (wiki editor, 12/9/2023)
+
     All of the track art for this album has been taken from the YouTube uploads of the tracks.
 ---
 Track: Let's All Rock the Heist
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Homestuck - Let's All Rock the Heist
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-lets-all-rock-the-heist)
 Duration: 4:13
 Cover Art Dimensions: 904x786
 URLs:
@@ -55,13 +64,23 @@ Commentary: |-
     Here's an 8-bit remix of [[track:lets-all-rock-the-heist|a Homestuck song]]. Unlike my previous 8-bit covers, this one was made using Famitracker, which many consider to be a more legitimate way to make 8-bit music than stuff like GXSCC.
 ---
 Track: Another Jungle
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Homestuck - Another Jungle
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-another-jungle)
+- Name: >-
+    Homestuck: Another Jungle (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/1J9EhfZGroU), minus "[OLD VERSION]"
 Duration: 4:35
-Cover Art Dimensions: 1866x1433
 URLs:
 - https://cookiefonster.bandcamp.com/track/homestuck-another-jungle
 - https://youtu.be/1J9EhfZGroU
+Track Artwork:
+  Dimensions: 1866x1433
+  Source: >-
+    [YouTube](https://youtu.be/1J9EhfZGroU)
 Referenced Tracks:
 - Another Jungle
 Additional Files:
@@ -78,8 +97,11 @@ Commentary: |-
     I've remade this cover five years after the initial upload. Link to the new version: [(YouTube link)](https://youtu.be/1Ym2UGBJ02Q)
 ---
 Track: Sburban Countdown
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Homestuck - Sburban Countdown
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-sburban-countdown)
 Has Cover Art: false
 Duration: 0:38
 URLs:
@@ -88,18 +110,28 @@ Referenced Tracks:
 - Sburban Countdown
 ---
 Track: Oppa Toby Style
-Suffix Directory: true
-Always Reference By Directory: true
-Art Tags:
-- Roxy
-- John
-- The Condesce
-- Jasprose
-- John's nanna
+Additional Names:
+- Name: >-
+    Homestuck - Oppa Toby Style
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-oppa-toby-style)
+- Name: >-
+    Homestuck: Oppa Toby Style (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/4MzHtjBarjc)
 Duration: 5:34
 URLs:
 - https://cookiefonster.bandcamp.com/track/homestuck-oppa-toby-style
 - https://youtu.be/4MzHtjBarjc
+Track Artwork:
+  Source: >-
+    [YouTube](https://youtu.be/4MzHtjBarjc)
+  Tags:
+  - Roxy
+  - John
+  - The Condesce
+  - Jasprose
+  - John's nanna
 Referenced Tracks:
 - Oppa Toby Style
 Additional Files:
@@ -112,14 +144,24 @@ Commentary: |-
     An 8-bit cover of [[Oppa Toby Style]], one of the four songs used in the Homestuck animation [[flash:8087|[S] Collide]], made using Famitracker. I'm very proud of this one, even looking back a year and a half later, and I'm happy it got as popular as it did.
 ---
 Track: Mutiny
-Suffix Directory: true
-Always Reference By Directory: true
-Art Tags:
-- Becquerel
+Additional Names:
+- Name: >-
+    Homestuck (removed) - Mutiny
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-removed-mutiny)
+- Name: >-
+    Homestuck (removed): Mutiny (Famitracker 8 Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/qZ3EKZrSgkM)
 Duration: 2:51
 URLs:
 - https://cookiefonster.bandcamp.com/track/homestuck-removed-mutiny
 - https://youtu.be/qZ3EKZrSgkM
+Track Artwork:
+  Source: >-
+    [YouTube](https://youtu.be/qZ3EKZrSgkM)
+  Tags:
+  - Becquerel
 Referenced Tracks:
 - track:mutiny
 Additional Files:
@@ -132,14 +174,24 @@ Commentary: |-
     If you didn't know, [[Mutiny]] is a removed Homestuck song made by Bill Bolin, who quit the music team after songs of his were used without permission. Even though it was removed it's still easy to find online and it's a nice song regardless.
 ---
 Track: BL1ND JUST1C3
-Suffix Directory: true
-Always Reference By Directory: true
-Art Tags:
-- Terexi
+Additional Names:
+- Name: >-
+    Homestuck - BL1ND JUST1C3
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-bl1nd-just1c3)
+- Name: >-
+    Homestuck: BL1ND JUST1C3 (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/Ea_85SSRPXo)
 Duration: 2:38
 URLs:
 - https://cookiefonster.bandcamp.com/track/homestuck-bl1nd-just1c3
 - https://youtu.be/Ea_85SSRPXo
+Track Artwork:
+  Source: >-
+    [YouTube](https://youtu.be/Ea_85SSRPXo)
+  Tags:
+  - Terexi
 Referenced Tracks:
 - track:bl1nd-just1c3-1nv3st1g4t1on
 Additional Files:
@@ -156,14 +208,24 @@ Commentary: |-
     In retrospect, over a year after uploading this video (and almost two years after making the cover), it's still one of my favorite covers I've made. I can't believe I didn't upload it here right after I made it.
 ---
 Track: Umbral Ultimatum
-Suffix Directory: true
-Always Reference By Directory: true
-Art Tags:
-- Jade
+Additional Names:
+- Name: >-
+    Homestuck - Umbral Ultimatum
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-umbral-ultimatum)
+- Name: >-
+    Homestuck: Umbral Ultimatum (Famitracker VRC6 8-Bit Cover) (Made in 2016)
+  Annotation: >-
+    [YouTube](https://youtu.be/uL_qf0yO79Q), minus "[OLD VERSION]"
 Duration: 3:31
 URLs:
 - https://cookiefonster.bandcamp.com/track/homestuck-umbral-ultimatum
 - https://youtu.be/uL_qf0yO79Q
+Track Artwork:
+  Source: >-
+    [YouTube](https://youtu.be/uL_qf0yO79Q)
+  Tags:
+  - Jade
 Referenced Tracks:
 - Umbral Ultimatum
 Additional Files:
@@ -182,8 +244,11 @@ Commentary: |-
     2019 REMASTERED VERSION OF THIS COVER: [(YouTube link)](https://www.youtube.com/watch?v=NX2GKdiDh2M)
 ---
 Track: Futurama - Full Theme Song
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Futurama Full Extended Theme Song (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/Gxd4zp7DOb4)
 Has Cover Art: false
 Duration: 4:52
 URLs:
@@ -203,8 +268,11 @@ Commentary: |-
     I'm also really happy that the show itself has an 8-bit rendition of itself so I don't have to make more shitty MS Paint art.
 ---
 Track: Ascend
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Homestuck - Ascend
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-ascend)
 Has Cover Art: false
 Duration: 6:08
 URLs:
@@ -213,8 +281,15 @@ Referenced Tracks:
 - Ascend (Famitracker 8-Bit Cover)
 ---
 Track: 25x SHOWDOWN COMBO
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    cool and new web comic - 25x SHOWDOWN COMBO
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/cool-and-new-web-comic-25x-showdown-combo)
+- Name: >-
+    CaNWC: 25x Showdown Combo (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/Wv3tvRReisc)
 Duration: 4:08
 URLs:
 - https://cookiefonster.bandcamp.com/track/cool-and-new-web-comic-25x-showdown-combo
@@ -231,14 +306,24 @@ Commentary: |-
     An 8-bit cover of [[track:25x-showdown-combo|a song]] from Cool and New Webcomic Volume 1, a satirical music album by fans of Homestuck with some legitimately good songs; this song is one of them. I am contributing to the [[album:cool-and-new-volume-ii|second]] [[album:cool-and-new-volume-2|album]], which as of the publication of this video will be released in five days.
 ---
 Track: Walk-Stab-Walk
-Suffix Directory: true
-Always Reference By Directory: true
-Art Tags:
-- Jack Noir
+Additional Names:
+- Name: >-
+    Homestuck - Walk-Stab-Walk
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-walk-stab-walk)
+- Name: >-
+    Homestuck: Walk-Stab-Walk (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/Go-OFBXP1n8)
 Duration: 3:24
 URLs:
 - https://cookiefonster.bandcamp.com/track/homestuck-walk-stab-walk
 - https://youtu.be/Go-OFBXP1n8
+Track Artwork:
+  Source: >-
+    [YouTube](https://youtu.be/Go-OFBXP1n8)
+  Tags:
+  - Jack Noir
 Referenced Tracks:
 - track:walk-stab-walk-r-and-e
 Additional Files:
@@ -251,8 +336,11 @@ Commentary: |-
     To be honest [[track:walk-stab-walk-r-and-e|this song]] is already largely 8-bit but I don't care, it's a good song and I wanted to cover it regardless.
 ---
 Track: 'Jungle #3'
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    cool and new web comic - Jungle #3
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/cool-and-new-web-comic-jungle-3)
 Has Cover Art: false
 Duration: 4:00
 URLs:
@@ -261,15 +349,25 @@ Referenced Tracks:
 - track:jungle-3
 ---
 Track: Psychedelic Psychodelic
-Suffix Directory: true
-Always Reference By Directory: true
-Art Tags:
-- Jack Noir
-- Lord English
+Additional Names:
+- Name: >-
+    Homestuck (fanmade) - Psychedelic Psychodelic
+  Annotation: >-
+    [Bandcamp](ttps://cookiefonster.bandcamp.com/track/homestuck-fanmade-psychedelic-psychodelic)
+- Name: >-
+    Homestuck: Psychedelic Psychodelic (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/ylPT_eyotEc)
 Duration: 4:50
 URLs:
 - https://cookiefonster.bandcamp.com/track/homestuck-fanmade-psychedelic-psychodelic
 - https://youtu.be/ylPT_eyotEc
+Track Artwork:
+  Source: >-
+    [YouTube](https://youtu.be/ylPT_eyotEc)
+  Tags:
+  - Jack Noir
+  - Lord English
 Referenced Tracks:
 - Psychedelic Psychodelic
 Additional Files:
@@ -284,8 +382,11 @@ Commentary: |-
     Also happy 11/11.
 ---
 Track: Patient
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Homestuck (unused) - Patient
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-unused-patient)
 Has Cover Art: false
 Duration: 0:56
 URLs:
@@ -294,12 +395,22 @@ Referenced Tracks:
 - Patient
 ---
 Track: At the Price of Oblivion
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Homestuck - At the Price of Oblivion
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/homestuck-at-the-price-of-oblivion)
+- Name: >-
+    Homestuck: At the Price of Oblivion (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/qT1pC2Rcc1E)
 Duration: 3:13
 URLs:
 - https://cookiefonster.bandcamp.com/track/homestuck-at-the-price-of-oblivion
 - https://youtu.be/qT1pC2Rcc1E
+Track Artwork:
+  Source: >-
+    [YouTube](https://youtu.be/qT1pC2Rcc1E)
 Referenced Tracks:
 - At The Price of Oblivion
 Additional Files:
@@ -312,12 +423,22 @@ Commentary: |-
     I accidentally made the thumbnail for this video look like a death metal album, ah well. This is still one of the best covers I've done in my opinion. It even has slightly less audio artifacts than usual!
 ---
 Track: Snow Halation
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Love Live! - Snow Halation
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/love-live-snow-halation)
+- Name: >-
+    Snow Halation (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/NWgo9AwmrM0), minus "(OLD VERSION)"
 Duration: 4:07
 URLs:
 - https://cookiefonster.bandcamp.com/track/love-live-snow-halation
 - https://youtu.be/NWgo9AwmrM0
+Track Artwork:
+  Source: >-
+    [YouTube](https://youtu.be/NWgo9AwmrM0)
 Referenced Tracks:
 - Snow halation
 Additional Files:
@@ -342,8 +463,15 @@ Commentary: |-
     Seven years later, I remade this cover: [(YouTube link)](https://youtu.be/GqMf49wvYaU)
 ---
 Track: Ruins
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Undertale - Ruins
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/undertale-ruins)
+- Name: >-
+    [Made in 2016] Ruins - Undertale (2A03 8-bit) (Warning: Not Good)
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/cookiefonster-archive/undertale-ruins)
 Has Cover Art: false
 Duration: 1:24
 URLs:
@@ -353,8 +481,15 @@ Referenced Tracks:
 - track:ruins-undertale
 ---
 Track: Alphys
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    Undertale - Alphys
+  Annotation: >-
+    [Bandcamp](https://cookiefonster.bandcamp.com/track/undertale-alphys)
+- Name: >-
+    Undertale - Alphys (Famitracker 8-Bit Cover)
+  Annotation: >-
+    [YouTube](https://youtu.be/1LxCbEsyLjY)
 Has Cover Art: false
 Duration: 1:24
 URLs:
