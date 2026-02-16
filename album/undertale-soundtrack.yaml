@@ -235,7 +235,7 @@ Commentary: |-
 ---
 Track: Shop
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 0:50
 URLs:
 - https://tobyfox.bandcamp.com/track/shop
@@ -281,7 +281,7 @@ Referenced Tracks:
 ---
 Track: Premonition
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 1:01
 URLs:
 - https://tobyfox.bandcamp.com/track/premonition
@@ -335,7 +335,7 @@ Referenced Tracks:
 ---
 Track: Memory
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 1:15
 URLs:
 - https://tobyfox.bandcamp.com/track/memory
@@ -409,7 +409,7 @@ Referenced Tracks:
 ---
 Track: Chill
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 0:56
 URLs:
 - https://tobyfox.bandcamp.com/track/chill
@@ -522,7 +522,7 @@ Referenced Tracks:
 ---
 Track: Hotel
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 1:27
 URLs:
 - https://tobyfox.bandcamp.com/track/hotel
@@ -543,7 +543,7 @@ Referenced Tracks:
 ---
 Track: Confession
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 0:42
 URLs:
 - https://tobyfox.bandcamp.com/track/confession
@@ -759,7 +759,7 @@ URLs:
 ---
 Track: Barrier
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 0:31
 URLs:
 - https://tobyfox.bandcamp.com/track/barrier
@@ -808,7 +808,7 @@ Referenced Tracks:
 ---
 Track: Finale
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 1:52
 URLs:
 - https://www.youtube.com/watch?v=5qajT8lS2ok
@@ -1423,7 +1423,7 @@ Referenced Tracks:
 ---
 Track: Respite
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 1:54
 URLs:
 - https://www.youtube.com/watch?v=USVk9tGQXbo
