@@ -302,6 +302,7 @@ Content: |-
     - added background to [[album:waiting-for-the-night-svix-mix]] (thanks, Jebb!)
     <!-- art tag additions -->
     - added character tags: [[tag:ethan-adminstuck]], [[tag:jackson-adminstuck]], [[tag:jane-dave-janestuck]], [[tag:jane-jade-janestuck]], [[tag:jane-john-janestuck]], [[tag:jane-rose-janestuck]], [[tag:jane-roxy-janestuck]], [[tag:jordan-adminstuck]], [[tag:matt-adminstuck]] (thanks, Lan, Lilith!)
+    - added location tags: [[tag:imperial-battleship]]
     <!-- additional name additions -->
     - added Japanese-release additional names across [[group:undertale-and-deltarune]] as well as [[artist:pokemon]] album releases (thanks, ruby!)
     - added additional names to tracks: (thanks, Lan, Jackie, Whisper, Lilith!)
@@ -311,6 +312,7 @@ Content: |-
         - [[track:capricious-mistress]] (Bandcamp, YouTube, SoundCloud)
         - [[track:fuchsia-ruler]] (Bandcamp)
         - [[track:timeout-beforus]] (working title)
+        - [[track:purple-and-purple]] (name in booklet)
         - [[track:oh-where-are-my-manners]] (normalized)
         - [[track:memorialisation]] and [[track:shipwreck-time-and-tide]] (Bandcamp)
         - [[track:old-world]] and [[track:losing-heart]] (Bandcamp)
@@ -420,6 +422,7 @@ Content: |-
     - changed track credits across [[album:chaos-sisters-original-soundtrack]] to credit [[artist:tukeart]] as Tuukka Saarenketo
     <!-- structural or organizational changes for art tags -->
     - sorted tags which fall under various [[tag:location-classifications]], including [[tag:astronomical-bodies]] and [[tag:locations-in-the-medium]], alphabetically (thanks, Lan!)
+    - moved [[tag:battleship-condescension]] tag under new [[tag:imperial-battleship]] tag, still nested under [[tag:mobile-locations-homestuck]] (thanks, Lan!)
     - moved [[tag:deer-desynced]] tag out of removed "Consorts (Desynced)" tag, now directly under [[tag:characters-from-desynced]] instead (thanks, Lan, Jebb!)
     - reorganized character tags under [[tag:undertale-and-deltarune-media]] across the board (thanks, ruby, Lan!)
     <!-- miscellaneous data changes -->
@@ -489,6 +492,8 @@ Content: |-
     - fixed [[track:bowstutzlogic]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:lore-2-the-revengning]] and [[track:savior-of-a-lot-of-money]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:secretz-barz]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:the-disciples-new-beginning]] not referencing [[track:serenade-vol8]] and [[track:requited]] (thanks, Lan!)
+    - fixed [[track:black-heart-green-dress]] referencing [[track:amen-brother]] and [[track:temporal-shenanigans]], instead of sampling them (thanks, Lan!)
     - fixed [[track:your-quest-bed]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:good-old-hornless-jerryatric]] not referencing [[track:seinfeld-theme]] (thanks, Lilith!)
     - fixed [[track:farewell-but-not-goodbye]] not referencing [[track:curtain-call]] (thanks, Lilith, Sprink!)
@@ -697,7 +702,15 @@ Content: |-
     - added [[tag:jack-noir]] tag to [[track:what-a-daring-dream]] (thanks, Meulanie, Tangle!)
     - added [[tag:mind]] and [[tag:light]] tags to [[track:trial-and-execution]] (thanks, Makin!)
     - added [[tag:space]] tag to [[album:homestuck-vol-8]] (thanks, Celeste, Lan!)
+    - added [[tag:imperial-battleship]] tag to [[track:another-jungle]] (thanks, Lan!)
+    - added [[tag:breath]], [[tag:space]], and [[tag:time]] tags to [[track:busting-makes-me-feel-good]] (thanks, Lan!)
     - added [[tag:red-miles]] tag to [[track:scratchless-scraps]] (thanks, Lan!)
+    - removed [[tag:the-signless]] tag from [[track:disc2-ancestral]] ([[album:ancestral]]; thanks, Lan!)
+    - added [[tag:dragon-cane]] and [[tag:pink-moon]] tags to [[track:just1c3-r41ns-from-4bov3]] (thanks, Lan!)
+    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:pyrrhic-rust]] (thanks, Lan!)
+    - added [[tag:dragon-cane]] tag to [[track:cardinal-fyre]] (thanks, Lan!)
+    - added [[tag:imperial-battleship]] tag to [[track:preach-ancestral]] (thanks, Lan!)
+    - added [[tag:battleship-condescension]] tag to [[track:the-doom-of-the-planets-reprise]] (thanks, Lan!)
     - added [[tag:cue-ball]] tag to [[track:aura-of-colour-lofam4]] (thanks, FF!)
     - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer-press-play]] ([[album:s-press-play]]), and [[track:urban-jungle]] (thanks, Lan!)
     - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[album:friendsim-2-volume-1]] (thanks, Lilith!)
