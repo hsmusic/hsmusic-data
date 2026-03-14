@@ -93,7 +93,7 @@ Content: |-
     - added tooltips to the "also released on" line on track info pages, so you can see how much earlier or later the other releases came, and know if the track is named differently between releases
     - made reference lists swap out tracks for an alternate release of the same track within the album you're currently viewing, ex. you can jump between [[track:showtime-piano-refrain-vol-1-4]] and [[track:showtime-original-mix-vol-1-4]] while staying in [[album:homestuck-vol-1-4]], now
     - expanded custom support for media elements in content text (e.g. commentary), with support for full-width images and videos, "nameless" audios which hide insubstantial filename, and inline / non-boxed videos
-    - adjusted the drop shadow for the main page element, so it's just a little deeper near to the page itself
+    - adjusted the drop shadow and border effects for the main page element, so it's lifted off the background a little more clearly
     - adapted the page opacity to album wallpaper elements, keeping text and layout legible while letting brighter, bolder, and deeper colors show in more expressive ways
     - added support for <<generic tooltips:very cool>> in content text anywhere, but mostly for the changelog
     - added [[media:misc/changelog/release-dividing-line.png|decorative dividing line]] after track lists on album info pages
