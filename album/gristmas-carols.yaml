@@ -30,9 +30,12 @@ Banner Artists:
 - Cadalyst
 Banner Dimensions: 1100x180
 Banner File Extension: png
-Wallpaper Style: 'opacity: 0.65;'
+Banner Style: |-
+    --short-banner-alignment: 93%;
 Wallpaper Artists:
 - Ephemerald
+Wallpaper Style: |-
+    opacity: 0.65;
 Additional Files:
 - Title: Album Booklet
   Files:

@@ -156,14 +156,17 @@ Commentary: |-
 Banner Artists:
 - Lexxy
 - Niklink (edits for wiki)
-Banner Dimensions: 1100x203
 Banner File Extension: png
+Banner Dimensions: 1100x203
+Banner Style: |-
+    --short-banner-alignment: 58%;
 Wallpaper Artists:
 - Lexxy
 - Niklink (edits for wiki)
-Wallpaper Brightness: 0.80
-Wallpaper Style: 'opacity: 0.75;'
 Wallpaper File Extension: png
+Wallpaper Brightness: 0.80
+Wallpaper Style: |-
+    opacity: 0.75;
 ---
 Track: Homestuck Anthem
 Artists:

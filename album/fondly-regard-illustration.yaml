@@ -65,6 +65,8 @@ Cover Art File Extension: jpg
 Track Art File Extension: png
 Wallpaper File Extension: jpg
 Banner File Extension: png
+Banner Style: |-
+    --short-banner-alignment: 15%;
 Additional Files:
 - Title: Album booklet
   Files:

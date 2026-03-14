@@ -23,11 +23,14 @@ Banner Artists:
 - Makin (edits for wiki)
 Banner Dimensions: 1100x216
 Banner File Extension: png
+Banner Style: |-
+    --short-banner-alignment: 45%;
 Wallpaper Artists:
 - bobthetacocat
 - Makin (edits for wiki)
-Wallpaper Style: 'opacity: 0.6;'
 Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.6;
 Color: '#2f89e2'
 Groups:
 - Cool and New Music Team

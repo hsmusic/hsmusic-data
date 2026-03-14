@@ -230,12 +230,15 @@ Commentary: |-
 Banner Artists:
 - Sozzay
 Banner Dimensions: 1100x203
+Banner Style: |-
+    --short-banner-alignment: 40%;
 Banner File Extension: png
 Cover Art File Extension: png
 Track Art File Extension: png
 Wallpaper Artists:
 - Sozzay
-Wallpaper Style: 'opacity: 0.65;'
+Wallpaper Style: |-
+    opacity: 0.65;
 Additional Files:
 - Title: Album booklet
   Description: >-

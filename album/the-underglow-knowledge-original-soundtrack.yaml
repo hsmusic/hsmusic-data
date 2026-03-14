@@ -16,6 +16,8 @@ Banner File Extension: jpg
 Banner Dimensions: 960x225
 Wallpaper Style: |-
     opacity: 0.8;
+Banner Style: |-
+    --short-banner-alignment: 25%;
 URLs:
 - https://shadolith.bandcamp.com/album/the-underglow-knowledge-original-soundtrack
 Color: '#31e1cd'

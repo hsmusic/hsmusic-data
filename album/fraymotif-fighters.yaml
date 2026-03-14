@@ -18,6 +18,7 @@ Cover Art File Extension: png
 Banner File Extension: png
 Banner Dimensions: 975x180
 Banner Style: |-
+    --short-banner-alignment: 52%;
     image-rendering: pixelated;
     image-rendering: crisp-edges;
 Art Tags:

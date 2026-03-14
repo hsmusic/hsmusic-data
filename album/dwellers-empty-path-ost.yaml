@@ -21,8 +21,10 @@ Banner Dimensions: 1100x180
 Cover Art File Extension: png
 Wallpaper File Extension: png
 Banner File Extension: png
-Wallpaper Style: 'opacity: 0.65;'
+Wallpaper Style: |-
+    opacity: 0.65;
 Banner Style: |-
+    --short-banner-alignment: 52%;
     image-rendering: pixelated;
     image-rendering: crisp-edges;
 Color: '#86C06C'

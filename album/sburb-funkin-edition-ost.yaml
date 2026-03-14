@@ -25,6 +25,8 @@ Art Tags:
 Cover Art File Extension: png
 Banner File Extension: png
 Banner Dimensions: 1100x180
+Banner Style: |-
+    --short-banner-alignment: 85%;
 Wallpaper Style: |-
     opacity: 0.65;
     background-position: top;

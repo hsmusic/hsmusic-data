@@ -21,10 +21,13 @@ Banner Artists:
 - Homestuck
 Banner Dimensions: 1100x140
 Banner File Extension: png
+Banner Style: |-
+    --short-banner-alignment: 70%;
 Wallpaper Artists:
 - Homestuck
 Wallpaper Brightness: 0.75
-Wallpaper Style: 'opacity: 1;'
+Wallpaper Style: |-
+    opacity: 1;
 Additional Files:
 - Title: Album credits
   Description: >-

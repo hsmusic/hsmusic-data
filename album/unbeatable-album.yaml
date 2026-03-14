@@ -18,9 +18,9 @@ Groups:
 Banner Artists:
 - D-CELL GAMES
 Banner File Extension: png
+Banner Dimensions: 975x180
 Banner Style: |-
-    object-fit: scale-down;
-    background-color: #000000;
+    --short-banner-alignment: 45%;
 Wallpaper Artists:
 - ruby (edits for wiki)
 Wallpaper Parts:

@@ -34,6 +34,7 @@ Track Art File Extension: png
 Wallpaper File Extension: png
 Banner File Extension: png
 Banner Style: |-
+    --short-banner-alignment: 60%;
     image-rendering: crisp-edges;
 Additional Files:
 - Title: Album booklet

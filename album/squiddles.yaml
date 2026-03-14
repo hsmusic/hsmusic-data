@@ -15,11 +15,14 @@ Banner Artists:
 - Cindy Dominguez
 Banner Dimensions: 1100x205
 Banner File Extension: png
+Banner Style: |-
+    --short-banner-alignment: 85%;
 Wallpaper Artists:
 - Cindy Dominguez
 Wallpaper Brightness: 0.75
-Wallpaper Style: 'opacity: 0.85;'
 Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.85;
 Additional Files:
 - Title: Album booklet
   Description: >-

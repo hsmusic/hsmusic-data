@@ -9,6 +9,10 @@ Banner Artists:
 - rj lake
 Cover Art File Extension: png
 Banner File Extension: png
+Banner Style: |-
+    --short-banner-alignment: 32%;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 URLs:
 - https://spellmynamewithabang.bandcamp.com/album/omegalodon
 Color: '#66c5f0'

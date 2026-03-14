@@ -25,6 +25,8 @@ Wallpaper Style: |-
     background-size: 1920px;
 Banner Dimensions: 975x180
 Banner File Extension: png
+Banner Style: |-
+    --short-banner-alignment: 48%;
 Additional Files:
 - Title: Bandcamp banner
   Files:

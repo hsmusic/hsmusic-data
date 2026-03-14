@@ -26,9 +26,12 @@ Banner Artists:
 - Astroblur
 Banner Dimensions: 975x180
 Banner File Extension: png
+Banner Style: |-
+    --short-banner-alignment: 92%;
 Wallpaper Artists:
 - Astroblur
-Wallpaper Style: 'opacity: 0.6;'
+Wallpaper Style: |-
+    opacity: 0.6;
 Additional Files:
 - Title: Bandcamp Banner and Background
   Files:

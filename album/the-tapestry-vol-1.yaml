@@ -20,6 +20,7 @@ Cover Art File Extension: png
 Track Art File Extension: jpg
 Banner File Extension: png
 Banner Style: |-
+    --short-banner-alignment: 75%;
     image-rendering: pixelated;
     image-rendering: crisp-edges;
 Wallpaper Style: |-

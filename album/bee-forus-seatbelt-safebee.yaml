@@ -15,6 +15,8 @@ Cover Art File Extension: png
 Track Art File Extension: png
 Banner Dimensions: 1100x180
 Banner File Extension: png
+Banner Style: |-
+    --short-banner-alignment: 0%;
 Color: '#f28514'
 Groups:
 - Unofficial MSPA Fans
