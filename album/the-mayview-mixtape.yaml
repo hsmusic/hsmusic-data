@@ -13,10 +13,8 @@ Track Art File Extension: png
 Wallpaper Artists:
 - Unknown Artist
 Wallpaper Style: |-
-    position: absolute;
-    width: 100%;
-    height: 100%;
     opacity: 1;
+    background-color: #d2e7f7;
     background-position: top;
     background-repeat: no-repeat;
 Wallpaper File Extension: png
