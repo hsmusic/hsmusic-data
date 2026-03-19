@@ -946,6 +946,10 @@ Content: |-
     - changed directory of [[track:underworld-theme]] from `dungeon-theme-zelda1` to `underworld-theme`
     </details>
 
+    <h2 id="19-mar-2026"><html:a href="#19-mar-2026">[[date:19 mar 2026]] - coursing</a></h2>
+    <h3>bug fixes</h3>
+    - fixed image overlay chopping off bottom of tall artworks on screens or windows which aren't also very tall
+
     <h2 id="21-jan-2026"><html:a href="#21-jan-2026">[[date:21 January 2026]] - courser</a></h2>
     <h3>hullo</h3>
     - there's a lot more going on at [the preview wiki](https://preview.hsmusic.wiki/changelog/) and we always greatly appreciate your [[static:feedback|feedback]], doubly so on new stuff that's pending there
