@@ -97,7 +97,6 @@ Content: |-
     - adapted the page opacity to album wallpaper elements, keeping text and layout legible while letting brighter, bolder, and deeper colors show in more expressive ways
     - added support for <<generic tooltips:very cool>> in content text anywhere, but mostly for the changelog
     - added [[media:misc/changelog/release-dividing-line.png|decorative dividing line]] after track lists on album info pages
-    - added a dimming gradient over the bottom part of lyrics within the screen view, so they're revealed nicer as you scroll
     - added a nice effect when you hover an album banner... unless you're on Firefox... sorry Firefox...
     <h3>bug fixes</h3>
     - swapped out a very naive word-count algorithm for one that tries to be multilingual, affecting totals on the [[commentary-index:-|commentary index]] and on album commentary pages
