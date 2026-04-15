@@ -173,6 +173,19 @@ Duration: 02:00
 URLs:
 - https://vasterror.bandcamp.com/track/j-jitterbug-2
 ---
+Track: Clamor
+Directory: clamor-vast-error
+Always Reference By Directory: true
+Artists:
+- Husr
+Cover Artists:
+- Xagave
+Duration: 1:53
+URLs:
+- https://vasterror.bandcamp.com/track/clamor-2
+Referenced Tracks:
+- Sortir
+---
 Track: Mother Of The Stars
 Artists:
 - dbnet18
