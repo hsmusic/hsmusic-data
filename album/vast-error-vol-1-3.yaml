@@ -147,18 +147,14 @@ URLs:
 - https://vasterror.bandcamp.com/track/starry-night-2
 ---
 Track: Clamor
-Directory: clamor-vast-error
-Suffix Directory: false
+Suffix Directory: true
 Always Reference By Directory: true
-Artists:
-- Husr
+Main Release: track:clamor-vast-error
 Cover Artists:
 - Xagave
 Duration: 01:53
 URLs:
 - https://vasterror.bandcamp.com/track/clamor-2
-Referenced Tracks:
-- Sortir
 ---
 Track: Song For The Lost
 Main Release: Song For The Lost
