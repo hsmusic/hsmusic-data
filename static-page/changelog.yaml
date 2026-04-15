@@ -1018,6 +1018,14 @@ Content: |-
     - changed directory of [[track:underworld-theme]] from `dungeon-theme-zelda1` to `underworld-theme`
     </details>
 
+    <h2 id="15-apr-2026"><html:a href="#15-apr-2026">[[date:15 April 2026]] - berryboo</a></h2>
+    <h3>track additions</h3>
+    - added missing track, [[track:clamor-vast-error]], to [[album:vast-error-vol-3]] (thanks, Lilith!)
+    <h3>data changes</h3>
+    - marked [[track:clamor-vol-1-3]] ([[album:vast-error-vol-1-3]]) newly as a rerelease (thanks, Lilith!)
+    <h3>directory changes</h3>
+    - changed directory of [[track:clamor-vol-1-3]] from `clamor-vast-error` to `clamor-vol-1-3`
+
     <h2 id="19-mar-2026"><html:a href="#19-mar-2026">[[date:19 mar 2026]] - coursing</a></h2>
     <h3>bug fixes</h3>
     - fixed image overlay chopping off bottom of tall artworks on screens or windows which aren't also very tall
@@ -2977,7 +2985,7 @@ Content: |-
     - added [[artist:cookiefonster]], [[artist:wheals]], and [[artist:difarem]] to credits for [[track:multi-track-drifting-last-stop]] (thanks, Rosetta Leijonde!)
     - added [[artist:circlejourney]] to credits for [[track:infinitys-lament]] (thanks, Lilith!)
     - added [[artist:fruitytee]] to credits for [[track:predestination-vast-error]] and [[track:nothing-special]]
-    - added [[artist:husr]] to credits for [[track:clamor-vast-error]] (was mistakenly credited to no one; thanks, Pyryte!)
+    - added [[artist:husr]] to credits for [[track:clamor-vol-1-3]] (was mistakenly credited to no one; thanks, Pyryte!)
     - added [[artist:cerulean]] to credits for [[track:dirty-days-spotless-nights]] (thanks, literallyn01imp0rtant!)
     - added [[artist:cookiefonster]] to art credits for [[track:twilight-rhythm]], replacing [[artist:kobacat]] (thanks, Rosetta Leijonde!)
     - added [[artist:levc]] to credits for [[track:flying-witch]]
@@ -3275,7 +3283,7 @@ Content: |-
         - added <code>-tumblrstuck</code> to directory of [[track:surmount-tumblrstuck]]
         - added <code>-ulterior-motives</code> to directories of [[track:communion-ulterior-motives]], [[track:sabotage-ulterior-motives]], [[track:interlude-ulterior-motives]], [[track:mechanism-ulterior-motives]], [[track:saint-ulterior-motives]], [[track:powerline-ulterior-motives]], [[track:utopia-ulterior-motives]]
         - added <code>-undertale</code> to directories of [[track:shop-undertale]], [[track:premonition-undertale]], [[track:memory-undertale]], [[track:chill-undertale]], [[track:hotel-undertale]], [[track:confession-undertale]], [[track:barrier-undertale]], [[track:finale-undertale]], [[track:respite-undertale]]
-        - added <code>-vast-error</code> to directories of [[track:bias-vast-error]], [[track:oversaturated-vast-error]], [[track:poetic-vast-error]], [[track:particle-vast-error]], [[track:time-vast-error]], [[track:nostalgia-vast-error]], [[track:immortal-vast-error]], [[track:predestination-vast-error]], [[track:corporate-vast-error]], [[track:dismantled-vast-error]], [[track:lovecraft-vast-error]], [[track:eve-vast-error]], [[track:clamor-vast-error]]
+        - added <code>-vast-error</code> to directories of [[track:bias-vast-error]], [[track:oversaturated-vast-error]], [[track:poetic-vast-error]], [[track:particle-vast-error]], [[track:time-vast-error]], [[track:nostalgia-vast-error]], [[track:immortal-vast-error]], [[track:predestination-vast-error]], [[track:corporate-vast-error]], [[track:dismantled-vast-error]], [[track:lovecraft-vast-error]], [[track:eve-vast-error]], [[track:clamor-vol-1-3]]
         - added <code>-vinculum-vitae</code> to directories of [[track:unification-vinculum-vitae]], [[track:entangled-vinculum-vitae]]
         - added <code>-we-are-all-satellites</code> to directories of [[track:harrigan-we-are-all-satellites]], [[track:mischief-we-are-all-satellites]], [[track:miranda-we-are-all-satellites]], [[track:lunatic-we-are-all-satellites]]
         - added <code>-weird-puzzle-tunes</code> to directory of [[track:aggress-weird-puzzle-tunes]]
