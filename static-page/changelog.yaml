@@ -659,6 +659,7 @@ Content: |-
     - fixed [[artist:kendle-iulus]] having some credits under another name (thanks, Lilith!)
     - fixed [[artist:nick-tucker]] having some credits under another name (thanks, Lilith!)
     <!-- track section fixes -->
+    - removed "Main album" track sections from various albums which included *only* "Main album", no other track sections: [[album:redditstuck-vol-3]], [[album:perils-of-probability]], [[album:home]] (thanks, Lan!)
     - fixed [[track:the-ultimate-show]] being placed in [[album:references-beyond-homestuck]] under "Other music originating outside Homestuck", instead of under "Music from video games" (thanks, Lilith, Lavender!)
     <!-- name fixes (subsections) -->
     - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
