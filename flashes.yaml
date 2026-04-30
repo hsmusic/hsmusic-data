@@ -1833,6 +1833,7 @@ Featured Tracks:
 ---
 Side: Additional Canon
 Color: '#f2a400'
+Isolate Acts: true
 ---
 Act: Hiveswap
 Directory: hiveswap
@@ -2503,6 +2504,7 @@ Side: Fan Adventures
 Color: '#ff7093'
 List Terminology: Flashes in this story
 Split Above: true
+Isolate Acts: true
 ---
 Act: Act 8
 Color: '#fbae20'
@@ -5328,6 +5330,7 @@ URLs:
 ---
 Side: Fan Games
 Color: '#ff7093'
+Isolate Acts: true
 ---
 Act: Snowbound Blood
 Directory: snowbound-blood
@@ -6060,6 +6063,7 @@ URLs:
 Side: Fan Animations
 Color: '#ff7093'
 List Terminology: Animations in this section
+Isolate Acts: true
 ---
 Act: Animation assortment
 Color: '#ff7093'
@@ -6777,6 +6781,7 @@ Contributors:
 Side: Flashes Beyond Homestuck
 Color: '#32c7fe'
 Split Above: true
+Isolate Acts: true
 ---
 Act: Games beyond Homestuck
 Directory: more-games-beyond-homestuck
