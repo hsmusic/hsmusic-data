@@ -32,6 +32,13 @@ Style: |-
         margin-bottom: 0.5em;
     }
 Content: |-
+    <h2 id="01-may-2026"><html:a href="#01-may-2026">[[date:01 May 2026]] - Single Female Lawyer</a></h2>
+    <h3>site changes</h3>
+    - changed "composer's release" links to read "artist's release" instead
+    <h3>data fixes</h3>
+    - fixed official Homestuck Bandcamp listening links for [[track:dawn-of-man]] (linked to [Beta Version](https://homestuck.bandcamp.com/track/beta-version)) and [[track:beta-version]] (linked to [No Release](https://homestuck.bandcamp.com/track/no-release)) (thanks, Lan!)
+    - added missing official Homestuck Bandcamp link for [[track:no-release]] (thanks, Lan!)
+
     <h2 id="15-apr-2026"><html:a href="#15-apr-2026">[[date:15 April 2026]] - berryboo</a></h2>
     <h3>track additions</h3>
     - added missing track, [[track:clamor-vast-error]], to [[album:vast-error-vol-3]] (thanks, Lilith!)
