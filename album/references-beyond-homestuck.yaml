@@ -11893,6 +11893,29 @@ Lyrics: |-
     And in your reality, if I don't know how to love you
     I'll leave you be
 ---
+Track: 黄泉津比良坂CORRUPTION
+# uh oh god there's two of them, official releases i mean
+# so it was first released on Enri Edo (厭離穢土), predating its usage in Umineko When They Cry chiru in 2010
+# but the more well-known release is the compilation album, Amrita (アムリタ)
+# i know it probably doesn't make sense to have two official release references on here, but i mean considering these are comments, we might as well
+# Official release A:
+#   Enri Edo
+#   厭離穢土
+# Reference A:
+#   https://vgmdb.net/album/89397
+# Official release B:
+#   Amrita
+#   アムリタ
+# Reference B:
+#   https://vgmdb.net/album/14778
+Directory: yomitsu-hirasaka-corruption
+Artists:
+- Umineko When They Cry
+- '-45'
+Duration: 4:49
+URLs:
+- https://www.youtube.com/watch?v=rKfmGqlp8D4
+---
 Section: Music composed for movies, television, and other visual arts
 ---
 Track: $64,000 Question
@@ -51491,14 +51514,6 @@ Lyrics: |-
 Commentary: |-
     <i>Niklink:</i> (wiki editor, 11/19/2022)
     Track name translates to "Lisa Frank 420 / Modern Computing" ("Risa Furanku 420 / Gendai no Konpyū").
----
-Track: 黄泉津比良坂CORRUPTION
-Directory: yomitsu-hirasaka-corruption
-Artists:
-- '-45'
-Duration: 4:49
-URLs:
-- https://www.youtube.com/watch?v=rKfmGqlp8D4
 ---
 Section: Other works originating outside of Homestuck
 Color: '#8ccaf1'
