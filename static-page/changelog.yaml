@@ -706,6 +706,7 @@ Content: |-
     - fixed [[track:teleports-behind-you]] not referencing [[track:the-fourth-wall-falls]] (thanks, Gryotharian, Lan!)
     - fixed [[track:gold-mage-playtime-is-over-mix]] not referencing [[track:gold-mage-playtime-is-over-mix-demo]] (thanks, Lilith, Lan!)
     - fixed [[track:bowman-combat-archive]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:negative-feedback-beta]] referencing [[track:nostalgia-vast-error]] at the end of the reference list instead of at the beginning (thanks, Lilith!)
     - fixed [[track:mx-misery]] referencing [[track:heat]] ([[album:medium]]) instead of [[track:heat-brock-hampton]] ([[artist:brockhampton]]; thanks, Lan!)
     - fixed [[track:mx-misery]] referencing [[track:hound-dog]] (Elvis Presley) instead of [[track:hound-dog-vast-error]] (Dead Shufflers; thanks, Lilith!)
     - fixed [[track:mx-misery]] referencing [[track:implosion]], [[track:father-it-follows]], and [[track:for-reverend-green]] in the middle of the reference list (after [[track:t69-collapse]]) instead of at the end, and referencing [[track:murrits-theme]] and [[track:commercial-break]] in the middle (before [[track:sortir]]) instead of at the start (thanks, Lan!)
