@@ -199,27 +199,28 @@ Track Artwork:
 Referenced Tracks:
 - Crustacean
 Sheet Music Files:
-- Title: Sheet music by Tsuwami
+- Title: Sheet music
+  Artists: [Tsuwami]
+  Files: [Karkat's Theme - Tsuwami.pdf]
+- Title: Flute line
+  Artists: [Midnight.Gem]
+  Files: [Karkat's Theme - Midnight.Gem (flute).pdf]
+- Title: Piano score
+  Artists: [Purple1222119]
+  Files: [Karkat's Theme - Purple1222119 (piano score).pdf]
+- Title: Duet scores
+  Artists: [Avelynchii]
   Files:
-  - "Karkat's Theme - Tsuwami.pdf"
-- Title: Flute line by Midnight.Gem
-  Files:
-  - "Karkat's Theme - Midnight.Gem (flute).pdf"
-- Title: Piano score by Purple1222119
-  Files:
-  - "Karkat's Theme - Purple1222119 (piano score).pdf"
-- Title: Duet scores by Avelynchii
-  Files:
-  - "Karkat's Theme - Avelynchii (violin duet).pdf"
-  - "Karkat's Theme - Avelynchii (viola duet).pdf"
-  - "Karkat's Theme - Avelynchii (cello duet).pdf"
+  - Karkat's Theme - Avelynchii (violin duet).pdf
+  - Karkat's Theme - Avelynchii (viola duet).pdf
+  - Karkat's Theme - Avelynchii (cello duet).pdf
 MIDI Project Files:
-- Title: MIDI by garret866 (piano)
-  Files:
-  - "Karkat's Theme - garret866 (piano).mid"
-- Title: MIDI by Unknown
-  Files:
-  - "Karkat's Theme - Unknown.mid"
+- Title: MIDI (piano)
+  Artists: [garret866]
+  Files: [Karkat's Theme - garret866 (piano).mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Karkat's Theme - Unknown.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -273,16 +274,16 @@ Track Artwork:
 Referenced Tracks:
 - Trollcops (Radio Play)
 Sheet Music Files:
-- Title: Sheet music by Erik Scheele (original composer)
-  Files:
-  - 'Trollcops - Erik Scheele.pdf'
-- Title: Sheet music by Zelthra
-  Files:
-  - 'Trollcops - Zelthra.pdf'
+- Title: Sheet music
+  Artists: [Erik Scheele]
+  Files: [Trollcops - Erik Scheele.pdf]
+- Title: Sheet music
+  Artists: [Zelthra]
+  Files: [Trollcops - Zelthra.pdf]
 MIDI Project Files:
-- Title: MIDI by Zelthra
-  Files:
-  - 'Trollcops - Zelthra.mid'
+- Title: MIDI
+  Artists: [Zelthra]
+  Files: [Trollcops - Zelthra.mid]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -346,22 +347,22 @@ Referenced Tracks:
 - Phoenix Wright - Objection! 2001
 - Sburban Jungle
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - EuniverseCat.pdf'
-- Title: Sheet music by Sky Island
-  Files:
-  - 'BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - Sky Island.pdf'
-- Title: Sheet music by Unknown
-  Files:
-  - 'BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - Unknown.pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - EuniverseCat.pdf]
+- Title: Sheet music
+  Artists: [Sky Island]
+  Files: [BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - Sky Island.pdf]
+- Title: Sheet music
+  Artists: [Unknown Artist]
+  Files: [BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - Unknown.pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - IronInvoker47.mid'
-- Title: MIDI by Sky Island
-  Files:
-  - 'BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - Sky Island.mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - IronInvoker47.mid]
+- Title: MIDI
+  Artists: [Sky Island]
+  Files: [BL1ND JUST1C3 - 1NV3ST1G4T1ON !! - Sky Island.mid]
 Commentary: |-
     <i>Malcolm Brown:</i> (booklet commentary)
 
@@ -415,19 +416,19 @@ Referenced Tracks:
 - The Lemonsnout Turnabout
 - Theme
 Sheet Music Files:
-- Title: Piano score by Resound
-  Files:
-  - "Terezi's Theme - Resound (piano score).pdf"
-- Title: Piano score by Moondelev
-  Files:
-  - "Terezi's Theme - Moondelev (piano score).pdf"
+- Title: Piano score
+  Artists: [Resound]
+  Files: [Terezi's Theme - Resound (piano score).pdf]
+- Title: Piano score
+  Artists: [Moondelev]
+  Files: [Terezi's Theme - Moondelev (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Resound
-  Files:
-  - "Terezi's Theme - Resound.mid"
-- Title: MIDI by Moondelev (piano)
-  Files:
-  - "Terezi's Theme - Moondelev (piano).mid"
+- Title: MIDI
+  Artists: [Resound]
+  Files: [Terezi's Theme - Resound.mid]
+- Title: MIDI (piano)
+  Artists: [Moondelev]
+  Files: [Terezi's Theme - Moondelev (piano).mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -467,9 +468,9 @@ Track Artwork:
 Referenced Tracks:
 - Cuddlefish
 Sheet Music Files:
-- Title: Sheet music by Thomas Ferkol (original composer)
-  Files:
-  - Dreamers and The Dead - Thomas Ferkol.pdf
+- Title: Sheet music
+  Artists: [Thomas Ferkol]
+  Files: [Dreamers and The Dead - Thomas Ferkol.pdf]
 Commentary: |-
     <i>Thomas Ferkol:</i> (booklet commentary)
 
@@ -512,13 +513,13 @@ Referenced Tracks:
 - Spider's Claw
 - Theme
 Sheet Music Files:
-- Title: Sheet music by Tsuwami
-  Files:
-  - "Vriska's Theme - Tsuwami.pdf"
+- Title: Sheet music
+  Artists: [Tsuwami]
+  Files: [Vriska's Theme - Tsuwami.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown (piano, partial)
-  Files:
-  - "Vriska's Theme - Unknown (piano, partial).mid"
+- Title: MIDI (piano, partial)
+  Artists: [Unknown Artist]
+  Files: [Vriska's Theme - Unknown (piano, partial).mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -621,9 +622,9 @@ Referenced Tracks:
 - Beatdown (Strider Style)
 - Title Screen (Pokémon Red / Pokémon Blue)
 MIDI Project Files:
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'FIDUSPAWN, GO! - Twix Stix.mid'
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [FIDUSPAWN, GO! - Twix Stix.mid]
 Commentary: |-
     <i>David Ko:</i> (booklet commentary)
 
@@ -670,16 +671,16 @@ Track Artwork:
 Referenced Tracks:
 - Virgin Orb
 Sheet Music Files:
-- Title: Piano score by Dudemaster47
-  Files:
-  - 'Darling Kanaya - Dudemaster47 (piano score).pdf'
+- Title: Piano score
+  Artists: [Dudemaster47]
+  Files: [Darling Kanaya - Dudemaster47 (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'Darling Kanaya - IronInvoker47 (piano).mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Darling Kanaya - Unknown (piano).mid'
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Darling Kanaya - IronInvoker47 (piano).mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Darling Kanaya - Unknown (piano).mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -722,9 +723,9 @@ Track Artwork:
   - Lipstick
   - 'cw: blood'
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Requiem of Sunshine and Rainbows - Unknown (piano).mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Requiem of Sunshine and Rainbows - Unknown (piano).mid]
 Commentary: |-
     <i>Paige Turner:</i> (booklet commentary)
 
@@ -772,16 +773,17 @@ Track Artwork:
 Referenced Tracks:
 - Catchyegrabber (Skipper Plumbthroat's Song)
 Sheet Music Files:
-- Title: Sheet music by Dudemaster47
-  Files:
-  - "Eridan's Theme - Dudemaster47.pdf"
-- Title: Clarinet score by Musicrockz0623
-  Files:
-  - "Eridan's Theme - Musicrockz0623 (clarinet score).pdf"
+- Title: Sheet music
+  Artists: [Dudemaster47]
+  Files: [Eridan's Theme - Dudemaster47.pdf]
+- Title: Clarinet score
+  Artists: [Musicrockz0623]
+  Files: [Eridan's Theme - Musicrockz0623 (clarinet score).pdf]
+  # https://animesheetmusicplus.weebly.com/sheet-music.html
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - "Eridan's Theme - IronInvoker47 (piano).mid"
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Eridan's Theme - IronInvoker47 (piano).mid]
 Lyrics: |-
     <i>David Ko:</i> (booklet lyrics)
 
@@ -1242,19 +1244,19 @@ Referenced Tracks:
 - psych0ruins
 - Spider's Claw
 Sheet Music Files:
-- Title: Piano score by Do The Musicy Thing
-  Files:
-  - 'Rex Duodecim Angelus - Do The Musicy Thing (piano score).pdf'
-- Title: Piano score by Moondelev
-  Files:
-  - 'Rex Duodecim Angelus - Moondelev (piano score).pdf'
+- Title: Piano score
+  Artists: [Sean William Calhoun]
+  Files: [Rex Duodecim Angelus - Do The Musicy Thing (piano score).pdf]
+- Title: Piano score
+  Artists: [Moondelev]
+  Files: [Rex Duodecim Angelus - Moondelev (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Malcolm Brown (original composer)
-  Files:
-  - 'Rex Duodecim Angelus - Malcolm Brown.mid'
-- Title: MIDI by Doowhacker
-  Files:
-  - 'Rex Duodecim Angelus - Doowhacker.mid'
+- Title: MIDI
+  Artists: [Malcolm Brown]
+  Files: [Rex Duodecim Angelus - Malcolm Brown.mid]
+- Title: MIDI
+  Artists: [Doowhacker]
+  Files: [Rex Duodecim Angelus - Doowhacker.mid]
 Commentary: |-
     <i>Malcolm Brown:</i> (booklet commentary)
 
@@ -1368,21 +1370,22 @@ Track Artwork:
 Referenced Tracks:
 - Theme
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Alternia - EuniverseCat.pdf]
+- Title: Band sheets (including piano score)
+  Artists: [BRPXQZME]
   Files:
-  - 'Alternia - EuniverseCat.pdf'
-- Title: Band sheets (including piano score) by BRPXQZME
-  Files:
-  - 'Alternia - BRPXQZME (concert band).pdf'
-  - 'Alternia - BRPXQZME (piano).pdf'
-  - 'Alternia - BRPXQZME (band parts).zip'
-- Title: Piano score by Geekthras
-  Files:
-  - 'Alternia - Geekthras (piano score).pdf'
+  - Alternia - BRPXQZME (concert band).pdf
+  - Alternia - BRPXQZME (piano).pdf
+  - Alternia - BRPXQZME (band parts).zip
+- Title: Piano score
+  Artists: [Colin Stanfill]
+  Files: [Alternia - Geekthras (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Geekthras (piano)
-  Files:
-  - 'Alternia - Geekthras (piano).mid'
+- Title: MIDI (piano)
+  Artists: [Colin Stanfill]
+  Files: [Alternia - Geekthras (piano).mid]
 Commentary: |-
     <i>Seth Peelle:</i> (booklet commentary)
 
@@ -1629,16 +1632,16 @@ Lyrics: |-
 
     bobby
 Sheet Music Files:
-- Title: Violin score by silverseer
-  Files:
-  - 'The Blind Prophet - silverseer (violin score).pdf'
+- Title: Violin score
+  Artists: [silverseer]
+  Files: [The Blind Prophet - silverseer (violin score).pdf]
 MIDI Project Files:
-- Title: MIDI by TirantBacon
-  Files:
-  - 'The Blind Prophet - TirantBacon.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'The Blind Prophet - Unknown.mid'
+- Title: MIDI
+  Artists: [TirantBacon]
+  Files: [The Blind Prophet - TirantBacon.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [The Blind Prophet - Unknown.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 

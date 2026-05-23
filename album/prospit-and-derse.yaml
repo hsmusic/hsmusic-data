@@ -305,18 +305,19 @@ Track Artwork:
   Source: >-
     [Tumblr](https://whaoanon-old.tumblr.com/post/9269298819)
 Sheet Music Files:
-- Title: Sheet music by infinityMechanism
+- Title: Sheet music
+  Artists: [infinityMechanism]
   Files:
-  - 'Center of Brilliance - infinityMechanism (all staves visible).pdf'
-  - 'Center of Brilliance - infinityMechanism (empty staves hidden).pdf'
-  - 'Center of Brilliance - infinityMechanism (band parts).zip'
+  - Center of Brilliance - infinityMechanism (all staves visible).pdf
+  - Center of Brilliance - infinityMechanism (empty staves hidden).pdf
+  - Center of Brilliance - infinityMechanism (band parts).zip
 MIDI Project Files:
-- Title: MIDI by infinityMechanism
-  Files:
-  - 'Center of Brilliance - infinityMechanism.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Center of Brilliance - Twix Stix.mid'
+- Title: MIDI
+  Artists: [infinityMechanism]
+  Files: [Center of Brilliance - infinityMechanism.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Center of Brilliance - Twix Stix.mid]
 Commentary: |-
     <i>Solatrus:</i> (one year anniversary, via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -421,19 +422,19 @@ Referenced Tracks:
 - Atomyk Ebonpyre
 - Endless Climb
 Sheet Music Files:
-- Title: Sheet music by adamus
-  Files:
-  - 'Derse Dreamers - adamus.pdf'
-- Title: Piano score by adamus
-  Files:
-  - 'Derse Dreamers - adamus (piano score).pdf'
+- Title: Sheet music
+  Artists: [adamus]
+  Files: [Derse Dreamers - adamus.pdf]
+- Title: Piano score
+  Artists: [adamus]
+  Files: [Derse Dreamers - adamus (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by adamus
-  Files:
-  - 'Derse Dreamers - adamus.mid'
-- Title: MIDI by adamus (piano)
-  Files:
-  - 'Derse Dreamers - adamus (piano).mid'
+- Title: MIDI
+  Artists: [adamus]
+  Files: [Derse Dreamers - adamus.mid]
+- Title: MIDI (piano)
+  Artists: [adamus]
+  Files: [Derse Dreamers - adamus (piano).mid]
 Commentary: |-
     <i>Solatrus:</i> ("original commentary", via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -485,16 +486,16 @@ Art Tags:
 - Carapacians
 - Derse
 Sheet Music Files:
-- Title: Sheet music by Caustic
-  Files:
-  - 'Core of Darkness - Caustic.pdf'
+- Title: Sheet music
+  Artists: [Caustic]
+  Files: [Core of Darkness - Caustic.pdf]
 MIDI Project Files:
-- Title: MIDI by zerliriousKvetch
-  Files:
-  - 'Core of Darkness - zerliriousKvetch.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Core of Darkness - Twix Stix.mid'
+- Title: MIDI
+  Artists: [zerliriousKvetch]
+  Files: [Core of Darkness - zerliriousKvetch.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Core of Darkness - Twix Stix.mid]
 Commentary: |-
     <i>Solatrus:</i> ("original commentary", via [[media:misc/commentary-collection.txt|early commentary collection]])
 

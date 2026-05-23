@@ -95,9 +95,9 @@ URLs:
 - https://homestuck.bandcamp.com/track/revelawesome-2
 - https://www.youtube.com/watch?v=yeIEkiIjw5c
 MIDI Project Files:
-- Title: MIDI by MrCheeze
-  Files:
-  - 'Revelawesome - MrCheeze.mid'
+- Title: MIDI
+  Artists: [MrCheeze]
+  Files: [Revelawesome - MrCheeze.mid]
 Commentary: |-
     <i>Malcolm Brown:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -145,12 +145,12 @@ URLs:
 - https://www.youtube.com/watch?v=-hYsvaMPOus
 - https://archive.org/download/exile-pinkushion/03%20Mutiny.mp3
 MIDI Project Files:
-- Title: MIDI by cookiefonster
-  Files:
-  - 'Mutiny - cookiefonster.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Mutiny - Unknown.mid'
+- Title: MIDI
+  Artists: [cookiefonster]
+  Files: [Mutiny - cookiefonster.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Mutiny - Unknown.mid]
 ---
 Track: Carefree Victory
 Bandcamp Track ID: 4064613275
@@ -173,19 +173,19 @@ URLs:
 Referenced Tracks:
 - track:carefree-action
 Sheet Music Files:
-- Title: Piano score by Miff
-  Files:
-  - 'Carefree Victory - Miff (piano score).pdf'
+- Title: Piano score
+  Artists: [Miff]
+  Files: [Carefree Victory - Miff (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by calibore (piano)
-  Files:
-  - 'Carefree Victory - calibore (piano).mid'
-- Title: MIDI by Miff (piano)
-  Files:
-  - 'Carefree Victory - Miff (piano).mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Carefree Victory - Twix Stix.mid'
+- Title: MIDI (piano)
+  Artists: [calibore]
+  Files: [Carefree Victory - calibore (piano).mid]
+- Title: MIDI (piano)
+  Artists: [Miff]
+  Files: [Carefree Victory - Miff (piano).mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Carefree Victory - Twix Stix.mid]
 Commentary: |-
     <i>Andrew Huo:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -251,9 +251,9 @@ URLs:
 - https://homestuck.bandcamp.com/track/ballad-of-awakening-2
 - https://www.youtube.com/watch?v=ZmJ3Ex2jguE
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Ballad of Awakening - EuniverseCat.pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Ballad of Awakening - EuniverseCat.pdf]
 Commentary: |-
     <i>Malcolm Brown:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -294,25 +294,25 @@ URLs:
 - https://open.spotify.com/track/1SW1ybpwtkCeP9d4X3oDnG
 - https://music.apple.com/album/sburban-jungle/1684301712?i=1684301713
 Sheet Music Files:
-- Title: Sheet music by ardentComposer
-  Files:
-  - 'Sburban Jungle - ardentComposer.pdf'
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Sburban Jungle - EuniverseCat.pdf'
-- Title: Sheet music by Do the Musicy Thing (for two pianos)
-  Files:
-  - 'Sburban Jungle - Do the Musicy Thing (for two pianos).pdf'
+- Title: Sheet music
+  Artists: [ardentComposer]
+  Files: [Sburban Jungle - ardentComposer.pdf]
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Sburban Jungle - EuniverseCat.pdf]
+- Title: Sheet music (for two pianos)
+  Artists: [Sean William Calhoun]
+  Files: [Sburban Jungle - Do the Musicy Thing (for two pianos).pdf]
 MIDI Project Files:
-- Title: MIDI by cookiefonster
-  Files:
-  - 'Sburban Jungle - cookiefonster.mid'
-- Title: MIDI by MrCheeze
-  Files:
-  - 'Sburban Jungle - MrCheeze.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Sburban Jungle - Twix Stix.mid'
+- Title: MIDI
+  Artists: [cookiefonster]
+  Files: [Sburban Jungle - cookiefonster.mid]
+- Title: MIDI
+  Artists: [MrCheeze]
+  Files: [Sburban Jungle - MrCheeze.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Sburban Jungle - Twix Stix.mid]
 Music Videos:
 - Title: Live at Promstuck 2025
   Date: August 12, 2025
@@ -394,25 +394,25 @@ URLs:
 Referenced Tracks:
 - Doctor (Original Loop)
 Sheet Music Files:
-- Title: Sheet music by FlamingTROUT
-  Files:
-  - 'Doctor - FlamingTROUT.pdf'
+- Title: Sheet music
+  Artists: [FlamingTROUT]
+  Files: [Doctor - FlamingTROUT.pdf]
 MIDI Project Files:
-- Title: MIDI by MrCheeze
-  Files:
-  - 'Doctor - MrCheeze.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Doctor - Unknown.mid'
-- Title: MIDI by FlamingTROUT (piano)
-  Files:
-  - 'Doctor - FlamingTROUT (piano).mid'
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'Doctor - Unknown (piano).mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Doctor - Twix Stix.mid'
+- Title: MIDI
+  Artists: [MrCheeze]
+  Files: [Doctor - MrCheeze.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Doctor - Unknown.mid]
+- Title: MIDI (piano)
+  Artists: [FlamingTROUT]
+  Files: [Doctor - FlamingTROUT (piano).mid]
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [Doctor - Unknown (piano).mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Doctor - Twix Stix.mid]
 Commentary: |-
     <i>Clark Powell:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -584,16 +584,16 @@ URLs:
 - https://homestuck.bandcamp.com/track/endless-climb-2
 - https://www.youtube.com/watch?v=_cCc7xv6uCk
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Endless Climb - EuniverseCat.pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Endless Climb - EuniverseCat.pdf]
 MIDI Project Files:
-- Title: MIDI by MrCheeze
-  Files:
-  - 'Endless Climb - MrCheeze.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Endless Climb - Twix Stix.mid'
+- Title: MIDI
+  Artists: [MrCheeze]
+  Files: [Endless Climb - MrCheeze.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Endless Climb - Twix Stix.mid]
 Commentary: |-
     <i>Buzinkai:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
     The inspiration for this was from a not-very-well-known indie game called Tower of Heaven, which has phenomenal music. Believe it or not, the arpeggios were written first, and the main melody was written last. I tend to write songs backwards sometimes.
@@ -614,22 +614,22 @@ URLs:
 - https://homestuck.bandcamp.com/track/atomyk-ebonpyre-2
 - https://www.youtube.com/watch?v=zECoOQ668nA
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'Atomyk Ebonpyre - Gamehunter.pdf'
-- Title: 'Sheet music by BRPXQZME (<span style="font-variant: small-caps">HARD MODE</span>)'
-  Files:
-  - 'Atomyk Ebonpyre - BRPXQZME (hard mode).pdf'
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [Atomyk Ebonpyre - Gamehunter.pdf]
+- Title: Sheet music (HARD MODE…)
+  Artists: [BRPXQZME]
+  Files: [Atomyk Ebonpyre - BRPXQZME (hard mode).pdf]
 MIDI Project Files:
-- Title: MIDI by Destradious
-  Files:
-  - 'Atomyk Ebonpyre - Destradious.mid'
-- Title: MIDI by MrCheeze
-  Files:
-  - 'Atomyk Ebonpyre - MrCheeze.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Atomyk Ebonpyre - Twix Stix.mid'
+- Title: MIDI
+  Artists: [Destradious]
+  Files: [Atomyk Ebonpyre - Destradious.mid]
+- Title: MIDI
+  Artists: [MrCheeze]
+  Files: [Atomyk Ebonpyre - MrCheeze.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Atomyk Ebonpyre - Twix Stix.mid]
 ---
 Track: Black
 Bandcamp Track ID: 3965975565
@@ -653,12 +653,12 @@ Referenced Tracks:
 Sampled Tracks:
 - track:im-a-member-of-the-midnight-crew
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Black - EuniverseCat.pdf'
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'Black - Gamehunter.pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Black - EuniverseCat.pdf]
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [Black - Gamehunter.pdf]
 Lyrics: |-
     Make her a member of the Midnight Crew!
 

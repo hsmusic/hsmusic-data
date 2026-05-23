@@ -143,16 +143,16 @@ Art Tags:
 - Violin
 - Eclectic Bass
 Sheet Music Files:
-- Title: Sheet music by OI3L1V1OUS
-  Files:
-  - 'October - OI3L1V1OUS.pdf'
+- Title: Sheet music
+  Artists: [OI3L1V1OUS]
+  Files: [October - OI3L1V1OUS.pdf]
 MIDI Project Files:
-- Title: MIDI by Erik Scheele (original composer)
-  Files:
-  - 'October - Erik Scheele.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'October - Unknown.mid'
+- Title: MIDI
+  Artists: [Erik Scheele]
+  Files: [October - Erik Scheele.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [October - Unknown.mid]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -222,13 +222,13 @@ Art Tags:
 - Battlefield
 - 'cw: corpse'
 Sheet Music Files:
-- Title: Piano score by Erik Scheele (original composer)
-  Files:
-  - 'Underfoot - Erik Scheele.pdf'
+- Title: Piano score
+  Artists: [Erik Scheele]
+  Files: [Underfoot - Erik Scheele.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown (partial)
-  Files:
-  - 'Underfoot - Unknown (partial).mid'
+- Title: MIDI (partial)
+  Artists: [Unknown Artist]
+  Files: [Underfoot - Unknown (partial).mid]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -290,12 +290,12 @@ Art Tags:
 - John
 - 'cw: blood'
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Game Over - EuniverseCat.pdf'
-- Title: Piano score by Sir Real
-  Files:
-  - 'Game Over - Sir Real (piano score).pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Game Over - EuniverseCat.pdf]
+- Title: Piano score
+  Artists: [Sir Real]
+  Files: [Game Over - Sir Real (piano score).pdf]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -334,9 +334,9 @@ Art Tags:
 - Lil Cal
 - Earth
 MIDI Project Files:
-- Title: MIDI by i300
-  Files:
-  - 'Unlabeled - i300.mid'
+- Title: MIDI
+  Artists: [i300]
+  Files: [Unlabeled - i300.mid]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -405,9 +405,9 @@ Art Tags:
 - LoHaC
 - 'cw: blood'
 Sheet Music Files:
-- Title: Sheet music by Erik Scheele (original composer)
-  Files:
-  - 'The Scratch - Erik Scheele.pdf'
+- Title: Sheet music
+  Artists: [Erik Scheele]
+  Files: [The Scratch - Erik Scheele.pdf]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -494,16 +494,16 @@ Referenced Tracks:
 - Mother (Piano)
 - Skies of Skaia
 Sheet Music Files:
-- Title: Piano score by Erik Scheele (original composer)
-  Files:
-  - 'Mother (Piano) - Erik Scheele.pdf'
-- Title: Piano score by kurama101
-  Files:
-  - 'Mother (Piano) - kurama101.pdf'
+- Title: Piano score
+  Artists: [Erik Scheele]
+  Files: [Mother (Piano) - Erik Scheele.pdf]
+- Title: Piano score
+  Artists: [Kurama101]
+  Files: [Mother (Piano) - kurama101.pdf]
 MIDI Project Files:
-- Title: MIDI by i300 (piano)
-  Files:
-  - 'Mother (Piano) - i300.mid'
+- Title: MIDI (piano)
+  Artists: [i300]
+  Files: [Mother (Piano) - i300.mid]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -540,13 +540,13 @@ Art Tags:
 Referenced Tracks:
 - Walk-Stab-Walk (R&E)
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Another Chance - EuniverseCat.pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Another Chance - EuniverseCat.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'Another Chance - Unknown (piano).mid'
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [Another Chance - Unknown (piano).mid]
 Commentary: |-
     <i>Erik Scheele:</i> (album artist, booklet commentary)
 
@@ -587,16 +587,16 @@ URLs:
 Referenced Tracks:
 - Trollcops
 Sheet Music Files:
-- Title: Piano score by Erik Scheele (original composer)
-  Files:
-  - 'Under the Hat - Erik Scheele.pdf'
+- Title: Piano score
+  Artists: [Erik Scheele]
+  Files: [Under the Hat - Erik Scheele.pdf]
 MIDI Project Files:
-- Title: MIDI by i300
-  Files:
-  - 'Under the Hat - i300.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Under the Hat - Twix Stix.mid'
+- Title: MIDI
+  Artists: [i300]
+  Files: [Under the Hat - i300.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Under the Hat - Twix Stix.mid]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -658,16 +658,16 @@ URLs:
 - https://homestuck.bandcamp.com/track/mother-piano-bonus
 - https://www.youtube.com/watch?v=utXsOEmFVds
 Sheet Music Files:
-- Title: Piano score by Erik Scheele (original composer)
-  Files:
-  - 'Mother (Piano) - Erik Scheele.pdf'
-- Title: Piano score by kurama101
-  Files:
-  - 'Mother (Piano) - kurama101.pdf'
+- Title: Piano score
+  Artists: [Erik Scheele]
+  Files: [Mother (Piano) - Erik Scheele.pdf]
+- Title: Piano score
+  Artists: [Kurama101]
+  Files: [Mother (Piano) - kurama101.pdf]
 MIDI Project Files:
-- Title: MIDI by i300 (piano)
-  Files:
-  - 'Mother (Piano) - i300.mid'
+- Title: MIDI (piano)
+  Artists: [i300]
+  Files: [Mother (Piano) - i300.mid]
 Commentary: |-
     <i>Erik Scheele:</i> (booklet commentary)
 
@@ -687,13 +687,13 @@ Duration: 1:45
 URLs:
 - https://www.youtube.com/watch?v=F2HzFtXWAHo
 Sheet Music Files:
-- Title: Sheet music by asmolfirefly
-  Files:
-  - "it's good to see you again - asmolfirefly.pdf"
+- Title: Sheet music
+  Artists: [asmolfirefly]
+  Files: [it's good to see you again - asmolfirefly.pdf]
 MIDI Project Files:
-- Title: MIDI by asmolfirefly
-  Files:
-  - "it's good to see you again - asmolfirefly.mid"
+- Title: MIDI
+  Artists: [asmolfirefly]
+  Files: [it's good to see you again - asmolfirefly.mid]
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 12/9/2020)
 

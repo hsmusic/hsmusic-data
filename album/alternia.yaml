@@ -165,14 +165,15 @@ Track Artwork:
   - Karkat
   - Alternia
 Sheet Music Files:
-- Title: Band arrangement by Ryan "Jay Furor" Burnette
+- Title: Band arrangement
+  Artists: [Ryan Burnette]
   Files:
   - 'Crustacean - Ryan Burnette (concert band).pdf'
   - 'Crustacean - Ryan Burnette (band parts).zip'
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Crustacean - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Crustacean - Unknown.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -216,16 +217,16 @@ Track Artwork:
   Tags:
   - Karkat
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'Showdown - Gamehunter.pdf'
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [Showdown - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI by MrCheeze
-  Files:
-  - 'Showdown - MrCheeze.mid'
-- Title: MIDI by MrSkullium
-  Files:
-  - 'Showdown - MrSkullium.mid'
+- Title: MIDI
+  Artists: [MrCheeze]
+  Files: [Showdown - MrCheeze.mid]
+- Title: MIDI
+  Artists: [MrSkullium]
+  Files: [Showdown - MrSkullium.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -291,9 +292,9 @@ Lyrics: |-
 
     Miracles
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'mIrAcLeS - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [mIrAcLeS - Unknown.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -388,9 +389,9 @@ Track Artwork:
   - LoPaH
   - 'cw: blood (abstract)'
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'Phaze and Blood - IronInvoker47 (piano).mid'
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Phaze and Blood - IronInvoker47 (piano).mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -429,13 +430,13 @@ Track Artwork:
   Tags:
   - Aradia (ghost)
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'psych0ruins - Gamehunter.pdf'
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [psych0ruins - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'psych0ruins - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [psych0ruins - Unknown.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -479,9 +480,9 @@ Track Artwork:
 # Sampled Tracks:
 # - Mario Paint
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Walls Covered In Blood - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Walls Covered In Blood - Unknown.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -657,13 +658,13 @@ Referenced Tracks:
 - Sunsetter
 - Guile's Theme
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'The La2t Frontiier - Gamehunter.pdf'
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [The La2t Frontiier - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'The La2t Frontiier - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [The La2t Frontiier - Unknown.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -712,9 +713,9 @@ Track Artwork:
   - Reckoning
   - Communal Hive Stems
 MIDI Project Files:
-- Title: MIDI by Unknown (piano, partial)
-  Files:
-  - 'Skaian Summoning - Unknown (piano, partial).mid'
+- Title: MIDI (piano, partial)
+  Artists: [Unknown Artist]
+  Files: [Skaian Summoning - Unknown (piano, partial).mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -741,16 +742,16 @@ Track Artwork:
 Referenced Tracks:
 - Sburban Jungle
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'The Thirteenth Hour - Gamehunter.pdf'
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [The Thirteenth Hour - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'The Thirteenth Hour - Unknown.mid'
-- Title: MIDI by Unknown (partial)
-  Files:
-  - 'The Thirteenth Hour - Unknown (partial).mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [The Thirteenth Hour - Unknown.mid]
+- Title: MIDI (partial)
+  Artists: [Unknown Artist]
+  Files: [The Thirteenth Hour - Unknown (partial).mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -820,16 +821,16 @@ Track Artwork:
   Tags:
   - Vriska
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - "Spider's Claw - Gamehunter.pdf"
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [Spider's Claw - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI by MrCheeze
-  Files:
-  - "Spider's Claw - MrCheeze.mid"
-- Title: FLP (FL Studio) by Unknown
-  Files:
-  - "Spider's Claw - Unknown.flp"
+- Title: MIDI
+  Artists: [MrCheeze]
+  Files: [Spider's Claw - MrCheeze.mid]
+- Title: FL Studio project
+  Artists: [Unknown Artist]
+  Files: [Spider's Claw - Unknown.flp]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -924,9 +925,9 @@ Track Artwork:
   - Feferi's lusus
   - Alternia
 MIDI Project Files:
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Keepers - Twix Stix.mid'
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Keepers - Twix Stix.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 
@@ -966,13 +967,13 @@ Track Artwork:
   - Green Moon
   - Pink Moon
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'Theme - Gamehunter.pdf'
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [Theme - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Theme - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Theme - Unknown.mid]
 Commentary: |-
     <i>Toby Fox:</i> (booklet commentary)
 

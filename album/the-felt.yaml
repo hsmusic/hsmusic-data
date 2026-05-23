@@ -96,9 +96,9 @@ URLs:
 Referenced Tracks:
 - Three in the Morning
 Sheet Music Files:
-- Title: Sheet music by almostsix
-  Files:
-  - 'Swing of the Clock - almostsix.pdf'
+- Title: Sheet music
+  Artists: [almostsix]
+  Files: [Swing of the Clock - almostsix.pdf]
 Commentary: |-
     <i>Solatrus:</i> ("original commentary", via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -225,9 +225,9 @@ URLs:
 - https://homestuck.bandcamp.com/track/chartreuse-rewind
 - https://www.youtube.com/watch?v=TBsDTu-NOkA
 Sheet Music Files:
-- Title: Sheet music by almostsix
-  Files:
-  - 'Chartreuse Rewind - almostsix.pdf'
+- Title: Sheet music
+  Artists: [almostsix]
+  Files: [Chartreuse Rewind - almostsix.pdf]
 Commentary: |-
     <i>Solatrus:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -272,12 +272,12 @@ URLs:
 - https://homestuck.bandcamp.com/track/the-broken-clock
 - https://www.youtube.com/watch?v=Mmzhi4T6wtM
 MIDI Project Files:
-- Title: MIDI by Miff
-  Files:
-  - 'The Broken Clock - Miff.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'The Broken Clock - Twix Stix.mid'
+- Title: MIDI
+  Artists: [Miff]
+  Files: [The Broken Clock - Miff.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [The Broken Clock - Twix Stix.mid]
 ---
 Track: Apocryphal Antithesis
 Artists:
@@ -330,12 +330,12 @@ URLs:
 - https://homestuck.bandcamp.com/track/baroqueback-bowtier-scratchs-lament
 - https://www.youtube.com/watch?v=leIKuIH2FIg
 Sheet Music Files:
-- Title: Sheet music by Kyntello
-  Files:
-  - 'Baroqueback Bowtier - Kyntello.pdf'
-- Title: Viola score by candidcondescension
-  Files:
-  - 'Baroqueback Bowtier - candidcondescension (viola score).pdf'
+- Title: Sheet music
+  Artists: [Kyntello]
+  Files: [Baroqueback Bowtier - Kyntello.pdf]
+- Title: Viola score
+  Artists: [the-heir-of-light]
+  Files: [Baroqueback Bowtier - candidcondescension (viola score).pdf]
 ---
 Track: Scratch
 Artists:
@@ -355,13 +355,13 @@ Referenced Tracks:
 - Toccata and Fugue in D minor
 - The Final Battle (Super Mario 64)
 Sheet Music Files:
-- Title: Sheet music by Max Wright
-  Files:
-  - 'Scratch - Max Wright.pdf'
+- Title: Sheet music
+  Artists: [Max Wright]
+  Files: [Scratch - Max Wright.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Scratch - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Scratch - Unknown.mid]
 Commentary: |-
     <i>David Ko:</i> ([Tumblr](https://chineseviking.tumblr.com/post/67260419016/scratch-remix-nytmayr-i-am-an-excellent-host), 11/17/2013)
 
@@ -400,9 +400,9 @@ URLs:
 - https://homestuck.bandcamp.com/track/omelette-sandwich
 - https://www.youtube.com/watch?v=a1FivIzXv48
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Omelette Sandwich - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Omelette Sandwich - Unknown.mid]
 Commentary: |-
     <i>Mark J. Hadley:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -443,9 +443,9 @@ URLs:
 Referenced Tracks:
 - Westminster Quarters
 Sheet Music Files:
-- Title: Piano score by Thomas Ferkol (original composer)
-  Files:
-  - 'Time Paradox - Thomas Ferkol (piano score).pdf'
+- Title: Piano score
+  Artists: [Thomas Ferkol]
+  Files: [Time Paradox - Thomas Ferkol (piano score).pdf]
 Commentary: |-
     <i>Thomas Ferkol:</i> ([Tumblr](https://eidolonorpheus.tumblr.com/post/15715289410/eidolons-other-commentary-whatsits), 1/12/2012)
 
@@ -465,9 +465,9 @@ URLs:
 - https://homestuck.bandcamp.com/track/eldritch
 - https://www.youtube.com/watch?v=6hDMo_pcaD8
 Sheet Music Files:
-- Title: Piano score by almostsix
-  Files:
-  - 'Eldritch - almostsix (piano score).pdf'
+- Title: Piano score
+  Artists: [almostsix]
+  Files: [Eldritch - almostsix (piano score).pdf]
 ---
 Track: English
 Artists:
@@ -487,13 +487,13 @@ URLs:
 Referenced Tracks:
 - Expiration Date
 Sheet Music Files:
-- Title: Piano score by almostsix
-  Files:
-  - 'English - almostsix (piano score).pdf'
+- Title: Piano score
+  Artists: [almostsix]
+  Files: [English - almostsix (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by seekercat
-  Files:
-  - 'English - seekercat.mid'
+- Title: MIDI
+  Artists: [seekercat]
+  Files: [English - seekercat.mid]
 Referencing Sources: |-
     <i>Erase:</i> ([HSMusic Discord](https://discord.com/channels/749042497610842152/1353743089164095548/1471209163878043769), 2/11/2026)
 

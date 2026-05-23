@@ -250,25 +250,25 @@ Art Tags:
 - Battleship Condescension
 - 'cw: body horror'
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Gold Pilot - EuniverseCat.pdf'
-- Title: Piano score by Do The Musicy Thing
-  Files:
-  - 'Gold Pilot - Do The Musicy Thing (piano score).pdf'
-- Title: Piano score by silverseer
-  Files:
-  - 'Gold Pilot - silverseer (piano score).pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Gold Pilot - EuniverseCat.pdf]
+- Title: Piano score
+  Artists: [Sean William Calhoun]
+  Files: [Gold Pilot - Do The Musicy Thing (piano score).pdf]
+- Title: Piano score
+  Artists: [silverseer]
+  Files: [Gold Pilot - silverseer (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Gold Pilot - Unknown A.mid'
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'Gold Pilot - Unknown B (piano).mid'
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'Gold Pilot - Unknown C (piano).mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Gold Pilot - Unknown A.mid]
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [Gold Pilot - Unknown B (piano).mid]
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [Gold Pilot - Unknown C (piano).mid]
 Commentary: |-
     <i>First Turn Fold:</i> ([YouTube description](https://youtu.be/QZqYLuCH62Q), 6/14/2013)
 
@@ -324,16 +324,16 @@ Lyrics: |-
     <i>We are without without love or virture.</i>
     <i>However, we are forgiven.</i>)
 Sheet Music Files:
-- Title: Sheet music by mayorails
-  Files:
-  - 'Iron Infidel - mayorails.pdf'
+- Title: Sheet music
+  Artists: [mayorails]
+  Files: [Iron Infidel - mayorails.pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'Iron Infidel - IronInvoker47 (piano).mid'
-- Title: MIDI by Unknown (partial)
-  Files:
-  - 'Iron Infidel - Unknown (partial).mid'
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Iron Infidel - IronInvoker47 (piano).mid]
+- Title: MIDI (partial)
+  Artists: [Unknown Artist]
+  Files: [Iron Infidel - Unknown (partial).mid]
 ---
 Track: Olive Scribe
 Additional Names:
@@ -479,13 +479,14 @@ Referenced Tracks:
 - Hallowed Halls
 MIDI Project Files:
 - Title: Instrument stems
+  Artists: [Max Wright]
   Description: >-
     Shared by the composer on Tumblr, alongside track commentary.
   Files:
-  - 'Cobalt Corsair Brass - Max Wright.mp3'
-  - 'Cobalt Corsair Strings - Max Wright.mp3'
-  - 'Cobalt Corsair Woodwind - Max Wright.mp3'
-  - 'Cobalt Corsair Perc and Misc - Max Wright.mp3'
+  - Cobalt Corsair Brass - Max Wright.mp3
+  - Cobalt Corsair Strings - Max Wright.mp3
+  - Cobalt Corsair Woodwind - Max Wright.mp3
+  - Cobalt Corsair Perc and Misc - Max Wright.mp3
 Commentary: |-
     <i>Max Wright:</i> ([Tumblr](https://imbrog.tumblr.com/post/26895006459/cobalt-corsair-commentary), 7/10/2012)
 
@@ -588,16 +589,16 @@ Art Tags:
 - Clubkind
 - 'cw: blood'
 Sheet Music Files:
-- Title: Piano score by Makogeddon
-  Files:
-  - 'Purple Tyrant - Makogeddon (piano score).pdf'
-- Title: Sax quartet score by PiGuy17
-  Files:
-  - 'Purple Tyrant - PiGuy17 (sax quartet).pdf'
+- Title: Piano score
+  Artists: [Makogeddon]
+  Files: [Purple Tyrant - Makogeddon (piano score).pdf]
+- Title: Sax quartet score
+  Artists: [PiGuy17]
+  Files: [Purple Tyrant - PiGuy17 (sax quartet).pdf]
 MIDI Project Files:
-- Title: MIDI by Makogeddon (piano)
-  Files:
-  - 'Purple Tyrant - Makogeddon (piano).mid'
+- Title: MIDI (piano)
+  Artists: [Makogeddon]
+  Files: [Purple Tyrant - Makogeddon (piano).mid]
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 2/13/2024)
 
@@ -852,16 +853,18 @@ Track Artwork:
   - Nepeta
   - Nepeta's lusus
 Sheet Music Files:
-- Title: Bass tabs by Dontrush
-  Files:
-  - 'Olive Rogue - Dontrush (bass).pdf'
-- Title: Bass tabs by Nicholas Masso
-  Files:
-  - 'Olive Rogue - Nicholas Masso (tabs).txt'
+- Title: Bass tabs
+  Artists: [Dontrush]
+  Files: [Olive Rogue - Dontrush (bass).pdf]
+- Title: Bass tabs
+  Artists: [Alex Amlie-Wolf]
+  Description: >-
+    Live performance: [YouTube](https://www.youtube.com/watch?v=7UErTKTTYsY)
+  Files: [Olive Rogue - Alex Amlie-Wolf (tabs).txt]
 MIDI Project Files:
-- Title: MIDI by cookiefonster
-  Files:
-  - 'Olive Rogue - cookiefonster.mid'
+- Title: MIDI
+  Artists: [cookiefonster]
+  Files: [Olive Rogue - cookiefonster.mid]
 ---
 Track: Jade Sylph
 Additional Names:
@@ -946,16 +949,16 @@ Lyrics: |-
     .--. .-.. . .- ... . / .... . .-.. .--. / .... .. --
     (<i>Please help him</i>)
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Cobalt Thief - EuniverseCat.pdf'
-- Title: Sheet music by Superpig
-  Files:
-  - 'Cobalt Thief - Superpig.pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Cobalt Thief - EuniverseCat.pdf]
+- Title: Sheet music
+  Artists: [Superpig]
+  Files: [Cobalt Thief - Superpig.pdf]
 MIDI Project Files:
-- Title: MIDI by Domble
-  Files:
-  - 'Cobalt Thief - Domble.mid'
+- Title: MIDI
+  Artists: [Domble]
+  Files: [Cobalt Thief - Domble.mid]
 ---
 Track: Indigo Heir
 Additional Names:
@@ -995,9 +998,9 @@ Art Tags:
 - Dark Carnival
 - 'cw: body horror (abstract)'
 MIDI Project Files:
-- Title: MIDI by Gec (piano)
-  Files:
-  - 'Purple Bard - Gec (piano).mid'
+- Title: MIDI (piano)
+  Artists: [Eligecos]
+  Files: [Purple Bard - Gec (piano).mid]
 ---
 Track: Violet Prince
 Additional Names:
@@ -1019,19 +1022,19 @@ Art Tags:
 - LoWaA
 - 'cw: blood'
 Sheet Music Files:
-- Title: Sheet music by Tsuwami
-  Files:
-  - 'Violet Prince - Tsuwami.pdf'
-- Title: Sheet music by Bob Franklin
-  Files:
-  - 'Violet Prince - Bob Franklin.pdf'
+- Title: Sheet music
+  Artists: [Tsuwami]
+  Files: [Violet Prince - Tsuwami.pdf]
+- Title: Sheet music
+  Artists: [Bob Franklin]
+  Files: [Violet Prince - Bob Franklin.pdf]
 MIDI Project Files:
-- Title: MIDI by cookiefonster
-  Files:
-  - 'Violet Prince - cookiefonster.mid'
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'Violet Prince - IronInvoker47 (piano).mid'
+- Title: MIDI
+  Artists: [cookiefonster]
+  Files: [Violet Prince - cookiefonster.mid]
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Violet Prince - IronInvoker47 (piano).mid]
 ---
 Track: Fuchsia Witch
 Additional Names:
@@ -1065,9 +1068,9 @@ Referenced Tracks:
 - Non Compos Mentis
 - Double Midnight
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Additional Mayhem (Universe A) - IronInvoker47.mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Additional Mayhem (Universe A) - IronInvoker47.mid]
 Referencing Sources: |-
     @@ [Bandcamp credits blurb](https://homestuck.bandcamp.com/track/universe-a-additional-mayhem)
 
@@ -1275,9 +1278,9 @@ Lyrics: |-
     I see in full clarity what was so muddy before (The time will come when you'll see)
     You see I'm far from empty, I'm back to what I live for (All of your predestiny)
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Temporal Shenanigans - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Temporal Shenanigans - Unknown.mid]
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 2/13/2024)
 

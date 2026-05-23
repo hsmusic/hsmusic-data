@@ -113,12 +113,12 @@ Track Artwork:
 Referenced Tracks:
 - Macabre
 Sheet Music Files:
-- Title: Sheet music by Quaddy
-  Files:
-  - 'Black Rose, Green Sun - Quaddy.pdf'
-- Title: Piano score by Quaddy
-  Files:
-  - 'Black Rose, Green Sun - Quaddy (piano score).pdf'
+- Title: Sheet music
+  Artists: [Quaddy]
+  Files: [Black Rose, Green Sun - Quaddy.pdf]
+- Title: Piano score
+  Artists: [Quaddy]
+  Files: [Black Rose, Green Sun - Quaddy (piano score).pdf]
 Commentary: |-
     <i>Malcolm Brown:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -162,16 +162,16 @@ Referenced Tracks:
 - Black Rose / Green Sun
 - Aggrieve
 Sheet Music Files:
-- Title: Piano score by arachnidCalibrator
-  Files:
-  - 'At The Price of Oblivion - arachnidCalibrator (piano score).pdf'
+- Title: Piano score
+  Artists: [arachnidCalibrator]
+  Files: [At The Price of Oblivion - arachnidCalibrator (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'At The Price of Oblivion - IronInvoker47 (piano).mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'At The Price of Oblivion - Unknown.mid'
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [At The Price of Oblivion - IronInvoker47 (piano).mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [At The Price of Oblivion - Unknown.mid]
 Commentary: |-
     <i>Malcolm Brown:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -213,19 +213,19 @@ Track Artwork:
 Referenced Tracks:
 - Upward Movement (Dave Owns)
 Sheet Music Files:
-- Title: Piano score by Purple1222119
-  Files:
-  - 'Even in Death - Purple1222119 (piano score).pdf'
-- Title: Violin score by Caustic
-  Files:
-  - 'Even in Death - Caustic (violin score).pdf'
+- Title: Piano score
+  Artists: [Purple1222119]
+  Files: [Even in Death - Purple1222119 (piano score).pdf]
+- Title: Violin score
+  Artists: [Caustic]
+  Files: [Even in Death - Caustic (violin score).pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'Even in Death - IronInvoker47 (piano).mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Even in Death - Unknown.mid'
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Even in Death - IronInvoker47 (piano).mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Even in Death - Unknown.mid]
 ---
 Track: Terezi Owns
 Artists:
@@ -253,9 +253,9 @@ Referenced Tracks:
 - Upward Movement (Dave Owns)
 - Crystalanthemums
 MIDI Project Files:
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'Terezi Owns - Unknown (piano).mid'
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [Terezi Owns - Unknown (piano).mid]
 Commentary: |-
     <i>Angela Sham:</i> ([Tumblr](https://guzusuru.tumblr.com/post/4813339872), 4/21/2011)
 
@@ -335,9 +335,9 @@ Track Artwork:
 Referenced Tracks:
 - Harlequin
 MIDI Project Files:
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'The Carnival - Unknown (piano).mid'
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [The Carnival - Unknown (piano).mid]
 ---
 Track: Spider8reath
 Additional Names:
@@ -368,9 +368,9 @@ Referenced Tracks:
 - Spider's Claw
 - Heir Conditioning
 MIDI Project Files:
-- Title: MIDI by Tensei (original composer)
-  Files:
-  - 'Spider8reath - Tensei.mid'
+- Title: MIDI (original composer)
+  Artists: [Tensei]
+  Files: [Spider8reath - Tensei.mid]
 Commentary: |-
     <i>Tensei:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -540,9 +540,9 @@ Art Tags:
 - Battlefield
 - Warhammer of Zillyhoo
 Sheet Music Files:
-- Title: Sheet music by Kyntello
-  Files:
-  - 'Play The Wind - Kyntello.pdf'
+- Title: Sheet music
+  Artists: [Kyntello]
+  Files: [Play The Wind - Kyntello.pdf]
 Commentary: |-
     <i>Suki:</i> ([Tumblr](https://www.tumblr.com/lemoncotte/6059895866/lart-its-title-is-john-your-shoes-are-a?source=share), 6/1/2011)
 
@@ -570,13 +570,13 @@ Track Artwork:
   Source: >-
     [DeviantArt](https://web.archive.org/web/20110601035040/http://stervi.deviantart.com/art/highbloods-202005942)
 Sheet Music Files:
-- Title: Sheet music by cctv
-  Files:
-  - 'Rumble at the Rink - cctv.pdf'
+- Title: Sheet music
+  Artists: [cctv]
+  Files: [Rumble at the Rink - cctv.pdf]
 MIDI Project Files:
-- Title: MIDI by cctv
-  Files:
-  - 'Rumble at the Rink - cctv.mid'
+- Title: MIDI
+  Artists: [cctv]
+  Files: [Rumble at the Rink - cctv.mid]
 Commentary: |-
     <i>Stevie Borbolla:</i> ([DeviantArt](https://web.archive.org/web/20110601035040/http://stervi.deviantart.com/art/highbloods-202005942), 3/23/2011)
 
@@ -756,12 +756,12 @@ Lyrics: |-
     Of
     Zillyhoo
 Sheet Music Files:
-- Title: Gregorian notation by BRPXQZME
-  Files:
-  - 'Warhammer of Zillyhoo - BRPXQZME (Gregorian).pdf'
-- Title: Modernized notation by Diminutive Calvin
-  Files:
-  - 'Warhammer of Zillyhoo - Diminutive Calvin (modernized).pdf'
+- Title: Gregorian notation
+  Artists: [BRPXQZME]
+  Files: [Warhammer of Zillyhoo - BRPXQZME (Gregorian).pdf]
+- Title: Modernized notation
+  Artists: [Diminutive Calvin]
+  Files: [Warhammer of Zillyhoo - Diminutive Calvin (modernized).pdf]
 Commentary: |-
     <i>Michael Guy Bowman:</i> ([Michael Guy Bowman Talks About His Homestuck Music](https://youtu.be/85VXWZTg-vo?t=1711), adapted to text, 7/20/2024)
 

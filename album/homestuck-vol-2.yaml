@@ -118,19 +118,19 @@ URLs:
 Referenced Tracks:
 - track:amen-brother
 Sheet Music Files:
-- Title: Sheet music by BRPXQZME
-  Files:
-  - 'Upward Movement (Dave Owns) - BRPXQZME.pdf'
+- Title: Sheet music
+  Artists: [BRPXQZME]
+  Files: [Upward Movement (Dave Owns) - BRPXQZME.pdf]
 MIDI Project Files:
-- Title: MIDI by JohnJRenns (optimized for quoting)
-  Files:
-  - 'Upward Movement (Dave Owns) - JohnJRenns (optimized for quoting).mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Upward Movement (Dave Owns) - Unknown A.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Upward Movement (Dave Owns) - Unknown B.mid'
+- Title: MIDI (optimized for quoting)
+  Artists: [Cecily Renns]
+  Files: [Upward Movement (Dave Owns) - JohnJRenns (optimized for quoting).mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Upward Movement (Dave Owns) - Unknown A.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Upward Movement (Dave Owns) - Unknown B.mid]
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 11/23/2023)
 
@@ -172,25 +172,25 @@ URLs:
 - https://homestuck.bandcamp.com/track/explore-2
 - https://www.youtube.com/watch?v=l03ijKa3NlA
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Explore - EuniverseCat.pdf'
-- Title: Sheet music by Nocturne
-  Files:
-  - 'Explore - Nocturne.pdf'
-- Title: Piano score by Quaddy
-  Files:
-  - 'Explore - Quaddy (piano score).pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Explore - EuniverseCat.pdf]
+- Title: Sheet music
+  Artists: [Mal McGannon]
+  Files: [Explore - Nocturne.pdf]
+- Title: Piano score
+  Artists: [Quaddy]
+  Files: [Explore - Quaddy (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown (orchestral mix)
-  Files:
-  - 'Explore - Unknown (orchestral mix).mid'
-- Title: MIDI by Goatmon
-  Files:
-  - 'Explore - Goatmon.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Explore - Twix Stix.mid'
+- Title: MIDI (orchestral mix)
+  Artists: [Unknown Artist]
+  Files: [Explore - Unknown (orchestral mix).mid]
+- Title: MIDI
+  Artists: [Goatmon]
+  Files: [Explore - Goatmon.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Explore - Twix Stix.mid]
 Commentary: |-
     <i>Buzinkai:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -230,13 +230,13 @@ Track Artwork:
   - Pacific Island
 Duration: 2:05
 Sheet Music Files:
-- Title: Tabs by Danny Wolf
-  Files:
-  - 'Guardian - Danny Wolf.pdf'
+- Title: Tabs
+  Artists: [Danny Wolf]
+  Files: [Guardian - Danny Wolf.pdf]
 MIDI Project Files:
-- Title: MIDI by Danny Wolf
-  Files:
-  - 'Guardian - Danny Wolf.mid'
+- Title: MIDI
+  Artists: [Danny Wolf]
+  Files: [Guardian - Danny Wolf.mid]
 URLs:
 - https://www.youtube.com/watch?v=MxCXYRXyJb4
 - https://archive.org/details/exile-pinkushion/05%20Guardian.mp3
@@ -259,9 +259,9 @@ URLs:
 - https://www.youtube.com/watch?v=L55OrtyUMko
 - https://archive.org/details/exile-pinkushion/04%20Nightlife.mp3
 MIDI Project Files:
-- Title: MIDI (of non-extended version) by HunZhen
-  Files:
-  - Nightlife - HunZhen.mid
+- Title: MIDI (of non-extended version)
+  Artists: [HunZhen]
+  Files: [Nightlife - HunZhen.mid]
 ---
 Track: Showtime Remix
 Bandcamp Track ID: 1959163980

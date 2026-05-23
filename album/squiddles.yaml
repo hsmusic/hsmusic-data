@@ -205,9 +205,9 @@ Lyrics: |-
     Sing the song of
     The happy sea!
 Sheet Music Files:
-- Title: Vocal line by Miff
-  Files:
-  - 'Squiddles - Miff (vocals).png'
+- Title: Vocal line
+  Artists: [Miff]
+  Files: [Squiddles - Miff (vocals).png]
 ---
 Track: Rainbow Valley
 Artists:
@@ -282,9 +282,9 @@ URLs:
 - https://homestuck.bandcamp.com/track/squiddles-campfire
 - https://www.youtube.com/watch?v=sBi2kKCDDCk
 Sheet Music Files:
-- Title: Sheet music by Goatmon
-  Files:
-  - 'Squiddles Campfire - Goatmon.pdf'
+- Title: Sheet music
+  Artists: [Goatmon]
+  Files: [Squiddles Campfire - Goatmon.pdf]
 ---
 Track: Friendship is Paramount
 Artists:
@@ -296,16 +296,16 @@ URLs:
 Referenced Tracks:
 - Squiddles!
 Sheet Music Files:
-- Title: Piano score by BRPXQZME
-  Files:
-  - 'Friendship is Paramount - BRPXQZME (piano score).pdf'
+- Title: Piano score
+  Artists: [BRPXQZME]
+  Files: [Friendship is Paramount - BRPXQZME (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Seth Peelle (original composer)
-  Files:
-  - 'Friendship is Paramount - Seth Peelle.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Friendship is Paramount - Twix Stix.mid'
+- Title: MIDI
+  Artists: [Seth Peelle]
+  Files: [Friendship is Paramount - Seth Peelle.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Friendship is Paramount - Twix Stix.mid]
 ---
 Track: Lazybones
 Artists:
@@ -727,9 +727,9 @@ URLs:
 - https://homestuck.bandcamp.com/track/ocean-stars
 - https://www.youtube.com/watch?v=gFWWC9vmSzQ
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'Ocean Stars - IronInvoker47 (piano).mid'
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Ocean Stars - IronInvoker47 (piano).mid]
 Commentary: |-
     <i>Mark J. Hadley:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 

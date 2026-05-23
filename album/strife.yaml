@@ -60,9 +60,9 @@ URLs:
 - https://www.youtube.com/watch?v=OxHcK4AJFmw
 - https://open.spotify.com/track/2ikfMrshmbKFQBtYYQnbFN
 Sheet Music Files:
-- Title: Sheet music by Clawtooth
-  Files:
-  - 'Stormspirit - Clawtooth.pdf'
+- Title: Sheet music
+  Artists: [Clawtooth]
+  Files: [Stormspirit - Clawtooth.pdf]
 ---
 Track: Heir Conditioning
 Track Artwork:
@@ -81,13 +81,14 @@ Referenced Tracks:
 - Doctor
 - Penumbra Phantasm
 Sheet Music Files:
-- Title: Tabs by Tensei (original composer)
+- Title: Tabs
+  Artists: [Tensei]
   Files:
-  - 'Heir Conditioning - Tensei (guitar).pdf'
-  - 'Heir Conditioning - Tensei (bass).pdf'
-- Title: Piano score by Danny Wolf
-  Files:
-  - 'Heir Conditioning - Danny Wolf (piano score).pdf'
+  - Heir Conditioning - Tensei (guitar).pdf
+  - Heir Conditioning - Tensei (bass).pdf
+- Title: Piano score
+  Artists: [Danny Wolf]
+  Files: [Heir Conditioning - Danny Wolf (piano score).pdf]
 ---
 Track: Dance of Thorns
 Track Artwork:
@@ -107,22 +108,22 @@ Referenced Tracks:
 - track:beginning-castlevania-draculas-curse
 - Recruitment Theme
 Sheet Music Files:
-- Title: Violin line by Clawtooth
-  Files:
-  - 'Dance of Thorns - Clawtooth.pdf'
-- Title: Piano score by Moondelev
-  Files:
-  - 'Dance of Thorns - Moondelev (piano score).pdf'
+- Title: Violin line
+  Artists: [Clawtooth]
+  Files: [Dance of Thorns - Clawtooth.pdf]
+- Title: Piano score
+  Artists: [Moondelev]
+  Files: [Dance of Thorns - Moondelev (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Tensei (original composer)
-  Files:
-  - 'Dance of Thorns - Tensei.mid'
-- Title: MIDI by Moondelev (piano)
-  Files:
-  - 'Dance of Thorns - Moondelev (piano).mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Dance of Thorns - Twix Stix.mid'
+- Title: MIDI
+  Artists: [Tensei]
+  Files: [Dance of Thorns - Tensei.mid]
+- Title: MIDI (piano)
+  Artists: [Moondelev]
+  Files: [Dance of Thorns - Moondelev (piano).mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Dance of Thorns - Twix Stix.mid]
 ---
 Track: Time on My Side
 Track Artwork:
@@ -143,13 +144,13 @@ Referenced Tracks:
 - Liquid Negrocity
 - Master of Puppets
 Sheet Music Files:
-- Title: Piano score by Purple1222119
-  Files:
-  - 'Time on My Side - Purple1222119 (piano score).pdf'
+- Title: Piano score
+  Artists: [Purple1222119]
+  Files: [Time on My Side - Purple1222119 (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Purple1222119
-  Files:
-  - 'Time on My Side - Purple1222119.mid'
+- Title: MIDI
+  Artists: [Purple1222119]
+  Files: [Time on My Side - Purple1222119.mid]
 Commentary: |-
     <i>Tensei:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -199,9 +200,9 @@ Referenced Tracks:
 - Reverse Situation
 - The Decisive Battle (Final Fantasy VI)
 MIDI Project Files:
-- Title: MIDI by Tensei (original composer)
-  Files:
-  - 'Atomic Bonsai - Tensei.mid'
+- Title: MIDI
+  Artists: [Tensei]
+  Files: [Atomic Bonsai - Tensei.mid]
 ---
 Track: Knife's Edge
 Track Artwork:
@@ -224,9 +225,9 @@ Referenced Tracks:
 - To Make the End of Battle
 - Cascade (Beta)
 MIDI Project Files:
-- Title: MIDI by Smunos
-  Files:
-  - "Knife's Edge - Smunos.mid"
+- Title: MIDI
+  Artists: [Smunos]
+  Files: [Knife's Edge - Smunos.mid]
 ---
 Section: Bonus track
 ---
@@ -238,6 +239,6 @@ URLs:
 - https://www.youtube.com/watch?v=P0nogEQf3BI
 - https://open.spotify.com/track/46HvXL8rwgF3y6meU2FJe1
 Sheet Music Files:
-- Title: Tabs by ebullentMusician
-  Files:
-  - 'Make a Wish - ebullentMusician.pdf'
+- Title: Tabs
+  Artists: [ebullentMusician]
+  Files: [Make a Wish - ebullentMusician.pdf]

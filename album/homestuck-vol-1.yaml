@@ -77,7 +77,8 @@ URLs:
 Referenced Tracks:
 - Showtime (Original Mix)
 Sheet Music Files:
-- Artists: [Kevin Regamey]
+- Title: Sheet music
+  Artists: [Kevin Regamey]
   Files: [Showtime (Piano Refrain) - afterthought.pdf]
 MIDI Project Files:
 - Title: MIDI
@@ -111,22 +112,22 @@ URLs:
 - https://homestuck.bandcamp.com/track/harlequin-2
 - https://www.youtube.com/watch?v=Y6LcnuowRc0
 Sheet Music Files:
-- Title: Piano score by Mark J. Hadley (original composer)
-  Files:
-  - 'Harlequin - Mark J. Hadley (piano score).pdf'
-- Title: Sheet music by Tsuwami
-  Files:
-  - 'Harlequin - Tsuwami.pdf'
+- Title: Piano score
+  Artists: [Mark J. Hadley]
+  Files: [Harlequin - Mark J. Hadley (piano score).pdf]
+- Title: Sheet music
+  Artists: [Tsuwami]
+  Files: [Harlequin - Tsuwami.pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Harlequin - IronInvoker47.mid'
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'Harlequin - Unknown (piano).mid'
-- Title: Dn-FamiTracker project file by Maukustus
-  Files:
-  - 'Harlequin - Maukustus.dnm'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Harlequin - IronInvoker47.mid]
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [Harlequin - Unknown (piano).mid]
+- Title: Dn-FamiTracker project
+  Artists: [Maukustus]
+  Files: [Harlequin - Maukustus.dnm]
 Commentary: |-
     <i>Mark J. Hadley:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -148,15 +149,15 @@ Track Artwork:
   - Dad
 Duration: 2:09
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Showtime (Original Mix) - IronInvoker47.mid'
-- Title: MIDI by MrCheeze
-  Files:
-  - 'Showtime (Original Mix) - MrCheeze.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Showtime (Original Mix) - Twix Stix.mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Showtime (Original Mix) - IronInvoker47.mid]
+- Title: MIDI
+  Artists: [MrCheeze]
+  Files: [Showtime (Original Mix) - MrCheeze.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Showtime (Original Mix) - Twix Stix.mid]
 URLs:
 - https://homestuck.bandcamp.com/track/showtime-original-mix-2
 - https://www.youtube.com/watch?v=RKURlfskGsE
@@ -189,13 +190,13 @@ Referenced Tracks:
 Sampled Tracks:
 - Sburban Jungle
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'Sburban Jungle (Brief Mix) - Gamehunter.pdf'
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [Sburban Jungle (Brief Mix) - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Sburban Jungle (Brief Mix) - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Sburban Jungle (Brief Mix) - Unknown.mid]
 Commentary: |-
     <i>Michael Guy Bowman:</i> ([Music and Stuff](https://web.archive.org/web/20110326020456/http://www.iambowman.com/music.html))
 
@@ -223,9 +224,9 @@ URLs:
 Referenced Tracks:
 - Aggrieve
 Sheet Music Files:
-- Title: Sheet music by Danny Wolf
-  Files:
-  - 'Aggrieve (Violin Refrain) - Danny Wolf.pdf'
+- Title: Sheet music
+  Artists: [Danny Wolf]
+  Files: [Aggrieve (Violin Refrain) - Danny Wolf.pdf]
 Commentary: |-
     <i>Andrew Huo:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -249,12 +250,12 @@ URLs:
 Referenced Tracks:
 - Sburban Jungle
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Sburban Countdown - IronInvoker47.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Sburban Countdown - Unknown.mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Sburban Countdown - IronInvoker47.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Sburban Countdown - Unknown.mid]
 Commentary: |-
     <i>Mark J. Hadley:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -278,19 +279,19 @@ URLs:
 - https://homestuck.bandcamp.com/track/aggrieve-2
 - https://www.youtube.com/watch?v=kgZNDUF64L4
 Sheet Music Files:
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'Aggrieve - Gamehunter.pdf'
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [Aggrieve - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Aggrieve - IronInvoker47.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Aggrieve - Unknown.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Aggrieve - Twix Stix.mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Aggrieve - IronInvoker47.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Aggrieve - Unknown.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Aggrieve - Twix Stix.mid]
 Commentary: |-
     <i>Mark J. Hadley:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -320,9 +321,9 @@ URLs:
 Referenced Tracks:
 - Showtime (Original Mix)
 Sheet Music Files:
-- Title: Piano score by Resound
-  Files:
-  - 'Showtime (Imp Strife Mix) - Resound (piano score).pdf'
+- Title: Piano score
+  Artists: [Resound]
+  Files: [Showtime (Imp Strife Mix) - Resound (piano score).pdf]
 Commentary: |-
     <i>Buzinkai:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -346,9 +347,9 @@ URLs:
 Referenced Tracks:
 - Harlequin
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Nannaquin - IronInvoker47.mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Nannaquin - IronInvoker47.mid]
 Commentary: |-
     <i>Mark J. Hadley:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -369,16 +370,16 @@ URLs:
 - https://homestuck.bandcamp.com/track/skies-of-skaia-2
 - https://www.youtube.com/watch?v=vwzfyi4OdkU
 Sheet Music Files:
-- Title: Piano score by Resound
-  Files:
-  - 'Skies of Skaia - Resound (piano score).pdf'
+- Title: Piano score
+  Artists: [Resound]
+  Files: [Skies of Skaia - Resound (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Skies of Skaia - Unknown.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Skies of Skaia - Twix Stix.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Skies of Skaia - Unknown.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Skies of Skaia - Twix Stix.mid]
 Commentary: |-
     <i>Mark J. Hadley:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 

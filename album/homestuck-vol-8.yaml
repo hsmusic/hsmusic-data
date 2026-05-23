@@ -132,9 +132,9 @@ Referenced Tracks:
 # Sampled Tracks:
 # - Apollo 11 Launch Countdown
 MIDI Project Files:
-- Title: MIDI by intentionallyIncohesive
-  Files:
-  - 'Calamity - intentionallyIncohesive.mid'
+- Title: MIDI
+  Artists: [intentionallyIncohesive]
+  Files: [Calamity - intentionallyIncohesive.mid]
 Lyrics: |-
     (War, hammer, of, Zillyhoo)
     T minus 15 seconds, guidance is internal. 12, 11, 10, 9
@@ -187,22 +187,22 @@ Referenced Tracks:
 - Death of the Lusii
 - track:ruins
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Do You Remem8er Me - EuniverseCat.pdf'
-- Title: Piano score by Implode
-  Files:
-  - 'Do You Remem8er Me - Implode.pdf'
-- Title: Piano score by Quaddy
-  Files:
-  - 'Do You Remem8er Me - Quaddy.pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Do You Remem8er Me - EuniverseCat.pdf]
+- Title: Piano score
+  Artists: [Implode]
+  Files: [Do You Remem8er Me - Implode.pdf]
+- Title: Piano score
+  Artists: [Quaddy]
+  Files: [Do You Remem8er Me - Quaddy.pdf]
 MIDI Project Files:
-- Title: MIDI by Kyntello
-  Files:
-  - 'Do You Remem8er Me - Kyntello.mid'
-- Title: MIDI by Quaddy (piano)
-  Files:
-  - 'Do You Remem8er Me - Quaddy (piano).mid'
+- Title: MIDI
+  Artists: [Kyntello]
+  Files: [Do You Remem8er Me - Kyntello.mid]
+- Title: MIDI (piano)
+  Artists: [Quaddy]
+  Files: [Do You Remem8er Me - Quaddy (piano).mid]
 Commentary: |-
     <i>Malcolm Brown:</i> ("original commentary", via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -268,16 +268,16 @@ Art Tags:
 Referenced Tracks:
 - Flare (Cascade Cut)
 Sheet Music Files:
-- Title: Sheet music by Geekthras
-  Files:
-  - 'Flare - Geekthras.pdf'
+- Title: Sheet music
+  Artists: [Colin Stanfill]
+  Files: [Flare - Geekthras.pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Flare - IronInvoker47.mid'
-- Title: MIDI by Unknown (Cascade version)
-  Files:
-  - 'Flare (Cascade) - Unknown.mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Flare - IronInvoker47.mid]
+- Title: MIDI (Cascade version)
+  Artists: [Unknown Artist]
+  Files: [Flare (Cascade) - Unknown.mid]
 ---
 Track: Galactic Cancer
 Additional Names:
@@ -321,13 +321,13 @@ Art Tags:
 - Trolls' meteor
 - 'cw: blood'
 Sheet Music Files:
-- Title: Piano score by Do The Musicy Thing (arrangement)
-  Files:
-  - 'Serenade - Do The Musicy Thing (arrangement).pdf'
+- Title: Piano score (arrangement)
+  Artists: [Sean William Calhoun]
+  Files: [Serenade - Do The Musicy Thing (arrangement).pdf]
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Serenade - IronInvoker47.mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Serenade - IronInvoker47.mid]
 ---
 Track: Frog Forager
 Artists:
@@ -346,16 +346,16 @@ Art Tags:
 - Forge
 - LoFaF
 Sheet Music Files:
-- Title: Piano score by Purple1222119
-  Files:
-  - 'Frog Forager - Purple1222119 (piano score).pdf'
+- Title: Piano score
+  Artists: [Purple1222119]
+  Files: [Frog Forager - Purple1222119 (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'Frog Forager - Unknown (piano).mid'
-- Title: 'MIDI by Twix Stix (from Sburbmon)'
-  Files:
-  - 'Frog Forager - Twix Stix.mid'
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [Frog Forager - Unknown (piano).mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Frog Forager - Twix Stix.mid]
 ---
 Track: Love You (Feferi's Theme)
 Artists:
@@ -370,9 +370,9 @@ Art Tags:
 - Feferi
 - Cuttlefish
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - "Love You (Feferi's Theme) - IronInvoker47 (piano).mid"
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Love You (Feferi's Theme) - IronInvoker47 (piano).mid]
 ---
 Track: Ocean Stars Falling
 Artists:
@@ -457,19 +457,19 @@ Referenced Tracks:
 - Hawkeye
 - Atomyk Ebonpyre
 Sheet Music Files:
-- Title: Sheet music by Purple1222119
-  Files:
-  - 'Davesprite - Purple1222119.pdf'
+- Title: Sheet music
+  Artists: [Purple1222119]
+  Files: [Davesprite - Purple1222119.pdf]
 MIDI Project Files:
-- Title: MIDI by Unknown (piano, slow)
-  Files:
-  - 'Davesprite - Unknown A (piano, slow).mid'
-- Title: MIDI by Unknown (piano)
-  Files:
-  - 'Davesprite - Unknown B (piano).mid'
-- Title: MIDI by Unknown (chiptune)
-  Files:
-  - 'Davesprite - Unknown C (chiptune).mid'
+- Title: MIDI (piano, slow)
+  Artists: [Unknown Artist]
+  Files: [Davesprite - Unknown A (piano, slow).mid]
+- Title: MIDI (piano)
+  Artists: [Unknown Artist]
+  Files: [Davesprite - Unknown B (piano).mid]
+- Title: MIDI (chiptune)
+  Artists: [Unknown Artist]
+  Files: [Davesprite - Unknown C (chiptune).mid]
 ---
 Track: Airtime
 Artists:
@@ -601,27 +601,28 @@ Art Tags:
 Referenced Tracks:
 - Showtime (Original Mix)
 Sheet Music Files:
-- Title: Sheet music by adamus
+- Title: Sheet music
+  Artists: [adamus]
+  Files: [Unite Synchronization - adamus.pdf]
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Unite Synchronization - EuniverseCat.pdf]
+- Title: Piano score
+  Artists: [adamus]
+  Files: [Unite Synchronization - adamus (piano score).pdf]
+- Title: Arrangement for marching band
+  Artists: [Sean William Calhoun]
   Files:
-  - 'Unite Synchronization - adamus.pdf'
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Unite Synchronization - EuniverseCat.pdf'
-- Title: Piano score by adamus
-  Files:
-  - 'Unite Synchronization - adamus (piano score).pdf'
-- Title: Arrangement for marching band by Do The Musicy Thing
-  Files:
-  - 'Unite Synchronization for Marching Band - Do The Musicy Thing.mp3'
-  - 'Unite Synchronization - Do The Musicy Thing (marching band).pdf'
-  - 'Unite Synchronization - Do The Musicy Thing (band parts).zip'
+  - Unite Synchronization for Marching Band - Do The Musicy Thing.mp3
+  - Unite Synchronization - Do The Musicy Thing (marching band).pdf
+  - Unite Synchronization - Do The Musicy Thing (band parts).zip
 MIDI Project Files:
-- Title: MIDI by accanaceousCouncillor
-  Files:
-  - 'Unite Synchronization - accanaceousCouncillor.mid'
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'Unite Synchronization - IronInvoker47 (piano).mid'
+- Title: MIDI
+  Artists: [accanaceousCouncillor]
+  Files: [Unite Synchronization - accanaceousCouncillor.mid]
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [Unite Synchronization - IronInvoker47 (piano).mid]
 Commentary: |-
     <i>Andrew Hussie:</i> ([MSPA news post](https://web.archive.org/web/20120818182915/http://www.mspaintadventures.com:80/))
 
@@ -1003,9 +1004,9 @@ Art Tags:
 Referenced Tracks:
 - Gaia Queen
 MIDI Project Files:
-- Title: MIDI by IronInvoker47
-  Files:
-  - 'Frostbite - IronInvoker47 (piano).mid'
+- Title: MIDI
+  Artists: [IronInvoker47]
+  Files: [Frostbite - IronInvoker47 (piano).mid]
 ---
 Track: The Lost Child
 Artists:
@@ -1021,9 +1022,9 @@ Art Tags:
 Referenced Tracks:
 - psych0ruins
 MIDI Project Files:
-- Title: MIDI by Makogeddon (piano)
-  Files:
-  - 'The Lost Child - Makogeddon (piano).mid'
+- Title: MIDI (piano)
+  Artists: [Makogeddon]
+  Files: [The Lost Child - Makogeddon (piano).mid]
 ---
 Track: Questant's Lament
 Artists:
@@ -1135,16 +1136,16 @@ Cover Artists:
 Art Tags:
 - Beat Mesa
 Sheet Music Files:
-- Title: Sheet music by Purple1222119
-  Files:
-  - 'Infinity Mechanism - Purple1222119.pdf'
-- Title: Piano score by Purple1222119
-  Files:
-  - 'Infinity Mechanism - Purple1222119 (piano score).pdf'
+- Title: Sheet music
+  Artists: [Purple1222119]
+  Files: [Infinity Mechanism - Purple1222119.pdf]
+- Title: Piano score
+  Artists: [Purple1222119]
+  Files: [Infinity Mechanism - Purple1222119 (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Purple1222119
-  Files:
-  - 'Infinity Mechanism - Purple1222119.mid'
+- Title: MIDI
+  Artists: [Purple1222119]
+  Files: [Infinity Mechanism - Purple1222119.mid]
 Commentary: |-
     <i>Thomas Ferkol:</i> ([Tumblr](https://eidolonorpheus.tumblr.com/post/15590461411/eidolons-volume-8-hootenanny), 1/9/2012)
 
@@ -1250,22 +1251,22 @@ Sampled Tracks:
 - Savior of the Dreaming Dead (Cascade Cut)
 - Black Hole / Green Sun
 Sheet Music Files:
-- Title: Sheet music by EuniverseCat
-  Files:
-  - 'Cascade - EuniverseCat.pdf'
-- Title: Guitar tabs by Danny Wolf
-  Files:
-  - 'Cascade - Danny Wolf (tabs).pdf'
-- Title: Piano score by Purple1222119
-  Files:
-  - 'Cascade - Purple1222119 (piano score).pdf'
+- Title: Sheet music
+  Artists: [EuniverseCat]
+  Files: [Cascade - EuniverseCat.pdf]
+- Title: Guitar tabs
+  Artists: [Danny Wolf]
+  Files: [Cascade - Danny Wolf (tabs).pdf]
+- Title: Piano score
+  Artists: [Purple1222119]
+  Files: [Cascade - Purple1222119 (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by LeQha
-  Files:
-  - 'Cascade - LeQha.mid'
-- Title: MIDI by Purple1222119 (piano)
-  Files:
-  - 'Cascade - Purple1222119 (piano).mid'
+- Title: MIDI
+  Artists: [LeQha]
+  Files: [Cascade - LeQha.mid]
+- Title: MIDI (piano)
+  Artists: [Purple1222119]
+  Files: [Cascade - Purple1222119 (piano).mid]
 Commentary: |-
     <i>ruby:</i> (wiki editor, 4/7/2025)
     This full medley actually includes two different versions of [[artist:tensei]]'s "Cascade"!
@@ -1332,13 +1333,13 @@ Lyrics: |-
 
     Make her a member of the Midnight Crew!
 Sheet Music Files:
-- Title: Sheet music by David Ko (original composer)
-  Files:
-  - "I'm A Member of the Midnight Crew for Barbershop Quartet - David Ko.pdf"
+- Title: Sheet music
+  Artists: [David Ko]
+  Files: [I'm A Member of the Midnight Crew for Barbershop Quartet - David Ko.pdf]
 MIDI Project Files:
-- Title: MIDI by cookiefonster
-  Files:
-  - "I'm a Member of the Midnight Crew (Acapella) - cookiefonster.mid"
+- Title: MIDI
+  Artists: [cookiefonster]
+  Files: [I'm a Member of the Midnight Crew (Acapella) - cookiefonster.mid]
 ---
 Section: Bonus tracks
 Description: >-
@@ -1432,9 +1433,9 @@ Art Tags:
 - Vriska
 - Battlefield
 MIDI Project Files:
-- Title: MIDI by Unknown
-  Files:
-  - 'Cascade (Beta) - Unknown.mid'
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Cascade (Beta) - Unknown.mid]
 ---
 Track: Black Hole / Green Sun
 Additional Names:
@@ -1455,9 +1456,9 @@ Referenced Tracks:
 - Black Rose / Green Sun
 - Sburban Jungle
 Sheet Music Files:
-- Title: Guitar solo by lugiaa
-  Files:
-  - 'Black Hole, Green Sun - lugiaa (guitar solo).pdf'
+- Title: Guitar solo
+  Artists: [lugiaa]
+  Files: [Black Hole, Green Sun - lugiaa (guitar solo).pdf]
 Commentary: |-
     <i>Malcolm Brown:</i> (via [[media:misc/commentary-collection.txt|early commentary collection]])
 

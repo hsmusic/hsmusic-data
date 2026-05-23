@@ -114,9 +114,9 @@ Referenced Tracks:
 - track:flow-solatrus
 - Vertigo
 Sheet Music Files:
-- Title: Piano score by almostsix
-  Files:
-  - 'Frost - almostsix (piano score).pdf'
+- Title: Piano score
+  Artists: [almostsix]
+  Files: [Frost - almostsix (piano score).pdf]
 Commentary: |-
     <i>Solatrus:</i> ("commentary redux", via [[media:misc/commentary-collection.txt|early commentary collection]])
 
@@ -185,9 +185,9 @@ Referenced Tracks:
 - Sburban Jungle
 - Lotus
 MIDI Project Files:
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Courser - Twix Stix.mid'
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Courser - Twix Stix.mid]
 ---
 Track: Umbral Ultimatum
 Artists:
@@ -208,19 +208,19 @@ Referenced Tracks:
 - track:carefree-action
 - Homestuck Anthem
 Sheet Music Files:
-- Title: Piano score by Max Wright
-  Files:
-  - 'Umbral Ultimatum - Max Wright (piano score).pdf'
+- Title: Piano score
+  Artists: [Max Wright]
+  Files: [Umbral Ultimatum - Max Wright (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by Destradious
-  Files:
-  - 'Umbral Ultimatum - Destradious.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Umbral Ultimatum - Unknown A.mid'
-- Title: MIDI by Unknown
-  Files:
-  - 'Umbral Ultimatum - Unknown B.mid'
+- Title: MIDI
+  Artists: [Destradious]
+  Files: [Umbral Ultimatum - Destradious.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Umbral Ultimatum - Unknown A.mid]
+- Title: MIDI
+  Artists: [Unknown Artist]
+  Files: [Umbral Ultimatum - Unknown B.mid]
 ---
 Track: GameBro (Original 1990 Mix)
 Artists:
@@ -315,19 +315,19 @@ Lyrics: |-
 
     Alright!
 Sheet Music Files:
-- Title: Sheet music by Nocturne
-  Files:
-  - 'GameBro (Original 1990 Mix) - Nocturne.pdf'
-- Title: Organ score by Gamehunter
-  Files:
-  - 'GameBro (Original 1990 Mix) - Gamehunter (organ).pdf'
+- Title: Sheet music
+  Artists: [Mal McGannon]
+  Files: [GameBro (Original 1990 Mix) - Nocturne.pdf]
+- Title: Organ score
+  Artists: [Gamehunter]
+  Files: [GameBro (Original 1990 Mix) - Gamehunter (organ).pdf]
 MIDI Project Files:
-- Title: MIDI by Nocturne
-  Files:
-  - 'GameBro (Original 1990 Mix) - Nocturne.mid'
-- Title: MIDI by JohnJRenns (drums)
-  Files:
-  - 'GameBro (Original 1990 Mix) - JohnJRenns (drums).mid'
+- Title: MIDI
+  Artists: [Mal McGannon]
+  Files: [GameBro (Original 1990 Mix) - Nocturne.mid]
+- Title: MIDI (drums)
+  Artists: [Cecily Renns]
+  Files: [GameBro (Original 1990 Mix) - JohnJRenns (drums).mid]
 Commentary: |-
     <i>Erik Scheele:</i> ([YouTube description](https://www.youtube.com/watch?v=k_-LPPdHEyA), 1/6/2011)
 
@@ -526,22 +526,23 @@ Referenced Tracks:
 Sampled Tracks:
 - track:megalovania-ebhh
 Sheet Music Files:
-- Title: Tabs by Tensei (original guitarist)
-  Files:
-  - 'MeGaLoVania - Tensei (tabs).pdf'
-- Title: Sheet music by Gamehunter
-  Files:
-  - 'MeGaLoVania - Gamehunter.pdf'
+- Title: Tabs
+  Artists: [Tensei]
+  Files: [MeGaLoVania - Tensei (tabs).pdf]
+- Title: Sheet music
+  Artists: [Gamehunter]
+  Files: [MeGaLoVania - Gamehunter.pdf]
 MIDI Project Files:
-- Title: MIDI & ROM rips by MrCheeze
+- Title: MIDI & ROM rips
+  Artists: [MrCheeze]
+  Files: [MeGaLoVania - MrCheeze (band).mid]
+- Title: Piano MIDIs
+  Artists: [Unknown Artist (various)]
   Files:
-  - 'MeGaLoVania - MrCheeze (band).mid'
-- Title: Piano MIDIs by various Unknown
-  Files:
-  - 'MeGaLoVania - Unknown A.mid'
-  - 'MeGaLoVania - Unknown B.mid'
-  - 'MeGaLoVania - Unknown C.mid'
-  - 'MeGaLoVania - Unknown D.mid'
+  - MeGaLoVania - Unknown A.mid
+  - MeGaLoVania - Unknown B.mid
+  - MeGaLoVania - Unknown C.mid
+  - MeGaLoVania - Unknown D.mid
 Commentary: |-
     <i>Toby Fox:</i> ([MSPA forums](http://web.archive.org/web/20160315094158/http://www.mspaforums.com/showthread.php?34415-Homestuck-Vol-6-Heir-Transparent&p=4486950&viewfull=1#post4486950)s, 1/7/2011)
 
@@ -582,9 +583,9 @@ URLs:
 Referenced Tracks:
 - Walk-Smash-Walk
 MIDI Project Files:
-- Title: MIDI by Nocturne
-  Files:
-  - 'Walk-Stab-Walk (R&E) - Nocturne.mid'
+- Title: MIDI
+  Artists: [Mal McGannon]
+  Files: [Walk-Stab-Walk (R&E) - Nocturne.mid]
 Commentary: |-
     <i>Erik Scheele:</i> ([YouTube description](https://www.youtube.com/watch?v=4UpaT_FjsH8), 1/6/2011)
 
@@ -630,19 +631,19 @@ URLs:
 Referenced Tracks:
 - Homestuck
 Sheet Music Files:
-- Title: Flute line by Optimatum
-  Files:
-  - 'Elevatorstuck - Optimatum (flute).pdf'
-- Title: Piano score by lugiaa
-  Files:
-  - 'Elevatorstuck - lugiaa (piano score).pdf'
+- Title: Flute line
+  Artists: [Optimatum]
+  Files: [Elevatorstuck - Optimatum (flute).pdf]
+- Title: Piano score
+  Artists: [lugiaa]
+  Files: [Elevatorstuck - lugiaa (piano score).pdf]
 MIDI Project Files:
-- Title: MIDI by lugiaa
-  Files:
-  - 'Elevatorstuck - lugiaa.mid'
-- Title: MIDI by Twix Stix (from Sburbmon)
-  Files:
-  - 'Elevatorstuck - Twix Stix.mid'
+- Title: MIDI
+  Artists: [lugiaa]
+  Files: [Elevatorstuck - lugiaa.mid]
+- Title: MIDI (from Sburbmon)
+  Artists: [Twix Stix]
+  Files: [Elevatorstuck - Twix Stix.mid]
 ---
 Track: Wacky Antics
 Artists:
@@ -890,14 +891,15 @@ Referenced Tracks:
 - Showtime (Piano Refrain)
 - Aggrieve
 Sheet Music Files:
-- Title: Sheet music by Galactides
+- Title: Sheet music
+  Artists: [Galactides]
   Files:
-  - '3 In The Morning (Pianokind) - Galactides (part 1).pdf'
-  - '3 In The Morning (Pianokind) - Galactides (part 2).pdf'
+  - 3 In The Morning (Pianokind) - Galactides (part 1).pdf
+  - 3 In The Morning (Pianokind) - Galactides (part 2).pdf
 MIDI Project Files:
-- Title: MIDI by Galactides
-  Files:
-  - '3 In The Morning (Pianokind) - Galactides.mid'
+- Title: MIDI
+  Artists: [Galactides]
+  Files: [3 In The Morning (Pianokind) - Galactides.mid]
 Commentary: |-
     <i>Erik Scheele:</i> ([YouTube description](https://www.youtube.com/watch?v=jMn9u4BMPE4), 1/6/2011)
 
@@ -925,9 +927,9 @@ URLs:
 Referenced Tracks:
 - Atomyk Ebonpyre
 MIDI Project Files:
-- Title: MIDI by IronInvoker47 (piano)
-  Files:
-  - 'A Tender Moment - IronInvoker47 (piano).mid'
+- Title: MIDI (piano)
+  Artists: [IronInvoker47]
+  Files: [A Tender Moment - IronInvoker47 (piano).mid]
 Commentary: |-
     <i>Toby Fox:</i> ([toby fox portfolio page 2011 wip](https://web.archive.org/web/20111107184748/http://tobyfox.net/portfolio) - "Finished Tracks")
 
