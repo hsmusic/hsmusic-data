@@ -5337,6 +5337,43 @@ URLs:
 Referenced Tracks:
 - track:lost-in-thoughts-all-alone
 ---
+Track: Ending II
+Additional Names:
+- Name: >-
+    ´エンディング（2）
+  Annotation: >-
+    booklet: Falcom Special Box '93
+Name Style: utility
+Name Detail: Brandish, PC-98
+Directory: ending-ii-brandish-pc-98
+Reference By Directory: always
+Artists:
+- Brandish
+URLs:
+- https://www.youtube.com/watch?v=-Ho6wKM7i8w
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 5/24/2026)
+
+    This is track 23 on disc 2 of ["Falcom Special Box '93"](https://vgmdb.net/album/1464), a compilation of original in-game music from Falcom. Tracks here are credited only to "Falcom Sound Team J.D.K." and Brandish's soundtrack, as a whole, is otherwise credited to both Mieko Ishikawa and Atsushi Shirakawa.
+
+    "Ending II" is not an official translation. The booklet for disc 2 lists track 23 as エンディング（2）.
+---
+Track: Ending II
+Name Style: utility
+Name Detail: Brandish, SNES
+Directory: ending-ii-brandish-snes
+Reference By Directory: always
+Artists:
+- Brandish
+URLs:
+- https://www.youtube.com/watch?v=kF0kGxXFTWQ
+Referenced Tracks:
+- track:ending-ii-brandish-pc-98
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 5/24/2026)
+
+    Also known as "Warrior Report" on a gamerip posted to Zophar's Domain, rippers YK and Toby Fox, tagger YK. "Ending II" is not an official translation; the track's name, for the PC-98 soundtrack as released on "Falcom Special Box '93", is エンディング（2）.
+---
 Track: 'Ending (The Legend of Zelda: Twilight Princess)'
 # Reference:
 #   https://vgmdb.net/album/59413
