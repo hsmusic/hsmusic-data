@@ -896,7 +896,6 @@ Content: |-
     - fixed duration of [[track:bad-apple]] ([[artist:zun]]) to align with soundtrack release (was 3:13, now 3:15; thanks, Lan!)
     - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
     - fixed [[track:gone-hollywood]] having no duration (thanks, Lilith!)
-    - fixed date for [[flash:5027]] (was [[date:6/12/2012]], now [[date:6/5/2012]])
     <!-- art tag fixes -->
     - added [[tag:wv]] tag to [[track:explore]] (thanks, Meulanie!)
     - added [[tag:freshjamz]] tag to [[track:showtime-remix]], [[track:aggrieve-remix]], [[track:verdancy-bassline]], and [[track:potential-verdancy]] (thanks, Lilith!)
@@ -1152,6 +1151,13 @@ Content: |-
     - changed directory of [[track:title-theme-the-legend-of-zelda]] from `title-the-legend-of-zelda` to `title-theme-the-legend-of-zelda`
     - changed directory of [[track:underworld-theme]] from `dungeon-theme-zelda1` to `underworld-theme`
     </details>
+
+    <h2 id="25-may-2026"><html:a href="#25-may-2026">[[date:25 May 2026]] - Blind Watchmaker</a></h2>
+    <h3>data fixes</h3>
+    - fixed date for [[flash:3952]] (was [[date:8/15/2011]], now [[date:7/15/2011]]; thanks, Lan!)
+    - fixed date for [[flash:4486]] (was [[date:1/21/2011]], now [[date:1/21/2012]]; thanks, funfacterdroid, Lan!)
+    - fixed date for [[flash:5027]] (was [[date:6/12/2012]], now [[date:6/6/2012]]; thanks, Lavender, Lan!)
+    - fixed date for [[flash:7449]] (was [[date:4/26/2015]], now [[date:4/23/2015]]; thanks, Lan!)
 
     <h2 id="01-may-2026"><html:a href="#01-may-2026">[[date:01 May 2026]] - Single Female Lawyer</a></h2>
     <h3>site changes</h3>
