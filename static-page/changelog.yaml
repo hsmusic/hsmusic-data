@@ -1088,6 +1088,7 @@ Content: |-
     - changed directory of [[track:sleeping-in-single]] from `sleeping-in` to `sleeping-in-single`
     - changed directory of [[track:do-the-homestuck-demo]] from `do-the-homestuck` to `do-the-homestuck-demo`
     - changed directory of [[track:jane-dargason-tumblr-may-11-2012]] from `jane-dargason-may-11` to `jane-dargason-tumblr-may-11-2012`
+    - changed directories of all tracks across [[album:a-link-to-the-past-vgm]] to be suffixed `-a-link-to-the-past`, rather than `-the-legend-of-zelda-a-link-to-the-past`
     - changed directory of [[track:battle-rival-pokemon-black2-white2]] from `battle-rival-b2w2` to `battle-rival-pokemon-black2-white2`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainhoenn-version` to `battle-frontier-brain-hoenn-version`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainsinnoh-version` to `battle-frontier-brain-sinnoh-version`
@@ -1334,7 +1335,7 @@ Content: |-
     <!-- link additions -->
     - added YouTube track and playlist links across [[album:oceanfalls-vol-1]], [[album:oceanfalls-vol-2]], [[album:oceanfalls-vol-3]], [[album:oceanfalls-vol-4]], and [[album:oceanfalls-vol-five]] (thanks, Lanolin!)
     - added YouTube listening links to [[track:buskers-theme]], [[track:cascade2]], [[track:nautical-climb]], [[track:skaia-voyages]], and [[track:skaian-shuffle]] (thanks, meulanie, Lanolin!)
-    - added Nintendo Music listening links to [[track:big-blue]], [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]], [[track:death-wind]], [[track:dj-kk-instrumental]], [[track:fight-on-heroes]], [[track:file-select-sm64]], [[track:fire-field]], [[track:ground-bgm-super-mario-bros-2]], [[track:ground-bgm-super-mario-bros-3]], [[track:king-of-the-koopas]], [[track:mountains-and-forests-of-the-dark-world]], [[track:mute-city]], [[track:player-select-the-legend-of-zelda-a-link-to-the-past]], [[track:port-town]], [[track:red-canyon]], [[track:sand-ocean]], [[track:save-the-world-heroes]], [[track:title-find-mii]], [[track:title-find-mii-ii]], [[track:title-theme-luigis-mansion]], [[track:title-theme-humming-luigis-mansion]], [[track:training-room-second-half]], [[track:white-land-i]], [[track:world-1-map-grass-land]], [[track:world-6-map-ice-land]], [[track:world-8-map-dark-land]], and [[track:you-lost-f-zero]] (thanks, ruby, vriska!)
+    - added Nintendo Music listening links to [[track:big-blue]], [[track:dark-world-a-link-to-the-past]], [[track:death-wind]], [[track:dj-kk-instrumental]], [[track:fight-on-heroes]], [[track:file-select-sm64]], [[track:fire-field]], [[track:ground-bgm-super-mario-bros-2]], [[track:ground-bgm-super-mario-bros-3]], [[track:king-of-the-koopas]], [[track:mountains-and-forests-of-the-dark-world]], [[track:mute-city]], [[track:player-select-a-link-to-the-past]], [[track:port-town]], [[track:red-canyon]], [[track:sand-ocean]], [[track:save-the-world-heroes]], [[track:title-find-mii]], [[track:title-find-mii-ii]], [[track:title-theme-luigis-mansion]], [[track:title-theme-humming-luigis-mansion]], [[track:training-room-second-half]], [[track:white-land-i]], [[track:world-1-map-grass-land]], [[track:world-6-map-ice-land]], [[track:world-8-map-dark-land]], and [[track:you-lost-f-zero]] (thanks, ruby, vriska!)
     <!-- additional files additions -->
     - added Bandcamp background files for [[album:your-majesty]], [[album:bowmanstuck]], and [[album:gba-pokemon-unbound-super-music-collection]] (thanks, Niklink!)
     - added Bandcamp banner file for [[album:fraymotif-fighters]] (thanks, Niklink!)
@@ -1400,7 +1401,7 @@ Content: |-
         - fixed [[track:ground-bgm-super-mario-bros-3]] being named "Ground Theme (Super Mario Bros. 3)"
         - fixed [[track:king-of-the-koopas]] being named "King Bowser"
         - fixed [[track:mountains-and-forests-of-the-dark-world]] being named "Dark Mountain Forest"
-        - fixed [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] being named "Select Screen (The Legend of Zelda: A Link to the Past)"
+        - fixed [[track:player-select-a-link-to-the-past]] being named "Select Screen (The Legend of Zelda: A Link to the Past)"
         - fixed [[track:title-find-mii]] being named "Title Theme (Find Mii)"
         - fixed [[track:title-find-mii-ii]] being named "Title Theme (Find Mii II)"
         - fixed [[track:title-theme-luigis-mansion]] being named "Title (Luigi's Mansion)"
@@ -1419,7 +1420,7 @@ Content: |-
         - fixed duration of [[track:battle-golden-sun]] (was 2:37, now 2:38)
         - fixed duration of [[track:big-blue]] (was none, now 2:33)
         - fixed duration of [[track:big-boos-haunt]] (was 3:04, now 3:05)
-        - fixed duration of [[track:dark-world-the-legend-of-zelda-a-link-to-the-past]] (was 2:23, now 2:22)
+        - fixed duration of [[track:dark-world-a-link-to-the-past]] (was 2:23, now 2:22)
         - fixed duration of [[track:death-wind]] (was none, now 2:23)
         - fixed duration of [[track:dj-kk-instrumental]] (was 1:24, now 1:43)
         - fixed duration of [[track:dragon-roost-island]] (was 3:00, now 3:01)
@@ -1441,7 +1442,7 @@ Content: |-
         - fixed duration of [[track:mute-city]] (was 2:29, now 2:06)
         - fixed duration of [[track:a-new-wind-for-tomorrow]] (was 1:35, now 1:36)
         - fixed duration of [[track:parasite-queen-battle]] (was 1:36, now 1:37)
-        - fixed duration of [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] (was 0:55, now 1:03)
+        - fixed duration of [[track:player-select-a-link-to-the-past]] (was 0:55, now 1:03)
         - fixed duration of [[track:port-town]] (was 2:15, now 2:37)
         - fixed duration of [[track:rainbow-road-super-mario-kart]] (was 1:59, now 2:01)
         - fixed duration of [[track:red-canyon]] (was 2:48, now 2:23)
@@ -1596,7 +1597,7 @@ Content: |-
     - changed directory of [[track:ground-bgm-super-mario-bros-3]] from `ground-theme-smb3` to `ground-bgm-super-mario-bros-3`
     - changed directory of [[track:king-of-the-koopas]] from `king-bowser-smb3` to `king-of-the-koopas`
     - changed directory of [[track:mountains-and-forests-of-the-dark-world]] from `dark-mountain-forest` to `mountains-and-forests-of-the-dark-world`
-    - changed directory of [[track:player-select-the-legend-of-zelda-a-link-to-the-past]] from `select-screen-the-legend-of-zelda-a-link-to-the-past` to `player-select-the-legend-of-zelda-a-link-to-the-past`
+    - changed directory of [[track:player-select-a-link-to-the-past]] from `select-screen-the-legend-of-zelda-a-link-to-the-past` to `player-select-the-legend-of-zelda-a-link-to-the-past`
     - changed directory of [[track:title-find-mii]] from `title-theme-find-mii` to `title-find-mii`
     - changed directory of [[track:title-find-mii-ii]] from `title-theme-find-mii-ii` to `title-find-mii-ii`
     - changed directory of [[track:title-theme-luigis-mansion]] from `title-luigis-mansion` to `title-theme-luigis-mansion`

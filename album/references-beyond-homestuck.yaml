@@ -2631,21 +2631,6 @@ Duration: 1:57
 URLs:
 - https://marinahova.bandcamp.com/track/all-american-badass
 ---
-Track: Alola Region Theme
-# Also known as "Welcome to the Alola Region!"
-# JP: アローラ地方のテーマ
-# Official release:
-#   Nintendo 3DS Pokémon Sun & Moon Super Music Complete
-#   ニンテンドー3DS ポケモン サン・ムーン スーパーミュージック・コンプリート
-# Reference:
-#   https://vgmdb.net/album/61193
-Artists:
-- artist:pokemon
-- Minako Adachi
-Duration: 2:45
-URLs:
-- https://www.youtube.com/watch?v=k4QwSPQaIVA
----
 Track: Aloneness
 # Reference:
 #   https://vgmdb.net/album/71811
@@ -3402,20 +3387,6 @@ URLs:
 Referenced Tracks:
 - Title Screen (Pokémon Red & Pokémon Blue)
 ---
-Track: Battle! (Trainer Battle) (Pokémon Red & Pokémon Blue)
-# JP: 戦い(VSトレーナー)
-# Official release:
-#   ポケモン 赤・緑 スーパーミュージック・コレクション
-# Reference:
-#   https://vgmdb.net/album/141
-Directory: battle-trainer-battle-pokemon-red-blue
-Artists:
-- artist:pokemon
-- Junichi Masuda
-Duration: 3:17
-URLs:
-- https://www.youtube.com/watch?v=9qbk_pPCxCc
----
 Track: Battle! (Trainer) (Pokémon Sun & Pokémon Moon)
 Directory: battle-trainer-pokemon-sun-moon
 # Reference:
@@ -3481,20 +3452,6 @@ Contributors:
 Duration: 2:03
 URLs:
 - https://www.youtube.com/watch?v=iBvj8Qt2ndI
----
-Track: Battle! (Wild Pokémon) (Pokémon Red & Pokémon Blue)
-# JP: 戦い(VS野生ポケモン)
-# Official release:
-#   ポケモン 赤・緑 スーパーミュージック・コレクション
-# Reference:
-#   https://vgmdb.net/album/141
-Directory: battle-wild-pokemon-pokemon-red-blue
-Artists:
-- artist:pokemon
-- Junichi Masuda
-Duration: 1:30
-URLs:
-- https://www.youtube.com/watch?v=vgBoQUaEKpk
 ---
 Track: Battle! (Wild Pokémon) (Pokémon Sun & Pokémon Moon)
 Directory: battle-wild-pokemon-pokemon-sun-moon
@@ -4725,17 +4682,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=TNfItV62gD8
 ---
-Track: 'Dark World (The Legend of Zelda: A Link to the Past)'
-# Reference:
-#   https://vgmdb.net/album/885
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 2:22
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/34f299ce-6af7-4f00-90bb-65956ed46594
-- https://www.youtube.com/watch?v=sslj06K-Nlw
----
 Track: Death Mountain Theme
 # Reference:
 #   https://vgmdb.net/album/1430
@@ -5337,43 +5283,6 @@ URLs:
 Referenced Tracks:
 - track:lost-in-thoughts-all-alone
 ---
-Track: Ending II
-Additional Names:
-- Name: >-
-    ´エンディング（2）
-  Annotation: >-
-    booklet: Falcom Special Box '93
-Name Style: utility
-Name Detail: Brandish, PC-98
-Directory: ending-ii-brandish-pc-98
-Reference By Directory: always
-Artists:
-- Brandish
-URLs:
-- https://www.youtube.com/watch?v=-Ho6wKM7i8w
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor, 5/24/2026)
-
-    This is track 23 on disc 2 of ["Falcom Special Box '93"](https://vgmdb.net/album/1464), a compilation of original in-game music from Falcom. Tracks here are credited only to "Falcom Sound Team J.D.K." and Brandish's soundtrack, as a whole, is otherwise credited to both Mieko Ishikawa and Atsushi Shirakawa.
-
-    "Ending II" is not an official translation. The booklet for disc 2 lists track 23 as エンディング（2）.
----
-Track: Ending II
-Name Style: utility
-Name Detail: Brandish, SNES
-Directory: ending-ii-brandish-snes
-Reference By Directory: always
-Artists:
-- Brandish
-URLs:
-- https://www.youtube.com/watch?v=kF0kGxXFTWQ
-Referenced Tracks:
-- track:ending-ii-brandish-pc-98
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor, 5/24/2026)
-
-    Also known as "Warrior Report" on a gamerip posted to Zophar's Domain, rippers YK and Toby Fox, tagger YK. "Ending II" is not an official translation; the track's name, for the PC-98 soundtrack as released on "Falcom Special Box '93", is エンディング（2）.
----
 Track: 'Ending (The Legend of Zelda: Twilight Princess)'
 # Reference:
 #   https://vgmdb.net/album/59413
@@ -5449,15 +5358,6 @@ URLs:
 - https://www.youtube.com/watch?v=42IDlO_qAfA
 Lyrics: |-
     Dei, quod reliquum est, nolite metuere, et ossa tua liberabit, exspectans
----
-Track: Evolution (Pokémon Red & Pokémon Blue)
-Directory: evolution-pokemon-red-blue
-Artists:
-- Pokémon
-- Junichi Masuda
-Duration: 0:35
-URLs:
-- https://www.youtube.com/watch?v=oVIpkXSN_o0
 ---
 Track: Extend Music (Mappy)
 # Reference:
@@ -8296,17 +8196,6 @@ Duration: 1:10
 URLs:
 - https://www.youtube.com/watch?v=TyN4aGJVkKY
 ---
-Track: Mountains and Forests of the Dark World
-# Reference:
-#   https://vgmdb.net/album/885
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:58
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/5f118cf9-a5f8-43e1-9aa6-a969a6a07e1f
-- https://www.youtube.com/watch?v=jGbhi5U4Qb0
----
 Track: Mt. Blaze
 # Reference:
 #   https://vgmdb.net/product/8562
@@ -8985,17 +8874,6 @@ URLs:
 Commentary: |-
     <i>Makin:</i> (wiki editor, 8/13/2023)
     Also known as Cave Story's Title Theme or Main Theme.
----
-Track: 'Player Select (The Legend of Zelda: A Link to the Past)'
-# Reference:
-#   https://vgmdb.net/album/885
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:03
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/fad03893-fb53-4f9d-8da7-60ae433f996d
-- https://www.youtube.com/watch?v=Lahn6mN-hnk
 ---
 Track: Poké Mart (Pokémon Ruby & Pokémon Sapphire)
 # Reference:
