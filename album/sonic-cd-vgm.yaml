@@ -3,9 +3,8 @@ Directory: sonic-cd-vgm
 Style: in-game vgm
 Date: September 23, 1993
 Color: '#4CEB0D'
+Has Cover Art: true
 Cover Art File Extension: png
-Cover Artists:
-- SEGA
 Groups:
 - Sonic the Hedgehog
 ---
@@ -14,7 +13,6 @@ Track: Cosmic Eternity - Believe in Yourself
 # Reference:
 #   https://vgmdb.net/album/29131
 Artists:
-- Sonic the Hedgehog
 - Naofumi Hataya
 Contributors:
 - Keiko Utoku (vocals)
@@ -68,7 +66,6 @@ Track: Metallic Madness
 # Reference:
 #   https://vgmdb.net/album/29131
 Artists:
-- Sonic the Hedgehog
 - Naofumi Hataya
 Duration: 1:51
 URLs:

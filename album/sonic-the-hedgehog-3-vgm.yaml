@@ -1,0 +1,29 @@
+Album: Sonic the Hedgehog 3
+Directory: sonic-the-hedgehog-3-vgm
+Style: in-game vgm
+Date: February 2, 1994
+Color: '#FFB400'
+Cover Art File Extension: png
+Has Cover Art: true
+Groups:
+- Sonic the Hedgehog
+---
+Track: Hydro City Zone Act 1
+# Track name is official, from the Museum in Sonic Origins.
+# Reference:
+#   https://sonic.fandom.com/wiki/Sonic_Origins/Museum
+#   https://info.sonicretro.org/Sonic_the_Hedgehog_3/Development/Music
+URLs:
+- https://www.youtube.com/watch?v=CrWepCaCJ7c
+---
+Track: Hydro City Zone Act 2
+# Track name is official, from the Museum in Sonic Origins.
+# Reference:
+#   https://sonic.fandom.com/wiki/Sonic_Origins/Museum
+#   https://info.sonicretro.org/Sonic_the_Hedgehog_3/Development/Music
+Artists:
+- Masayuki Nagao
+URLs:
+- https://www.youtube.com/watch?v=PNYL4w-qxcE
+Referenced Tracks:
+- Hydro City Zone Act 1

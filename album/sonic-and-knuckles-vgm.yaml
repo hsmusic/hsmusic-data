@@ -1,0 +1,26 @@
+Album: Sonic & Knuckles
+Directory: sonic-and-knuckles-vgm
+Style: in-game vgm
+Date: October 18, 1994
+Color: '#FF0000'
+Cover Art File Extension: png
+Has Cover Art: true
+Groups:
+- Sonic the Hedgehog
+---
+Track: Flying Battery Zone Act 1
+# Official release (as Flying Battery)
+#    HISTORY OF SONIC MUSIC 20th Anniversary Edition
+# Reference:
+#    https://vgmdb.net/album/29437
+# sorry if the duration of the video doesn't match the listed duration, the ones I found that were 1:31 in length but the echo went gradually out of sync after the first loop so I had to find this one
+Duration: 1:47
+URLs:
+- https://www.youtube.com/watch?v=_T7hdIh-gtw
+---
+Track: Flying Battery Zone Act 2
+# No official release of the in-game track (or Sonic the Hedgehog 3 & Knuckles' in-game soundtrack at all)
+Referenced Tracks:
+- Flying Battery Zone Act 1
+URLs:
+- https://www.youtube.com/watch?v=qXchxWqLqyc
