@@ -1,12 +1,10 @@
-Album: Brandish (PC-98)
+Album: Brandish
+Name Detail: PC-98
 Directory: brandish-pc-98-vgm
-Directory Suffix: brandish-pc-98
 Style: in-game vgm
 Date: October 25, 1991
 Color: '#e46e55'
-Cover Artists:
-- Falcom
-Cover Art Dimensions: 640x974
+Has Cover Art: true
 Groups:
 - Brandish
 Commentary: |-
@@ -19,7 +17,6 @@ Commentary: |-
 Track: Ending II
 Name Style: utility
 Name Detail: album
-Reference By Directory: always
 Additional Names:
 - Name: ´エンディング（2）
   Annotation: >-

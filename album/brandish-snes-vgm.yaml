@@ -1,11 +1,10 @@
-Album: Brandish (SNES)
+Album: Brandish
+Name Detail: SNES
 Directory: brandish-snes-vgm
 Style: in-game vgm
 Date: June 25, 1994
 Color: '#1bc2d3'
-Cover Artists:
-- Falcom
-Cover Art Dimensions: 2100x1534
+Has Cover Art: true
 Groups:
 - Brandish
 Commentary: |-
@@ -18,12 +17,10 @@ Commentary: |-
 Track: Ending II
 Name Style: utility
 Name Detail: album
-Directory: ending-ii-brandish-snes
-Reference By Directory: always
 URLs:
 - https://www.youtube.com/watch?v=kF0kGxXFTWQ
 Referenced Tracks:
-- track:ending-ii-brandish-pc-98
+- Ending II (Brandish, PC-98)
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 5/24/2026)
 
