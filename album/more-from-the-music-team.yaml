@@ -68,8 +68,7 @@ Commentary: |-
 Track: Jane Dargason
 Name Style: utility
 Name Detail: 5/11/2012
-Directory: jane-dargason-tumblr-may-11-2012
-Always Reference By Directory: true
+Suffix Directory: [tumblr, may-11-2012]
 Artists:
 - Clark Powell
 - rj lake
@@ -328,8 +327,6 @@ Commentary: |-
 ---
 Track: Ruins
 Name Detail: SoundCloud
-Directory: ruins-soundcloud
-Reference By Directory: always
 Date First Released: September 6, 2010
 Artists:
 - Erik Scheele
@@ -466,7 +463,7 @@ URLs:
 - https://www.furaffinity.net/view/3088590/
 - https://media.hsmusic.wiki/misc/archive/jit_underthehatbattle.mp3
 Referenced Tracks:
-- track:under-the-hat-original
+- Under the Hat (original)
 Commentary: |-
     <i>Erik Scheele:</i> ([FurAffinity description](https://www.furaffinity.net/view/3088590/))
 
@@ -486,8 +483,6 @@ Commentary: |-
 ---
 Track: Under the Hat
 Name Detail: original
-Directory: under-the-hat-original
-Reference By Directory: always
 Date First Released: November 25, 2009
 Artists:
 - Erik Scheele
@@ -538,7 +533,8 @@ Commentary: |-
 Track: Unnamed WIP
 Name Style: utility
 Name Detail: Tumblr, 9/18/2011
-Directory: unnamed-wip-erik-scheele-tumblr-september-18-2011
+Suffix Directory: [erik-scheele, tumblr, september-18-2011]
+Reference By Directory: always
 Date First Released: September 18, 2011
 Artists:
 - Erik Scheele
@@ -1211,7 +1207,7 @@ Commentary: |-
 Track: Unnamed WIP
 Name Style: utility
 Name Detail: Tumblr, 6/30/2013
-Directory: unnamed-wip-tensei-tumblr-june-30-2013
+Suffix Directory: [tensei, tumblr, june-30-2013]
 Reference By Directory: always
 Main Release: Unite Division (Beta) # Strife 2
 Date First Released: June 30, 2013
@@ -1252,8 +1248,6 @@ Section: Thomas Ibarra
 ---
 Track: Irradiated
 Name Detail: original
-Directory: irradiated-original
-Reference By Directory: always
 Additional Names:
 - Name: >-
     Irradiated (obsolete)
@@ -1347,8 +1341,6 @@ Commentary: |-
 ---
 Track: The Ballad of Jack Noir
 Name Detail: original
-Directory: the-ballad-of-jack-noir-original
-Reference By Directory: always
 Artists:
 - Toby Fox
 Duration: 2:47
@@ -1679,8 +1671,6 @@ Commentary: |-
 ---
 Track: Liquid Negrocity
 Name Detail: original
-Directory: liquid-negrocity-original
-Reference By Directory: always
 Artists:
 - Toby Fox
 Commentary: |-
@@ -1700,8 +1690,7 @@ Commentary: |-
 Track: Moonsetter
 Name Style: utility
 Name Detail: 5/14/2012
-Directory: moonsetter-tumblr-may-14-2012
-Reference By Directory: always
+Suffix Directory: [tumblr, may-14-2012]
 Date First Released: May 14, 2012
 Artists:
 - Toby Fox
