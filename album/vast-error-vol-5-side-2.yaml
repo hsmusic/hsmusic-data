@@ -1,4 +1,5 @@
 Album: 'Vast Error Vol. 5: Side 2'
+Directory Suffix: vast-error
 Date: September 12, 2022
 Date Added: April 13, 2024
 URLs:
@@ -171,7 +172,7 @@ Referenced Tracks:
 - My Way
 ---
 Track: Nightlife
-Directory: nightlife-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:33
 Artists:
@@ -210,7 +211,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/wonder-turner
 ---
 Track: Takedown
-Directory: takedown-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:32
 Artists:
@@ -268,7 +269,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/the-girlboss-blues
 ---
 Track: Promises
-Directory: promises-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 5:09
 Artists:
@@ -514,7 +515,7 @@ Lyrics: |-
     I wanna live for today
 ---
 Track: Beyonder
-Directory: beyonder-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:25
 Artists:
@@ -646,7 +647,7 @@ Referenced Tracks:
 # - Various audio and SFX from DANGANRONPA
 ---
 Track: Perfection
-Directory: perfection-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 4:44
 Artists:

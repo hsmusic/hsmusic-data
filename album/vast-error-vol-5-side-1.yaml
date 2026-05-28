@@ -1,4 +1,5 @@
 Album: 'Vast Error Vol. 5: Side 1'
+Directory Suffix: vast-error
 Date: September 05, 2022
 Date Added: April 13, 2024
 URLs:
@@ -56,7 +57,7 @@ Referenced Tracks:
 - Show's Over
 ---
 Track: Absolute
-Directory: absolute-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:51
 Artists:
@@ -106,7 +107,7 @@ Referenced Tracks:
 - Curtain Call
 ---
 Track: Hallowed Halls
-Directory: hallowed-halls-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 3:47
 Artists:
@@ -117,7 +118,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/hallowed-halls
 ---
 Track: Steadfast
-Directory: steadfast-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 3:08
 Artists:
@@ -128,7 +129,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/steadfast
 ---
 Track: Scattershot
-Directory: scattershot-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:36
 Artists:
@@ -192,7 +193,7 @@ URLs:
 - https://soundcloud.com/rab-cant-think-of-a-url/slithering-samba
 ---
 Track: Aurora
-Directory: aurora-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:34
 Artists:
@@ -256,7 +257,7 @@ URLs:
 - https://soundcloud.com/ctza/mechnical-heart
 ---
 Track: Indomitable
-Directory: indomitable-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 4:49
 Artists:
@@ -511,7 +512,7 @@ Referenced Tracks:
 - Invigorated Wasteland
 ---
 Track: Torchlight
-Directory: torchlight-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:10
 Artists:
@@ -932,7 +933,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/negative-feedback
 ---
 Track: Until Next Time
-Directory: until-next-time-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 3:45
 Artists:

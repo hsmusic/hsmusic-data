@@ -1,4 +1,5 @@
 Album: Vast Error Vol. 4
+Directory Suffix: vast-error
 Date: October 21, 2018
 Date Added: October 25, 2023
 Wallpaper File Extension: jpg
@@ -25,7 +26,7 @@ Groups:
 Section: Main album
 ---
 Track: Nostalgia
-Directory: nostalgia-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:02
 Artists:
@@ -52,7 +53,7 @@ URLs:
 - https://www.youtube.com/watch?v=uTdkuRwZgCg
 ---
 Track: Immortal
-Directory: immortal-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 3:31
 Artists:
@@ -96,7 +97,7 @@ URLs:
 - https://www.youtube.com/watch?v=R3sTjHC0iQM
 ---
 Track: Predestination
-Directory: predestination-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 3:16
 Artists:
@@ -111,7 +112,7 @@ URLs:
 - https://www.youtube.com/watch?v=aAdtCr4auCo
 ---
 Track: Corporate
-Directory: corporate-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:54
 Artists:
@@ -149,7 +150,7 @@ URLs:
 - https://soundcloud.com/pragmaticnihilist/l-c-rains
 ---
 Track: Secure
-Directory: secure-vast-error
+Suffix Directory: true
 Duration: 2:07
 Artists:
 - Cerulean
@@ -248,7 +249,7 @@ URLs:
 - https://www.youtube.com/watch?v=z0EvWgGdhc4
 ---
 Track: Nebula
-Directory: nebula-vast-error
+Suffix Directory: true
 Duration: 5:35
 Artists:
 - Circlejourney
@@ -309,7 +310,7 @@ URLs:
 - https://www.youtube.com/watch?v=NwINque1-EA
 ---
 Track: Refutation
-Directory: refutation-vast-error
+Suffix Directory: true
 Duration: 3:10
 Artists:
 - Viridian
@@ -350,7 +351,7 @@ Referenced Tracks:
 - At Death's Door [Demo]
 ---
 Track: Solidarity
-Directory: solidarity-vast-error
+Suffix Directory: true
 Duration: 4:16
 Artists:
 - Ucklin
@@ -465,7 +466,7 @@ URLs:
 - https://www.youtube.com/watch?v=CWnPOxICW3o
 ---
 Track: Transmuted
-Directory: transmuted-vast-error
+Suffix Directory: true
 Duration: 3:44
 Artists:
 - SplitSuns
@@ -516,7 +517,7 @@ URLs:
 - https://soundcloud.com/viridian01/farewell-but-not-goodbye
 ---
 Track: Pandora
-Directory: pandora-vast-error
+Suffix Directory: true
 Duration: 7:12
 Artists:
 - pragmaticNihilist
@@ -538,7 +539,7 @@ URLs:
 - https://soundcloud.com/pragmaticnihilist/pandora
 ---
 Track: Bittersweet
-Directory: bittersweet-vast-error
+Suffix Directory: true
 Duration: 3:08
 Artists:
 - Alex Votl
@@ -598,7 +599,7 @@ Section: Download-only tracks
 Track: Distortion
 Artists:
 - SplitSuns
-Directory: distortion-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:02
 URLs:

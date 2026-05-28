@@ -1,4 +1,5 @@
 Album: Vast Error Vol. 2
+Directory Suffix: vast-error
 Date: July 15, 2017
 Date Added: October 25, 2023
 URLs:
@@ -82,7 +83,7 @@ Commentary: |-
     A troublesome trek through the cold and desolate mountains.
 ---
 Track: Bias
-Directory: bias-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - sympolite
@@ -283,7 +284,7 @@ URLs:
 Section: Bonus track
 ---
 Track: Revelations
-Directory: revelations-vast-error
+Suffix Directory: true
 Additional Names:
 - Name: >-
     BONUS: Revelations

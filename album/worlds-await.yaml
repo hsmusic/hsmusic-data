@@ -28,7 +28,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/worlds-await
 ---
 Track: Spin
-Directory: spin-worlds-await
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 05:19
 Cover Artists:
@@ -41,7 +41,6 @@ Commentary: |-
     This was composed as a tie-in for my novel project [Revolving Door](https://rd.circlejourney.net/). Through the shifts in style and mood, and the interaction of theme melodies, I try to recreate personalities and relationships of various characters in musical form, telling a multiplicity of stories.
 ---
 Track: Vesper
-Directory: vesper
 Always Reference By Directory: true
 Duration: 01:57
 Cover Artists:
@@ -123,7 +122,7 @@ Commentary: |-
     Commissioned and titled by my friend Felicia Prasaja Natasha for a trailer project she was working on.
 ---
 Track: Marketplaces
-Directory: marketplaces-worlds-await
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 01:25
 URLs:
@@ -161,7 +160,7 @@ Commentary: |-
     The theme for Zethis, the White Knight in Of the Dragon, of the Stars, evoking the pastel colours of morning.
 ---
 Track: Unsaid
-Directory: unsaid-worlds-await
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 01:04
 Cover Artists:

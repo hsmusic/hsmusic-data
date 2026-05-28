@@ -1,4 +1,5 @@
 Album: Vast Error Vol. 3
+Directory Suffix: vast-error
 Date: December 18, 2017
 Date Added: October 25, 2023
 URLs:
@@ -16,7 +17,7 @@ Groups:
 Section: Main album
 ---
 Track: Sunrise
-Directory: sunrise-vast-error
+Suffix Directory: true
 Artists:
 - Kal-la-kal-la
 Duration: 03:18
@@ -72,7 +73,7 @@ URLs:
 - https://soundcloud.com/circlejourney/cosmic-significance
 ---
 Track: Oversaturated
-Directory: oversaturated-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - pragmaticNihilist
@@ -94,7 +95,7 @@ URLs:
 - https://www.youtube.com/watch?v=WzubecPr_u0
 ---
 Track: Poetic
-Directory: poetic-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Wheals
@@ -205,7 +206,7 @@ URLs:
 - https://www.youtube.com/watch?v=1y5ExG8_JAo
 ---
 Track: Clamor
-Directory: clamor-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Husr
@@ -237,7 +238,7 @@ URLs:
 - https://www.youtube.com/watch?v=kZoPBQb2p1k
 ---
 Track: Particle
-Directory: particle-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Ian Kraemer
@@ -268,7 +269,7 @@ URLs:
 - https://www.youtube.com/watch?v=_U6wWqgqht0
 ---
 Track: Time
-Directory: time-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Ian Kraemer
@@ -320,7 +321,7 @@ URLs:
 Section: Bonus track
 ---
 Track: Gone
-Directory: gone-vast-error
+Suffix Directory: true
 Additional Names:
 - Name: >-
     BONUS: Gone
