@@ -160,10 +160,16 @@ Track Artwork:
   File Extension: gif
   Attach Above: true
   Source: album download
+  File Notes: >-
+    Downscaled - see additional files for original GIF file
 URLs:
 - https://vasterror.bandcamp.com/track/white-vitriol
 Sampled Tracks:
 - Spatial Lights Above
+Additional Files:
+- Title: Alternate artwork (original file)
+  Description: Included in the album download.
+  Files: [White Vitriol (Alt).gif]
 ---
 Track: Flyfish
 Duration: 2:54

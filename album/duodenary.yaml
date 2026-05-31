@@ -201,17 +201,22 @@ Duration: 11:38
 Track Artwork:
 - Artists:
   - Larry Reverie
-- Label: Alternate art
+- Label: Alternate artwork
   Directory: alternate
   File Extension: gif
+  Attach Above: true
   Source: album download
-  Artists:
-  - Larry Reverie
+  File Notes: >-
+    Downscaled - see additional files for original GIF file
 URLs:
 - https://vasterror.bandcamp.com/track/life-in-motion
 - https://www.youtube.com/watch?v=4GWHsP1pqBk
 Sampled Tracks:
 - Walking on Clouds
+Additional Files:
+- Title: Alternate artwork (original file)
+  Description: Included in the album download.
+  Files: [Life_in_Motion_(Alt).gif]
 Referencing Sources: |-
     @@ [Bandcamp about blurb](https://vasterror.bandcamp.com/track/life-in-motion)
 

@@ -20,16 +20,16 @@ Duration: 2:35
 Artists:
 - Rom M
 Track Artwork:
-- Artists:
+- File Extension: jpg
+  Artists:
   - TK
-- Label: Alternate artwork (downscaled)
+- Label: Alternate artwork
   Directory: alternate
   File Extension: gif
   Attach Above: true
   Source: album download
-  Origin Details: >-
-    See "additional files" for original .gif
-Cover Art File Extension: jpg
+  File Notes: >-
+    Downscaled - see additional files for original GIF file
 URLs:
 - https://vasterror.bandcamp.com/track/two-sweeps-older
 - https://www.youtube.com/watch?v=Bimf8rx8iws

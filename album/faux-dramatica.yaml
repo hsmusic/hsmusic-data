@@ -61,13 +61,13 @@ Duration: 3:42
 Track Artwork:
 - Artists:
   - artist:dizzims
-- Label: Alternate artwork (downscaled)
+- Label: Alternate artwork
   Directory: alternate
   File Extension: gif
   Attach Above: true
   Source: album download
-  Origin Details: >-
-    See "additional files" for original .gif
+  File Notes: >-
+    Downscaled - see additional files for original GIF file
 Contributors:
 - Andrea Libman (Talald's vocals)
 Referenced Tracks:
@@ -216,7 +216,7 @@ Track Artwork:
   - captkirkland
   Tags:
   - 'cw: blood'
-- Label: Alternate artwork (downscaled)
+- Label: Alternate artwork
   Directory: alternate
   File Extension: gif
   Attach Above: true
@@ -224,8 +224,8 @@ Track Artwork:
   - 'cw: blood'
   - 'cw: eye strain'
   Source: album download
-  Origin Details: >-
-    See "additional files" for original .gif
+  File Notes: >-
+    Downscaled - see additional files for original GIF file
 Referenced Tracks:
 - Lament For A Dying Planet
 - Too Slow
