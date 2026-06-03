@@ -747,8 +747,11 @@ Content: |-
     - fixed [[track:sburban-cartdown]] not sampling [[track:sburban-countdown]] in addition to referencing it (thanks, Lavender!)
     - fixed [[track:findher]] not referencing [[track:lost-girl]] (thanks, vriska, ruby!)
     - fixed [[track:radiation-is-now-on-youtube]] referencing [[track:bro-hop]] instead of sampling it (thanks, Lilith, Jackie!)
+    - fixed [[track:choose-a-file]] not referencing [[track:twinkle-elementary-school]] (thanks, Lilith!)
     - fixed [[track:destiny-ablaze]] not referencing [[track:destiny-fire-emblem-awakening]] (thanks, ruby!)
     - fixed [[track:prelude-ablaze]] not referencing [[track:prelude-fire-emblem-awakening]] (thanks, ruby!)
+    - fixed [[track:sanctuary-guardian]] not referencing [[track:battle-theme-3-earthbound-beginnings]] (thanks, Lilith!)
+    - fixed [[track:smiles-and-tears]] not referencing [[track:eight-melodies-earthbound]] and [[track:eight-melodies-earthbound-beginnings]] (thanks, FF, Lilith!)
     - fixed [[track:cobalt-corsair]] artwork not referencing [[track:teal-hunter]] artwork (thanks, Lan!)
     - fixed [[track:old-secret]] artwork ([[album:hiveswap-friendsim]]) not referencing [[album:hiveswap-act-1-ost]] album cover (thanks, Jackie!)
     - fixed [[track:damaras-bees-fatalism-beemix]] artwork not referencing [[track:fatalism]] (thanks, Lan!)
@@ -1067,6 +1070,7 @@ Content: |-
     - fixed broken image embed in [[track:aaaaaaaaaaaaa-post-canon-version]] (for "In the Court of the Crimson King")
     - made a handful of formatting or transcription tweaks across YouTube video commentary for [[album:of-troles-and-chiptumes]] (thanks, cookiefonster!)
     - fixed Bandcamp link in booklet commentary for [[track:dwelling-among-the-dream-bubbles]] (was to a functioning, but outdated, "the-divide-ep" URL; thanks, Lilith!)
+    - replaced dead EarthBound Central link in commentary for [[track:smiles-and-tears]] with archived link (thanks, FF, Lavender, Lilith!)
     <!-- link fixes -->
     - fixed YouTube listening link for [[track:side-1-the-nobles]] ([[album:the-nobles]], was to [[track:determination-of-a-hero]]; thanks, Vi, Lan!)
     - fixed wiki archive listening link for [[track:obligatory-drum-loop]] (was typed incorrectly, "%" instead of "%20"; thanks, Lan!)
@@ -1110,6 +1114,7 @@ Content: |-
     - changed directory of [[track:forever-now-unbeatable-demo-tapes]] from `forever-now` to `forever-now-unbeatable-demo-tapes`
     - changed directory of [[track:boutique-pokemon-sword-shield]] from `boutique` to `boutique-pokemon-sword-shield`
     - changed directory of [[track:obtained-an-item-pokemon-scarlet-violet]] from `obtained-an-item` to `obtained-an-item-pokemon-scarlet-violet`
+    - changed directory of [[track:eight-melodies-earthbound]] from `eight-melodies` to `eight-melodies-earthbound`
     - changed directory of [[track:future-people-single]] from `future-people` to `future-people-single`
     - changed directory of [[track:sleeping-in-single]] from `sleeping-in` to `sleeping-in-single`
     - changed directory of [[track:do-the-homestuck-demo]] from `do-the-homestuck` to `do-the-homestuck-demo`
