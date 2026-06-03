@@ -3150,6 +3150,16 @@ Duration: 2:04
 URLs:
 - https://www.youtube.com/watch?v=2jxRBxUSvCo
 ---
+Track: Battle Theme 3 (EarthBound Beginnings)
+# Reference:
+#   https://vgmdb.net/album/106653
+Artists:
+- Mother
+- Hirokazu Tanaka
+Duration: 1:50
+URLs:
+- https://www.youtube.com/watch?v=avPBaQ7vWw8
+---
 Track: Battle Theme (Yūyūki)
 Directory: battle-theme-yuyuki
 # Reference:
@@ -3931,6 +3941,8 @@ Artists:
 Duration: 1:10
 URLs:
 - https://www.youtube.com/watch?v=CYzTLzhnMLM
+Referenced Tracks:
+- Twinkle Elementary School
 ---
 Track: Chrono Cross ~Scars of Time~
 # (See Corridors of Time for info on soundtrack/YouTube differences)
@@ -5065,7 +5077,16 @@ URLs:
 Referenced Tracks:
 - Fist Bump
 ---
-Track: Eight Melodies
+Track: Eight Melodies (EarthBound)
+# no official standalone release
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+URLs:
+- https://www.youtube.com/watch?v=W8WSZwX2xhg
+---
+Track: Eight Melodies (EarthBound Beginnings)
 # Reference
 #   https://vgmdb.net/album/106653
 Artists:
@@ -5074,7 +5095,7 @@ Artists:
 - Hirokazu Tanaka
 Duration: 1:17
 URLs:
-- https://www.youtube.com/watch?v=W8WSZwX2xhg
+- https://www.youtube.com/watch?v=-OaWAEhWZ28
 ---
 Track: The End (Chapter 1)
 Artists:
@@ -5901,7 +5922,7 @@ URLs:
 - https://nigoro.bandcamp.com/track/giants-cry-2
 ---
 Track: Giygas Disintegrates
-# (See Eight Melodies, no official soundtrack release)
+# (See Eight Melodies (EarthBound), no official soundtrack release)
 Artists:
 - Mother
 - Keiichi Suzuki
@@ -8279,7 +8300,7 @@ URLs:
 - https://www.youtube.com/watch?v=ql8K3KJyWgY
 ---
 Track: One Fateful Night
-# (See Eight Melodies, no official soundtrack release)
+# (See Eight Melodies (EarthBound), no official soundtrack release)
 Artists:
 - Mother
 - Keiichi Suzuki
@@ -9620,6 +9641,8 @@ Artists:
 Duration: 2:11
 URLs:
 - https://www.youtube.com/watch?v=A_Gj-RJeeng
+Referenced Tracks:
+- Battle Theme 3 (EarthBound Beginnings)
 ---
 Track: Sand Ocean
 # Reference:
@@ -9997,18 +10020,20 @@ URLs:
 - https://www.youtube.com/watch?v=2p9aPeTnXeI
 ---
 Track: Smiles and Tears
-# (See Eight Melodies, no official soundtrack release)
+# (See Eight Melodies (EarthBound), no official soundtrack release)
 Artists:
 - Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=vkAmD8A3CRk
+Referenced Tracks:
+- Eight Melodies (EarthBound)
+- Eight Melodies (EarthBound Beginnings)
 Lyrics: |-
     I miss you...
 Commentary: |-
-    <i>Mother:</i>
-    ([Full lyrics!](https://earthboundcentral.com/2009/01/smiles-tears-lyrics/))
+    @@ ([Full lyrics!](https://web.archive.org/web/20221206064929/https:/earthboundcentral.com/2009/01/smiles-tears-lyrics/))
 ---
 Track: Snake Eater
 # Reference:
@@ -10443,7 +10468,7 @@ URLs:
 - https://www.youtube.com/watch?v=oLOyVDP_ckQ
 ---
 Track: Super Dry Dance
-# (See Eight Melodies, no official soundtrack release)
+# (See Eight Melodies (EarthBound), no official soundtrack release)
 Artists:
 - Mother
 - Keiichi Suzuki
@@ -11609,7 +11634,7 @@ URLs:
 - https://www.youtube.com/watch?v=_K9-SwNBMSY
 ---
 Track: What a Great Picture!
-# (See Eight Melodies, no official soundtrack release)
+# (See Eight Melodies (EarthBound), no official soundtrack release)
 Artists:
 - Mother
 - Keiichi Suzuki
@@ -11841,7 +11866,7 @@ URLs:
 - https://www.youtube.com/watch?v=zWNkD4YWt_c
 ---
 Track: You Gained a Level!
-# (See Eight Melodies, no official soundtrack release)
+# (See Eight Melodies (EarthBound), no official soundtrack release)
 Artists:
 - Mother
 - Keiichi Suzuki
