@@ -1123,6 +1123,9 @@ Content: |-
     - changed directory of [[track:sleeping-in-single]] from `sleeping-in` to `sleeping-in-single`
     - changed directory of [[track:do-the-homestuck-demo]] from `do-the-homestuck` to `do-the-homestuck-demo`
     - changed directory of [[track:jane-dargason-5-11-2012]] from `jane-dargason-may-11` to `jane-dargason-5-11-2012`
+    - changed directory of [[track:descend-original-version-tensei]] from `descend-original-version` to `descend-original-version-tensei`
+    - changed directory of [[track:descend2-11-23-2010]] from `descend2-11-23` to `descend2-11-23-2010`
+    - changed directory of [[track:descend2-11-24-2010]] from `descend2-11-24` to `descend2-11-24-2010`
     - changed directories of all tracks across [[album:a-link-to-the-past]] to be suffixed `-a-link-to-the-past`, rather than `-the-legend-of-zelda-a-link-to-the-past`
     - changed directory of [[track:battle-rival-pokemon-black2-white2]] from `battle-rival-b2w2` to `battle-rival-pokemon-black2-white2`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainhoenn-version` to `battle-frontier-brain-hoenn-version`
@@ -2144,7 +2147,7 @@ Content: |-
     <h3>data fixes</h3>
     <!-- reference fixes -->
     - fixed [[track:fiduspawn-go]] not referencing [[track:title-screen-pokemon-red-blue]] (thanks, ruby!)
-    - fixed [[track:cascade-beta]] not referencing [[track:descend2-11-24]] (thanks, Tangle!)
+    - fixed [[track:cascade-beta]] not referencing [[track:descend2-11-24-2010]] (thanks, Tangle!)
     - fixed [[track:skaian-overdrive]] not referencing [[track:skaian-overdrive-original]] (original recording), and moved [[track:skaian-ride]] and [[track:sburban-jungle]] references to that track (thanks, Lilith!)
     - fixed [[track:freefall]] referencing [[track:cascade-beta]] instead of [[track:cascade2]]
     - fixed [[track:feel-alive]] referencing [[track:feel-old-ver]] instead of [[track:feel-luke-benjamins]], and [[track:feel-old-ver]] referencing [[track:feel-luke-benjamins]] instead of the other way around (thanks, Lilith, Whisper, ruby!)
