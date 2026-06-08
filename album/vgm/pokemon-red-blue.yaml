@@ -1,17 +1,30 @@
 Album: Pokémon Red & Pokémon Blue
 Directory: pokemon-red-blue
 Style: in-game vgm
-Date: February 27, 1996
-Color: '#f5fc8e'
+Date: September 28, 1998 #Pokémon Red & Pokémon Blue release date
+#Original Date: February 27, 1996 #Pokémon Red & Pokémon Green Japanese release date
+#Original Date: December, 1996 #Pokémon Blue Japanese release date
+Color: '#FF0000'
+Cover Art File Extension: png
 Track Artists:
 - Junichi Masuda
-Has Cover Art: false
 Groups:
 - Pokémon
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
 
     Except where otherwise noted, track details are from the album [GB Pokémon Complete Sound CD](https://vgmdb.net/album/141). English track names are adapted variously; we intend them to align with current official Pokémon music localization practices. The listed date is the games' Japanese release; the Complete Sound CD album released [[date:11/1/1997]].
+---
+Track: Battle! (Gym Leader Battle)
+Name Detail: album
+# JP: 戦い（ＶＳジムリーダー）
+# Official release:
+#   GB Pokémon Complete Sound CD
+#   ゲームボーイ『ポケモン』のサウンドがまるごと入って、遊べるCD
+#   https://vgmdb.net/album/141
+Duration: 2:00
+URLs:
+- https://www.youtube.com/watch?v=RJKIrqO1Zas
 ---
 Track: Battle! (Trainer Battle)
 Name Detail: album
@@ -42,3 +55,145 @@ Additional Names:
 Duration: 0:35
 URLs:
 - https://www.youtube.com/watch?v=9EQQuCI7GJY
+---
+Track: 'Fanfare: Evolution'
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/product/2236
+URLs:
+- https://www.youtube.com/watch?v=pJ63z7FeWdc
+---
+Track: The Final Road
+Name Detail: album
+# https://vgmdb.net/album/141
+Duration: 1:14
+URLs:
+- https://www.youtube.com/watch?v=kM1b7xUi3gI
+Referenced Tracks:
+- Title Screen (Pokémon Red & Pokémon Blue)
+---
+Track: Guide
+Name Detail: album
+# https://vgmdb.net/album/141
+Duration: 0:38
+URLs:
+- https://www.youtube.com/watch?v=hisJvtF8qu0
+---
+Track: Hall of Fame
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/57107
+Duration: 1:04
+URLs:
+- https://www.youtube.com/watch?v=uq86eIdMNdY
+---
+Track: Level Up!
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/57107 I guess?
+Duration: 0:02
+URLs:
+- https://www.youtube.com/watch?v=OGXUoqSYscc
+---
+Track: Obtained a Gym Badge
+Name Detail: album
+## I can't find any uploads of the original Red / Blue jingle
+Duration:
+---
+Track: Obtained a Pokémon
+Name Detail: album
+Duration: 0:03
+URLs:
+- https://www.youtube.com/watch?v=hphjpkEfIW0
+---
+Track: Obtained an Item!
+Name Detail: album
+Duration: 0:02
+URLs:
+- https://www.youtube.com/watch?v=1yTPevyGoKk
+---
+Track: Pokémon Caught
+Name Detail: album
+Duration: 0:03
+URLs:
+- https://www.youtube.com/watch?v=xgX0zPfAsv0
+---
+Track: Pokémon Center
+Name Detail: album
+# JP: ポケモンセンター
+# Official release:
+#   ポケモン 赤・緑 スーパーミュージック・コレクション
+# Reference:
+#   https://vgmdb.net/album/141
+Duration:
+URLs:
+- https://www.youtube.com/watch?v=voX_Xd-LuZc&t=53
+---
+Track: Pokémon Gym
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/141
+Duration: 1:15
+URLs:
+- https://www.youtube.com/watch?v=A3IQFA-we6I
+---
+Track: Pokémon Healed
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/57107
+Duration: 0:07
+URLs:
+- https://www.youtube.com/watch?v=2tyuKGLVHTQ
+---
+Track: Recovery
+Name Detail: album
+# JP: ポケモンセンター
+# Official release:
+#   ポケモン 赤・緑 スーパーミュージック・コレクション
+# Reference:
+#   https://vgmdb.net/album/141
+Duration: 0:07
+URLs:
+- https://www.youtube.com/watch?v=cI7a0d4u9SA
+---
+Track: Title Screen
+Name Detail: album
+# JP: 〜オープニング〜
+# Official release:
+#   ポケモン 赤・緑 スーパーミュージック・コレクション
+# Reference:
+#   https://vgmdb.net/album/141
+Duration: 1:58
+URLs:
+- https://www.youtube.com/watch?v=qsRdjQWbh8E
+---
+Track: A Trainer Appears (Girl Version)
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/57107
+URLs:
+- https://www.youtube.com/watch?v=NIwTJi861IA
+---
+Track: Victory! (Gym Leader Battle)
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/57107
+Duration: 0:57
+URLs:
+- https://www.youtube.com/watch?v=EBgSIonPpp0
+---
+Track: Victory! (Trainer Battle)
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/141
+Duration: 0:31
+URLs:
+- https://www.youtube.com/watch?v=NFch6XO5I_c
+---
+Track: Victory! (Wild Pokémon)
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/57107
+Duration: 0:37
+URLs:
+- https://www.youtube.com/watch?v=lhif3fo6oCU
