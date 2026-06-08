@@ -7642,6 +7642,20 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=EXv5madDarI
 ---
+Track: NO REMORSE TrueLastBoss
+# Reference:
+#   https://vgmdb.net/album/617
+Artists:
+- Ketsui -Kizuna Jigoku Tachi-
+- Manabu Namiki
+Duration: 3:54
+URLs:
+- https://www.youtube.com/watch?v=a3TZ9t44nIo
+Sampled Tracks:
+- Amen, Brother
+Referenced Tracks:
+- 緋蜂 TrueLastBoss
+---
 Track: Noisy Notebook
 # Reference:
 #   https://vgmdb.net/product/9068
@@ -11076,6 +11090,19 @@ Artists:
 Duration: 4:49
 URLs:
 - https://www.youtube.com/watch?v=rKfmGqlp8D4
+---
+Track: 緋蜂 TrueLastBoss
+Directory: hibachi-truelastboss
+# Reference:
+#   https://vgmdb.net/album/617
+Artists:
+- DonPachi
+- Manabu Namiki
+Duration: 2:53
+URLs:
+- https://www.youtube.com/watch?v=TIQj92WAl-I
+Sampled Tracks:
+- Amen, Brother
 ---
 Section: Music composed for movies, television, and other visual arts
 ---
@@ -27900,6 +27927,7 @@ Duration: 3:26
 URLs:
 - https://www.youtube.com/watch?v=R_lYJpMqsiQ
 Referenced Tracks:
+- NO REMORSE TrueLastBoss
 - track:un-owen-was-her
 ---
 Track: Fireflies
