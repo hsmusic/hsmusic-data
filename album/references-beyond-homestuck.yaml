@@ -2506,23 +2506,6 @@ URLs:
 Referenced Tracks:
 - Title Screen (Pokémon Red & Pokémon Blue)
 ---
-Track: Battle! (Champion) (Pokémon Gold & Pokémon Silver)
-# JP: 戦闘！チャンピオン
-# Official release:
-#   Pokémon HeartGold & Pokémon SoulSilver: Super Music Collection
-#   ニンテンドーDS ポケモン ハートゴールド&ソウルシルバー ミュージック・スーパーコンプリート
-# Reference:
-#   https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_HeartGold_%26_Pok%C3%A9mon_SoulSilver:_Super_Music_Collection
-Directory: battle-champion-pokemon-gold-silver
-Artists:
-- artist:pokemon
-- Junichi Masuda
-Duration: 1:11
-URLs:
-- https://www.youtube.com/watch?v=Jxk9DqdYsJ4
-Referenced Tracks:
-- Title Screen (Pokémon Red & Pokémon Blue)
----
 Track: Battle! (Colress)
 # JP: 戦闘！アクロマ
 # Official release:
@@ -2890,19 +2873,6 @@ URLs:
 - https://www.youtube.com/watch?v=dy7F6RytrTM
 Referenced Tracks:
 - Battle! (Dusk Mane Necrozma / Dawn Wings Necrozma)
----
-Track: Battle! (Wild Pokémon—Johto Version) (Pokémon Gold & Pokémon Silver)
-# Official release:
-#   Pokémon HeartGold & Pokémon SoulSilver: Super Music Collection
-# Reference:
-#   https://vgmdb.net/album/15237
-Directory: battle-wild-pokemon-johto-version-pokemon-gold-silver
-Artists:
-- artist:pokemon
-- Junichi Masuda
-Duration: 0:55
-URLs:
-- https://www.youtube.com/watch?v=eQq2v6kBKSM
 ---
 Track: Battle! (Wild Pokémon) (Pokémon Black & Pokémon White)
 # Reference:
@@ -7683,39 +7653,6 @@ Duration: 1:16
 URLs:
 - https://www.youtube.com/watch?v=RK0FO-Oe760
 ---
-Track: Pokédex Evaluation... Complete! (Pokémon Gold & Pokémon Silver)
-# Reference:
-#   none xd
-Directory: pokedex-evalution-complete-pokemon-gold-silver
-Artists:
-- Pokémon
-- Morikazu Aoki
-Duration: 1:14
-URLs:
-- https://www.youtube.com/watch?v=MjZIjHu0OfY
----
-Track: 'Pokégear Radio: Pokémon Lullaby (Pokémon Gold & Pokémon Silver)'
-# Reference:
-#   https://vgmdb.net/album/15237
-Directory: pokegear-radio-pokemon-lullaby-pokemon-gold-silver
-Artists:
-- Pokémon
-- Junichi Masuda
-Duration:
-URLs:
-- https://www.youtube.com/watch?v=_i3TpsP_NJ0
----
-Track: 'Pokégear Radio: Pokémon March (Pokémon Gold & Pokémon Silver)'
-# Reference:
-#   https://vgmdb.net/album/15237
-Directory: pokegear-radio-pokemon-march-pokemon-gold-silver
-Artists:
-- Pokémon
-- Junichi Masuda
-Duration: 1:14
-URLs:
-- https://www.youtube.com/watch?v=7Wmk58-o_r8
----
 Track: Pokémon Center (Night) (Pokémon Diamond & Pokémon Pearl)
 # Reference:
 #   https://vgmdb.net/album/3945
@@ -8028,23 +7965,6 @@ Artists:
 - Masafumi Takada
 URLs:
 - https://www.youtube.com/watch?v=Rq7PkSBaUG8
----
-Track: Received a Pokémon Egg! (Pokémon Gold & Pokémon Silver)
-Directory: received-a-pokemon-egg-pokemon-gold-silver
-Artists:
-- Pokémon
-- Morikazu Aoki
-Duration: 0:04
-URLs:
-- https://www.youtube.com/watch?v=_xycGmmgbF4
----
-Track: Received a TM! (Pokémon Gold & Pokémon Silver)
-#cant find standalone upload xd
-Directory: received-a-tm-pokemon-gold-silver
-Artists:
-- Pokémon
-- Junichi Masuda
-Duration:
 ---
 Track: Reconstructing More Science
 # Official release in a lovely free download
