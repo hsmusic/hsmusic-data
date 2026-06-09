@@ -2549,25 +2549,6 @@ URLs:
 Referenced Tracks:
 - Battle! (Solgaleo / Lunala)
 ---
-Track: Battle! (Elite Four) (Pokémon Black & Pokémon White)
-# JP: 戦闘！四天王
-# Official release:
-#   Pokémon Black & Pokémon White: Super Music Collection
-#   ニンテンドーDS ポケモンブラック・ホワイト スーパーミュージックコレクション
-# Reference:
-#   https://bulbapedia.bulbagarden.net/wiki/Pokémon_Black_%26_Pokémon_White:_Super_Music_Collection
-Directory: battle-elite-four-pokemon-black-white
-Artists:
-- artist:pokemon
-- Go Ichinose (arranger)
-Contributors:
-- Junichi Masuda (composer)
-Duration: 2:51
-URLs:
-- https://www.youtube.com/watch?v=xTIX7f9wFB8
-Referenced Tracks:
-- Battle! (Elite Four) (Pokémon Ruby & Pokémon Sapphire)
----
 Track: Battle! (Elite Four) (Pokémon Sun & Pokémon Moon)
 Directory: battle-elite-four-pokemon-sun-moon
 # Reference:
@@ -2717,19 +2698,6 @@ URLs:
 Referenced Tracks:
 - Battle! (Steven) (Pokémon Ruby & Pokémon Sapphire)
 ---
-Track: Battle! (Strong Wild Pokémon) (Pokémon Black & Pokémon White)
-# Reference:
-#   https://vgmdb.net/album/20831
-Directory: battle-strong-wild-pokemon-pokemon-black-white
-Artists:
-- artist:pokemon
-- Go Ichinose
-Referenced Tracks:
-- Battle! (Wild Pokémon) (Pokémon Black & Pokémon White)
-Duration: 2:04
-URLs:
-- https://www.youtube.com/watch?v=2jxRBxUSvCo
----
 Track: Battle Theme 3
 Name Detail: EarthBound Beginnings
 # Reference:
@@ -2751,21 +2719,6 @@ Artists:
 #Duration: ''
 #URLs:
 #-
----
-Track: Battle! (Trainer Battle) (Pokémon Black & Pokémon White)
-Directory: battle-trainer-battle-pokemon-black-white
-# Reference:
-#   https://vgmdb.net/album/20831
-Artists:
-- artist:pokemon
-- Go Ichinose (arranger)
-Contributors:
-- Junichi Masuda (composer)
-Duration: 3:33
-URLs:
-- https://www.youtube.com/watch?v=UFffYnhlWyQ
-Referenced Tracks:
-- Title Screen (Pokémon Red & Pokémon Blue)
 ---
 Track: Battle! (Trainer) (Pokémon Sun & Pokémon Moon)
 Directory: battle-trainer-pokemon-sun-moon
@@ -2792,19 +2745,6 @@ URLs:
 - https://www.youtube.com/watch?v=dy7F6RytrTM
 Referenced Tracks:
 - Battle! (Dusk Mane Necrozma / Dawn Wings Necrozma)
----
-Track: Battle! (Wild Pokémon) (Pokémon Black & Pokémon White)
-# Reference:
-#   https://vgmdb.net/album/20831
-Directory: battle-wild-pokemon-pokemon-black-white
-Artists:
-- artist:pokemon
-- Go Ichinose (arranger)
-Contributors:
-- Junichi Masuda (composer)
-Duration: 2:03
-URLs:
-- https://www.youtube.com/watch?v=iBvj8Qt2ndI
 ---
 Track: Battle! (Wild Pokémon) (Pokémon Sun & Pokémon Moon)
 Directory: battle-wild-pokemon-pokemon-sun-moon
@@ -4350,14 +4290,6 @@ Duration: 1:37
 URLs:
 - https://www.youtube.com/watch?v=YM75br4y4Z0
 ---
-Track: Driftveil City
-Artists:
-- Pokémon
-- Hitomi Sato
-Duration: 1:31
-URLs:
-- https://www.youtube.com/watch?v=9hZ7gYB4E_c
----
 Track: Drill Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -5736,20 +5668,6 @@ Artists:
 Duration: 1:22
 URLs:
 - https://www.youtube.com/watch?v=CUZlDht8iro
----
-Track: Icirrus City
-# JP: セッカシティ
-# Official release:
-#   Pokémon Black & Pokémon White: Super Music Collection
-#   ニンテンドーDS ポケモンブラック・ホワイト スーパーミュージックコレクション
-# Reference:
-#   https://bulbapedia.bulbagarden.net/wiki/Pokémon_Black_%26_Pokémon_White:_Super_Music_Collection
-Artists:
-- artist:pokemon
-- Shota Kageyama
-Duration: 1:46
-URLs:
-- https://www.youtube.com/watch?v=vMTqSl-usYI
 ---
 Track: Id (Purpose)
 # Reference:
@@ -7207,34 +7125,6 @@ Duration: 1:20
 URLs:
 - https://www.youtube.com/watch?v=cC3RAh9-zvQ
 ---
-Track: Opelucid City (Pokémon Black)
-# Reference:
-#   https://vgmdb.net/album/20831
-#   mislabeled as Opelucid City Gym
-Directory: opelucid-city-pokemon-black
-Artists:
-- Pokémon
-- Go Ichinose
-Duration: 4:06
-URLs:
-- https://www.youtube.com/watch?v=xRWWKVPlaeo
-Referenced Tracks:
-- Opelucid City (Pokémon White)
----
-Track: Opelucid City (Pokémon White)
-# Reference:
-#   https://vgmdb.net/album/20831
-#   mislabeled as Opelucid City Gym
-Directory: opelucid-city-pokemon-white
-Artists:
-- Pokémon
-- Go Ichinose
-Duration: 3:30
-URLs:
-- https://www.youtube.com/watch?v=uexroE8wGys
-Referenced Tracks:
-- Opelucid City (Pokémon Black)
----
 Track: Opening Animation Music (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -7887,17 +7777,6 @@ Duration: 6:07
 URLs:
 - https://disasterpeace.bandcamp.com/track/the-refiners-fire
 ---
-Track: Relic Song (Pokémon Black & Pokémon White)
-# Reference:
-#   https://vgmdb.net/album/33367
-Directory: relic-song-pokemon-black-white
-Artists:
-- Pokémon
-- Shota Kageyama
-Duration: 0:40
-URLs:
-- https://www.youtube.com/watch?v=AAtGtY9-UCs
----
 Track: report_Bobdyfound #[sic]
 Artists:
 - Among Us
@@ -8172,40 +8051,6 @@ Artists:
 Duration: 0:03
 URLs:
 - https://www.youtube.com/watch?v=1geG058Bpls
----
-Track: Route 2 (Spring/Summer)
-Directory: route-2-spring-summer
-# Reference:
-#   https://vgmdb.net/album/20831
-Artists:
-- artist:pokemon
-- Hitomi Sato
-Duration: 1:32
-URLs:
-- https://www.youtube.com/watch?v=T4dDCK4f9nU
----
-Track: Route 4 (Spring)
-# Reference:
-#   https://vgmdb.net/album/20831
-Artists:
-- artist:pokemon
-- Shota Kageyama (arranger)
-Contributors:
-- Junichi Masuda (composer)
-Duration: 1:24
-URLs:
-- https://www.youtube.com/watch?v=BhtijNtEc3g
----
-Track: Route 6 (Spring/Summer)
-Directory: route-6-spring-summer
-# Reference:
-#   https://vgmdb.net/album/20831
-Artists:
-- artist:pokemon
-- Shota Kageyama
-Duration: 1:22
-URLs:
-- https://www.youtube.com/watch?v=2LjFKoykfLE
 ---
 Track: Route 23 (Pokémon Black 2 / Pokémon White 2)
 Directory: route-23-pokemon-black2-white2
@@ -9236,19 +9081,6 @@ Artists:
 Duration: 1:09
 URLs:
 - https://www.youtube.com/watch?v=39FN_LsRMzE
----
-Track: Title Screen (Pokémon Black & Pokémon White)
-# Reference:
-#   https://vgmdb.net/album/20831
-Directory: title-screen-pokemon-black-white
-Artists:
-- artist:pokemon
-- Go Ichinose
-Duration: 1:19
-URLs:
-- https://www.youtube.com/watch?v=SVc6sQcQMmA
-Referenced Tracks:
-- Title Screen (Pokémon Red & Pokémon Blue)
 ---
 Track: Title Theme (Animal Crossing)
 # Reference:
