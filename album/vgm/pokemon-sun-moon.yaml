@@ -2,8 +2,8 @@ Album: Pokémon Sun & Pokémon Moon
 Directory: pokemon-sun-moon
 Style: in-game vgm
 Date: November 18, 2016
-Color: '#f5fc8e'
-Has Cover Art: false
+Color: '#F59122'
+Cover Art File Extension: png
 Groups:
 - Pokémon
 Commentary: |-
@@ -23,3 +23,76 @@ Artists:
 Duration: 2:45
 URLs:
 - https://www.youtube.com/watch?v=k4QwSPQaIVA
+---
+Track: The Battle at the Summit!
+# Reference:
+#   https://vgmdb.net/album/61193
+Artists:
+- Go Ichinose
+Duration: 3:46
+URLs:
+- https://www.youtube.com/watch?v=-dkK9r57BNk
+Referenced Tracks:
+- Title Screen (Pokémon Red & Pokémon Blue)
+---
+Track: Battle! (Elite Four)
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/61193
+Artists:
+- Junichi Masuda
+Duration: 2:06
+URLs:
+- https://www.youtube.com/watch?v=mAk0dNzrPcE
+---
+Track: Battle! (Gladion)
+# Reference:
+#   https://vgmdb.net/album/61193
+Directory: battle-gladion
+Artists:
+- Go Ichinose
+Duration: 2:35
+URLs:
+- https://www.youtube.com/watch?v=SLPihi6flA8
+---
+Track: Battle! (Island Kahuna)
+# Reference:
+#   https://vgmdb.net/album/61193
+Artists:
+- Go Ichinose (composer & arranger)
+- Junichi Masuda (composer)
+Duration: 3:34
+URLs:
+- https://www.youtube.com/watch?v=wIjsuw0uIqA
+---
+Track: Battle! (Solgaleo / Lunala)
+# Reference:
+#   https://vgmdb.net/album/61193
+Artists:
+- Junichi Masuda
+Duration: 3:17
+URLs:
+- https://www.youtube.com/watch?v=sGAnfjPn6lc
+---
+Track: Battle! (Trainer)
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/61193
+Artists:
+- Junichi Masuda (composer)
+- Minako Adachi (arranger)
+- Go Ichinose (arranger)
+Duration: 2:54
+URLs:
+- https://www.youtube.com/watch?v=KwI02CpAod8
+---
+Track: Battle! (Wild Pokémon)
+Name Detail: album
+# Reference:
+#   https://vgmdb.net/album/61193
+Artists:
+- Junichi Masuda (composer)
+- Go Ichinose (arranger)
+Duration: 2:04
+URLs:
+- https://www.youtube.com/watch?v=vgBoQUaEKpk
