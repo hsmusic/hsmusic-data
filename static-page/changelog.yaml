@@ -32,6 +32,39 @@ Style: |-
         margin-bottom: 0.5em;
     }
 Content: |-
+    <h2 id="12-jun-2026"><html:a href="#12-jun-2026">[[date:12 June 2026]] - Allan, if you could</a></h2>
+    <h3>🐏</h3>
+    - These are a bunch of fixes that have come along to [the preview wiki](https://preview.hsmusic.wiki/) over the last year or so. There's lots else still going on over there, so it'll be a while before the update is out - and I figured better to get these changes out sooner, rather than leave them waiting for ages and ages!
+    - Thanks for all your suggestions, comments, feedback and tips, as ever. 🙏 —Lan
+    <h3>data fixes</h3>
+    - fixed [[artist:domble]], [[artist:kendle-iulus]], and [[artist:nick-tucker]] having some credits under other names (thanks, Makin, Lilith, Lan!)
+    - fixed [[track:riches-to-ruins-movements-pt-ii]] ([[album:pesterquest-soundtrack]]) missing an "in-game credits" annotation on one of its additional names (thanks, Surge!)
+    - fixed [[track:break-the-bow]] ([[album:alternate-hues-and-melodies]]) being named "D--> Break the Bow" (no space between bow and arrow; thanks, Lilith!)
+    - fixed [[flash:fs-vol1|Of Bloodthirst and Bratwurst]] being named "Of Bloodthurst and Bratwurst" ("Bloodthurst" instead of "Bloodthirst"; thanks, Meulanie, Lilith, Lavender!)
+    - fixed main release of [[track:safari-zone-night-selection]] being [[track:polder-town-night]] instead of [[track:safari-zone]] (thanks, Lilith!)
+    - fixed duration of [[track:console-wars]] (was 2:35, now 2:04; thanks, Snow, Lilith!)
+    - fixed duration of [[track:skullheart-duskwalk]] (was 10:32, now 2:51; thanks, Snow, Lilith!)
+    - fixed duration of [[track:sleeper-agent]] (was 1:16, now 2:54; thanks, Lan!)
+    - fixed [[track:emmy]], [[track:fly-away-2010]], and [[track:till-tomorrow]] having no durations (thanks, wertercatt!)
+    - fixed [[track:bars-jailbreak]] listing [[track:retrobution]] NSF instead of the NSF for Bars (thanks, Lilith!)
+    - fixed misformatted blockquotes in AMA commentary for [[track:doctor]] (thanks, Lan!)
+    - fixed broken link formatting in annotation of Tumblr commentary for [[track:skaian-ride]] (thanks, Lan!)
+    - fixed misplaced anthology art commentary for [[track:pumpkin-cravings]] (was placed on [[track:welcome-to-the-new-extreme]]; thanks, HunZhen, Amberlina!)
+    - fixed dead panel link in commenary for [[track:frost-vol6]] (thanks, Lavender!)
+    - fixed broken link formatting in Bandcamp credits blurb for [[album:strife]] (thanks, Lilith!)
+    - fixed broken link formatting in booklet commentary for [[track:emissary-of-dance]] (thanks, Lilith!)
+    - fixed Bandcamp credits blurb for [[album:jailbreak-vol-1]] listing [[artist:cadalyst]] instead of [[artist:rebecca-harding]] (thanks, Lilith!)
+    - fixed broken image embed in [[track:aaaaaaaaaaaaa-post-canon-version]] (for "In the Court of the Crimson King")
+    - fixed misplaced commentary for [[album:his-honorable-tyranny]] (was doubled from [[album:legion]]; thanks, Tangle!)
+    - fixed wiki archive listening link for [[track:obligatory-drum-loop]] (was typed incorrectly, "%" instead of "%20"; thanks, Lan!)
+    - fixed YouTube listening links linking to tracks with playlist attached, across [[album:oceanfalls-vol-2]], [[album:oceanfalls-vol-4]] and [[album:oceanfalls-vol-five]] (thanks, Lilith!)
+    - removed dead link in commentary for [[track:threxecute]] (thanks, Lilith!)
+    - removed dead SoundCloud listening link for [[track:gold-mage]] (thanks, Meulanie, Lavender!)
+    - removed dead Bandcamp listening links across [[album:the-strider-mixtape]] (thanks, Geese, Lilith!)
+    - removed dead Bandcamp listening link for [[album:bl1nd-just1c3-1nv3st1g4t1on-soapstone]] (thanks, Lilith, Lan!)
+    - removed dead SoundCloud listening link for [[track:bloodsucker-brawl]] (thanks, Lan!)
+    - removed dead Bandcamp listening links for [[track:ascending-strife]], [[track:avarice-paradox-music-team]], [[track:candlelit-contemplation-beta]], [[track:deception-paradox-music-team]], [[track:proletariat-paradox-music-team]], [[track:spritely-gardener-beta]], [[track:vexation-paradox-music-team]], and [[track:wilyesp-remix-attempt-wip]] (thanks, Lilith!)
+
     <h2 id="25-may-2026"><html:a href="#25-may-2026">[[date:25 May 2026]] - Blind Watchmaker</a></h2>
     <h3>data fixes</h3>
     - fixed date for [[flash:3952]] (was [[date:8/15/2011]], now [[date:7/15/2011]]; thanks, Lan!)
