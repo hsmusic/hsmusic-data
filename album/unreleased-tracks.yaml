@@ -857,6 +857,7 @@ Commentary: |-
     its over
 ---
 Section: Tracks featured in Beyond Canon
+Directory Suffix: beyond-canon
 ---
 Track: hell_tierwav
 Artists:
@@ -1029,3 +1030,15 @@ Artists:
 Duration: '1:59'
 URLs:
 - https://www.youtube.com/watch?v=trmdHWtUmog
+---
+Track: Purple
+Suffix Directory: section
+Reference By Directory: always
+Duration: '1:10'
+Artists:
+- MEMODEMO
+Referenced Tracks:
+- Ocean Stars
+Music Videos:
+- Label: Artist commentary
+  URL: https://www.youtube.com/watch?v=gbW6oLvE5gk
