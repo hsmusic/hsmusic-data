@@ -1,4 +1,5 @@
 Album: 'Pokémon Sword & Pokémon Shield + Expansion Pass: Super Music Collection'
+Name Detail For Tracks: Pokémon Sword & Pokémon Shield
 Directory: pokemon-sword-shield-super-music-collection
 Directory Suffix: pokemon-sword-shield
 Artists:
@@ -29,9 +30,9 @@ Start Counting From: 1
 Color: '#00a2e7'
 ---
 Track: Title Screen
+Name Detail: album
 Additional Names:
 - タイトル (Japanese release)
-Suffix Directory: true
 Duration: 1:25
 Artists:
 - Go Ichinose
@@ -148,9 +149,9 @@ URLs:
 - https://www.youtube.com/watch?v=FidGR2tps-o
 ---
 Track: Obtained an Item!
+Name Detail: album
 Additional Names:
 - どうぐを手に入れた！ (Japanese release)
-Suffix Directory: true
 Duration: 0:04
 Artists:
 - Minako Adachi
@@ -180,9 +181,9 @@ URLs:
 - https://www.youtube.com/watch?v=sRHXOydAFxs
 ---
 Track: Obtained a Key Item!
+Name Detail: album
 Additional Names:
 - たいせつなどうぐを手に入れた！ (Japanese release)
-Suffix Directory: true
 Duration: 0:04
 Artists:
 - Minako Adachi
@@ -192,9 +193,9 @@ Referenced Tracks:
 - Obtained a Pokémon (Pokémon Red & Pokémon Blue)
 ---
 Track: Pokémon Center
+Name Detail: album
 Additional Names:
 - ポケモンセンター (Japanese release)
-Suffix Directory: true
 Duration: 2:17
 Artists:
 - Minako Adachi
@@ -205,9 +206,9 @@ Referenced Tracks:
 - Pokémon Center (Pokémon Red & Pokémon Blue)
 ---
 Track: Pokémon Healed
+Name Detail: album
 Additional Names:
 - 回復 (Japanese release)
-Suffix Directory: true
 Duration: 0:05
 Artists:
 - Go Ichinose
@@ -218,9 +219,9 @@ Referenced Tracks:
 - Pokémon Healed (Pokémon Red & Pokémon Blue)
 ---
 Track: Battle! (Wild Pokémon)
+Name Detail: album
 Additional Names:
 - 戦闘！野生ポケモン (Japanese release)
-Suffix Directory: true
 Duration: 2:22
 Artists:
 - Go Ichinose
@@ -229,9 +230,9 @@ URLs:
 - https://www.youtube.com/watch?v=lV30h2U-k-4
 ---
 Track: Victory! (Wild Pokémon)
+Name Detail: album
 Additional Names:
 - 野生ポケモンに勝利！ (Japanese release)
-Suffix Directory: true
 Duration: 0:31
 Artists:
 - Go Ichinose
@@ -501,9 +502,9 @@ URLs:
 - https://www.youtube.com/watch?v=6oYY6ZfJ_KE
 ---
 Track: Trainers' Eyes Meet (Trainer)
+Name Detail: album
 Additional Names:
 - 視線！トレーナー (Japanese release)
-Suffix Directory: true
 Duration: 0:18
 Artists:
 - Go Ichinose
@@ -514,9 +515,9 @@ Referenced Tracks:
 - track:battle-trainer-pokemon-sword-shield
 ---
 Track: Battle! (Trainer)
+Name Detail: album
 Additional Names:
 - 戦闘！トレーナー (Japanese release)
-Suffix Directory: true
 Duration: 3:08
 Artists:
 - Go Ichinose
@@ -527,9 +528,9 @@ Referenced Tracks:
 - Title Screen (Pokémon Red & Pokémon Blue)
 ---
 Track: Victory! (Trainer)
+Name Detail: album
 Additional Names:
 - トレーナーに勝利！ (Japanese release)
-Suffix Directory: true
 Duration: 0:33
 Artists:
 - Go Ichinose
@@ -553,9 +554,9 @@ Referenced Tracks:
 - A Trainer Appears (Girl Version) (Pokémon Red & Pokémon Blue)
 ---
 Track: Evolution
+Name Detail: album
 Additional Names:
 - 進化 (Japanese release)
-Suffix Directory: true
 Duration: 0:59
 Artists:
 - Minako Adachi
@@ -582,6 +583,7 @@ Sampled Tracks:
 - Evolution (Pokémon Red & Pokémon Blue)
 ---
 Track: Congratulations! Your Pokémon Evolved!
+Name Detail: album
 Additional Names:
 - 進化おめでとう！ (Japanese release)
 Duration: 0:05
@@ -703,9 +705,9 @@ Referenced Tracks:
 - Gym Mission!
 ---
 Track: Battle! (Gym Leader)
+Name Detail: album
 Additional Names:
 - 戦闘！ジムリーダー (Japanese release)
-Suffix Directory: true
 Duration: 5:14
 Artists:
 - Minako Adachi
@@ -714,9 +716,9 @@ URLs:
 - https://www.youtube.com/watch?v=JJJZ5s1ddoI
 ---
 Track: Victory! (Gym Leader)
+Name Detail: album
 Additional Names:
 - ジムリーダーに勝利！ (Japanese release)
-Suffix Directory: true
 Duration: 0:45
 Artists:
 - Minako Adachi
