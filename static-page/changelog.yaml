@@ -485,6 +485,7 @@ Content: |-
     - added date for Tumblr commentary on [[track:jane-dragon]] (thanks, Lan!)
     - added sources for YouTube track art across [[album:cookiefonsters-2016-famitracker-covers]] (thanks, Lan!)
     - added origin details for [[track:fractal-flowers]] and [[track:replicollision]] (thanks, Lan, Lilith!)
+    - touched up commentary citations across [[album:album-of-stories-and-imagination]] (thanks, Lan!)
     - touched up SoundCloud genre and additional tag citations (thanks, Lan!)
     <h3>data changes</h3>
     <!-- new stuff & big miscellany -->
@@ -587,6 +588,7 @@ Content: |-
     - removed [[album:references-beyond-homestuck]] track "Settings (Wii Fit)" since it's part of [[track:main-menu-wii-fit]] (thanks, ruby!)
     - removed "(…) - Single" additional names automatically enforced on Apple Music and iTunes platforms, affecting [[track:black-richaadeb]], [[track:heir-of-grief-richaadeb]], [[track:dance-of-thorns-richaadeb]], [[track:oppa-toby-style]] (all [[artist:richaadeb]]), and [[album:dreamers-diarchy]] (thanks, Whisper, ruby!)
     - removed listening links for bonus tracks in [[album:strife-2]] (thanks, Lan!)
+    - removed SoundCloud listening links for [[track:waltz-of-the-lilies]] and [[track:even-in-battle]], and across [[album:album-of-stories-and-imagination]] (thanks, Lan!)
     - removed Deezer listening links for [[track:pale-rain]] and [[track:celestial]], and reordered links for [[track:pale-rain]] to fit wiki standard (thanks, Lan!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
@@ -1069,7 +1071,7 @@ Content: |-
     - fixed misplaced commentary for [[track:ophiuchus-full-suite-lofam5]] ([[album:lofam5]] - was placed on [[track:ophiuchus-full-suite|original release]] instead; thanks, Whisper!)
     - fixed some sneaky capitalization errors where the name of the track on the wiki was used, instead of the capitalization written in source commentary, in [[track:dance-stab-dance]], [[track:a-life-worth-living]], and [[track:cinders-oceanfalls]] (thanks, Lan!)
     - fixed some line break errors in commentary or other content text for [[track:vivid-spectrum]], [[track:versus-hardmode-remix]], [[track:remains-of-formed-pain]], [[album:grim-chain-of-feast]], [[album:demo-2019-2021-vicious-valor]], [[track:legion]], [[album:rites-of-bloodgrinded]], [[album:faces-of-oglogoth]], [[track:im-a-member-of-the-midnight-crew-soapstone]], [[track:adventurous-ascent-single-version]], and [[track:infinite-cataclysm]] (thanks, Tangle!)
-    - fixed some line break errors in commentary or other content text for [[album:project-skaia]], [[album:the-lands-of-scp-413]], [[track:5-headed-ouroboros]], and [[album:chaos-sisters-original-soundtrack]] (thanks, Lan!)
+    - fixed some line break errors in commentary or other content text for [[album:project-skaia]], [[album:the-lands-of-scp-413]], [[album:album-of-stories-and-imagination]], [[track:5-headed-ouroboros]], and [[album:chaos-sisters-original-soundtrack]] (thanks, Lan!)
     - made a handful of formatting or transcription tweaks across YouTube video commentary for [[album:of-troles-and-chiptumes]] (thanks, cookiefonster!)
     - fixed Bandcamp link in booklet commentary for [[track:dwelling-among-the-dream-bubbles]] (was to a functioning, but outdated, "the-divide-ep" URL; thanks, Lilith!)
     <!-- link fixes -->
@@ -1100,6 +1102,7 @@ Content: |-
     - changed directory of [[track:cloudscape-dialed-to-11]] from `cloudscape` to `cloudscape-dialed-to-11`
     - changed directory of [[track:the-respect-you-rightfully-deserve-single]] from `the-respect-you-rightfully-deserve-soundcloud` to `the-respect-you-rightfully-deserve-single`
     - changed directory of [[track:frost-and-frogs-lofam5a2]] from `frost-and-frogs` to `frost-and-frogs-lofam5a2`
+    - changed directory of [[track:aliens-album-of-stories-and-imagination]] from `aliens` to `aliens-album-of-stories-and-imagination`
     - changed directory of [[track:all3y-c4tz]] from `4ll3y-c4tz` to `all3y-c4tz`
     - changed directory of [[track:fire-forget-induction]] from `fire-forget` to `fire-forget-induction`
     - changed directory of [[track:audacity]] from `audacity-svix` to `audacity`
