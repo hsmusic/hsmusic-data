@@ -808,7 +808,7 @@ Content: |-
         - fixed [[track:intermission-beyond-the-wall]] using album download name, "Beyond the Wall (Intermission)", instead of Bandcamp name
     - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
         - fixed [[track:time-for-a-breather]] being named "Take a Break"
-        - fixed [[track:pokemon-research-lab]] being named "Pokémon Laboratory"
+        - fixed [[track:pokemon-research-lab-pokemon-sword-shield]] being named "Pokémon Laboratory"
         - fixed [[track:pokemon-healed-pokemon-sword-shield]] being named "Recovery"
         - fixed [[track:guide-pokemon-sword-shield]] being named "Lead the Way"
         - fixed [[track:at-the-train-station]] being named "Wild Area Station"
@@ -1118,6 +1118,7 @@ Content: |-
     - changed directory of [[track:forever-now-unbeatable-demo-tapes]] from `forever-now` to `forever-now-unbeatable-demo-tapes`
     - changed directory of [[track:congratulations-your-pokemon-evolved-pokemon-sword-shield]] from `congratulations-your-pokemon-evolved` to `congratulations-your-pokemon-evolved-pokemon-sword-shield`
     - changed directory of [[track:boutique-pokemon-sword-shield]] from `boutique` to `boutique-pokemon-sword-shield`
+    - changed directory of [[track:route-10-pokemon-sword-shield]] from `route-10` to `route-10-pokemon-sword-shield`
     - changed directory of [[track:obtained-an-item-pokemon-scarlet-violet]] from `obtained-an-item` to `obtained-an-item-pokemon-scarlet-violet`
     - changed directory of [[track:battle-elite-four-pokemon-scarlet-violet]] from `battle-elite-four` to `battle-elite-four-pokemon-scarlet-violet`
     - changed directory of [[track:photo-pokemon-march-the-hidden-treasure-of-area-zero]] from `photo-pokemon-march` to `photo-pokemon-march-the-hidden-treasure-of-area-zero`
@@ -1143,7 +1144,7 @@ Content: |-
     </details>
     <details><summary><b>Toggle Directorylog</b> (Nintendo Music changes)</summary>
     - changed directory of [[track:time-for-a-breather]] from `take-a-break-pokemon-sword-shield` to `time-for-a-breather`
-    - changed directory of [[track:pokemon-research-lab]] from `pokemon-laboratory` to `pokemon-research-lab`
+    - changed directory of [[track:pokemon-research-lab-pokemon-sword-shield]] from `pokemon-laboratory` to `pokemon-research-lab-pokemon-sword-shield`
     - changed directory of [[track:pokemon-healed-pokemon-sword-shield]] from `reovery-pokemon-sword-shield` to `pokemon-healed-pokemon-sword-shield`
     - changed directory of [[track:guide-pokemon-sword-shield]] from `lead-the-way` to `guide-pokemon-sword-shield`
     - changed directory of [[track:at-the-train-station]] from `wild-area-station` to `at-the-train-station`
