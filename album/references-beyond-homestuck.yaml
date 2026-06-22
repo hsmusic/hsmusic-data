@@ -1826,6 +1826,16 @@ URLs:
 Referenced Tracks:
 - Before the Sequel - Title Screen
 ---
+Track: Advent Desert
+# Reference:
+#   https://vgmdb.net/album/106653
+Artists:
+- Mother
+- Hirokazu Tanaka
+Duration: 1:39
+URLs:
+- https://www.youtube.com/watch?v=BIcNrCx1yFY
+---
 Track: Afternoon on the Island (Tomodachi Collection)
 # Reference:
 #   https://vgmdb.net/album/29635
@@ -2754,7 +2764,6 @@ Track: Boy Meets Girl
 Artists:
 - Mother
 - Keiichi Suzuki
-- Hirokazu Tanaka
 Duration: 2:19
 URLs:
 - https://www.youtube.com/watch?v=kc9yO4giTog
@@ -3850,7 +3859,6 @@ Track: Dream Maze
 #   https://vgmdb.net/album/800
 Artists:
 - Mother
-- Keiichi Suzuki
 - Hirokazu Tanaka
 Duration: 1:37
 URLs:
@@ -6893,7 +6901,6 @@ Always Reference By Directory: true
 #   https://vgmdb.net/album/800
 Artists:
 - Mother
-- Keiichi Suzuki
 - Hirokazu Tanaka
 Duration: 1:09
 URLs:
@@ -8255,13 +8262,19 @@ URLs:
 - https://www.youtube.com/watch?v=oLOyVDP_ckQ
 ---
 Track: Super Dry Dance
-# (See Eight Melodies (EarthBound), no official soundtrack release)
+# JP: 乾いたダンス (SUPER DRY DANCE)
+# Official release:
+#   マザー2 ギーグの逆襲
+# Reference:
+#   https://vgmdb.net/album/800
 Artists:
 - Mother
-- Keiichi Suzuki
 - Hirokazu Tanaka
+Duration: 0:53
 URLs:
 - https://www.youtube.com/watch?v=VjSUpctGEUQ
+Referenced Tracks:
+- Advent Desert
 ---
 Track: SYD Overdrive
 # Reference:
@@ -9038,7 +9051,6 @@ Additional Names:
 #   https://vgmdb.net/album/800
 Artists:
 - Mother
-- Keiichi Suzuki
 - Hirokazu Tanaka
 Duration: 0:55
 URLs:
