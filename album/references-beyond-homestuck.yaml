@@ -1826,16 +1826,6 @@ URLs:
 Referenced Tracks:
 - Before the Sequel - Title Screen
 ---
-Track: Aerith's Theme
-# Reference:
-#   https://vgmdb.net/album/3
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 4:18
-URLs:
-- https://www.youtube.com/watch?v=n0H6kTppjP8
----
 Track: Afternoon on the Island (Tomodachi Collection)
 # Reference:
 #   https://vgmdb.net/album/29635
@@ -2155,22 +2145,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=MtrNyKRbGe4
 ---
-Track: Aria di Mezzo Carattere
-# JP: アリア ("Aria")
-# Official release:
-#   FINAL FANTASY VI ORIGINAL SOUND VERSION
-#   ファイナルファンタジーVI オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/40
-#   https://finalfantasy.fandom.com/wiki/Aria_di_Mezzo_Carattere
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-- Yoshinori Kitase
-Duration: 3:57
-URLs:
-- https://www.youtube.com/watch?v=MLHR9ltzuWM
----
 Track: Aria of the Soul
 Directory: aria-of-the-soul
 # Reference:
@@ -2370,16 +2344,6 @@ Artists:
 Duration: 1:41
 URLs:
 - https://www.youtube.com/watch?v=pBr0VWbDwpk
----
-Track: Battle (Final Fantasy)
-Directory: battle-final-fantasy
-#   Final Fantasy (1987) but i can't find it on vgmdb rn sorry complain to Jebb
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 1:36
-URLs:
-- https://www.youtube.com/watch?v=Hrz5HryadIA
 ---
 Track: Battle (Golden Sun)
 # Info from Nintendo Music
@@ -3234,16 +3198,6 @@ Duration: 3:01
 URLs:
 - https://www.youtube.com/watch?v=BXo3DrXHY8w
 ---
-Track: Cosmo Canyon
-# Reference:
-#   https://vgmdb.net/album/3
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 3:36
-URLs:
-- https://www.youtube.com/watch?v=3RUtPuO8alo
----
 Track: Counterattack
 # Reference:
 #   https://vgmdb.net/album/75751
@@ -3562,18 +3516,6 @@ Duration: 2:23
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/e7e04053-2acb-4963-a0db-adccdf3ba086
 - https://www.youtube.com/watch?v=wi8SLiK_E6s
----
-Track: The Decisive Battle (Final Fantasy VI)
-# JP: 決戦
-#   ファイナルファンタジーVI オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/40
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 2:02
-URLs:
-- https://www.youtube.com/watch?v=WmBPTpvYyIY
 ---
 Track: Delfino Plaza
 # JP: ドルピックタウン
@@ -5185,32 +5127,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=ayMOn4GKKGk
 ---
-Track: Holding Back Tears
-# JP: パワー
-# Official release:
-#   涙をこらえて
-# Reference:
-#   https://vgmdb.net/album/34136
-Artists:
-- Final Fantasy
-- Ryuji Sasai
-Duration: 1:18
-URLs:
-- https://www.youtube.com/watch?v=5aX4H1tQ3Kc
----
-Track: Holy Ruins
-# JP: オアシス
-# Official release:
-#   時空の覇者 Sa・Ga 3 Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/34136
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 2:04
-URLs:
-- https://www.youtube.com/watch?v=O0xKAphIF8A
----
 Track: Homicide
 Directory: homicide-danganronpa
 Always Reference By Directory: true
@@ -6148,16 +6064,6 @@ Duration: 4:19
 URLs:
 - https://www.youtube.com/watch?v=0IIfLwcLTgc
 ---
-Track: Main Theme of FINAL FANTASY VII
-# Reference:
-#   https://vgmdb.net/album/3
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 6:30
-URLs:
-- https://www.youtube.com/watch?v=ORpKwkq5z-4
----
 Track: Main Theme (Pikmin)
 # Reference:
 #   https://vgmdb.net/album/2374
@@ -6295,19 +6201,6 @@ Artists:
 Duration: 4:18
 URLs:
 - https://www.youtube.com/watch?v=t0qbmd0rAqI
----
-Track: Maybe I'm a Lion
-# JP: メイビー・アイ・アム・ア・ライオン
-# Official release:
-#   FINAL FANTASY VIII Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/6
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 5:35
-URLs:
-- https://www.youtube.com/watch?v=vxklJsp6lJ4
 ---
 Track: MEGALOMANIA
 # Official release:
@@ -6746,16 +6639,6 @@ Duration: 0:05
 URLs:
 - https://www.youtube.com/watch?v=N3odDaLePKk
 ---
-Track: Opening - Bombing Mission
-# Reference:
-#   https://vgmdb.net/album/3
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 3:58
-URLs:
-- https://www.youtube.com/watch?v=NoWU28L_ZmQ
----
 Track: Opening (Mega Man 5)
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -6801,53 +6684,6 @@ Artists:
 #Duration: ''
 #URLs:
 #-
----
-Track: Otherworld
-Directory: otherworld-final-fantasy-ix
-Always Reference By Directory: true
-# Official release:
-#   FINAL FANTASY IX Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/7
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Contributors:
-- Bill Muir
-Duration: 3:15
-URLs:
-- https://www.youtube.com/watch?v=U9dEu29RY44
-Lyrics: |-
-    Go now if you want it An otherworld awaits you
-    Don't you give up on it You bite the hand that feeds you
-
-    All alone cold fields you wander
-    Memories of it cloud your sight
-    Fills your dreams, disturbs your slumber
-    Lost your way a fallen knight
-
-    Hold now aim is steady An otherworld awaits you
-    One thousand years--you ready? The otherworld it takes you
-
-    Go go into the sand and the dust and the sky
-    Go now no better plan than to do or to die
-    Free me pray to the faith in the face of the light
-    Feed me fill me with sin now get ready to fight
-    You know you will
-    You know you will
-    You know you know you know you know that you will
-    You know you know you know you know that you will
-    You know you will
-
-    Fight fight fight
-    Fight fight fight
-    Fight fight fight
-    Fight fight fight
-
-    Hope dies and you wander The otherworld it makes you
-    Dreams they rip asunder The otherworld it hates you
-    Free now ride up on it Up to the heights it takes you
-    Go now if you want it An otherworld awaits you
 ---
 Track: Out of Time (Clock Tower BGM)
 # Reference:
@@ -8473,19 +8309,6 @@ Referenced Tracks:
 - Sun's Song
 - Overworld Theme (The Legend of Zelda)
 ---
-Track: Terra's Theme
-# JP: ティナのテーマ
-# Official release:
-#   ファイナルファンタジーVI オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/40
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 3:53
-URLs:
-- https://www.youtube.com/watch?v=SrDiiVn1VCk
----
 Track: Thanks For Everything
 Artists:
 - OneShot
@@ -8993,19 +8816,6 @@ Referenced Tracks:
 - Soul 0 System
 - Haltmann Works Co. HQ
 ---
-Track: Vamo' alla flamenco
-# JP: Vamo' alla flamenco
-# Official release:
-#   FINAL FANTASY IX Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/7
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 1:53
-URLs:
-- https://www.youtube.com/watch?v=gLEZuDkEuDk
----
 Track: Vampire Killer (Castle Infiltration BGM)
 # Reference:
 #   overall info: https://vgmdb.net/album/114949
@@ -9064,16 +8874,6 @@ Duration: 2:48
 URLs:
 - https://jukiokallio.bandcamp.com/track/venus-mansion-feat-doseone
 - https://www.youtube.com/watch?v=pR6KObOqfXc
----
-Track: Victory
-#   Final Fantasy (1987) but i can't find it on vgmdb rn sorry complain to Jebb
-Directory: victory-final-fantasy
-Artists:
-- Final Fantasy
-- Nobuo Uematsu
-Duration: 0:39
-URLs:
-- https://www.youtube.com/watch?v=ZSdNARyfaZY
 ---
 Track: Vortal Combat
 # Official release:
