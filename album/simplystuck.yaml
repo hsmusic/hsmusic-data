@@ -5,7 +5,11 @@ URLs:
 - https://eighteenelbows.bandcamp.com/album/simplystuck
 Artists:
 - Eighteen "Elbows"
+Track Artists:
+- Opra Zebb
 Cover Artists:
+- Eighteen "Elbows"
+Default Track Cover Artists:
 - Eighteen "Elbows"
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/album/simplystuck))
@@ -16,10 +20,11 @@ Section: Main album
 ---
 Track: Simplystuck
 Duration: 2:55
+Has Cover Art: false
 URLs:
 - https://eighteenelbows.bandcamp.com/track/simplystuck
 Referenced Tracks:
-- Homestuck Anthem
+- Homestuck
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/track/simplystuck))
 
@@ -36,8 +41,6 @@ Track: Three in the Afternoon
 Duration: 3:06
 URLs:
 - https://eighteenelbows.bandcamp.com/track/three-in-the-afternoon
-Cover Artists:
-- Eighteen "Elbows"
 Cover Art File Extension: png
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/track/three-in-the-afternoon))
@@ -48,8 +51,6 @@ Track: Burgundy Apocalypse
 Duration: 4:36
 URLs:
 - https://eighteenelbows.bandcamp.com/track/burgundy-apocalypse
-Cover Artists:
-- Eighteen "Elbows"
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/track/burgundy-apocalypse))
 
@@ -61,12 +62,9 @@ Track: Cyan Cassette
 Duration: 6:00
 URLs:
 - https://eighteenelbows.bandcamp.com/track/cyan-cassette-2
-Cover Artists:
-- Eighteen "Elbows"
 Art Tags:
 - 'cw: blood'
-Referenced Tracks:
-- Brandenburg Concerto No. 4 in G-major - II. Andante
+- 'cw: body horror'
 Sampled Tracks:
 - Brandenburg Concerto No. 4 in G-major - II. Andante
 Commentary: |-
@@ -86,8 +84,6 @@ Track: Periwinkle Egg
 Duration: 3:24
 URLs:
 - https://eighteenelbows.bandcamp.com/track/periwinkle-egg
-Cover Artists:
-- Eighteen "Elbows"
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/track/periwinkle-egg))
 
@@ -99,8 +95,6 @@ Track: Pink Algiz
 Duration: 1:41
 URLs:
 - https://eighteenelbows.bandcamp.com/track/pink-algiz-2
-Cover Artists:
-- Eighteen "Elbows"
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/track/pink-algiz-2))
 
@@ -110,10 +104,6 @@ Track: Silly Casualties
 Duration: 1:55
 URLs:
 - https://eighteenelbows.bandcamp.com/track/silly-casualties
-Cover Artists:
-- Eighteen "Elbows"
-Art Tags:
-- Space
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/track/silly-casualties))
 
@@ -123,8 +113,6 @@ Track: The Great One
 Duration: 2:53
 URLs:
 - https://eighteenelbows.bandcamp.com/track/the-great-one
-Cover Artists:
-- Eighteen "Elbows"
 Art Tags:
 - Horrorterrors
 Commentary: |-
@@ -140,8 +128,6 @@ Contributors:
 Duration: 1:44
 URLs:
 - https://eighteenelbows.bandcamp.com/track/sacrificial-slab
-Cover Artists:
-- Eighteen "Elbows"
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/track/sacrificial-slab))
 
@@ -159,8 +145,6 @@ Track: Incipispherical Mayhem
 Duration: 2:13
 URLs:
 - https://eighteenelbows.bandcamp.com/track/incipispherical-mayhem
-Cover Artists:
-- Eighteen "Elbows"
 Art Tags:
 - Drake (Drake & Josh)
 - Skaia
@@ -186,13 +170,10 @@ Track: Sburban End
 Duration: 2:50
 URLs:
 - https://eighteenelbows.bandcamp.com/track/sburban-end
-Cover Artists:
-- Eighteen "Elbows"
 Cover Art Dimensions: 900x924
 Art Tags:
 - Skaia
 Referenced Tracks:
-- Sburban Jungle
 - The Deeper You Go
 Commentary: |-
     <i>Eighteen "Elbows":</i> ([Bandcamp about blurb](https://eighteenelbows.bandcamp.com/track/sburban-end))
@@ -211,11 +192,12 @@ Additional Names:
     Cyan Cassette (We fixed it) [Bonus]
   Annotation: >-
     album download
+Has Cover Art: false
 Duration: 5:26
 Referenced Tracks:
 - Cyan Cassette
 Sampled Tracks:
-- Cyan Cassette
+- Brandenburg Concerto No. 4 in G-major - II. Andante
 ---
 Track: Triple Ascension
 Additional Names:
@@ -223,12 +205,14 @@ Additional Names:
     Triple Ascension [Bonus]
   Annotation: >-
     album download
+Has Cover Art: false
 Duration: 3:17
 ---
-Track: "Vincent van Gogh's Left ear."
+Track: Vincent van Gogh's Left ear.
 Additional Names:
 - Name: >-
     Vincent van Gogh's Left ear. [Bonus]
   Annotation: >-
     album download
+Has Cover Art: false
 Duration: 1:00
