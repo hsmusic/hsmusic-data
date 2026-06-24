@@ -705,11 +705,17 @@ Duration: 4:28
 URLs:
 - https://homestuck.bandcamp.com/track/homefree
 - https://www.youtube.com/watch?v=7aYso7j8wsw
-Cover Artists:
-- Killian Ng
-Art Tags:
-- John
-- Skaia
+Track Artwork:
+- Artists:
+  - Killian Ng
+  Tags:
+  - John
+  - Skaia
+- Label: Higher-res cut
+  Directory: tumblr
+  Attach Above: true
+  Source: >-
+    [Tumblr](https://viivus.tumblr.com/post/11938652981/heres-the-track-art-i-did-for-homestuck-volume-8)
 Referenced Tracks:
 - Shooting Star
 - Homestuck Anthem

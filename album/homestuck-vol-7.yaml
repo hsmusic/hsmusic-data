@@ -538,14 +538,19 @@ Duration: 3:36
 URLs:
 - https://homestuck.bandcamp.com/track/play-the-wind
 - https://www.youtube.com/watch?v=wR-NTkyJ0eg
-Cover Artists:
-- Suki
-Cover Art File Extension: jpg
-Art Tags:
-- John
-- Jack Noir
-- Battlefield
-- Warhammer of Zillyhoo
+Track Artwork:
+- Artists:
+  - Suki
+  Tags:
+  - John
+  - Jack Noir
+  - Battlefield
+  - Warhammer of Zillyhoo
+- Label: Higher-res cut
+  Directory: tumblr
+  Attach Above: true
+  Source: >-
+    [Tumblr](https://lemoncotte.tumblr.com/post/6059895866)
 Sheet Music Files:
 - Title: Sheet music
   Artists: [Kyntello]

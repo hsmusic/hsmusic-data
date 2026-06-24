@@ -230,11 +230,17 @@ Duration: 3:52
 URLs:
 - https://homestuck.bandcamp.com/track/trepidation
 - https://www.youtube.com/watch?v=WxLtO42_AJQ
-Cover Artists:
-- Kiko B.
-Cover Art File Extension: jpg
-Art Tags:
-- Squarewave
+Track Artwork:
+- File Extension: jpg
+  Artists:
+  - Kiko B.
+  Tags:
+  - Squarewave
+- Label: Higher-res cut
+  Directory: tumblr
+  Attach Above: true
+  Source: >-
+    [Tumblr](https://kingcheddarxvii.tumblr.com/post/24963011080)
 Referenced Tracks:
 - track:fin-induction
 Commentary: |-
