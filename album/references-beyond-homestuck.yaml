@@ -9071,23 +9071,6 @@ URLs:
 Sampled Tracks:
 - Amen, Brother
 ---
-Track: 黄泉比良坂
-# Official release A:
-#   rebirth -rebirth of link-
-# Reference A:
-#   https://vgmdb.net/album/96483
-# Official release B:
-#   Amrita
-#   アムリタ
-# Reference B:
-#   https://vgmdb.net/album/14778
-Directory: yomitsu-hirasaka
-Artists:
-- '-45'
-Duration: 2:10
-URLs:
-- https://www.youtube.com/watch?v=iYXLA60BNVA
----
 Section: Music composed for movies, television, and other visual arts
 ---
 Track: $64,000 Question
@@ -48966,6 +48949,23 @@ Lyrics: |-
 Commentary: |-
     <i>Niklink:</i> (wiki editor, 11/19/2022)
     Track name translates to "Lisa Frank 420 / Modern Computing" ("Risa Furanku 420 / Gendai no Konpyū").
+---
+Track: 黄泉比良坂
+# Official release A:
+#   rebirth -rebirth of link-
+# Reference A:
+#   https://vgmdb.net/album/96483
+# Official release B:
+#   Amrita
+#   アムリタ
+# Reference B:
+#   https://vgmdb.net/album/14778
+Directory: yomitsu-hirasaka
+Artists:
+- '-45'
+Duration: 2:10
+URLs:
+- https://www.youtube.com/watch?v=iYXLA60BNVA
 ---
 Section: Other works originating outside of Homestuck
 Color: '#8ccaf1'
