@@ -2557,16 +2557,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/540c9f9d-dcbc-4e56-8e5b-cfbe58c2b335
 - https://www.youtube.com/watch?v=Cur1UayJquw
 ---
-Track: Black Lilliana
-# JP: 黒のリリアナ
-# I don't know if there's an official release??? this is confusing
-# doesn't seem like there is? uh-
-Artists:
-- Umineko When They Cry
-- U2 Akiyama
-URLs:
-- https://www.youtube.com/watch?v=Ci5LwgEqzYI
----
 Track: Bloody Tears (Roads by Day BGM)
 # From Castlevania II: Simon's Quest
 # Released on the same album as Beginning, but it has its own dedicated track vs. Castlevania III's OST.
@@ -4711,20 +4701,6 @@ Duration: 1:26
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/2ea3f4d2-e86b-48d8-a2d2-07d3469d5b44
 - https://www.youtube.com/watch?v=oKvkRexMTNI
----
-Track: goldenslaughterer
-# Official release:
-#   Umineko no Naku Koro ni musicbox Red
-#   うみねこのなく頃に musicbox Red
-# Reference:
-#   https://vgmdb.net/album/14643
-Duration: 6:47
-Artists:
-- Umineko When They Cry
-- zts
-URLs:
-- https://codeztslabel.bandcamp.com/track/goldenslaughterer
-- https://www.youtube.com/watch?v=vYV61Pf-D3M
 ---
 Track: Gormott
 # Reference:
@@ -7829,19 +7805,6 @@ URLs:
 Referenced Tracks:
 - Galactic Nova
 ---
-Track: Soul Scour
-# Official release:
-#   Higurashi no Naku Koro ni Kai Original Sound Version & Extra Sounds "Thanks/you"
-#   ひぐらしのなく頃に解 Original Sound Version & Extra Sounds ｢Thanks／you｣
-# Reference:
-#   https://vgmdb.net/album/6209
-Duration: 1:42
-Artists:
-- Higurashi When They Cry
-- Dai
-URLs:
-- https://www.youtube.com/watch?v=x14cKhgKi0U
----
 Track: Space Pirates
 Artists:
 - Castle Crashers
@@ -9042,21 +9005,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/e51d34a3-6281-4f95-9436-7cfb5215ba34
 - https://www.youtube.com/watch?v=XA6xrfUb06E
 ---
-Track: you
-Directory: you-dai
-Always Reference By Directory: true
-# Official release:
-#   Higurashi no Naku Koro ni Kai Original Sound Version & Extra Sounds "Thanks/you"
-#   ひぐらしのなく頃に解 Original Sound Version & Extra Sounds ｢Thanks／you｣
-# Reference:
-#   https://vgmdb.net/album/6209
-Artists:
-- Higurashi When They Cry
-- Dai
-Duration: 3:35
-URLs:
-- https://www.youtube.com/watch?v=zWNkD4YWt_c
----
 Track: You Gained a Level!
 # (See Eight Melodies (EarthBound), no official soundtrack release)
 Artists:
@@ -9122,29 +9070,6 @@ URLs:
 - https://www.youtube.com/watch?v=TIQj92WAl-I
 Sampled Tracks:
 - Amen, Brother
----
-Track: 黄泉津比良坂CORRUPTION
-# uh oh god there's two of them, official releases i mean
-# so it was first released on Enri Edo (厭離穢土), predating its usage in Umineko When They Cry chiru in 2010
-# but the more well-known release is the compilation album, Amrita (アムリタ)
-# i know it probably doesn't make sense to have two official release references on here, but i mean considering these are comments, we might as well
-# Official release A:
-#   Enri Edo
-#   厭離穢土
-# Reference A:
-#   https://vgmdb.net/album/89397
-# Official release B:
-#   Amrita
-#   アムリタ
-# Reference B:
-#   https://vgmdb.net/album/14778
-Directory: yomitsu-hirasaka-corruption
-Artists:
-- Umineko When They Cry
-- '-45'
-Duration: 4:49
-URLs:
-- https://www.youtube.com/watch?v=rKfmGqlp8D4
 ---
 Section: Music composed for movies, television, and other visual arts
 ---
