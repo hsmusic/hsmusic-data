@@ -1341,6 +1341,21 @@ Group: Celeste
 ---
 Group: Final Fantasy
 ---
+Group: Friday Night Funkin'
+Series:
+- Name: Official game
+  Albums:
+  - Friday Night Funkin'
+- Name: Fan mods
+  Albums:
+  - album:fnf-online-vs
+  - album:fnf-chaos-nightmare
+  - album:fnf-nusky-skyverse-demo
+  - album:fnf-hit-single
+- Name: More fanmusic
+  Albums:
+  - GAMEBREAKER
+---
 Group: The Legend of Zelda
 ---
 Group: Pokémon

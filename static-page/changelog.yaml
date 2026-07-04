@@ -945,6 +945,7 @@ Content: |-
         - fixed duration of [[track:title-bgm-duck-hunt]] (was 0:04, now 0:05)
         - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
         - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
+    - fixed duration of [[track:gamebreaker]] (was 4:53, now 4:33; thanks, Surge!)
     - fixed duration of [[track:brodylovania]] (was 2:35, now 1:23; thanks, Lan!)
     - fixed duration of [[track:ruins]] (was 3:01, now 3:05; thanks, Lavender!)
     - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
@@ -1159,6 +1160,7 @@ Content: |-
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainsinnoh-version` to `battle-frontier-brain-sinnoh-version`
     - changed directory of [[track:eight-melodies-earthbound]] from `eight-melodies` to `eight-melodies-earthbound`
     - chanage directory of [[track:palace-of-twilight]] from `the-twilight-realm-the-twilight-princess` to `palace-of-twilight`
+    - changed directory of [[track:silly-billy-fnf-hit-single]] from `silly-billy-hit-single` to `silly-billy-fnf-hit-single`
     - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`
     - changed directory of [[artist:akira-series]] from `akira` to `akira-series`
     </details>
@@ -1341,7 +1343,7 @@ Content: |-
     - updated SiIvaGunner wiki link in description for [[artist:siivagunner]] (thanks, literallyn01imp0rtant!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
-    - fixed [[track:coulrocide]] referencing [[track:silly-billy]] ([[album:riddle-of-dixy-path-of-mind-ost]]) instead of [[track:silly-billy-hit-single]] (Hit Single; thanks, Jebb, Bagel, Lilith!)
+    - fixed [[track:coulrocide]] referencing [[track:silly-billy]] ([[album:riddle-of-dixy-path-of-mind-ost]]) instead of [[track:silly-billy-fnf-hit-single]] (Hit Single; thanks, Jebb, Bagel, Lilith!)
     <!-- merged artists -->
     - fixed [[artist:the-voicing-guy]] having some credits under another name (thanks, Lilith!)
     <!-- art tag fixes -->

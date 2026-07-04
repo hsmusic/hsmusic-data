@@ -1782,16 +1782,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=qjngsu4_AAo
 ---
-Track: Accelerant
-# Track from a mod, so the links are the official releases
-Artists:
-- Friday Night Funkin'
-- Philiplol
-Duration: 2:06
-URLs:
-- https://www.youtube.com/watch?v=xRk9B-r8jyA
-- https://soundcloud.com/philiplol/accelerant-fnf-online-vs-hank-challenge-song
----
 Track: Advance
 # Reference:
 #   https://vgmdb.net/album/4028
@@ -2577,18 +2567,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=Ci5LwgEqzYI
 ---
-Track: Blammed
-# Official release:
-#   Friday Night Funkin' OST, Vol. 1
-# Reference:
-#   https://vgmdb.net/album/107949
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 1:48
-URLs:
-- https://www.youtube.com/watch?v=ZUWQ2ythA0g
----
 Track: Bloody Tears (Roads by Day BGM)
 # From Castlevania II: Simon's Quest
 # Released on the same album as Beginning, but it has its own dedicated track vs. Castlevania III's OST.
@@ -3332,37 +3310,6 @@ Artists:
 Duration: 3:22
 URLs:
 - https://www.youtube.com/watch?v=AIMDilzrFjc
----
-Track: Dad Battle
-# Official release:
-#   Friday Night Funkin' OST, Vol. 1
-# Reference:
-#   https://vgmdb.net/album/107949
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 1:26
-URLs:
-- https://www.youtube.com/watch?v=w0WyKTSuX4U
----
-Track: Dadbattle Erect (Kawai Sprite Remix)
-Additional Names:
-- Name: >-
-    Dadbattle (ERECT Remix)
-  Annotation: >-
-    [YouTube release](https://www.youtube.com/watch?v=L3mmBIADJ-A)
-# Official release:
-#   Friday Night Funkin' OST Vol. 3
-# Reference:
-#   https://vgmdb.net/album/140892
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 2:13
-Referenced Tracks:
-- Dad Battle
-URLs:
-- https://www.youtube.com/watch?v=L3mmBIADJ-A
 ---
 Track: Dalarna
 # Reference:
@@ -4406,18 +4353,6 @@ Duration: 4:18
 URLs:
 - https://www.youtube.com/watch?v=fXxkjnizIMA
 ---
-Track: Fresh
-# Official release:
-#   Friday Night Funkin' OST, Vol. 1
-# Reference:
-#   https://vgmdb.net/album/107949
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 1:22
-URLs:
-- https://www.youtube.com/watch?v=mx82b-3A--Q
----
 Track: Frog's Theme
 # (See Corridors of Time for info on soundtrack/YouTube differences)
 # JP: カエルのテーマ
@@ -4517,19 +4452,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/f62fb69a-4e16-4e33-93ff-4f2bf7f86f8d
 - https://www.youtube.com/watch?v=O6s8zQHa7NY
 ---
-Track: Game Over (Don't Stop)
-# Official release:
-#  Friday Night Funkin' OST, Vol. 1
-# Reference:
-#  https://vgmdb.net/album/107949
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 1:24
-URLs:
-- https://www.youtube.com/watch?v=OsSDYf5yMOE
-- https://kawaisprite.bandcamp.com/track/game-over-dont-stop
----
 Track: Game Over (Duck Hunt)
 # Reference:
 #   https://vgmdb.net/album/1424
@@ -4586,17 +4508,6 @@ Artists:
 Duration: 0:02
 URLs:
 - https://www.youtube.com/watch?v=biZ-6T5fUEE
----
-Track: GAMEBREAKER
-# Track from a mod, so the links are the official releases
-Artists:
-- Friday Night Funkin'
-- Saster
-- RiverMusic
-Duration: 4:53
-URLs:
-- https://soundcloud.com/sasterdadudester/gamebreaker
-- https://www.youtube.com/watch?v=V7D195JQayE
 ---
 Track: Gang-Plank Galleon
 # Reference:
@@ -4659,19 +4570,6 @@ Artists:
 Duration: 0:23
 URLs:
 - https://www.youtube.com/watch?v=Navl6mG8UkA
----
-Track: Gettin' Freaky
-# Official release:
-#  Friday Night Funkin' OST, Vol. 1
-# Reference:
-#  https://vgmdb.net/album/107949
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 2:40
-URLs:
-- https://www.youtube.com/watch?v=wmrMTGOoHqY
-- https://kawaisprite.bandcamp.com/track/gettin-freaky
 ---
 Track: Giant's Cry
 # Official release:
@@ -6256,18 +6154,6 @@ Artists:
 #URLs:
 #-
 ---
-Track: M.I.L.F
-# Official release:
-#   Friday Night Funkin' OST, Vol. 1
-# Reference:
-#   https://vgmdb.net/album/107949
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 2:04
-URLs:
-- https://www.youtube.com/watch?v=dOPrN6aJ7TI
----
 Track: 'Milky Way Wishes: Staff Credits'
 # Reference:
 #   https://wikirby.com/wiki/Milky_Way_Wishes:_Staff_Credits
@@ -6794,18 +6680,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/39039e68-8bd8-4953-86ca-232c92f67bdf
 - https://www.youtube.com/watch?v=hAjSCoxB1Ig
 ---
-Track: Phantasm
-Directory: phantasm-fnf-chaos-nightmare
-Always Reference By Directory: true
-# Track from a mod, so the links are the official releases
-Artists:
-- Friday Night Funkin'
-- Biddle3
-Duration: 3:05
-URLs:
-- https://www.youtube.com/watch?v=GTbwHQ4zU2Y
-- https://soundcloud.com/biddle3/phantasm-fnf-chaos-nightmare
----
 Track: Phase BGM (Wrecking Crew)
 # Reference:
 #   https://vgmdb.net/album/1419
@@ -6816,18 +6690,6 @@ Duration: 1:58
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/da6fcc8a-cceb-414f-8382-8864ad85f984
 - https://www.youtube.com/watch?v=qEPciC7x0ck
----
-Track: Philly Nice
-# Official release:
-#   Friday Night Funkin' OST, Vol. 1
-# Reference:
-#   https://vgmdb.net/album/107949
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 1:41
-URLs:
-- https://www.youtube.com/watch?v=fwZ8jLFFL1Y
 ---
 Track: Phoenix Wright - Objection! 2001
 # JP: 成歩堂龍一　～異議あり！ 2001
@@ -7377,18 +7239,6 @@ Duration: 2:57
 URLs:
 - https://www.youtube.com/watch?v=KT45kiI5FYw
 ---
-Track: Roses
-# Official release:
-#   Friday Night Funkin' OST, Vol. 2
-# Reference:
-#   https://vgmdb.net/album/111079
-Artists:
-- Friday Night Funkin'
-- Kawai Sprite
-Duration: 1:31
-URLs:
-- https://www.youtube.com/watch?v=DKs-Tkw4X3I
----
 Track: Round 1 and 2 Clear (Donkey Kong)
 # Reference:
 #   https://vgmdb.net/product/10348
@@ -7738,35 +7588,6 @@ URLs:
 Lyrics: |-
     [Largely indecipherable French whispering]
 ---
-Track: Silly Billy
-Directory: silly-billy-hit-single
-Always Reference By Directory: true
-Duration: 6:14
-Artists:
-- Friday Night Funkin'
-- churgney gurgney
-- Ironik (featuring)
-- Duccly (featuring)
-- Spacenautica (featuring)
-- honkish (featuring)
-- HassenXBlu (featuring)
-URLs:
-- https://www.youtube.com/watch?v=jwhSUmN5zTk
-- https://open.spotify.com/track/7eMEN37TY5YcYvSel1Ya4k
-- https://soundcloud.com/gurgney/silly-billy
-Lyrics: |-
-    I'll make
-    You say
-    How proud
-    You are of me
-    So stay
-    Awake
-    Just long
-    Enough to see
-    My way
-
-    My way
----
 Track: Simian Segue
 # Reference:
 #   https://vgmdb.net/album/429
@@ -7811,15 +7632,6 @@ URLs:
 - https://www.youtube.com/watch?v=JcZEJKbFm4w
 Referenced Tracks:
 - track:arms-grand-prix-official-theme-song
----
-Track: Sky Forever
-# Track from a mod, so the links are the official releases
-Artists:
-- Friday Night Funkin'
-- bb-panzu
-Duration: 4:11
-URLs:
-- https://www.youtube.com/watch?v=GOj1umI7Bgo
 ---
 Track: Slider
 Directory: slider-super-mario-64
