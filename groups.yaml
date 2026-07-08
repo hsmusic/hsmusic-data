@@ -1337,8 +1337,6 @@ Color: '#f5fc8e'
 ---
 Group: Brandish
 ---
-Group: Celeste
----
 Group: Final Fantasy
 ---
 Group: Friday Night Funkin'
@@ -1412,3 +1410,6 @@ Series:
   - 'Umineko When They Cry Episode 1: Legend of the golden witch'
   - 'Umineko When They Cry Episode 2: Turn of the golden witch'
   - 'Umineko When They Cry Chiru Episode 5: End of the golden witch'
+---
+Group: More standalone video games
+Directory: more-vgm
