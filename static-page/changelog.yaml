@@ -246,9 +246,11 @@ Content: |-
         - added [[album:undertale-deltarune-fan-encore-cd]]!
         - added [[album:mad-mew-mew]]!
     - added newsletter clippings from [[group:undertale-and-deltarune]]! (thanks, ruby, Lan, Whisper!)
+        - added [[album:unused-undertale-songs]]!
         - added [[album:deltarune-status-update-sept-2022]]!
         - added [[album:deltarune-ch3-status-update]]!
         - added [[album:deltarune-ch2-rejected-tracks]]!
+        - added [[album:undertale-deltarune-newsletter-winter-2025]]!
     - prepared custom "in-game VGM" presentation for tracks previously under under [[album:references-beyond-homestuck]], "Music from video games":
         - prepared [[album:bastion]] in-game VGM! (thanks, Cello, Coral!)
         - prepared [[album:binding-of-isaac-rebirth]] in-game VGM! (thanks, Cello!)
@@ -767,8 +769,16 @@ Content: |-
         - fixed [[track:fire-forget-induction]] not referencing [[track:fire-forget]] (original single)
         - fixed [[track:fin-induction]] referencing [[track:goodbye-induction]], [[track:verisimilitude-induction]], [[track:fire-forget-induction]], [[track:wistful-induction]], [[track:shake-your-tail]], instead of [[track:goodbye-original]], [[track:verisimilitude-original]], [[track:fire-forget]], [[track:wistful-original]], [[track:shake-your-tail-original]] (original singles)
     - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
+    - fixed various [[track:spear-of-justice]]-related references (thanks, ruby!)
+        - fixed [[track:spear-of-justice]] referencing [[track:undyne]], instead of the other way around; referencing [[track:ruins-undertale]]; and not referencing [[track:undyne-battle-unused]]
+        - fixed [[track:run]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
+        - fixed [[track:ngahhh]] referencing [[track:undyne]] and [[track:ruins-undertale]] instead of [[track:spear-of-justice]]
+        - fixed [[track:asgore]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
+        - fixed [[track:bring-it-in-guys]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
     - fixed [[track:start-menu]] referencing [[track:once-upon-a-time]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) sampling [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]]), instead of being the track's main release (thanks, ruby!)
+    - fixed [[track:alphys]] not referencing [[track:alphys-lab-unused]] (thanks, ruby!)
+    - fixed [[track:undertale]] referencing [[track:once-upon-a-time]] instead of [[track:undertale-unused]] (thanks, ruby!)
     - fixed [[track:menu-full]] referencing [[track:start-menu]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] not referencing [[track:penumbra-phantasm]] (thanks, ruby, Makin, Jebb, Interrobang, Witch's Cadence, Monckat, Red Rax, Rainy, Meulanie, Jackie, Lan!)
     - updated a bunch of Deltarune references to point to in-between WIPs from [[album:deltarune-ch2-rejected-tracks]] (thanks, ruby!)
@@ -776,6 +786,7 @@ Content: |-
         - fixed [[track:attack-of-the-killer-queen]] referencing [[track:queen-deltarune]] instead of [[track:queen-battle-original]]
         - fixed [[track:giga-size]] referencing [[track:queen-deltarune]] and [[track:attack-of-the-killer-queen]] instead of [[track:giga-queen-old]]
         - fixed [[track:big-shot]] referencing [[track:spamton]] and [[track:power-of-neo]] instead of [[track:power-of-spamton]]
+    - fixed [[track:scarlet-forest]] not referencing [[track:field-of-hopes-and-dreams]] (in addition to [[track:game-main-theme-piano-sketch]]; thanks, ruby!)
     - fixed [[track:vs-ridley-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing "Opening (Destroyed Laboratory)", aka "Opening (Destroyed Science Academy Research Station)", instead of [[track:theme-of-super-metroid]] (thanks, ruby!)
     - fixed [[track:christmas-time-is-here-lo-fi]] not referencing [[track:christmas-time-is-here-vocal]] (thanks, Lilith, Tangle, Lan!)
     - fixed [[track:dead-maams-chest]] not referencing [[track:im-your-treasure-box-you-have-found-captain-marine-in-a-treasure-chest]] (thanks, ruby!)
