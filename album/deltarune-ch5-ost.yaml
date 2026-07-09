@@ -2,6 +2,8 @@ Album: DELTARUNE Chapter 5 OST
 Directory: deltarune-ch5-ost
 Suffix Track Directories: true
 Directory Suffix: ch5
+Artists:
+- Toby Fox
 Always Reference Tracks By Directory: true
 Cover Artists:
 - Toby Fox
@@ -166,7 +168,7 @@ URLs:
 Track: Flower Castle
 Main Release: DELTARUNE Soundtrack
 Contributors:
-- Marcy Nabors (helped out)
+- Marcy Nabors (assistance)
 Duration: 4:30
 URLs:
 - https://tobyfox.bandcamp.com/track/flower-castle
@@ -212,7 +214,7 @@ Duration: 0:21
 URLs:
 - https://tobyfox.bandcamp.com/track/beautiful-bathtime
 ---
-Section: Hidden tracks
+Aside Section: Hidden tracks
 ---
 Track: Pink
 Main Release: DELTARUNE Soundtrack
@@ -224,7 +226,7 @@ Artists:
 Main Release: DELTARUNE Soundtrack
 Duration: 3:05
 ---
-Section: 'Main album continued'
+Close Aside Section: Hidden tracks
 ---
 Track: Running Sky
 Main Release: DELTARUNE Soundtrack
