@@ -2114,6 +2114,19 @@ URLs:
 - https://m.nintendo.com/shared/US/tracks/021bbef3-af43-49c1-b2c1-9f17225f885b
 - https://www.youtube.com/watch?v=NtuujEslrAE
 ---
+Track: Aquatic Ambiance
+# Official release:
+#   DK Jamz: The Original Donkey Kong Country Soundtrack
+# Reference:
+#   https://vgmdb.net/album/429
+#   https://www.youtube.com/watch?v=1XM8ReW9NvA
+Artists:
+- Donkey Kong
+- David Wise
+Duration: 3:28
+URLs:
+- https://www.youtube.com/watch?v=1XM8ReW9NvA
+---
 Track: Aquarius (Sunken City Stage)
 # Reference:
 #   https://vgmdb.net/album/114949
@@ -2122,6 +2135,8 @@ Artists:
 Duration: 1:27
 URLs:
 - https://www.youtube.com/watch?v=5J8XqDENH1Y
+---
+Track: Aquatic Ambience
 ---
 Track: The Arch-Illager
 # Reference:
@@ -3533,6 +3548,21 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/96536536-e718-4fb2-bd72-67d82ff79bff
 Referenced Tracks:
 - track:destiny-fire-emblem-awakening
+---
+Track: Dire, Dire Docks
+# JP: ウォーターランド
+# Official release:
+#   スーパーマリオ64 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/137
+#   Nintendo Music
+Artists:
+- Super Mario
+- Koji Kondo
+Duration: 3:04
+URLs:
+- https://music.nintendo.com/shared/en-US/US/tracks/a411b361-1b04-447b-bb7f-b7c1e5a217ab/
+- https://www.youtube.com/watch?v=Zqa2mgjbOIM
 ---
 Track: Disco Descent
 Artists:
@@ -7501,6 +7531,15 @@ Duration: 1:52
 URLs:
 - https://m.nintendo.com/shared/US/tracks/1bf78585-61ea-4cea-b9a3-397396b79390
 - https://www.youtube.com/watch?v=nOcRCi7kuJ8
+---
+Track: Simon's Theme
+Artists:
+- Blue Prince
+- Trigg & Gusset
+Duration: 3:00
+URLs:
+- https://triggandgusset.bandcamp.com/track/simon-s-theme
+- https://www.youtube.com/watch?v=NznlFLLUlnk
 ---
 Track: Sin Pausa (Mission Failed)
 # Official Release:
@@ -17270,6 +17309,14 @@ Lyrics: |-
     To fill with joy the warrior's heart
     And we'll all feel gay
     When Johnny comes marching home
+---
+Track: Winter
+Suffix Directory: antonio-vivaldi
+Always Reference By Directory: true
+Artists:
+- Antonio Vivaldi
+URLs:
+- https://www.youtube.com/watch?v=ZPdk5GaIDjo
 ---
 Track: The X-Files
 Artists:
