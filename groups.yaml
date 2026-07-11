@@ -1342,6 +1342,8 @@ Color: '#f5fc8e'
 ---
 Group: Brandish
 ---
+Group: Chrono
+---
 Group: Final Fantasy
 ---
 Group: Friday Night Funkin'
@@ -1358,6 +1360,8 @@ Series:
 - Name: More fanmusic
   Albums:
   - GAMEBREAKER
+---
+Group: Halo
 ---
 Group: The Legend of Zelda
 ---
@@ -1386,6 +1390,12 @@ Series:
   - Pokémon Sun & Pokémon Moon
   - Pokémon Ultra Sun & Pokémon Ultra Moon
   - Pokémon Scarlet & Pokémon Violet
+---
+Group: Portal
+---
+Group: Rayman
+---
+Group: Silent Hill
 ---
 Group: Sonic the Hedgehog
 ---
