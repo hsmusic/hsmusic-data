@@ -835,9 +835,9 @@ Content: |-
     - fixed [[track:choose-a-file]] not referencing [[track:twinkle-elementary-school]] (thanks, Lilith!)
     - fixed [[track:destiny-ablaze]] not referencing [[track:destiny-fire-emblem-awakening]] (thanks, ruby!)
     - fixed [[track:prelude-ablaze]] not referencing [[track:prelude-fire-emblem-awakening]] (thanks, ruby!)
-    - fixed [[track:onett]] not referencing [[track:pollyanna-i-believe-in-you]] (thanks, Lilith!)
+    - fixed [[track:lets-start-an-adventure]] not referencing [[track:pollyanna-i-believe-in-you]] (thanks, Lilith!)
     - fixed [[track:sanctuary-guardian]] not referencing [[track:battle-theme-3-earthbound-beginnings]] (thanks, Lilith!)
-    - fixed [[track:smiles-and-tears]] not referencing [[track:eight-melodies-earthbound]] and [[track:eight-melodies-earthbound-beginnings]] (thanks, FF, Lilith!)
+    - fixed [[track:smiles-and-tears]] not referencing [[track:eight-melodies-the-depth-of-memory]] and [[track:eight-melodies-earthbound-beginnings]] (thanks, FF, Lilith!)
     - fixed [[track:super-dry-dance]] not referencing [[track:advent-desert]] (thanks, Lilith!)
     - fixed [[track:yomitsu-hirasaka-corruption]] not referencing [[track:yomitsu-hirasaka]] (thanks, Lilith!)
     - fixed [[track:final-savage-sister-flandre-s]] not referencing [[track:no-remorse-truelastboss]] (thanks, Lilith!)
@@ -870,7 +870,7 @@ Content: |-
     - fixed [[track:boy-meets-girl]] crediting [[artist:hirokazu-tanaka]] (thanks, Lilith!)
     - fixed [[track:dream-maze]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
     - fixed [[track:holy-ruins]] crediting [[artist:nobuo-uematsu]] instead of [[artist:ryuji-sasai]] (thanks, Lan!)
-    - fixed [[track:onett]] crediting [[artist:hirokazu-tanaka]] (thanks, ruby, Lilith!)
+    - fixed [[track:lets-start-an-adventure]] crediting [[artist:hirokazu-tanaka]] (thanks, ruby, Lilith!)
     - fixed [[track:power-earthbound]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
     - fixed [[track:super-dry-dance]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
     - fixed [[track:welcome-me]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
@@ -1277,10 +1277,15 @@ Content: |-
     - changed directory of [[track:at-dooms-gate]] from `at-dooms-gate-e1m1` to `at-dooms-gate`
     - changed directory of [[track:cave-story]] from `plantation-cave-story` to `cave-story`
     - changed directory of [[track:dangerous-caves]] from `cave-theme-1` to `dangerous-caves`
-    - changed directory of [[track:eight-melodies-earthbound]] from `eight-melodies` to `eight-melodies-earthbound`
+    - changed directory of [[track:eight-melodies-the-depth-of-memory]] from `eight-melodies` to `eight-melodies-the-depth-of-memory`
+    - changed directory of [[track:lets-start-an-adventure]] from `onett` to `lets-start-an-adventure`
     - chanage directory of [[track:palace-of-twilight]] from `the-twilight-realm-the-twilight-princess` to `palace-of-twilight`
+    - changed directory of [[track:please-disappear]] from `final-battle-earthbound` to `please-disappear`
     - changed directory of [[track:power-earthbound]] from `power-mother` to `power-earthbound`
     - changed directory of [[track:silly-billy-fnf-hit-single]] from `silly-billy-hit-single` to `silly-billy-fnf-hit-single`
+    - changed directory of [[track:strike-back]] from `prologue-earthbound` to `strike-back` (as far as current references are concerned)
+    - changed directory of [[track:surrounded-by-skyscrapers]] from `fourside` to `surrounded-by-skyscrapers`
+    - changed directory of [[track:this-is-no-time-for-sleeping]] from `one-fateful-night` to `this-is-no-time-for-sleeping` (as far as current references are concerned)
     - changed directory of [[track:you-higurashi-when-they-cry]] from `you-dai` to `you-higurashi-when-they-cry`
     - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`
     - changed directory of [[artist:akira-series]] from `akira` to `akira-series`
@@ -2536,7 +2541,7 @@ Content: |-
     - fixed [[track:cascade2]] being named "Cascading Events" (thanks, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
     - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
-    - fixed [[track:onett]] being named "Onett Theme" (thanks, ruby, Lan!)
+    - fixed [[track:lets-start-an-adventure]] being named "Onett Theme" (thanks, ruby, Lan!)
     - fixed [[track:relic-song-pokemon-black-white]] being named "Relic Song (Pokémon Black 2 / Pokémon White 2)" (thanks, ruby!)
     - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
     - fixed [[tag:kade-desynced]] being named "Kate's dad (Desynced)", and [[tag:ella-desynced]] being named "Evan's mum (Desynced)" (thanks, Jebb!)
@@ -2588,7 +2593,7 @@ Content: |-
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:sans-ch2]] from <code>sans-deltarune-ch2</code> to <code>sans-ch2</code> (thanks, Lan!)
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
-    - changed directory of [[track:onett]] from <code>onett-theme</code> to <code>onett</code> (thanks, ruby!)
+    - changed directory of [[track:lets-start-an-adventure]] from <code>onett-theme</code> to <code>onett</code> (thanks, ruby!)
     - changed directory of [[track:relic-song-pokemon-black-white]] from <code>relic-song-pokemon-black-2-white-2</code> to <code>relic-song-pokemon-black-white</code> (thanks, ruby!)
     - changed directory of [[track:woah-chris]] from <code>woah</code> to <code>woah-chris</code> (thanks, Lan!)
     - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
@@ -5207,7 +5212,7 @@ Content: |-
     - added another "flash", this one (indirectly) featuring [[Problem Sleuth Theme]]: [[flash:31]]
     - added [[Nic Cage Romance]] to the list of tracks featured in [[flash:2792]]
     - moved those last two tracks ([[Problem Sleuth Theme]], [[Nic Cage Romance]]) over to the "Tracks featured in Homestuck" section of [[album:unreleased-tracks]]
-    - added a new track [[Onett]] to the list of tracks referenced in [[Secret ROM]]
+    - added a new track [[Let's Start an Adventure]] to the list of tracks referenced in [[Secret ROM]]
     - hid [[album:unreleased-tracks]] from the [[site:list/albums/by-date/|Albums - by Date]] and [[site:list/tracks/by-date/|Tracks - by Date]] listings
 
     <h2 id="12-jun-20" class="major-release"><html:a href="#12-jun-20">[[date:12 June 2020]] - happy birthday karkat</a></h2>

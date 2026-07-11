@@ -72,10 +72,15 @@ URLs:
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
 
-    Unofficially AKA "Deeper into Ness's Subconscious". On the 1994 CD soundtrack, this track is the third part in track 17, マジカントのテーマ <b>MAGICANT</b>.
+    AKA "Deeper into Ness's Subconscious". On the 1994 CD soundtrack, this track is the third part in track 17, マジカントのテーマ <b>MAGICANT</b>.
 ---
-Track: Eight Melodies
-Name Detail: EarthBound
+Track: Eight Melodies (The Depth of Memory)
+Additional Names:
+- Name: >-
+    エイトメロディーズ (記憶の底に)
+  Annotation: >-
+    booklet pg. 2:
+    [マザー2 ギーグの逆襲](https://vgmdb.net/album/800)
 Artists:
 - Hirokazu Tanaka
 URLs:
@@ -85,8 +90,27 @@ Commentary: |-
 
     On the 1994 CD soundtrack, this track is the first part in track 17, マジカントのテーマ <b>MAGICANT</b>.
 ---
-Track: Final Battle
-Name Detail: album
+Track: Kraken of the Sea
+Name Style: unofficial
+Artists:
+- Unknown Artist
+URLs:
+- https://www.youtube.com/watch?v=E2fjIawImFc
+---
+Track: Let's Start An Adventure
+Artists:
+- Keiichi Suzuki
+Duration: 1:20
+URLs:
+- https://www.youtube.com/watch?v=cC3RAh9-zvQ
+Referenced Tracks:
+- Pollyanna (I Believe in You)
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    Also known as "Theme of Onett", or just "Onett".
+---
+Track: Please Disappear
 Additional Names:
 - Name: >-
     最終戦闘のテーマ <b>FINAL BATTLE</b><br>
@@ -102,7 +126,7 @@ URLs:
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
 
-    Soundtrack release represents several in-game cues, which are unofficially AKA:
+    Also known, as a whole, as "Final Battle". Soundtrack release represents several in-game cues, which are unofficially AKA:
 
     - (0:00) ["Giygas's Lair"](https://www.youtube.com/watch?v=Wq8FK9Z_RGQ)
     - (0:13) ["Giygas Intro"](https://www.youtube.com/watch?v=NHfkk5PGUDI)
@@ -110,70 +134,9 @@ Commentary: |-
     - (0:59) ["Giygas Intimidation"](https://www.youtube.com/watch?v=N9LbIHoiqrI)
     - (1:19) ["Giygas is Wounded!"](https://www.youtube.com/watch?v=BsESDrxesCg)
     - (1:41) ["Prayer for Safety"](https://www.youtube.com/watch?v=wA6SCuWURm8)
-    - (2:32) segment of [[track:eight-melodies-earthbound|"Eight Melodies"]]
+    - (2:32) segment of [[track:eight-melodies-the-depth-of-memory|"Eight Melodies"]]
     - (3:03) ["Giygas is Fatally Wounded!"](https://www.youtube.com/watch?v=K74BdbI2wgc)
     - (3:19) ["Giygas Disintegrates"](https://www.youtube.com/watch?v=W5u8ZztWzAk)
----
-Track: Fourside
-Additional Names:
-- Name: >-
-    フォーサイドのテーマ <b>FOURSIDE</b><br>
-    摩天楼に抱かれて
-  Annotation: >-
-    booklet pg. 1:
-    [マザー2 ギーグの逆襲](https://vgmdb.net/album/800)
-Artists:
-- Keiichi Suzuki
-Duration: 1:47
-URLs:
-- https://www.youtube.com/watch?v=aooHvXEx0EI
----
-Track: Kraken of the Sea
-Name Style: unofficial
-Artists:
-- Unknown Artist
-URLs:
-- https://www.youtube.com/watch?v=E2fjIawImFc
----
-Track: This is No Time For Sleeping
-Name Style: unofficial localization
-Additional Names:
-- Name: >-
-    眠ってる場合じゃない
-  Annotation: >-
-    booklet pg. 2:
-    [マザー2 ギーグの逆襲](https://vgmdb.net/album/800)
-Artists:
-- Hirokazu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=EE6FocnZw0k
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor)
-
-    On the 1994 CD soundtrack, this track is the second part in track 1, プロローグ <b>PROLOGUE</b>. *In turn,* "This is No Time For Sleeping" represents three in-game cues, which are unofficially AKA:
-
-    - [One Fateful Night](https://www.youtube.com/watch?v=bQzYJBTBVEc)
-    - [Unidentified Falling Object](https://www.youtube.com/watch?v=22mm8Mh45Jk)
-    - [Rude Awakening](https://www.youtube.com/watch?v=ysG0LuBDgtM)
-
-    The listening link above is for the entire CD track, "PROLOGUE", which also includes [["Strike Back"]].
----
-Track: Onett
-# JP: ƒIƒlƒbƒg‚Ìƒe[ƒ}
-# Official release:
-#   ƒ}ƒU[2 ƒM[ƒO‚Ì‹tP
-# Note:
-#   Translated name is via YouTube Music.
-# Reference:
-#   https://vgmdb.net/album/800
-#   https://music.youtube.com/watch?v=cC3RAh9-zvQ
-Artists:
-- Keiichi Suzuki
-Duration: 1:20
-URLs:
-- https://www.youtube.com/watch?v=cC3RAh9-zvQ
-Referenced Tracks:
-- Pollyanna (I Believe in You)
 ---
 Track: Power
 Name Detail: album
@@ -215,7 +178,7 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=vkAmD8A3CRk
 Referenced Tracks:
-- Eight Melodies (EarthBound)
+- Eight Melodies (The Depth of Memory)
 - Eight Melodies (EarthBound Beginnings)
 Lyrics: |-
     @@ [Itoi's lyrics](https://web.archive.org/web/20221206064929/https:/earthboundcentral.com/2009/01/smiles-tears-lyrics/)
@@ -249,7 +212,7 @@ Additional Names:
 - Name: >-
     逆襲
   Annotation: >-
-    booklet pg. 2:
+    booklet pg. 1:
     [マザー2 ギーグの逆襲](https://vgmdb.net/album/800)
 Artists:
 - Hirokazu Tanaka
@@ -280,6 +243,47 @@ URLs:
 - https://www.youtube.com/watch?v=ls8En8OF8JU
 Referenced Tracks:
 - Advent Desert
+---
+Track: Surrounded by Skyscrapers
+Additional Names:
+- Name: >-
+    フォーサイドのテーマ <b>FOURSIDE</b><br>
+    摩天楼に抱かれて
+  Annotation: >-
+    booklet pg. 1:
+    [マザー2 ギーグの逆襲](https://vgmdb.net/album/800)
+Artists:
+- Keiichi Suzuki
+Duration: 1:47
+URLs:
+- https://www.youtube.com/watch?v=aooHvXEx0EI
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    Also known as "Theme of Fourside", or just "Fourside".
+---
+Track: This is No Time For Sleeping
+Name Style: unofficial localization
+Additional Names:
+- Name: >-
+    眠ってる場合じゃない
+  Annotation: >-
+    booklet pg. 1:
+    [マザー2 ギーグの逆襲](https://vgmdb.net/album/800)
+Artists:
+- Hirokazu Tanaka
+URLs:
+- https://www.youtube.com/watch?v=EE6FocnZw0k
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    On the 1994 CD soundtrack, this track is the second part in track 1, プロローグ <b>PROLOGUE</b>. *In turn,* "This is No Time For Sleeping" represents three in-game cues, which are unofficially AKA:
+
+    - [One Fateful Night](https://www.youtube.com/watch?v=bQzYJBTBVEc)
+    - [Unidentified Falling Object](https://www.youtube.com/watch?v=22mm8Mh45Jk)
+    - [Rude Awakening](https://www.youtube.com/watch?v=ysG0LuBDgtM)
+
+    The listening link above is for the entire CD track, "PROLOGUE", which also includes [["Strike Back"]].
 ---
 Track: Welcome, Me
 Name Style: unofficial localization
