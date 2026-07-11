@@ -10,99 +10,118 @@ Groups:
 - Mother
 ---
 Track: A Bad Dream
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 1:25
+- Unknown Artist
 URLs:
 - https://www.youtube.com/watch?v=ZfmZdsoJYmI
 ---
 Track: Bad Morning to You
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 0:33
+- Unknown Artist
 URLs:
 - https://www.youtube.com/watch?v=Dooe-myh0VE
 ---
 Track: Boy Meets Girl
-# JP: ƒ{[ƒC ƒ~[ƒc ƒK[ƒ‹ (BOY MEETS GIRL)
-# Official release:
-#   ƒ}ƒU[2 ƒM[ƒO‚Ì‹tP
-# Reference:
-#   https://vgmdb.net/album/800
+Additional Names:
+- Name: >-
+    ãƒ„ãƒ¼ã‚½ãƒ³ã®ãƒ†ãƒ¼ãƒ <b>TWOSON</b><br>
+    ãƒœãƒ¼ã‚¤ ãƒŸãƒ¼ãƒ„ ã‚¬ãƒ¼ãƒ« (BOY MEETS GIRL)
+  Annotation: >-
+    booklet pg. 1:
+    [ãƒã‚¶ãƒ¼2 ã‚®ãƒ¼ã‚°ã®é€†è¥²](https://vgmdb.net/album/800)
 Artists:
 - Keiichi Suzuki
 Duration: 2:19
 URLs:
 - https://www.youtube.com/watch?v=kc9yO4giTog
 ---
-Track: Cave Theme 1
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-Artists:
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 1:02
-URLs:
-- https://www.youtube.com/watch?v=s9ze7BJPdw4
----
 Track: Choose a File
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 1:10
+- Unknown Artist
 URLs:
 - https://www.youtube.com/watch?v=CYzTLzhnMLM
 Referenced Tracks:
 - Twinkle Elementary School
 ---
+Track: Dangerous Caves
+Name Style: unofficial
+Artists:
+- Unknown Artist
+URLs:
+- https://www.youtube.com/watch?v=s9ze7BJPdw4
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    AKA "Cave Theme 1". This track is not part of a soundtrack release.
+---
 Track: Dream Maze
-# Most often known as "Deeper into Ness's Subconscious" but for some reason in the official release it's titled differently.
-# JP: –²‚Ì–À˜H
-# Official release:
-#   ƒ}ƒU[2 ƒM[ƒO‚Ì‹tP
-# Reference:
-#   https://vgmdb.net/album/800
+Name Style: unofficial localization
+Additional Names:
+- Name: >-
+    å¤¢ã®è¿·è·¯
+  Annotation: >-
+    booklet pg. 2:
+    [ãƒã‚¶ãƒ¼2 ã‚®ãƒ¼ã‚°ã®é€†è¥²](https://vgmdb.net/album/800)
 Artists:
 - Hirokazu Tanaka
-Duration: 1:37
 URLs:
 - https://www.youtube.com/watch?v=YM75br4y4Z0
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    Unofficially AKA "Deeper into Ness's Subconscious". On the 1994 CD soundtrack, this track is the third part in track 17, ãƒã‚¸ã‚«ãƒ³ãƒˆã®ãƒ†ãƒ¼ãƒ <b>MAGICANT</b>.
 ---
 Track: Eight Melodies
 Name Detail: EarthBound
-# no official standalone release
 Artists:
-- Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=W8WSZwX2xhg
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    On the 1994 CD soundtrack, this track is the first part in track 17, ãƒã‚¸ã‚«ãƒ³ãƒˆã®ãƒ†ãƒ¼ãƒ <b>MAGICANT</b>.
 ---
 Track: Final Battle
-# Reference
-#   https://vgmdb.net/album/800
-Suffix Directory: true
-Always Reference By Directory: true
+Name Detail: album
+Additional Names:
+- Name: >-
+    æœ€çµ‚æˆ¦é—˜ã®ãƒ†ãƒ¼ãƒ <b>FINAL BATTLE</b><br>
+    ã‚¤ãƒŠã‚¯ãƒŠãƒªãƒŠã‚µã‚¤
+  Annotation: >-
+    booklet pg. 2:
+    [ãƒã‚¶ãƒ¼2 ã‚®ãƒ¼ã‚°ã®é€†è¥²](https://vgmdb.net/album/800)
 Artists:
 - Hirokazu Tanaka
 Duration: 4:06
 URLs:
 - https://www.youtube.com/watch?v=I9GULl5vHTA
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    Soundtrack release represents several in-game tracks, which are unofficially AKA:
+
+    - (0:00) ["Giygas's Lair"](https://www.youtube.com/watch?v=Wq8FK9Z_RGQ) (also [[track:giygass-lair|a track]] on this wiki)
+    - (0:13) ["Giygas Intro"](https://www.youtube.com/watch?v=NHfkk5PGUDI)
+    - (0:39) ["Giygas Stirs"](https://www.youtube.com/watch?v=K_HnKJpj8PU)
+    - (0:59) ["Giygas Intimidation"](https://www.youtube.com/watch?v=N9LbIHoiqrI)
+    - (1:19) ["Giygas is Wounded!"](https://www.youtube.com/watch?v=BsESDrxesCg)
+    - (1:41) ["Prayer for Safety"](https://www.youtube.com/watch?v=wA6SCuWURm8)
+    - (2:32) segment of [[track:eight-melodies-earthbound|"Eight Melodies"]]
+    - (3:03) ["Giygas is Fatally Wounded!"](https://www.youtube.com/watch?v=K74BdbI2wgc)
+    - (3:19) ["Giygas Disintegrates"](https://www.youtube.com/watch?v=W5u8ZztWzAk) (also [[track:giygas-disintegrates|a track]] on this wiki)
 ---
 Track: Fourside
-# Reference
-#   https://vgmdb.net/album/800
+Additional Names:
+- Name: >-
+    ãƒ•ã‚©ãƒ¼ã‚µã‚¤ãƒ‰ã®ãƒ†ãƒ¼ãƒ <b>FOURSIDE</b><br>
+    æ‘©å¤©æ¥¼ã«æŠ±ã‹ã‚Œã¦
+  Annotation: >-
+    booklet pg. 1:
+    [ãƒã‚¶ãƒ¼2 ã‚®ãƒ¼ã‚°ã®é€†è¥²](https://vgmdb.net/album/800)
 Artists:
 - Keiichi Suzuki
 Duration: 1:47
@@ -110,47 +129,53 @@ URLs:
 - https://www.youtube.com/watch?v=aooHvXEx0EI
 ---
 Track: Giygas Disintegrates
-# (See Eight Melodies (EarthBound), no official soundtrack release)
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=W5u8ZztWzAk
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    On the soundtrack this is part of [[track:final-battle-earthbound|FINAL BATTLE]]. This is not an individually titled part of FINAL BATTLE (as happens elsewhere in the EarthBound soundtrack), but is a separate in-game audio track.
 ---
 Track: Giygas's Lair
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
 - Hirokazu Tanaka
-Duration: 0:55
 URLs:
 - https://www.youtube.com/watch?v=Wq8FK9Z_RGQ
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    On the soundtrack this is part of [[track:final-battle-earthbound|FINAL BATTLE]]. This is not an individually titled part of FINAL BATTLE (as happens elsewhere in the EarthBound soundtrack), but is a separate in-game audio track.
 ---
 Track: Kraken of the Sea
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: '2:54'
+- Unknown Artist
 URLs:
 - https://www.youtube.com/watch?v=E2fjIawImFc
 ---
 Track: One Fateful Night
-# (See Eight Melodies (EarthBound), no official soundtrack release)
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
 - Hirokazu Tanaka
 URLs:
 - https://www.youtube.com/watch?v=bQzYJBTBVEc
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    On the 1994 CD soundtrack, this track is a segment of ãƒ—ãƒ­ãƒ­ãƒ¼ã‚° <b>PROLOGUE</b>.
+
+    That CD track is split into two titled parts: é€†è¥² ("Counterattack" or "Strike Back") is the main menu opening; çœ ã£ã¦ã‚‹å ´åˆã˜ã‚ƒãªã„ ("This Is No Time to Be Sleeping") plays during an in-game walkaround near the start of the game.
+
+    "One Fateful Night" represents the first segment of çœ ã£ã¦ã‚‹å ´åˆã˜ã‚ƒãªã„ ("This Is No Time to Be Sleeping").
 ---
 Track: Onett
-# JP: ƒIƒlƒbƒg‚Ìƒe[ƒ}
+# JP: Æ’IÆ’lÆ’bÆ’gâ€šÃŒÆ’eÂ[Æ’}
 # Official release:
-#   ƒ}ƒU[2 ƒM[ƒO‚Ì‹tP
+#   Æ’}Æ’UÂ[2 Æ’MÂ[Æ’Oâ€šÃŒâ€¹tÂP
 # Note:
 #   Translated name is via YouTube Music.
 # Reference:
@@ -165,30 +190,25 @@ Referenced Tracks:
 - Pollyanna (I Believe in You)
 ---
 Track: Power
-Suffix Directory: true
-Always Reference By Directory: true
-# Most often known as "The Power" but for some reason in the official release it's titled differently.
-# JP: ƒpƒ[
-# Official release:
-#   ƒ}ƒU[2 ƒM[ƒO‚Ì‹tP
-# Reference:
-#   https://vgmdb.net/album/800
+Name Detail: album
+Name Style: unofficial localization
+Additional Names:
+- Name: >-
+    ãƒ‘ãƒ¯ãƒ¼
+  Annotation: >-
+    booklet pg. 2:
+    [ãƒã‚¶ãƒ¼2 ã‚®ãƒ¼ã‚°ã®é€†è¥²](https://vgmdb.net/album/800)
 Artists:
 - Hirokazu Tanaka
-Duration: 1:09
 URLs:
 - https://www.youtube.com/watch?v=NpdNpTOPFOE
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    On the 1994 CD soundtrack, this track is the fifth and final part in track 17, ãƒã‚¸ã‚«ãƒ³ãƒˆã®ãƒ†ãƒ¼ãƒ <b>MAGICANT</b>.
 ---
 Track: Prologue
-Suffix Directory: true
-Always Reference By Directory: true
-# JP: ƒvƒƒ[ƒO (pt. 1: ‹tP, pt. 2: –°‚Á‚Ä‚éê‡‚¶‚á‚È‚¢)
-# Official release:
-#   MOTHER 2: Gyiyg no Gyakushuu
-#   ƒ}ƒU[2 ƒM[ƒO‚Ì‹tP
-# Reference:
-#   https://vgmdb.net/album/800
-#   (Also see commentary notes)
+Name Detail: album
 Artists:
 - Hirokazu Tanaka
 Duration: 1:05
@@ -197,23 +217,26 @@ URLs:
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 1/16/2024)
 
-    This track scores parts of EarthBound's prologue. The first half, titled on soundtrack releases as ‹tP ("Counterattack" or "Strike Back"), is the main menu opening; the second, –°‚Á‚Ä‚éê‡‚¶‚á‚È‚¢ ("This Is No Time to Be Sleeping"), plays during an in-game walkaround near the start of the game.
+    This track scores parts of EarthBound's prologue. The first half, titled on soundtrack releases as é€†è¥² ("Counterattack" or "Strike Back"), is the main menu opening; the second, çœ ã£ã¦ã‚‹å ´åˆã˜ã‚ƒãªã„ ("This Is No Time to Be Sleeping"), plays during an in-game walkaround near the start of the game.
 
     The first half is known online as "The Evil Giygas Attacks!" (in two parts) and the second as "One Fateful Night..." and "Unidentified Falling Object". These names all appear to trace to [Starmen.net](https://starmen.net/mother2/music/) since around [June 2007](https://web.archive.org/web/20070621190644/http://starmen.net/mother2/music/), and previously to [SNESmusic.org](http://snesmusic.org/v2/profile.php?profile=set&selected=783) since [May 2004 or earlier](https://web.archive.org/web/20051222040706/http://snesmusic.org/v2/profile.php?profile=set&selected=783). The English name "Prologue" is given on the official 2016 vinyl release; the part names don't seem to have received official localization.
 ---
 Track: Sanctuary Guardian
-# No official release of the in-game track (Earthbound)
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 2:11
+- Unknown Artist
 URLs:
 - https://www.youtube.com/watch?v=A_Gj-RJeeng
 Referenced Tracks:
 - Battle Theme 3 (EarthBound Beginnings)
 ---
 Track: Smiles and Tears
-# (See Eight Melodies (EarthBound), no official soundtrack release)
+Additional Names:
+- Name: >-
+    ã‚¹ãƒã‚¤ãƒ«ã‚ºãƒ»ã‚¢ãƒ³ãƒ‰ãƒ»ãƒ†ã‚£ã‚¢ãƒ¼ã‚º
+  Annotation: >-
+    booklet pg. 2:
+    [ãƒã‚¶ãƒ¼2 ã‚®ãƒ¼ã‚°ã®é€†è¥²](https://vgmdb.net/album/800)
 Artists:
 - Keiichi Suzuki
 - Hirokazu Tanaka
@@ -249,32 +272,33 @@ Lyrics: |-
     tooku ni hanarete
 ---
 Track: Super Dry Dance
-# JP: Š£‚¢‚½ƒ_ƒ“ƒX (SUPER DRY DANCE)
-# Official release:
-#   ƒ}ƒU[2 ƒM[ƒO‚Ì‹tP
-# Reference:
-#   https://vgmdb.net/album/800
+Additional Names:
+- Name: >-
+    ãƒ‰ã‚³ãƒ‰ã‚³ç ‚æ¼ ã®ãƒ†ãƒ¼ãƒ <b>DOKO DOKO DESERT</b><br>
+    ä¹¾ã„ãŸãƒ€ãƒ³ã‚¹ (SUPER DRY DANCE)
+  Annotation: >-
+    booklet pg. 1:
+    [ãƒã‚¶ãƒ¼2 ã‚®ãƒ¼ã‚°ã®é€†è¥²](https://vgmdb.net/album/800)
 Artists:
 - Hirokazu Tanaka
 Duration: 0:53
 URLs:
-- https://www.youtube.com/watch?v=VjSUpctGEUQ
+- https://www.youtube.com/watch?v=ls8En8OF8JU
 Referenced Tracks:
 - Advent Desert
 ---
 Track: Welcome, Me
+Name Style: unofficial localization
 Additional Names:
-- ƒEƒFƒ‹ƒJƒ€‚Ú‚­ (Japanese name)
+- Name: >-
+    ã‚¦ã‚§ãƒ«ã‚«ãƒ ã¼ã
+  Annotation: >-
+    booklet pg. 2:
+    [ãƒã‚¶ãƒ¼2 ã‚®ãƒ¼ã‚°ã®é€†è¥²](https://vgmdb.net/album/800)
 - Welcome Self (Wikipedia translation)
 - Welcome Home (Starmen.net translation)
-# JP: ƒEƒFƒ‹ƒJƒ€‚Ú‚­
-# Official release:
-#   ƒ}ƒU[2 ƒM[ƒO‚Ì‹tP
-# Reference:
-#   https://vgmdb.net/album/800
 Artists:
 - Hirokazu Tanaka
-Duration: 0:55
 URLs:
 - https://www.youtube.com/watch?v=7TNIAxPPr0A
 Commentary: |-
@@ -282,18 +306,15 @@ Commentary: |-
     Title is VGMdb's translation of its original Japanese title, as there is no official English translation. The track is a movement of the 'Magicant' medley on the international 2016 vinyl release.
 ---
 Track: What a Great Picture!
-# (See Eight Melodies (EarthBound), no official soundtrack release)
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 0:30
+- Unknown Artist
 URLs:
 - https://www.youtube.com/watch?v=L7Rx4wCKQu8
 ---
 Track: You Gained a Level!
-# (See Eight Melodies (EarthBound), no official soundtrack release)
+Name Style: unofficial
 Artists:
-- Keiichi Suzuki
-- Hirokazu Tanaka
+- Unknown Artist
 URLs:
 - https://www.youtube.com/watch?v=k-dOcqJoCrs
