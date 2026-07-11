@@ -102,9 +102,9 @@ URLs:
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
 
-    Soundtrack release represents several in-game tracks, which are unofficially AKA:
+    Soundtrack release represents several in-game cues, which are unofficially AKA:
 
-    - (0:00) ["Giygas's Lair"](https://www.youtube.com/watch?v=Wq8FK9Z_RGQ) (also [[track:giygass-lair|a track]] on this wiki)
+    - (0:00) ["Giygas's Lair"](https://www.youtube.com/watch?v=Wq8FK9Z_RGQ)
     - (0:13) ["Giygas Intro"](https://www.youtube.com/watch?v=NHfkk5PGUDI)
     - (0:39) ["Giygas Stirs"](https://www.youtube.com/watch?v=K_HnKJpj8PU)
     - (0:59) ["Giygas Intimidation"](https://www.youtube.com/watch?v=N9LbIHoiqrI)
@@ -112,7 +112,7 @@ Commentary: |-
     - (1:41) ["Prayer for Safety"](https://www.youtube.com/watch?v=wA6SCuWURm8)
     - (2:32) segment of [[track:eight-melodies-earthbound|"Eight Melodies"]]
     - (3:03) ["Giygas is Fatally Wounded!"](https://www.youtube.com/watch?v=K74BdbI2wgc)
-    - (3:19) ["Giygas Disintegrates"](https://www.youtube.com/watch?v=W5u8ZztWzAk) (also [[track:giygas-disintegrates|a track]] on this wiki)
+    - (3:19) ["Giygas Disintegrates"](https://www.youtube.com/watch?v=W5u8ZztWzAk)
 ---
 Track: Fourside
 Additional Names:
@@ -128,28 +128,6 @@ Duration: 1:47
 URLs:
 - https://www.youtube.com/watch?v=aooHvXEx0EI
 ---
-Track: Giygas Disintegrates
-Name Style: unofficial
-Artists:
-- Hirokazu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=W5u8ZztWzAk
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor)
-
-    On the soundtrack this is part of [[track:final-battle-earthbound|FINAL BATTLE]]. This is not an individually titled part of FINAL BATTLE (as happens elsewhere in the EarthBound soundtrack), but is a separate in-game audio track.
----
-Track: Giygas's Lair
-Name Style: unofficial
-Artists:
-- Hirokazu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=Wq8FK9Z_RGQ
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor)
-
-    On the soundtrack this is part of [[track:final-battle-earthbound|FINAL BATTLE]]. This is not an individually titled part of FINAL BATTLE (as happens elsewhere in the EarthBound soundtrack), but is a separate in-game audio track.
----
 Track: Kraken of the Sea
 Name Style: unofficial
 Artists:
@@ -157,20 +135,28 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=E2fjIawImFc
 ---
-Track: One Fateful Night
-Name Style: unofficial
+Track: This is No Time For Sleeping
+Name Style: unofficial localization
+Additional Names:
+- Name: >-
+    眠ってる場合じゃない
+  Annotation: >-
+    booklet pg. 2:
+    [マザー2 ギーグの逆襲](https://vgmdb.net/album/800)
 Artists:
 - Hirokazu Tanaka
 URLs:
-- https://www.youtube.com/watch?v=bQzYJBTBVEc
+- https://www.youtube.com/watch?v=EE6FocnZw0k
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
 
-    On the 1994 CD soundtrack, this track is a segment of プロローグ <b>PROLOGUE</b>.
+    On the 1994 CD soundtrack, this track is the second part in track 1, プロローグ <b>PROLOGUE</b>. *In turn,* "This is No Time For Sleeping" represents three in-game cues, which are unofficially AKA:
 
-    That CD track is split into two titled parts: 逆襲 ("Counterattack" or "Strike Back") is the main menu opening; 眠ってる場合じゃない ("This Is No Time to Be Sleeping") plays during an in-game walkaround near the start of the game.
+    - [One Fateful Night](https://www.youtube.com/watch?v=bQzYJBTBVEc)
+    - [Unidentified Falling Object](https://www.youtube.com/watch?v=22mm8Mh45Jk)
+    - [Rude Awakening](https://www.youtube.com/watch?v=ysG0LuBDgtM)
 
-    "One Fateful Night" represents the first segment of 眠ってる場合じゃない ("This Is No Time to Be Sleeping").
+    The listening link above is for the entire CD track, "PROLOGUE", which also includes [["Strike Back"]].
 ---
 Track: Onett
 # JP: ƒIƒlƒbƒg‚Ìƒe[ƒ}
@@ -206,20 +192,6 @@ Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
 
     On the 1994 CD soundtrack, this track is the fifth and final part in track 17, マジカントのテーマ <b>MAGICANT</b>.
----
-Track: Prologue
-Name Detail: album
-Artists:
-- Hirokazu Tanaka
-Duration: 1:05
-URLs:
-- https://www.youtube.com/watch?v=EE6FocnZw0k
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor, 1/16/2024)
-
-    This track scores parts of EarthBound's prologue. The first half, titled on soundtrack releases as 逆襲 ("Counterattack" or "Strike Back"), is the main menu opening; the second, 眠ってる場合じゃない ("This Is No Time to Be Sleeping"), plays during an in-game walkaround near the start of the game.
-
-    The first half is known online as "The Evil Giygas Attacks!" (in two parts) and the second as "One Fateful Night..." and "Unidentified Falling Object". These names all appear to trace to [Starmen.net](https://starmen.net/mother2/music/) since around [June 2007](https://web.archive.org/web/20070621190644/http://starmen.net/mother2/music/), and previously to [SNESmusic.org](http://snesmusic.org/v2/profile.php?profile=set&selected=783) since [May 2004 or earlier](https://web.archive.org/web/20051222040706/http://snesmusic.org/v2/profile.php?profile=set&selected=783). The English name "Prologue" is given on the official 2016 vinyl release; the part names don't seem to have received official localization.
 ---
 Track: Sanctuary Guardian
 Name Style: unofficial
@@ -270,6 +242,28 @@ Lyrics: |-
     miseatta futari wa...
     I miss you
     tooku ni hanarete
+---
+Track: Strike Back
+Name Style: unofficial localization
+Additional Names:
+- Name: >-
+    逆襲
+  Annotation: >-
+    booklet pg. 2:
+    [マザー2 ギーグの逆襲](https://vgmdb.net/album/800)
+Artists:
+- Hirokazu Tanaka
+URLs:
+- https://www.youtube.com/watch?v=EE6FocnZw0k
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    AKA "Counterattack". On the 1994 CD soundtrack, this track is the first part in track 1, プロローグ <b>PROLOGUE</b>. *In turn,* "Counterattack" / "Strike Back" represents two in-game tracks, which are unofficially AKA:
+
+    - [The Evil Giygas Attacks! (Part 1)](https://www.youtube.com/watch?v=Rd7k_W1aQ2s)
+    - [The Evil Giygas Attacks! (Part 2)](https://www.youtube.com/watch?v=QN4auugHLo4)
+
+    The listening link above is for the entire CD track, "PROLOGUE", which also includes [["This is No Time For Sleeping"]].
 ---
 Track: Super Dry Dance
 Additional Names:
