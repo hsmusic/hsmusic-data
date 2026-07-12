@@ -155,7 +155,9 @@ Content: |-
     - added [[album:the-mayview-mixtape]] (thanks, Lilith, Lan!)
     - added [[album:those-without-shadows-original-score]] by [[group:clark-powell]]! (thanks, Jebb!)
     - added [[album:solitary-confinement-in-nothing]] by [[artist:jmaa]]! (thanks, Jebb!)
+    - added [[album:what-was-will-be]] by [[artist:hatzka]]! (thanks, hatzka!)
     - added [[album:acousmatic-recollection-layer-ep]]! (thanks, <<Jebb:album data, presentation, research>>, <<Lan:data review>>!)
+    - added [[album:wrong-number-song-camellia-remix]] by [[artist:camellia]]! (thanks, ruby!)
     - added [[album:the-witchs-archives]] by [[artist:witchs-cadence]]! (thanks, <<Lilith:album data, presentation, research>>, <<Lan:data review, crediting presentation help>>, plus <<Witch's Cadence:track sampling & referencing help>>, <<Jebb:wallpaper edit>>!)
     - added [[album:minecraft-steve-rocks-the-block]]! (thanks, <<ruby:album data & presentation>>, <<Lan:data review, presentation help>>!)
     - added latest release from [[group:unofficial-mspa-fans]]! (thanks, <<ruby:album data, presentation, research>>, plus <<Jebb:album presentation help>>, <<Lilith:URL fix, bonus track artwork data>>, <<Cello:bonus track artwork help>>, <<Makin:URLs & bonus track artwork crediting help>>, <<Monckat:track duration fix>>, <<vriska:lyric fixes>>!)
@@ -180,6 +182,7 @@ Content: |-
     - added latest releases from [[group:undertale-and-deltarune]]! (thanks, <<ruby:album data, presentation, research>>, <<FF:track referencing>>, <<Jebb:track referencing>>, <<vriska:track referencing, additional presentation>>, plus <<Cello:additional track referencing>>, <<Meulanie:additional track referencing>>!)
         - added [[album:deltarune-soundtrack]]!
         - added [[album:deltarune-ch3-4-ost]]!
+        - added [[album:undertale-10th-anniversary-stream-soundtrack]]!
     - added releases from [[group:cheezquest]]! (thanks, <<Jebb:album data, presentation, research>>, <<Lan:data review, additional research>>, plus <<Josh:research help>>, <<Dust:research help>>, <<t2k:artwork referencing help>>!)
         - added [[album:selections-from-our-session-ep]]!
         - added [[album:inspired-by-the-void]]!
@@ -243,17 +246,35 @@ Content: |-
         - added [[album:undertale-deltarune-fan-encore-cd]]!
         - added [[album:mad-mew-mew]]!
     - added newsletter clippings from [[group:undertale-and-deltarune]]! (thanks, ruby, Lan, Whisper!)
+        - added [[album:unused-undertale-songs]]!
         - added [[album:deltarune-status-update-sept-2022]]!
         - added [[album:deltarune-ch3-status-update]]!
         - added [[album:deltarune-ch2-rejected-tracks]]!
+        - added [[album:undertale-deltarune-newsletter-winter-2025]]!
     - prepared custom "in-game VGM" presentation for tracks previously under under [[album:references-beyond-homestuck]], "Music from video games":
+        - prepared [[album:bastion]] in-game VGM! (thanks, Cello, Coral!)
+        - prepared [[album:binding-of-isaac-rebirth]] in-game VGM! (thanks, Cello!)
         - prepared [[group:brandish]] in-game VGM! (thanks, Lan!)
-        - prepared [[group:celeste]] in-game VGM! (thanks, Lan!)
+        - prepared [[album:cave-story]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[album:celeste]] in-game VGM! (thanks, Lan!)
+        - prepared [[group:chrono]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[album:cuphead]] in-game VGM! (thanks, Cello!)
+        - prepared [[album:doom-1993]] in-game VGM! (thanks, Cello, Coral!)
         - prepared [[group:final-fantasy]] in-game VGM! (thanks, Lan!)
         - prepared [[group:friday-night-funkin]] in-game VGM! (thanks, Surge!)
+        - prepared [[group:halo]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[album:hotline-miami]] in-game VGM! (thanks, Cello!)
         - prepared [[group:the-legend-of-zelda]] in-game VGM! (thanks, Lavender, ruby!)
+        - prepared [[album:metal-slug]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[album:nuclear-throne]] in-game VGM! (thanks, Cello!)
+        - prepared [[album:oddity]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[album:off]] in-game VGM! (thanks, Cello!)
         - prepared [[group:pokemon]] in-game VGM! (thanks, ruby, bit!)
+        - prepared [[group:portal]] in-game VGM! (thanks, Cello!)
+        - prepared [[group:rayman]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[group:silent-hill]] in-game VGM! (thanks, Cello!)
         - prepared [[group:sonic-the-hedgehog]] in-game VGM! (thanks, ruby!)
+        - prepared [[album:system-shock-1994]] in-game VGM! (thanks, Cello, Lan!)
         - prepared [[group:touhou-project]] in-game VGM! (thanks, Lilith!)
         - prepared [[group:when-they-cry]] in-game VGM! (thanks, Lilith!)
     <h3>other additions</h3>
@@ -759,8 +780,16 @@ Content: |-
         - fixed [[track:fire-forget-induction]] not referencing [[track:fire-forget]] (original single)
         - fixed [[track:fin-induction]] referencing [[track:goodbye-induction]], [[track:verisimilitude-induction]], [[track:fire-forget-induction]], [[track:wistful-induction]], [[track:shake-your-tail]], instead of [[track:goodbye-original]], [[track:verisimilitude-original]], [[track:fire-forget]], [[track:wistful-original]], [[track:shake-your-tail-original]] (original singles)
     - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
+    - fixed various [[track:spear-of-justice]]-related references (thanks, ruby!)
+        - fixed [[track:spear-of-justice]] referencing [[track:undyne]], instead of the other way around; referencing [[track:ruins-undertale]]; and not referencing [[track:undyne-battle-unused]]
+        - fixed [[track:run]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
+        - fixed [[track:ngahhh]] referencing [[track:undyne]] and [[track:ruins-undertale]] instead of [[track:spear-of-justice]]
+        - fixed [[track:asgore]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
+        - fixed [[track:bring-it-in-guys]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
     - fixed [[track:start-menu]] referencing [[track:once-upon-a-time]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) sampling [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]]), instead of being the track's main release (thanks, ruby!)
+    - fixed [[track:alphys]] not referencing [[track:alphys-lab-unused]] (thanks, ruby!)
+    - fixed [[track:undertale]] referencing [[track:once-upon-a-time]] instead of [[track:undertale-unused]] (thanks, ruby!)
     - fixed [[track:menu-full]] referencing [[track:start-menu]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] not referencing [[track:penumbra-phantasm]] (thanks, ruby, Makin, Jebb, Interrobang, Witch's Cadence, Monckat, Red Rax, Rainy, Meulanie, Jackie, Lan!)
     - updated a bunch of Deltarune references to point to in-between WIPs from [[album:deltarune-ch2-rejected-tracks]] (thanks, ruby!)
@@ -768,6 +797,7 @@ Content: |-
         - fixed [[track:attack-of-the-killer-queen]] referencing [[track:queen-deltarune]] instead of [[track:queen-battle-original]]
         - fixed [[track:giga-size]] referencing [[track:queen-deltarune]] and [[track:attack-of-the-killer-queen]] instead of [[track:giga-queen-old]]
         - fixed [[track:big-shot]] referencing [[track:spamton]] and [[track:power-of-neo]] instead of [[track:power-of-spamton]]
+    - fixed [[track:scarlet-forest]] not referencing [[track:field-of-hopes-and-dreams]] (in addition to [[track:game-main-theme-piano-sketch]]; thanks, ruby!)
     - fixed [[track:vs-ridley-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing "Opening (Destroyed Laboratory)", aka "Opening (Destroyed Science Academy Research Station)", instead of [[track:theme-of-super-metroid]] (thanks, ruby!)
     - fixed [[track:christmas-time-is-here-lo-fi]] not referencing [[track:christmas-time-is-here-vocal]] (thanks, Lilith, Tangle, Lan!)
     - fixed [[track:dead-maams-chest]] not referencing [[track:im-your-treasure-box-you-have-found-captain-marine-in-a-treasure-chest]] (thanks, ruby!)
@@ -1169,10 +1199,12 @@ Content: |-
     - changed directory of [[track:battle-rival-pokemon-black2-white2]] from `battle-rival-b2w2` to `battle-rival-pokemon-black2-white2`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainhoenn-version` to `battle-frontier-brain-hoenn-version`
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainsinnoh-version` to `battle-frontier-brain-sinnoh-version`
+    - changed directory of [[track:at-dooms-gate]] from `at-dooms-gate-e1m1` to `at-dooms-gate`
+    - changed directory of [[track:cave-story]] from `plantation-cave-story` to `cave-story`
     - changed directory of [[track:eight-melodies-earthbound]] from `eight-melodies` to `eight-melodies-earthbound`
-    - changed directory of [[track:you-higurashi-when-they-cry]] from `you-dai` to `you-higurashi-when-they-cry`
     - chanage directory of [[track:palace-of-twilight]] from `the-twilight-realm-the-twilight-princess` to `palace-of-twilight`
     - changed directory of [[track:silly-billy-fnf-hit-single]] from `silly-billy-hit-single` to `silly-billy-fnf-hit-single`
+    - changed directory of [[track:you-higurashi-when-they-cry]] from `you-dai` to `you-higurashi-when-they-cry`
     - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`
     - changed directory of [[artist:akira-series]] from `akira` to `akira-series`
     </details>
@@ -1716,7 +1748,7 @@ Content: |-
     - fixed commentary entries besides the first on each track not being annotated "booklet commentary" across [[album:lofam3]] (thanks, Whisper, Lan!)
     <!-- link fixes -->
     - fixed Bandcamp listening link for [[track:skaian-shrapnel]] (was to a functioning "skiain-shrapnel" URL; thanks, Surge, Lan!)
-    - fixed YouTube listening link for [[track:plantation-cave-story]] (was to a URL for [[track:moonsong]]; thanks, Geese, Lan!)
+    - fixed YouTube listening link for [[track:cave-story]] (was to a URL for [[track:moonsong]]; thanks, Geese, Lan!)
     - fixed YouTube listening link for [[track:stone-tower-temple]] (was dead; thanks, Lilith, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b></summary>
@@ -3558,7 +3590,7 @@ Content: |-
         - added <code>-we-are-all-satellites</code> to directories of [[track:harrigan-we-are-all-satellites]], [[track:mischief-we-are-all-satellites]], [[track:miranda-we-are-all-satellites]], [[track:lunatic-we-are-all-satellites]]
         - added <code>-weird-puzzle-tunes</code> to directory of [[track:aggress-weird-puzzle-tunes]]
         - added <code>-xenoplanetarium</code> to directory of [[track:acquiesce-xenoplanetarium]]
-        - added artists or source material to directories across [[group:additional-tracks]]: [[track:calliope-malcolm-brown]], [[track:cats-toby-fox]], [[track:feel-luke-benjamins]], [[track:flow-solatrus]], [[track:haunt-andrew-hussie]], [[track:valor-toby-fox]], [[track:gnade-redditstuck]], [[track:higher-ost]], [[track:rematch-strider-mixtape]], [[track:snowfall-stlap3]], [[track:wanderlust-redditstuck]], [[track:man-deltarune]], [[track:nuclear-james-roach]], [[track:terra-solatrus]], [[track:beginning-castlevania-draculas-curse]], [[track:dissonance-quincy-pringle]], [[track:focus-super-hexagon]], [[track:harmony-runescape]], [[track:homicide-danganronpa]], [[track:infinite-sonic-forces]], [[track:otherworld-final-fantasy-ix]], [[track:plantation-cave-story]], [[track:power-mother]], [[track:redial-bomberman-hero]], [[track:slider-super-mario-64]], [[track:synchrony-brandish-the-planet-buster]], [[track:you-higurashi-when-they-cry]], [[track:chase-jjba]], [[track:courage-jjba]], [[track:mailtime-blues-clues]], [[track:smack-khonjin-house]], [[track:chopsticks-euphemia-allen]], [[track:badgers-mrweebl]], [[track:bodies-drowning-pool]], [[track:bonfire-childish-gambino]], [[track:carnival-gorillaz]], [[track:casin-glue70]], [[track:crawling-linkin-park]], [[track:discordant-cecily-renns]], [[track:divinity-porter-robinson]], [[track:dust-moon]], [[track:earth-smile]], [[track:faint-linkin-park]], [[track:fever-little-willie-john]], [[track:fireflies-owl-city]], [[track:flicker-porter-robinson]], [[track:friday-rebecca-black]], [[track:gentleman-psy]], [[track:hoverboard-dirtyphonics]], [[track:hydrogen-moon]], [[track:if-placeboing]], [[track:killers-cboyardee]], [[track:lawnmower-neil-cicierega]], [[track:linger-the-cranberries]], [[track:parade-justice]], [[track:piss-neil-cicierega]], [[track:risen-terry-a-davis]], [[track:darude-sandstorm]], [[track:separator-radiohead]], [[track:september-earth-wind-fire]], [[track:shelter-porter-robinson]], [[track:smooth-santana]], [[track:spleen-ruth-white]], [[track:teardrop-massive-attack]], [[track:teenagers-my-chemical-romance]], [[track:ultimate-denzel-curry]], [[track:verified-your-favorite-martian]], [[track:whales-hail-mary-mallons]], [[track:hackers-iain-softley]], [[track:howl-allen-ginsberg]]
+        - added artists or source material to directories across [[group:additional-tracks]]: [[track:calliope-malcolm-brown]], [[track:cats-toby-fox]], [[track:feel-luke-benjamins]], [[track:flow-solatrus]], [[track:haunt-andrew-hussie]], [[track:valor-toby-fox]], [[track:gnade-redditstuck]], [[track:higher-ost]], [[track:rematch-strider-mixtape]], [[track:snowfall-stlap3]], [[track:wanderlust-redditstuck]], [[track:man-deltarune]], [[track:nuclear-james-roach]], [[track:terra-solatrus]], [[track:beginning-castlevania-draculas-curse]], [[track:dissonance-quincy-pringle]], [[track:focus-super-hexagon]], [[track:harmony-runescape]], [[track:homicide-danganronpa]], [[track:infinite-sonic-forces]], [[track:otherworld-final-fantasy-ix]], [[track:cave-story]], [[track:power-mother]], [[track:redial-bomberman-hero]], [[track:slider-super-mario-64]], [[track:synchrony-brandish-the-planet-buster]], [[track:you-higurashi-when-they-cry]], [[track:chase-jjba]], [[track:courage-jjba]], [[track:mailtime-blues-clues]], [[track:smack-khonjin-house]], [[track:chopsticks-euphemia-allen]], [[track:badgers-mrweebl]], [[track:bodies-drowning-pool]], [[track:bonfire-childish-gambino]], [[track:carnival-gorillaz]], [[track:casin-glue70]], [[track:crawling-linkin-park]], [[track:discordant-cecily-renns]], [[track:divinity-porter-robinson]], [[track:dust-moon]], [[track:earth-smile]], [[track:faint-linkin-park]], [[track:fever-little-willie-john]], [[track:fireflies-owl-city]], [[track:flicker-porter-robinson]], [[track:friday-rebecca-black]], [[track:gentleman-psy]], [[track:hoverboard-dirtyphonics]], [[track:hydrogen-moon]], [[track:if-placeboing]], [[track:killers-cboyardee]], [[track:lawnmower-neil-cicierega]], [[track:linger-the-cranberries]], [[track:parade-justice]], [[track:piss-neil-cicierega]], [[track:risen-terry-a-davis]], [[track:darude-sandstorm]], [[track:separator-radiohead]], [[track:september-earth-wind-fire]], [[track:shelter-porter-robinson]], [[track:smooth-santana]], [[track:spleen-ruth-white]], [[track:teardrop-massive-attack]], [[track:teenagers-my-chemical-romance]], [[track:ultimate-denzel-curry]], [[track:verified-your-favorite-martian]], [[track:whales-hail-mary-mallons]], [[track:hackers-iain-softley]], [[track:howl-allen-ginsberg]]
     </details>
     <h3>data fixes</h3>
     - fixed [[track:dance-stab-dance]] not referencing [[track:sburban-jungle]] (thanks, Sgeo!)

@@ -937,7 +937,7 @@ Commentary: |-
     <i>SNESology:</i> (original Tumblr post)
     After a slight hiatus, we have a new track for your ears by no one other than the returning Toby “Radiation” Fox of Homestuck (he does a lot of their music).  Toby returns to us w/ an interesting track.  It’s cute, it’s catchy, and it’s laid back and just what calls for a Tuesday night :)
 
-    Also note that he uses many various game samples, such as [[artist:chrono-trigger|CT]], [[artist:super-mario|SMRPG]], [[artist:the-legend-of-zelda|LTTP]], [[artist:super-mario|YI]], and [[artist:kirby|KDL3]]... That’s a lot of game acronyms.
+    Also note that he uses many various game samples, such as [[album:chrono-trigger|CT]], [[artist:super-mario|SMRPG]], [[album:a-link-to-the-past|LTTP]], [[artist:super-mario|YI]], and [[artist:kirby|KDL3]]... That’s a lot of game acronyms.
 
     <i>Toby Fox:</i> (original YouTube upload)
     Solve all of Mario and Wario's Puzzles, then press L+R and Start on the title screen.
@@ -1333,6 +1333,17 @@ Duration: 1:13
 URLs:
 - https://media.hsmusic.wiki/misc/archive/when_ralph.wav
 ---
+Track: reading CQ inspired me to do some smrpg-style music
+Artists:
+- Toby Fox
+Duration: 1:22
+URLs:
+- https://fwugradiation.tumblr.com/post/49976166657/reading-cq-inspired-me-to-do-some-smrpg-style
+- https://media.hsmusic.wiki/misc/archive/reading-cq-inspired-me-to-do-some-smrpg-style-music/tumblr_mmib13DWGL1qjxbkwo1.mp3
+Commentary: |-
+    <i>Toby Fox:</i> ([Tumblr](https://fwugradiation.tumblr.com/post/49976166657/reading-cq-inspired-me-to-do-some-smrpg-style))
+    reading [CQ](http://cucumber.gigidigi.com/) inspired me to do some smrpg-style music
+---
 Track: Refulgence of Regality
 Artists:
 - leiirue
@@ -1695,6 +1706,19 @@ URLs:
 Commentary: |-
     <i>Svix:</i> ([FurAffinity](https://www.furaffinity.net/view/4092044/))
     A fairly simple, pleasant piece to get me back into making music for the Summer. Hopefully if you liked [[track:the-fox-cub]] you should enjoy this. I wonder where that little fox has found himself now?
+---
+Track: Wrong Number Song
+Artists:
+- Toby Fox
+Duration: 0:06
+URLs:
+- https://www.youtube.com/watch?v=Tuhv3w4BmS0
+- https://undertale.wiki/w/File:Wrong_number_song_music.ogg
+Lyrics: |-
+    Oh it's the wrong number! The wrong number song!
+    We're very very sorry that we got it wrong!
+    Oh it's the wrong number! The wrong number song!
+    We're very very sorry that we got it wrong!
 ---
 Track: Your Bed
 Artists:
@@ -2194,28 +2218,6 @@ Duration: 2:42
 URLs:
 - https://www.youtube.com/watch?v=uZEvlslq-kQ
 ---
-Track: Assault Theme (Metal Slug) ##Also known as Stage 3
-# Reference:
-#   https://vgmdb.net/album/1113
-#   https://vgmdb.net/album/80958
-Artists:
-- Metal Slug
-- Takushi Hiyamuta
-Duration: 4:19
-URLs:
-- https://www.youtube.com/watch?v=FipchRsSO68
----
-Track: At Doom's Gate [E1M1]
-# Only released as an arranged version. Original MS-DOS release of game uses MIDI files with playback varying based on user hardware but contains specific additional sound information for OPL and GUS synthesizers. URL is to OPL recording.
-# Sources:
-# https://doomwiki.org/wiki/MIDI
-# https://vgmdb.net/album/2950
-Artists:
-- Doom
-- Bobby Prince
-URLs:
-- https://www.youtube.com/watch?v=18TTxhoF_EI
----
 Track: "Athletic BGM (Super Mario World 2: Yoshi's Island)"
 Directory: athletic-bgm-yoshis-island
 Artists:
@@ -2335,15 +2337,6 @@ URLs:
 - https://www.youtube.com/watch?v=vZmlbotvIxY
 Referenced Tracks:
 - track:bathing-nintendogs
----
-Track: Battle Against A Gorgeous Foe
-# From the fangame Mother 4's (now Oddity, with the name Mother 4 being taken by a different fangame) unreleased soundtrack
-Artists:
-- Oddity
-- nelward
-Duration: 1:41
-URLs:
-- https://www.youtube.com/watch?v=pBr0VWbDwpk
 ---
 Track: Battle (Golden Sun)
 # Info from Nintendo Music
@@ -2608,17 +2601,6 @@ Duration: 2:30
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/9ddf8479-2990-417f-a6a6-090843f7cd25
 - https://www.youtube.com/watch?v=kBlN_M_EMW8
----
-Track: Bombs for Throwing at You
-# Official release in a lovely free download
-# Reference:
-#   https://vgmdb.net/album/29202
-Artists:
-- Portal
-- Mike Morasky
-Duration: 5:48
-URLs:
-- https://www.youtube.com/watch?v=0uAsD6lQV1I
 ---
 Track: Bon Voyage, Amigo
 # From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
@@ -2907,20 +2889,6 @@ Duration: 0:26
 URLs:
 - https://www.youtube.com/watch?v=HHvDsMhP8yE
 ---
-Track: Cara Mia Addio!
-# Official release in a lovely free download
-# Reference:
-#   https://vgmdb.net/album/29202
-#   https://combineoverwiki.net/wiki/Turret_Opera
-Artists:
-- Portal
-- Mike Morasky
-Contributors:
-- Ellen McLain (lyrics, vocals)
-Duration: 2:35
-URLs:
-- https://www.youtube.com/watch?v=c5w68Z-oX30
----
 Track: The Castle Depths
 # Mario & Luigi: Bowser's Inside Story, no official release
 # Reference:
@@ -2991,36 +2959,6 @@ URLs:
 - https://www.youtube.com/watch?v=CYzTLzhnMLM
 Referenced Tracks:
 - Twinkle Elementary School
----
-Track: Chrono Cross ~Scars of Time~
-# (See Corridors of Time for info on soundtrack/YouTube differences)
-# JP: CHRONO CROSS ～時の傷跡～
-# Official releases:
-#   クロノ・クロス オリジナル・サウンドトラック
-#   Chrono Cross Original Soundtrack Revival Disc
-# Reference
-#   https://vgmdb.net/album/4
-#   https://vgmdb.net/album/86952
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 2:29
-URLs:
-- https://www.youtube.com/watch?v=180sjeAMKPE
----
-Track: Chrono Trigger
-# (See Corridors of Time for info on soundtrack/YouTube differences)
-# JP: クロノ・トリガー
-# Official release:
-#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/18
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 2:00
-URLs:
-- https://www.youtube.com/watch?v=nO3Ap0xOcAE
 ---
 Track: The Circle
 # Official release:
@@ -3161,20 +3099,6 @@ Duration: 3:23
 URLs:
 - https://www.youtube.com/watch?v=hiNSu24BNGQ
 ---
-Track: Corridors of Time
-# Chrono Trigger's OST is notoriously (to us) difficult to find uploads of on YouTube, so the linked URL may have duration or slight differences from its soundtrack release.
-# JP: 時の回廊
-# Official release:
-#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/18
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 3:01
-URLs:
-- https://www.youtube.com/watch?v=BXo3DrXHY8w
----
 Track: Counterattack
 # Reference:
 #   https://vgmdb.net/album/75751
@@ -3289,17 +3213,6 @@ Artists:
 Duration: 0:55
 URLs:
 - https://www.youtube.com/watch?v=BVDfQQdVEuI
----
-Track: Cyberspace
-# Reference:
-#   https://vgmdb.net/album/91071
-Artists:
-- System Shock
-- Greg LoPiccolo
-- Tim Ries
-Duration: 3:22
-URLs:
-- https://www.youtube.com/watch?v=AIMDilzrFjc
 ---
 Track: Dalarna
 # Reference:
@@ -3774,19 +3687,6 @@ Lyrics: |-
     Ahrk fin norok paal graan fod nust hon zindro zaan
     Dovahkiin, fah hin kogaan mu draal!
 ---
-Track: Dramatic Fanatic
-# Official release:
-#   Cuphead Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/71570
-Artists:
-- Cuphead
-- Kristofer Maddigan
-Duration: 4:57
-URLs:
-- https://studiomdhr.bandcamp.com/track/dramatic-fanatic
-- https://www.youtube.com/watch?v=Q0TIFoZjSIk
----
 Track: Dream Maze
 # Most often known as "Deeper into Ness's Subconscious" but for some reason in the official release it's titled differently.
 # JP: 夢の迷路
@@ -4034,21 +3934,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=0ler6IQYfTs
 ---
-Track: Everlasting Hymn (Cathedral)
-# Original release:
-#   The Binding Of Isaac - Rebirth: OST
-# Reference:
-#   https://vgmdb.net/album/48127
-#   https://ridiculon.bandcamp.com/track/everlasting-hymn-cathedral
-Duration: 2:52
-Artists:
-- The Binding of Isaac
-- Ridiculon
-URLs:
-- https://www.youtube.com/watch?v=42IDlO_qAfA
-Lyrics: |-
-    Dei, quod reliquum est, nolite metuere, et ossa tua liberabit, exspectans
----
 Track: Extend Music (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -4134,16 +4019,6 @@ URLs:
 - https://www.youtube.com/watch?v=SCrCmlrmHqg
 Referenced Tracks:
 - Toccata and Fugue in D minor
----
-Track: The Final Battle (ラストバトル)
-Directory: final-battle-chrono-trigger
-Always Reference By Directory: true
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 3:42
-URLs:
-- https://www.youtube.com/watch?v=CTocv2h10BM
 ---
 Track: Fire Emblem Theme (Heroic Origins)
 # Reference:
@@ -4342,20 +4217,6 @@ Artists:
 Duration: 4:18
 URLs:
 - https://www.youtube.com/watch?v=fXxkjnizIMA
----
-Track: Frog's Theme
-# (See Corridors of Time for info on soundtrack/YouTube differences)
-# JP: カエルのテーマ
-# Official release:
-#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/18
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 1:50
-URLs:
-- https://www.youtube.com/watch?v=EFBlzu96RkU
 ---
 Track: Full of Danger
 # Mario Party, no official release
@@ -5001,14 +4862,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/80a7c7b0-7a40-465a-b067-e9192b893fa8
 - https://www.youtube.com/watch?v=fMb-WH2UYi0
 ---
-Track: Hero's End
-# The original Cave Story's soundtrack hasn't been officially released.
-Artists:
-- Cave Story
-- Daisuke Amaya
-URLs:
-- https://www.youtube.com/watch?v=ayMOn4GKKGk
----
 Track: Homicide
 Directory: homicide-danganronpa
 Always Reference By Directory: true
@@ -5135,14 +4988,6 @@ Duration: 3:22
 URLs:
 - https://www.youtube.com/watch?v=xeEwEVDQQFw
 ---
-Track: Inner Animal
-Artists:
-- Hotline Miami
-- SCATTLE
-Duration: 3:40
-URLs:
-- https://scattle.bandcamp.com/track/inner-animal
----
 Track: Intimate
 Directory: intimate-rhythm-doctor
 Always Reference By Directory: true
@@ -5200,18 +5045,6 @@ URLs:
 - https://www.youtube.com/watch?v=OLFcQqFVvZg
 Sampled Tracks:
 - Y'all Ready to Get Funky (Acapella)
----
-Track: It's Safe Now
-# Official release on Bandcamp
-# Reference:
-#   https://vgmdb.net/album/36008
-Artists:
-- Hotline Miami
-- SCATTLE
-Duration: 2:43
-URLs:
-- https://scattle.bandcamp.com/track/its-safe-now
-- https://www.youtube.com/watch?v=LXxxnspPJWw
 ---
 Track: IT'S TIME TO FIGHT CRIME
 Artists:
@@ -5571,14 +5404,6 @@ URLs:
 Referenced Tracks:
 - Landscape Under The Ghost -Kaminano
 ---
-Track: Last Battle
-# The original Cave Story's soundtrack hasn't been officially released.
-Artists:
-- Cave Story
-- Daisuke Amaya
-URLs:
-- https://www.youtube.com/watch?v=vMhMck1Uwms
----
 Track: Layton's Theme
 # JP: レイトン教授のテーマ
 # Official release:
@@ -5803,21 +5628,6 @@ Duration: 7:27
 URLs:
 - https://www.youtube.com/watch?v=ZSeEk1TVQqk
 ---
-Track: Lost Cause
-# Not officially released, from Silent Hill 3.
-# Not to be confused with "lost carol", which seems to be
-# an unrelated track from the same game's soundtrack release.
-# "Plays after jumping off the roller coaster in the Otherworld Lakeside Amusement Park.
-#  [...] *Unreleased Track"
-# Reference:
-#   https://www.youtube.com/watch?v=qLdLtbwF6nY
-Duration: 1:50
-Artists:
-- Silent Hill
-- Akira Yamaoka
-URLs:
-- https://www.youtube.com/watch?v=qLdLtbwF6nY
----
 Track: Lost in Thoughts All Alone
 # Reference:
 #   https://vgmdb.net/album/57528
@@ -5895,16 +5705,6 @@ Lyrics: |-
     Love itself is just as innocent as roses in May
     It is pure white just like sin
 ---
-Track: Lum King
-# Reference:
-#   https://vgmdb.net/album/29075
-Artists:
-- Rayman
-- Christophe Héral
-Duration: 1:22
-URLs:
-- https://www.youtube.com/watch?v=X_m-50qXcLc
----
 Track: Mad Monster Mansion
 # Reference:
 #   https://vgmdb.net/album/48423
@@ -5934,17 +5734,6 @@ Duration: 3:56
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/50d7cb23-07dd-4a44-a7f3-173a8cbb2478
 - https://www.youtube.com/watch?v=uNbDEs8wrW4
----
-Track: Main Theme from Metal Slug ##Also known as Stage 1
-# Reference:
-#   https://vgmdb.net/album/1113
-#   https://vgmdb.net/album/80958
-Artists:
-- Metal Slug
-- Takushi Hiyamuta
-Duration: 4:19
-URLs:
-- https://www.youtube.com/watch?v=0IIfLwcLTgc
 ---
 Track: Main Theme (Pikmin)
 # Reference:
@@ -6206,14 +5995,6 @@ Duration: 3:46
 URLs:
 - https://www.youtube.com/watch?v=gUI9lQb_d0o
 ---
-Track: Moonsong
-# The original Cave Story's soundtrack hasn't been officially released.
-Artists:
-- Cave Story
-- Daisuke Amaya
-URLs:
-- https://www.youtube.com/watch?v=q09KoR7g018
----
 Track: Mor Ardain - Roaming the Wastes -
 # Reference:
 #   https://vgmdb.net/album/75751
@@ -6469,19 +6250,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=bQzYJBTBVEc
 ---
-Track: One Hell of a Time
-# Official release:
-#   Cuphead Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/71570
-Artists:
-- Cuphead
-- Kristofer Maddigan
-Duration: 3:02
-URLs:
-- https://studiomdhr.bandcamp.com/track/one-hell-of-a-time
-- https://www.youtube.com/watch?v=pOqsFMNFdDo
----
 Track: Onett
 # JP: オネットのテーマ
 # Official release:
@@ -6636,15 +6404,6 @@ Duration: 2:05
 URLs:
 - https://www.youtube.com/watch?v=llhVvjvImS4
 ---
-Track: Pepper Steak
-# Uploaded from in-game files (pretty sure anyway)
-Artists:
-- 'OFF'
-- Alias Conrad Coldwood
-Duration: 1:54
-URLs:
-- https://www.youtube.com/watch?v=-1EPegIzD2M
----
 Track: Perfect (Duck Hunt)
 # Reference:
 #   https://vgmdb.net/album/1424
@@ -6681,19 +6440,6 @@ Contributors:
 Duration: 1:22
 URLs:
 - https://www.youtube.com/watch?v=_I34nshlOPk
----
-Track: Plantation
-Directory: plantation-cave-story
-Always Reference By Directory: true
-# The original Cave Story's soundtrack hasn't been officially released.
-Artists:
-- Cave Story
-- Daisuke Amaya
-URLs:
-- https://www.youtube.com/watch?v=aHtWKbR_P-c
-Commentary: |-
-    <i>Makin:</i> (wiki editor, 8/13/2023)
-    Also known as Cave Story's Title Theme or Main Theme.
 ---
 Track: Poké Mart (Pokémon Ruby & Pokémon Sapphire)
 # Reference:
@@ -6767,19 +6513,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/c0be969a-54ad-4ed2-8e9d-4d019a1d22b4
 Referenced Tracks:
 - track:prelude-fire-emblem-awakening
----
-Track: Presentiment
-# JP: 予感
-# Official release:
-#   クロノ・トリガー オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/13754
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 0:34
-URLs:
-- https://www.youtube.com/watch?v=Ja0saZrHkXk
 ---
 Track: Prologue
 Directory: prologue-earthbound
@@ -6992,17 +6725,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=Rq7PkSBaUG8
 ---
-Track: Reconstructing More Science
-# Official release in a lovely free download
-# Reference:
-#   https://vgmdb.net/album/29202
-Artists:
-- Portal
-- Mike Morasky
-Duration: 2:37
-URLs:
-- https://www.youtube.com/watch?v=WAeiqxNH3W0
----
 Track: Recruitment Theme
 # Official release has this track as a medley of other in-game BGM at the end of an album mostly comprising arrangements; duration is from timestamps 41:33 to 42:07 on the album as a whole.
 # Official release:
@@ -7078,25 +6800,6 @@ Artists:
 - Total Science
 URLs:
 - https://www.youtube.com/watch?v=le79a4KVy0g
----
-Track: The Reverse Will
-# Official release:
-#   サイレントヒル2 オリジナル・サウンドトラック
-#   Silent Hill 2 Original Soundtracks
-# Reference:
-#   https://vgmdb.net/album/13384
-Duration: 3:33
-Artists:
-- Silent Hill
-- Akira Yamaoka
-URLs:
-- https://www.youtube.com/watch?v=-Zi5InWwr_U
-Lyrics: |-
-    [Reversed]
-    Now I lay me down to sleep
-    I pray the Lord my soul to keep
-    If I should die before I 'wake
-    I pray the Lord my soul to take
 ---
 Track: Rhythm Boxing (Expert)
 # Reference:
@@ -7321,14 +7024,6 @@ Duration: 0:03
 URLs:
 - https://www.youtube.com/watch?v=1geG058Bpls
 ---
-Track: Running Hell
-# The original Cave Story's soundtrack hasn't been officially released.
-Artists:
-- Cave Story
-- Daisuke Amaya
-URLs:
-- https://www.youtube.com/watch?v=VQPqmS5iGzY
----
 Track: Rusty Bucket Bay
 # Reference:
 #   https://vgmdb.net/album/48423
@@ -7487,20 +7182,6 @@ Lyrics: |-
     Come on, y'all, let me hear you say "I gotta believe!" (I gotta believe!) (Believe...)
     Oh yeah, oh yeah, oh yeah, oh yeah, yay
 ---
-Track: Schala's Theme
-# (See Corridors of Time for info on soundtrack/YouTube differences)
-# JP: サラのテーマ
-# Official release:
-#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/18
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 2:48
-URLs:
-- https://www.youtube.com/watch?v=ilTggSxYi04
----
 Track: Seaskape
 # Reference:
 #   https://vgmdb.net/album/54591
@@ -7516,20 +7197,6 @@ Duration: 2:56
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/918c7bd9-473a-4fd0-b9c2-0b681308e529
 - https://www.youtube.com/watch?v=EGcDuLA36_k
----
-Track: Secret of the Forest
-# (See Corridors of Time for info on soundtrack/YouTube differences)
-# JP: サラのテーマ
-# Official release:
-#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/18
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 3:01
-URLs:
-- https://www.youtube.com/watch?v=fKex3QoPc8A
 ---
 Track: Shapes
 # Reference
@@ -7552,17 +7219,6 @@ Artists:
 Duration: 2:11
 URLs:
 - https://www.youtube.com/watch?v=kcdGeWw_pvY
----
-Track: Silencio
-# Uploaded from in-game files (pretty sure anyway)
-Artists:
-- 'OFF'
-- Alias Conrad Coldwood
-Duration: 0:56
-URLs:
-- https://www.youtube.com/watch?v=7koXN8M6rZc
-Lyrics: |-
-    [Largely indecipherable French whispering]
 ---
 Track: Simian Segue
 # Reference:
@@ -7623,20 +7279,6 @@ Duration: 2:48
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/7e1af7a5-cca1-4f71-85cf-08d7da1a356f
 - https://www.youtube.com/watch?v=lc9B5GkWw94
----
-Track: Slinger's Song
-# Official release:
-#   Bastion Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/27893
-#   https://supergiantgames.bandcamp.com/album/bastion-original-soundtrack
-Duration: 4:06
-Artists:
-- Bastion
-- Darren Korb
-URLs:
-- https://supergiantgames.bandcamp.com/track/slingers-song
-- https://www.youtube.com/watch?v=kxJb-mOnLQM
 ---
 Track: Slums of Basset
 # JP: 戦艦スラム・バセット
@@ -8171,21 +7813,6 @@ Duration: 4:10
 URLs:
 - https://www.youtube.com/watch?v=hrvamz7tncY
 ---
-Track: Three Gates
-# Official release:
-#   HALO 3 Original Soundtrack
-#   Track is actually split into 'Three Gates' (0:47), 'Ascent' (1:15), and 'Leonidas Returns' (2:33)
-#   Track is in turn part of 'The Covenant' suite
-# Reference:
-#   https://vgmdb.net/album/5033
-Artists:
-- Halo
-- Martin O'Donnell
-- Michael Salvatori
-Duration: 4:34
-URLs:
-- https://www.youtube.com/watch?v=8Y-ptqPoYFI
----
 Track: Thwomp Volcano
 # Mario & Luigi: Partners in Time, no official release
 Artists:
@@ -8665,15 +8292,6 @@ URLs:
 Referenced Tracks:
 - Haltmann Works Co. Theme Song
 ---
-Track: Venus Mansion
-Artists:
-- Nuclear Throne
-- Jukio Kallio
-Duration: 2:48
-URLs:
-- https://jukiokallio.bandcamp.com/track/venus-mansion-feat-doseone
-- https://www.youtube.com/watch?v=pR6KObOqfXc
----
 Track: Vortal Combat
 # Official release:
 #   Half-Life 2: Episode Two Soundtrack
@@ -8854,17 +8472,6 @@ Duration: 0:30
 URLs:
 - https://www.youtube.com/watch?v=L7Rx4wCKQu8
 ---
-Track: Where The Guns At
-# Official release on Bandcamp
-Artists:
-- Nuclear Throne
-- Jukio Kallio
-- Joonas Turner (gun SFX)
-Duration: 2:20
-URLs:
-- https://jukiokallio.bandcamp.com/track/where-the-guns-at-feat-joonas-turner
-- https://www.youtube.com/watch?v=fe359yiaPi8
----
 Track: White Land I
 # Reference:
 #   https://vgmdb.net/product/200
@@ -8914,20 +8521,6 @@ Artists:
 Duration: 2:07
 URLs:
 - https://www.youtube.com/watch?v=E7PFm7mrdVY
----
-Track: Wind Scene
-# (See Corridors of Time for info on soundtrack/YouTube differences)
-# JP:  風の憧憬
-# Official release:
-#   クロノ・トリガー・オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/18
-Artists:
-- Chrono Trigger
-- Yasunori Mitsuda
-Duration: 3:23
-URLs:
-- https://www.youtube.com/watch?v=psMnbEmvx7w
 ---
 Track: Windmill Hut
 # JP: 風車小屋
@@ -14805,6 +14398,15 @@ Lyrics: |-
     Yu-Gi-Oh!
     It's time to du-du-du-du-dududududududuel!
     Yu-Gi-Oh! (-Oh! -Oh! -Oh!)
+---
+Track: いつもの風景
+Directory: itsumo-no-fuukei
+Artists:
+- The Melancholy of Haruhi Suzumiya
+- Satoru Kōsaki
+Duration: 2:16
+URLs:
+- https://www.youtube.com/watch?v=VyMkq8zAC7E
 ---
 Track: '気分爽快'
 Directory: refreshed
@@ -22298,6 +21900,21 @@ URLs:
 - https://bootleggizzard.bandcamp.com/track/cut-throat-boogie-live-in-chicago-24
 Referenced Tracks:
 - Cut Throat Boogie
+---
+Track: Cyberspace
+Suffix Directory: chicajo
+Always Reference By Directory: true
+Artists:
+- Chicajo
+Duration: 3:22
+URLs:
+- https://www.youtube.com/watch?v=AIMDilzrFjc
+Referenced Tracks:
+- sshock10
+Commentary: |-
+    <i>Chicajo:</i> ([[media:misc/archive/Sshkmids.txt|Sshkmids.txt]])
+
+    These little bits and pieces played at various points throughout the cyberspace sequences.  So I mixed them together into one piece.  Holy Cow!  Whoever programmed the percussion channel did one helluva frickin' fantastic job!  That track rocks!  I did do some individual sequence cut-and-pastes and brought the volume way up on the snares but it was all in the game.
 ---
 Track: Dame tu Cosita
 Artists:
@@ -37237,6 +36854,65 @@ Lyrics: |-
     Nya nya nya nya nya nya nya nya nya nya nya nya nya nya
     Nya nya nya nya nya nya nya nya nya nya nya nya nya...
 ---
+Track: Ob-La-Di, Ob-La-Da
+Artists:
+- The Beatles
+Duration: 3:08
+URLs:
+- https://www.youtube.com/watch?v=_J9NpHKrKMw
+Lyrics: |-
+    Desmond has his barrow in the marketplace
+    Molly is the singer in a band
+    Desmond says to Molly, "Girl, I like your face"
+    And Molly says this as she takes him by the hand
+
+    "Ob-la-di, ob-la-da, life goes on, brah
+    La-la, how their life goes on
+    Ob-la-di, ob-la-da, life goes on, brah
+    La-la, how their life goes on"
+
+    Desmond takes a trolley to the jeweller's store (choo-choo)
+    Buys a 20-carat golden ring (ring)
+    Takes it back to Molly waiting at the door
+    And as he gives it to her, she begins to sing (sing)
+
+    "Ob-la-di, ob-la-da, life goes on, brah
+    La-la, how their life goes on
+    Ob-la-di, ob-la-da, life goes on, brah
+    La-la, how their life goes on"
+
+    In a couple of years they have built a home sweet home
+    With a couple of kids running in the yard
+    Of Desmond and Molly Jones (ha-ha-ha-ha)
+
+    Happy ever after in the marketplace
+    Desmond lets the children lend a hand
+    Molly stays at home and does her pretty face
+    And in the evening she still sings it with the band, yes
+
+    Ob-la-di, ob-la-da, life goes on, brah
+    La-la, how their life goes on (yeah)
+    Ob-la-di, ob-la-da, life goes on, brah
+    La-la, how their life goes on
+
+    In a couple of years they have built a home sweet home
+    With a couple of kids running in the yard
+    Of Desmond and Molly Jones (ha-ha-ha-ha), yeah
+
+    Happy ever after in the marketplace
+    Molly lets the children lend a hand
+    Desmond stays at home and does his pretty face
+    And in the evening she's a singer with the band, yeah
+
+    Ob-la-di, ob-la-da, life goes on, brah
+    La-la, how their life goes on (yeah)
+    Ob-la-di, ob-la-da, life goes on, brah
+    La-la, how their life goes on
+
+    And if you want some fun
+    Take ob-la-di-bla-da
+    Thank you
+---
 Track: Obsession
 Artists:
 - OK Go
@@ -48607,6 +48283,21 @@ Lyrics: |-
     (The wow wow West) (Big Will, the Wild Wild)
     [Indecipherable]
     (Wild Wild) (Wow wow)
+---
+Track: the wrong number song
+Additional Names:
+- Name: >-
+    Wrong Number Song (PAL Version) - Undertale
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=5Hi8MXuzdzc)
+Artists:
+- SiIvaGunner
+- Myeauxyoozi
+Duration: 0:22
+URLs:
+- https://www.youtube.com/watch?v=5Hi8MXuzdzc
+Referenced Tracks:
+- Ob-La-Di, Ob-La-Da
 ---
 Track: X Gon' Give It to Ya
 Artists:
