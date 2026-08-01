@@ -17,6 +17,7 @@ Description: |-
 Direct Descendant Tags:
 - Humans (archetypes)
 - Trolls (archetypes)
+- Carapacians (archetypes)
 - More archetypes
 ---
 Tag: Humans (archetypes)
@@ -300,19 +301,12 @@ Direct Descendant Tags:
 - Meenah
 - The Condesce
 ---
-Tag: More archetypes
+Tag: Carapacians (archetypes)
 Direct Descendant Tags:
-- Dad (archetype)
 - Jack Noir (archetype)
-- Jaspers (archetype)
----
-Tag: Dad (archetype)
-Color: '#e0e0e0'
-Direct Descendant Tags:
-- Dad
-- LARGER HOMO SAPIEN (Homosuck)
-- Dadd
-- Dad (Heinoustuck)
+- HB (archetype)
+- DD (archetype)
+- CD (archetype)
 ---
 Tag: Jack Noir (archetype)
 Color: '#8a8a8a'
@@ -322,6 +316,38 @@ Direct Descendant Tags:
 - Spdaes Sleck
 - Jack Noir (Desynced)
 - Jack Noir (Redditstuck)
+- Scathing Sharper (Vast Error)
+---
+Tag: HB (archetype)
+Color: '#bf0000'
+Direct Descendant Tags:
+- HB
+- Hustle Bones (Vast Error)
+---
+Tag: DD (archetype)
+Color: '#c39797'
+Direct Descendant Tags:
+- DD
+- Defrauding Dealer (Vast Error)
+---
+Tag: CD (archetype)
+Color: '#a8a8a8'
+Direct Descendant Tags:
+- CD
+- Charmed Defalcator (Vast Error)
+---
+Tag: More archetypes
+Direct Descendant Tags:
+- Dad (archetype)
+- Jaspers (archetype)
+---
+Tag: Dad (archetype)
+Color: '#e0e0e0'
+Direct Descendant Tags:
+- Dad
+- LARGER HOMO SAPIEN (Homosuck)
+- Dadd
+- Dad (Heinoustuck)
 ---
 Tag: Jaspers (archetype)
 Color: '#f141ef'
