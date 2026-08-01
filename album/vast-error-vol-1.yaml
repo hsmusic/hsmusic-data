@@ -19,6 +19,8 @@ Artists:
 - sympolite
 Cover Artists:
 - ChasingStarlightz
+Art Tags:
+- Arcjec (Vast Error)
 Duration: 01:37
 URLs:
 - https://vasterror.bandcamp.com/track/curtain-call-2
@@ -29,6 +31,8 @@ Artists:
 - Momo
 Cover Artists:
 - Joyfulldreams
+Art Tags:
+- Taz (Vast Error)
 Duration: 02:16
 URLs:
 - https://vasterror.bandcamp.com/track/razzmatazz-2
@@ -39,6 +43,9 @@ Artists:
 - dbnet18
 Cover Artists:
 - trip
+Art Tags:
+- Murrit (Vast Error)
+# - Boobdrone(? if you want to count that????)  -via t2k [just for yaml]
 Duration: 01:45
 URLs:
 - https://vasterror.bandcamp.com/track/mammory-master-2
@@ -49,8 +56,11 @@ Artists:
 - Kal-la-kal-la
 Contributors:
 - sympolite (mastering)
-Cover Artists:
-- Vast Error
+Track Artwork:  # unique to this release
+  Artists:
+  - Vast Error
+  Tags:
+  - The Static (Vast Error)
 Duration: 01:12
 URLs:
 - https://vasterror.bandcamp.com/track/the-static-2
@@ -71,6 +81,9 @@ Artists:
 - Kal-la-kal-la
 Cover Artists:
 - Sparaze
+Art Tags:
+- White Noise (Vast Error)
+- The Static (Vast Error)
 Duration: 03:38
 URLs:
 - https://vasterror.bandcamp.com/track/a-very-active-imagination-2
@@ -81,6 +94,9 @@ Artists:
 - Ian Kraemer
 Cover Artists:
 - Sparaze
+Art Tags:
+- Ellsee (Vast Error)
+- Repiton (Vast Error)
 Duration: 04:12
 URLs:
 - https://archive.org/details/VastError_Volume1/06+Plink.mp3
@@ -90,6 +106,10 @@ Artists:
 - pragmaticNihilist
 Cover Artists:
 - Joyfulldreams
+Art Tags:
+- Laivan (Vast Error)
+- Laivan's lusus (Vast Error)
+- Prospit (Vast Error)
 Duration: 03:17
 URLs:
 - https://vasterror.bandcamp.com/track/woof-2
@@ -101,6 +121,9 @@ Artists:
 - sympolite
 Cover Artists:
 - Joyfulldreams
+Art Tags:
+- Albion (Vast Error)
+- Repiton (Vast Error)
 Duration: 03:37
 URLs:
 - https://vasterror.bandcamp.com/track/star-children-2
@@ -121,6 +144,7 @@ Artists:
 Cover Artists:
 - Calicorn
 Art Tags:
+- Dismas (Vast Error)
 - 'cw: blood (abstract)'
 Duration: 02:36
 URLs:
@@ -133,6 +157,8 @@ Artists:
 - Ian Kraemer
 Cover Artists:
 - Sparaze
+Art Tags:
+- Repiton (Vast Error)
 Duration: 07:06
 URLs:
 - https://archive.org/details/VastError_Volume1/11+Renaissance.mp3
@@ -142,6 +168,8 @@ Artists:
 - Ian Kraemer
 Cover Artists:
 - Sparaze
+Art Tags:
+- Repiton (Vast Error)
 Duration: 08:34
 URLs:
 - https://archive.org/details/VastError_Volume1/12+Renaissance+(Extended+Cut).mp3
