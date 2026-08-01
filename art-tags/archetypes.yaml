@@ -331,23 +331,11 @@ Direct Descendant Tags:
 - Jasprose
 
 # Location archetypes
+# These are structured in location-classifications.yaml.
 
 ---
-Tag: Location archetypes
-Direct Descendant Tags:
-- Alternia (archetype)
-- Battlefield (archetype)
-- Derse (archetype)
-- Earth (archetype)
-- Forge (archetype)
-- Frog Temple (archetype)
-- Green Sun (archetype)
-- Prospit (archetype)
-- Skaia (archetype)
-- Veil (archetype)
-- Victory Platform (archetype)
----
 Tag: Alternia (archetype)
+Color: '#8e4fee'
 Direct Descendant Tags:
 - Alternia
 - Beforus
@@ -355,46 +343,58 @@ Direct Descendant Tags:
 - Nibiru (Desynced)
 ---
 Tag: Battlefield (archetype)
+Color: '#cff0f7'
 Direct Descendant Tags:
 - Battlefield
 ---
 Tag: Derse (archetype)
+Color: '#ff01fe'
 Direct Descendant Tags:
 - Derse
 - Durst
+- Derse (Vast Error)
 ---
 Tag: Earth (archetype)
+Color: '#6bf45f'
 Direct Descendant Tags:
 - Earth
 - Ruined Earth
 - Flooded Earth
 ---
 Tag: Forge (archetype)
+Color: '#f03224'
 Direct Descendant Tags:
 - Forge
 ---
 Tag: Frog Temple (archetype)
+Color: '#c1dd58'
 Direct Descendant Tags:
 - Frog Temple
 ---
 Tag: Green Sun (archetype)
+Color: '#00ff00'
 Direct Descendant Tags:
 - Green Sun
 ---
 Tag: Prospit (archetype)
+Color: '#ffff01'
 Direct Descendant Tags:
 - Prospit
 - Prostit
+- Prospit (Vast Error)
 ---
 Tag: Skaia (archetype)
+Color: '#4bdcf9'
 Direct Descendant Tags:
 - Skaia
 - Skya
 ---
 Tag: Veil (archetype)
+Color: '#7c7c7c'
 Direct Descendant Tags:
 - Veil
 ---
 Tag: Victory Platform (archetype)
+Color: '#90dd58'
 Direct Descendant Tags:
 - Victory Platform

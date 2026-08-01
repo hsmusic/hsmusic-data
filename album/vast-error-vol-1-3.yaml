@@ -41,11 +41,12 @@ Track: The Static
 Main Release: Vast Error Vol. 1
 Artists:
 - Kal-la-kal-la
-Cover Artists:
-- Radical Dude 42
-Art Tags:
-- White Noise (Vast Error)
-- The Static (Vast Error)
+Track Artwork:  # reused from Slight Crisis (Vast Error Vol. 2)
+  Artists:
+  - Radical Dude 42
+  Tags:
+  - White Noise (Vast Error)
+  - The Static (Vast Error)
 Duration: 01:12
 URLs:
 - https://vasterror.bandcamp.com/track/the-static-2
@@ -78,21 +79,22 @@ Track: Cosmic Significance
 Main Release: Vast Error Vol. 3
 Artists:
 - Circlejourney
-Cover Artists:
-- Sam Garcia
-Art Tags:
-- Arcjec (Vast Error)
-- Taz (Vast Error)
-- Laivan (Vast Error)
-- Ellsee (Vast Error)
-- Murrit (Vast Error)
-- Jentha (Vast Error)
-- Dismas (Vast Error)
-- Calder (Vast Error)
-- Serpaz (Vast Error)
-- Albion (Vast Error)
-- Sova (Vast Error)
-- Occeus (Vast Error)
+Track Artwork:  # reused from Time (Vast Error Vol. 3)
+  Artists:
+  - Sam Garcia
+  Tags:
+  - Arcjec (Vast Error)
+  - Taz (Vast Error)
+  - Laivan (Vast Error)
+  - Ellsee (Vast Error)
+  - Murrit (Vast Error)
+  - Jentha (Vast Error)
+  - Dismas (Vast Error)
+  - Calder (Vast Error)
+  - Serpaz (Vast Error)
+  - Albion (Vast Error)
+  - Sova (Vast Error)
+  - Occeus (Vast Error)
 Duration: 03:53
 URLs:
 - https://vasterror.bandcamp.com/track/cosmic-significance-2
@@ -143,7 +145,7 @@ Cover Artists:
 - trip
 Art Tags:
 - Murrit (Vast Error)
-# - Boobdrone(? if you want to count that????)  -via t2k
+# - Boobdrone(? if you want to count that????)  -via t2k [just for yaml]
 Duration: 01:45
 URLs:
 - https://vasterror.bandcamp.com/track/mammory-master-2
@@ -277,7 +279,8 @@ Art Tags:
 - Scathing Sharper (Vast Error)
 - Carapacians
 # - I was going to put Exonerated Executioner here but I think
-#   these guys were all made up just for this art except for SS  -via t2k
+#   these guys were all made up just for this art except for SS
+#     -via t2k [just for yaml]
 Duration: 01:40
 URLs:
 - https://vasterror.bandcamp.com/track/song-for-the-lost-2
@@ -291,7 +294,7 @@ Cover Artists:
 Art Tags:
 - Laivan (Vast Error)
 - Laivan's lusus (Vast Error)
-- Prospit
+- Prospit (Vast Error)
 Duration: 03:17
 URLs:
 - https://vasterror.bandcamp.com/track/woof-2
@@ -300,10 +303,11 @@ Track: Sunrise
 Main Release: Vast Error Vol. 3
 Artists:
 - Kal-la-kal-la
-Cover Artists:
-- YoItsCro
-Art Tags:
-- Albion (Vast Error)
+Track Artwork:  # reused from Particle (Vast Error Vol. 3)
+  Artists:
+  - YoItsCro
+  Tags:
+  - Albion (Vast Error)
 Duration: 03:18
 URLs:
 - https://vasterror.bandcamp.com/track/sunrise-2
@@ -316,7 +320,7 @@ Cover Artists:
 - Chumi
 Art Tags:
 - Jentha (Vast Error)
-# - Furby (this is not an important character. I just wanted to note that there is a furby here.)  -via t2k
+# - Furby (this is not an important character. I just wanted to note that there is a furby here.)  -via t2k [just for yaml]
 Duration: 02:00
 URLs:
 - https://vasterror.bandcamp.com/track/j-jitterbug-2
@@ -339,10 +343,11 @@ Suffix Directory: false
 Main Release: 'INTERMISSION: On Repeat'
 Artists:
 - sympolite
-Cover Artists:
-- Sparaze
-Art Tags:
-- Repiton (Vast Error)
+Track Artwork:  # reused from Renaissance (Vast Error Vol. 1)
+  Artists:
+  - Sparaze
+  Tags:
+  - Repiton (Vast Error)
 Duration: 02:14
 URLs:
 - https://vasterror.bandcamp.com/track/on-repeat
@@ -479,9 +484,10 @@ Artists:
 - dbnet18
 Cover Artists:
 - Aeritus
-Art Tags:
-- Albion (Vast Error)
-- Guardianspirit (Vast Error) # Albion's guardian. the wiki calls it a lusus but like, within the text of the story it feels super unclear to me whether this is something that can be considered a lusus. if we're going with generic names, "Albion's guardian" feels safer  -via t2k
+Track Artwork:  # reused from Cell Block (Vast Error Vol. 2)
+  Tags:
+  - Albion (Vast Error)
+  - Guardianspirit (Vast Error) # Albion's guardian. the wiki calls it a lusus but like, within the text of the story it feels super unclear to me whether this is something that can be considered a lusus. if we're going with generic names, "Albion's guardian" feels safer  -via t2k [just for yaml]
 Duration: 02:21
 URLs:
 - https://vasterror.bandcamp.com/track/revelations
@@ -517,7 +523,7 @@ Artists:
 - Rnd
 Cover Artists:
 - Cosmic
-Art Tags: # I think this is supposed to be somewhere on Repiton but I have no idea what it's actually depicting  -via t2k
+Art Tags: # I think this is supposed to be somewhere on Repiton but I have no idea what it's actually depicting  -via t2k [just for yaml]
 Duration: 02:24
 URLs:
 - https://vasterror.bandcamp.com/track/invigorated-wasteland-2
@@ -701,10 +707,11 @@ Track: Gone
 Main Release: Vast Error Vol. 3
 Artists:
 - WHATISLOSTINTHEMINES
-Cover Artists:
-- SilentNeptune
-Art Tags:
-- Taz (Vast Error)
+Track Artwork:  # reused from Something Worth Doing (Vast Error Vol. 3)
+  Artists:
+  - SilentNeptune
+  Tags:
+  - Taz (Vast Error)
 Duration: 02:34
 URLs:
 - https://vasterror.bandcamp.com/track/gone
