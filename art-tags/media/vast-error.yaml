@@ -12,37 +12,13 @@ Extra Reading URLs:
 Tag: Characters from Vast Error
 Direct Descendant Tags:
 - Trolls (Vast Error)
+- Lusii (Vast Error)
 - Carapacians (Vast Error)
 - Consorts (Vast Error)
 - Denizens (Vast Error)
 - More characters from Vast Error
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Category:Characters
----
-Tag: Carapacians (Vast Error)
-Direct Descendant Tags:
-- EE (Vast Error)
-- VP (Vast Error)
-- CM (Vast Error)
-- Scathing Sharper (Vast Error)
-- Hustle Bones (Vast Error)
-- Defrauding Dealer (Vast Error)
-- Charmed Defalcator (Vast Error)
-Extra Reading URLs:
-- https://wiki.deconreconstruction.com/wiki/Carapacian
----
-Tag: Consorts (Vast Error)
-Direct Descendant Tags:
-- Snakes (Vast Error)
----
-Tag: Snakes (Vast Error)
-Color: '#fe9601'
----
-Tag: Denizens (Vast Error)
-Direct Descendant Tags:
-- Zehanpuryu (Vast Error)
-Extra Reading URLs:
-- https://wiki.deconreconstruction.com/wiki/Denizen
 ---
 Tag: Trolls (Vast Error)
 Direct Descendant Tags:
@@ -106,8 +82,52 @@ Direct Descendant Tags:
 - The Jagerman (Vast Error)
 - The Executive (Vast Error)
 ---
+Tag: Lusii (Vast Error)
+Direct Descendant Tags:
+- Dismas's lusus (Vast Error)
+- Arcjec's lusus (Vast Error)
+- Ellsee's lusus (Vast Error)
+- Serpaz's lusus (Vast Error)
+- Laivan's lusus (Vast Error)
+- Taz's lusus (Vast Error)
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Lusus
+---
+Tag: Carapacians (Vast Error)
+Direct Descendant Tags:
+- EE (Vast Error)
+- VP (Vast Error)
+- CM (Vast Error)
+- Scathing Sharper (Vast Error)
+- Hustle Bones (Vast Error)
+- Defrauding Dealer (Vast Error)
+- Charmed Defalcator (Vast Error)
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Carapacian
+---
+Tag: Consorts (Vast Error)
+Direct Descendant Tags:
+- Snakes (Vast Error)
+---
+Tag: Snakes (Vast Error)
+Color: '#fe9601'
+---
+Tag: Denizens (Vast Error)
+Direct Descendant Tags:  # Sort matching Trolls order
+- Jegudial (Vast Error)    # Sova
+- Zehanpuryu (Vast Error)  # Arcjec
+- Af (Vast Error)          # Jentha
+- Sorush (Vast Error)      # Serpaz
+- Haniel (Vast Error)      # Laivan
+- Azbogah (Vast Error)     # Taz
+- Gusion (Vast Error)      # Murrit
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Denizen
+---
 Tag: More characters from Vast Error
 Direct Descendant Tags:
+- Albion's guardian (Vast Error)
+- Taz's pet rock (Vast Error)
 - Gaiaeon (Vast Error)
 - Kheparia (Vast Error)
 - Mimesis (Vast Error)
@@ -116,6 +136,11 @@ Direct Descendant Tags:
 
 # Character entries
 
+---
+Tag: Af (Vast Error)
+Color: '#f94f00'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Af
 ---
 Tag: Ahlina (Vast Error)
 Color: '#d9b861'
@@ -127,6 +152,12 @@ Color: '#588a00'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Albion_Shukra
 ---
+Tag: Albion's guardian (Vast Error)
+# Guardianspirit/Albion's guardian. the wiki calls it a lusus but like, within the text of the story it feels super unclear to me whether this is something that can be considered a lusus. if we're going with generic names, "Albion's guardian" feels safer  -via t2k [just for yaml]
+Color: '#818181'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Lusus#Guardianspirit
+---
 Tag: The Annalist (Vast Error)
 Color: '#eb0000'
 Extra Reading URLs:
@@ -136,6 +167,16 @@ Tag: Arcjec (Vast Error)
 Color: '#b95c00'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Arcjec_Voorat
+---
+Tag: Arcjec's lusus (Vast Error)
+Color: '#b95c00'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Lusus#Opossum_lusus
+---
+Tag: Azbogah (Vast Error)
+Color: '#c677d8'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Azbogah
 ---
 Tag: Bytcon (Vast Error)
 Color: '#095afe'
@@ -195,6 +236,11 @@ Color: '#cd6500'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Dismas_Mersiv
 ---
+Tag: Dismas's lusus (Vast Error)
+Color: '#cd6500'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Lusus#Skulltitan_lusus
+---
 Tag: Edolon (Vast Error)
 Color: '#7154ae'
 Extra Reading URLs:
@@ -207,6 +253,11 @@ Tag: Ellsee (Vast Error)
 Color: '#6c8400'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Ellsee_Raines
+---
+Tag: Ellsee's lusus (Vast Error)
+Color: '#6c8400'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Lusus#Chimeraparent
 ---
 Tag: Endari (Vast Error)
 Color: '#a34bff'
@@ -248,10 +299,20 @@ Color: '#008f48'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Glomer_Hicner
 ---
+Tag: Gusion (Vast Error)
+Color: '#ff3130'  # color-picked from art on wiki
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Gusion
+---
 Tag: Hamifi (Vast Error)
 Color: '#008f48'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Hamifi_Hekrix
+---
+Tag: Haniel (Vast Error)
+Color: '#cccce3'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Haniel
 ---
 Tag: Hayyan (Vast Error)
 Color: '#daaf2d'
@@ -273,6 +334,11 @@ Color: '#3796c6'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/The_Jagerman
 ---
+Tag: Jegudial (Vast Error)
+Color: '#9f2d48'  # color-picked from art on wiki
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Jegudial
+---
 Tag: Jentha (Vast Error)
 Color: '#daaf2d'
 Extra Reading URLs:
@@ -287,6 +353,11 @@ Tag: Laivan (Vast Error)
 Color: '#3796c6'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Laivan_Ferroo
+---
+Tag: Laivan's lusus (Vast Error)
+Color: '#3796c6'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Lusus#Mutt
 ---
 Tag: Mimesis (Vast Error)
 Color: '#f98bff'
@@ -378,6 +449,11 @@ Color: '#008b8b'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Serpaz_Helilo
 ---
+Tag: Serpaz's lusus (Vast Error)
+Color: '#008b8b'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Lusus#Lefty
+---
 Tag: Sestro (Vast Error)
 Color: '#a34bff'
 Extra Reading URLs:
@@ -387,6 +463,11 @@ Tag: Sirage (Vast Error)
 Color: '#588a00'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Sirage_Feltri
+---
+Tag: Sorush (Vast Error)
+Color: '#c8b271'  # color-picked from art on wiki
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Sorush
 ---
 Tag: Sova (Vast Error)
 Color: '#eb0000'
@@ -402,6 +483,16 @@ Tag: Taz (Vast Error)
 Color: '#a34bff'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Taz_Poemme
+---
+Tag: Taz's lusus (Vast Error)
+Color: '#a34bff'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Lusus#Minkmom
+---
+Tag: Taz's pet rock (Vast Error)
+Color: '#9c9c9c'
+Extra Reading URLs:
+- https://www.deconreconstruction.com/vasterror/47
 ---
 Tag: Turnin (Vast Error)
 Color: '#00c0c0'
@@ -426,15 +517,20 @@ Extra Reading URLs:
 Tag: VP (Vast Error)
 Color: '#ffff01'
 ---
+Tag: White Noise (Vast Error)
+Color: '#ffffff'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/White_Noise
+---
 Tag: Yeshin (Vast Error)
 Color: '#cd4748'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Yeshin_Laevis
 ---
-Tag: White Noise (Vast Error)
-Color: '#ffffff'
+Tag: Zehanpuryu (Vast Error)
+Color: '#6196ff'
 Extra Reading URLs:
-- https://wiki.deconreconstruction.com/wiki/White_Noise
+- https://wiki.deconreconstruction.com/wiki/Zehanpuryu
 
 # Location classifications
 
@@ -466,6 +562,7 @@ Direct Descendant Tags:
 ---
 Tag: More locations from Vast Error
 Direct Descendant Tags:
+- Frog Temple (Vast Error)
 - The Static (Vast Error)
 
 # Location entries
@@ -475,6 +572,11 @@ Tag: Derse (Vast Error)
 Color: '#ff01fe'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Derse
+---
+Tag: Frog Temple (Vast Error)
+Color: '#c1dd58'
+Extra Reading URLs:
+- https://wiki.deconreconstruction.com/wiki/Frog_Temple
 ---
 Tag: LoAaR (Vast Error)
 Color: '#588a00'
