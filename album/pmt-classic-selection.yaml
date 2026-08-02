@@ -287,17 +287,19 @@ URLs:
 - https://open.spotify.com/track/6ZMv9Ily8X7qRC63uT24Dz
 ---
 Track: She's a Witch!
-Suffix Directory: false
-Always Reference By Directory: false
+Suffix Directory: true
+Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
 Duration: 3:28
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/shes-a-witch
 - https://open.spotify.com/track/5xPOqhMFASmnQ28GrPvEUn
-Referenced Tracks:
-- Graceful Twilight
-- track:gratification-paradox-music-team
+#Referenced Tracks:
+#- She's a Witch! - Astrid Battle Theme
+#move bottom referenced tracks to She's a Witch! - Astrid Battle Theme when merging, since that's the main release
+#- Graceful Twilight
+#- track:gratification-paradox-music-team
 ---
 Track: Sunrise
 Main Release: track:sunrise-desynced
