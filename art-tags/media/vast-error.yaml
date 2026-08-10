@@ -552,6 +552,7 @@ Tag: Locations from Vast Error
 Direct Descendant Tags:
 - Astronomical bodies (Vast Error)
 - Locations in the Incipisphere (Vast Error)
+- Locations on Repiton (Vast Error)
 - More locations from Vast Error
 ---
 Tag: Astronomical bodies (Vast Error)
@@ -581,6 +582,18 @@ Direct Descendant Tags:
 - LoWaR (Vast Error)
 - LoMaQ (Vast Error)
 ---
+Tag: Locations on Repiton (Vast Error)
+Direct Descendant Tags:
+- Hives on Repiton (Vast Error)
+---
+Tag: Hives on Repiton (Vast Error)
+Direct Descendant Tags:
+- Sova's hive (Vast Error)
+- Albion's hive (Vast Error)
+- Serpaz's hive (Vast Error)
+- Occeus's hive (Vast Error)
+- Calder's hive (Vast Error)
+---
 Tag: More locations from Vast Error
 Direct Descendant Tags:
 - Frog Temple (Vast Error)
@@ -589,6 +602,12 @@ Direct Descendant Tags:
 
 # Location entries
 
+---
+Tag: Albion's hive (Vast Error)
+Color: '#588a00'
+---
+Tag: Calder's hive (Vast Error)
+Color: '#db00db'
 ---
 Tag: Derse (Vast Error)
 Color: '#ff01fe'
@@ -670,6 +689,9 @@ Color: '#a200a2'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Land_of_Wave_and_Record
 ---
+Tag: Occeus's hive (Vast Error)
+Color: '#487aef'
+---
 Tag: Prospit (Vast Error)
 Color: '#ffff01'
 Extra Reading URLs:
@@ -679,6 +701,12 @@ Tag: Repiton (Vast Error)
 Color: '#b6c4c2'
 Extra Reading URLs:
 - https://wiki.deconreconstruction.com/wiki/Repiton
+---
+Tag: Serpaz's hive (Vast Error)
+Color: '#008b8b'
+---
+Tag: Sova's hive (Vast Error)
+Color: '#eb0000'
 ---
 Tag: The Static (Vast Error)
 Color: '#ffffff'
