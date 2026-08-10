@@ -332,9 +332,6 @@ Content: |-
     <!-- series additions -->
     - added series for [[group:desynced]] (thanks, Lilith!)
     - added series for [[group:michael-guy-bowman]] (thanks, Lilith, plus <<Lan:categorization help>>!)
-    <!-- crediting additions (not fixes) -->
-    - added mastering credits across [[album:lofam5a2]] (thanks, ruby!)
-    - added [[artist:cookiefonster]] credit (previously [[artist:unknown-artist]]) to MIDI file for [[track:the-blind-prophet]] (thanks, cookiefonster!)
     <!-- commentary additions -->
     - tidied, touched up with links, and double-checked transcribed booklet commentary, across [[album:beforus]] (thanks, Lan, Whisper!)
     - added Skaianet Radio commentary to [[track:liquid-negrocity]] (thanks, Lilith, Jackie!)
@@ -537,7 +534,7 @@ Content: |-
     - added origin details for [[track:fractal-flowers]] and [[track:replicollision]] (thanks, Lan, Lilith!)
     - touched up commentary citations across [[album:album-of-stories-and-imagination]] (thanks, Lan!)
     - touched up SoundCloud genre and additional tag citations (thanks, Lan!)
-    <h3>data changes</h3>
+    <h3>general changes</h3>
     <!-- new stuff & big miscellany -->
     - changed mastering credits across the wiki to never count toward an artist's total number of tracks or total duration, affecting just a handful of artists so far
     - changed automatically sorted areas of the wiki, e.g. [[album:references-beyond-homestuck]] and "by Name" listings, to skip some articles besides just English "the"
@@ -581,32 +578,6 @@ Content: |-
     <!-- "artist & group" presentational changes -->
     - revised description for [[group:funk-mclovin]] group (thanks, Whisper!)
     - revised description for [[group:the-genesis-project]] group (thanks, Whisper!)
-    <!-- crediting presentational changes -->
-    - reworked cases of crediting both a solo musician's "main" artist and the actual album artist, together, as album and track co-artists (thanks, Lavender, Lan, Whisper!)
-        - [[group:kalibration]], as [[artist:screamcatcher]]: removed album and track credits to [[artist:kalibration]]; replaced relevant album artwork credits and select commentary artists with [[artist:screamcatcher]]; started crediting these tracks as "from (album), by [[artist:screamcatcher]]"
-        - [[group:xszelor]], as [[artist:dvojka]], [[artist:highblood]], [[artist:realmite]]: removed album and track credits to [[artist:xszelor]]; *kept* Xszelor in album artwork credits and commentary artists; started crediting these tracks as "by [[artist:xszelor]], as (alias)"
-        - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
-    - changed various UNBEATABLE-related artist credits (thanks, ruby!)
-        - changed [[artist:peak-divide]] credits to [[artist:unbeatable]] across [[album:unbeatable-demo-tapes]]
-        - changed '[[artist:peak-divide]] featuring [[artist:rachel-lake]]' credit to [[artist:unbeatable]] on [[track:sleeping-in-single]] (but not [[track:future-people-single]])
-        - changed [[track:familiar-unbeatable-demo-tapes]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rj-lake]]
-        - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] (or [[artist:unbeatable]])
-    - changed [[track:the-adventure-continues-for-horizon-heights-act-1]], [[track:before-the-sequel-title-screen]], and [[track:breakfast-time-for-horizon-heights-boss-act-phase-2]] to credit "franchise" artist [[artist:sonic-the-hedgehog-fanmedia]] instead of [[artist:sonic-the-hedgehog]] (thanks, Lan, ruby, Cello!)
-    - changed track credits across [[album:chaos-sisters-original-soundtrack]] to credit [[artist:tukeart]] as Tuukka Saarenketo
-    <!-- structural or organizational changes for art tags -->
-    - sorted lists of media-specific classification tags under general [[tag:location-classifications]] (such as [[tag:astronomical-bodies]] and [[tag:lands-in-the-medium]]) alphabetically (thanks, Lan!)
-    - split old "Locations in the Medium" tag into [[tag:locations-in-the-incipisphere]] and descendant [[tag:lands-in-the-medium]] (thanks, Coral, Celeste, Lan!)
-    - renamed "Jack Noir (archetype)" tag to [[tag:ss-archetype]] (thanks, Lan!)
-    - moved [[tag:johns-nanna]], [[tag:nannasprite]], and new [[tag:nannas-ashes]] tags under new [[tag:johns-nanna-archetype]] tag, which itself is under [[tag:jane-archetype]] (thanks, Surge!)
-    - fixed [[tag:spdaes-sleck]] tag not being placed under [[tag:ss-archetype]] (thanks, Surge!)
-    - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[tag:the-midnight-crew]] (thanks, Lavender!)
-    - moved [[tag:battleship-condescension]] tag under new [[tag:imperial-battleship]] tag, still nested under [[tag:mobile-locations-homestuck]] (thanks, Lan!)
-    - renamed "Fenestrology" tag to [[tag:fenestrated-plane]] and added subtag [[tag:fourth-wall]]
-    - moved [[tag:deer-desynced]] tag out of removed "Consorts (Desynced)" tag, now directly under [[tag:characters-from-desynced]] instead (thanks, Lan, Jebb!)
-    - fixed [[tag:murrit-vast-error]] being colored as though in the same subcaste as [[tag:calder-vast-error]], instead of as [[tag:oricka-vast-error]] (thanks, Lilith, Lan!)
-    - fixed [[tag:the-static-vast-error]] being placed under [[tag:more-characters-from-vast-error]] instead of [[tag:more-locations-from-vast-error]] (thanks, Lilith, Coral, Lan!)
-    - reorganized [[tag:location-classifications]] lightly, so that [[tag:astronomical-bodies]] and [[tag:recurring-game-locations]] include the location archetype tags previously unsorted under "Location archetypes"; removed that top-level tag; and tidied leaf tags under the location archetypes, so they are also under a proper media tag (thanks, Coral, Celeste!)
-    - reorganized character tags under [[tag:undertale-and-deltarune-media]] across the board (thanks, ruby, Lan!)
     <!-- miscellaneous data changes -->
     - stopped counting [[track:audio-commentary-with-robert-j-lake-nick-smalley-and-hanna-nakamura]], [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]], [[track:audio-commentary-featuring-david-ellis-robert-j-lake-yishan-mai-marcy-nabors-and-corbin-pangilinan]], [[track:myststuck-suite-full-version]], [[track:are-you-lost-full-album-stream]], [[track:flyways-full]], [[track:flyways-full]], and [[track:home-stuck]], as well as all "tracks" in "Other works originating outside of Homestuck" ([[album:references-beyond-homestuck]]), in artist track count and duration totals, as well as in the wiki-wide track duration total
     <!-- miscellaneous presentational changes -->
@@ -655,8 +626,7 @@ Content: |-
     - removed listening links for bonus tracks in [[album:strife-2]] (thanks, Lan!)
     - removed SoundCloud listening links for [[track:waltz-of-the-lilies]] and [[track:even-in-battle]], and across [[album:album-of-stories-and-imagination]] (thanks, Lan!)
     - removed Deezer listening links for [[track:pale-rain]] and [[track:celestial]], and reordered links for [[track:pale-rain]] to fit wiki standard (thanks, Lan!)
-    <h3>data fixes</h3>
-    <!-- reference fixes -->
+    <h3>reference additions, changes & fixes</h3>
     - fixed various [[track:under-the-hat]]-related references (thanks, wertercatt, Whisper, Lan!)
         - fixed [[track:trollcops]] referencing [[track:under-the-hat]] at all, since that reference is really via [[track:trollcops-radio-play]]
         - fixed [[track:trollcops-radio-play]] referencing [[track:under-the-hat]] ([[album:one-year-older]]) instead of [[track:under-the-hat-original]]
@@ -858,6 +828,22 @@ Content: |-
     - fixed [[track:damaras-bees-fatalism-beemix]] artwork not referencing [[track:fatalism]] (thanks, Lan!)
     - fixed [[track:all-were-gonna-get]] artwork not referencing [[track:enter-with-caliborn-destruction-adventure]], [[track:amidst-this-mess]], and [[track:wano-vo-tse-1-wav]] (thanks, Lan!)
     - fixed [[track:cascading-light]] main artwork not referencing [[album:homestuck-vol-8]] album cover (thanks, Lan!)
+    <h3>crediting additions, changes & fixes</h3>
+    <!-- crediting additions (not fixes) -->
+    - added mastering credits across [[album:lofam5a2]] (thanks, ruby!)
+    - added [[artist:cookiefonster]] credit (previously [[artist:unknown-artist]]) to MIDI file for [[track:the-blind-prophet]] (thanks, cookiefonster!)
+    <!-- crediting presentational changes -->
+    - reworked cases of crediting both a solo musician's "main" artist and the actual album artist, together, as album and track co-artists (thanks, Lavender, Lan, Whisper!)
+        - [[group:kalibration]], as [[artist:screamcatcher]]: removed album and track credits to [[artist:kalibration]]; replaced relevant album artwork credits and select commentary artists with [[artist:screamcatcher]]; started crediting these tracks as "from (album), by [[artist:screamcatcher]]"
+        - [[group:xszelor]], as [[artist:dvojka]], [[artist:highblood]], [[artist:realmite]]: removed album and track credits to [[artist:xszelor]]; *kept* Xszelor in album artwork credits and commentary artists; started crediting these tracks as "by [[artist:xszelor]], as (alias)"
+        - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
+    - changed various UNBEATABLE-related artist credits (thanks, ruby!)
+        - changed [[artist:peak-divide]] credits to [[artist:unbeatable]] across [[album:unbeatable-demo-tapes]]
+        - changed '[[artist:peak-divide]] featuring [[artist:rachel-lake]]' credit to [[artist:unbeatable]] on [[track:sleeping-in-single]] (but not [[track:future-people-single]])
+        - changed [[track:familiar-unbeatable-demo-tapes]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rj-lake]]
+        - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] (or [[artist:unbeatable]])
+    - changed [[track:the-adventure-continues-for-horizon-heights-act-1]], [[track:before-the-sequel-title-screen]], and [[track:breakfast-time-for-horizon-heights-boss-act-phase-2]] to credit "franchise" artist [[artist:sonic-the-hedgehog-fanmedia]] instead of [[artist:sonic-the-hedgehog]] (thanks, Lan, ruby, Cello!)
+    - changed track credits across [[album:chaos-sisters-original-soundtrack]] to credit [[artist:tukeart]] as Tuukka Saarenketo
     <!-- crediting fixes -->
     - fixed a bunch of missing contributor credits across [[album:super-smash-bros-ultimate]] (thanks, ruby!)
         - fixed [[track:delfino-plaza-ssbu]], [[track:the-map-page-bonus-level]], [[track:kasss-theme-ssbu]], [[track:f-zero-medley]], [[track:vega-stage-ssbu]], [[track:aeriths-theme-ssbu]], [[track:pasta-ff2-ssbu]], [[track:banquet-of-nature-ss-ssbu]] not crediting any performing contributors
@@ -885,147 +871,21 @@ Content: |-
     - fixed [[track:welcome-me]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
     - fixed [[track:bad-apple-lovelight]] not crediting [[artist:nomico]] as a featured artist, and not crediting [[artist:harukapakapa]] for lyrics (thanks, Lan!)
     - fixed [[track:never-gonna-give-you-up]] crediting [[artist:stock-aitken-waterman]] as artist and [[artist:rick-astley]] as contributor, instead of the reverse (thanks, Lan!)
-    <!-- track section fixes -->
-    - removed "Main album" track sections from various albums which included *only* "Main album", no other track sections: [[album:redditstuck-vol-3]], [[album:perils-of-probability]], [[album:home]] (thanks, Lan!)
-    - fixed [[track:the-ultimate-show]] being placed in [[album:references-beyond-homestuck]] under "Other music originating outside Homestuck", instead of under "Music from video games" (thanks, Lilith, Lavender!)
-    <!-- name fixes (subsections) -->
-    - fixed some tracks' names not aligning with Bandcamp releases: (thanks, Lilith!)
-        - fixed [[track:intermission-on-repeat]] using album download name, "On Repeat (Intermission)", instead of Bandcamp name
-        - fixed [[track:intermission-beyond-the-wall]] using album download name, "Beyond the Wall (Intermission)", instead of Bandcamp name
-    - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
-        - fixed [[track:time-for-a-breather]] being named "Take a Break"
-        - fixed [[track:pokemon-research-lab-pokemon-sword-shield]] being named "Pokémon Laboratory"
-        - fixed [[track:pokemon-healed-pokemon-sword-shield]] being named "Recovery"
-        - fixed [[track:guide-pokemon-sword-shield]] being named "Lead the Way"
-        - fixed [[track:at-the-train-station]] being named "Wild Area Station"
-        - fixed [[track:battle-max-raid-battle]] being named "Max Raid Battle!"
-        - fixed [[track:curry-koffing-class]] being named "Curry: Koffing Class"
-        - fixed [[track:curry-wobbuffet-class]] being named "Curry: Wobbuffet Class"
-        - fixed [[track:curry-milcery-class]] being named "Curry: Milcery Class"
-        - fixed [[track:curry-copperajah-class]] being named "Curry: Copperajah Class"
-        - fixed [[track:curry-charizard-class]] being named "Curry: Charizard Class"
-        - fixed [[track:curry-dex-keep-going]] being named "Curry Dex: Do Your Best!"
-        - fixed [[track:curry-dex-complete]] being named "Curry Dex: Completed!"
-        - fixed [[track:at-the-stadium]] being named "Stadium"
-        - fixed [[track:an-old-legend]] being named "Legends of History"
-        - fixed [[track:battle-trainer-pokemon-sword-shield]] being named "Battle! (Trainer Battle)"
-        - fixed [[track:victory-trainer-pokemon-sword-shield]] being named "Victory! (Trainer Battle)"
-        - fixed [[track:gym-mission-cleared]] being named "Gym Mission Cleared!!"
-        - fixed [[track:poke-jobs]] being named "Poké Job"
-        - fixed [[track:hair-salon-pokemon-sword-shield]] being named "Salon"
-        - fixed [[track:the-ancient-mural-crumbles]] being named "Crumbling Ruins"
-        - fixed [[track:the-truth-behind-the-mural]] being named "Truth of the Ruins"
-        - fixed [[track:battle-gym-leader-piers]] being named "Battle! (Gym Leader: Piers)"
-        - fixed [[track:reaching-the-top]] being named "Arrival at the Top"
-        - fixed [[track:the-finals-begin]] being named "Final Tournament Begin!"
-        - fixed [[track:battle-finals]] being named "Battle! (Final Tournament)"
-        - fixed [[track:the-darkest-day]] being named "Darkest Day"
-        - fixed [[track:a-bizarre-situation]] being named "Abnormal Situation"
-        - fixed [[track:eternal-power]] being named "Infinite Power"
-        - fixed [[track:you-caught-eternatus]] being named "Caught an Eternatus"
-        - fixed [[track:for-a-bright-future]] being named "To Create a Bright Future"
-        - fixed [[track:battle-zacian-zamazenta]] being named "Battle! (Zacian / Zamazenta)"
-        - fixed [[track:the-amazing-avery]] being named "Super Avery"
-        - fixed [[track:obtained-an-item-but]] being named "Obtained an Item, But..."
-        - fixed [[track:victory-with-kubfu]] being named "Kubfu and Victory"
-        - fixed [[track:legends-of-legendary-pokemon]] being named "A Legend! A Legend of Legends!"
-        - fixed [[track:the-king-of-bountiful-harvests]] being named "King of Bountiful Harvests"
-        - fixed [[track:battle-glastrier-spectrier]] being named "Battle! (Glastrier / Spectrier)"
-        - fixed [[track:as-one]] being named "Unity of Rider and Horse"
-        - fixed [[track:battle-the-king-of-bountiful-harvests]] being named "Battle! (King of Bountiful Harvests)"
-        - fixed [[track:you-found-a-clue]] being named "You Found a Hint!"
-        - fixed [[track:battle-the-giant-of-legend]] being named "Battle! (Legendary Giants)"
-        - fixed [[track:gathering-at-the-tree]] being named "Gather at the Dyna Tree"
-        - fixed [[track:battle-the-bird-pokemon-of-legend]] being named "Battle! (Legendary Bird Pokémon)"
-        - fixed [[track:boss-battle-bgm-ridley-draygon]] being named "Big Boss Confrontation BGM (Ridley, Draigon)"
-        - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
-        - fixed [[track:ending-theme-the-legend-of-zelda]] being named "Ending (The Legend of Zelda)"
-        - fixed [[track:ganon-is-defeated]] being named "Ganon Appear/Defeat Fanfare"
-        - fixed [[track:golden-hammer-wrecking-crew]] being named "BGM B (Power Up) (Wrecking Crew)"
-        - fixed [[track:got-a-duck-duck-hunt]] being named "Duck Get! (Duck Hunt)"
-        - fixed [[track:hammer-bgm-donkey-kong]] being named "Hammer Theme (Donkey Kong)"
-        - fixed [[track:masked-dededes-theme]] being named "The Masked King"
-        - fixed [[track:phase-bgm-wrecking-crew]] being named "BGM A (Wrecking Crew)"
-        - fixed [[track:rhythm-boxing-expert]] being named "Rhythm Boxing"
-        - fixed [[track:round-1-and-2-clear-donkey-kong]] being named "25m / 75m Clear"
-        - fixed [[track:round-1-bgm-donkey-kong]] being named "25m Theme"
-        - fixed [[track:round-1-bgm-donkey-kong-jr]] being named "Level 1 Theme (Donkey Kong Jr.)"
-        - fixed [[track:round-1-clear-donkey-kong-jr]] being named "Level 1 Clear (Donkey Kong Jr.)"
-        - fixed [[track:round-3-bgm-donkey-kong]] being named "100m Theme"
-        - fixed [[track:round-4-bgm-donkey-kong-jr]] being named "Level 4 Theme (Donkey Kong Jr.)"
-        - fixed [[track:round-3-clear-donkey-kong]] being named "100m Clear"
-        - fixed [[track:round-4-clear-all-clear-donkey-kong-jr]] being named "Level 4 Clear (All Clear!) (Donkey Kong Jr.)"
-        - fixed [[track:title-bgm-duck-hunt]] being named "Title Theme (Duck Hunt)"
-        - fixed [[track:title-theme-the-legend-of-zelda]] being named "Title (The Legend of Zelda)"
-        - fixed [[track:underworld-theme]] being named "Dungeon Theme"
-    <!-- name fixes (single-lines) -->
-    - fixed [[track:cats-toby-fox]] being named "Cats" (thanks, Erase, Lan!)
-    - fixed [[track:catscratch]] being named "Catscratch" (capitalized; thanks, Lan!)
-    - fixed [[track:do-the-homestuck-demo]] being named "Do the Homestuck" (thanks, Lan!)
-    - fixed [[track:battle-rival-pokemon-black2-white2]] being named "Battle! Rival" (no parentheses; thanks, ruby!)
-    - fixed [[track:palace-of-twilight]] being named "The Twilight Realm" (thanks, Lavender!)
-    - fixed [[track:danger-on-the-dance-floor-mid-boss]] being named "Danger on the Dance Floor (Mid-Boss)" (to align with soundtrack release; thanks, ruby!)
-    - fixed [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) being named "Bad Apple!! feat. nomico" (thanks, Lan!)
-    - fixed [[track:chasing-it-down]] being named "Chasing It down" (lowercase "Down"; thanks, Lan!)
-    - fixed [[track:does-it-look-like-im-here]] being named "Does it Look Like I'm Here?" (lowercase "it"; thanks, Lan!)
-    - fixed [[track:home-keys-of-a-piano]] being named "Home (Keys of a PIano)" (uppercase "I" in "PIano"; thanks, Lilith!)
-    - fixed [[track:soul-scour]] being named "Soul Scour" (capitalized "Scour"; to align with artist's release and soundtrack release; thanks, Lilith!)
-    - fixed [[tag:astronomical-bodies-canwc]] being named "Astronomical Bodies (CaNWC)" (uppercase "Bodies"; thanks, Lan!)
-    <!-- general data fixes -->
-    - fixed [[track:stalemate-play-the-rain]] and [[track:720413]] using the album's release date, instead of their own individual dates (thanks, Lan!)
-    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
-        - fixed duration of [[track:advanced-step]] (was 3:33, now 4:11)
-        - fixed duration of [[track:battle-deoxys]] (was 2:43, now 2:44)
-        - fixed duration of [[track:bomb-rush-blush]] (was 2:31, now 2:30)
-        - fixed duration of [[track:boss-battle-bgm-ridley-draygon]] (was 1:43, now 1:25)
-        - fixed duration of [[track:calamari-inkantation]] (was 2:34, now 2:32)
-        - fixed duration of [[track:city-trial-city]] (was 2:11, now 2:13)
-        - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
-        - fixed duration of [[track:destiny-ablaze]] (was 5:20, now 5:17)
-        - fixed duration of [[track:ending-theme-the-legend-of-zelda]] (was 2:00, now 1:53)
-        - fixed duration of [[track:game-a-b-start-duck-hunt]] (was 0:06, now 0:07)
-        - fixed duration of [[track:game-c-start-duck-hunt]] (was 0:05, now 0:06)
-        - fixed duration of [[track:game-over-duck-hunt]] (was 0:06, now 0:07)
-        - fixed duration of [[track:game-over-the-legend-of-zelda]] (was 0:32, now 0:37)
-        - fixed duration of [[track:game-start-donkey-kong]] (was 0:08, now 0:07)
-        - fixed duration of [[track:game-start-donkey-kong-jr]] (was 0:06, now 0:05)
-        - fixed duration of [[track:golden-hammer-wrecking-crew]] (was 1:20, now 1:26)
-        - fixed duration of [[track:got-a-duck-duck-hunt]] (was 0:01, now 0:03)
-        - fixed duration of [[track:hall-of-fame-pokemon-firered-leafgreen]] (was 1:02, now 1:03)
-        - fixed duration of [[track:hammer-bgm-donkey-kong]] (was 0:21, now 0:26)
-        - fixed duration of [[track:hurry-up-donkey-kong]] (was 0:16, now 0:23)
-        - fixed duration of [[track:id-purpose]] (was 8:00, now 7:58)
-        - fixed duration of [[track:main-menu-wii-fit]] (was 1:50, now 3:56)
-        - fixed duration of [[track:masked-dededes-theme]] (was 1:10, now 1:21)
-        - fixed duration of [[track:miss-duck-hunt]] (was 0:02, now 0:03)
-        - fixed duration of [[track:now-or-never-splatoon]] (was 1:04, now 1:02)
-        - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
-        - fixed duration of [[track:palace-theme]] (was 3:12, now 3:18)
-        - fixed duration of [[track:perfect-duck-hunt]] (was 0:02, now 0:03)
-        - fixed duration of [[track:phase-bgm-wrecking-crew]] (was 2:05, now 1:58)
-        - fixed duration of [[track:prelude-ablaze]] (was 5:20, now 5:18)
-        - fixed duration of [[track:rhythm-boxing-expert]] (was 3:00, now 2:59)
-        - fixed duration of [[track:round-1-and-2-clear-donkey-kong]] (was 0:05, now 0:04)
-        - fixed duration of [[track:round-1-bgm-donkey-kong]] (was 0:19, now 0:37)
-        - fixed duration of [[track:round-1-bgm-donkey-kong-jr]] (was 0:26, now 0:33)
-        - fixed duration of [[track:round-3-clear-donkey-kong]] (was 0:10, now 0:08)
-        - fixed duration of [[track:round-4-bgm-donkey-kong-jr]] (was 0:32, now 0:37)
-        - fixed duration of [[track:round-4-clear-all-clear-donkey-kong-jr]] (was 0:09, now 0:07)
-        - fixed duration of [[track:seaskape]] (was 2:57, now 2:56)
-        - fixed duration of [[track:splattack]] (was 3:53, now 3:52)
-        - fixed duration of [[track:tide-goes-out]] (was 2:29, now 2:26)
-        - fixed duration of [[track:title-bgm-duck-hunt]] (was 0:04, now 0:05)
-        - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
-        - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
-    - fixed duration of [[track:gamebreaker]] (was 4:53, now 4:33; thanks, Surge!)
-    - fixed duration of [[track:brodylovania]] (was 2:35, now 1:23; thanks, Lan!)
-    - fixed duration of [[track:ruins]] (was 3:01, now 3:05; thanks, Lavender!)
-    - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
-    - fixed duration of [[track:palace-of-twilight]] to align with soundtrack release (was 1:00, now 3:26; thanks, Lavender!)
-    - fixed duration of [[track:bad-apple]] ([[artist:zun]]) to align with soundtrack release (was 3:13, now 3:15; thanks, Lan!)
-    - fixed [[track:super-dry-dance]] having no duration (thanks, Lilith!)
-    - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
-    - fixed [[track:gone-hollywood]] having no duration (thanks, Lilith!)
+    <h3>art tag additions & fixes</h3>
+    <!-- structural or organizational changes for art tags -->
+    - sorted lists of media-specific classification tags under general [[tag:location-classifications]] (such as [[tag:astronomical-bodies]] and [[tag:lands-in-the-medium]]) alphabetically (thanks, Lan!)
+    - split old "Locations in the Medium" tag into [[tag:locations-in-the-incipisphere]] and descendant [[tag:lands-in-the-medium]] (thanks, Coral, Celeste, Lan!)
+    - renamed "Jack Noir (archetype)" tag to [[tag:ss-archetype]] (thanks, Lan!)
+    - moved [[tag:johns-nanna]], [[tag:nannasprite]], and new [[tag:nannas-ashes]] tags under new [[tag:johns-nanna-archetype]] tag, which itself is under [[tag:jane-archetype]] (thanks, Surge!)
+    - fixed [[tag:spdaes-sleck]] tag not being placed under [[tag:ss-archetype]] (thanks, Surge!)
+    - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[tag:the-midnight-crew]] (thanks, Lavender!)
+    - moved [[tag:battleship-condescension]] tag under new [[tag:imperial-battleship]] tag, still nested under [[tag:mobile-locations-homestuck]] (thanks, Lan!)
+    - renamed "Fenestrology" tag to [[tag:fenestrated-plane]] and added subtag [[tag:fourth-wall]]
+    - moved [[tag:deer-desynced]] tag out of removed "Consorts (Desynced)" tag, now directly under [[tag:characters-from-desynced]] instead (thanks, Lan, Jebb!)
+    - fixed [[tag:murrit-vast-error]] being colored as though in the same subcaste as [[tag:calder-vast-error]], instead of as [[tag:oricka-vast-error]] (thanks, Lilith, Lan!)
+    - fixed [[tag:the-static-vast-error]] being placed under [[tag:more-characters-from-vast-error]] instead of [[tag:more-locations-from-vast-error]] (thanks, Lilith, Coral, Lan!)
+    - reorganized [[tag:location-classifications]] lightly, so that [[tag:astronomical-bodies]] and [[tag:recurring-game-locations]] include the location archetype tags previously unsorted under "Location archetypes"; removed that top-level tag; and tidied leaf tags under the location archetypes, so they are also under a proper media tag (thanks, Coral, Celeste!)
+    - reorganized character tags under [[tag:undertale-and-deltarune-media]] across the board (thanks, ruby, Lan!)
     <!-- art tag fixes -->
     - added art tags across [[group:deconrecon]] discography (thanks, t2k, koba, Coral, Lilith, Lan, penultimateApogee, Celeste!)
     - added [[tag:johns-home]] tag to [[track:sburban-countdown]] (thanks, GameEymen, Surge!)
@@ -1206,6 +1066,12 @@ Content: |-
     - fixed [[track:know-thyself]] and [[track:to-ashes-it-returns]] being tagged with [[tag:nino-oceanfalls]] instead of [[tag:dream-nino-oceanfalls]] (thanks, Lilith!)
     - added blood warning to [[track:cobalt-corsair]] (thanks, Lan!)
     - added blood warning to [[track:skaia-ad-infinitum]] (thanks, Lan!)
+    <h3>general fixes</h3>
+    <!-- track section fixes -->
+    - removed "Main album" track sections from various albums which included *only* "Main album", no other track sections: [[album:redditstuck-vol-3]], [[album:perils-of-probability]], [[album:home]] (thanks, Lan!)
+    - fixed [[track:the-ultimate-show]] being placed in [[album:references-beyond-homestuck]] under "Other music originating outside Homestuck", instead of under "Music from video games" (thanks, Lilith, Lavender!)
+    <!-- general data fixes -->
+    - fixed [[track:stalemate-play-the-rain]] and [[track:720413]] using the album's release date, instead of their own individual dates (thanks, Lan!)
     <!-- additional file fixes -->
     - moved Twix Stix MIDI from [[track:under-the-hat-lofam]] ([[album:lofam]]) to [[track:under-the-hat]] ([[album:one-year-older]]; thanks, Lan!)
     <!-- commentary fixes -->
@@ -1237,8 +1103,78 @@ Content: |-
     - replaced limited-availability YouTube listening link for [[track:viva-la-vida]] with better one (thanks, Meulanie, ruby, Lavender!)
     - supplemented limited-availability YouTube listening link for [[track:life-in-technicolor]] with unofficial one (thanks, Meulanie, ruby, Lavender!)
     - removed dead YouTube listening links for [[track:destiny-ablaze]], [[track:id-purpose]], and [[track:prelude-ablaze]] (thanks, Lan!)
-    <h3>directory changes</h3>
-    <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
+    <h3>duration, name & directory changes</h3>
+    <details><summary><b>Toggle Durationlog</b> (general changes)</summary>
+    - fixed duration of [[track:gamebreaker]] (was 4:53, now 4:33; thanks, Surge!)
+    - fixed duration of [[track:brodylovania]] (was 2:35, now 1:23; thanks, Lan!)
+    - fixed duration of [[track:ruins]] (was 3:01, now 3:05; thanks, Lavender!)
+    - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
+    - fixed duration of [[track:palace-of-twilight]] to align with soundtrack release (was 1:00, now 3:26; thanks, Lavender!)
+    - fixed duration of [[track:bad-apple]] ([[artist:zun]]) to align with soundtrack release (was 3:13, now 3:15; thanks, Lan!)
+    - fixed [[track:super-dry-dance]] having no duration (thanks, Lilith!)
+    - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
+    - fixed [[track:gone-hollywood]] having no duration (thanks, Lilith!)
+    </details>
+    <details><summary><b>Toggle Durationlog</b> (Nintendo Music changes)</summary>
+    - fixed duration of [[track:advanced-step]] (was 3:33, now 4:11)
+    - fixed duration of [[track:battle-deoxys]] (was 2:43, now 2:44)
+    - fixed duration of [[track:bomb-rush-blush]] (was 2:31, now 2:30)
+    - fixed duration of [[track:boss-battle-bgm-ridley-draygon]] (was 1:43, now 1:25)
+    - fixed duration of [[track:calamari-inkantation]] (was 2:34, now 2:32)
+    - fixed duration of [[track:city-trial-city]] (was 2:11, now 2:13)
+    - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
+    - fixed duration of [[track:destiny-ablaze]] (was 5:20, now 5:17)
+    - fixed duration of [[track:ending-theme-the-legend-of-zelda]] (was 2:00, now 1:53)
+    - fixed duration of [[track:game-a-b-start-duck-hunt]] (was 0:06, now 0:07)
+    - fixed duration of [[track:game-c-start-duck-hunt]] (was 0:05, now 0:06)
+    - fixed duration of [[track:game-over-duck-hunt]] (was 0:06, now 0:07)
+    - fixed duration of [[track:game-over-the-legend-of-zelda]] (was 0:32, now 0:37)
+    - fixed duration of [[track:game-start-donkey-kong]] (was 0:08, now 0:07)
+    - fixed duration of [[track:game-start-donkey-kong-jr]] (was 0:06, now 0:05)
+    - fixed duration of [[track:golden-hammer-wrecking-crew]] (was 1:20, now 1:26)
+    - fixed duration of [[track:got-a-duck-duck-hunt]] (was 0:01, now 0:03)
+    - fixed duration of [[track:hall-of-fame-pokemon-firered-leafgreen]] (was 1:02, now 1:03)
+    - fixed duration of [[track:hammer-bgm-donkey-kong]] (was 0:21, now 0:26)
+    - fixed duration of [[track:hurry-up-donkey-kong]] (was 0:16, now 0:23)
+    - fixed duration of [[track:id-purpose]] (was 8:00, now 7:58)
+    - fixed duration of [[track:main-menu-wii-fit]] (was 1:50, now 3:56)
+    - fixed duration of [[track:masked-dededes-theme]] (was 1:10, now 1:21)
+    - fixed duration of [[track:miss-duck-hunt]] (was 0:02, now 0:03)
+    - fixed duration of [[track:now-or-never-splatoon]] (was 1:04, now 1:02)
+    - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
+    - fixed duration of [[track:palace-theme]] (was 3:12, now 3:18)
+    - fixed duration of [[track:perfect-duck-hunt]] (was 0:02, now 0:03)
+    - fixed duration of [[track:phase-bgm-wrecking-crew]] (was 2:05, now 1:58)
+    - fixed duration of [[track:prelude-ablaze]] (was 5:20, now 5:18)
+    - fixed duration of [[track:rhythm-boxing-expert]] (was 3:00, now 2:59)
+    - fixed duration of [[track:round-1-and-2-clear-donkey-kong]] (was 0:05, now 0:04)
+    - fixed duration of [[track:round-1-bgm-donkey-kong]] (was 0:19, now 0:37)
+    - fixed duration of [[track:round-1-bgm-donkey-kong-jr]] (was 0:26, now 0:33)
+    - fixed duration of [[track:round-3-clear-donkey-kong]] (was 0:10, now 0:08)
+    - fixed duration of [[track:round-4-bgm-donkey-kong-jr]] (was 0:32, now 0:37)
+    - fixed duration of [[track:round-4-clear-all-clear-donkey-kong-jr]] (was 0:09, now 0:07)
+    - fixed duration of [[track:seaskape]] (was 2:57, now 2:56)
+    - fixed duration of [[track:splattack]] (was 3:53, now 3:52)
+    - fixed duration of [[track:tide-goes-out]] (was 2:29, now 2:26)
+    - fixed duration of [[track:title-bgm-duck-hunt]] (was 0:04, now 0:05)
+    - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
+    - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
+    </details>
+    <details><summary><b>Toggle Name & Directorylog</b> (general changes)</summary>
+    - fixed [[track:intermission-on-repeat]] using album download name, "On Repeat (Intermission)", instead of Bandcamp name (thanks, Lilith!)
+    - fixed [[track:intermission-beyond-the-wall]] using album download name, "Beyond the Wall (Intermission)", instead of Bandcamp name (thanks, Lilith!)
+    - fixed [[track:cats-toby-fox]] being named "Cats" (thanks, Erase, Lan!)
+    - fixed [[track:catscratch]] being named "Catscratch" (capitalized; thanks, Lan!)
+    - fixed [[track:do-the-homestuck-demo]] being named "Do the Homestuck" (thanks, Lan!)
+    - fixed [[track:battle-rival-pokemon-black2-white2]] being named "Battle! Rival" (no parentheses; thanks, ruby!)
+    - fixed [[track:palace-of-twilight]] being named "The Twilight Realm" (thanks, Lavender!)
+    - fixed [[track:danger-on-the-dance-floor-mid-boss]] being named "Danger on the Dance Floor (Mid-Boss)" (to align with soundtrack release; thanks, ruby!)
+    - fixed [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) being named "Bad Apple!! feat. nomico" (thanks, Lan!)
+    - fixed [[track:chasing-it-down]] being named "Chasing It down" (lowercase "Down"; thanks, Lan!)
+    - fixed [[track:does-it-look-like-im-here]] being named "Does it Look Like I'm Here?" (lowercase "it"; thanks, Lan!)
+    - fixed [[track:home-keys-of-a-piano]] being named "Home (Keys of a PIano)" (uppercase "I" in "PIano"; thanks, Lilith!)
+    - fixed [[track:soul-scour]] being named "Soul Scour" (capitalized "Scour"; to align with artist's release and soundtrack release; thanks, Lilith!)
+    - fixed [[tag:astronomical-bodies-canwc]] being named "Astronomical Bodies (CaNWC)" (uppercase "Bodies"; thanks, Lan!)
     - changed directory of [[track:maibasojen-lofam]] from `maibasojen` to `maibasojen-lofam`
     - changed directory of [[track:electric-fireflies-lofam3]] from `electric-fireflies` to `electric-fireflies-lofam3`
     - changed directory of [[track:explore-keygen-mix-lofam3]] from `explore-keygen-mix` to `track:explore-keygen-mix-lofam3`
@@ -1301,7 +1237,72 @@ Content: |-
     - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`
     - changed directory of [[artist:akira-series]] from `akira` to `akira-series`
     </details>
-    <details><summary><b>Toggle Directorylog</b> (Nintendo Music changes)</summary>
+    <details><summary><b>Toggle Name & Directorylog</b> (Nintendo Music changes)</summary>
+    - fixed [[track:time-for-a-breather]] being named "Take a Break"
+    - fixed [[track:pokemon-research-lab-pokemon-sword-shield]] being named "Pokémon Laboratory"
+    - fixed [[track:pokemon-healed-pokemon-sword-shield]] being named "Recovery"
+    - fixed [[track:guide-pokemon-sword-shield]] being named "Lead the Way"
+    - fixed [[track:at-the-train-station]] being named "Wild Area Station"
+    - fixed [[track:battle-max-raid-battle]] being named "Max Raid Battle!"
+    - fixed [[track:curry-koffing-class]] being named "Curry: Koffing Class"
+    - fixed [[track:curry-wobbuffet-class]] being named "Curry: Wobbuffet Class"
+    - fixed [[track:curry-milcery-class]] being named "Curry: Milcery Class"
+    - fixed [[track:curry-copperajah-class]] being named "Curry: Copperajah Class"
+    - fixed [[track:curry-charizard-class]] being named "Curry: Charizard Class"
+    - fixed [[track:curry-dex-keep-going]] being named "Curry Dex: Do Your Best!"
+    - fixed [[track:curry-dex-complete]] being named "Curry Dex: Completed!"
+    - fixed [[track:at-the-stadium]] being named "Stadium"
+    - fixed [[track:an-old-legend]] being named "Legends of History"
+    - fixed [[track:battle-trainer-pokemon-sword-shield]] being named "Battle! (Trainer Battle)"
+    - fixed [[track:victory-trainer-pokemon-sword-shield]] being named "Victory! (Trainer Battle)"
+    - fixed [[track:gym-mission-cleared]] being named "Gym Mission Cleared!!"
+    - fixed [[track:poke-jobs]] being named "Poké Job"
+    - fixed [[track:hair-salon-pokemon-sword-shield]] being named "Salon"
+    - fixed [[track:the-ancient-mural-crumbles]] being named "Crumbling Ruins"
+    - fixed [[track:the-truth-behind-the-mural]] being named "Truth of the Ruins"
+    - fixed [[track:battle-gym-leader-piers]] being named "Battle! (Gym Leader: Piers)"
+    - fixed [[track:reaching-the-top]] being named "Arrival at the Top"
+    - fixed [[track:the-finals-begin]] being named "Final Tournament Begin!"
+    - fixed [[track:battle-finals]] being named "Battle! (Final Tournament)"
+    - fixed [[track:the-darkest-day]] being named "Darkest Day"
+    - fixed [[track:a-bizarre-situation]] being named "Abnormal Situation"
+    - fixed [[track:eternal-power]] being named "Infinite Power"
+    - fixed [[track:you-caught-eternatus]] being named "Caught an Eternatus"
+    - fixed [[track:for-a-bright-future]] being named "To Create a Bright Future"
+    - fixed [[track:battle-zacian-zamazenta]] being named "Battle! (Zacian / Zamazenta)"
+    - fixed [[track:the-amazing-avery]] being named "Super Avery"
+    - fixed [[track:obtained-an-item-but]] being named "Obtained an Item, But..."
+    - fixed [[track:victory-with-kubfu]] being named "Kubfu and Victory"
+    - fixed [[track:legends-of-legendary-pokemon]] being named "A Legend! A Legend of Legends!"
+    - fixed [[track:the-king-of-bountiful-harvests]] being named "King of Bountiful Harvests"
+    - fixed [[track:battle-glastrier-spectrier]] being named "Battle! (Glastrier / Spectrier)"
+    - fixed [[track:as-one]] being named "Unity of Rider and Horse"
+    - fixed [[track:battle-the-king-of-bountiful-harvests]] being named "Battle! (King of Bountiful Harvests)"
+    - fixed [[track:you-found-a-clue]] being named "You Found a Hint!"
+    - fixed [[track:battle-the-giant-of-legend]] being named "Battle! (Legendary Giants)"
+    - fixed [[track:gathering-at-the-tree]] being named "Gather at the Dyna Tree"
+    - fixed [[track:battle-the-bird-pokemon-of-legend]] being named "Battle! (Legendary Bird Pokémon)"
+    - fixed [[track:boss-battle-bgm-ridley-draygon]] being named "Big Boss Confrontation BGM (Ridley, Draigon)"
+    - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
+    - fixed [[track:ending-theme-the-legend-of-zelda]] being named "Ending (The Legend of Zelda)"
+    - fixed [[track:ganon-is-defeated]] being named "Ganon Appear/Defeat Fanfare"
+    - fixed [[track:golden-hammer-wrecking-crew]] being named "BGM B (Power Up) (Wrecking Crew)"
+    - fixed [[track:got-a-duck-duck-hunt]] being named "Duck Get! (Duck Hunt)"
+    - fixed [[track:hammer-bgm-donkey-kong]] being named "Hammer Theme (Donkey Kong)"
+    - fixed [[track:masked-dededes-theme]] being named "The Masked King"
+    - fixed [[track:phase-bgm-wrecking-crew]] being named "BGM A (Wrecking Crew)"
+    - fixed [[track:rhythm-boxing-expert]] being named "Rhythm Boxing"
+    - fixed [[track:round-1-and-2-clear-donkey-kong]] being named "25m / 75m Clear"
+    - fixed [[track:round-1-bgm-donkey-kong]] being named "25m Theme"
+    - fixed [[track:round-1-bgm-donkey-kong-jr]] being named "Level 1 Theme (Donkey Kong Jr.)"
+    - fixed [[track:round-1-clear-donkey-kong-jr]] being named "Level 1 Clear (Donkey Kong Jr.)"
+    - fixed [[track:round-3-bgm-donkey-kong]] being named "100m Theme"
+    - fixed [[track:round-4-bgm-donkey-kong-jr]] being named "Level 4 Theme (Donkey Kong Jr.)"
+    - fixed [[track:round-3-clear-donkey-kong]] being named "100m Clear"
+    - fixed [[track:round-4-clear-all-clear-donkey-kong-jr]] being named "Level 4 Clear (All Clear!) (Donkey Kong Jr.)"
+    - fixed [[track:title-bgm-duck-hunt]] being named "Title Theme (Duck Hunt)"
+    - fixed [[track:title-theme-the-legend-of-zelda]] being named "Title (The Legend of Zelda)"
+    - fixed [[track:underworld-theme]] being named "Dungeon Theme"
     - changed directory of [[track:time-for-a-breather]] from `take-a-break-pokemon-sword-shield` to `time-for-a-breather`
     - changed directory of [[track:pokemon-research-lab-pokemon-sword-shield]] from `pokemon-laboratory` to `pokemon-research-lab-pokemon-sword-shield`
     - changed directory of [[track:pokemon-healed-pokemon-sword-shield]] from `reovery-pokemon-sword-shield` to `pokemon-healed-pokemon-sword-shield`
