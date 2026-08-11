@@ -84,6 +84,7 @@ Content: |-
     - added "Needs Lyrics" field, and a corresponding [[listing:tracks/needing-lyrics|Tracks - which need Lyrics]] listing
     - added support to hide an album's duration, which makes that duration and the album's track count disappear most places, and excludes the album from the [[listing:albums/by-tracks|"Albums - by Tracks"]] and [[listing:albums/by-duration|"Albums - by Duration"]] listings
     - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
+    - added "attached search results" so tracks show [[media:misc/changelog/attached-results-karkat-flash.png|the Homestuck flashes they're used in]], and "archetype" art tags show [[media:misc/changelog/attached-results-damara-tag.png|all the tags they group together]]
     - added a link in the search box to return to where you started your search, regardless if you've since navigated further
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
     - made the search database guess reasonably at group information for artists, so you can search "james official" and get three results (versus 15 or so for just "james"), or just the first letter or two of an artist's name, like "desynced r"
@@ -93,6 +94,7 @@ Content: |-
     - made the search database show simple, name-only matches at the very top, instead of the bottom, e.g. [[album:homestuck-vol-3]] (name includes "vol", "3") is now above [[track:3-in-the-morning-pianokind]] (name includes "3", album includes "vol")
     - made the search box disambiguate multiple tracks with the same name by showing which album each is from, e.g. [[track:light-vol5]] from [[album:homestuck-vol-5]] vs [[track:light-medium]] from [[album:medium]]
     - made the search box disambiguate multiple resots *of different kinds* by showing their kind, e.g. [[album:s-collide]] the album vs [[flash:8087]] the flash
+    - added [[media:misc/changelog/art-tag-show-more.png|"show more"]] control on art tag info pages, showing a tag's "grandchildren" beyond the tags that directly fall under it
     - added tooltips to the "also released on" line on track info pages, so you can see how much earlier or later the other releases came, and know if the track is named differently between releases
     - made reference lists swap out tracks for an alternate release of the same track within the album you're currently viewing, ex. you can jump between [[track:showtime-piano-refrain-vol-1-4]] and [[track:showtime-original-mix-vol-1-4]] while staying in [[album:homestuck-vol-1-4]], now
     - expanded custom support for media elements in content text (e.g. commentary), with support for full-width images and videos, "nameless" audios which hide insubstantial filename, and inline / non-boxed videos
