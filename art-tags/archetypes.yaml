@@ -17,6 +17,8 @@ Description: |-
 Direct Descendant Tags:
 - Humans (archetypes)
 - Trolls (archetypes)
+- Carapacians (archetypes)
+- Cherubs (archetypes)
 - More archetypes
 ---
 Tag: Humans (archetypes)
@@ -31,6 +33,7 @@ Direct Descendant Tags:
 - Roxy (archetype)
 - Dirk (archetype)
 - Jake (archetype)
+- AH (archetype)
 ---
 Tag: John (archetype)
 Color: '#666fe9'
@@ -38,6 +41,8 @@ Color: '#666fe9'
 #     Most represented as [[tag:john|John Egbert]] from Homestuck, John's gone on to receive several fan representations as well. In canon, John's post-scratch variant is [[tag:janes-grandpa]] (aka Poppop).
 Direct Descendant Tags:
 - John
+- John (god tier)
+- John (ghost)
 - Jane's grandpa
 - MALE (Homosuck)
 - June
@@ -49,6 +54,7 @@ Tag: Rose (archetype)
 Color: '#b536da'
 Direct Descendant Tags:
 - Rose
+- Rose (god tier)
 - Roxy's mom
 - Jasprose
 - Rosebot
@@ -60,6 +66,7 @@ Tag: Dave (archetype)
 Color: '#e00707'
 Direct Descendant Tags:
 - Dave
+- Dave (god tier)
 - Dirk's bro
 - Davesprite
 - Davepeta
@@ -72,6 +79,7 @@ Tag: Jade (archetype)
 Color: '#4ac925'
 Direct Descendant Tags:
 - Jade
+- Jade (dog tier)
 - Jake's grandma
 - Jadesprite
 - Jaed
@@ -82,6 +90,7 @@ Tag: Jane (archetype)
 Color: '#00d5f2'
 Direct Descendant Tags:
 - Jane
+- Jane (god tier)
 - John's nanna (archetype)
 ---
 Tag: John's nanna (archetype)
@@ -95,6 +104,7 @@ Tag: Roxy (archetype)
 Color: '#ff6ff2'
 Direct Descendant Tags:
 - Roxy
+- Roxy (god tier)
 - Rose's mom
 - tag:jane-roxy-janestuck
 ---
@@ -102,6 +112,7 @@ Tag: Dirk (archetype)
 Color: '#f2a400'
 Direct Descendant Tags:
 - Dirk
+- Dirk (god tier)
 - Dave's bro
 - Brobot
 - Lil Hal
@@ -111,7 +122,17 @@ Tag: Jake (archetype)
 Color: '#1f9400'
 Direct Descendant Tags:
 - Jake
+- Jake (god tier)
 - Jade's grandpa
+---
+Tag: AH (archetype)
+Color: "#e0e0e0"
+Direct Descendant Tags:
+- Andrew Hussie
+- AH
+- AH (god tier)
+- AH (ghost)
+- Hussiebot
 ---
 Tag: Trolls (archetypes)
 # Description: |-
@@ -149,6 +170,7 @@ Tag: Aradia (archetype)
 Color: '#eb0000'
 Direct Descendant Tags:
 - Aradia
+- Aradia (god tier)
 - Aradia (ghost)
 - Aradia's Soulbot
 - Aradia (Homosuck)
@@ -157,18 +179,23 @@ Tag: Damara (archetype)
 Color: '#eb0000'
 Direct Descendant Tags:
 - Damara
+- Damara (god tier)
+- Damara (ghost)
 - The Handmaid
 ---
 Tag: Rufioh (archetype)
 Color: '#c36100'
 Direct Descendant Tags:
 - Rufioh
+- Rufioh (ghost)
 - The Summoner
 ---
 Tag: Tavros (archetype)
 Color: '#c36100'
 Direct Descendant Tags:
 - Tavros
+- Tavros (god tier)
+- Tavros (ghost)
 - Tavrisprite
 - BULL HORN WIMP (Homosuck)
 ---
@@ -176,24 +203,33 @@ Tag: Mituna (archetype)
 Color: '#a1a100'
 Direct Descendant Tags:
 - Mituna
+- Mituna (god tier)
+- Mituna (ghost)
+- Mituna (half-ghost)
 - The Psiioniic
 ---
 Tag: Sollux (archetype)
 Color: '#a1a100'
 Direct Descendant Tags:
 - Sollux
+- Sollux (god tier)
+- Sollux (half-ghost)
+- Erisolsprite
 - OTHER GUY (Homosuck)
 ---
 Tag: Kankri (archetype)
 Color: '#ff0000'
 Direct Descendant Tags:
 - Kankri
+- Kankri (god tier)
+- Kankri (ghost)
 - The Signless
 ---
 Tag: Karkat (archetype)
 Color: '#7c7e81'
 Direct Descendant Tags:
 - Karkat
+- Karkat (god tier)
 - KRABKRAB (Homosuck)
 - Kraket
 ---
@@ -201,12 +237,16 @@ Tag: Meulin (archetype)
 Color: '#588a00'
 Direct Descendant Tags:
 - Meulin
+- Meulin (god tier)
+- Meulin (ghost)
 - The Disciple
 ---
 Tag: Nepeta (archetype)
 Color: '#588a00'
 Direct Descendant Tags:
 - Nepeta
+- Nepeta (god tier)
+- Nepeta (ghost)
 - Davepeta
 - Nepeta (Homosuck)
 ---
@@ -214,24 +254,32 @@ Tag: Kanaya (archetype)
 Color: '#008f48'
 Direct Descendant Tags:
 - Kanaya
+- Kanaya (god tier)
+- Kanaya (ghost)
 - Kanaya (Homosuck)
 ---
 Tag: Porrim (archetype)
 Color: '#008f48'
 Direct Descendant Tags:
 - Porrim
+- Porrim (god tier)
+- Porrim (ghost)
 - The Dolorosa
 ---
 Tag: Latula (archetype)
 Color: '#008b8b'
 Direct Descendant Tags:
 - Latula
+- Latula (god tier)
+- Latula (ghost)
 - Redglare
 ---
 Tag: Terezi (archetype)
 Color: '#008b8b'
 Direct Descendant Tags:
 - Terezi
+- Terezi (god tier)
+- Terezi (ghost)
 - Terezi (Homosuck)
 - Terexi
 ---
@@ -239,12 +287,16 @@ Tag: Aranea (archetype)
 Color: '#3796c6'
 Direct Descendant Tags:
 - Aranea
+- Aranea (god tier)
+- Aranea (ghost)
 - Mindfang
 ---
 Tag: Vriska (archetype)
 Color: '#3796c6'
 Direct Descendant Tags:
 - Vriska
+- Vriska (god tier)
+- Vriska (ghost)
 - Tavrisprite
 - Vriska (Homosuck)
 - Vrasky
@@ -253,6 +305,8 @@ Tag: Equius (archetype)
 Color: '#487aef'
 Direct Descendant Tags:
 - Equius
+- Equius (god tier)
+- Equius (ghost)
 - Arquiusprite
 - SMELLY HORSE MAN (Homosuck)
 - Equihorse
@@ -261,12 +315,15 @@ Tag: Horuss (archetype)
 Color: '#487aef'
 Direct Descendant Tags:
 - Horuss
+- Horuss (god tier)
+- Horuss (ghost)
 - The Expatriate
 ---
 Tag: Gamzee (archetype)
 Color: '#a34bff'
 Direct Descendant Tags:
 - Gamzee
+- Gamzee (god tier)
 - HONK FRIEND (Homosuck)
 - Gametez
 ---
@@ -274,36 +331,130 @@ Tag: Kurloz (archetype)
 Color: '#a34bff'
 Direct Descendant Tags:
 - Kurloz
+- Kurloz (god tier)
+- Kurloz (ghost)
 - The Grand Highblood
 ---
 Tag: Cronus (archetype)
 Color: '#db00db'
 Direct Descendant Tags:
 - Cronus
+- Cronus (god tier)
+- Cronus (ghost)
 - Dualscar
 ---
 Tag: Eridan (archetype)
 Color: '#db00db'
 Direct Descendant Tags:
 - Eridan
+- Eridan (god tier)
+- Eridan (ghost)
+- Erisolsprite
 - CAPE DOUCHE (Homosuck)
 ---
 Tag: Feferi (archetype)
 Color: '#e30072'
 Direct Descendant Tags:
 - Feferi
+- Feferi (god tier)
 - Feferi (Homosuck)
 ---
 Tag: Meenah (archetype)
 Color: '#e30072'
 Direct Descendant Tags:
 - Meenah
+- Meenah (god tier)
+- Meenah (ghost)
 - The Condesce
+---
+Tag: Carapacians (archetypes)
+Direct Descendant Tags:
+- WQ (archetype)
+- WK (archetype)
+- BQ (archetype)
+- BK (archetype)
+- SS (archetype)
+- HB (archetype)
+- DD (archetype)
+- CD (archetype)
+---
+Tag: WQ (archetype)
+Color: '#e0e0e0'
+Direct Descendant Tags:
+- WQ
+- WQ (Vast Error)
+---
+Tag: WK (archetype)
+Color: '#e0e0e0'
+Direct Descendant Tags:
+- WK
+---
+Tag: BQ (archetype)
+Color: '#7b7b7b'
+Direct Descendant Tags:
+- BQ
+- Snowman
+- BQ (Vast Error)
+---
+Tag: BK (archetype)
+Color: '#7b7b7b'
+Direct Descendant Tags:
+- BK
+---
+Tag: SS (archetype)
+Color: '#8a8a8a'
+Direct Descendant Tags:
+- Jack Noir
+- Spades Slick
+- Spdaes Sleck
+- Jack Noir (Desynced)
+- Jack Noir (Redditstuck)
+- Scathing Sharper (Vast Error)
+- Seething Shezmu (Vast Error)
+---
+Tag: HB (archetype)
+Color: '#bf0000'
+Direct Descendant Tags:
+- HB
+- Hustle Bones (Vast Error)
+- Hyperbolic Behemoth (Vast Error)
+---
+Tag: DD (archetype)
+Color: '#c39797'
+Direct Descendant Tags:
+- DD
+- Defrauding Dealer (Vast Error)
+---
+Tag: CD (archetype)
+Color: '#a8a8a8'
+Direct Descendant Tags:
+- CD
+- Charmed Defalcator (Vast Error)
+---
+Tag: Cherubs (archetypes)
+Direct Descendant Tags:
+- Calliope (archetype)
+- Caliborn (archetype)
+---
+Tag: Calliope (archetype)
+Color: '#00e500'
+Direct Descendant Tags:
+- Calliope
+- Calliope (god tier)
+- Calliope (ghost)
+- Alternate Calliope
+- Callie Ohpeee
+---
+Tag: Caliborn (archetype)
+Color: '#e50000'
+Direct Descendant Tags:
+- Caliborn
+- Caliborn (god tier)
+- Lord English
 ---
 Tag: More archetypes
 Direct Descendant Tags:
 - Dad (archetype)
-- Jack Noir (archetype)
 - Jaspers (archetype)
 ---
 Tag: Dad (archetype)
@@ -314,13 +465,6 @@ Direct Descendant Tags:
 - Dadd
 - Dad (Heinoustuck)
 ---
-Tag: Jack Noir (archetype)
-Color: '#8a8a8a'
-Direct Descendant Tags:
-- Jack Noir
-- Jack Noir (Desynced)
-- Jack Noir (Redditstuck)
----
 Tag: Jaspers (archetype)
 Color: '#f141ef'
 Direct Descendant Tags:
@@ -329,23 +473,11 @@ Direct Descendant Tags:
 - Jasprose
 
 # Location archetypes
+# These are structured in location-classifications.yaml.
 
 ---
-Tag: Location archetypes
-Direct Descendant Tags:
-- Alternia (archetype)
-- Battlefield (archetype)
-- Derse (archetype)
-- Earth (archetype)
-- Forge (archetype)
-- Frog Temple (archetype)
-- Green Sun (archetype)
-- Prospit (archetype)
-- Skaia (archetype)
-- Veil (archetype)
-- Victory Platform (archetype)
----
 Tag: Alternia (archetype)
+Color: '#8e4fee'
 Direct Descendant Tags:
 - Alternia
 - Beforus
@@ -353,46 +485,65 @@ Direct Descendant Tags:
 - Nibiru (Desynced)
 ---
 Tag: Battlefield (archetype)
+Color: '#cff0f7'
 Direct Descendant Tags:
 - Battlefield
 ---
 Tag: Derse (archetype)
+Color: '#ff01fe'
 Direct Descendant Tags:
 - Derse
 - Durst
+- Derse (Vast Error)
 ---
 Tag: Earth (archetype)
+Color: '#6bf45f'
 Direct Descendant Tags:
 - Earth
 - Ruined Earth
 - Flooded Earth
 ---
 Tag: Forge (archetype)
+Color: '#f03224'
 Direct Descendant Tags:
 - Forge
 ---
 Tag: Frog Temple (archetype)
+Color: '#c1dd58'
 Direct Descendant Tags:
 - Frog Temple
+- Frog Temple (Vast Error)
 ---
 Tag: Green Sun (archetype)
+Color: '#00ff00'
 Direct Descendant Tags:
 - Green Sun
 ---
+Tag: Incipisphere (archetype)
+Color: '#cacaca'
+Direct Descendant Tags:
+- Incipisphere
+- Incipisphere (Vast Error)
+---
 Tag: Prospit (archetype)
+Color: '#ffff01'
 Direct Descendant Tags:
 - Prospit
 - Prostit
+- Prospit (Vast Error)
 ---
 Tag: Skaia (archetype)
+Color: '#4bdcf9'
 Direct Descendant Tags:
 - Skaia
 - Skya
 ---
 Tag: Veil (archetype)
+Color: '#7c7c7c'
 Direct Descendant Tags:
 - Veil
 ---
 Tag: Victory Platform (archetype)
+Color: '#90dd58'
 Direct Descendant Tags:
 - Victory Platform
