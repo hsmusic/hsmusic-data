@@ -33,6 +33,7 @@ Direct Descendant Tags:
 - Roxy (archetype)
 - Dirk (archetype)
 - Jake (archetype)
+- Dad (archetype)
 - AH (archetype)
 ---
 Tag: John (archetype)
@@ -116,6 +117,14 @@ Color: '#1f9400'
 Direct Descendant Tags:
 - Jake
 - Jade's grandpa
+---
+Tag: Dad (archetype)
+Color: '#e0e0e0'
+Direct Descendant Tags:
+- Dad
+- LARGER HOMO SAPIEN (Homosuck)
+- Dadd
+- Dad (Heinoustuck)
 ---
 Tag: AH (archetype)
 Color: "#e0e0e0"
@@ -420,16 +429,8 @@ Direct Descendant Tags:
 ---
 Tag: More archetypes
 Direct Descendant Tags:
-- Dad (archetype)
 - Jaspers (archetype)
----
-Tag: Dad (archetype)
-Color: '#e0e0e0'
-Direct Descendant Tags:
-- Dad
-- LARGER HOMO SAPIEN (Homosuck)
-- Dadd
-- Dad (Heinoustuck)
+- Maplehoof (archetype)
 ---
 Tag: Jaspers (archetype)
 Color: '#f141ef'
@@ -437,6 +438,12 @@ Direct Descendant Tags:
 - Jaspers
 - Jaspersprite
 - Jasprose
+---
+Tag: Maplehoof (archetype)
+Color:'#ff7bf7'
+Direct Descendant Tags:
+- Maplehoof
+- Minihoof
 
 # Location archetypes
 # These are structured in location-classifications.yaml.
