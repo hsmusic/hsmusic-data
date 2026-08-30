@@ -45,6 +45,7 @@ Content: |-
     - added "origin details" field for artworks, which enables totally custom descriptions about where an artwork comes from; displayed beneath "by (artists)" and "via (source)" line [[media:misc/changelog/artwork-origin-details-cover.png|on album and track pages]], as well as [[media:misc/changelog/artwork-origin-details-list.png|in artists' artwork lists]]; currently used for crops of comic panels and flashes across [[group:official]], and for asset credits in [[album:hiveswap-friendsim]]
         - added similar "file details" field, which has info about the specific file as included on the wiki, rather than details on the artwork itself
     - added "attach above" field for artworks, which visually links related artworks together (provided they're for the same track or album), and shuttles away identical data e.g. because the artworks have the same artists or tags, and adds auto-inheritence so those identical lists don't have to be typed out twice, either; all in all used for earlier versions of [[album:comfortable-bugs|album covers]] and [[track:white|track art]], [[track:awakening|full-size cuts]], and perhaps other useful places
+    - added "reuse from" field for artworks, indicating an artwork is reused from some earlier or other release, automatically keeping art tags and other details in sync, and trimming duplicates in artist and art tag gallery pages
     - revised the presentation of credits on artist info pages:
         - annotations, meaning an artist's specific contribution, are now shown always at the end of the line, following a "—"
         - the "with other artists" stretch of text has been completely removed, since it typically just confused credited roles, and the most detailed information is always available on the track page
@@ -576,6 +577,7 @@ Content: |-
         - [[track:wilted-petal]], [[track:burn-bright]], [[track:mind-over-chatter]], [[track:face-the-reaper-time-keeper]], [[track:battle-against-perfection]], and [[track:fundamentals-of-matter]] (placeholder)
     - sorted fanventure flash acts under [[flash-side:fan-adventures]] alphabetically, instead of quite arbitrarily (thanks, Lan!)
     <!-- album overarching presentation -->
+    - dropped track section descriptions across [[album:homestuck-vol-1-4]], filling in those details and more as wiki commentary instead (thanks, Coral, Lilith!)
     - restructured [[album:ophiuchus-full-suite]] into a two-halves album, representing the full suite as a single track as well as its individual parts (moved from a section in [[album:more-homestuck-fandom]]), with track artwork and revised commentary
     - restructured [[album:flyways]] similarly as [[album:ophiuchus-full-suite]]
     - styled track sections for each disc of [[album:pokemon-sword-shield-super-music-collection]] and [[album:pokemon-scarlet-violet-super-music-collection]] to separately count track numbers (thanks, ruby!)
