@@ -32,9 +32,9 @@ Track: Fren Zone
 Duration: 2:22
 Referenced Tracks:
 - Game Main Theme (Piano Sketch)
-- fren
+- track:fren-hot-dad
 Sampled Tracks:
-- fren
+- track:fren-hot-dad
 URLs:
 - https://jebb.bandcamp.com/track/fren-zone
 Lyrics: |-
@@ -58,9 +58,9 @@ Commentary: |-
     Lastly, for the album-only ending of the track i added a nod to [the little solo Joel attempted to play on his guitar at the end of the song](https://youtu.be/NLEkxIu_AI4?t=2601). I am thankful for the honor, and that little gesture is now in the song itself!
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/fren-zone))
-    References [["Game Main Theme (Piano Sketch)"]] by [[artist:toby-fox]] and [["fren"]] by [[artist:hot-dad]]
+    References [["Game Main Theme (Piano Sketch)"]] by [[artist:toby-fox]] and [[track:fren-hot-dad|"fren"]] by [[artist:hot-dad]]
     
-    Samples [["fren"]] by [[artist:hot-dad]]
+    Samples [[track:fren-hot-dad|"fren"]] by [[artist:hot-dad]]
 ---
 Track: Gamer Moment
 Duration: 0:26
@@ -122,7 +122,7 @@ Referencing Sources: |-
 Track: Splinter Scuffle
 Duration: 2:44
 Referenced Tracks:
-- Bonus Game
+- track:bonus-game-lego-racers-2
 URLs:
 - https://jebb.bandcamp.com/track/splinter-scuffle
 Commentary: |-
@@ -132,7 +132,7 @@ Commentary: |-
     At the last section of the track before the loop you can hear a very subtle chiptune section playing an approximation of the first part of LEGO Racers 2 OST - Bonus Game, which is commonly used as Fren’s theme. Thought it would be only right to sneak it in the game somehow.
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/splinter-scuffle))
-    References [["Bonus Game"]] by [[artist:steve-maloney]]
+    References [[track:bonus-game-lego-racers-2|"Bonus Game"]] by [[artist:steve-maloney]]
 ---
 Track: Onward
 Duration: 1:11
@@ -150,7 +150,7 @@ Referencing Sources: |-
 Track: Heart of Gold
 Duration: 1:03
 Referenced Tracks:
-- Level 1 Theme
+- track:level-1-theme-sack-of-flour-heart-of-gold
 URLs:
 - https://jebb.bandcamp.com/track/heart-of-gold
 Commentary: |-
@@ -159,7 +159,7 @@ Commentary: |-
     The file for this track is called “Bag of Flour screen”. Since then i have corrected my mistake and know with my full heart (of gold) that his name is Sack of Flour. May we never forget it.
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/heart-of-gold))
-    References [["Level 1 Theme"]] (from Sack of Flour, Heart of Gold) by [[artist:mark-hall]]
+    References [[track:level-1-theme-sack-of-flour-heart-of-gold|"Level 1 Theme"]] (from Sack of Flour, Heart of Gold) by [[artist:mark-hall]]
 ---
 Track: Futuristic Robert
 Duration: 1:05
@@ -178,7 +178,7 @@ Referencing Sources: |-
 Track: HET
 Duration: 1:20
 Referenced Tracks:
-- Continue?
+- track:continue-felix-the-cat
 URLs:
 - https://jebb.bandcamp.com/track/het
 Commentary: |-
@@ -186,7 +186,7 @@ Commentary: |-
     Theme of Felix the Cat (?). It’s hard to tell, but this is a very very distorted cover of the game over theme from the Genesis bootleg, just made to sound as freaky as the actual visuals on the screen. This track is actually entirely synths and samples i believe.
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/het))
-    References [["Continue?"]] by Augusto Ruiz(?)
+    References [[track:continue-felix-the-cat|"Continue?"]] by Augusto Ruiz(?)
 ---
 Track: Tourney Tussle
 Duration: 3:15
@@ -220,7 +220,7 @@ Referencing Sources: |-
 Track: Fiendish Plot
 Duration: 1:05
 Referenced Tracks:
-- fren
+- track:fren-hot-dad
 - English
 URLs:
 - https://jebb.bandcamp.com/track/fiendish-plot
@@ -230,7 +230,7 @@ Commentary: |-
     The subtle choir is actually a subtle reference to “fren” by Hot Dad - it’s the “fre-e-e-en” chorus. Even in the evil reflection the original persists.
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/fiendish-plot))
-    References [["fren"]] by [[artist:hot-dad]] and [["English"]] by [[artist:toby-fox]]
+    References [[track:fren-hot-dad|"fren"]] by [[artist:hot-dad]] and [["English"]] by [[artist:toby-fox]]
 ---
 Track: Fienal Boss
 Duration: 2:03
@@ -257,7 +257,7 @@ Referenced Tracks:
 - Fren Zone
 Sampled Tracks:
 - track:MeGaLoVania
-- fren
+- track:fren-hot-dad
 URLs:
 - https://jebb.bandcamp.com/track/frenal-push
 Commentary: |-
@@ -269,7 +269,7 @@ Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/frenal-push))
     References [["Fienal Boss"]] and [["Fren Zone"]] by [[artist:jebb]]
     
-    Samples [[track:MeGaLoVania|"MeGaLoVania"]] by [[artist:toby-fox]] and [["fren"]] by [[artist:hot-dad]]
+    Samples [[track:MeGaLoVania|"MeGaLoVania"]] by [[artist:toby-fox]] and [[track:fren-hot-dad|"fren"]] by [[artist:hot-dad]]
 ---
 Track: The Skeleton Appears
 Duration: 0:23
@@ -351,8 +351,8 @@ Duration: 2:22
 Referenced Tracks:
 - Fren Zone
 Sampled Tracks:
-- Bonus Game
-- fren
+- track:bonus-game-lego-racers-2
+- track:fren-hot-dad
 URLs:
 - https://jebb.bandcamp.com/track/bonus-rave
 Commentary: |-
@@ -363,7 +363,7 @@ Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/bonus-rave))
     References [["Fren Zone"]] by [[artist:jebb]]
     
-    Samples [["Bonus Game"]] by [[artist:steve-maloney]] and [["fren"]] by [[artist:hot-dad]]
+    Samples [[track:bonus-game-lego-racers-2|"Bonus Game"]] by [[artist:steve-maloney]] and [[track:fren-hot-dad|"fren"]] by [[artist:hot-dad]]
 ---
 Track: Grand Entrance
 Duration: 1:59
@@ -390,7 +390,7 @@ Commentary: |-
     Another bonus track.
     This is a combination of several original attempts at the main menu theme before the one that’s used in-game finally came together - fast but with soundfont drums and slow with sampled drums (this is fast with both drums).
     In fact, there was initially supposed to be a title screen theme and the hub menu theme, but the title screen theme never got finished and the hub menu theme also became the title screen theme. The title screen theme was supposed to be much more high octane than the hub theme, as you can see in this track.
-    The only thing i actually added to this while working on the album is the subtle [[artist:hot-dad]] [[“fren”]] motif in the back of the second half of the track, since i felt like it was kinda empty.
+    The only thing i actually added to this while working on the album is the subtle [[artist:hot-dad]] [[track:fren-hot-dad|“fren”]] motif in the back of the second half of the track, since i felt like it was kinda empty.
     I placed this track last in the album since i thought it’d be appropriate to start on the main and most iconic track of the game and end on the prototype version of it.
     If you’re listening to this in album order, you’re done with the album now! I thank you a lot for checking the ost out, and thank you for listening!
 Referencing Sources: |-
