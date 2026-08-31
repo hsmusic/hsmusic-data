@@ -1,5 +1,6 @@
 Album: 'FNF: Aleph Null OST'
 Directory: fnf-aleph-null-ost-2026
+Directory Suffix: aleph-null-2026
 Suffix Track Directories: true
 Date: March 14, 2026
 Date Added: March 15, 2026
@@ -24,7 +25,7 @@ Commentary: |-
     <i>Jebb:</i> ([Bandcamp about blurb](https://jebb.bandcamp.com/album/fnf-aleph-null-ost), excerpt)
     Full soundtrack for the first project i have ever composed for - FNF: Aleph Null, the Friday Night Funkin' mod for the (now taken down) webcomic, Aleph Null.
     
-    Featuring sketches i made while working on the mod (12-15) and a brand new track made just for this album - [[track:warden|WARDEN]]!
+    Featuring sketches i made while working on the mod (12-15) and a brand new track made just for this album - [[track:warden-aleph-null|WARDEN]]!
     
     Thanks to [[artist:adrian-gravitygauntlet-wahrer|Adrian Wahrer]] for the great album art!
     
@@ -36,7 +37,7 @@ Track: Downpour
 Additional Names:
 - Rain (first name)
 - Petrichor (second name)
-Main Release: track:downpour
+Main Release: album:fnf-aleph-null-ost
 Duration: 1:42
 URLs:
 - https://jebb.bandcamp.com/track/downpour
@@ -45,7 +46,7 @@ Referencing Sources: |-
     References [["Beatdown (Strider Style)"]] by [[artist:curt-blakeslee]]
 ---
 Track: Rusted
-Main Release: track:rusted
+Main Release: album:fnf-aleph-null-ost
 Duration: 2:10
 URLs:
 - https://jebb.bandcamp.com/track/rusted
@@ -53,7 +54,7 @@ URLs:
 Track: 'Null'
 Additional Names:
 - Doomed (original name)
-Main Release: track:null-fnf-aleph-null-ost
+Main Release: album:fnf-aleph-null-ost
 Duration: 2:25
 URLs:
 - https://jebb.bandcamp.com/track/null
@@ -62,13 +63,13 @@ Referencing Sources: |-
     References [[track:english|"English"]] by [[artist:toby-fox]]
 ---
 Track: NULL Restored
-Main Release: track:null-restored
+Main Release: album:fnf-aleph-null-ost
 Duration: 1:39
 URLs:
 - https://jebb.bandcamp.com/track/null-restored
 ---
 Track: Game Over
-Main Release: track:game-over-fnf-aleph-null-ost
+Main Release: album:fnf-aleph-null-ost
 Duration: 0:56
 URLs:
 - https://jebb.bandcamp.com/track/game-over
@@ -77,7 +78,7 @@ Referencing Sources: |-
     References [[track:carne-vale|"Carne Vale"]] by [[artist:malcolm-brown]]
 ---
 Track: Menu
-Main Release: track:menu-fnf-aleph-null-ost
+Main Release: album:fnf-aleph-null-ost
 Duration: 0:57
 URLs:
 - https://jebb.bandcamp.com/track/menu
@@ -88,7 +89,7 @@ Referencing Sources: |-
     Samples [[track:miracles-icp|"Miracles"]] by [[artist:insane-clown-posse]] and [[artist:mike-e-clark]], [["Upward Movement (Dave Owns)"]] by [[artist:kalibration]]
 ---
 Track: Pause
-Main Release: track:pause-fnf-aleph-null-ost
+Main Release: album:fnf-aleph-null-ost
 Duration: 0:27
 URLs:
 - https://jebb.bandcamp.com/track/pause
@@ -97,25 +98,25 @@ Referencing Sources: |-
     Samples [["Upward Movement (Dave Owns)"]] by [[artist:kalibration]]
 ---
 Track: Downpour (Instrumental)
-Main Release: track:downpour-instrumental
+Main Release: album:fnf-aleph-null-ost
 Duration: 1:42
 URLs:
 - https://jebb.bandcamp.com/track/downpour-instrumental
 ---
 Track: Rusted (Instrumental)
-Main Release: track:rusted-instrumental
+Main Release: album:fnf-aleph-null-ost
 Duration: 2:10
 URLs:
 - https://jebb.bandcamp.com/track/rusted-instrumental
 ---
 Track: Null (Instrumental)
-Main Release: track:null-instrumental
+Main Release: album:fnf-aleph-null-ost
 Duration: 2:25
 URLs:
 - https://jebb.bandcamp.com/track/null-instrumental
 ---
 Track: NULL Restored (Instrumental)
-Main Release: track:null-restored-instrumental
+Main Release: album:fnf-aleph-null-ost
 Duration: 1:39
 URLs:
 - https://jebb.bandcamp.com/track/null-restored-instrumental
@@ -123,7 +124,7 @@ URLs:
 Section: Bonus tracks
 ---
 Track: Falmeamaybe
-Main Release: track:falmeamaybe
+Main Release: album:fnf-aleph-null-ost
 Duration: 0:36
 URLs:
 - https://jebb.bandcamp.com/track/falmeamaybe
@@ -132,39 +133,40 @@ Referencing Sources: |-
     Samples [["Upward Movement (Dave Owns)"]] by [[artist:kalibration]]
 ---
 Track: Chains
-Main Release: track:chains
+Main Release: album:fnf-aleph-null-ost
 Duration: 0:22
 URLs:
 - https://jebb.bandcamp.com/track/chains
 ---
 Track: Sauronward
-Main Release: track:sauronward
+Main Release: album:fnf-aleph-null-ost
 Duration: 0:22
 URLs:
 - https://jebb.bandcamp.com/track/sauronward
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/sauronward))
-    References [["Rusted"]] by [[artist:jebb]]
+    References [[track:rusted-aleph-null|"Rusted"]] by [[artist:jebb]]
 ---
 Track: Wardchaotic
-Main Release: track:wardchaotic
+Main Release: album:fnf-aleph-null-ost
 Duration: 0:28
 URLs:
 - https://jebb.bandcamp.com/track/wardchaotic
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/wardchaotic))
-    References [["Rusted"]] by [[artist:jebb]], [["Corrosion and Quadrants (Falmea's Theme)"]] by [[artist:darlingsuffocation]], [["Thresher (Cyrusk's theme)"]] by [[artist:rabooski]]
+    References [[track:rusted-aleph-null|"Rusted"]] by [[artist:jebb]], [["Corrosion and Quadrants (Falmea's Theme)"]] by [[artist:darlingsuffocation]], [["Thresher (Cyrusk's theme)"]] by [[artist:rabooski]]
 ---
 Track: WARDEN
-Suffix Directory: false
+Suffix Directory: aleph-null
+Reference By Directory: outside album
 Duration: 5:40
 Referenced Tracks:
 - WARDEN (WIP)
 - Wardchaotic
 - Growth (Cybele's Theme)
 - Aleph Null (Another Dimension)
-- Rusted
-- Locked
+- track:rusted-aleph-null
+- track:locked-aleph-null
 URLs:
 - https://jebb.bandcamp.com/track/warden
 Commentary: |-
@@ -176,7 +178,7 @@ Commentary: |-
     I consider this a culmination and a final farewell to the first ever project i composed for. I hope you enjoy the end result as much as i do.
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/warden))
-    References [["Chains"]] by [[artist:jebb]], [["Wardchaotic"]] by [[artist:jebb]], [["Rusted"]] by [[artist:jebb]], [["Corrosion and Quadrants (Falmea's Theme)"]] by [[artist:darlingsuffocation]], [["Thresher (Cyrusk's Theme)"]] by [[artist:rabooski]], [["Growth (Cybele's Theme)"]] by [[artist:founddeadinla]], [["Aleph Null (Another Dimension)"]] by [[artist:darlingsuffocation]] and [["Locked"]] by [[artist:jebb]]
+    References [[track:chains-aleph-null|"Chains"]] by [[artist:jebb]], [["Wardchaotic"]] by [[artist:jebb]], [[track:rusted-aleph-null|"Rusted"]] by [[artist:jebb]], [["Corrosion and Quadrants (Falmea's Theme)"]] by [[artist:darlingsuffocation]], [["Thresher (Cyrusk's Theme)"]] by [[artist:rabooski]], [["Growth (Cybele's Theme)"]] by [[artist:founddeadinla]], [["Aleph Null (Another Dimension)"]] by [[artist:darlingsuffocation]] and [[track:locked-aleph-null|"Locked"]] by [[artist:jebb]]
 ---
 Track: WARDEN (Instrumental)
 Suffix Directory: false
