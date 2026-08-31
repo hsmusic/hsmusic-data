@@ -1,4 +1,5 @@
 Album: Friday Night Funkin'
+Directory Suffix: fnf
 Style: in-game vgm
 Date: November 1, 2020
 Track Artists:
@@ -20,6 +21,8 @@ URLs:
 - https://music.apple.com/song/bopeebo/1547477412
 ---
 Track: Fresh
+Suffix Directory: true
+Reference By Directory: outside album
 Date First Released: October 5, 2020 # Ludum Dare prototype
 Duration: 1:22
 URLs:
@@ -41,6 +44,8 @@ URLs:
 Section: 'Week 2: Spooky Month'
 ---
 Track: South
+Suffix Directory: true
+Reference By Directory: outside album
 Date First Released: November 1, 2020
 Duration: 1:28
 URLs:
@@ -70,6 +75,8 @@ URLs:
 - https://music.apple.com/song/philly-nice/1547477418
 ---
 Track: Pico
+Suffix Directory: true
+Reference By Directory: outside album
 Date First Released: December 11, 2020
 Duration: 1:25
 URLs:
@@ -101,6 +108,8 @@ URLs:
 Section: 'Week 5: Red Snow'
 ---
 Track: Cocoa
+Suffix Directory: true
+Reference By Directory: outside album
 Date First Released: January 20, 2021  # also Vol. 1: December 25, 2020
 Duration: 1:55
 URLs:
@@ -112,6 +121,8 @@ URLs:
 Section: 'Week 6: Hating Simulator'
 ---
 Track: Roses
+Suffix Directory: true
+Reference By Directory: outside album
 Date First Released: February 2, 2021
 Duration: 1:31
 URLs:
@@ -121,6 +132,8 @@ URLs:
 - https://music.apple.com/song/roses/1563960409
 ---
 Track: Senpai
+Suffix Directory: true
+Reference By Directory: outside album
 Duration: 1:48
 URLs:
 - https://kawaisprite.bandcamp.com/track/senpai
@@ -129,6 +142,8 @@ URLs:
 - https://music.apple.com/song/senpai/1563960408
 ---
 Track: Thorns
+Suffix Directory: true
+Reference By Directory: outside album
 Duration: 1:46
 URLs:
 - https://kawaisprite.bandcamp.com/track/thorns
@@ -139,8 +154,8 @@ URLs:
 Section: 'Week 7: Tankman'
 ---
 Track: Ugh
-Directory: ugh-fnf
-Always Reference By Directory: true
+Suffix Directory: true
+Reference By Directory: outside album
 Duration: 1:27
 URLs:
 - https://kawaisprite.bandcamp.com/track/ugh
