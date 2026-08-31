@@ -102,6 +102,7 @@ Content: |-
     - added support for <<generic tooltips:very cool>> in content text anywhere, but mostly for the changelog
     - added [[media:misc/changelog/release-dividing-line.png|decorative dividing line]] after track lists on album info pages
     - added a nice effect when you hover an album banner... unless you're on Firefox... sorry Firefox...
+    - TODO ADD MOTIF FEATURE TO CHANGELOG
     <h3>bug fixes</h3>
     - swapped out a very naive word-count algorithm for one that tries to be multilingual, affecting totals on the [[commentary-index:-|commentary index]] and on album commentary pages
     - fixed chronological sorting in most track-related contexts to sort same-date tracks respective to their album's name and directory, rather than only its directory, which mostly means tracks from an album "The Apple" are now correctly sorted before tracks from another album, released on the same day, "Banana"
@@ -161,6 +162,8 @@ Content: |-
     - added [[album:wrong-number-song-camellia-remix]] by [[artist:camellia]]! (thanks, ruby!)
     - added [[album:the-witchs-archives]] by [[artist:witchs-cadence]]! (thanks, <<Lilith:album data, presentation, research>>, <<Lan:data review, crediting presentation help>>, plus <<Witch's Cadence:track sampling & referencing help>>, <<Jebb:wallpaper edit>>!)
     - added [[album:minecraft-steve-rocks-the-block]]! (thanks, <<ruby:album data & presentation>>, <<Lan:data review, presentation help>>!)
+    - added latest releases from [[group:official]]! (thanks, Niklink!)
+        - added [[album:homestuck-the-animated-pilot]]!
     - added latest release from [[group:canmt]]! (thanks, <<Whisper:album data & presentation>>, <<Lilith:album data & presentation>>, <<Lan:album data, References Beyond Homestuck additions>>, plus <<koba:lyrics & references help>>, <<Cecily:commentary & references help>>, <<Makin:additional data, crediting help>>!)
         - added [[album:cool-and-new-volume-4]]!
     - added latest release from [[group:unofficial-mspa-fans]]! (thanks, <<ruby:album data, presentation, research>>, plus <<Jebb:album presentation help>>, <<Lilith:URL fix, bonus track artwork data>>, <<Cello:bonus track artwork help>>, <<Makin:URLs & bonus track artwork crediting help>>, <<Monckat:track duration fix>>, <<vriska:lyric fixes>>!)
@@ -320,6 +323,9 @@ Content: |-
     - added unreleased track [[track:fanfare]] (thanks, Do Not Open, Lan, Makin, erase!)
     - added missing DLC track, [[track:build-gate-swag-gate]], to [[album:sburb-ost]] (thanks, <<Cello:suggested this, lyrics>>, <<Lan:track data, presentation>>, <<Lilith:lyrics help>>, <<Whisper:lyrics help>>!)
     - added missing bonus tracks to [[album:chained-official-soundtrack]] (thanks, Lilith!)
+    <!-- motif additions -->
+    - for [[album:homestuck-the-animated-pilot]]:
+        - added [[motif:homestuck-the-animated-pilot-sburb-like-motif]], [[motif:homestuck-the-animated-pilot-dave-like-motif]], [[motif:homestuck-the-animated-pilot-sneaky-motif]] (thanks, Niklink!)
     <!-- group additions -->
     - added [[group:autumnal-equinox]] group (thanks, <<Tangle:data, description>>!)
     - added [[group:dbnet18]] group (thanks, <<Jebb:data>>, <<Whisper:description>>!)
