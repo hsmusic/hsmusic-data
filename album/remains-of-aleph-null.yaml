@@ -1,4 +1,5 @@
 Album: Remains of Aleph Null
+Directory Suffix: aleph-null
 Date: April 6, 2026
 Date Added: April 6, 2026
 URLs:
@@ -46,10 +47,10 @@ Referencing Sources: |-
 ---
 Track: Petrichor
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 2:50
 Referenced Tracks:
-- Rusted
+- track:rusted-aleph-null
 URLs:
 - https://jebb.bandcamp.com/track/petrichor
 Commentary: |-
@@ -59,7 +60,7 @@ Commentary: |-
     Hope you enjoy!
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/downpour))
-    References [["Rusted"]] by [[artist:jebb]]
+    References [[track:rusted-aleph-null|"Rusted"]] by [[artist:jebb]]
 ---
 Track: Rising Suns
 Duration: 1:47
@@ -90,9 +91,11 @@ Referencing Sources: |-
     References [["Thresher (Cyrusk's theme)"]] by [[artist:rabooski]]
 ---
 Track: Sticks
+Suffix Directory: true
+Reference By Directory: outside album
 Duration: 1:42
 Referenced Tracks:
-- Rusted
+- track:rusted-aleph-null
 URLs:
 - https://jebb.bandcamp.com/track/sticks
 Commentary: |-
@@ -102,11 +105,11 @@ Commentary: |-
     This track is like a lullaby, reminiscing about old times. Where did the good times go? Back when we were small Sauron? Ah, memories.
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/downpour))
-    References [["Rusted"]] by [[artist:jebb]]
+    References [[track:rusted-aleph-null|"Rusted"]] by [[artist:jebb]]
 ---
 Track: CYBERSPACE
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 2:14
 Referenced Tracks:
 - W.A.R.D.
@@ -122,9 +125,11 @@ Referencing Sources: |-
     References [["W.A.R.D."]] by [[artist:founddeadinla]]
 ---
 Track: Locked
+Suffix Directory: true
+Reference By Directory: outside album
 Duration: 3:18
 Referenced Tracks:
-- Chains
+- track:chains-aleph-null
 URLs:
 - https://jebb.bandcamp.com/track/locked
 Commentary: |-
@@ -132,7 +137,7 @@ Commentary: |-
     This was my take at making a WARD theme. With [[artist:founddeadinla]]'s [[track:ward|track]] having a much more aggressive sound, i wanted to make a WARD track that was more sombre and introspective.
 Referencing Sources: |-
     <i>Jebb:</i> ([Bandcamp credits blurb](https://jebb.bandcamp.com/track/downpour))
-    References [["Chains"]] by [[artist:jebb]]
+    References [[track:chains-aleph-null|"Chains"]] by [[artist:jebb]]
 ---
 Track: Business Disputes
 Duration: 3:39
