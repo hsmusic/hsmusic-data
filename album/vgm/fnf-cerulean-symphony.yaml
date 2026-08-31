@@ -1,5 +1,6 @@
 Album: Cerulean Symphony
 Directory: fnf-cerulean-symphony
+Directory Suffix: cerulean-symphony
 Style: in-game vgm
 Date: May 23, 2025
 Color: '#1aadad'
@@ -7,6 +8,8 @@ Groups:
 - Friday Night Funkin'
 ---
 Track: I Love You
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - K-Man
 Duration: 1:28

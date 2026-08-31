@@ -43,6 +43,7 @@ Section: Main album
 ---
 Track: The Fall
 Suffix Directory: true
+Always Reference By Directory: true
 Main Release: track:the-fall-kindred-souls
 Duration: 3:55
 URLs:
@@ -212,6 +213,7 @@ Commentary: |-
 ---
 Track: Wherever You Were
 Suffix Directory: true
+Always Reference By Directory: true
 Main Release: track:wherever-you-were
 Duration: 4:06
 URLs:
@@ -289,6 +291,8 @@ Crediting Sources: |-
     Lyric ideation: [[artist:bonebark]]
 ---
 Track: Equator
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:53
 Referenced Tracks:
 - Waterside Sunset
@@ -372,6 +376,7 @@ Referencing Sources: |-
 ---
 Track: ...and scene
 Suffix Directory: true
+Always Reference By Directory: true
 Main Release: track:and-scene
 Duration: 2:46
 URLs:
@@ -460,8 +465,9 @@ Referencing Sources: |-
     Quotes: [[artist:circlejourney]] - [[track:shipwreck-time-and-tide]]; [[artist:machina-solis]] - [[track:interlude-machina-solis]]
 ---
 Track: Dreams and Wakes
-Main Release: track:dreams-and-wakes
 Suffix Directory: true
+Always Reference By Directory: true
+Main Release: track:dreams-and-wakes
 Duration: 4:28
 URLs:
 - https://circlejourney.bandcamp.com/track/dreams-and-wakes

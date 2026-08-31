@@ -20,7 +20,7 @@ Groups:
 ---
 Track: Title
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 0:38
 Artists:
 - Tensei
@@ -87,7 +87,7 @@ URLs:
 ---
 Track: Golden Remains
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 3:01
 Artists:
 - Vesuvia
@@ -122,6 +122,8 @@ URLs:
 - https://open.spotify.com/track/0ywJbaTDMD5ceyWFG0O5Rf
 ---
 Track: Ambush!
+Suffix Directory: true
+Reference By Directory: outside album
 Duration: 2:34
 Artists:
 - Tensei
@@ -139,7 +141,7 @@ URLs:
 ---
 Track: Rain
 Suffix Directory: true
-Always Reference By Directory: true
+Reference By Directory: outside album
 Duration: 2:54
 Artists:
 - Tensei
