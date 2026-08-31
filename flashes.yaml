@@ -5727,39 +5727,42 @@ URLs:
 ---
 Act: Desynced
 Directory: desynced
-Color: '#CE3382'
+Color: '#a185ff'
 ---
-Flash: '[S] SUNRISE.'
-Directory: sunrise-desynced
+Flash: '[S] Act 1: In The Beginning.'
+Directory: desynced-act-1-in-the-beginning
 Cover Art File Extension: png
-Date: October 2, 2019
+Date: October 13, 2025
 Featured Tracks:
-- track:sunrise-desynced
+- Desynced Cataclysm
+- track:in-the-beginning-anthology-ii
 URLs:
 - https://mspfa.com/?s=28296&p=2
-- https://www.youtube.com/watch?v=6YeUrQjQV-o
+- https://www.youtube.com/watch?v=iSS8sRJunqg
 Contributors:
-- artist:dizzims (animation)
+- artist:dizzims (art, animation, sound design)
 ---
-Flash: '[S] Desynced'
+Flash: '[S] Desynced.'
 Directory: desynced-desynced
 Cover Art File Extension: png
-Date: November 5, 2019
+Date: November 15, 2025
 Featured Tracks:
-- Daughter (Short Ver.)
+- Breath Suspense
 URLs:
-- https://mspfa.com/?s=28296&p=56
-- https://www.youtube.com/watch?v=MhJRJLt-U0c
+- https://mspfa.com/?s=28296&p=55
+- https://www.youtube.com/watch?v=tmp3dUXEXlY
+Contributors:
+- artist:dizzims (art, animation)
 ---
-Flash: '[S] Kate: Start.'
-Directory: kate-start
+Flash: '[S] Start Up.'
+Directory: start-up
 Cover Art File Extension: png
-Date: November 29, 2019
+Date: November 15, 2025
 Featured Tracks:
 - track:eclipse-desynced
 URLs:
-- https://mspfa.com/?s=28296&p=100
-- https://www.youtube.com/watch?v=2EtI0hub4b0
+- https://mspfa.com/?s=28296&p=98
+- https://www.youtube.com/watch?v=qyOY3ZKIe7A
 Contributors:
 - artist:dizzims (animation)
 ---
@@ -5775,38 +5778,26 @@ URLs:
 Contributors:
 - artist:dizzims (animation)
 ---
-Flash: '[I1] [S] Intermission 1.'
-Directory: desynced-intermission-1
+Flash: '[S] Act 2: Under the Moon.'
+Directory: act-2-under-the-moon
 Cover Art File Extension: png
-Date: January 14, 2020
+Date: December 13, 2025
 Featured Tracks:
-- We'll Be Right Back
+- Under the Moon
 URLs:
-- https://mspfa.com/?s=28296&p=151
-- https://www.youtube.com/watch?v=Qi2mbvd330I
+- https://mspfa.com/?s=28296&p=178
+- https://www.youtube.com/watch?v=M11c3kMqUZ0
 Contributors:
-- artist:dizzims (animation)
----
-Flash: '[I1] [S] End of Intermission 1.'
-Directory: desynced-end-of-intermission-1
-Cover Art File Extension: png
-Date: January 23, 2020
-Featured Tracks:
-- Your Blood Not Mine (Beta)
-URLs:
-- https://mspfa.com/?s=28296&p=171
-- https://www.youtube.com/watch?v=Esmttv68EfY
-Contributors:
-- artist:dizzims (animation)
+- artist:dizzims (art, animation)
 ---
 Flash: '[S] Kate: Wake Up.'
 Directory: kate-wake-up
 Cover Art File Extension: png
-Date: February 7, 2020
+Date: August 3, 2023
 Featured Tracks:
 - Inner Demons
 URLs:
-- https://mspfa.com/?s=28296&p=191
+- https://mspfa.com/?s=28296&p=199
 - https://www.youtube.com/watch?v=JP1CZINsW-c
 Contributors:
 - artist:dizzims (art, animation)
@@ -5818,21 +5809,21 @@ Date: March 17, 2020
 Featured Tracks:
 - track:daughter-desynced
 URLs:
-- https://mspfa.com/?s=28296&p=210
+- https://mspfa.com/?s=28296&p=218
 - https://www.youtube.com/watch?v=ICEx7mqgmhk
 Contributors:
 - artist:dizzims (animation)
 ---
-Flash: '[S] But until then.'
-Directory: but-until-then
+Flash: '[S] My Contradiction.'
+Directory: my-contradiction
 Cover Art File Extension: png
-Color: '#AC00F9'
-Date: April 17, 2020
+Color: '#FE0047'
+Date: January 20, 2025
 Featured Tracks:
-- Vantablack
+- Panoptikon
 URLs:
-- https://mspfa.com/?s=28296&p=290
-- https://www.youtube.com/watch?v=VY0YYsjDjyM
+- https://mspfa.com/?s=28296&p=307
+- https://www.youtube.com/watch?v=0T52SZcQoWo
 Contributors:
 - artist:dizzims (art, animation)
 ---
@@ -5979,6 +5970,136 @@ URLs:
 - https://www.youtube.com/watch?v=uo_g0WWIkXQ
 Contributors:
 - artist:dizzims (art, animation, sound design)
+---
+Act: Desynced (Archive)
+Directory: desynced-archive
+Color: '#CE3382'
+---
+Flash: '[S] SUNRISE.'
+Directory: desynced-sunrise-old
+Cover Art File Extension: png
+#Color: '#676767'
+Date: October 2, 2019
+Featured Tracks:
+- Nouveau Babylonica
+URLs:
+- https://www.youtube.com/watch?v=M_NsQu4g2DA
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] SUNRISE.'
+Directory: desynced-sunrise
+Cover Art File Extension: png
+Date: March 29, 2020
+Featured Tracks:
+- track:sunrise-desynced
+URLs:
+- https://www.youtube.com/watch?v=6YeUrQjQV-o
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Desynced'
+Directory: desynced-desynced-old
+Cover Art File Extension: png
+Date: March 29, 2020
+Featured Tracks:
+- Daughter (Short Ver.)
+URLs:
+- https://www.youtube.com/watch?v=MhJRJLt-U0c
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Kate: Start.'
+Directory: kate-start
+Cover Art File Extension: png
+Date: March 29, 2020
+Featured Tracks:
+- track:eclipse-desynced
+URLs:
+- https://www.youtube.com/watch?v=2EtI0hub4b0
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Intermission 1.'
+Directory: desynced-intermission-1-old
+Cover Art File Extension: png
+#Color: '#676767'
+Date: January 14, 2020
+Featured Tracks:
+- We'll Be Right Back
+URLs:
+- https://www.youtube.com/watch?v=LXV0ArJVJCw
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[I1] [S] Intermission 1.'
+Directory: desynced-intermission-1
+Cover Art File Extension: png
+Date: November 26, 2021
+Featured Tracks:
+- We'll Be Right Back
+URLs:
+- https://www.youtube.com/watch?v=Qi2mbvd330I
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[I1] [S] End of Intermission 1.'
+Directory: desynced-end-of-intermission-1
+Cover Art File Extension: png
+Date: January 23, 2020
+Featured Tracks:
+- Your Blood Not Mine (Beta)
+URLs:
+- https://www.youtube.com/watch?v=Esmttv68EfY
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Act 2.'
+Directory: act-2-outdated
+Cover Art File Extension: png
+#Color: '#676767'
+Date: February 1, 2020
+Featured Tracks:
+- Desynced Anthem
+URLs:
+- https://www.youtube.com/watch?v=WBtEdZCTY1c
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Kate: Rise.'
+Directory: kate-rise-old
+Cover Art File Extension: png
+#Color: '#676767'
+Date: February 7, 2020
+Featured Tracks:
+- Lullaby for a Drifter
+URLs:
+- https://www.youtube.com/watch?v=jeEHuSwqSNU
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] Just a moment.'
+Directory: just-a-moment
+Cover Art File Extension: png
+#Color: '#676767'
+Date: April 17, 2020
+Featured Tracks:
+- Void of the Moon
+URLs:
+- https://www.youtube.com/watch?v=VY0YYsjDjyM
+Contributors:
+- artist:dizzims (animation)
+---
+Flash: '[S] But until then.'
+Directory: but-until-then
+Cover Art File Extension: png
+Date: May 19, 2023
+Featured Tracks:
+- Vantablack
+URLs:
+- https://www.youtube.com/watch?v=VY0YYsjDjyM
+Contributors:
+- artist:dizzims (art, animation)
 ---
 Act: Double Death of the Author
 Directory: double-death-of-the-author
@@ -7899,7 +8020,7 @@ Contributors:
 - Tyson Northcutt
 - eddieDraws
 - SilentNeptune
-- Gast
+- ghastaboo
 - _apsinthos
 - diz
 Featured Tracks:
@@ -7912,7 +8033,7 @@ Crediting Sources: |-
 
     [Page 2338](https://deconreconstruction.com/vasterror/2338) - [S] Talald: Turn their frown upside down!<br>
     Art and animation contributions from [[artist:spruik]], [[artist:victoria-lacroix]], [[artist:tyson-northcutt]], [[artist:eddiedraws]],<br>
-    [[artist:silentneptune]], [[artist:gast]],<br>
+    [[artist:silentneptune]], [[artist:ghastaboo]],<br>
     [[artist:apsinthos]] and [[artist:diz]].
 ---
 Flash: '[S] Antebellum: Recite.'
@@ -8781,48 +8902,22 @@ Featured Tracks:
 URLs:
 - https://store.steampowered.com/app/1610900/The_Genesis_Project/
 ---
-Flash: 'Riddle of Dixy: Path of Mind'
-Directory: riddle-of-dixy-path-of-mind
-Date: April 13, 2024
+Flash: 'FNF: Aleph Null'
+Directory: fnf-aleph-null
+Date: May 6, 2022
 Cover Art File Extension: png
 Featured Tracks:
-- Main Menu Theme
-- Kardamon
-- Devil's Darning Needle
-- Trepidity
-- Slough of Despond
-- track:dragonfly-riddle-of-dixy
-- Indigo Fortune Teller
-- track:anthill-riddle-of-dixy
-- Lucky Boy
-- Fishy Princess
-- Oculum pro Oculo (Mindmix)
-- One Eyed Clown (Mindmix)
-- Siber (Mindmix)
-- Chucklevoodoos
-- Lunch for Gruboid (Mindmix)
-- Calm Before the Storm (Mindmix)
-- r3dgl4re (Mindmix)
-- Silly Billy
+- track:downpour-aleph-null
+- track:rusted-aleph-null
+- track:null-aleph-null
+- track:game-over-aleph-null
+- track:menu-aleph-null
+- track:pause-aleph-null
 Contributors:
-- Ryo42 (creator/director, art, text)
-- Ярослав Д (code, text)
-- Liza Outer (art)
-- Linminal0u0 (art)
-- Miolz (art)
-- Евгений Л (text)
+- Clockworkreapers (author, artist)
+- Jebb (composer, coder, playtester, charter)
 URLs:
-- https://ryo42.itch.io/riddle-of-dixy-path-of-mind
-Crediting Sources: |-
-    <i>Ryo42:</i> ([Itch.io description](https://ryo42.itch.io/riddle-of-dixy-path-of-mind))
-
-    <b>Разработчики игры</b>
-
-    - Автор Идеи: [[artist:ryo42|Алена Т (Ryo42)]]
-    - Код: [[artist:yaroslav-d|Ярослав Д]]
-    - Иллюстрации: [[artist:liza-outer|Liza Outer]], [[artist:linminal0u0|Коньячно Чучело]], [[artist:ryo42|Ryo42]], [[artist:miolz|Miolz]]
-    - Музыка: [[artist:dvojka|Dvojka]]/[[artist:xszelor|Xszelor]]
-    - Текст: [[artist:ryo42|Алена Т]], [[artist:yaroslav-d|Ярослав Д]], [[artist:yevgeny-el|Евгений Л ]]
+- https://gamebanana.com/mods/375898
 ---
 Flash: COLORS & MAYHEM
 Directory: colors-and-mayhem
@@ -8929,6 +9024,87 @@ Featured Tracks:
 URLs:
 - https://gamebanana.com/wips/76086
 ---
+Flash: 'Riddle of Dixy: Path of Mind'
+Directory: riddle-of-dixy-path-of-mind
+Date: April 13, 2024
+Cover Art File Extension: png
+Featured Tracks:
+- Main Menu Theme
+- Kardamon
+- Devil's Darning Needle
+- Trepidity
+- Slough of Despond
+- track:dragonfly-riddle-of-dixy
+- Indigo Fortune Teller
+- track:anthill-riddle-of-dixy
+- Lucky Boy
+- Fishy Princess
+- Oculum pro Oculo (Mindmix)
+- One Eyed Clown (Mindmix)
+- Siber (Mindmix)
+- Chucklevoodoos
+- Lunch for Gruboid (Mindmix)
+- Calm Before the Storm (Mindmix)
+- r3dgl4re (Mindmix)
+- Silly Billy
+Contributors:
+- Ryo42 (creator/director, art, text)
+- Ярослав Д (code, text)
+- Liza Outer (art)
+- Linminal0u0 (art)
+- Miolz (art)
+- Евгений Л (text)
+URLs:
+- https://ryo42.itch.io/riddle-of-dixy-path-of-mind
+Crediting Sources: |-
+    <i>Ryo42:</i> ([Itch.io description](https://ryo42.itch.io/riddle-of-dixy-path-of-mind))
+
+    <b>Разработчики игры</b>
+
+    - Автор Идеи: [[artist:ryo42|Алена Т (Ryo42)]]
+    - Код: [[artist:yaroslav-d|Ярослав Д]]
+    - Иллюстрации: [[artist:liza-outer|Liza Outer]], [[artist:linminal0u0|Коньячно Чучело]], [[artist:ryo42|Ryo42]], [[artist:miolz|Miolz]]
+    - Музыка: [[artist:dvojka|Dvojka]]/[[artist:xszelor|Xszelor]]
+    - Текст: [[artist:ryo42|Алена Т]], [[artist:yaroslav-d|Ярослав Д]], [[artist:yevgeny-el|Евгений Л ]]
+---
+Flash: 'D-STRIDER + Strider Mixes'
+Directory: d-strider-plus-strider-mixes
+Date: December 15, 2025
+Cover Art File Extension: png
+Featured Tracks:
+- track:shades-d-strider
+- track:turntech-d-strider
+- track:scratched-d-strider
+- Bopeebo (Strider Mix)
+- Fresh (Strider Mix)
+- Dadbattle (Strider Mix)
+- South (Strider Mix)
+- Pico (Strider Mix)
+- Philly Nice (Strider Mix)
+- Blammed (Strider Mix)
+- Satin Panties (Strider Mix)
+- Cocoa (Strider Mix)
+- Senpai (Strider Mix)
+- Roses (Strider Mix)
+- Ugh (Strider Mix)
+- I Love You (Strider Mix)
+- cooloff
+- cooloff (Pixel)
+- I TOLD YOU DOG!!
+- I TOLD YOU DOG!! (Pixel)
+- small steps
+- Brainless Feathery Asshole
+- COOL-K1DD
+- Knight of Rhyme
+- bro. roof. now.
+- why are we so fucking awesome
+Contributors:
+- bould (artist, animator, charter, programmer)
+- Alienoid (programmer, pixel artist)
+- Yoshifan33 (dave voice)
+URLs:
+- https://gamebanana.com/mods/639725
+---
 Side: Fan Animations
 Color: '#ff7093'
 List Terminology: Animations in this section
@@ -9012,6 +9188,254 @@ Featured Tracks:
 - A Baby Legend - The Baby is 2
 URLs:
 - https://www.youtube.com/watch?v=gfiwU2f-ts4
+---
+Flash: '[S] Make Her Pay: Reanimated'
+Directory: make-her-pay-reanimated
+Date: November 14, 2019
+Cover Art File Extension: png
+Featured Tracks:
+- Crystamanthequins
+URLs:
+- https://www.youtube.com/watch?v=CuhuTjooo50
+Contributors:
+- Crystalrina (0:00)
+- xTeacupx (0:00)
+- YoItsCro (0:03, 1:02, director, promo art)
+- Goblin (0:10, 0:47)
+- Hermannco (0:17)
+- Burdrehnar (0:24, 2:37)
+- Pusola (0:32)
+- Courtney Brendle (0:40)
+- Shadok (0:58)
+- Lenny (1:13)
+- Maidofsalt (1:24)
+- Fairyfey099 (1:37)
+- starrycosmos (1:44)
+- Shindazzled (1:58)
+- ybKitten (2:01)
+- Marinaraimpasta (2:04)
+- Esther Pimentel (2:10, director, promo art)
+- Dagmar (2:13, 2:54)
+- Hermannco (2:15, director, credits)
+- Rebecca Peason (2:21)
+- Buff Chicken (2:25)
+- Zelpixel (2:31)
+- Hoodiex_ (2:35)
+- Eben Taylor (2:38)
+- Vriskagram (2:43)
+- infini (2:45)
+- Fable Bae (2:47)
+- gnach (2:47)
+- ConnorQuothe (2:51)
+- Glubglubguppies (2:58)
+- Beelily (3:02)
+- Sake 906 (3:07)
+- sKetchooDles (director, editor)
+---
+Flash: '[S] Ride : Reanimated'
+Directory: ride-reanimated
+Date: April 1, 2020
+Cover Art File Extension: png
+Featured Tracks:
+- Pony Chorale
+URLs:
+- https://www.youtube.com/watch?v=qDOWrTSTU-g
+Contributors:
+- Shadok (0:15)
+- YoItsCro (0:34, background art, editing)
+- Vulcan (0:49)
+- Dagmar (1:03)
+---
+Flash: 'Homestuck: Collide Reanimated'
+Directory: homestuck-collide-reanimated
+Date: April 14, 2020
+Cover Art File Extension: png
+Featured Tracks:
+- Creata (Canon Edit)
+- track:oppa-toby-style
+- Eternity, Served Cold (Canon Edit)
+- track:heir-of-grief-collide
+URLs:
+- https://www.youtube.com/watch?v=mdFdXOdfcrc
+Contributors:
+- jujube (0:13, 6:59, 12:10)
+- AnuraInertia (0:40, 10:01)
+- mint (0:58, 8:54)
+- AE (1:07, 7:43, 15:32)
+- Zavoa (1:15)
+- EddisTired (1:24)
+- Steeb (1:33, 12:34)
+- Mr Tsuyo (1:40, 3:25, 17:00)
+- kirilldraws (1:48)
+- Opra Zebb (1:56)
+- Coqueiro Lendário (2:06, 8:38)
+- oisteal (2:26)
+- lemonzestdoodle (2:32, 3:50 editing)
+- Fionapollo (2:38, 10:21)
+- PeanutSnuffle (2:43, 9:18)
+- Gibbontake (2:48, 7:22, 12:27)
+- MEBI96862134 (2:55, 3:18)
+- cru3LJule (3:00, 5:43)
+- gnach (3:07, 4:53, 5:35)
+- cookieheylookie (3:14, 16:13)
+- Uncle Cucky (3:31, 6:01)
+- soonbesoon (3:39, 11:09, 15:24, 15:38)
+- Skrapple (3:44, 4:06)
+- NPC ARTS (3:50)
+- WHIMZ33DOTCOM (3:55)
+- Mobius Wings (4:01, 6:47, 13:10, 16:44)
+- Maidofsalt (4:13)
+- The_Zap_Bug (4:20)
+- Haki (4:24, 14:30)
+- KitCatCandy456 (4:30, 10:46, 15:52 editing)
+- Chesswanderlust-sama (4:36, 5:52 BGs, 6:24, 10:08, 11:16, 13:12, 13:28, 14:04, 14:59)
+- Fig's Oliomedley (4:41, 5:52, 15:18)
+- problemsfan413 (4:58, 12:59)
+- Pal_Arts (5:03, 9:03)
+- razzberrysheep (5:09, 15:04)
+- Choco Rat (5:16)
+- TheCosmere64 (5:20, 14:52)
+- CyberSoulgem (5:25)
+- RennAztur (6:09, 16:50)
+- Eben Taylor (6:36, 7:05, 13:28 BGs, 14:22 BGs)
+- Chip Wiseman (6:53)
+- PercyTofu (7:11, 10:40)
+- aMOOSE (7:32)
+- sKetchooDles (8:06, 9:35, 9:48 BGs)
+- Skyplayer (8:21, 17:07)
+- Pildora Goblin (9:10, 13:06)
+- Marinaraimpasta (9:27, 13:42)
+- Skelletang (9:35, 9:48)
+- Susu2 (9:55)
+- MACFISH (10:33, 10:53, 12:02)
+- Shadok (10:57, 13:22)
+- Kittiebites (11:47, 13:18)
+- Gabriel The Starman (12:19, 13:16)
+- Azu Pan-Pan (12:42)
+- artist:isaac-reanimated (12:51)
+- Esther Pimentel (13:09)
+- Reviathan (13:15)
+- xTeacupx (13:20, 16:21)
+- helldoodler (13:26, 15:52)
+- SparrowArts (13:32)
+- Sturfall (13:38)
+- infini (13:50, 15:42)
+- YoItsCro (14:22)
+- MxFandomTrash (14:38)
+- ruillu (14:46, 16:00)
+- failed the turing test (15:12)
+- tastelessGelatin (16:08)
+- Dysine Jones (16:29)
+- Aesh (16:36)
+---
+Flash: '[s] Jade Enter | Reanimated Collab'
+#thanks to star-nomad for help with the credit urls!
+Directory: jade-enter-reanimated-collab
+Date: October 27, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- Umbral Ultimatum
+URLs:
+- https://www.youtube.com/watch?v=EAZ1id5IVWg
+Contributors:
+- ophi_chus (0:14)
+- allahrts (0:23, moderator, editor)
+- RazzlePizzazz (0:28, 0:52)
+- Kirkeyressa (0:33, 2:54, 3:10)
+- AndyCupte (0:33, 0:49)
+- Lobsterflaws (0:33, 2:20, 2:54)
+- Nsuprem (0:33, 0:54)
+- Dawn Nolace (0:39, 2:54)
+- Fruzmig (0:45)
+- star-nomad (0:58, moderator, editor)
+- ybKitten (1:10)
+- Mr Tsuyo (1:13)
+- wiz (1:18)
+- Fable Bae (1:23)
+- Kera Moondust (1:34)
+- MEBI96862134 (1:44, 2:54)
+- DemonDeity (1:54)
+- Kartostrophic (2:01, 2:54)
+- Shindazzled (2:10)
+- Jadarama713 (2:15)
+- ga5tro (2:29)
+- Esther Pimentel (2:37)
+- Eben Taylor (2:45)
+- Hermannco (2:50)
+- koboldomodo (3:02)
+- JayPasta (3:21)
+- Turtwigtrain (moderator, editor)
+---
+Flash: '[S] GAME OVER : REANIMATED'
+Directory: game-over-reanimated
+Date: October 28, 2020
+Cover Art File Extension: png
+Featured Tracks:
+- Carne Vale
+URLs:
+- https://www.youtube.com/watch?v=YDQkKaeWvIQ
+Contributors:
+- Skyplayer (0:00)
+- Shadok (0:06)
+- Skelletang (0:15)
+- Dagmar (0:27)
+- ghastaboo (0:29)
+- Rix (0:30)
+- Vulcan (0:32)
+- sleepyflowers_ (0:33)
+- star-nomad (0:35)
+- Calibratorg (0:36)
+- VIRTUALPETHELL (0:38)
+- Nsuprem (0:39)
+- JayPasta (0:42)
+- Smiles (0:49)
+- Zelpixel (0:57, 1:39)
+- beetlescrub (1:03)
+- Pusola (1:11)
+- Kim Quach (1:16)
+- Wonderet (1:21)
+- SarcasmProdigy (1:27)
+- Sake 906 (1:32)
+- cadaverkeys (1:45)
+- Eben Taylor (1:51, 2:26)
+- Hermannco (1:54, co-director)
+- Shindazzled (2:03)
+- Courtney Brendle (2:15)
+- ga5tro (2:26)
+- spidgeyart (2:32)
+- MEBI96862134 (2:38)
+- Esther Pimentel (2:44, co-director)
+- mincedmaet (2:50)
+- ybKitten (2:56)
+- YoItsCro (3:02, director)
+- Burdrehnar (3:09)
+- Marinaraimpasta (3:14)
+- Fey (3:20)
+- starrycosmos (3:28)
+- Beelily (3:35)
+- Hoodiex_ (3:38)
+- Rebecca Peason (3:45)
+- ConnorQuothe (3:50)
+- sKetchooDles (3:59, co-director, editing, composition, credits)
+- Fable Bae (4:19)
+---
+Flash: '[S] BEGIN INTERFISHIN : Reanimated'
+Directory: begin-interfishin-reanimated
+Date: April 2, 2021
+Cover Art File Extension: png
+Featured Tracks:
+- Elevatorstuck
+URLs:
+- https://www.youtube.com/watch?v=a80540_PXP0
+Contributors:
+- Zelpixel (Aranea)
+- Queuestuck (Feferi '#1')
+- Sollay (Feferi '#2')
+- Marinaraimpasta (Meenah)
+- JayPasta (Tavros)
+- RoseSheep (Sollux)
+- Jonaya Riley (editor, backgrounds, ui graphics)
+- YoItsCro (Aradia, Egbert, Cronus, Exposition Booth, Aradia Chime Shot, director)
 ---
 Flash: Synchrostuck
 Directory: synchrostuck
@@ -9098,6 +9522,54 @@ Contributors:
 - vinn (raver)
 - WellofHavoc (raver)
 - zilly (raver)
+---
+Act: Animations by bb-panzu
+Color: '#fc9003'
+---
+Flash: 'BAKE BONANZA'
+Directory: bake-bonanza
+Date: December 20, 2023
+Cover Art File Extension: png
+Featured Tracks:
+- Cyan Beast
+URLs:
+- https://www.youtube.com/watch?v=zLq8IPQVTkE
+Contributors:
+- bb-panzu (animation)
+Commentary: |-
+    <i>bb-panzu:</i> ([YouTube description](https://www.youtube.com/watch?v=zLq8IPQVTkE), excerpt)
+    UGHHH get whatever scraps are left on my patreon buhhhh
+
+    Based off the [Bombbastic Bake Bonanza Cosplay Panel from SAHCon](https://www.youtube.com/watch?v=1HFxdX2iq3c)
+---
+Flash: 'TOSTITOS & CHEETOS (ANIMATION)'
+Directory: tostitos-and-cheetos-animation
+Date: July 31, 2024
+Cover Art File Extension: png
+Featured Tracks:
+- Road Again
+URLs:
+- https://www.youtube.com/watch?v=Lws7pT7xYzE
+Contributors:
+- bb-panzu (animation)
+- ViperViché (rose va)
+- Rogan Bowman (cleanup animator)
+Commentary: |-
+    <i>bb-panzu:</i> ([YouTube description](https://www.youtube.com/watch?v=Lws7pT7xYzE), excerpt)
+    The SEQUEL to the Doritos & Fritos animation i made. Yeaaahh it's a lil ongoing story eyy ;P. More to come, shits pretty fire, i don't think i ever wanna touch blender like this again.
+---
+Flash: 'SPIT IT OUT - Animated Music Video'
+Directory: spit-it-out-animated-music-video
+Date: June 22, 2025
+Cover Art File Extension: png
+Featured Tracks:
+- Spit It Out
+URLs:
+- https://www.youtube.com/watch?v=13EPS_FkMoI
+Contributors:
+- bb-panzu (animation)
+- Cynthia Rocha (backgrounds artist)
+- hal9000fanboy (dirk illustration)
 ---
 Act: Animations by BUGFlower413
 Color: '#fc9003'

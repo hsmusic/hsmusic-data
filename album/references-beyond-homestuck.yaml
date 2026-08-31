@@ -770,6 +770,14 @@ Commentary: |-
 
     From delisted hrmnzr album "Rainbow Tip". The vocal credit here is via [Discogs](https://www.discogs.com/release/3970187-hrmnzr-Rainbow-Tip).
 ---
+Track: Interlude
+Suffix Directory: machina-solis
+Always Reference By Directory: true
+Artists:
+- Machina Solis
+- Circlejourney
+- SerialSymphony
+---
 Track: It Really Doesn't Matter
 Directory: it-really-doesnt-matter-original
 Always Reference By Directory: true
@@ -1292,6 +1300,13 @@ Commentary: |-
 
     (Also the name was inspired by Bravely Default because that's what makes it a true JRPG song.)
 ---
+Track: pianpian
+Artists:
+- Toby Fox
+Duration: 0:41
+URLs:
+- https://www.youtube.com/watch?v=_aVeVBPeYAc
+---
 Track: Production Line of the Holy Clown
 Artists:
 - Gryotharian
@@ -1752,6 +1767,19 @@ Artists:
 Duration: 3:06
 URLs:
 - https://gryotharian.bandcamp.com/track/your-fear-is-on-my-mind-instrumental
+---
+Track: 雪中的回忆
+Directory: xue-zhong-de-huiyi
+Duration: 3:23
+Artists:
+- Circlejourney
+URLs:
+- https://circlejourney.net/music/intro/#memories-in-the-snow
+Commentary: |-
+    <i>Circlejourney:</i> ([Website commentary](https://circlejourney.net/music/intro/#memories-in-the-snow))
+    That year, I also got to do a course in songwriting with my school, and this was the song that I made as my "final project" for it; it's also the oldest surviving recording of my singing, I think. It was my first time getting to use a proper DAW (Garageband) and I was addicted to the instruments.
+
+    The lyrics are translated from the English version, Memories in the Snow. The translation was a collaborative project with my friends. It was entered in a national songwriting competition (not by my choice) and won a few awards including 1st for lyrics and 1st for songwriting.
 ---
 Section: Music from video games
 ---
@@ -2561,6 +2589,17 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/9ddf8479-2990-417f-a6a6-090843f7cd25
 - https://www.youtube.com/watch?v=kBlN_M_EMW8
 ---
+Track: Bonus Game
+Suffix Directory: lego-racers-2
+Always Reference By Directory: true
+# Has no official release as far as i can tell
+Artists:
+- LEGO Racers
+- Steve Maloney
+Duration: 4:53
+URLs:
+- https://www.youtube.com/watch?v=HH-PPX2s7dU
+---
 Track: Bonus Room Blitz
 # Reference:
 #   https://vgmdb.net/album/429
@@ -2995,6 +3034,19 @@ Commentary: |-
     Crediting info for specific tracks from Toontown Online is generally unknown. [[artist:jamie-christopherson]] contributed, but also spoke in [a 2022 interview](https://www.youtube.com/watch?v=vDCIzSmgniA&t=505s) ([via Wikipedia](https://en.wikipedia.org/wiki/Jamie_Christopherson) lol):
 
     > I was brought in a little later to that project, and there was probably at least seven, eight, maybe ten other composers involved with that. And so people are trying to pick out, who did what, y'know. I was just one of the composers on that. Yeah, I did a bunch of music, but I don't even remember which ones anymore - it's so long ago. (laughs)
+---
+Track: Continue?
+Suffix Directory: felix-the-cat
+Always Reference By Directory: true
+# Bootleg game, no official soundtrack release
+Artists:
+- Felix The Cat
+- Unknown Artist
+#- Augusto Ruiz?
+#I have NO idea where the hell the name Augusto Ruiz came from. Siiva uses it all the time. Will need to look into it
+Duration: 0:13
+URLs:
+- https://www.youtube.com/watch?v=mNY_WxAXe2s
 ---
 Track: Cool Morning
 # Official release:
@@ -4057,6 +4109,16 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/30c377c5-dda7-4801-925b-5b146c53f6ab
 - https://www.youtube.com/watch?v=8fMeA1V0_nc
 ---
+Track: GAME OVER YEAH! -SS Ver.-
+# Reference:
+#   https://vgmdb.net/album/142750
+Artists:
+- Sega Rally Championship
+- Takenobu Mitsuyoshi
+Duration: 0:08
+URLs:
+- https://www.youtube.com/watch?v=p_7H1PhF9F4
+---
 Track: Game Start (Donkey Kong)
 # Reference:
 #   https://vgmdb.net/product/10348
@@ -4157,6 +4219,19 @@ Artists:
 Duration: 4:32
 URLs:
 - https://nigoro.bandcamp.com/track/giants-cry-2
+---
+Track: Ginger Island
+# Original release:
+#   Stardew Valley 1.5 Original Soundtrack
+# Reference:
+#   https://vgmdb.net/album/107640
+Artists:
+- Stardew Valley
+- ConcernedApe
+Duration: 2:40
+URLs:
+- https://concernedape.bandcamp.com/track/ginger-island
+- https://www.youtube.com/watch?v=16raNPNRbMw
 ---
 Track: Glide (Map 1)
 # Reference:
@@ -4512,6 +4587,31 @@ Artists:
 Duration: 1:47
 URLs:
 - https://www.youtube.com/watch?v=JzzJwrIN6Mc
+---
+Track: Hard Time Theme Song
+# Has no official release as far as i can tell
+Artists:
+- Hard Time
+- MDickie
+Duration: 1:14
+URLs:
+- https://www.youtube.com/watch?v=tnBBh0C-OFM
+Lyrics: |-
+    Woohoo
+    Everything is gonna be alright
+    Woohoo
+    Said everything is gonna be alright
+    Uh huh, woohoo
+
+    Woohoo
+    Everything is gonna be alright
+    Woohoo
+    Said everything is gonna be alright
+    Uh huh huh
+    Woah-hoah
+
+    Whey, hey, hey, aye, yeah
+    Uh huh
 ---
 Track: Haremar Faith Capoeira School - Song of the Fight [Believers Will Be Saved] (Richard Meyer's Theme)
 # Reference:
@@ -5088,6 +5188,18 @@ Artists: ##composer unknown
 Duration: 2:47
 URLs:
 - https://www.youtube.com/watch?v=vkrKJyXJUZM
+---
+Track: Level 1 Theme
+Suffix Directory: sack-of-flour-heart-of-gold
+Always Reference By Directory: true
+# Has no official release as far as i can tell
+Artists:
+- Sack of Flour, Heart of Gold
+- Mark Hall
+Duration: 0:31
+URLs:
+- https://www.youtube.com/watch?v=4fyiT77Jhnk
+#link is just gameplay recording, can't find any better unaltered rip of the ost
 ---
 Track: Library Piano
 Artists: ##Chad York, Darren Radtke, and Mike Peacock are credited for Music Composition in Luigi's Mansion: Dark Moon. It is unknown who did this track.
@@ -7850,6 +7962,41 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/e51d34a3-6281-4f95-9436-7cfb5215ba34
 - https://www.youtube.com/watch?v=XA6xrfUb06E
 ---
+Track: Yearn to Bloom - Aeldra's Theme
+# Original release:
+#   Ikenfell Original Game Soundtrack
+# Reference:
+#   https://vgmdb.net/album/104763
+Artists:
+- Ikenfell
+- aivi & surasshu
+- Adriana Figueroa
+Duration: 2:40
+URLs:
+- https://www.youtube.com/watch?v=8FfC7YkrLCY
+Lyrics: |-
+    Once I knew a little girl
+    She grew gardens out of hope she'd leave a legacy
+    Of prosperity
+    For her world
+
+    Though she yearned to be in bloom
+    Endless winter turned her brilliant hopes and fantasies
+    Into tragedies
+    Carved their tombs
+
+    Trapped eternally in pain
+    Now she calls out for the phantoms that she failed to save
+    Weeps unto their graves
+    Mourns in vain
+
+    Foolish plans came at a cost
+    Now each day that passes on, she wilts, she still rеgrets
+    And she can't forget
+    Yеs I still regret
+    But I can't forget
+    I am lost
+---
 Track: You Lost (F-ZERO)
 Artists:
 - F-ZERO
@@ -9365,7 +9512,7 @@ Artists:
 - Steven Universe
 - Rebecca Sugar
 - Aimee Mann
-- Aivi & Surasshu
+- aivi & surasshu
 Contributors:
 - Sarah Stiles (vocals)
 Duration: 3:13
@@ -9977,7 +10124,7 @@ Track: Haven't You Noticed (I'm A Star)
 Artists:
 - Steven Universe
 - Rebecca Sugar
-- Aivi & Surasshu (arrangement)
+- aivi & surasshu (arrangement)
 Contributors:
 - Olivia Olson (vocals)
 - Stemage
@@ -10512,7 +10659,7 @@ Track: Lapis Lazuli
 Artists:
 - Steven Universe
 - Hellen Jo
-- Aivi & Surasshu (arrangement)
+- aivi & surasshu (arrangement)
 Contributors:
 - Zach Callison (vocals)
 - Stemage (guitar)
@@ -11841,6 +11988,14 @@ Lyrics: |-
    Step inside, it's a wilder ride
    Come on, ride on the Magic School Bus
 ---
+Track: Rock Shop
+Artists:
+- RoboCop
+- Basil Poledouris
+Duration: 3:46
+URLs:
+- https://www.youtube.com/watch?v=igtYHqy3-8g
+---
 Track: Rose's Death
 Artists:
 - Cocoon
@@ -12609,7 +12764,7 @@ Track: Stronger Than You
 Artists:
 - Steven Universe
 - Rebecca Sugar
-- Aivi & Surasshu (arrangement)
+- aivi & surasshu (arrangement)
 Contributors:
 - Estelle Swaray (vocals)
 Duration: 2:52
@@ -13151,7 +13306,7 @@ Track: We Are The Crystal Gems
 Artists:
 - Steven Universe
 - Rebecca Sugar
-- Aivi & Surasshu
+- aivi & surasshu
 Contributors:
 - Zach Callison (vocals)
 - Deedee Magno-Hall (vocals)
@@ -13266,7 +13421,7 @@ Track: What's the Use of Feeling (Blue)?
 Artists:
 - Steven Universe
 - Rebecca Sugar
-- Aivi & Surasshu (arrangement)
+- aivi & surasshu (arrangement)
 Contributors:
 - Patti LuPone (vocals)
 - Deedee Magno-Hall (vocals)
@@ -15173,6 +15328,87 @@ Artists:
 - Edvard Grieg
 URLs:
 - https://www.youtube.com/watch?v=kLp_Hh6DKWc
+---
+Track: Ja, vi elsker dette landet
+Artists:
+- Rikard Nordraak (music)
+- Bjørnstjerne Bjørnson (lyrics)
+URLs:
+- https://www.youtube.com/watch?v=nLjIyL4gWtg
+Lyrics: |-
+    Ja, vi elsker dette landet
+    Som det stiger frem
+    Furet, værbitt over vannet
+    Med de tusen hjem
+    Elsker, elsker det og tenker
+    På vår far og mor
+    Og den saganatt som senker
+    Drømmer på vår jord
+    Og den saganatt som senker
+    Senker drømmer på vår jord
+
+    Dette landet Harald berget
+    Med sin kjemperad
+    Dette landet Håkon verget
+    Medens Øyvind kvad
+    Olav på det landet malte
+    Korset med sitt blod
+    Fra dets høye Sverre talte
+    Roma midt imot
+
+    Bønder sine økser brynte
+    Hvor en hær dro frem
+    Tordenskjold langs kysten lynte
+    Så den lystes hjem
+    Kvinner selv stod opp og strede
+    Som de vare menn
+    Andre kunne bare grede
+    Men det kom igjen
+
+    Visstnok var vi ikke mange
+    Men vi strakk dog til
+    Da vi prøvdes noen gange
+    Og det stod på spill
+    Ti vi heller landet brente
+    Enn det kom til fall
+    Husker bare hva som hendte
+    Ned på Fredrikshald
+
+    Hårde tider har vi døyet
+    Ble til sist forstøtt
+    Men i verste nød blåøyet
+    Frihet ble oss født
+    Det gav faderkraft å bære
+    Hungersnød og krig
+    Det gav døden selv sin ære
+    Og det gav forlik
+
+    Fienden sitt våpen kastet
+    Opp visiret fór
+    Vi med undren mot ham hastet
+    Ti han var vår bror
+    Drevne frem på stand av skammen
+    Gikk vi søderpå
+    Nå vi står tre brødre sammen
+    Og skal sådan stå
+
+    Norske mann i hus og hytte
+    Takk din store Gud
+    Landet ville han beskytte
+    Skjønt det mørkt så ut
+    Alt, hva fedrene har kjempet
+    Mødrene har grett
+    Har den Herre stille lempet
+    Så vi vant vår rett
+
+    Ja, vi elsker dette landet
+    Som det stiger frem
+    Furet, værbitt over vannet
+    Med de tusen hjem
+    Og som fedres kamp har hevet
+    Det av nød til seir
+    Også vi, når det blir krevet
+    For dets fred slår leir
 ---
 Track: Johnny Fill Up the Bowl
 Artists:
@@ -17526,6 +17762,73 @@ Commentary: |-
 
     Details for this track, including name and duration, are from its release on [Lovelight](https://vgmdb.net/album/5827), but it's most known for backing [【東方】Bad Apple!! ＰＶ【影絵】](https://www.youtube.com/watch?v=FtutLA63Cp8).
 ---
+Track: Bad to the Bone
+Artists:
+- George Thorogood & The Destroyers
+Duration: 4:50
+URLs:
+- https://www.youtube.com/watch?v=nqgUG_JVzCs
+Lyrics: |-
+    Now, on the day I was born
+    The nurses all gathered 'round
+    And they gazed in wide wonder
+    At the joy they had found
+    The head nurse spoke up
+    Said, "Leave this one alone"
+    She could tell right away
+    That I was bad to the bone
+
+    Bad to the bone
+    Bad to the bone
+    B-b-b-b-b-b-b-bad
+    B-b-b-b-b-b-b-bad
+    B-b-b-b-b-b-b-bad
+    Bad to the bone
+
+    I broke a thousand hearts
+    Before I met you
+    I'll break a thousand more, baby
+    Before I am through
+    I wanna be yours, pretty baby
+    Yours and yours alone
+    I'm here to tell ya, honey
+    That I'm bad to the bone
+
+    Bad to the bone
+    B-b-b-b-b-b-b-bad
+    B-b-b-b-b-b-b-bad
+    B-b-b-b-b-b-b-bad
+    Bad to the bone
+
+    I make a rich woman beg
+    And I make a good woman steal
+    I make an old woman blush
+    And I make a young girl squeal
+    I wanna be yours, pretty baby
+    Yours and yours alone
+    I'm here to tell ya, honey
+    That I'm bad to the bone
+
+    B-b-b-b-b-b-b-bad
+    B-b-b-b-b-b-b-bad
+    B-b-b-b-b-b-bad
+    Bad to the bone
+
+    Now when I walk the streets
+    Kings and queens step aside
+    Every woman I meet, heh-heh
+    They all stay satisfied
+    I wanna tell ya, pretty baby
+    What I see, I make my own
+    And I'm here to tell ya, honey
+    That I'm bad to the bone
+
+    Bad to the bone
+    B-b-b-b-b-b-b-bad
+    B-b-b-b-b-b-bad
+    B-b-b-b-b-b-bad
+    Woo, bad to the bone
+---
 Track: Badgers
 Directory: badgers-mrweebl
 Always Reference By Directory: true
@@ -19277,6 +19580,75 @@ Lyrics: |-
     Oh oh ohhhh
     Oh oh ohhhh
     Oh oh ohhhh
+---
+Track: The Bone Zone
+Duration: 3:28
+Artists:
+- Vargskelethor Joel
+URLs:
+- https://www.youtube.com/watch?v=GeOxhizuJiM
+Lyrics: |-
+    When the witching hour draws near
+    And the bones are rattling in their tombs
+    You might fall into the
+    Into the zone
+
+    Welcome to this stupid place
+    Say goodbye to your fleshy face
+    Ented a domain of bones
+    The spookiest of all zones
+
+    How did I end up here anyway?
+    I was just looking for a sandwich, what the hell?
+
+    This place sucks
+    Get me out
+    Get me out of the
+    Bone Zone
+    Welcome to the skeleton domain
+    The place and home of all pleasure and pain
+
+    Where's the bathroom?
+    This place blows.
+    Into the
+
+    Welcome to the Bone Zone
+    With skeletons I'm left alone
+    I was just looking for a meal tonight
+    But now they want my flesh to bite
+
+    This place blows major boner
+    Bad puns.
+
+    Cackling with no skin
+    The ritual shalt begin
+    Skeletons drinking beer
+    They're coming for my rear
+
+    They won't ask me twice
+    If I like playing beer dice
+    Stuck down in the zone
+    Somebody please give me my fucking phone
+
+    Turns out the "Bone Zone" really just is a skeleton bar
+    Drinks for everybody, except the human!
+    Hey what the fuck man? I want some too, woah hey.
+    What the fuck?!
+
+    This place sucks
+    Get me out
+    Get me out of the
+    Bone Zone
+    Get me out
+    Get me out
+    Get me out of this place
+    Pleasure and pain
+    Welcome to the skeleton domain
+    Bone Zone
+
+    You know what guys, you suck. I found my phone, I'll call a cab, fuck off skeletons, bye.
+
+    Ah, damn it I forgot my coat.
 ---
 Track: Bonfire
 Directory: bonfire-childish-gambino
@@ -24187,6 +24559,82 @@ Lyrics: |-
     'Cause I have seen many worlds, for what it's worth
     But I'll never see again the planet Earth, my Earth
 ---
+Track: Earth Boiling Dystopia
+Duration: 8:48
+Artists:
+- Scythelord
+URLs:
+- https://www.youtube.com/watch?v=_LbuOAr1TjY
+Lyrics: |-
+    Nihilism a marque fashion statement
+    Zeitgeist, come electric christ
+    Eat the corpse of revolution
+    Let us die together in surrounding devolution
+    Hold the hammer, and down the spikes
+    Into the funerary box of humanistic rites
+    You want a future worth fighting for?
+    Your words mean nothing
+    When hyperbole once meant something
+
+    I spit on the kind that cannot think
+    Individuality, preached the collective
+    I'd laugh if it wasn't so real
+    Oh we cry without a voice
+    But I now see better than еver
+    Blood in the streets, fire in thе sky
+    How much is it worth to justify
+
+    A fresh new liberty
+    Finances this dogmatic ideology
+    Resist, the meaning can never persist
+
+    Is this the ideal future you instill?
+    Breaking my mind and bending our will
+    I'm one step now closer to
+
+    The sky is falling
+    Systems are calling
+    Let me unravel the techno-phobia
+    Into earth boiling dystopia
+
+    Behold the great heart of alexander
+    But inside there's nothing left but a whimper
+    Talk in codes, complacent desire
+    Make the skeptics want to retire
+    Utopia, dystopia, I just cannot wait
+    For this world to immolate
+
+    Too much of the premium
+    Nourished into delirium
+    A reality stranger than fiction
+
+    Vomit theocracy steadily worldwide
+    The invisible war leaves me horrified
+    So under their guns, I'll crawl to the hill
+    As they'll force me to stand up and kill
+    But the earth stood ablaze for the city of Troy
+    Human nature is set to build and destroy
+
+    Is this the ideal future you instill?
+    Breaking my mind and bending our will
+    We're one step now closer to
+
+    The sky is falling
+    Systems are calling
+    Let me unravel the techno-phobia
+    Into earth boiling dystopia
+
+    Its only perspective I try to rationalize
+    But even the air we now seem to ostracize
+    History repeats reads upon stone marble
+    But only in contrasts, we shape this vicious circle
+    For an oasis, we'll speak no patience
+
+    Harmony cannot stand on fear
+    As fire now burns the atmosphere
+    Oh come rebirth let it wash away
+    We're one step closer to a better day
+---
 Track: Echobo
 Duration: 3:13
 Artists:
@@ -26036,6 +26484,55 @@ Lyrics: |-
     Part of me
     Oh
 ---
+Track: fren
+Suffix Directory: hot-dad
+Always Reference By Directory: true
+Duration: 1:46
+Artists:
+- Hot Dad
+Contributors:
+- Vargskelethor Joel (guitar solo)
+URLs:
+- https://www.youtube.com/watch?v=s3MF-c6r4I8
+Lyrics: |-
+    It's Fren, he's so much fun
+    In the Fren zone with everyone
+    Eating sandwiches and going to space
+    Best Fren of the human race
+
+    Wrestling, fighting demons too
+    Just doing what he's born to do
+    Vibing hard, cool facial hair
+    He's a gamer, Fren's never scared
+
+    Hanging out with Fren
+    Takin' naps with Fren
+    With Fren, good times never end
+
+    I love Fren
+    You love Fren
+    We love Fren
+    Fren is a friend
+
+    My best Fren
+    Your best Fren
+    A super Fren
+    Fren is our friend
+
+    Fren, Fren, Fren, Fren
+
+    I love Fren
+    You love Fren
+    We love Fren
+    Fren is a friend
+
+    My best Fren
+    Your best Fren
+    A super Fren
+    Fren is our friend
+
+    Fren
+---
 Track: Friday
 Directory: friday-rebecca-black
 Always Reference By Directory: true
@@ -26993,6 +27490,85 @@ Lyrics: |-
     Tell me why are we so blind to see
     That the ones we hurt are you and me?
 ---
+Track: GAY
+Directory: gay-kawai-sprite
+Always Reference By Directory: true
+Artists:
+- Kawai Sprite
+Duration: 1:55
+URLs:
+- https://www.youtube.com/watch?v=1aNMFgU_X3I
+Lyrics:
+    This song goes out to my parents
+    I love you mom (Yo)
+    I love you dad (Yo)
+    Check it
+
+    Spaghetti I gargle
+    I got balls on my nostrils
+    I’m real gay yeah I said it I fuck dudes everyday
+    DMX in the closet
+    I fuck cute boys and I like it
+    You need a lozenge hoe?
+    Here’s a quick dose
+    You a straight O
+
+    The scoreboard looking pretty slant
+    Like a clam
+    I don’t eat it doe
+    I only like burritos
+    I get more cock than a KFC restaurant
+    I got chains on my neck like it’s Kingdom Hearts
+
+    I like it floppy and sloppy
+    Boy give me top while he in cosplay
+    Eating wieners all day like July fourth
+    I’m a man whore, I like licking dick but eating ass more
+    You a pretty twink let me take you to my house yo
+
+    Bums bums the bums and ding dongs
+    I like big man butts, fuck girls, girls are gross
+
+    Fuck girls
+    All my homies hate girls
+    All my homies are gay
+    We fuck each other everyday
+
+    Ay, breathe if you're gay
+    Ay, blink if you're gay
+    Ay, breathe if you're gay
+    Blink if you're gay
+
+    If you're super gay then clap your ass cheeks
+    Clap your ass cheeks, clap your ass cheeks
+    If you think you're gay then wink your butt hole
+
+    I’m a merman
+    Got a perm, and a sherm man
+    I smoke weed then I fuck dudes, yeah dude
+    Smoking penis and pounding I’m not frowning
+    Turn this lil' bitch into a Pomeranian
+    Getting brain again
+    Out of this world like an alien
+    Fucking man butts till my dick gets inflate again
+
+    Fuck girls
+    All my homies hate girls
+    All my homies are gay
+    Wouldn't have it any other way
+    Gay
+
+    Did you just hear that fucking shit
+    God damn
+    That’s so fucking hard
+    Oh
+    Ay, oh
+    Ay, oh
+    Ay, oh
+
+    Thank you for listening to my song
+    I hope you liked it-
+---
 Track: Gentleman
 Directory: gentleman-psy
 Always Reference By Directory: true
@@ -27266,6 +27842,127 @@ Lyrics: |-
     Movin' up and down, dancin' on the ground
     Feelin' kinda free, security
     House is the sound, that moves you from the ground
+---
+Track: Gett Off
+Artists:
+- Prince Rogers Nelson
+Duration: 4:00
+URLs:
+- https://www.youtube.com/watch?v=GA3dV_McWxE
+Lyrics: |-
+    Club Mix
+    Club Mix
+
+    How can I put this in a way so as not to offend or unnerve?
+    There's a rumor goin' all around that you ain't been gettin' served
+    They say that you ain't you know what
+    In, baby, who knows how long
+    It's hard for me to say what's right
+    When all I wanna do is wrong
+
+    Get off
+    Twenty-three positions in a one-night stand
+    Get off
+    I'll only call you after if you say I can
+    Get off
+    Let a woman be a woman and a man be a man
+    Get off
+    If you want to, baby, here I am
+    Here I am
+
+    I clocked the jizz from a friend
+    Of yours named Vanessa Bet (Bet)
+    She said you told her a fantasy
+    That got her all wet (Wet)
+    Something about a little box with a
+    Mirror and a tongue inside
+    What she told me then got me so hot
+    I knew that we could slide
+
+    Get off
+    Twenty-three positions in a one-night stand
+    Get off
+    I'll only call you after if you say I can
+    Get off
+    Let a woman be a woman and a man be a man
+    Get off
+    If you want to, baby, here I am
+    Here I am
+    Get off
+
+    One, two, three, nah, little cutie, I ain't drinkin' (Get off)
+    Scope this, I was just thinkin'
+    You plus me, what a ride
+    If you was thinkin' the same
+    We could continue outside (Get off)
+    Lay your pretty body against a parkin' meter
+    Strip your dress down
+    Like I was strippin' a Peter Paul's Almond Joy
+    Let me show you, baby, I'm a talented boy
+
+    (Everybody, grab a body
+    Pump it like you want somebody
+    Get off (Get off))
+
+    So here we-so here we-so here we are, here we are (G-G-Get off)
+    In my paisley crib
+    Whatcha want to eat? ("Ribs")
+    Don't toy, I don't serve ribs...
+    You better be happy that dress is still on
+    I heard the rip when you sat down
+    Honey, them hips is gone
+    But that's all right, I clock 'em that way
+    Remind me of something James used to say...
+    "I like 'em fat"
+    "I like 'em proud"
+    "Ya gotta have a mother for me"
+    Now move your big ass 'round this way
+    So I can work on that zipper, baby
+    Tonight, you're a star
+    And I'm the big dipper
+    (Kick it)
+    (Gett off)
+    (Gett off)
+    (Gett off)
+
+    How can I put this in a way so as not to offend or unnerve? (Get off)
+    There's a rumor going all around that you ain't been getting served (Get off)
+    They say that you ain't you know what
+    In, baby, who knows how long (Get off)
+    It's hard for me to say what's right
+    When all I wanna do is wrong
+
+    Get off
+    Twenty-three positions in a one-night stand
+    Get off
+    I'll only call you after if you say I can
+    Get off
+    Let a woman be a woman and a man be a man
+    Get off
+    If you want to, baby, here I am
+    Come on
+
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
+    (Get off)
 ---
 Track: GHOST
 Artists:
@@ -37438,6 +38135,62 @@ URLs:
 - https://open.spotify.com/track/6QnL8A6cIDFHXEdqEaHfrm
 # Lyrivd. I nrnron- engglish. Oh gmb j not on the wiki yet.
 ---
+Track: On the Wing
+Artists:
+- Owl City
+Duration: 5:05
+URLs:
+- https://www.youtube.com/watch?v=zO7UN2q3WjA
+Lyrics: |-
+    Breathe and I'll carry you away into the velvet sky
+    And we'll stir the stars around
+    And watch them fall away into the Hudson Bay
+    And plummet out of sight and sound
+    The open summer breeze will sweep you through the hills
+    Where I live in the alpine heights
+    Below the Northern Lights, I spend my coldest nights
+    Alone, awake and thinking of
+    The weekend we were in love
+    (The weekend we were in love)
+
+    Home among these mountain tops can be so awfully dull
+    A thousand miles from the tide
+    But photos on the walls of New York shopping malls
+    Distract me so I stay inside
+    I wish the rockets stayed over the promenade
+    'Cause I would make a hook and eye
+    And fish them from the sky, my darling, she and I
+    We're hanging on so take us high
+    To sing the world goodbye
+
+    I am floating away
+    Lost in a silent ballet
+    I'm dreaming you're out in the blue and I am right beside you
+    Awake to take in the view
+    Late nights and early parades
+    Still photos and noisy arcades
+    My darling, we're both on the wing
+    Look down and keep on singing
+    And we can go anywhere
+
+    Are you there? (Are you there? Are you there? Are you there?)
+    Are you there? (Are you there? Are you there? Are you there?)
+    Or are you just a decoy dream in my head? (Are you there? Are you there?)
+    Am I home or am I simply tumbling all alone?
+
+    I am floating away (floating away)
+    Lost in a silent ballet (a silent ballet)
+    I'm dreaming you're out in the blue and I am right beside you
+    Awake to take in the view
+    Late nights and early parades (early parades)
+    Still photos and noisy arcades (noisy arcades)
+    My darling, we're both on the wing
+    Look down and keep on singing
+    And we can go anywhere
+
+    Are you there? (Are you there? Are you there? Are you there?)
+    Are you there? (Are you there? Are you there? Are you there?)
+---
 Track: One
 Directory: one-level
 Always Reference By Directory: true
@@ -37780,6 +38533,37 @@ Artists:
 URLs:
 - https://boardsofcanada.bandcamp.com/track/opening-the-mouth
 - https://www.youtube.com/watch?v=4TR2IWLvzP4
+---
+Track: Our Generation
+Artists:
+- Sliimy
+Duration: 03:33
+URLs:
+- https://www.youtube.com/watch?v=PPi6Q9qCU1I
+Lyrics: |-
+    We don't want bla bla please
+    We want to be respected
+    We want to walk in peace
+    We want each other to be ok
+    We want to drink, have sex
+    And we only talk on MySpace
+    But go and change think of Facebook that's great
+    Go go bitch oh my fucking God!
+    I swear, we want an iPhone please cause' Carrie Broadshaw touched one
+    We want a Woodstock please with real hippies not fake
+    As Amy said: "we are all going back to black."
+
+    Our generation
+    We want to scream but without words it's so hard to be heard
+    Our generation
+    We want to scream but without words it's so hard to be heard
+
+    We want to find a place
+    And wanna dance until death
+    We want a Starbucks please
+    We want Kate Moss as twin
+    We want Jimmy with Chris without judgement that's it
+    It's just a heart heart beat they're gay they're not shit
 ---
 Track: out of cbd
 Artists:
@@ -38292,6 +39076,83 @@ Lyrics: |-
     Where he at? Where he at? Where he at? Where he at?
     Now there he go, there he go, there he go, there he go
 ---
+Track: PENUMBRA PHANTASM
+Directory: penumbra-phantasm-v1-surreal
+Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    PENUMBRA PHANTASM | DELTARUNE Chapter 7 UST (Fan-made DELTARUNE Final Boss Theme)
+  Annotation: >-
+    [YouTube title](https://www.youtube.com/watch?v=nc5oebW96no)
+Artists:
+- surreal
+Duration: 4:13
+Referenced Tracks:
+- Penumbra Phantasm
+- track:doctor
+- THE HOLY
+- Don't Forget
+- ANOTHER HIM
+- The Legend
+- Fountain (unused)
+- Gaster's Theme
+- Once Upon a Time
+Sampled Tracks:
+- Amen, Brother
+URLs:
+- https://soundcloud.com/surreal012/penumbra-phantasm
+- https://www.youtube.com/watch?v=nc5oebW96no
+Commentary: |-
+    <i>surreal:</i> ([YouTube description](https://www.youtube.com/watch?v=nc5oebW96no), excerpt)
+    ＡＴ ＂ＳＨＡＤＯＷ＇Ｓ ＥＤＧＥ，＂<br>
+    ＳＨＡＴＴＥＲ ＴＨＥ ＴＷＩＬＩＧＨＴ ＲＥＶＥＲＩＥ｡
+
+    ===========================================================
+
+    This does not replace FATE of The World, it's more-so a second phase of that battle.
+
+    I've spent 25 hours, 38 minutes on this, and with over 14400 notes... I hope you enjoy!
+
+    Now if you excuse me, I have some sleeping/reading homestuck to do...
+
+    P.S: The song was supposed to be 4:13 in length, but it appears youtube decided against that...
+
+    Video made with FL Studio ZGame Visualizer
+
+    Soundfonts/VSTs/Samples used:<br>
+    Chrono Trigger<br>
+    SGM<br>
+    3xOsc<br>
+    Kirby Super Star<br>
+    Amen Break<br>
+    Squidfont Orchestral<br>
+    ultimate guitar kit 2<br>
+    THFont<br>
+    Secret of Mana<br>
+    Papelmedia_Irina_Brochin<br>
+    GoldDrums<br>
+    1276-The_KiKaZ_DrUmZ<br>
+    Florestan Ahh Choir
+Referencing Sources: |-
+    <i>surreal:</i> ([YouTube description](https://www.youtube.com/watch?v=nc5oebW96no), excerpt)
+    Leitmotifs:<br>
+    [[track:penumbra-phantasm|Penumbra Phantasm]]<br>
+    [[Doctor]]<br>
+    [[THE HOLY]]<br>
+    [[Don't Forget]]<br>
+    [[ANOTHER HIM]]<br>
+    [[track:the-legend|The Legend]]<br>
+    [[track:fountain-unused|Fountain (Unused DELTARUNE Track)]]<br>
+    [[Gaster's Theme]]<br>
+    [[track:once-upon-a-time|Once Upon A Time]]<br>
+Crediting Sources: |-
+    <i>surreal:</i> ([YouTube description](https://www.youtube.com/watch?v=nc5oebW96no), excerpt)
+    Music made by me in FL Studio 21
+    Visuals made by me in Aseprite and PDN
+
+    DELTARUNE by [[artist:toby-fox]]<br>
+    [[track:penumbra-phantasm]] by [[artist:toby-fox]]
+---
 Track: Personal Jesus
 Artists:
 - Depeche Mode
@@ -38447,6 +39308,36 @@ Lyrics: |-
     It's waitin' for you (This is your home, this is your home)
     Girl, it's true (Come to me)
     I do love you (Oh, my baby)
+---
+Track: Pineapples Do Not Belong on a Pizza
+Duration: 2:45
+Artists:
+- Vargskelethor Joel
+URLs:
+- https://www.youtube.com/watch?v=QXGTQUetjZc
+Lyrics: |-
+    There are things that do not belong
+    And I'll tell you with my song
+    Fruit on a pizza's out of place
+    If you like that, then I'll smash your face
+
+    Shit is gross
+    Makes me puke
+
+    Pineapple does not belong on a pizza!
+
+    Don't ruin the pizza
+    With a shitty fruit, pineapple
+    I'd rather eat a dick on a pizza!
+
+    Pineapples on a pizza, eugh!
+    Pineapples on a pizza, ueargh!
+    Pineapples on a pizza!?
+    Put this on your pizza
+
+    Pineapple can fuck right off
+    Why do people eat this shit?
+    Shit's gross, don't put it on a pizza
 ---
 Track: Pink Cigarette
 Artists:
@@ -40321,6 +41212,102 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=1ZQ-gZyuJqA
 ---
+Track: Release the Beast
+Artists:
+- Breakwater
+Duration: 4:58
+URLs:
+- https://www.youtube.com/watch?v=5b0jWlPtP5o
+Lyrics:
+    Release!
+
+    How can you say you wanna sit there
+    With all this going on?
+    Just layin' back in your chair
+    Like you're not even here
+
+    Just give a little push (Push)
+    Go on and let yourself get loose
+    Gonna take the funky side of you
+    Gonna make your body move
+
+    Get up
+    Time to release the beast
+    Get up
+    Get up
+    Time to release the beast
+    Get up
+
+    Time is right for you tonight
+    To get down on the one
+    Everybody get in the groove
+    We're bound to have some fun
+
+    Give the girl a little pull (Pull)
+    Just get her on the floor
+    All we wanna do is jam for you
+    Gonna funk and rock some more
+
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+
+    Everybody get up
+    Everybody get up
+    Everybody get up
+
+    Release!
+
+    Music's got me wanting to say
+    Hey! Everybody get up
+    Don't you want to get up out your chair?
+    Music's got me wanting to say
+    Hey! Everybody get up
+
+    Everybody get up
+    Don't you want to get up out your chair?
+    Music's got me wanting to say
+    Hey! Everybody get up
+    Don't you want to get up out your chair?
+    Music's got me wanting to say
+    Hey! Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+    Time to release the beast
+    Get up
+    Everybody get up
+    Get up
+---
 Track: Replica
 Directory: replica-oneohtrix-point-never
 Always Reference By Directory: true
@@ -40547,6 +41534,45 @@ Artists:
 Duration: 4:58
 URLs:
 - https://www.youtube.com/watch?v=rDgacSTLP1s
+---
+Track: Robot Rock
+Artists:
+- Daft Punk
+Duration: 4:47
+Sampled Tracks:
+- Release the Beast
+URLs:
+- https://www.youtube.com/watch?v=HdeYwObD-j4
+Lyrics:
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
+    Rock, robot rock
 ---
 Track: Rock Lobster
 Artists:
@@ -41480,6 +42506,58 @@ Lyrics: |-
     We depend on you, we depend...
     I'll depend on you
 ---
+Track: Safe and Sound
+Artists:
+- Justice
+Duration: 5:50
+URLs:
+- https://www.youtube.com/watch?v=uXj8FM7lTrw
+Lyrics:
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+
+    Man up, hold tight
+    Driving dark
+    Head up, foot down
+    Speed of sound
+    Time's up, kick start
+    Keep on track
+    Flags out, sit back
+    Safe and sound
+---
 Track: The Same/Digital Boy (Reprise)
 Artists:
 - Jeff Burgess
@@ -42303,6 +43381,37 @@ Lyrics: |-
     You get another day older and deeper in debt
     Saint Peter don't ya call me 'cause I can't go
     I owe my soul to the company store
+---
+Track: Skeletor
+Duration: 1:30
+Artists:
+- Vargskelethor Joel
+URLs:
+- https://www.youtube.com/watch?v=1UNfVWcMr0A
+Lyrics: |-
+    He-man, he-man its me Skeletor
+    I have conquered the metal he-man
+    And I'll rock your cock off
+
+    Skeletal pimp
+    He once killed a chimp
+    Murdered a monkey
+    Cause he's a meth junkie
+    Snorted cocaine off a hookers tits
+    On he-man he fucking spits
+
+    He-man, he-man why dont you suck my bone he-man?
+    And then I'll beat you, I'll beat you with a telephone he-man nyeargh
+
+    If you dont like Skeletor
+    Then he'll make your ass sore
+    Dick ass skeleton dressed in blue
+    Watch out bitch he'll cut you
+
+    He-man suck my bone
+    I'll make you squeal and moan nyeargh
+    He-man belongs in the trash
+    And now its for my weed stash
 ---
 Track: Sleepwalking
 Duration: 3:50
@@ -44176,6 +45285,99 @@ Lyrics: |-
     They could care less as long as someone'll bleed
     So darken your clothes or strike a violent pose
     Maybe they'll leave you alone, but not me
+---
+Track: Tekkno Pidgeon
+Duration: 4:40
+Artists:
+- Vargskelethor Joel
+URLs:
+- https://www.youtube.com/watch?v=CX6G27RfNEU
+Lyrics: |-
+    *Hoot!*
+    *Hoot! Hoot!*
+
+    Welcome...
+    You've entered a secret zone...
+    You've entered the secret society...of the pigeon milkers...
+    It is time... to explore... the ultimate... pleasure...
+
+    (start the eJay x-ray jam!)
+    Tekkno vibes... INFINITY...
+    Tekkno vibes... INFINITY...
+
+    *Hoot!*
+
+    Welcome. You've entered Umbrella Corporation, Chris. *Hoot!* For our secret milking of the pigeon, for the ultimate in pigeon (tekkno)
+
+    *Hoot!*
+    *Hoot!*
+    *Hoot!*
+    *Pigeon sounds*
+
+    Give me an egg. HURRY!
+    Nice
+
+    It's time to BREASTFEED THE PIGEON
+
+    Help!
+
+    Pidgeon
+    Tekkno
+    Pidgeon
+    Tekkno. *Hoot!*
+    Pidgeon
+    Tekkno
+    Pidgeon
+    *Hoot!* Tekkno vibes
+    Pidgeon vibes
+    *Hoot!* Tekkno vibes
+    Pidgeon vibes
+    *Hoot!* Tekkno vibes
+    Pidgeon vibes
+    *Hoot!* Techno vibes
+    Pidgeon vibes
+
+    MILKING OF THE PIGEON AT 85% (I'd rather not!) ENGAGING SUPER MILK PROGRAM!
+
+    Now you see the power of my milking, Chris. (WESKER!) But now, it's sf-time for another level(o--o-oh-oh, o-oh)... CHRIS MILK!
+
+    I'm not... gonna make it!
+
+    Prisoners 281, you are free. Prisoner 282, you are free. Prisoner 283, you are free. Prisoner 284, you are free
+    This ship is out of control
+    This ship is out of control
+    Captain
+
+    Pidgeon
+
+    You might've won this time, Chris. But I'm not destroying the world, I'm MILKING IT!
+
+    Come on everybody it's time to dance
+    Drop your Albert pants
+    Get down and get into the machine
+    Time to drink some PIGEON CREAM!
+
+    I can't hold any more
+
+    I'm back from the intergalactic trip
+    I'm back from the inter- pigeon
+    I'm back from the intergalactic trip
+    I'm back from the inter- ah
+
+    It's time to milk
+    MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MILK! MIIILLLKKK!
+
+    Give me milk
+
+    WEEEESSKEEEEERRR!!! I'M CUUMMIIING!
+
+    COMPLETE. GLOBAL. LACTATION!
+
+    Shit
+
+    Nice
+
+    (𝐇 𝐎 𝐎 𝐓 !)
 ---
 Track: Television Rules the Nation
 Artists:
@@ -49286,6 +50488,173 @@ Lyrics: |-
     What's up with that?
     You'll cowards don't even smoke crack
 ---
+Track: Young Girl A
+Artists:
+- siinamota
+Duration: 4:02
+URLs:
+- https://www.youtube.com/watch?v=AqI97zHMoQw
+Lyrics:
+- Annotation: original lyrics
+  Body: |-
+    僕の命っつったって 誰の命っつったって
+    時時々 公平に 裁かれるもんなんでしょ
+    暗い空にやってきた 鬱を連れてやってきた
+    時々雨 総計に 頼り切りだ どうしよう
+    朽ちるまでの愛憎を 朽ちるまでの愛憎を
+    飲み込む君 簡単に 微笑む君 どうして
+    言葉を書く 曖昧に 言葉を書く 曖昧に
+    伝わりきらんないから 君だけをさ 信じて
+
+    捨ててきた夢をあつめて
+    ちょっと　ちょっと　間違えたから
+
+    ああ「時に 時に 躓いたって」
+    寒い 寒い 寒い 寒い 寒い
+    寒い 寒い 寒い 寒い 寒い
+    寒い 寒い 寒い 寒い 言い寄らないで
+    ああ 君の 君の 君の声が
+    遠い 遠い 遠い 遠い 遠い
+    遠い 遠い 遠い 遠い 遠い
+    遠い 遠い 遠い 遠い 傷つけないで
+
+    何番目でも 何番目でも
+    僕が僕であるために？
+
+    契り集め 持ってきた 契り集め 持ってきた
+    あの日の間違いを 飲み込むのが苦るしくて
+    朽ちるまでの愛憎を 朽ちるまでの愛憎を
+    飲み込む君 簡単に 微笑む君 どうして
+
+    「子供だましの花ふたつ、」
+    きっと きっと 諦めたから？
+
+    ああ 遠い夢を追いかけてさ
+    早い 早い 早い 早い 早い
+    早い 早い 早い 早い 早い
+    早い 早い 早い 早い 追いつけないよ
+    捨てきれず残した思いが
+    憎い 憎い 憎い 憎い 憎い
+    憎い 憎い 憎い 憎い 憎い
+    憎い 憎い 憎い 憎い 許されないの？
+
+    ああ 夢を 夢を見てたはずが
+    怖い 怖い 怖い 怖い 怖い
+    怖い 怖い 怖い 怖い 怖い
+    怖い 怖い 怖い 怖い 近づかないで
+    合言葉を繰り返すだけ
+    寒い 寒い 寒い 寒い 寒い
+    寒い 寒い 寒い 寒い 寒い
+    寒い 寒い 寒い 寒い お願いだから
+    何番目でも 何番目でも
+    僕が僕であるために…
+- Annotation: romanized lyrics
+  Body: |-
+    Boku no inochi tsuttatte dare no inochi tsuttatte
+    Tokidoki doki kouhei ni sabakareru mon nan desho
+    Kurai sora ni yattekita utsu wo tsurete yattekita
+    Tokidoki ame soukei ni tayorigiri da dou shiyou
+    Kuchiru made no aizou wo kuchiru made no aizou wo
+    Nomikomu kimi kantan ni hohoemu kimi dou shite
+    Kotoba wo kaku aimai ni kotoba wo kaku aimai ni
+    Tsutawari kirannai kara kimi dake wo sa shinjite
+
+    Sutete kita yume wo atsumete
+    Chotto chotto machigaeta kara
+
+    Aa "Toki ni toki ni tsumazuita tte"
+    Samui-samui-samui-samui-samui
+    Samui-samui-samui-samui-samui
+    Samui-samui-samui-samui ii yoranaide
+    Aa kimi no kimi no kimi no koe ga
+    Tooi-tooi-tooi-tooi-tooi
+    Tooi-tooi-tooi-tooi-tooi
+    Tooi-tooi-tooi-tooi kizutsuke naide
+
+    Nanbanme demo nanbanme demo
+    Boku ga boku de aru tame ni?
+
+    Chigiri atsume mottekita chigiri atsume motte kita
+    Ano hi no machigai wo nomikomu no ga kuru shikute
+    Kuchiru made no aizou wo kuchiru made no aizou wo
+    Nomikomu kimi kantan ni hohoemu kimi dou shite
+
+    "Kodomo damashi no hana futatsu"
+    Kitto kitto akirameta kara?
+
+    Aa tooi yume wo oikakete sa
+    Hayai-hayai-hayai-hayai-hayai
+    Hayai-hayai-hayai-hayai-hayai
+    Hayai-hayai-hayai-hayai oitsukenai yo
+    Sutekirezu nokoshita omoi ga
+    Nikui-nikui-nikui-nikui-nikui
+    Nikui-nikui-nikui-nikui-nikui
+    Nikui-nikui-nikui-nikui yurusare nai no?
+
+    Aa yume wo yume wo miteta hazu ga
+    Kowai-kowai-kowai-kowai-kowai
+    Kowai-kowai-kowai-kowai-kowai
+    Kowai-kowai-kowai-kowai chikazuka nai de
+    Ai kotoba o kuri kaesu dake
+    Samui-samui-samui-samui-samui
+    Samui-samui-samui-samui-samui
+    Samui-samui-samui-samui onegai dakara
+    Nanbanme demo nanbanme demo
+    Boku ga boku de aru tame ni…
+- Annotation: translated lyrics
+  Body: |-
+    My life, and someone else's life
+    Why are they sometimes judged as if they're equal?
+    You came into my dark skies, bringing along depression
+    With some occasional rain, but I'm leaning onto you, what do I do?
+    Love and hate so extreme 'till its decayed, love and hate so extreme 'till its decayed
+    But you take it in so easily and still smile, why?
+    Writing down vague words, writing down vague words
+    I can't express myself well, so you're the only one I trust
+
+    I gather together my abandoned dreams
+    Wait, hold on, I've made a mistake
+
+    Ah, "Even if at times I stumble again and again"
+    It's so cold, it's cold, it's cold, it's cold, it's cold
+    It's so cold, it's cold, it's cold, it's cold, it's cold
+    It's so cold, it's cold, it's cold, it's cold, don't lead me on
+    Ah, your, your, your voice is so
+    Far away, far away, far away, far away, far away
+    Far away, far away, far away, far away, far away
+    Far away, far away, far away, far away, please don't hurt me
+
+    Who cares where I am in this line
+    In order for me to be me...
+
+    I've come with all my promises, I've come with all my promises
+    It was so hard to swallow down the mistakes I've made
+    Love and hate so extreme 'till its decayed, love and hate so extreme 'till its decayed
+    But you take it in so easily and still smile, why?
+
+    "Here are two flowers to trick a child"
+    I'm sure, so sure, it's because I gave up, isn't it?
+
+    Ah, I'm chasing after a far-off dream
+    Too fast, too fast, too fast, too fast, too fast
+    Too fast, too fast, too fast, too fast, too fast
+    Too fast, too fast, too fast, too fast, I can't keep up
+    The feelings left behind that I couldn't throw away are
+    Hate, hate, hate, hate, hate
+    Hate, hate, hate, hate, hate
+    Hate, hate, hate, hate, can't I be forgiven?
+
+    Ah, I thought I was going after my dreams, and yet
+    I'm scared, I'm scared, I'm scared, I'm scared, I'm scared
+    I'm scared, I'm scared, I'm scared, I'm scared, I'm scared
+    I'm scared, I'm scared, I'm scared, I'm scared, don't come near me
+    Doing nothing but repeating my motto over again
+    It's cold, it's cold, it's cold, it's cold, it's cold
+    It's cold, it's cold, it's cold, it's cold, it's cold
+    It's cold, it's cold, it's cold, it's cold, I'm begging you, please
+    Who cares where I am in this line
+    In order for me to be me...
+---
 Track: your clothes
 Duration: 4:14
 Artists:
@@ -49706,6 +51075,12 @@ Duration: 0:01
 Artists:
 - Among Us
 ---
+Track: Jerma pops a balloon, screams, and disappears
+Duration: 0:08
+URLs:
+- https://www.youtube.com/watch?v=MHWckE-wrCs
+
+---
 Track: Join Call
 Directory: join-call-discord
 Always Reference By Directory: true
@@ -49775,6 +51150,11 @@ Commentary: |-
     ;3
     (yo i know this is a opinion but makin plz no kill)
 ---
+Track: My audio drivers broke while streaming Fortnite
+Duration: 0:12
+URLs:
+- https://www.youtube.com/watch?v=IifbV3h3CcY
+---
 Track: Notification
 Directory: notification-whatsapp
 Always Reference By Directory: true
@@ -49787,6 +51167,14 @@ Artists:
 - Aacksoft
 URLs:
 - https://www.youtube.com/watch?v=_Nlcrh4reWc
+---
+Track: One Day I was Born
+Artists:
+- ShyGuy Showcases
+#Maybe? It says "ORIGINAL" which idk what it implies.
+Duration: 0:17
+URLs:
+- https://www.youtube.com/watch?v=pjGZnRwtvww
 ---
 Track: 'Pastor Bill Bolin: Roman Catholicism Part 3 (Cults: The Truth Behind the Lies) - 4/24/15'
 Directory: pastor-bill-bolin
@@ -49898,7 +51286,7 @@ Track: Sonic Adventure 2 (Dark Story + Final Story)
 Directory: sonic-adventure-2-dark-story-final-story
 Duration: 32:17
 Artists:
-- SnapCube
+- Penny Parker (as SnapCube)
 URLs:
 - https://www.youtube.com/watch?v=IMC0uZY2iH0
 ---
@@ -49910,7 +51298,7 @@ Artists:
 Track: Subspace Dubbed Over
 Duration: 57:18
 Artists:
-- SnapCube
+- Penny Parker (as SnapCube)
 URLs:
 - https://www.youtube.com/watch?v=zhhLpCi2IVE
 ---
@@ -49999,6 +51387,11 @@ Artists:
 - Christina Rossetti
 URLs:
 - https://www.poetryfoundation.org/poems/45002/up-hill
+---
+Track: Van Darkholme talking about semen
+Artists:
+- Van Darkholme
+#It was a clip from his stream, however i can't find it on youtube anymore.
 ---
 Track: '[Vinesauce] Joel - Insane Mario Bootleg Games ( Part 1 )'
 Duration: 2:04:23
