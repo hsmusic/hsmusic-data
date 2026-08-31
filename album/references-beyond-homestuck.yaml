@@ -771,7 +771,8 @@ Commentary: |-
     From delisted hrmnzr album "Rainbow Tip". The vocal credit here is via [Discogs](https://www.discogs.com/release/3970187-hrmnzr-Rainbow-Tip).
 ---
 Track: Interlude
-Directory: interlude-machina-solis
+Suffix Directory: machina-solis
+Always Reference By Directory: true
 Artists:
 - Machina Solis
 - Circlejourney
@@ -2589,6 +2590,8 @@ URLs:
 - https://www.youtube.com/watch?v=kBlN_M_EMW8
 ---
 Track: Bonus Game
+Suffix Directory: lego-racers-2
+Always Reference By Directory: true
 # Has no official release as far as i can tell
 Artists:
 - LEGO Racers
@@ -3033,6 +3036,8 @@ Commentary: |-
     > I was brought in a little later to that project, and there was probably at least seven, eight, maybe ten other composers involved with that. And so people are trying to pick out, who did what, y'know. I was just one of the composers on that. Yeah, I did a bunch of music, but I don't even remember which ones anymore - it's so long ago. (laughs)
 ---
 Track: Continue?
+Suffix Directory: felix-the-cat
+Always Reference By Directory: true
 # Bootleg game, no official soundtrack release
 Artists:
 - Felix The Cat
@@ -5185,6 +5190,8 @@ URLs:
 - https://www.youtube.com/watch?v=vkrKJyXJUZM
 ---
 Track: Level 1 Theme
+Suffix Directory: sack-of-flour-heart-of-gold
+Always Reference By Directory: true
 # Has no official release as far as i can tell
 Artists:
 - Sack of Flour, Heart of Gold
@@ -26478,6 +26485,8 @@ Lyrics: |-
     Oh
 ---
 Track: fren
+Suffix Directory: hot-dad
+Always Reference By Directory: true
 Duration: 1:46
 Artists:
 - Hot Dad
@@ -27483,6 +27492,7 @@ Lyrics: |-
 ---
 Track: GAY
 Directory: gay-kawai-sprite
+Always Reference By Directory: true
 Artists:
 - Kawai Sprite
 Duration: 1:55
