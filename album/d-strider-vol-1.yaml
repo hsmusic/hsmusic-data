@@ -1,4 +1,5 @@
 Album: D-STRIDER VOL. 1
+Directory Suffix: d-strider
 Date: January 3, 2026, 00:55:49
 Date Added: January 3, 2026
 URLs:
@@ -34,6 +35,8 @@ Commentary: |-
     Check out the mod: https://gamebanana.com/mods/639725
 ---
 Track: Shades
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - bould
 Duration: 2:34
@@ -53,6 +56,8 @@ Referencing Sources: |-
     References [["Beatdown (Strider Style)"]] by [[artist:curt-blakeslee]], [["Liquid Negrocity"]] by [[artist:toby-fox]], [["Candles and Clockwork"]] by [[artist:james-dever]] and [["Anbroids"]] by [[artist:malcolm-brown]]
 ---
 Track: Turntech
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - bould
 Duration: 2:16
@@ -75,6 +80,8 @@ Referencing Sources: |-
     Samples [[track:gay-kawai-sprite|"GAY"]] by [[artist:kawai-sprite]]
 ---
 Track: Scratched
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - bould
 Duration: 3:26
