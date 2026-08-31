@@ -1,4 +1,5 @@
 Album: 'FNF: Aleph Null OST'
+Directory Suffix: aleph-null
 Date: November 17, 2023
 Date Added: March 15, 2026
 URLs:
@@ -30,6 +31,8 @@ Commentary: |-
 Section: Main album
 ---
 Track: Downpour
+Suffix Directory: true
+Reference By Directory: outside album
 Additional Names:
 - Rain (first name)
 - Petrichor (second name)
@@ -47,6 +50,8 @@ Commentary: |-
     The naming of this track was a bit of a shitshow. First it was Rain, then i changed it to Petrichor, then i realised that i had already made a track made Petrichor (Sauron's theme) and updated the mod like a year later with a new name for the track. And now i realise that i should have kept the name as Rain from the start. Sigh.
 ---
 Track: Rusted
+Suffix Directory: true
+Reference By Directory: outside album
 Duration: 2:10
 Has Cover Art: false
 URLs:
@@ -60,6 +65,7 @@ Commentary: |-
 ---
 Track: 'Null'
 Suffix Directory: true
+Reference By Directory: outside album
 Additional Names:
 - Doomed (original name)
 Duration: 2:25
@@ -86,11 +92,12 @@ Commentary: |-
     <i>Jebb:</i> ([SoundCloud description](https://soundcloud.com/jebbjabroni/null-restored))
     Unused vocal track from the FNF: Aleph Null mod.
 
-    So, this track has had a pretty interesting history. It was made very, very early on, and at first it was supposed to be almost 2 times as fast, and be the third and final song (That's why the name is Null, same as the final 3rd song). Then i decided to slow it down for fun, and noticed that it worked even better with the new speed, so i decided to do a 180 and make it the 1st song instead. However, after finishing it, i realized that it would not be fun to play at all - constantly repeating patterns followed by very slow notes followed by constantly repeating patterns... yawn. So, after a bit of trying to fix the vocals and failing, i decided to scrap the track altogether and replace it with another track (Which later was chosen to be [[track:downpour]]).
+    So, this track has had a pretty interesting history. It was made very, very early on, and at first it was supposed to be almost 2 times as fast, and be the third and final song (That's why the name is Null, same as the final 3rd song). Then i decided to slow it down for fun, and noticed that it worked even better with the new speed, so i decided to do a 180 and make it the 1st song instead. However, after finishing it, i realized that it would not be fun to play at all - constantly repeating patterns followed by very slow notes followed by constantly repeating patterns... yawn. So, after a bit of trying to fix the vocals and failing, i decided to scrap the track altogether and replace it with another track (Which later was chosen to be [[track:downpour-aleph-null]]).
     For this release of the OST, i decided to restore the track so that you can finally check it out! So, hope you enjoy it.
 ---
 Track: Game Over
 Suffix Directory: true
+Reference By Directory: outside album
 Duration: 0:56
 Has Cover Art: false
 Referenced Tracks:
@@ -105,6 +112,7 @@ Commentary: |-
 ---
 Track: Menu
 Suffix Directory: true
+Reference By Directory: outside album
 Duration: 0:57
 Has Cover Art: false
 Referenced Tracks:
@@ -128,6 +136,7 @@ Commentary: |-
 ---
 Track: Pause
 Suffix Directory: true
+Reference By Directory: outside album
 Duration: 0:27
 Has Cover Art: false
 Sampled Tracks:
@@ -160,7 +169,7 @@ Track: Null (Instrumental)
 Duration: 2:25
 Has Cover Art: false
 Referenced Tracks:
-- track:null-fnf-aleph-null-ost
+- 'Null'
 URLs:
 - https://soundcloud.com/jebbjabroni/null-instrumental
 ---
@@ -191,6 +200,8 @@ Commentary: |-
     This... this just sucks though. I am sorry you had to hear this track, i mostly only dug this up for archival reasons lmao. For the listener's sake i adjusted the mixing a bit so that your ears wouldn't bleed, but otherwise i left it in as bad of a state as i left it back then. As you can see by this track the idea of the Falmea week didn't really go anywhere beyond some brainstorming.
 ---
 Track: Chains
+Suffix Directory: true
+Reference By Directory: outside album
 Duration: 0:22
 URLs:
 - https://soundcloud.com/jebbjabroni/chains
