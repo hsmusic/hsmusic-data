@@ -659,6 +659,7 @@ Content: |-
     - fixed [[track:white]] not referencing [[track:skies-of-skaia]] (thanks, HunZhen!)
     - fixed [[track:versus]] not referencing [[track:sunsetter]] (thanks, Erase, Lilith, Lan, plus Rainy, Pascal, Jebb!)
     - fixed [[track:sunsetter]] not referencing [[track:hawkeye]] (was the other way around; thanks, Erase, Lan!)
+    - fixed [[track:greenhouse]] not sampling [[track:phat8]] (thanks, erase, Bowman, Coral!)
     - fixed [[track:virgin-orb]] not referencing [[track:strains-of-skaia]] (thanks, Erase, Lilith, Lan!)
     - fixed [[track:english]] not referencing [[track:expiration-date]] (thanks, Erase, Lilith!)
     - fixed [[track:frost-vol6]] not referencing [[track:endless-sands]] (thanks, Erase, Lilith, Lan!)
@@ -678,20 +679,6 @@ Content: |-
         - fixed [[track:get-home-soon]] not sampling [[track:1-nightlife-nightlight]] (Nightlife Nightlight)
         - fixed [[track:technobabylon]] not sampling [[track:dont-let-the-archons-get-you-down]]
         - fixed [[track:hungrier-and-angrier]] not referencing or sampling [[track:garbag-truce]]
-    - fixed [[track:a-common-occurrance-every-night-to-be-exact]] not sampling [[track:your-bed]] (thanks, Lilith!)
-    - fixed [[track:720413]] ([[album:play-the-rain]] and [[album:lofam3]]) not referencing [[track:720413-2-4-2013]] (WIP; thanks, Lilith, Lan!)
-    - fixed [[track:wanderers-vigil]] ([[album:play-the-rain]]) not referencing [[track:wanderers-vigil-6-25-2012]] (WIP; thanks, Lilith, Lan!)
-    - fixed [[track:stalemate-play-the-rain]] ([[album:play-the-rain]]) not referencing [[track:stalemate-8-6-2012]] (WIP; thanks, Lilith, Lan!)
-    - fixed [[track:irradiated-lofam2]] ([[album:lofam2]] and [[album:shenanigans-mspa]]) not referencing [[track:irradiated-original]] (original SoundCloud release; thanks, Lan, Lilith!)
-    - fixed [[track:rise-of-the-denizens]] not sampling [[track:upward-movement-dave-owns]] in addition to referencing it, and referencing [[track:cascade]] instead of sampling [[track:savior-of-the-dreaming-dead-cascade-cut]] (thanks, Makin, Lan!)
-    - fixed [[track:sburban-genesis-lofam2]] ([[album:lofam2]]) being listed as a rerelease of [[track:sburban-genesis]] ([[album:play-the-rain]]), instead of referencing it (thanks, Lan!)
-    - fixed [[track:the-metamorphosis-of-rose-lalonde]] not referencing individual movement tracks ([[track:the-metamorphosis-treading-the-line]], [[track:the-metamorphosis-harbinger-of-the-outer-gods]], [[track:the-metamorphosis-the-solar-ascendancy]]; thanks, Lilith!)
-    - fixed [[track:dream-around]] not referencing [[track:english]] (thanks, Lan!)
-    - fixed [[track:harmonize-canmt]] referencing [[track:ruins-with-strings]] instead of [[track:ruins-undertale]] (thanks, Makin, Lilith!)
-    - fixed [[track:carne-vale-fusion-collab]] referencing [[track:rollin-air-raid-vehicle]] instead of [[track:rollin-urban-assault-vehicle]] (thanks, Lilith, Interrobang!)
-    - fixed [[track:bowstutzlogic]] not sampling [[track:your-bed]] (thanks, Lilith!)
-    - fixed [[track:lore-2-the-revengning]] and [[track:savior-of-a-lot-of-money]] not sampling [[track:your-bed]] (thanks, Lilith!)
-    - fixed tracks across [[album:vaporwave-2016]] not sampling their referenced tracks (thanks, Whisper, Niklink, Lan!)
     - filled in many anonymously sourced references across [[group:deconrecon|Vast Error]]: (thanks, <<koba:organized Vast Error Reference Sheet; these later additions are from other contributors and were entered anonymously>>, Lilith!)
         - fixed [[track:falling-upward]] not referencing [[track:corporate-vast-error]]
         - fixed [[track:the-eternal-siren]] not referencing [[track:through-it-all]]
@@ -757,9 +744,24 @@ Content: |-
         - fixed [[track:accel-exceed]] not referencing [[track:accel-exceed-demo]]
         - fixed [[track:bloodletting-in-medias-res]] not referencing [[track:bloodletting-in-medias-res-drums-bass-and-guitar]]
         - fixed [[track:like-tears-in-rain]] not referencing [[track:like-tears-in-rain-demo]]
+    - fixed [[track:a-common-occurrance-every-night-to-be-exact]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:720413]] ([[album:play-the-rain]] and [[album:lofam3]]) not referencing [[track:720413-2-4-2013]] (WIP; thanks, Lilith, Lan!)
+    - fixed [[track:wanderers-vigil]] ([[album:play-the-rain]]) not referencing [[track:wanderers-vigil-6-25-2012]] (WIP; thanks, Lilith, Lan!)
+    - fixed [[track:stalemate-play-the-rain]] ([[album:play-the-rain]]) not referencing [[track:stalemate-8-6-2012]] (WIP; thanks, Lilith, Lan!)
+    - fixed [[track:irradiated-lofam2]] ([[album:lofam2]] and [[album:shenanigans-mspa]]) not referencing [[track:irradiated-original]] (original SoundCloud release; thanks, Lan, Lilith!)
+    - fixed [[track:rise-of-the-denizens]] not sampling [[track:upward-movement-dave-owns]] in addition to referencing it, and referencing [[track:cascade]] instead of sampling [[track:savior-of-the-dreaming-dead-cascade-cut]] (thanks, Makin, Lan!)
+    - fixed [[track:sburban-genesis-lofam2]] ([[album:lofam2]]) being listed as a rerelease of [[track:sburban-genesis]] ([[album:play-the-rain]]), instead of referencing it (thanks, Lan!)
+    - fixed [[track:the-metamorphosis-of-rose-lalonde]] not referencing individual movement tracks ([[track:the-metamorphosis-treading-the-line]], [[track:the-metamorphosis-harbinger-of-the-outer-gods]], [[track:the-metamorphosis-the-solar-ascendancy]]; thanks, Lilith!)
+    - fixed [[track:dream-around]] not referencing [[track:english]] (thanks, Lan!)
+    - fixed [[track:harmonize-canmt]] referencing [[track:ruins-with-strings]] instead of [[track:ruins-undertale]] (thanks, Makin, Lilith!)
+    - fixed [[track:carne-vale-fusion-collab]] referencing [[track:rollin-air-raid-vehicle]] instead of [[track:rollin-urban-assault-vehicle]] (thanks, Lilith, Interrobang!)
+    - fixed [[track:bowstutzlogic]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:lore-2-the-revengning]] and [[track:savior-of-a-lot-of-money]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed tracks across [[album:vaporwave-2016]] not sampling their referenced tracks (thanks, Whisper, Niklink, Lan!)
     - fixed [[track:secretz-barz]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:the-disciples-new-beginning]] not referencing [[track:serenade-vol8]] and [[track:requited]] (thanks, Lan!)
     - fixed [[track:black-heart-green-dress]] referencing [[track:amen-brother]] and [[track:temporal-shenanigans]], instead of sampling them (thanks, Lan!)
+    - fixed [[track:bro-hop]] not sampling [[track:phat2]] and [[track:phat7-bill-bolin]] (thanks, erase, Bowman, Coral!)
     - fixed [[track:your-quest-bed]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:good-old-hornless-jerryatric]] not referencing [[track:seinfeld-theme]] (thanks, Lilith!)
     - fixed [[track:transmuted-vast-error]] not referencing [[track:third-eye]] and [[track:intermission-beyond-the-wall]] (thanks, Lan!)
@@ -794,25 +796,25 @@ Content: |-
         - fixed [[track:shake-your-tail]] not referencing [[track:shake-your-tail-original]] (original single)
         - fixed [[track:fire-forget-induction]] not referencing [[track:fire-forget]] (original single)
         - fixed [[track:fin-induction]] referencing [[track:goodbye-induction]], [[track:verisimilitude-induction]], [[track:fire-forget-induction]], [[track:wistful-induction]], [[track:shake-your-tail]], instead of [[track:goodbye-original]], [[track:verisimilitude-original]], [[track:fire-forget]], [[track:wistful-original]], [[track:shake-your-tail-original]] (original singles)
-    - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
-    - fixed [[track:day-that-never-came]] referencing [[track:westminster-quarters]] and not referencing [[track:gymnopedie-no-1]] (thanks, Lilith, Coral, Whisper!)
     - fixed various [[track:spear-of-justice]]-related references (thanks, ruby!)
         - fixed [[track:spear-of-justice]] referencing [[track:undyne]], instead of the other way around; referencing [[track:ruins-undertale]]; and not referencing [[track:undyne-battle-unused]]
         - fixed [[track:run]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
         - fixed [[track:ngahhh]] referencing [[track:undyne]] and [[track:ruins-undertale]] instead of [[track:spear-of-justice]]
         - fixed [[track:asgore]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
         - fixed [[track:bring-it-in-guys]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
+    - updated a bunch of Deltarune references to point to in-between WIPs from [[album:deltarune-ch2-rejected-tracks]] (thanks, ruby!)
+        - fixed [[track:my-castle-town]] referencing [[track:the-legend]] instead of [[track:castle-town-unfinished]]
+        - fixed [[track:attack-of-the-killer-queen]] referencing [[track:queen-deltarune]] instead of [[track:queen-battle-original]]
+        - fixed [[track:giga-size]] referencing [[track:queen-deltarune]] and [[track:attack-of-the-killer-queen]] instead of [[track:giga-queen-old]]
+        - fixed [[track:big-shot]] referencing [[track:spamton]] and [[track:power-of-neo]] instead of [[track:power-of-spamton]]
+    - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
+    - fixed [[track:day-that-never-came]] referencing [[track:westminster-quarters]] and not referencing [[track:gymnopedie-no-1]] (thanks, Lilith, Coral, Whisper!)
     - fixed [[track:start-menu]] referencing [[track:once-upon-a-time]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) sampling [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]]), instead of being the track's main release (thanks, ruby!)
     - fixed [[track:alphys]] not referencing [[track:alphys-lab-unused]] (thanks, ruby!)
     - fixed [[track:undertale]] referencing [[track:once-upon-a-time]] instead of [[track:undertale-unused]] (thanks, ruby!)
     - fixed [[track:menu-full]] referencing [[track:start-menu]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] not referencing [[track:penumbra-phantasm]] (thanks, ruby, Makin, Jebb, Interrobang, Witch's Cadence, Monckat, Red Rax, Rainy, Meulanie, Jackie, Lan!)
-    - updated a bunch of Deltarune references to point to in-between WIPs from [[album:deltarune-ch2-rejected-tracks]] (thanks, ruby!)
-        - fixed [[track:my-castle-town]] referencing [[track:the-legend]] instead of [[track:castle-town-unfinished]]
-        - fixed [[track:attack-of-the-killer-queen]] referencing [[track:queen-deltarune]] instead of [[track:queen-battle-original]]
-        - fixed [[track:giga-size]] referencing [[track:queen-deltarune]] and [[track:attack-of-the-killer-queen]] instead of [[track:giga-queen-old]]
-        - fixed [[track:big-shot]] referencing [[track:spamton]] and [[track:power-of-neo]] instead of [[track:power-of-spamton]]
     - fixed [[track:scarlet-forest]] not referencing [[track:field-of-hopes-and-dreams]] (in addition to [[track:game-main-theme-piano-sketch]]; thanks, ruby!)
     - fixed [[track:vs-ridley-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing "Opening (Destroyed Laboratory)", aka "Opening (Destroyed Science Academy Research Station)", instead of [[track:theme-of-super-metroid]] (thanks, ruby!)
     - fixed [[track:christmas-time-is-here-lo-fi]] not referencing [[track:christmas-time-is-here-vocal]] (thanks, Lilith, Tangle, Lan!)
@@ -860,21 +862,25 @@ Content: |-
         - changed '[[artist:peak-divide]] featuring [[artist:rachel-lake]]' credit to [[artist:unbeatable]] on [[track:sleeping-in-single]] (but not [[track:future-people-single]])
         - changed [[track:familiar-unbeatable-demo-tapes]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rj-lake]]
         - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] (or [[artist:unbeatable]])
-    - changed [[track:the-adventure-continues-for-horizon-heights-act-1]], [[track:before-the-sequel-title-screen]], and [[track:breakfast-time-for-horizon-heights-boss-act-phase-2]] to credit "franchise" artist [[artist:sonic-the-hedgehog-fanmedia]] instead of [[artist:sonic-the-hedgehog]] (thanks, Lan, ruby, Cello!)
+    - changed track credits across [[album:bowmanstuck]] to match Bandcamp presentation (thanks, Coral!)
     - changed track credits across [[album:chaos-sisters-original-soundtrack]] to credit [[artist:tukeart]] as Tuukka Saarenketo
+    - changed [[track:the-adventure-continues-for-horizon-heights-act-1]], [[track:before-the-sequel-title-screen]], and [[track:breakfast-time-for-horizon-heights-boss-act-phase-2]] to credit "franchise" artist [[artist:sonic-the-hedgehog-fanmedia]] instead of [[artist:sonic-the-hedgehog]] (thanks, Lan, ruby, Cello!)
     <!-- crediting fixes -->
+    - fixed [[track:squiddle-samba]] not crediting [[artist:tavia-morra]] for additional vocals (thanks, Bowman, Coral!)
+    - fixed [[track:mayor-maynot]] not crediting [[artist:toby-fox]] for vocals (thanks, Lan!)
+    - fixed [[track:ocean-stars-falling]] crediting [[artist:tavia-morra]] with a blank contributor credit, rather than for additional vocals (thanks, Bowman, Coral!)
+    - fixed [[track:even-in-death-tmorras-belly-mix]] crediting [[artist:tavia-morra]] as a standard co-artist rather than a featured artist, and updated displayed credits to reflect Bandcamp (thanks, Bowman, Gio, ruby, Celeste, Lan!)
+    - fixed [[track:iRRRRRRRRECONCILA8LE]] not crediting [[artist:andrew-huo]] for violin (thanks, Bowman, Coral!)
+    - fixed [[track:capricious-mistress]] and [[track:fuchsia-ruler-single]] (single) artworks not crediting [[artist:kezinox]] for 'layout for single' (thanks, Jackie!)
+    - fixed [[track:layers-coasters-upon-coasters]] crediting its track artists also as album artists (thanks, Lan!)
+    - fixed [[track:gunshow-singalong]] crediting [[artist:ostrichlittledungeon]], [[artist:pipko-fanfare]], and [[artist:yazshu]] as (annotated) album credits, instead of as contributors, and not crediting [[artist:tronald-trumpet]] as the lone album artist (thanks, Lan!)
+    - fixed [[album:a-shade-of-blue]] not crediting [[artist:jakkyr]] as an album artist alongside [[artist:cerulean]] (thanks, Lan!)
     - fixed a bunch of missing contributor credits across [[album:super-smash-bros-ultimate]] (thanks, ruby!)
         - fixed [[track:delfino-plaza-ssbu]], [[track:the-map-page-bonus-level]], [[track:kasss-theme-ssbu]], [[track:f-zero-medley]], [[track:vega-stage-ssbu]], [[track:aeriths-theme-ssbu]], [[track:pasta-ff2-ssbu]], [[track:banquet-of-nature-ss-ssbu]] not crediting any performing contributors
         - fixed [[track:hard-man-stage-ssbu]] crediting [[artist:yujin-imanishi]] only on electric guitar, not also on acoustic guitar
         - fixed [[track:mega-man-4-medley]] not crediting [[artist:jun-senoue]] on guitars
         - fixed [[track:psycho-soldier-theme-ssbu]] and [[track:psycho-soldier-theme-ssbu-overseas]] only crediting vocalists
         - removed [[artist:tomotaka-saka]] engineering credit on [[track:halland-dalarna]], for now
-    - fixed [[track:mayor-maynot]] not crediting [[artist:toby-fox]] for vocals (thanks, Lan!)
-    - fixed [[track:even-in-death-tmorras-belly-mix]] crediting [[artist:tavia-morra]] as a standard co-artist rather than a featured artist, and updated displayed credits to reflect Bandcamp (thanks, Bowman, Gio, ruby, Celeste, Lan!)
-    - fixed [[track:capricious-mistress]] and [[track:fuchsia-ruler-single]] (single) artworks not crediting [[artist:kezinox]] for 'layout for single' (thanks, Jackie!)
-    - fixed [[track:layers-coasters-upon-coasters]] crediting its track artists also as album artists (thanks, Lan!)
-    - fixed [[track:gunshow-singalong]] crediting [[artist:ostrichlittledungeon]], [[artist:pipko-fanfare]], and [[artist:yazshu]] as (annotated) album credits, instead of as contributors, and not crediting [[artist:tronald-trumpet]] as the lone album artist (thanks, Lan!)
-    - fixed [[album:a-shade-of-blue]] not crediting [[artist:jakkyr]] as an album artist alongside [[artist:cerulean]] (thanks, Lan!)
     - fixed [[track:someday-clark-powell]] crediting [[artist:riki-tsuji]] as a contributor rather than a featured artist, and as Riki Tsuji instead of Astro Kid (thanks, Coral!)
     - fixed [[album:cool-and-new-sonic-team]] crediting [[artist:hadron]] as an album artist instead of only as track artist (thanks, Lan!)
     - fixed [[track:memorialisation]] crediting [[artist:magnoliajades]] as a standard co-artist rather than a featured artist (thanks, Lan!)
