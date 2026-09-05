@@ -658,6 +658,62 @@ Referenced Tracks:
 - track:im-a-member-of-the-midnight-crew
 Sampled Tracks:
 - track:im-a-member-of-the-midnight-crew
+Sound Details:
+- BPM: 120, 145, 165
+  Notes: >-
+    Confirmed by leaked midi. Has gradual changes between these values.
+- Time Signature: 4/4
+- Sampled Track: track:im-a-member-of-the-midnight-crew
+  Notes: >-
+    "Make her a member of the Midnight Crew!"
+- Software: FL Studio 8
+  Path: Choirs
+  Detail: CHR_Heaven_C6
+- Software: FL Studio 8
+  Path: Loops -> Drums Loops
+  Detail: LP_Tronic1_120bpm
+- Software: FL Studio 8
+  Path: Loops -> Melody Loops
+  Detail: LP_SystemFunk_90bpm
+- Soundfont: 052_Florestan_Ahh_Choir
+  Detail: Florestan Ahh Choir
+- Soundfont: GoldDrums
+  Bank: Drumkit
+  Detail: DrumKit Gold
+- Soundfont: pretes_thumbs
+  Detail: MM THUMBS A
+  Notes: EQ
+- Soundfont: Secret of Mana
+  Detail: SOM Heartbeat
+  Notes: Reverb, EQ
+- Soundfont: Secret of Mana
+  Detail: SOM Kecak Chant Low
+  Notes: Reverb, EQ
+- Soundfont: WST25FStein_00Sep22
+  Detail: WST44FGrand
+  Notes: Delay
+- Soundfont: WST25FStein_00Sep22
+  Detail: WST44FGrand
+  Notes: Reverb
+- Soundfont: WST25FStein_00Sep22
+  Detail: WST44FGrand
+  Notes: Reverb
+- VST: DVS Saxophone
+  Notes: 2 Instances
+- VST: NES Noise
+- VST: NES Pulse
+  Detail: 50% Duty
+  Notes: >-
+    Mono-PHONIC mode off. Vibrato. High attack. Panned right. Plays chords.
+- VST: NES Pulse
+  Detail: 87.5% Duty
+  Notes: >-
+    "SuperLead" in the leaked midi. Vibrato. Slide time slider turned up.
+- VST: NES Pulse
+  Detail: 87.5% Duty
+  Notes: >-
+    "EvilLead" in the leaked midi
+- VST: NES Pulse
 Sheet Music Files:
 - Title: Sheet music
   Artists: [EuniverseCat]
