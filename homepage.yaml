@@ -15,18 +15,19 @@ Navbar Links:
 Section: Official Discography
 ---
 Row: album carousel
-Albums:
-- Homestuck Vol. 1-4
-- Homestuck Vol. 10
-- Beyond Canon
-- 'HIVESWAP: ACT 2 Original Soundtrack'
-- Homestuck Vol. 8
+Carousel:
+  Tiles:
+  - Homestuck Vol. 1-4
+  - Homestuck Vol. 10
+  - Beyond Canon
+  - 'HIVESWAP: ACT 2 Original Soundtrack'
+  - Homestuck Vol. 8
 
-- AlterniaBound
-- 'coloUrs and mayhem: Universe A'
-- The Wanderers
-- Strife!
-- One Year Older
+  - AlterniaBound
+  - 'coloUrs and mayhem: Universe A'
+  - The Wanderers
+  - Strife!
+  - One Year Older
 ---
 Row: actions
 Actions:
