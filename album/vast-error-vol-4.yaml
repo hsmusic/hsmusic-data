@@ -18,6 +18,9 @@ Cover Artists:
 - TetraTheRipper
 Cover Art File Extension: png
 Track Art File Extension: png
+Art Tags:
+- Arcjec (Vast Error)
+- Ellsee (Vast Error)
 Color: '#5895F3'
 Groups:
 - Deconreconstruction
@@ -28,22 +31,54 @@ Section: Main album
 Track: Nostalgia
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 2298623990
 Duration: 2:02
 Artists:
 - Rachel Rose Mitchell
 Cover Artists:
 - big chalupa
+Art Tags:
+- Arcjec (Vast Error)
+- Taz (Vast Error)
+- Laivan (Vast Error)
+- Ellsee (Vast Error)
+- Murrit (Vast Error)
+- Jentha (Vast Error)
+- Dismas (Vast Error)
+- Calder (Vast Error)
+- Serpaz (Vast Error)
+- Albion (Vast Error)
+- Sova (Vast Error)
+- Occeus (Vast Error)
+- Arcjec's lusus (Vast Error)
+- Laivan's lusus (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/nostalgia
 - https://www.youtube.com/watch?v=F9cXP0627N8
 ---
 Track: Road To Recovery
+Bandcamp Track ID: 1952255742
 Duration: 3:27
 Artists:
 - Alex Votl
 Track Artwork:
 - Artists:
   - Xamag
+  Tags:
+  - Arcjec (Vast Error)
+  - Taz (Vast Error)
+  - Laivan (Vast Error)
+  - Ellsee (Vast Error)
+  - Murrit (Vast Error)
+  - Jentha (Vast Error)
+  - Dismas (Vast Error)
+  - Calder (Vast Error)
+  - Serpaz (Vast Error)
+  - Albion (Vast Error)
+  - Sova (Vast Error)
+  - Occeus (Vast Error)
+  - White Noise (Vast Error)
+  - Gaiaeon (Vast Error)
 - Label: Alternate art
   Directory: alternate
   Attach Above: true
@@ -55,11 +90,15 @@ URLs:
 Track: Immortal
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 1642387910
 Duration: 3:31
 Artists:
 - Circlejourney
 Cover Artists:
 - SilentNeptune
+Art Tags:
+- Occeus (Vast Error)
+- Calder (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/immortal
 - https://www.youtube.com/watch?v=z4-2S9RrGHw
@@ -72,11 +111,14 @@ Commentary: |-
     Immortal is one of the most "different" things I've made. I actually love music like this and this was my first attempt to make it that didn't fail miserably. Thank you so much to [[artist:silentneptune]] for the sexy track art.
 ---
 Track: Air Exchange
+Bandcamp Track ID: 539243696
 Duration: 3:34
 Artists:
 - Viridian
 Cover Artists:
 - Vast Error
+Art Tags:
+- Zehanpuryu (Vast Error)
 Referenced Tracks:
 - A New World
 - Zehanpuryu
@@ -85,11 +127,14 @@ URLs:
 - https://www.youtube.com/watch?v=pJd46EME9ik
 ---
 Track: Radical Statical
+Bandcamp Track ID: 3816263333
 Duration: 2:37
 Artists:
 - dbnet18
 Cover Artists:
 - diz
+Art Tags:
+- Murrit (Vast Error)
 Referenced Tracks:
 - Mammory Master
 URLs:
@@ -99,12 +144,16 @@ URLs:
 Track: Predestination
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 1840889314
 Duration: 3:16
 Artists:
 - Cristata
 - FRUITYTEE
 Cover Artists:
 - yorozuya
+Art Tags:
+- Albion (Vast Error)
+- Albion's guardian (Vast Error)
 Referenced Tracks:
 - A New Day
 URLs:
@@ -114,21 +163,28 @@ URLs:
 Track: Corporate
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 2174067779
 Duration: 2:54
 Artists:
 - Whimsy
 Cover Artists:
 - Spruik
+Art Tags:
+- Bart Simpson
+#- Hulk Hogan  # I think  -via t2k [just for yaml]
 URLs:
 - https://vasterror.bandcamp.com/track/corporate
 - https://www.youtube.com/watch?v=DJoN7Y8CIQk
 ---
 Track: The Crucible
+Bandcamp Track ID: 2122601593
 Duration: 2:19
 Artists:
 - Rnd
 Cover Artists:
 - griffinwayne
+Art Tags:
+- Skaia (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/the-crucible
 - https://www.youtube.com/watch?v=eKTQrv6jWfc
@@ -139,11 +195,14 @@ Additional Names:
     L C Rains
   Annotation: >-
     [SoundCloud](https://soundcloud.com/pragmaticnihilist/l-c-rains)
+Bandcamp Track ID: 3364200099
 Duration: 2:13
 Artists:
 - pragmaticNihilist
 Cover Artists:
 - Xamag
+Art Tags:
+- Ellsee (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/lc-rains
 - https://www.youtube.com/watch?v=GX-HZBIPQx0
@@ -151,62 +210,99 @@ URLs:
 ---
 Track: Secure
 Suffix Directory: true
+Bandcamp Track ID: 3521647348
 Duration: 2:07
 Artists:
 - Cerulean
 Cover Artists:
 - griffinwayne
+Art Tags:
+- Taz (Vast Error)
+- Laivan (Vast Error)
+- Arcjec (Vast Error)
+- Ellsee (Vast Error)
+- Prospit (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/secure
 - https://www.youtube.com/watch?v=i_pyy9eM8CQ
 ---
 Track: Gravitational Pull
+Bandcamp Track ID: 4248175093
 Duration: 2:36
 Artists:
 - dbnet18
 Cover Artists:
 - falthiere
+Art Tags:
+- Taz (Vast Error)
+- LoGaG (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/gravitational-pull
 - https://www.youtube.com/watch?v=_nUME3dZvx8
 ---
 Track: Solana
+Bandcamp Track ID: 489029909
 Duration: 2:30
 Artists:
 - Veritas Unae
 Cover Artists:
 - Circlejourney
+Art Tags:
+- Lotus
+- Frog Temple (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/solana
 - https://www.youtube.com/watch?v=MGeXMFROMUs
 ---
 Track: 'INTERMISSION: Ever Closer'
 Directory: ever-closer
+Bandcamp Track ID: 2987858389
 Duration: 2:35
 Artists:
 - Alex Votl
 Cover Artists:
 - Vast Error
+Art Tags:
+- Arcjec (Vast Error)
+- Taz (Vast Error)
+- Laivan (Vast Error)
+- Ellsee (Vast Error)
+- Murrit (Vast Error)
+- Jentha (Vast Error)
+- Dismas (Vast Error)
+- Calder (Vast Error)
+- Serpaz (Vast Error)
+- Albion (Vast Error)
+- Sova (Vast Error)
+- Occeus (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/intermission-ever-closer
 - https://www.youtube.com/watch?v=he76OBSMJo4
 ---
 Track: Trial By Fire
+Bandcamp Track ID: 1297567162
 Duration: 4:20
 Artists:
 - luminantAegis
 Cover Artists:
 - banavalope
+Art Tags:
+- Arcjec (Vast Error)  # twice  -via t2k [just for yaml]
 URLs:
 - https://vasterror.bandcamp.com/track/trial-by-fire
 - https://www.youtube.com/watch?v=951fcKeUh34
 ---
 Track: My Protective Light
+Bandcamp Track ID: 4276414748
 Duration: 2:51
 Artists:
 - Mathias Ramalho
 Cover Artists:
 - Captainquestion
+Art Tags:
+- Jentha (Vast Error)
+- Af (Vast Error)
+#- Furby
 URLs:
 - https://vasterror.bandcamp.com/track/my-protective-light
 - https://www.youtube.com/watch?v=ghi4SJS9JdI
@@ -220,18 +316,22 @@ Commentary: |-
     This was from Months Ago, it's the very first thing I've made for VE. Also it's some testing on certain synth that somehow renders in quite a problematic way. I prefer how this sounds though!
 ---
 Track: It's Alive
+Bandcamp Track ID: 699777208
 Duration: 2:05
 Artists:
 - sympolite
 Cover Artists:
 - Klairevoyance
 Art Tags:
+- Occeus (Vast Error)
+- Rogi (Vast Error)
 - 'cw: blood (abstract)'
 URLs:
 - https://vasterror.bandcamp.com/track/its-alive
 - https://www.youtube.com/watch?v=pr2TIC7_T3A
 ---
 Track: Disenchanted
+Bandcamp Track ID: 2692442770
 Duration: 3:26
 Artists:
 - whimsi
@@ -239,6 +339,9 @@ Artists:
 Cover Artists:
 - Jackaxed
 Art Tags:
+- Ellsee (Vast Error)
+- Murrit (Vast Error)
+- Skaia (Vast Error)
 - 'cw: blood (abstract)'
 Referenced Tracks:
 - Bohemian Rhapsody
@@ -250,11 +353,15 @@ URLs:
 ---
 Track: Nebula
 Suffix Directory: true
+Bandcamp Track ID: 2480405333
 Duration: 5:35
 Artists:
 - Circlejourney
 Cover Artists:
 - Chumi
+Art Tags:
+- Albion's guardian (Vast Error)
+- The Exemplar (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/nebula
 - https://www.youtube.com/watch?v=i8zzfd423h4
@@ -267,6 +374,7 @@ Commentary: |-
     Thank you [[artist:chumi]] for the illustration!
 ---
 Track: Cheap (Boxed Wine)
+Bandcamp Track ID: 1766542048
 Duration: 3:17
 Artists:
 - pragmaticNihilist
@@ -274,11 +382,16 @@ Track Artwork:
 - Artists:
   - bakudadadan
   Tags:
+  - Calder (Vast Error)
   - 'cw: blood (abstract)'
 - Directory: soundcloud
   Label: Alternate artwork
   File Extension: jpg
-  Attach Above: true
+  Artists:
+  - bakudadadan
+  Tags:
+  - Calder (Vast Error)
+  - 'cw: blood (abstract)'
   Source: >-
     [SoundCloud](https://soundcloud.com/pragmaticnihilist/cheap)
 Referenced Tracks:
@@ -289,33 +402,44 @@ URLs:
 - https://soundcloud.com/pragmaticnihilist/cheap
 ---
 Track: Expanse Of All
+Bandcamp Track ID: 1734412921
 Duration: 3:00
 Artists:
 - WHATISLOSTINTHEMINES
 Cover Artists:
 - Cristata
+Art Tags:
+- Laivan (Vast Error)
+- Haniel (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/expanse-of-all
 - https://www.youtube.com/watch?v=9QiJ2ugdWmc
 - https://soundcloud.com/whats-this-thing-here/expanse-of-all
 ---
 Track: Indefinite Progress
+Bandcamp Track ID: 3980287549
 Duration: 2:38
 Artists:
 - dbnet18
 Cover Artists:
 - Aeritus
+Art Tags:
+- Murrit (Vast Error)
+- Gusion (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/indefinite-progress
 - https://www.youtube.com/watch?v=NwINque1-EA
 ---
 Track: Refutation
 Suffix Directory: true
+Bandcamp Track ID: 3370187870
 Duration: 3:10
 Artists:
 - Viridian
 Cover Artists:
 - bakudadadan
+Art Tags:
+- Dismas (Vast Error)
 Referenced Tracks:
 - Scarred For Life
 URLs:
@@ -324,22 +448,30 @@ URLs:
 - https://soundcloud.com/viridian01/refutation
 ---
 Track: Furbish
+Bandcamp Track ID: 4197420675
 Duration: 2:43
 Artists:
 - Rnd
 Cover Artists:
 - anemonta
+Art Tags:
+- Jentha (Vast Error)
+#- Furby
 URLs:
 - https://vasterror.bandcamp.com/track/furbish
 - https://www.youtube.com/watch?v=rzd58vqDIvI
 ---
 Track: Be All End All
+Bandcamp Track ID: 734554443
 Duration: 2:06
 Artists:
 - dbnet18
 Track Artwork:
 - Artists:
   - Deer
+  Tags:
+  - Serpaz (Vast Error)
+  - Sorush (Vast Error)
 - Label: Alternate art
   Directory: alternate
   Attach Above: true
@@ -352,63 +484,84 @@ Referenced Tracks:
 ---
 Track: Solidarity
 Suffix Directory: true
+Bandcamp Track ID: 3787081869
 Duration: 4:16
 Artists:
 - Ucklin
 Cover Artists:
 - yorozuya
+Art Tags:
+- Albion (Vast Error)  # twice  -via t2k [just for yaml]
 URLs:
 - https://vasterror.bandcamp.com/track/solidarity
 - https://www.youtube.com/watch?v=CaKEqOMlNCw
 ---
 Track: Aortian Embrace
+Bandcamp Track ID: 406490362
 Duration: 3:56
 Artists:
 - WHATISLOSTINTHEMINES
 Cover Artists:
 - Cristata
+Art Tags:
+- Sova (Vast Error)
+- Jegudial (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/aortian-embrace
 - https://www.youtube.com/watch?v=ABbSvChHBDg
 - https://soundcloud.com/whats-this-thing-here/aortian-embrace
 ---
 Track: Fine With You
+Bandcamp Track ID: 252382818
 Duration: 3:10
 Main Release: track:PiLLS
 Artists:
 - Alex Votl
 Cover Artists:
 - falthiere
+Art Tags:
+- Serpaz (Vast Error)
+- Laivan (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/fine-with-you
 - https://www.youtube.com/watch?v=Ba0s69GmNtA
 ---
 Track: One Step Forward
+Bandcamp Track ID: 655647902
 Duration: 4:17
 Artists:
 - Rachel Rose Mitchell
 Cover Artists:
 - Greaserparty
+Art Tags:
+- Arcjec (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/one-step-forward
 - https://www.youtube.com/watch?v=uOg72SiUDbw
 ---
 Track: Soul Shaded
+Bandcamp Track ID: 3425440697
 Duration: 2:18
 Artists:
 - dbnet18
 Cover Artists:
 - Deer
+Art Tags:
+- Taz (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/soul-shaded
 - https://www.youtube.com/watch?v=gdZOm85AfDI
 ---
 Track: A Flesh Cage Of Emotion
+Bandcamp Track ID: 1695786225
 Duration: 3:00
 Artists:
 - Veritas Unae
 Cover Artists:
 - Phil Gibson
+Art Tags:
+- Taz (Vast Error)
+- Azbogah (Vast Error)
 Referenced Tracks:
 - Solana
 URLs:
@@ -416,11 +569,14 @@ URLs:
 - https://www.youtube.com/watch?v=eJm31GI-c9g
 ---
 Track: Oversaturated (Elevator Mix)
+Bandcamp Track ID: 3508914404
 Duration: 0:49
 Artists:
 - pragmaticNihilist
 Cover Artists:
 - Acyl
+Art Tags:
+- Calder (Vast Error)
 Referenced Tracks:
 - track:oversaturated-vast-error
 URLs:
@@ -428,11 +584,17 @@ URLs:
 - https://www.youtube.com/watch?v=7wqx7-LnaDU
 ---
 Track: Good Old Hornless Jerryatric
+Bandcamp Track ID: 3779340229
 Duration: 2:29
 Artists:
 - Mathias Ramalho
 Cover Artists:
 - Cereovo
+Art Tags:
+- Murrit (Vast Error)
+- Arcjec (Vast Error)
+- Serpaz (Vast Error)
+- Laivan (Vast Error)
 Referenced Tracks:
 - Seinfeld Theme
 URLs:
@@ -454,12 +616,16 @@ Referencing Sources: |-
     <audio src="media/misc/good-old-hornless-jerryatric-THIS-IS-SEINFEEEELD.mp3" inline></audio>
 ---
 Track: Chamber Cultist
+Bandcamp Track ID: 1607281296
 Duration: 2:32
 Artists:
 - dbnet18
 Cover Artists:
 - Sparaze
 Art Tags:
+- Edolon (Vast Error)
+- Seinru (Vast Error)
+- Gaiaeon (Vast Error)
 - 'cw: blood'
 URLs:
 - https://vasterror.bandcamp.com/track/chamber-cultist
@@ -467,12 +633,16 @@ URLs:
 ---
 Track: Transmuted
 Suffix Directory: true
+Bandcamp Track ID: 858308259
 Duration: 3:44
 Artists:
 - SplitSuns
 Cover Artists:
 - Ephemerald
 Art Tags:
+- Occeus (Vast Error)
+- Rogi (Vast Error)
+- Ellsee (Vast Error)
 - 'cw: blood'
 Referenced Tracks:
 - Third Eye
@@ -504,11 +674,25 @@ Referencing Sources: |-
     Kurt "Rnd" Burton - [[track:intermission-beyond-the-wall|Beyond the Wall]]
 ---
 Track: Farewell But Not Goodbye
+Bandcamp Track ID: 273883666
 Duration: 4:24
 Artists:
 - Viridian
 Cover Artists:
 - SilentNeptune
+Art Tags:
+- Arcjec (Vast Error)
+- Taz (Vast Error)
+- Laivan (Vast Error)
+- Ellsee (Vast Error)
+- Murrit (Vast Error)
+- Jentha (Vast Error)
+- Dismas (Vast Error)
+- Calder (Vast Error)
+- Serpaz (Vast Error)
+- Albion (Vast Error)
+- Sova (Vast Error)
+- Occeus (Vast Error)
 Referenced Tracks:
 - Curtain Call
 URLs:
@@ -518,11 +702,25 @@ URLs:
 ---
 Track: Pandora
 Suffix Directory: true
+Bandcamp Track ID: 3307192340
 Duration: 7:12
 Artists:
 - pragmaticNihilist
 Cover Artists:
 - rigamo12
+Art Tags:
+- Arcjec (Vast Error)
+- Taz (Vast Error)
+- Laivan (Vast Error)
+- Ellsee (Vast Error)
+- Murrit (Vast Error)
+- Jentha (Vast Error)
+- Dismas (Vast Error)
+- Calder (Vast Error)
+- Serpaz (Vast Error)
+- Albion (Vast Error)
+- Sova (Vast Error)
+- Occeus (Vast Error)
 Referenced Tracks:
 - Sortir
 - Waltz In The Static Void
@@ -540,11 +738,26 @@ URLs:
 ---
 Track: Bittersweet
 Suffix Directory: true
+Bandcamp Track ID: 1457539268
 Duration: 3:08
 Artists:
 - Alex Votl
 Cover Artists:
 - big chalupa
+Art Tags:
+- Arcjec (Vast Error)
+- Taz (Vast Error)
+- Laivan (Vast Error)
+- Ellsee (Vast Error)
+- Murrit (Vast Error)
+- Jentha (Vast Error)
+- Dismas (Vast Error)
+- Calder (Vast Error)
+- Serpaz (Vast Error)
+- Albion (Vast Error)
+- Sova (Vast Error)
+- Occeus (Vast Error)
+- Gaiaeon (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/bittersweet
 - https://www.youtube.com/watch?v=wPW65crQce0
@@ -563,12 +776,17 @@ Additional Names:
     Nothing Special (Bonus)
   Annotation: >-
     album download
+Bandcamp Track ID: 3017755722
 Duration: 3:46
 Artists:
 - Cristata
 - FRUITYTEE
 Cover Artists:
 - Vast Error
+Art Tags:
+- Laivan (Vast Error)
+- Laivan's lusus (Vast Error)
+- Haniel (Vast Error)
 URLs:
 - https://vasterror.bandcamp.com/track/bonus-nothing-special
 - https://www.youtube.com/watch?v=qrBP_OQDLM4
@@ -583,11 +801,14 @@ Additional Names:
     Twelve By Twelve (Bonus)
   Annotation: >-
     album download
+Bandcamp Track ID: 3752158509
 Duration: 2:48
 Artists:
 - Viridian
 Cover Artists:
 - Vast Error
+Art Tags:
+- Arcjec (Vast Error)
 Referenced Tracks:
 - Six By Six
 URLs:

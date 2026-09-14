@@ -1,4 +1,5 @@
 Album: Cool and New Homestuck
+Directory Suffix: canmt
 Date: September 3, 2016 12:00:01
 Date Added: April 13, 2023
 URLs:
@@ -23,16 +24,11 @@ Additional Files:
 - Title: Album Booklet
   Files:
   - Cool and New Homestuck Disc 1.pdf
-- Title: Harleband Full Art
-  Files:
-  - harleband.png
 Music Videos:
-- Title: Cool and New Homestuck (playlist)
-  Label: Playlist rescoring Homestuck flashes
+- Label: Playlist rescoring Homestuck flashes
+  Title: Cool and New Homestuck
   Directory: playlist
   URL: https://www.youtube.com/playlist?list=PLMXVVm-BDvr-NZW8MecTyvi-YwyMHG4l3
-  Artists:
-  - Bambosh
 - Title: Trailer - Cool and New Homestuck
   Label: Trailer
   Date: September 2, 2016
@@ -51,6 +47,7 @@ Commentary: |-
 Section: Act 1
 ---
 Track: 『SHOWTIME』 ~~BEGIN CANH ACT 1~~
+Bandcamp Track ID: 2562962645
 Artists:
 - Cecily Renns
 Duration: 00:05
@@ -59,8 +56,13 @@ URLs:
 - https://www.youtube.com/watch?v=gQwViq6qdAg
 Referenced Tracks:
 - Showtime (Original Mix)
+Music Videos:
+- Label: Disc break
+  Title: Insert Disc 1
+  URL: https://www.youtube.com/watch?v=gQwViq6qdAg
 ---
 Track: Backyard Dumb
+Bandcamp Track ID: 2632120387
 Artists:
 - Bambosh
 Contributors:
@@ -79,6 +81,10 @@ Referenced Tracks:
 # Sampled Tracks:
 # - Backyard Fun
 # - Loud Nigra
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] ==>'
+  URL: https://www.youtube.com/watch?v=A-DOd47WIpk
 Lyrics: |-
     (It's another humdrum summer day... And I am boooreddddd. B! O! R! E! D! Bored!)
     (B!) (Bore—)
@@ -96,6 +102,7 @@ Commentary: |-
     Bambosh here again. [[artist:413]] was too tired to write any commentary and told me to markov chain it for him. I don't know why I'd do that though, when I've just been handed something like 22 boxes to shitpost in on a silver platter. Brace yourselves. If you see 413 as the artist [or composer] credit, it's gonna be me in the box. It's a Bambosh box. A Bambox.
 ---
 Track: Showtime (Marching Band)
+Bandcamp Track ID: 2015006367
 Artists:
 - '413'
 Cover Artists:
@@ -111,6 +118,10 @@ Art Tags:
 - Jaed
 Referenced Tracks:
 - Showtime (Original Mix)
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] STRIFE!'
+  URL: https://www.youtube.com/watch?v=NpiUEse6ajM
 Commentary: |-
     <i>Bambosh:</i> (substitute 413)
     I'm not sure what 413 did to make this song, but it sounds like he chucked the [[Showtime (Original Mix)|original Showtime chiptune]] into a midi converter and changed some of the midi instruments around. I kind of unironically love this song though. Despite how chaotic it is, it's inexplicably satisfying to listen to.
@@ -126,6 +137,7 @@ Commentary: |-
     <img src="media/misc/references/abbey-road.jpg" width="150">
 ---
 Track: Sburban Cascantdown
+Bandcamp Track ID: 1822504305
 Artists:
 - Noisemaker
 Cover Artists:
@@ -141,6 +153,10 @@ Referenced Tracks:
 - Sburban Countdown
 Sampled Tracks:
 - track:cascante
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] John: Take bite of apple.'
+  URL: https://www.youtube.com/watch?v=IK-fhEuYqUE
 Commentary: |-
     <i>Noisemaker:</i>
     To be completely honest it's just [[track:cascante]] from [[album:cool-and-new-voulem1|Voulem 1]]. I regret not using my otamatone but at least [[artist:bambosh|Bambosh]] got some [[track:backyard-dumb|sweet use]] out of it.
@@ -152,6 +168,7 @@ Commentary: |-
 Section: Act 2
 ---
 Track: 『EXPLORE』 ~~BEGIN CANH ACT 2~~
+Bandcamp Track ID: 675497912
 Artists:
 - Cecily Renns
 Duration: 00:08
@@ -160,10 +177,15 @@ URLs:
 - https://www.youtube.com/watch?v=ONzT-xVJMYE
 Referenced Tracks:
 - Explore
+Music Videos:
+- Label: Act break
+  Title: Begin Act 2
+  URL: https://www.youtube.com/watch?v=ONzT-xVJMYE
 ---
 Track: Aggrieve!
-Directory: aggrieve-canmt
+Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 1250809041
 Artists:
 - Wheals
 Cover Artists:
@@ -180,6 +202,10 @@ Referenced Artworks:
 Referenced Tracks:
 - track:conflict
 - Aggrieve
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Rose: Youth roll right out the front door.'
+  URL: https://www.youtube.com/watch?v=sdWWB8MYnBk
 Commentary: |-
     <i>Wheals:</i>
     Aggrieve! by wheals is licensed under a cc-by-nc-sa Creative Commons License.
@@ -199,6 +225,7 @@ Commentary: |-
     All I did was give the horse Doctor Chestnut Gallopsby's colors. I can use the bucket tool in Paint.net!
 ---
 Track: UPWARD REDVX
+Bandcamp Track ID: 1497755991
 Artists:
 - Minkt
 Cover Artists:
@@ -214,6 +241,10 @@ Art Tags:
 Referenced Tracks:
 - Upward Movement (Dave Owns)
 - Beatdown (Strider Style)
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Dave: Ascend to the highest point of the building.'
+  URL: https://www.youtube.com/watch?v=59LfsFXgYkw
 Commentary: |-
     <i>Minkt:</i>
     I really enjoyed the original Upward Movement, and felt that the new one would have to be even better to do the original justice. I have been infatuated with music that is more synthesised ever since I gave the Hotline Miami soundtrack a listen, so there is some inspiration there. The first version of this redvx had base midi drums and a guitar synthesizer and seemed off, so I looked up how to make synths like those in Hotline Miami and similar synthwave creations. After throwing on a new drum kit and synth, the song surprised me by actually sounding good. I'd like to thank Makin and others for giving the original a listen and telling me how to fix it, and the rest of the music and art team for putting out this COOL and NEW masterpiece. [[media:misc/JaedAngery.png|:JaedAngery:]]
@@ -225,6 +256,7 @@ Commentary: |-
     Let the record show that the dabe text in this artwork was so pixellated that I had to re-write over it, which is what you see now
 ---
 Track: Cascantan Reversal
+Bandcamp Track ID: 4227073089
 Artists:
 - Noisemaker
 Cover Artists:
@@ -237,6 +269,10 @@ Art Tags:
 - Earth
 Referenced Tracks:
 - Sburban Cascantdown
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] WV: Hasten to the exit post-haste!'
+  URL: https://www.youtube.com/watch?v=NCEOhrzZP6A
 Commentary: |-
     <i>Noisemaker:</i>
     To be completely honest it's just Sburban Cascantdown from 10 minutes ago but it slows down at the end
@@ -247,6 +283,7 @@ Commentary: |-
     Our one standard is that it has to be 1400x1400 (even though Bandcamp scales it down to 700x700!). So in redoing it, I decided to keep the original concept while using the freshest possible Bowmeme.
 ---
 Track: Explored
+Bandcamp Track ID: 10151650
 Artists:
 - ostrichlittledungeon
 Cover Artists:
@@ -266,6 +303,10 @@ Referenced Tracks:
 - Upward Movement (Dave Owns)
 Sampled Tracks:
 - Mayor Maynot
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] WV: Ascend.'
+  URL: https://www.youtube.com/watch?v=u_l1lrKJ-_k
 Lyrics: |-
     Mayor, mayor, mayor, mayor mayor mayor, mayor, mayor
     Mayor mayor, mayor mayor, mayor mayor mayor, mayor mayor, mayor
@@ -287,6 +328,7 @@ Commentary: |-
 Section: Act 3
 ---
 Track: 『JUNGLE』 ~~BEGIN CANH ACT 3~~
+Bandcamp Track ID: 1805720657
 Artists:
 - Cecily Renns
 Duration: 00:08
@@ -295,8 +337,13 @@ URLs:
 - https://www.youtube.com/watch?v=NbCIUpM0Kn0
 Referenced Tracks:
 - Sburban Jungle
+Music Videos:
+- Label: Act break
+  Title: Begin Act 3
+  URL: https://www.youtube.com/watch?v=NbCIUpM0Kn0
 ---
 Track: Heedful Fads
+Bandcamp Track ID: 1390598194
 Artists:
 - flagellumVagueness
 Cover Artists:
@@ -306,13 +353,17 @@ URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/heedful-fads
 - https://www.youtube.com/watch?v=RZuTeTfP4rM
 Art Tags:
-- Jack Noir
+- Spades Slick
 - DD
 - CD
 - HB
 Referenced Tracks:
 - Dead Shuffle
 - licord nacrasty
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] MIDNIGHT CREW: ACT 1031'
+  URL: https://www.youtube.com/watch?v=RZuTeTfP4rM
 Commentary: |-
     <i>flagellumVagueness:</i>
     It's pretty much just Dead Shuffle with crappier instrumentation and a few deliberately wrong notes. To mix it up a bit I changed the bassline to the melody for Licord Nacrasty in the 3rd "verse". Also, Heedful Fads is an anagram of Dead Shuffle, in case you were wondering.
@@ -321,6 +372,7 @@ Commentary: |-
     This is the best serious cover I've done so far. It's fucking great. I love it and I'm super proud, even if it was a fairly simple job. I've also got a really nice version with the Vento Aureo gangsters, which I guess I'll use somewhere else if there's interest. But damn, this cover's great.
 ---
 Track: Smackdown
+Bandcamp Track ID: 2381452787
 Artists:
 - Noisemaker
 Cover Artists:
@@ -335,6 +387,10 @@ Art Tags:
 - Earth
 Referenced Tracks:
 - Beatdown (Strider Style)
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Dave: STRIFE.'
+  URL: https://www.youtube.com/watch?v=UTHTYTGjl_E
 Commentary: |-
     <i>Noisemaker:</i>
     This one isn't all THAT special, I guess. It's pretty much just a Beatdown cover.
@@ -345,21 +401,30 @@ Commentary: |-
     Part one of a three part trilogy, for both art and song. Absolutely poetic. Each one of the three pieces of art 413 created for are of the same scene, but in a different style. HOW AMBITIOUS OF HIM HMMMMMMMMMMMMMMMMM
 ---
 Track: HarleBand
+Bandcamp Track ID: 2215025639
 Artists:
 - '413'
-Cover Artists:
-- Minish
 Duration: 01:18
 URLs:
 - https://coolandnewwebcomic.bandcamp.com/track/harleband
 - https://www.youtube.com/watch?v=7RFySwRO-aY
-Art Tags:
-- Jhon
+Track Artwork:
+- Artists:
+  - Minish
+  Tags:
+  - Jhon
+- Label: Full-size artwork
+  Directory: full
+  Attach Above: true
 Referenced Artworks:
 - Harleboss (composition)
 Referenced Tracks:
 - Harleboss
 - Spider-Man
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Jade: Descend.'
+  URL: https://www.youtube.com/watch?v=7RFySwRO-aY
 Commentary: |-
     <i>Bambosh:</i> (413 entrustee)
     I'm not really sure what to say about this one. It's kind of just
@@ -367,11 +432,12 @@ Commentary: |-
     The rest of that sentence can remain blank. Man, commenting on someone else's stuff is difficult. I'm sure there was like, a really interesting story behind the creation that I'll never be able to tell because I'm a big ol' dumbo
 
     <i>Minish:</i>
-    I made the track art for this song using a frame I screenshotted from the flash itself, which you can find [here](http://i.imgur.com/9wrqRmx.png).  Also, the track art was actually cropped. If you want the original, you can find it [[media:album-additional/cool-and-new-homestuck/harleband.png|here]].
+    I made the track art for this song using a frame I screenshotted from the flash itself, which you can find [[media:misc/archive/harleband/9wrqRmx.png|here]].  Also, the track art was actually cropped. If you want the original, you can find it [[media:album-art/cool-and-new-homestuck/harleband-full.png|here]].
 
     Also Minish on Kazoo is cancelled indefinitely sorry folks
 ---
 Track: Slamdown
+Bandcamp Track ID: 180126446
 Artists:
 - Noisemaker
 Cover Artists:
@@ -388,6 +454,10 @@ Referenced Artworks:
 - Smackdown (composition)
 Referenced Tracks:
 - Smackdown
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Dave: Abscond.'
+  URL: https://www.youtube.com/watch?v=itgHSGiehyE
 Commentary: |-
     <i>Noisemaker:</i>
     dunnn duh-du-du-dun dunnn duh-dun du-dundah-dun-dah
@@ -401,6 +471,7 @@ Commentary: |-
     ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔ ⅔
 ---
 Track: Chorale for Caliborn
+Bandcamp Track ID: 1479397794
 Artists:
 - '413'
 Cover Artists:
@@ -415,6 +486,10 @@ Art Tags:
 - Caliborn
 Referenced Tracks:
 - Chorale for Jaspers
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Rose: Fast forward to now.'
+  URL: https://www.youtube.com/watch?v=VjRvdsjseXc
 Commentary: |-
     <i>Bambosh:</i> (til the 413 comes home)
     IT'S THE 413BOSH DOUBLE BILL
@@ -444,6 +519,7 @@ Commentary: |-
     - Wave to us! We'll be in row 118,000
 ---
 Track: Reveilleawesome- Sad Polka Mix (With Gong) (No Vocals)
+Bandcamp Track ID: 258600510
 Artists:
 - Cryptanark
 Cover Artists:
@@ -457,6 +533,10 @@ Art Tags:
 Referenced Tracks:
 - Reveille
 - Revelawesome
+Music Videos:
+- Label: Rescored flash
+  Title: "[S] John: Examine your dad's room."
+  URL: https://www.youtube.com/watch?v=Cer62sx8QIM
 Commentary: |-
     <i>Cryptanark:</i>
     [[artist:bambosh|Bambosh]] said "BE CREATIVE" and this is the result. Also, I wanted to throw in something a little lighthearted to contrast all of the other TOP QUALITY songs in this album.
@@ -465,6 +545,7 @@ Commentary: |-
     I'm shit at drawing accordions but I hope it was worth it.
 ---
 Track: Oh God
+Bandcamp Track ID: 1611264288
 Artists:
 - Griever
 Cover Artists:
@@ -483,6 +564,10 @@ Sampled Tracks:
 # - Metal Gear Rising: Revengeance
 # - The Office S05E09
 # - Tough Guys Don't Dance
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] John: Mental breakdown.'
+  URL: https://www.youtube.com/watch?v=BqKqIid20qs
 Lyrics: |-
     (Oh my God! Oh my God! Oh, no!) (Free will is a myth. Religion is a joke.)
     (Oh my God! Oh God!) (NOO GOD! NO. GOD. PLEASE. NO. NO!!! NO!!! NOOOOOO!!!)
@@ -497,6 +582,7 @@ Commentary: |-
     PS: The Office is actually a pretty good show, worth watching. Troll 2 isn't.
 ---
 Track: The Beginning of Something Really Electronic
+Bandcamp Track ID: 957248801
 Artists:
 - Wheals
 Cover Artists:
@@ -513,6 +599,10 @@ Referenced Tracks:
 Sampled Tracks:
 - Blue Atom
 - Sonic Electronic
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Jade: Dream up extra arms and play advanced bass solo.'
+  URL: https://www.youtube.com/watch?v=irQyIrWR1JE
 Lyrics: |-
     Ding, ding, ding
     Get the ring, ring, ring
@@ -572,7 +662,8 @@ Commentary: |-
     So coooooool!
 ---
 Track: Contra
-Directory: contra-canmt
+Suffix Directory: true
+Bandcamp Track ID: 1347964821
 Artists:
 - Noisemaker
 Cover Artists:
@@ -589,6 +680,10 @@ Referenced Artworks:
 - Smackdown (composition)
 Referenced Tracks:
 - Versus
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Dave: Strife!'
+  URL: https://www.youtube.com/watch?v=B94mnzxXMkA
 Commentary: |-
     <i>Noisemaker:</i>
     I'm pretty happy with this one, but it doesn't really work as a standalone song because it's trying pretty hard to sync to the animation (maybe i'll do an extended version wink wonk)
@@ -599,6 +694,7 @@ Commentary: |-
     And heeer it iss.
 ---
 Track: SFXan Jungle
+Bandcamp Track ID: 23868653
 Artists:
 - ft-rj
 Cover Artists:
@@ -609,6 +705,10 @@ URLs:
 - https://www.youtube.com/watch?v=-pGcxicduNI
 Referenced Tracks:
 - Sburban Jungle
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Enter.'
+  URL: https://www.youtube.com/watch?v=-pGcxicduNI
 Commentary: |-
     <i>ft-rj:</i>
     Don't give this man soundfonts and free time.
@@ -617,6 +717,7 @@ Commentary: |-
     Um okay so I didn't do this track. Nor this art. Nor have I even listened to this track. But I'm sure at the very least you enjoyed listening to it, after all you cared enough to look at the creators commentary, but unfortunatly it doesn't have any, so you get this shit instead
 ---
 Track: Three in the Morning (4 1/3 Hours Late Remix; CaNon edit)
+Bandcamp Track ID: 1986648712
 Artists:
 - Ngame
 Cover Artists:
@@ -635,6 +736,10 @@ Referenced Tracks:
 Sampled Tracks:
 - Three in the Morning (4 1/3 Hours Late Remix)
 - Michael Bowman Remix
+Music Videos:
+- Label: Rescored flash
+  Title: '[S][I] ==>'
+  URL: https://www.youtube.com/watch?v=NeVD6cDJJEA
 Lyrics: |-
     (My name is Constable "Meat Cubes" Houston, I will eat five BIG FUCKING SHIT-FILLED ADULT hat stores in one humdrum summer day, and then my crippling addiction to pornography will be buried alive.)
 
@@ -647,6 +752,7 @@ Commentary: |-
 Section: Act 4
 ---
 Track: 『FLARE』 ~~BEGIN CANH ACT 4~~
+Bandcamp Track ID: 1090741470
 Artists:
 - Cecily Renns
 Duration: 00:07
@@ -655,8 +761,13 @@ URLs:
 - https://www.youtube.com/watch?v=PZACHeI5kX8
 Referenced Tracks:
 - Flare
+Music Videos:
+- Label: Act break
+  Title: Begin Act 4
+  URL: https://www.youtube.com/watch?v=PZACHeI5kX8
 ---
 Track: Neverending Ascent
+Bandcamp Track ID: 1160708940
 Artists:
 - ft-rj
 Cover Artists:
@@ -672,8 +783,13 @@ Referenced Artworks:
 - Endless Climb (minor edit)
 Referenced Tracks:
 - Endless Climb
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] ==>'
+  URL: https://www.youtube.com/watch?v=DvxERjA1HpM
 ---
 Track: Atomyk Scy-Fy
+Bandcamp Track ID: 4168261614
 Artists:
 - BitesizeBird
 - scumstar
@@ -687,6 +803,10 @@ Art Tags:
 - Dabe
 Referenced Tracks:
 - Atomyk Ebonpyre
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Dave: Accelerate.'
+  URL: https://www.youtube.com/watch?v=y-NtfKxnYSU
 Commentary: |-
     <i>BitesizeBird:</i>
     Atomyk Ebonpyre...
@@ -696,6 +816,7 @@ Commentary: |-
     I wanted to throw in a tiny bit of my signature crappy art for this album, and I decided to do something for this song. I wanted to have Dave doing some sci-fi thing but I wasn't sure what. Then someone suggested I should do naked Dabe in space, and that's what I did. I think it almost looks good with somewhat decent shading and a convincing space background stock photo.
 ---
 Track: Venom Pools for Eons
+Bandcamp Track ID: 3906724300
 Artists:
 - Cecily Renns
 Cover Artists:
@@ -714,6 +835,10 @@ Referenced Tracks:
 - go down (Fanon Cut)
 Sampled Tracks:
 - The Ballad of Jack Noir (original)
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Jack: Ascend.'
+  URL: https://www.youtube.com/watch?v=fsUQ2tzIZ5M
 Lyrics: |-
     Archagent everlasting
 Commentary: |-
@@ -730,6 +855,7 @@ Commentary: |-
     NEXT BOX
 ---
 Track: Checkmate (Should I use Stalemate instead since there's already a song called Checkmate?)
+Bandcamp Track ID: 784687559
 Artists:
 - Noisemaker
 Cover Artists:
@@ -744,6 +870,10 @@ Referenced Tracks:
 - Three Gates
 - Harlequin
 - track:liquid-negrocity
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] WV?: Rise up.'
+  URL: https://www.youtube.com/watch?v=mCTAOhNmk6s
 Commentary: |-
     <i>Noisemaker:</i>
     Oh Jesus, is this going to be the actual name now?
@@ -756,6 +886,7 @@ Commentary: |-
     PS: No, I'm not apologizing for using the same type of brush on every fucking thing on this art. Fuck you
 ---
 Track: How do I live? (Put the quality back in the album version)
+Bandcamp Track ID: 1120266354
 Artists:
 - Bambosh
 Contributors:
@@ -770,6 +901,10 @@ Art Tags:
 - Sonic
 Referenced Tracks:
 - How Do I Live (Bunny Back in the Box Version)
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] John: Reunite with your loving wife and daughter.'
+  URL: https://www.youtube.com/watch?v=dZ292YZ2LA8
 Lyrics: |-
     How do I
     Get through one night without you?
@@ -822,6 +957,7 @@ Commentary: |-
     meme
 ---
 Track: go down (cool and new Mix) (feat. John J "Damn, Now Those Are Some Tunes" Renns)
+Bandcamp Track ID: 4191319570
 Artists:
 - Cecily Renns
 Cover Artists:
@@ -862,6 +998,10 @@ Referenced Tracks:
 - Sburban Jungle
 - Skies of Skaia
 - Meet the Flintstones
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Descend.'
+  URL: https://www.youtube.com/watch?v=9o1NynQBOIg
 Commentary: |-
     <i>Interrobang:</i> (commentary collector)
     [[artist:413|413]] made some art for this, but it was waaaaay to small. We decided to instead use the original art for [[track:go-down-fanon-cut|Voul. 1's Go Down]] ([[artist:difarem|Dif]] didn't like it) instead. Did I mention we didn't ask Mira's permission to use it? No? Well, we didn't. What do you think this is, Pixar?
@@ -929,6 +1069,7 @@ Commentary: |-
 Section: Act 5
 ---
 Track: 『NEGASTRIFE』 ~~BEGIN CANH ACT 5~~
+Bandcamp Track ID: 933920280
 Artists:
 - Cecily Renns
 Duration: 00:09
@@ -937,8 +1078,13 @@ URLs:
 - https://www.youtube.com/watch?v=wirK53JLT4k
 Referenced Tracks:
 - Negastrife
+Music Videos:
+- Label: Act break
+  Title: Begin Act 5
+  URL: https://www.youtube.com/watch?v=wirK53JLT4k
 ---
 Track: the worst song on the album
+Bandcamp Track ID: 4250379864
 Artists:
 - ft-rj
 Cover Artists:
@@ -955,10 +1101,15 @@ Referenced Tracks:
 - Crystamanthequins
 # Sampled Tracks:
 # - GIVE THAT BOY SOME MILK! MOJO Synthetic drug trip [ORIGINAL] - https://www.youtube.com/watch?v=Vo-V5sPeYpk
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Make her pay.'
+  URL: https://www.youtube.com/watch?v=nOnyi9mM98E
 Lyrics: |-
     (Sombody, ohh!) (He needs some milk!)
 ---
 Track: Nurse Joy
+Bandcamp Track ID: 961598142
 Artists:
 - MoreEpicThanYou747
 Cover Artists:
@@ -972,6 +1123,10 @@ Art Tags:
 Referenced Tracks:
 - Homestuck
 - track:pokemon-center-pokemon-red-blue
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] ACT 5 ACT 2 ==>'
+  URL: https://www.youtube.com/watch?v=rcut2NILgME
 Commentary: |-
     <i>MoreEpicThanYou747:</i>
     I attempted to do something like this for the [[album:cool-and-new-volume-v|Doctor album]], but I found the Homestuck melody a lot easier to work with. This is also the first non-mashup musical project I've ever done, so congratulations to me for that.
@@ -982,6 +1137,7 @@ Commentary: |-
     I wanted to look for the original caliborn drawing so I said, hey let's google "dave karkat yaoi". The resulting PTSD caused what you're looking at.
 ---
 Track: CAN'T WAKE UP
+Bandcamp Track ID: 3231842270
 Artists:
 - Makin
 Cover Artists:
@@ -1007,6 +1163,10 @@ Sampled Tracks:
 # - Backyard Fun
 # - Loud Nigra
 - E.T.
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Jade: Wake up.'
+  URL: https://www.youtube.com/watch?v=ID0h3S8tzh4
 Lyrics: |-
     Fushigi da ne ima no kimochi (<i>This feeling, it's strange, isn't it?</i>)
     Sora kara futte kita mitai (<i>It's almost as though it came fluttering down from the sky</i>)
@@ -1047,6 +1207,7 @@ Commentary: |-
     In the flash file for [[flash:2848|Jade: Wake up]], Jade's sprite with this pose was green so I had to sit for ~15 minutes and recolor it while checking if I didn't miss any pixel.
 ---
 Track: Umbrella Tomato
+Bandcamp Track ID: 3723410272
 Artists:
 - Interrobang
 Cover Artists:
@@ -1078,6 +1239,10 @@ Sampled Tracks:
 - track:im-a-member-of-the-midnight-crew
 Lyrics: |-
     Make her a member of the midnight crew...
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Jade: Enter.'
+  URL: https://www.youtube.com/watch?v=sueEVD01x9o
 Commentary: |-
     <i>Interrobang:</i>
     I decided that I wanted to make one of these cool and new tracks, and, being late in the game, this was the one of the only ones left that I felt I could do justice. As a challenge to myself, I decided that I would not use [[Penumbra Phantasm]] at all in the song, which proved to be fairly difficult. The song follows the same structure as the original, but with mostly different motifs that fit the characters shown at points in [[flash:2927|the flash]]. At the end, I was going to include something serious, but I decided to do something more high quality instead. Special thanks to [[artist:cecily-renns|JohnJRenns]] for the help with DVS Sax, and Destradious for making [[media:album-additional/homestuck-vol-6/Umbral Ultimatum - Destradious.mid|the MIDI]] I based my song off of.
@@ -1086,6 +1251,7 @@ Commentary: |-
     pchoooot
 ---
 Track: Savior of oppositenesses
+Bandcamp Track ID: 2462499790
 Artists:
 - Shwan
 Cover Artists:
@@ -1102,6 +1268,10 @@ Referenced Tracks:
 - English
 - track:liquid-negrocity
 - White
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] JOHN. RISE UP.'
+  URL: https://www.youtube.com/watch?v=kAU4qw9sUVw
 Commentary: |-
     <i>Shwan:</i>
     The idea for the name is because i use savior of waking world >< end of the world(a song by ceru) and Black >< White. Easy gg. The drums i just copy paste the main melody into drums, turns out quite well.
@@ -1110,6 +1280,7 @@ Commentary: |-
     There has to be at least one timeline where SBURB assigned John the meme class, and this art tells that story.
 ---
 Track: Mayorlovania
+Bandcamp Track ID: 748889926
 Artists:
 - Noisemaker
 Cover Artists:
@@ -1124,6 +1295,10 @@ Referenced Tracks:
 - Ultralovania
 Sampled Tracks:
 - Mayor Maynot
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Wake.'
+  URL: https://www.youtube.com/watch?v=RifPGqC5Ulc
 Lyrics: |-
     [Mayor Maynot samples set to Megalovania]
 Commentary: |-
@@ -1137,6 +1312,7 @@ Commentary: |-
     Is this what it's like to die
 ---
 Track: I started a joke!
+Bandcamp Track ID: 2898025594
 Artists:
 - '413'
 Cover Artists:
@@ -1147,6 +1323,10 @@ URLs:
 - https://www.youtube.com/watch?v=2mBRsUnPcFo
 Art Tags:
 - Gamzee
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] 3x SHOWDOWN COMBO.'
+  URL: https://www.youtube.com/watch?v=2mBRsUnPcFo
 Commentary: |-
     <i>Bambosh:</i> (413 understander)
     The secret is nobody knows what the joke is.
@@ -1157,6 +1337,7 @@ Commentary: |-
     <img src="media/misc/wackyZany.png" width="48"><br>
 ---
 Track: You Know, You Could Cut Yourself With That Edge
+Bandcamp Track ID: 3928125782
 Artists:
 - Griever
 Cover Artists:
@@ -1183,6 +1364,10 @@ Sampled Tracks:
 # - The Office S05E09
 - air horn sad violin preview
 - track:crawling-linkin-park
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Seer: Descend. / [S] ==>'
+  URL: https://www.youtube.com/watch?v=UbVJlYkQ9E0
 Lyrics: |-
     (Oh my God!) (Where's that DAMN fourth Chaos Emerald?)
     (Oh God!) (Free will is a myth. Religion is a joke.)
@@ -1204,6 +1389,7 @@ Commentary: |-
     Shadow The Hedgehog was a legitimately fun game for me, despite how dumb it is. That kinda goes for Sonic Adventure 2, now that I think of it. It's weird to think how randomly edgy those two games were. There was a mad scientist ridden with grief because the government killed his dying daughter for no god damn reason, so he goes fucking crazy and has a plan to commit worldwide genocide because of it. That's pretty fucking hardcore if you ask me. But then Shadow The Hedgehog seemed to not entirely get why Sonic Adventure 2 was reasonable while it wasn't. Suddenly all the "edge" parts got played up to almost goofy levels (it's like taking candy from a baby, WHICH IS FINE BY ME), as opposed to the "ridiculous" parts being played up (NO DON'T TOUCH THAT LEVER, AHHHHH!!!). There's a difference between kids suddenly being confronted with a madman's delusions and then going in to fight a lizard, and between kids suddenly meeting Goku Satan and doing odd jobs for him and/or fighting him. The thing is that Shadow The Hedgehog takes its edge too seriously, while Sonic Adventure 2 balanced it out with, well, not subtlety (it wasn't an amazing story), but rather a half of the cast not really giving a shit about the edge.
 ---
 Track: UPW4RD SN1FFM3NT
+Bandcamp Track ID: 2230688085
 Artists:
 - cookiefonster
 Cover Artists:
@@ -1219,6 +1405,10 @@ Referenced Tracks:
 - Atomyk Ebonpyre
 - Beatdown (Strider Style)
 - Terezi Owns
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Seer: Ascend.'
+  URL: https://www.youtube.com/watch?v=IFeO8Us8xdM
 Commentary: |-
     <i>cookiefonster:</i>
     This was the first song I made for Cool and New Homestuck. When I first learned about that project I decided to do music for a flash that probably wouldn't be too popular, because I thought there would be a lot of fights over who gets to do music for flashes like Cascade and stuff. That turned out not to be true but whatever. Anyway, for this one I basically decided to make a piece to the likes of Terezi Owns out of multiple Dave motifs, so I used the classic drums from Upward Movement like in the original song and threw in some Atomyk Ebonpyre and some Beatdown, and later on I directly quoted Terezi Owns.
@@ -1229,6 +1419,7 @@ Commentary: |-
     Nope I can't think of anything. Guess it's time to reconsider the markov chains.
 ---
 Track: 'Deaf Injustice: Ignoration!!'
+Bandcamp Track ID: 377437772
 Artists:
 - cookiefonster
 - Shwan (arrangement)
@@ -1246,6 +1437,10 @@ Referenced Tracks:
 Sampled Tracks:
 - 'Deaf Injustice: Ignoration!! (No Effects Ver.)'
 - Bowman's Credit Score
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Flip.'
+  URL: https://www.youtube.com/watch?v=FcVv3FRgEAs
 Commentary: |-
     <i>cookiefonster:</i>
     I wasn't even originally going to do alternate music for this one. Originally this one was just going to use the existing song, "[[track:divine-justice-overload|Divine Justice: Overload]]". But when it turned out that wasn't allowed I decided to claim that one. It was originally going to be a collaboration between me and Shwan, where I would write the MIDI file and he would do glitch effects and add a transition between the beginning and main section and master it overall. But when Cerulean shared with me a mix of the intro in his musical style, I liked it so much that I let him [[track:deaf-injustice-ignoration-no-effects-ver|mix the whole song]] that way, and left Shwan to handle the glitch effects; the addition of Bowman's Credit Score glitches was a very pleasant surprise.<br>
@@ -1268,10 +1463,11 @@ Referenced Tracks:
 - 'Deaf Injustice: Ignoration!! (original version)'
 ---
 Track: tycoonival
+Bandcamp Track ID: 1076122880
 Artists:
 - Shwan
 Cover Artists:
-- VulkanShawl
+- pktgrillao
 Cover Art File Extension: jpg
 Duration: 02:04
 URLs:
@@ -1285,14 +1481,19 @@ Art Tags:
 Referenced Tracks:
 - The Carnival
 - RollerCoaster Tycoon Theme
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Attempt rare and highly dangerous 5x SHOWDOWN COMBO.'
+  URL: https://www.youtube.com/watch?v=jK0M_7t_YFg
 Commentary: |-
     <i>Shwan:</i>
     Since it's ¾ beat so i decide to put in RCT since its our main theme. It was pretty fun. I also really love using music box as an instruments.
 
-    <i>VulkanShawl:</i>
+    <i>pktgrillao:</i>
     Well. My first idea was "Edit a RCT image and put Gamzee and the other trolls of the flash" but i didn't knew how so i put a Space Rollercoaster with Gamzee in while he's launching Tavros' head. Also a friend said Tavros' blood looks like... y'know shit.
 ---
 Track: Timestop
+Bandcamp Track ID: 1686595241
 Artists:
 - Noisemaker
 Cover Artists:
@@ -1314,6 +1515,7 @@ Commentary: |-
     Noisemaker is my composer waifu and [[artist:griever|Griever]] forgot to add enough Jojo references so I thought I'd help him with that.
 ---
 Track: Flarezzzzzzz
+Bandcamp Track ID: 3303587616
 Artists:
 - Shwan
 Cover Artists:
@@ -1349,6 +1551,7 @@ Commentary: |-
     I love flair!!!!!!!
 ---
 Track: Savior of the Screaming Dead
+Bandcamp Track ID: 439036829
 Artists:
 - Griever
 Cover Artists:
@@ -1398,6 +1601,7 @@ Commentary: |-
     Well, the scene that the audio is taken from is the Super Saiyan Three scene in DBZ, so I just used a frame from that and put Jhon's head on it. I also added screaming things. This song is about creating something both cool and new out of nostalgic things - things that you've lived through your childhood with. Dragon Ball Z, Homestuck, they're both big parts of my young life. So this song in all its shitposty glory, IS something cool and new and fun and fresh and exciting, in my opinion, even if it just throws a bunch of memes onto a good song.
 ---
 Track: Black Yard, Green Fun
+Bandcamp Track ID: 3718748005
 Artists:
 - Shwan
 Cover Artists:
@@ -1437,8 +1641,13 @@ Referenced Tracks:
 - track:flarezzzzzzz
 - track:savior-of-the-screaming-dead
 - track:black-yard-green-fun
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Cascade.'
+  URL: https://www.youtube.com/watch?v=5ci7EDcT-7M
 ---
 Track: Tick Tock Comes the Bad Wolf
+Bandcamp Track ID: 544211532
 Artists:
 - Cecily Renns
 - cookiefonster
@@ -1456,6 +1665,10 @@ Referenced Tracks:
 - Tick
 - English
 - Tock
+Music Videos:
+- Label: Rescored flash
+  Title: '[S] Begin intermission 2.'
+  URL: https://www.youtube.com/watch?v=BeznzPMq0fY
 Lyrics: |-
     (Haa haa hee hee hoo hoo) (I need a towel) (I'm glasses) (Miracles)
 Commentary: |-
@@ -1479,6 +1692,7 @@ Commentary: |-
     Also I fucked up the line quality at some point while using the bucket tool, sorry for that. Hopefully it doesn't look awful in your music player of choice.
 ---
 Track: 『HOMESTUCK』 ~~END OF DISC 1~~
+Bandcamp Track ID: 44806424
 Artists:
 - Cecily Renns
 Duration: 00:08
@@ -1487,6 +1701,10 @@ URLs:
 - https://www.youtube.com/watch?v=AmtdXX2KoMk
 Referenced Tracks:
 - Homestuck Anthem
+Music Videos:
+- Label: Disc break
+  Title: End of Disc 1
+  URL: https://www.youtube.com/watch?v=AmtdXX2KoMk
 Commentary: |-
     <i>Cecily Renns:</i>
     [[artist:miraculousavantgarde|Mira]] came up with this idea of "act transitions" jokingly actually ; with just the names "Cool and New Act 1, Cool and New Act 2" et cetra. Then I just picked some major motifs from each act and made this. I was gonna do more than piano and bass, but this sounds good enough, The minimalistic nature accompanies the idea of it being just short transitions.

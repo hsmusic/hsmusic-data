@@ -32,7 +32,7 @@ Style: |-
         margin-bottom: 0.5em;
     }
 Content: |-
-    <h2 id="12-jun-2099" class="major-release"><html:a href="#12-jun-2099">[[date:12 June 2099]] - Ascension/Alignment/Conjugation</a></h2>
+    <h2 id="10-nov-2026" class="major-release"><html:a href="#10-nov-2026">[[date:10 November 2099]] - Ascension/Alignment/Conjugation</a></h2>
     <h3>site changes</h3>
     - added basic support for styling albums as "singles"
         - gets rid of the album page completely (which redirects to the first track)
@@ -42,9 +42,11 @@ Content: |-
         - essentially a custom presentation, so these are still treated like any other album within various parts of the wiki, pending progressively tighter integration
     - added "music videos" feature, which covers music videos of course, with support also for lyric videos, live performances, etc; currently applied across [[group:michael-guy-bowman]] discography, [[group:canmt]] discography, community listening streams, album trailers, and various tracks all around the wiki
     - added "by series" view to group gallery pages, which presents albums within their series instead of a single chronological grid; "by date" remains the default view
+    - added "previously featured tracks" field for flashes, which lists tracks that were at a previous time in the flash, but aren't any longer; generally used for removed and replaced material, like in [[flash:338]]
     - added "origin details" field for artworks, which enables totally custom descriptions about where an artwork comes from; displayed beneath "by (artists)" and "via (source)" line [[media:misc/changelog/artwork-origin-details-cover.png|on album and track pages]], as well as [[media:misc/changelog/artwork-origin-details-list.png|in artists' artwork lists]]; currently used for crops of comic panels and flashes across [[group:official]], and for asset credits in [[album:hiveswap-friendsim]]
         - added similar "file details" field, which has info about the specific file as included on the wiki, rather than details on the artwork itself
     - added "attach above" field for artworks, which visually links related artworks together (provided they're for the same track or album), and shuttles away identical data e.g. because the artworks have the same artists or tags, and adds auto-inheritence so those identical lists don't have to be typed out twice, either; all in all used for earlier versions of [[album:comfortable-bugs|album covers]] and [[track:white|track art]], [[track:awakening|full-size cuts]], and perhaps other useful places
+    - added "reuse from" field for artworks, indicating an artwork is reused from some earlier or other release, automatically keeping art tags and other details in sync, and trimming duplicates in artist and art tag gallery pages
     - revised the presentation of credits on artist info pages:
         - annotations, meaning an artist's specific contribution, are now shown always at the end of the line, following a "—"
         - the "with other artists" stretch of text has been completely removed, since it typically just confused credited roles, and the most detailed information is always available on the track page
@@ -84,15 +86,16 @@ Content: |-
     - added "Needs Lyrics" field, and a corresponding [[listing:tracks/needing-lyrics|Tracks - which need Lyrics]] listing
     - added support to hide an album's duration, which makes that duration and the album's track count disappear most places, and excludes the album from the [[listing:albums/by-tracks|"Albums - by Tracks"]] and [[listing:albums/by-duration|"Albums - by Duration"]] listings
     - added buttons to filter sidebar search results by kind (ex. tracks, albums, artists); chosen filter is preserved between consecutive searches; typing the kind you're looking for, e.g. searching "toby artist", still works too
+    - added "attached search results" so tracks show [[media:misc/changelog/attached-results-karkat-flash.png|the Homestuck flashes they're used in]], and "archetype" art tags show [[media:misc/changelog/attached-results-damara-tag.png|all the tags they group together]]
     - added a link in the search box to return to where you started your search, regardless if you've since navigated further
     - made the search database generally not mandate typing out the *entire* word (so "crystal" has [[media:misc/changelog/search-forward-fuzz.png|a lot more matches]]), unless you enclose those words in quotation marks... which is not *quite* the way 'verbatim' search is meant to work, but pretty close
     - made the search database guess reasonably at group information for artists, so you can search "james official" and get three results (versus 15 or so for just "james"), or just the first letter or two of an artist's name, like "desynced r"
     - made the search database include additional names, so searching "blind justice" comes up with results now
     - made the search database include secondary releases (generally rereleases) whose names differ from the main release, so searching "Predomination" comes up with results now
     - made the search database generally bring releases from [[group:official]] above releases from [[group:fandom]], [[group:fandom]] above [[group:beyond]], etc, provided the search results are matched for the same reasons
-    - made the search database show simple, name-only matches at the very top, instead of the bottom, e.g. [[album:homestuck-vol-3]] (name includes "vol", "3") is now above [[track:3-in-the-morning-pianokind]] (name includes "3", album includes "vol")
+    - made the search database show simple, name-only matches at the very top, instead of the bottom, and removed almost all "fancy" combinations of matchable metadata, so search results are usually much more predictable and sensible
     - made the search box disambiguate multiple tracks with the same name by showing which album each is from, e.g. [[track:light-vol5]] from [[album:homestuck-vol-5]] vs [[track:light-medium]] from [[album:medium]]
-    - made the search box disambiguate multiple resots *of different kinds* by showing their kind, e.g. [[album:s-collide]] the album vs [[flash:8087]] the flash
+    - added [[media:misc/changelog/art-tag-show-more.png|"show more"]] control on art tag info pages, showing a tag's "grandchildren" beyond the tags that directly fall under it
     - added tooltips to the "also released on" line on track info pages, so you can see how much earlier or later the other releases came, and know if the track is named differently between releases
     - made reference lists swap out tracks for an alternate release of the same track within the album you're currently viewing, ex. you can jump between [[track:showtime-piano-refrain-vol-1-4]] and [[track:showtime-original-mix-vol-1-4]] while staying in [[album:homestuck-vol-1-4]], now
     - expanded custom support for media elements in content text (e.g. commentary), with support for full-width images and videos, "nameless" audios which hide insubstantial filename, and inline / non-boxed videos
@@ -160,6 +163,8 @@ Content: |-
     - added [[album:wrong-number-song-camellia-remix]] by [[artist:camellia]]! (thanks, ruby!)
     - added [[album:the-witchs-archives]] by [[artist:witchs-cadence]]! (thanks, <<Lilith:album data, presentation, research>>, <<Lan:data review, crediting presentation help>>, plus <<Witch's Cadence:track sampling & referencing help>>, <<Jebb:wallpaper edit>>!)
     - added [[album:minecraft-steve-rocks-the-block]]! (thanks, <<ruby:album data & presentation>>, <<Lan:data review, presentation help>>!)
+    - added latest release from [[group:canmt]]! (thanks, <<Whisper:album data & presentation>>, <<Lilith:album data & presentation>>, <<Lan:album data, References Beyond Homestuck additions>>, plus <<koba:lyrics & references help>>, <<Cecily:commentary & references help>>, <<Makin:additional data, crediting help>>!)
+        - added [[album:cool-and-new-volume-4]]!
     - added latest release from [[group:unofficial-mspa-fans]]! (thanks, <<ruby:album data, presentation, research>>, plus <<Jebb:album presentation help>>, <<Lilith:URL fix, bonus track artwork data>>, <<Cello:bonus track artwork help>>, <<Makin:URLs & bonus track artwork crediting help>>, <<Monckat:track duration fix>>, <<vriska:lyric fixes>>!)
         - added [[album:kindred-souls]]!
     - added latest releases from [[group:michael-guy-bowman]]! (thanks, <<Lilith:album data, presentation, research>>, <<Lan:data review>>, plus <<Bowman:crediting help>>, <<ruby:data help>>!)
@@ -252,31 +257,49 @@ Content: |-
         - added [[album:deltarune-ch2-rejected-tracks]]!
         - added [[album:undertale-deltarune-newsletter-winter-2025]]!
     - prepared custom "in-game VGM" presentation for tracks previously under under [[album:references-beyond-homestuck]], "Music from video games":
+        - prepared [[group:ace-attorney]] in-game VGM! (thanks, Coral, Cello, ruby, Pascal!)
+        - prepared [[album:anima-reprise]] in-game VGM! (thanks, Lavender!)
+        - prepared [[album:assassins-creed-odyssey]] in-game VGM! (thanks, Coral!)
         - prepared [[album:bastion]] in-game VGM! (thanks, Cello, Coral!)
+        - prepared [[album:beatmania-6thmix]] in-game VGM! (thanks, Lavender!)
         - prepared [[album:binding-of-isaac-rebirth]] in-game VGM! (thanks, Cello!)
+        - prepared [[album:blazblue-calamity-trigger]] in-game VGM! (thanks, Lavender!)
+        - prepared [[album:bomberman-hero]] in-game VGM! (thanks, Lavender!)
         - prepared [[group:brandish]] in-game VGM! (thanks, Lan!)
+        - prepared [[album:castle-crashers]] in-game VGM! (thanks, Lavender!)
         - prepared [[album:cave-story]] in-game VGM! (thanks, Cello, Lan!)
         - prepared [[album:celeste]] in-game VGM! (thanks, Lan!)
         - prepared [[group:chrono]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[album:code-name-steam]] in-game VGM! (thanks, Coral!)
+        - prepared [[album:crazybus]] in-game VGM! (thanks, Lavender!)
+        - prepared [[album:crypt-of-the-necrodancer]] in-game VGM! (thanks, Lavender!)
         - prepared [[album:cuphead]] in-game VGM! (thanks, Cello!)
+        - prepared [[album:dark-souls]] in-game VGM! (thanks, Coral!)
         - prepared [[album:doom-1993]] in-game VGM! (thanks, Cello, Coral!)
+        - prepared [[album:the-elder-scrolls-v-skyrim]] in-game VGM! (thanks, Coral!)
         - prepared [[group:final-fantasy]] in-game VGM! (thanks, Lan!)
         - prepared [[group:friday-night-funkin]] in-game VGM! (thanks, Surge!)
-        - prepared [[group:halo]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[album:halo-3]] in-game VGM! (thanks, Cello, Lan!)
         - prepared [[album:hotline-miami]] in-game VGM! (thanks, Cello!)
         - prepared [[group:the-legend-of-zelda]] in-game VGM! (thanks, Lavender, ruby!)
+        - prepared [[album:mata-nui-online-game]] in-game VGM! (thanks, Lavender!)
         - prepared [[album:metal-slug]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[group:mother]] in-game VGM! (thanks, Lilith, Lan, Cello, Makin, Jebb, ruby!)
         - prepared [[album:nuclear-throne]] in-game VGM! (thanks, Cello!)
         - prepared [[album:oddity]] in-game VGM! (thanks, Cello, Lan!)
         - prepared [[album:off]] in-game VGM! (thanks, Cello!)
+        - prepared [[album:oneshot]] in-game VGM! (thanks, Coral!)
+        - prepared [[album:pizza-tower]] in-game VGM! (thanks, Coral!)
         - prepared [[group:pokemon]] in-game VGM! (thanks, ruby, bit!)
-        - prepared [[group:portal]] in-game VGM! (thanks, Cello!)
-        - prepared [[group:rayman]] in-game VGM! (thanks, Cello, Lan!)
+        - prepared [[album:portal-2]] in-game VGM! (thanks, Cello!)
+        - prepared [[album:rayman-origins]] in-game VGM! (thanks, Cello, Lan!)
         - prepared [[group:silent-hill]] in-game VGM! (thanks, Cello!)
         - prepared [[group:sonic-the-hedgehog]] in-game VGM! (thanks, ruby!)
+        - prepared [[album:super-hexagon]] in-game VGM! (thanks, Lilith!)
         - prepared [[album:system-shock-1994]] in-game VGM! (thanks, Cello, Lan!)
         - prepared [[group:touhou-project]] in-game VGM! (thanks, Lilith!)
         - prepared [[group:when-they-cry]] in-game VGM! (thanks, Lilith!)
+        - prepared [[album:vvvvvv]] in-game VGM! (thanks, Lilith!)
     <h3>other additions</h3>
     <!-- flash additions -->
     - added [[flash-act:beyond-canon]] flashes (thanks, vriska, Lan!)
@@ -290,20 +313,24 @@ Content: |-
     <!-- track additions -->
     - added various tracks to [[album:more-from-the-music-team]]:
         - added [[track:caliborn-malcolm-brown]] (thanks, Lavender, Erase!)
+        - added [[track:bridge-of-stars-preview-3]], [[track:the-changing-game-preview]], [[track:previews-1-22-2012]], and [[track:threes-a-crowd-preview]] (thanks, GameEymen, Lan, Coral!)
+        - added [[track:a-candle-in-the-ruins]] and [[track:fracta-sub-luna-1-6-2012]] (thanks, Coral!)
         - added [[track:expiration-date]] (thanks, Erase, Lilith!)
         - added [[track:heavfree-victory]] and [[track:greenspy]] (thanks, Lavender!)
         - added [[track:idea-1-erik-scheele]] (thanks, Erase, Lavender!)
         - added [[track:idea-4-erik-scheele]] (thanks, Erase, Lan!)
         - added [[track:irradiated-original]] (thanks, Lan, Lilith!)
+        - added [[track:knights-in-two-dreams]] (thanks, 301.09, Lilith, Coral!)
         - added [[track:moonsetter-5-14-2012]] (thanks, Kai.Dusk, Lan!)
+        - added [[track:the-metamorphosis-harbinger-of-the-outer-gods]], [[track:the-metamorphosis-the-solar-ascendancy]], and [[track:the-metamorphosis-treading-the-line]] (thanks, Lilith, Lavender!)
         - added [[track:plasmatic-blaquaciousness]] (thanks, Lilith, Jackie, Lan!)
         - added [[track:ruins-soundcloud]] (thanks, Mixolydian, Lavender!)
         - added [[track:sburban-strifer]] (thanks, ruby, Makin, Lan!)
         - added [[track:strains-of-skaia]] (thanks, Erase, Lilith, Lan!)
-        - added [[track:the-metamorphosis-harbinger-of-the-outer-gods]], [[track:the-metamorphosis-the-solar-ascendancy]], and [[track:the-metamorphosis-treading-the-line]] (thanks, Lilith, Lavender!)
         - added [[track:under-the-hat-original]] and [[track:under-the-hat-battle-mix]] (thanks, wertercatt, Whisper, Lan!)
         - added [[track:unnamed-wip-erik-scheele-tumblr-9-18-2011]] (thanks, Mixolydian, Lan!)
-        - added [[track:yet-more-sneakery]] (thanks, Niklink, Lavender, Interrobang, Lan!)
+        - added [[track:yet-more-sneakery]] (thanks, Niklink, Lavender, Interrobang, 301.09, Lilith, Lan, Coral!)
+    - added unreleased track [[track:fanfare]] (thanks, Do Not Open, Lan, Makin, erase!)
     - added missing DLC track, [[track:build-gate-swag-gate]], to [[album:sburb-ost]] (thanks, <<Cello:suggested this, lyrics>>, <<Lan:track data, presentation>>, <<Lilith:lyrics help>>, <<Whisper:lyrics help>>!)
     - added missing bonus tracks to [[album:chained-official-soundtrack]] (thanks, Lilith!)
     <!-- group additions -->
@@ -326,9 +353,6 @@ Content: |-
     <!-- series additions -->
     - added series for [[group:desynced]] (thanks, Lilith!)
     - added series for [[group:michael-guy-bowman]] (thanks, Lilith, plus <<Lan:categorization help>>!)
-    <!-- crediting additions (not fixes) -->
-    - added mastering credits across [[album:lofam5a2]] (thanks, ruby!)
-    - added [[artist:cookiefonster]] credit (previously [[artist:unknown-artist]]) to MIDI file for [[track:the-blind-prophet]] (thanks, cookiefonster!)
     <!-- commentary additions -->
     - tidied, touched up with links, and double-checked transcribed booklet commentary, across [[album:beforus]] (thanks, Lan, Whisper!)
     - added Skaianet Radio commentary to [[track:liquid-negrocity]] (thanks, Lilith, Jackie!)
@@ -372,6 +396,7 @@ Content: |-
     - added YouTube commentary to [[track:mx-misery]] and [[track:analemma]] (thanks, Lilith!)
     - added SoundCloud commentary to [[track:bloodsucker-brawl]] (thanks, Lan!)
     - added YouTube commentary to [[track:the-one-who-should-pay-is]] and [[track:battle-against-perfection]] (thanks, Lilith, Lan!)
+    - added Tumblr commentary to [[track:someday-clark-powell]] (thanks, Lilith, Coral!)
     - added Tumblr commentary to [[album:comfortable-bugs]] (thanks, Lilith, Lan!)
     - added YouTube commentary to [[track:know-that-youre-mine]] (thanks, Lan!)
     - added SoundCloud commentary to [[track:kiss-of-death]] (thanks, Lan!)
@@ -384,16 +409,17 @@ Content: |-
     - added FurAffinity commentary to [[track:davesprite2]], [[track:ruins]], and [[track:sburban-cartdown]] (thanks, Erase, Lavender, Lan!)
     - added Tumblr commentary to [[track:nightmare-knight]], [[track:noisemaster-theme]], and [[track:seinfeld-x]] (thanks, Lilith!)
     <!-- artwork additions -->
-    - added artist's-cut artworks to [[track:black-rose-green-sun]], [[track:at-the-price-of-oblivion]], [[track:even-in-death]], [[track:trial-and-execution]], [[track:spider8reath]], [[track:lifdoff]], [[track:havoc-to-be-wrought]], [[track:earthsea-borealis]], [[track:warhammer-of-zillyhoo]], and [[track:made-of-time]] (thanks, Meulanie, Lan, Lilith!)
+    - added artist's-cut artworks to [[track:black-rose-green-sun]], [[track:at-the-price-of-oblivion]], [[track:even-in-death]], [[track:trial-and-execution]], [[track:spider8reath]], [[track:lifdoff]], [[track:havoc-to-be-wrought]], [[track:earthsea-borealis]], [[track:warhammer-of-zillyhoo]], and [[track:made-of-time]] (thanks, Meulanie, Lan, Lilith, plus <<GameEymen:tagging help>>!)
     - added artist's-cut artworks to [[track:play-the-wind]], [[track:homefree]], and [[track:trepidation]] (thanks, Lilith, Lan!)
     - added artist's-cut artworks to [[track:maplehoofs-adventure]] and [[track:emerald-terror]] (thanks, Meulanie, Makin, Lan!)
+    - added artist's-cut artwork to [[track:red-disc]] (thanks, GameEymen, Lan!)
     - added artist's-cut artwork to [[track:riches-to-ruins-movements-i-and-ii]] (thanks, Lilith!)
     - added artist's-cut of alternate artwork to [[track:noirscape]] (thanks, Lilith!)
     - added cover artwork to [[album:seven-seas]] (thanks, Lilith, Jebb, Lan!)
     - added alternate artwork to [[track:corkscrew-sundown]]! (thanks, Lilith!)
     - added alternate artworks to [[track:hiatus-lofam4]], [[track:crystalmethequins-broken-bad]], and [[track:juju-breaker]] (thanks, Lan!)
     - added SoundCloud artwork to [[track:cog-early-access]] (thanks, Lilith!)
-    - added alternate artworks to [[track:cheap-boxed-wine]] and [[track:anode-tube]] (thanks, Lilith!)
+    - added alternate artworks to [[track:cheap-boxed-wine]] and [[track:anode-tube]] (thanks, Lilith, Coral!)
     - added earlier artwork ([[date:4/20/2022]]) to [[album:cascading-light]] (thanks, Lan!)
     - added higher-quality artwork to [[album:i-miss-you-earthbound-2012]] (thanks, Lilith!)
     - added revised artwork ([[date:3/13/2013]]) to [[album:comfortable-bugs]] (thanks, Lilith, Lan!)
@@ -409,7 +435,7 @@ Content: |-
         - [[track:squiddle-march]] and [[track:dord-waltz]] (SoundCloud)
         - [[track:under-the-hat]] (Tumblr filename)
         - [[track:capricious-mistress]] (Bandcamp, YouTube, SoundCloud)
-        - [[track:fuchsia-ruler]] (Bandcamp)
+        - [[track:fuchsia-ruler-single]] (Bandcamp)
         - [[track:timeout-beforus]] (working title)
         - [[track:intermission-on-repeat]] and [[track:intermission-beyond-the-wall]] (album download)
         - [[track:final-bow]] (SoundCloud)
@@ -431,14 +457,17 @@ Content: |-
         - [[track:ruins]] (FurAffinity)
     <!-- additional file additions -->
     - added MIDI files by HunZhen to [[track:nightlife-extended]] and [[track:jades-lullaby]] (thanks, HunZhen, Lan!)
-    - added FL Studio files by [[artist:pascal-van-den-bos]] [[track:liquid-negrocity]], [[track:black]], [[track:savior-of-the-waking-world]], [[track:versus]], [[track:descend]], and [[track:MeGaLoVania]] (thanks, Pascal, Lan!)
+    - added FL Studio files by [[artist:pascal-van-den-bos]] to [[track:liquid-negrocity]], [[track:black]], [[track:savior-of-the-waking-world]], [[track:versus]], [[track:descend]], and [[track:MeGaLoVania]] (thanks, Pascal, Lan!)
+    - added FL Studio files by [[artist:erase]] to [[track:versus]]! (thanks, Erase, Lan!)
+    - added isolated stem and FL Studio files by [[artist:marigoldmusicgal]] to [[track:mspar-remember]] (thanks, MarigoldMusicGal, Lan, Coral!)
     - added FL Studio files by [[artist:pascal-van-den-bos]] and [[artist:michael-frank]] to [[track:double-midnight]] (thanks, Pascal, Lan!)
     <!-- lyric additions -->
     - added booklet lyrics to [[track:eridans-theme]] (moved from artist commentary; thanks, Lan!)
     - added Bandcamp and SoundCloud lyrics to [[track:indomitable-vast-error]] (thanks, Lilith, Lan!)
     - added Bandcamp lyrics to [[track:sillygoofysillygoofy]] in place of wiki lyrics (thanks, Lan!)
-    - added Bandcamp lyrics to [[track:naught-faux-dramatica]] (thanks, Lilith!)
+    - added Bandcamp lyrics to [[track:naught-faux-dramatica]] and [[track:cognito-hazard]] (thanks, Lilith!)
     - added artist's lyrics across [[album:your-majesty]] (thanks, Lan, Whisper!)
+    - added artist's lyrics across [[album:ithaca]], [[album:comfortable-bugs]], [[album:hush]], [[album:electric-daydreams]], and [[album:look-on-my-works-ye-mighty-and-despair]] (thanks, Cello, Coral!)
     - added in-game lyrics to [[track:oh-one-true-love]] and [[track:oh-dungeon]] (thanks, ruby!)
     - added Itoi's lyrics to [[track:smiles-and-tears]] (thanks, FF, Lavender, Lilith, Lan!)
     - added lyrics to [[track:the-smile-song]] (thanks, Lilith, Lan!)
@@ -462,14 +491,17 @@ Content: |-
     - added SoundCloud listening links to [[track:kiss-of-death]], [[track:raven-hood-mei-appears]], [[track:know-thyself]], and [[track:face-thyself]] (thanks, Lilith!)
     - added YouTube listening link to [[album:songs-from-the-planet-earth]] (thanks, Lavender, Lan!)
     - added Nintendo Music listening links across [[album:pokemon-sword-shield-super-music-collection]], and to [[track:city-trial-ssbu]] ([[album:super-smash-bros-ultimate]]), [[track:advanced-step]], [[track:battle-deoxys]], [[track:bomb-rush-blush]], [[track:boss-battle-bgm-ridley-draygon]], [[track:calamari-inkantation]], [[track:city-trial-city]], [[track:death-mountain-theme]], [[track:destiny-ablaze]], [[track:ending-theme-the-legend-of-zelda]], [[track:game-a-b-start-duck-hunt]], [[track:game-c-start-duck-hunt]], [[track:game-over-duck-hunt]], [[track:game-over-the-legend-of-zelda]], [[track:game-start-donkey-kong]], [[track:game-start-donkey-kong-jr]], [[track:ganon-is-defeated]], [[track:golden-hammer-wrecking-crew]], [[track:got-a-duck-duck-hunt]], [[track:hall-of-fame-pokemon-firered-leafgreen]], [[track:hammer-bgm-donkey-kong]], [[track:hurry-up-donkey-kong]], [[track:id-purpose]], [[track:light-plane]], [[track:main-menu-wii-fit]], [[track:masked-dededes-theme]], [[track:miss-duck-hunt]], [[track:now-or-never-splatoon]], [[track:opening-splatoon]], [[track:overworld-theme-the-legend-of-zelda]], [[track:palace-theme]], [[track:perfect-duck-hunt]], [[track:phase-bgm-wrecking-crew]], [[track:prelude-ablaze]], [[track:round-1-and-2-clear-donkey-kong]], [[track:round-1-bgm-donkey-kong]], [[track:round-1-bgm-donkey-kong-jr]], [[track:round-1-clear-donkey-kong-jr]], [[track:round-3-clear-donkey-kong]], [[track:round-3-bgm-donkey-kong]], [[track:round-4-bgm-donkey-kong-jr]], [[track:round-4-clear-all-clear-donkey-kong-jr]], [[track:seaskape]], [[track:splattack]], [[track:tide-goes-out]], [[track:title-bgm-duck-hunt]], [[track:title-theme-the-legend-of-zelda]], and [[track:underworld-theme]] (thanks, ruby!)
+    - added Tumblr listening link to [[track:108-stars-of-density]] (thanks, Lilith!)
     - added Tumblr listening link to [[track:catscratch]] (thanks, Lilith, Lan!)
     - added FurAffinity listening links to [[track:davesprite2]], [[track:ruins]], and [[track:sburban-cartdown]] (thanks, Erase, Lavender, Lan!)
     - added Tumblr listening links to [[track:nightmare-knight]] and [[track:noisemaster-theme]] (thanks, Lilith!)
+    - added Tumblr listening link to [[track:the-thirteenth-troll]] (thanks, Lilith!)
     - added Bandcamp, Apple Music, and Spotify listening links to [[track:focus-super-hexagon]] (thanks, Lilith!)
     - added Spotify and Apple Music listening links to [[track:pushing-onwards]] (thanks, Lilith!)
     - added Spotify, Apple Music, and YouTube Music listening links across [[group:touhou-project]] (thanks, Lan, Lilith, ruby, bit!)
     - replaced YouTube listening link for [[track:orange-hat]] with artist's upload (thanks, Lilith, Lan!)
     - replaced YouTube listening links for [[track:solar-voyage]] and [[track:renewed-return]] with artist's uploads (thanks, wertercatt, Lan!)
+    - replaced general listening links for [[track:requiem-for-a-homestuck]] and [[track:funkstuck-24]] with wiki archive links (thanks, Lilith, Coral!)
     - replaced Internet Archive listening link for [[track:intermission-on-repeat]] with Bandcamp link (thanks, Lilith!)
     - replaced Spotify listening links for [[track:celestial]], [[album:rakka-wake-01-opening-me]], and [[album:rakka-sp1-outside-2]] with link to single, rather than track (thanks, Lan, Whisper!)
     - replaced YouTube listening link for [[track:danger-on-the-dance-floor-mid-boss]] with official upload (thanks, ruby!)
@@ -496,11 +528,13 @@ Content: |-
     - added citations for SoundCloud and Tumblr commentary on [[track:dord-waltz]] (thanks, Lilith!)
     - added citations for Bandcamp commentary across [[album:play-the-rain]] (thanks, Lilith!)
     - added citation for Tumblr commentary on [[track:eternity-served-cold]] (thanks, Lilith!)
+    - added citations for Tumblr commentary across [[album:hiveswap-act-1-ost]] (HIVESWAP: Act 1 OST commentary, Part 1 & Part 2; thanks, Lilith!)
     - added citations for YouTube commentary on [[track:the-raddest]] and [[album:if-one-shall-indulge]] (thanks, Lan!)
     - added citations for Bandcamp commentary on [[track:capricious-mistress]], [[track:fuchsia-ruler-single]], [[track:confinis]], [[album:vaporwave-2016]], [[track:another-noir]], [[track:perfectly-generic-object]], [[track:empress]], [[track:candles-potency]], [[track:army-of-the-wicked-god]], [[track:remains-of-formed-pain]], [[album:grim-chain-of-feast]], [[album:demo-2019-2021-vicious-valor]], [[album:war-marks]], [[track:legion]], [[album:rites-of-bloodgrinded]], [[album:genesis-genocide]], [[album:faces-of-oglogoth]], [[album:another-flare-413-aradia-goose-mix]], [[track:im-a-member-of-the-midnight-crew-soapstone]], [[album:jugglanoids-from-outer-space]],  [[album:dreamers-diarchy]], [[track:stratosphere]], [[track:terra-solatrus]], [[album:endless]], [[album:somnium-remastered]], [[album:i-miss-you-earthbound-2012]], [[album:compass]], [[track:vivid-spectrum]], [[album:worlds-await]], [[album:coastal-dreaming]], [[album:some-other-horizon]], [[track:chilled-processor]], [[album:time-and-tide]], [[album:the-changing-light]], [[track:old-world]], [[track:losing-heart]], [[album:the-sky-is-ours]], [[album:flyways]], and [[album:the-sky-beyond-our-bay]] (thanks, Tangle, Lan, Surge!)
     - added citations for Tumblr and SoundCloud commentary across [[album:7th-gate-project]] (thanks, Lilith!)
     - added citation for booklet commentary ([[artist:thomas-ferkol]]) on [[track:the-metamorphosis-of-rose-lalonde]] (thanks, Lilith, Lavender!)
     - added citations for Bandcamp and SoundCloud commentary across [[album:early-access]] (thanks, Lilith!)
+    - added citation for Bandcamp commentary on [[track:5-years-older]] (thanks, Coral!)
     - added citation for SoundCloud commentary on [[album:coffee-with-zebruh-codakk]] (thanks, Lan!)
     - added citation for Bandcamp commentary on [[album:the-consuming-shadow-ost]]! (thanks, Lan!)
     - added citations for SoundCloud commentary on [[album:cartographer-symphony]] and [[track:summer-by-the-sea]] (thanks, Lan!)
@@ -510,8 +544,11 @@ Content: |-
     - added citation for newsletter commentary on [[track:skies-forever-blue]] (thanks, Whisper!)
     - added citation for Fangamer commentary on [[track:the-greatest-living-show]] (thanks, Lan!)
     - added citation for Tumblr commentary on [[track:wherever-you-were]] (thanks, Lan!)
+    - added citation for Tumblr commentary on [[track:108-stars-of-density]] (thanks, Lilith!)
     - added citations for YouTube commentary on [[track:the-ballad-of-jack-noir-original]] (thanks, Lan!)
     - added citation for Tumblr commentary on [[track:long-night-ahead]] (thanks, Lan!)
+    - added citation for Tumblr commentary on [[track:the-thirteenth-troll]] (thanks, Lilith!)
+    - added dates for Tumblr commentary on [[track:jackbot]] and [[track:beatup-shutdown]] (thanks, Coral!)
     - added date for Tumblr commentary on [[track:crystalmethequins-broken-bad]] (thanks, Lan!)
     - added date and citation link for Discord commentary on [[track:dave-striders-cool-mixtape]] (thanks, Lan!)
     - added date for Discord commentary on [[track:the-twilight-reverie]] (thanks, Lan!)
@@ -522,7 +559,7 @@ Content: |-
     - added origin details for [[track:fractal-flowers]] and [[track:replicollision]] (thanks, Lan, Lilith!)
     - touched up commentary citations across [[album:album-of-stories-and-imagination]] (thanks, Lan!)
     - touched up SoundCloud genre and additional tag citations (thanks, Lan!)
-    <h3>data changes</h3>
+    <h3>general changes</h3>
     <!-- new stuff & big miscellany -->
     - changed mastering credits across the wiki to never count toward an artist's total number of tracks or total duration, affecting just a handful of artists so far
     - changed automatically sorted areas of the wiki, e.g. [[album:references-beyond-homestuck]] and "by Name" listings, to skip some articles besides just English "the"
@@ -552,6 +589,7 @@ Content: |-
         - [[track:wilted-petal]], [[track:burn-bright]], [[track:mind-over-chatter]], [[track:face-the-reaper-time-keeper]], [[track:battle-against-perfection]], and [[track:fundamentals-of-matter]] (placeholder)
     - sorted fanventure flash acts under [[flash-side:fan-adventures]] alphabetically, instead of quite arbitrarily (thanks, Lan!)
     <!-- album overarching presentation -->
+    - dropped track section descriptions across [[album:homestuck-vol-1-4]], filling in those details and more as wiki commentary instead (thanks, Coral, Lilith!)
     - restructured [[album:ophiuchus-full-suite]] into a two-halves album, representing the full suite as a single track as well as its individual parts (moved from a section in [[album:more-homestuck-fandom]]), with track artwork and revised commentary
     - restructured [[album:flyways]] similarly as [[album:ophiuchus-full-suite]]
     - styled track sections for each disc of [[album:pokemon-sword-shield-super-music-collection]] and [[album:pokemon-scarlet-violet-super-music-collection]] to separately count track numbers (thanks, ruby!)
@@ -566,24 +604,6 @@ Content: |-
     <!-- "artist & group" presentational changes -->
     - revised description for [[group:funk-mclovin]] group (thanks, Whisper!)
     - revised description for [[group:the-genesis-project]] group (thanks, Whisper!)
-    <!-- crediting presentational changes -->
-    - reworked cases of crediting both a solo musician's "main" artist and the actual album artist, together, as album and track co-artists (thanks, Lavender, Lan, Whisper!)
-        - [[group:kalibration]], as [[artist:screamcatcher]]: removed album and track credits to [[artist:kalibration]]; replaced relevant album artwork credits and select commentary artists with [[artist:screamcatcher]]; started crediting these tracks as "from (album), by [[artist:screamcatcher]]"
-        - [[group:xszelor]], as [[artist:dvojka]], [[artist:highblood]], [[artist:realmite]]: removed album and track credits to [[artist:xszelor]]; *kept* Xszelor in album artwork credits and commentary artists; started crediting these tracks as "by [[artist:xszelor]], as (alias)"
-        - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
-    - changed various UNBEATABLE-related artist credits (thanks, ruby!)
-        - changed [[artist:peak-divide]] credits to [[artist:unbeatable]] across [[album:unbeatable-demo-tapes]]
-        - changed '[[artist:peak-divide]] featuring [[artist:rachel-lake]]' credit to [[artist:unbeatable]] on [[track:sleeping-in-single]] (but not [[track:future-people-single]])
-        - changed [[track:familiar-unbeatable-demo-tapes]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rj-lake]]
-        - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] (or [[artist:unbeatable]])
-    - changed [[track:the-adventure-continues-for-horizon-heights-act-1]], [[track:before-the-sequel-title-screen]], and [[track:breakfast-time-for-horizon-heights-boss-act-phase-2]] to credit "franchise" artist [[artist:sonic-the-hedgehog-fanmedia]] instead of [[artist:sonic-the-hedgehog]] (thanks, Lan, ruby, Cello!)
-    - changed track credits across [[album:chaos-sisters-original-soundtrack]] to credit [[artist:tukeart]] as Tuukka Saarenketo
-    <!-- structural or organizational changes for art tags -->
-    - sorted tags which fall under various [[tag:location-classifications]], including [[tag:astronomical-bodies]] and [[tag:locations-in-the-medium]], alphabetically (thanks, Lan!)
-    - moved [[tag:battleship-condescension]] tag under new [[tag:imperial-battleship]] tag, still nested under [[tag:mobile-locations-homestuck]] (thanks, Lan!)
-    - renamed "Fenestrology" tag to [[tag:fenestrated-plane]] and added subtag [[tag:fourth-wall]]
-    - moved [[tag:deer-desynced]] tag out of removed "Consorts (Desynced)" tag, now directly under [[tag:characters-from-desynced]] instead (thanks, Lan, Jebb!)
-    - reorganized character tags under [[tag:undertale-and-deltarune-media]] across the board (thanks, ruby, Lan!)
     <!-- miscellaneous data changes -->
     - stopped counting [[track:audio-commentary-with-robert-j-lake-nick-smalley-and-hanna-nakamura]], [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele]], [[track:audio-commentary-featuring-david-ellis-robert-j-lake-yishan-mai-marcy-nabors-and-corbin-pangilinan]], [[track:myststuck-suite-full-version]], [[track:are-you-lost-full-album-stream]], [[track:flyways-full]], [[track:flyways-full]], and [[track:home-stuck]], as well as all "tracks" in "Other works originating outside of Homestuck" ([[album:references-beyond-homestuck]]), in artist track count and duration totals, as well as in the wiki-wide track duration total
     <!-- miscellaneous presentational changes -->
@@ -619,7 +639,11 @@ Content: |-
     - moved [[track:128-bpm]] from [[album:references-beyond-homestuck]] to [[track:128-bpm|single release]] (thanks, Lilith!)
     - moved [[track:lets-read-a-webcomic]] from [[album:references-beyond-homestuck]] to [[album:more-homestuck-fandom]] (thanks, Lan!)
     - moved [[track:falling-for-ghosts]] and [[track:fruity-pebbles-jingle]] from "Miscellany by Homestuck musicians" to "Other music originating outside Homestuck" (thanks, cookiefonster, Lavender!)
+    - moved [[track:the-a-team-main-theme]] from "Other music originating outside Homestuck" to "Music composed for movies, television, and other visual arts" (thanks, sinister, Lilith, Lan!)
+    - moved [[track:greg-it-follows]] and [[track:pure-imagination]] from "Traditional music" to "Music composed for movies, television, and other visual arts" (thanks, FF, sinister, Lilith, Lan!)
+    - moved [[track:the-x-files]] from "Traditional music" to "Music composed for movies, television, and other visual arts" (thanks, FF, ruby, Lilith, Lan!)
     - moved [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) from "Music from video games" to "Other music originating outside Homestuck" (thanks, Lan, bit!)
+    - moved [[track:in-the-air-tonight]] from "Traditional music" to "Other music originating outside Homestuck" (thanks, FF, ruby, Lilith!)
     - moved [[track:yomitsu-hirasaka-corruption]] from "Other music originating outside Homestuck" to "Music from video games" (thanks, Lilith, ruby, Lan!)
     - moved [[track:sonic-electronic]] from "Music from video games" to "Other music originating outside Homestuck" (thanks, ruby, Lilith!)
     <!-- general removals -->
@@ -628,8 +652,7 @@ Content: |-
     - removed listening links for bonus tracks in [[album:strife-2]] (thanks, Lan!)
     - removed SoundCloud listening links for [[track:waltz-of-the-lilies]] and [[track:even-in-battle]], and across [[album:album-of-stories-and-imagination]] (thanks, Lan!)
     - removed Deezer listening links for [[track:pale-rain]] and [[track:celestial]], and reordered links for [[track:pale-rain]] to fit wiki standard (thanks, Lan!)
-    <h3>data fixes</h3>
-    <!-- reference fixes -->
+    <h3>reference additions, changes & fixes</h3>
     - fixed various [[track:under-the-hat]]-related references (thanks, wertercatt, Whisper, Lan!)
         - fixed [[track:trollcops]] referencing [[track:under-the-hat]] at all, since that reference is really via [[track:trollcops-radio-play]]
         - fixed [[track:trollcops-radio-play]] referencing [[track:under-the-hat]] ([[album:one-year-older]]) instead of [[track:under-the-hat-original]]
@@ -644,7 +667,9 @@ Content: |-
     - fixed [[track:black]] not referencing [[track:plasmatic-blaquaciousness]] (thanks, Lilith, Jackie, Lan!)
     - fixed [[track:white]] not referencing [[track:skies-of-skaia]] (thanks, HunZhen!)
     - fixed [[track:versus]] not referencing [[track:sunsetter]] (thanks, Erase, Lilith, Lan, plus Rainy, Pascal, Jebb!)
+    - fixed [[track:moonshatter]] not referencing [[track:theme-of-eastern-story]] (thanks, Rosalia_Nebula, Lilith, erase, Lan!)
     - fixed [[track:sunsetter]] not referencing [[track:hawkeye]] (was the other way around; thanks, Erase, Lan!)
+    - fixed [[track:greenhouse]] not sampling [[track:phat8]] (thanks, erase, Bowman, Coral!)
     - fixed [[track:virgin-orb]] not referencing [[track:strains-of-skaia]] (thanks, Erase, Lilith, Lan!)
     - fixed [[track:english]] not referencing [[track:expiration-date]] (thanks, Erase, Lilith!)
     - fixed [[track:frost-vol6]] not referencing [[track:endless-sands]] (thanks, Erase, Lilith, Lan!)
@@ -658,25 +683,12 @@ Content: |-
     - fixed [[track:moonsetter]] not referencing [[track:moonsetter-5-14-2012]] (thanks, Kai.Dusk, Lan!)
     - fixed [[track:flying-car]] not referencing [[track:idea-4-erik-scheele]] (thanks, Erase, Lan!)
     - fixed [[track:cancerous-core]] not referencing [[track:unnamed-wip-erik-scheele-tumblr-9-18-2011]] (thanks, Mixolydian, Lan!)
+    - fixed [[track:skaian-shrapnel]] not referencing [[track:sburban-jungle]] and [[track:showtime-piano-refrain]] (thanks, Erase, Makin, hatzka, Marigold, Coral!)
     - fixed [[track:oppa-toby-style]] referencing [[track:doctor]] instead of [[track:penumbra-phantasm]] (thanks, Grace, Interrobang, Kenón, ruby, Witch's Cadence, Lilith, Lan!)
     - fixed various [[album:stuckhome-syndrome-part-one-v1]]-related samples and references (thanks, Lilith!)
         - fixed [[track:get-home-soon]] not sampling [[track:1-nightlife-nightlight]] (Nightlife Nightlight)
         - fixed [[track:technobabylon]] not sampling [[track:dont-let-the-archons-get-you-down]]
         - fixed [[track:hungrier-and-angrier]] not referencing or sampling [[track:garbag-truce]]
-    - fixed [[track:a-common-occurrance-every-night-to-be-exact]] not sampling [[track:your-bed]] (thanks, Lilith!)
-    - fixed [[track:720413]] ([[album:play-the-rain]] and [[album:lofam3]]) not referencing [[track:720413-2-4-2013]] (WIP; thanks, Lilith, Lan!)
-    - fixed [[track:wanderers-vigil]] ([[album:play-the-rain]]) not referencing [[track:wanderers-vigil-6-25-2012]] (WIP; thanks, Lilith, Lan!)
-    - fixed [[track:stalemate-play-the-rain]] ([[album:play-the-rain]]) not referencing [[track:stalemate-8-6-2012]] (WIP; thanks, Lilith, Lan!)
-    - fixed [[track:irradiated-lofam2]] ([[album:lofam2]] and [[album:shenanigans-mspa]]) not referencing [[track:irradiated-original]] (original SoundCloud release; thanks, Lan, Lilith!)
-    - fixed [[track:rise-of-the-denizens]] not sampling [[track:upward-movement-dave-owns]] in addition to referencing it, and referencing [[track:cascade]] instead of sampling [[track:savior-of-the-dreaming-dead-cascade-cut]] (thanks, Makin, Lan!)
-    - fixed [[track:sburban-genesis-lofam2]] ([[album:lofam2]]) being listed as a rerelease of [[track:sburban-genesis]] ([[album:play-the-rain]]), instead of referencing it (thanks, Lan!)
-    - fixed [[track:the-metamorphosis-of-rose-lalonde]] not referencing individual movement tracks ([[track:the-metamorphosis-treading-the-line]], [[track:the-metamorphosis-harbinger-of-the-outer-gods]], [[track:the-metamorphosis-the-solar-ascendancy]]; thanks, Lilith!)
-    - fixed [[track:dream-around]] not referencing [[track:english]] (thanks, Lan!)
-    - fixed [[track:harmonize-canmt]] referencing [[track:ruins-with-strings]] instead of [[track:ruins-undertale]] (thanks, Makin, Lilith!)
-    - fixed [[track:carne-vale-fusion-collab]] referencing [[track:rollin-air-raid-vehicle]] instead of [[track:rollin-urban-assault-vehicle]] (thanks, Lilith, Interrobang!)
-    - fixed [[track:bowstutzlogic]] not sampling [[track:your-bed]] (thanks, Lilith!)
-    - fixed [[track:lore-2-the-revengning]] and [[track:savior-of-a-lot-of-money]] not sampling [[track:your-bed]] (thanks, Lilith!)
-    - fixed tracks across [[album:vaporwave-2016]] not sampling their referenced tracks (thanks, Whisper, Niklink, Lan!)
     - filled in many anonymously sourced references across [[group:deconrecon|Vast Error]]: (thanks, <<koba:organized Vast Error Reference Sheet; these later additions are from other contributors and were entered anonymously>>, Lilith!)
         - fixed [[track:falling-upward]] not referencing [[track:corporate-vast-error]]
         - fixed [[track:the-eternal-siren]] not referencing [[track:through-it-all]]
@@ -742,9 +754,24 @@ Content: |-
         - fixed [[track:accel-exceed]] not referencing [[track:accel-exceed-demo]]
         - fixed [[track:bloodletting-in-medias-res]] not referencing [[track:bloodletting-in-medias-res-drums-bass-and-guitar]]
         - fixed [[track:like-tears-in-rain]] not referencing [[track:like-tears-in-rain-demo]]
+    - fixed [[track:a-common-occurrance-every-night-to-be-exact]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:720413]] ([[album:play-the-rain]] and [[album:lofam3]]) not referencing [[track:720413-2-4-2013]] (WIP; thanks, Lilith, Lan!)
+    - fixed [[track:wanderers-vigil]] ([[album:play-the-rain]]) not referencing [[track:wanderers-vigil-6-25-2012]] (WIP; thanks, Lilith, Lan!)
+    - fixed [[track:stalemate-play-the-rain]] ([[album:play-the-rain]]) not referencing [[track:stalemate-8-6-2012]] (WIP; thanks, Lilith, Lan!)
+    - fixed [[track:irradiated-lofam2]] ([[album:lofam2]] and [[album:shenanigans-mspa]]) not referencing [[track:irradiated-original]] (original SoundCloud release; thanks, Lan, Lilith!)
+    - fixed [[track:rise-of-the-denizens]] not sampling [[track:upward-movement-dave-owns]] in addition to referencing it, and referencing [[track:cascade]] instead of sampling [[track:savior-of-the-dreaming-dead-cascade-cut]] (thanks, Makin, Lan!)
+    - fixed [[track:sburban-genesis-lofam2]] ([[album:lofam2]]) being listed as a rerelease of [[track:sburban-genesis]] ([[album:play-the-rain]]), instead of referencing it (thanks, Lan!)
+    - fixed [[track:the-metamorphosis-of-rose-lalonde]] not referencing individual movement tracks ([[track:the-metamorphosis-treading-the-line]], [[track:the-metamorphosis-harbinger-of-the-outer-gods]], [[track:the-metamorphosis-the-solar-ascendancy]]; thanks, Lilith!)
+    - fixed [[track:dream-around]] not referencing [[track:english]] (thanks, Lan!)
+    - fixed [[track:harmonize-canmt]] referencing [[track:ruins-with-strings]] instead of [[track:ruins-undertale]] (thanks, Makin, Lilith!)
+    - fixed [[track:carne-vale-fusion-collab]] referencing [[track:rollin-air-raid-vehicle]] instead of [[track:rollin-urban-assault-vehicle]] (thanks, Lilith, Interrobang!)
+    - fixed [[track:bowstutzlogic]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed [[track:lore-2-the-revengning]] and [[track:savior-of-a-lot-of-money]] not sampling [[track:your-bed]] (thanks, Lilith!)
+    - fixed tracks across [[album:vaporwave-2016]] not sampling their referenced tracks (thanks, Whisper, Niklink, Lan!)
     - fixed [[track:secretz-barz]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:the-disciples-new-beginning]] not referencing [[track:serenade-vol8]] and [[track:requited]] (thanks, Lan!)
     - fixed [[track:black-heart-green-dress]] referencing [[track:amen-brother]] and [[track:temporal-shenanigans]], instead of sampling them (thanks, Lan!)
+    - fixed [[track:bro-hop]] not sampling [[track:phat2]] and [[track:phat7-bill-bolin]] (thanks, erase, Bowman, Coral!)
     - fixed [[track:your-quest-bed]] not sampling [[track:your-bed]] (thanks, Lilith!)
     - fixed [[track:good-old-hornless-jerryatric]] not referencing [[track:seinfeld-theme]] (thanks, Lilith!)
     - fixed [[track:transmuted-vast-error]] not referencing [[track:third-eye]] and [[track:intermission-beyond-the-wall]] (thanks, Lan!)
@@ -779,34 +806,37 @@ Content: |-
         - fixed [[track:shake-your-tail]] not referencing [[track:shake-your-tail-original]] (original single)
         - fixed [[track:fire-forget-induction]] not referencing [[track:fire-forget]] (original single)
         - fixed [[track:fin-induction]] referencing [[track:goodbye-induction]], [[track:verisimilitude-induction]], [[track:fire-forget-induction]], [[track:wistful-induction]], [[track:shake-your-tail]], instead of [[track:goodbye-original]], [[track:verisimilitude-original]], [[track:fire-forget]], [[track:wistful-original]], [[track:shake-your-tail-original]] (original singles)
-    - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
     - fixed various [[track:spear-of-justice]]-related references (thanks, ruby!)
         - fixed [[track:spear-of-justice]] referencing [[track:undyne]], instead of the other way around; referencing [[track:ruins-undertale]]; and not referencing [[track:undyne-battle-unused]]
         - fixed [[track:run]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
         - fixed [[track:ngahhh]] referencing [[track:undyne]] and [[track:ruins-undertale]] instead of [[track:spear-of-justice]]
         - fixed [[track:asgore]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
         - fixed [[track:bring-it-in-guys]] referencing [[track:undyne]] instead of [[track:spear-of-justice]]
+    - updated a bunch of Deltarune references to point to in-between WIPs from [[album:deltarune-ch2-rejected-tracks]] (thanks, ruby!)
+        - fixed [[track:my-castle-town]] referencing [[track:the-legend]] instead of [[track:castle-town-unfinished]]
+        - fixed [[track:attack-of-the-killer-queen]] referencing [[track:queen-deltarune]] instead of [[track:queen-battle-original]]
+        - fixed [[track:giga-size]] referencing [[track:queen-deltarune]] and [[track:attack-of-the-killer-queen]] instead of [[track:giga-queen-old]]
+        - fixed [[track:big-shot]] referencing [[track:spamton]] and [[track:power-of-neo]] instead of [[track:power-of-spamton]]
+    - fixed [[track:trial-truth-pt-2]] not referencing [[track:the-truth-inhibitor]] (Inhibitor; thanks, Lilith!)
+    - fixed [[track:day-that-never-came]] referencing [[track:westminster-quarters]] and not referencing [[track:gymnopedie-no-1]] (thanks, Lilith, Coral, Whisper!)
     - fixed [[track:start-menu]] referencing [[track:once-upon-a-time]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) sampling [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]]), instead of being the track's main release (thanks, ruby!)
     - fixed [[track:alphys]] not referencing [[track:alphys-lab-unused]] (thanks, ruby!)
     - fixed [[track:undertale]] referencing [[track:once-upon-a-time]] instead of [[track:undertale-unused]] (thanks, ruby!)
     - fixed [[track:menu-full]] referencing [[track:start-menu]] instead of [[track:menu-undertale-demo]] (thanks, ruby!)
     - fixed [[track:hopes-and-dreams]], [[track:save-the-world]], and [[track:last-goodbye]] not referencing [[track:penumbra-phantasm]] (thanks, ruby, Makin, Jebb, Interrobang, Witch's Cadence, Monckat, Red Rax, Rainy, Meulanie, Jackie, Lan!)
-    - updated a bunch of Deltarune references to point to in-between WIPs from [[album:deltarune-ch2-rejected-tracks]] (thanks, ruby!)
-        - fixed [[track:my-castle-town]] referencing [[track:the-legend]] instead of [[track:castle-town-unfinished]]
-        - fixed [[track:attack-of-the-killer-queen]] referencing [[track:queen-deltarune]] instead of [[track:queen-battle-original]]
-        - fixed [[track:giga-size]] referencing [[track:queen-deltarune]] and [[track:attack-of-the-killer-queen]] instead of [[track:giga-queen-old]]
-        - fixed [[track:big-shot]] referencing [[track:spamton]] and [[track:power-of-neo]] instead of [[track:power-of-spamton]]
     - fixed [[track:scarlet-forest]] not referencing [[track:field-of-hopes-and-dreams]] (in addition to [[track:game-main-theme-piano-sketch]]; thanks, ruby!)
     - fixed [[track:vs-ridley-ssbu]] ([[album:super-smash-bros-ultimate]]) referencing "Opening (Destroyed Laboratory)", aka "Opening (Destroyed Science Academy Research Station)", instead of [[track:theme-of-super-metroid]] (thanks, ruby!)
     - fixed [[track:christmas-time-is-here-lo-fi]] not referencing [[track:christmas-time-is-here-vocal]] (thanks, Lilith, Tangle, Lan!)
     - fixed [[track:dead-maams-chest]] not referencing [[track:im-your-treasure-box-you-have-found-captain-marine-in-a-treasure-chest]] (thanks, ruby!)
     - fixed [[track:oceanfalls-opening]] not referencing [[track:oceanfalls]] (thanks, Witch's Cadence, Lilith!)
     - fixed [[track:sundering-of-the-self]] not referencing [[track:know-thyself]] (thanks, Witch's Cadence, Lilith!)
+    - fixed [[track:mspar-remember]] not sampling [[track:explore]] (thanks, MarigoldMusicGal, GameEymen!)
     - fixed [[track:cats-toby-fox]] not referencing [[track:ending-ii-brandish-snes]] (thanks, Erase, Lan, Lilith, ruby!)
     - fixed [[track:do-the-homestuck-demo]] not referencing [[track:sunsetter]], [[track:sburban-jungle]], and [[track:MeGaLoVania]], nor sampling [[track:amen-brother]] (thanks to an emailer, FF, ruby, and Lan!)
     - fixed [[track:ham-and-steak]] not sampling [[track:oppa-toby-style]] in addition to referencing it; and referencing [[track:calliope-malcolm-brown]] and [[track:youre-so-rad]], rather than sampling them (thanks, Lavender!)
     - fixed [[track:ham-and-steak]] not referencing [[track:penumbra-phantasm]] (thanks, Grace, Lilith, ruby, Lan!)
+    - fixed [[track:lets-read-a-webcomic]] not referencing [[track:theme-of-eastern-story]] (thanks, erase, Lan!)
     - fixed [[track:penumbra-phantasm]] not referencing [[track:doctor]] (thanks, Makin, Niklink, Jebb, ruby, wertercatt, Rainy, Lan, Lilith!)
     - fixed [[track:ruins]] not referencing [[track:idea-1-erik-scheele]] (thanks, Erase, Lavender!)
     - fixed [[track:sburban-cartdown]] not sampling [[track:sburban-countdown]] in addition to referencing it (thanks, Lavender!)
@@ -815,32 +845,54 @@ Content: |-
     - fixed [[track:choose-a-file]] not referencing [[track:twinkle-elementary-school]] (thanks, Lilith!)
     - fixed [[track:destiny-ablaze]] not referencing [[track:destiny-fire-emblem-awakening]] (thanks, ruby!)
     - fixed [[track:prelude-ablaze]] not referencing [[track:prelude-fire-emblem-awakening]] (thanks, ruby!)
-    - fixed [[track:onett]] not referencing [[track:pollyanna-i-believe-in-you]] (thanks, Lilith!)
+    - fixed [[track:lets-start-an-adventure]] not referencing [[track:pollyanna-i-believe-in-you]] (thanks, Lilith!)
     - fixed [[track:sanctuary-guardian]] not referencing [[track:battle-theme-3-earthbound-beginnings]] (thanks, Lilith!)
-    - fixed [[track:smiles-and-tears]] not referencing [[track:eight-melodies-earthbound]] and [[track:eight-melodies-earthbound-beginnings]] (thanks, FF, Lilith!)
+    - fixed [[track:smiles-and-tears]] not referencing [[track:eight-melodies-the-depth-of-memory]] and [[track:eight-melodies-earthbound-beginnings]] (thanks, FF, Lilith!)
     - fixed [[track:super-dry-dance]] not referencing [[track:advent-desert]] (thanks, Lilith!)
     - fixed [[track:yomitsu-hirasaka-corruption]] not referencing [[track:yomitsu-hirasaka]] (thanks, Lilith!)
     - fixed [[track:final-savage-sister-flandre-s]] not referencing [[track:no-remorse-truelastboss]] (thanks, Lilith!)
     - fixed [[track:rollin-air-raid-vehicle]] not referencing [[track:rollin-urban-assault-vehicle]] (thanks, Lilith!)
     - fixed [[track:cobalt-corsair]] artwork not referencing [[track:teal-hunter]] artwork (thanks, Lan!)
     - fixed [[track:old-secret]] artwork ([[album:hiveswap-friendsim]]) not referencing [[album:hiveswap-act-1-ost]] album cover (thanks, Jackie!)
+    - fixed [[track:fuchsia-ruler-single]] (single) artwork not referencing [[track:fuchsia-ruler]] ([[album:coloUrs-and-mayhem-universe-a]]; thanks, Jackie!)
+    - fixed [[track:26x-showdown-combo]] artwork not listing any references (thanks, Surge!)
     - fixed [[track:damaras-bees-fatalism-beemix]] artwork not referencing [[track:fatalism]] (thanks, Lan!)
     - fixed [[track:all-were-gonna-get]] artwork not referencing [[track:enter-with-caliborn-destruction-adventure]], [[track:amidst-this-mess]], and [[track:wano-vo-tse-1-wav]] (thanks, Lan!)
     - fixed [[track:cascading-light]] main artwork not referencing [[album:homestuck-vol-8]] album cover (thanks, Lan!)
-    - fixed [[track:fuchsia-ruler-single]] (single) artwork not referencing [[track:fuchsia-ruler]] ([[album:coloUrs-and-mayhem-universe-a]]; thanks, Jackie!)
+    <h3>crediting additions, changes & fixes</h3>
+    <!-- crediting additions (not fixes) -->
+    - added mastering credits across [[album:lofam5a2]] (thanks, ruby!)
+    - added [[artist:cookiefonster]] credit (previously [[artist:unknown-artist]]) to MIDI file for [[track:the-blind-prophet]] (thanks, cookiefonster!)
+    <!-- crediting presentational changes -->
+    - reworked cases of crediting both a solo musician's "main" artist and the actual album artist, together, as album and track co-artists (thanks, Lavender, Lan, Whisper!)
+        - [[group:kalibration]], as [[artist:screamcatcher]]: removed album and track credits to [[artist:kalibration]]; replaced relevant album artwork credits and select commentary artists with [[artist:screamcatcher]]; started crediting these tracks as "from (album), by [[artist:screamcatcher]]"
+        - [[group:xszelor]], as [[artist:dvojka]], [[artist:highblood]], [[artist:realmite]]: removed album and track credits to [[artist:xszelor]]; *kept* Xszelor in album artwork credits and commentary artists; started crediting these tracks as "by [[artist:xszelor]], as (alias)"
+        - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
+    - changed various UNBEATABLE-related artist credits (thanks, ruby!)
+        - changed [[artist:peak-divide]] credits to [[artist:unbeatable]] across [[album:unbeatable-demo-tapes]]
+        - changed '[[artist:peak-divide]] featuring [[artist:rachel-lake]]' credit to [[artist:unbeatable]] on [[track:sleeping-in-single]] (but not [[track:future-people-single]])
+        - changed [[track:familiar-unbeatable-demo-tapes]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rj-lake]]
+        - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] (or [[artist:unbeatable]])
+    - changed track credits across [[album:bowmanstuck]] to match Bandcamp presentation (thanks, Coral!)
+    - changed track credits across [[album:chaos-sisters-original-soundtrack]] to credit [[artist:tukeart]] as Tuukka Saarenketo
+    - changed [[track:the-adventure-continues-for-horizon-heights-act-1]], [[track:before-the-sequel-title-screen]], and [[track:breakfast-time-for-horizon-heights-boss-act-phase-2]] to credit "franchise" artist [[artist:sonic-the-hedgehog-fanmedia]] instead of [[artist:sonic-the-hedgehog]] (thanks, Lan, ruby, Cello!)
     <!-- crediting fixes -->
+    - fixed [[track:squiddle-samba]] not crediting [[artist:tavia-morra]] for additional vocals (thanks, Bowman, Coral!)
+    - fixed [[track:mayor-maynot]] not crediting [[artist:toby-fox]] for vocals (thanks, Lan!)
+    - fixed [[track:ocean-stars-falling]] crediting [[artist:tavia-morra]] with a blank contributor credit, rather than for additional vocals (thanks, Bowman, Coral!)
+    - fixed [[track:even-in-death-tmorras-belly-mix]] crediting [[artist:tavia-morra]] as a standard co-artist rather than a featured artist, and updated displayed credits to reflect Bandcamp (thanks, Bowman, Gio, ruby, Celeste, Lan!)
+    - fixed [[track:iRRRRRRRRECONCILA8LE]] not crediting [[artist:andrew-huo]] for violin (thanks, Bowman, Coral!)
+    - fixed [[track:capricious-mistress]] and [[track:fuchsia-ruler-single]] (single) artworks not crediting [[artist:kezinox]] for 'layout for single' (thanks, Jackie!)
+    - fixed [[track:layers-coasters-upon-coasters]] crediting its track artists also as album artists (thanks, Lan!)
+    - fixed [[track:gunshow-singalong]] crediting [[artist:ostrichlittledungeon]], [[artist:pipko-fanfare]], and [[artist:yazshu]] as (annotated) album credits, instead of as contributors, and not crediting [[artist:tronald-trumpet]] as the lone album artist (thanks, Lan!)
+    - fixed [[album:a-shade-of-blue]] not crediting [[artist:jakkyr]] as an album artist alongside [[artist:cerulean]] (thanks, Lan!)
     - fixed a bunch of missing contributor credits across [[album:super-smash-bros-ultimate]] (thanks, ruby!)
         - fixed [[track:delfino-plaza-ssbu]], [[track:the-map-page-bonus-level]], [[track:kasss-theme-ssbu]], [[track:f-zero-medley]], [[track:vega-stage-ssbu]], [[track:aeriths-theme-ssbu]], [[track:pasta-ff2-ssbu]], [[track:banquet-of-nature-ss-ssbu]] not crediting any performing contributors
         - fixed [[track:hard-man-stage-ssbu]] crediting [[artist:yujin-imanishi]] only on electric guitar, not also on acoustic guitar
         - fixed [[track:mega-man-4-medley]] not crediting [[artist:jun-senoue]] on guitars
         - fixed [[track:psycho-soldier-theme-ssbu]] and [[track:psycho-soldier-theme-ssbu-overseas]] only crediting vocalists
         - removed [[artist:tomotaka-saka]] engineering credit on [[track:halland-dalarna]], for now
-    - fixed [[track:mayor-maynot]] not crediting [[artist:toby-fox]] for vocals (thanks, Lan!)
-    - fixed [[track:even-in-death-tmorras-belly-mix]] crediting [[artist:tavia-morra]] as a standard co-artist rather than a featured artist, and updated displayed credits to reflect Bandcamp (thanks, Bowman, Gio, ruby, Celeste, Lan!)
-    - fixed [[track:capricious-mistress]] and [[track:fuchsia-ruler-single]] (single) artworks not crediting [[artist:kezinox]] for 'layout for single' (thanks, Jackie!)
-    - fixed [[track:layers-coasters-upon-coasters]] crediting its track artists also as album artists (thanks, Lan!)
-    - fixed [[track:gunshow-singalong]] crediting [[artist:ostrichlittledungeon]], [[artist:pipko-fanfare]], and [[artist:yazshu]] as (annotated) album credits, instead of as contributors, and not crediting [[artist:tronald-trumpet]] as the lone album artist (thanks, Lan!)
-    - fixed [[album:a-shade-of-blue]] not crediting [[artist:jakkyr]] as an album artist alongside [[artist:cerulean]] (thanks, Lan!)
+    - fixed [[track:someday-clark-powell]] crediting [[artist:riki-tsuji]] as a contributor rather than a featured artist, and as Riki Tsuji instead of Astro Kid (thanks, Coral!)
     - fixed [[album:cool-and-new-sonic-team]] crediting [[artist:hadron]] as an album artist instead of only as track artist (thanks, Lan!)
     - fixed [[track:memorialisation]] crediting [[artist:magnoliajades]] as a standard co-artist rather than a featured artist (thanks, Lan!)
     - fixed [[track:shipwreck-time-and-tide]] crediting [[artist:serialsymphony]] as a standard co-artist rather than a featured artist (thanks, Lan!)
@@ -849,278 +901,603 @@ Content: |-
     - fixed [[track:boy-meets-girl]] crediting [[artist:hirokazu-tanaka]] (thanks, Lilith!)
     - fixed [[track:dream-maze]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
     - fixed [[track:holy-ruins]] crediting [[artist:nobuo-uematsu]] instead of [[artist:ryuji-sasai]] (thanks, Lan!)
-    - fixed [[track:onett]] crediting [[artist:hirokazu-tanaka]] (thanks, ruby, Lilith!)
-    - fixed [[track:power-mother]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
+    - fixed [[track:lets-start-an-adventure]] crediting [[artist:hirokazu-tanaka]] (thanks, ruby, Lilith!)
+    - fixed [[track:power-earthbound]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
     - fixed [[track:super-dry-dance]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
     - fixed [[track:welcome-me]] crediting [[artist:keiichi-suzuki]] (thanks, Lilith!)
     - fixed [[track:bad-apple-lovelight]] not crediting [[artist:nomico]] as a featured artist, and not crediting [[artist:harukapakapa]] for lyrics (thanks, Lan!)
     - fixed [[track:never-gonna-give-you-up]] crediting [[artist:stock-aitken-waterman]] as artist and [[artist:rick-astley]] as contributor, instead of the reverse (thanks, Lan!)
+    <h3>art tag additions & fixes</h3>
+    - added art tags across [[group:deconrecon]] discography (thanks, t2k, koba, Coral, Lilith, Lan, penultimateApogee, Celeste!)
+    - restructured or reorganized various tags:
+        - sorted lists of media-specific classification tags under general [[tag:location-classifications]] (such as [[tag:astronomical-bodies]] and [[tag:lands-in-the-medium]]) alphabetically (thanks, Lan!)
+        - split old "Locations in the Medium" tag into [[tag:locations-in-the-incipisphere]] and descendant [[tag:lands-in-the-medium]] (thanks, Coral, Celeste, Lan!)
+        - renamed "Jack Noir (archetype)" tag to [[tag:ss-archetype]] (thanks, Lan!)
+        - fixed [[tag:spdaes-sleck]] tag not being placed under [[tag:ss-archetype]] (thanks, Surge!)
+        - moved [[tag:battleship-condescension]] tag under new [[tag:imperial-battleship]] tag, still nested under [[tag:mobile-locations-homestuck]] (thanks, Lan!)
+        - renamed "Fenestrology" tag to [[tag:fenestrated-plane]] and added subtag [[tag:fourth-wall]]
+        - moved [[tag:deer-desynced]] tag out of removed "Consorts (Desynced)" tag, now directly under [[tag:characters-from-desynced]] instead (thanks, Lan, Jebb!)
+        - fixed [[tag:murrit-vast-error]] being colored as though in the same subcaste as [[tag:calder-vast-error]], instead of as [[tag:oricka-vast-error]] (thanks, Lilith, Lan!)
+        - fixed [[tag:the-static-vast-error]] being placed under [[tag:more-characters-from-vast-error]] instead of [[tag:more-locations-from-vast-error]] (thanks, Lilith, Coral, Lan!)
+        - reorganized [[tag:location-classifications]] lightly, so that [[tag:astronomical-bodies]] and [[tag:recurring-game-locations]] include the location archetype tags previously unsorted under "Location archetypes"; removed that top-level tag; and tidied leaf tags under the location archetypes, so they are also under a proper media tag (thanks, Coral, Celeste!)
+        - reorganized character tags under [[tag:undertale-and-deltarune-media]] across the board (thanks, ruby, Lan!)
+        - fixed [[tag:black-scepter]] and [[tag:green-sun-scepter]] being named with "Sceptor" instead of "Scepter" (thanks, GameEymen, Killian!)
+        - renamed [[tag:tavross-lusus]], [[tag:tavross-hive]], [[tag:equiuss-lusus]], and [[tag:equiuss-bots]] all to follow name with "'s" (thanks, Lan, Killian!)
+    - added [[tag:spades-slick]] tag: (thanks, Killian, Lilith!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[tag:the-midnight-crew]] (thanks, Lavender!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:nightlife-extended]] ([[album:homestuck-vol-2]]; thanks also, GameEymen!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[album:midnight-crew-drawing-dead]] (album cover), [[track:knives-and-ivory]], [[track:liquid-negrocity]], [[track:the-ballad-of-jack-noir]], and [[track:tall-dark-and-loathsome]] (thanks also, GameEymen!)
+        - added [[tag:spades-slick]] tag to [[track:octoroon-rangoon]] (thanks, GameEymen, Surge!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:valhalla]] (thanks also, GameEymen!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:chartreuse-rewind]] and [[track:time-paradox]] (thanks also, GameEymen!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:lets-all-rock-the-heist]] (thanks also, GameEymen!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:im-a-member-of-the-midnight-crew-acapella]] (thanks also, GameEymen!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:im-a-member-of-the-midnight-crew-post-punk-version]] (thanks also, GameEymen!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:walk-stab-walk-r-and-e]], [[track:26x-showdown-combo]], and [[track:720x-showdown-combo]] (thanks also, GameEymen!)
+        - added [[tag:spades-slick]] tag to [[track:heir-of-grief-collide]] (thanks also, GameEymen!)
+        - added [[tag:spades-slick]] tag to [[track:moonsweater]] (thanks also, GameEymen!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:clockbreaker-lofam]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:psychedelic-psychodelic]] and [[track:psychedelic-psychodelic-famitracker]] ([[album:cookiefonsters-2016-famitracker-covers]])
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:dance-stab-dance]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:dark-funk]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:run-stab-run]] and [[track:slick-snow]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:midnight-stew]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:25x-showdown-combo]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:flare-shoved-through-a-percussion-soundfont]] and [[track:eternal-torment-of-the-casino-dweller]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:dance-of-the-dead]] and [[track:blanc]]
+        - added [[tag:spades-slick]] tag to [[track:midnight-lofam4]] and [[track:strife-mayhem-lofam4]] ([[album:lofam4]])
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:heedful-fads]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:liquid-vaporwavecity]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:balladwave]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:stab-stab-stab]] (all releases)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:wanted-jack-el-negro-reward-720]]
+        - added [[tag:spades-slick]] tag to [[track:one-and-a-half-midnight]] and [[track:double-dose-of-midnight]] (thanks also, Surge, GameEymen!)
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:nightlife-dancing-moon-edition]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:cascading-towards-the-end]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:the-puppetmaster-friendsymphony]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:dance-of-entropy-lofam5]] ([[album:lofam5]])
+        - added [[tag:spades-slick]] tag to [[track:one-hour-later]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:slick-tricks-lofam5a2]], [[track:ace-celerando]], [[track:im-a-member-of-the-midnight-crew-special-soapstone-version]], [[track:liquid-noir]], and [[track:four-boys-blues]]
+        - replaced [[tag:jack-noir]] tag with [[tag:spades-slick]] in [[track:live-from-the-hadron-kaleido]] and [[track:a-plus-tard-les-tocards]]
+    - added tags for ghost versions of characters: (thanks, Killian, GameEymen, plus <<Makin:Rufioh's Robotic Horse Body>>, <<Lan:additional feedback>>, <<Jebb:additional feedback>>, <<cookiefonster:additional feedback>>, <<Celeste:additional feedback>>!)
+        - replaced [[tag:john]] and [[tag:vriska]] tags with [[tag:john-ghost]] and [[tag:vriska-ghost]] in [[track:do-you-remem8er-me]]
+        - replaced [[tag:sollux]] tag with [[tag:sollux-half-ghost]] in [[album:coloUrs-and-mayhem-universe-a]] (album cover)
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:hate-you]], [[track:25x-showdown-combo]], [[track:25x-showdown-combo-memeless]], and [[track:720x-showdown-combo]] (thanks also, GameEymen!)
+        - replaced [[tag:ah]] tag with [[tag:hussiebot]] in [[track:break-shot]] (thanks also, GameEymen!)
+        - replaced troll tags with ghosts, and [[tag:aradia]] with [[tag:aradias-soulbot]], in [[track:eternity-served-cold-canon-edit]] (thanks also, GameEymen!)
+        - replaced [[tag:tavros]] tag with [[tag:tavros-ghost]] in [[track:adios-lost-boys]]
+        - replaced [[tag:sollux]] tag with [[tag:sollux-half-ghost]] in [[track:in-the-shadow-of-a-fractured-sun]]
+        - replaced [[tag:vriska]] tag with [[tag:vriska-ghost]] in [[track:elegy-for-a-thief-dreamscape-remix]]
+        - replaced [[tag:sollux]] tag with [[tag:sollux-half-ghost]] in [[track:ye-flarey-gentlemen]]
+        - replaced [[tag:rufioh]] tag with [[tag:rufioh-ghost]] in [[track:gangsta-lofam2]]
+        - replaced [[tag:calliope]] tag with [[tag:calliope-ghost]] in [[track:the-delicate-art-of-temporal-manipulation]], and added new [[tag:callie-ohpeee]] tag here
+        - replaced [[tag:calliope]] tag with [[tag:callie-ohpeee]] in [[track:electric-fireflies-lofam3]] ([[album:lofam3]])
+        - replaced [[tag:kurloz]] tag and [[tag:meulin]] with [[tag:kurloz-ghost]] and [[tag:meulin-ghost]] in [[track:thin-lines]]
+        - removed [[tag:damara]] tag from [[track:fatalism]]
+        - replaced [[tag:kurloz]] tag with [[tag:kurloz-ghost]] in [[track:pious-noise]]
+        - replaced [[tag:cronus]] tag with [[tag:cronus-ghost]] in [[track:aquasex-renegade]]
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:killer-beach]]
+        - replaced [[tag:meulin]], [[tag:porrim]], and [[tag:meenah]] tags with ghosts in [[track:memories-from-before]], and removed [[tag:kankri]] here
+        - replaced [[tag:kankri]] tag with [[tag:kankri-ghost]] in [[track:march-9f-the-insuffera6le]]
+        - replaced [[tag:cronus]] tag with [[tag:cronus-ghost]] in [[track:land-of-cruisin-and-bruisin]]
+        - added new [[tag:rufiohs-robotic-horse-body]] tag to [[track:cheater-pan]]
+        - replaced troll tags with ghosts in [[track:voided-beforus]]
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:dream-around]]
+        - replaced [[tag:cronus]] tag with [[tag:cronus-ghost]] in [[track:vwiolet-vwelvwet]]
+        - replaced [[tag:mituna]] and [[tag:latula]] tags with [[tag:mituna-half-ghost]] and [[tag:latula-ghost]] in [[track:7ur8ul3n7-coll4bor4t1on]]
+        - replaced [[tag:porrim]] and [[tag:latula]] tags with [[tag:porrim-ghost]] and [[tag:latula-ghost]] in [[track:we-are-tog3th3r]]
+        - replaced [[tag:kurloz]] tag with [[tag:kurloz-ghost]] in [[track:curly-fury]]
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:funeral-march-of-the-avenging-dead]]
+        - replaced troll tags with ghosts in [[track:disc3-beforus]] ([[album:beforus]])
+        - replaced [[tag:damara]] and [[tag:meenah]] tags with [[tag:damara-ghost]] and [[tag:meenah-ghost]] in [[track:burgundy-revenge]]
+        - replaced [[tag:kankri]] tag with [[tag:kankri-ghost]] in [[track:problematicfave]]
+        - replaced [[tag:cronus]] tag with [[tag:cronus-ghost]] in [[track:anacronus]]
+        - replaced [[tag:porrim]] tag with [[tag:porrim-ghost]] in [[track:madam-firefly]]
+        - replaced [[tag:mituna]] tag with [[tag:mituna-ghost]] in [[track:7un3-r3m1x]]
+        - replaced [[tag:damara]] tag with [[tag:the-handmaid]] in [[track:damaras-bees-fatalism-beemix]]
+        - replaced [[tag:cronus]] tag with [[tag:cronus-ghost]] in [[track:savior-of-the-driving-dead]]
+        - replaced [[tag:cronus]] and [[tag:mituna]] tags with [[tag:cronus-ghost]] and [[tag:mituna-ghost]] in [[track:i-want-you-to-wear-a-seatbelt]]
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:madame-controversielle]], and added [[tag:vriska-ghost]] here
+        - replaced [[tag:porrim]] and [[tag:tavros]] tags with [[tag:porrim-ghost]] and [[tag:tavros-ghost]] in [[track:waiting-in-suspense]]
+        - replaced [[tag:damara]] tag with [[tag:damara-ghost]] in [[track:damaras-credit-score]]
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:its-not-like-i-like-you-or-anything-baka]]
+        - replaced [[tag:damara]] tag with [[tag:damara-ghost]] in [[track:damaras-night-core]]
+        - replaced [[tag:ah]] tag with [[tag:ah-ghost]] in [[track:horschestra-horse-of-time-verison]]
+        - replaced [[tag:mituna]] and [[tag:latula]] tags with [[tag:mituna-ghost]] and [[tag:latula-ghost]] in [[track:red-lofam4]]
+        - replaced [[tag:meulin]] tag with [[tag:meulin-ghost]] in [[track:requited-dirtiest-remix]]
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:horizontal-headshot-lofam4]]
+        - replaced [[tag:ah]] tag with [[tag:ah-ghost]] in [[track:strife-mayhem-lofam4]]
+        - replaced [[tag:kurloz]] tag with [[tag:kurloz-ghost]] in [[track:premortem]]
+        - replaced [[tag:calliope]] tag with [[tag:calliope-ghost]] in [[album:early-access]] (album cover)
+        - replaced [[tag:sollux]] tag with [[tag:sollux-half-ghost]] in [[track:distortion-navigator]]
+        - replaced [[tag:ah]] tag with [[tag:ah-ghost]] in [[track:stardust-glitches]]
+        - replaced [[tag:vriska]] and [[tag:meenah]] tags with [[tag:vriska-ghost]] and [[tag:meenah-ghost]] in [[album:perfectly-generic-album]] (album cover)
+        - replaced [[tag:rufioh]] tag with [[tag:rufioh-ghost]] in [[track:phosphor-bronze]]
+        - replaced [[tag:rufioh]] and [[tag:horuss]] tags with [[tag:rufioh-ghost]] and [[tag:horuss-ghost]] in [[track:lapis-arbalester]], and added [[tag:rufiohs-robotic-horse-body]] tag here
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:trident-thief]]
+        - replaced [[tag:porrim]] tag with [[tag:porrim-ghost]] in [[track:porrims-theme]]
+        - replaced [[tag:meulin]] tag with [[tag:meulin-ghost]] in [[track:purriferal-affections]]
+        - replaced [[tag:cronus]] tag with [[tag:cronus-ghost]] in [[track:character-catastrophe]]
+        - replaced [[tag:john]] and [[tag:aranea]] tags with [[tag:john-ghost]] and [[tag:aranea-ghost]] in [[track:megalovania-beforusbound]]
+        - replaced [[tag:tavros]], [[tag:nepeta]], and [[tag:eridan]] tags with [[tag:tavros-ghost]], [[tag:nepeta-ghost]], and [[tag:eridan-ghost]] in [[track:hauntological-nightmares]]
+        - replaced [[tag:rufioh]], [[tag:nepeta]], [[tag:kanaya]], and [[tag:eridan]] tags with ghosts in [[track:ghost-hole]]
+        - replaced [[tag:cronus]] tag with [[tag:cronus-ghost]] in [[track:cronus-goes-to-the-dmvw]]
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[track:talkin-sh8t]]
+        - replaced [[tag:calliope]] tag with [[tag:calliope-ghost]] in [[track:when-the-curtains-part]]
+        - replaced [[tag:calliope]] tag with [[tag:calliope-ghost]] in [[track:predomination-lofam5]]
+        - replaced [[tag:calliope]] tag with [[tag:calliope-ghost]] in [[track:ophiuchus-full-suite-lofam5]] ([[album:lofam5]])
+        - replaced [[tag:calliope]] tag with [[tag:calliope-ghost]] in [[track:light-in-the-darkness-lofam5a2]]
+        - replaced [[tag:terezi]] tag with [[tag:terezi-ghost]] in [[track:lost-memories]]
+        - replaced [[tag:meenah]] tag with [[tag:meenah-ghost]] in [[album:sburb-funkin-edition-ost]] (album cover)
+        - replaced [[tag:sollux]] tag with [[tag:sollux-half-ghost]] in [[track:connection]]
+    - added tags for god tier versions of characters: (thanks, GameEymen, Lan, Celeste!)
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:savior-of-the-waking-world]], [[track:heirfare]], [[track:skaian-flight]], [[track:underworld]], [[track:medical-emergency]], [[track:pyrocumulus-kickstart]], [[track:plague-doctor]], and [[track:doctor-remix]]
+        - added [[tag:dave-god-tier]] tag to [[track:unsheathd]] and [[track:candles-and-clockwork]]
+        - replaced [[tag:dave]] tag with [[tag:dave-god-tier]] in [[track:sunsetter]]
+        - replaced [[tag:john]], [[tag:rose]], [[tag:dave]], and [[tag:jade]] tags with god tiers in [[track:throwdown]]
+        - replaced [[tag:jade]] tag with [[tag:jade-dog-tier]] in [[track:ecstasy]] (thanks also, Coral!)
+        - replaced [[tag:jade]] tag with [[tag:jade-dog-tier]] in [[track:song-of-life]]
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[album:homestuck-vol-6]] (album cover)
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:heir-transparent]]
+        - replaced [[tag:vriska]] tag with [[tag:vriska-god-tier]] in [[track:crystalanthology]]
+        - replaced John Cusack tag with [[tag:john-malkovich]] in [[track:nic-cage-song]]
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:heir-conditioning]]
+        - replaced [[tag:aradia]] tag with [[tag:aradia-god-tier]] in [[track:arisen-anew]] (official art & anthology fanart)
+        - replaced [[tag:aradia]] tag with [[tag:aradia-god-tier]] in [[track:dreamers-and-the-dead]] (official art & anthology fanart)
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:nepetas-theme]] (official art)
+        - replaced [[tag:vriska]] tag with [[tag:vriska-god-tier]] in [[track:trollian-standoff]] (official art & anthology fanart)
+        - replaced [[tag:vriska]] tag with [[tag:vriska-god-tier]] in [[track:killed-by-br8k-spider]] (official art)
+        - added [[tag:aradia-god-tier]] tag to [[track:trollcops-radio-play]] (official art)
+        - replaced [[tag:vriska]] tag with [[tag:vriska-god-tier]] in [[track:trial-and-execution]]
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:lifdoff]], [[track:awakening]], [[track:play-the-wind]], and [[track:warhammer-of-zillyhoo]]
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:galactic-cancer]], [[track:unite-synchronization]], [[track:homefree]], [[track:pyrocumulus-sicknasty]], [[track:gust-of-heir]], [[track:judgment-day]], and [[track:cascade-beta]]
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:airtime]] (thanks also, Lan, Celeste!)
+        - replaced [[tag:ah]] tag with [[tag:ah-god-tier]] in [[track:hussie-hunt]]
+        - replaced [[tag:vriska]] tag with [[tag:vriska-god-tier]] in [[track:revered-return]]
+        - replaced [[tag:aradia]] and [[tag:vriska]] tags with god tiers in [[album:coloUrs-and-mayhem-universe-a]] (album cover)
+        - replaced [[tag:karkat]] tag with [[tag:karkat-god-tier]] in [[track:iron-knight]]
+        - replaced [[tag:vriska]] tag with [[tag:vriska-god-tier]] in [[track:cobalt-thief]]
+        - replaced [[tag:aradia]] tag with [[tag:aradia-god-tier]] in [[track:made-of-time]] and [[track:temporal-shenanigans]]
+        - replaced [[tag:john]], [[tag:rose]], [[tag:dave]], and [[tag:jade]] tags with god tiers in [[album:coloUrs-and-mayhem-universe-b]] (album cover)
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:green-ghost]], [[track:pale-rapture]], and [[track:do-the-windy-thing]]
+        - replaced [[tag:jade]] tag with [[tag:jade-dog-tier]] in [[track:blue-atom]] and [[track:pilot-light]]
+        - added [[tag:rose-god-tier]] tag to [[track:rustless-fall]]
+        - replaced [[tag:gamzee]] tag with [[tag:gamzee-god-tier]] in [[album:homestuck-vol-9]] (album cover)
+        - replaced [[tag:john]] and [[tag:jade]] tags with god tiers in [[track:bridge-of-stars]]
+        - replaced [[tag:john]] with [[tag:john-god-tier]] in [[track:busting-makes-me-feel-good]]
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:cancerous-core]], [[track:game-over]], [[track:the-scratch]], and [[track:another-chance]]
+        - replaced [[tag:john]], [[tag:vriska]], [[tag:dave]], [[tag:jade]], and [[tag:rose]] tags with god tiers in [[track:respit]]
+        - replaced [[tag:john]], [[tag:rose]], [[tag:dave]], and [[tag:jade]] tags with god tiers in [[track:mother]]
+        - replaced [[tag:john]] and [[tag:roxy]] tags with god tiers in [[track:oppa-toby-style]]
+        - replaced [[tag:dave]] and [[tag:dirk]] tags with god tiers in [[track:heir-of-grief-collide]]
+        - replaced [[tag:john]], [[tag:rose]], [[tag:dave]], [[tag:jade]], [[tag:jane]], [[tag:roxy]], [[tag:dirk]], and [[tag:jake]] tags with god tiers in [[album:homestuck-vol-10]] (album cover)
+        - replaced [[tag:john]], [[tag:rose]], [[tag:dave]], and [[tag:jade]] tags with god tiers in [[track:creata]]
+        - added [[tag:jade-dog-tier]] tag to [[track:of-gods-and-witches-vol-10]]
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:you-killed-my-father-prepare-to-die]]
+        - replaced [[tag:rose]] tag with [[tag:rose-god-tier]] in [[track:aggrievocation]]
+        - replaced [[tag:john]], [[tag:rose]], [[tag:dave]] and [[tag:jade]] tags with god tiers in [[track:freefall]]
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:skaian-happy-flight]]
+        - replaced [[tag:jade]], [[tag:rose]], and [[tag:dave]] tags with god tiers in [[track:feel-alive]]
+        - replaced [[tag:john]] and [[tag:aradia]] tags with god tiers in [[track:ascend]]
+        - replaced [[tag:rose]] tag with [[tag:rose-god-tier]] in [[track:lilith-in-starlight]]
+        - replaced [[tag:john]], [[tag:rose]], [[tag:dave]], [[tag:jade]], and [[tag:roxy]] tags with god tiers in [[track:thanks-for-playing]]
+        - replaced [[tag:jane]] tag with [[tag:jane-god-tier]] in [[track:renewed-return]]
+        - replaced [[tag:jade]] tag with [[tag:jade-dog-tier]] in [[track:cosmic-carousel]], [[track:surprise-were-back]], [[track:after-the-sun]], [[track:narrative-command]], and [[track:crystal-hung-in-firmaments-descent]] (anthology fanart)
+        - replaced [[tag:john]] tag with [[tag:john-god-tier]] in [[track:moving-onwards]] (anthology fanart)
+        - replaced [[tag:john]], [[tag:rose]], [[tag:dave]], [[tag:jade]], [[tag:roxy]], and [[tag:caliborn]] tags with god tiers in [[track:four-kids-and-a-game-they-played-together]] (anthology fanart)
+    - revised tagging [[tag:johns-nanna]] and related tags: (thanks, Killian, Surge!)
+        - moved [[tag:johns-nanna]], [[tag:nannasprite]], and new [[tag:nannas-ashes]] tags under new [[tag:johns-nanna-archetype]] tag, itself under [[tag:jane-archetype]]
+        - replaced [[tag:johns-nanna]] tag with [[tag:nannas-ashes]] in [[track:learning-to-stack-modus]]
+        - fixed [[track:nannaquin]] ([[album:homestuck-vol-1]]) being tagged with [[tag:johns-nanna]] in addition to [[tag:nannasprite]]
+        - fixed [[track:nannaquin-vol-1-4]] ([[album:homestuck-vol-1-4]]) being tagged with [[tag:johns-nanna]] instead of [[tag:nannasprite]]
+        - fixed [[track:oppa-toby-style]] and [[track:oppa-toby-style-famitracker]] ([[album:cookiefonsters-2016-famitracker-covers]]) being tagged with [[tag:johns-nanna]] instead of [[tag:nannasprite]]
+        - fixed [[track:720x-showdown-combo]], [[track:strife-mayhem-lofam4]] ([[album:lofam4]]), [[track:homestuck-15th-anniversary-medley]], and [[track:long-day-new-beginnings]] being tagged with [[tag:johns-nanna]] instead of [[tag:nannasprite]]
+    - improved tagging across [[album:ancestral]] and [[album:beforus]], plus various other art: (thanks, vgoat, Lan!)
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:theme]] (anthology fanart)
+        - added [[tag:cuttlefish]] tag to [[track:keepers]] (official art)
+        - added [[tag:clubkind]] tag to [[track:purple-tyrant]]
+        - added [[tag:unbreakable-katana]] tag to [[album:beyond-canon]]
+        - replaced [[tag:rose]] tag with [[tag:rosebot]] in [[track:exclusion-zone]], [[track:assembly]], [[track:not-canon-in-f-major-op-69]], [[track:the-leaving]], and [[track:light-burns-out-gestalt]]
+        - added [[tag:light]] tag to [[track:exclusion-zone]]
+        - added [[tag:white-wand]] tag to [[track:cosmic-carousel]]
+        - added [[tag:light]] tag to [[track:light-burns-out-gestalt]]
+        - added [[tag:unbreakable-katana]] tag to [[track:narrative-command]]
+        - added [[tag:warhammer-of-zillyhoo]] tag to [[track:moving-onwards]]
+        - added [[tag:space]] tag to [[track:crystal-hung-in-firmaments-descent]] (anthology fanart; thanks, vgoat, Lan!)
+        - added [[tag:horses]], [[tag:bowkind]], [[tag:light]], [[tag:music-staff]], and [[tag:music-note]] tags to [[track:i-accidentally-broke-my-teeth]]
+        - added [[tag:equiuss-bots]] and [[tag:horses]] tags to [[track:robots-robots]]
+        - added [[tag:bowkind]] tag to [[track:dreams-of-archery]]
+        - added [[tag:beforus]] and [[tag:pink-moon]] tags to [[album:beforus]]
+        - added [[tag:quills-of-echidna]], [[tag:guitar]], and [[tag:pink-moon]] tags to [[track:disc1-beforus]] ([[album:beforus]]
+        - added [[tag:guitar]] tag to [[track:aquasex-renegade]]
+        - added [[tag:meenahs-trident]] tag to [[track:killer-beach]]
+        - added [[tag:wandkind]] tag to [[track:the-boy-who-lived-unfortunately]]
+        - added [[tag:music-box]] tag to [[track:rust-witch]]
+        - added [[tag:pink-moon]] tag to [[track:dear-heart]]
+        - added [[tag:doves]] tag to [[track:look-into-the-future]]
+        - added [[tag:music-box]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:press-a-to-reset]]
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:solus-vates]]
+        - added [[tag:pink-moon]] and [[tag:guitar]] tags to [[track:beforus]]
+        - added [[tag:music-note]] tag to [[track:7un3-r3m1x]]
+        - added [[tag:pink-moon]] tag to [[track:east-beforan-funk]]
+        - added [[tag:cue-needles]] tag to [[track:damaras-bees-fatalism-beemix]]
+        - added [[tag:victory-platform]] tag to [[album:act-8-volume-1]] (album cover; thanks, vgoat, Lan!)
+        - added [[tag:victory-platform]] tag to [[track:cadmean-conquest]]
+        - added [[tag:bladekind]] tag to [[track:limelight]] (also [[track:limelight-lofam4|on LOFAM4]]; thanks, vgoat, Lan!)
+        - added [[tag:lotus]] tag to [[track:medic-act-8]]
+        - added [[tag:mind]], [[tag:breath]], [[tag:time]], and [[tag:sburb]] tags to [[track:25x-showdown-combo-famitracker]] ([[album:cookiefonsters-2016-famitracker-covers]]
+        - added [[tag:the-condesces-trident]], [[tag:cue-needles]], [[tag:dragon-cane]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[album:ancestral]] (album cover; thanks, vgoat, Lan!)
+        - added [[tag:cue-needles]] tag to [[track:reality-theatre]]
+        - added [[tag:battleship-condescension]] tag to [[track:propulsion]]
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:a-peace-worth-fighting-for]]
+        - added [[tag:dragon-cane]] tag to [[track:h3r-honor4bl3-v3ng34nc3]]
+        - added [[tag:fluorite-octet]] and [[tag:dragon-cane]] tags to [[track:spiders-eclipse]]
+        - added [[tag:alternia]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:greatest-empress]]
+        - removed [[tag:the-signless]] tag from [[track:disc2-ancestral]] ([[album:ancestral]]; thanks, Lan!)
+        - added [[tag:the-condesces-trident]], [[tag:ahabs-crosshairs]], [[tag:bowkind]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:ancestral-anthem]]
+        - added [[tag:clubkind]] to [[track:rampage-ancestral]]
+        - added [[tag:ahabs-crosshairs]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:orphaners-ocean]]
+        - added [[tag:green-moon]] tag to [[track:in-the-forest]]
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:sufferers-suite]]
+        - added [[tag:cue-needles]] tag to [[track:black-heart-green-dress]]
+        - added [[tag:bowkind]] tag to [[track:expatri8s-march]]
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:release-me]]
+        - added [[tag:bowkind]] tag to [[track:exile-ancestral]]
+        - added [[tag:battleship-condescension]] tag to [[track:terminal-aeon]]
+        - added [[tag:clubkind]] tag to [[track:violet-means-to-a-violent-end]]
+        - added [[tag:dragon-cane]] and [[tag:fluorite-octet]] tags to [[track:the-confront8ion]]
+        - added [[tag:dragon-cane]] and [[tag:pink-moon]] tags to [[track:just1c3-r41ns-from-4bov3]]
+        - added [[tag:cue-needles]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:pyrrhic-rust]]
+        - added [[tag:lancekind]] and [[tag:communal-hive-stems]] tag to [[track:mutiny-ancestral]]
+        - added [[tag:the-condesces-trident]] tag to [[track:in-condescent-darkness]]
+        - added [[tag:battleship-condescension]] tag to [[track:die-for-me]]
+        - added [[tag:the-condesces-trident]] and [[tag:battleship-condescension]] tags to [[track:the-doom-of-the-planets]]
+        - added [[tag:cue-needles]] and [[tag:scratchs-apartment]] tags to [[track:rusted-wench]]
+        - added [[tag:cue-needles]] and [[tag:the-condesces-trident]] tags to [[track:of-rust-and-royalty]]
+        - added [[tag:the-handmaid]] and [[tag:the-condesces-trident]] tags to [[track:her-imperial-ascension]]
+        - added [[tag:the-condesces-trident]], [[tag:clubkind]], [[tag:bowkind]], [[tag:cue-needles]], and [[tag:scratchs-apartment]] tags to [[track:disc3-ancestral]] ([[album:ancestral]]
+        - added [[tag:dragon-cane]] tag to [[track:cardinal-fyre]]
+        - added [[tag:lancekind]] and [[tag:imperial-battleship]] tags to [[track:preach-ancestral]]
+        - added [[tag:clubkind]] tag to [[track:swan-song]]
+        - added [[tag:battleship-condescension]] tag to [[track:the-doom-of-the-planets-reprise]] (thanks, Lan!)
+        - added [[tag:god-tier-clock]], [[tag:light]], [[tag:void]], [[tag:time]], [[tag:breath]], [[tag:hope]], [[tag:space]], and [[tag:heart]] tags to [[album:aspect-clock]]
+        - added [[tag:scalemates]] tag to [[album:alternate-hues-and-melodies]] (album cover; thanks, vgoat!)
+        - added [[tag:dragon-cane]] tag to [[track:1nf1n1t3-t34l]]
+        - added [[tag:aradias-soulbot]] tag to [[track:i-am-very-much-alive]]
+        - added [[tag:action-claws]] tag to [[track:arsenic-cat]], and replaced [[tag:alternia]] with [[tag:nepetas-hive]] here
+        - added [[tag:reckoning]] tag to [[track:meteor-schmeteor]]
+        - added [[tag:light]] tag to [[track:the-lights-rebellion]]
+        - added [[tag:the-condesces-trident]] tag to [[track:sweet-talker]]
+        - added [[tag:reckoning]] tag to [[track:polypolyphemus]]
+        - added [[tag:reckoning]] tag to [[track:amniotic-daydream]]
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:absent-reflection]]
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:the-puppet-master-cosmic-caretakers]]
+        - added [[tag:rage]] tag to [[track:honk-friend]]
+        - added [[tag:cuttlefish]] tag to [[track:aquamarine-heroine]]
+        - added [[tag:heart]] tag to [[track:hand-in-hand]]
+        - added [[tag:hope]] tag to [[track:vwhat-if-im-a-failure]]
+        - added [[tag:2x3dentkind]] tag to [[track:trident-thief]]
+        - added [[tag:fluorite-octet]] tag to [[track:center-stage]]
+        - added [[tag:sgrub]] tag to [[track:mitunas-theme]]
+        - added [[tag:music-box]] tag to [[track:reboot-beforusbound]]
+        - added [[tag:blood]] tag to [[track:insufferable-sufferer]]
+        - added [[tag:sgrub]] tag to [[track:the-future-we-could-never-have]]
+        - added [[tag:sgrub]] tag to [[track:time-to-rest]]
+        - added [[tag:crowsprite]] and [[tag:reckoning]] tags to [[album:beatdown-raid-remix]], and replaced [[tag:earth]] with [[tag:daves-home]] here
+        - added [[tag:space]] tag to [[track:cascading-light]] main artwork
+        - added [[tag:sburb]] tag to [[track:brobots]]
+        - added [[tag:light]] tag to [[album:chained-official-soundtrack]]
+    - improved character tagging:
+        - added [[tag:wv]] tag to [[track:explore]] (thanks, Meulanie!)
+        - removed [[tag:the-felt]] tag from [[track:nightlife-extended]] ([[album:homestuck-vol-2]]; thanks, GameEymen, Lilith!)
+        - added new [[tag:distinguished-houseguests]] tag to [[track:dissension-original]] and [[track:dissension-remix]] (thanks, Killian, Coral!)
+        - added new [[tag:firefly-cloud]] tag to [[track:doctor]] (thanks, GameEymen!)
+        - added [[tag:crows]] tag to [[track:clockwork-melody]] (thanks, Killian, GameEymen!)
+        - replaced [[tag:hb]], [[tag:cd]], [[tag:dd]], and [[tag:jack-noir]] tags with [[tag:the-midnight-crew]] in [[track:clockwork-melody]] (thanks, Killian!)
+        - added [[tag:problem-sleuth]] tag to [[track:pumpkin-cravings]] (thanks, GameEymen, Killian, Celeste, Makin!)
+        - replaced [[tag:aradia]] tag with [[tag:aradias-soulbot]] in [[track:crystamanthequins]] (thanks, GameEymen!)
+        - added [[tag:firefly-cloud]] tag to [[track:land-of-the-salamanders]] (thanks, GameEymen!)
+        - added [[tag:firefly-cloud]] tag to [[track:clockwork-contrivance]] (thanks, GameEymen!)
+        - added [[tag:firefly-cloud]] tag to [[track:get-up]] (thanks, GameEymen, Makin!)
+        - added [[tag:firefly-cloud]] tag to [[track:ecstasy]] (thanks, GameEymen!)
+        - added [[tag:fireflies]] tag to [[track:plague-doctor]] (thanks, GameEymen, Makin, Celeste!)
+        - added [[tag:firefly-cloud]] tag to [[track:doctor-remix]] (thanks, GameEymen, Makin!)
+        - added [[tag:fin]] tag to [[track:humphreys-lullaby]] (thanks, GameEymen!)
+        - added [[tag:karkats-lusus]] tag to [[track:phaze-and-blood]] (official art; thanks, GameEymen!)
+        - added [[tag:firefly-cloud]] tag to [[track:heir-transparent]] (thanks, GameEymen, Makin!)
+        - added [[tag:firefly-cloud]] tag to [[track:stormspirit]] (thanks, GameEymen!)
+        - added [[tag:jack-noir]] tag to [[track:what-a-daring-dream]] (thanks, Meulanie, Tangle!)
+        - added [[tag:lil-cal]] tag to [[track:sburban-reversal]] (thanks, GameEymen!)
+        - added [[tag:horrorterrors]] tag to [[track:core-of-darkness]] (thanks, GameEymen!)
+        - added new [[tag:snoop-dogg]] tag to [[track:ohgodwhat-remix]] ([[album:homestuck-vol-1-4]]; thanks, Killian, Coral!)
+        - added [[tag:tavros]], [[tag:nepeta]], and [[tag:equius]] tags to [[track:purple-bard]] (thanks, GameEymen!)
+        - added [[tag:firefly-cloud]] tag to [[track:green-ghost]] (thanks, GameEymen!)
+        - replaced [[tag:horrorterrors]] tag with [[tag:feferis-lusus]] in [[track:the-vast-glub]] (thanks, GameEymen!)
+        - added [[tag:jaspers]] tag to [[track:vodka-mutiny]] (thanks, GameEymen, Lilith!)
+        - replaced [[tag:aradia]] tag with [[tag:aradias-soulbot]] in [[track:crystalmethequins]] (thanks, GameEymen!)
+        - added [[tag:firefly-cloud]] tag to [[track:firefly]] (thanks, GameEymen!)
+        - added [[tag:daves-bro]] and [[tag:lil-hal]] tags to [[track:sweet-dreams-timaeus]] (thanks, cookiefonster, Lilith, GameEymen!)
+        - added [[tag:firefly-cloud]] tag to [[track:firefly-cloud]], [[track:fantasyp]], and [[track:mother]] (thanks, GameEymen!)
+        - added [[tag:firefly-cloud]] tag to [[track:entrance-of-the-salamanders]] (thanks, GameEymen!)
+        - added [[tag:horses]] tag to [[track:oppa-toby-style]] (thanks, GameEymen!)
+        - replaced [[tag:salamanders-consort]] tag with [[tag:casey]] in [[album:homestuck-vol-10]] (album cover; thanks, GameEymen, Makin!)
+        - replaced [[tag:underlings]] tag with [[tag:arch-deaconstructor]] in [[track:skaian-overdrive]] (thanks, GameEymen, Makin!)
+        - replaced [[tag:dirk]] tag with new [[tag:ultimate-dirk]] tag in [[album:beyond-canon]] (album cover), as well as in [[track:now-im-a-villain]], [[track:assembly]], [[track:not-canon-in-f-major-op-69]], [[track:the-leaving]], [[track:light-burns-out-gestalt]], and [[track:narrative-command]] (all anthology fanart), and [[narrative-command]] (composer-release art; thanks, GameEymen, Lilith, Makin!)
+        - added [[tag:the-condesce]] tag to [[track:four-kids-and-a-game-they-played-together]] (thanks, Lan!)
+        - replaced [[tag:ah]] tag with [[tag:andrew-hussie]] in [[track:x-vapor-rom]] (thanks, Killian!)
+        - replaced [[tag:ah]] tag with [[tag:andrew-hussie]] in [[track:tumbling-down]] (thanks, Killian!)
+        - replaced [[tag:ah]] tag with [[tag:andrew-hussie]] in [[track:masked-fox]] and [[track:i-love-hussie]] (thanks, Killian!)
+        - replaced [[tag:ah]] tag with [[tag:andrew-hussie]] in [[track:conflict]] (thanks, Killian!)
+        - replaced [[tag:eridan]] and [[tag:sollux]] tags with new [[tag:erisolsprite]] tag in [[track:jake-english-you-are-literally-lower-than-rat-piss]] (thanks, Rosetta Leijonde, Lilith!)
+        - added [[tag:metal-sonic]] and [[tag:dr-eggman]] tags to [[track:bowman-time-feat-neil-breen]] (thanks, Lilith!)
+        - added [[tag:brobot]] tag to [[track:thyme-on-my-fries-greatest-hits-2]] ([[album:greatest-hits-2]] and [[album:lofam4]]; thanks, Coral, Lilith!)
+        - added [[tag:canmt-tan]] tag to [[album:homestuck-vol-11]] (thanks to an emailer!)
+        - replaced [[tag:dirk]] with [[tag:daves-bro]] in [[track:cith-beatdown-strider-in-the-house]] and [[track:pascal-dont-call-me-starkemeister-van-den-bos-and-timelessheirs-dx-collab-gone-wrong-gone-sexual-definitive-edition]] (thanks, Coral, Lilith!)
+        - added [[tag:brobot]] tag to [[track:heart-beat]] (thanks, Coral, Lilith!)
+        - replaced [[tag:dirk]] tag with [[tag:brobot]] tag in [[track:brobot-scrimmage]] (thanks, Sprink, Lilith!)
+        - replaced [[tag:dirk]] tag with [[tag:lil-hal]] tag in [[track:good-morning-dirk]] (thanks, Sprink, vgoat, Jebb, FF, Lilith!)
+        - added [[tag:lil-hal]] tag to [[track:athazagoraphobia]] (thanks, Sprink, Coral, Lilith!)
+        - replaced [[tag:jack-noir]] tag with [[tag:ss-archetype]] in [[track:escapade-stlap3]] (thanks, Surge!)
+        - added [[tag:daves-bro]] and [[tag:lil-hal]] tags to [[track:revelations-of-self-importance]] (thanks, Coral, Lilith!)
+        - added [[tag:spamton]] tag to [[track:sburban-keygen-working-2009-no-virus]] (thanks, Meulanie, Lilith!)
+        - added [[tag:michael-guy-bowman]] tag to [[album:comfortable-bugs]] and [[album:look-on-my-works-ye-mighty-and-despair]] (thanks, Lan!)
+        - replaced [[tag:nino-oceanfalls]] with [[tag:dream-nino-oceanfalls]] in [[track:know-thyself]] and [[track:to-ashes-it-returns]] (thanks, Lilith!)
+    - improved location tagging:
+        - added [[tag:johns-home]] tag to [[track:sburban-countdown]] (thanks, GameEymen, Surge!)
+        - added [[tag:johns-home]] tag to [[track:showtime-imp-strife-mix]] (thanks, GameEymen!)
+        - added [[tag:forge]] and [[tag:jades-home]] tags to [[track:guardian]], and removed [[tag:earth]] here (thanks, GameEymen, Killian!)
+        - added [[tag:forge]] and [[tag:jades-home]] tags to [[track:ballad-of-awakening]] (thanks, GameEymen, Killian, Coral!)
+        - added [[tag:houston-tx]] tag to [[track:clockwork-melody]] (thanks, Killian, GameEymen!)
+        - added [[tag:forge]] and [[tag:jades-home]] tags to [[track:crystalanthemums]] (thanks, Killian, GameEymen, Surge!)
+        - added [[tag:roses-home]] tag to [[track:sunslammer]] (thanks, Killian, GameEymen!)
+        - added [[tag:helipod-base]] tag [[track:upholding-the-law]] (thanks, Killian, GameEymen!)
+        - added [[tag:lowas]] tag to [[track:medical-emergency]] (thanks, Killian, GameEymen, Jebb!)
+        - added [[tag:forge]] tag to [[track:softly]] (thanks, GameEymen!)
+        - added [[tag:forge]] tag to [[track:ecstasy]] (thanks, GameEymen, Killian, Surge!)
+        - added [[tag:lohac]] tag to [[track:candles-and-clockwork]] (thanks, Killian, Coral!)
+        - added [[tag:skaia]] tag to [[track:doctor-remix]] (thanks, Killian, GameEymen, Jebb, Surge!)
+        - added [[tag:johns-home]] tag to [[track:homestuck]] (thanks, Killian, GameEymen, Surge, cookiefonster!)
+        - added [[tag:vriskas-hive]] and [[tag:hives-on-alternia-homestuck]] tags to [[album:alternia]] (album cover; thanks, GameEymen, Surge!)
+        - added [[tag:karkats-hive]] tag to [[track:crustacean]] (anthology fanart; thanks, GameEymen, Makin!)
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:miracles]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:pink-moon]] tag to [[track:death-of-the-lusii]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:can-town]] tag to [[track:wacky-antics]] (thanks, GameEymen!)
+        - added [[tag:lowas]] tag to [[track:heir-transparent]] (thanks, GameEymen, Makin!)
+        - added [[tag:command-stations]] tag to [[track:3-in-the-morning-pianokind]] (thanks, GameEymen!)
+        - added [[tag:lohac]] tag to [[album:strife]] (album cover; thanks, Killian, GameEymen, Lilith, Celeste!)
+        - added [[tag:vriskas-hive]] tag to [[track:vriskas-theme]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:trolls-meteor]] tag to [[track:trollian-standoff]] (official art; thanks, GameEymen, Makin!)
+        - added [[tag:lolcat]] tag to [[track:catapult-capuchin]] (official art; thanks, GameEymen!)
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:a-fairy-battle]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:derse]] tag to [[track:at-the-price-of-oblivion]] (thanks, Meulanie, Lan!)
+        - added [[tag:lowas]], [[tag:lolar]], [[tag:lohac]], and [[tag:lofaf]] tags to [[track:vagabounce-remix]] (thanks, GameEymen, Killian!)
+        - added [[tag:jades-home]] tag to [[track:gardener]] (thanks, GameEymen!)
+        - added [[tag:jades-home]] tag to [[track:ohgodwhat-vol-1-4]] and [[track:ohgodwhat-remix-vol-1-4]] ([[album:homestuck-vol-1-4]]; thanks, GameEymen!)
+        - removed [[tag:dersite-ship]] tag from [[track:drift-into-the-sun]] (thanks, GameEymen, Lan!)
+        - added [[tag:pink-moon]] tag to [[track:jade-mother]] (thanks, GameEymen!)
+        - removed [[tag:forge]] tag from [[track:encore]] (thanks, GameEymen, Killian!)
+        - added [[tag:imperial-battleship]] tag to [[track:another-jungle]] (thanks, Lan!)
+        - removed [[tag:janes-home]] tag from [[track:the-changing-game]] (thanks, GameEymen, Killian, Coral, Lan!)
+        - added [[tag:prospitian-ship]], [[tag:lolar]], [[tag:lohac]], and [[tag:lofaf]] tags to [[track:freefall]] (thanks, GameEymen, Makin!)
+        - added [[tag:losaz]] tag to [[track:adios-lost-boys]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:maple-valley-wa]] tag to [[track:friendvangelion-rebuild]] (thanks, GameEymen, Lan!)
+        - added [[tag:earth]] tag to [[track:sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me]], [[track:ill-probably-just-name-this-one-something-normal-oh-no-wait-oh-jeez-aw-beans]], [[track:24-7-lo-fi-anime-beats-to-question-your-sexuality-to]], [[track:carefree-victory-remix]], and [[track:crustacean-pesterquest]] (thanks, GameEymen!)
+        - added [[tag:pink-moon]] and [[tag:green-moon]] tags to [[track:yeah-it-is-soundtrack]] (thanks, GameEymen!)
+        - added [[tag:alternia]] and [[tag:eridans-hive]] tags to [[track:this-time-its-eridan]] (thanks, GameEymen!)
+        - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[album:friendsim-2-volume-1]] (thanks, Lilith!)
+        - added [[tag:ness-earthbound]], [[tag:mettaton-ex]], and [[tag:android-18]] tags to [[track:terminal-loop]], and fixed it being tagged with [[tag:sonic]] instead of [[tag:metal-sonic]] (thanks, wertercatt, ruby, Lilith!)
+        - fixed [[track:trolls-who-can-eat-trolls-are-the-luckiest-trolls]] being tagged with [[tag:joey]] instead of [[tag:chixie]] (thanks, Lilith, Jebb, Makin!)
+    - improved pumpkin tagging: (thanks, GameEymen, Coral, Celeste!)
+        - added [[tag:pumpkin]] tag to [[track:explore]]
+        - added [[tag:pumpkin]] tag to [[track:wacky-antics]]
+        - added [[tag:pumpkin]] tag to [[track:gilded-sands]]
+        - added [[tag:pumpkin]] tag to [[track:oppa-toby-style]]
+    - improved object tagging:
+        - added new [[tag:cake]] tag to [[track:showtime-original-mix]], [[track:harlequin-rock-version]], [[track:cupcake-girl]], [[album:one-year-older]] (album cover), and [[track:unlabeled]] (thanks, GameEymen, Celeste, Lan!)
+        - added [[tag:rag-of-souls]] tag to [[track:vagabounce]], [[track:explore]], [[track:can-town]], [[track:wacky-antics]], [[track:nepetas-theme]] (official art, [[album:the-wanderers]] (album cover, [[track:carapacian-dominion]], [[track:endless-expanse]], [[track:gilded-sands]], [[track:mayor-maynot]], [[track:we-walk]], [[track:requiem-for-an-exile]], [[track:raggy-looking-dance]], [[track:ruins-rising]], [[track:nightmare]], [[track:vagabounce-remix]], [[track:escape-pod]], [[track:wv-become-the-mayor-of-cans]], [[track:the-temples-withered-bloom]], [[track:freefall]], [[track:castle]], and [[track:four-kids-and-a-game-they-played-together]] (anthology fanart; thanks, GameEymen, Celeste!)
+        - added [[tag:lotus]] tag to [[track:guardian]] (thanks, GameEymen, Killian!)
+        - added new [[tag:cast-iron-horse-hitcher]] tag to [[track:nightlife-extended]] ([[album:homestuck-vol-2]]; thanks, GameEymen!)
+        - added [[tag:pogo-hammer]] tag to [[track:harleboss]] (thanks, vgoat, GameEymen!)
+        - added [[tag:hunting-rifle]] tag to [[track:dissension-remix]] (thanks, GameEymen!)
+        - added [[tag:pistolkind]] tag to [[track:pony-chorale]] (thanks, GameEymen, Killian, Coral!)
+        - added [[tag:piano]], [[tag:saxophone]], [[tag:oboe]], and [[tag:bass]] tags to [[album:midnight-crew-drawing-dead]] (album cover; thanks, GameEymen, Killian, Celeste!)
+        - added new [[tag:ultra-violence-cuestick]] tag to [[track:blue-noir]] and [[track:carbon-nadsat-cuestick-genius]] (thanks, GameEymen, Coral!)
+        - added [[tag:cast-iron-horse-hitcher]] tag to [[track:tall-dark-and-loathsome]] (thanks, GameEymen!)
+        - added [[tag:grist]] tag to [[track:hardlyquin]] (thanks, Killian, Lilith!)
+        - added [[tag:caledscratch]] tag to [[track:atomyk-ebonpyre]] (thanks, GameEymen!)
+        - added [[tag:reckoning]] tag to [[album:homestuck-vol-5]] (album cover; thanks, Killian, Coral, GameEymen!)
+        - added [[tag:grand-piano]] tag to [[track:savior-of-the-waking-world]] (thanks, GameEymen, Killian!)
+        - added [[tag:bladekind]] tag to [[track:clockwork-melody]] (thanks, Killian, GameEymen!)
+        - added [[tag:reckoning]] tag to [[track:heirfare]] (thanks, Killian, GameEymen!)
+        - added [[tag:horrorterrors]] and [[tag:violin]] tags to [[track:hardchorale]] (thanks, Killian, GameEymen, Surge!)
+        - added [[tag:turntables]] tag to [[track:welcome-to-the-new-extreme]] (thanks, Killian, GameEymen!)
+        - replaced [[tag:royal-deringer]] tag with [[tag:bladekind]] in [[track:clockwork-sorrow]] (thanks, Killian, GameEymen, Coral!)
+        - added [[tag:riflekind]] tag to [[track:sunslammer]] (thanks, Killian, GameEymen!)
+        - added [[tag:girls-best-friend]] tag to [[track:chorale-for-war]] (thanks, GameEymen, Killian!)
+        - added [[tag:turntables]] tag to [[track:unsheathd]] (thanks, Killian!)
+        - added [[tag:rockets]] tag to [[track:versus]] (thanks, Killian, GameEymen!)
+        - replaced [[tag:royal-deringer]] tag with [[tag:ninja-sword]] in [[track:dupliblaze-comagma]] (thanks, GameEymen, Killian!)
+        - added [[tag:queens-ring]], [[tag:cue-ball]], [[tag:clocks]], and [[tag:tumor]] tags to [[track:ectobiology]] (thanks, Killian, GameEymen!)
+        - added [[tag:cue-ball]] tag to [[track:endless-climbing]] (thanks, Killian, GameEymen!)
+        - added [[tag:remote-ghost-gauntlets]] tag to [[track:medical-emergency]] (thanks, Killian, GameEymen!)
+        - added [[tag:queens-ring]] tag to [[track:get-up]] (thanks, Killian, GameEymen!)
+        - added [[tag:red-miles]] tag to [[track:pyrocumulus-kickstart]] (thanks, GameEymen, Celeste!)
+        - added [[tag:bladekind]] tag to [[track:skaian-skuffle]] (thanks, Killian, GameEymen!)
+        - added [[tag:cast-iron-horse-hitcher]] and [[tag:juju-breaker]] tags to [[track:valhalla]] (thanks, GameEymen!)
+        - added [[tag:barbers-best-friend]] tag to [[track:space-prankster]] (thanks, GameEymen!)
+        - added [[tag:turntables]] tag to [[track:homestuck]] (thanks, Killian, GameEymen!)
+        - added [[tag:walking-cane]] tag to [[album:alternia]] (album cover; thanks, vgoat, GameEymen!)
+        - added [[tag:jousting-lance]] and [[tag:oogonibomb]] tags to [[track:desperado-rocket-chairs]] (official art; thanks, vgoat, GameEymen, Surge!)
+        - added [[tag:bowkind]] tag to [[track:staring]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:violin]] tag to [[album:the-felt]] (album cover; thanks, GameEymen, Lilith!)
+        - added new [[tag:droogs-ak-47]] tag to [[track:rhapsody-in-green]], [[track:humphreys-lullaby]], [[track:baroqueback-bowtier-scratchs-lament]], and [[track:english]] (thanks, GameEymen, Killian, Surge, Whisper!)
+        - added new [[tag:juju-breaker]] tag to [[track:rhapsody-in-green]] (thanks, GameEymen, Whisper, Lan!)
+        - added [[tag:clocks]] tag to [[track:time-paradox]] (thanks, GameEymen!)
+        - added new [[tag:boxcarss-axes]] tag to [[track:variations]] (thanks, GameEymen, Coral, Lan!)
+        - replaced [[tag:riflekind]] tag with [[tag:girls-best-friend]] in [[album:homestuck-vol-6]] (album cover; thanks, vgoat, GameEymen!)
+        - added [[tag:hunting-rifle]] tag to [[track:umbral-ultimatum]] (thanks, vgoat, GameEymen!)
+        - added [[tag:jacks-knife]] tag to [[track:walk-stab-walk-r-and-e]], [[track:26x-showdown-combo]], and [[track:720x-showdown-combo]] (thanks, GameEymen, Whisper!)
+        - replaced [[tag:riflekind]] tag with [[tag:hunting-rifle]] in [[track:gaia-queen]] (thanks, vgoat, GameEymen!)
+        - added [[tag:trusty-knife]] tag to [[track:wacky-antics]] (thanks, GameEymen, Killian!)
+        - replaced [[tag:dragon-cane]] tag with [[tag:walking-cane]] in [[track:trollcops]] (official art; thanks, GameEymen!)
+        - replaced [[tag:dragon-cane]] tag with [[tag:walking-cane]] in [[track:terezis-theme]] (official art; thanks, GameEymen!)
+        - added [[tag:oogonibomb]] tag to [[track:fiduspawn-go]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:bowkind]] tag to [[track:horschestra-STRONG-version]] (official art; thanks, GameEymen!)
+        - replaced [[tag:skaia]] tag with [[tag:black-kings-scepter]] in [[track:rex-duodecim-angelus]] (official art & anthology fanart; thanks, GameEymen!)
+        - replaced [[tag:needlekind]] tag with [[tag:thorns-of-oglogoth]] in [[track:a-fairy-battle]] (official art; thanks, GameEymen, Killian, Makin!)
+        - replaced [[tag:needlekind]] tag with [[tag:knitting-needles]] in [[track:a-fairy-battle]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:caledscratch]] tag to [[album:homestuck-vol-7]] (album cover; thanks, GameEymen!)
+        - added [[tag:trusty-knife]] to [[album:the-wanderers]] (album cover) and [[track:gilded-sands]] (thanks, GameEymen!)
+        - added [[tag:lotus]] tag to [[track:carapacian-dominion]] (thanks, GameEymen, Jebb, Killian!)
+        - replaced [[tag:skaia]] tag with [[tag:white-kings-scepter]] tag in [[track:riches-to-ruins-movements-i-and-ii]] (thanks, GameEymen!)
+        - added [[tag:red-miles]] tag to [[track:what-a-daring-dream]] (artist's cut) and [[track:nightmare]] (thanks, GameEymen, Lavender, Meulanie!)
+        - removed [[tag:riflekind]] tag from [[track:tomahawk-head]] (thanks, GameEymen, Coral, Lilith!)
+        - added [[tag:keyboard]] tag to [[track:prospit-dreamers]] (thanks, GameEymen!)
+        - added [[tag:eclectic-bass]] tag to [[track:gardener]] (thanks, GameEymen!)
+        - added [[tag:flintlock-pistols]] and [[tag:fenestrated-plane]] tags to [[track:ohgodwhat-vol-1-4]] and [[track:ohgodwhat-remix-vol-1-4]] ([[album:homestuck-vol-1-4]]; thanks, GameEymen, Surge!)
+        - added [[tag:tumor]] tag to [[track:flare]] (thanks, GameEymen, Lan, Makin!)
+        - added [[tag:red-miles]] tag to [[track:galactic-cancer]] (thanks, GameEymen, Killian, Celeste!)
+        - added new [[tag:discipline-broom]] tag to [[track:hussie-hunt]] (thanks, GameEymen!)
+        - added [[tag:cue-needles]] and [[tag:discipline-broom]] tags to [[track:havoc]] (thanks, GameEymen!)
+        - added [[tag:dads-car]] tag to [[track:how-do-i-live-d8-night-version]], [[track:flying-car]], [[track:electrocumulus]], and [[album:reprise]] (thanks, Killian, Celeste, Lan!)
+        - replaced [[tag:dragon-cane]] tag with [[tag:redglares-cane]] in [[track:teal-hunter]] and [[track:cobalt-corsair]] (thanks, GameEymen, Lan!)
+        - added [[tag:lancekind]] tag to [[track:bronze-page]] (thanks, GameEymen, vgoat, Lan!)
+        - added [[tag:unbreakable-katana]] tag to [[track:another-jungle]] (thanks, GameEymen!)
+        - added [[tag:bull-penis-cane]] and [[tag:ultra-violence-cuestick]] tags to [[track:im-a-member-of-the-midnight-crew-post-punk-version]] (thanks, GameEymen!)
+        - replaced [[tag:green-sun]] tag with [[tag:green-sun-scepter]] in [[track:break-shot]] (thanks, GameEymen!)
+        - added [[tag:red-miles]] tag to [[track:carne-vale]] (thanks, GameEymen!)
+        - added new [[tag:junior-battermasters-bowlbuster-stirring-solution-50000]] tag to [[album:coloUrs-and-mayhem-universe-b]] (album cover; thanks, GameEymen!)
+        - added [[tag:junior-battermasters-bowlbuster-poking-solution-50000]] and [[tag:junior-battermasters-bowlbuster-stirring-solution-50000]] tags to [[track:cyan-beast]] (thanks, vgoat, GameEymen!)
+        - added [[tag:unbreakable-katana]] tag to [[track:orange-hat]] (thanks, GameEymen!)
+        - added [[tag:psidons-entente]] tag to [[track:the-vast-glub]] (thanks, vgoat, GameEymen!)
+        - replaced [[tag:turntables]] tag with [[tag:timetables]] in [[track:coolkid]] and [[track:clockstopper]] (thanks, GameEymen!)
+        - added [[tag:jacks-knife]] tag to [[track:noirscape]] (alternate artwork; thanks, GameEymen!)
+        - added [[tag:junior-battermasters-bowlbuster-poking-solution-50000]] tag to [[track:stargaze]] (thanks, GameEymen, Killian!)
+        - replaced [[tag:cello]] tag with [[tag:violin]] in [[album:symphony-impossible-to-play]] (album cover; thanks, GameEymen, Celeste, Pascal!)
+        - added [[tag:queens-ring]] tag to [[track:skaian-shrapnel]] and [[track:negastrife]] (thanks, GameEymen!)
+        - added [[tag:needlekind]] and [[tag:the-condesces-trident]] tags to [[track:oppa-toby-style]] (thanks, GameEymen, Celeste!)
+        - added [[tag:unbreakable-katana]], [[tag:caledfwlch]], [[tag:dragon-cane]], [[tag:green-sun-scepter]], [[tag:juju-breaker]], and [[tag:rockets]] tags to [[track:heir-of-grief-collide]] (thanks, GameEymen!)
+        - added [[tag:saxophone]] and [[tag:bull-penis-cane]] tags to [[track:moonsweater]] (thanks, GameEymen!)
+        - added [[tag:ninja-sword]] tag to [[track:beatdown-dx]] (thanks, vgoat, GameEymen!)
+        - added [[tag:white-wand]] tag to [[track:cosmic-carousel]] (anthology fanart; thanks, vgoat, GameEymen!)
+        - added [[tag:unbreakable-katana]] and [[tag:dragon-cane]] tags to [[track:not-canon-in-f-major-op-69]] (anthology fanart; thanks, vgoat, GameEymen!)
+        - added [[tag:bladekind]] tag to [[track:four-kids-and-a-game-they-played-together]] (anthology fanart; thanks, GameEymen!)
+        - added [[tag:dragon-cane]] tag to [[album:pesterquest-soundtrack]] (album cover; thanks, GameEymen!)
+        - added [[tag:hunting-rifle]] tag to [[track:carefree-victory-remix]] (thanks, GameEymen!)
+        - added [[tag:red-miles]] tag to [[track:scratchless-scraps]] (thanks, Lan!)
+        - added [[tag:cue-ball]] tag to [[track:aura-of-colour-lofam4]] (thanks, FF!)
+    - added Carapacian emblem tags: (thanks, GameEymen, Makin, Lan!)
+        - added new [[tag:black-king-emblem]] and [[tag:white-king-emblem]] tags to [[track:skaian-skirmish]] and [[track:skaian-skuffle]]
+        - added new [[tag:white-queen-emblem]] and [[tag:black-queen-emblem]] tags to [[album:prospit-and-derse]] (album cover)
+        - added [[tag:white-king-emblem]] tag to [[track:riches-to-ruins-movements-i-and-ii]], [[track:our-glorious-speaker]], and [[track:freefall]]
+        - added [[tag:black-king-emblem]] tag to [[track:escape-pod]]
+        - added [[tag:black-queen-emblem]] tag to [[track:checkmate]]
+        - replaced [[tag:derse]] tag with [[tag:black-queen-emblem]] in [[track:tomahawk-head]]
+    - improved aspect tagging: (thanks, GameEymen!)
+        - added [[tag:light]] tag to [[track:guardian-v2]] (thanks also, Killian)
+        - added [[tag:time-on-outfit]] and [[tag:time]] tags to [[track:unsheathd]] (thanks also, Killian!)
+        - added [[tag:breath-on-outfit]] tag to [[track:skaian-flight]]
+        - added [[tag:time-on-outfit]] tag to [[track:sunsetter]]
+        - added [[tag:light]] tag to [[track:endless-climbing]] (thanks also, Killian!)
+        - added [[tag:breath-on-outfit]] tag to [[track:medical-emergency]]
+        - added [[tag:breath-on-outfit]] tag to [[track:throwdown]]
+        - added [[tag:light]] tag to [[track:greenhouse]]
+        - added [[tag:space-on-outfit]] tag to [[track:song-of-life]] (thanks also, Killian!)
+        - added [[tag:breath-on-outfit]] tag to [[album:homestuck-vol-6]] (album cover)
+        - added [[tag:light]] tag to [[track:frost-vol6]]
+        - added [[tag:light-on-outfit]] tag to [[track:crystalanthology]]
+        - added [[tag:breath]] tag to [[track:stormspirit]]
+        - added [[tag:breath-on-outfit]] tag to [[track:heir-conditioning]]
+        - added [[tag:time-on-outfit]] tag to [[track:arisen-anew]] (anthology fanart)
+        - added [[tag:light-on-outfit]] tag to [[track:trollian-standoff]] (anthology fanart)
+        - added [[tag:light]] tag to [[track:rex-duodecim-angelus]] (anthology fanart)
+        - added [[tag:light-on-outfit]] tag to [[track:killed-by-br8k-spider]] (official art)
+        - added [[tag:time-on-outfit]] tag to [[track:trollcops-radio-play]] (official art)
+        - added [[tag:doom]] tag to [[track:the-blind-prophet]] (anthology fanart)
+        - added [[tag:light-on-outfit]] tag to [[track:chain-of-prospit]]
+        - added [[tag:light-on-outfit]] tag to [[track:the-deeper-you-go]]
+        - added [[tag:mind]] and [[tag:light]] tags to [[track:trial-and-execution]] (thanks, Makin!)
+        - added [[tag:breath-on-outfit]] tag to [[track:lifdoff]], [[track:awakening]], [[track:play-the-wind]], and [[track:warhammer-of-zillyhoo]]
+        - added [[tag:light]] tag to [[track:ruins-rising]]
+        - added [[tag:light]] tag to [[track:nightmare]]
+        - added [[tag:space]] tag to [[album:homestuck-vol-8]] (album cover; thanks, Celeste, Lan!)
+        - added [[tag:breath-on-outfit]] tag to [[track:airtime]] (thanks also, Celeste, Lan!)
+        - added [[tag:breath-on-outfit]] tag to [[track:pyrocumulus-sicknasty]]
+        - added [[tag:breath-on-outfit]] tag to [[track:gust-of-heir]]
+        - added [[tag:space-on-outfit]] tag to [[track:hussie-hunt]]
+        - added [[tag:light-on-outfit]] tag to [[track:revered-return]]
+        - added [[tag:time-on-outfit]] and [[tag:light-on-outfit]] tags to [[album:coloUrs-and-mayhem-universe-a]] (album cover)
+        - added [[tag:breath]] tag to [[track:bronze-page]] (thanks also, Lan, Killian!)
+        - added [[tag:blood-on-outfit]] tag to [[track:iron-knight]] (thanks also, vgoat!)
+        - added [[tag:light-on-outfit]] tag to [[track:cobalt-thief]] (thanks also, vgoat!)
+        - added [[tag:time-on-outfit]] tag to [[track:made-of-time]] (thanks also, vgoat!)
+        - added [[tag:space-on-outfit]], [[tag:time-on-outfit]], [[tag:time]], [[tag:light-on-outfit]], and [[tag:breath-on-outfit]] tags to [[album:coloUrs-and-mayhem-universe-b]]
+        - added [[tag:breath-on-outfit]] tag to [[track:do-the-windy-thing]] (thanks also, vgoat!)
+        - added [[tag:space-on-outfit]] tag to [[track:pilot-light]]
+        - added [[tag:light-on-outfit]] tag to [[track:rustless-fall]]
+        - added [[tag:breath]], [[tag:space]], and [[tag:time]] tags to [[track:busting-makes-me-feel-good]] (thanks, Lan!)
+        - added [[tag:light]] tag to [[track:iRRRRRRRRECONCILA8LE]]
+        - added [[tag:breath]] tag to [[album:one-year-older]] (album cover)
+        - added [[tag:light]] tag to [[track:sunrise]]
+        - added [[tag:breath-on-outfit]] tag to [[track:the-scratch]] and [[track:respit]]
+        - added [[tag:space-on-outfit]] and [[tag:time-on-outfit]] tags to [[track:mother]]
+        - added [[tag:breath-on-outfit]] and [[tag:breath]] tags to [[track:another-chance]]
+        - added [[tag:light]] tag to [[album:s-collide]] (album cover)
+        - added [[tag:breath-on-outfit]] and [[tag:light-on-outfit]] tags to [[track:oppa-toby-style]]
+        - added [[tag:space-on-outfit]], [[tag:mind-on-outfit]], and [[tag:void-on-outfit]] tags to [[track:eternity-served-cold-canon-edit]]
+        - added [[tag:time-on-outfit]] and [[tag:heart-on-outfit]] tags to [[track:heir-of-grief-collide]]
+        - added [[tag:space-on-outfit]] tag to [[album:act-7]] (album cover)
+        - added [[tag:light]] tag to [[track:overture-canon-edit]]
+        - added [[tag:light]] tag to [[album:homestuck-vol-10]] (album cover)
+        - added [[tag:breath-on-outfit]] tag to [[track:creata]]
+        - added [[tag:space-on-outfit]] and [[tag:time]] tags to [[track:of-gods-and-witches-vol-10]] (thanks also, Makin!)
+        - added [[tag:breath-on-outfit]] tag to [[track:you-killed-my-father-prepare-to-die]]
+        - added [[tag:light-on-outfit]] tag to [[track:aggrievocation]]
+        - added [[tag:time-on-outfit]] tag to [[track:freefall]]
+        - added [[tag:breath-on-outfit]] tag to [[track:skaian-happy-flight]]
+        - added [[tag:time-on-outfit]] and [[tag:breath-on-outfit]] tags to [[track:ascend]]
+        - added [[tag:light-on-outfit]] tag to [[track:lilith-in-starlight]]
+        - added [[tag:light]] tag to [[track:thanks-for-playing]]
+        - added [[tag:life-on-outfit]] tag to [[track:renewed-return]]
+        - added [[tag:light]] tag to [[track:conclude]]
+        - added [[tag:heart-on-outfit]] and [[tag:light]] tags to [[album:beyond-canon]] (album cover)
+        - added [[tag:heart-on-outfit]] tag to [[track:now-im-a-villain]] (anthology fanart)
+        - added [[tag:light-on-outfit]] tag to [[track:the-leaving]] (anthology fanart)
+        - added [[tag:light-on-outfit]] tag to [[track:light-burns-out-gestalt]] (anthology fanart)
+        - added [[tag:void]] and [[tag:breath]] tags to [[track:four-kids-and-a-game-they-played-together]] (anthology fanart)
+        - added [[tag:space-on-outfit]] tag to [[track:crystal-hung-in-firmaments-descent]] (anthology fanart)
+        - added [[tag:light]] tag to [[album:pesterquest-soundtrack]] (album cover), [[track:sometimes-i-call-andrew-hussie-andy-and-so-far-he-hasnt-corrected-me]], [[track:please-support-the-trevor-project]], and [[track:crustacean-pesterquest]] (thanks also, Killian, Lan!)
+        - added [[tag:space]], [[tag:time]], and [[tag:breath]] tags to [[track:medium-lofam3]] ([[album:lofam3]]; thanks, Killian!)
+    - improved other iconography tagging:
+        - added [[tag:freshjamz]] tag to [[track:showtime-remix-vol-1-4]], [[track:aggrieve-remix-vol-1-4]], [[track:verdancy-bassline-vol-1-4]], [[track:potential-verdancy]], [[track:rediscover-fusion-vol-1-4]], and [[track:explore-remix-vol-1-4]] ([[album:homestuck-vol-1-4]]; thanks, Killian, Lilith!)
+        - added [[tag:music-note]] tag to [[track:ohgodwhat]], [[track:ohgodwhat-remix]], [[track:rediscover-fusion]], [[track:rediscover-fusion-remix]], and [[track:explore-remix]] (thanks, Jackie!)
+        - added [[tag:music-note]] tags to [[track:welcome-to-the-new-extreme]] (thanks, Killian, GameEymen!)
+        - added [[tag:sburb]] tag to [[track:versus]] (thanks, Killian, GameEymen!)
+        - added [[tag:gate]], [[tag:lotus]], [[tag:crocodiles-consort]], [[tag:turtles-consort]], and [[tag:salamanders-consort]] tags to [[track:upholding-the-law]] (thanks, Killian, GameEymen, Makin, Celeste!)
+        - added [[tag:sburb]] tag to [[track:ecstasy]] (thanks, GameEymen!)
+        - added [[tag:music-staff]] tag to [[track:song-of-life]] (thanks, Killian, GameEymen!)
+        - added [[tag:sburb]] tag to [[album:sburb]] (album cover; thanks, GameEymen!)
+        - added [[tag:gate]] tag to [[track:endless-expanse]] (thanks, GameEymen!)
+        - added [[tag:music-note]] tag to [[track:raggy-looking-dance]] (thanks, GameEymen!)
+        - added [[tag:squiddles]] and [[tag:sbahj]] tags to [[track:gardener]] (thanks, GameEymen, Celeste!)
+        - added [[tag:freshjamz]] tag to [[track:ohgodwhat-vol-1-4]] and [[track:ohgodwhat-remix]] ([[album:homestuck-vol-1-4]]; thanks, GameEymen!)
+        - added [[tag:music-staff]] and [[tag:music-note]] tags to [[track:temporary]] (thanks, GameEymen!)
+        - added [[tag:music-note]] tag to [[track:how-do-i-live-d8-night-version]] (thanks, GameEymen!)
+        - added [[tag:sbahj]] tag to track artwork for [[track:im-a-member-of-the-midnight-crew-soapstone]] (thanks, Lan!)
+    - fixed tagging errors:
+        - fixed [[track:rex-duodecim-angelus]] anthology fanart being tagged with [[tag:vriska]] instead of [[tag:terezi]] (thanks, GameEymen!)
+        - fixed [[track:a-fairy-battle]] official artwork being tagged with [[tag:kanaya]] instead of [[tag:rose]] (thanks, Lilith!)
+        - fixed [[track:frog-hunt]], instead of next track [[track:terraform]], being tagged with [[tag:queens-ring]] (thanks, GameEymen, Killian!)
+        - fixed [[track:guardian-v2]] being tagged with [[tag:jades-home]] (thanks, Killian, Celeste!)
+        - removed [[tag:terezi]] tag from [[track:ch3ck-th3-m3t4d4t4]] (thanks, GameEymen, Meulanie!)
+        - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer-press-play]] ([[album:s-press-play]]), and [[track:urban-jungle]] (thanks, Lan!)
+    <h3>general fixes</h3>
     <!-- track section fixes -->
     - removed "Main album" track sections from various albums which included *only* "Main album", no other track sections: [[album:redditstuck-vol-3]], [[album:perils-of-probability]], [[album:home]] (thanks, Lan!)
     - fixed [[track:the-ultimate-show]] being placed in [[album:references-beyond-homestuck]] under "Other music originating outside Homestuck", instead of under "Music from video games" (thanks, Lilith, Lavender!)
-    <!-- name fixes (subsections) -->
-    - fixed some tracks' names not aligning with Bandcamp releases: (thanks, Lilith!)
-        - fixed [[track:intermission-on-repeat]] using album download name, "On Repeat (Intermission)", instead of Bandcamp name
-        - fixed [[track:intermission-beyond-the-wall]] using album download name, "Beyond the Wall (Intermission)", instead of Bandcamp name
-    - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
-        - fixed [[track:time-for-a-breather]] being named "Take a Break"
-        - fixed [[track:pokemon-research-lab-pokemon-sword-shield]] being named "Pokémon Laboratory"
-        - fixed [[track:pokemon-healed-pokemon-sword-shield]] being named "Recovery"
-        - fixed [[track:guide-pokemon-sword-shield]] being named "Lead the Way"
-        - fixed [[track:at-the-train-station]] being named "Wild Area Station"
-        - fixed [[track:battle-max-raid-battle]] being named "Max Raid Battle!"
-        - fixed [[track:curry-koffing-class]] being named "Curry: Koffing Class"
-        - fixed [[track:curry-wobbuffet-class]] being named "Curry: Wobbuffet Class"
-        - fixed [[track:curry-milcery-class]] being named "Curry: Milcery Class"
-        - fixed [[track:curry-copperajah-class]] being named "Curry: Copperajah Class"
-        - fixed [[track:curry-charizard-class]] being named "Curry: Charizard Class"
-        - fixed [[track:curry-dex-keep-going]] being named "Curry Dex: Do Your Best!"
-        - fixed [[track:curry-dex-complete]] being named "Curry Dex: Completed!"
-        - fixed [[track:at-the-stadium]] being named "Stadium"
-        - fixed [[track:an-old-legend]] being named "Legends of History"
-        - fixed [[track:battle-trainer-pokemon-sword-shield]] being named "Battle! (Trainer Battle)"
-        - fixed [[track:victory-trainer-pokemon-sword-shield]] being named "Victory! (Trainer Battle)"
-        - fixed [[track:gym-mission-cleared]] being named "Gym Mission Cleared!!"
-        - fixed [[track:poke-jobs]] being named "Poké Job"
-        - fixed [[track:hair-salon-pokemon-sword-shield]] being named "Salon"
-        - fixed [[track:the-ancient-mural-crumbles]] being named "Crumbling Ruins"
-        - fixed [[track:the-truth-behind-the-mural]] being named "Truth of the Ruins"
-        - fixed [[track:battle-gym-leader-piers]] being named "Battle! (Gym Leader: Piers)"
-        - fixed [[track:reaching-the-top]] being named "Arrival at the Top"
-        - fixed [[track:the-finals-begin]] being named "Final Tournament Begin!"
-        - fixed [[track:battle-finals]] being named "Battle! (Final Tournament)"
-        - fixed [[track:the-darkest-day]] being named "Darkest Day"
-        - fixed [[track:a-bizarre-situation]] being named "Abnormal Situation"
-        - fixed [[track:eternal-power]] being named "Infinite Power"
-        - fixed [[track:you-caught-eternatus]] being named "Caught an Eternatus"
-        - fixed [[track:for-a-bright-future]] being named "To Create a Bright Future"
-        - fixed [[track:battle-zacian-zamazenta]] being named "Battle! (Zacian / Zamazenta)"
-        - fixed [[track:the-amazing-avery]] being named "Super Avery"
-        - fixed [[track:obtained-an-item-but]] being named "Obtained an Item, But..."
-        - fixed [[track:victory-with-kubfu]] being named "Kubfu and Victory"
-        - fixed [[track:legends-of-legendary-pokemon]] being named "A Legend! A Legend of Legends!"
-        - fixed [[track:the-king-of-bountiful-harvests]] being named "King of Bountiful Harvests"
-        - fixed [[track:battle-glastrier-spectrier]] being named "Battle! (Glastrier / Spectrier)"
-        - fixed [[track:as-one]] being named "Unity of Rider and Horse"
-        - fixed [[track:battle-the-king-of-bountiful-harvests]] being named "Battle! (King of Bountiful Harvests)"
-        - fixed [[track:you-found-a-clue]] being named "You Found a Hint!"
-        - fixed [[track:battle-the-giant-of-legend]] being named "Battle! (Legendary Giants)"
-        - fixed [[track:gathering-at-the-tree]] being named "Gather at the Dyna Tree"
-        - fixed [[track:battle-the-bird-pokemon-of-legend]] being named "Battle! (Legendary Bird Pokémon)"
-        - fixed [[track:boss-battle-bgm-ridley-draygon]] being named "Big Boss Confrontation BGM (Ridley, Draigon)"
-        - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
-        - fixed [[track:ending-theme-the-legend-of-zelda]] being named "Ending (The Legend of Zelda)"
-        - fixed [[track:ganon-is-defeated]] being named "Ganon Appear/Defeat Fanfare"
-        - fixed [[track:golden-hammer-wrecking-crew]] being named "BGM B (Power Up) (Wrecking Crew)"
-        - fixed [[track:got-a-duck-duck-hunt]] being named "Duck Get! (Duck Hunt)"
-        - fixed [[track:hammer-bgm-donkey-kong]] being named "Hammer Theme (Donkey Kong)"
-        - fixed [[track:masked-dededes-theme]] being named "The Masked King"
-        - fixed [[track:phase-bgm-wrecking-crew]] being named "BGM A (Wrecking Crew)"
-        - fixed [[track:rhythm-boxing-expert]] being named "Rhythm Boxing"
-        - fixed [[track:round-1-and-2-clear-donkey-kong]] being named "25m / 75m Clear"
-        - fixed [[track:round-1-bgm-donkey-kong]] being named "25m Theme"
-        - fixed [[track:round-1-bgm-donkey-kong-jr]] being named "Level 1 Theme (Donkey Kong Jr.)"
-        - fixed [[track:round-1-clear-donkey-kong-jr]] being named "Level 1 Clear (Donkey Kong Jr.)"
-        - fixed [[track:round-3-bgm-donkey-kong]] being named "100m Theme"
-        - fixed [[track:round-4-bgm-donkey-kong-jr]] being named "Level 4 Theme (Donkey Kong Jr.)"
-        - fixed [[track:round-3-clear-donkey-kong]] being named "100m Clear"
-        - fixed [[track:round-4-clear-all-clear-donkey-kong-jr]] being named "Level 4 Clear (All Clear!) (Donkey Kong Jr.)"
-        - fixed [[track:title-bgm-duck-hunt]] being named "Title Theme (Duck Hunt)"
-        - fixed [[track:title-theme-the-legend-of-zelda]] being named "Title (The Legend of Zelda)"
-        - fixed [[track:underworld-theme]] being named "Dungeon Theme"
-    <!-- name fixes (single-lines) -->
-    - fixed [[track:cats-toby-fox]] being named "Cats" (thanks, Erase, Lan!)
-    - fixed [[track:catscratch]] being named "Catscratch" (capitalized; thanks, Lan!)
-    - fixed [[track:do-the-homestuck-demo]] being named "Do the Homestuck" (thanks, Lan!)
-    - fixed [[track:battle-rival-pokemon-black2-white2]] being named "Battle! Rival" (no parentheses; thanks, ruby!)
-    - fixed [[track:palace-of-twilight]] being named "The Twilight Realm" (thanks, Lavender!)
-    - fixed [[track:danger-on-the-dance-floor-mid-boss]] being named "Danger on the Dance Floor (Mid-Boss)" (to align with soundtrack release; thanks, ruby!)
-    - fixed [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) being named "Bad Apple!! feat. nomico" (thanks, Lan!)
-    - fixed [[track:chasing-it-down]] being named "Chasing It down" (lowercase "Down"; thanks, Lan!)
-    - fixed [[track:does-it-look-like-im-here]] being named "Does it Look Like I'm Here?" (lowercase "it"; thanks, Lan!)
-    - fixed [[track:home-keys-of-a-piano]] being named "Home (Keys of a PIano)" (uppercase "I" in "PIano"; thanks, Lilith!)
-    - fixed [[tag:astronomical-bodies-canwc]] being named "Astronomical Bodies (CaNWC)" (uppercase "Bodies"; thanks, Lan!)
+    - fixed [[track:alf]] being placed in [[album:references-beyond-homestuck]] under "Music from video games", instead of under "Music composed for movies, television, and other visual arts" (thanks, Lavender!)
     <!-- general data fixes -->
     - fixed [[track:stalemate-play-the-rain]] and [[track:720413]] using the album's release date, instead of their own individual dates (thanks, Lan!)
-    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
-        - fixed duration of [[track:advanced-step]] (was 3:33, now 4:11)
-        - fixed duration of [[track:battle-deoxys]] (was 2:43, now 2:44)
-        - fixed duration of [[track:bomb-rush-blush]] (was 2:31, now 2:30)
-        - fixed duration of [[track:boss-battle-bgm-ridley-draygon]] (was 1:43, now 1:25)
-        - fixed duration of [[track:calamari-inkantation]] (was 2:34, now 2:32)
-        - fixed duration of [[track:city-trial-city]] (was 2:11, now 2:13)
-        - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
-        - fixed duration of [[track:destiny-ablaze]] (was 5:20, now 5:17)
-        - fixed duration of [[track:ending-theme-the-legend-of-zelda]] (was 2:00, now 1:53)
-        - fixed duration of [[track:game-a-b-start-duck-hunt]] (was 0:06, now 0:07)
-        - fixed duration of [[track:game-c-start-duck-hunt]] (was 0:05, now 0:06)
-        - fixed duration of [[track:game-over-duck-hunt]] (was 0:06, now 0:07)
-        - fixed duration of [[track:game-over-the-legend-of-zelda]] (was 0:32, now 0:37)
-        - fixed duration of [[track:game-start-donkey-kong]] (was 0:08, now 0:07)
-        - fixed duration of [[track:game-start-donkey-kong-jr]] (was 0:06, now 0:05)
-        - fixed duration of [[track:golden-hammer-wrecking-crew]] (was 1:20, now 1:26)
-        - fixed duration of [[track:got-a-duck-duck-hunt]] (was 0:01, now 0:03)
-        - fixed duration of [[track:hall-of-fame-pokemon-firered-leafgreen]] (was 1:02, now 1:03)
-        - fixed duration of [[track:hammer-bgm-donkey-kong]] (was 0:21, now 0:26)
-        - fixed duration of [[track:hurry-up-donkey-kong]] (was 0:16, now 0:23)
-        - fixed duration of [[track:id-purpose]] (was 8:00, now 7:58)
-        - fixed duration of [[track:main-menu-wii-fit]] (was 1:50, now 3:56)
-        - fixed duration of [[track:masked-dededes-theme]] (was 1:10, now 1:21)
-        - fixed duration of [[track:miss-duck-hunt]] (was 0:02, now 0:03)
-        - fixed duration of [[track:now-or-never-splatoon]] (was 1:04, now 1:02)
-        - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
-        - fixed duration of [[track:palace-theme]] (was 3:12, now 3:18)
-        - fixed duration of [[track:perfect-duck-hunt]] (was 0:02, now 0:03)
-        - fixed duration of [[track:phase-bgm-wrecking-crew]] (was 2:05, now 1:58)
-        - fixed duration of [[track:prelude-ablaze]] (was 5:20, now 5:18)
-        - fixed duration of [[track:rhythm-boxing-expert]] (was 3:00, now 2:59)
-        - fixed duration of [[track:round-1-and-2-clear-donkey-kong]] (was 0:05, now 0:04)
-        - fixed duration of [[track:round-1-bgm-donkey-kong]] (was 0:19, now 0:37)
-        - fixed duration of [[track:round-1-bgm-donkey-kong-jr]] (was 0:26, now 0:33)
-        - fixed duration of [[track:round-3-clear-donkey-kong]] (was 0:10, now 0:08)
-        - fixed duration of [[track:round-4-bgm-donkey-kong-jr]] (was 0:32, now 0:37)
-        - fixed duration of [[track:round-4-clear-all-clear-donkey-kong-jr]] (was 0:09, now 0:07)
-        - fixed duration of [[track:seaskape]] (was 2:57, now 2:56)
-        - fixed duration of [[track:splattack]] (was 3:53, now 3:52)
-        - fixed duration of [[track:tide-goes-out]] (was 2:29, now 2:26)
-        - fixed duration of [[track:title-bgm-duck-hunt]] (was 0:04, now 0:05)
-        - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
-        - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
-    - fixed duration of [[track:gamebreaker]] (was 4:53, now 4:33; thanks, Surge!)
-    - fixed duration of [[track:brodylovania]] (was 2:35, now 1:23; thanks, Lan!)
-    - fixed duration of [[track:ruins]] (was 3:01, now 3:05; thanks, Lavender!)
-    - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
-    - fixed duration of [[track:palace-of-twilight]] to align with soundtrack release (was 1:00, now 3:26; thanks, Lavender!)
-    - fixed duration of [[track:bad-apple]] ([[artist:zun]]) to align with soundtrack release (was 3:13, now 3:15; thanks, Lan!)
-    - fixed [[track:super-dry-dance]] having no duration (thanks, Lilith!)
-    - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
-    - fixed [[track:gone-hollywood]] having no duration (thanks, Lilith!)
-    <!-- art tag fixes -->
-    - added [[tag:wv]] tag to [[track:explore]] (thanks, Meulanie!)
-    - added [[tag:freshjamz]] tag to [[track:showtime-remix]], [[track:aggrieve-remix]], [[track:verdancy-bassline]], and [[track:potential-verdancy]] (thanks, Lilith!)
-    - added [[tag:music-note]] tag to [[track:ohgodwhat]], [[track:ohgodwhat-remix]], [[track:rediscover-fusion]], [[track:rediscover-fusion-remix]], and [[track:explore-remix]] (thanks, Jackie!)
-    - added [[tag:cuttlefish]] tag to [[track:keepers]] (official art; thanks, vgoat!)
-    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:theme]] (anthology fanart; thanks, vgoat, Lan!)
-    - fixed [[track:a-fairy-battle]] official artwork being tagged with [[tag:kanaya]] instead of [[tag:rose]] (thanks, Lilith!)
-    - added [[tag:derse]] tag to [[track:at-the-price-of-oblivion]] (thanks, Meulanie, Lan!)
-    - added [[tag:jack-noir]] tag to [[track:what-a-daring-dream]] (thanks, Meulanie, Tangle!)
-    - added [[tag:mind]] and [[tag:light]] tags to [[track:trial-and-execution]] (thanks, Makin!)
-    - added [[tag:space]] tag to [[album:homestuck-vol-8]] (album cover; thanks, Celeste, Lan!)
-    - added [[tag:mind]], [[tag:breath]], [[tag:time]], and [[tag:sburb]] tags to [[track:25x-showdown-combo-famitracker]] ([[album:cookiefonsters-2016-famitracker-covers]]; thanks, vgoat!)
-    - added [[tag:clubkind]] tag to [[track:purple-tyrant]] (thanks, vgoat!)
-    - added [[tag:blood]] tag to [[track:iron-knight]] (thanks, vgoat, Lan!)
-    - added [[tag:light]] tag to [[track:cobalt-thief]] (thanks, vgoat, Lan!)
-    - added [[tag:time]] tag to [[track:made-of-time]] (thanks, vgoat!)
-    - added [[tag:forkkind]] tag to [[track:cyan-beast]] (thanks, vgoat!)
-    - added [[tag:breath]] tag to [[track:do-the-windy-thing]] (thanks, vgoat, Lan!)
-    - added [[tag:imperial-battleship]] tag to [[track:another-jungle]] (thanks, Lan!)
-    - added [[tag:breath]], [[tag:space]], and [[tag:time]] tags to [[track:busting-makes-me-feel-good]] (thanks, Lan!)
-    - added [[tag:unbreakable-katana]] tag to [[album:beyond-canon]] (thanks, vgoat, Lan!)
-    - replaced [[tag:rose]] tag with [[tag:rosebot]] in [[track:exclusion-zone]], [[track:assembly]], [[track:not-canon-in-f-major-op-69]], [[track:the-leaving]], and [[track:light-burns-out-gestalt]] (thanks, vgoat!)
-    - added [[tag:light]] tag to [[track:exclusion-zone]] (thanks, vgoat!)
-    - added [[tag:white-wand]] tag to [[track:cosmic-carousel]] (thanks, vgoat!)
-    - added [[tag:light]] tag to [[track:light-burns-out-gestalt]] (thanks, vgoat, Lan!)
-    - added [[tag:unbreakable-katana]] tag to [[track:narrative-command]] (thanks, vgoat!)
-    - added [[tag:warhammer-of-zillyhoo]] tag to [[track:moving-onwards]] (thanks, vgoat!)
-    - added [[tag:space]] tag to [[track:crystal-hung-in-firmaments-descent]] (anthology fanart; thanks, vgoat, Lan!)
-    - added [[tag:horses]], [[tag:bowkind]], [[tag:light]], [[tag:music-staff]], and [[tag:music-note]] tags to [[track:i-accidentally-broke-my-teeth]] (thanks, vgoat, Lan!)
-    - added [[tag:equius-bots]] and [[tag:horses]] tags to [[track:robots-robots]] (thanks, vgoat!)
-    - added [[tag:bowkind]] tag to [[track:dreams-of-archery]] (thanks, vgoat!)
-    - added [[tag:space]], [[tag:time]], and [[tag:breath]] tags to [[track:medium-lofam3]] ([[album:lofam3]]; thanks, Killian!)
-    - added [[tag:beforus]] and [[tag:pink-moon]] tags to [[album:beforus]] (thanks, vgoat!)
-    - added [[tag:quills-of-echidna]], [[tag:guitar]], and [[tag:pink-moon]] tags to [[track:disc1-beforus]] ([[album:beforus]]; thanks, vgoat!)
-    - added [[tag:guitar]] tag to [[track:aquasex-renegade]] (thanks, vgoat!)
-    - added [[tag:meenahs-trident]] tag to [[track:killer-beach]] (thanks, vgoat!)
-    - added [[tag:wandkind]] tag to [[track:the-boy-who-lived-unfortunately]] (thanks, vgoat!)
-    - added [[tag:music-box]] tag to [[track:rust-witch]] (thanks, vgoat!)
-    - added [[tag:red-miles]] tag to [[track:scratchless-scraps]] (thanks, Lan!)
-    - added [[tag:pink-moon]] tag to [[track:dear-heart]] (thanks, vgoat!)
-    - added [[tag:doves]] tag to [[track:look-into-the-future]] (thanks, vgoat!)
-    - added [[tag:music-box]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:press-a-to-reset]] (thanks, vgoat!)
-    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:solus-vates]] (thanks, vgoat!)
-    - added [[tag:pink-moon]] and [[tag:guitar]] tags to [[track:beforus]] (thanks, vgoat!)
-    - added [[tag:music-note]] tag to [[track:7un3-r3m1x]] (thanks, vgoat!)
-    - added [[tag:pink-moon]] tag to [[track:east-beforan-funk]] (thanks, vgoat!)
-    - added [[tag:cue-needles]] tag to [[track:damaras-bees-fatalism-beemix]] (thanks, vgoat, Lan!)
-    - added [[tag:victory-platform]] tag to [[album:act-8-volume-1]] (album cover; thanks, vgoat, Lan!)
-    - added [[tag:victory-platform]] tag to [[track:cadmean-conquest]] (thanks, vgoat!)
-    - added [[tag:bladekind]] tag to [[track:limelight]] (also [[track:limelight-lofam4|on LOFAM4]]; thanks, vgoat, Lan!)
-    - added [[tag:lotus]] tag to [[track:medic-act-8]] (thanks, vgoat!)
-    - added [[tag:mind]], [[tag:breath]], [[tag:time]], and [[tag:sburb]] tags to [[track:25x-showdown-combo-famitracker]] ([[album:cookiefonsters-2016-famitracker-covers]]; thanks, vgoat!)
-    - added [[tag:metal-sonic]] and [[tag:dr-eggman]] tags to [[track:bowman-time-feat-neil-breen]] (thanks, Lilith!)
-    - added [[tag:the-condesces-trident]], [[tag:cue-needles]], [[tag:dragon-cane]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[album:ancestral]] (album cover; thanks, vgoat, Lan!)
-    - added [[tag:cue-needles]] tag to [[track:reality-theatre]] (thanks, vgoat!)
-    - added [[tag:battleship-condescension]] tag to [[track:propulsion]] (thanks, vgoat!)
-    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:a-peace-worth-fighting-for]] (thanks, vgoat!)
-    - added [[tag:dragon-cane]] tag to [[track:h3r-honor4bl3-v3ng34nc3]] (thanks, vgoat, Lan!)
-    - added [[tag:fluorite-octet]] and [[tag:dragon-cane]] tags to [[track:spiders-eclipse]] (thanks, vgoat, Lan!)
-    - added [[tag:alternia]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:greatest-empress]] (thanks, vgoat!)
-    - removed [[tag:the-signless]] tag from [[track:disc2-ancestral]] ([[album:ancestral]]; thanks, Lan!)
-    - added [[tag:the-condesces-trident]], [[tag:ahabs-crosshairs]], [[tag:bowkind]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:ancestral-anthem]] (thanks, vgoat, Lan!)
-    - added [[tag:clubkind]] to [[track:rampage-ancestral]] (thanks, vgoat!)
-    - added [[tag:ahabs-crosshairs]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:orphaners-ocean]] (thanks, vgoat!)
-    - added [[tag:green-moon]] tag to [[track:in-the-forest]] (thanks, vgoat!)
-    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:sufferers-suite]] (thanks, vgoat!)
-    - added [[tag:cue-needles]] tag to [[track:black-heart-green-dress]] (thanks, vgoat!)
-    - added [[tag:bowkind]] tag to [[track:expatri8s-march]] (thanks, vgoat!)
-    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:release-me]] (thanks, vgoat!)
-    - added [[tag:bowkind]] tag to [[track:exile-ancestral]] (thanks, vgoat!)
-    - added [[tag:battleship-condescension]] tag to [[track:terminal-aeon]] (thanks, vgoat!)
-    - added [[tag:clubkind]] tag to [[track:violet-means-to-a-violent-end]] (thanks, vgoat!)
-    - added [[tag:dragon-cane]] and [[tag:fluorite-octet]] tags to [[track:the-confront8ion]] (thanks, vgoat, Lan!)
-    - added [[tag:dragon-cane]] and [[tag:pink-moon]] tags to [[track:just1c3-r41ns-from-4bov3]] (thanks, vgoat, Lan!)
-    - added [[tag:cue-needles]], [[tag:green-moon]], and [[tag:pink-moon]] tags to [[track:pyrrhic-rust]] (thanks, vgoat, Lan!)
-    - added [[tag:lancekind]] and [[tag:communal-hive-stems]] tag to [[track:mutiny-ancestral]] (thanks, vgoat, Lan!)
-    - added [[tag:the-condesces-trident]] tag to [[track:in-condescent-darkness]] (thanks, vgoat!)
-    - added [[tag:battleship-condescension]] tag to [[track:die-for-me]] (thanks, vgoat!)
-    - added [[tag:the-condesces-trident]] and [[tag:battleship-condescension]] tags to [[track:the-doom-of-the-planets]] (thanks, vgoat!)
-    - added [[tag:cue-needles]] and [[tag:scratchs-apartment]] tags to [[track:rusted-wench]] (thanks, vgoat!)
-    - added [[tag:cue-needles]] and [[tag:the-condesces-trident]] tags to [[track:of-rust-and-royalty]] (thanks, vgoat!)
-    - added [[tag:the-handmaid]] and [[tag:the-condesces-trident]] tags to [[track:her-imperial-ascension]] (thanks, vgoat, Lan!)
-    - added [[tag:the-condesces-trident]], [[tag:clubkind]], [[tag:bowkind]], [[tag:cue-needles]], and [[tag:scratchs-apartment]] tags to [[track:disc3-ancestral]] ([[album:ancestral]]; thanks, vgoat!)
-    - added [[tag:dragon-cane]] tag to [[track:cardinal-fyre]] (thanks, vgoat, Lan!)
-    - added [[tag:lancekind]] and [[tag:imperial-battleship]] tags to [[track:preach-ancestral]] (thanks, vgoat, Lan!)
-    - added [[tag:clubkind]] tag to [[track:swan-song]] (thanks, vgoat!)
-    - added [[tag:battleship-condescension]] tag to [[track:the-doom-of-the-planets-reprise]] (thanks, Lan!)
-    - added [[tag:cue-ball]] tag to [[track:aura-of-colour-lofam4]] (thanks, FF!)
-    - added [[tag:god-tier-clock]], [[tag:light]], [[tag:void]], [[tag:time]], [[tag:breath]], [[tag:hope]], [[tag:space]], and [[tag:heart]] tags to [[album:aspect-clock]] (thanks, vgoat, Lan!)
-    - added [[tag:scalemates]] tag to [[album:alternate-hues-and-melodies]] (album cover; thanks, vgoat!)
-    - added [[tag:dragon-cane]] tag to [[track:1nf1n1t3-t34l]] (thanks, vgoat!)
-    - added [[tag:aradias-soulbot]] tag to [[track:i-am-very-much-alive]] (thanks, vgoat!)
-    - added [[tag:action-claws]] tag to [[track:arsenic-cat]], and replaced [[tag:alternia]] with [[tag:nepetas-hive]] here (thanks, vgoat, Lan!)
-    - added [[tag:canmt-tan]] tag to [[album:homestuck-vol-11]] (thanks to an emailer!)
-    - added [[tag:reckoning]] tag to [[track:meteor-schmeteor]] (thanks, vgoat!)
-    - added [[tag:light]] tag to [[track:the-lights-rebellion]] (thanks, vgoat!)
-    - added [[tag:the-condesces-trident]] tag to [[track:sweet-talker]] (thanks, vgoat!)
-    - added [[tag:reckoning]] tag to [[track:polypolyphemus]] (thanks, vgoat!)
-    - added [[tag:reckoning]] tag to [[track:amniotic-daydream]] (thanks, vgoat!)
-    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:absent-reflection]] (thanks, vgoat!)
-    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[track:the-puppet-master-cosmic-caretakers]] (thanks, vgoat!)
-    - added [[tag:rage]] tag to [[track:honk-friend]] (thanks, vgoat, Lan!)
-    - added [[tag:cuttlefish]] tag to [[track:aquamarine-heroine]] (thanks, vgoat!)
-    - added [[tag:heart]] tag to [[track:hand-in-hand]] (thanks, vgoat!)
-    - added [[tag:hope]] tag to [[track:vwhat-if-im-a-failure]] (thanks, vgoat!)
-    - added [[tag:2x3dentkind]] tag to [[track:trident-thief]] (thanks, vgoat, Lan!)
-    - added [[tag:fluorite-octet]] tag to [[track:center-stage]] (thanks, vgoat!)
-    - added [[tag:sgrub]] tag to [[track:mitunas-theme]] (thanks, vgoat!)
-    - added [[tag:music-box]] tag to [[track:reboot-beforusbound]] (thanks, vgoat!)
-    - added [[tag:blood]] tag to [[track:insufferable-sufferer]] (thanks, vgoat!)
-    - added [[tag:sgrub]] tag to [[track:the-future-we-could-never-have]] (thanks, vgoat!)
-    - added [[tag:sgrub]] tag to [[track:time-to-rest]] (thanks, vgoat!)
-    - removed [[tag:john]] tag from [[album:the-baby-is-june]] (and [[album:the-baby-is-june-instrumental|instrumental]]), [[track:planet-healer-press-play]] ([[album:s-press-play]]), and [[track:urban-jungle]] (thanks, Lan!)
-    - added [[tag:crowsprite]] and [[tag:reckoning]] tags to [[album:beatdown-raid-remix]], and replaced [[tag:earth]] with [[tag:daves-home]] here (thanks, vgoat, Lan!)
-    - added [[tag:space]] tag to [[track:cascading-light]] main artwork (thanks, vgoat!)
-    - added [[tag:green-moon]] and [[tag:pink-moon]] tags to [[album:friendsim-2-volume-1]] (thanks, Lilith!)
-    - added [[tag:sbahj]] tag to track artwork for [[track:im-a-member-of-the-midnight-crew-soapstone]] (thanks, Lan!)
-    - added [[tag:spamton]] tag to [[track:sburban-keygen-working-2009-no-virus]] (thanks, Meulanie, Lilith!)
-    - added [[tag:ness-earthbound]], [[tag:mettaton-ex]], and [[tag:android-18]] tags to [[track:terminal-loop]], and fixed it being tagged with [[tag:sonic]] instead of [[tag:metal-sonic]] (thanks, wertercatt, ruby, Lilith!)
-    - added [[tag:sburb]] tag to [[track:brobots]] (thanks, vgoat!)
-    - added [[tag:light]] tag to [[album:chained-official-soundtrack]] (thanks, vgoat!)
-    - fixed [[track:trolls-who-can-eat-trolls-are-the-luckiest-trolls]] being tagged with [[tag:joey]] instead of [[tag:chixie]] (thanks, Lilith, Jebb, Makin!)
-    - added [[tag:michael-guy-bowman]] tag to [[album:comfortable-bugs]] and [[album:look-on-my-works-ye-mighty-and-despair]] (thanks, Lan!)
-    - fixed [[track:know-thyself]] and [[track:to-ashes-it-returns]] being tagged with [[tag:nino-oceanfalls]] instead of [[tag:dream-nino-oceanfalls]] (thanks, Lilith!)
-    - added blood warning to [[track:cobalt-corsair]] (thanks, Lan!)
-    - added blood warning to [[track:skaia-ad-infinitum]] (thanks, Lan!)
     <!-- additional file fixes -->
     - moved Twix Stix MIDI from [[track:under-the-hat-lofam]] ([[album:lofam]]) to [[track:under-the-hat]] ([[album:one-year-older]]; thanks, Lan!)
     <!-- commentary fixes -->
@@ -1136,6 +1513,7 @@ Content: |-
     <!-- link fixes -->
     - fixed YouTube listening link for [[track:side-1-the-nobles]] ([[album:the-nobles]], was to [[track:determination-of-a-hero]]; thanks, Vi, Lan!)
     - fixed Bandcamp listening link for [[track:face-yourself-beta]] (was to [[track:side-1-who-you-were-beta]]; thanks, Lilith!)
+    - fixed SoundCloud listening link for [[track:or-else]] (was to [[track:loved-you]]; thanks, Lilith!)
     - fixed YouTube listening link for [[track:advanced-step]] (was to [CD track](https://www.youtube.com/watch?v=OW-lJdk3CY4) instead of in-game track; thanks, ruby!)
     - fixed YouTube listening link for [[track:rhythm-boxing-expert]] (was to [beginner/advanced track](https://www.youtube.com/watch?v=QdJPe21VBc0); thanks, ruby, Lavender!)
     - fixed YouTube listening link for [[track:battle-wild-pokemon-pokemon-sun-moon]] (was to [[track:battle-wild-pokemon-pokemon-red-blue]]; thanks, Lan!)
@@ -1151,8 +1529,78 @@ Content: |-
     - replaced limited-availability YouTube listening link for [[track:viva-la-vida]] with better one (thanks, Meulanie, ruby, Lavender!)
     - supplemented limited-availability YouTube listening link for [[track:life-in-technicolor]] with unofficial one (thanks, Meulanie, ruby, Lavender!)
     - removed dead YouTube listening links for [[track:destiny-ablaze]], [[track:id-purpose]], and [[track:prelude-ablaze]] (thanks, Lan!)
-    <h3>directory changes</h3>
-    <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
+    <h3>duration, name & directory changes</h3>
+    <details><summary><b>Toggle Durationlog</b> (general changes)</summary>
+    - fixed duration of [[track:gamebreaker]] (was 4:53, now 4:33; thanks, Surge!)
+    - fixed duration of [[track:brodylovania]] (was 2:35, now 1:23; thanks, Lan!)
+    - fixed duration of [[track:ruins]] (was 3:01, now 3:05; thanks, Lavender!)
+    - fixed duration of [[track:danger-on-the-dance-floor-mid-boss]] to align with soundtrack release (was 2:02, now 2:07; thanks, ruby!)
+    - fixed duration of [[track:palace-of-twilight]] to align with soundtrack release (was 1:00, now 3:26; thanks, Lavender!)
+    - fixed duration of [[track:bad-apple]] ([[artist:zun]]) to align with soundtrack release (was 3:13, now 3:15; thanks, Lan!)
+    - fixed [[track:super-dry-dance]] having no duration (thanks, Lilith!)
+    - fixed duration of [[track:bad-apple]] (feat. [[artist:nomico]]) to align with 'Lovelight' album release (was 3:13, now 5:18; thanks, Lan!)
+    - fixed [[track:gone-hollywood]] having no duration (thanks, Lilith!)
+    </details>
+    <details><summary><b>Toggle Durationlog</b> (Nintendo Music changes)</summary>
+    - fixed duration of [[track:advanced-step]] (was 3:33, now 4:11)
+    - fixed duration of [[track:battle-deoxys]] (was 2:43, now 2:44)
+    - fixed duration of [[track:bomb-rush-blush]] (was 2:31, now 2:30)
+    - fixed duration of [[track:boss-battle-bgm-ridley-draygon]] (was 1:43, now 1:25)
+    - fixed duration of [[track:calamari-inkantation]] (was 2:34, now 2:32)
+    - fixed duration of [[track:city-trial-city]] (was 2:11, now 2:13)
+    - fixed duration of [[track:death-mountain-theme]] (was 0:59, now 1:00)
+    - fixed duration of [[track:destiny-ablaze]] (was 5:20, now 5:17)
+    - fixed duration of [[track:ending-theme-the-legend-of-zelda]] (was 2:00, now 1:53)
+    - fixed duration of [[track:game-a-b-start-duck-hunt]] (was 0:06, now 0:07)
+    - fixed duration of [[track:game-c-start-duck-hunt]] (was 0:05, now 0:06)
+    - fixed duration of [[track:game-over-duck-hunt]] (was 0:06, now 0:07)
+    - fixed duration of [[track:game-over-the-legend-of-zelda]] (was 0:32, now 0:37)
+    - fixed duration of [[track:game-start-donkey-kong]] (was 0:08, now 0:07)
+    - fixed duration of [[track:game-start-donkey-kong-jr]] (was 0:06, now 0:05)
+    - fixed duration of [[track:golden-hammer-wrecking-crew]] (was 1:20, now 1:26)
+    - fixed duration of [[track:got-a-duck-duck-hunt]] (was 0:01, now 0:03)
+    - fixed duration of [[track:hall-of-fame-pokemon-firered-leafgreen]] (was 1:02, now 1:03)
+    - fixed duration of [[track:hammer-bgm-donkey-kong]] (was 0:21, now 0:26)
+    - fixed duration of [[track:hurry-up-donkey-kong]] (was 0:16, now 0:23)
+    - fixed duration of [[track:id-purpose]] (was 8:00, now 7:58)
+    - fixed duration of [[track:main-menu-wii-fit]] (was 1:50, now 3:56)
+    - fixed duration of [[track:masked-dededes-theme]] (was 1:10, now 1:21)
+    - fixed duration of [[track:miss-duck-hunt]] (was 0:02, now 0:03)
+    - fixed duration of [[track:now-or-never-splatoon]] (was 1:04, now 1:02)
+    - fixed duration of [[track:overworld-theme-the-legend-of-zelda]] (was 1:21, now 1:26)
+    - fixed duration of [[track:palace-theme]] (was 3:12, now 3:18)
+    - fixed duration of [[track:perfect-duck-hunt]] (was 0:02, now 0:03)
+    - fixed duration of [[track:phase-bgm-wrecking-crew]] (was 2:05, now 1:58)
+    - fixed duration of [[track:prelude-ablaze]] (was 5:20, now 5:18)
+    - fixed duration of [[track:rhythm-boxing-expert]] (was 3:00, now 2:59)
+    - fixed duration of [[track:round-1-and-2-clear-donkey-kong]] (was 0:05, now 0:04)
+    - fixed duration of [[track:round-1-bgm-donkey-kong]] (was 0:19, now 0:37)
+    - fixed duration of [[track:round-1-bgm-donkey-kong-jr]] (was 0:26, now 0:33)
+    - fixed duration of [[track:round-3-clear-donkey-kong]] (was 0:10, now 0:08)
+    - fixed duration of [[track:round-4-bgm-donkey-kong-jr]] (was 0:32, now 0:37)
+    - fixed duration of [[track:round-4-clear-all-clear-donkey-kong-jr]] (was 0:09, now 0:07)
+    - fixed duration of [[track:seaskape]] (was 2:57, now 2:56)
+    - fixed duration of [[track:splattack]] (was 3:53, now 3:52)
+    - fixed duration of [[track:tide-goes-out]] (was 2:29, now 2:26)
+    - fixed duration of [[track:title-bgm-duck-hunt]] (was 0:04, now 0:05)
+    - fixed duration of [[track:title-theme-the-legend-of-zelda]] (was 1:20, now 2:55)
+    - fixed duration of [[track:underworld-theme]] (was 1:05, now 0:54)
+    </details>
+    <details><summary><b>Toggle Name & Directorylog</b> (general changes)</summary>
+    - fixed [[track:intermission-on-repeat]] using album download name, "On Repeat (Intermission)", instead of Bandcamp name (thanks, Lilith!)
+    - fixed [[track:intermission-beyond-the-wall]] using album download name, "Beyond the Wall (Intermission)", instead of Bandcamp name (thanks, Lilith!)
+    - fixed [[track:cats-toby-fox]] being named "Cats" (thanks, Erase, Lan!)
+    - fixed [[track:catscratch]] being named "Catscratch" (capitalized; thanks, Lan!)
+    - fixed [[track:do-the-homestuck-demo]] being named "Do the Homestuck" (thanks, Lan!)
+    - fixed [[track:battle-rival-pokemon-black2-white2]] being named "Battle! Rival" (no parentheses; thanks, ruby!)
+    - fixed [[track:palace-of-twilight]] being named "The Twilight Realm" (thanks, Lavender!)
+    - fixed [[track:danger-on-the-dance-floor-mid-boss]] being named "Danger on the Dance Floor (Mid-Boss)" (to align with soundtrack release; thanks, ruby!)
+    - fixed [[track:bad-apple-lovelight]] (feat. [[artist:nomico]]) being named "Bad Apple!! feat. nomico" (thanks, Lan!)
+    - fixed [[track:chasing-it-down]] being named "Chasing It down" (lowercase "Down"; thanks, Lan!)
+    - fixed [[track:does-it-look-like-im-here]] being named "Does it Look Like I'm Here?" (lowercase "it"; thanks, Lan!)
+    - fixed [[track:home-keys-of-a-piano]] being named "Home (Keys of a PIano)" (uppercase "I" in "PIano"; thanks, Lilith!)
+    - fixed [[track:soul-scour]] being named "Soul Scour" (capitalized "Scour"; to align with artist's release and soundtrack release; thanks, Lilith!)
+    - fixed [[tag:astronomical-bodies-canwc]] being named "Astronomical Bodies (CaNWC)" (uppercase "Bodies"; thanks, Lan!)
     - changed directory of [[track:maibasojen-lofam]] from `maibasojen` to `maibasojen-lofam`
     - changed directory of [[track:electric-fireflies-lofam3]] from `electric-fireflies` to `electric-fireflies-lofam3`
     - changed directory of [[track:explore-keygen-mix-lofam3]] from `explore-keygen-mix` to `track:explore-keygen-mix-lofam3`
@@ -1201,14 +1649,87 @@ Content: |-
     - changed directory of [[track:battle-frontier-brain-hoenn-version]] from `battle-frontier-brainsinnoh-version` to `battle-frontier-brain-sinnoh-version`
     - changed directory of [[track:at-dooms-gate]] from `at-dooms-gate-e1m1` to `at-dooms-gate`
     - changed directory of [[track:cave-story]] from `plantation-cave-story` to `cave-story`
-    - changed directory of [[track:eight-melodies-earthbound]] from `eight-melodies` to `eight-melodies-earthbound`
+    - changed directory of [[track:dangerous-caves]] from `cave-theme-1` to `dangerous-caves`
+    - changed directory of [[track:disco-descent-1-1]] from `disco-descent` to `disco-descent-1-1`
+    - changed directory of [[track:eight-melodies-the-depth-of-memory]] from `eight-melodies` to `eight-melodies-the-depth-of-memory`
+    - changed directory of [[track:lets-start-an-adventure]] from `onett` to `lets-start-an-adventure`
     - chanage directory of [[track:palace-of-twilight]] from `the-twilight-realm-the-twilight-princess` to `palace-of-twilight`
+    - changed directory of [[track:please-disappear]] from `final-battle-earthbound` to `please-disappear`
+    - changed directory of [[track:power-earthbound]] from `power-mother` to `power-earthbound`
     - changed directory of [[track:silly-billy-fnf-hit-single]] from `silly-billy-hit-single` to `silly-billy-fnf-hit-single`
+    - changed directory of [[track:strike-back]] from `prologue-earthbound` to `strike-back` (as far as current references are concerned)
+    - changed directory of [[track:surrounded-by-skyscrapers]] from `fourside` to `surrounded-by-skyscrapers`
+    - changed directory of [[track:this-is-no-time-for-sleeping]] from `one-fateful-night` to `this-is-no-time-for-sleeping` (as far as current references are concerned)
     - changed directory of [[track:you-higurashi-when-they-cry]] from `you-dai` to `you-higurashi-when-they-cry`
     - changed directory of [[track:bad-apple-lovelight]] from `bad-apple-feat-nomico` to `bad-apple-lovelight`
     - changed directory of [[artist:akira-series]] from `akira` to `akira-series`
     </details>
-    <details><summary><b>Toggle Directorylog</b> (Nintendo Music changes)</summary>
+    <details><summary><b>Toggle Name & Directorylog</b> (Nintendo Music changes)</summary>
+    - fixed [[track:time-for-a-breather]] being named "Take a Break"
+    - fixed [[track:pokemon-research-lab-pokemon-sword-shield]] being named "Pokémon Laboratory"
+    - fixed [[track:pokemon-healed-pokemon-sword-shield]] being named "Recovery"
+    - fixed [[track:guide-pokemon-sword-shield]] being named "Lead the Way"
+    - fixed [[track:at-the-train-station]] being named "Wild Area Station"
+    - fixed [[track:battle-max-raid-battle]] being named "Max Raid Battle!"
+    - fixed [[track:curry-koffing-class]] being named "Curry: Koffing Class"
+    - fixed [[track:curry-wobbuffet-class]] being named "Curry: Wobbuffet Class"
+    - fixed [[track:curry-milcery-class]] being named "Curry: Milcery Class"
+    - fixed [[track:curry-copperajah-class]] being named "Curry: Copperajah Class"
+    - fixed [[track:curry-charizard-class]] being named "Curry: Charizard Class"
+    - fixed [[track:curry-dex-keep-going]] being named "Curry Dex: Do Your Best!"
+    - fixed [[track:curry-dex-complete]] being named "Curry Dex: Completed!"
+    - fixed [[track:at-the-stadium]] being named "Stadium"
+    - fixed [[track:an-old-legend]] being named "Legends of History"
+    - fixed [[track:battle-trainer-pokemon-sword-shield]] being named "Battle! (Trainer Battle)"
+    - fixed [[track:victory-trainer-pokemon-sword-shield]] being named "Victory! (Trainer Battle)"
+    - fixed [[track:gym-mission-cleared]] being named "Gym Mission Cleared!!"
+    - fixed [[track:poke-jobs]] being named "Poké Job"
+    - fixed [[track:hair-salon-pokemon-sword-shield]] being named "Salon"
+    - fixed [[track:the-ancient-mural-crumbles]] being named "Crumbling Ruins"
+    - fixed [[track:the-truth-behind-the-mural]] being named "Truth of the Ruins"
+    - fixed [[track:battle-gym-leader-piers]] being named "Battle! (Gym Leader: Piers)"
+    - fixed [[track:reaching-the-top]] being named "Arrival at the Top"
+    - fixed [[track:the-finals-begin]] being named "Final Tournament Begin!"
+    - fixed [[track:battle-finals]] being named "Battle! (Final Tournament)"
+    - fixed [[track:the-darkest-day]] being named "Darkest Day"
+    - fixed [[track:a-bizarre-situation]] being named "Abnormal Situation"
+    - fixed [[track:eternal-power]] being named "Infinite Power"
+    - fixed [[track:you-caught-eternatus]] being named "Caught an Eternatus"
+    - fixed [[track:for-a-bright-future]] being named "To Create a Bright Future"
+    - fixed [[track:battle-zacian-zamazenta]] being named "Battle! (Zacian / Zamazenta)"
+    - fixed [[track:the-amazing-avery]] being named "Super Avery"
+    - fixed [[track:obtained-an-item-but]] being named "Obtained an Item, But..."
+    - fixed [[track:victory-with-kubfu]] being named "Kubfu and Victory"
+    - fixed [[track:legends-of-legendary-pokemon]] being named "A Legend! A Legend of Legends!"
+    - fixed [[track:the-king-of-bountiful-harvests]] being named "King of Bountiful Harvests"
+    - fixed [[track:battle-glastrier-spectrier]] being named "Battle! (Glastrier / Spectrier)"
+    - fixed [[track:as-one]] being named "Unity of Rider and Horse"
+    - fixed [[track:battle-the-king-of-bountiful-harvests]] being named "Battle! (King of Bountiful Harvests)"
+    - fixed [[track:you-found-a-clue]] being named "You Found a Hint!"
+    - fixed [[track:battle-the-giant-of-legend]] being named "Battle! (Legendary Giants)"
+    - fixed [[track:gathering-at-the-tree]] being named "Gather at the Dyna Tree"
+    - fixed [[track:battle-the-bird-pokemon-of-legend]] being named "Battle! (Legendary Bird Pokémon)"
+    - fixed [[track:boss-battle-bgm-ridley-draygon]] being named "Big Boss Confrontation BGM (Ridley, Draigon)"
+    - fixed [[track:death-mountain-theme]] being named "Death Mountain (The Legend of Zelda)"
+    - fixed [[track:ending-theme-the-legend-of-zelda]] being named "Ending (The Legend of Zelda)"
+    - fixed [[track:ganon-is-defeated]] being named "Ganon Appear/Defeat Fanfare"
+    - fixed [[track:golden-hammer-wrecking-crew]] being named "BGM B (Power Up) (Wrecking Crew)"
+    - fixed [[track:got-a-duck-duck-hunt]] being named "Duck Get! (Duck Hunt)"
+    - fixed [[track:hammer-bgm-donkey-kong]] being named "Hammer Theme (Donkey Kong)"
+    - fixed [[track:masked-dededes-theme]] being named "The Masked King"
+    - fixed [[track:phase-bgm-wrecking-crew]] being named "BGM A (Wrecking Crew)"
+    - fixed [[track:rhythm-boxing-expert]] being named "Rhythm Boxing"
+    - fixed [[track:round-1-and-2-clear-donkey-kong]] being named "25m / 75m Clear"
+    - fixed [[track:round-1-bgm-donkey-kong]] being named "25m Theme"
+    - fixed [[track:round-1-bgm-donkey-kong-jr]] being named "Level 1 Theme (Donkey Kong Jr.)"
+    - fixed [[track:round-1-clear-donkey-kong-jr]] being named "Level 1 Clear (Donkey Kong Jr.)"
+    - fixed [[track:round-3-bgm-donkey-kong]] being named "100m Theme"
+    - fixed [[track:round-4-bgm-donkey-kong-jr]] being named "Level 4 Theme (Donkey Kong Jr.)"
+    - fixed [[track:round-3-clear-donkey-kong]] being named "100m Clear"
+    - fixed [[track:round-4-clear-all-clear-donkey-kong-jr]] being named "Level 4 Clear (All Clear!) (Donkey Kong Jr.)"
+    - fixed [[track:title-bgm-duck-hunt]] being named "Title Theme (Duck Hunt)"
+    - fixed [[track:title-theme-the-legend-of-zelda]] being named "Title (The Legend of Zelda)"
+    - fixed [[track:underworld-theme]] being named "Dungeon Theme"
     - changed directory of [[track:time-for-a-breather]] from `take-a-break-pokemon-sword-shield` to `time-for-a-breather`
     - changed directory of [[track:pokemon-research-lab-pokemon-sword-shield]] from `pokemon-laboratory` to `pokemon-research-lab-pokemon-sword-shield`
     - changed directory of [[track:pokemon-healed-pokemon-sword-shield]] from `reovery-pokemon-sword-shield` to `pokemon-healed-pokemon-sword-shield`
@@ -1482,10 +2003,10 @@ Content: |-
     <!-- art tag additions -->
     - added location tags across [[group:oceanfalls]] discography (thanks, Nevermind, Lanolin!)
     - added location tags: [[tag:daves-home]], [[tag:houston-tx]], [[tag:forge]], [[tag:dirks-home]], [[tag:prostit]], [[tag:nepetas-hive]], [[tag:communal-hive-stems]], [[tag:echidnas-lair]], [[tag:jades-home]], [[tag:pacific-island]], [[tag:beat-mesa]], [[tag:bec-head-base]], [[tag:eggy-looking-base]], [[tag:skyship-base]], [[tag:green-moon]], [[tag:scratchs-apartment]], [[tag:flooded-earth]], [[tag:janes-home]], [[tag:skya]], [[tag:rajavihara]], [[tag:karkats-hive]], [[tag:trolls-meteor]], [[tag:johns-home]], [[tag:maple-valley-wa]], [[tag:rainbow-falls-ny]], [[tag:roses-home]], [[tag:skaianet-laboratory]], [[tag:dersite-ship]], [[tag:durst]], [[tag:roxys-home]], [[tag:battleship-condescension]], [[tag:pink-moon]], [[tag:mr-bones-wild-ride]], [[tag:lolaf-canwc]]
-    - added object tags: [[tag:dragon-cane]], [[tag:reckoning]], [[tag:scarlet-ribbitar]], [[tag:timetables]], [[tag:turntables]], [[tag:walking-cane]], [[tag:cello]], [[tag:rollercoaster]], [[tag:rockets]], [[tag:hams]], [[tag:marimba]], [[tag:red-miles]], [[tag:music-box]], [[tag:caledscratch]], [[tag:hunting-rifle]], [[tag:saxophone]], [[tag:psidons-entente]], [[tag:empiricists-wand]], [[tag:royal-deringer]], [[tag:homes-smell-ya-later]], [[tag:queens-ring]], [[tag:god-tier-clock]], [[tag:meenahs-trident]], [[tag:warhammer-of-zillyhoo]], [[tag:eclectic-bass]], [[tag:blunderbuss]], [[tag:green-sun-sceptor]], [[tag:pogo-hammer]], [[tag:clocks]], [[tag:quills-of-echidna]], [[tag:remote-ghost-gauntlets]], [[tag:action-claws]], [[tag:grist]], [[tag:magic-8-ball]], [[tag:pop-a-matic-vrillyhoo-hammer]], [[tag:fluorite-octet]], [[tag:keyboard]], [[tag:organ]], [[tag:piano]], [[tag:standing-piano]], [[tag:ancestral-awakening]], [[tag:sord]], [[tag:ahabs-crosshairs]], [[tag:telescopic-sassacrusher]], [[tag:deuce-clubs]], [[tag:violin]], [[tag:conducters-batons-of-ogloglob]], [[tag:thorns-of-oglogoth]], [[tag:electric-guitar]], [[tag:2x3dentkind]], [[tag:black-rifle]], [[tag:black-sceptor]], [[tag:bladekind]], [[tag:bowkind]], [[tag:caledfwlch]], [[tag:canekind]], [[tag:cigarette-holder-lance]], [[tag:claw-hammer]], [[tag:clawkind]], [[tag:clawsickle]], [[tag:cue-ball]], [[tag:cue-needles]], [[tag:fans]], [[tag:fenestrated-plane|Fenestrology]], [[tag:girls-best-friend]], [[tag:grand-piano]], [[tag:jokerkind]], [[tag:knitting-needles]], [[tag:laser-gun]], [[tag:lipstick]], [[tag:musical-instruments]], [[tag:needlekind]], [[tag:ninja-sword]], [[tag:pistolkind]], [[tag:ps-key]], [[tag:rag-of-souls]], [[tag:regisword]], [[tag:riflekind]], [[tag:ring-of-keys]], [[tag:sicklekind]], [[tag:synthesizer]], [[tag:tommy-gun]], [[tag:twin-m9-berettas]], [[tag:unbreakable-katana]], [[tag:wandkind]], [[tag:white-magnum]], [[tag:white-wand]], [[tag:wrinklefucker]]
+    - added object tags: [[tag:dragon-cane]], [[tag:reckoning]], [[tag:scarlet-ribbitar]], [[tag:timetables]], [[tag:turntables]], [[tag:walking-cane]], [[tag:cello]], [[tag:rollercoaster]], [[tag:rockets]], [[tag:hams]], [[tag:marimba]], [[tag:red-miles]], [[tag:music-box]], [[tag:caledscratch]], [[tag:hunting-rifle]], [[tag:saxophone]], [[tag:psidons-entente]], [[tag:empiricists-wand]], [[tag:royal-deringer]], [[tag:homes-smell-ya-later]], [[tag:queens-ring]], [[tag:god-tier-clock]], [[tag:meenahs-trident]], [[tag:warhammer-of-zillyhoo]], [[tag:eclectic-bass]], [[tag:blunderbuss]], [[tag:green-sun-scepter]], [[tag:pogo-hammer]], [[tag:clocks]], [[tag:quills-of-echidna]], [[tag:remote-ghost-gauntlets]], [[tag:action-claws]], [[tag:grist]], [[tag:magic-8-ball]], [[tag:pop-a-matic-vrillyhoo-hammer]], [[tag:fluorite-octet]], [[tag:keyboard]], [[tag:organ]], [[tag:piano]], [[tag:standing-piano]], [[tag:ancestral-awakening]], [[tag:sord]], [[tag:ahabs-crosshairs]], [[tag:telescopic-sassacrusher]], [[tag:deuce-clubs]], [[tag:violin]], [[tag:conducters-batons-of-ogloglob]], [[tag:thorns-of-oglogoth]], [[tag:electric-guitar]], [[tag:2x3dentkind]], [[tag:black-rifle]], [[tag:black-kings-scepter]], [[tag:bladekind]], [[tag:bowkind]], [[tag:caledfwlch]], [[tag:canekind]], [[tag:cigarette-holder-lance]], [[tag:claw-hammer]], [[tag:clawkind]], [[tag:clawsickle]], [[tag:cue-ball]], [[tag:cue-needles]], [[tag:fans]], [[tag:fenestrated-plane|Fenestrology]], [[tag:girls-best-friend]], [[tag:grand-piano]], [[tag:jokerkind]], [[tag:knitting-needles]], [[tag:laser-gun]], [[tag:lipstick]], [[tag:musical-instruments]], [[tag:needlekind]], [[tag:ninja-sword]], [[tag:pistolkind]], [[tag:ps-key]], [[tag:rag-of-souls]], [[tag:regisword]], [[tag:riflekind]], [[tag:ring-of-keys]], [[tag:sicklekind]], [[tag:synthesizer]], [[tag:tommy-gun]], [[tag:twin-m9-berettas]], [[tag:unbreakable-katana]], [[tag:wandkind]], [[tag:white-magnum]], [[tag:white-wand]], [[tag:wrinklefucker]]
     - added iconography tags: [[tag:time]], [[tag:light]], [[tag:gamebro]], [[tag:hope]], [[tag:life]], [[tag:sburb]], [[tag:doom]], [[tag:mind]], [[tag:breath]], [[tag:void]], [[tag:sgrub]], [[tag:rage]], [[tag:heart]], [[tag:freshjamz]], [[tag:blood]], [[tag:music-note]], [[tag:music-staff]], [[tag:space]]
-    - added real-world people tags: [[tag:andrew-horowitz]], [[tag:ben-affleck]], [[tag:bing-crosby]], [[tag:bruce-willis]], [[tag:charles-barkley]], [[tag:joe-hawley]], [[tag:john-cusack]], [[tag:liv-tyler]], [[tag:meg-ryan]], [[tag:michael-jordan]], [[tag:nicolas-cage]], [[tag:rick-astley]], [[tag:rj-lake]], [[tag:rob-cantor]], [[tag:ross-federman]], [[tag:tavia-morra]], [[tag:zubin-sedghi]]
-    - added character, species, and other tags: [[tag:aradia-ghost]], [[tag:crows]], [[tag:dave-archetype]], [[tag:hephaestus]], [[tag:matchsticks]], [[tag:trace]], [[tag:alpha-male-homosuck]], [[tag:humlah-tumblrstuck]], [[tag:crocodiles-consort]], [[tag:what-pumpkin]], [[tag:biscuits]], [[tag:fin]], [[tag:aliesh-team-paradox]], [[tag:pumpkin]], [[tag:fred-flintstone]], [[tag:crowsprite]], [[tag:dirks-bots]], [[tag:smuppets]], [[tag:p-body-portal]], [[tag:reidek-tumblrstuck]], [[tag:eagles]], [[tag:itchy]], [[tag:stitch]], [[tag:mettaton]], [[tag:mettaton-ex]], [[tag:wasps]], [[tag:casey]], [[tag:salamanders-consort]], [[tag:secret-wizard]], [[tag:geromy]], [[tag:fireflies]], [[tag:poo-earthbound]], [[tag:rhagkna-tumblrstuck]], [[tag:echidna]], [[tag:jade-homosuck]], [[tag:jeff-earthbound]], [[tag:najash-team-paradox]], [[tag:cuttlefish]], [[tag:vladis-team-paradox]], [[tag:nervous-broad]], [[tag:die]], [[tag:quarters]], [[tag:samm-tumblrstuck]], [[tag:hatsune-miku]], [[tag:harlequinsprite]], [[tag:nannasprite]], [[tag:jane-homosuck]], [[tag:atlas-portal]], [[tag:garnex-tumblrstuck]], [[tag:bugs-bunny]], [[tag:iguanas-consort]], [[tag:tolero-team-paradox]], [[tag:equius-bots]], [[tag:typheus]], [[tag:male-homosuck]], [[tag:john-archetype]], [[tag:dolphins]], [[tag:tavrisprite]], [[tag:doze]], [[tag:sawbuck]], [[tag:marnix-team-paradox]], [[tag:tronno-team-paradox]], [[tag:clover]], [[tag:eggs]], [[tag:cetus]], [[tag:rosebot]], [[tag:rose-homosuck]], [[tag:mobster-kingpin]], [[tag:horsaroni]], [[tag:apysur-team-paradox]], [[tag:hummingbirds]], [[tag:jaspersprite]], [[tag:vodka-mutini]], [[tag:roxy-homosuck]], [[tag:turtles-consort]], [[tag:squiddles-girl]], [[tag:trizza]], [[tag:don-go-team-paradox]], [[tag:ness-earthbound]], [[tag:cans]], [[tag:crowbar]], [[tag:paula-earthbound]], [[tag:aradias-soulbot]], [[tag:brobot]], [[tag:hairpin]], [[tag:kernelsprite]], [[tag:leprechauns]], [[tag:lusii]], [[tag:sprites]], [[tag:troll-ghosts]], [[tag:trolls]], [[tag:dad-heinoustuck]]
+    - added real-world people tags: [[tag:andrew-horowitz]], [[tag:ben-affleck]], [[tag:bing-crosby]], [[tag:bruce-willis]], [[tag:charles-barkley]], [[tag:joe-hawley]], John Cusack, [[tag:liv-tyler]], [[tag:meg-ryan]], [[tag:michael-jordan]], [[tag:nicolas-cage]], [[tag:rick-astley]], [[tag:rj-lake]], [[tag:rob-cantor]], [[tag:ross-federman]], [[tag:tavia-morra]], [[tag:zubin-sedghi]]
+    - added character, species, and other tags: [[tag:aradia-ghost]], [[tag:crows]], [[tag:dave-archetype]], [[tag:hephaestus]], [[tag:matchsticks]], [[tag:trace]], [[tag:alpha-male-homosuck]], [[tag:humlah-tumblrstuck]], [[tag:crocodiles-consort]], [[tag:what-pumpkin]], [[tag:biscuits]], [[tag:fin]], [[tag:aliesh-team-paradox]], [[tag:pumpkin]], [[tag:fred-flintstone]], [[tag:crowsprite]], [[tag:dirks-bots]], [[tag:smuppets]], [[tag:p-body-portal]], [[tag:reidek-tumblrstuck]], [[tag:eagles]], [[tag:itchy]], [[tag:stitch]], [[tag:mettaton]], [[tag:mettaton-ex]], [[tag:wasps]], [[tag:casey]], [[tag:salamanders-consort]], [[tag:secret-wizard]], [[tag:geromy]], [[tag:fireflies]], [[tag:poo-earthbound]], [[tag:rhagkna-tumblrstuck]], [[tag:echidna]], [[tag:jade-homosuck]], [[tag:jeff-earthbound]], [[tag:najash-team-paradox]], [[tag:cuttlefish]], [[tag:vladis-team-paradox]], [[tag:nervous-broad]], [[tag:die]], [[tag:quarters]], [[tag:samm-tumblrstuck]], [[tag:hatsune-miku]], [[tag:harlequinsprite]], [[tag:nannasprite]], [[tag:jane-homosuck]], [[tag:atlas-portal]], [[tag:garnex-tumblrstuck]], [[tag:bugs-bunny]], [[tag:iguanas-consort]], [[tag:tolero-team-paradox]], [[tag:equiuss-bots]], [[tag:typheus]], [[tag:male-homosuck]], [[tag:john-archetype]], [[tag:dolphins]], [[tag:tavrisprite]], [[tag:doze]], [[tag:sawbuck]], [[tag:marnix-team-paradox]], [[tag:tronno-team-paradox]], [[tag:clover]], [[tag:eggs]], [[tag:cetus]], [[tag:rosebot]], [[tag:rose-homosuck]], [[tag:mobster-kingpin]], [[tag:horsaroni]], [[tag:apysur-team-paradox]], [[tag:hummingbirds]], [[tag:jaspersprite]], [[tag:vodka-mutini]], [[tag:roxy-homosuck]], [[tag:turtles-consort]], [[tag:squiddles-girl]], [[tag:trizza]], [[tag:don-go-team-paradox]], [[tag:ness-earthbound]], [[tag:cans]], [[tag:crowbar]], [[tag:paula-earthbound]], [[tag:aradias-soulbot]], [[tag:brobot]], [[tag:hairpin]], [[tag:kernelsprite]], [[tag:leprechauns]], [[tag:lusii]], [[tag:sprites]], [[tag:troll-ghosts]], [[tag:trolls]], [[tag:dad-heinoustuck]]
     - added approximately 909 tags which organize all tags into [[listing:tags/network|a sprawling network]]
     <!-- additional name additions -->
     - added additional names to several tracks: (thanks, Lanolin!)
@@ -1520,7 +2041,7 @@ Content: |-
     <!-- renamed art tags -->
     - renamed "Chelsea's Sis (Redditstuck)" to [[tag:chelseas-sis-redditstuck|Chelsea's sis (Redditstuck)]]
     - renamed "Bowman" to [[tag:michael-guy-bowman|Michael Guy Bowman]]
-    - renamed "Equius's lusus" to [[tag:equius-lusus|Equius' lusus]]
+    - renamed "Equius's lusus" to [[tag:equiuss-lusus|Equius' lusus]]
     - renamed "Felt Manor" to [[tag:felt-mansion|Felt Mansion]]
     - renamed "John's dad" to [[tag:dad|Dad]]
     - renamed "Obama" to [[tag:barack-obama|Barack Obama]]
@@ -2459,7 +2980,7 @@ Content: |-
     - fixed [[track:cascade2]] being named "Cascading Events" (thanks, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
     - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
-    - fixed [[track:onett]] being named "Onett Theme" (thanks, ruby, Lan!)
+    - fixed [[track:lets-start-an-adventure]] being named "Onett Theme" (thanks, ruby, Lan!)
     - fixed [[track:relic-song-pokemon-black-white]] being named "Relic Song (Pokémon Black 2 / Pokémon White 2)" (thanks, ruby!)
     - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
     - fixed [[tag:kade-desynced]] being named "Kate's dad (Desynced)", and [[tag:ella-desynced]] being named "Evan's mum (Desynced)" (thanks, Jebb!)
@@ -2511,7 +3032,7 @@ Content: |-
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:sans-ch2]] from <code>sans-deltarune-ch2</code> to <code>sans-ch2</code> (thanks, Lan!)
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
-    - changed directory of [[track:onett]] from <code>onett-theme</code> to <code>onett</code> (thanks, ruby!)
+    - changed directory of [[track:lets-start-an-adventure]] from <code>onett-theme</code> to <code>onett</code> (thanks, ruby!)
     - changed directory of [[track:relic-song-pokemon-black-white]] from <code>relic-song-pokemon-black-2-white-2</code> to <code>relic-song-pokemon-black-white</code> (thanks, ruby!)
     - changed directory of [[track:woah-chris]] from <code>woah</code> to <code>woah-chris</code> (thanks, Lan!)
     - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
@@ -3224,7 +3745,7 @@ Content: |-
         - fixed [[track:sacrosanct]] not referencing [[track:firefly-oceanfalls]]
         - fixed [[track:wieczna-wiedza]] not referencing [[track:royalty-unbind]]
         - fixed [[track:to-ashes-it-returns]] not referencing [[track:right-hand]]
-    - fixed [[track:megalo-strike-back]] not referencing [[track:prologue-earthbound]] (thanks, FF, Cello!)
+    - fixed [[track:megalo-strike-back]] not referencing [[track:strike-back]] (thanks, FF, Cello!)
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) not referencing [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]])
     - fixed [[track:snowdin-town]] not referencing [[track:stage-7-kirbys-block-ball]] (thanks, Rosetta Leijonde, Jebb, ruby!)
     - fixed [[track:bonetrousle]] referencing [[track:nyeh-heh-heh]], instead of the other way around (thanks, ruby!)
@@ -3590,7 +4111,7 @@ Content: |-
         - added <code>-we-are-all-satellites</code> to directories of [[track:harrigan-we-are-all-satellites]], [[track:mischief-we-are-all-satellites]], [[track:miranda-we-are-all-satellites]], [[track:lunatic-we-are-all-satellites]]
         - added <code>-weird-puzzle-tunes</code> to directory of [[track:aggress-weird-puzzle-tunes]]
         - added <code>-xenoplanetarium</code> to directory of [[track:acquiesce-xenoplanetarium]]
-        - added artists or source material to directories across [[group:additional-tracks]]: [[track:calliope-malcolm-brown]], [[track:cats-toby-fox]], [[track:feel-luke-benjamins]], [[track:flow-solatrus]], [[track:haunt-andrew-hussie]], [[track:valor-toby-fox]], [[track:gnade-redditstuck]], [[track:higher-ost]], [[track:rematch-strider-mixtape]], [[track:snowfall-stlap3]], [[track:wanderlust-redditstuck]], [[track:man-deltarune]], [[track:nuclear-james-roach]], [[track:terra-solatrus]], [[track:beginning-castlevania-draculas-curse]], [[track:dissonance-quincy-pringle]], [[track:focus-super-hexagon]], [[track:harmony-runescape]], [[track:homicide-danganronpa]], [[track:infinite-sonic-forces]], [[track:otherworld-final-fantasy-ix]], [[track:cave-story]], [[track:power-mother]], [[track:redial-bomberman-hero]], [[track:slider-super-mario-64]], [[track:synchrony-brandish-the-planet-buster]], [[track:you-higurashi-when-they-cry]], [[track:chase-jjba]], [[track:courage-jjba]], [[track:mailtime-blues-clues]], [[track:smack-khonjin-house]], [[track:chopsticks-euphemia-allen]], [[track:badgers-mrweebl]], [[track:bodies-drowning-pool]], [[track:bonfire-childish-gambino]], [[track:carnival-gorillaz]], [[track:casin-glue70]], [[track:crawling-linkin-park]], [[track:discordant-cecily-renns]], [[track:divinity-porter-robinson]], [[track:dust-moon]], [[track:earth-smile]], [[track:faint-linkin-park]], [[track:fever-little-willie-john]], [[track:fireflies-owl-city]], [[track:flicker-porter-robinson]], [[track:friday-rebecca-black]], [[track:gentleman-psy]], [[track:hoverboard-dirtyphonics]], [[track:hydrogen-moon]], [[track:if-placeboing]], [[track:killers-cboyardee]], [[track:lawnmower-neil-cicierega]], [[track:linger-the-cranberries]], [[track:parade-justice]], [[track:piss-neil-cicierega]], [[track:risen-terry-a-davis]], [[track:darude-sandstorm]], [[track:separator-radiohead]], [[track:september-earth-wind-fire]], [[track:shelter-porter-robinson]], [[track:smooth-santana]], [[track:spleen-ruth-white]], [[track:teardrop-massive-attack]], [[track:teenagers-my-chemical-romance]], [[track:ultimate-denzel-curry]], [[track:verified-your-favorite-martian]], [[track:whales-hail-mary-mallons]], [[track:hackers-iain-softley]], [[track:howl-allen-ginsberg]]
+        - added artists or source material to directories across [[group:additional-tracks]]: [[track:calliope-malcolm-brown]], [[track:cats-toby-fox]], [[track:feel-luke-benjamins]], [[track:flow-solatrus]], [[track:haunt-andrew-hussie]], [[track:valor-toby-fox]], [[track:gnade-redditstuck]], [[track:higher-ost]], [[track:rematch-strider-mixtape]], [[track:snowfall-stlap3]], [[track:wanderlust-redditstuck]], [[track:man-deltarune]], [[track:nuclear-james-roach]], [[track:terra-solatrus]], [[track:beginning-castlevania-draculas-curse]], [[track:dissonance-quincy-pringle]], [[track:focus-super-hexagon]], [[track:harmony-runescape]], [[track:homicide-danganronpa]], [[track:infinite-sonic-forces]], [[track:otherworld-final-fantasy-ix]], [[track:cave-story]], [[track:power-earthbound]], [[track:redial-bomberman-hero]], [[track:slider-super-mario-64]], [[track:synchrony-brandish-the-planet-buster]], [[track:you-higurashi-when-they-cry]], [[track:chase-jjba]], [[track:courage-jjba]], [[track:mailtime-blues-clues]], [[track:smack-khonjin-house]], [[track:chopsticks-euphemia-allen]], [[track:badgers-mrweebl]], [[track:bodies-drowning-pool]], [[track:bonfire-childish-gambino]], [[track:carnival-gorillaz]], [[track:casin-glue70]], [[track:crawling-linkin-park]], [[track:discordant-cecily-renns]], [[track:divinity-porter-robinson]], [[track:dust-moon]], [[track:earth-smile]], [[track:faint-linkin-park]], [[track:fever-little-willie-john]], [[track:fireflies-owl-city]], [[track:flicker-porter-robinson]], [[track:friday-rebecca-black]], [[track:gentleman-psy]], [[track:hoverboard-dirtyphonics]], [[track:hydrogen-moon]], [[track:if-placeboing]], [[track:killers-cboyardee]], [[track:lawnmower-neil-cicierega]], [[track:linger-the-cranberries]], [[track:parade-justice]], [[track:piss-neil-cicierega]], [[track:risen-terry-a-davis]], [[track:darude-sandstorm]], [[track:separator-radiohead]], [[track:september-earth-wind-fire]], [[track:shelter-porter-robinson]], [[track:smooth-santana]], [[track:spleen-ruth-white]], [[track:teardrop-massive-attack]], [[track:teenagers-my-chemical-romance]], [[track:ultimate-denzel-curry]], [[track:verified-your-favorite-martian]], [[track:whales-hail-mary-mallons]], [[track:hackers-iain-softley]], [[track:howl-allen-ginsberg]]
     </details>
     <h3>data fixes</h3>
     - fixed [[track:dance-stab-dance]] not referencing [[track:sburban-jungle]] (thanks, Sgeo!)
@@ -3728,7 +4249,7 @@ Content: |-
     - fixed [[track:national-treasure]] not referencing [[track:un-owen-was-her]], [[track:gourmet-race]], [[track:doctor]], [[track:explore]], [[track:MeGaLoVania]], [[track:another-medium]], and [[track:snow-halation]] (thanks, Lilith, FF, Makin!)
     - fixed [[track:fanfare-deltarune]] not sampling [[track:theme-rose-of-winter]] (thanks, Jebb!)
     - fixed [[track:rainfalls]] not referencing [[track:rozepiano]]
-    - fixed [[track:the-souns-of-justis-full]] referencing [[track:cornered]] instead of [[track:pursuit-corner-the-culprit]]
+    - fixed [[track:the-souns-of-justis-full]] referencing [[track:cornered]] instead of [[track:pursuit-corner-the-culprit-ds]]
     - fixed [[track:sunriser]] not being listed as a rerelease of [[track:sunrise-9]] (thanks, Makin!)
     - fixed [[track:buy-NAK-sell-DOOF]] not crediting names in its contributors list who've only ever been credited on this one track! (thanks, Lilith!)
     - fixed [[album:hiveswap-act-2-ost]] crediting cover art edit to [[artist:tempest2k]] when this edit hasn't actually been used as its cover on the wiki for a while, and added their cover to the album commentary (thanks, tempest2k!)
@@ -4189,7 +4710,7 @@ Content: |-
     <h3>data fixes</h3>
     - fixed [[track:i-want-you-to-wear-a-seatbelt]] not referencing [[track:savior-of-the-driving-dead]]
     - fixed [[track:sea-patrol-ocean-calm]] not referencing [[track:sea-patrol-ocean-quarrel]]
-    - fixed [[track:phoenix-wright-objection-2001]] and [[track:maya-fey-turnabout-sisters-2001]] being incorrectly named "Objection! 2001" and "Turnabout Sisters Theme 2001", respectively
+    - fixed [[track:phoenix-wright-objection-2001-ds]] and [[track:maya-fey-turnabout-sisters-2001-ds]] being incorrectly named "Objection! 2001" and "Turnabout Sisters Theme 2001", respectively
     - fixed [[artist:maya-kern]] accidentally having a different artist's SoundCloud link
     - fixed a typo in [[artist:daxfactorz]]' name
     - fixed typoes in [[artist:marcy-nabors]]' contributions to [[track:im-a-member-of-the-midnight-crew-post-punk-version]] (thanks, Makin!)
@@ -4608,7 +5129,7 @@ Content: |-
     - updated description of INHOSPITABLE group, courtesy of tempest2k's input
     - fixes for [[album:unreleased-tracks]], courtesy of foreverFlummoxed:
         - added missing durations for [[track:archagent-everlasting]], Boy Skylark, [[track:calming-quartz-beta]], [[track:chalk-emerald]], [[track:isle-unto-thyself]], [[track:its-your-move]], and [[track:the-witch]]
-        - added artist links for [[artist:miracle-musical]] and [[artist:vvvvvv]]
+        - added artist links for [[artist:miracle-musical]] and VVVVVV
     - fixes for miscellaneous data, courtesy of Niklink:
         - added full lists of featured tracks to [[flash:psycholonials]] flashes (instead of just the tracks corresponding to each chapter's album)
         - fixed [[track:your-universe]] being credited to "Marcus Citrine" rather than [[artist:marcus-carline]] (who also wrote [[track:the-leaving]] from [[album:beyond-canon]]!)
@@ -4838,7 +5359,7 @@ Content: |-
         - [[track:save-the-world]] now referenced in [[track:last-goodbye]]
         - [[track:once-upon-a-time]] now referenced in [[track:beginning-deltarune]] (instead of featuring [[track:beginning-castlevania-draculas-curse]], which was a typo)
         - [[track:nightmare-knight]] now referenced in [[track:the-door]]
-        - [[track:one-fateful-night]] now referenced in [[track:weird-birds]]
+        - [[track:this-is-no-time-for-sleeping]] now referenced in [[track:weird-birds]]
         - [[track:another-him]] now referenced in [[track:darkness-falls]]
         - [[track:determination]] now referenced in [[track:the-holy]]
     - added lyrics to [[track:carefree-victory-remix]], courtesy of [[artist:foreverflummoxed]] and nata
@@ -5130,7 +5651,7 @@ Content: |-
     - added another "flash", this one (indirectly) featuring [[Problem Sleuth Theme]]: [[flash:31]]
     - added [[Nic Cage Romance]] to the list of tracks featured in [[flash:2792]]
     - moved those last two tracks ([[Problem Sleuth Theme]], [[Nic Cage Romance]]) over to the "Tracks featured in Homestuck" section of [[album:unreleased-tracks]]
-    - added a new track [[Onett]] to the list of tracks referenced in [[Secret ROM]]
+    - added a new track [[Let's Start an Adventure]] to the list of tracks referenced in [[Secret ROM]]
     - hid [[album:unreleased-tracks]] from the [[site:list/albums/by-date/|Albums - by Date]] and [[site:list/tracks/by-date/|Tracks - by Date]] listings
 
     <h2 id="12-jun-20" class="major-release"><html:a href="#12-jun-20">[[date:12 June 2020]] - happy birthday karkat</a></h2>

@@ -176,6 +176,7 @@ Series:
   - '9'
   - _
   - cool and new volume 3
+  - cool and new volume 4
 - Name: Team albums
   Albums:
   - s]hecka jef
@@ -1346,9 +1347,25 @@ Category: VIDEO GAMES!!!
 Exclude Groups From Other Group Album Summaries: true
 Color: '#f5fc8e'
 ---
+Group: Ace Attorney
+---
+Group: Assassin's Creed
+---
+Group: beatmania
+---
+Group: Bionicle
+---
+Group: BlazBlue
+---
+Group: Bomberman
+---
 Group: Brandish
 ---
 Group: Chrono
+---
+Group: Dark Souls
+---
+Group: The Elder Scrolls
 ---
 Group: Final Fantasy
 ---
@@ -1367,9 +1384,19 @@ Series:
   Albums:
   - GAMEBREAKER
 ---
+Group: Grand Theft Auto
+---
 Group: Halo
 ---
+Group: Kingdom Hearts
+---
 Group: The Legend of Zelda
+---
+Group: Megami Tensei
+---
+Group: Metal Gear
+---
+Group: Mother
 ---
 Group: Pokémon
 Series:

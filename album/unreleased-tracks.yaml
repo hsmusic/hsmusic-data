@@ -179,11 +179,128 @@ Duration: 0:28
 URLs:
 - https://www.youtube.com/watch?v=S4x2-mkXgGI&t=175
 ---
+Track: '06'
+Name Detail: original
+Directory: phat6-bill-bolin
+Artists:
+- Bill Bolin
+Duration: 0:28
+URLs:
+- https://www.youtube.com/watch?v=0gP1gIAfSyo
+- https://archive.org/details/beat-08/~Disc+2~+Removed+Homestuck+Music/2-11+Beat+06+(Removed).mp3
+---
+Track: '07'
+Name Detail: original
+Directory: phat7-bill-bolin
+Artists:
+- Bill Bolin
+Duration: 0:28
+URLs:
+- https://www.youtube.com/watch?v=KZMpgNpG1rU
+- https://archive.org/details/beat-08/~Disc+2~+Removed+Homestuck+Music/2-12+Beat+07+(Removed).mp3
+---
+Track: '12'
+Name Detail: original
+Directory: phat12-bill-bolin
+Artists:
+- Bill Bolin
+Duration: 0:28
+URLs:
+- https://www.youtube.com/watch?v=EhmerczeeKQ
+- https://archive.org/details/beat-08/~Disc+2~+Removed+Homestuck+Music/2-13+Beat+12+(Removed).mp3
+---
+Track: '13'
+Name Detail: original
+Directory: phat13-bill-bolin
+Artists:
+- Bill Bolin
+Duration: 0:28
+URLs:
+- https://www.youtube.com/watch?v=ejz_f_zbpxo
+- https://archive.org/details/beat-08/~Disc+2~+Removed+Homestuck+Music/2-14+Beat+13+(Removed).mp3
+---
+Track: '14'
+Name Detail: original
+Directory: phat14-bill-bolin
+Artists:
+- Bill Bolin
+Duration: 0:28
+URLs:
+- https://www.youtube.com/watch?v=gv_lkS3Er8A
+- https://archive.org/details/beat-08/~Disc+2~+Removed+Homestuck+Music/2-15+Beat+14+(Removed).mp3
+---
+Track: '15'
+Name Detail: original
+Directory: phat15-bill-bolin
+Artists:
+- Bill Bolin
+Duration: 0:28
+URLs:
+- https://www.youtube.com/watch?v=6GKtOdJAKco
+- https://archive.org/details/beat-08/~Disc+2~+Removed+Homestuck+Music/2-16+Beat+15+(Removed).mp3
+---
+Track: '16'
+Name Detail: original
+Directory: phat16-bill-bolin
+Artists:
+- Bill Bolin
+Duration: 0:28
+URLs:
+- https://www.youtube.com/watch?v=ULXyuWudoHE
+- https://archive.org/details/beat-08/~Disc+2~+Removed+Homestuck+Music/2-17+Beat+16+(Removed).mp3
+---
+Track: excellent_dj.mp3
+Duration: 0:56
+Artists:
+- Routt
+URLs:
+- https://media.hsmusic.wiki/misc/archive/excellent_dj.mp3
+---
+Track: totakas_burp.mp3
+Duration: 0:11
+Artists:
+- Routt
+Referenced Tracks:
+- Totaka's Song
+URLs:
+- https://media.hsmusic.wiki/misc/archive/totakas_burp.mp3
+---
+Track: Fanfare
+Directory: fanfare
+Always Reference By Directory: true
+Artists:
+- Curt Blakeslee
+Duration: 0:06
+URLs:
+- https://media.hsmusic.wiki/misc/archive/Fanfare.mp3
+Referenced Tracks:
+- Showtime (Original Mix)
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 7/27/2026)
+
+    Really 'Fanfare' is part of [[Showtime (Imp Strife Mix)]], but it is included as its own track since it's featured in a couple different flashes, independently of the main strife loop.
+
+    This audio is extracted from the flash file for [[flash:879|[S] Rose: Ascend]].
+---
 Track: Flute Refrain
 Artists:
 - Jan van den Hemel
 URLs:
 - https://www.youtube.com/watch?v=3mSQ906o5JU
+---
+Track: Beatdown Remix V.3
+Artists:
+- Bill Bolin
+Duration: 0:53
+URLs:
+- https://www.youtube.com/watch?v=x_T6z4aPiMA
+- https://archive.org/details/beat-08/~Disc+1~+Unreleased+Homestuck+Music/1-09+Beatdown+Remix+V.3.mp3
+Referenced Tracks:
+- Beatdown (Strider Style)
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 9/6/2026)
+
+    Ungodly amount of research today behind this track name, sorry for including just the tl;dr here! The rest of Bolin's Beatdown remixes are included on [[album:exile]], but not this one. We source its track name mainly from a download 'MSPA Cut Music' put together and hosted by Kizzycocoa; it's a 48 kb/s Flash rip dated the same day that [[flash:1720]] came out (as are the other tracks from that flash, in that download).
 ---
 Track: Sweet Bro Theme Song
 Artists:
@@ -222,7 +339,7 @@ URLs:
 - https://www.youtube.com/watch?v=fy6SMhEBSBk
 Referenced Tracks:
 - You Gained a Level!
-- track:eight-melodies-earthbound
+- track:eight-melodies-the-depth-of-memory
 ---
 Track: Nic Cage Romance
 Additional Names:
@@ -247,7 +364,7 @@ URLs:
 - https://www.youtube.com/watch?v=ercVSU3rjrc
 Referenced Tracks:
 - The Little Sprite
-- Onett
+- Let's Start An Adventure
 - Terra's Theme
 - Wind Scene
 - Chrono Trigger
@@ -381,7 +498,7 @@ Commentary: |-
 
     My goal with this track was to create an alternate version of [[Darling Kanaya]], except more reverent and mature.
 
-    The first few notes the track are similar to the first few notes of Kanaya’s theme, but the songs quickly differentiate from there. Two people that are initially the same… I like that concept.
+    The first few notes the track are similar to the first few notes of Kanaya’s theme, but the songs quickly differentiate from there. Two people that are initially the same... I like that concept.
 ---
 Track: GameGlr
 Artists:
@@ -510,18 +627,19 @@ Artists:
 - Toby Fox
 Duration: 1:36
 URLs:
+- https://fwugradiation.tumblr.com/post/34073334504/108-stars-of-density-my-new-track-from-the-latest
 - https://www.youtube.com/watch?v=pyMlQ92eyWs
 Referenced Tracks:
 - Hate You
 Commentary: |-
-    <i>Toby Fox:</i>
+    <i>Toby Fox:</i> ([Tumblr](https://fwugradiation.tumblr.com/post/34073334504/108-stars-of-density-my-new-track-from-the-latest), 10/21/2012)
     108 Stars of Density, my new track from the latest [[flash:5398|update]].
 
-    This song was actually a scrapped attempt at another Meenah song for Volume 9, created out of frustration towards composing [[track:hate-you]]. The song is based off of the ending portion of Hate You, starting at 2:11, which in turn was based off of the intro from [[track:love-you-feferis-theme|Love You]]. I took it out of hibernation and finished it for the update.
+    This song was actually a scrapped attempt at another Meenah song for Volume 9, created out of frustration towards composing [[Hate You]]. The song is based off of the ending portion of Hate You, starting at 2:11, which in turn was based off of the intro from [[track:love-you-feferis-theme|Love You]]. I took it out of hibernation and finished it for the update.
 
     The weird name is a reference to Suikoden, a PlayStation RPG where you walk around talking to characters trying to recruit them into your army. Each character you can recruit corresponds to one of the 108 Stars of Destiny.
 
-    As Meenah, you walk around trying to recruit constellation-corresponding characters into your army………….
+    As Meenah, you walk around trying to recruit constellation-corresponding characters into your army.............
 ---
 Track: The Brave and the Bronze
 Artists:
@@ -815,10 +933,38 @@ Duration: 1:06
 URLs:
 - https://www.youtube.com/watch?v=osip3rTivjM
 Sampled Tracks:
+- Explore
 - Unite Synchronization
 - track:MeGaLoVania
 - Penumbra Phantasm
 - Rex Duodecim Angelus
+MIDI Project Files:
+- Title: Isolated stems
+  Artists:
+  - MarigoldMusicGal
+  Description: >-
+    Isolated using [mvsep](https://mvsep.com/) and [Bertom Phantom Center](https://bertomaudio.com/phantom-center.html). Queries welcome via Discord (marigoldmusicgal) or email! (marigoldmusicgal@gmail.com)
+  Folder: S_MSPAR_REMEMBER - MarigoldMusicGal (stems)
+  Files:
+  - Bass noise (no penumbra I think).flac
+  - Explore thing.flac
+  - MeGaLoVania.flac
+  - Noise (no penumbra).flac
+  - Noise2 (no penumbra).flac
+  - Penumbra Phantasm drums (includes other sample unfortunatley).flac
+  - Penumbra Phantasm glock and high piano (missing notes after drop).flac
+  - Penumbra Phantasm guitar.flac
+  - Penumbra Phantasm high piano extras (missing notes after drop).flac
+  - Penumbra Phantasm strings (strings, piano and explore noise).flac
+  - Rex Duodecim Angelus.flac
+  - Unite Synchronization.flac
+- Title: FL Studio recreation
+  Artists:
+  - MarigoldMusicGal
+  Folder: S_MSPAR_REMEMBER - MarigoldMusicGal (FL Studio)
+  Files:
+  - Dependencies.txt
+  - S_MSPAR_REMEMBER Recreation.flp
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 8/8/2024)
 

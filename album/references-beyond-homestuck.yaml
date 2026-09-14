@@ -305,7 +305,7 @@ Track: Dive
 Directory: dive-astro-kid
 Always Reference By Directory: true
 Artists:
-- Riki Tsuji
+- Riki Tsuji (as Astro Kid)
 ---
 Track: Dive (Emerald Version)
 Duration: 1:29
@@ -971,7 +971,7 @@ Track: Magnetize
 Directory: magnetize-astro-kid
 Always Reference By Directory: true
 Artists:
-- Riki Tsuji
+- Riki Tsuji (as Astro Kid)
 ---
 Track: man
 Directory: man-deltarune
@@ -1501,7 +1501,7 @@ URLs:
 - https://www.youtube.com/watch?v=tULy69RF9xE
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 1/2/2024)
-    Unofficial name - it's the main theme from [Texas History](https://www.youtube.com/watch?v=tULy69RF9xE). When you pause the LaserDisc, not when Governor Sam Houston gets his grave dug.
+    Unofficial name - it's the main theme from [[track:texas-history]]. When you pause the LaserDisc, not when Governor Sam Houston gets his grave dug.
 ---
 Track: Theme of Dr. Brinner
 Artists:
@@ -1827,16 +1827,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/0f879989-6740-4c56-b73a-49f2ba7c7930
 - https://www.youtube.com/watch?v=QdJPe21VBc0
 ---
-Track: Advent Desert
-# Reference:
-#   https://vgmdb.net/album/106653
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 1:39
-URLs:
-- https://www.youtube.com/watch?v=BIcNrCx1yFY
----
 Track: The Adventure Continues - For Horizon Heights Act 1
 # From Sonic After the Sequel Original Sound Track
 # Reference:
@@ -1871,17 +1861,6 @@ Artists:
 #Duration: '1:41'
 URLs:
 - https://www.youtube.com/watch?v=8Ub9E1lAtNo
----
-Track: Agents of S.T.E.A.M.
-# Reference:
-#   https://vgmdb.net/product/9338
-Artists:
-- 'Code Name: S.T.E.A.M.'
-- Yoshito Sekigawa
-#Duration: ''
-# unreleased
-URLs:
-- https://www.youtube.com/watch?v=D1ViTAu6d2Y
 ---
 Track: Ai No Uta
 # Song made for a pikmin commercial
@@ -2071,14 +2050,6 @@ URLs:
 - https://music.youtube.com/playlist?list=OLAK5uy_k9Le8OItb5pXtunkKE6S8Hf9q3XGTphrA
 - https://music.apple.com/album/aint-nothin-like-a-funky-beat/1440947919?i=1440948140
 ---
-Track: Alf
-Artists:
-- Alf Clausen
-- Tom Kramer
-Duration: 1:11
-URLs:
-- https://www.youtube.com/watch?v=z5VFngsQPok
----
 Track: All American Badass
 # Official Bandcamp release
 # Reference:
@@ -2122,6 +2093,21 @@ Artists:
 Duration: 1:27
 URLs:
 - https://www.youtube.com/watch?v=5J8XqDENH1Y
+---
+Track: Aquatic Ambiance
+# Official release:
+#   DK Jamz: The Original Donkey Kong Country Soundtrack
+# Reference:
+#   https://vgmdb.net/album/429
+#   https://www.youtube.com/watch?v=1XM8ReW9NvA
+Artists:
+- Donkey Kong
+- David Wise
+Duration: 3:28
+URLs:
+- https://www.youtube.com/watch?v=1XM8ReW9NvA
+---
+Track: Aquatic Ambience
 ---
 Track: The Arch-Illager
 # Reference:
@@ -2275,30 +2261,6 @@ URLs:
 - https://soundcloud.com/davidloganmusic/11-pac-man-world-2-treetops-lvl1?in=davidloganmusic/sets/pac-man-world-2-soundtrack
 - https://www.youtube.com/watch?v=KOvXq3tJcV4
 ---
-Track: A Bad Dream
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 1:25
-URLs:
-- https://www.youtube.com/watch?v=ZfmZdsoJYmI
----
-Track: Bad Morning to You
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 0:33
-URLs:
-- https://www.youtube.com/watch?v=Dooe-myh0VE
----
 Track: Banquet of Nature (Nakoruru)
 # Reference:
 #   https://vgmdb.net/album/89832
@@ -2347,27 +2309,6 @@ Duration: 2:38
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/42ebcf97-cc31-44be-97bf-1f0a5fd4b7fa
 - https://www.youtube.com/watch?v=19ZdAZO9FvU
----
-Track: Battle in the Skies (Ride of the Valkyries)
-# Reference:
-#   https://rateyourmusic.com/release/unauth/justin-luchter/mata-nui-the-online-game-original-soundtrack/
-Artists:
-- Bionicle
-- Justin Luchter
-Duration: 5:13
-URLs:
-- https://www.youtube.com/watch?v=W3bxiPKWCzU
----
-Track: Battle Theme 3
-Name Detail: EarthBound Beginnings
-# Reference:
-#   https://vgmdb.net/album/106653
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 1:50
-URLs:
-- https://www.youtube.com/watch?v=avPBaQ7vWw8
 ---
 Track: Battle Theme (Yūyūki)
 Directory: battle-theme-yuyuki
@@ -2602,17 +2543,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/9ddf8479-2990-417f-a6a6-090843f7cd25
 - https://www.youtube.com/watch?v=kBlN_M_EMW8
 ---
-Track: Bon Voyage, Amigo
-# From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-#   http://starmen.net/merchandise/music/m3cd.php
-Artists:
-- Mother
-- Shogo Sakai
-URLs:
-- https://www.youtube.com/watch?v=5OtDm2qgpWw
----
 Track: Bonus Room Blitz
 # Reference:
 #   https://vgmdb.net/album/429
@@ -2704,19 +2634,6 @@ Artists:
 Duration: 4:05
 URLs:
 - https://www.youtube.com/watch?v=xOpHT6gZ0Rs
----
-Track: Boy Meets Girl
-# JP: ボーイ ミーツ ガール (BOY MEETS GIRL)
-# Official release:
-#   マザー2 ギーグの逆襲
-# Reference:
-#   https://vgmdb.net/album/800
-Artists:
-- Mother
-- Keiichi Suzuki
-Duration: 2:19
-URLs:
-- https://www.youtube.com/watch?v=kc9yO4giTog
 ---
 Track: Breakfast Time - For Horizon Heights Boss Act Phase 2
 # From Sonic After the Sequel Original Sound Track
@@ -2912,18 +2829,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=rWrO_uVydZs
 ---
-Track: Cave Theme 1
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 1:02
-URLs:
-- https://www.youtube.com/watch?v=s9ze7BJPdw4
----
 Track: Challenging Stage (Perfect)
 # Reference:
 #   https://vgmdb.net/album/15951
@@ -2945,20 +2850,6 @@ Artists:
 Duration: 3:38
 URLs:
 - https://www.youtube.com/watch?v=jkvJKDneeng
----
-Track: Choose a File
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 1:10
-URLs:
-- https://www.youtube.com/watch?v=CYzTLzhnMLM
-Referenced Tracks:
-- Twinkle Elementary School
 ---
 Track: The Circle
 # Official release:
@@ -3143,15 +3034,6 @@ Duration: 2:34
 URLs:
 - https://www.youtube.com/watch?v=7oO7QC32Wfs
 ---
-Track: CRAZYBUS Title Screen
-# No official release
-Artists:
-- CRAZYBUS
-- Tom Scripts
-Duration: 3:49
-URLs:
-- https://www.youtube.com/watch?v=sC0cvwnG0Ik
----
 Track: Credit Sound (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -3172,38 +3054,6 @@ Duration: 1:28
 URLs:
 - https://m.nintendo.com/shared/US/tracks/61bfe2b1-6c10-4461-8b59-ea32db5815fe
 - https://www.youtube.com/watch?v=J9c4yIvVq3c
----
-Track: Cross-Examination - Allegro 2001
-# JP: 尋問 ～アレグロ 2001
-# Official releases:
-#   逆転裁判１ + ２ オリジナル・サウンドトラック
-#   Phoenix Wright: Ace Attorney Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/2600
-#   https://vgmdb.net/album/2602 (rereleased on Steam in 2020 with official English track titles)
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Duration: 2:09
-URLs:
-- https://www.youtube.com/watch?v=HK2VLhbSaoc
-Referenced Tracks:
-- Cross-Examination - Moderato 2001
----
-Track: Cross-Examination - Moderato 2001
-# JP: 尋問 ～モデラート 2001
-# Official releases:
-#   逆転裁判１ + ２ オリジナル・サウンドトラック
-#   Phoenix Wright: Ace Attorney Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/2600
-#   https://vgmdb.net/album/2602 (rereleased on Steam in 2020 with official English track titles)
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Duration: 1:46
-URLs:
-- https://www.youtube.com/watch?v=9_sAzyTCZzQ
 ---
 Track: Cross Your Heart (Graveyard BGM)
 # Reference:
@@ -3348,22 +3198,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/aef58bb6-c464-42fb-acf4-566132c94063
 - https://www.youtube.com/watch?v=_xAr2SO-Rsw
 ---
-Track: The Death That I Deservioli
-# Official release on Bandcamp
-# Reference:
-#   https://vgmdb.net/album/126347
-Artists:
-- Pizza Tower
-- Mr. Sauceman
-Duration: 2:56
-URLs:
-- https://ronandecastel.bandcamp.com/track/the-death-that-i-deservioli
-- https://www.youtube.com/watch?v=uvAPiELt_Oo
-Referenced Tracks:
-- It's Pizza Time!
-Sampled Tracks:
-- Y'all Ready to Get Funky (Acapella)
----
 Track: Death Wind
 # Reference:
 #   https://vgmdb.net/product/200
@@ -3434,13 +3268,20 @@ URLs:
 Referenced Tracks:
 - track:destiny-fire-emblem-awakening
 ---
-Track: Disco Descent
+Track: Dire, Dire Docks
+# JP: ウォーターランド
+# Official release:
+#   スーパーマリオ64 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/137
+#   Nintendo Music
 Artists:
-- Crypt of the Necrodancer
-- Danny Baranowsky
-Duration: 3:00
+- Super Mario
+- Koji Kondo
+Duration: 3:04
 URLs:
-- https://dbsoundworks.bandcamp.com/track/disco-descent-1-1
+- https://music.nintendo.com/shared/en-US/US/tracks/a411b361-1b04-447b-bb7f-b7c1e5a217ab/
+- https://www.youtube.com/watch?v=Zqa2mgjbOIM
 ---
 Track: Dissonance
 Directory: dissonance-quincy-pringle
@@ -3638,69 +3479,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/8384e918-f824-4c79-88b2-f6547ce4287c
 - https://www.youtube.com/watch?v=s7fqllhtdHI
 ---
-Track: Dragonborn
-# Official release:
-#   The Elder Scrolls V: Skyrim Original Game Soundtrack
-# Reference:
-#   https://vgmdb.net/album/29727
-Artists:
-- The Elder Scrolls
-- Jeremy Soule
-Contributors:
-- Emil Pagliarulo (Lyrics)
-Duration: 3:55
-URLs:
-- https://www.youtube.com/watch?v=6fILxnBH1Tg
-Lyrics: |-
-    Dovahkiin, Dovahkiin, naal ok zin los vahriin
-    Wah dein vokul mahfaeraak ahst vaal!
-    Ahrk fin norok paal graan fod nust hon zindro zaan
-    Dovahkiin, fah hin kogaan mu draal!
-
-    Huzrah nu, kul do od, wah aan bok lingrah vod
-    Ahrk fin tey, boziik fun, do fin gein!
-    Wo lost fron wah ney dov, ahrk fin reyliik do jul
-    Voth aan suleyk wah ronit faal krein
-
-    Ahrk fin zul, rok drey kod, nau tol morokei frod
-    Rul lot Taazokaan motaad voth kein!
-    Sahrot Thu'um, med aan tuz, vey zeim hokoron pah
-    Ol fin Dovahkiin komeyt ok rein!
-
-    Dovahkiin, Dovahkiin, naal ok zin los vahriin
-    Wah dein vokul mahfaeraak ahst vaal!
-    Ahrk fin norok paal graan fod nust hon zindro zaan
-    Dovahkiin, fah hin kogaan mu draal!
-
-    Ahrk fin Kel lost prodah, do ved viing ko fin krah
-    Tol fod zeymah win kein meyz fundein!
-    Alduin, feyn do jun, kruziik vokun staadnau
-    Voth aan bahlok wah diivon fin lein!
-
-    Nuz aan sul, fent alok, fod fin vul dovah nok
-    Fen kos nahlot mahfaeraak ahrk ruz!
-    Paaz Keizaal fen kos stin nol bein Alduin jot
-    Dovahkiin kos fin saviik do muz!
-
-    Dovahkiin, Dovahkiin, naal ok zin los vahriin
-    Wah dein vokul mahfaeraak ahst vaal!
-    Ahrk fin norok paal graan fod nust hon zindro zaan
-    Dovahkiin, fah hin kogaan mu draal!
----
-Track: Dream Maze
-# Most often known as "Deeper into Ness's Subconscious" but for some reason in the official release it's titled differently.
-# JP: 夢の迷路
-# Official release:
-#   マザー2 ギーグの逆襲
-# Reference:
-#   https://vgmdb.net/album/800
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 1:37
-URLs:
-- https://www.youtube.com/watch?v=YM75br4y4Z0
----
 Track: Drill Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -3847,28 +3625,6 @@ Lyrics: |-
     夜明けの手を取り高く羽ばたく日まで (<i>Yoake no te wo tori takaku habataku hi made</i>)
     安らぎのよすがに身を預けて震えている (<i>Yasuragi no yosuga ni mi wo azukete furueteru </i>)
 ---
-Track: Eight Melodies
-Name Detail: EarthBound
-# no official standalone release
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=W8WSZwX2xhg
----
-Track: Eight Melodies
-Name Detail: EarthBound Beginnings
-# Reference
-#   https://vgmdb.net/album/106653
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 1:17
-URLs:
-- https://www.youtube.com/watch?v=-OaWAEhWZ28
----
 Track: The End (Chapter 1)
 Artists:
 - Fortnite
@@ -3992,18 +3748,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/8588b676-9881-40f8-9354-5a3a470dd657
 - https://www.youtube.com/watch?v=hrJNgLGbYg0
 ---
-Track: Final Battle
-# Reference
-#   https://vgmdb.net/album/800
-Directory: final-battle-earthbound
-Always Reference By Directory: true
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 4:06
-URLs:
-- https://www.youtube.com/watch?v=I9GULl5vHTA
----
 Track: The Final Battle (Super Mario 64)
 # JP: クッパ3号
 # Official release:
@@ -4126,43 +3870,6 @@ URLs:
 - https://www.youtube.com/watch?v=DTpksvCC-hg
 - https://m.nintendo.com/shared/en-US/US/tracks/b2cb2d99-5b44-4dc5-8e4f-0b7b8042f375
 ---
-Track: Focus
-# Official releases:
-#  Super Hexagon EP (September 6, 2012)
-#  Reference: https://vgmdb.net/album/35094
-#  Phonetic Symphony (Remastered) (March 4, 2012)
-#  Reference: https://vgmdb.net/album/41711
-Directory: focus-super-hexagon
-Always Reference By Directory: true
-Artists:
-- Super Hexagon
-- Chipzel
-Duration: 2:42
-URLs:
-- https://chipzelmusic.bandcamp.com/track/focus-3
-- https://www.youtube.com/watch?v=FkdMeqbHh1M
-- https://music.apple.com/song/focus/639911536
-- https://open.spotify.com/track/2cH5U1Diooe8i1zT5uyKK4
----
-Track: Forced Battle
-# JP: 強制戦闘
-# Official release:
-#   真・女神転生III-NOCTURNE オリジナルサウンドトラック  (original release)
-#   Shin Megami Tensei: Nocturne Original Soundtrack  (western release)
-# Reference:
-#   https://vgmdb.net/album/1584
-#   https://vgmdb.net/album/4881
-Artists:
-- Shin Megami Tensei
-- Shoji Meguro
-Duration: 2:06
-URLs:
-- https://www.youtube.com/watch?v=5R14WHw2GZk
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor, 3/3/2024)
-
-    This track is generally better known as "Firce Battle", but Forced Battle is the official translation used in [2004's official English material](https://vgmdb.net/album/4881).
----
 Track: Forest World
 # Reference:
 #   https://vgmdb.net/album/6177
@@ -4183,16 +3890,6 @@ Duration: 0:52
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/26e0758f-d4b7-4bc5-8b5b-e9743f74a5a3
 - https://www.youtube.com/watch?v=03gX-re5C9g
----
-Track: Fourside
-# Reference
-#   https://vgmdb.net/album/800
-Artists:
-- Mother
-- Keiichi Suzuki
-Duration: 1:47
-URLs:
-- https://www.youtube.com/watch?v=aooHvXEx0EI
 ---
 Track: Freakshow
 # No official release or of the game's soundtrack at all.
@@ -4394,14 +4091,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=VWdlbMwx9Is
 ---
-Track: Gardens 1 (Scribblenauts)
-# No official release of the in-game track (or Scribblenauts' in-game soundtrack at all)
-Artists:
-- Scribblenauts
-- David J. Franco
-URLs:
-- https://www.youtube.com/watch?v=Nstqu4RpsMA
----
 Track: Gear Up For...
 # Reference:
 #   https://vgmdb.net/album/118040
@@ -4433,27 +4122,6 @@ Artists:
 Duration: 4:32
 URLs:
 - https://nigoro.bandcamp.com/track/giants-cry-2
----
-Track: Giygas Disintegrates
-# (See Eight Melodies (EarthBound), no official soundtrack release)
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=W5u8ZztWzAk
----
-Track: Giygas's Lair
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 0:55
-URLs:
-- https://www.youtube.com/watch?v=Wq8FK9Z_RGQ
 ---
 Track: Glide (Map 1)
 # Reference:
@@ -4604,24 +4272,6 @@ Artists:
 Duration: 2:44
 URLs:
 - https://www.youtube.com/watch?v=nPiKZ4AZR8A
----
-Track: Great Grey Wolf Sif
-# Official release: CD (2011)
-#   DARK SOULS Original Soundtrack
-#   ダークソウル オリジナルサウンドトラック
-# Official release: streaming (2024)
-#   Dark Souls (Original Game Soundtrack)
-# Reference:
-#   https://vgmdb.net/album/26577
-#   streaming release isn't on vgmdb as of writing
-# The duration for streaming and CD line up.
-Artists:
-- Dark Souls
-- Motoi Sakuraba
-Duration: 3:22
-URLs:
-- https://www.youtube.com/watch?v=Fg_AkYeZcNM # streaming
-- https://www.youtube.com/watch?v=LHqiVOfJ5EU # bootleg
 ---
 Track: The Greatest Warrior in the Galaxy
 # JP: 銀河最強の戦士
@@ -5032,38 +4682,6 @@ Duration: 1:57
 URLs:
 - https://www.youtube.com/watch?v=XoGCokTDSyA
 ---
-Track: It's Pizza Time!
-# Official release on Bandcamp
-# Reference:
-#   https://vgmdb.net/album/126347
-Artists:
-- Pizza Tower
-- Mr. Sauceman
-Duration: 3:52
-URLs:
-- https://ronandecastel.bandcamp.com/track/its-pizza-time
-- https://www.youtube.com/watch?v=OLFcQqFVvZg
-Sampled Tracks:
-- Y'all Ready to Get Funky (Acapella)
----
-Track: IT'S TIME TO FIGHT CRIME
-Artists:
-- OneShot
-- Nightmargin
-Duration: 1:30
-URLs:
-- https://nightmargin.bandcamp.com/track/its-time-to-fight-crime
-- https://www.youtube.com/watch?v=aPs2EGQPOeg
----
-Track: Jestercore
-Artists:
-- Anima Reprise
-- Witch's Cadence
-Duration: 3:30
-URLs:
-- https://witchscadence.bandcamp.com/track/jestercore
-- https://www.youtube.com/watch?v=gTVMPg9_vIc
----
 Track: Jump Up, Super Star!
 # Officially released as an iTunes single.
 # Reference:
@@ -5177,15 +4795,6 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor, 1/4/2023)
 
     While the lyrics here are from the (probably known to you) English version of the song, the Japanese version was the first version to be created (although both launched simultaneously).
----
-Track: Justice Long Overdue
-Artists:
-- Anima Reprise
-- Witch's Cadence
-Duration: 1:09
-URLs:
-- https://witchscadence.bandcamp.com/track/justice-long-overdue
-- https://www.youtube.com/watch?v=gTVMPg9_vIc
 ---
 Track: K. Rool Returns (Title Theme)
 # Reference:
@@ -5314,36 +4923,6 @@ Duration: 3:23
 URLs:
 - https://www.youtube.com/watch?v=weBdLPLaON0
 ---
-Track: Knight Artorias
-# Official release: CD (2012)
-#   DARK SOULS with ARTORIAS OF THE ABYSS EDITION Original Soundtrack
-# Official release: streaming (2024)
-#   Dark Souls (Original Game Soundtrack)
-# Reference:
-#   https://vgmdb.net/album/36023
-#   streaming release isn't on vgmdb as of writing
-# Cut of track differs. Duration is from CD.
-Artists:
-- Dark Souls
-- Motoi Sakuraba
-Duration: 3:15
-URLs:
-- https://www.youtube.com/watch?v=vK0w67B4EtU # official, streaming release
-- https://www.youtube.com/watch?v=zFWOLmj0prg # bootleg, CD track
-# - https://www.youtube.com/watch?v=dJ78qD2QJ4k # alt bootleg
----
-Track: Kraken of the Sea
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: '2:54'
-URLs:
-- https://www.youtube.com/watch?v=E2fjIawImFc
----
 Track: Kurikinton (America Stage I) Terry Bogard
 # Reference:
 #   https://vgmdb.net/album/1139
@@ -5446,19 +5025,6 @@ Artists:
 Duration: 4:02
 URLs:
 - https://www.youtube.com/watch?v=22VRuM1f6AA
----
-Track: Legend of the Eagle Bearer (Main Theme)
-# Official release:
-#   Assassin's Creed Odyssey Original Game Soundtrack
-# Reference:
-#   https://vgmdb.net/album/81110
-Artists:
-- Assassin's Creed
-- The Flight
-- Mike Georgiades
-URLs:
-- https://www.youtube.com/watch?v=eA0nbtxfeq4
-- https://open.spotify.com/track/5wNLSF0W0NZyu9eRpufdqn
 ---
 Track: Let's Go to Seoul! (Korea Stage) Kim
 # Reference:
@@ -5715,16 +5281,6 @@ Duration: 4:17
 URLs:
 - https://www.youtube.com/watch?v=dx3rA7VZduU
 ---
-Track: Magicant
-# Reference
-#   https://vgmdb.net/album/106653
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 2:37
-URLs:
-- https://www.youtube.com/watch?v=uRRP6A0wCXk
----
 Track: Main Menu (Wii Fit)
 # Reference:
 #   https://vgmdb.net/album/533
@@ -5847,21 +5403,6 @@ Duration: 1:21
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/59094ce4-3339-4541-ac53-84fbe53681b0
 - https://www.youtube.com/watch?v=DCE1HizbnTU
----
-Track: Maya Fey - Turnabout Sisters 2001
-# JP: 綾里真宵　～逆転姉妹のテーマ 2001
-# Official release:
-#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/2600
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Contributors:
-- Naoto Tanaka (arrangement)
-Duration: 2:41
-URLs:
-- https://www.youtube.com/watch?v=upOhRRYVGkA
 ---
 Track: Mayahem Temple
 # Reference:
@@ -6012,18 +5553,6 @@ Artists:
 - Tomodachi Life
 URLs:
 - https://www.youtube.com/watch?v=gOmwwgZzbyc
----
-Track: Mother 3 Love Theme
-# From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-#   http://starmen.net/merchandise/music/m3cd.php
-Artists:
-- Mother
-- Shogo Sakai
-Duration: 1:10
-URLs:
-- https://www.youtube.com/watch?v=TyN4aGJVkKY
 ---
 Track: Mt. Blaze
 # Reference:
@@ -6217,20 +5746,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3c418c40-b31f-4ccd-8e5d-e145e534aacf
 - https://www.youtube.com/watch?v=cLJiAWspUw4
 ---
-Track: Old Enemy
-# JP: 宿敵（アキラ編）
-# Official release:
-#   Shin Megami Tensei Sound Collection
-#   真・女神転生 サウンド・コレクション
-# Reference:
-#   https://vgmdb.net/album/2482
-Artists:
-- Shin Megami Tensei
-- Kenichi Tsuchiya
-Duration: 2:50
-URLs:
-- https://www.youtube.com/watch?v=nCmq5IQUchM
----
 Track: Old Friends
 # Official release on Bandcamp
 Artists:
@@ -6240,33 +5755,6 @@ Duration: 3:21
 URLs:
 - https://supergiantgames.bandcamp.com/track/old-friends
 - https://www.youtube.com/watch?v=ql8K3KJyWgY
----
-Track: One Fateful Night
-# (See Eight Melodies (EarthBound), no official soundtrack release)
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=bQzYJBTBVEc
----
-Track: Onett
-# JP: オネットのテーマ
-# Official release:
-#   マザー2 ギーグの逆襲
-# Note:
-#   Translated name is via YouTube Music.
-# Reference:
-#   https://vgmdb.net/album/800
-#   https://music.youtube.com/watch?v=cC3RAh9-zvQ
-Artists:
-- Mother
-- Keiichi Suzuki
-Duration: 1:20
-URLs:
-- https://www.youtube.com/watch?v=cC3RAh9-zvQ
-Referenced Tracks:
-- Pollyanna (I Believe in You)
 ---
 Track: Opening Animation Music (Mappy)
 # Reference:
@@ -6426,21 +5914,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/da6fcc8a-cceb-414f-8382-8864ad85f984
 - https://www.youtube.com/watch?v=qEPciC7x0ck
 ---
-Track: Phoenix Wright - Objection! 2001
-# JP: 成歩堂龍一　～異議あり！ 2001
-# Official release:
-#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/2600
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Contributors:
-- Naoto Tanaka (arrangement)
-Duration: 1:22
-URLs:
-- https://www.youtube.com/watch?v=_I34nshlOPk
----
 Track: Poké Mart (Pokémon Ruby & Pokémon Sapphire)
 # Reference:
 #   https://vgmdb.net/album/1024
@@ -6450,16 +5923,6 @@ Artists:
 Duration: 1:16
 URLs:
 - https://www.youtube.com/watch?v=RK0FO-Oe760
----
-Track: Pollyanna (I Believe in You)
-# Reference:
-#   https://vgmdb.net/album/106653
-Artists:
-- Mother
-- Keiichi Suzuki
-Duration: 1:50
-URLs:
-- https://www.youtube.com/watch?v=5m6cQFDPNs8
 ---
 Track: Port Town
 # Reference:
@@ -6473,22 +5936,6 @@ Duration: 2:37
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/daad01fe-6f4a-4316-89e9-fe75d1cb8abd
 - https://www.youtube.com/watch?v=Ise3eGYFWHA
----
-Track: Power
-Directory: power-mother
-Always Reference By Directory: true
-# Most often known as "The Power" but for some reason in the official release it's titled differently.
-# JP: パワー
-# Official release:
-#   マザー2 ギーグの逆襲
-# Reference:
-#   https://vgmdb.net/album/800
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 1:09
-URLs:
-- https://www.youtube.com/watch?v=NpdNpTOPFOE
 ---
 Track: Prelude
 Directory: prelude-fire-emblem-awakening
@@ -6513,29 +5960,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/c0be969a-54ad-4ed2-8e9d-4d019a1d22b4
 Referenced Tracks:
 - track:prelude-fire-emblem-awakening
----
-Track: Prologue
-Directory: prologue-earthbound
-Always Reference By Directory: true
-# JP: プロローグ (pt. 1: 逆襲, pt. 2: 眠ってる場合じゃない)
-# Official release:
-#   MOTHER 2: Gyiyg no Gyakushuu
-#   マザー2 ギーグの逆襲
-# Reference:
-#   https://vgmdb.net/album/800
-#   (Also see commentary notes)
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 1:05
-URLs:
-- https://www.youtube.com/watch?v=EE6FocnZw0k
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor, 1/16/2024)
-
-    This track scores parts of EarthBound's prologue. The first half, titled on soundtrack releases as 逆襲 ("Counterattack" or "Strike Back"), is the main menu opening; the second, 眠ってる場合じゃない ("This Is No Time to Be Sleeping"), plays during an in-game walkaround near the start of the game.
-
-    The first half is known online as "The Evil Giygas Attacks!" (in two parts) and the second as "One Fateful Night..." and "Unidentified Falling Object". These names all appear to trace to [Starmen.net](https://starmen.net/mother2/music/) since around [June 2007](https://web.archive.org/web/20070621190644/http://starmen.net/mother2/music/), and previously to [SNESmusic.org](http://snesmusic.org/v2/profile.php?profile=set&selected=783) since [May 2004 or earlier](https://web.archive.org/web/20051222040706/http://snesmusic.org/v2/profile.php?profile=set&selected=783). The English name "Prologue" is given on the official 2016 vinyl release; the part names don't seem to have received official localization.
 ---
 Track: Proto Man (Mega Man 3)
 # Reference:
@@ -6637,35 +6061,7 @@ Lyrics: |-
 
     Fire! Fire! Psycho Soldier
     Fire! Fire! Psycho Soldier
----
-Track: Pursuit - Corner the Culprit
-# JP: 追求　～追いつめられて
-# Official releases:
-#   逆転裁判１ + ２ オリジナル・サウンドトラック
-#   Phoenix Wright: Ace Attorney Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/2600
-#   https://vgmdb.net/album/2602 (rereleased on Steam in 2020 with official English track titles)
-Artists:
-- Ace Attorney
-- Masakazu Sugimori
-Duration: 1:36
-URLs:
-- https://www.youtube.com/watch?v=NEQYXF_2OV8
----
-Track: Pushing Onwards
-# Official release on Bandcamp (OK, also the guy's own site)
-# Reference:
-#   https://vgmdb.net/album/17623
-Artists:
-- VVVVVV
-- Magnus Pålsson
-Duration: 3:39
-URLs:
-- https://souleyedigitalmusic.bandcamp.com/track/pushing-onwards
-- https://www.youtube.com/watch?v=25m3Gk7mRQM
-- https://music.apple.com/song/pushing-onwards/1447170450
-- https://open.spotify.com/track/347sa3obuELSt8m1cCKikd
+
 ---
 Track: Puzzles
 # JP: 謎
@@ -6751,22 +6147,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3a653369-9c75-4c8d-bb28-618a3470b8f4
 - https://www.youtube.com/watch?v=tlSWNXSJM8o
 ---
-Track: Redial
-Directory: redial-bomberman-hero
-Always Reference By Directory: true
-# JP: redial
-# Official release:
-#   "Bomberman Hero" Original Soundtrack
-#   ボンバーマンヒーロー オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/270
-Artists:
-- Bomberman
-- Jun Chikuma
-Duration: 2:14
-URLs:
-- https://www.youtube.com/watch?v=nPb2xhiyBXE
----
 Track: The Refiner's Fire
 # Official release:
 #   Hyper Light Drifter
@@ -6786,20 +6166,6 @@ Artists:
 Duration: 0:04
 URLs:
 - https://www.youtube.com/watch?v=tswKwxzzEik
----
-Track: Resolve
-# Official release:
-#   beatmania 6thMIX ORIGINAL SOUNDTRACK: THE UK UNDERGROUND MUSIC
-# Reference:
-#   https://vgmdb.net/album/1325
-Directory: resolve-total-science
-Always Reference By Directory: true
-Duration: 1:40
-Artists:
-- beatmania
-- Total Science
-URLs:
-- https://www.youtube.com/watch?v=le79a4KVy0g
 ---
 Track: Rhythm Boxing (Expert)
 # Reference:
@@ -7034,18 +6400,6 @@ Duration: 3:54
 URLs:
 - https://www.youtube.com/watch?v=GSv-v-uSxSA
 ---
-Track: Sanctuary Guardian
-# No official release of the in-game track (Earthbound)
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 2:11
-URLs:
-- https://www.youtube.com/watch?v=A_Gj-RJeeng
-Referenced Tracks:
-- Battle Theme 3 (EarthBound Beginnings)
----
 Track: Sand Ocean
 # Reference:
 #   https://vgmdb.net/product/200
@@ -7231,6 +6585,15 @@ URLs:
 - https://m.nintendo.com/shared/US/tracks/1bf78585-61ea-4cea-b9a3-397396b79390
 - https://www.youtube.com/watch?v=nOcRCi7kuJ8
 ---
+Track: Simon's Theme
+Artists:
+- Blue Prince
+- Trigg & Gusset
+Duration: 3:00
+URLs:
+- https://triggandgusset.bandcamp.com/track/simon-s-theme
+- https://www.youtube.com/watch?v=NznlFLLUlnk
+---
 Track: Sin Pausa (Mission Failed)
 # Official Release:
 #   DJMAX Respect Original Soundtrack
@@ -7293,43 +6656,6 @@ Artists:
 Duration: 2:03
 URLs:
 - https://www.youtube.com/watch?v=2p9aPeTnXeI
----
-Track: Smiles and Tears
-# (See Eight Melodies (EarthBound), no official soundtrack release)
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=vkAmD8A3CRk
-Referenced Tracks:
-- Eight Melodies (EarthBound)
-- Eight Melodies (EarthBound Beginnings)
-Lyrics: |-
-    @@ [Itoi's lyrics](https://web.archive.org/web/20221206064929/https:/earthboundcentral.com/2009/01/smiles-tears-lyrics/)
-
-    Otonatachi no hanbun mo ikitewa inai keredo
-    omoide no kazu naraba ryukku ni ippai sa
-    o ki ni iri no besubooru kyappu kakato tsubureta suniikaa
-    poketto no oku ni aru yo surihetta gitaa pikku
-    namida ga chigireru kurai kanashii koto mo atta kedo
-    itsudemo kimi ga boku no soba ni itekureta
-    tomodachi no mama iru to futari zutto omotteta
-    kizukanai mama tabun kimi o ai shiteta
-
-    warai attari asondari kizu tsukinagara aruku
-    chikamichi mawari michi mo mayoinagara oboeta
-    shinjirareru hito dake iru wake nai to shitemo
-    shinjiru haato dake wa suterarenai to shitta
-    ari no mama no kimi dake ga boku o tsuyoku shitekureta
-    itsudemo kimi ga boku o tsuyoku shitekureta
-    yasashii kaze ga fuku yoo ni kusa o nadeteiku yoo ni
-    itsudemo kimi wa egao misete aruiteta
-
-    soo namida to egao kawarugawaru ni
-    miseatta futari wa...
-    I miss you
-    tooku ni hanarete
 ---
 Track: Snake Eater
 # Reference:
@@ -7395,17 +6721,6 @@ URLs:
 Referenced Tracks:
 - track:gang-plank-galleon
 ---
-Track: SNOW MAN
-# Reference:
-#   https://vgmdb.net/album/106653
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 1:57
-URLs:
-- https://www.youtube.com/watch?v=Oq6yjBJ9wa8
----
 Track: Song of Storms
 # JP: オカリナ「嵐の歌」
 # Official release:
@@ -7446,14 +6761,6 @@ URLs:
 - https://www.youtube.com/watch?v=QMXmQkfNpGs
 Referenced Tracks:
 - Galactic Nova
----
-Track: Space Pirates
-Artists:
-- Castle Crashers
-- Waterflame
-Duration: 2:59
-URLs:
-- https://waterflame.bandcamp.com/track/space-pirates
 ---
 Track: Spiral Mountain
 # Reference:
@@ -7541,62 +6848,6 @@ URLs:
 - https://www.youtube.com/watch?v=CcTEpaL_GVc
 - https://m.nintendo.com/shared/en-US/US/tracks/0665ee1a-8876-4d35-b4b2-2797752f273e
 ---
-Track: The Stains of Time
-Artists:
-- Metal Gear
-- Logan Mader (writer, lyrics)
-- Jamie Christopherson (writer, lyrics)
-Contributors:
-- Logan Mader (recording engineer, guitars, bass)
-- Kit Walters (vocals)
-- Johnny Death (guitars)
-- Nita Strauss (guitars)
-- Ralpha Alexander (drums)
-Duration: 2:24
-URLs:
-- https://www.youtube.com/watch?v=quV5R9C26x0 (instrumental)
----
-Track: The Stains of Time (Maniac Agenda Mix)
-# Official release:
-#   METAL GEAR RISING REVENGEANCE Vocal Tracks
-# Reference:
-#   https://vgmdb.net/album/36558
-Artists:
-- Metal Gear
-- The Maniac Agenda (remixer)
-Contributors:
-- Logan Mader (producer, mixing engineer)
-- Jamie Christopherson (producer)
-- Geoff Daigle (additional synth programming)
-Duration: 2:10
-URLs:
-- https://www.youtube.com/watch?v=Ep7Ni6dtQaA
-Referenced Tracks:
-- The Stains of Time
-Sampled Tracks:
-- The Stains of Time
-Lyrics: |-
-    Wash away the anger
-
-    Here I stand beneath the warm and soothing rain
-    The droplets falling gently down on the terrain
-    Wash away the sorrow all the stains of time
-    But there's no memory it's only dry inside
-
-    In the mud and sinking deeper
-    Into a peaceful life
-
-    And it will come like a flood of pain
-    Pouring down on me
-    And it will not let up
-    Until the end is here
-    And it will come through the darkest day
-    In my final hour
-    And it will never rest until the clouds are clear
-    Until it finds my dreams have disappeared
-
-    My dreams disappear
----
 Track: Starker (Tower BGM)
 # Reference:
 #   https://vgmdb.net/album/12153
@@ -7678,21 +6929,6 @@ URLs:
 - https://m.nintendo.com/shared/US/tracks/7b2b976c-0a1e-4fb1-bccd-e0968d44ce51
 - https://www.youtube.com/watch?v=oLOyVDP_ckQ
 ---
-Track: Super Dry Dance
-# JP: 乾いたダンス (SUPER DRY DANCE)
-# Official release:
-#   マザー2 ギーグの逆襲
-# Reference:
-#   https://vgmdb.net/album/800
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 0:53
-URLs:
-- https://www.youtube.com/watch?v=VjSUpctGEUQ
-Referenced Tracks:
-- Advent Desert
----
 Track: SYD Overdrive
 # Reference:
 #   none! yay!
@@ -7750,15 +6986,6 @@ Referenced Tracks:
 - Sun's Song
 - Overworld Theme (The Legend of Zelda)
 ---
-Track: Thanks For Everything
-Artists:
-- OneShot
-- Nightmargin
-Duration: 2:24
-URLs:
-- https://nightmargin.bandcamp.com/track/thanks-for-everything-2
-- https://www.youtube.com/watch?v=ViJGzZE9Tso
----
 Track: Theme from San Andreas
 # Official release:
 #   Grand Theft Auto: San Andreas Official Soundtrack
@@ -7799,19 +7026,6 @@ Artists: #composer unknown
 Duration: 3:14
 URLs:
 - https://www.youtube.com/watch?v=2nRERYlmKDE
----
-Track: Thin RED Line
-# JP: Thin RED Line-アラクネ　テーマ曲
-# Official release:
-#   ブレイブルー オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/10946
-Artists:
-- BlazBlue
-- Daisuke Ishiwatari
-Duration: 4:10
-URLs:
-- https://www.youtube.com/watch?v=hrvamz7tncY
 ---
 Track: Thwomp Volcano
 # Mario & Luigi: Partners in Time, no official release
@@ -8113,31 +7327,6 @@ URLs:
 Lyrics: |-
     (Danganronpa!)
 ---
-Track: Trouble Brewing II
-# Reference:
-#   https://vgmdb.net/product/9338
-Artists:
-- 'Code Name: S.T.E.A.M.'
-- Yoshito Sekigawa
-#Duration: ''
-# unreleased
-URLs:
-- https://www.youtube.com/watch?v=12F3ebqCZHw
----
-Track: Twinkle Elementary School
-# Official release:
-#   MOTHER MUSIC REVISITED [DELUXE EDITION]
-# Reference:
-#   https://vgmdb.net/album/106653
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 1:55
-Referenced Tracks:
-- Westminster Quarters
-URLs:
-- https://www.youtube.com/watch?v=f3AxfaEUrOk&t=1506
----
 Track: A-Type
 Artists:
 - Tetris
@@ -8197,17 +7386,6 @@ Duration: 0:54
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/1a185134-294d-4503-b8d0-4d2e68e994af
 - https://www.youtube.com/watch?v=IDp0Mu1E1Bw
----
-Track: Unfounded Revenge
-# From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-#   http://starmen.net/merchandise/music/m3cd.php
-Artists:
-- Mother
-- Shogo Sakai
-URLs:
-- https://www.youtube.com/watch?v=pwGtXDBEcmM
 ---
 Track: The Universe is Before You
 # Official release:
@@ -8432,26 +7610,6 @@ URLs:
 - https://www.youtube.com/watch?v=iICrq8t1syw
 - https://disasterpeace.bandcamp.com/track/we-were-a-small-but-peaceful-community
 ---
-Track: Welcome, Me
-Additional Names:
-- ウェルカムぼく (Japanese name)
-- Welcome Self (Wikipedia translation)
-- Welcome Home (Starmen.net translation)
-# JP: ウェルカムぼく
-# Official release:
-#   マザー2 ギーグの逆襲
-# Reference:
-#   https://vgmdb.net/album/800
-Artists:
-- Mother
-- Hirokazu Tanaka
-Duration: 0:55
-URLs:
-- https://www.youtube.com/watch?v=7TNIAxPPr0A
-Commentary: |-
-    <i>Niklink:</i> (wiki editor, 4/1/2024)
-    Title is VGMdb's translation of its original Japanese title, as there is no official English translation. The track is a movement of the 'Magicant' medley on the international 2016 vinyl release.
----
 Track: We're Robots (Dr. Wily Stage 2)
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -8461,16 +7619,6 @@ Artists:
 Duration: 3:00
 URLs:
 - https://www.youtube.com/watch?v=_K9-SwNBMSY
----
-Track: What a Great Picture!
-# (See Eight Melodies (EarthBound), no official soundtrack release)
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: 0:30
-URLs:
-- https://www.youtube.com/watch?v=L7Rx4wCKQu8
 ---
 Track: White Land I
 # Reference:
@@ -8598,15 +7746,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/e51d34a3-6281-4f95-9436-7cfb5215ba34
 - https://www.youtube.com/watch?v=XA6xrfUb06E
 ---
-Track: You Gained a Level!
-# (See Eight Melodies (EarthBound), no official soundtrack release)
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=k-dOcqJoCrs
----
 Track: You Lost (F-ZERO)
 Artists:
 - F-ZERO
@@ -8674,6 +7813,15 @@ Duration: 1:15
 URLs:
 - https://www.youtube.com/watch?v=LEtilc3aT7g
 ---
+Track: The A-Team Main Theme
+Artists:
+- The A-Team
+- Mike Post
+- Pete Carpenter
+Duration: 3:31
+URLs:
+- https://www.youtube.com/watch?v=knb2HMYJbJQ
+---
 Track: accelerated world (OST edit)
 Artists:
 - Accel World
@@ -8693,6 +7841,15 @@ Duration: 4:19
 URLs:
 - https://www.youtube.com/watch?v=w5OUAY1j3gQ
 #Non. english,. lyrics. not included on WIki yet.
+---
+Track: Alf
+Artists:
+- ALF
+- Alf Clausen
+- Tom Kramer
+Duration: 1:11
+URLs:
+- https://www.youtube.com/watch?v=z5VFngsQPok
 ---
 Track: ANGEL ATTACK
 # Reference:
@@ -10568,6 +9725,91 @@ Lyrics: |-
     Uh, it likes the girls too
     Ghostbusters!
 ---
+Track: God knows...
+Artists:
+- Haruhi Suzumiya
+- Aya Hirano
+Artist Text: >-
+    [[artist:haruhi-suzumiya]] CV: [[artist:aya-hirano]]
+Duration: 4:38
+URLs:
+- https://www.youtube.com/watch?v=YvIsU9kgZz4
+---
+Track: God of ink
+Artists:
+- artist:re-creators
+- Horiyuki Sawano
+Duration: 4:11
+URLs:
+- https://www.youtube.com/watch?v=q1_mpwbwlHQ
+Lyrics: |-
+    Everyday I have to play
+    Building worlds
+    What can I say?
+    These reflections of myself
+    In the gutter
+    Bread and butter
+
+    You were looking for a reason
+    For a heavy frown
+    I have been wearing around
+
+    Everyday I like to play
+    I just think in pen and ink
+    Time to write
+
+    The fallout from the blast
+    It overwhelms you
+    She didn't tell you
+    The ink of God on the page
+    And her rage coming out
+
+    Holding my hands on you
+    And I'm holding my hands on you
+    And then out of my hands you flew
+    And then out of my hands you flew
+    I was so jealous I thought you knew
+    I was jealous I thought you knew
+    I was turning my back on you
+    I was turning my back on you my friend
+
+    Everyday I like to play
+    Building worlds
+    What can I say?
+    What is hiding in your mind?
+    Could I see it?
+    Could I see it?
+
+    The fallout from the blast
+    It overwhelms you
+    She didn't tell you
+    The ink of God on the page
+    And her rage coming out
+
+    Holding my hands on you
+    And I'm holding my hands on you
+    And then out of my hands you flew
+    And then out of my hands you flew
+    I was so jealous I thought you knew
+    I was jealous I thought you knew
+    I was turning my back on you
+    I was turning my back on you my friend
+
+    The fallout from the blast
+    It overwhelms you
+    She didn't tell you
+    The ink of God on the page
+    And her rage coming out
+
+    Holding my hands on you
+    And I'm holding my hands on you
+    And then out of my hands you flew
+    And then out of my hands you flew
+    I was so jealous I thought you knew
+    I was jealous I thought you knew
+    I was turning my back on you
+    I was turning my back on you my friend
+---
 Track: Good Morning U.S.A.
 Artists:
 - American Dad!
@@ -10624,6 +9866,17 @@ Artists:
 - Yugo Kanno
 URLs:
 - https://www.youtube.com/watch?v=_WJ9DZYOo1c
+---
+Track: Greg
+Directory: greg-it-follows
+Always Reference By Directory: true
+Duration: 3:28
+Artists:
+- It Follows
+- Disasterpeace
+URLs:
+- https://disasterpeace.bandcamp.com/track/greg
+- https://www.youtube.com/watch?v=m4O14phWqRw
 ---
 Track: Haven't You Noticed (I'm A Star)
 Artists:
@@ -12071,6 +11324,67 @@ Lyrics: |-
     You feel the power of love
     You feel the power of love
     Feel the power of love
+---
+Track: Pure Imagination
+Artists:
+- Willy Wonka & The Chocolate Factory
+- Leslie Bricusse
+- Anthony Newley
+- Gene Wilder
+Duration: 4:20
+URLs:
+- https://www.youtube.com/watch?v=A-DuOmA75lI
+Lyrics: |-
+    Come with me
+    And you'll be
+    In a world of pure imagination
+    Take a look
+    And you'll see
+    Into your imagination
+
+    We'll begin
+    With a spin
+    Traveling in
+    The world of my creation
+    What we'll see
+    Will defy
+    Explanation
+
+    If you want to view paradise
+    Simply look around and view it
+    Anything you want to, do it
+    Want to change the world?
+    There's nothing to it
+
+    There is no
+    Life I know
+    To compare with pure imagination
+    Living there
+    You'll be free
+    If you truly wish to be
+
+    If you want to see magic lands
+    Close your eyes and you will see one
+    Want to be a dreamer, be one
+    Anytime you please and please save me one
+
+    Come with me
+    And you'll be
+    In a world of pure imagination
+    Take a look
+    And you'll see
+    Into your imagination
+
+    There is no
+    Place to go
+    To compare with your imagination
+    So go there
+    To be free
+    If you truly wish to be
+
+    Living there
+    You'll be free
+    If you truly wish to be
 ---
 Track: Pust' begut neuklyuzhe
 Artists:
@@ -13660,6 +12974,15 @@ Duration: 1:27
 URLs:
 - https://www.youtube.com/watch?v=DDX7ATO_Euk
 ---
+Track: VOID
+Directory: void-togenashi-togeari
+Artists:
+- Girls Band Cry
+- TOGENASHI TOGEARI
+Duration: 3:04
+URLs:
+- https://www.youtube.com/watch?v=gpCHjSaetds
+---
 Track: We Are Number One
 Artists:
 - LazyTown
@@ -14070,6 +13393,14 @@ Duration: 4:55
 URLs:
 - https://www.youtube.com/watch?v=-uNNWc0wJiw
 - https://open.spotify.com/track/7pNCxMrF58vlyRiMluiCgU
+---
+Track: The X-Files
+Artists:
+- The X-Files
+- Mark Snow
+Duration: 3:25
+URLs:
+- https://www.youtube.com/watch?v=kimrhwS3VlU
 ---
 Track: Yahoos and Triangles
 Artists:
@@ -15656,17 +14987,6 @@ Commentary: |-
 
     I've made some effort to update the spelling to modern standards, but don't blame me if some verses don't rhyme; blame the Great Vowel Shift.
 ---
-Track: Greg
-Directory: greg-it-follows
-Always Reference By Directory: true
-Duration: 3:28
-Artists:
-- It Follows
-- Disasterpeace
-URLs:
-- https://disasterpeace.bandcamp.com/track/greg
-- https://www.youtube.com/watch?v=m4O14phWqRw
----
 Track: Gymnopédie No. 1
 Artists:
 - Erik Satie
@@ -15752,52 +15072,6 @@ Artists:
 - George Gershwin
 URLs:
 - https://www.youtube.com/watch?v=eHo_oGujVBw
----
-Track: In The Air Tonight
-Artists:
-- Phil Collins
-Duration: 5:37
-URLs:
-- https://www.youtube.com/watch?v=-SyJQrpuVwQ
-Lyrics: |-
-    I can feel it coming in the air tonight, oh lord
-    And I've been waiting for this moment, for all my life, oh lord
-    Can you feel it coming in the air tonight, oh lord, oh lord
-
-    Well, if you told me you were drowning
-    I would not lend a hand
-    I've seen your face before my friend
-    But I don't know if you know who I am
-
-    Well, I was there and I saw what you did
-    I saw it with my own two eyes
-    So you can wipe off that grin, I know where you've been
-    It's all been a pack of lies
-
-    And I can feel it coming in the air tonight, oh lord
-    Well I've been waiting for this moment for all my life, oh lord
-    I can feel it coming in the air tonight, oh lord
-    Well I've been waiting for this moment for all my life, oh lord, oh lord
-
-    Well I remember, I remember don't worry
-    How could I ever forget
-    It's the first time, the last time we ever met
-    But I know the reason why you keep this silence up
-    No you don't fool me
-    The hurt doesn't show, but the pain still grows
-    It's no stranger to you and me
-
-    I can feel it coming in the air tonight, oh lord
-    Well I've been waiting for this moment for all my life, oh lord
-    I can feel it in the air tonight, oh lord, oh lord
-    Well I've been waiting for this moment for all my life, oh lord
-
-    I can feel it coming in the air tonight, oh lord
-    And I've been waiting for this moment for all my life, oh lord
-    I can feel it in the air tonight, oh lord, oh lord
-    Well I've been waiting for this moment for all my life, oh lord, oh lord
-    I can feel it in the air tonight, oh lord, oh lord
-    Well I've been waiting for this moment for all my life, oh lord, oh lord
 ---
 Track: In the Hall of the Mountain King
 Artists:
@@ -16180,6 +15454,27 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor, 8/19/2022)
     While this composition is commonly known as the "Moonlight Sonata", the name comes from a critic's remark on this work a few years after Beethoven's death. This sonata, Piano Sonata No. 14, was published alongside his (much less well-known) Piano Sonata No. 13, both under the title "Sonata quasi una Fantasia" (<i>Sonatas in the style of a Fantasia</i>), categorized as his opus number 27.
 ---
+Track: Ner Li
+Artists:
+- Daniel Samburski (music)
+- Levin Kipnis (lyrics)
+URLs:
+- https://www.youtube.com/watch?v=G8hI599-adI (The Diller-Quaile School of Music)
+- https://www.youtube.com/watch?v=P-vuxLH82Ro (Abigail Lapell)
+- https://www.youtube.com/watch?v=0IpnFQ5qBrk (Joseph Lutnick)
+Lyrics: |-
+    @@ [translation by Gila Ansell Brauner](https://www.hebrewsongs.com/?song=nerli)
+
+    נֵר לִי, נֵר לִי, נֵר לִי דָּקִיק
+    בַּחֲנֻכָּה נֵרִי אַדְלִיק.
+    בַּחֲנֻכָּה נֵרִי יָאִיר,
+    בַּחֲנֻכָּה שִׁירִי אָשִׁיר
+
+    <i>(Oh I have a candle, a candle so thin
+    On Chanukah, my candle I'll light
+    On Chanukah my candle will glow bright
+    On Chanukah my song I shall sing)</i>
+---
 Track: Nocturne in E-flat major, Op. 9, No. 2
 Artists:
 - Frédéric Chopin
@@ -16507,71 +15802,17 @@ Lyrics: |-
     Plyaskoy tesh'tye! (<i>Dance to please!</i>)
     Nash khan Konchak! (<i>Our Khan Konchak!</i>)
 ---
-Track: Pure Imagination
-Artists:
-- Leslie Bricusse
-- Anthony Newley
-- Gene Wilder
-Duration: 4:20
-URLs:
-- https://www.youtube.com/watch?v=A-DuOmA75lI
-Lyrics: |-
-    Come with me
-    And you'll be
-    In a world of pure imagination
-    Take a look
-    And you'll see
-    Into your imagination
-
-    We'll begin
-    With a spin
-    Traveling in
-    The world of my creation
-    What we'll see
-    Will defy
-    Explanation
-
-    If you want to view paradise
-    Simply look around and view it
-    Anything you want to, do it
-    Want to change the world?
-    There's nothing to it
-
-    There is no
-    Life I know
-    To compare with pure imagination
-    Living there
-    You'll be free
-    If you truly wish to be
-
-    If you want to see magic lands
-    Close your eyes and you will see one
-    Want to be a dreamer, be one
-    Anytime you please and please save me one
-
-    Come with me
-    And you'll be
-    In a world of pure imagination
-    Take a look
-    And you'll see
-    Into your imagination
-
-    There is no
-    Place to go
-    To compare with your imagination
-    So go there
-    To be free
-    If you truly wish to be
-
-    Living there
-    You'll be free
-    If you truly wish to be
----
 Track: Reveille
 Artists:
 - Traditional
 URLs:
 - https://www.youtube.com/watch?v=It7MrzMzMQ8
+---
+Track: Ride of the Valkyries
+Artists:
+- Richard Wagner
+URLs:
+- https://www.youtube.com/watch?v=GGU1P6lBW6Q
 ---
 Track: Rondo Alla Turca
 Artists:
@@ -16953,12 +16194,13 @@ Lyrics: |-
     And we'll all feel gay
     When Johnny comes marching home
 ---
-Track: The X-Files
+Track: Winter
+Suffix Directory: antonio-vivaldi
+Always Reference By Directory: true
 Artists:
-- Mark Snow
-Duration: 3:25
+- Antonio Vivaldi
 URLs:
-- https://www.youtube.com/watch?v=kimrhwS3VlU
+- https://www.youtube.com/watch?v=ZPdk5GaIDjo
 ---
 Track: Yama No Ongakuka
 Artists:
@@ -17403,14 +16645,6 @@ Commentary: |-
 
     See also details about the history of this track, including alternate versions, compiled by GodzFire [for archive.org](https://archive.org/details/stan-lepard-velkommen-song-pack-remastered) in November 2024.
 ---
-Track: The A-Team Main Theme
-Artists:
-- Mike Post
-- Pete Carpenter
-Duration: 3:31
-URLs:
-- https://www.youtube.com/watch?v=knb2HMYJbJQ
----
 Track: Accept My Shaft
 Artists:
 - Ninja Sex Party
@@ -17831,6 +17065,76 @@ Duration: 3:54
 URLs:
 - https://www.youtube.com/watch?v=OqlKiC7fD6E
 - https://oneohtrixpointnever.bandcamp.com/track/andro
+---
+Track: Another Part of Me
+Artists:
+- Snoop Dogg
+- Sting (featuring)
+URLs:
+- https://www.youtube.com/watch?v=oVJnLJSISEY
+Lyrics: |-
+    Ha, how y'all feelin' out there?
+    Yeah
+    Clap a lil' louder if you lovin' it
+    I'm fuckin' with it
+    Turn my mic up
+    Yeah, yeah
+    That's it
+    Ha
+    Return of the titans in this motherfucka
+    Lovin' how this is feelin'
+    Yeah, go 'head, Erik, Sting 'em
+    Yeah
+    Make some noise if you don't give a fuck
+    Yeah, I like that
+
+    Just another part of me
+    I'm just tryna show you some gangsta love
+    Wearin' my heart on my sleeve (Yeah)
+    Out here livin' armed and dangerous
+    Now tell me, what do you want from me?
+    Here in the land of the lost and the scandalous
+    Bright lights, sunny days, cold nights
+    Ride the wave, hold tight, just a day in Los Angeles
+
+    Encore, I'm not done, he is I, one of one
+    For my hood, two one, Risky Business, Top Gun
+    Dogg back out on a mornin' run, me and Dre, Red Rum
+    Bake a cake with these bread crumbs, on my momma, son of a gun
+    This for my people, I'm just handlin' procedure
+    Hear no, see no, speak no evil, vision like a Desert Eagle, yeah
+    Hood star with war scars from breakin' laws and beatin' charges
+    Toppin' charts, this shit is ours, Stacy Adams on a blue carpet
+    Standin' too close, you'll fuck around and catch a contact
+    Yeah, yeah, from the smell of this potpourri
+    Ah, and it got you feelin' good, don't it?
+    Same nigga, same odor, this is an iconic moment
+
+    Money on my mind, oh, yeah, yeah
+    She about to come alive, oh, yeah, yeah
+    And it's right before your eyes, oh, yeah, yeah
+    Just a thief in the night (ooh)
+
+    From the jump, on the run, but I walk away
+    I'm the one, give a fuck what they got to say
+    Mmm, gotta get up, up out of my way
+    Yeah, there's no better time than today
+
+    In a moment jump up on it, see the ocean, stay in motion
+    You're not broken, know I'm chosen, I just gotta have faith
+    Time is passin', I stay active, mom is laughin', movie's wrappin'
+    Millions stackin', look what happened, life just isn't the same
+
+    From the jump, on the run, but I walk away
+    I'm the one, give a fuck what they got to say
+    Mmm, gotta get up, up out of my way
+    Yeah, there's no better time than today
+
+    Yeah
+    Thank you
+    I really appreciate the love
+    Never have so many done so much for so few
+    Goodnight
 ---
 Track: Anubis
 Directory: anubis-septicflesh
@@ -18900,6 +18204,42 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=XvK8jNlqhYk
 ---
+Track: Begin Again
+Duration: 5:55
+Artists:
+- Knife Party
+URLs:
+- https://www.youtube.com/watch?v=LWjzRvt6k1I
+Lyrics: |-
+    Is there somewhere else to be
+    Is there another way to feel
+    The lost pieces all over
+    Getting closer
+
+    Hold up your hands and begin again
+    Hold up your hands when you reach the end
+    We live and we work and we die for it
+    We know our path and we fight for it
+    Hold up your hands and begin again
+    Hold up your hands when you reach the end
+    We live and we work and we die for it
+    We know our path and collide for it
+
+    To begin again
+    When you reach the end
+    To begin again
+    When you reach the end
+
+    To begin again
+    When you reach the end
+    To begin again
+    When you reach the end
+
+    To begin again
+    When you reach the end
+    To begin again
+    When you reach the end
+---
 Track: Bending Sky
 Duration: 4:06
 Artists:
@@ -18938,6 +18278,107 @@ Lyrics: |-
     Since 1990, put a smile on your face like ultra-bright
     You're just fessing man
     I don't even wanna hear about it, you're just fessing
+---
+Track: Best I Ever Had
+Artists:
+- Drake
+Duration: 4:19
+URLs:
+- https://www.youtube.com/watch?v=Zfp3KfYH0xA
+Lyrics: |-
+    [Intro]
+    You know, a lot of girls be
+    Thinkin' my songs are about them
+    This is not to get confused
+    This one's for you
+
+    Baby, you my everything, you all I ever wanted
+    We could do it real big, bigger than you ever done it
+    You be up on everything, other hoes ain't never on it
+    I want this forever, I swear I can spend whatever on it
+    'Cause she hold me down every time I hit her up
+    When I get right, I promise that we gon' live it up
+    She made me beg for it 'til she give it up
+    And I say the same thing every single time
+    I say, you the fuckin' best (Ayy), you the fuckin' best (Ayy)
+    You the fuckin' best (Ayy), you the fuckin' best (Ayy)
+    You the best I ever had (Ayy), best I ever had (Ayy)
+    Best I ever had (Ayy), best I ever had
+    I say, you the fuckin'
+
+    Know you got a roommate, call me when there's no one there
+    Put the key under the mat and you know I be over there (Yup)
+    I be over there, shawty, I be over there
+    I be hittin' all the spots that you ain't even know was there
+    And you don't even have to ask twice
+    You could have my heart or we could share it like the last slice
+    Always felt like you was so accustomed to the fast life
+    Have a nigga thinkin' that he met you in a past life
+    Sweatpants, hair tied, chillin' with no make-up on
+    That's when you're the prettiest
+    I hope that you don't take it wrong
+    You don't even trip when friends say
+    "You ain't bringin' Drake along?"
+    You know that I'm workin', I'll be there soon as I make it home
+    And she a patient in my waiting room
+    Never pay attention to the rumors and what they assume
+    And until them girls prove it
+    I'm the one that never get confused with, 'cause
+
+    Baby, you my everything, you all I ever wanted
+    We could do it real big, bigger than you ever done it
+    You be up on everything, other hoes ain't never on it
+    I want this forever, I swear I can spend whatever on it
+    'Cause she hold me down every time I hit her up
+    When I get right, I promise that we gon' live it up
+    She made me beg for it 'til she give it up
+    And I say the same thing every single time
+    I say, you the fuckin' best (Ayy), you the fuckin' best (Ayy)
+    You the fuckin' best (Ayy), you the fuckin' best (Ayy)
+    You the best I ever had (Ayy), best I ever had (Ayy)
+    Best I ever had (Ayy), best I ever had
+    I say, you the fuckin'
+
+    Sex, Love, Pain, baby, I be on that Tank shit
+    Buzz so big I could probably sell a blank disc
+    When my album drop, bitches'll buy it for the picture
+    And niggas'll buy it too and claim they got it for they sister
+    Magazine paper, girl, the money ain't the issue
+    They bring dinner to my room and ask me to initial
+    She call me the referee 'cause I be so official
+    My shirt ain't got no stripes, but I can make your pussy whistle
+    Like the Andy Griffith theme song
+    And who told you to put them jeans on?
+    Double cup love, you the one I lean on
+    Feelin' for a fix, then you should really get your fiend on
+    Yeah, just know my condo is the crack spot
+    Every single show, she out there reppin' like a mascot
+    Get it from the back and make your fuckin' bra strap pop
+    All up in your slot 'til a nigga hit the jackpot, I'm saying
+
+    Baby, you my everything, you all I ever wanted
+    We could do it real big, bigger than you ever done it
+    You be up on everything, other hoes ain't never on it
+    I want this forever, I swear I can spend whatever on it
+    'Cause she hold me down every time I hit her up
+    When I get right, I promise that we gon' live it up
+    She made me beg for it 'til she give it up
+    And I say the same thing every single time
+    I say, you the fuckin' best (Ayy), you the fuckin' best (Ayy)
+    You the fuckin' best (Ayy), you the fuckin' best (Ayy)
+    You the best I ever had (Ayy), best I ever had (Ayy)
+    Best I ever had (Ayy), best I ever had
+    I say, you the fuckin' best (Ayy), you the fuckin' best (Ayy)
+    You the fuckin' best (Ayy), you the fuckin' best (Ayy)
+    You the best I ever had (Ayy), best I ever had (Ayy)
+    Best I ever had (Ayy), best I ever had
+
+    Uhh, ah yeah
+    See, this the type of joint you gotta dedicate to somebody
+    Just make sure they that special somebody
+    Young Money, yeah, yeah
+    You know who you are
+    I got you
 ---
 Track: Betsu Sekai
 # Date First Released: December 28, 2022
@@ -19342,6 +18783,53 @@ Lyrics: |-
     I get down on my knees and pray
     I'm waiting for that final moment
     You say the words that I can't say
+---
+Track: Black
+Directory: black-danger-mouse
+Always Reference By Directory: true
+Artists:
+- Danger Mouse
+- Norah Jones (featuring)
+Duration: 3:31
+URLs:
+- https://www.youtube.com/watch?v=OiKuW3xXwmA
+Lyrics: |-
+    We touch the walls of the city streets, and
+    Didn't explain
+    Sadly showed us our ways
+    Of never asking why
+
+    Cast down
+    It was heaven sent, and
+    To the church no intent to repent
+    On my knees, just to cry
+
+    Until you travel to that place you can't come back
+    Where the last pain is gone
+    And all that's left is black
+
+    Bright nights cease coming to me, and
+    Some day they'll punish my deeds, and they'll find
+    All the crimes
+    But then they ask, when're they going to see them?
+    Then they're gonna ask to feel the ghosts, the walls, the dreams
+    Oh, I've got mine
+
+    At last those coming came and they never looked back
+    With blinding stars in their eyes
+    But all they saw was black
+
+    Fooled them, hoping to seem
+    Like the slayer of evil but the product of greed, and
+    It's not a mask, so be honest with me
+    They can't afford to ignore that I'm the disease
+    Practical, since we had to be, and
+    When they were old they came back to me
+    And they tried, oh they tried
+
+    And when you follow through and wind up on your back
+    Looking up at no stars in the sky
+    Those white clouds have turned it black
 ---
 Track: Blackheart (Original Mix)
 Artists:
@@ -20298,6 +19786,83 @@ Lyrics: |-
     When it came no one was spared
     Still I hear "Burn!"
 ---
+Track: Cake By The Ocean
+Artists:
+- DNCE
+Duration: 3:38
+URLs:
+- https://www.youtube.com/watch?v=PAzH-YAlFYc
+Lyrics: |-
+    Oh, no
+    See you walking 'round like it's a funeral
+    Not so serious, girl, why those feet cold?
+    We just gettin' started, don't you tip toe, tip toe, ah
+
+    Waste time with a masterpiece, don't waste time with a masterpiece (Huh)
+    You should be rollin' with me, you should be rollin' with me (Ah-ah-ah)
+    You're a real life fantasy, you're a real life fantasy (Huh)
+    But you're movin' so carefully, let's start livin' dangerously
+
+    Talk to me, baby
+    I'm goin' blind from this sweet sweet cravin', woah-oh
+    Let's lose our minds and go fucking crazy
+    Ah ya ya ya ya, I keep on hopin'
+    We'll eat cake by the ocean, uh
+    Walk for me, baby
+    I'll be Diddy, you'll be Naomi (Whoa-oh)
+    Let's lose our minds and go fucking crazy
+    Ah ya ya ya ya, I keep on hopin'
+    We'll eat cake by the ocean, uh
+
+    God damn
+    See you lickin' frostin' from your own hands
+    Want another taste, I'm beggin', "Yes, ma'am"
+    I'm tired of all this candy on the dry land, dry land, oh
+
+    Waste time with a masterpiece, don't waste time with a masterpiece (Huh)
+    You should be rollin' with me, you should be rollin' with me (Ah-ah-ah)
+    You're a real life fantasy, you're a real life fantasy (Huh)
+    But you're movin' so carefully, let's start livin' dangerously (Woah-oh-oh-oh)
+
+    Talk to me, baby
+    I'm goin' blind from this sweet sweet cravin', woah-oh
+    Let's lose our minds and go fucking crazy
+    Ah ya ya ya ya, I keep on hopin'
+    We'll eat cake by the ocean, uh
+    Walk for me, baby (Walk for me now)
+    I'll be Diddy, you'll be Naomi (Whoa-oh)
+    Let's lose our minds and go fucking crazy
+    Ah ya ya ya ya, I keep on hopin'
+    We'll eat cake by the ocean, uh
+
+    Ooh, ah, ah
+    Ah ya ya ya ya, I keep on hopin'
+    We'll eat cake by the ocean, uh
+    Ooh, ah, ah
+    Ah ya ya ya ya, I keep on hopin'
+    We'll eat cake by the ocean, uh
+
+    (Oh, hey)
+    (You're fuckin' delicious, haha)
+    Talk to me, girl (Huh)
+
+    Talk to me, baby (Talk to me, baby) (Hey)
+    I'm goin' blind from this sweet sweet cravin' (Whoa-oh)
+    Let's lose our minds and go fucking crazy (Crazy!)
+    Ah ya ya ya ya (Ah), I keep on hopin' (Hopin'!)
+    We'll eat cake by the ocean, uh (Hey)
+    Walk for me, baby (Walk for me now)
+    I'll be Diddy, you'll be Naomi (You'll be Naomi, whoa-oh)
+    Let's lose our minds and go (And go what?) fucking crazy (That's right)
+    Ah ya ya ya ya, I keep on hopin' (Alright)
+    We'll eat cake by the ocean, uh (Aw, yeah)
+
+    Red velvet, vanilla, chocolate in my life
+    Funfetti, I'm ready, I need it every night
+    Red velvet, vanilla, chocolate in my life
+    Ah ya ya ya ya, I keep on hopin'
+    We'll eat cake by the ocean, uh
+---
 Track: Californication
 Artists:
 - Red Hot Chili Peppers
@@ -21125,6 +20690,54 @@ Lyrics: |-
     ここは空にいちばん近い
     雲の頂きだからね
 ---
+Track: Circles
+Directory: circles-digitalism
+Always Reference By Directory: true
+Artists:
+- Digitalism
+Duration: 3:48
+URLs:
+- https://www.youtube.com/watch?v=xqw6u1cSZB8
+Lyrics: |-
+    Hello all the good times
+    When did you leave me behind?
+    I didn't have enough time
+    For this stuff on my mind
+
+    Oh, when you're trying to rewind
+    You're caught up in a neverending circle
+    We play it again - and again and again
+    Just give me more - just the same, just the same
+    We play it again - caught up in a neverending circle
+    Play it again
+
+    You're friends with the madness
+    Gotta give it some more loving
+    'Cause you can hear what the answers
+    You won't let it begin
+
+    Oh, when you're trying to rewind
+    You're caught up in a neverending circle
+    We play it again - and again and again
+    Just give me more - just the same, just the same
+    We play it again - Caught up in a never-ending circle
+    Play it again
+
+    I play it again
+    I play it again
+    I play it again and again and again
+    We play it again, again and again
+    I just play it again and again
+    I play it again and again
+    I play it again and again
+    I play it again and again
+    And I play it again and again
+    And again and again and again and again
+    And again and again and again and again
+    And again and again and again
+    I play it again and again
+    And again and again and again
+---
 Track: Classical Gas
 Artists:
 - Mason Williams
@@ -21380,6 +20993,145 @@ Duration: 5:31
 URLs:
 - https://www.youtube.com/watch?v=zmfa6Qphrsk
 ---
+Track: Come & Go
+Artists:
+- Juice WRLD
+- Marshmello
+Duration: 3:25
+URLs:
+- https://www.youtube.com/watch?v=5Di20x6vVVU
+Lyrics: |-
+    Woah, uh
+    Oh, oh-oh, oh-oh (Mello made it right)
+
+    I try to be everything that I can
+    But sometimes, I come out as bein' nothin'
+    I try to be everything that I can
+    But sometimes, I come out as bein' nothin'
+    I pray to God that he make me a better man (ah)
+    Maybe one day, I'ma stand for somethin'
+    I'm thankin' God that he made you part of the plan
+    I guess I ain't go through all that hell for nothin'
+    I'm always fuckin' up and wreckin' shit
+    It seems like I perfected it
+    I offer you my love
+    I hope you take it like some medicine
+    Tell me ain't nobody better than me
+    I think that there's better than me
+    Hope you see the better in me
+    Always end up betterin' me
+
+    I don't wanna ruin this one
+    This type of love don't always come and go
+    I don't wanna ruin this one
+    This type of love don't always come and go
+    I don't wanna ruin this one
+    This type of love don't always come and go
+    I don't wanna ruin this one
+    This type of love don't always come and go
+
+    I don't wanna ruin this one
+    This type of love don't always come and go
+    I don't wanna ruin this one
+    This type of love don't always come and go
+
+    We take drugs, then you hold me close
+    Then I tell you how you make me whole
+    Sometimes, I feel you like bein' alone
+    Then you tell me that I shoulda stayed in the room
+    Guess I got it all wrong all along, my fault
+    My mistakes probably wipe all the rights I've done
+    Sayin' goodbye to bygones, those are bygones
+    Head up, baby, stay strong, we gon' live long
+
+    I don't wanna ruin this one
+    This type of love don't always come and go
+    I don't wanna ruin this one
+    This type of love don't always come and go
+    I don't wanna ruin this one
+    This type of love don't always come and go
+    I don't wanna ruin this one
+    This type of love don't always come and go
+
+    I don't wanna ruin this one
+    This type of love don't always come and go
+    I don't wanna ruin this one
+    This type of love don't always come and go
+---
+Track: Come Down
+Artists:
+- Wavves
+- Cloud Nothings
+Duration: 2:59
+URLs:
+- https://wavvesxcloudnothings.bandcamp.com/track/come-down
+- https://www.youtube.com/watch?v=vNiUIBxf004
+Lyrics: |-
+    You say it's nothing, you feel alright
+    There's something wrong creeping into your life
+    You cannot say it, you cannot fight
+    There's something wrong creeping into your life
+    The world around you is barely there
+    There's something wrong creeping into your life
+    You do not notice, you do not care
+    There's something wrong creeping into your life
+
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Nothing ever comes down, nothing ever comes down
+    Nothing ever comes down, nothing ever comes down
+
+    Just to be something is hard enough
+    There's no defense, we're good enough
+    The world around you is barely there
+    There's something wrong creeping into your life
+    You do not notice, you do not care
+    There's something wrong creeping into your life
+
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+    Sometimes you'll find
+    Nothing ever comes down, nothing ever comes down
+
+    There's something wrong creeping into your life
+    There's something wrong creeping into your life
+---
+Track: Come In
+Artists:
+- Weatherday
+Duration: 1:36
+URLs:
+- https://weatherornot.bandcamp.com/track/come-in
+Lyrics: |-
+    (Come in)
+
+    I'm still here
+    I'm almost floored
+    Poorly drawn
+    Hope you're bored
+    Sinking feeling
+    Weather day
+    I'll be here
+    Hope you stay
+
+    So come in
+
+    (...never thought I'd hear those words coming from you!)
+---
 Track: Confusion (Pump Panel Reconstruction Mix)
 Artists:
 - New Order
@@ -21511,6 +21263,83 @@ Lyrics: |-
     Confusion!
     Confusion!
     Confusion!
+---
+Track: Cooler Than Me
+Artists:
+- Mike Posner
+Duration: 3:33
+URLs:
+- https://www.youtube.com/watch?v=Rq-nBujdb4I
+Lyrics: |-
+    If I could write you a song to make you fall in love
+    I would already have you up under my arm
+    I used up all of my tricks, I hope that you like this
+    But you probably won't, you think you're cooler than me
+    You got designer shades just to hide your face
+    And you wear 'em around like you're cooler than me
+    And you never say "Hey" or remember my name
+    And it's probably 'cause you think you're cooler than me
+
+    You got your highbrow shoes on your feet
+    And you wear 'em around like it ain't shit
+    But you don't know the way that you look
+    When your steps make that much noise, shh
+    I got you all figured out
+    You need everyone's eyes just to feel seen
+    Behind your makeup, nobody knows who you even are
+    Who you think that you are
+
+    If I could write you a song to make you fall in love
+    I would already have you up under my arm
+    I used up all of my tricks, I hope that you like this
+    But you probably won't, you think you're cooler than me
+    You got designer shades just to hide your face
+    And you wear 'em around like you're cooler than me
+    And you never say "Hey" or remember my name
+    And it's probably 'cause you think you're cooler than me
+
+    You got your high brow, switch in your walk
+    And you don't even look when you pass by
+    But you don't know the way that you look
+    When your steps make that much noise, shh
+    I got you all figured out
+    You need everyone's eyes just to feel seen
+    Behind your makeup, nobody knows who you even are
+    Who you think that you are
+
+    'Cause it sure seems you got no doubts
+    But we all see you got your head in the clouds
+
+    If I could write you a song to make you fall in love
+    I would already have you up under my arm
+    I used up all of my tricks, I hope that you like this
+    But you probably won't, you think you're cooler than me
+    You got designer shades just to hide your face
+    And you wear 'em around like you're cooler than me
+    And you never say "Hey" or remember my name
+    And it's probably 'cause you think you're cooler than me
+
+    Now don't you dare act like you don't know (don't know)
+    Know what's up (Know what's up) 'cause your nose is up
+    I'm approachin' up, pshht, yup
+    Like I can give you winter in the summer
+    Or summer in the winter, Miami in December
+    Tryna look bored in them Dior(Dior)
+    She probably is
+    Was actin' shallow 'til she found out how deep that my pockets is
+    Mrs. Primadonna, this is your reminder
+    That I think you fine, but I'm finer
+    Sean, yup
+
+
+    If I could write you a song to make you fall in love
+    I would already have you up under my arm
+    I used up all of my tricks, I hope that you like this
+    But you probably won't, you think you're cooler than me
+    You got designer shades just to hide your face
+    And you wear 'em around like you're cooler than me
+    And you never say "Hey" or remember my name
+    And it's probably 'cause you think you're cooler than me
 ---
 Track: Corrupting Tranquility
 Artists:
@@ -22275,6 +22104,67 @@ Artists:
 - Ryoji Ikeda
 URLs:
 - https://www.youtube.com/watch?v=p3PO54QmfZ8
+---
+Track: Dead Weight
+Duration: 3:27
+Artists:
+- PVRIS
+URLs:
+- https://www.youtube.com/watch?v=6A_p04lpHmU
+Lyrics: |-
+    If we start cracking at the center I won't let it break
+    Hold it together through the weather, it's my DNA
+    So sick of being your giver, throwing my soul away
+    A-a-a-all give, no-no-no-no take
+
+    Look what you started
+    You're turning me heartless
+    I'm trying my hardest
+    If I'm being honest
+
+    I can't take it over and over
+    Dead weight hanging off of my shoulder
+    Nothing changes, I'm getting colder
+    Dead weight hanging off of my shoulders
+    (O-o-o-oh, o-o-o-oh, o-o-o-oh, o-o-o-oh)
+    (O-o-o-oh, o-o-o-oh) Dead weight hanging off of my shoulders
+    (o-o-o-oh, o-o-o-oh)
+
+    If I start cracking at the center all this goes away
+    I'm staying numb to my feelings, dodge 'em like novocaine
+    My back is breaking from taking all of this dead weight
+    A-a-a-all give, no-no-no-no take
+
+    Do you even notice
+    How easy you got this?
+    Taking wings off a goddess
+    If I'm being honest
+
+    I can't take it over and over
+    Dead weight hanging off of my shoulder
+    Nothing changes, I'm getting colder
+    Dead weight hanging off of my shoulders
+    (O-o-o-oh, o-o-o-oh, o-o-o-oh, o-o-o-oh)
+    (O-o-o-oh, o-o-o-oh) Dead weight hanging off of my shoulders
+    (o-o-o-oh, o-o-o-oh)
+
+    A-a-a-all give, no-no-no-no take
+    A-a-a-all give, no-no-no-no take
+    A-a-a-all give, no-no-no-no take
+    A-a-a-all give, no-no-no-no take
+
+    (O-o-o-oh, o-o-o-oh, o-o-o-oh, o-o-o-oh)
+    (O-o-o-oh, o-o-o-oh, o-o-o-oh, o-o-o-oh)
+
+    I can't take it over and over
+    Dead weight hanging off of my shoulder
+    Nothing changes, I'm getting colder
+    Dead weight hanging off of my shoulders
+
+    I can't take it over and over
+    Dead weight hanging off of my shoulder
+    Nothing changes, I'm getting colder
+    Dead weight hanging off of my shoulders
 ---
 Track: Dear Maria, Count Me In
 Duration: 3:05
@@ -24888,7 +24778,7 @@ Lyrics: |-
     So far away from me
     So far away from me
 Commentary: |-
-    <i>Michael Guy Bowman:</i> (Stutzman scholar)
+    <i>[[artist:michael-guy-bowman]], Stutzman scholar:</i>
     Because he is far too much of a threat to national security to be allowed to start his own Tumblr, I feel obligated to tell you about this masterpiece by my old pal Scott Stutzman.
 
     For the final project of Scott's music production class, he and his classmates were roped into recording and producing a song from start to finish. For whatever reason it was decided that it would be a collaboration between the whole class and everyone would turn in their own mix. The professor decided to allow the class to decide as a group what the genre would be and whose song they would use.
@@ -27909,7 +27799,7 @@ Referenced Tracks:
 - GO MY WAY!!
 - track:megalovania-undertale
 - DK Rap
-- Onett
+- Let's Start An Adventure
 - Gangnam Style
 - Fuck Bees
 - The Time Is Now
@@ -29263,6 +29153,83 @@ Referenced Tracks:
 - Back to the Future
 Sampled Tracks:
 - Back to the Future
+---
+Track: How to Be a Heartbreaker
+Artists:
+- MARINA
+Duration: 3:41
+URLs:
+- https://www.youtube.com/watch?v=sHALM2J-4eU
+Lyrics: |-
+    Rule number one
+    Is that you gotta have fun
+    But, baby, when you're done
+    You gotta be the first to run
+    Rule number two
+    Just don't get attached to
+    Somebody you could lose
+    So le-let me tell you
+
+    This is how to be a heartbreaker
+    Boys, they like a little danger
+    We'll get him falling for a stranger, a player
+    Singing, I lo-lo-love you
+    How to be a heartbreaker
+    Boys, they like the look of danger
+    We'll get him falling for a stranger, a player
+    Singing, I lo-lo-love you
+    At least I think I do
+
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    'Cause I lo-lo-lo-love you
+
+    Rule number three
+    Wear your heart on your cheek
+    But never on your sleeve
+    Unless you want to taste defeat
+    Rule number four
+    Gotta be lookin' pure
+    Kiss him goodbye at the door
+    And leave him wanting more, more
+
+    This is how to be a heartbreaker
+    Boys, they like a little danger
+    We'll get him falling for a stranger, a player
+    Singing, I lo-lo-love you
+    How to be a heartbreaker
+    Boys, they like the look of danger
+    We'll get him falling for a stranger, a player
+    Singing, I lo-lo-love you
+    At least I think I do
+
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    'Cause I lo-lo-lo-love you
+
+    Girls, we do whatever it will take
+    'Cause girls don't want
+    We don't want our hearts to break in two
+    So it's better to be fake
+    Can't risk losing in love again, babe
+
+    This is how to be a heartbreaker
+    Boys, they like a little danger
+    We'll get him falling for a stranger, a player
+    Singing, I lo-lo-love you
+    How to be a heartbreaker
+    Boys, they like the look of danger
+    We'll get him falling for a stranger, a player
+    Singing, I lo-lo-love you
+
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
+    'Cause I lo-lo-lo-love you
+
+    At least I think I do
 ---
 Track: how to lie
 Artists:
@@ -30792,6 +30759,52 @@ Duration: 3:31
 URLs:
 - https://www.youtube.com/watch?v=QLnFpjHArwQ
 ---
+Track: In The Air Tonight
+Artists:
+- Phil Collins
+Duration: 5:37
+URLs:
+- https://www.youtube.com/watch?v=-SyJQrpuVwQ
+Lyrics: |-
+    I can feel it coming in the air tonight, oh lord
+    And I've been waiting for this moment, for all my life, oh lord
+    Can you feel it coming in the air tonight, oh lord, oh lord
+
+    Well, if you told me you were drowning
+    I would not lend a hand
+    I've seen your face before my friend
+    But I don't know if you know who I am
+
+    Well, I was there and I saw what you did
+    I saw it with my own two eyes
+    So you can wipe off that grin, I know where you've been
+    It's all been a pack of lies
+
+    And I can feel it coming in the air tonight, oh lord
+    Well I've been waiting for this moment for all my life, oh lord
+    I can feel it coming in the air tonight, oh lord
+    Well I've been waiting for this moment for all my life, oh lord, oh lord
+
+    Well I remember, I remember don't worry
+    How could I ever forget
+    It's the first time, the last time we ever met
+    But I know the reason why you keep this silence up
+    No you don't fool me
+    The hurt doesn't show, but the pain still grows
+    It's no stranger to you and me
+
+    I can feel it coming in the air tonight, oh lord
+    Well I've been waiting for this moment for all my life, oh lord
+    I can feel it in the air tonight, oh lord, oh lord
+    Well I've been waiting for this moment for all my life, oh lord
+
+    I can feel it coming in the air tonight, oh lord
+    And I've been waiting for this moment for all my life, oh lord
+    I can feel it in the air tonight, oh lord, oh lord
+    Well I've been waiting for this moment for all my life, oh lord, oh lord
+    I can feel it in the air tonight, oh lord, oh lord
+    Well I've been waiting for this moment for all my life, oh lord, oh lord
+---
 Track: In The End
 Artists:
 - Linkin Park
@@ -32219,6 +32232,68 @@ Lyrics: |-
 
     I've got a thing for you
 ---
+Track: Lagtrain
+Artists:
+- inabakumori
+Duration: 4:11
+Contributors:
+- Kaii Yuki (vocal synthesis)
+URLs:
+- https://www.youtube.com/watch?v=UnIhRpIT7nc
+Lyrics: |-
+    離れ離れの街を
+    繋ぐ列車は行ってしまったね
+    失くした言葉を知らないなら
+    ポケットで握りしめて
+
+    あがいた息を捨てて
+    延びる今日は眠って誤魔化せ
+    失くした言葉を知らないなら
+    各駅停車に乗り込んで
+
+    夕方と退屈のお誘いを断って
+    一人きり　路地裏は決して急がないで
+    ほら　横断歩道も待ってくれと言ってる
+    見張る街角があなたを引き留めてく
+
+    離れ離れの街を
+    繋ぐ列車は行ってしまったね
+    失くした言葉を知らないなら
+    ポケットで握りしめて
+
+    あがいた夢を捨てて
+    揺れる今日は眠って誤魔化せ
+    失くした言葉を知らないなら
+    各駅停車に乗り込んで
+
+    夕方の駅のホームはひどく混み合って
+    ひとり占めできるまで休憩して欲しくて
+    また　集団下校があなたを急かしている
+    ほら　自動改札は待ってくれと言ってる
+    塞がる両手があなたを引き留めてく
+
+    あがいた夢を捨てて
+    揺れる今日は眠って誤魔化せ
+    失くした言葉を知らないなら
+    各駅停車に乗り込んで
+
+    離れた街と街を繋ぐ列車が
+    呼んだ風に飛ばされないでいてくれ
+    失くした言葉はそのままでいいよ
+    揺れる列車に身を任せて欲しいから
+
+    離れ離れの街を
+
+    離れ離れの街を
+    繋ぐ列車は行ってしまったね
+    失くした言葉を知らないなら
+    ポケットで握りしめて
+
+    あがいた息を捨てて
+    延びる今日は眠って誤魔化せ
+    失くした言葉を知らないなら
+    各駅停車で旅をして
+---
 Track: Land of Confusion
 Artists:
 - Genesis
@@ -32356,6 +32431,114 @@ Lyrics: |-
 
     Special
     So long
+---
+Track: Last Friday Night (T.G.I.F.)
+Artists:
+- Katy Perry
+Duration: 3:50
+URLs:
+- https://www.youtube.com/watch?v=fldAgTVs3_U
+Lyrics: |-
+    There's a stranger in my bed
+    There's a pounding in my head
+    Glitter all over the room
+    Pink flamingos in the pool
+    I smell like a minibar
+    DJ's passed out in the yard
+    Barbies on the barbecue
+    This a hickey or a bruise?
+
+    Pictures of last night ended up online
+    I'm screwed
+    Oh well
+    It's a blacked-out blur, but I'm pretty sure
+    It ruled
+    Damn
+
+    Last Friday night
+    Yeah, we danced on tabletops
+    And we took too many shots
+    Think we kissed, but I forgot
+    Last Friday night
+    Teah, we maxed our credit cards
+    And got kicked out of the bar
+    So we hit the boulevard
+    Last Friday night
+    We went streaking in the park
+    Skinny dipping in the dark
+    Then had a ménage à trois
+    Last Friday night
+    Yeah, I think we broke the law
+    Always say we're gonna stop-op, oh-woah
+
+    But this Friday night
+    Do it all again
+    But this Friday night
+    Do it all again
+
+    Trying to connect the dots
+    Don't know what to tell my boss
+    Think the city towed my car
+    Chandelier is on the floor
+    Ripped my favorite party dress
+    Warrant's out for my arrest
+    Think I need a ginger ale
+    That was such an epic fail
+
+    Pictures of last night ended up online
+    I'm screwed
+    Oh well
+    It's a blacked-out blur, but I'm pretty sure
+    It ruled
+    Damn
+
+    Last Friday night
+    Yeah, we danced on tabletops
+    And we took too many shots
+    Think we kissed, but I forgot
+    Last Friday night
+    Yeah, we maxed our credit cards
+    And got kicked out of the bar
+    So we hit the boulevard
+    Last Friday night
+    We went streaking in the park
+    Skinny dipping in the dark
+    Then had a ménage à trois
+    Last Friday night
+    Yeah, I think we broke the law
+    Always say we're gonna stop-op, oh-woah
+
+    But this Friday night
+    Do it all again (Do it all again)
+    This Friday night
+    Do it all again (Do it all again)
+    This Friday night
+
+    T.G.I.F.
+    T.G.I.F.
+    T.G.I.F.
+    T.G.I.F.
+    T.G.I.F.
+    T.G.I.F.
+
+    Last Friday night
+    Yeah, we danced on tabletops
+    And we took too many shots
+    Think we kissed, but I forgot
+    Last Friday night
+    Yeah, we maxed our credit cards
+    And got kicked out of the bar
+    So we hit the boulevard
+    Last Friday night
+    We went streaking in the park
+    Skinny dipping in the dark
+    Then had a ménage à trois
+    Last Friday night
+    Yeah, I think we broke the law
+    Always say we're gonna stop-op, oh-woah
+
+    But this Friday night
+    Do it all again
 ---
 Track: Last Time I Saw You
 Duration: 10:09
@@ -32578,6 +32761,52 @@ URLs:
 - https://www.youtube.com/watch?v=pLPEVxZvRDg # leggo my bootleggo
 # Sampled Tracks:
 # - check whosampled
+---
+Track: Life is Simple in the Moonlight
+Artists:
+- The Strokes
+Duration: 4:15
+URLs:
+- https://www.youtube.com/watch?v=Ke4Zh0QkPFw
+Lyrics: |-
+    Animals on TV singing about some pain that they once felt
+    There's no one I disapprove of more or root for more than myself
+    I wanted to pretend that it was better, better, better on the phone
+    I didn't wanna tell you I was jealous, jealous, jealous and alone
+
+    So we talk about ourselves in hell
+    To forget the love we never felt
+    All the old jokes that work so well
+    Universal truth was a moment's lie
+
+    Don't try to stop us
+    Don't try to stop us
+    Don't try to stop us
+    Get out of the way
+
+    Got to get to climb your tree in the light of the living ghost I see
+    She sees her father in that old man's eyes while secretly he stares at her thighs
+    Animals on TV singing about some pain they felt at some point
+    I didn't wanna tell you I was jealous, jealous, jealous, what's the point
+
+    As I watch the velvet drapes appear
+    And the door was closed for forty years
+    As we hide what we don't wanna hear
+    As we hide what's really in our ears
+
+    He is coming from a part of hell
+    Where lightning blue eyes don't go down well
+    He can tell that we're oblivious
+    It's addiction of routine as well
+    Making fools out of the best of us
+    Making robots of the rest of us
+    Innocence itself in America today
+    Is a crime, just like Cornel West might say
+
+    Don't try to stop us
+    Don't try to stop us
+    Don't try to stop us
+    Get out of the way
 ---
 Track: Life Should Be Easy
 Duration: 5:35
@@ -35363,6 +35592,20 @@ Lyrics: |-
     I drag you down, I use you up
     Mr. Self Destruct
 ---
+Track: My Bread was Burnt to a Crisp
+Additional Names:
+- パンこげこげになっちゃった (Japanese)
+Artists:
+- picdo
+Contributors:
+- Adachi Rei (vocal synthesis)
+URLs:
+- https://www.youtube.com/watch?v=2Pgfr75lgro
+Music Videos:
+- URL: https://www.youtube.com/watch?v=2Pgfr75lgro
+  Artists:
+  - picdo
+---
 Track: My Curse
 Artists:
 - Killswitch Engage
@@ -35810,6 +36053,85 @@ Lyrics: |-
     Get the job done like retirement, I admit you look concerned
     New magic wand
 ---
+Track: New Woman
+Artists:
+- artist:lisa-manobal
+- Rosalía (featuring)
+URLs:
+- https://www.youtube.com/watch?v=cvKVkNELnxA
+Duration: 2:59
+Lyrics: |-
+    Here I go
+    Bangin' it, bangin' it, wanna crack these walls
+    Bangin' it, bangin' it, wanna echo through the halls
+    Pullin' up, fresh face, brand-new día
+    Uh, Lalisa, Rosalía
+
+    Soak up
+    All new
+    So I cut
+    I go, go to the root
+    Off to bloom, yeah
+
+    Purple into gold
+    Pain has come and gone again
+    Walked through that fire
+    I rediscover
+
+    Hit it when I serve, bitch, you better swerve
+    Revvin' up my au-au-au-au-aura
+    Focus on my mind, takin' my time
+    I'm a new woman, woman
+    Bitch, you better swerve
+    Revvin' up my au-au-au-au-aura
+    Focus on my mind, takin' my time
+    I'm a new woman, woman
+
+    Face, eyes, body go wild
+    You want this? I'm a new woman, woman
+    Eyes? I'm all about mind
+    You want this? I'm a new woman
+
+    Por to' lo quе soy, yo puedo frontear
+    No por lo que tеnga siempre me la dan
+    Y mi energía inmaculá'
+    Bajo perfil (Y tú 'tás fuera)
+    Yo vivo pa' cantar, no canto pa' vivir
+    Nací pura, sí
+    Ni una era será un flop en mi porvenir
+    Puta, soy la Rosalía, solo sé servir
+
+    La noche estrellá', así sea
+    Hasta la madrugá', que así sea
+
+    Purple into gold (Into gold)
+    Pain has come and gone again
+    Walked through that fire
+    I rediscover
+
+    Yo le meto duro, sale bien seguro
+    Acelero mi a-a-a-a-aura
+    Yo estoy enfocá', no presiona na'
+    I'm a new woman, woman
+    Sale bien seguro
+    Acelero mi a-a-a-a-aura
+    Yo estoy enfocá', no presiona na'
+    I'm a new woman, woman
+
+    Face, eyes, body go wild
+    You want this? I'm a new woman, woman
+    Eyes? I'm all about mind
+    You want this? I'm a new woman
+
+    Gimme that, gimme that alpha, yuh
+    Gimme that bigger, the better, uh
+    Feeding you the bloom growin' out my sleeve
+    Kissed from a rose, rose, what a, what a meal
+    Bad luck a sucker, gotta make you tougher
+    Tryna say you suffer, oh, don't blame your mother
+    Elevate, I liberate a new frontier
+    I'm a new woman
+---
 Track: The Next Episode
 Artists:
 - Dr. Dre
@@ -36229,6 +36551,45 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=8uqpozIUue4
 - https://disasterpeace.bandcamp.com/track/nocturne-2
+---
+Track: Notion
+Directory: notion-the-rare-occasions
+Always Reference By Directory: true
+Artists:
+- The Rare Occasions
+Duration: 3:15
+URLs:
+- https://www.youtube.com/watch?v=3vEiqil5d3Q
+Lyrics: |-
+    Sure, it's a calming notion, perpetual in motion
+    But I don't need the comfort of any lies
+    For I have seen the ending and there is no ascending rise
+    Oh, back when I was younger, was told by other youngsters
+    That my end will be torture beneath the earth
+    'Cause I don't see what they see when death is staring at me
+    I see a window, a limit, to live it, or not at all
+
+    If you could pull the lever to carry on forever
+    Would your life even matter anymore?
+    Sure it's a calming notion, perpetual in motion
+    But it's not what you signed up for
+
+    I'm sure there won't always be sunshine
+    But there's this momentary beam of light
+    You don't have to wait those salty decades
+    To get through the gate, it's all in front of your face
+    I'm sure there won't always be sunshine
+    I'm sure there won't always be sunshine
+    But there's this momentary beam of light
+
+    I could-could cross the ocean in a fit of devotion
+    (I'm sure there won't always be sunshine)
+    For every shining second this fragile body beckons
+    (But there's this momentary beam of light)
+    You think you're owed it better believing ancient letters
+    (I'm sure there won't always be sunshine)
+    Sure it's a calming notion, but it's a lie
+    (But there's this momentary beam of light)
 ---
 Track: Nova Solis
 Artists:
@@ -39514,6 +39875,100 @@ Lyrics: |-
     And so they shot him 'til he was dead
 
     Oh, those Russians
+---
+Track: RATATATA
+Duration: 3:36
+Artists:
+- BABYMETAL
+- Electric Callboy
+Artist Text: >-
+    [[artist:babymetal]] x [[artist:electric-callboy]]
+URLs:
+- https://www.youtube.com/watch?v=nfOsTHlF7jw
+Lyrics: |-
+    Every night when the sky turns red up above
+    I feel the beat in my veins and I'm searching for love
+    You know that hips don't lie, I leave you hypnotized
+    Just give me one more try to make you feel that vibe (When it goes)
+
+    (Ratatatatata) My body is a weapon
+    (Ratatatatata) We're gonna hit the floor
+    (Ratatatatata) We're gonna make it happen
+    (Ratatatatata) Now gimme some more
+
+    I will push it to the limit
+    And everybody's feeling the sound of the night
+    I don't wanna stop, we push it to the limit
+    Together, wе will crash the morning light
+    ブチアガレ Bun-bun-bun, moving
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, shaking
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, jumping
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, stomping
+    Bun-bun-bun-bun-bun
+
+    (アゲ) キラっとしちゃう
+    (アゲ) フワっとしちゃう
+    (アゲ) ドキっとしちゃう
+    (アゲ) 小悪魔しちゃうけど
+    大丈夫？
+    瞳に映した
+    笑顔の魔法で
+    罠に誘い込む (When it goes)
+
+    (Ratatatatata) My body is a wеapon
+    (Ratatatatata) We're gonna hit the floor
+    (Ratatatatata) We're gonna make it happen
+    (Ratatatatata) Now gimme some more
+
+    I will push it to the limit
+    And everybody's feeling the sound of the night
+    I don't wanna stop, we push it to the limit
+    Together, we will crash the morning light
+    ブチアガレ Bun-bun-bun, moving
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, shaking
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, jumping
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, stomping
+    Bun-bun-bun-bun-bun
+
+    I'm here for the moment, here for the beat
+    Here for the love and the friends I need
+    You know that I'll be there for good, whoa-oh
+    I'm here for the moment, here for the beat
+    Here for the love and the friends I need
+    You know that I'll be there for good (Ratatata)
+
+    I go fucking crazy 'cause I'm waiting for the drop
+    Are you ready? (Are you ready?) Let's go
+    So tell me, baby, can I get a— (フーフー)
+    So hear me now (フーフー)
+    You know what I want (フーフー)
+    Now everybody's getting down
+
+    I will push it to the limit
+    And everybody's feeling the sound of the night
+    I don't wanna stop, we push it to the limit
+    Together, we will crash the morning light
+    ブチアガレ Bun-bun-bun, moving
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, shaking
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, jumping
+    Bun-bun-bun-bun-bun (フーフー)
+    Bun-bun-bun, stomping
+    Bun-bun-bun-bun-bun
+
+    Everybody (フーフー)
+    Out of control (フーフー)
+    Everybody (フーフー)
+    Out of control (フーフーフーフー)
+
+    Now everybody's getting down
 ---
 Track: Reach for the Dead
 Duration: 4:48
@@ -42817,6 +43272,75 @@ Lyrics: |-
 URLs:
 - https://www.youtube.com/watch?v=Ta2-VXNIhH0
 ---
+Track: Stay Awake
+Artists:
+- Ellie Goulding
+Duration: 3:26
+URLs:
+- https://www.youtube.com/watch?v=ArVmPgH2mps
+Lyrics: |-
+    Take my fate in your hands
+    We've got a life that hasn't even began
+    Somethin' is calling us, we're breaking free
+    I'm curious, I need to see
+
+    Like a flash before our eyes
+    We're already into the night
+    And if it feels like we're dreamin'
+    Believe it, believe it
+
+    We don't have to wait 'til the morning
+    The sun will never go down
+    And we won't be this way forever
+    We've gotta take it now
+    So stay awake, stay awake
+    You can follow us to paradise
+    So stay awake, stay awake
+    Oh
+
+    Can we dance side by side
+    While our reflections make our bodies collide?
+    So full of energy, nothing to hide
+    No need to sleep, we come alive
+
+    And if we're gonna take this ride
+    We can go wherever we like
+    And if it feels like we're dreamin'
+    Believe it, believe it
+
+    We don't have to wait 'til the morning
+    The sun will never go down
+    And we won't be this way forever
+    We've gotta take it now
+    So stay awake, stay awake
+    You can follow us to paradise
+    So stay awake, stay awake
+    Oh
+
+    Oh
+    Oh
+
+    Believe it
+
+    Take my fate in your hands
+    We've got a life that hasn't even began
+    Somethin' is calling us, we're breaking free
+    I'm curious, I need to see
+
+    Like a flash before our eyes
+    We're already into the night
+    And if it feels like we're dreamin'
+    Believe it, believe it
+
+    We don't have to wait 'til the morning
+    The sun will never go down
+    And we won't be this way forever
+    We've gotta take it now
+    So stay awake, stay awake
+    You can follow us to paradise
+    So stay awake, stay awake
+    Oh
+---
 Track: 'stem / long stem'
 Artists:
 - DJ Shadow
@@ -43767,6 +44291,40 @@ Lyrics: |-
     So darken your clothes or strike a violent pose
     Maybe they'll leave you alone, but not me
 ---
+Track: Television Rules the Nation
+Artists:
+- Daft Punk
+Duration: 4:47
+URLs:
+- https://www.youtube.com/watch?v=YKaN7a19jLc
+Lyrics: |-
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation
+
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation
+
+    Television rules the nation
+    Television rules the nation
+
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation
+
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation
+
+    Television rules the nation
+    Television rules the nation
+    Television rules the nation...
+---
 Track: Temporary Secretary
 Artists:
 - Paul McCartney
@@ -44007,6 +44565,90 @@ Lyrics: |-
     If you roll the seven, St. Michael dies
     They'll be no ransom, don't shut my mouth
     I scald the answer you're afraid of
+---
+Track: That's What I Like
+Artists:
+- Bruno Mars
+Duration: 3:26
+URLs:
+- https://www.youtube.com/watch?v=JucvYrdSIcM
+Lyrics: |-
+    Ayy, ayy, ayy
+    I got a condo in Manhattan
+    Baby girl, what's happenin'?
+    You and your ass invited
+    So go on and get to clappin'
+    So pop it for a player
+    Pop, pop it for me
+    Turn around and drop it for a player
+    Drop, drop it for me
+    I'll rent a beach house in Miami ('ami)
+    Wake up with no jammies (Nope)
+    Lobster tail for dinner
+    Julio, serve that scampi (Julio!)
+    You got it if you want it
+    Got, got it if you want it
+    Said, you got it if you want it
+    Take my wallet if you want it now
+
+    Jump in the Cadillac, girl, let's put some miles on it
+    Anything you want, just to put a smile on it
+    You deserve it, baby, you deserve it all
+    And I'm gonna give it to you
+
+    Gold jewelry shinin' so bright
+    Strawberry champagne on ice
+    Lucky for you, that's what I like, that's what I like
+    Lucky for you, that's what I like, that's what I like
+    Sex by the fire at night
+    Silk sheets and diamonds all white
+    Lucky for you, that's what I like, that's what I like
+    Lucky for you, that's what I like, that's what I like
+
+    I'm talkin' trips to Puerto Rico (Bih)
+    Say the word and we go (Say it)
+    You can be my freaka (Brrrt!)
+    Girl, I'll be your fleeko, Mamacita
+    I will never make a promise that I can't keep
+    I promise that your smile ain't gon' ever leave
+    Shoppin' sprees in Paris
+    Everything 24 karats
+    Take a look in that mirror
+    Now, tell me, who's the fairest?
+    Is it you? (Is it you?) Is it me? (Is it me?)
+    Say it's us (Say it's us) and I'll agree, baby
+
+    Jump in the Cadillac, girl, let's put some miles on it
+    Anything you want, just to put a smile on it
+    You deserve it, baby, you deserve it all
+    And I'm gonna give it to you
+
+    Gold jewelry shinin' so bright
+    Strawberry champagne on ice
+    Lucky for you, that's what I like, that's what I like
+    Lucky for you, that's what I like, that's what I like
+    Sex by the fire at night
+    Silk sheets and diamonds all white
+    Lucky for you, that's what I like, that's what I like
+    Lucky for you, that's what I like, that's what I like
+
+    You say you want a good time
+    Well, here I am, baby, here I am, baby
+    Talk to me, talk to me, talk to me, baby
+    Tell me, what's on your mind? (What's on your mind?)
+    If you want it, girl, come and get it
+    All this is here for you
+    Tell me, baby, tell me, tell me, baby
+    What you tryna do?
+
+    Gold jewelry shinin' so bright
+    Strawberry champagne on ice
+    Lucky for you, that's what I like, that's what I like (That's what I like, babe)
+    Lucky for you, that's what I like, that's what I like (Oh, oh)
+    Sex by the fire at night
+    Silk sheets and diamonds all white (All white)
+    Lucky for you, that's what I like, that's what I like (That's what I like, babe)
+    Lucky for you, that's what I like, that's what I like (Ooh, ooh, ooh)
 ---
 Track: These Walls
 Artists:
@@ -45955,6 +46597,73 @@ Lyrics: |-
     I SEE YOUR FACE FOR MILES IN THE SKY
     HOPE THAT I WILL BE BRAVE AND FALL INTO
     THE DARK PART OF DREAMS
+---
+Track: Valley People
+Artists:
+- Battle Tapes
+Duration: 4:05
+URLs:
+- https://www.youtube.com/watch?v=m2zQ1zy0cE0
+Lyrics: |-
+    (...)
+
+    She feels her teeth grind
+    She smears her makeup
+    She tries to laugh it off
+    She picks the phone up
+    Baby, she's got it
+    Baby, she's got it
+    Baby, she's got it
+    Baby, she's
+
+    We're rolling so deluxe
+    We roll our sleeves up
+    We've turned the cameras off
+    No one can see us
+    Baby, she's got it (...she's got it, she's got it...)
+    Baby, she's got it (...she's got it, she's got it...)
+    Baby, she's got it (...she's got it, she's got it...)
+    Baby ain't got it no more
+
+    It took me year after year just to let you go
+    Trying so hard but you couldn't say no
+    Burning so hot, break my heart so slow (so slow, so slow...)
+
+    You got your head checked
+    They got their reasons
+    You wanna come back home
+    Come home to Jesus
+    Baby, she's got it
+    Baby, she's got it
+    Baby, she's got it
+    Baby, she's
+
+    You park your car outside
+    Killed the ignition
+    You waited on your mark
+    End of transmission
+    Baby, she's got it (...she's got it, she's got it...)
+    Baby, she's got it (...she's got it, she's got it...)
+    Baby, she's got it (...she's got it, she's got it...)
+    Baby ain't got it no more
+
+    It took me year after year just to let you go
+    Trying so hard but you couldn't say no
+    Burning so hot, break my heart so slow (so slow, so slow...)
+
+    It took me year after year just to let you go
+    Trying so hard but you couldn't say no
+    Burning so hot, break my heart so slow (so slow, so slow...)
+
+    And if you're wondering how it ever came to this as
+    Sparks fly in the night as a consequence of
+    Covering your tracks with your tired answers
+    All at the expense of your song and dancer
+    You sailed her down the river for the true believers
+    Called it from the start but you still couldn't see her
+    Burning so hot, break my heart so slow
+
+    (...)
 ---
 Track: Vaudeville Villain
 Artists:
@@ -49089,7 +49798,7 @@ Commentary: |-
 
     The laugh sample is great<br>
     I've used it in like 3 songs,<br>
-    as a sound effect in Anima Reprise,<br>
+    as a sound effect in [[album:anima-reprise|Anima Reprise]],<br>
     and it will probably end up in another project I'm working on lol
 
     I'm having trouble finding the original clip I stole the laugh from, but it was some sesame street clip of some of the characters laughing<br>
@@ -49422,7 +50131,7 @@ Commentary: |-
 
     In case you don't have time to watch it, here's the most important part:
 
-    <i>Tommy Tallarico:</i> (sound effect copyright owner; [Twitter, deleted](https://archive.is/MxlsC))
+    <i>[[artist:tommy-tallarico]], sound effect copyright owner:</i> ([Twitter, deleted](https://archive.is/MxlsC))
 
     As seen in recent YT videos the sfx used in Roblox was created by my lead sound designer [[artist:joey-kuras]] back in the late 90's.
 ---
@@ -49525,6 +50234,17 @@ Artists:
 Duration: 1:05:53
 URLs:
 - https://www.youtube.com/watch?v=67LPfrLk-_c
+---
+Track: Texas History
+Always Reference By Directory: true
+Duration: 9:52
+Artists:
+- Michael Guy Bowman
+URLs:
+- https://www.youtube.com/watch?v=tULy69RF9xE
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 7/14/2026)
+    *Includes* [[Texas History Theme]], of course, but this "track" represents the entire video.
 ---
 Track: Through fire, justice is served!
 Artists:
