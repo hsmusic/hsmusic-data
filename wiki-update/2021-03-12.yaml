@@ -1,0 +1,103 @@
+Wiki Update: translation & renovation
+News Entry: Translation & Renovation
+Main Update: true
+Date: March 12, 2021
+---
+Section: site changes
+Changes: |-
+    - translation/localization support:
+        - nearly all static text on the wiki has been replaced with strings specified in a plain JSON file
+        - default language for a wiki is generated at the root directory (/) as usual; new languages are in subdirectory (e.g. "/jp/album/diverging-delicacies")
+        - no languages are newly supported yet, but the localization system is totally tested; see [[news-entry:translation-renovation|the news entry]] for details on contributing translations!
+    - thumbnail support:
+        - small images (250x250) are used in grids (on homepage, album/artist galleries, etc)
+        - medium images (400x400) are used on pages with larger cover art (individual track/album pages, etc)
+        - full-size images (usually 600x600-1200x1200, pulled from public bandcamp listings) are no longer embedded at all, but can still be viewed by clicking on cover arts to zoom in
+        - previously, <em>every</em> image on the site was full-size! this was particularly terrible for people with slow connections or limited bandwidths
+        - example stats: download size of scrolling entire homepage reduced from 3.8mb to 0.6mb
+    - internal renovation across build file:
+        - ([before](https://youtu.be/6G6_vo50OBo), [after](https://youtu.be/1dqP4Vrjp3c))
+        - url system restructured:
+            - link-related bugs are much harder to run into
+            - link references in content (e.g. "\[[album:foo-bar]]") are modularized and can more easily link to anywhere across the wiki
+            - codebase forks can easily adjust url specification to move parts of the site to different paths (though this isn't yet possible via data file)
+            - site build time is significantly reduced (since there are far fewer redundant calls to path.relative)
+        - page write functions restructured
+            - data required during a page write is gathered once, and then reused across all languages that page is built in, significantly reducing build time across multiple languages
+            - writePage itself is broken into a few different chunks, which can be referenced individually when needed
+            - changes tie nicely into url system restructure as well
+        - shared data variables and functions organized and tidied for simpler access across code
+        - miscellaneous arguments and specifications across code have been restructured to prefer explicit description before unnecessarily compact formats
+            - this has the side-effect of making a fair amount of the build logic simpler!
+        - significantly expanded data validation which happens before any site pages are written
+---
+Section: albums
+Changes: |-
+    - besides additions for [[group:psycholonials]], no new music shared on the wiki this month, as translation and renovation changes took an especially long time to design and implement
+---
+Section: artist pages
+Changes: |-
+    - added total duration of music contributed to an album next to the album date
+    - display "cover art" and "wallpaper art" lines at the top of an album art contribution list, rather than at the bottom (this had been an accidental code error)
+    - display flash/game date range next to the "act" (or flash group label), rather than showing every date next to each flash, to make this section much visually cleaner
+    - removed "Featured in" links, since these were taking up a lot of visual space
+        - this has been added to [[listing:tracks/in-flashes/by-album|Tracks - in Flashes &amp; Games (by Album)]] instead
+---
+Section: commentary pages
+Changes: |-
+    - cleaned [[commentary-index:-|commentary index]] layout and strings (e.g. before: "19/20 entries; 8.4k words", after: "8.4k words across 19 entries")
+---
+Section: track pages
+Changes: |-
+    - reference list is only divided into "fandom" and "official" if a group with directory "official" is present in the first place
+        - this is essentially hard-coded, but is a quick and simple fix for all references on wikis without the concept displaying as "fandom" references
+---
+Section: listings
+Changes: |-
+    - generally tweaked strings to be more consistent across listings and the site
+    - added gallery link to [[listing:groups/by-name|Groups - by Name]] and [[listing:groups/by-category|Groups - by Category]] listings
+    - added flash links to [[listing:tracks/in-flashes/by-album|Tracks - in Flashes &amp; Games (by Album)]]
+    - added album links to [[listing:tracks/in-flashes/by-flash|Tracks - in Flashes &amp; Games (by Flash)]]
+    - added number of uses to [[listing:tags/by-name|Tags - by Name]]
+    - implemented [[listing:random|Random Pages]] as an actual listing via the same system as all others
+        - this is just generally better practice
+        - it also fixes the Random Pages link not being bold when selected though!
+---
+Section: data changes
+Changes: |-
+    - dozens of internal changes using new link syntax, as well as other internal fixes without user-visible changes
+    - contributor list changes for consistency across wiki and to remove redundant credit info:
+        - [[track:showtime-piano-refrain]]:
+            - credit [[artist:kevin-regamey]] only as artist, not contributor
+            - remove [[artist:malcolm-brown]], originally included for composing [[track:showtime-original-mix]]
+        - [[track:aggrieve-violin-refrain]]:
+            - credit [[artist:andrew-huo]] only as artist, not contributor
+            - credit [[artist:gabriel-nezovic]] only as contributor, not artist
+        - [[track:sburban-countdown]]:
+            - credit [[artist:mark-j-hadley]] only as artist, not contributor
+            - remove [[artist:michael-guy-bowman]], originally included for composing [[track:sburban-jungle]]
+        - [[track:showtime-imp-strife-mix]]:
+            - credit [[artist:buzinkai]] and [[artist:curt-blakeslee]] only as artists, not contributors
+            - remove [[artist:malcolm-brown]], originally included for composing [[track:showtime-original-mix]]
+        - [[track:requiem-for-an-exile]]: remove [[artist:james-dever]], originaly included for composing [[track:requiem]]
+        - [[track:spider8ite]]: credit [[artist:kalibration]] for composition as well as choir
+        - [[track:stress]]:
+            - credit [[artist:buzinkai]] for composition
+            - place [[artist:buzinkai]] before [[artist:toby-fox]] (but leave toby in the artist list)
+        - [[track:solar-voyage]]: credit [[artist:marcy-nabors]] for composition as well as arrangement and vocals (and move to top of list)
+        - [[track:renewed-return]]: credit [[artist:marcy-nabors]] for composition as well as bass clarinet (and move to top of list)
+        - [[track:youre-a-mean-one-mr-slick]]: credit [[artist:whatislostinthemines]] for composition as well as lyrics (and move to top of list)
+        - [[track:violet-and-gold]]: credit [[artist:veritas-unae]] for composition as well as lyrics (and move to top of list)
+    - typo fixes, thanks to Megatti:
+        - renamed [[track:ecstasy]] (used to be "Ecstacy")
+        - renamed [[track:till-the-last-breath]] (used to be "Til The Last Breath")
+        - renamed [[track:aqueous-armagourddon]] (used to be "Aqueous Armagourdden")
+        - renamed [[track:50m3-gr347-4c7-0f-h3r015m]] (used to be "5OM3 ...")
+        - renamed [[track:wisest-wizord]] (used to be "Wizest Wizord")
+        - renamed [[track:revisit-rewind]] (used to have spaces around slash)
+        - fixed typo in lyrics for [[track:cr1m1n4l-cr1m1n4l]] (used to be "Hey, crinimal scum, ...")
+    - added art tags to [[track:the-golden-towers]] and [[track:prospit-dreamers]], thanks to Celeste!
+    - fixed duplicate commentary entries in [[track:doctor-vol-1-4]] and [[track:endless-climb-vol-1-4]]
+    - removed some old commentary from [[track:sports-lofam2]]. [RIP](https://web.archive.org/web/20210310160447/https://hsmusic.wiki/track/sports/)
+    - clarified wallpaper contributions that said "edits" (e.g. [[album:homestuck-vol-5]]) to say "edits for wiki"
+    - album and flash data additions for [[group:psycholonials]] over the course of the month

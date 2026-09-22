@@ -1,0 +1,110 @@
+Wiki Update: launch of hsmusic.wiki
+News Entry: Launch of HSMusic.wiki!
+Main Update: true
+Date: December 12, 2020
+---
+Section: site changes
+Changes: |-
+    - redesigned the homepage from the ground up to be a better landing page for the wiki!
+        - three groupings for the wiki index: New Releases, Fandom, Official, showing just a few so it's easy to navigate, with new buttons to view a complete grid listing
+        - moved the "Explore the site!" links over to the newly wiki-wide header, placing albums front and center while leaving navigation links readily accessible
+        - added a sidebar to the homepage, listing recent [[site:news/|news entries]] parallel with albums
+    - improved navigation all around the site, making the wiki as a whole more consistent
+        - cover art displayed in grid items is smaller across the site, fitting more items on a screen at once and emphasizing the name more than before
+        - on the new [[root:albums/official/|Official]] and [[root:albums/fandom/|Fandom]] album indexes, the number of tracks and length of the album is displayed as well
+    - added lazy loading for images, so landing pages shouldn't take up nearly as much data, and will load quicker (especially noticeable for the [[site:flash/|Flashes &amp; Games]] index!)
+    - adjusted the styling for grouped listings (previously used only for [[album:unreleased-tracks]]) as they become more common (see data changes section)
+    - made links which require JavaScript only show up if JS is actually enabled
+---
+Section: tags
+Changes: |-
+    - new feature! tags are used for two things: categorizing track art by character, and displaying content warnings.
+    - added a tag list beneath most track and album arts describing characters in the image and linking to their gallery pages
+    - added tag gallery pages under the Listings section, showing a grid of all the track and album covers which are tagged with that character
+    - added content warnings for common triggers (alcohol, body horror, etc), blurring out the image and showing warning tags until it is clicked and revealed
+---
+Section: listings
+Changes: |-
+    - some extra wiki-wide stats are displayed on the [[site:list/|Listings index]]!
+    - divided the [[site:list/artists/by-contribs/|Artists - by Contributions]] and [[site:list/artists/by-latest/|Artists - by Latest Contribution]] listings into two columns for easier exploring: "Track Contributors" and "Track &amp; Flash Contributors"
+    - added two new listings, for the new tags feature:
+        - [[site:list/tags/by-name|Tags - by Name]]
+        - [[site:list/tags/by-uses|Tags - by Uses]]
+---
+Section: track pages
+Changes: |-
+    - made the index of the current track show next to the track name in the navbar
+    - made the start and end indexes of each group show next to group names in the sidebar
+    - divided the sidebar into groups for a bunch of albums (see data changes section)
+---
+Section: bug fixes
+Changes: |-
+    - fixed a bug where chronology links (e.g "413th track by Toby Fox") for track artists weren't being displayed anymore
+    - fixed a bug where artists with zero contributions (e.g. only commentary) would display as "( c.)" instead of "(0 c.)" in artist listings
+    - fixed a bug where flash names would <i>always</i> have the dot at the end of the name removed, instead of only when punctuation follows
+    - fixed some bugs with release date code where the [[site:list/artists/by-latest/|Artists - by Latest]] listing would not count unique dates of cover art contributions (e.g. in anthology projects where fanart is added after the release of the album), and where the cover art release date displayed on album pages was ambiguous (previously it displayed the date of track art for the whole album; now it displays - or, if it is the same as album release, does not display - the date of cover art for the album itself)
+    - fixed a bug on artist pages where tracks that are featured in more than one flash would display flashes past the first feature as "1", "2", "3", etc, instead of the actual flash names
+    - fixed a bug on artist pages where co-artists of tracks (but not track art) weren't being displayed anymore
+    - fixed a bug where the random official album link in the [[site:list/random/|Random Pages]] listing would instead open a random track across the whole site
+    - made all the links on the [[site:list/random/|Random Pages]] listing behave more like regular links (ctrl-click works for example)
+---
+Section: data changes
+Changes: |-
+    - five new albums archived: [[album:hiveswap-act-2-ost]], [[album:homestuck-for-the-holidays]], [[album:tomb-of-the-ancestors]], [[album:the-genesis-project-vol-1]], [[album:oceanfalls-vol-3]]; plus the track [[album:perfectly-generic-object]]
+    - grouped tracks in a bunch of releases: [[album:alternia]], [[album:squiddles]], [[album:strife]], [[album:alterniabound]], [[album:homestuck-vol-7]], [[album:the-wanderers]], [[album:homestuck-vol-1-4]], [[album:homestuck-vol-8]], [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], [[album:homestuck-vol-9]], [[album:one-year-older]], [[album:genesis-frog]], [[album:sburb-ost]], [[album:lofam2]], [[album:lofam3]], [[album:beforus]], [[album:ancestral]], [[album:lofam4]], and [[album:hiveswap-act-1-ost]]
+    - a bunch of additions to [[album:coloUrs-and-mayhem-universe-a]] and various credited artists, working with help from [[artist:tempest2k]] and [Bambosh](https://twitter.com/Bamboshu):
+        - added bonus art by [[artist:astrom]] to [[track:olive-rogue]]
+        - added lyrics to [[track:iron-infidel]] and [[track:bronze-page]]
+        - added commentary to [[track:fuchsia-ruler]] and [[track:gold-mage]]
+        - added some remastered/remixed released of tracks: Boy Skylark, [[track:gold-mage-playtime-is-over-mix]], Rags of Rust, Teal Wings and Scales, and Violet Sea Breeze
+        - fixed mis-double-crediting...
+            - [[artist:bleed-binary]] for the track art of [[track:olive-scribe]] (it's actually by [[artist:wp]])
+            - [[artist:elisa-mccabe]] for the track art of [[track:emerald-terror]] (it's actually by [[artist:hamsterparade]])
+            - [[artist:tristan-scroggins]] for the track art of [[track:phantasmic-youngsters]] (it's actually by [[artist:ari-hunt]])
+        - updated the youtube link for [[track:purple-tyrant]] to be the official upload
+    - a bunch of tweaks and reference fixes thanks to an emailer:
+        - added to reference lists...
+            - [[track:crustacean]] and [[track:sunsetter]] (to [[track:the-broken-clock]])
+            - [[track:showtime-piano-refrain]] (to [[track:farewell-lofam]])
+            - [[track:sburban-jungle]] (to [[track:waiting-for-adventure]])
+            - [[track:skaian-skuffle]] (to [[track:skaian-shuffle]])
+            - [[track:terra-solatrus]] (to [[track:terraform]])
+            - [[track:hawkeye]] (to [[track:davesprite]])
+            - [[track:janes-dragon]] (to [[track:jane-dargason]])
+            - [[track:before-before-the-beginning]] (to [[track:before-the-beginning-and-after-the-end]])
+            - [[track:im-a-member-of-the-midnight-crew]] (to [[track:im-a-member-of-the-midnight-crew-post-punk-version]] - this was a typo fix in the data)
+        - added [[artist:tavia-morra]] to [[track:ocean-stars-falling]]'s contributor list (per M.J.B's commentary)
+        - added more commentary for [[track:eternity-served-cold]]
+        - fixed a typo in the commentary credits for [[track:flare-with-vocals]] (which left it missing on [[artist:horizon]]'s page)
+        - fixed some typos in the commentary for [[track:thought-and-flow]] and [[track:minihoofs-adventure]]
+        - attributed [[track:skaia-voyages]] to [[artist:seth-peelle]] instead of [[artist:clark-powell]], per [Vol. 10 listening stream](https://youtu.be/HJWqqikd6S0?t=556)
+    - tweaked the [[album:unreleased-tracks]] album layout once again!
+        - before:
+            - Tracks featured in Homestuck
+            - Unreleased Homestuck tracks
+            - Tracks featured in Pesterquest
+            - Tracks originating outside of Homestuck
+        - after:
+            - Tracks featured in Homestuck
+            - Tracks featured in Hiveswap Friendsim
+            - Tracks featured in Pesterquest
+            - Other Homestuck tracks
+            - Other tracks originating outside of Homestuck
+    - a bunch of tweaks and updates for lyrics, working with emailer Niklink: [[track:dawn-of-man]], [[track:no-release]], [[track:fly]], [[track:lies-with-the-sea]], [[track:chain-of-prospit]], [[track:pumpkin-tide]], [[track:black]], [[track:octoroon-rangoon]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:dupliblaze-comagma]], [[track:miracles]], [[track:squiddles]], [[track:tentacles]], [[track:squiddles-in-paradise]], [[track:catchyegrabber-skipper-plumbthroats-song]], [[track:plumbthroat-gives-chase]], [[track:squiddles-the-movie-trailer-the-day-the-unicorns-couldnt-play]], [[track:carefree-princess-berryboo]], [[track:mister-bowman-tells-you-about-the-squiddles]], [[track:let-the-squiddles-sleep-end-theme]], [[track:friendship-aneurysm]], [[track:gamebro-original-1990-mix]], [[track:i-dont-want-to-miss-a-thing]], [[track:gaia-queen]], [[track:nic-cage-song]], [[track:arisen-anew]], [[track:chaotic-strength]], [[track:the-blind-prophet]], [[track:cobalt-thief]], [[track:your-universe]], [[track:temporal-shenanigans]], [[track:squiddle-song]], [[track:battle-brotocol]], [[track:busting-makes-me-feel-good]], [[track:im-a-member-of-the-midnight-crew-post-punk-version]], [[track:frustracean]], [[track:creata]], [[track:you-killed-my-father-prepare-to-die]], [[track:ascend]], [[track:renewed-return]], [[track:broom-temperature]], [[track:frondly-warning]], [[track:exclusion-zone]], [[track:the-leaving]], and [[track:four-kids-and-a-game-they-played-together]]
+    - added the unlisted bonus track [[track:its-good-to-see-you-again]] to [[album:one-year-older]]!
+    - added commentary flavor texts based on original bandcamp pages (also courtesy Niklink) to these albums: [[album:mobius-trip-and-hadron-kaleido]], [[album:the-wanderers]], [[album:prospit-and-derse]], [[album:cherubim]], and [[album:hiveswap-friendsim]]
+    - added full commentary for [[track:rise-of-the-denizens]] from [[album:lofam2]]!
+    - added better resolution track art for [[track:vagabounce-remix]] (leaving [[album:the-wanderers]] with complete high-resolution track art!)
+    - added [[track:i-dont-want-to-miss-a-thing-aerosmith]] to the feature list of [[flash:338]]
+    - added tracks from [[album:hiveswap-act-1-ost]] and [[album:hiveswap-act-2-ost]] to the new flash pages [[flash:hiveswap-act1]] and [[flash:hiveswap-act2]], which also include contributor credits (art, animation, etc)
+    - changed the color of the [[album:hiveswap-friendsim]] album to match the Flashes &amp; Games section for that game
+    - gave the Hiveswap Friendsim flash thumbnails a fresh coat of paint to match Pesterquest, and added unofficial track art for tracks featured in Pesterquest courtesy of tempest2k
+    - fixed the bandcamp link for [[album:hiveswap-act-1-ost]] and added the missing bandcamp link for [[album:homestuck-vol-10]]
+    - fixed the missing track art for [[track:the-mechanism]]
+    - fixed a bunch more typos in commentary, particularly for albums [[album:one-year-older]], [[album:lofam2]], and [[album:homestuck-vol-10]]
+    - fixed a typo which was keeping [[track:toccata-and-fugue-in-d-minor]] from showing up in the reference list of [[track:pipeorgankind]]
+    - fixed a typo which was keeping [[track:tfw-another-james-roach-track]] from showing up in the feature list of [[flash:fs-vol6]]
+    - fixed typos which were messing up the durations of [[track:elegy-for-a-thief-dreamscape-remix]] and [[track:i-dont-want-to-miss-a-thing]]
+    - removed a duplicate youtube link for [[track:split-reality]]
+    - added credit links to these artists: [[artist:asiul]], [[artist:dallas-ross-hicks]], [[artist:david-decou]], [[artist:david-dycus]], [[artist:dawn-davis]], [[artist:digidigi66]], [[artist:dodostad]], [[artist:elanor-pam]], [[artist:erik-scheele]], [[artist:fenkko]], [[artist:first-turn-fold]], [[artist:gabe-stilez]], [[artist:hanni-brosh]], [[artist:ian-white]], [[artist:paradiddlesjosh]], [[artist:james-roach]], [[artist:jn-wiedle]], [[artist:kevin-grant]], [[artist:kitsu]], [[artist:kurimja]], [[artist:koukouvayia]], [[artist:leslie-hung]], [[artist:lynnai-hicks]], [[artist:marcus-carline]], [[artist:mark-j-hadley]], [[artist:max-wright]], [[artist:michael-guy-bowman]], [[artist:molly-gur]], [[artist:plumegeist]], [[artist:rah-bop]], [[artist:seth-peelle]], [[artist:shannon]], [[artist:soju]], [[artist:sukka]], [[artist:tavia-morra]], [[artist:temmie-chang]], [[artist:tensei]], [[artist:the-everlasting-ash]], [[artist:thomas-ferkol]], [[artist:toastyglow]], [[artist:will-kommor]], [[artist:willow-ascenzo]], [[artist:pixelseph]], [[artist:killian-ng]], [[artist:willow-ascenzo]], [[artist:zilon]], [[artist:zowerlemon]]
+    - added a bunch of new artist pages for those whose contributions are showing up on the wiki for the first time (e.g. several contributors to [[flash:hiveswap-act1]])

@@ -1,0 +1,33 @@
+Wiki Update: Allan, if you would
+Date: May 4, 2024
+---
+Section: additions
+Changes: |-
+    - added high-res art across many albums added to the wiki between 2019 and 2021, including: [[group:homestuck-gaiden]], [[group:casual-sunday]], [[group:undertale-and-deltarune]], [[group:cristata]], [[group:funk-mclovin]], [[group:michael-guy-bowman]], [[group:tempest2k]], [[group:what-is-lost-in-the-mines]], [[album:the-baby-is-you]], [[album:rust-apocalypse]], [[album:the-genesis-project-vol-1]], [[album:theres-no-place-like-home]], [[album:entertaining-sound]], [[album:exceptis-excipiendis]]
+    - added wallpapers to [[album:empyreal-rhapsody]], [[album:skaian-synthesis]], [[album:album-of-stories-and-imagination]], and [[album:riddle-of-dixy-path-of-mind-ost]], (thanks, Jebb!)
+    - added Bandcamp release names for [[track:another-chance]], [[track:under-the-hat]], [[track:mother-piano]], [[track:old-steps]], [[track:how-it-could-have-gone]], [[track:alternate-recipe]], [[track:heavy-snaking]], and [[track:spooktune]], and album download names for [[track:spiders-claw]], [[track:staring]], [[track:keepers]], [[track:theme]], [[track:walls-covered-in-blood-dx]], [[track:friendship-aneurysm]], [[track:pondsquatter-live-chamber-version]], and [[track:frogsong]] (thanks, Lilith!)
+    - added [[flash:riddle-of-dixy-path-of-mind]] game (thanks, Jebb!)
+    - updated [[album:what]] with new artwork (circa 2021-2023)
+---
+Section: data fixes
+Changes: |-
+    - fixed listening link for [[track:the-academy]] (was accidentally same link as [[track:your-dorm-room]]; thanks, ruby!)
+    - fixed various tracks referencing [[track:the-academy]] instead of [[track:south-province]], including: [[track:battle-titan]], [[track:a-new-power-for-your-ride]], [[track:alfornada]], [[track:the-gate-opens]], [[track:battle-koraidon-miraidon]], [[track:the-way-home]], [[track:get-a-little-more-fun-out-of-this-adventure]], [[track:celestial-toby-fox]] (thanks, ruby!)
+    - fixed [[track:negastrife]] not referencing [[track:mother]] (thanks, Lilith!)
+    - fixed [[track:starfall]] not sampling [[track:ascend]] (in addition to referencing it; thanks, ruby, Makin!)
+    - fixed [[track:to-the-great-crater-of-paldea]] not referencing [[track:south-province]] (in addition to [[track:the-academy]]; thanks, ruby!)
+    - fixed [[track:surrural-anthology-i]] being tagged with [[tag:lotam-desynced]] twice (thanks, Jebb!)
+    - fixed [[artist:dvojka]] having some credits under another name (thanks, Jebb!)
+    - fixed originally considered name and commentary being placed on [[track:echobo-colors-mayhem-vol-1]] instead of [[track:vvisko-wwisko]] (thanks, Jebb!)
+    - added [[artist:ryo42]] to artwork credits for [[album:riddle-of-dixy-path-of-mind-ost]] (thanks, Jebb, Xszelor!)
+    - added [[tag:tarlan-riddle-of-dixy]] tag to [[album:riddle-of-dixy-path-of-mind-ost]] (thanks, Jebb!)
+    - improved colors for [[group:desynced]] tags [[tag:auranue-desynced|Auranue]], [[tag:layssah-desynced|Layssah]], [[tag:nelrith-desynced|Nelrith]], [[tag:odelia-desynced|Odelia]], [[tag:pollyon-desynced|Pollyon]], [[tag:romelia-desynced|Romelia]], [[tag:simsei-desynced|Simsei]], and [[tag:tsanzer-desynced|Tsanzer]] (thanks, Jebb!)
+    - improved commentary formatting in [[track:stress]] (thanks, Lilith!)
+---
+Section: directory changes
+Changes: |-
+    <details><summary><b>Toggle Directorylog</b> (3 changes)</summary>
+    - changed directory of [[track:title-screen-jailbreak]] from <code>title-screen</code> to <code>title-screen-jailbreak</code>
+    - changed directory of [[track:a-song-about-a-circle-constant-entertaining-sound]] from <code>a-song-about-a-circle-constant-jan-misali</code> to <code>a-song-about-a-circle-constant-entertaining-sound</code>
+    - changed directory of [[album:ava-original-soundtrack]] from <code>ava</code> to <code>ava-original-soundtrack</code>
+    </details>

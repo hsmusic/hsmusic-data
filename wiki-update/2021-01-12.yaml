@@ -1,0 +1,108 @@
+Wiki Update: traversing fandom
+News Entry: Traversing Fandom
+Main Update: true
+Date: January 12, 2021
+---
+Section: site changes
+Changes: |-
+    - added wallpaper and refined site layout
+        - [[root:media/misc/changelog/bg-january.jpg|the current wallpaper]] is pulled from [More from Homestuck](https://www.homestuck.com/info-more) and might be changed or expanded upon in future updates
+        - a margin has been applied to the whole site layout, centering content to better visually balance it
+        - "skip to content" and "skip to sidebar" buttons have been added, and show up when navigating using the tab key
+    - tweaked the homepage with updated links, e.g. to new [[static:discord|Discord]] and [[static:donate|Donate]] pages, and updated wording across existing info pages
+---
+Section: albums
+Changes: |-
+    - added a wide variety of new albums, summarized below
+    - from [[group:unofficial-mspa-fans]]:
+        - [[album:weird-puzzle-tunes]]
+        - [[album:vaporwave-2016]]
+        - [[album:xenoplanetarium]]
+        - [[album:gristmas-carols]]
+        - [[album:cosmic-caretakers]]
+        - [[album:moons-of-theseus]]
+        - [[album:friendsymphony]]
+    - from [[group:oceanfalls]]:
+        - [[album:oceanfalls-vol-1]]
+        - [[album:oceanfalls-vol-2]]
+        - [[album:contritum]]
+    - from [[artist:tee-vee]]:
+        - [[album:theres-no-place-like-home]]
+    - from [[artist:toby-fox]]:
+        - [[album:undertale-soundtrack]]
+        - [[album:deltarune-ch1-ost]]
+        - [[album:the-baby-is-you]]
+    - from [[artist:tempest2k]]:
+        - [[album:inhospitable-delisted]]
+---
+Section: groups
+Changes: |-
+    - new feature! groups are collections of fan albums, organized under a dedicated page for an external group or project.
+    - groups exist in three categories: <i>HSMusic</i>, <i>Fan-musician groups</i>, and <i>Projects beyond Homestuck</i>
+        - HSMusic: overall structure for the wiki, containing [[group:official]] and [[group:fandom]], into which nearly all albums are categorized
+        - Fan-musician groups: collaborative groups of fan-musicians releasing music under a single name, e.g. [[group:casual-sunday]] and [[group:unofficial-mspa-fans]]
+        - Projects beyond Homestuck: groups centered around a particular work, usually inspired by Homestuck, e.g. [[group:undertale-and-deltarune]] and [[group:oceanfalls]]
+    - groups each have two "tabs" or views: Info and Gallery
+        - Info: this displays the full description for a group, and then a chronological list of albums (and their years of release)
+        - Gallery: replacing the previously dedicated pages for official and fandom albums, this displays a list of albums organized with their latest first, and has a short info line summarizing stats about the group
+    - miniature group "infoboxes" are displayed on the right side of album and track pages
+        - this design (alongside much of this update's layout changes) is inspired by the site layout of Bandcamp
+        - contains a short catchline introducing the group, links to visit the external homes of the group (e.g. its own Bandcamp or project links), and chronology links to navigate the previous and next albums within the group
+        - displayed at the bottom of the page in compact layout (e.g. when on a mobile device)
+---
+Section: artist pages
+Changes: |-
+    - every artist who has contributed track or album cover art, e.g. [[artist:elanor-pam]], now has a gallery page; these are much the same as tag gallery pages but for artists
+---
+Section: track pages
+Changes: |-
+    - YouTube links for individual tracks no longer attach their playlist, because this was deemed Mostly Just Impractical in discussion
+---
+Section: listings
+Changes: |-
+    - added six new listings, for the new groups feature:
+        - [[listing:groups/by-name|Groups - by Name]]
+        - [[listing:groups/by-category|Groups - by Category]]
+        - [[listing:groups/by-albums|Groups - by Albums]]
+        - [[listing:groups/by-tracks|Groups - by Tracks]]
+        - [[listing:groups/by-duration|Groups - by Duration]]
+        - [[listing:groups/by-latest-album|Groups - by Latest Album]]
+    - adjusted the order of existing listings, to make them hopefully a little easier to navigate
+    - renamed the "Tracks - in Flashes &amp; Games (by First Feature)" listing to "... (by Flash)" and [[site:list/tracks/in-flashes/by-flash/|considerably restructured it]], effectively making it into a compact summary of the [[site:flash/|Flashes &amp; Games]] portion of the site
+---
+Section: data changes
+Changes: |-
+    - removed ?list parts from all track links
+    - added new album and group data (see respective above changelog sections)
+    - miscellaneous changes to [[album:unreleased-tracks]] (thanks for PQ and Hiveswap changes go to foreverFlummoxed, Niklink, and tempest2k!)
+        - added new tracks [[track:phat1]] through [[track:phat16]], [[track:flute-refrain]], [[track:miracles-icp]], and [[track:sick-bleats]], and moved existing tracks [[track:captain-planet-and-the-planeteers-end-title]], [[track:ghostbusters]], [[track:i-dont-want-to-miss-a-thing-aerosmith]], and [[track:heros-growth]], to the <i>Tracks featured in Homestuck</i> section
+        - added new tracks [[track:friendvangelion-rebuild]], [[track:its-a-cover-of-made-of-time]], and [[track:its-nothing]] to the <i>Tracks featured in Pesterquest</i> section
+        - added [[track:its-a-cover-of-made-of-time]] to the reference list of [[track:yeah-it-is-collection]]
+        - moved [[track:seer-of-same-color-scalemate-combos]] from <i>Other tracks originating outside of Homestuck</i> to <i>Other Homestuck tracks</i>
+        - renamed "DRONE_PQ" to [[track:drone-pesterquest]] and gave it track art from [[artist:tempest2k]]'s [PESTERQUEST OST](https://twitter.com/nueclear333/status/1331330835245535232) collection
+        - renamed "THIS TIME ITS ERIDAN (I FORGOT WHAT I NAMED THIS)" to [[track:this-time-its-eridan|Busker's Theme mk II]] and added commentary from James Roach's tumblr
+        - removed a bunch of tracks that were moved into [[album:undertale-soundtrack]]
+    - miscellaneous changes to data for [[site:flash/|Flashes &amp; Games]]
+        - added new "flash" page [[flash:2672]], featuring [[track:how-do-i-live]]
+        - added new "flash" page [[flash:2818]], featuring [[track:miracles-icp]]
+        - added [[track:2chords]] to [[flash:pq-vol5]], [[flash:pq-vol7]], [[flash:pq-vol9]], [[flash:pq-vol10]], [[flash:pq-vol11]], [[flash:pq-vol12]], [[flash:pq-vol13]], and [[flash:pq-vol14]]
+        - added [[track:its-a-cover-of-made-of-time]], [[track:its-nothing]], and [[track:end-of-friendvangelion]] to [[flash:pq-vol8]]
+        - replaced [[track:sburban-jungle]] with [[track:sburban-jungle-brief-mix]] in [[flash:137]]
+        - replaced "pseudo-tracks" with actual, credited tracks in [[flash:338]], [[flash:769]], [[flash:3438]], and [[flash:4113]]
+        - replaced the individual component tracks with [[track:cascade]] in [[flash:4109]]
+        - removed "Loading..." easter egg from [[flash:5426]], but not before [archiving it](https://web.archive.org/web/20210111224459/https://hsmusic.wiki/flash/5426/) for you, personally
+        - interweaved tracks in [[flash:hiveswap-act2]] according to their position in the game (thanks, FF!)
+    - added [[track:austin-atlantis]] to the reference list of [[track:the-rarest-and-most-interpretive-dance-meatcabre]]
+    - added [[track:limelight]], [[track:light-in-the-darkness]], and [[track:glide-lofam4]] to the reference list of [[track:come-diverging-delicacies]]
+    - added [[track:cross-examination]] to the reference list of [[track:ticket-to-ride-down-with-the-clown]]
+    - added [[track:ticket-to-ride-rusty]] to the reference list of [[track:service-car]] (reflecting it already being in the re-release track [[track:shell-game]])
+    - added [[track:amen-brother]] and [[track:your-best-nightmare]] to the reference list of [[track:galactic-princess-selene-opening-1]]
+    - added link to the [Vol. 5 Anthology Presentation](https://www.youtube.com/watch?v=JyxgBfhPEG8) to commentary of [[album:homestuck-vol-5]]
+    - added art tags for the cover of [[album:hiveswap-friendsim]]
+    - added blood content warning for the cover of [[track:game-over]]
+    - attributed cover of [[album:homestuck-vol-6]] to [[artist:andrew-hussie]] rather than [[artist:homestuck]]
+    - updated the playlist link for [[album:hiveswap-friendsim]] to better reflect its official track listing, and added youtube links to [[track:yall-know-i-just-do-the-music-right]] and later tracks
+    - updated the link for [[track:problem-sleuth-theme]], since the original upload went offline (thanks to the uploader for messaging me about this!)
+    - fixed the lyrics of [[track:ascend]] mistakenly showing up in [[track:starfall]] instead
+    - miscellaneous artist name fixes
+    - added [[tag:shrek]]

@@ -1,0 +1,27 @@
+Wiki Update: rainy day repairs
+Date: April 27, 2023
+---
+Section: additions
+Changes: |-
+    - added bonus track [[track:bequest-a-nameless-inheritance]] to [[album:a-nameless-inheritance]]
+    - added bonus tracks [[track:glide-what]] and [[track:wake-what]] to [[album:what]]
+---
+Section: data fixes
+Changes: |-
+    - fixed Bandcamp link for [[album:vinculum-vitae]] (thanks, Celeste!)
+    - added art tags to [[album:vinculum-vitae]], [[album:land-of-hue-and-duels-trollside]], [[track:something-familiar]], and [[track:yet-cool-and-new]]
+    - replaced reference to [[track:doctor]] with [[track:penumbra-phantasm]] in [[track:thief-of-space]]
+    - fixed lyric formatting in [[track:im-gonna-love-you-just-a-little-more-baby]] and [[track:supermassive-black-hole]]
+    - tweaked contributor and artist credits in a few tracks
+        - [[track:stress]]: fixed mirroring its artist list as contributors, as well as erroneously listing [[artist:buzinkai]] (who composed the original track, [[track:five-four-stress]])
+        - [[track:feel-alive]]: removed contributor credits and moved contribution details to artist field
+        - [[track:solar-voyage]] and [[track:renewed-return]]: removed "composition" credits from [[artist:marcy-nabors]] (implied from the artist field)
+---
+Section: bug fixes
+Changes: |-
+    - fixed a number of issues with "latest first" chronological sorting
+        - this mainly means artists' cover gallery pages are sorted properly, again (they've been broken so many times)
+        - main new change: "latest first" chronological sorts still keep dateless items, such as tracks under [[group:additional-tracks]], at the end of the list, as intended
+    - fixed chronologically sorting flashes moving flashes released on the same day out of place with each other
+    - fixed cover art in "sticky" page heading having gone totally missing!
+        - this was a code error introduced in early March - it was supposed to only make cover art with content warnings show up in the sticky heading after the main cover was revealed by the user clicking on it, but accidentally made all covers with art tags be hidden from the heading instead, oops

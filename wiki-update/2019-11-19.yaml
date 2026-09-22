@@ -1,0 +1,8 @@
+Wiki Update: grouped artist listings
+Date: November 19, 2019
+Changes: |-
+    - artist page credit listings have been sigificantly restructured ([[root:media/misc/changelog/old-artist-page.png|before]], [[root:media/misc/changelog/new-artist-page.png|after]])
+    - contributions are now grouped by album (or more specifically, by release date, which is noteworthy in the case of [[album:homestuck-vol-1-4]], which was originally released over a period of four distinct dates, plus one for the final compiled album release)
+    - because it's easy to see where tracks are referenced now, dim contribution lines (showing tracks which reference a track by the specific artist, but were not otherwise contributed to by them) have been removed
+    - the lists aren't numbered anymore because, with this grouping, it was sort of ambiguous whether that referred to a track's position in the album or if it was a continuous counter of the artist's contributions (it was the latter); both such counters can now be displayed by holding still the cursor over a contribution line for a moment
+    - removed a few referenced-track contributions i'd missed switching to the new format (distinct reference lists) earlier

@@ -1,0 +1,146 @@
+Wiki Update: Snow Pollen Appreciation Station
+News Entry: Snow Pollen Appreciation Station
+Main Update: true
+Date: June 12, 2024
+---
+Section: site changes
+Changes: |-
+    - completely new search feature, present at top of sidebar or page
+        - runs completely in-browser, so queries never leave your device and are typically instantaneous after an initial automatic, couple-megabyte download
+        - currently only matches exact words (no "stemming" yet), like putting quotation marks around every word in other search engines
+        - search results include albums, tracks, artists, groups, flashes, and art tags
+        - most queries require entering at least one word from the name of what you're looking for, with additional words filtering by artist, album, group, or art tags
+        - keywords like "track", "album", "artist" etc filter final results to the specified kind
+        - search results remain visible while navigating pages, disappear when dismissed; an active search generally collapses and deemphasizes other boxes in the sidebar though they can still be used like normal
+    - chronology links (in track nav bar) now show "across this wiki", switches to "within this album" when clicked; always display even if an artist only has one contribution (across the wiki or album)
+    - group links now show below track nav bar, not just album nav bar, when browser is narrow; just shows group name, no previous/next
+    - dates in commentary entry headings are now aligned with the right edge ([[media:misc/changelog/commentary-date-old.png|old]], [[media:misc/changelog/commentary-date-new.png|new]])
+    - "View additional files" line no longer lists entry names ([[media:misc/changelog/additional-files-jump-old.png|old]], [[media:misc/changelog/additional-files-jump-new.png|new]]); section heading no longer shows number of files ([[media:misc/changelog/additional-files-heading-old.png|old]], [[media:misc/changelog/additional-files-heading-new.png|new]])
+    - various improvements for sticky subheading, to help identify where you're scrolled to on a page: track subheadings don't double the track name; "tracks that reference/sample this one" headings show the group name; albums' track section headings show just the name, not duration; album commentary page shows "(album commentary)" for comemntary section of album itself
+    - many, many internal improvements, as usual aiding data work and code debugging, serving as groundworks for upcoming features, cleaning up crustier code, and so on
+---
+Section: bug fixes
+Changes: |-
+    - fixed [[listing:artists/by-duration]] double-counting tracks where an artist is both "artist" and "contributor"
+    - fixed [[listing:artists/by-group]] showing contribution counts across entire wiki, rather than within each group
+    - fixed [[listing:tracks/by-date]] including tracks without dates (at bottom, and displaying as though from [[date:12/31/1969]])
+    - fixed "Sorting by date." - "Sorting by count." switcher showing on group contributions table when none of an artist's tracks have any duration
+    - fixed italicized external link arrows in commentary headings ([[media:misc/changelog/italicized-external-link-old.png|old]], [[media:misc/changelog/italicized-external-link-new.png|new]])
+---
+Section: albums
+Changes: |-
+    - <b>album addition credits:</b>
+        - thanks to [[artist:makin|Makin]] for adding the soundtracks for the fangames [[album:hammerkind-ost]] and [[album:sburbmon-ost]]
+        - thanks to [[artist:jebb|Jebb]] for adding the releases by [[artist:falkkone]], [[artist:richaadeb]], and [[artist:dvojka]], as well as [[album:on-the-rox]], [[album:terminal-mayonakas-theme]], and [[album:love-letters]]
+        - thanks to [[artist:lilithtreasure|Lilith]] for adding [[album:the-strider-mixtape]] and [[album:the-nobles]], as well as [[album:puppeteer-beforus-single]], [[album:versus-hardmode-remix]], and the solo albums by [[artist:ducky-senpai]], plus initial work on [[album:stlap2]] and [[album:stlap3]]
+        - thanks to [[artist:foreverflummoxed|FF]] for initial work and much research behind all [[group:redditstuck]] additions
+        - thanks to [[artist:ruby]] for adding ever-more [[group:toby-fox]] works, including [[album:pale-rain]], [[album:im-your-treasure-box]], and [[album:unknown-diva]]
+    - added [[album:hammerkind-ost]] by [[artist:stephen-maxwell]]!
+    - added [[album:bowmania-gordian]] by [[artist:gordian]]!
+    - added [[album:intense-symphonic-metal-covers-vol-16]] by [[artist:falkkone]]!
+    - added [[album:sburbmon-ost]] by [[artist:twix-stix]]!
+    - added [[album:james-roach-collection]] by [[group:james-roach]]!
+    - added [[album:puppeteer-beforus-single]] by [[artist:thesketchqueen]]!
+    - added [[album:versus-hardmode-remix]] by [[artist:ludicrousfalcon]]!
+    - added [[album:terminal-mayonakas-theme]] by [[artist:pascal-van-den-bos]]!
+    - added [[album:noirscape]] by [[artist:witchs-cadence]]!
+    - added [[album:pale-rain]] by [[artist:imase]], [[artist:punpee]], and [[group:toby-fox]]!
+    - added [[album:im-your-treasure-box]] by [[artist:houshou-marine]]!
+    - added [[album:unknown-diva]] by [[artist:amane-kanata]]!
+    - added [[album:love-letters]] by [[group:circlejourney]]!
+    - added albums from [[group:redditstuck]]!
+        - added [[album:redditstuck-vol-1]]!
+        - added [[album:redditstuck-vol-2]]!
+        - added [[album:hypertonic-dreams]] by [[artist:jj-pollution]]!
+        - added [[album:redditstuck-vol-3]]!
+        - thanks to Gordian, Christofferoff, and Bin for lots of help adding and learning about these albums!
+    - added albums from [[group:the-paradox-music-team]]!
+        - added [[album:stlap2]]!
+        - added [[album:beforusbound]]!
+        - added [[album:the-strider-mixtape]] by [[artist:pascal-van-den-bos]]!
+        - added [[album:the-nobles]] by [[artist:rowyn-berlan]]!
+        - added [[album:on-the-rox]] by [[artist:rainy]]!
+        - added [[album:stlap3]]!
+        - added [[album:the-homestuck-strife-project-vol-1]] by [[artist:pascal-van-den-bos]]!
+        - thanks to Pascal and the Paradox Music Team for general great assistance adding these albums!
+    - added solo albums by [[artist:ducky-senpai]]!
+        - added [[album:the-planets]]!
+        - added [[album:ad-astra]]!
+    - added various singles by [[artist:richaadeb]]!
+        - added [[album:black-richaadeb]]!
+        - added [[album:heir-of-grief-richaadeb]]!
+        - added [[album:dance-of-thorns-richaadeb]]!
+        - added [[album:oppa-toby-style-richaadeb]]!
+    - added solo albums by [[group:xszelor]] / [[artist:dvojka]]!
+        - added [[album:alternian-misadventures-volume-1]]!
+        - added [[album:alternian-misadventures-volume-2]]!
+---
+Section: other additions
+Changes: |-
+    - updated [[album:brobots]] to align with new SoundCloud release (thanks, Jebb!)
+    - marked [[track:yeah-it-is-soundtrack]] ([[album:pesterquest-soundtrack]]) newly as a rerelease
+    - marked [[track:black-electro-swing-remix-lofam5]] ([[album:lofam5]]) newly as a rerelease
+    - added commentary from [[artist:michael-guy-bowman]] (and co, from Bowmantown, with permission) to [[track:explore]], [[track:lunar-eclipse]], [[track:hauntjam]], [[track:sburban-jungle]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:i-dont-want-to-miss-a-thing]], [[track:forever]], [[track:chain-of-prospit]], [[track:ruins-rising]], [[track:ocean-stars-falling]], [[track:busting-makes-me-feel-good]], [[track:mechanic-panic]], [[track:old-buggy-now]], [[track:noun-ithaca]], [[track:roll-with-the-punches]], [[track:tribes-hush]], [[track:hush]], and [[track:crimesters-credits]] (thanks, Celeste, Bowman, Liza, Ucklin!)
+    - added commentary from [[artist:solatrus]] to [[flash:1720]] (thanks, Lilith!)
+    - added [[flash-act:redditstuck]] flashes (thanks, FF!)
+    - added [[flash:hammerkind]] game (thanks, Makin!)
+    - added [[flash:sburbmon]] mod (thanks, Makin!)
+    - added [[flash:strife-project]] game
+    - added [[flash:catharsis-bugflower413]] animation
+    - added MIDI recreations from [[album:sburbmon-ost]] across the original tracks' official releases (thanks, Makin!)
+    - added listening links to streaming platforms across discographies of [[group:circlejourney]], [[group:jamie-paige]], [[group:michael-guy-bowman]], as well as albums [[album:psycholonials]], [[album:class-act]], [[album:single-christmastime-is-here-lo-fi]], [[album:requiem-for-a-homestuck]], and [[album:funkstuck-24]]
+    - added YouTube listening links, commentary, and additional names to [[album:le-canrivalry-album-is-mandatory]] (thanks, vriska/leo!)
+    - added YouTube listening links, commentary, and additional names to [[track:the-fall]], [[track:soliloquy]], [[track:sand-molding]], [[track:unrequited]], and [[track:new-irish-stew]]
+    - added additional files to [[album:coloUrs-and-mayhem-universe-a]], and commentary paragraph to [[track:purple-tyrant]], to do with album bonus files before plagiarized tracks were removed and replaced
+    - added additional name (Spotify) to [[track:dwelling-among-the-dream-bubbles]] (thanks, Lilith!)
+    - added additional name (Bandcamp) to [[track:anubis-septicflesh]] (thanks, Lilith!)
+    - added lyrics to [[track:alices-tango-you-will-be-mine]] (thanks, Jebb!)
+    - added citations for commentary on [[track:ruins-with-strings]], [[track:despot]], and [[track:three-in-the-morning-aftermath]] (thanks, Lilith!)
+    - added citations for commentary across [[album:junior-recital]] and [[album:senior-recital]]
+    - added current details about "Music in Circles" album to [[track:new-irish-stew]]
+    - moved [[track:dance-of-thorns-richaadeb]] from [[album:more-homestuck-fandom]] into single release (thanks, Jebb!)
+    - moved various tracks from [[album:more-homestuck-fandom]] into respective albums, including: [[track:conflict]], [[track:gnade-redditstuck]], [[track:malediction]], [[track:wanderlust-redditstuck]], [[track:miasmic-decay]], [[track:distortion-navigator]], [[track:spritely-gardener]], [[track:windwielder]], [[track:all-alone]], [[track:fate-of-the-heir]], [[track:gentle-heat]], [[track:dwelling-among-the-dream-bubbles]], [[track:blankest-stare]], [[track:heart-beat]], [[track:brobot-scrimmage]], [[track:good-morning-dirk]], [[track:jittery-optimist]], [[track:rematch-strider-mixtape]], [[track:snowfall-stlap3]]
+---
+Section: data fixes
+Changes: |-
+    - fixed [[track:bowmaniasmr-roleplay-intentional-part-one]] referencing [[track:sburban-jungle]] and [[track:MeGaLoVania]], and not sampling [[track:mutual-addiction]]
+    - fixed [[track:bowmaniasmr-roleplay-intentional-part-two]] referencing [[track:chorale-for-jaspers]] and [[track:haltmann-works-co-theme-song]], not referencing [[track:radiation-is-now-on-youtube]], and not sampling [[track:chorale-for-toby]], [[track:according-to-keikaku]], [[track:super-smash-bowman-brawl]], and [[track:ch-tingle-was-her]]
+    - fixed [[track:escapade-desynced]] not sampling [[track:fear-of-the-heavens]] and [[track:im-a-member-of-the-midnight-crew]]
+    - fixed [[track:the-dreamer-and-the-dream-lofam5]] ([[album:lofam5]]) not referencing [[track:the-dreamer-and-the-dream]] ([[album:redditstuck-vol-2]])
+    - fixed [[track:collapse-reprise]] not referencing [[track:collapse-stlap3]]
+    - fixed [[track:used-to]] not referencing [[track:all-star]] or sampling [[track:somebody-that-i-used-to-know]], [[track:power-kanye-west]], [[track:gods-plan]], [[track:super-mario-in-real-life]], [[track:september-earth-wind-fire]], [[track:all-i-want-for-christmas-is-you]], [[track:call-me]], and [[track:message-in-a-bottle]] (thanks, SpilledCereals, Jebb!)
+    - fixed [[track:broseph-bash]] not referencing [[track:vinesauce-joel-voices-of-the-void-part-5]] (thanks, Jebb!)
+    - fixed [[track:deliverance-riddle-of-dixy]] ([[album:riddle-of-dixy-path-of-mind-ost]]) not referencing [[track:deliverance-alternian-misadventures]] ([[album:alternian-misadventures-volume-1]]; thanks, Jebb!)
+    - fixed [[track:keys-of-a-piano]] not referencing [[track:home-keys-of-a-piano]] (thanks, Lilith!)
+    - fixed [[artist:adelaide-killigan]] having some credits under another name
+    - fixed [[artist:nice-wizard]] having some credits under another name (thanks, Rosetta Leijonde!)
+    - added [[artist:ash-taylor]] to credits for [[track:funkstuck-24]] (thanks, EtchJetty!)
+    - added [[artist:will-ecker]] to credits for [[track:the-fall]]
+    - added [[artist:brett-andrews]] to credits for [[track:soliloquy]]
+    - added [[artist:septicflesh]] to credits for [[track:anubis-septicflesh]] (thanks, Lilith!)
+    - added [[tag:luke-redditstuck]] tag to [[track:theory-proposal-ness-is-actually-inverted]], [[track:death-by-eyewear]], and [[track:conflict-guitarkind]] (thanks, FF!)
+    - added [[tag:bkew-redditstuck]] tag to [[track:death-by-eyewear]] and [[track:conflict-guitarkind]] (thanks, FF!)
+    - added [[tag:skaia]] tag to [[track:stargazer-the-green-box-set-1]], [[tag:alternia]] tag to [[track:nepsim]], and [[tag:lolcat]] tag to [[track:debt-to-be-paid]]
+    - added [[tag:rabbit]] and [[tag:lord-english]] tags to [[album:muse-of-net]] (thanks, FF!)
+    - added [[tag:lord-noir-desynced]] tag, replacing [[tag:masky-desynced]], to [[track:well-be-right-back]] and [[track:haymaker-anthology-i]]
+    - fixed typo in credits for [[flash:pq-vol11]] (was "prorgamming", now "programming")
+    - removed release date details from [[track:celestial-toby-fox]] (until addressing individual-track release dates more broadly)
+---
+Section: directory changes
+Changes: |-
+    <details><summary><b>Toggle Directorylog</b> (13 changes)</summary>
+    - changed directory of [[track:yeah-it-is-soundtrack]] from <code>yeah-it-is</code> to <code>yeah-it-is-soundtrack</code>
+    - changed directory of [[track:wanderlust-redditstuck]] from <code>wanderlust-canmt</code> to <code>wanderlust-redditstuck</code>
+    - changed directory of [[album:stlap]] from <code>stable-time-loops-and-paradoxes</code> to <code>stlap</code>
+    - changed directory of [[track:disc1-stlap]] from <code>disc-1-stlap</code> to <code>disc1-stlap</code>
+    - changed directory of [[track:disc2-stlap]] from <code>disc-2-stlap</code> to <code>disc2-stlap</code>
+    - changed directory of [[track:disc3-stlap]] from <code>disc-3-stlap</code> to <code>disc3-stlap</code>
+    - changed directory of [[track:disc4-stlap]] from <code>disc-4-stlap</code> to <code>disc4-stlap</code>
+    - changed directory of [[track:rematch-strider-mixtape]] from <code>rematch-paradox-music-team</code> to <code>rematch-strider-mixtape</code>
+    - changed directory of [[track:snowfall-stlap3]] from <code>snowfall-paradox-music-team</code> to <code>snowfall-stlap3</code>
+    - changed directory of [[track:the-dreamer-and-the-dream-lofam5]] from <code>the-dreamer-and-the-dream</code> to <code>the-dreamer-and-the-dream-lofam5</code>
+    - changed directory of [[track:vexation-paradox-music-team]] from <code>vexation</code> to <code>vexation-paradox-music-team</code>
+    - changed directory of [[track:a-song-about-a-circle-constant-entertaining-sound]] from <code>a-song-about-a-circle-constant-jan-misali</code> to <code>a-song-about-a-circle-constant-entertaining-sound</code>
+    - changed directory of [[album:ava-original-soundtrack]] from <code>ava</code> to <code>ava-original-soundtrack</code>
+    </details>
+

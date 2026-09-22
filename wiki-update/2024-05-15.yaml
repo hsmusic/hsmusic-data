@@ -1,0 +1,24 @@
+Wiki Update: midmay mayhem
+Date: May 15, 2024
+---
+Section: additions
+Changes: |-
+    - added commentary (Discord) from [[artist:maukustus]] to [[album-commentary:the-twilight-reverie]] (thanks, Maukustus!)
+    - added commentary (excerpt) from [[artist:toby-fox]] to [[track:megalovania-ebhh]], and commentary citations across [[album:earthbound-halloween-hack]] (thanks, leo/vriska, ruby!)
+    - added commentary (Tumblr) from [[artist:toby-fox]] to [[album:the-greatest-living-show]] (thanks, vriska/leo!)
+---
+Section: data fixes
+Changes: |-
+    - fixed [[track:the-twilight-reverie]] and [[track:the-twilight-reverie-extended-mix]] not sampling [[track:amen-brother]] (thanks, Maukustus!)
+    - fixed [[track:the-twilight-reverie-extended-mix]] referencing [[track:umbral-ultimatum]] instead of [[track:the-blind-prophet]] (thanks, Maukustus!)
+    - fixed [[track:megalovania-ebhh]] ([[album:earthbound-halloween-hack]]) not referencing [[track:gadobadorrer]]
+    - fixed [[track:battle-lorekeeper-zinnia]] not referencing [[track:the-heirs-to-eternity]] (thanks, vriska/leo!)
+    - fixed [[track:showtime-svix-mix-lofam2]] ([[album:lofam2]]) YouTube listening link pointing to upload of [[track:showtime-svix-mix|original version]] (thanks, sb0rp!)
+    - fixed mistaken lyrics in [[track:sunsetter-ska]] (thanks, vriska/leo!)
+---
+Section: directory changes
+Changes: |-
+    <details><summary><b>Toggle Directorylog</b> (2 changes)</summary>
+    - changed directory of [[track:game-over-ebhh]] from <code>game-over-earthbound-halloween-hack</code> to <code>game-over-ebhh</code>
+    - changed directory of [[track:megalovania-ebhh]] from <code>megalovania-halloween</code> to <code>megalovania-ebhh</code>
+    </details>

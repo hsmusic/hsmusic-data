@@ -1,0 +1,21 @@
+Wiki Update: afterparty cleanup
+Date: September 18, 2023
+---
+Section: other additions
+Changes: |-
+    - added YouTube listening links and album premiere stream link to [[album:lofam5a2]]
+    - added artist commentary to [[track:maybe-itll-turn-out-better-this-time]], [[track:karkat-loses-his-mind-and-learns-holy-c]], [[track:sunbumper]], [[track:sburban-juxtaposition]], [[track:celestial-company]], [[track:dance-of-storms]], and [[track:caliborns-lament]]
+    - added MIDI project files to [[track:maybe-itll-turn-out-better-this-time]] and [[track:when-the-curtains-part-lofam5a2]]
+---
+Section: data fixes
+Changes: |-
+    - [[album:lofam5a2|LOFAM5A2]] fixes (thanks to the UMSPAF crew for catching many of these!)
+        - added [[artist:jordan-sunlight]] to contributor list for [[track:yellow-yard]]
+        - added missing additional file to [[track:stargazing-with-gods]]
+        - updated artwork for [[track:yo-quiero-la-homestuck]] and [[track:versus-oblivion]]
+        - removed unavailable Bandcamp listening link for [[track:home-stuck]]
+        - updated art tags for [[track:lost-in-the-dream-bubbles]], [[track:the-imminently-deceased]], [[track:celestial-company]] and [[track:lost-memories]]
+        - fixed artist commentary for many tracks including [[track:dictator-lofam5a2]], [[track:vriskafic8ion]], [[track:flight-of-the-meteor-year-1]], [[track:ruined-singularity-lofam5a2]], [[track:lunar-solace]], [[track:yo-quiero-la-homestuck]], [[track:stuck]], [[track:when-the-curtains-part-lofam5a2]], [[track:caffeinated-jittering]], [[track:light-in-the-darkness-lofam5a2]], and [[track:lost-memories]], among others
+    - fixed [[track:secondhand-memories]] not referencing [[track:showtime-original-mix]] (thanks, Viko!)
+    - fixed [[track:green-hill-zone-canmt]] referencing... itself, instead of [[track:green-hill-zone]]
+    - fixed incorrect art tag for [[track:hauntjelly]] (thanks, Horizonseek!)

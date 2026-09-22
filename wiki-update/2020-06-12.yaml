@@ -1,0 +1,29 @@
+Wiki Update: happy birthday karkat
+Main Update: true
+Date: June 12, 2020
+---
+Section: homepage
+Changes: |-
+    - a new [[update-index:-|Changelog]] page! you are probably reading it now.
+    - two new albums: [[album:rust-apocalypse]] by Willow Ascenzo, and the follow-up to [[album:beforus]], [[album:ancestral]]!
+---
+Section: flash pages
+Changes: |-
+    - flash pages now have links at which they can be listened, besides just on homestuck.com! most importantly: links to HD recordings, so they can be watched at good resolution on any device
+---
+Section: track pages
+Changes: |-
+    - previously, all tracks required a URL to be added to the wiki; now, for tracks which don't have any links to be listened at online (but are still referenced by other tracks), they have been added alongside a message saying there aren't any listening links
+    - as such, another full pass through [NSND](https://homestuck.net/music/references.html) has been completed, and many tracks which weren't present on the wiki before have been added to the newly reorganized [[album:unreleased-tracks]] album!
+---
+Section: listings
+Changes: |-
+    - the [[site:list/all-commentary/|All Commentary]] listing page has been tweaked so that links in commentary will follow the color of the album the commentary is from
+    - the [[site:list/|listing index]] shows its list in the main content area now too, for when the sidebar is collapsed (see below!)
+---
+Section: miscellaneous
+Changes: |-
+    - a new navigation header added to every album, track, flash, and listing page, making the site considerably more usable on any device
+    - the header has links to the previous and next (or random) track/flash, and chronology links have been moved into the header too, so you don't need to scroll to the bottom of the page to access them
+    - on top of redoing the sidebar-header layout, changes to styling (collapsing the sidebar when the screen isn't very wide, for example) have made the site usable on mobile devices now!
+    - also, some changes to the way pages are generated, to make the site usable from hit command-line web browser [Lynx](https://lynx.browser.org/)

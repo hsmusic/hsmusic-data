@@ -1,0 +1,168 @@
+Wiki Update: dusty shelves
+Date: February 13, 2025
+---
+Section: site changes
+Changes: |-
+    - changed how a recent search query is remembered so that it doesn't get in the way of page or sidebar content, nor of performing a new search, but still lets you jump between reuslts quickly
+        - results are still remembered, but they're kept hidden until you click the search box again
+        - search box shows your latest query as a "placeholder", in italics; once clicked, the query is restored, and all selected, so you can quickly replace it
+        - clicking the magnifying glass will also select the entire existing query, for quick replacing, at any time
+    - added support for additional names to flashes
+    - divided "wiki editor" commentary into new subsection under artist info page, same as artworks with "edits for wiki" credits are divided, too
+    - tweaked phrasing for "tracks that reference/sample this one" sticky subheading, so that "from (group)" is displayed at the end of the heading, rather than in the middle
+    - action rows on the homepage, such as "Explore Official!" - "Explore Beyond!" - etc, and "...and many more!" under Recent Additions, are now always shown center-aligned on their own row
+---
+Section: bug fixes
+Changes: |-
+    - fixed search sometimes getting activated with a totally empty query, while clearing the input's contents
+    - fixed annotations for commentary entries on flashes, when displayed in commentary list on artist info page, "absorbing" immediately-following punctuation ([[media:misc/changelog/flash-commentary-absorb-old.png|old]], [[media:misc/changelog/flash-commentary-absorb-new.png|new]])
+---
+Section: additions
+Changes: |-
+    <!-- commentary additions (specially moved up) -->
+    - added full-album commentary, transcribed from was-included bonus track, to [[album:homestuck-for-the-holidays]] (thanks, Makin!!)
+    - added full-album commentary, transcribed from YouTube, to [[album:of-troles-and-chiptumes]] (thanks, Makin!!)
+    <!-- commentary additions (rest of 'em) -->
+    - added homextuck.xyz, YouTube commentary and citations (all re: artwork) to [[track:the-thirteenth-hour]] (thanks, Lan!)
+    - added MSPA forums commentary to [[track:MeGaLoVania]] (thanks, Rosetta Leijonde, Makin!)
+    - added missing paragraphs to early Tumblr commentary on [[track:calamity]], [[track:ocean-stars-falling]], and [[track:constant-conquest]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:bro-hop]] and [[track:we-shall-not-cease-from-exploration]] (thanks, Lilith!)
+    - added LIVE A LIVE commentary to [[track:megalovania-ebhh]] (thanks, Makin!)
+    - added Tumblr commentary to [[album:bittersweet-hilary-troiano]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:jungle-boogie]] (thanks, Lilith!)
+    - added Tumblr commentary ([[date:11/5/2018]]) to [[track:patient]] (thanks, ruby, Whisper!)
+    <!-- additional name additions -->
+    - added additional names to several tracks: (thanks, Lilith, Makin!)
+        - [[track:fool]] (Bandcamp name)
+        - [[track:ohgodboss]] (booklet name)
+        - [[track:isle-unto-thyself]] (YouTube, Spotify)
+    - added YouTube name to [[flash:bruxa-desperte]] (thanks, meulanie, Lanolin!)
+    <!-- lyric additions -->
+    - added lyrics to [[track:we-are-midnight-crew]] (thanks, Rosetta Leijonde, Makin!)
+    - added lyrics to [[track:sunrise-9]] (thanks, Niklink, Makin!)
+    - added lyrics to [[track:machina-pantheon]] (thanks, Niklink, Makin!)
+    - added lyrics to [[track:malfunction-portalstuck]] (thanks, Niklink, Makin!)
+    - added lyrics to [[track:its-nothing]] (thanks, Niklink, Makin!)
+    - added lyrics to [[track:dave-striders-cool-mixtape]] (thanks, Niklink, Makin!)
+    <!-- link additions -->
+    - added Nintendo Music listening links to [[track:big-boos-haunt]], [[track:hazy-maze-cave]], [[track:molgera-battle]], [[track:rainbow-road-super-mario-kart]], [[track:slider-super-mario-64]], and [[track:the-final-battle-super-mario-64]] (thanks, ruby!)
+    - added YouTube listening links to [[track:a-wild-monster-appeared]], [[track:arts-and-crafts]], [[track:no-horn-no-cash-no-service]], [[track:sovereign-domain]], [[track:sage-chains]], [[track:incompetent-trio]], [[track:restful-wings]], [[track:adventure-at-sea]], [[track:unfamiliar-territory]], [[track:tale-of-valkyries]], [[track:up-from-the-depths]], [[track:inept-quartet]], [[track:the-sunderers-reprisal]], [[track:right-hand-confrontation]], [[track:memories-of-home]], and [[track:unfamiliar-territory-directors-cut]] (thanks, Surge, Lilith!)
+    - added YouTube listening links to [[track:feel-luke-benjamins]], [[track:flare-green-sun-remix]], and [[track:sea-of-derse]] (thanks, meulanie, Lanolin!)
+    - added Bandcamp and Spotify listening links to [[track:isle-unto-thyself]] (thanks, Lilith, Lan!)
+    <!-- citation additions -->
+    - added citation for SoundCloud commentary on [[track:sea-of-tranquility]] (thanks, Makin, Lan!)
+    - added citations for early Tumblr commentary on [[track:calamity]], [[track:ocean-stars-falling]], [[track:escape-pod]], [[track:frog-hunt]], [[track:another-jungle]], [[track:minihoofs-adventure]], [[track:busting-makes-me-feel-good]], [[track:iRRRRRRRRECONCILA8LE]], [[track:im-a-member-of-the-midnight-crew-post-punk-version]], [[track:another-countdown]], and [[track:constant-conquest]] (thanks, Lilith!)
+    - replaced Tumblr citation links for [[track:gamegrl-original-1993-mix]] and [[track:elephant-gun]] with archived links to composer's blog (thanks, Lilith!)
+    - added dates for Tumblr commentary on [[track:condescescion]] and [[track:patient]] (thanks, Lan!)
+---
+Section: data changes
+Changes: |-
+    <!-- misc presentational changes -->
+    - replaced most YouTube playback links for Homestuck flashes ([[flash-side:s1|side 1]], [[flash-side:s2|side 2]]) with timestamped links to Bambosh's ['[S] Homestuck - All flashes'](https://www.youtube.com/watch?v=AEIOQN3YmNc), replacing YouTube links in 60 flashes, and adding YouTube links to 46 flashes missing them altogether (thanks, meulanie, Lan!)
+    - added dates to all wiki editor commentary, showing when the entries were actually written or heavily revised, mostly based off the data repository's git commit history (thanks, Amberlina, Whisper!)
+    - filled out details for [[track:velkommen-stan-lepard]], previously named "Windows XP Installation Music" with duration 5:22 and no commentary (thanks, vriska, Lan!)
+    <!-- crediting changes (not "fixes" per se...) -->
+    - changed current artwork on [[album:comfortable-bugs]] to be credited to only [[artist:michael-guy-bowman]], pending further confirmation, replacing old [[artist:tavia-morra]] credit; Bowman and Tavia are now both credited on the album's *original* cover artwork, with Tavia's credit annotated for photography and logo
+---
+Section: data fixes
+Changes: |-
+    <!-- reference fixes -->
+    - fixed [[track:nautical-nightmare]] not referencing [[track:nautical-climb]] (thanks, Lilith, Lan!)
+    - fixed [[track:teal-seer]] not referencing [[track:somethings-different]], and added various commentary related to this (thanks, Makin!)
+    - fixed [[track:stride]] not sampling [[track:bionic-booger-breaks-side-a]] (thanks, anticore2k!)
+    - fixed [[track:carolmanthetime]] referencing [[track:doctor]] instead of [[track:crystalanthemums]] (thanks, Makin!)
+    - fixed [[track:conferance-call-last-contact]] referencing [[track:touchdown]] twice, [[track:7-grand-end]] referencing [[track:sburban-jungle]] twice, and [[track:collapse-stlap3]] referencing [[track:jittery-optimist]] twice (thanks, Tangle, Lanolin!)
+    - fixed [[track:enter-with-caliborn-destruction-adventure]] referencing [[track:all-were-gonna-get]], and not referencing [[track:showtime-original-mix]] (thanks, Interrobang, Lanolin!)
+    - fixed [[track:vriska-dance]] not referencing [[track:regent-erratic]] (thanks, Makin!)
+    - fixed [[track:oh-boo-hoo]] sampling "Heartwich" instead of [[track:heartwich-with-strings]] (thanks, Makin!)
+    - fixed [[track:how-2-dj-vip-excloosive-feat-dabe]] not sampling [[track:dead-secretary-zero-health]] (thanks, Makin!)
+    - fixed [[track:ich-bin-dead]] referencing [[track:chorale-for-jaspers]] and not referencing [[track:godtrash]] (thanks, Makin!)
+    - fixed [[track:excess-express]] referencing [[track:chorale-for-jaspers]], and referencing [[track:dead-secretary-zero-health]] instead of [[track:ich-bin-dead]] (thanks, Makin!)
+    - fixed [[track:ich-bin-not-dead]] referencing [[track:chorale-for-jaspers]] and [[track:all-star]], and referencing [[track:dead-secretary-zero-health]] instead of [[track:ich-bin-dead]] (thanks, Makin!)
+    - fixed [[track:light-at-the-end-of-the-tunnel]] referencing [[track:i-despise-this-buildupes]] instead of [[track:i-absolutely-loathe-this-drummer]] (thanks, Makin!)
+    - fixed [[track:scarlet-wings]] not referencing [[track:kotori]] (thanks, Nevermind!)
+    - fixed [[track:dave-striders-cool-mixtape]] not sampling [[track:sweet-bro-and-hella-jeff-show]] and [[track:sports-lofam2]] (thanks, Makin!)
+    - fixed [[track:bomb-rush-blush-ssbu]] ([[album:super-smash-bros-ultimate]]) not also sampling [[track:bomb-rush-blush]] (the original), in addition to referencing it (thanks, ruby!)
+    <!-- featuring fixes -->
+    - fixed [[flash:5308]] and [[flash:5398]] not featuring [[track:elevatorstuck]] (thanks, AirPrime, Lanolin!)
+    - fixed [[flash:sburban-cartdown]] featuring [[track:sburban-countdown]] instead of [[track:sburban-cartdown]], and directly crediting [[artist:erik-scheele]] for sentence mixing (thanks, Sgeo, Tangle, Makin!) <!-- yes this includes a crediting fix; these are sufficiently associated changes that they're together anyway -->
+    <!-- crediting fixes -->
+    - fixed [[track:ultralovania]] artwork being credited to [[artist:creatorofjanespeak]] rather than [[artist:cloudaria]] (thanks, Lilith, Tangle, Makin!)
+    - fixed [[track:boss-battle-kirby-squeak-squad]] being credited to [[artist:hirokazu-ando]], [[artist:jun-ishikawa]], [[artist:tadashi-ikegami]], and [[artist:shogo-sakai]] all together, instead of [[artist:unknown-artist]] (thanks, ruby, Lan!)
+    - fixed [[track:area-1-dragon-spirit]] being credited to [[artist:galaga]] instead of [[artist:dragon-spirit]] (thanks, ruby!)
+    - fixed [[track:big-balloon-get-bonus-round-clear-mappy]], [[track:bonus-round-fanfare-mappy]], [[track:bonus-round-music-mappy]], [[track:credit-sound-mappy]], [[track:extend-music-mappy]], [[track:game-start-sound-mappy]], [[track:in-game-music-main-theme-mappy]], [[track:opening-animation-music-mappy]], and [[track:round-clear-music-mappy]] being franchise-credited to [[artist:galaga]] instead of [[artist:mappy]] (thanks, ruby!)
+    - fixed [[track:hall-of-fame-pokemon-firered-leafgreen]] being credited to [[artist:go-ichinose]] instead of [[artist:junichi-masuda]] (thanks, ruby!)
+    - fixed various tracks from video games crediting artists and contributors differently from current standards: (thanks, ruby!)
+        - fixed [[track:calamari-inkantation]] crediting [[artist:keity-pop]] and [[artist:mari-kikuma]] as co-artists, rather than as contributors (thanks, ruby!)
+        - fixed [[track:cosmic-eternity-believe-in-yourself]] crediting [[artist:casey-rankin]] twice, as co-artist (for writing lyrics) and contributor (for performing vocals), rather than only as contributor (for both; thanks, ruby!)
+        - fixed [[track:fist-bump]] crediting [[artist:takahito-eguchi]] and [[artist:douglas-robb]] twice, as co-artists and as contributors, rather than only as contributors (for various roles; thanks, ruby!)
+        - fixed [[track:open-your-heart]] crediting [[artist:jun-senoue]], [[artist:kenichi-tokoi]], and [[artist:takahiro-fukada]] all as co-artists (for writing roles), rather than as contributors (thanks, ruby!)
+        - fixed [[track:the-stains-of-time-maniac-agenda-mix]] crediting [[artist:kit-walters]] (this credit belonged on [[track:the-stains-of-time|the original track]]), crediting [[artist:logan-mader]] and [[artist:jamie-christopherson]] for generic co-artist roles, and not crediting [[artist:geoff-daigle]] at all (thanks, ruby!)
+        - fixed [[track:wake-up-get-up-get-out-there]] not crediting anyone except [[artist:shoji-meguro]], [[artist:lyn]], and [[artist:benjamin-franklin]] (thanks, ruby!)
+    - added crediting detail annotations to [[track:chapter-20-destroyed-skyworld]] and [[track:the-stains-of-time-maniac-agenda-mix]] (thanks, ruby!)
+    - tweaked phrasing for existing crediting annotations in various video game tracks in [[album:references-beyond-homestuck]] (thanks, ruby!)
+    <!-- track section fixes -->
+    - fixed [[track:wrapped-in-black]] being placed in [[album:references-beyond-homestuck]] under "Other music originating outside Homestuck", instead of under "Music from video games" (thanks, ruby!)
+    <!-- name fixes (subsections) -->
+    - fixed some tracks' names not aligning with Bandcamp releases: (thanks, Lilith!)
+        - fixed [[track:ohgodboss]] being named "Ohgodboss" (lowercase "godboss")
+        - fixed [[track:vaporwave-2016-track9]] being named "$H☯W✝IM€－420－( ▽ ` )ﾉ" (missing left eye)
+        - fixed [[track:isle-unto-thyself]] being named "Isle Unto Thyself" (uppercase "Unto")
+    - fixed some tracks' names not aligning with the Nintendo Music app: (thanks, ruby!)
+        - fixed [[track:battle-golden-sun]] being named "Isaac's Battle Theme"
+        - fixed [[track:ground-bgm-super-mario-bros]] being named "Ground Theme (Super Mario Bros.)"
+        - fixed [[track:hazy-maze-cave]] being named "Cave Dungeon (Super Mario 64)"
+        - fixed [[track:molgera-battle]] being named "Molgera"
+    <!-- name fixes (single-lines) -->
+    - fixed [[track:fool]] being named "Fool [Explicit]", preferring track art and booklet name over Bandcamp (thanks, Makin!)
+    - fixed [[track:battle-final-fantasy]] being named just "Battle" (thanks, ruby!)
+    - fixed [[track:the-stains-of-time-maniac-agenda-mix]] being named just "The Stains of Time", and not referencing and sampling [[track:the-stains-of-time]] (thanks, ruby!)
+    <!-- lyric fixes -->
+    - fixed a bunch of incomplete or missing lyrics in various tracks: (thanks, Makin!)
+        - [[track:the-rose-rap]]: was *Apple pie, Cheez Whiz, [???]*, now *...Magic Castles*
+        - [[track:a-baby-is-born]]: was *And it's gonna be awesome when I have a baby (???)*, now *...(Singin' a song!)*
+        - [[track:a-baby-is-born]]: was *KID: ???*, now *KID: Gravity!*
+        - [[track:a-baby-is-born]]: was *It's me! Wah!*, now *I'm your first! It's me! Wah!*
+        - [[track:the-squiddles-save-christmas]]: was *[Unintelligible Squiddle bullshit]*, now *[Squiddles laughing]*
+        - [[track:a-very-special-time]]: was *[Indecipherable Christmassy sentence mixing]*, now:<br>*Christ-a-Co-how poor-for people-but our-oh-there*<br>*Christ-a-Co-how poor-for people-but our-oh-there-or*
+        - [[track:carina-cogwheel]]: was *We're lost, [??]*, now *We're lost souls*
+        - [[track:ebichahan]]: added chorus, and backing lines: *(This is a certified shrimp)* and *Or... or there's gonna be problems! (Go!)*
+        - [[track:marisa-stole-the-precious-thing]]: removed *[Unintelligible]* at end
+    - tweaked formatting and line breaks throughout lyrics for [[track:wake-up-get-up-get-out-there]] (thanks, ruby!)
+    <!-- general data fixes -->
+    - fixed date of [[flash:countdown-paradox-struck]] (was [[date:6/12/2013]], now [[date:6/12/2023]]; thanks, gr1mv4d3r!)
+    - fixed duration of various tracks to align with Nintendo Music: (thanks, ruby!)
+        - [[track:ground-bgm-super-mario-bros]] (was 2:42, now 3:07)
+        - [[track:hazy-maze-cave]] (was 3:46, now 3:43)
+        - [[track:molgera-battle]] (was 1:36, now 3:00)
+        - [[track:rainbow-road-super-mario-kart]] (was 4:37, now 1:59)
+        - [[track:slider-super-mario-64]] (was 1:14, now 2:47)
+        - [[track:the-final-battle-super-mario-64]] (was 2:50, now 2:49)
+    - fixed a couple composer and track artist commentary transcription typos: (thanks, Lilith!)
+        - [[track:dawn-of-man]]: was *of train*, now *of a train*
+        - [[track:out-of-breath]]: was *gneius*, now *genius*
+    - tweaked formatting of Bowmantown commentary for [[album:homestuck-vol-10]] ("Jungle Boogie" now links to [[track:jungle-boogie]]; thanks, Lilith!)
+    <!-- art tag fixes -->
+    - fixed [[track:stormspirit]] missing [[tag:lowas]] tag (thanks, meulanie, Lilith!)
+    - fixed [[album:s-forgive]] missing [[tag:dave]] tag (thanks, Lilith, Jebb, FF, Lanolin!)
+    <!-- commentary fixes -->
+    - fixed a "Too late - DPF" line showing under Tumblr commentary for [[track:frog-hunt]], instead of in its own entry, originating from early commentary collection (thanks, Lilith, Lanolin!)
+    - removed some dead links from [[track:even-in-death-tmorras-belly-mix]] and added a wiki editor note about this (thanks, meulanie, Lanolin!)
+    - fixed "Lgoic Pro" transcription typo in [[track:listless-squiddly-bliss]] (thanks, vriska, Lanolin!)
+    <!-- link fixes -->
+    - changed YouTube listening link for [[track:hometeam-adv8ntage]] to composer's upload (thanks, Lilith!)
+    - fixed YouTube listening link for [[track:train-requiem]] being given to [[track:train-meldey-next-to-last-station]] instead (thanks, Makin!)
+    - fixed YouTube link for [[flash:nina-and-lars-enter]] (was for [[flash:lisa-enter]]; thanks, PatManDX, Grace, Lanolin!)
+    - fixed YouTube and MSPFA links for [[flash:halcyon-begin]] (were both for [[flash:earthlings-enter]]; thanks, meulanie, Lanolin!)
+    - fixed Twitter link, removed dead desynced.xyz link, and added MSPFA link for [[group:desynced]] (thanks, meulanie!)
+    - removed duplicate homestuck.com link for [[flash:2070]] (thanks, Lan!)
+---
+Section: directory changes
+Changes: |-
+    <details><summary><b>Toggle Directorylog</b></summary>
+    - changed directory of [[track:ground-bgm-super-mario-bros]] from <code>ground-theme-super-mario-bros</code> to <code>ground-bgm-super-mario-bros</code>
+    - changed directory of [[track:hazy-maze-cave]] from <code>cave-dungeon-super-mario-64</code> to <code>hazy-maze-cave</code>
+    - changed directory of [[track:molgera-battle]] from <code>molgera</code> to <code>molgera-battle</code>
+    - changed directory of [[track:the-stains-of-time-maniac-agenda-mix]] from <code>the-stains-of-time</code> to <code>the-stains-of-time-maniac-agenda-mix</code> (...basically)
+    - changed directory of [[track:velkommen-stan-lepard]] from <code>windows-xp-installation-music</code> to <code>velkommen-stan-lepard</code>
+    </details>

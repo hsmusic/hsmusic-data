@@ -1,0 +1,17 @@
+Wiki Update: embracing fanon
+Main Update: true
+Date: March 1, 2020
+---
+Section: homepage
+Changes: |-
+    - the homepage is now split into two sections: "Fandom" and "Official"
+    - only one fandom album now, [[album:diverging-delicacies]], but more to come soon
+    - the official album grid listing was changed to sort the newest releases closest to the top of the page, as bandcamp orders releases, to keep consistent with the fandom grid listing (where we want new releases to stand out right away)
+---
+Section: track pages
+Changes: |-
+    - the "tracks that referenced" list is now grouped into two sections: official and fandom
+---
+Section: flashes
+Changes: |-
+    - a CSS change targeting the homepage inadvertently made the headings on the flash index look very fancy, and i kept this because it looks cool

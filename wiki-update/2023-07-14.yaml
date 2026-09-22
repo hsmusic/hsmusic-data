@@ -1,0 +1,29 @@
+Wiki Update: moderately belated maintenance
+Date: July 14, 2023
+---
+Section: bug fixes
+Changes: |-
+    - fixed direct links to URLs with spaces in 'em all being 404s, e.g. the listen link for [[track:where-making-this-hapen]], due to misplaced URL encoding
+---
+Section: data fixes
+Changes: |-
+    - added [[track:aria-di-mezzo-carattere]] to reference list for [[track:oh-one-true-love]] (thanks, FF!)
+    - added [[track:once-upon-a-time]] to reference list for [[track:dating-start-fm-version]] (thanks, FF!)
+    - added [[track:unreeeal-superhero-3]] to reference list for [[track:keygen]] (thanks, vriska and FF!)
+    - fixed incorrect track art for [[track:fighting-spirit-second-form]] (thanks, Makin!)
+    - fixed incorrect YouTube link for [[track:wind]] (used to be to a [reversed version](https://www.youtube.com/watch?v=mwFWnxZVIFk), which was in the original Bandcamp download before being replaced!)
+    - fixed dead YouTube links for tracks by [[artist:kevin-grant]], whose channel with official uploads went offline
+        - from [[album:coloUrs-and-mayhem-universe-a]]: [[track:purple-tyrant]]
+        - from [[album:lofam2]]: [[track:fighting-spirit]], [[track:fighting-spirit-second-form]], [[track:dark-funk]]
+    - fixed typos in various track names (thanks, Vortexius!)
+        - [[track:synchronise]] and [[track:synchronise-instrumental]] (used to be "[S]ynchronize")
+        - [[track:savoir-allegro]] (used to be "Savoir Allego")
+    - fixed missing line breaks in commentary for [[album:act-8-volume-1]]
+    - fixed lyrics in [[track:ultdirk-cant-rap]] (was "Claims burbon claim to win", now "Playing SBURB and playin' to win" - thanks, Red!)
+    - fixed additional file link for Retrobution under [[album:jailbreak-vol-1]]
+        - these additional files and more should be reworked as MIDI/Project Files and organized under particular tracks, but that's for another time soon
+    - fixed Twitter link for [[artist:neon-system-95]]
+    - updated info for [[artist:squid]] (thanks, NEON SYSTEM 95!)
+    - changed directories (URLs) of [[track:savoir-allegro]] and [[track:torrent-early-access]] not to include "-bonus"
+    - removed dead YouTube links from [[album-commentary:hiveswap-act-1-ost]] commentary (thanks, Sgeo!)
+    - linked to wiki pages instead of external sites in commentary for [[track:ballad-of-awakening]] and [[track:we-shall-go-together]]

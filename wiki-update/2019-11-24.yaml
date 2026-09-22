@@ -1,0 +1,24 @@
+Wiki Update: so many new pages
+Main Update: true
+Date: November 24, 2019
+---
+Section: homepage / "About & Credits"
+Changes: |-
+    - moved the intro message to a new [[static:about|About &amp; Credits]] page
+    - structured the site credits list more nicely there
+    - added a new "Explore the site!" box on the homepage, linking to the about page as well as the new [[site:list/|listings index]]
+---
+Section: listings
+Changes: |-
+    - completely new pages for exploring the wiki in completely new ways; they serve as an alternative to writing a dynamic search engine, because github doesn't let us write a custom backend and client-side javascript sucks
+    - all linked from [[site:list/|listings index]], accessible through the sidebar
+    - there are nine of these but if you doubt i'm going to list them all, you're wrong
+    - [[site:list/albums/by-name/|Albums - by Name]]: every album, sorted alphabetically
+    - [[site:list/albums/by-date/|Albums - by Date]]: every album, sorted chronologically (at the time this was no different than the homepage grid listing's sort, but today it contains fandom albums interweaved with official ones)
+    - [[site:list/albums/by-tracks/|Albums - by Tracks]]: every album, sorted by number of tracks
+    - [[site:list/artists/by-name/|Artists - by Name]]: every artist, sorted by name (this also shows the number of contributions each artist has made next to their name)
+    - [[site:list/artists/by-commentary/|Artists - by Commentary]]: every artist, sorted by number of commentary entries
+    - [[site:list/artists/by-contribs/|Artists - by Contributions]]: every artist, sorted by number of contributions (times credited as a contributor, to music or art, on any track or album)
+    - [[site:list/tracks/by-name/|Tracks - by Name]]: every track, sorted alphabetically
+    - [[site:list/tracks/by-album/|Tracks - by Album]]: every track, grouped by album
+    - [[site:list/tracks/by-date/|Tracks - by Date]]: every track, grouped by release date

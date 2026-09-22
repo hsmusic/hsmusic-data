@@ -1,0 +1,22 @@
+Wiki Update: track references & commentary
+Date: November 16, 2019
+---
+Section: homepage
+Changes: |-
+    - got rid of the twitter link on my name and added two links in its place - my twitter and reddit accounts - as well as a note that suggestions and feedback are welcome
+---
+Section: track pages
+Changes: |-
+    - track references show up in a dedicated list now
+    - forward-facing reference links: track pages list not just the tracks they reference, but the tracks <i>which reference them</i>
+    - reference data is from [<dfn title="nobody knows what NSND stands for">NSND</dfn>](https://homestuck.net/music/references.html) (credited on the homepage)
+    - "listen on" links show up before the contributor list instead of after; reference list after contributor list
+    - at the very bottom, a new section for artist commentary, largely copied from [this pastebin](https://pastebin.com/gqpHsKkE)
+---
+Section: artist pages
+Changes: |-
+    - added a message describing dim contribution lines: "Dim tracks are tracks that this artist contributed only a based-upon song to."
+    - for tracks with multiple contributors, those are listed as well, e.g. "(with Michael Guy Bowman)"
+    - note that this doesn't include "contributors" who only provided a referenced track, since those are now stored in a list separate from the contributors list
+    - a new section for commentary
+    - a "jump to" paragraph at the top, to quickly scroll to any of the track/art/commentary sections

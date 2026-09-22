@@ -1,0 +1,31 @@
+Wiki Update: Land of Fans and Music (and References and Randomness and Art and Also Some Other Stuff)
+Name HTML: Land of Fans and Music <small>(and References and Randomness and Art and Also Some Other Stuff)</small>
+Main Update: true
+Date: March 16, 2020
+---
+Section: homepage
+Changes: |-
+    - four new albums archived (and their booklets transcribed): [[album:lofam]], [[album:lofam2]], [[album:lofam3]], and [[album:lofam4]]
+    - (the commentary booklets transcribed here are hilarious and very insightful and there are a bunch of easter eggs - check them out!)
+    - another new "album", [[album:unreleased-tracks]], containing tracks which were never released but were either referenced in released tracks or included in flash animations
+    - the text of the link to the feedback page has been changed from "Feedback" to "Feedback &amp; Suggestions"
+---
+Section: listings
+Changes: |-
+    - two new listings: [[site:list/tracks/by-times-referenced/|Tracks - by Times Referenced]] and [[site:list/random/|Random Pages]]
+    - if you're bored and don't know here to start exploring, the Random Pages listing has a bunch of links that will decide for you! (it does require JavaScript, though)
+---
+Section: album/track pages
+Changes: |-
+    - these got their share of randomness too, in the form of a new "Random Track" link at the bottom of the sidebar
+    - cover art can now have a distinct release date from the album, which is the case for anthology projects that organize art for an album after it has been released
+---
+Section: artist pages
+Changes: |-
+    - track credit listings already showed collaborators in contribution lines; now cover art credits do too, e.g. the page for [[artist:mika-b]].</a>
+---
+Section: miscellaneous
+Changes: |-
+    - the [Homestuck Vol. 5 Anthology](https://sollay-b.tumblr.com/post/188094230423/hello-a-couple-of-years-ago-allyssinian) has been mirrored in the [[album:homestuck-vol-5]] album page
+    - a new feature acknowledgements section has been added to the [[static:about|About &amp; Credits]] page
+    - a bunch of code changes to make expanding the wiki a fair bit less difficult

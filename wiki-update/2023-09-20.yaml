@@ -1,0 +1,14 @@
+Wiki Update: after^2-party cleanup
+Name HTML: after<sup>2</sup>party cleanup
+Date: September 20, 2023
+---
+Section: bug fixes
+Changes: |-
+    - fixed [some links](https://github.com/hsmusic/hsmusic-wiki/issues/277) stripping "&lt;", such as in [[album:exile]]
+    - fixed [certain listings](https://github.com/hsmusic/hsmusic-wiki/issues/273) displaying 12/31/1969 for albums without release dates
+    - various [internal](https://github.com/hsmusic/hsmusic-wiki/pull/275) [improvements](https://github.com/hsmusic/hsmusic-wiki/pull/281) and [fixes](https://github.com/hsmusic/hsmusic-wiki/compare/d09e04b155fe2ed3d0681edf14f7de67ae8be61c...9745cf89d808bc2e4698af346ddbc53e1ae08a2c)
+---
+Section: data fixes
+Changes: |-
+    - updated and filled in latest commentary for [[album:lofam5a2]] (thanks, Circlejourney!)
+    - tidied up crediting for [[artist:pixels-and-paradiddles]] (thanks, Circlejourney!)

@@ -1,0 +1,25 @@
+Wiki Update: jerry's theme for deltarune ch. 7
+Date: September 23, 2023
+---
+Section: other additions
+Changes: |-
+    - added [[track:penumbra-phantasm-ruby]] by [[artist:ruby]], the base for [[track:penumbral-awakening]] in [[album:lofam5a2]] (thanks, ruby!)
+    - replaced heavyweight (\~2MB) background art for [[album:psycholonials]] (and EPs) with optimized version (\~200kB)
+---
+Section: data fixes
+Changes: |-
+    - fixed [[track:bound-in-blood-beta]] not referencing [[track:doctor]] (thanks, Jebb!)
+    - fixed [[track:vriskafic8ion]] not referencing [[track:killed-by-br8k-spider]] (thanks, Lilith!)
+    - added various missing art tags
+        - added [[tag:alternia]] to [[track:tumescent]], [[track:vwigor8us]]
+        - added [[tag:beforus]] to [[track:cheater-pan]], [[track:damiterneightions]], [[track:tree-dwellers]], [[track:east-beforan-funk]]
+        - added [[tag:dream-bubbles]] to [[track:vwiolet-vwelvwet]]
+        - added [[tag:frog-temple]] to [[track:disc1-beforus]]
+        - added [[tag:gate]] to [[track:times-apostate]]
+        - added [[tag:june]] to [[track:vriskafic8ion]] (thanks, Lilith!)
+        - added [[tag:loqam]] to [[track:rust-witch]], [[track:press-a-to-reset]], [[track:the-scratch-before-the-calm]], [[track:motions-of-infinity]]
+        - added [[tag:matriorb]] to [[track:rainbow-rebirth]]
+        - added [[tag:tumor]] to [[track:game-lost]]
+        - added [[tag:veil]] to [[track:cosmic-malfunction]]
+        - added [[tag:victory-platform]] (new tag) to [[track:farewell-lofam]], [[track:higher-hopes]], [[track:disc2-beforus]], [[track:black-hole-white-door]], [[track:reunion-lofam5]]
+        - [[track:720x-showdown-combo]]: added [[tag:the-condesce]], [[tag:consorts]], [[tag:battlefield]], [[tag:earth]]

@@ -1,0 +1,28 @@
+Wiki Update: flash pages
+Main Update: true
+Date: February 7, 2020
+---
+Section: homepage
+Changes: |-
+    - link to the new [[site:flash/|Flashes]] index page
+---
+Section: flash pages
+Changes: |-
+    - an individual page for each flash, and a new grid-style index (like the homepage) to collect them all, grouped by act
+    - each flash gets its own unique thumbnail (except A6I4 flashes, please forgive me troll clown jegus)
+    - every flash page has a link to play the flash on homestuck.com, its page number, release date, and a list of the tracks featured in it
+    - the code to generate sidebar was absolute hell to write
+    - [jadevris](https://archiveofourown.org/works/19708732/chapters/46642894)
+---
+Section: track pages
+Changes: |-
+    - a track's page will list the flashes in which it's been referenced, e.g. [[Elevatorstuck]]
+---
+Section: artist pages
+Changes: |-
+    - within the list of tracks an artist has contributed music to, if that track has been featured in any flashes, those will be listed on the track's contribution line
+---
+Section: miscellaneous
+Changes: |-
+    - switched a couple artist names around, for consistency with credits in the latest release ([[album:homestuck-vol-10]])</a>
+    - added a new [[static:feedback|Feedback]] page, with links to contact me; this is also linked from the homepage

@@ -1,0 +1,722 @@
+Wiki Update: Anachronist's Library
+News Entry: Anachronist's Library
+Main Update: true
+Date: January 30, 2025
+---
+Section: site changes
+Changes: |-
+    - obliterated chronology links in the nav bar (<html:a href="#15-apr-20">rest</a> <html:a href="#12-jun-20">in</a> <html:a href="#12-jun-2024">peace</a>) and added them into artist tooltips, instead; these show the previous and next things' names (and a description if hovered for longer); they're more dynamic and may be shown for all kinds of credits, not just for track artists/contributors and cover/track art illustrators
+    - new group series feature, so albums can now belong to specialized "series" within their groups (for example, "Numbered volumes" under [[group:official]]; "Land of Fans and Music" under [[group:unofficial-mspa-fans]]; "Pokémon Unbound" under [[group:the-paradox-music-team]]) - these are shown on group info pages, in full; on album pages, with dedicated previous/next buttons; and on track pages, briefly
+    - new artwork references feature, which lets tracks and albums reference the artworks of other tracks and albums; references are displayed on dedicated gallery pages, which are linked beneath the tag list of cover artworks
+    - new "closely linked artists" feature, so group pages can take you right to the corresponding artist pages, and vice versa (used all throughout the "solo musicians" group category)
+    - new "crediting sources" feature, essentially same as commentary but a dedicated section to collect and detail official credit sources, snippets of relevant commentary, and other observations; these generally inform the specific credits (in artist and contribution lists) for tracks on the wiki and are present so they can be revisited by anyone, at any time, and checked against or added to, to improve on-wiki credits and for thoroughness
+        - ... we didn't find the time to finish filling out crediting sources for [[group:official|the official discography]] for this update, though ✨✨
+    - added support for "featuring" credits; these get a custom look in track lists anywhere, and make solo albums nice and neat ([[media:misc/changelog/featuring-credits-old.png|old]], [[media:misc/changelog/featuring-credits-new.png|new]]; [[media:misc/changelog/featuring-credits-track.png|track page]])
+    - added support for commentary entry access and/or capture dates (read from web.archive.org URLs where given, or specified manually), as well as uncertain or bounded date ranges; see e.g. [[track:snow-halation-famitracker]], [[album:hiveswap-act-2-ost]], and basically any crediting sources
+    - added support for descriptions for individual track sections (within an album), e.g. [[album:homestuck-vol-1-4]], bonus tracks in [[album:homestuck-vol-8]]
+    - added support for additional names to albums
+    - added support for expand-collapse "details" elements, and spoiler text ala Discord or GameFAQs, to commentary
+    - added new "Album cover for..." message beneath tag list when a track page is showing the album's cover artwork because the track itself has no unique artwork
+    - added secondary nav bar (by-group and by-series) to album commentary page, plus "stub" album commentary pages; also hid the track list on any album commentary page where none of the tracks have commentary, added album date at top of page, and added track dates where they differ from the album
+    - revamp for "edits for wiki" credits, on banners and wallpapers: now shown in a "+ edits" tooltip; separate from main artwork lists, on artist info page; and excluded from artist gallery page; and support additional details, e.g. "crop" or "based on album cover"
+    - made external links in commentary (with arrowheads) "absorb" immediately-following punctuation, so commas, periods, etc appear next to the word, instead of getting pushed past the arrow ([[media:misc/changelog/external-links-absorb-old.png|old]], [[media:misc/changelog/external-links-absorb-new.png|new]])
+    - added dots between links in nav bar, instead of just a comma, for style and easier clicking; and made the first and last track in an album just dim out the "Previous" and "Next" links, instead of outright hiding them, so those nav links are positioned more consistently
+    - dropping text into the search input (or a link from the current page) will now replace whatever was in the search input before, and perform the search right away
+    - various appearance improvements for search input: new magnifying glass, input text aligned with results' labels; browser-builtin "x" button, to clear search, now visibly grey rather than black; light highlight when hovered or focused; and a bit taller, overall
+    - various appearance improvements for commentary headings: bar beneath heading is now solid and dim, rather than dotted and bright; word-wrapped lines after the first are slightly indented; and date information snaps to bottom, aligning with heading bar
+    - new "quick descriptions" on group gallery page, showing the front of the group's description (as well as text past the split, after clicking to expand)
+    - links to the same album, if the album itself has commentary, now scroll to that commentary, on album commentary page, see e.g. "continued from album commentary" link in [[album-commentary:mobius-trip-and-hadron-kaleido#dawn-of-man|Dawn of Man]]
+    - clicking on an artwork to show that art in the large overlay will now colorize the overlay according to the artwork you clicked, if it differs from the color of the page itself (e.g. on [[album-commentary:prospit-and-derse|some album commentary pages]])
+    - changed "Illust. (artists)" message to "Artwork by (artists)" in various art gallery pages
+    - various smaller and larger internal improvements across the wiki data format, mostly to improve quality of life for data entry
+    - uncountable totally internal additions and improvements, across code both for data processing and for page generation (and much miscellany besides), underlying new features and fixes and serving as groundworks for future stuff, just as usual
+---
+Section: bug fixes
+Changes: |-
+    - miscellaneous improvements to tooltip placement logic, so large tooltips near page boundaries shouldn't go flying off into the sun so often
+    - fixed group info pages showing a different order than group gallery page (besides just being reversed, so old-to-new) when multiple albums were released on same date
+    - fixed certain cases where an artist page would be completely inaccessible because they shared the same directory (URL) as an alias of another artist
+    - fixed track social embeds (e.g. when linking to the wiki on Discord) being alomst completely empty, and album social embeds missing the heading line ([[media:misc/changelog/social-embed-fixes-old.png|broken]], [[media:misc/changelog/social-embed-fixes-new.png|fixed]])
+---
+Section: album additions
+Changes: |-
+    <!-- fandom chronologically, single-lines -->
+    - added [[album:loftlocked-vol-1]]! (thanks, Lilith, Jebb, Pat, Audrey!)
+    - added [[album:let-me-dance-let-me-glisten-single]]! (thanks, Lilith!)
+    - added [[album:sbahj-the-album]]! (thanks, Lilith, Lan, votl!)
+    - added [[album:413-sp3c14l]] by [[artist:afterdevth]]! (thanks, Jebb!)
+    - added [[album:rooftop-paladin]] by [[artist:hazama-yuutou]]! (thanks, Lilith!)
+    - added [[album:2ollux2-fiinal-frontiier]] by [[artist:maukustus]]! (thanks, Jebb!)
+    - added [[album:midnight-crew-beginning-of-the-end-ost-vol-1]] by [[artist:tristone]]! (thanks, Jebb!)
+    <!-- beyond chronologically, single-lines -->
+    - added [[album:bittersweet-hilary-troiano]] by [[artist:hilary-troiano]]! (thanks, Lilith!)
+    - added [[album:improvised-touhou-music-with-annoying-commentary]] by [[group:toby-fox]]! (thanks, Lilith!)
+    - added [[album:pills-ep]] by [[artist:alex-votl]]! (thanks, Lilith!)
+    - added [[album:in-isolation]] by [[artist:david-ellis]]! (thanks, Lilith!)
+    - added [[album:pray]] by [[artist:itoki-hana]]! (thanks, ruby, Lan!)
+    - added [[album:uufo]] by [[artist:camellia]]! (thanks, ruby, Lan!)
+    - added [[album:extermination-shock]] by [[group:what-is-lost-in-the-mines]]! (thanks, Jebb!)
+    - added [[album:dead-maams-chest]] and [[album:ahoy-youre-all-pirates]] by [[artist:houshou-marine]]! (thanks, ruby!)
+    - added [[album:theatore-creatore]] by [[artist:camellia]] and [[group:toby-fox]]! (thanks, ruby!)
+    <!-- team releases, subsections -->
+    - added albums from [[group:deconrecon]]! (thanks, Tangle, Lan!)
+        - added [[album:duodenary]] by [[group:cristata]]!
+        - added [[album:in-medias-res]]!
+    - added albums from [[group:the-paradox-music-team]]! (thanks, ruby, Tangle, Whisper, Pascal!)
+        - added [[album:gba-pokemon-unbound-super-music-collection]]!
+        - added [[album:unbound-day-selection-original-soundtrack]]!
+        - added [[album:unbound-battle-selection-original-soundtrack]]!
+        - added [[album:unbound-night-selection-original-soundtrack]]!
+    - added latest release from [[group:stuck-at-home-con]]! (thanks, Tangle, Whisper, Surge, Lan, Makin, Rainy, Guffy, Witch's Cadence!)
+        - added [[album:fraymotif-fighters]]!
+    - added latest release from [[group:desynced]]! (thanks, Jebb, Witch's Cadence, Lan!)
+        - added [[album:anthology-ii]]!
+    - added [[group:8reath-of-light]] discography! (thanks, Lilith!)
+        - added [[album:i-dreamed-of-feeling-better-vol-1]]!
+        - added [[album:unite-synchronization-breach-the-heavens-mix]]!
+        - added [[album:apple-in-flight]]!
+        - added [[album:foreign-bodies]]!
+        - added [[album:chapter-8]]!
+        - added [[album:flare-space-to-breathe-mix]]!
+    - added [[group:freeroam]] discography! (thanks, Lilith, Lan!)
+        - added [[album:freeroam-volume-1]]!
+        - added [[album:freeroam-volume-2]]!
+    - added [[group:stalemate]] discography! (thanks, Jebb, Whisper, WarxTron!)
+        - added [[album:stalemate-vol-1]]!
+        - added [[album:stalemate-vol-2]]!
+        - added [[album:stalemate-adieu]]!
+    - added latest releases from [[group:oceanfalls]]! (thanks, Tangle, Lan, Witch's Cadence, Nevermind, Pikarai!)
+        - added [[album:foresight-and-retrospect]] by [[artist:wights-end]]!
+        - added [[album:oceanfalls-vol-6]]!
+    <!-- solo releases, subsections -->
+    - added latest releases by [[group:michael-guy-bowman]]: (thanks, Surge, Lan, ruby!)
+        - added [[album:your-majesty]]!
+        - added [[album:bowmanstuck]]!
+    - added solo and Screamcatcher discographies by [[group:kalibration]]! (thanks, Jebb, Surge, Whisper!)
+        - added [[album:home]]!
+        - added [[album:do-without]]!
+        - added [[album:pathology]]!
+        - added [[album:grave]]!
+        - added [[album:bird]]!
+        - added [[album:gate]]!
+        - added [[album:x-over-y]]!
+        - added [[album:haruspex-ost]]!
+        - added [[album:flowers-of-evil]]!
+        - added [[album:electricity]]!
+        - added [[album:chips-and-bits-vol-1]]!
+        - added [[album:what-a-shame]]
+        - added [[album:chips-and-bits-vol-2]]!
+        - added [[album:intermission]]!
+        - added [[album:paradise]]!
+    - added singles by [[artist:ash-taylor]]! (thanks, Lilith!)
+        - added [[album:english-metal-cover]]!
+        - added [[album:penumbra-phantasm-cover-ash-taylor]]!
+    - added singles and more by [[artist:raid]]! (thanks, Lilith, Tangle!)
+        - added [[album:doctor-raid-remix]]!
+        - added [[album:beatdown-raid-remix]]!
+        - added [[album:black-raid-remix]]!
+        - added [[album:moonslayer]]!
+        - added [[album:universal-umbrosity]]!
+        - added [[album:flare-raid-remix]]!
+        - added [[album:i-warned-you-about-stairs]]!
+    - added singles by [[artist:ludicrousfalcon]]! (thanks, Lilith, Tangle!)
+        - added [[album:the-showdown-single-version]] and [[album:the-showdown-album-version]]!
+        - added [[album:adventurous-ascent-single-version]] and [[album:adventurous-ascent-lofam5a2-version]]!
+        - added [[album:infinite-cataclysm]]!
+---
+Section: other additions
+Changes: |-
+    <!-- brand new stuff -->
+    - added "by series" views to many group pages, including...
+        - added series for [[group:official]] (thanks, Surge, Makin!)
+        - added series for [[group:canmt]] (thanks, Surge, Makin!)
+        - added series for [[group:the-paradox-music-team]] (thanks, Tangle, Pascal!)
+        - added series for [[group:unofficial-mspa-fans]] (thanks, Whisper, Cello!)
+        - added series for [[group:deconrecon]] (thanks, Surge!)
+        - added series for [[group:oceanfalls]] (thanks, Surge!)
+        - added series for [[group:kalibration]] (thanks, Whisper!)
+        - added series for [[group:toby-fox]] (thanks, Whisper, Cello, Lan, ruby, Jebb!)
+        - added series for [[group:xszelor]] (thanks, Surge!)
+    - added artwork reference data to over 150 [[group:canmt]] and [[group:official]] tracks and albums! (thanks, Makin!)
+    <!-- flashes -->
+    - added [[flash:plink-strife]] to [[flash-act:loftlocked]] flashes (thanks, Lilith!)
+    - added [[flash-act:freeroam]] flashes (thanks, Lilith!)
+    - added [[flash-act:snowbound-blood]] game (thanks, Lilith, Lavender, wertercatt!)
+    - added [[flash:cascade-reanimated]] and [[flash:the-man-in-the-cairo-overcoat]] animations (thanks, Jebb!)
+    <!-- tracks -->
+    - added bonus track [[track:a-sour-brote-of-gamgitation-plays]] to [[album:brostuck]] (thanks, Lilith, Whisper!)
+    <!-- commentary -->
+    - added commentary from "Michael Guy Bowman Talks About His Homestuck Music" to [[track:sburban-jungle]], [[track:harlequin-rock-version]], [[track:explore]], [[track:ohgodwhat-remix]], [[track:chorale-for-jaspers]], [[track:pony-chorale]], [[album:midnight-crew-drawing-dead]], [[track:lunar-eclipse]], [[track:hauntjam]], [[album:homestuck-vol-5]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:greenhouse]], [[track:ruins-with-strings]], [[track:hardchorale]], [[track:happy-cat-song]], [[album:squiddles]], [[track:squiddle-samba]], [[track:tangled-waltz]], [[track:mister-bowman-tells-you-about-the-squiddles]], [[track:i-dont-want-to-miss-a-thing]], [[album:mobius-trip-and-hadron-kaleido]], [[track:lies-with-the-sea]], [[track:dawn-of-man]], [[track:chain-of-prospit]], [[album:homestuck-vol-7]], [[track:warhammer-of-zillyhoo]], [[track:maplehoofs-adventure]], [[album:the-wanderers]], [[track:ruins-rising]], [[track:calamity]], [[track:ocean-stars-falling]], [[track:escape-pod]], [[track:frog-hunt]], [[track:gust-of-heir]], [[track:revered-return]], [[track:how-do-i-live-d8-night-version]], [[track:another-jungle]], [[track:gamegrl-original-1993-mix]], [[track:minihoofs-adventure]], [[track:elephant-gun]], [[track:busting-makes-me-feel-good]], [[track:iRRRRRRRRECONCILA8LE]], [[track:im-a-member-of-the-midnight-crew-post-punk-version]], [[track:another-countdown]], [[track:constant-conquest]], [[album:homestuck-vol-10]], and [[track:solar-voyage]]
+    - added commentary from Bowmantown (with permission) to [[album:homestuck-vol-10]] and [[album:jailbreak-vol-1]] (thanks, Celeste, Bowman, Bea, Surge!)
+    - added dead image placeholder to early collection commentary for [[track:doctor]] (thanks, Tangle!)
+    - added "Music and Stuff" commentary to [[track:happy-cat-song]], [[track:hardchorale]], and [[track:ruins-with-strings]] (thanks, Lilith!)
+    - added YouTube commentary ([[artist:buzinkai]]) to [[track:planet-healer]] (thanks, Lilith!)
+    - added Tumblr commentary ([[artist:james-dever]]) to [[track:swing-of-the-clock]] (thanks, Tangle!)
+    - added Tumblr commentary to [[track:scratch]] (thanks, Lilith!)
+    - added "How to Bronze Bowman" commentary to [[album:homestuck-vol-6]] (thanks, Lilith!)
+    - added YouTube commentary to [[track:3-in-the-morning-pianokind]] (thanks, Surge!)
+    - added Tumblr commentary to [[track:we-walk]] (thanks, Lilith!)
+    - added DeviantArt commentary and full-size artwork to [[track:what-a-daring-dream]] (thanks, Lilith, Whisper!)
+    - added Tumblr commentary ([[date:10/25/2011]]) to [[track:drift-into-the-sun]] (thanks, Lilith!)
+    - added Tumblr commentary ([[date:11/12/2012]]) to [[track:even-in-death-tmorras-belly-mix]] (thanks, Lilith!)
+    - added Tumblr commentary and alternate artwork to [[track:jade-mother]] (thanks, Lilith!)
+    - added DeviantArt commentary and full-size artwork to [[track:teal-hunter]] (thanks, Lilith!)
+    - added Tumblr commentary ([[date:4/13/2012]]) to [[track:cyan-beast]] (thanks, Tangle!)
+    - added Twitter commentary to [[track:wv-become-the-mayor-of-cans]] (thanks, Makin, Lilith!)
+    - added Newgrounds commentary to [[track:clockstopper]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:portrait]] (thanks, Lilith!)
+    - added Tumblr commentary and full-size artwork to [[track:pink-cat]] (thanks, Makin, Lilith, Whisper!)
+    - added Tumblr and SoundCloud commentary to [[track:squiddle-song]] (thanks, Tangle!)
+    - added Tumblr commentary ([[date:4/24/2012]]) to [[track:pumpkin-party-in-sea-hitlers-water-apocalypse]] (thanks, Lilith, Whisper!)
+    - added Tumblr commentary and full-size artwork to [[track:hate-you]] (thanks, Lilith, Whisper!)
+    - added early collection commentary to [[track:skaianet]] (thanks, Tangle!)
+    - added Tumblr commentary ([[date:6/13/2012]]) to [[track:requited]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:moonsetter]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:another-countdown]] (thanks, Lilith!)
+    - added Bandcamp commentary blurb to [[album:exile]] (thanks, Lilith!)
+    - added Bandcamp commentary blurbs to [[album:homestuck-for-the-holidays]], [[album:lofam]], [[album:jailbreak-vol-1]] (additional credits text), and [[album:tomb-of-the-ancestors]] (thanks, Lilith, Lan!)
+    - added Tumblr commentary to [[track:the-squiddles-save-christmas]] (thanks, Lilith!)
+    - added commentary, previously transcribed in lyrics of [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele|album audio commentary]], across tracks on [[album:jailbreak-vol-1]] (thanks, Lan!)
+    - added Tumblr commentary to [[album:lofam2]] (re: cover artwork; thanks, Lilith!)
+    - added Tumblr commentary to [[track:the-four-thrones]] (thanks, Lilith, Whisper!)
+    - added Tumblr commentary to [[track:teal-justice]], [[track:rust-witch]], and [[track:white-angel]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:infidels]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:maid-in-spades]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:ohgodboss]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:dogfight-dirtiests-dubstep-remix]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:rust-apocalypse-anniversary-remaster]] (thanks, Lilith!)
+    - added Tumblr commentary and better-quality background to [[album:the-planets]] (thanks, Lilith, Whisper!)
+    - added Tumblr commentary and alternate artwork to [[track:intermission-lofam4]] (thanks, Lilith, Whisper!)
+    - added Tumblr commentary to [[track:highland-thunder]] (thanks, Lilith, Lan!)
+    - added SoundCloud commentary to [[track:tragic-heights]] (thanks, Lan!)
+    - added Tumblr commentary to [[track:back-to-life]] and [[track:myststuck-suite-full-version]] (thanks, Lilith!)
+    - added SoundCloud commentary and listening link to [[track:bronze-brawling]] (thanks, Lilith, Whisper!)
+    - added Tumblr commentary and alternate artwork to [[track:hunting-the-most-dangerous-game]] (thanks, Lilith!)
+    - added SoundCloud commentary, additional name, and listening link to [[track:chronic-infection]] (thanks, Lilith!)
+    - added YouTube commentary and listening links to [[track:arcalicious]], [[track:kingdom-come]], and [[track:probable-cause]] (thanks, Lilith!)
+    - added Tumblr commentary blurb excerpt to [[album:freeroam-volume-1]] (thanks, Lilith!)
+    - added Tumblr commentary and full-size artwork to [[track:the-man-of-action-jason-ryders-theme]] (thanks, Lilith, Lan!)
+    - added Bandcamp commentary blurb (2022) and related notes to [[album:perfectly-generic-album]] (thanks, Tangle, Lilith!)
+    - added Newgrounds commentary to [[track:clockstopper-new-game-plus-all-clocks-percent]] and [[track:deadkidsgodhood]] (thanks, Whisper!)
+    - added Tumblr commentary to [[track:dawn-of-man]] (thanks, Lilith!)
+    - added commentary blurbs from Bandcamp and YouTube, as well as additional names mostly from YouTube, across [[album:the-funk-mclovin-homestuck-experience]], [[album:class-act]], and [[album:class-act-b-side]]
+    - added Bandcamp commentary blurbs across [[album:paths]] (thanks, Lilith!)
+    - added album release commentary to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
+    - added Twitter commentary to [[track:welcome-to-the-city]] and [[track:lost-girl]] (thanks, Lan!)
+    - added Tumblr commentary to [[track:horsecatska]] (thanks, Lilith!)
+    - added SoundCloud commentary and additional name to [[track:hankage-fantazumu-2]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:cascade2]] (thanks, Jebb, Lan!)
+    - added Tumblr commentary and listening links to [[track:skaian-shuffle]], [[track:valor-toby-fox]], [[track:cheer-up-crabface-its-halloween]], and [[track:flight-of-the-white-wolf]] (thanks, Lilith, Whisper!)
+    <!-- artworks -->
+    - added better-quality alternate artwork to [[track:elephant-gun]] (thanks, Lilith!)
+    <!-- additional files -->
+    - added booklet backgrounds as additional files to [[album:alternia]]
+    - added cover artwork export to [[album:homestuck-vol-6]] (thanks, Whisper!)
+    - added instrument stems to [[track:cobalt-corsair]] (thanks, Lilith!)
+    - added composer's sheet music to [[track:dapper-dueling]] (thanks, Lilith!)
+    - added composers' NSF project files to [[track:logorg]], [[track:bars-jailbreak]], [[track:drillgorg]], and [[track:retrobution]] (duplicated from album's additional files; thanks, Lan!)
+    - added composer's instrumental to [[track:arcalicious]] (thanks, Lilith, Surge!)
+    - added album release photoset to [[album:ulterior-motives]]
+    - added descriptions across nearly all additional files in [[group:official]] (thanks, Lan, Surge, Whisper!)
+    <!-- additional names -->
+    - added additional names to many tracks: (thanks, Lilith, Lan, Tangle, Whisper!)
+        - [[track:rediscover-fusion]] ("RS5" as remixed)
+        - [[track:carbon-nadsat-cuestick-genius]] (early name)
+        - [[track:chartreuse-rewind]] (early name)
+        - [[track:blackest-heart-with-honks]] (earlier MSPA credit)
+        - [[track:lies-with-the-sea]] and [[track:chain-of-prospit]] (original release, YouTube, Spotify, Apple Music)
+        - [[track:the-prelude]], [[track:revelations-i]], [[track:revelations-ii]], and [[track:revelations-iii]] (original release, as these are newly renamed)
+        - [[track:nightmare]] (working title)
+        - [[track:cascade-beta]] (original name)
+        - [[track:pumpkin-party-in-sea-hitlers-water-apocalypse]] (Tumblr)
+        - [[track:the-lyrist]] and [[track:the-lordling]] (Tumblr)
+        - [[track:jackknive]] (planned, could've been, and working names)
+        - [[track:be-the-other-guy]] (original and planned names)
+        - [[track:softbit-original-gfd-please-shut-the-fuckass-mix-by-request-demo-version]] (proposed names)
+        - [[track:ohgodboss]] (working name)
+        - [[track:rust-witch]] (working title)
+        - [[track:march-9f-the-insuffera6le]], [[track:antevorta]], [[track:50m3-gr347-4c7-0f-h3r015m]], and [[track:the-weeaboos-battle-cry]] (from albums Chimera and Ambrosios)
+        - [[track:shipping-implicatpuns]] (proposed name)
+        - [[track:in-the-beginning-basement-tale]] ([[album:basement-tale]], from commentary)
+        - [[track:megalovania-fusion-collaboration-the-hit-song-by-toby-dont-call-me-radiation-fox-off-the-hiveswap-soundtrack-ft-silver-gunner-and-james-roach]] (YouTube)
+        - [[track:highland-thunder]], [[track:cleopatras-cocktail-party]], and [[track:tragic-heights]] (Tumblr)
+        - [[track:synchronise-instrumental]], [[track:myststuck-suite-full-version]], and [[track:requiem-for-something-really-excellent-demo-p-s]] (Bandcamp)
+        - [[track:a-new-world-reprise]] ([[album:reprise]]; Bandcamp)
+        - [[track:s-disc-1]], [[track:s-disc-2]], and [[track:s-disc-3]] (YouTube)
+        - [[track:deadkidsgodhood]] (Newgrounds)
+        - [[track:brobots]] (Newgrounds)
+        - [[track:mimesiswing]] (YouTube)
+        - [[track:midnight-squared]] (Spotify)
+        - [[track:horsecatska]] (Tumblr)
+        - most tracks from [[album:perfectly-generic-album]] (YouTube)
+        - various tracks from [[album:dialed-to-11]] (YouTube, SoundCloud)
+        - all tracks from [[album:sburb-funkin-edition-ost]] (YouTube)
+    - added additional names to albums too: (thanks, Surge, Tangle, Lan!)
+        - [[album:homestuck-for-the-holidays]], [[album:lofam]], [[album:jailbreak-vol-1]], and [[album:tomb-of-the-ancestors]] (Bandcamp)
+        - [[album:lofam2]], [[album:lofam3]], and [[album:diverging-delicacies]] (Bandcamp)
+        - [[album:sburban-neighborhood]], [[album:skaias-the-limit]], and [[album:gotta-hatch-em-all]] (Bandcamp)
+        - [[album:black-richaadeb]], [[album:heir-of-grief-richaadeb]], [[album:dance-of-thorns-richaadeb]], and [[album:oppa-toby-style-richaadeb]] (YouTube, Apple Music, iTunes)
+        - [[album:cool-and-new-voulem1]], [[album:canwc-sound-test-1]] (YouTube)
+        - [[album:_]] (YouTube, Bandcamp)
+        - [[album:songs-for-doomed-timelines]] (Bandcamp; thanks, Jebb!)
+        - [[album:perfectly-generic-album]] (Bandcamp, YouTube)
+        - [[album:the-baby-is-june]] and [[album:the-baby-is-june-instrumental]] (YouTube)
+        - [[album:nibiru]] (YouTube)
+        - [[album:noirscape]] (YouTube, Spotify)
+        - [[album:dialed-to-11]], [[album:vinculum-vitae]], [[album:toxic-love]], [[album:project-s-ost-vol-1]], [[album:lordmaker]], and [[album:the-homestuck-strife-project-vol-1]] (various YouTube)
+        - [[album:s-press-play]] and [[album:friendsim-2-volume-1]] (Bandcamp)
+        - [[album:incipient-overture]] and [[album:s-forgive]] (YouTube, SoundCloud)
+        - [[album:comissions-i]] (SoundCloud)
+        - [[album:fnf-colors-and-mayhem-vol-1]] (Spotify, Apple Music)
+        - [[album:homestuck-15th-anniversary-medley]] (alternate name, YouTube)
+        - [[album:aspect-clock]] (normalized)
+        - [[album:the-vriska-mixt8pe]] (quirk-free)
+    <!-- listening links -->
+    - added YouTube listening link to [[track:versus-hardmode-remix]] (thanks, Lilith!)
+    - added YouTube listening links to [[album:running-for-eons]], [[album:repiton]], [[album:vast-error-vol-4]], [[album:catch-322]], and [[album:dead-shufflers-anything-goes]] (thanks, Lilith, Lan!)
+    - added YouTube listening links to [[track:arcalicious]], [[track:kingdom-come]], and [[track:probable-cause]] (thanks, Lilith!)
+    - added YouTube listening links to [[track:battalion-anthology-i]], [[track:your-blood-not-mine-beta]], and [[track:ephemeral-cogitation]] (thanks, Lan!)
+    - added Spotify listening links across [[album:noirscape]] (thanks, Lilith!)
+    - added Nintendo Music listening links to [[album:pokemon-scarlet-violet-super-music-collection]] and many Nintendo tracks in [[album:references-beyond-homestuck]] (thanks, ruby, vriska/leo!)
+    - removed dead listening links across [[album:super-smash-bros-ultimate]] (thanks, t2k, vriska!)
+    <!-- commentary citations -->
+    - added citations to early commentary collection across all commentary under [[group:official]] which, on the wiki, originates from there, and hasn't yet had a specific source located (thanks, Jackie-Tangle, Surge!)
+    - added citations to Tumblr commentary on [[track:sburban-jungle]] (thanks, Jackie-Tangle!)
+    - added citations to 2010-2011 era Bowman commentary on [[track:lunar-eclipse]] and [[album:midnight-crew-drawing-dead]], [[track:happy-cat-song]], [[track:hardchorale]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:ruins-with-strings]], and [[track:greenhouse]] (thanks, Lilith, Lan!)
+    - added citation for MSPA news post commentary on [[album:homestuck-vol-6]] (thanks, Lilith!)
+    - added citations for YouTube commentary on [[track:gamebro-original-1990-mix]] and [[track:tribal-ebonpyre]], and booklet commentary on [[album:alterniabound]], [[track:karkats-theme]], [[track:trollcops]] (plus citation touch-ups throughout this album), [[track:firefly-cloud]], [[track:fantasyp]], [[track:prelude]], all [[album:genesis-frog]] tracks, and [[track:breeze]]; for Tumblr commentary on [[track:anbroids-v2]] and [[album:genesis-frog]]; and for Twitter commentary on [[track:oppa-toby-style]] and [[track:heir-of-grief]] (thanks, Surge!)
+    - added citations for Tumblr commentary on [[track:do-you-remem8er-me]], [[track:unite-synchronization]], [[track:cobalt-corsair]], [[track:dapper-dueling]] (composer), [[track:pipeorgankind]], [[track:crystalmethequins]], [[track:austin-atlantis]] (composer), [[track:encore]], and [[track:carne-vale]] (thanks, Lilith!)
+    - added citations for Tumblr commentary on [[track:violet-mariner]], [[track:teal-hunter]], and [[track:rust-servant]], and much-tidied formatting (thanks, Lilith!)
+    - added citations for Bandcamp commentary blurbs on [[album:jailbreak-vol-1]] and [[album:shortcuts]] (thanks, Lilith, Lan!)
+    - added citation, plus a new entry, for Bandcamp commentary blurb on [[album:rust-apocalypse-anniversary-remaster]] (thanks, Whisper!)
+    - added citations, plus some new entries, for Bandcamp commentary blurbs on [[album:ithaca]], [[album:comfortable-bugs]], and [[album:hush]] (thanks, Lilith!)
+    - added citation for Tumblr commentary on [[track:a-baby-legend]] (thanks, Lilith!)
+    - added dates to citations for SoundCloud commentary on [[track:rediscover-fusion]] and [[track:fuchsia-ruler]]; for Tumblr commentary on [[track:doctor]], all throughout [[album:homestuck-vol-5]], and on [[track:squiddles-in-paradise]], [[track:swing-of-the-clock]], [[track:clockwork-reversal]], [[track:time-paradox]], [[track:blue-atom]], [[track:cyan-beast]], [[track:ugly-betty]], [[track:despot]], [[track:minihoofs-adventure]], [[track:encore]], [[track:expedition]], [[track:miasmajesty]], [[track:before-the-beginning-and-after-the-end]], [[track:everything-is-something-to-somebody]], [[track:three-in-the-morning-aftermath]], [[track:red-miles]], [[track:requited]], [[track:princess-of-helium]], [[track:candles-and-clockwork-alpha-version]], [[track:cairo-overcoat]], [[track:noirscape]], [[track:stargaze]], [[track:gamegrl-original-1993-mix]], and [[track:eternity-served-cold]]; and for YouTube commentary on [[track:sburban-jungle]], [[track:ocean-stars]], [[track:gold-pilot]], and [[track:orchid-horror]] (thanks, Jackie-Tangle!)
+    - added dates to citations for Tumblr commentary on [[track:ace-of-trump]] and [[track:homefree]], [[track:terezi-owns]], [[track:awakening]], [[track:play-the-wind]], [[track:lets-all-rock-the-heist]], [[track:wsw-beatdown]], [[track:white-host-green-room]], [[track:years-in-the-future]], [[track:we-walk]], [[album:prospit-and-derse]], [[track:hallowed-halls]], [[track:center-of-brilliance]], [[track:core-of-darkness]], [[track:gardener]], [[track:galactic-cancer]], [[track:bargaining-with-the-beast]], [[track:questants-lament]], [[track:drift-into-the-sun]], [[track:infinity-mechanism]], [[track:carefree-action]], [[album:coloUrs-and-mayhem-universe-a]], [[track:blue-atom]], [[track:cyan-beast]], [[track:wv-become-the-mayor-of-cans]], [[track:checkmate]], [[track:austin-atlantis]], [[track:stress]], [[track:bridge-of-stars]], [[track:lancer]] (plus email), [[track:threes-a-crowd]], [[album:one-year-older]], [[track:unlabeled]], [[track:castle]], and [[track:this-pumpkin]]; for YouTube commentary on [[track:havoc-to-be-wrought]], [[track:doctor-original-loop]], [[track:indigo-archer]], [[track:purple-tyrant]] (plus MusicBrainz), [[track:temporal-shenanigans]], and [[track:feel-alive]]; for DeviantArt commentary on [[track:rumble-at-the-rink]] and [[track:clockstopper]]; and for SoundCloud commentary on [[track:gold-mage]] and [[track:vodka-mutiny]] (thanks, Surge!)
+    - fixed a bad citation for Tumblr commentary on [[track:elephant-gun]] (was to [this post](https://kitten-burrito.tumblr.com/post/24979824333) rather than [this one](https://kitten-burrito.tumblr.com/post/24982629793); thanks, Surge!)
+    - added date to citation for YouTube and Tumblr/DeviantArt commentary on [[track:dapper-dueling]] (thanks, Whisper!)
+    - added date to citation for Tumblr commentary on [[track:jane-dargason]] (thanks, Lilith!)
+    - added date to citation for Tumblr commentary on [[track:stalemate-play-the-rain]] (thanks, Lan, Tangle!)
+---
+Section: data changes
+Changes: |-
+    <!-- overarching presentation -->
+    - consolidated [[album:archive]] as a single album on the wiki, based on 2024 release/restoration (was previously two albums, <code>archive</code> from 2016 and <code>archive-2018</code> from 2018; thanks, Whisper, Lan, Bowman, Celeste, Niklink, ruby!)
+        - added 2016 and 2018 release names to [[track:crimesters-theme]], [[track:crimesters-credits]], and [[track:awake-2013-version]]
+        - added lots of commentary and context on the album page
+        - added updated Bandcamp about and credits blurbs
+        - added Bandcamp listening links for previously bonus tracks
+        - fixed duration for [[track:bandages-archive]] (0:46 rather than 0:56; thanks, Lilith!)
+    - marked artworks to display as rectangles, like their source images, for [[track:vagabounce-remix]], [[track:afraid-of-the-darko]], [[track:revered-return]], [[track:battle-against-an-unfathomable-enemy]], [[album:nice-wizards-electronic-extravaganza]], [[track:brostuck]], [[track:waiting-for-adventure]], [[track:checkerboard-checkmate]], [[track:im-not-a-hero]], [[track:garden-of-eden-part-1]] and [[track:garden-of-eden-part-2]], [[track:maid-in-spades]], [[track:made-of-death]], [[track:rubs-juice]], [[track:ultimate-amazing-serious-remix-live-ressurection-on-stage]], [[track:afraid-of-the-spaghettio]], [[track:desscend]], [[track:hobbyist-redditstuck]], [[track:lets-all-rock-the-heist-famitracker]] and [[track:another-jungle-famitracker]] ([[album:cookiefonsters-2016-famitracker-covers]]), [[track:velvet-pillow]], [[track:delirious-biznasty]], [[track:lowas-md]], [[track:survival-repiton]], [[track:mr-orange-creamsicles]], [[track:heart-beat]], [[track:gone-in-a-moment]], [[album-gallery:incipient-overture]] (all tracks), [[track:im-a-member-of-the-midnight-crew-soapstone]] ([[artist:soapstone]]), [[track:could-i-be-a-hero-too-arcjec-voorat-vs-the-end-of-the-world]], [[track:im-sorry]], [[album:spelunky-classic]], [[album:qualia]], [[album:pokemon-sword-shield-super-music-collection]], and [[album:pokemon-scarlet-violet-super-music-collection]], plus 123 more with an aspect ratio less than 1.10:1 (thanks, Whisper, ruby!)
+    <!-- misc presentation tweaks -->
+    - styled banner for [[album:lofam]] to preserve pixelated look (thanks, Surge!)
+    - colorized tracks in [[album:rust-apocalypse]] (thanks, Lilith, Tangle!)
+    - formatted lyrics for [[track:synchronise]] with links, like [[track:s-next-arrow]] (thanks, Lilith!)
+    - adjusted spacing in lyrics for [[track:north-walk-south-walk]] (thanks, Lilith!)
+    - revised lyrics for [[track:im-your-treasure-box-you-have-found-captain-marine-in-a-treasure-chest]] (thanks, ruby!)
+    - moved Bandcamp commentary for [[track:rust-apocalypse-anniversary-remaster]] to [[album:rust-apocalypse-anniversary-remaster|its album]] (thanks, Whisper!)
+    - changed YouTube listening link for [[track:3-in-the-morning-pianokind]] to composer's upload (thanks, Surge!)
+    - fixed contest-submitted name for [[track:teal-hunter]] per artist commentary (was "Bete Blanche", now "Bête Blanche"; thanks, Tangle!)
+    - fixed formatting in Tumblr commentary for [[track:stress]] (thanks, Tangle!)
+    - fixed /shrug in [[track:solar-voyage]] (thanks, Whisper!)
+    <!-- rereleases -->
+    - marked [[track:let-me-dance-let-me-glisten]] ([[album:beforus]]) newly as a rerelease (thanks, Lilith!)
+    - marked [[track:the-sock-ruse]] ([[album:lofam4]]) newly as a rerelease (thanks, Lilith!)
+    - marked [[track:fine-with-you]] ([[album:vast-error-vol-4]]) newly as a rerelease (thanks, Lilith!)
+    - marked [[track:through-the-haze-the-green-box-set-1]] ([[album:the-green-box-set-1]]) newly as a rerelease (thanks, Jebb!)
+    - marked [[track:in-the-deep-the-green-box-set-1]] ([[album:the-green-box-set-1]]) newly as a rerelease (thanks, Jebb!)
+    - marked [[track:off-the-path-the-green-box-set-1]] ([[album:the-green-box-set-1]]) newly as a rerelease (thanks, Jebb!)
+    - marked [[track:final-movement-the-green-box-set-1]] ([[album:the-green-box-set-1]]) newly as a rerelease (thanks, Jebb!)
+    - marked [[track:vriskafic8ion-lofam5a2]] ([[album:lofam5a2]]) newly as a rerelease (thanks, Lilith!)
+    - marked [[track:moonslayer-lofam5a2]] ([[album:lofam5a2]]) newly as a rerelease (thanks, Lilith!)
+    <!-- moved tracks, track section changes -->
+    - added descriptions to track sections in [[album:homestuck-vol-1-4]], [[album:homestuck-vol-8]], [[album:alternia]], and [[album:one-year-older]] (thanks, Surge, Whisper!)
+    - divided "Main album" section of [[album:genesis-frog]] into "Genesis", "Consorts", "Frogs", and "Big Frog" (thanks, Lilith, Whisper, Makin!)
+    - moved [[track:gasters-theme-pga]] ([[album:perfectly-generic-album]]) from main track list to new "Removed in 2022 release" section (thanks, Tangle!)
+    - moved [[track:thunderhead-loftlocked]] from [[album:more-homestuck-fandom]] to [[album:loftlocked-vol-1]] (thanks, Lilith!)
+    - moved [[track:little-miss-fortune]] from [[album:more-homestuck-fandom]] to [[album:in-medias-res]] (thanks, Jackie!)
+    - moved [[track:an-apple-disaster]] from [[album:references-beyond-homestuck]] to [[album:improvised-touhou-music-with-annoying-commentary]] (thanks, Lilith!)
+    <!-- other moved misc -->
+    - moved "The Straggler" additional file from [[album:lofam]] additional files to [[track:sburban-rush]]
+    <!-- general removals -->
+    - removed "Infection 2" and made this into an additional name on [[track:chronic-infection]] (and added commentary here; thanks, Lilith!)
+    - <s>removed "Flare (Green Sun Remix)" and made this into an additional name on [[track:flare-insurrection-remix]] (which was previously listed as a rerelease)</s>
+        - added release date and cover artwork to [[track:flare-green-sun-remix]] (thanks, Whisper!)
+        - added Tumblr commentary to [[track:flare-green-sun-remix]] (thanks, Lilith!)
+---
+Section: data fixes
+Changes: |-
+    <!-- reference fixes -->
+    - fixed [[track:fiduspawn-go]] not referencing [[track:title-screen-pokemon-red-blue]] (thanks, ruby!)
+    - fixed [[track:cascade-beta]] not referencing [[track:descend2-11-24-2010]] (thanks, Tangle!)
+    - fixed [[track:skaian-overdrive]] not referencing [[track:skaian-overdrive-original]] (original recording), and moved [[track:skaian-ride]] and [[track:sburban-jungle]] references to that track (thanks, Lilith!)
+    - fixed [[track:freefall]] referencing [[track:cascade-beta]] instead of [[track:cascade2]]
+    - fixed [[track:feel-alive]] referencing [[track:feel-old-ver]] instead of [[track:feel-luke-benjamins]], and [[track:feel-old-ver]] referencing [[track:feel-luke-benjamins]] instead of the other way around (thanks, Lilith, Whisper, ruby!)
+    - fixed [[track:teal-justice]] referencing [[track:teal-hunter]] instead of [[track:teal-hunter-white-dragon]] (thanks, Lilith!)
+    - fixed [[track:hankage-fantazumu]] and [[track:penumbra]] referencing [[track:pseudumbra-phauxtasm]] instead of [[track:vaporwave-2016-track1]], and not also sampling this track (thanks, Lilith!)
+    - fixed [[track:vaporwave-2016-track1]] referencing [[track:pseudumbra-phauxtasm]], instead of the other way around (thanks, Tangle, Lan, ruby, Lilith!)
+    - fixed [[track:vaporwave-2016-track1]] referencing [[track:lisa-frank-420-modern-computing]] and [[track:wonderwall]] instead of sampling them (thanks, Lilith, Whisper!)
+    - fixed [[track:megalovania-fusion-collaboration-the-hit-song-by-toby-dont-call-me-radiation-fox-off-the-hiveswap-soundtrack-ft-silver-gunner-and-james-roach]] not sampling (and referencing) [[track:boy-meets-girl]] (thanks, Lilith!)
+    - fixed [[track:arise-canmt]] referencing [[track:un-owen-was-her]] instead of [[track:final-savage-sister-flandre-s]] (thanks, Lilith!)
+    - fixed [[track:apexhalation]] referencing [[track:ham-and-steak]], instead of the other way around (thanks, Grace, Niklink, Surge, Lilith!)
+    - fixed [[track:chronic-infection]] referencing [[track:chronic-jungle]] instead of [[track:chronic-jungle-redone]] (thanks, Lilith!)
+    - fixed [[track:candles-potency]] not referencing [[track:candles-and-potency]], and moved [[track:candles-and-clockwork]] reference to that track (thanks, Lilith!)
+    - fixed [[track:probable-cause]] not also sampling its referenced tracks (thanks, Lilith!)
+    - fixed [[track:adventurous-ascent]] ([[album:lofam5a2]]) not referencing [[track:adventurous-ascent-single-version]] (thanks, Lilith!)
+    - fixed [[track:the-epic-of-jack-noir]] not referencing [[track:dominus-decem-propugnator]] (thanks, Jebb!)
+    - fixed [[track:sea-patrol-ocean-quarrel]] and [[track:sea-patrol-ocean-calm]] not referencing [[track:snowfalls]] (thanks, Witch's Cadence!)
+    - fixed [[track:cinders-oceanfalls]] not referencing [[track:snowfalls]] (thanks, Witch's Cadence!)
+    - fixed [[track:peaceful-pirates]] not referencing [[track:snowfalls]] (thanks, Witch's Cadence!)
+    - fixed [[track:anarchy-gravity-makes-the-flame-rise]] not sampling [[track:nothing-but-the-best]] (thanks, ruby!)
+    - fixed [[track:welcome-to-the-city]] referencing [[track:almost-to-the-guys]], instead of the other way around, and not referencing [[track:74]] (thanks, ruby, Cello, FF!)
+    - fixed [[track:nows-your-chance-to-be-a]] and [[track:big-shot]] not sampling [[track:wow-mother]] (thanks, ruby!)
+    - fixed [[track:his-torment]] not referencing [[track:royal-blood]] (thanks, Witch's Cadence!)
+    - fixed [[track:royal-blood]] referencing [[track:sovereign-domain]] instead of [[track:rigid-reflex]] (thanks, Witch's Cadence!)
+    - fixed [[track:raze-in-vitriol]] referencing [[track:swaying-chains]] instead of [[track:sage-chains]] (thanks, Witch's Cadence!)
+    - fixed [[track:bastard-contract]] not referencing [[track:know-thyself]], [[track:the-cavern-of-illusions]], or [[track:yellow-and-purple]] (thanks, Witch's Cadence!)
+    - fixed [[track:done-with-your-nonsense]] not referencing [[track:ambiguous-amnesiac]] (thanks, Witch's Cadence!)
+    - fixed [[track:lune-fumo-real]] not referencing [[track:right-hand]] (thanks, Witch's Cadence!)
+    - fixed [[track:festive-domain]] referencing [[track:rainfalls]] instead of [[track:rozepiano]] (thanks, Lan!)
+    - fixed [[track:cascade2]] not referencing or sampling any tracks (thanks, Lan!)
+    - fixed [[track:cheer-up-crabface-its-halloween]] not referencing [[track:crustacean]] and [[track:rex-duodecim-angelus]] (thanks, Lilith!)
+    - fixed [[track:valor-toby-fox]] not referencing [[track:showtime-original-mix]] (thanks, Lilith!)
+    - fixed [[track:final-savage-all-voice]] ([[artist:beat-throat-mario]]) referencing [[track:un-owen-was-her]] instead of [[track:final-savage-sister-flandre-s]] (thanks, Lilith!)
+    <!-- crediting fixes -->
+    - fixed [[track:happy-cat-song]] crediting [[artist:michael-guy-bowman]] before [[artist:toby-fox]], as co-artists (thanks, Lilith, Whisper!)
+    - fixed [[track:unite-synchronization]], [[track:scourge-sisters]], [[track:console-thunder]], and [[track:this-is-the-end]] track artworks all crediting [[artist:cadalyst]] instead of [[artist:rebecca-harding]] (thanks, Lilith, Tangle!)
+    - fixed [[track:renewed-return]] crediting [[artist:kyle-g-jamolin]] with two separate credits inside same contributor list (thanks, Whisper, Lilith!)
+    - fixed [[track:the-will-to-fight-further]] not crediting [[artist:marcy-nabors]] for Shreddage guitar (thanks, Lilith, Lan, ruby, Rainy, Whisper!)
+    - fixed [[track:vaporwave-2016-track1]] not crediting [[artist:marcy-nabors]] as co-artist (thanks, Lilith!)
+    - fixed [[track:hankage-fantazumu-2]] not crediting [[artist:difarem]] - nor anyone at all! - as artist (thanks, Lilith!)
+    - fixed [[track:voids-edge]] not crediting [[artist:rainy]] as co-artist (thanks, Lilith!)
+    - fixed [[track:skies-forever-blue]] and [[track:off-vocal-skies-forever-blue]] not crediting [[artist:toby-fox]] and [[artist:itoki-hana]] with specific contributions (thanks, ruby!)
+    - fixed all tracks in [[album:unknown-diva]], as well as [[track:betsu-sekai]], [[track:chuuku-no-niwa]], [[track:tenshi-no-agape]], and [[track:tokusya-seizon-wonder-la-der]], specifying "vocals" credits in artists instead of contributors (thanks, ruby!)
+    - fixed [[track:in-the-end]] crediting [[artist:limp-bizkit]] instead of [[artist:linkin-park]] (thanks, Cello, Jebb!)
+    - fixed [[track:roundabout]] crediting Eddie Offord (as artist) in addition to [[artist:yes]] (thanks, Cello, Lan, Whisper!)
+    - fixed [[track:woah-chris]] not crediting [[artist:chris-oniell]] for voice (thanks, Lan!)
+    <!-- merged artists -->
+    - fixed [[artist:bright0n]] having some credits under another name (thanks, Lilith!)
+    - fixed [[artist:corbin-pangilinan]] having some credits under another name (thanks, Lilith!)
+    - fixed [[artist:rachel-lake]] having some credits under another name (thanks, Rainy, Lilith!)
+    - fixed [[artist:twirlin-curtis]] having some credits under another name (thanks, Makin, Lilith!)
+    - fixed [[artist:waif]] having some credits under another name (thanks, Makin, Whisper, Lilith!)
+    <!-- track section fixes -->
+    - fixed [[track:a-new-world-reprise]] ([[album:reprise]]) not being listed as a bonus track (thanks, Tangle!)
+    - fixed [[track:the-song-of-all-time]] not being listed as a bonus track (thanks, Lan!)
+    <!-- name fixes (subsections) -->
+    - fixed some [[group:official]] tracks' names not aligning with Homestuck's Bandcamp (thanks, Lilith!)
+        - fixed [[track:walls-covered-in-blood]] being named "Walls Covered in Blood" (lowercase "in")
+        - fixed [[track:requiem-of-sunshine-and-rainbows]] being named "Requiem of Sunshine and Rainbows" (lowercase "of", "and")
+        - fixed [[track:lilith-in-starlight]] being named "Lilith in Starlight" (lowercase "in")
+    - fixed some [[group:official]] tracks' names not aligning with later releases on composers' personal Bandcamps (thanks, Lilith!)
+        - fixed [[track:the-prelude]] being named "The Prelude"
+        - fixed [[track:revelations-i]], [[track:revelations-ii]], and [[track:revelations-iii]] being named "Revelations I", "Revelations II", and "Revelations III" (no comma)
+        - original names on Homestuck discography (also for [[track:lies-with-the-sea]] and [[track:chain-of-prospit]]) are included as additional names
+    - fixed some [[group:fandom]] tracks' names not aligning with their own releases (thanks, Surge!)
+        - fixed [[track:in-the-beginning]] ([[album:the-genesis-project-vol-1]]) being named "In the Beginning" (lowercase "the")
+        - fixed [[track:configure-the-universe]] being named "Configure the Universe" (lowercase "the")
+    - fixed some [[group:beyond]] tracks' names not aligning with composers' releases (thanks, Lilith!)
+        - fixed [[track:kalesa-in-binondo]] being named "Kalesa In Binondo" (uppercase "In")
+        - fixed [[track:north-walk-south-walk]] being named "North Walk / South Walk" (spaces around slashes)
+        - fixed [[track:hues-tone]] being named "Hues / Tone" (spaces around slashes)
+    - <details><summary>fixed <b>some tracks' names</b> not aligning with the Nintendo Music app (thanks, ruby!)</summary><ul>
+        <li>fixed [[track:welcome-to-paldea]] being named "Welcome to the Paldea region!"</li>
+        <li>fixed [[track:across-the-skies-of-paldea]] being named "Soar through the Paldea Skies"</li>
+        <li>fixed [[track:first-meeting]] being named "Meetings"</li>
+        <li>fixed [[track:becoming-stronger]] being named "Let's Try to Get Stronger!"</li>
+        <li>fixed [[track:by-the-shore]] being named "On the Beach"</li>
+        <li>fixed [[track:going-through-the-inlet-grotto]] being named "Go Through the Cave in the Cove"</li>
+        <li>fixed [[track:battle-in-the-grotto]] being named "Battle in the Cave"</li>
+        <li>fixed [[track:escape-from-the-cave]] being named "Escape from the Cave!" (exclamation mark)</li>
+        <li>fixed [[track:a-test-of-strength]] being named "It's a Test of Strength!"</li>
+        <li>fixed [[track:battle-south-province-wild-pokemon]] being named "Battle! (Wild Pokémon in the South)"</li>
+        <li>fixed [[track:pokemon-healed-pokemon-scarlet-violet]] being named "Recovery"</li>
+        <li>fixed [[track:a-stroll-through-the-south-province]] being named "Walk Through the South Province"</li>
+        <li>fixed [[track:a-tune-at-mesagoza]] being named "One Song in Mesagoza, If You Please"</li>
+        <li>fixed [[track:team-star]] being named "Team Star!" (exclamation mark)</li>
+        <li>fixed [[track:a-call-from-cassiopeia]] being named "Phone Call from Cassiopeia"</li>
+        <li>fixed [[track:your-dorm-room]] being named "The Academy - Your Room"</li>
+        <li>fixed [[track:a-short-rest-pokemon-scarlet-violet]] being named "Take a Break"</li>
+        <li>fixed [[track:starting-the-treasure-hunt]] being named "Start the Treasure Hunt!"</li>
+        <li>fixed [[track:battle-trainer-pokemon-scarlet-violet]] being named "Battle! (Trainer Battle)"</li>
+        <li>fixed [[track:victory-trainer-pokemon-scarlet-violet]] being named "Victory! (Trainer Battle)"</li>
+        <li>fixed [[track:time-to-eat]] being named "Let's Eat!"</li>
+        <li>fixed [[track:a-super-delicious-sandwich]] being named "Meal - It's Really Tasty!"</li>
+        <li>fixed [[track:a-pretty-delicious-sandwich]] being named "Meal - It's Pretty Tasty!"</li>
+        <li>fixed [[track:a-good-sandwich]] being named "Meal - Not Bad!"</li>
+        <li>fixed [[track:a-not-so-good-sandwich]] being named "Meal - It's Maybe... Not So Great"</li>
+        <li>fixed [[track:gym-reception]] being named "Gym Lobby"</li>
+        <li>fixed [[track:passed-the-gym-test]] being named "You've Passed the Gym Test!"</li>
+        <li>fixed [[track:battle-and-victory-gym-leader]] being named "Battle! (Gym Leader) / Victory! (Gym Leader)"</li>
+        <li>fixed [[track:obtained-a-badge-pokemon-scarlet-violet]] being named "Obtained a Gym Badge!"</li>
+        <li>fixed [[track:battle-west-province-wild-pokemon]] being named "Battle! (Wild Pokémon in the West)"</li>
+        <li>fixed [[track:tera-raid-battle]] being named "Tera Raid Battle!" (exclamation mark)</li>
+        <li>fixed [[track:a-stroll-through-the-asado-desert]] being named "Walk Through the Asado Desert"</li>
+        <li>fixed [[track:still-at-the-gym-test]] being named "The Gym Test's Not Over!"</li>
+        <li>fixed [[track:second-battle-against-the-titan]] being named "Confront the Titan Again"</li>
+        <li>fixed [[track:a-brief-moment]] being named "Just a Moment"</li>
+        <li>fixed [[track:a-new-power-for-your-ride]] being named "Your Ride Ability Went Up!"</li>
+        <li>fixed [[track:a-stroll-through-the-west-province]] being named "Walk Through the West Province"</li>
+        <li>fixed [[track:time-to-relax]] being named "Heartwarming Time"</li>
+        <li>fixed [[track:battle-east-province-wild-pokemon]] being named "Battle! (Wild Pokémon in the East)"</li>
+        <li>fixed [[track:the-iono-zone]] being named "Iono Zone!"</li>
+        <li>fixed [[track:ello-ello-hola-ciao-and-bonjour]] being named "'Ello, 'Ello, Hola! Ciao and Bonjour!" (capitalization)</li>
+        <li>fixed [[track:a-stroll-through-the-east-province]] being named "Walk Through the East Province"</li>
+        <li>fixed [[track:the-names-clive]] being named "Right Now I'm Clive"</li>
+        <li>fixed [[track:raiding-the-base]] being named "C'mon, Let's Raid the Place!"</li>
+        <li>fixed [[track:star-barrage-finished]] being named "Star Barrage Completed!"</li>
+        <li>fixed [[track:a-team-star-boss-appears]] being named "Team Star Boss Appears!"</li>
+        <li>fixed [[track:battle-north-province-wild-pokemon]] being named "Battle! (Wild Pokémon in the North)"</li>
+        <li>fixed [[track:the-opening-act]] being named "Opening Act!"</li>
+        <li>fixed [[track:mc-of-rip]] being named "Soulful Beat!"</li>
+        <li>fixed [[track:a-stroll-through-the-north-province]] being named "Walk Through the North Province"</li>
+        <li>fixed [[track:the-pokemon-league-interview]] being named "The Pokémon League Interview"</li>
+        <li>fixed [[track:passed-the-interview]] being named "You Passed the Interview Phase!"</li>
+        <li>fixed [[track:the-pokemon-league-pokemon-scarlet-violet]] being named "Pokémon League"</li>
+        <li>fixed [[track:together-with-nemona]] being named "With Nemona"</li>
+        <li>fixed [[track:my-one-and-only-rival]] being named "The Only Rival"</li>
+        <li>fixed [[track:battle-director-clavell]] being named "Battle! (Principal Clavell)"</li>
+        <li>fixed [[track:hasta-la-vistar]] being named "Hasta la vistar"</li>
+        <li>fixed [[track:finishing-the-treasure-hunt]] being named "You Completed the Treasure Hunt!"</li>
+        <li>fixed [[track:battle-area-zero-pokemon]] being named "Battle! (Pokémon in Area Zero)"</li>
+        <li>fixed [[track:the-gate-opens]] being named "The Gate is Open"</li>
+        <li>fixed [[track:battle-area-zero-pokemon-2]] being named "Battle! (Pokémon in Area Zero) 2"</li>
+        <li>fixed [[track:activating-offensive-protocols]] being named "Battle Program Activated"</li>
+        <li>fixed [[track:paradise-protection-protocol-initialized]] being named "Paradise Protection Protocol"</li>
+        <li>fixed [[track:battle-koraidon-miraidon]] being named "Battle! (■■■■)"</li>
+        <li>fixed [[track:i-bid-you-adieu]] being named "Bon Voyage!"</li>
+        <li>fixed [[track:get-a-little-more-fun-out-of-this-adventure]] being named "Let's Take the Scenic Route Home"</li>
+        <li>fixed [[track:the-academy-ace-tournament]] being named "Academy Ace Tournament"</li>
+        <li>fixed [[track:the-battle-stadium]] being named "Battle Stadium"</li>
+        <li>fixed [[track:pokedex-evaluation-its-perfect-pokemon-scarlet-violet]] being named "Pokédex Evaluation - It's Perfect!"</li>
+        <li>fixed [[track:carmine-and-kieran]] being named "Ex-c-c-change"</li>
+        <li>fixed [[track:the-land-of-kitakami]] being named "Kitakami"</li>
+        <li>fixed [[track:battle-kitakami-pokemon]] being named "Battle! (Pokémon in Kitakami)"</li>
+        <li>fixed [[track:photo-pokemon-march-the-hidden-treasure-of-area-zero]] being named "Photography: March"</li>
+        <li>fixed [[track:photo-battle-the-hidden-treasure-of-area-zero]] being named "Photography: Victory"</li>
+        <li>fixed [[track:photo-pokemon-lullaby-the-hidden-treasure-of-area-zero]] being named "Photography: Lullaby"</li>
+        <li>fixed [[track:historic-signboard]] being named "History of the Signboard"</li>
+        <li>fixed [[track:together-with-kieran]] being named "With Perrin"</li>
+        <li>fixed [[track:the-festival-of-masks]] being named "Festival of Masks"</li>
+        <li>fixed [[track:ogre-oustin]] being named "Ogre Oustin'!" (exclamation mark)</li>
+        <li>fixed [[track:ogre-oustin-completed]] being named "Cleared Ogre Oustin'!"</li>
+        <li>fixed [[track:the-mysterious-child-who-dropped-their-mask]] being named "The Mysterious Child Who Dropped a Mask"</li>
+        <li>fixed [[track:the-true-history]] being named "The Real History"</li>
+        <li>fixed [[track:twisted-pokemon-scarlet-violet]] being named "Distortion"</li>
+        <li>fixed [[track:the-loyal-three-return]] being named "The Loyal Three Come Back to Life"</li>
+        <li>fixed [[track:the-loyal-three-cause-trouble]] being named "The Loyal Three Wreak Havoc"</li>
+        <li>fixed [[track:battle-loyal-three]] being named "Battle! (The Loyal Three)"</li>
+        <li>fixed [[track:caught-ogerpon]] being named "Caught an Ogerpon"</li>
+        <li>fixed [[track:a-moment-of-honesty]] being named "They're Relaxed Now"</li>
+        <li>fixed [[track:i-need-to-become-stronger]] being named "I Have to Become Stronger"</li>
+        <li>fixed [[track:to-the-terarium]] being named "To the Dome"</li>
+        <li>fixed [[track:welcome-to-the-terarium]] being named "This is the Terarium Dome!"</li>
+        <li>fixed [[track:battle-terarium-pokemon]] being named "Battle! (Pokémon in the Terarium)"</li>
+        <li>fixed [[track:a-regular-day-at-bb-academy]] being named "Daily Life at the Academy"</li>
+        <li>fixed [[track:your-bb-dorm-room]] being named "Blueberry Academy - Your Room"</li>
+        <li>fixed [[track:battle-terarium-tera-pokemon]] being named "Battle! (Tera Pokémon in the Terarium)"</li>
+        <li>fixed [[track:the-flying-time-trial]] being named "Flying Time Trial!"</li>
+        <li>fixed [[track:elite-trial-completed]] being named "You Completed the Elite Trial!"</li>
+        <li>fixed [[track:true-feelings]] being named "True Intentions"</li>
+        <li>fixed [[track:kieran-defeated]] being named "The Defeated Kieran"</li>
+        <li>fixed [[track:terapagos-reawakened]] being named "Terapagos Comes Back to Life"</li>
+        <li>fixed [[track:what-the-hidden-treasure-needs]] being named "Conditions of the Hidden Treasure"</li>
+        <li>fixed [[track:terapagos-goes-berserk]] being named "Terapagos Goes Rampage"</li>
+        <li>fixed [[track:battle-terapagos-the-hidden-treasure-of-area-zero]] being named "Battle! (Terapagos - The Hidden Treasure of Area Zero)" (punctuation)</li>
+        <li>fixed [[track:caught-terapagos]] being named "Caught the Terapagos!"</li>
+        <li>fixed [[track:starting-over-from-zero]] being named "Once Again, Starting from Zero"</li>
+        <li>fixed [[track:studying-together-with-team-star]] being named "Star Training Centers! Team Star"</li>
+        <li>fixed [[track:the-curse-of-the-village]] being named "A Village Curse...?"</li>
+        <li>fixed [[track:a-drone-a-pokemon-its-binding-mochi]] being named "A Drone? A Pokémon? It's a Binding Mochi!"</li>
+        <li>fixed [[track:title-screen-2-pokemon-scarlet-violet]] (the second one) being named "Title Screen 2"</li>
+        <li>fixed [[track:apartment-hangout]] being named "In the Room"</li>
+        <li>fixed [[track:bathing-nintendogs]] being named "Bathtime Theme"</li>
+        <li>fixed [[track:crocodile-cacophony-k-rools-theme]] being named "Crocodile Cacophony"</li>
+        <li>fixed [[track:invincibility-bgm-smb]] being named "Invincibility Theme (Super Mario Bros.)"</li>
+        <li>fixed [[track:k-rool-returns-title-theme]] being named "K. Rool Returns"</li>
+        <li>fixed [[track:kasss-theme-song-of-the-hero-ver]] being named "Kass's Theme (Song of the Hero ver.)" (lowercase "ver")</li>
+        <li>fixed [[track:main-theme-wii-shop-channel]] being named "Wii Shop Channel"</li>
+        <li>fixed [[track:2017-nintendo-switch-presentation-trailer]] being named "Nintendo Switch Presentation 2017 Trailer BGM"</li>
+        <li>fixed [[track:miniboss-hideout-i-kraid]] being named "Kraid's Chamber"</li>
+        <li>fixed [[track:parasite-queen-battle]] being named "Vs. Parasite Queen"</li>
+        <li>fixed [[track:snakey-chantey-rattle-battle]] being named "Snakey Chantey"</li>
+        <li>fixed [[track:song-of-storms]] being named 'Ocarina "Song of Storms"'</li>
+    </ul></details>
+    <!-- name fixes (single-lines) -->
+    - fixed [[track:carbon-nadsat-cuestick-genius]] being named "Carbon Nadsat / Cuestick Genius" (spaces around slash; thanks, Pyryte, Lilith, Lan!)
+    - fixed [[track:cascade2]] being named "Cascading Events" (thanks, Lan!)
+    - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
+    - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
+    - fixed [[track:lets-start-an-adventure]] being named "Onett Theme" (thanks, ruby, Lan!)
+    - fixed [[track:relic-song-pokemon-black-white]] being named "Relic Song (Pokémon Black 2 / Pokémon White 2)" (thanks, ruby!)
+    - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
+    - fixed [[tag:kade-desynced]] being named "Kate's dad (Desynced)", and [[tag:ella-desynced]] being named "Evan's mum (Desynced)" (thanks, Jebb!)
+    <!-- general data fixes -->
+    - fixed duration of [[track:wanderlust-redditstuck]] (was 3:52, now 3:24; thanks, Lilith, Lan, Makin!)
+    - fixed duration of many Nintendo tracks to align with Nintendo Music (thanks, ruby!)
+    - fixed formatting of "original name" additional name on [[track:showtime-original-mix]] (was wrapped in parentheses; thanks, Surge!)
+    - fixed citations for "[BONUS]" additional names on [[track:pondsquatter-live-chamber-version]] and [[track:frogsong]] (was "album download", now "original release"; thanks, Lilith!)
+    <!-- additional file fixes -->
+    - fixed [[album:homestuck-vol-4]] not listing "Homestuck_Vol4_alt9.jpg" additional file (thanks, Lilith!)
+    <!-- art tag fixes -->
+    - added [[tag:hadron-kaleido]] tag to [[track:even-in-death-tmorras-belly-mix]] (thanks, Amberlina, Whisper, Lilith!)
+    - added [[tag:pm]] and [[tag:jack-noir]] tags to [[track:grimbark]] (thanks, Lilith!)
+    - added [[tag:charlie-davis-desynced]] tag to [[track:midnight-squared]] (thanks, Lilith!)
+    - added [[tag:prospit]] to [[track:until-my-blood-runs-dry]] and fixed [[tag:derse]] being tagged twice (thanks, Jebb!)
+    - added [[tag:michael-guy-bowman|Bowman]] tag to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
+    - added corpse and blood (abstract) warnings to [[track:frog-eater-lofam5a2]] artwork (thanks, Tangle, Lilith, Lan!)
+    <!-- lyric fixes -->
+    - fixed some lyrics in [[track:vs-bros]] (thanks, Lilith!)
+        - was missing "(JOHN: How much further can he go at this?)"
+        - was missing speaker in "(DAVE: He's gonna run out of words sometime!)"
+    - updated lyrics formatting in [[track:fatalism]], [[track:aquasex-renegade]], [[track:puppeteer-beforus]] and fixed various commentary transcription typos in [[album:beforus]] (thanks, Lilith!)
+    - fixed spacing in lyrics for [[track:squiddles-the-movie-trailer-the-day-the-unicorns-couldnt-play]]
+    <!-- listening link fixes -->
+    - fixed Apple Music listening links for [[album:dance-of-thorns-richaadeb]] and [[album:oppa-toby-style-richaadeb]] ([[artist:richaadeb]]; thanks, Tangle!)
+    - fixed YouTube listening link for [[album:oppa-toby-style-richaadeb]] ([[artist:richaadeb]]; thanks, Tangle!)
+    - fixed YouTube listening link for [[track:un-owen-was-her]] (was to [unofficial "full version"](https://www.youtube.com/watch?v=8jJZA-O_B78); thanks, Lilith!)
+    - fixed SoundCloud link in booklet commentary for [[track:tragic-heights]] (was to [Highland Thunder](https://soundcloud.com/eidolonorpheus/highland-thunder); thanks, Lilith!)
+    - fixed wiki-archive listening link for [[track:searching-the-desert-for-chiptunes]] (thanks, Geese, Lan, Lilith!)
+    - removed "?in=" from SoundCloud track links, affecting albums [[album:7th-gate-project]], [[album:aspect-clock]], [[album:a-viral-medium-vol-1]], [[album:incipient-overture]], [[album:crossmound-vol-1]], and [[album:vinculum-vitae]] (thanks, Lan!)
+    - removed country codes from Apple Music links, affecting albums [[album:funkstuck-24]] and [[album:references-beyond-homestuck]], and various artists (thanks, Lan!)
+---
+Section: directory changes
+Changes: |-
+    <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
+    - changed directory of [[track:through-the-haze-the-green-box-set-1]] from <code>through-the-haze</code> to <code>through-the-haze-the-green-box-set-1</code> (thanks, Jebb!)
+    - changed directory of [[track:in-the-deep-the-green-box-set-1]] from <code>in-the-deep</code> to <code>in-the-deep-the-green-box-set-1</code> (thanks, Jebb!)
+    - changed directory of [[track:off-the-path-the-green-box-set-1]] from <code>off-the-path</code> to <code>off-the-path-the-green-box-set-1</code> (thanks, Jebb!)
+    - changed directory of [[track:final-movement-the-green-box-set-1]] from <code>final-movement</code> to <code>final-movement-the-green-box-set-1</code> (thanks, Jebb!)
+    - changed directory of [[track:f-climbing-lofam5]] from <code>f-climbing-lofam4</code> to <code>f-climbing-lofam5</code> (thanks, Lilith!)
+    - changed directory of [[track:risk-repiton]] from <code>risk-vast-error</code> to <code>risk-repiton</code> (thanks, Lan!)
+    - changed directory of [[track:his-honorable-tyranny-genesis-genocide]] from <code>his-honorable-tyranny-2</code> to <code>his-honorable-tyranny-genesis-genocide</code> (thanks, Lan!)
+    - changed directory of [[track:moonslayer-lofam5a2]] from <code>moonslayer</code> to <code>moonslayer-lofam5a2</code> (thanks, Lilith!)
+    - changed directory of [[track:friendzone-coffee-with-zebruh-codakk]] from <code>friendzone-cofee-with-zebruh-codakk</code> to <code>friendzone-coffee-with-zebruh-codakk</code> (thanks, Lan!)
+    - changed directory of [[track:wraith-dare]] from <code>wraith</code> to <code>wraith-dare</code> (thanks, Lan!)
+    - changed directory of [[track:seed-dare]] from <code>seed</code> to <code>seed-dare</code> (thanks, Lan!)
+    - changed directory of [[track:downbeat-dare]] from <code>downbeat</code> to <code>downbeat-dare</code> (thanks, Lan!)
+    - changed directory of [[track:nightlight-dare]] from <code>nightlight</code> to <code>nightlight-dare</code> (thanks, Lan!)
+    - changed directory of [[track:periphery-dare]] from <code>periphery</code> to <code>periphery-dare</code> (thanks, Lan!)
+    - changed directory of [[track:battle-wild-pokemon-pokemon-sun-pokemon-moon-ssbu]] from <code>battle-wild-pokemon-sun-pokemon-moon-ssbu</code> to <code>battle-wild-pokemon-pokemon-sun-pokemon-moon-ssbu</code> (thanks, Lan!)
+    - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
+    - changed directory of [[track:sans-ch2]] from <code>sans-deltarune-ch2</code> to <code>sans-ch2</code> (thanks, Lan!)
+    - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
+    - changed directory of [[track:lets-start-an-adventure]] from <code>onett-theme</code> to <code>onett</code> (thanks, ruby!)
+    - changed directory of [[track:relic-song-pokemon-black-white]] from <code>relic-song-pokemon-black-2-white-2</code> to <code>relic-song-pokemon-black-white</code> (thanks, ruby!)
+    - changed directory of [[track:woah-chris]] from <code>woah</code> to <code>woah-chris</code> (thanks, Lan!)
+    - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
+    - changed directory of [[artist:takahiro-yamada-asian-kung-fu]] from <code>takahiro-yamada</code> to <code>takahiro-yamada-asian-kung-fu</code>
+    </details>
+    <details><summary><b>Toggle Directorylog</b> (Nintendo Music changes; thanks, ruby!)</summary>
+    - changed directory of [[track:welcome-to-paldea]] from <code>welcome-to-the-paldea-region</code> to <code>welcome-to-paldea</code>
+    - changed directory of [[track:across-the-skies-of-paldea]] from <code>soar-through-the-paldea-skies</code> to <code>across-the-skies-of-paldea</code>
+    - changed directory of [[track:first-meeting]] from <code>meetings</code> to <code>first-meeting</code>
+    - changed directory of [[track:becoming-stronger]] from <code>lets-try-to-get-stronger</code> to <code>becoming-stronger</code>
+    - changed directory of [[track:by-the-shore]] from <code>on-the-beach</code> to <code>by-the-shore</code>
+    - changed directory of [[track:going-through-the-inlet-grotto]] from <code>go-through-the-cave-in-the-cove</code> to <code>going-through-the-inlet-grotto</code>
+    - changed directory of [[track:battle-in-the-grotto]] from <code>battle-in-the-cave</code> to <code>battle-in-the-grotto</code>
+    - changed directory of [[track:a-test-of-strength]] from <code>its-a-test-of-strength</code> to <code>a-test-of-strength</code>
+    - changed directory of [[track:battle-south-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-south</code> to <code>battle-south-province-wild-pokemon</code>
+    - changed directory of [[track:pokemon-healed-pokemon-scarlet-violet]] from <code>recovery-pokemon-scarlet-violet</code> to <code>pokemon-healed-pokemon-scarlet-violet</code>
+    - changed directory of [[track:a-stroll-through-the-south-province]] from <code>walk-through-the-south-province</code> to <code>a-stroll-through-the-south-province</code>
+    - changed directory of [[track:a-tune-at-mesagoza]] from <code>one-song-in-mesagoza-if-you-please</code> to <code>a-tune-at-mesagoza</code>
+    - changed directory of [[track:a-call-from-cassiopeia]] from <code>phone-call-from-cassiopeia</code> to <code>a-call-from-cassiopeia</code>
+    - changed directory of [[track:your-dorm-room]] from <code>the-academy-your-room</code> to <code>your-dorm-room</code>
+    - changed directory of [[track:a-short-rest-pokemon-scarlet-violet]] from <code>take-a-break-pokemon-scarlet-violet</code> to <code>a-short-rest-pokemon-scarlet-violet</code>
+    - changed directory of [[track:starting-the-treasure-hunt]] from <code>start-the-treasure-hunt</code> to <code>starting-the-treasure-hunt</code>
+    - changed directory of [[track:battle-trainer-pokemon-scarlet-violet]] from <code>battle-trainer-battle-pokemon-scarlet-violet</code> to <code>battle-trainer-pokemon-scarlet-violet</code>
+    - changed directory of [[track:victory-trainer-pokemon-scarlet-violet]] from <code>victory-trainer-battle-pokemon-scarlet-violet</code> to <code>victory-trainer-pokemon-scarlet-violet</code>
+    - changed directory of [[track:time-to-eat]] from <code>lets-eat</code> to <code>time-to-eat</code>
+    - changed directory of [[track:a-super-delicious-sandwich]] from <code>meal-its-really-tasty</code> to <code>a-super-delicious-sandwich</code>
+    - changed directory of [[track:a-pretty-delicious-sandwich]] from <code>meal-its-pretty-tasty</code> to <code>a-pretty-delicious-sandwich</code>
+    - changed directory of [[track:a-good-sandwich]] from <code>meal-not-bad</code> to <code>a-good-sandwich</code>
+    - changed directory of [[track:a-not-so-good-sandwich]] from <code>meal-its-maybe-not-so-great</code> to <code>a-not-so-good-sandwich</code>
+    - changed directory of [[track:gym-reception]] from <code>gym-lobby</code> to <code>gym-reception</code>
+    - changed directory of [[track:passed-the-gym-test]] from <code>youve-passed-the-gym-test</code> to <code>passed-the-gym-test</code>
+    - changed directory of [[track:battle-and-victory-gym-leader]] from <code>battle-gym-leader-victory-gym-leader</code> to <code>battle-and-victory-gym-leader</code>
+    - changed directory of [[track:obtained-a-badge-pokemon-scarlet-violet]] from <code>obtained-a-gym-badge-pokemon-scarlet-violet</code> to <code>obtained-a-badge-pokemon-scarlet-violet</code>
+    - changed directory of [[track:battle-west-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-west</code> to <code>battle-west-province-wild-pokemon</code>
+    - changed directory of [[track:a-stroll-through-the-asado-desert]] from <code>walk-through-the-asado-desert</code> to <code>a-stroll-through-the-asado-desert</code>
+    - changed directory of [[track:still-at-the-gym-test]] from <code>the-gym-tests-not-over</code> to <code>still-at-the-gym-test</code>
+    - changed directory of [[track:second-battle-against-the-titan]] from <code>confront-the-titan-again</code> to <code>second-battle-against-the-titan</code>
+    - changed directory of [[track:a-brief-moment]] from <code>just-a-moment</code> to <code>a-brief-moment</code>
+    - changed directory of [[track:a-new-power-for-your-ride]] from <code>your-ride-ability-went-up</code> to <code>a-new-power-for-your-ride</code>
+    - changed directory of [[track:a-stroll-through-the-west-province]] from <code>walk-through-the-west-province</code> to <code>a-stroll-through-the-west-province</code>
+    - changed directory of [[track:time-to-relax]] from <code>heartwarming-time</code> to <code>time-to-relax</code>
+    - changed directory of [[track:battle-east-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-east</code> to <code>battle-east-province-wild-pokemon</code>
+    - changed directory of [[track:the-iono-zone]] from <code>iono-zone</code> to <code>the-iono-zone</code>
+    - changed directory of [[track:a-stroll-through-the-east-province]] from <code>walk-through-the-east-province</code> to <code>a-stroll-through-the-east-province</code>
+    - changed directory of [[track:the-names-clive]] from <code>right-now-im-clive</code> to <code>the-names-clive</code>
+    - changed directory of [[track:raiding-the-base]] from <code>cmon-lets-raid-the-place</code> to <code>raiding-the-base</code>
+    - changed directory of [[track:star-barrage-finished]] from <code>star-barrage-completed</code> to <code>star-barrage-finished</code>
+    - changed directory of [[track:a-team-star-boss-appears]] from <code>team-star-boss-appears</code> to <code>a-team-star-boss-appears</code>
+    - changed directory of [[track:battle-north-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-north</code> to <code>battle-north-province-wild-pokemon</code>
+    - changed directory of [[track:the-opening-act]] from <code>opening-act</code> to <code>the-opening-act</code>
+    - changed directory of [[track:mc-of-rip]] from <code>soulful-beat</code> to <code>mc-of-rip</code>
+    - changed directory of [[track:a-stroll-through-the-north-province]] from <code>walk-through-the-north-province</code> to <code>a-stroll-through-the-north-province</code>
+    - changed directory of [[track:the-pokemon-league-interview]] from <code>pokemon-league-interview-phase</code> to <code>the-pokemon-league-interview</code>
+    - changed directory of [[track:passed-the-interview]] from <code>you-passed-the-interview-phase</code> to <code>passed-the-interview</code>
+    - changed directory of [[track:the-pokemon-league-pokemon-scarlet-violet]] from <code>pokemon-league-pokemon-scarlet-violet</code> to <code>the-pokemon-league-pokemon-scarlet-violet</code>
+    - changed directory of [[track:together-with-nemona]] from <code>with-nemona</code> to <code>together-with-nemona</code>
+    - changed directory of [[track:my-one-and-only-rival]] from <code>the-only-rival</code> to <code>my-one-and-only-rival</code>
+    - changed directory of [[track:battle-director-clavell]] from <code>battle-principal-clavell</code> to <code>battle-director-clavell</code>
+    - changed directory of [[track:finishing-the-treasure-hunt]] from <code>you-completed-the-treasure-hunt</code> to <code>finishing-the-treasure-hunt</code>
+    - changed directory of [[track:battle-area-zero-pokemon]] from <code>battle-pokemon-in-area-zero</code> to <code>battle-area-zero-pokemon</code>
+    - changed directory of [[track:the-gate-opens]] from <code>the-gate-is-open</code> to <code>the-gate-opens</code>
+    - changed directory of [[track:battle-area-zero-pokemon-2]] from <code>battle-pokemon-in-area-zero-2</code> to <code>battle-area-zero-pokemon-2</code>
+    - changed directory of [[track:activating-offensive-protocols]] from <code>battle-program-activated</code> to <code>activating-offensive-protocols</code>
+    - changed directory of [[track:paradise-protection-protocol-initialized]] from <code>paradise-protection-protocol</code> to <code>paradise-protection-protocol-initialized</code>
+    - changed directory of [[track:i-bid-you-adieu]] from <code>bon-voyage</code> to <code>i-bid-you-adieu</code>
+    - changed directory of [[track:get-a-little-more-fun-out-of-this-adventure]] from <code>lets-take-the-scenic-route-home</code> to <code>get-a-little-more-fun-out-of-this-adventure</code>
+    - changed directory of [[track:the-academy-ace-tournament]] from <code>academy-ace-tournament</code> to <code>the-academy-ace-tournament</code>
+    - changed directory of [[track:the-battle-stadium]] from <code>battle-stadium</code> to <code>the-battle-stadium</code>
+    - changed directory of [[track:pokedex-evaluation-its-perfect-pokemon-scarlet-violet]] from <code>pokedex-evalution-its-perfect-pokemon-scarlet-violet</code> to <code>pokedex-evaluation-its-perfect-pokemon-scarlet-violet</code>
+    - changed directory of [[track:carmine-and-kieran]] from <code>ex-c-c-change</code> to <code>carmine-and-kieran</code>
+    - changed directory of [[track:the-land-of-kitakami]] from <code>kitakami</code> to <code>the-land-of-kitakami</code>
+    - changed directory of [[track:battle-kitakami-pokemon]] from <code>battle-pokemon-in-kitakami</code> to <code>battle-kitakami-pokemon</code>
+    - changed directory of [[track:photo-pokemon-march-the-hidden-treasure-of-area-zero]] from <code>photography-march</code> to <code>photo-pokemon-march</code>
+    - changed directory of [[track:photo-battle-the-hidden-treasure-of-area-zero]] from <code>photography-victory</code> to <code>photo-battle</code>
+    - changed directory of [[track:photo-pokemon-lullaby-the-hidden-treasure-of-area-zero]] from <code>photography-lullaby</code> to <code>photo-pokemon-lullaby</code>
+    - changed directory of [[track:historic-signboard]] from <code>history-of-the-signboard</code> to <code>historic-signboard</code>
+    - changed directory of [[track:together-with-kieran]] from <code>with-perrin</code> to <code>together-with-kieran</code>
+    - changed directory of [[track:the-festival-of-masks]] from <code>festival-of-masks</code> to <code>the-festival-of-masks</code>
+    - changed directory of [[track:ogre-oustin-completed]] from <code>cleared-ogre-oustin</code> to <code>ogre-oustin-completed</code>
+    - changed directory of [[track:the-mysterious-child-who-dropped-their-mask]] from <code>the-mysterious-child-who-dropped-a-mask</code> to <code>the-mysterious-child-who-dropped-their-mask</code>
+    - changed directory of [[track:the-true-history]] from <code>the-real-history</code> to <code>the-true-history</code>
+    - changed directory of [[track:twisted-pokemon-scarlet-violet]] from <code>distortion</code> to <code>twisted-pokemon-scarlet-violet</code> (thanks, Whisper!)
+    - changed directory of [[track:the-loyal-three-return]] from <code>the-loyal-three-come-back-to-life</code> to <code>the-loyal-three-return</code>
+    - changed directory of [[track:the-loyal-three-cause-trouble]] from <code>the-loyal-three-wreak-havoc</code> to <code>the-loyal-three-cause-trouble</code>
+    - changed directory of [[track:battle-loyal-three]] from <code>battle-the-loyal-three</code> to <code>battle-loyal-three</code>
+    - changed directory of [[track:caught-ogerpon]] from <code>caught-an-ogerpon</code> to <code>caught-ogerpon</code>
+    - changed directory of [[track:a-moment-of-honesty]] from <code>theyre-relaxed-now</code> to <code>a-moment-of-honesty</code>
+    - changed directory of [[track:i-need-to-become-stronger]] from <code>i-have-to-become-stronger</code> to <code>i-need-to-become-stronger</code>
+    - changed directory of [[track:to-the-terarium]] from <code>to-the-dome</code> to <code>to-the-terarium</code>
+    - changed directory of [[track:welcome-to-the-terarium]] from <code>this-is-the-terarium-dome</code> to <code>welcome-to-the-terarium</code>
+    - changed directory of [[track:battle-terarium-pokemon]] from <code>battle-pokemon-in-the-terarium</code> to <code>battle-terarium-pokemon</code>
+    - changed directory of [[track:a-regular-day-at-bb-academy]] from <code>daily-life-at-the-academy</code> to <code>a-regular-day-at-bb-academy</code>
+    - changed directory of [[track:your-bb-dorm-room]] from <code>blueberry-academy-your-room</code> to <code>your-bb-dorm-room</code>
+    - changed directory of [[track:battle-terarium-tera-pokemon]] from <code>battle-tera-pokemon-in-the-terarium</code> to <code>battle-terarium-tera-pokemon</code>
+    - changed directory of [[track:the-flying-time-trial]] from <code>flying-time-trial</code> to <code>the-flying-time-trial</code>
+    - changed directory of [[track:elite-trial-completed]] from <code>you-completed-the-elite-trial</code> to <code>elite-trial-completed</code>
+    - changed directory of [[track:true-feelings]] from <code>true-intentions</code> to <code>true-feelings</code>
+    - changed directory of [[track:kieran-defeated]] from <code>the-defeated-kieran</code> to <code>kieran-defeated</code>
+    - changed directory of [[track:terapagos-reawakened]] from <code>terapagos-comes-back-to-life</code> to <code>terapagos-reawakened</code>
+    - changed directory of [[track:what-the-hidden-treasure-needs]] from <code>conditions-of-the-hidden-treasure</code> to <code>what-the-hidden-treasure-needs</code>
+    - changed directory of [[track:terapagos-goes-berserk]] from <code>terapagos-goes-rampage</code> to <code>terapagos-goes-berserk</code>
+    - changed directory of [[track:caught-terapagos]] from <code>caught-the-terapagos</code> to <code>caught-terapagos</code>
+    - changed directory of [[track:starting-over-from-zero]] from <code>once-again-starting-from-zero</code> to <code>starting-over-from-zero</code>
+    - changed directory of [[track:studying-together-with-team-star]] from <code>star-training-centers-team-star</code> to <code>studying-together-with-team-star</code>
+    - changed directory of [[track:the-curse-of-the-village]] from <code>a-village-curse</code> to <code>the-curse-of-the-village</code>
+    - changed directory of [[track:a-drone-a-pokemon-its-binding-mochi]] from <code>a-drone-a-pokemon-its-a-binding-mochi</code> to <code>a-drone-a-pokemon-its-binding-mochi</code>
+    - changed directory of [[track:apartment-hangout]] from <code>in-the-room</code> to <code>apartment-hangout</code>
+    - changed directory of [[track:bathing-nintendogs]] from <code>bathtime-theme</code> to <code>bathing-nintendogs</code> (thanks, Whisper!)
+    - changed directory of [[track:2017-nintendo-switch-presentation-trailer]] from <code>nintendo-switch-presentation-2017-trailer-bgm</code> to <code>2017-nintendo-switch-presentation-trailer</code>
+    - changed directory of [[track:crocodile-cacophony-k-rools-theme]] from <code>crocodile-cacophony</code> to <code>crocodile-cacophony-k-rools-theme</code>
+    - changed directory of [[track:k-rool-returns-title-theme]] from <code>k-rool-returns</code> to <code>k-rool-returns-title-theme</code>
+    - changed directory of [[track:invincibility-bgm-smb]] from <code>invincibility-theme-smb</code> to <code>invincibility-bgm-smb</code>
+    - changed directory of [[track:main-theme-wii-shop-channel]] from <code>wii-shop-channel</code> to <code>main-theme-wii-shop-channel</code>
+    - changed directory of [[track:miniboss-hideout-i-kraid]] from <code>kraids-chamber</code> to <code>miniboss-hideout-i-kraid</code>
+    - changed directory of [[track:parasite-queen-battle]] from <code>vs-parasite-queen</code> to <code>parasite-queen-battle</code>
+    - changed directory of [[track:snakey-chantey-rattle-battle]] from <code>snakey-chantey</code> to <code>snakey-chantey-rattle-battle</code>
+    - changed directory of [[track:song-of-storms]] from <code>ocarina-song-of-storms</code> to <code>song-of-storms</code>
+    </details>

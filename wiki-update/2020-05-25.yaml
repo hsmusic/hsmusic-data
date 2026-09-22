@@ -1,0 +1,28 @@
+Wiki Update: albums, artists, and urls
+Main Update: true
+Date: May 25, 2020
+---
+Section: homepage
+Changes: |-
+    - another four new fandom albums! [[album:sburb-ost]], [[album:beforus]], [[album:strife-2]], [[album:perfectly-generic-album]]
+    - the entire homepage has been restructured, placing official albums from the music team for <i>Homestuck^2: Beyond Canon</i> front and center, and generally adding flare to the rest of the page too
+    - a &lt;meta&gt; tag has been added to the homepage, so hsmusic's search result that comes up when you look up "homestuck music wiki" is a lot prettier
+---
+Section: album pages
+Changes: |-
+    - links to listen to the full album have <i>finally</i> been added to album pages, including bandcamp as well as youtube links (both full album and playlist) wherever available
+    - chronology links now contain credits for cover artists, so they'll show up on album pages too
+---
+Section: track pages
+Changes: |-
+    - chronology links for contributors to tracks as well as the main musicians! check out [[You Killed My Father (Prepare To Die)]] by team dogfight, for example
+---
+Section: flash pages
+Changes: |-
+    - chronology links have been added to flash pages too!
+---
+Section: artist pages
+Changes: |-
+    - artist pages - both musicians and cover artists - now have links to explore their work outside of homestuck
+    - many, many artists whose names are either typo'd or out of date or otherwise duplicate have been updated, making artist pages a considerably more reliable resource than they were before
+    - behind the scenes, lots of code changes to make accidentally typo'd or duplicate artist names much more difficult
