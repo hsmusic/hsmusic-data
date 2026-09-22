@@ -12,22 +12,440 @@ Navbar Links:
 - '[[static:discord]]'
 - '[[update-index:-|Changelog]]'
 ---
-Section: Official Discography
----
 Row: album carousel
 Carousel:
-  Tiles:
+  Scriptless Tiles:
   - Homestuck Vol. 1-4
   - Homestuck Vol. 10
   - Beyond Canon
   - 'HIVESWAP: ACT 2 Original Soundtrack'
   - Homestuck Vol. 8
-
   - AlterniaBound
   - 'coloUrs and mayhem: Universe A'
   - The Wanderers
   - Strife!
   - One Year Older
+
+  Tiles:
+
+  # row=1 col=1
+  - Randomize From: # Rotate From:
+    # OFFICIAL DISCOGRAPHY NUMBERED VOLUMES + BEYOND CANON
+    - album:homestuck-vol-1-4
+    - album:homestuck-vol-5
+    - album:homestuck-vol-6
+    - album:homestuck-vol-7
+    - album:homestuck-vol-8
+    - album:homestuck-vol-9
+    - album:homestuck-vol-10
+    - album:beyond-canon
+
+  # row=1 col=2
+  - Randomize From:
+    # OFFICIAL DISCOGRAPHY SELECTION 1
+    - album:midnight-crew-drawing-dead
+    - album:the-felt
+    - album:squiddles
+    - album:coloUrs-and-mayhem-universe-a
+    - album:s-collide
+    - album:act-7
+    - album:the-grubbles
+    - album:hiveswap-friendsim
+
+  # row=1 col=3
+  - Randomize From:
+    # OFFICIAL DISCOGRAPHY SELECTION 2
+    - album:alterniabound
+    - album:the-wanderers
+    - album:cherubim
+    - album:coloUrs-and-mayhem-universe-b
+    - album:pesterquest-soundtrack
+    - album:hiveswap-act-1-ost
+    - album:hiveswap-act-2-ost
+    # - pilot soundtrack
+
+  # row=1 col=4
+  - Randomize From:
+    # OFFICIAL DISCOGRAPHY SOLO ALBUM SELECTION 1
+    - album:medium                              # Clark Powell
+    - album:sburb                               # James Dever
+    - album:mobius-trip-and-hadron-kaleido      # Michael Guy Bowman
+    - album:strife                              # Tensei
+
+    # HOMESTUCK MUSIC TEAM BEYOND SELECTION 1
+    - album:senior-recital                      # James Dever
+    - album:chips-and-bits-vol-2                # Kalibration
+    - album:your-majesty                        # Michael Guy Bowman
+    - album:songs-unsung                        # Tensei
+
+    # NON-PROJECT SOLO ALBUM VARIETY 1
+    - album:we-can-always-go-home               # Beatrice
+    - album:exceptis-excipiendis                # Kal-la-kal-la
+    - album:play-the-rain                       # Lark Mordancy
+    - album:the-scratch-before-the-calm         # Laurent Désautels-Séguin
+    - album:project-skaia                       # Musical Panini
+    - album:panoptes                            # Toris Crow
+    - album:ophiuchus-full-suite                # WarxTron
+
+  # row=1 col=5
+  - Randomize From:
+    # OFFICIAL DISCOGRAPHY SOLO ALBUM SELECTION 2
+    - album:genesis-frog                        # Alex Rosetti
+    - album:one-year-older                      # Erik Scheele
+    - album:song-of-skaia                       # Mark J. Hadley
+
+    # HOMESTUCK MUSIC TEAM BEYOND SELECTION 2
+    - album:qualia                              # Buzinkai
+    - album:in-isolation                        # David Ellis
+    - album:dare                                # Mark J. Hadley
+    - album:grigori                             # Thomas Ferkol
+
+    # NON-PROJECT SOLO ALBUM VARIETY 2
+    - album:cookiefonsters-2016-famitracker-covers   # cookiefonster
+    - album:sbargrist                           # curricle
+    - album:sbahj-the-album                     # Facetious & Friends
+    - album:hs-bc-a1                            # Guffy
+    - album:vaporstuck                          # The Hypergiants ASMR
+    - album:brostuck                            # Ian White
+    - album:jaderoute                           # nyquillionaire
+
+  # row=1 col=6
+  - Randomize From:
+    # OFFICIAL DISCOGRAPHY SOLO ALBUM SELECTION 3
+    - album:symphony-impossible-to-play         # Clark Powell
+    - album:alternia                            # Toby Fox
+    - album:prospit-and-derse                   # Solatrus
+
+    # HOMESTUCK MUSIC TEAM BEYOND SELECTION 3
+    - album:we-are-all-satellites               # Clark Powell
+    - album:the-ultimate                        # Curt Blakeslee
+    - album:single-christmastime-is-here-lo-fi   # James Roach
+    - album:somnium-remastered                  # Solatrus
+
+    # NON-PROJECT SOLO ALBUM VARIETY 3
+    - album:stray-cat-walkabout                 # Catboss
+    - album:coffee-with-zebruh-codakk           # dot project
+    - album:palokrai-i                          # Isoraķatheð Zorethan F.
+    - album:mayhem-of-another-universe          # M.Frisk
+    - album:nice-wizards-electronic-extravaganza   # Nice Wizard
+    - album:thanks-for-listening                # SerialSymphony
+    - album:some-artifacts-may-occur            # shinokabe
+
+  # SECOND ROW
+
+  # row=2 col=1
+  - Randomize From:
+    # LATEST OR FINAL FANDOM "MUSIC TEAM" ALBUMS
+    # ONE ALBUM PER TEAM
+    - album:p-s                                 # casual sunday
+    - album:cool-and-new-volume-4               # cool and new music team
+    - album:vast-error-vol-6                    # deconreconstruction
+    - album:anthology-ii                        # desynced
+    - album:oceanfalls-vol-6  # vol 7           # oceanfalls
+    - album:stlap3                              # paradox music team
+    - album:redditstuck-vol-3                   # redditstuck
+    - album:fraymotif-fighters                  # stuck at home con
+    - album:team-paradox                        # team paradox
+    - album:kindred-souls                       # unofficial mspa fans
+
+    # "VOL 1" FIRST FANVENTURE ALBUM, VARIETY 1
+    - album:desynced-vol-1
+    - album:oceanfalls-vol-1
+    - album:redditstuck-vol-1
+    - album:the-tapestry-vol-1
+
+    # "VOL 1" EXCEPT THERE HASN'T BEEN A VOLUME TWO, VARIETY 1
+    - album:413-ac-ost-act-1-side-1
+    - album:crossmound-vol-1
+    - album:fatebreak-volume-1
+    - album:loftlocked-vol-1
+    - album:svert-ost-volume-one
+    - album:a-viral-medium-vol-1
+
+  # row=2 col=2
+  - Randomize From:
+    # THEMED ALBUM VARIETY 1
+    - album:bowmania                            # cool and new music team
+    - album:canwc-for-the-spookdays             # cool and new music team
+    - album:corporate-holiday-hits              # deconreconstruction
+    - album:perils-of-probability               # deconreconstruction
+    - album:nibiru                              # desynced
+    - album:homestuck-for-the-holidays          # homestuck gaiden
+    - album:sburb-ost                           # umspaf (but really old)
+    - album:beforus                             # unofficial mspa fans
+    - album:diverging-delicacies                # unofficial mspa fans
+    - album:weird-puzzle-tunes                  # unofficial mspa fans
+
+    # SPIN-OFF / BRANCHING OUT / BEYOND OR ONE-OFF "MUSIC TEAM" VARIETY 1
+    - album:acousmatic-recollection-layer-ep
+    - album:i-miss-you-earthbound-2012
+    - album:make-music-throw-music
+    - album:the-mayview-mixtape
+    - album:namco-high-official-soundtrack
+    - album:rakka-vol-2-the-surges
+    - album:snowbound-blood-original-game-soundtrack
+    - album:songs-from-the-planet-earth
+    - album:whats-your-favorite-song-earthbound-2019
+
+  # row=2 col=3
+  - Randomize From:
+    # STANDALONE / SINGLE-RELEASE FANDOM OR BEYOND PROJECT ALBUMS 1
+    - album:ava-original-soundtrack
+    - album:chaos-sisters-original-soundtrack
+    - album:the-consuming-shadow-ost
+    - album:dwellers-empty-path-ost
+    - album:earthbound-halloween-hack
+    - album:extermination-shock
+    - album:hammerkind-ost
+    - album:paradox-lost-opening-gambit-ost
+    - album:s-press-play
+    - album:sburbmon-ost
+    - album:songs-of-rivervale
+    - album:spiritwake
+    - album:the-baby-is-june
+    - album:the-underglow-knowledge-original-soundtrack
+
+    # BEYOND VARIETY 1
+    - album:ahoy-youre-all-pirates
+    - album:archive
+    - album:deltarune-soundtrack
+    - album:the-earthen-scar-revisited
+    - album:unbeatable-album
+    - album:undertale-complete-ost
+    - album:uufo
+
+  # row=2 col=4
+  - Randomize From:
+    # PROJECT OR FANDOM "MUSIC TEAM" SOLO ALBUM VARIETY 1
+    - album:basement-tale                       # CaNMT / Cecily Renns
+    - album:one-week-older                      # CaNMT / ostrichlitledungeon
+    - album:oceanfables-ray-of-light            # Oceanfalls / Ray Mike
+    - album:oceanfables-ethological             # Oceanfalls / Witch's Cadence
+    - album:on-the-rox                          # PMT / Rainy
+    - album:hypertonic-dreams                   # Redditstuck / JJ Pollution
+
+    # NON-PROJECT SOLO ALBUM VARIETY 4
+    - album:413-sp3c14l                         # AFTERDEVTH
+    - album:will-remix-for-food-remixes-vol-i   # Astro Kid
+    - album:tale-of-arpege-clavier-chapter-1-of-92000000   # Decon Theed
+    - album:quartz-and-melody                   # Devieus
+    - album:ad-astra                            # Ducky Senpai
+    - album:at-the-mouse-and-the-lion           # Gabriel Nezovic
+    - album:homestuck-anniversary-excl-act-6    # Maukustus
+    - album:bichrome-phantasia                  # Monckat
+    - album:so-i-herd-you-liek-homestuck        # sidewalkbanana
+    - album:heaven-sent                         # Swagazaki
+    - album:theres-no-place-like-home           # Tee-vee
+    - album:comissions-i                        # waterPsychiatrist
+    - album:bashful-hearts-out                  # WHATISLOSTINTHEMINES
+    - album:rust-apocalypse                     # Willow Ascenzo
+
+  # row=2 col=5
+  - Randomize From:
+    # PROJECT OR FANDOM "MUSIC TEAM" SOLO ALBUM VARIETY 2
+    - album:aspect-clock                        # Act Omega / dbnet18
+    - album:basement-tale   # agents of...      # CaNMT / Cecily Renns
+    - album:of-troles-and-chiptumes             # CaNMT / cookiefonster
+    - album:median                              # CaNMT / NyashAlex
+    - album:curtain-call-maragi-radi            # Desynced / Spad3s
+    - album:repiton                             # DCRC / pragmaticNihilist
+    - album:fighting-further                    # DCRC / Rainy
+    - album:duodenary                           # DCRC / Cristata
+
+    # NON-PROJECT SOLO ALBUM VARIETY 5
+    - album:beta                                # autumnalEquinox
+    - album:sepulchritude                       # Curtis Lyon
+    - album:the-homestuck-music-experience      # Funk McLovin
+    - album:solitary-confinement-in-nothing     # JMAA
+    - album:dialed-to-11                        # LudicrousFalcon
+    - album:induction                           # Svix
+    - album:rappets-davekat-collection          # teles
+    - album:scraps-deluxe                       # tempest2k
+    - album:agents-of-reality                   # Tycoon
+    - album:faces-of-oglogoth                   # Xszelor
+
+  # row=2 col=6
+  - Randomize From:
+    # PROJECT OR FANDOM "MUSIC TEAM" SOLO ALBUM VARIETY 3
+    - album:descent-into-madness                # CaNMT / Cerulean
+    - album:fihgt-each-othe                     # CaNMT / Kusoro
+    - album:pantheon                            # Desynced / Rainy
+    - album:noirscape                           # Desynced / Witch's Cadence
+    - album:foresight-and-retrospect            # Oceanfalls / Wights End
+    - album:the-nobles                          # PMT / Rowyn Berlan
+
+    # NON-PROJECT SOLO ALBUM VARIETY 6
+    - album:homestuck-beta-kid-themes-op-12     # casualclassical
+    - album:retcon-2018                         # The Cat Herd
+    - album:vinculum-vitae                      # Cosmoptera
+    - album:back-burner                         # Josh "HyperOrange" Woodward
+    - album:album-of-stories-and-imagination    # Latadenata
+    - album:clubstuck                           # nocturnalJewel
+    - album:land-of-hue-and-duels-trollside     # PriestlyBeast
+    - album:background-noise                    # dbnet18
+    - album:so-i-herd-you-liek-homestuck        # sidewalkbanana
+    - album:homestuck-for-orchestra-ep          # Walt Ribeiro
+    - album:seven-seas                          # Worthikids
+
+  # THIRD ROW
+
+  # row=3 col=1
+  - Randomize From:
+    # FIRST OR LANDMARK FANDOM "MUSIC TEAM" ALBUMS
+    # ONE OR TWO ALBUMS PER TEAM
+    - album:cool-and-new-voulem1                # cool and new music team
+    - album:cool-and-new-volume-3               # cool and new music team
+    - album:vast-error-vol-4                    # deconreconstruction
+    - album:oceanfalls-vol-five                 # oceanfalls
+    - album:stlap                               # paradox music team
+    - album:lofam4                              # unofficial mspa fans
+    - album:lofam5a2                            # unofficial mspa fans
+
+    # "VOL 1" FIRST FANVENTURE ALBUM, VARIETY 2
+    - album:adminstuck-volume-1
+    - album:alternian-misadventures-volume-1
+    - album:freeroam-volume-1
+    - album:friendsim-2-volume-1
+    - album:janestuck-volume-100
+    - album:sbargv2-volume-1
+    - album:stalemate-vol-1
+    - album:sunday-night-strifin-act-1-plus-2-ost
+    - album:tumblrstuck-bent-ost-volume-0
+
+    # "VOL 1" EXCEPT THERE HASN'T BEEN A VOLUME TWO, VARIETY 2
+    - album:cokestuck-vol-1
+    - album:the-genesis-project-vol-1
+    - album:glitchstuck-volume-1
+    - album:guidestuck-volume-one
+    - album:hivebreak-vol-1
+    - album:portalstuck-vol-1
+
+  # row=3 col=2
+  - Randomize From:
+    # THEMED ALBUM VARIETY 2
+    - album:canwc-for-the-holidays              # cool and new music team
+    - album:jpeg                                # cool and new music team
+    - album:homestuck2-beyond-canmt-vol-1       # cool and new music team
+    - album:midworld-merriment                  # oceanfalls
+    - album:ancestral                           # unofficial mspa fans
+    - album:cosmic-caretakers                   # unofficial mspa fans
+    - album:gristmas-carols                     # unofficial mspa fans
+    - album:moons-of-theseus                    # unofficial mspa fans
+    - album:xenoplanetarium                     # unofficial mspa fans
+    - album:friendsymphony                      # unofficial mspa fans
+    - album:alternate-hues-and-melodies         # the paradox music team
+    - album:the-rebornening                     # (miscellaneous)
+    - album:vol-10-progress-report              # (miscellaneous)
+
+    # SPIN-OFF / BRANCHING OUT / BEYOND OR ONE-OFF "MUSIC TEAM" VARIETY 2
+    - album:solar-sessions
+    - album:sound-test-ii
+    - album:synthetica
+    - album:unbound-day-selection-original-soundtrack
+
+  # row=3 col=3
+  - Randomize From:
+    # STANDALONE / SINGLE-RELEASE FANDOM OR BEYOND PROJECT ALBUMS 2
+    - album:a-nameless-inheritance
+    - album:crea
+    - album:rose-of-winter
+    - album:sburb-funkin-edition-ost
+    - album:spelunky-classic
+    - album:the-baby-is-you
+
+    # BEYOND VARIETY 2
+    - album:compass-original-soundtrack
+    - album:cyber-city-sound-pak
+    - album:the-divide
+    - album:grigori
+    - album:midnight-jungle
+    - album:pokemon-scarlet-violet-super-music-collection
+    - album:pray
+    - album:psycholonials
+    - album:purgatory-dungeoneer
+    - album:rakka-wake-01-opening-me
+    - album:shortcuts
+    - album:songs-for-rune
+    - album:soul-of-sovereignty-prelude-ost
+    - album:super-smash-bros-ultimate
+    - album:unbeatable-demo-tapes
+    - album:unknown-diva
+    - album:what-a-shame
+    - album:witchstranded
+
+  # row=3 col=4
+  - Randomize From:
+    # NON-PROJECT SOLO ALBUM VARIETY 7
+    - album:simplystuck                         # Eighteen "Elbows"
+    - album:autumn-every-day                    # Jamie Paige
+    - album:reprise                             # luminantAegis
+    - album:dont-read-a-webcomic-called-homestuck   # narcolepsyDriver
+    - album:the-lands-of-scp-413                # Spiny
+    - album:shenanigans-mspa                    # Thomas Ibarra
+
+    # SINGLES VARIETY 1
+    - album:doctors-descent                     # Amiboost
+    - album:tangential-acid                     # autumnalEquinox
+    - album:shallow-shores                      # Circlejourney
+    - album:perfectly-generic-object            # Cristata
+    - album:rooftop-paladin                     # Hazama Yuutou
+    - album:fuchsia-ruler-single                # Kezinox
+    - album:contritum                           # Nights
+    - album:beneath-the-shade                   # pomabug
+    - album:dance-of-thorns-richaadeb           # RichaadEB
+    - album:surprise-were-back                  # Sean "Flare" Gorter
+    - album:sun-in-sedona                       # Svix
+    - album:losing-heart                        # tempest2k
+
+  # row=3 col=5
+  - Randomize From:
+    # NON-PROJECT SOLO ALBUM VARIETY 8
+    - album:from-beta-to-alpha                  # Christian Michael Poynter
+    - album:dreamers-diarchy                    # Circlejourney
+    - album:incipient-overture                  # Dylan S.
+    - album:entertaining-sound                  # jan Misali
+    - album:i-warned-you-about-stairs           # Raid
+    - album:project-skaia                       # Musical Panini
+
+    # SINGLES VARIETY 2
+    - album:flare-space-to-breathe-mix          # Ash Taylor
+    - album:carne-vale-fusion-collab            # cool and new music team
+    - album:knife-to-meet-you                   # dbnet18
+    - album:lordmaker                           # Gryotharian
+    - album:bittersweet-hilary-troiano          # Hilary Troiano
+    - album:cascading-light                     # koba
+    - album:the-raddest                         # Mark J. Hadley
+    - album:2ollux2-fiinal-frontiier            # Maukustus
+    - album:universal-umbrosity                 # Raid
+    - album:im-a-member-of-the-midnight-crew-soapstone   # Soapstone
+    - album:cascade                             # Tensei
+    - album:the-greatest-living-show            # Toby Fox, Itoki Hana
+
+  # row=3 col=6
+  - Randomize From:
+    # NON-PROJECT SOLO ALBUM VARIETY 9
+    - album:perfectly-generic-album             # Cristata
+    - album:the-green-box-set-1                 # iodbc - The Black Box
+    - album:what-was-will-be                    # hatzka
+    - album:tributary                           # keyboard cait
+    - album:songs-for-sad-trolls                # PhemieC
+    - album:de-novo                             # viixyz
+
+    # SINGLES VARIETY 3
+    - album:dont-you-lecture-me-with-your-thirty-dollar-homestuck   # TheAdvertiseme
+    - album:sburban-computermachine             # computermachine
+    - album:celestial                           # Ed Sheeran
+    - album:confinis                            # horizon
+    - album:ebichahan                           # Jamie Paige
+    - album:infinite-cataclysm                  # LudicrousFalcon
+    - album:brobots                             # meadowsofmoo
+    - album:sleeper-agent                       # METIANULL
+    - album:on-the-thirteenth-day               # Michael Guy Bowman
+    - album:another-flare-413-aradia-goose-mix   # Not Eno
+    - album:terminal-mayonakas-theme            # Pascal van den Bos
+    - album:vivid-spectrum                      # Solatrus, Marcy Nabors
+    - album:cognitive-coalescence               # Witch's Cadence
+
 ---
 Row: actions
 Actions:
