@@ -827,11 +827,11 @@ Duration: 00:57
 ---
 Track: Tandem Heartbbeat
 Duration: 01:05
+# Sampled Tracks:
+# - Amen, Brother
 ---
 Track: Dreamscape Breakout
 Duration: 01:37
-Sampled Tracks:
-- Amen, Brother
 ---
 Track: Cruxtruder
 Suffix Directory: true
@@ -940,7 +940,7 @@ Referenced Tracks:
 - Softly
 Sampled Tracks:
 - Softly
-- Amen, Brother
+# - Amen, Brother
 ---
 Track: Paranoise
 Duration: 01:39
