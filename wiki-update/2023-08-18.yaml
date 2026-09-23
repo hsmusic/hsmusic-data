@@ -126,7 +126,7 @@ Changes: |-
     - fixed many missing references for [[album:perfectly-generic-album]] tracks
         - fixed [[track:new-and-improved]] not referencing [[track:penumbra-phantasm]]
         - fixed [[track:gasters-theme-pga]] not referencing [[track:megalovania-undertale]]
-        - fixed [[track:another-noir-extended-void-mix]] not referencing [[track:amen-brother]]
+        - fixed [[track:another-noir-extended-void-mix]] not referencing Amen, Brother
         - fixed [[track:welcome-to-your-new-suburban-reality]] not referencing [[track:sburban-jungle]]
         - fixed [[track:eternally-you]] not referencing [[track:flare]] (thanks, EzzyCrafts!) or [[track:homestuck-anthem]]
     - fixed various errors in otherwise valid "sampled tracks" data which kept them from showing up on the wiki (mostly miscapitalization)
