@@ -1313,7 +1313,13 @@ Group: Brandish
 ---
 Group: Chrono
 ---
+Group: Danganronpa
+---
 Group: Dark Souls
+---
+Group: Darkest Dungeon
+---
+Group: DonPachi
 ---
 Group: The Elder Scrolls
 ---
@@ -1338,6 +1344,8 @@ Group: Halo
 Group: Kingdom Hearts
 ---
 Group: The Legend of Zelda
+---
+Group: Lethal League
 ---
 Group: Megami Tensei
 ---
@@ -1374,6 +1382,16 @@ Series:
 Group: Portal
 ---
 Group: Rayman
+---
+Group: Ridge Racer
+Series:
+- Name: In-game VGM
+  Albums:
+  - Ridge Racer 2
+  - 'R4: Ridge Racer Type 4'
+- Name: Other soundtracks
+  Albums:
+  - RIDGE LASER
 ---
 Group: Silent Hill
 ---
