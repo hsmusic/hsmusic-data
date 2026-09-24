@@ -853,9 +853,7 @@ Changes: |-
     - added mastering credits across [[album:lofam5a2]] (thanks, ruby!)
     - added [[artist:cookiefonster]] credit (previously [[artist:unknown-artist]]) to MIDI file for [[track:the-blind-prophet]] (thanks, cookiefonster!)
     <!-- crediting presentational changes -->
-    - reworked cases of crediting both a solo musician's "main" artist and the actual album artist, together, as album and track co-artists (thanks, Lavender, Lan, Whisper, Surge!)
-        - [[group:kalibration]], as [[artist:screamcatcher]]: removed album and track credits to [[artist:kalibration]]; replaced relevant album artwork credits and select commentary artists with [[artist:screamcatcher]]; started crediting these tracks as "from (album), by [[artist:screamcatcher]]"
-        - [[track:another-noir]]: fixed track not crediting [[artist:cristata]] at all (now co-artist), and removed [[artist:cristata]] credit on the (mostly internal) album entry; other Cristata releases ([[album:are-you-lost]], [[album:cyber-city-sound-pak]]) aleady fit the new pattern
+    - reworked cases of crediting both a solo musician's "main" artist and the actual album artist, together, as album and track co-artists, in about forty different ways, landing latest of all on the new "as (alias)" system (thanks, Lavender, Lan, Whisper, Surge!)
     - changed various UNBEATABLE-related artist credits (thanks, ruby!)
         - changed [[artist:peak-divide]] credits to [[artist:unbeatable]] across [[album:unbeatable-demo-tapes]]
         - changed '[[artist:peak-divide]] featuring [[artist:rachel-lake]]' credit to [[artist:unbeatable]] on [[track:sleeping-in-single]] (but not [[track:future-people-single]])
