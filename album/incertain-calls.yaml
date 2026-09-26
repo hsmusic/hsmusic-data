@@ -13,11 +13,23 @@ Color: '#cac2c0'
 Groups:
 - Desynced
 - Fandom
+Additional Files:
+- Title: Commentary file
+  Artists:
+  - SpilledCereals
+  Description: >-
+    Shared with [[artist:jebb]] for inclusion on the music wiki.
+  Files:
+  - message.txt
 ---
-Track: Track 01
+Section: Main album
+---
+Track: dance the Night away
 Directory: 01x-1
 Additional Names:
-- dance the Night away
+- Name: Track 01
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/nibirulabubu/01x-1)
 Duration: 2:17
 URLs:
 - https://soundcloud.com/nibirulabubu/01x-1
@@ -54,13 +66,16 @@ Lyrics: |-
     So dance the night away
     So dance the night away
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     I'd like to think this song is about the prom night at the beginning of the dragon arc and it's nelrith being just jealous of maragi's popularity and the way he feels he was treated. very vampiric language being used with "drain them out and consume them". "so dance the night away" being repeated can be seen as either nelrith addressing himself so he can get his mind off of maragi or him addressing what she does after having ruined the lives of others or whatever bullshit nelrith tells himself.
 ---
-Track: Track 02
+Track: this Time
 Directory: 02x-2
 Additional Names:
-- this Time
+- Name: Track 02
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/nibirulabubu/02x-2)
 Duration: 2:21
 URLs:
 - https://soundcloud.com/nibirulabubu/02x-2
@@ -109,13 +124,16 @@ Lyrics: |-
     I think im dying
     But this time youll be just fine
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     This track follows up directly the events of the previous song, he's still at prom and he's being miserable and melodramatic about it, not much else to say, that's most of the album.
 ---
-Track: Track 03
+Track: starcrossed breaths (i Want)
 Directory: 03x-3
 Additional Names:
-- starcrossed breaths (i Want)
+- Name: Track 03
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/nibirulabubu/03x-3)
 Duration: 1:41
 URLs:
 - https://soundcloud.com/nibirulabubu/03x-3
@@ -166,7 +184,8 @@ Lyrics: |-
     Hu-hurt me
     Until I can't take it anymore
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     haha get it the third song is an "i want song" it's like musicals haha i get it ha.<br>
     you know what's not funny?
 
@@ -178,14 +197,16 @@ Commentary: |-
 
     The line "i want a starcrossed breath" comes from me mishearing "we want a Starbucks please" and the whole "it's just a ha-heartbeat" comes from the song, in context it's about accepting gay people loving eachother. foreshadowing is a literary device.
 
-    I think the standout line has to be "I envy your dresses, your friends and your shirts" as it continues the window shopping themes of [["Heartbreak Studio"]] off of [[album:nibiru]], by making Nelrith envious of the things that surround Maragi be it social or physical. the insistance of clothes really emphasizes the superficiality of his love. it could also be another scrap for the transfem nelrith believers in chat. foreshadowing is a literary device.
+    I think the standout line has to be "I envy your dresses, your friends and your shirts" as it continues the window shopping themes of [["Heartbreak Studio"]] off of Nibiru, by making Nelrith envious of the things that surround Maragi be it social or physical. the insistance of clothes really emphasizes the superficiality of his love. it could also be another scrap for the transfem nelrith believers in chat. foreshadowing is a literary device.
 
     Transfem Nelrith will not happen and and if it did she would be worse off on estrogen according to [[artist:dizzims|Dizz]].
 ---
-Track: Track 04
+Track: alone (not Again)
 Directory: 04x-4
 Additional Names:
-- alone (not Again)
+- Name: Track 04
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/nibirulabubu/04x-4)
 Duration: 1:55
 URLs:
 - https://soundcloud.com/nibirulabubu/04x-4
@@ -211,17 +232,20 @@ Lyrics: |-
 
     On my own
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     This is the song i had the most problems with writing lyrics for, i literally only figured them out less than a week before releasing this album. I took a bunch of lyrics from some songs that i was gonna do for this album but got scrapped. Somehow i made it work.
 
     I wanted to remind people that this is not regular loser music but DRAGON loser music so i decided to use the fact that dragons probably have scales and that they can probably be worn down by friction.
 
     The second verse is i think probably some of my best work lyrics wise on this album, i like the imagery of sewing something directly onto someone (especially when that someone designs clothes). i think it's a good metaphor for the things we do sometimes to put up appearances and how some relations permanantly change you. this also could be another scrap for the transfem nelrith believers in chat.
 ---
-Track: Track 05
+Track: rear Window
 Directory: 05x-5
 Additional Names:
-- rear Window
+- Name: Track 05
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/nibirulabubu/05x-5)
 Duration: 2:15
 URLs:
 - https://soundcloud.com/nibirulabubu/05x-5
@@ -258,15 +282,19 @@ Lyrics: |-
 
     Could I really feel the same
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     this song actually predates all of the other songs by a bit as it was made in august of 2024. at first i made it as a parody of like almost incelcore-ish music but since i needed a song for this album and i wasn't gonna release a song that would depict me as a stalker freak i decided to give that honour to Nelrith Jynn.
 
     The instrumentation and overuse of soundgoodizer was definitely influenced by the album ["No Discernable End in Sight"](https://willyrodriguez.bandcamp.com/album/no-discernible-end-in-sight)
 ---
-Track: Track 06
+Track: Everything
 Directory: 06x-6
+Reference By Directory: outside album
 Additional Names:
-- Everything
+- Name: Track 06
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/nibirulabubu/06x-6)
 Duration: 1:50
 URLs:
 - https://soundcloud.com/nibirulabubu/06x-6
@@ -300,17 +328,20 @@ Lyrics: |-
 
     In everything
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     This was the first song i actually recorded as a nelrith song for this album. The melody came to me at work and lowkey i'm pissed i wasted such a good melody on this album.
 
     This melody was very much written to be a ripoff of early beach boys tracks like "your summer dream".
 
     I think "i followed every footstep you were leaving/if you let go give me something to believe in" is probably my actual best lyric in this album, the whole motion of it works really well + you get that little "let go" foreshadowing.
 ---
-Track: Track 07
+Track: Love again (Do what You want)
 Directory: 07x-7
 Additional Names:
-- Love again (Do what You want)
+- Name: Track 07
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/nibirulabubu/07x-7)
 Duration: 1:35
 URLs:
 - https://soundcloud.com/nibirulabubu/07x-7
@@ -344,13 +375,16 @@ Lyrics: |-
     Its so funny how you never said
     I love you
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     So this song has probably one of my favourite choruses ive written for this album, it doesn't rhyme at all and feels disjointed but still sorta connected. I wrote this one in the public vc of the desynced discord a few days after 10/01, a few people got to see me completely improvise an entire song.
 ---
-Track: Track 08
+Track: she left Me with a Broken heart
 Directory: 08x-8
 Additional Names:
-- she left Me with a Broken heart
+- Name: Track 08
+  Annotation: >-
+    [SoundCloud title](https://soundcloud.com/nibirulabubu/08x-8)
 Duration: 2:12
 URLs:
 - https://soundcloud.com/nibirulabubu/08x-8
@@ -368,19 +402,23 @@ Lyrics: |-
     She left me with a broken heart
     Left me with a broken heart
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     I think if nelrith were to canonically write a song this would be the closest to what it would sound like: beginner chords, barely any real lyrics, just purely superficial heartbreak stuff. it's probably in my top 3 songs on this album
 
     This song i think only took me about an hour or so to complete, i came up with the chords and lyrics almost on the spot.
 
-    I was very much inspired by the songs ["bury me"](https://youtu.be/FCMPiSD_2GY) and ["♥"](https://youtu.be/hil2RYv0I9Q) by [Willy Rodriguez](https://willyrodriguez.bandcamp.com/) when i made it.<br>
+    I was very much inspired by the songs ["bury me"](https://willyrodriguez.bandcamp.com/track/bury-me) and ["♥"](https://willyrodriguez.bandcamp.com/track/-) by Willy Rodriguez when i made it.<br>
     "bury me" just hammers you with the phrase "for you my love i'm digging a hole" over and over and escalates so that greatily influenced the lyrics.<br>
     Whereas "♥" is a softer acoustic ballad mainly based on a I-IV progression so that was more for the instrumentation side of it.
 
     Also i do think it has that kind of The Smiths vibe to it, anyways it sounds like Depressed Wanker Music is basically what im saying.
 ---
+Section: Hidden track
+---
 Track: Track 09
 Directory: 09x-9
+Reference By Directory: outside album
 Duration: 2:38
 URLs:
 - https://soundcloud.com/nibirulabubu/09x-9
@@ -414,7 +452,8 @@ Lyrics: |-
     And if its not what I dreamt of
     Can I really let it go?
 Commentary: |-
-    <i>SpilledCereals:</i>
+    <i>SpilledCereals:</i> (commentary file)
+
     At first i had done an actual cover of [[track:let-go|let go]] as my indie rock project ["Lahire"](https://lahirevdc.bandcamp.com/), but seeing the incredible opportunity i had in front of me i decide to use it as the last song on nelriths album. This cover is really telling of how he just falls short in every way on this project:
 
     He's one song short of [[album:curtain-call-maragi-radi|Curtain Call]], and even then he didn't even manage to make 9 original songs because the last song is a cover of a song that's not even the last song on that album. and it still manages to be longer than most of the other songs he made.
