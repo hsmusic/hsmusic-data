@@ -368,19 +368,19 @@ Artists:
 Duration: 1:57
 URLs:
 - https://103records.bandcamp.com/track/maximum-hellraizin-from-c-c-hellkiller-sketch
-#Sampled Tracks:
-# - Staff Roll (Marvel VS Capcom)
-# - Credit Inserted (Dragon Saber)
-# - Prologue (Cadillacs & Dinosaurs)
-# - Jungle (Dirt Dash OST)
+Sampled Tracks:
+- track:staff-roll-marvel-vs-capcom-clash-of-super-heroes
+- track:credit-sound-dragon-saber
+- track:overture-cadillacs-the-4-heroes
+- track:jungle-dirt-dash
 Referencing Sources: |-
     <i>[[artist:decon-theed|Denji Koshiro]]:</i> (liner notes)
 
     16) Hellplace [From "C&C: Hellkiller"]
-    - Staff Roll [Yuko Takehara, Masato Kouda] (Marvel VS Capcom OST)
-    - Credit Inserted SFX [Shinji Hosoe] (Dragon Saber OST)
-    - Prologue [PIRO2 OYAJI, SYUN, KIYO] (Cadillacs & Dinosaurs OST)
-    - Jungle [Yuri Misumi] (Dirt Dash OST)
+    - [[track:staff-roll-marvel-vs-capcom-clash-of-super-heroes]] [Yuko Takehara, Masato Kouda] (Marvel VS Capcom OST)
+    - [[track:credit-sound-dragon-saber]] [Shinji Hosoe] (Dragon Saber OST)
+    - [[track:overture-cadillacs-the-4-heroes|Prologue]] [PIRO2 OYAJI, SYUN, KIYO] (Cadillacs & Dinosaurs OST)
+    - [[track:jungle-dirt-dash]] [Yuri Misumi] (Dirt Dash OST)
 ---
 Track: Coolkid [J-MACHine's '93 Style Remix] (Demo)
 Artists:

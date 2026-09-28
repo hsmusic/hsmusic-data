@@ -1384,12 +1384,11 @@ Sampled Tracks:
 ---
 Track: Area 1 - Dragon Spirit
 Artists:
-- Dragon Spirit
 - Maki Kirioka
 Duration: 2:37
 Color: '#f3c000'
 Referenced Tracks:
-- Area_1 (Dragon Spirit)
+- track:area-1-dragon-spirit
 ---
 Section: Street Fighter
 Color: '#ff5704'
