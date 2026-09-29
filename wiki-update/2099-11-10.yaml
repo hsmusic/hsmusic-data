@@ -17,7 +17,7 @@ Changes: |-
     - added "origin details" field for artworks, which enables totally custom descriptions about where an artwork comes from; displayed beneath "by (artists)" and "via (source)" line [[media:misc/changelog/artwork-origin-details-cover.png|on album and track pages]], as well as [[media:misc/changelog/artwork-origin-details-list.png|in artists' artwork lists]]; currently used for crops of comic panels and flashes across [[group:official]], and for asset credits in [[album:hiveswap-friendsim]]
         - added similar "file details" field, which has info about the specific file as included on the wiki, rather than details on the artwork itself
     - added "attach above" field for artworks, which visually links related artworks together (provided they're for the same track or album), and shuttles away identical data e.g. because the artworks have the same artists or tags, and adds auto-inheritence so those identical lists don't have to be typed out twice, either; all in all used for earlier versions of [[album:comfortable-bugs|album covers]] and [[track:white|track art]], [[track:awakening|full-size cuts]], and perhaps other useful places
-    - added "reuse from" field for artworks, indicating an artwork is reused from some earlier or other release, automatically keeping art tags and other details in sync, and trimming duplicates in artist and art tag gallery pages
+    - added "reuse from" field for artworks, indicating an artwork is reused from some earlier or other release, automatically keeping art tags and other details in sync, and trimming duplicates in artist and art tag gallery pages; the artwork still gets a unique file so very minor differences, e.g. in dimensions/resolution, are preserved
     - remade the homepage carousel pretty much from scratch
         - no longer a carousel... now supports keyboard controls (tab key), keeps tiles static under the mouse cursor, and scales tiles ever somewhat smaller, instead of trimming the selection on narrow screens
         - added support for rotating tiles, which follow a sequence of album week by week, and randomized tiles, which randomly show a different album each week
@@ -54,6 +54,8 @@ Changes: |-
         - wiki lyrics which include annotative text in [square brackets] now automatically draw attention there in a "Mind parts marked in..." line
         - totally custom details may be included on their own line, through an "origin details" field, similar as for artworks
     - completely reworked the "group contributions" table on artist pages, making it into an actual table now; sorting options are removed, opting to always show rows in the normal wiki order, and clicking on a group now filters the artist's contributions within that group (one artist: [[media:misc/changelog/group-contribs-clark-old.png|old]], [[media:misc/changelog/group-contribs-clark-new.png|new]]; across artists: [[media:misc/changelog/group-contribs-various-old.png|old]], [[media:misc/changelog/group-contribs-various-new.png|new]])
+    - adjusted visiting links on artist pages to show the specific handle/username/etc. when an artist has links to multiple profiles/pages on the same platform
+    - adjusted visiting links, listening links, etc, to display links in a row-style list if there are a bunch of links to be shown, or several links with parenthesized annotations
     - changed the big artwork images on info pages to use "srcset" attribute, so they'll generally appear much sharper on high-resolution displays; they still always download thumbnails, just slightly larger ones than we coded some five years ago
     - changed track artwork files to not include the album's directory suffix at the end, for example [[track:frost-vol6]] is now <code class="filename">album-art/homestuck-vol-6/frost.png</code>, rather than <code class="filename">album-art/homestuck-vol-6/frost-vol6.png</code>; the actual track directories / page URLs remain unchanged
     - stopped counting secondary releases as additional track contributions, adjusting counts for almost all artists, visible in [[listing:artists/by-contribs|"Artists - by Contributions"]] listing ([[media:misc/changelog/secrelease-contribution-count-listing-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-listing-new.png|new]] <img src="media/misc/tangup.png" width="18" height="18" inline>) and in artist group contribution info ([[media:misc/changelog/secrelease-contribution-count-groups-old.png|old]], [[media:misc/changelog/secrelease-contribution-count-groups-new.png|new]])
@@ -89,10 +91,12 @@ Changes: |-
     - fixed sidebar for tracks with multiple releases sorting according to the tracks' albums' dates, instead of the tracks' own dates
     - fixed flashes ignoring non-square artworks
     - fixed flashes displaying their commentary doubled in crediting sources, and never actually showing their crediting sources
+    - fixed skipper links not actually tab-focusing the target chunk of the page, unless you're on Chrome, in most circumstances
     - fixed secondary nav misbehaving for albums part of a series, but not part of the series' containing group (currently only [[album:lofam]])
     - fixed wide inline images escaping the intended bounds for commentary and other content text
     - fixed external links not getting processed by the wiki if they follow some unrelated "[" on the same line
     - fixed broken background CSS for albums [[album:coloUrs-and-mayhem-universe-a]], [[album:coloUrs-and-mayhem-universe-b]], and [[album:the-homestuck-strife-project-vol-1]]
+    - dozens of very minor CSS and JavaScript fixes
 ---
 Section: album additions
 Changes: |-
