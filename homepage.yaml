@@ -14,6 +14,9 @@ Navbar Links:
 ---
 Row: album carousel
 Carousel:
+  Anchor Date: November 10, 2026
+  Update Frequency: weekly
+
   Scriptless Tiles:
   - Homestuck Vol. 1-4
   - Homestuck Vol. 10
@@ -29,7 +32,7 @@ Carousel:
   Tiles:
 
   # row=1 col=1
-  - Randomize From: # Rotate From:
+  - Rotate From:
     # OFFICIAL DISCOGRAPHY NUMBERED VOLUMES + BEYOND CANON
     - album:homestuck-vol-1-4
     - album:homestuck-vol-5
