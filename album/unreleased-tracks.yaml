@@ -943,28 +943,23 @@ MIDI Project Files:
   Artists:
   - MarigoldMusicGal
   Description: >-
-    Isolated using [mvsep](https://mvsep.com/) and [Bertom Phantom Center](https://bertomaudio.com/phantom-center.html). Queries welcome via Discord (marigoldmusicgal) or email! (marigoldmusicgal@gmail.com)
+    Isolated using [mvsep](https://mvsep.com/).
   Folder: S_MSPAR_REMEMBER - MarigoldMusicGal (stems)
   Files:
-  - Bass noise (no penumbra I think).flac
-  - Explore thing.flac
+  - Explore.flac
   - MeGaLoVania.flac
-  - Noise (no penumbra).flac
-  - Noise2 (no penumbra).flac
-  - Penumbra Phantasm drums (includes other sample unfortunatley).flac
-  - Penumbra Phantasm glock and high piano (missing notes after drop).flac
-  - Penumbra Phantasm guitar.flac
-  - Penumbra Phantasm high piano extras (missing notes after drop).flac
-  - Penumbra Phantasm strings (strings, piano and explore noise).flac
+  - Penumbra Phantasm Stereo.flac
+  - Penumbra Phantasm Mono.flac
   - Rex Duodecim Angelus.flac
   - Unite Synchronization.flac
-- Title: FL Studio recreation
+- Title: Penumbra Phantasm FL Studio recreation
   Artists:
   - MarigoldMusicGal
   Folder: S_MSPAR_REMEMBER - MarigoldMusicGal (FL Studio)
   Files:
-  - Dependencies.txt
-  - S_MSPAR_REMEMBER Recreation.flp
+  - requirements.txt
+  - S_MSPAR_REMEMBER Penumbra Phantasm Recreation.flp
+  - S_MSPAR_REMEMBER Penumbra Phantasm Recreation.flac
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 8/8/2024)
 
