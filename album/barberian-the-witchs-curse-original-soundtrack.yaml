@@ -5,8 +5,14 @@ URLs:
 - https://jebb.bandcamp.com/album/barberian-the-witchs-curse-original-soundtrack
 Artists:
 - Jebb
-Cover Artists:
-- NoodlesXL
+Cover Artwork:
+- Artists:
+  - NoodlesXL
+- Label: Alternate cover
+  Directory: alternate
+  Artists:
+  - NoodlesXL
+  Source: album download
 Wallpaper Artists:
 - NoodlesXL
 Cover Art File Extension: png
@@ -33,8 +39,8 @@ Commentary: |-
     <i>Jebb:</i> ([Bandcamp about blurb](https://jebb.bandcamp.com/album/total-frenzy-original-soundtrack))
     Original soundtrack for the game Barberian: The Witch's Curse, from the second (Bald) FrenJam!
 
-    Check out the game here: [popcar2.itch.io/barberian-the-witch-curse](https://popcar2.itch.io/barberian-the-witch-curse)<br>
-    Or here: [www.newgrounds.com/portal/view/1033644](https://www.newgrounds.com/portal/view/1033644)
+    Check out the game here: https://popcar2.itch.io/barberian-the-witch-curse<br>
+    Or here: https://www.newgrounds.com/portal/view/1033644
 
     Thanks to Noodles for the album art!
 ---
