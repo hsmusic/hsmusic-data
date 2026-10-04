@@ -7,9 +7,10 @@ Artists:
 Date: October 31, 2025
 Date Added: February 6, 2026
 URLs:
-- https://soundcloud.com/surreal012/sets/penumbra-phantasm
 - https://www.youtube.com/playlist?list=OLAK5uy_nlDDdFxb6jQu48yyAxIwK56RnrHGVx8v8
+- https://soundcloud.com/surreal012/sets/penumbra-phantasm
 - https://open.spotify.com/album/3rS5TrJXbTHhFPmb57yWca
+- https://music.apple.com/album/penumbra-phantasm/6799042771
 Cover Artists:
 - surreal
 Wallpaper Artists:
@@ -22,8 +23,13 @@ Color: '#cec5e3'
 #- Dess
 Groups:
 - Beyond
+Music Videos:
+- Title: DELTARUNE Chapter 7 (Final Boss Animatic)
+  URL: https://www.youtube.com/watch?v=fWH8jmOyPFw
+  Directory: animatic
 Commentary: |-
     <i>surreal:</i> ([Final Boss Animatic video description](https://youtu.be/fWH8jmOyPFw))
+
     The final one.
 
     Farewell.
@@ -41,6 +47,7 @@ Commentary: |-
     Happy Halloween and Happy 7th DELTARUNE Anniversary.
 Crediting Sources: |-
     <i>surreal:</i> ([Final Boss Animatic video description](https://youtu.be/fWH8jmOyPFw))
+
     ULTRA Special Thanks to:<br>
     [[artist:tweenko]] (project would be impossible without them, check their engine out!)
 
@@ -61,11 +68,13 @@ Referenced Tracks:
 - track:penumbra-phantasm
 - Game Main Theme (Piano Sketch)
 URLs:
-- https://soundcloud.com/surreal012/twilight-reverie-save-select
 - https://www.youtube.com/watch?v=mnQfPsAaOqA
+- https://soundcloud.com/surreal012/twilight-reverie-save-select
 - https://open.spotify.com/track/7Czzcxsz18KwOZhFENafia
+- https://music.apple.com/album/twilight-reverie-save-select/6799042771?i=6799042772
 Commentary: |-
     <i>surreal:</i> ([YouTube description](https://youtu.be/mnQfPsAaOqA))
+
     ...
 ---
 Track: World's Edge
@@ -77,23 +86,28 @@ Referenced Tracks:
 - The Legend
 - THE HOLY
 URLs:
-- https://soundcloud.com/surreal012/worlds-edge
 - https://www.youtube.com/watch?v=QdZtfg1FWjk
+- https://soundcloud.com/surreal012/worlds-edge
 - https://open.spotify.com/track/0oGZMD9Xm1reSaihMEJaxE
+- https://music.apple.com/album/worlds-edge/6799042771?i=6799042773
 Commentary: |-
     <i>surreal:</i> ([YouTube description](https://youtu.be/mnQfPsAaOqA))
+
     • "Thank you... for everything."
 ---
 Track: Savior of the Waking World
-Directory: savior-of-the-waking-world-surreal
+Suffix Directory: surreal
 Always Reference By Directory: true
 Duration: 2:44
-Cover Artists:
-- surreal
-Art Tags:
-- Soul (Red)
-- Kris
-#- Vessel
+Track Artwork:
+- Artists:
+  - surreal
+  Tags:
+  - Soul (Red)
+  - Kris
+  #- Vessel
+  Source: >-
+    [SoundCloud](https://soundcloud.com/surreal012/savior-of-the-waking-world)
 Referenced Tracks:
 - kris_piano_last_prophecy
 - Savior of the Waking World
@@ -103,14 +117,18 @@ Referenced Tracks:
 - Game Main Theme (Piano Sketch)
 - track:penumbra-phantasm
 URLs:
-- https://soundcloud.com/surreal012/savior-of-the-waking-world
 - https://www.youtube.com/watch?v=JoGbA9bfLvE
+- https://soundcloud.com/surreal012/savior-of-the-waking-world
 - https://open.spotify.com/track/2yhrxUxKBDwK2ni9j3rPHN
+- https://music.apple.com/album/savior-of-the-waking-world/6799042771?i=6799042774
 Commentary: |-
     <i>surreal:</i> ([YouTube description](https://youtu.be/JoGbA9bfLvE))
+
     • You gained everyone's power.
 ---
 Track: Flashback
+Suffix Directory: tweenko
+Always Reference By Directory: true
 Additional Names:
 - Name: >-
     Flashback (by tweenko)
@@ -119,24 +137,33 @@ Additional Names:
 Duration: 1:44
 Artists:
 - tweenko
-Cover Artists:
-- tweenko
+Track Artwork:
+- Artists:
+  - tweenko
+  Source: >-
+    [SoundCloud](https://soundcloud.com/tweenko/flashback)
 Referenced Tracks:
 - Flashback (Excerpt)
 - THE HOLY
 - findher
 URLs:
-- https://soundcloud.com/tweenko/flashback
 - https://www.youtube.com/watch?v=2kzDpLiJ0S4
+- https://soundcloud.com/tweenko/flashback
 - https://open.spotify.com/track/3DlhgKrFk6ckV5b3tMMWnr
+- https://music.apple.com/album/flashback/6799042771?i=6799043045
 Commentary: |-
     <i>surreal:</i> ([YouTube description](https://youtu.be/2kzDpLiJ0S4))
+
     . . .
 
     W - W h a t  i s  t h a t  t h i n g ?
+Crediting Sources: |-
+    <i>tweenko:</i> ([SoundCloud description](https://soundcloud.com/tweenko/flashback))
+
+    this track was made using the recreation created by the talanted [stormstudios1](https://www.youtube.com/@stormstudios1) on youtube. check them out!
 ---
 Track: Penumbra Phantasm
-Directory: penumbra-phantasm-v3-surreal
+Suffix Directory: v3-surreal
 Always Reference By Directory: true
 Duration: 10:25
 Referenced Tracks:
@@ -154,11 +181,13 @@ Referenced Tracks:
 - Darkness Falls
 - kris_piano_last_prophecy
 URLs:
-- https://soundcloud.com/surreal012/penumbra-phantasm-v3
 - https://www.youtube.com/watch?v=hdNjiyOJs4g
+- https://soundcloud.com/surreal012/penumbra-phantasm-v3
 - https://open.spotify.com/track/3Z3PwqNtl0zng2wURrq5bp
+- https://music.apple.com/album/penumbra-phantasm/6799042771?i=6799043046
 Commentary: |-
     <i>surreal:</i> ([YouTube description](https://youtu.be/hdNjiyOJs4g))
+
     At "shadow's edge",<br>
     Shatter the Twilight Reverie.
 ---
@@ -168,15 +197,17 @@ Referenced Tracks:
 - track:penumbra-phantasm-v3-surreal
 - THE WORLD REVOLVING
 - Crumbling Tower
-#- Raise Up Your Bat but from PPv3 so should it be ref'd?
+#- the Raise Up Your Bat section of track:penumbra-phantasm-v3-surreal
 - The Dark Truth
 - The Chase
 URLs:
-- https://soundcloud.com/surreal012/save-her
 - https://www.youtube.com/watch?v=0elgZqZdXcc
+- https://soundcloud.com/surreal012/save-her
 - https://open.spotify.com/track/6VowoT45BmeDO2NV3BncOd
+- https://music.apple.com/album/save-her/6799042771?i=6799043047
 Commentary: |-
     <i>surreal:</i> ([YouTube description](https://youtu.be/0elgZqZdXcc))
+
     • (Suddenly, the PURE CRYSTAL shined brightly...!)
 
     • "Y-You little freak… Don’t you get it!?”<br>
@@ -185,14 +216,17 @@ Commentary: |-
     • The enemy is now able to be SPARED!
 ---
 Track: Hammer of Justice
-Directory: hammer-of-justice-surreal
+Suffix Directory: surreal
 Always Reference By Directory: true
 Duration: 3:03
-Cover Artists:
-- surreal
-Art Tags:
-- Gerson Boom (Dark World)
-- Knight
+Track Artwork:
+- Artists:
+  - surreal
+  Tags:
+  - Gerson Boom (Dark World)
+  - Knight
+  Source: >-
+    [SoundCloud](https://soundcloud.com/surreal012/hammerofjustice)
 Referenced Tracks:
 - Hammer of Justice
 - Shop
@@ -200,11 +234,13 @@ Referenced Tracks:
 - Game Main Theme (Piano Sketch)
 - Battle Against a True Hero
 URLs:
-- https://soundcloud.com/surreal012/hammerofjustice
 - https://www.youtube.com/watch?v=pQsXniYNZcc
+- https://soundcloud.com/surreal012/hammerofjustice
 - https://open.spotify.com/track/7huWdN5A73JfWYsOH2qnzs
+- https://music.apple.com/album/hammer-of-justice/6799042771?i=6799043048
 Commentary: |-
     <i>surreal:</i> ([YouTube description](https://youtu.be/pQsXniYNZcc))
+
     • I'm old!
 
     ===========================================================
@@ -217,9 +253,11 @@ Referenced Tracks:
 - Volume Adjustment
 - MIKE, the BOARD, please!
 URLs:
-- https://soundcloud.com/surreal012/mike-check
 - https://www.youtube.com/watch?v=NOUbumjC75A
+- https://soundcloud.com/surreal012/mike-check
 - https://open.spotify.com/track/0opSXmyIO1YXTnhC5fStPC
+- https://music.apple.com/album/mike-check/6799042771?i=6799043049
 Commentary: |-
     <i>surreal:</i> ([YouTube description](https://youtu.be/NOUbumjC75A))
+
     You want a BIG SHOT??? We get a big shot right 'ere!!!

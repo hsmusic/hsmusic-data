@@ -1,4 +1,6 @@
 Album: Femcelstuck
+Suffix Track Directories: true
+Always Reference Tracks By Directory: true
 Date: April 13, 2026
 Date Added: July 28, 2026
 Artists:
@@ -13,51 +15,43 @@ Groups:
 - Fandom
 ---
 Track: Harlequin
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 2:42
 Referenced Tracks:
-- track:harlequin
+- Harlequin
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/harlequin
 ---
 Track: Showtime
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 2:10
 Referenced Tracks:
-- track:showtime-original-mix
+- Showtime (Original Mix)
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/showtime
 ---
 Track: '[S] Descend'
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:36
 Referenced Tracks:
-- track:descend
+- Descend
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/s-descend
 ---
 Track: Sburban Jungle
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 4:04
 Referenced Tracks:
-- track:sburban-jungle
+- Sburban Jungle
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/sburban-jungle
 ---
 Track: Upward Movement (Sylvie Owns)
+Suffix Directory: false
+Always Reference By Directory: false
 Duration: 5:38
 Referenced Tracks:
-- track:upward-movement-dave-owns
+- Upward Movement (Dave Owns)
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/upward-movement-sylvie-owns
 ---
 Track: Arisen Anew
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 1:35
 Referenced Tracks:
 - Arisen Anew
@@ -67,37 +61,34 @@ URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/arisen-anew
 ---
 Track: Eridan's Theme
-Suffix Directory: true
-Always Reference By Directory: true
+Additional Names:
+- Name: eridan's theme
+  Annotation: >-
+    [YouTube](https://www.youtube.com/watch?v=SwNU-A0VDaM)
 Duration: 3:10
 Referenced Tracks:
 - Eridan's Theme
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/eridans-theme
+- https://www.youtube.com/watch?v=SwNU-A0VDaM
 ---
 Track: Vriska's Theme
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 2:10
 Referenced Tracks:
-- track:vriskas-theme
+- Vriska's Theme
 Sampled Tracks:
-- track:vriskas-theme
+- Vriska's Theme
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/vriskas-theme
 ---
 Track: '[S] Make her pay.'
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:02
 Referenced Tracks:
-- track:crystamanthequins
+- Crystamanthequins
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/s-make-her-pay
 ---
 Track: MeGaLoVaNiA
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:07
 Referenced Tracks:
 - track:MeGaLoVania
@@ -105,39 +96,32 @@ URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/megalovania
 ---
 Track: Black
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 5:56
 Referenced Tracks:
-- track:black
+- Black
 Sampled Tracks:
-- track:black
+- Black
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/black
 ---
 Track: Umbral Ultimatum
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 2:19
 Referenced Tracks:
-- track:umbral-ultimatum
+- Umbral Ultimatum
 Sampled Tracks:
-- track:umbral-ultimatum
+- Umbral Ultimatum
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/umbral-ultimatum
 ---
 Track: Black Rose / Green Sun
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:44
 Referenced Tracks:
-- track:black-rose-green-sun
+- Black Rose / Green Sun
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/black-rose-green-sun
+- https://www.youtube.com/watch?v=a_q6EqIMgEw
 ---
 Track: Horsechestra
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:40
 Referenced Tracks:
 - Horschestra
@@ -145,43 +129,35 @@ URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/horsechestra
 ---
 Track: Doctor
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 5:01
 Referenced Tracks:
-- track:doctor
+- Doctor
 Sampled Tracks:
-- track:doctor
+- Doctor
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/doctor
 ---
 Track: Gold Pilot
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:34
 Referenced Tracks:
-- track:gold-pilot
+- Gold Pilot
 Sampled Tracks:
-- track:gold-pilot
+- Gold Pilot
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/gold-pilot
 ---
 Track: Fuchsia Ruler
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 4:12
 Referenced Tracks:
-- track:fuchsia-ruler
+- Fuchsia Ruler
 Sampled Tracks:
-- track:fuchsia-ruler
+- Fuchsia Ruler
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/fuchsia-ruler
 ---
 Track: Pumpkin Party In Sea Hitler's Water Apocalypse
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:42
 Referenced Tracks:
-- track:pumpkin-party-in-sea-hitlers-water-apocalypse
+- Pumpkin Party in Sea Hitler's Water Apocalypse
 URLs:
 - https://femcelbassmentdweller.bandcamp.com/track/pumpkin-party-in-sea-hitlers-water-apocalypse
