@@ -39,6 +39,7 @@ Direct Descendant Tags:
 Tag: Deer (Desynced)
 Direct Descendant Tags:
 - Clan Chief (Desynced)
+- Boss (Desynced)
 ---
 Tag: Dragons (Desynced)
 Direct Descendant Tags:
@@ -97,7 +98,7 @@ Direct Descendant Tags:
 Tag: Gods (Desynced)
 Direct Descendant Tags:
 - Skaia (Desynced)
-- Van Black (Desynced)
+- Vanta (Desynced)
 ---
 Tag: Animals (Desynced)
 Direct Descendant Tags:
@@ -117,6 +118,11 @@ Direct Descendant Tags:
 - Masky (Desynced)
 - Monsoon (Desynced) # just not sorted...
 - Folly Face (Desynced)
+- Ms Jolly (Desynced)
+- Sthoh (Desynced)
+- Tstll (Desynced)
+- Skaia (Desynced)
+- Vanta (Desynced)
 
 # Character entries
 
@@ -135,6 +141,9 @@ Color: '#0fd300'
 ---
 Tag: Bianca Queens (Desynced)
 Color: '#7b7b7b'
+---
+Tag: Boss (Desynced)
+Color: '#a14e4b'
 ---
 Tag: Brent Kampel (Desynced)
 Color: '#7b7b7b'
@@ -250,6 +259,9 @@ Color: '#89a837'
 Tag: Monsoon (Desynced)
 Color: '#ffde55'
 ---
+Tag: Ms Jolly (Desynced)
+Color: '#860e99'
+---
 Tag: Nelrith (Desynced)
 Color: '#e97534'
 ---
@@ -277,13 +289,19 @@ Color: '#6256d3'
 Tag: Skaia (Desynced)
 Color: '#fff2d7'
 ---
+Tag: Sthoh (Desynced)
+Color: '#ffba73'
+---
 Tag: Styx (Desynced)
 Color: '#d9000b'
 ---
 Tag: Tsanzer (Desynced)
 Color: '#76d972'
 ---
-Tag: Van Black (Desynced)
+Tag: Tstll (Desynced)
+Color: '#513ec0'
+---
+Tag: Vanta (Desynced)
 Color: '#c91ef7'
 ---
 Tag: Weird Al (Desynced)
@@ -296,6 +314,7 @@ Tag: Locations from Desynced
 Direct Descendant Tags:
 - Astronomical bodies (Desynced)
 - Locations in the Incipisphere (Desynced)
+- More locations (Desynced)
 ---
 Tag: Astronomical bodies (Desynced)
 Direct Descendant Tags:
@@ -316,6 +335,10 @@ Direct Descendant Tags:
 - LoTaM (Desynced)
 - LoWHaT (Desynced)
 - LoSaNS (Desynced)
+---
+Tag: More locations (Desynced)
+Direct Descendant Tags:
+- The _ (Desynced)
 
 # Location entries
 
@@ -348,3 +371,7 @@ Tag: Moon (Desynced)
 Color: '#f6f6f6'
 ---
 Tag: Nibiru (Desynced)
+Color: '#b5a799'
+---
+Tag: The _ (Desynced)
+Color: '#dad4c2'
