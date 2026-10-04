@@ -1,9 +1,12 @@
 Album: 'RAKKA: WAKE 01 - SOOT (Original Soundtrack)'
+Directory Suffix: rakka
 #Thanks to Pascal and GITGOT for helping with album info and assets!
 Date: April 27, 2026
 Date Added: July 13, 2026
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/album/rakka-wake-01-soot-original-soundtrack
+- https://open.spotify.com/album/0NOsva5mTg9JTQy3Nx1BUA
+- https://music.apple.com/album/rakka-wake-01-soot-original-soundtrack/1895141015
 Cover Artists:
 - GITGOT
 Wallpaper Artists:
@@ -19,12 +22,16 @@ Color: '#c84829'
 Groups:
 - The Paradox Music Team
 - Beyond
-    #additional Files:
+#Additional Files:
 #- Title: Album booklet
 #  Description: >-
 #    Credit and lyrics booklet which bridges the narrative of the first and second EPs in a synopsis comic, included with the album download.
 #  Files:
 #  - booklet
+Music Videos:
+- Title: 'RAKKA: WAKE 01 - SOOT - Official Launch Premiere'
+  URL: https://www.youtube.com/watch?v=1wlQxMCKFLU
+  Directory: launch-premiere
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Bandcamp about blurb](https://pascalpotatovandenbos.bandcamp.com/album/rakka-wake-01-soot-original-soundtrack))
 
@@ -33,6 +40,7 @@ Commentary: |-
     You can buy RW1S on Steam here: https://store.steampowered.com/app/3455080/RAKKA_WAKE_01__SOOT/
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/album/rakka-wake-01-soot-original-soundtrack))
+
     --RW1S SOUND TEAM--:
 
     Sound Director:<br>
@@ -133,19 +141,25 @@ Artists:
 Duration: 0:10
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/splash-logos
+- https://open.spotify.com/track/7f9k9A8rIqs5bSyI19GiZ3
+- https://music.apple.com/album/splash-logos/1895141015?i=6763056028
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/splash-logos))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
 ---
 Track: ME!
 Suffix Directory: true
+Reference By Directory: outside album
 Artists:
-- GITGOT (composition, lyrics/vocals, guitar)
+- GITGOT (composition, lyrics, vocals, guitar)
 - Pascal van den Bos (arrangement, mixing)
 Duration: 1:25
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/me-2
+- https://open.spotify.com/track/4BU34H0mTn0PG2QXweWxvU
+- https://music.apple.com/album/me/1895141015?i=6763056029
 Lyrics: |-
     Think I’m finally seeing now
     The message offered relief
@@ -208,6 +222,7 @@ Lyrics: |-
     Me!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/me-2))
+
     Composed by:<br>
     [[artist:gitgot]]
     
@@ -224,6 +239,7 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Twilight Minus One (Main Menu)
+Directory: twilight-minus-one
 Artists:
 - Pascal van den Bos
 Duration: 2:07
@@ -231,11 +247,15 @@ Referenced Tracks:
 - Good Morning Everyone
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/twilight-minus-one-main-menu
+- https://open.spotify.com/track/5KGU10ixnXWMh4rKA82vh1
+- https://music.apple.com/album/twilight-minus-one-main-menu/1895141015?i=6763056030
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: I watched Trainspotting 2 sometime after i made this song, and Realized they use the same main drumloop as i did for some parts of the soundtrack, neat!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/twilight-minus-one-main-menu))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
 ---
@@ -245,23 +265,31 @@ Artists:
 Duration: 1:17
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/youve-been-here-a-while
+- https://open.spotify.com/track/7gmGrdjRSgWCbUWhSLx5Cx
+- https://music.apple.com/album/youve-been-here-a-while/1895141015?i=6763056031
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: This is actually one of the last tracks i made for the game. Kinda unexpected since it plays at the start of the game right? Anyways this has been my fun fact, bye!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/youve-been-here-a-while))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
 ---
 Track: Me Greeting Myself (Opening)
+Directory: me-greeting-myself
 Artists:
 - GITGOT (composition, guitar)
 - Pascal van den Bos (arrangement, bass guitar)
 Duration: 0:50
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/me-greeting-myself-opening
+- https://open.spotify.com/track/51tEkETPx8Mxt5PyP6SE6d
+- https://music.apple.com/album/me-greeting-myself-opening/1895141015?i=6763056032
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/me-greeting-myself-opening))
+
     Composed by:<br>
     [[artist:gitgot]]
     
@@ -275,17 +303,22 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Easygoing Gal (Rakka's Theme)
+Directory: easygoing-gal
 Artists:
 - GITGOT (composition, guitar)
 - Pascal van den Bos (composition, arrangement)
 Duration: 1:46
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/easygoing-gal-rakkas-theme
+- https://open.spotify.com/track/2KRDdPOFgR89wBMHQgc24A
+- https://music.apple.com/album/easygoing-gal-rakkas-theme/1895141015?i=6763056033
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Rakka is an easygoing gal...
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/easygoing-gal-rakkas-theme))
+
     Composed by:<br>
     [[artist:gitgot]] and [[artist:pascal-van-den-bos]]
     
@@ -296,18 +329,23 @@ Crediting Sources: |-
     [[artist:gitgot]]
 ---
 Track: Einzelgänger (Sascha's Theme)
+Directory: einzelganger
 Artists:
 - GITGOT (composition, arrangement, guitar)
 - Pascal van den Bos (arrangement, mixing)
 Duration: 1:18
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/einzelg-nger-saschas-theme
+- https://open.spotify.com/track/3ChNXlt3P9jxZ7bfBbNxNy
+- https://music.apple.com/album/einzelg%C3%A4nger-saschas-theme/1895141015?i=6763056034
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: 'Einzelgänger' means 'lone wolf' in German!
     Sascha also likes lasagna, just like Garfield haha, silly cat.....
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/einzelg-nger-saschas-theme))
+
     Composed by:<br>
     [[artist:gitgot]]
     
@@ -321,17 +359,22 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Proper Softie (Björn's Theme)
+Directory: proper-softie
 Artists:
 - GITGOT (composition)
 - Pascal van den Bos (composition, arrangement, bass guitar)
 Duration: 1:45
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/proper-softie-bj-rns-theme
+- https://open.spotify.com/track/3wdCP0oSY91YrnDQoSlgnI
+- https://music.apple.com/album/proper-softie-bj%C3%B6rns-theme/1895141015?i=6763056035
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Björn can often be seen standing while leaning forwards, this is bad posture. Don't try this at home! You'll regret it!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/proper-softie-bj-rns-theme))
+
     Composed by:<br>
     [[artist:gitgot]] and [[artist:pascal-van-den-bos]]
     
@@ -342,16 +385,21 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Right Enigma (Kev's Theme)
+Directory: right-enigma
 Artists:
 - Pascal van den Bos
 Duration: 1:33
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/right-enigma-kevs-theme
+- https://open.spotify.com/track/6qBRT0hEB2q1t8UEnQfAjZ
+- https://music.apple.com/album/right-enigma-kevs-theme/1895141015?i=6763056036
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Kev is at home studying right now. Yes we know this game takes place 30 years ago. He is still studying.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/right-enigma-kevs-theme))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -359,6 +407,7 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Stillframe (Pause Menu)
+Directory: stillframe
 Artists:
 - Pascal van den Bos (composition)
 - Rowyn Berlan (arrangement, keys)
@@ -369,8 +418,11 @@ Referenced Tracks:
 - Easygoing Gal (Rakka's Theme)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/stillframe-pause-menu
+- https://open.spotify.com/track/4IYsAFT0aDDio5J1gwdV34
+- https://music.apple.com/album/stillframe-pause-menu/1895141015?i=6763056037
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/stillframe-pause-menu))
+
     Composed by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -389,22 +441,30 @@ Artists:
 Duration: 2:21
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/unknown-caller
+- https://open.spotify.com/track/162knJR1G5e5XS2q2gmtkb
+- https://music.apple.com/album/unknown-caller/1895141015?i=6763056038
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: The pad patch i used for this song is actually detuned by one semitone, because of this i had to transpose it up again by one! So if you were to open the midi file of this song, it would probably sound horrible...
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/unknown-caller))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
 ---
 Track: Twilight Dawn (End of Chapter 1)
+Directory: twilight-dawn
 Artists:
 - Pascal van den Bos
 Duration: 0:11
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/twilight-dawn-end-of-chapter-1
+- https://open.spotify.com/track/417hq2zs23oJS4RUxmPdQq
+- https://music.apple.com/album/twilight-dawn-end-of-chapter-1/1895141015?i=6763056039
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/twilight-dawn-end-of-chapter-1))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
 ---
@@ -417,11 +477,15 @@ Referenced Tracks:
 - Proper Softie (Björn's Theme)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/neat-n-tidy
+- https://open.spotify.com/track/5FegPeRuGB328ZHx5JMp3a
+- https://music.apple.com/album/neat-n-tidy/1895141015?i=6763056040
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: This song is about the exact right length to properly brush your teeth to. So if you every forget how long you should brush for, just brush along with this song! Lyfe hax! Epic Win!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/neat-n-tidy))
+
     Composed by:<br>
     [[artist:rowyn-berlan]] and [[artist:gitgot]]
     
@@ -439,11 +503,15 @@ Sampled Tracks:
 - Slave State
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/rave-state
+- https://open.spotify.com/track/5WGXRQ8J78ekJg6VXC3ZjO
+- https://music.apple.com/album/rave-state/1895141015?i=6763056041
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
-    Fun fact about this song: This song has 3 different iterations now. Origionally it was an LSDJ song made by Caelan for our album [album:stlap3|'Stable Time Loops and Paradoxes 3']. I also made another version of it on Nintendo DS hardware for [StormGallade's](https://bsky.app/profile/stormgallade.bsky.social) 'Pokemon Digit'. So that makes this the only version actually made mostly using a DAW.
+
+    Fun fact about this song: This song has 3 different iterations now. Origionally it was an LSDJ song made by Caelan for our album [[album:stlap3|'Stable Time Loops and Paradoxes 3']]. I also made another version of it on Nintendo DS hardware for [StormGallade's](https://bsky.app/profile/stormgallade.bsky.social) 'Pokemon Digit'. So that makes this the only version actually made mostly using a DAW.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/rave-state))
+
     Composed by:<br>
     [[artist:caelan-kier]]
     
@@ -452,16 +520,20 @@ Crediting Sources: |-
 ---
 Track: Cute Bitch Core
 Artists:
-- GITGOT (composition, lyrics/vocals, guitar)
+- GITGOT (composition, lyrics, vocals, guitar)
 - Pascal van den Bos (arrangement, mixing)
 Duration: 3:46
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/cute-bitch-core
+- https://open.spotify.com/track/32HJyPug0YJJ6NhkLSYhna
+- https://music.apple.com/album/cute-bitch-core/1895141015?i=6763056042
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: This song was actually made for a scrapped midnight jungle project, luckily it fits way better in this game!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/cute-bitch-core))
+
     Composed by:<br>
     [[artist:gitgot]]
     
@@ -484,8 +556,11 @@ Artists:
 Duration: 2:30
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/the-beach
+- https://open.spotify.com/track/5nwCIZDCqFr88l5vZlG5PW
+- https://music.apple.com/album/the-beach/1895141015?i=6763056043
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/the-beach))
+
     Composed and arranged by:<br>
     [[artist:gitgot]] and [[artist:pascal-van-den-bos]]
     
@@ -499,6 +574,8 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Good Morning!
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Pascal van den Bos
 Duration: 1:49
@@ -506,15 +583,21 @@ Referenced Tracks:
 - Good Morning Everyone
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/good-morning
+- https://open.spotify.com/track/3N53MLsvHkIEilkhpOgxE5
+- https://music.apple.com/album/good-morning/1895141015?i=6763056044
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: I originally wrote this song 6 years ago for a scrapped PMT Animal Crossing fan album. I found it again while looking through old project files and decided to rework it for this game!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/good-morning))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
 ---
 Track: Intruder
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Pascal van den Bos (composition, arrangement)
 - GITGOT (composition)
@@ -524,11 +607,15 @@ Referenced Tracks:
 - Unknown Caller
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/intruder
+- https://open.spotify.com/track/6kZOe0DGIGgBWt9aDRPfQL
+- https://music.apple.com/album/intruder/1895141015?i=6763056045
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Always be sure to lock your door when you leave your house, This is usually an effective methor for not getting robbed.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/intruder))
+
     Composed by:<br>
     [[artist:pascal-van-den-bos]] and [[artist:gitgot]]
     
@@ -536,6 +623,9 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Trepidation (End of Chapter 2)
+Directory: trepidation
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - GITGOT (composition)
 - Pascal van den Bos (arrangement)
@@ -544,8 +634,11 @@ Referenced Tracks:
 - ME!
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/trepidation-end-of-chapter-2
+- https://open.spotify.com/track/5imd74gLEfbRRC1lgAbD37
+- https://music.apple.com/album/trepidation-end-of-chapter-2/1895141015?i=6763056046
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/trepidation-end-of-chapter-2))
+
     Composed by:<br>
     [[artist:gitgot]]
     
@@ -558,11 +651,15 @@ Artists:
 Duration: 3:22
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/are-you-fucking-kidding-me
+- https://open.spotify.com/track/5XJv1c8cwIQotRf2TGjwZv
+- https://music.apple.com/album/are-you-fucking-kidding-me/1895141015?i=6763056047
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Playing this in the background while you are angry about something will make your epic badass swag rank double.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/are-you-fucking-kidding-me))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -580,11 +677,15 @@ Referenced Tracks:
 - PARANOIA DRIVE
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/chronosonder
+- https://open.spotify.com/track/3p0OE5gA5K7BqXnwD6nSAF
+- https://music.apple.com/album/chronosonder/1895141015?i=6763056048
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
-    Fun fact about this song: This song is an arrangement of 'Paranoia Drive' from [album:rakka-vol-2-the-surges|'RAKKA Vol. 2 THE SURGES'].
+
+    Fun fact about this song: This song is an arrangement of [['Paranoia Drive']] from [[album:rakka-vol-2-the-surges|'RAKKA Vol. 2 THE SURGES']].
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/chronosonder))
+
     Composed by:<br>
     [[artist:gitgot]]
     
@@ -603,15 +704,21 @@ Artists:
 Duration: 1:55
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/oliver-and-mias-theme
+- https://open.spotify.com/track/3iv50waZpkmo9mHkxrLSNZ
+- https://music.apple.com/album/oliver-and-mias-theme/1895141015?i=6763056169
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Joscha is also known online as Onion_MU, i am letting you know so you will not be confused. This is because i am extremely thoughtful.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/oliver-and-mias-theme))
+
     Composed and arranged by:<br>
     [[artist:joscha-beab]]
 ---
 Track: Leisure
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Levc (composition, arrangement)
 - Pascal van den Bos (composition)
@@ -620,11 +727,15 @@ Referenced Tracks:
 - The Beach
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/leisure
+- https://open.spotify.com/track/4jeYyqkjkYrAcn1emHd1Xa
+- https://music.apple.com/album/leisure/1895141015?i=6763056170
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Did you know Levc is working on his own game called ['Tales From The Other Side'](https://store.steampowered.com/app/2894870/Tales_From_The_Other_Side/)? You should play the [demo](https://store.steampowered.com/app/2900940/Tales_From_The_Other_Side_DEMO/) on Steam!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/leisure))
+
     Composed by:<br>
     [[artist:levc|Levc Villanova]] and [[artist:pascal-van-den-bos]]
     
@@ -641,11 +752,15 @@ Referenced Tracks:
 - Easygoing Gal (Rakka's Theme)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/samsara-loop
+- https://open.spotify.com/track/32DgYcV1aqSITnAdCO7dYN
+- https://music.apple.com/album/samsara-loop/1895141015?i=6763056171
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: The entire project file for this song has imploded, so i can never open it again.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/samsara-loop))
+
     Composed by:<br>
     [[artist:pascal-van-den-bos]] and [[artist:gitgot]]
     
@@ -656,6 +771,8 @@ Crediting Sources: |-
     [[artist:gitgot]]
 ---
 Track: Good Evening!
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Pascal van den Bos (composition)
 - Joscha Beab (arrangement)
@@ -667,11 +784,15 @@ Referenced Tracks:
 - Good Morning Everyone
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/good-evening
+- https://open.spotify.com/track/56KxPY4tnXFIQqNsQhr1NV
+- https://music.apple.com/album/good-evening/1895141015?i=6763056172
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Tee-vee is actually just a human. Sad truth, i know.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/good-evening))
+
     Composed by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -689,8 +810,11 @@ Contributors:
 Duration: 3:27
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/rarin-to-go
+- https://open.spotify.com/track/26RabLF4CrrFVkJNd4j5e0
+- https://music.apple.com/album/rarin-to-go/1895141015?i=6763056173
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/rarin-to-go))
+
     Composed and arranged by:<br>
     [[artist:michael-guy-bowman]]
     
@@ -713,11 +837,15 @@ Artists:
 Duration: 4:18
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/--2
+- https://open.spotify.com/track/23PHxvbZlQZ1TZR8I13Ead
+- https://music.apple.com/album/%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89-%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B9/1895141015?i=6763056174
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: 'スピード・コスモス' translates to 'Speed Cosmos' in Japanese!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/--2))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -731,13 +859,18 @@ Crediting Sources: |-
     ANDROMEDA
 ---
 Track: Chugging!
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Pascal van den Bos
 Duration: 0:13
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/chugging
+- https://open.spotify.com/track/5D7939wqz597QORA75IJTq
+- https://music.apple.com/album/chugging/1895141015?i=6763056175
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/chugging))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
 ---
@@ -751,8 +884,11 @@ Referenced Tracks:
 - Good Morning Everyone
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/chugging-jingles
+- https://open.spotify.com/track/2AOZsGRKTwwgawB2OoJQP1
+- https://music.apple.com/album/chugging-jingles/1895141015?i=6763056176
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/chugging-jingles))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -763,6 +899,8 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Far
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Loveth Besamoh (composition, arrangement, lyrics/vocals)
 Contributors:
@@ -773,8 +911,11 @@ Contributors:
 Duration: 4:45
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/far
+- https://open.spotify.com/track/0CuNeTM9IRakEYN7T76vCr
+- https://music.apple.com/album/far/1895141015?i=6763056177
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/far))
+
     Composed and arranged by:<br>
     [[artist:loveth-besamoh]]
     
@@ -801,11 +942,15 @@ Referenced Tracks:
 - Easygoing Gal (Rakka's Theme)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/warping-the-brain
+- https://open.spotify.com/track/51FUwlmr5zyuZujnOfMzjj
+- https://music.apple.com/album/warping-the-brain/1895141015?i=6763056178
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Sitting down in beer soaked grass at a festival might actually have mysterious healing properties. Scientists are still looking into this.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/warping-the-brain))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
 ---
@@ -815,29 +960,39 @@ Artists:
 Duration: 2:24
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/theos-theme
+- https://open.spotify.com/track/3XODCBtTRWOGE3wKTXD5Ls
+- https://music.apple.com/album/theos-theme/1895141015?i=6763056179
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: The game ['Monster Crown: Sin Eater'](https://store.steampowered.com/app/3388410/Monster_Crown_Sin_Eater/) is releasing 3 days after Rakka on April 30th. Joscha is the lead composer of that game! You can even buy Rakka and Monster Crown together in a special bundle on Steam!
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/theos-theme))
+
     Composed and arranged by:<br>
     [[artist:joscha-beab]]
 ---
 Track: Toki
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Pascal van den Bos (composition, arrangement, bass guitar)
 Contributors:
-- GITGOT (lyrics/vocals, guitar)
+- GITGOT (lyrics, vocals, guitar)
 - v1ny4rd (guitar)
 - Pascal van den Bos (bass guitar)
 Duration: 3:44
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/toki
+- https://open.spotify.com/track/2XuqG8jDvs11MvHq2EvUEf
+- https://music.apple.com/album/toki-feat-gitgot-v1ny4rd/1895141015?i=6763056180
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Toki  means 'Time' in Japanese.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/toki))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -859,11 +1014,15 @@ Artists:
 Duration: 3:19
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/sunshine-club
+- https://open.spotify.com/track/0P7XfGLsyffhcpVvxZv0jP
+- https://music.apple.com/album/sunshine-club/1895141015?i=6763056181
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: The band name 'Daydream Generation' that is used in Rakka for several electronic/dance tracks is a reference to the [song of the same name](https://youtu.be/N-zNTXdysjI) by Matsuko Mawatari.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/sunshine-club))
+
     Composed and arranged by:<br>
     [[artist:levc|Levc Villanova]]
     
@@ -876,8 +1035,11 @@ Artists:
 Duration: 0:10
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/festival-daze-end-of-chapter-3
+- https://open.spotify.com/track/6yDtNmEiUWTJrqYflPbBzb
+- https://music.apple.com/album/festival-daze-end-of-chapter-3/1895141015?i=6763056182
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/festival-daze-end-of-chapter-3))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -898,8 +1060,11 @@ Referenced Tracks:
 - Baby Blue
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/comedy-club
+- https://open.spotify.com/track/4fwJA3lxIjAsjqA6wbte4v
+- https://music.apple.com/album/comedy-club/1895141015?i=6763056183
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/comedy-club))
+
     Composed by:<br>
     [[artist:gitgot]] and [[artist:pascal-van-den-bos]]
     
@@ -916,18 +1081,24 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Centre
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
-- GITGOT (composition, arrangement, lyrics/vocals, guitar, bass guitar)
+- GITGOT (composition, arrangement, lyrics, vocals, guitar, bass guitar)
 Contributors:
 - Pascal van den Bos (additional mixing)
 Duration: 2:59
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/centre
+- https://open.spotify.com/track/3qLNxLFB63cNIHzcJ3CBbb
+- https://music.apple.com/album/centre/1895141015?i=6763056184
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: What lies at the centre of Kev's beanig is still unknown to this day.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/centre))
+
     Composed by:<br>
     [[artist:gitgot]]
     
@@ -947,6 +1118,8 @@ Crediting Sources: |-
     [[artist:pascal-van-den-bos]]
 ---
 Track: Picturing
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Navarri
 Contributors:
@@ -954,8 +1127,11 @@ Contributors:
 Duration: 3:12
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/picturing
+- https://open.spotify.com/track/2BvVUsvtQVKvHil403YmGu
+- https://music.apple.com/album/picturing/1895141015?i=6763056185
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/picturing))
+
     Composed and arranged by:<br>
     [[artist:navarri]]
     
@@ -978,17 +1154,23 @@ Crediting Sources: |-
     Pale Dark Grey
 ---
 Track: Guerilla
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Teun Wijtman
 Duration: 2:41
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/guerilla
+- https://open.spotify.com/track/5n6mIhDmGKDNMdO5LsgL5B
+- https://music.apple.com/album/guerilla/1895141015?i=6763056186
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: The PMT actually started in 2002 as a small assorted nuts packing factory.
     Me when i lie :)
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/guerilla))
+
     Composed and arranged by:<br>
     [[artist:teun-wijtman]]
     
@@ -1014,8 +1196,11 @@ Contributors:
 Duration: 4:18
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/part-of-me
+- https://open.spotify.com/track/09umapJnzyKHrpCI3WkGlS
+- https://music.apple.com/album/part-of-me-feat-jordan-burnett-ryan-den-ouden/1895141015?i=6763056187
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/part-of-me))
+
     Composed and arranged by:<br>
     [[artist:mistue]]
     
@@ -1044,16 +1229,23 @@ Crediting Sources: |-
     Aqua Naima
 ---
 Track: Carousel (Market)
+Directory: carousel
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - Pascal van den Bos
 Duration: 3:15
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/carousel-market
+- https://open.spotify.com/track/6ZRZUlYk2B52GlMjrcQxtM
+- https://music.apple.com/album/carousel-market/1895141015?i=6763056188
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: If this played at real markets i would visit them more often.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/carousel-market))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -1069,11 +1261,15 @@ Artists:
 Duration: 1:57
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/uncertain-launch
+- https://open.spotify.com/track/01yWPsxJtg5SqsWHfsKIks
+- https://music.apple.com/album/uncertain-launch/1895141015?i=6763056189
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: We made up all of the names for the fictional bands at the No Rain Festival in a single Discord call, except for Cremation Croatian.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/uncertain-launch))
+
     Composed and arranged by:<br>
     [[artist:joscha-beab]]
     
@@ -1081,8 +1277,10 @@ Crediting Sources: |-
     Daydream Generation
 ---
 Track: Cloak
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
-- Edward Smith (composition, arrangement, lyrics/vocals, guitar)
+- Edward Smith (composition, arrangement, lyrics, vocals, guitar)
 - Minne Davids (composition, arrangement, drums)
 Contributors:
 - v1ny4rd (as Devon van Wijngaarden, backing vocals, guitar)
@@ -1091,8 +1289,11 @@ Contributors:
 Duration: 3:23
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/cloak
+- https://open.spotify.com/track/1oLUnsmk4N5fnyNfuZ5wrs
+- https://music.apple.com/album/cloak/1895141015?i=6763056190
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/cloak))
+
     Composed and arranged by:<br>
     [[artist:edward-smith]] and [[artist:minne-davids]]
     
@@ -1127,11 +1328,15 @@ Contributors:
 Duration: 4:03
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/the-path-of-the-righteous-man
+- https://open.spotify.com/track/6zxFgnqjKBvxppY4ZjNSHo
+- https://music.apple.com/album/the-path-of-the-righteous-man-feat-cremation-croatian/1895141015?i=6763056191
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: My throat hurt for 2 weeks straight after recording this.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/the-path-of-the-righteous-man))
+
     Composed and arranged by:<br>
     [[artist:caelan-kier]]
     
@@ -1151,14 +1356,19 @@ Crediting Sources: |-
     Cremation Croatian
 ---
 Track: Lake
+Suffix Directory: true
+Reference By Directory: outside album
 Artists:
 - GITGOT (composition, arrangement, guitar)
 - Pascal van den Bos (composition, arrangement, bass guitar)
 Duration: 3:18
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/lake
+- https://open.spotify.com/track/62mzIMfzFc5MIwFc0Dj0jE
+- https://music.apple.com/album/lake/1895141015?i=6763056192
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/lake))
+
     Composed and arranged by:<br>
     [[artist:gitgot]] and [[artist:pascal-van-den-bos]]
     
@@ -1174,11 +1384,15 @@ Artists:
 Duration: 6:03
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/the-lads-of-undublin
+- https://open.spotify.com/track/6fmBW9TPr3YKTsxT98sjQB
+- https://music.apple.com/album/the-lads-of-undublin/1895141015?i=6763056193
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: Undublin is actually a prefecture in the PMT Minecraft server. This ancient holy land is governed by Caelan.... Which means there's nothing there but some strange artifacts.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/the-lads-of-undublin))
+
     Composed and arranged by:<br>
     [[artist:caelan-kier]]
     
@@ -1193,11 +1407,15 @@ Contributors:
 Duration: 1:46
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/chrome-addiction
+- https://open.spotify.com/track/0pdYemG7X3Qvj9kOIXdD9Y
+- https://music.apple.com/album/chrome-addiction/1895141015?i=6763056194
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: My addiction to chrome is a serious issue.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/chrome-addiction))
+
     Composed and arranged by:<br>
     [[artist:rowyn-berlan]]
     
@@ -1219,11 +1437,15 @@ Artists:
 Duration: 1:00
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/as-the-soot-falls
+- https://open.spotify.com/track/47uyFz8AElyESMtTX9SMW8
+- https://music.apple.com/album/as-the-soot-falls/1895141015?i=6763056195
 Commentary: |-
     <i>The Paradox Music Team:</i> ([Official Launch Premiere video](https://youtu.be/1wlQxMCKFLU))
+
     Fun fact about this song: I thought it would be fun to make this song using ProTracker, which is music production software from 1993, for thematic reasons. I have used trackers before, but never ProTracker. So this was a fun learning experience.
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/as-the-soot-falls))
+
     Composed and arranged by:<br>
     [[artist:pascal-van-den-bos]]
     
@@ -1232,16 +1454,20 @@ Crediting Sources: |-
 ---
 Track: Wake Up
 Suffix Directory: true
+Reference By Directory: outside album
 Artists:
-- GITGOT (composition, arrangement, lyrics/vocals, guitar, bass guitar)
+- GITGOT (composition, arrangement, lyrics, vocals, guitar, bass guitar)
 Contributors:
 - Hatsune Miku (backing vocals)
 - Pascal van den Bos (bass guitar, additional mixing)
 Duration: 2:31
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/wake-up
+- https://open.spotify.com/track/6i7lGyVdmGs4Zb0sux0BbM
+- https://music.apple.com/album/wake-up-feat-pascal-van-den-bos/1895141015?i=6763056196
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/wake-up))
+
     Composed and arranged by:<br>
     [[artist:gitgot]]
     
@@ -1262,7 +1488,11 @@ Crediting Sources: |-
 ---
 Section: Bonus track
 ---
-Track: Björn's Theme - Piano (Bonus)
+Track: Björn's Theme - Piano
+Additional Names:
+- Name: Björn's Theme - Piano (Bonus)
+  Annotation: >-
+    [Bandcamp](https://pascalpotatovandenbos.bandcamp.com/track/bj-rns-theme-piano-bonus)
 Artists:
 - Pascal van den Bos (composition, arrangement)
 - GITGOT (composition)
@@ -1271,8 +1501,11 @@ Referenced Tracks:
 - Proper Softie (Björn's Theme)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/bj-rns-theme-piano-bonus
+- https://open.spotify.com/track/6PkG4nOlFMR66wTUcby2yW
+- https://music.apple.com/album/bj%C3%B6rns-theme-piano-bonus/1895141015?i=6763056197
 Crediting Sources: |-
     <i>The Paradox Music Team:</i> ([Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/bj-rns-theme-piano-bonus))
+
     Composed by:<br>
     [[artist:pascal-van-den-bos]] and [[artist:gitgot]]
     
