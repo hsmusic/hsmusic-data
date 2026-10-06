@@ -50,8 +50,6 @@ Commentary: |-
 
     All together, this suggests that the album initially had only twelve of its thirteen (main) tracks, and [[track:cforenso-ii]] and [[track:cforenso-iii]] were at the end of the album, the same as bonus tracks typically are. But the tracks still don't self-describe as "bonus tracks", so we're still describing them as just "hidden tracks" here. It's also possible that the album really was published on 12/23/2010 and Bandcamp's internal wires work some way we're not aware, hypothetically e.g. publish_date always recording the earliest publish date, even though an album was un- and later re-published. (That's speculation. We have no record to tell either way, for this album.)
 ---
-Section: Main album
----
 Track: Akdoyvonren
 Bandcamp Track ID: 3292406909
 Date First Released: June 6, 2010
@@ -383,6 +381,7 @@ MIDI Project Files:
   - Cforenso.mscz
 ---
 Aside Section: Hidden tracks
+Has Track Numbers: false
 ---
 Track: Cforenso II
 Additional Names:
