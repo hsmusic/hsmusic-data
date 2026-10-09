@@ -1419,6 +1419,18 @@ URLs:
 - https://www.youtube.com/watch?v=EOA5M74kv5k
 - https://soundcloud.com/jamesroachmusic/spider-dance-from-undertale-but-its-ska-i-guess-yikes
 ---
+Track: The Sunset of 7 Suns
+Artists:
+- Toby Fox
+URLs:
+- https://twitter.com/tobyfox/status/2068870200846676248
+- https://bsky.app/profile/undertale.com/post/3mottfwdwnc2o
+Commentary: |-
+    <i>Toby Fox:</i>
+    10 years ago I made a song that sounded like this.<br>
+    It's called "The Sunset of 7 Suns."<br>
+    This is the hope for Chapter 5 from 10 years ago.<br>
+---
 Track: Super Killer Robot
 Artists:
 - yuuDii
@@ -17385,6 +17397,16 @@ Commentary: |-
 ---
 Section: Other music originating outside Homestuck
 ---
+Track: "【DELTARUNE】Rude Buster Keyboard Cover (60min Extended)"
+Directory: rude-buster-rakuichi-extended
+Artists:
+- rakuichi
+Duration: 59:54
+URLs:
+- https://www.youtube.com/watch?v=55mi11zAbUI
+Referenced Tracks:
+- track:rude-buster-rakuichi
+---
 Track: '1-800-WORSHIP'
 Duration: 4:31
 Artists:
@@ -25827,6 +25849,38 @@ Lyrics: |-
     Fever when you hold me tight
     Fever (Fever, burn through) in the mornin'
     And fever all through the night
+---
+Track: Field of Hopes and Dreams
+Directory: field-of-hopes-and-dreams-insaneintherainmusic
+Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    DELTARUNE: Field of Hopes and Dreams Jazz Cover
+  Annotation: >-
+    [YouTube](https://www.youtube.com/watch?v=kSU0w7KwRIw)
+Artists:
+- Carlos Eiene
+Duration: 6:41
+URLs:
+- https://www.youtube.com/watch?v=kSU0w7KwRIw
+- https://open.spotify.com/track/6xDKTSOVry6rqo0BAAONv3
+- https://music.apple.com/song/field-of-hopes-and-dreams/1482832168
+Referenced Tracks:
+- Field of Hopes and Dreams
+- Once Upon a Time
+Lyrics: |-
+    When the light is running low
+    And the shadows start to grow
+    And the places that you know
+    Seem like fantasy
+
+    There's a light inside your soul
+    That’s still shining in the cold
+    With the truth
+    The promise in our hearts
+
+    Don't forget
+    I'm with you in the dark
 ---
 Track: Field of Hopes and Dreams | DnB Remix
 Directory: field-of-hopes-and-dreams-dnb-spad3s
@@ -40997,6 +41051,16 @@ Lyrics: |-
     There was supposed to be an Earth-shattering kaboom!
 URLs:
 - https://www.youtube.com/watch?v=5JN2blqeUOQ
+---
+Track: 'Rude Buster "Deltarune" Keyboard cover'
+Directory: rude-buster-rakuichi
+Artists:
+- rakuichi
+Duration: 1:47
+URLs:
+- https://www.youtube.com/watch?v=wGtv-NH2XTQ
+Referenced Tracks:
+- Rude Buster
 ---
 Track: Run Away
 Artists:
