@@ -88,6 +88,8 @@ Carousel:
     - album:play-the-rain                       # Lark Mordancy
     - album:the-scratch-before-the-calm         # Laurent Désautels-Séguin
     - album:project-skaia                       # Musical Panini
+    - album:dont-read-a-webcomic-called-homestuck   # narcolepsyDriver
+    - album:i-warned-you-about-stairs           # Raid
     - album:panoptes                            # Toris Crow
     - album:ophiuchus-full-suite                # WarxTron
 
@@ -105,12 +107,14 @@ Carousel:
     - album:grigori                             # Thomas Ferkol
 
     # NON-PROJECT SOLO ALBUM VARIETY 2
+    - album:solstices-and-equinoxes             # Circlejourney
     - album:cookiefonsters-2016-famitracker-covers   # cookiefonster
     - album:sbargrist                           # curricle
     - album:sbahj-the-album                     # Facetious & Friends
     - album:hs-bc-a1                            # Guffy
     - album:vaporstuck                          # The Hypergiants ASMR
     - album:brostuck                            # Ian White
+    - album:entertaining-sound                  # jan Misali
     - album:some-of-my-penumbra-phantasm-takes  # luuuucyyyyyyyy
     - album:jaderoute                           # nyquillionaire
     - album:penumbra-phantasm-v3-surreal        # surreal
@@ -131,8 +135,10 @@ Carousel:
     # NON-PROJECT SOLO ALBUM VARIETY 3
     - album:stray-cat-walkabout                 # Catboss
     - album:coffee-with-zebruh-codakk           # dot project
+    - album:the-green-box-set-1                 # iodbc - The Black Box
     - album:palokrai-i                          # Isoraķatheð Zorethan F.
     - album:remains-of-aleph-null               # Jebb
+    - album:infinite-cataclysm                  # LudicrousFalcon
     - album:mayhem-of-another-universe          # M.Frisk
     - album:nice-wizards-electronic-extravaganza   # Nice Wizard
     - album:sburb-beta                          # pomabug
@@ -248,7 +254,6 @@ Carousel:
     - album:bichrome-phantasia                  # Monckat
     - album:so-i-herd-you-liek-homestuck        # sidewalkbanana
     - album:heaven-sent                         # Swagazaki
-    - album:theres-no-place-like-home           # Tee-vee
     - album:comissions-i                        # waterPsychiatrist
     - album:bashful-hearts-out                  # WHATISLOSTINTHEMINES
     - album:rust-apocalypse                     # Willow Ascenzo
@@ -257,7 +262,7 @@ Carousel:
   - Randomize From:
     # PROJECT OR FANDOM "MUSIC TEAM" SOLO ALBUM VARIETY 2
     - album:aspect-clock                        # Act Omega / dbnet18
-    - album:basement-tale   # agents of...      # CaNMT / Cecily Renns
+    - album:agents-of-eternal-recurrence        # CaNMT / Cecily Renns
     - album:of-troles-and-chiptumes             # CaNMT / cookiefonster
     - album:median                              # CaNMT / NyashAlex
     - album:curtain-call-maragi-radi            # Desynced / Spad3s
@@ -272,6 +277,7 @@ Carousel:
     - album:solitary-confinement-in-nothing     # JMAA
     - album:dialed-to-11                        # LudicrousFalcon
     - album:induction                           # Svix
+    - album:theres-no-place-like-home           # Tee-vee
     - album:rappets-davekat-collection          # teles
     - album:scraps-deluxe                       # tempest2k
     - album:agents-of-reality                   # Tycoon
@@ -393,7 +399,6 @@ Carousel:
     - album:simplystuck                         # Eighteen "Elbows"
     - album:autumn-every-day                    # Jamie Paige
     - album:reprise                             # luminantAegis
-    - album:dont-read-a-webcomic-called-homestuck   # narcolepsyDriver
     - album:the-lands-of-scp-413                # Spiny
     - album:shenanigans-mspa                    # Thomas Ibarra
 
@@ -416,10 +421,7 @@ Carousel:
   - Randomize From:
     # NON-PROJECT SOLO ALBUM VARIETY 8
     - album:from-beta-to-alpha                  # Christian Michael Poynter
-    - album:solstices-and-equinoxes             # Circlejourney
     - album:incipient-overture                  # Dylan S.
-    - album:entertaining-sound                  # jan Misali
-    - album:i-warned-you-about-stairs           # Raid
     - album:project-skaia                       # Musical Panini
 
     # SINGLES VARIETY 2
@@ -443,7 +445,6 @@ Carousel:
   - Randomize From:
     # NON-PROJECT SOLO ALBUM VARIETY 9
     - album:perfectly-generic-album             # Cristata
-    - album:the-green-box-set-1                 # iodbc - The Black Box
     - album:what-was-will-be                    # hatzka
     - album:tributary                           # keyboard cait
     - album:songs-for-sad-trolls                # PhemieC
@@ -456,7 +457,6 @@ Carousel:
     - album:celestial                           # Ed Sheeran
     - album:confinis                            # horizon
     - album:ebichahan                           # Jamie Paige
-    - album:infinite-cataclysm                  # LudicrousFalcon
     - album:brobots                             # meadowsofmoo
     - album:sleeper-agent                       # METIANULL
     - album:on-the-thirteenth-day               # Michael Guy Bowman
@@ -480,13 +480,18 @@ Albums:
 - album:kindred-souls
 - album:vast-error-vol-6
 
-- album:oceanfables-sovereign-lunacy
 - album:friendsim-2-volume-2
-- album:curtain-call-maragi-radi
+- album:renew-your-rites
+- album:oceanfables-sovereign-lunacy   # Oceanfalls Vol. 7
 
 - album:vol-10-progress-report
 - album:shenanigans-mspa
-- album:surprise-were-back
+- album:do-no-harm
+
+- album:curtain-call-maragi-radi
+- album:incertain-calls-nelrith-jynn
+- album:oceanfables-sovereign-lunacy
+- album:agents-of-eternal-recurrence
 
 - album:unbeatable-album
 - album:unbeatable-ost
