@@ -5,19 +5,6 @@ Group: Official Discography
 Directory: official
 URLs:
 - https://homestuck.bandcamp.com/music
-Featured Albums:
-- Homestuck Vol. 1-4
-- Homestuck Vol. 10
-- Beyond Canon
-- AlterniaBound
-- Homestuck Vol. 8
-- Hiveswap Act 1 OST
-- 'coloUrs and mayhem: Universe A'
-- The Wanderers
-- Mobius Trip and Hadron Kaleido
-- Strife!
-- Genesis Frog
-- One Year Older
 Series:
 - Name: Numbered volumes
   Albums:
@@ -83,21 +70,9 @@ Description: |-
     On October 25th 2019, the official Bandcamp page was thoroughly restructured without warning, with albums being haphazardly combined into compilations. Unique track artwork was discarded and many albums were left completely unavailable. Six years later and following a brief maintenance period, on September 26th 2025, nearly all these releases were restored, and the albums and artwork are available again in their longstanding form.
 ---
 Group: Fandom
-Exclude From Gallery Tabs: true
+Exclude From Other Group Album Summaries: true
 Divide Albums By Style: true
-Featured Albums:
-- Land of Fans and Music 5 Act 2
-- P[S]
-- Vinculum Vitae
-- Ophiuchus (Full Suite)
-- Cool and New Greatest Hits
-- album:jailbreak-vol-1
-- Strife 2
-- Vast Error Vol. 1-3
-- Friendsim 2 - Volume 1
-- Pantheon
-- Land of Fans and Music
-- Moons of Theseus
+Show Reveal All Warnings Control: false
 Description: |-
     Albums created by the Homestuck fan community, released independently.
     <hr class="split">
@@ -108,21 +83,9 @@ Description: |-
     The community grew ever stronger and larger from there, and the albums below are just a portion of the result. With a fair amount of luck, this wiki has come to be a second home for the albums we share; we encourage you to explore: delve deep, find yourself lost, and discover something new!
 ---
 Group: Beyond
-Exclude From Gallery Tabs: true
+Exclude From Other Group Album Summaries: true
 Divide Albums By Style: true
-Featured Albums:
-- Psycholonials
-- Shortcuts
-- '{ Oceanfalls } Vol.4'
-- Qualia
-- UNDERTALE Soundtrack
-- Songs of Rivervale
-- album:solar-sessions
-- Namesake
-- Gravity Makes The Flame Rise
-- CYBER CITY SOUND PAK
-- Paths
-- Triassic Slump
+Show Reveal All Warnings Control: false
 Description: |-
     Albums from a musical landscape beyond Homestuck, by artists with roots in the comic's own community.
     <hr class="split">
@@ -130,7 +93,7 @@ Description: |-
     Each of these musicians found roots in Homestuck, in time branching out beyond; the albums in this area of the wiki are a small selection of what they've gone on to create. We encourage you to delve in and explore; every album is its own unique work, and many familiar faces await within!
 ---
 Group: Additional Tracks
-Exclude From Gallery Tabs: true
+Exclude From Other Group Album Summaries: true
 Description: |-
     Organizational "albums" for grouping tracks that have been referenced by other tracks or featured in flashes and games. Though these aren't real album releases, they contain lots of interesting music and media that have become part of Homestuck's musical landscape!
 ---
@@ -170,6 +133,7 @@ Series:
   - '9'
   - _
   - cool and new volume 3
+  - cool and new volume 4
 - Name: Team albums
   Albums:
   - s]hecka jef
@@ -202,6 +166,7 @@ Series:
   - Descent Into Madness
   - inpiscispere
   - HAROLDBOUND
+  - Agents of Eternal Recurrence
 - Name: Singles
   Albums:
   - '[NSFW] Ｐｅｎｕｍｂｒａ オーガズム：百万ドルリミックス（ Ｇｕｎｓｈｏｗ Ｓｉｎｇａｌｏｎｇ ）の小ローン'
@@ -281,6 +246,7 @@ Series:
   - RAKKA Vol. 2 THE SURGES
   - 'RAKKA: SP1 - OUTSIDE 2'
   - 'RAKKA: WAKE 01 Opening - ME!'
+  - 'RAKKA: WAKE 01 - SOOT (Original Soundtrack)'
 - Name: Other albums
   Albums:
   - What's Your Favorite Song? - EarthBound 2019
@@ -321,7 +287,7 @@ Series:
   - 『H☯MESTUCK VAP☯RWAVE 2016 RUH-RUH-RUH-ＲＥＭＩＸ』アンドレア・ヒューシー・グーグル翻訳
 ---
 Category: Solo musicians
-Exclude Groups From Gallery Tabs: true
+Exclude Groups From Other Group Album Summaries: true
 Color: '#fc9003'
 ---
 Group: autumnalEquinox
@@ -391,10 +357,6 @@ Description: |-
 Group: Cristata
 Closely Linked Artists:
 - Cristata
-- Cozmia (alias)
-- FRUITYTEE (alias)
-- hexidecimal (alias)
-- hywell (alias)
 URLs:
 - https://cristata.bandcamp.com/
 Description: |-
@@ -526,7 +488,6 @@ Description: |-
 Group: Kalibration
 Closely Linked Artists:
 - Kalibration
-- Screamcatcher (alias)
 URLs:
 - https://kalibration.bandcamp.com/
 - https://www.youtube.com/kalibration
@@ -635,19 +596,15 @@ Closely Linked Artists:
 URLs:
 - https://potatoboss.bandcamp.com/
 Description: |-
-    PMT founder(?). Add more later
+    <img link="/group/pascal-van-den-bos/" src="media/misc/pascal.gif" width="225" height="124">
 Series:
 - Name: Homestuck
   Description: >-
-    Artist-credited releases only, in these lists. Most of Pascal's Homestuck music is in team albums from [[group:the-paradox-music-team]] and other groups!
+    Artist-credited releases only, in these lists. Much of Pascal's music is as part of [[group:the-paradox-music-team]], and in team albums there and in other groups!
   Albums:
   - The Strider Mixtape
   - Terminal (Mayonaka's Theme)
   - The Homestuck Strife Project Vol. 1 (Original Soundtrack)
-- Name: Original works
-  Albums:
-  - 'MIDNIGHT JUNGLE TYPE 1.5: VERTIGO ZONE - 真夜中のジャングル『目眩ゾーン』'
-  - 'RAKKA: WAKE 01 Opening - ME!'
 - Name: Personal discography
   Albums:
   - album:saturn-mission-to-saturn-single
@@ -886,9 +843,11 @@ Series:
   - made up yume nikkis
 - Name: More miscellanenous material
   Albums:
+  - album:unused-undertale-songs
   - album:deltarune-status-update-sept-2022
   - album:deltarune-ch3-status-update
   - album:deltarune-ch2-rejected-tracks
+  - album:undertale-deltarune-newsletter-winter-2025
   - album:deltarune-ch5-thoughts
 - Name: With Itoki Hana
   Show Album Artists: all
@@ -948,9 +907,6 @@ Description: |-
 Group: Xszelor
 Closely Linked Artists:
 - Xszelor
-- Dvojka (alias)
-- Highblood (alias)
-- Realmite (alias)
 URLs:
 - https://thehighblood.bandcamp.com/
 - https://scorpan.bandcamp.com/music
@@ -1099,12 +1055,14 @@ Series:
   Albums:
   - Election Season
   - Nibiru
+  - Renew Your Rites
 - Name: Solo albums
   Show Album Artists: all
   Albums:
   - Pantheon
   - Noirscape
   - Curtain Call - Maragi Radi
+  - incertain Calls - Nelrith Jynn
 Description: |-
     A fanventure by a talented team of authors, artists and musicians, in the works since 2017 and updating since early 2020!
 ---
@@ -1332,16 +1290,35 @@ Series:
   - DELTARUNE Chapter 5 OST
 - Name: Newsletter clippings
   Albums:
+  - album:unused-undertale-songs
   - album:deltarune-status-update-sept-2022
   - album:deltarune-ch3-status-update
   - album:deltarune-ch2-rejected-tracks
+  - album:undertale-deltarune-newsletter-winter-2025
 ---
 Category: VIDEO GAMES!!!
+Exclude Groups From Other Group Album Summaries: true
 Color: '#f5fc8e'
+---
+Group: Ace Attorney
+---
+Group: Assassin's Creed
+---
+Group: beatmania
+---
+Group: Bionicle
+---
+Group: BlazBlue
+---
+Group: Bomberman
 ---
 Group: Brandish
 ---
-Group: Celeste
+Group: Chrono
+---
+Group: Dark Souls
+---
+Group: The Elder Scrolls
 ---
 Group: Final Fantasy
 ---
@@ -1356,11 +1333,22 @@ Series:
   - album:fnf-chaos-nightmare
   - album:fnf-nusky-skyverse-demo
   - album:fnf-hit-single
-- Name: More fanmusic
-  Albums:
-  - GAMEBREAKER
+  - album:fnf-party-week
+  - album:fnf-cerulean-symphony
+---
+Group: Grand Theft Auto
+---
+Group: Halo
+---
+Group: Kingdom Hearts
 ---
 Group: The Legend of Zelda
+---
+Group: Megami Tensei
+---
+Group: Metal Gear
+---
+Group: Mother
 ---
 Group: Pokémon
 Series:
@@ -1387,6 +1375,12 @@ Series:
   - Pokémon Sun & Pokémon Moon
   - Pokémon Ultra Sun & Pokémon Ultra Moon
   - Pokémon Scarlet & Pokémon Violet
+---
+Group: Portal
+---
+Group: Rayman
+---
+Group: Silent Hill
 ---
 Group: Sonic the Hedgehog
 ---
@@ -1416,3 +1410,6 @@ Series:
   - 'Umineko When They Cry Episode 1: Legend of the golden witch'
   - 'Umineko When They Cry Episode 2: Turn of the golden witch'
   - 'Umineko When They Cry Chiru Episode 5: End of the golden witch'
+---
+Group: More standalone video games
+Directory: more-vgm

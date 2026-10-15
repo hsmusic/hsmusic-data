@@ -9,6 +9,10 @@ Cover Artists:
 - eddieDraws
 Cover Art File Extension: png
 Track Art File Extension: png
+Art Tags:
+- The Dead Shufflers (Vast Error)
+- Mimesis (Vast Error)
+- Derse (Vast Error)
 Color: '#E821E4'
 Groups:
 - Deconreconstruction
@@ -19,10 +23,13 @@ Section: Main album
 Track: Overlook
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 2846788403
 Artists:
 - Cerulean
 Cover Artists:
 - Sereinede
+Art Tags:
+- The Dead Shufflers (Vast Error)
 Duration: 03:16
 URLs:
 - https://vasterror.bandcamp.com/track/overlook
@@ -32,10 +39,13 @@ URLs:
 Track: Hound Dog
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 3614452194
 Artists:
 - sympolite
 Cover Artists:
 - Vulcan
+Art Tags:
+- Charmed Defalcator (Vast Error)
 Referenced Tracks:
 - Hound Dog
 Lyrics: |-
@@ -75,11 +85,21 @@ URLs:
 - https://www.youtube.com/watch?v=3BQTcMFyC-I
 ---
 Track: Lucky Sevens
+Bandcamp Track ID: 1103898137
 Artists:
 - Veritas Unae
 Cover Artists:
 - Snapdrag0on
 Art Tags:
+- The Dead Shufflers (Vast Error)
+- Hyperbolic Behemoth (Vast Error)
+- Snowman
+- Crowbar
+- Clover
+- Doze
+# - and another off-screen that has a red hat with a white stripe which is a misinterpretation of either Matchsticks or Cans. either way not present enough to be tagged.  -via t2k [just for yaml]
+# - also I think Hustle Bones actually is there he's just in the bottom right corner  -via t2k [just for yaml]
+- Felt Mansion
 - 'cw: blood'
 Duration: 03:10
 Referenced Tracks:
@@ -90,30 +110,40 @@ URLs:
 - https://www.youtube.com/watch?v=9l7yz3GLb6E
 ---
 Track: Call It A Reraise
+Bandcamp Track ID: 2146431210
 Artists:
 - WHATISLOSTINTHEMINES
 Cover Artists:
 - Snapdrag0on
+Art Tags:
+- The Dead Shufflers (Vast Error)
 Duration: 01:48
 URLs:
 - https://vasterror.bandcamp.com/track/call-it-a-reraise
 - https://www.youtube.com/watch?v=AOV6eEFNJVo
 ---
 Track: Skullheart Duskwalk
+Bandcamp Track ID: 1394968642
 Artists:
 - keyboard cait
 Cover Artists:
 - Aeritus
+Art Tags:
+- Hustle Bones (Vast Error)
 Duration: 02:51
 URLs:
 - https://vasterror.bandcamp.com/track/skullheart-duskwalk
 - https://www.youtube.com/watch?v=Sl6FYt_N23E
 ---
 Track: Path Of The Righteous Man
+Bandcamp Track ID: 1236249907
 Artists:
 - Kal-la-kal-la
 Cover Artists:
 - Ee Va How
+Art Tags:
+- Murrit (Vast Error)  # for some reason. I mean this feels much more like a Murrit song than a Dead Shufflers song so why is it here. whatever it's good either way  -via t2k [just for yaml]
+- LoWaR (Vast Error)  # probably  -via t2k [just for yaml]
 Lyrics: |-
     Tin can, ocean man, laying out a game plan,
     Sharp-dressed fella with a mind like a bedpan,
@@ -154,10 +184,14 @@ URLs:
 - https://www.youtube.com/watch?v=CL7enccHmW4
 ---
 Track: Fraudulent Quartet
+Bandcamp Track ID: 2371478527
 Artists:
 - Kate Shrike
 Cover Artists:
 - raisezell
+Art Tags:
+- The Dead Shufflers (Vast Error)
+# - extremely ambiguous versions of our four main guys. I think that's the point but I don't know what exactly to put here  -via t2k [just for yaml]
 Duration: 02:08
 URLs:
 - https://vasterror.bandcamp.com/track/fraudulent-quartet
@@ -170,6 +204,7 @@ Additional Names:
   Annotation: >-
     [YouTube title](https://www.youtube.com/watch?v=5wW4abjhojg), minus album name
 Directory: mimesiswing
+Bandcamp Track ID: 1990893644
 Artists:
 - Rnd
 Duration: 03:28
@@ -182,11 +217,13 @@ URLs:
 Track: Dismantled
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 29704235
 Artists:
 - pragmaticNihilist
 Cover Artists:
 - polygoncowboy
 Art Tags:
+- Scathing Sharper (Vast Error)
 - 'cw: blood'
 Referenced Tracks:
 - Black
@@ -200,12 +237,16 @@ URLs:
 Track: Lovecraft
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 3471247205
 Artists:
 - sympolite
 Cover Artists:
 - Tomatograter
 Art Tags:
+- Defrauding Dealer (Vast Error)
 - 'cw: blood (abstract)'
+- 'cw: alcohol'
+- 'cw: smoking'
 Duration: 01:32
 URLs:
 - https://vasterror.bandcamp.com/track/lovecraft
@@ -214,10 +255,13 @@ Referenced Tracks:
 - Lovecraft [Beta]
 ---
 Track: Money For Nothing
+Bandcamp Track ID: 491005348
 Artists:
 - Ucklin
 Cover Artists:
 - redrosesrot
+Art Tags:
+- The Dead Shufflers (Vast Error)
 Duration: 02:59
 Lyrics: |-
     Everything is scary
@@ -256,20 +300,27 @@ URLs:
 - https://www.youtube.com/watch?v=wVcJC6UHV4o
 ---
 Track: Disciplinary Action
+Bandcamp Track ID: 3622254512
 Artists:
 - whimsi
 Cover Artists:
 - Queuestuck
+Art Tags:
+- Exonerated Executor (Vast Error)
+- Derse (Vast Error)
 Duration: 02:00
 URLs:
 - https://vasterror.bandcamp.com/track/disciplinary-action
 - https://www.youtube.com/watch?v=gYw2drg6g-s
 ---
 Track: Guess My Name
+Bandcamp Track ID: 3566091919
 Artists:
 - Kal-la-kal-la
 Cover Artists:
 - vintagefoods
+Art Tags:
+- Mimesis (Vast Error)
 Duration: 03:16
 URLs:
 - https://vasterror.bandcamp.com/track/guess-my-name
@@ -277,6 +328,7 @@ URLs:
 - https://soundcloud.com/kal-la-kal-la/guess-my-name
 ---
 Track: Made For Spades
+Bandcamp Track ID: 1542923769
 Artists:
 - Cerulean
 Contributors:
@@ -284,6 +336,10 @@ Contributors:
 Cover Artists:
 - Momo
 Art Tags:
+- BQ (Vast Error)  # Black Queen/Snowman (NOT GONNA LIE THIS IS A HARD CALL. IT'S WEIRD THAT SNOWMAN WAS IN THAT OTHER ART BUT I DON'T THINK THEY EVER CALL THIS VERSION, WHO APPEARS IN THE COMIC, SNOWMAN. LOTS OF EDGE CASES HERE.)  -via t2k [just for yaml]
+- Scathing Sharper (Vast Error)
+- Derse (Vast Error)
+- Carapacians (Vast Error)
 - 'cw: blood'
 Referenced Tracks:
 - Black
@@ -337,10 +393,16 @@ Commentary: |-
     My very first song with vocals ever. Im really proud of this one and have been waiting for so long to finally share it with you! I hope you enjoy this as much as I did making it.
 ---
 Track: Pale Imitation
+Bandcamp Track ID: 1127916104
 Artists:
 - Mathias Ramalho
 Cover Artists:
 - sKetchooDles
+Art Tags:
+- The Dead Shufflers (Vast Error)
+- The Midnight Crew
+- Felt Mansion
+- Clocks
 Duration: 05:10
 URLs:
 - https://vasterror.bandcamp.com/track/pale-imitation
@@ -359,10 +421,15 @@ Additional Names:
     DEAR PESKY SHUFFLERS (Bonus)
   Annotation: >-
     album download
+Bandcamp Track ID: 4081871576
 Artists:
 - whimsi
 Cover Artists:
 - Dust Medium
+Art Tags:
+- Scathing Sharper (Vast Error)
+- Defrauding Dealer (Vast Error)
+- Derse (Vast Error)
 Referenced Tracks:
 - Hotel California
 - Hotel Mario

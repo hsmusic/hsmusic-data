@@ -1,0 +1,43 @@
+Wiki Update: maintenance, mayhaps
+Date: September 4, 2023
+---
+Section: other additions
+Changes: |-
+    - added commentary booklet file to [[album:cool-and-new-volume-v]]
+    - added links to album premiere stream recordings to [[album:cyclica]], [[album:call-and-new]], [[album:cool-and-new-volume-s-x]], [[album:canwc-sound-test-1]], [[album:basement-tale]], [[album:cool-and-new-volume-7]], [[album:s-hecka-jef]], and [[album:canwc-for-the-holidays]] (thanks for these, Ngame!)
+---
+Section: data changes
+Changes: |-
+    - fixed [[artist:celestialkarakul]] having some artist credits under a different name
+    - medley tracks [[track:something-familiar]], [[track:yet-cool-and-new]], and [[track:ophiuchus-full-suite]] now list their constituent songs as references
+    - divided two especially large additional files into smaller files
+        - second part of voice-over commentary for [[album:sburb-ost]]
+        - commentary booklet for [[album:homestuck-vol-10]] (also uploaded all-pages-in-one, mildly compressed PDF)
+    - adjusted sizes of image embeds across artist commentaries
+        - images in commentaries of [[track:i-love-this-doctor]], [[track:do-you-remember-the-doctor]], [[track:three-in-the-morning-4-1-3-hours-late-remix-canon-edit]], and [[track:i-started-a-joke]] now embeds instead of URLs
+---
+Section: data fixes
+Changes: |-
+    - fixed [[track:dk-rap]] missing contributor info
+    - fixed [[album:cool-and-new-volume-2]]/[[album:cool-and-new-volume-ii]] & [[album:basement-tale]]/[[album:cool-and-new-volume-7]] being ordered incorrectly in gallery view
+    - fixed [[album:vast-error-vol-1-3]] not being listed under the Fandom category
+    - fixed [[track:iiywaswiwtbotsa4aatwuotdtmihcimfh]] not referencing [[track:as-days-go-by]] (thanks, JG!)
+    - fixed [[track:a-new-world]] not referencing [[track:explore]]
+    - fixed incorrect art tag in [[track:chronology]] (thanks Celeste, Makin!)
+    - fixed [[track:absolutely-overfamiliar-shrine]] having a listening link for a different track (thanks, Mixolydian!)
+    - fixed [[track:requiem-for-a-homestuck]] having art tags despite not having unique artwork
+    - fixed many missing references across [[group:oceanfalls]] albums (thanks, Witch's Cadence!)
+        - fixed [[track:illusions-oceanfalls]], [[track:iceshards-oceanfalls]], [[track:fiery-depths]], [[track:performance-oceanfalls]], [[track:brought-this-upon-yourself]], [[track:firefly-oceanfalls]], [[track:up-from-the-depths]], and [[track:right-hand-confrontation]] not referencing [[track:yellow-and-purple]]
+        - fixed [[track:arias-house]] and [[track:the-sunderers-reprisal]] not referencing [[track:illusions-oceanfalls]]
+        - fixed [[track:incompetent-trio]] not referencing [[track:route-228-day]]
+        - fixed [[track:inept-quartet]] not referencing [[track:incompetent-trio]]
+        - fixed [[track:reed-chill]] not referencing [[track:reed-oceanfables]]
+        - fixed [[track:the-sunderers-reprisal]] not referencing [[track:brought-this-upon-yourself]]
+        - fixed [[track:right-hand-confrontation]] not referencing [[track:emotional-moment]]
+        - fixed [[track:up-from-the-depths]], [[track:right-hand-confrontation]], and [[track:to-ashes-it-returns]] not referencing [[track:fiery-depths]]
+        - fixed [[track:memories-of-home]] not referencing [[track:rosen-wings]] or [[track:restful-wings]]
+        - fixed [[track:living-will]] not referencing [[track:the-fifth-flower]]
+        - fixed [[track:purge-destiny]] not referencing [[track:corona]]
+    - fixed a variety of filename issues for track artwork and other images
+        - fixed original art for [[track:hallowed-halls]] being a 404 when viewing its source file
+        - fixed bonus art for [[track:kamina-burana]] displaying source file instead of thumbnail

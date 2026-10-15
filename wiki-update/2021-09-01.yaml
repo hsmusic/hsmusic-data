@@ -1,0 +1,23 @@
+Wiki Update: 'post-finalization #7'
+Date: September 1, 2021
+---
+Section: data changes
+Changes: |-
+    - added missing A6I3 "[[track:weird-moody-horse-shit]]" flashes (thanks, FF!)
+    - added missing bonus tracks from [[album:rust-apocalypse]] as re-releases of their original appearances on [[album:coloUrs-and-mayhem-universe-a]] (thanks, deesoff!)
+    - added blood CW to [[track:hauntjam]] (thanks, Celeste!)
+    - added blood (abstract) CW to [[track:hauntjelly]], too
+    - updated listen links for a number of tracks in [[album:unreleased-tracks]], using local archive uploads rather than relying on a torrent mirror
+        - [[track:hawkeye]] (as heard in [[track:sunsetter]] and [[track:davesprite]])
+        - [[track:sea-of-derse]] (as heard in [[track:breeze]])
+        - [[track:shooting-star]] (as heard in [[track:homefree]])
+        - [[track:skaia-voyages]] (as heard in [[track:creata]] and [[track:skaian-happy-flight]])
+        - [[track:the-paradox-paradigm]] (as heard in a number of [[group:unofficial-mspa-fans]] tracks)
+        - [[track:where-making-this-hapen]] (as heard, probably, in [[track:rex-mille-geromius]] and, maybe, in [[track:revisit-rewind]])
+    - fixed capitalization for [[track:where-making-this-hapen]]
+---
+Section: bug fixes
+Changes: |-
+    - fixed domain-local URLs crashing a build (i.e. support for updated archive links)
+    - fixed re-release track links never text wrapping, messing up layout on pages such as [[track:three-in-the-morning]]
+    - fixed flash art for [[flash:5426]] (may take a while to load)

@@ -6,12 +6,26 @@ Color: '#39d58d'
 Groups:
 - When They Cry
 ---
-Track: Soul Scour
-# Official release:
+Track: Soul scour
+Additional Names:
+- Name: >-
+    Soul Scour
+  Annotation: >-
+    Higurashi When They Cry Hou+ (MangaGamer) Music Room
+- Name: >-
+    Soul_scour
+  Annotation: >-
+    Higurashi When They Cry Kai "Matsuribayashi" Music Room
+# Official release A:
 #   Higurashi no Naku Koro ni Kai Original Sound Version & Extra Sounds "Thanks/you"
 #   ひぐらしのなく頃に解 Original Sound Version & Extra Sounds ｢Thanks／you｣
 # Reference:
 #   https://vgmdb.net/album/6209
+# Official release B:
+#   Higurashi no Naku Koro ni Kai Original Soundtrack
+#   ひぐらしのなく頃に 解 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/5613
 Duration: 1:42
 Artists:
 - dai
@@ -21,11 +35,16 @@ URLs:
 Track: you
 Suffix Directory: true
 Always Reference By Directory: true
-# Official release:
+# Official release A:
 #   Higurashi no Naku Koro ni Kai Original Sound Version & Extra Sounds "Thanks/you"
 #   ひぐらしのなく頃に解 Original Sound Version & Extra Sounds ｢Thanks／you｣
 # Reference:
 #   https://vgmdb.net/album/6209
+# Official release B:
+#   Higurashi no Naku Koro ni Kai Original Soundtrack
+#   ひぐらしのなく頃に 解 オリジナルサウンドトラック
+# Reference:
+#   https://vgmdb.net/album/5613
 Artists:
 - dai
 Duration: 3:35

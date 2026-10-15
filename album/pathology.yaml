@@ -1,9 +1,8 @@
 Album: Pathology
 Artists:
-- Screamcatcher
-Show Album In Tracks Without Artists: true
+- Kalibration (as Screamcatcher)
 Cover Artists:
-- Screamcatcher
+- Kalibration (as Screamcatcher)
 Date: September 1, 2012
 Date Added: January 30, 2025
 URLs:
@@ -18,11 +17,13 @@ Section: Main album
 Track: Murder
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 1806809571
 Duration: 04:55
 URLs:
 - https://screamcatcher.bandcamp.com/track/murder
 ---
 Track: Kuja
+Bandcamp Track ID: 2234373554
 Duration: 04:08
 URLs:
 - https://screamcatcher.bandcamp.com/track/kuja
@@ -33,9 +34,10 @@ Additional Names:
     Cave Story Hell feat. Astro Kid
   Annotation: >-
     [Bandcamp](https://screamcatcher.bandcamp.com/track/cave-story-hell-feat-astro-kid)
+Bandcamp Track ID: 542313135
 Artists:
-- Screamcatcher
-- Riki Tsuji (featuring)
+- Kalibration (as Screamcatcher)
+- Riki Tsuji (as Astro Kid, featuring)
 Duration: 04:41
 URLs:
 - https://screamcatcher.bandcamp.com/track/cave-story-hell-feat-astro-kid
@@ -46,8 +48,9 @@ Additional Names:
     Boneyard feat. ROM∆NCE
   Annotation: >-
     [Bandcamp](https://screamcatcher.bandcamp.com/track/boneyard-feat-rom-nce)
+Bandcamp Track ID: 483883618
 Artists:
-- Screamcatcher
+- Kalibration (as Screamcatcher)
 - ROM∆NCE (featuring)
 Duration: 04:32
 URLs:
@@ -56,6 +59,7 @@ URLs:
 Track: Rebirth
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 3923936925
 Duration: 03:41
 URLs:
 - https://screamcatcher.bandcamp.com/track/rebirth
@@ -63,6 +67,7 @@ URLs:
 Track: Executioner
 Suffix Directory: true
 Always Reference By Directory: true
+Bandcamp Track ID: 612201968
 Duration: 03:00
 URLs:
 - https://screamcatcher.bandcamp.com/track/executioner

@@ -75,6 +75,7 @@ Section: Disk 1
 Track: ~~~~DISK 1~~~~
 Directory: disk1
 Suffix Directory: true
+Bandcamp Track ID: 1040148791
 Artists:
 - Veritas Unae
 Duration: 0:11
@@ -84,6 +85,7 @@ URLs:
 ---
 Track: Waiting For Adventure [Loading Screen]
 Directory: waiting-for-adventure
+Bandcamp Track ID: 41557922
 Artists:
 - Michael Guy Bowman
 Duration: 1:28
@@ -106,6 +108,7 @@ Commentary: |-
 ---
 Track: SBURBan Prelude [Main Menu]
 Directory: sburban-prelude
+Bandcamp Track ID: 2916504555
 Artists:
 - sidewalkbanana
 Duration: 6:35
@@ -134,6 +137,7 @@ Commentary: |-
 ---
 Track: Meta Choices [Options]
 Directory: meta-choices
+Bandcamp Track ID: 1594438960
 Artists:
 - sidewalkbanana
 Duration: 4:56
@@ -152,7 +156,7 @@ Commentary: |-
 
     Support this album as all the other artists are incredible people. (Tips hat to Brad)
 
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [*Brad tips his hat back!*]
 
     <i>RunDoubleRun:</i>
@@ -163,6 +167,7 @@ Commentary: |-
 ---
 Track: Ignorance Is Bliss [Tutorial]
 Directory: ignorance-is-bliss
+Bandcamp Track ID: 1620451105
 Artists:
 - Marcy Nabors
 Duration: 1:40
@@ -205,6 +210,7 @@ Commentary: |-
 ---
 Track: Metamorphic Choices [Kernel Prototyping]
 Directory: metamorphic-choices
+Bandcamp Track ID: 1257046455
 Artists:
 - Veritas Unae
 Contributors:
@@ -226,6 +232,7 @@ Commentary: |-
 ---
 Track: Dawn of the End [Countdown]
 Directory: dawn-of-the-end
+Bandcamp Track ID: 1715988767
 Artists:
 - Max Wright
 Duration: 3:51
@@ -251,6 +258,7 @@ Commentary: |-
 ---
 Track: A Spirited Conversation [Sprite Interaction]
 Directory: a-spirited-conversation
+Bandcamp Track ID: 4033353767
 Artists:
 - Veritas Unae
 - Charles Neudorf
@@ -279,6 +287,7 @@ Commentary: |-
 ---
 Track: Layers Upon Layers [Build]
 Directory: layers-upon-layers
+Bandcamp Track ID: 2818342959
 Artists:
 - Marcy Nabors
 - Jamie Paige
@@ -312,7 +321,7 @@ Cover Art File Extension: png
 Art Tags:
 - Underlings
 Commentary: |-
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [James did not send me<br>
     commentary for this track<br>
     so here's a haiku!]
@@ -323,6 +332,7 @@ Commentary: |-
 ---
 Track: Mysterious Messengers [Exiles]
 Directory: mysterious-messengers
+Bandcamp Track ID: 4075868494
 Artists:
 - Traikan
 Duration: 2:34
@@ -339,13 +349,14 @@ Commentary: |-
     <i>Traikan:</i>
     I had that G, G#, B motive stuck in my head for a long time, and I knew I wanted to use it for a desert song, so when I saw "Years in the future" I jumped at the chance to put it into play. The latter half of the song is scavenged from an older piece, that never saw the light of day. Texturally, acoustic guitars, high strings, droning pads, and a bit of brass all make me think "DESERT." The scale does most of the also desert themed, work establishing that, though. I wanted the song to be upbeat and include two parts. The first serves as a "conversation theme" to be played when the exiles are communicating with the players and "exile action" which, is unlikely to be heard by a player, but would accompany something more intense happening years in the future.
 
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [YEARS IN THE FUTURE...<br>
     A ramshackle wanderer<br>
     ...finds a giant book?]
 ---
 Track: Overly Ostentatious Ogre [Miniboss]
 Directory: overly-ostentatious-ogre
+Bandcamp Track ID: 1953157723
 Artists:
 - Red Pen
 Duration: 1:42
@@ -358,7 +369,7 @@ Cover Artists:
 Art Tags:
 - Underlings
 Commentary: |-
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [Hope you've leveled up<br>
     This guy doesn't mess around<br>
     but he makes a mess!]
@@ -368,6 +379,7 @@ Commentary: |-
 ---
 Track: The Porkhollow is Overflowing! [Echeladder]
 Directory: the-porkhollow-is-overflowing
+Bandcamp Track ID: 3205732915
 Artists:
 - Veritas Unae
 Duration: 1:23
@@ -385,6 +397,7 @@ Commentary: |-
 ---
 Track: Consort Air [Consorts]
 Directory: consort-air
+Bandcamp Track ID: 1977848415
 Artists:
 - Brad Griffin
 Duration: 1:18
@@ -413,6 +426,7 @@ Commentary: |-
 ---
 Track: Fraymotif Samba [Consort Shop]
 Directory: fraymotif-samba
+Bandcamp Track ID: 3385407241
 Artists:
 - James Roach
 Duration: 2:41
@@ -424,7 +438,7 @@ Cover Artists:
 Art Tags:
 - Consorts
 Commentary: |-
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [Let's just take a sec<br>
     to appreciate that cow.<br>
     It's adorable!]
@@ -434,6 +448,7 @@ Commentary: |-
 ---
 Track: Waking the Beast [Denizen Encounter]
 Directory: waking-the-beast
+Bandcamp Track ID: 1338592443
 Artists:
 - Eston Schweickart
 - Yan Rodriguez
@@ -449,13 +464,14 @@ Commentary: |-
     <i>Eston Schweickart:</i>
     [[artist:yan-rodriguez|Nucleose]] and I are good pals, so we collaborated on this piece. We decided to compose a theme for first encountering a denizen (but not fighting it!). We agreed that it should be cinematic and ominous, and perhaps switch moods throughout, to accompany a theoretical cutscene featuring a dialogue between the player and the denizen. Within a day, [[artist:yan-rodriguez|Nucleose]] had hammered out the main theme on piano, which I then set about to arrange for full orchestra and electronics. I emerged nearly 6 months later, scarred from many bloody battles with the demons of procrastination, with a song called Waking the Beast (a title that I settled on months before Eidolon Orpheus' [[track:bargaining-with-the-beast]] was released). Though [[artist:yan-rodriguez|Nucleose]] would claim that he had almost no hand in the finished product, I incorporated (read: stole) many elements that are common in his music: uncommon meter, Phrygian mode, numerous gradual tempo changes, etc. SO THERE, YAN.
 
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [It begs the question...<br>
     How zen is a denizen<br>
     when it's in a den?]
 ---
 Track: Glow in the Distance [Save]
 Directory: glow-in-the-distance
+Bandcamp Track ID: 4012158683
 Artists:
 - James Roach
 Duration: 1:57
@@ -467,7 +483,7 @@ Cover Artists:
 Art Tags:
 - Sburb
 Commentary: |-
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [SKAIA•NET PATCH NOTES:<br>
     ADDED SAVE POINTS TO ALL LANDS.<br>
     LOAD POINTS COMING SOON.]
@@ -477,6 +493,7 @@ Commentary: |-
 ---
 Track: Lulling Lutescent [Prospit Sleep]
 Directory: lulling-lutescent
+Bandcamp Track ID: 1454447818
 Artists:
 - Veritas Unae
 Duration: 0:14
@@ -491,13 +508,14 @@ Commentary: |-
     <i>Veritas Unae:</i>
     These [[track:lavender-lullaby|two lulling lullabies]] were rather fun to write... I wrote the Prospit lullaby before writing the [[track:on-golden-dreams|Prospit song]] itself, so linearly it inspired part of the Prospit theme... As such they're short and relaxing, but with a little twist at the end.
 
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [These songs remind me<br>
     ...<br>
     Time for bed, goodnight!]
 ---
 Track: On Golden Dreams [Prospit]
 Directory: on-golden-dreams
+Bandcamp Track ID: 2498369377
 Artists:
 - Veritas Unae
 Duration: 5:44
@@ -521,6 +539,7 @@ Commentary: |-
 ---
 Track: Amongst Smiling Faces [Prospitian Dignitaries]
 Directory: amongst-smiling-faces
+Bandcamp Track ID: 1764133895
 Artists:
 - Tarranon
 Duration: 2:10
@@ -544,6 +563,7 @@ Commentary: |-
 ---
 Track: Grudge in A Minor [Jack Noir]
 Directory: grudge-in-a-minor
+Bandcamp Track ID: 1029930612
 Artists:
 - Catboss
 Duration: 3:27
@@ -572,6 +592,7 @@ Commentary: |-
 ---
 Track: Lavender Lullaby [Derse Sleep]
 Directory: lavender-lullaby
+Bandcamp Track ID: 2601724312
 Artists:
 - Veritas Unae
 Duration: 0:15
@@ -588,13 +609,14 @@ Commentary: |-
     <i>Veritas Unae:</i>
     These [[track:lulling-lutescent|two lulling lullabies]] were rather fun to write, especially Derse's, which used a small refrain from [[track:planet-in-shadow|Konec0's Derse theme]]... These short instances would play, similar to the one that was played as Doomed Rose fell asleep and merged with the Alpha Rose...
 
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [...<br>
     I should not be up this late.<br>
     Time for bed, goodnight!]
 ---
 Track: Planet in Shadow [Derse]
 Directory: planet-in-shadow
+Bandcamp Track ID: 2387352787
 Artists:
 - Catboss
 Duration: 4:51
@@ -609,13 +631,14 @@ Commentary: |-
     <i>Catboss:</i>
     <i>He awakens with a start. The first thing he notices is the throbbing headache. He feels groggy, and his entire body feels heavy, as if he's been sleeping for ages, so long it's forgotten how to move. There's something in the back of his head, something that sounds like white noise, or static, or strange whispers. He dismisses them for the moment; it's probably the headache talking, he thinks. The second thing he notices, as he forces himself to sit up, is how everything is purple. The walls of his room are lined with violet and indigo, and even his sheets and his pajamas (he didn't remember putting these on before going to sleep; heck, he didn't even remember having them) are similar shades. This must be a dream, he thinks, and yet he is unable to shake the feeling that this is terribly, frighteningly real. The third thing he notices is how dark and quiet it is. Faint light streams in through the window, from a blue planet far away. It's thin and wispy, as if shining from behind a veil. The eerie silence makes his skin crawl. He strides over to the window, and looks up, towards the endless void. There is nothing there, and yet it beckons him, and he is nearly compelled to leap into the abyss. Tearing his gaze away from the vast nothingness, he peers downwards instead - and there it is, stretching out before him in all its glory: Derse, the planet in shadow.</i>
 
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [Planet in Shadow?<br>
     With all that purple, more like<br>
     Planet of the Grapes]
 ---
 Track: Drolls and Dignitaries [Dersite Agents]
 Directory: drolls-and-dignitaries
+Bandcamp Track ID: 2421694479
 Artists:
 - Catboss
 Duration: 5:09
@@ -638,6 +661,7 @@ Commentary: |-
 ---
 Track: The Ultimate Riddle [Ultimate Riddle]
 Directory: the-ultimate-riddle
+Bandcamp Track ID: 39447976
 Artists:
 - Marcy Nabors
 Duration: 5:26
@@ -655,6 +679,7 @@ Commentary: |-
 ---
 Track: Eldritch Murmurs [Horrorterrors]
 Directory: eldritch-murmurs
+Bandcamp Track ID: 961305848
 Artists:
 - Fuzz
 Duration: 1:52
@@ -669,13 +694,14 @@ Commentary: |-
     <i>Fuzz:</i>
     I have always been keen to experiment with soundscapes. Essentially this piece is just one giant soundscape with a melody. The goal i had was to create something which would be intense enough to feel horrific without being goofy or cheesy. In essence i feel this expresses the nature of the horrorterrors accurately.
 
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [H͏ ͘ E̶ ̡ Y̕   ҉҉̡ T̨ H͢ ͝ E̢ RE҉̢ ҉  ͢ L͝ I͡ T̢ T̨ ͢ ĹE  ̡ F̷ ҉R̢ Į͝ ̕ E̷ ͠ N͏ ҉D̵<br>
      ́H̶ ̛ O̡ W̷ WO͏ U͞ ĻD̡   ̵ ҉Y̛ O͘ ͜ U͞   ͞ L̕ Į̵ ͠ K҉E͝   T͞ Ớ͠   ͡ H͏ U͞ G̢ ̕   ̧ A͏ ŅḐ <br>
      B͟ E͟   ͜ ͝ T̀ ͟ A̕ N҉͠ G̛  L͜ ͞ E̴   ͏ B̢ ͠ Ù̶ ͘ D̸ D͘ I͡ ̶ ES͟ ͞ ]̸
 ---
 Track: Outer Reaches [Veil]
 Directory: outer-reaches
+Bandcamp Track ID: 2637744216
 Artists:
 - Charles Neudorf
 Duration: 1:40
@@ -697,6 +723,7 @@ Commentary: |-
 ---
 Track: Inner Depths [Labs]
 Directory: inner-depths
+Bandcamp Track ID: 997249787
 Artists:
 - Brad Griffin
 Duration: 2:24
@@ -717,6 +744,7 @@ Commentary: |-
 ---
 Track: Autogenesis [Ectobiology]
 Directory: autogenesis
+Bandcamp Track ID: 2708200791
 Artists:
 - Red Pen
 Duration: 1:58
@@ -728,7 +756,7 @@ Cover Artists:
 Art Tags:
 - Carapacians
 Commentary: |-
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [Paradox parents<br>
     stealing slime from other times<br>
     Infinite infants.]
@@ -739,6 +767,7 @@ Commentary: |-
 ---
 Track: Broken Dreams [Prospit's Fall]
 Directory: broken-dreams
+Bandcamp Track ID: 182338374
 Artists:
 - Veritas Unae
 - Charles Neudorf
@@ -772,6 +801,7 @@ Commentary: |-
 ---
 Track: Paradoxical Meteor Shower [Reckoning]
 Directory: paradoxical-meteor-shower
+Bandcamp Track ID: 841123812
 Artists:
 - Trent West
 Duration: 3:34
@@ -784,7 +814,7 @@ Art Tags:
 - Battlefield
 - Skaia
 Commentary: |-
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [The end of the world<br>
     Spacey stones seeding stations<br>
     ...and also babies]
@@ -795,6 +825,7 @@ Commentary: |-
 ---
 Track: Emerald Icarus [Green Sun]
 Directory: emerald-icarus
+Bandcamp Track ID: 3940576409
 Artists:
 - Marcy Nabors
 - Charles Neudorf
@@ -823,6 +854,7 @@ Section: Disk 2
 Track: ~~~~DISK 2~~~~
 Directory: disk2
 Suffix Directory: true
+Bandcamp Track ID: 3382458930
 Artists:
 - Veritas Unae
 Duration: 0:09
@@ -839,6 +871,7 @@ Referenced Tracks:
 ---
 Track: CumuloSeerus [Oracle Clouds]
 Directory: cumuloseerus
+Bandcamp Track ID: 1502150465
 Artists:
 - Brad Griffin
 Duration: 2:24
@@ -860,6 +893,7 @@ Commentary: |-
 ---
 Track: Checkerboard Checkmate [Battlefield]
 Directory: checkerboard-checkmate
+Bandcamp Track ID: 1161692623
 Artists:
 - Tarranon
 Duration: 3:15
@@ -882,6 +916,7 @@ Commentary: |-
 ---
 Track: Skaiaward [Skaia]
 Directory: skaiaward
+Bandcamp Track ID: 1868678875
 Artists:
 - Marcy Nabors
 - Solatrus
@@ -907,6 +942,7 @@ Commentary: |-
 ---
 Track: Resurrection [God Tier]
 Directory: resurrection
+Bandcamp Track ID: 1912446973
 Artists:
 - Brad Griffin
 Duration: 2:22
@@ -926,6 +962,7 @@ Commentary: |-
 ---
 Track: Land of _____ and Frogs [Frog Gathering]
 Directory: land-of-_____-and-frogs
+Bandcamp Track ID: 1922373560
 Artists:
 - Veritas Unae
 Duration: 1:45
@@ -947,6 +984,7 @@ Commentary: |-
 ---
 Track: Rana's Abode [Frog Temple]
 Directory: ranas-abode
+Bandcamp Track ID: 3583559708
 Artists:
 - Yan Rodriguez
 Duration: 1:28
@@ -967,6 +1005,7 @@ Commentary: |-
 ---
 Track: The Will to Fight Further [Denizen Strife]
 Directory: the-will-to-fight-further
+Bandcamp Track ID: 2124068482
 Artists:
 - Kevin Grant (composition)
 - Catboss (arrangement)
@@ -998,6 +1037,7 @@ Commentary: |-
 ---
 Track: Barren Session [Game Over]
 Directory: barren-session
+Bandcamp Track ID: 3436091894
 Artists:
 - Brad Griffin
 Duration: 2:09
@@ -1018,6 +1058,7 @@ Commentary: |-
 ---
 Track: Dilemma [The Choice]
 Directory: dilemma
+Bandcamp Track ID: 263599493
 Artists:
 - Fuzz
 Duration: 3:03
@@ -1042,6 +1083,7 @@ Commentary: |-
 ---
 Track: Vulcanic Volcano [Forge]
 Directory: vulcanic-volcano
+Bandcamp Track ID: 3415061456
 Artists:
 - Traikan
 Duration: 3:16
@@ -1061,6 +1103,7 @@ Commentary: |-
 ---
 Track: Check the Chequered Castle [Battlefield Castle]
 Directory: check-the-chequered-castle
+Bandcamp Track ID: 2263653903
 Artists:
 - Veritas Unae
 Duration: 3:53
@@ -1082,6 +1125,7 @@ Commentary: |-
 ---
 Track: Endgame Execution [Black King Battle]
 Directory: endgame-execution
+Bandcamp Track ID: 3907474688
 Artists:
 - Catboss
 Duration: 8:50
@@ -1115,6 +1159,7 @@ Commentary: |-
 ---
 Track: Where ribbIt All Began [Genesis Frog]
 Directory: where-ribbit-all-began
+Bandcamp Track ID: 3870114212
 Artists:
 - Tarranon
 Duration: 3:24
@@ -1130,13 +1175,14 @@ Commentary: |-
     <i>Tarranon:</i>
     <i>A universe is born anew - a starry expanse of which one might catch only a vivid glimpse. Grandiose and immense beyond all rationality, the Genesis Frog bears the creation of a new reality within.</i>
 
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [Universal frog!<br>
     I bet it's quite slippery...<br>
     ..cuz it's Slick. Get it?]
 ---
 Track: Higher Hopes [Game Complete]
 Directory: higher-hopes
+Bandcamp Track ID: 906219130
 Artists:
 - Tarranon
 Duration: 2:21
@@ -1161,6 +1207,7 @@ Commentary: |-
 ---
 Track: Gods of the New World [Universe Creation]
 Directory: gods-of-the-new-world
+Bandcamp Track ID: 2646453495
 Artists:
 - Max Wright
 Duration: 7:19
@@ -1188,6 +1235,7 @@ Section: Bonus tracks
 ---
 Track: ~~~~BONUS~~~~
 Suffix Directory: true
+Bandcamp Track ID: 4247049642
 Artists:
 - Veritas Unae
 Duration: 0:17
@@ -1201,6 +1249,7 @@ Referenced Tracks:
 ---
 Track: The Untold Story [Skaia Exposition]
 Directory: the-untold-story
+Bandcamp Track ID: 2808768225
 Artists:
 - Brad Griffin
 Duration: 3:39
@@ -1228,6 +1277,7 @@ Commentary: |-
 ---
 Track: Melody && Form && Composition [Alchemiter]
 Directory: melody-form-composition
+Bandcamp Track ID: 801882870
 Artists:
 - Charles Neudorf
 - Marcy Nabors
@@ -1252,6 +1302,7 @@ Commentary: |-
 ---
 Track: Take Flight [Battleship]
 Directory: take-flight
+Bandcamp Track ID: 1389366767
 Artists:
 - Veritas Unae
 Duration: 2:46
@@ -1277,6 +1328,7 @@ Commentary: |-
 ---
 Track: Born to Die [Doomed Timeline]
 Directory: born-to-die
+Bandcamp Track ID: 2460981724
 Artists:
 - TheifofTruth
 - Brad Griffin
@@ -1299,6 +1351,7 @@ Commentary: |-
 ---
 Track: The Will to Fight (Original Mix) [Denizen Strife]
 Directory: the-will-to-fight-original-mix
+Bandcamp Track ID: 1135579062
 Artists:
 - Kevin Grant
 Duration: 4:41
@@ -1321,6 +1374,7 @@ Commentary: |-
 ---
 Track: Prime [Pause]
 Directory: prime
+Bandcamp Track ID: 844797413
 Artists:
 - Trent West
 Duration: 2:09
@@ -1332,7 +1386,7 @@ Cover Artists:
 Art Tags:
 - Earth
 Commentary: |-
-    <i>Brad Griffin:</i> (booklet editor)
+    <i>[[artist:brad-griffin]], booklet editor:</i>
     [.....<br>
     .......<br>
     .....]
@@ -1342,6 +1396,7 @@ Commentary: |-
 ---
 Track: Godfight [PvP]
 Directory: godfight
+Bandcamp Track ID: 1415086086
 Artists:
 - Catboss
 Duration: 3:38

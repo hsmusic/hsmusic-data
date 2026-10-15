@@ -1,0 +1,25 @@
+Album: CRAZYBUS
+Style: in-game vgm
+Date: September 9, 2005
+Track Artists:
+- Tom Scripts
+Cover Art File Extension: png
+Color: '#db2a00'
+Groups:
+- group:more-vgm
+---
+Track: CRAZYBUS Title Screen
+Name Style: utility
+# No official release
+Artists:
+- Tom Scripts
+URLs:
+- https://www.youtube.com/watch?v=sC0cvwnG0Ik
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    So the tune in this song is decided at runtime with a pseudorandom number generator, but quoteth [the coolest article ever probably](https://www.badgamehalloffame.com/crazybus/), by Cassidy at Bad Game Hall of Fame:
+
+    > “But wait,” I hear you shouting at your screen! “Didn’t you just say that the game *doesn’t* use random generation — that the program just produces the same song every time?” Well, as it turns out, I was dealing in a sort of half-truth there: The game does *attempt* to generate random numbers on start-up in order to produce its music — the key word there being *“attempt.”* See, there’s a problem with the implementation here, since BASIC relies on some rather archaic means for generating random numbers; which requires it to pull an existing numerical value from a position in code, acting as a sort of “seed” for further digits. (Actually, most computer randomization algorithms you’ll find today still operate on this same principle, referred to as [“pseudo-random numbers.”](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)) The issue is that if you start up *CrazyBus* and let it get to the title screen without giving it any inputs, *it’ll just generate the same “random” numbers every time.* In this sense, each version of *CrazyBus* does have something like its own “canonical” title screen track — a consistent string of numbers it’ll generate if left to its own devices, producing a permutation of song unique to each version of the game. To actually get the program to start spitting out divergent notes, you’ll have to mash buttons before / during the song’s playback, in order to feed it data that it can use to generate different numbers. But I suppose that debating whether or not *CrazyBus’* music is “truly random” or not is sort of missing the point: That point being that the music wasn’t deliberately written / composed by human beings, and instead relies on a sound chip’s interpretation of arbitrary numbers.
+
+    There's plenty more over there on this very music. As mentioned, different versions of CrazyBus have different seeds, and so different opening themes. (The numbers-to-music algorithm sounds probably the same across versions.) This YouTube upload is the one Makin linked in wiki data himself and it has three million or so views, so it's prolly the one that he sampled! Dunno which exact version of CrazyBus it is though (or whether the person recording it *didn't* enter any inputs and consequently seed the RNG uniquely). We're just reflecting the date listed in the 1.0 boot-up screen.
