@@ -9,3 +9,266 @@ Groups:
 - UNDERTALE & DELTARUNE
 - Toby Fox
 - Beyond
+---
+Track: abc_123_a
+Duration: 0:26
+---
+Track: abc_123_a
+Always Reference By Directory: true
+Date First Released: January 20, 2016
+Name Detail: v1.001
+Duration: 0:06
+Referenced Tracks:
+- abc_123_a
+---
+Track: mus_bad
+Duration: 0:01
+---
+Track: mus_churchbell
+Duration: 0:09
+---
+Track: Cool Beat
+Directory: mus_coolbeat
+Duration: 0:02
+---
+Track: Dance of Dog
+Directory: mus_dance_of_dog
+Additional Names:
+- mus_dance_of_dog (file name)
+Duration: 0:14
+---
+Track: mus_dogappear
+Duration: 0:03
+---
+Track: mus_dogroom
+Duration: 0:36
+---
+Track: mus_dununnn
+Duration: 0:01
+---
+Track: mus_elevator
+Duration: 0:05
+---
+Track: mus_f_saved
+Duration: 0:07
+---
+Track: mus_fearsting
+Duration: 0:01
+---
+Track: mus_kingdescription
+Duration: 1:04
+Referenced Tracks:
+- Determination
+#---
+#Track: Start Menu
+#Directory: mus_menu0
+#Additional Names:
+#- mus_menu0 (file name)
+#Duration: 0:32
+#Main Release: UNDERTALE Soundtrack
+---
+Track: mus_menu1
+Duration: 0:32
+Referenced Tracks:
+- Start Menu
+---
+Track: mus_menu2
+Duration: 0:32
+Referenced Tracks:
+- mus_menu1
+---
+Track: mus_menu3
+Duration: 0:32
+Referenced Tracks:
+- mus_menu2
+---
+Track: mus_menu4
+Duration: 0:32
+Referenced Tracks:
+- mus_menu3
+---
+Track: mus_menu5
+Duration: 0:32
+Referenced Tracks:
+- mus_menu4
+#---
+#Track: Menu (Full)
+#Directory: mus_menu6
+#Additional Names:
+#- mus_menu6 (file name)
+#Duration: 0:32
+#Main Release: UNDERTALE Soundtrack
+---
+Track: mus_mode
+Duration: 0:03
+---
+Track: mus_predummy
+Duration: 0:07
+---
+Track: mus_ruinspiano
+Duration: 1:09
+Referenced Tracks:
+- track:ruins-undertale
+---
+Track: mus_sigh_of_dog
+Duration: 0:30
+---
+Track: mus_smile
+Duration: 1:19
+---
+Track: mus_snoresymphony
+Duration: 0:36
+Referenced Tracks:
+- Determination
+---
+Track: Happy Town
+Directory: mus_st_happytown
+Additional Names:
+- ハッピータウン (Japanese localization)
+- mus_st_happytown (file name)
+Duration: 0:01
+---
+Track: Gaster's Theme
+Directory: mus_st_him
+Additional Names:
+- ガスターのテーマ (Japanese localization)
+- mus_st_him (file name)
+Duration: 0:17
+---
+Track: Meat Factory
+Directory: mus_st_meatfactory
+Additional Names:
+- ミートファクトリー (Japanese localization)
+- mus_st_meatfactory (file name)
+Duration: 0:02
+---
+Track: Trouble Dingle
+Directory: mus_st_troubledingle
+Additional Names:
+- トラブルディングル (Japanese localization)
+- mus_st_troubledingle (file name)
+Duration: 0:01
+---
+Track: mus_star
+Duration: 0:46
+---
+Track: mus_tone2
+Duration: 0:02
+---
+Track: mus_tone3
+Duration: 0:02
+---
+Track: mus_toomuch
+Duration: 0:50
+Referenced Tracks:
+- Your Best Friend
+---
+Track: mus_tv
+Duration: 0:11
+Referenced Tracks:
+- It's Showtime!
+---
+Track: mus_wawa
+Duration: 0:03
+---
+Track: mus_woofenstein
+Duration: 0:17
+---
+Track: mus_woofenstein_loop
+Duration: 0:14
+Referenced Tracks:
+- mus_woofenstein
+---
+Track: Wrong Number Song
+Artists:
+- Toby Fox
+Duration: 0:06
+Lyrics: |-
+    Oh it's the wrong number! The wrong number song!
+    We're very very sorry that we got it wrong!
+    Oh it's the wrong number! The wrong number song!
+    We're very very sorry that we got it wrong!
+---
+Track: mus_zzz_c
+Duration: 0:08
+---
+Track: mus_zzz_c2
+Duration: 0:04
+---
+Track: snd_ballchime
+Duration: 0:03
+---
+Track: snd_mushroomdance
+Duration: 0:02 
+---
+Track: snd_dumbvictory
+Duration: 0:01
+---
+Track: snd_grandpatemi
+Duration: 0:05
+Referenced Tracks:
+- Metal Crusher
+---
+Track: snd_hero
+Duration: 0:01
+---
+Track: snd_mysterygo
+Duration: 0:02
+---
+Track: snd_textnoise
+Duration: 0:01
+#--- ##for when we're adding the released tracks here
+#Section: PlayStation 4 & PlayStation Vita
+#---
+#Track: Mysterious Shrine
+#Directory: mus_dogshrine_1
+#Date First Released: August 15, 2017
+#Additional Names:
+#- mus_dogshrine_1 (file name)
+#Duration: 0:48
+#Main Release: UNDERTALE Collector's Edition Soundtrack
+#---
+#Track: Absolutely Overfamiliar Shrine
+#Directory: mus_dogshrine_2
+#Date First Released: August 15, 2017
+#Additional Names:
+#- mus_dogshrine_2 (file name)
+#Duration: 0:18
+#Main Release: UNDERTALE Collector's Edition Soundtrack
+---
+Section: Nintendo Switch
+#---
+#Track: Mad Mew Mew
+#Directory: mus_mewmew
+#Date First Released: September 18, 2018
+#Additional Names:
+#- mus_mewmew (file name)
+#Duration: 1:08
+#Main Release: Mad Mew Mew (from UNDERTALE)
+---
+Track: mus_sfx_dogseal
+Date First Released: September 18, 2018
+Duration: 0:06
+Referenced Tracks:
+- Dogsong
+---
+Section: Xbox One
+---
+Track: Dog Casino (XBOX)
+Directory: mus_dogshrine_xbox
+Additional Names:
+- mus_dogshrine_xbox (file name)
+Date First Released: December 22, 2020
+Duration: 0:17
+Referenced Tracks:
+- Dogsong
+---
+Track: snd_slot_bigiwn
+Duration: 0:05
+Referenced Tracks:
+- Dogsong
+---
+Track: snd_slot_win
+Duration: 0:01
+Referenced Tracks:
+- snd_slot_bigiwn
