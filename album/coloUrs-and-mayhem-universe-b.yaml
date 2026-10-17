@@ -745,12 +745,25 @@ Duration: 3:16
 URLs:
 - https://homestuck.bandcamp.com/track/pendulum-2
 - https://www.youtube.com/watch?v=Mv0zF9BRfOI
-Cover Artists:
-- Rii Abrego
-Art Tags:
-- Dave
-- 'cw: blood'
-- 'cw: corpse (abstract)'
+Track Artwork:
+- Artists:
+  - Rii Abrego
+  Tags:
+  - Dave
+  - 'cw: blood'
+  - 'cw: corpse (abstract)'
+- Label: Artist's cut
+  Directory: tumblr
+  Attach Above: true
+  Date: January 19, 2012
+  Source: >-
+    [Tumblr](https://riibrego.tumblr.com/post/21034154125)
+- Label: Extra alternate art
+  Directory: tumblr-extra
+  Attach Above: true
+  Tags:
+  - Dave
+  - 'cw: blood'
 Referenced Tracks:
 - Sburban Jungle
 ---
