@@ -240,7 +240,7 @@ Series:
   Albums:
   - Midnight Jungle - 『真夜中のジャングル』
   - 'MIDNIGHT JUNGLE TYPE 1.5: VERTIGO ZONE - 真夜中のジャングル『目眩ゾーン』'
-- Name: RAKKA
+- Name: PROJECT RAKKA
   Albums:
   - RAKKA Vol. 1 ALTIMINTAK
   - RAKKA Vol. 2 THE SURGES
@@ -1216,17 +1216,7 @@ Description: |-
     <hr class="split">
     One of many webcomics drawing early inspiration from Homestuck and the MSPA format, Oceanfalls stands out for being a totally distinct story from the world of Homestuck and SBURB, and it has its own community of fan musicians and artists contributing to its album-spanning soundtrack!
 ---
-Group: Psycholonials
-URLs:
-- https://psycholonials.bandcamp.com/
-- https://www.psycholonials.com/
-Description: |-
-    "While in communication with supernatural forces, two influencers launch a daring new social media brand." A visual novel by [[artist:andrew-hussie|Andrew Hussie]].
-    <hr class="split">
-    Heavily influenced by COVID-19 lockdowns, the George Floyd protests, and other controversies of mid-2020, Psycholonials is Andrew Hussie's first post-Homestuck original work, releasing from February 3rd to April 20th, 2021. It features music by [[artist:clark-powell|Clark Powell]], often repurposed from her [[group:clark-powell|previous independent efforts]].
-    Each of Psycholonials' 9 chapters was released alongside an EP album containing music featured in that chapter. On the game's third anniversary, coinciding with the game becoming free, the EPs were removed from Bandcamp, with the now heavily-discounted full soundtrack remaining available.
----
-Group: RAKKA
+Group: PROJECT RAKKA
 URLs:
 - https://store.steampowered.com/curator/45653034
 - https://www.theparadoxmusicteam.com/rakka
@@ -1245,6 +1235,16 @@ Series:
   Albums:
   - 'RAKKA: SP1 - OUTSIDE 2'
   - 'RAKKA: WAKE 01 Opening - ME!'
+---
+Group: Psycholonials
+URLs:
+- https://psycholonials.bandcamp.com/
+- https://www.psycholonials.com/
+Description: |-
+    "While in communication with supernatural forces, two influencers launch a daring new social media brand." A visual novel by [[artist:andrew-hussie|Andrew Hussie]].
+    <hr class="split">
+    Heavily influenced by COVID-19 lockdowns, the George Floyd protests, and other controversies of mid-2020, Psycholonials is Andrew Hussie's first post-Homestuck original work, releasing from February 3rd to April 20th, 2021. It features music by [[artist:clark-powell|Clark Powell]], often repurposed from her [[group:clark-powell|previous independent efforts]].
+    Each of Psycholonials' 9 chapters was released alongside an EP album containing music featured in that chapter. On the game's third anniversary, coinciding with the game becoming free, the EPs were removed from Bandcamp, with the now heavily-discounted full soundtrack remaining available.
 ---
 Group: UNBEATABLE
 Closely Linked Artists:

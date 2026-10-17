@@ -530,6 +530,7 @@ Changes: |-
     - added FurAffinity listening links to [[track:davesprite2]], [[track:ruins]], and [[track:sburban-cartdown]] (thanks, Erase, Lavender, Lan!)
     - added Tumblr listening links to [[track:nightmare-knight]] and [[track:noisemaster-theme]] (thanks, Lilith!)
     - added Tumblr listening link to [[track:the-thirteenth-troll]] (thanks, Lilith!)
+    - added Apple Music listening links across [[group:project-rakka]] (thanks, Lan!)
     - added Bandcamp, Apple Music, and Spotify listening links to [[track:focus-super-hexagon]] (thanks, Lilith!)
     - added Spotify and Apple Music listening links to [[track:pushing-onwards]] (thanks, Lilith!)
     - added Spotify, Apple Music, and YouTube Music listening links across [[group:touhou-project]] (thanks, Lan, Lilith, ruby, bit!)
@@ -542,6 +543,7 @@ Changes: |-
     - added wiki archive listening links to [[track:aradias-theme-pre-death]], [[track:a-baby-legend]], [[track:brodylovania]], [[track:calliope-malcolm-brown]], [[track:do-the-homestuck-demo]], and [[track:lets-read-a-webcomic]] (thanks, Lan!)
     <!-- crediting sources additions -->
     - added Bandcamp crediting sources across [[album:exile]] (thanks, Lan, GameEymen, Lilith!)
+    - added Bandcamp and YouTube crediting sources across [[group:project-rakka]] (thanks, Lan!)
     - added Bandcamp crediting sources to [[track:empress]], [[track:army-of-the-wicked-god]], [[album:grim-chain-of-feast]], [[album:war-marks]], [[album:rites-of-bloodgrinded]], [[track:his-honorable-tyranny]], [[album:genesis-genocide]], [[album:faces-of-oglogoth]], [[track:im-a-member-of-the-midnight-crew-soapstone]], and [[album:jugglanoids-from-outer-space]] (thanks, Tangle!)
     - added Bandcamp and SoundCloud crediting sources to [[track:indomitable-vast-error]] (thanks, Lan!)
     <!-- referencing sources additions -->
@@ -913,7 +915,7 @@ Changes: |-
         - changed [[track:familiar-unbeatable-demo-tapes]] to be by [[artist:unbeatable]], rather than by [[artist:peak-divide]] and [[artist:rj-lake]]
         - changed [[track:homework-salad-by-night]] to be by [[artist:vasily-nikolaev]], rather than by [[artist:peak-divide]] (or [[artist:unbeatable]])
     - changed track credits across [[album:bowmanstuck]] to match Bandcamp presentation (thanks, Coral!)
-    - changed track credits across [[album:midnight-jungle-type-1-5-vertigo-zone]] to more closely match Bandcamp presentation (thanks, Lan, Pascal, Jebb!)
+    - changed track credits across [[group:project-rakka]] and [[album:midnight-jungle-type-1-5-vertigo-zone]] to more closely match Bandcamp presentation (thanks, Lan, Pascal, Jebb!)
     - changed track credits across [[album:chaos-sisters-original-soundtrack]] to credit [[artist:tukeart]] as Tuukka Saarenketo
     - changed [[track:the-adventure-continues-for-horizon-heights-act-1]], [[track:before-the-sequel-title-screen]], and [[track:breakfast-time-for-horizon-heights-boss-act-phase-2]] to credit "franchise" artist [[artist:sonic-the-hedgehog-fanmedia]] instead of [[artist:sonic-the-hedgehog]] (thanks, Lan, ruby, Cello!)
     <!-- crediting fixes -->
@@ -1687,6 +1689,9 @@ Changes: |-
     - changed directory of [[track:photo-pokemon-lullaby-the-hidden-treasure-of-area-zero]] from `photo-pokemon-lullaby` to `photo-pokemon-lullaby-the-hidden-treasure-of-area-zero`
     - changed directory of [[track:relic-song-the-hidden-treasure-of-area-zero]] from `relic-song-pokemon-scarlet-violet` to `relic-song-the-hidden-treasure-of-area-zero`
     - changed directory of [[track:future-people-single]] from `future-people` to `future-people-single`
+    - changed directory of [[track:feverdream-rakka]] from `feverdream` to `feverdream-rakka`
+    - changed directory of [[track:bothersome-rakka]] from `bothersome` to `bothersome-rakka`
+    - changed directory of [[track:pressure-rakka]] from `pressure` to `pressure-rakka`
     - changed directory of [[track:me-rakka-single]] from `me-rakka` to `me-rakka-single`
     - changed directory of [[track:sleeping-in-single]] from `sleeping-in` to `sleeping-in-single`
     - changed directory of [[track:do-the-homestuck-demo]] from `do-the-homestuck` to `do-the-homestuck-demo`

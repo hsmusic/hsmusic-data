@@ -1,10 +1,12 @@
 Album: RAKKA Vol. 2 THE SURGES
+Directory Suffix: rakka
 Date: September 19, 2024
 Date Added: April 13, 2025
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/album/rakka-vol-2-the-surges
 - https://www.youtube.com/playlist?list=PLtcgklmZsk9DikNCi3xTjO_9-LWae3VX3
 - https://open.spotify.com/album/4MkxiB1VQ24EzjpjlM7y7v
+- https://music.apple.com/album/rakka-vol-2-the-surges-ep/1768177292
 Artists:
 - GITGOT
 Cover Artists:
@@ -25,7 +27,7 @@ Art Tags:
 - Sascha (RAKKA)
 Color: '#fa260e'
 Groups:
-- RAKKA
+- PROJECT RAKKA
 - The Paradox Music Team
 - Beyond
 Additional Files:
@@ -60,14 +62,14 @@ Commentary: |-
     Here's to all of you and the amazing work we've accomplished so far. I'm excited to see what lies ahead for the RAKKA saga, and I'm deeply grateful to be a part of this incredible team.
 
     With deepest thanks and appreciation,
-    
+
     GITGOT
 Crediting Sources: |-
     @@ [Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/album/rakka-vol-2-the-surges)
 
     Music written & performed by: [[artist:gitgot]]
 
-    Featuring:
+    Featuring:<br>
     [[artist:pascal-van-den-bos]] (Bass Guitar, Additional arrangements)<br>
     [[artist:v1ny4rd]] (Guitar)<br>
     [[artist:gurcan-unalan]] (Guitar)
@@ -83,9 +85,10 @@ Artists:
 - GITGOT (composition)
 - Pascal van den Bos (arrangement)
 Contributors:
+- GITGOT (vocals, lyrics)
+- Pascal van den Bos (bass guitar, mixing)
 - v1ny4rd (vocals, guitar)
 - Gürcan Ünalan (guitar)
-- Pascal van den Bos (bass guitar)
 Duration: 4:07
 Referenced Tracks:
 - DECEIT
@@ -93,6 +96,7 @@ URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/deceit-type-2
 - https://www.youtube.com/watch?v=ht8DnEcyPfk
 - https://open.spotify.com/track/0fI1Gs7VPmaWESAYsainoh
+- https://music.apple.com/album/deceit-type-2/1768177292?i=1768177295
 Lyrics: |-
     I’ve been dreading the night
     Trying to feel alright
@@ -146,16 +150,44 @@ Lyrics: |-
     If I die
 
     If I die
+Crediting Sources: |-
+    @@ [Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/deceit-type-2)
+
+    Composed by: [[artist:gitgot]]<br>
+    Arranged by: [[artist:pascal-van-den-bos]]
+
+    Vocals: [[artist:gitgot]] & [[artist:v1ny4rd]]<br>
+    Guitar: [[artist:v1ny4rd]] & [[artist:gurcan-unalan]]<br>
+    Bass Guitar: [[artist:pascal-van-den-bos]]
+
+    Mixing by: [[artist:pascal-van-den-bos]]
+
+    @@ [YouTube description](https://www.youtube.com/watch?v=ht8DnEcyPfk)
+
+    Composed by: [[artist:gitgot]]<br>
+    Arranged by: [[artist:pascal-van-den-bos]]<br>
+    Vocals: [[artist:gitgot]]<br>
+    Lyrics: [[artist:gitgot]]<br>
+    Guitar: [[artist:v1ny4rd]] & [[artist:gurcan-unalan]]<br>
+    Bass Guitar: [[artist:pascal-van-den-bos]]<br>
+    Mixing: [[artist:pascal-van-den-bos]]<br>
+    Mastered by: [[artist:pascal-van-den-bos]]
 ---
 Track: FEVERDREAM
+Suffix Directory: true
+Reference By Directory: outside album
 Bandcamp Track ID: 1217659932
+Artists:
+- GITGOT (composition, arrangement)
 Contributors:
-- Pascal van den Bos (bass guitar)
+- GITGOT (vocals, lyrics, guitar, mixing)
+- Pascal van den Bos (bass guitar, mixing)
 Duration: 4:23
 URLs:
-- https://pascalpotatovandenbos.bandcamp.com/track/deceit-type-2
+- https://pascalpotatovandenbos.bandcamp.com/track/feverdream
 - https://www.youtube.com/watch?v=eLsmJtoacXY
 - https://open.spotify.com/track/1yD1gkr9Jev7VQyVgPT5av
+- https://music.apple.com/album/feverdream/1768177292?i=1768177296
 Lyrics: |-
     I cannot recall the day I woke up
     My dreams becoming bleaker– Sunbleached
@@ -221,24 +253,72 @@ Lyrics: |-
     I got scared so fast
     That right now I’m pushing air
     Through my lungs– way too fast.
+Crediting Sources: |-
+    @@ [Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/deceit-type-2)
+
+    Composed & arranged by: [[artist:gitgot]]
+
+    Vocals: [[artist:gitgot]]<br>
+    Guitar: [[artist:gitgot]]<br>
+    Bass Guitar: [[artist:pascal-van-den-bos]]
+
+    Mixing by: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]
+
+    @@ [YouTube description](https://www.youtube.com/watch?v=eLsmJtoacXY)
+
+    Composed & arranged by: [[artist:gitgot]]<br>
+    Vocals: [[artist:gitgot]]<br>
+    Lyrics: [[artist:gitgot]]<br>
+    Guitar: [[artist:gitgot]]<br>
+    Bass Guitar: [[artist:pascal-van-den-bos]]<br>
+    Mixing: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]<br>
+    Mastered by: [[artist:pascal-van-den-bos]]
 ---
 Track: it all goes down from here (Interlude)
 Bandcamp Track ID: 2851764227
+Artists:
+- GITGOT (composition, arrangement)
 Contributors:
+- GITGOT (vocals, mixing)
 - v1ny4rd (guitar)
+- Pascal van den Bos (mixing)
 Duration: 1:49
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/it-all-goes-down-from-here-interlude
 - https://www.youtube.com/watch?v=hkvOd1dz9dw
 - https://open.spotify.com/track/1amAPcYaLNuFjFZiDUgVLV
+- https://music.apple.com/album/it-all-goes-down-from-here-interlude/1768177292?i=1768177298
+Crediting Sources: |-
+    @@ [Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/it-all-goes-down-from-here-interlude)
+
+    Composed & arranged by: [[artist:gitgot]]
+
+    Vocals: [[artist:gitgot]]<br>
+    Guitar: [[artist:v1ny4rd]]
+
+    Mixing by: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]
+
+    @@ [YouTube description](https://www.youtube.com/watch?v=hkvOd1dz9dw)
+
+    Composed & arranged by: [[artist:gitgot]]<br>
+    Vocals: [[artist:gitgot]]<br>
+    Guitar: [[artist:v1ny4rd]]<br>
+    Mixing: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]<br>
+    Mastered by: [[artist:pascal-van-den-bos]]
 ---
 Track: PARANOIA DRIVE
 Bandcamp Track ID: 3568621338
 Duration: 3:07
+Artists:
+- GITGOT (composition, arrangement)
+Contributors:
+- GITGOT (vocals, lyrics, guitar, bass guitar, mixing)
+- Pascal van den Bos (mixing)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/paranoia-drive
 - https://www.youtube.com/watch?v=5fzxK5MbsdE
 - https://open.spotify.com/track/1YgvO09YmdUFJuwmIy47J9
+- https://music.apple.com/album/paranoia-drive/1768177292?i=1768177299
 Lyrics: |-
     Come on and start the engine up
     This place is evil
@@ -279,14 +359,42 @@ Lyrics: |-
 
     (Oh)
     (Oh)
+Crediting Sources: |-
+    @@ [Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/paranoia-drive)
+
+    Composed & arranged by: [[artist:gitgot]]
+
+    Vocals: [[artist:gitgot]]<br>
+    Guitar: [[artist:gitgot]]<br>
+    Bass Guitar: [[artist:gitgot]]
+
+    Mixing by: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]
+
+    @@ [YouTube description](https://www.youtube.com/watch?v=5fzxK5MbsdE)
+
+    Composed & arranged by: [[artist:gitgot]]<br>
+    Vocals: [[artist:gitgot]]<br>
+    Lyrics: [[artist:gitgot]]<br>
+    Guitar: [[artist:gitgot]]<br>
+    Bass Guitar: [[artist:gitgot]]<br>
+    Mixing: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]<br>
+    Mastered by: [[artist:pascal-van-den-bos]]
 ---
 Track: BOTHERSOME
+Suffix Directory: true
+Reference By Directory: outside album
 Bandcamp Track ID: 2792231739
 Duration: 2:57
+Artists:
+- GITGOT (composition, arrangement)
+Contributors:
+- GITGOT (vocals, guitar, bass guitar, mixing)
+- Pascal van den Bos (mixing)
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/bothersome
 - https://www.youtube.com/watch?v=xOhlHXSmbEM
 - https://open.spotify.com/track/2foYLzn9rT2gQkyz3PsgGs
+- https://music.apple.com/album/bothersome/1768177292?i=1768177300
 Lyrics: |-
     Am I a rock
     Am I a motherfucking stone to you?
@@ -342,12 +450,37 @@ Lyrics: |-
 
     You’re causing me- Causing me- Causing me- Causing me so much problems.
     (Bothersome) (You’re so bothersome)
+Crediting Sources: |-
+    @@ [Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/bothersome)
+
+    Composed & arranged by: [[artist:gitgot]]
+
+    Vocals: [[artist:gitgot]]<br>
+    Guitar: [[artist:gitgot]]<br>
+    Bass Guitar: [[artist:gitgot]]
+
+    Mixing by: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]
+
+    @@ [YouTube description](https://www.youtube.com/watch?v=xOhlHXSmbEM)
+
+    Composed & arranged by: [[artist:gitgot]]<br>
+    Vocals: [[artist:gitgot]]<br>
+    Lyrics: [[artist:gitgot]]<br>
+    Guitar: [[artist:gitgot]]<br>
+    Bass Guitar: [[artist:gitgot]]<br>
+    Mixing: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]<br>
+    Mastered by: [[artist:pascal-van-den-bos]]
 ---
 Track: PRESSURE
+Suffix Directory: true
+Reference By Directory: outside album
 Bandcamp Track ID: 3476530541
+Artists:
+- GITGOT (composition, arrangement)
 Contributors:
+- GITGOT (vocals, lyrics, mixing)
 - v1ny4rd (guitar)
-- Pascal van den Bos (bass guitar, additional arrangement)
+- Pascal van den Bos (bass guitar, additional arrangement, mixing)
 Duration: 3:57
 Referenced Tracks:
 - track:beneath-the-mask-makai
@@ -355,6 +488,7 @@ URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/pressure
 - https://www.youtube.com/watch?v=3y2TaOoHgX4
 - https://open.spotify.com/track/3z088WHnmsOTmcJpGJQwwD
+- https://music.apple.com/album/pressure/1768177292?i=1768177301
 Lyrics: |-
     Nothing can describe this very moment we live now
     Wish I’d never seen it, but I guess that I found out
@@ -401,3 +535,26 @@ Lyrics: |-
     (You could say, anything- I could say anything.
     I think that I’m losing my mind, lately
     I’m getting close- I’m getting really close.)
+
+Crediting Sources: |-
+    @@ [Bandcamp credits blurb](https://pascalpotatovandenbos.bandcamp.com/track/pressure)
+
+    Composed & arranged by: [[artist:gitgot]]
+
+    Vocals: [[artist:gitgot]]<br>
+    Guitar: [[artist:v1ny4rd]]<br>
+    Bass Guitar: [[artist:pascal-van-den-bos]]<br>
+    Additional arrangement: [[artist:pascal-van-den-bos]]
+
+    Mixing by: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]
+
+    @@ [YouTube description](https://www.youtube.com/watch?v=3y2TaOoHgX4)
+
+    Composed & arranged by: [[artist:gitgot]]<br>
+    Vocals: [[artist:gitgot]]<br>
+    Lyrics: [[artist:gitgot]]<br>
+    Guitar: [[artist:v1ny4rd]]<br>
+    Bass Guitar: [[artist:pascal-van-den-bos]]<br>
+    Additional arrangement: [[artist:pascal-van-den-bos]]<br>
+    Mixing: [[artist:gitgot]] & [[artist:pascal-van-den-bos]]<br>
+    Mastered by: [[artist:pascal-van-den-bos]]
