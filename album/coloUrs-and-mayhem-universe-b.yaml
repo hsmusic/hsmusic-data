@@ -847,10 +847,18 @@ Duration: 2:22
 URLs:
 - https://homestuck.bandcamp.com/track/ohgodcat-2
 - https://www.youtube.com/watch?v=s-4SihyV1yU
-Cover Artists:
-- Shelby Cragg
-Art Tags:
-- God Cat
+Track Artwork:
+- Artists:
+  - Shelby Cragg
+  Tags:
+  - God Cat
+- Label: Artist's cut
+  Directory: tumblr
+  Attach Above: true
+  Date: January 2, 2012
+  Source: >-
+    [Tumblr](https://whenkiwisfly.tumblr.com/post/15375353272/duedlyfirearms-space-cat)
+    ([archive](https://web.archive.org/web/20120119172206/https://duedlyfirearms.tumblr.com/post/15167542608/space-cat))
 Sheet Music Files:
 - Title: Sheet music
   Artists: [adamus]
