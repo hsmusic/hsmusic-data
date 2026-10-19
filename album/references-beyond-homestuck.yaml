@@ -87,15 +87,6 @@ Duration: 1:59
 URLs:
 - https://witchscadence.bandcamp.com/track/beneath-the-brambles
 ---
-Track: berdly_battle_heartbeat_true
-Artists:
-- Toby Fox
-Duration: 0:17
-URLs:
-- https://www.youtube.com/watch?v=wgpS6UzTIvU
-Referenced Tracks:
-- Smart Race
----
 Track: Beta Gym Theme
 Artists:
 - Pascal van den Bos
@@ -214,24 +205,6 @@ Commentary: |-
     <i>SolusLunes:</i> ([Newgrounds description](https://www.newgrounds.com/audio/listen/79451))
 
     Longer, more crystally. Tempo tricks, instrumentation at its best. Apocalyptic feeling too
----
-Track: cybercity_alt
-# No official release, duration is from the in-game audio loop.
-Artists:
-- Toby Fox
-Duration: 2:22
-URLs:
-- https://www.youtube.com/watch?v=WyPD3YMhwnQ
-Referenced Tracks:
-- WELCOME TO THE CITY
----
-Track: d
-Directory: d-deltarune
-Artists:
-- Toby Fox
-Duration: 0:06
-URLs:
-- https://www.youtube.com/watch?v=WyPD3YMhwnQ
 ---
 Track: DECEIT
 Artists:
@@ -437,15 +410,6 @@ Artists:
 Duration: 0:24
 URLs:
 - https://www.youtube.com/watch?v=cIvkdbhBnnc
----
-Track: findher
-Artists:
-- Toby Fox
-Duration: 1:17
-URLs:
-- https://www.youtube.com/watch?v=HCPw6QftCCI
-Referenced Tracks:
-- Lost Girl
 ---
 Track: Fly Away
 Duration: 3:18
@@ -907,22 +871,6 @@ Commentary: |-
     I only had the idea for the intro of the song, but it didn't feel like it fit too well.<br>
     So I only made forty seconds of it.
 ---
-Track: kris_piano_last_prophecy
-Artists:
-- Toby Fox
-Duration: 0:58
-URLs:
-- https://www.youtube.com/watch?v=SZftxqEwZ6E
-Referenced Tracks:
-- The Legend
----
-Track: kris_piano_sevenfour
-Artists:
-- Toby Fox
-Duration: 1:06
-URLs:
-- https://www.youtube.com/watch?v=DqbzExv7wNI
----
 Track: Luigi Puzzle 1
 Additional Names:
 - LuigisPicross2 (original filename)
@@ -974,21 +922,6 @@ Directory: magnetize-astro-kid
 Always Reference By Directory: true
 Artists:
 - Riki Tsuji (as Astro Kid)
----
-Track: man
-Directory: man-deltarune
-Always Reference By Directory: true
-# No official release, duration is from the in-game audio loop.
-Artists:
-- Toby Fox
-Duration: 0:11
-URLs:
-- https://www.youtube.com/watch?v=lEJpVwvKq1g
-Referenced Tracks:
-- waltz of seccom masada
-Commentary: |-
-    <i>Niklink:</i> (wiki editor, 8/6/2023)
-    Originally shared in a 2012 Tumblr post as part of several [[album:made-up-yume-nikkis|"made up yume nikkis"]] snippets where it was known as [["waltz of seccom masada"]].
 ---
 Track: Michael Bowman Remix
 Artists:
@@ -1279,11 +1212,15 @@ Commentary: |-
     (Also the name was inspired by Bravely Default because that's what makes it a true JRPG song.)
 ---
 Track: pianpian
+Directory: pianpian-spamton-sweepstakes
+Name Detail: Spamton Sweepstakes
 Artists:
 - Toby Fox
 Duration: 0:41
 URLs:
 - https://www.youtube.com/watch?v=_aVeVBPeYAc
+Referenced Tracks:
+- track:pianpian
 ---
 Track: Production Line of the Holy Clown
 Artists:
