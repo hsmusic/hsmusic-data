@@ -17556,6 +17556,8 @@ Lyrics: |-
     Bem bem
 ---
 Track: Baby Blue
+Directory: baby-blue-badfinger
+Always Reference By Directory: true
 Duration: 3:39
 Artists:
 - Badfinger
@@ -17590,6 +17592,17 @@ Lyrics: |-
     Let it grow
     The special love you have for me
     My Dixie dear
+---
+Track: BABY BLUE
+Directory: baby-blue-fishmans
+Always Reference By Directory: true
+Artists:
+- Fishmans
+Duration: 6:09
+URLs:
+- https://www.youtube.com/watch?v=1qLU1l2qXyo
+- https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF
+- https://music.apple.com/album/baby-blue/1416941115?i=1416941713
 ---
 Track: Backbone
 Artists:
