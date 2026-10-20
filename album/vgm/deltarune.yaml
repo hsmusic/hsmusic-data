@@ -449,7 +449,7 @@ Referenced Tracks:
 Track: man_2
 Duration: 0:26
 Referenced Tracks:
-- waltz of seccom masada
+- man
 ---
 Track: waltz of seccom masada (8 bit)
 Directory: man_nes
@@ -580,3 +580,343 @@ Track: statue2_level5
 Duration: 0:15
 Referenced Tracks:
 - statue2_level4
+---
+Track: stealth
+Duration: 1:31
+Referenced Tracks:
+- Lost Girl
+---
+Track: tenna_battle_guitar
+Duration: 2:45
+Referenced Tracks:
+- It’s TV Time!
+---
+Track: tenna_battle_preview
+Duration: 0:15
+Referenced Tracks:
+- tenna_battle_preview_crisp
+Sampled Tracks:
+- tenna_battle_preview_crisp
+---
+Track: tenna_battle_preview_crisp
+Duration: 0:15
+Referenced Tracks:
+- It’s TV Time!
+Sampled Tracks:
+- It’s TV Time!
+---
+Track: tinnitus
+Duration: 0:48
+---
+Track: tv_infrontof
+Duration: 0:05
+---
+Track: wet_tapdancing
+Duration: 0:09
+---
+Track: wet_tapdancing_failed
+Duration: 0:09
+Referenced Tracks:
+- wet_tapdancing
+Sampled Tracks:
+- wet_tapdancing
+---
+Track: wet_tapdancing2
+Duration: 0:09
+Referenced Tracks:
+- wet_tapdancing
+Sampled Tracks:
+- wet_tapdancing
+---
+Track: Danger Mystery
+Directory: mus_undynescary
+Additional Names:
+- mus_undynescary (file name)
+Duration: 0:14
+Main Release: UNDERTALE Soundtrack
+---
+Track: shadowman_sax_long_1
+Duration: 0:01
+---
+Track: shadowman_sax_long_2
+Duration: 0:01
+Referenced Tracks:
+- shadowman_sax_long_1
+---
+Track: shadowman_sax_long_3
+Duration: 0:01
+Referenced Tracks:
+- shadowman_sax_long_1
+---
+Track: shadowman_sax_long_4
+Duration: 0:01
+Referenced Tracks:
+- shadowman_sax_long_1
+---
+Track: shadowman_sax_long_solo_note
+Duration: 0:01
+---
+Track: snd_barrel_jump
+Duration: 0:01
+---
+Track: snd_bigscore
+Duration: 0:01
+---
+Track: snd_board_kill_ominous
+Duration: 0:01
+Referenced Tracks:
+- snd_board_ominous
+---
+Track: snd_board_mantle_move
+Duration: 0:01
+---
+Track: snd_board_mantle_unknown_a
+Duration: 0:01
+---
+Track: snd_board_mantle_unknown_b
+Duration: 0:01
+---
+Track: snd_board_ominous
+Duration: 0:01
+Referenced Tracks:
+- snd_ominous
+---
+Track: snd_board_secret_normal
+Duration: 0:03
+Referenced Tracks:
+- snd_link_secret
+---
+Track: snd_board_shine_get
+Duration: 0:01
+---
+Track: snd_board_shine_loop
+Duration: 0:01
+---
+Track: snd_board_text_main_end
+Duration: 0:01
+---
+Track: snd_clown_song
+Duration: 0:02
+Referenced Tracks:
+- Entrance of the Gladiators
+Sampled Tracks:
+- Entrance of the Gladiators ## specifically the one performed by the United States Marine Band embedded on https://en.wikipedia.org/wiki/Entrance_of_the_Gladiators https://en.wikipedia.org/wiki/File:Julius_Fu%C4%8D%C3%ADk's_%22Entrance_of_the_Gladiators%22,_performed_by_the_U.S._Marine_Band.oga
+---
+Track: snd_ftext_brother
+Duration: 0:02
+Referenced Tracks:
+- His Theme
+Sampled Tracks:
+- His Theme
+---
+Track: snd_ftext_dark_fountain
+Duration: 0:05
+Referenced Tracks:
+- Your Power
+Sampled Tracks:
+- Your Power
+---
+Track: snd_ftext_enter
+Duration: 0:02
+Main Release: track:snd_tenna_room_enter
+---
+Track: snd_ftext_susiezilla
+Duration: 0:02
+Referenced Tracks:
+- Vs. Susie
+Sampled Tracks:
+- Vs. Susie
+---
+Track: snd_ftext_toriel
+Duration: 0:01
+Referenced Tracks:
+- Fallen Down
+Sampled Tracks:
+- Fallen Down
+---
+Track: snd_ftext_vibraphones
+Duration: 0:02
+---
+Track: snd_link_get_key
+Duration: 0:12
+---
+Track: snd_link_secret
+Duration: 0:02
+Referenced Tracks:
+- Puzzle Solved (The Legend of Zelda)
+---
+Track: snd_link_secret_bad
+Duration: 0:02
+Referenced Tracks:
+- snd_link_secret
+---
+Track: snd_link_sfx_itemget
+Duration: 0:02
+---
+Track: snd_link_sfx_itemget_bad
+Duration: 0:02
+Referenced Tracks:
+- snd_link_sfx_itemget
+---
+Track: snd_nes_intro
+Duration: 0:03
+Referenced Tracks:
+- Board Clear
+---
+Track: snd_nes_nocontroller
+Duration: 0:01
+---
+Track: snd_shadowman_sax_1
+Duration: 0:02
+---
+Track: snd_shadowman_sax_2
+Duration: 0:01
+Referenced Tracks:
+- snd_shadowman_sax_1
+---
+Track: snd_shadowman_sax_3
+Duration: 0:01
+Referenced Tracks:
+- snd_shadowman_sax_1
+---
+Track: snd_shadowman_sax_long
+Duration: 0:03
+Referenced Tracks:
+- snd_shadowman_sax_1
+---
+Track: snd_trank
+Duration: 0:02
+Referenced Tracks:
+- KING OF ROLYPOLY
+Sampled Tracks:
+- KING OF ROLYPOLY
+---
+Track: snd_wet_tapdancing_elevator
+Duration: 0:09
+Referenced Tracks:
+- Long Elevator
+- wet_tapdancing
+Sampled Tracks:
+- wet_tapdancing
+---
+Track: snd_wet_tapdancing_elevator_long
+Duration: 0:13
+Referenced Tracks:
+- Long Elevator
+- snd_wet_tapdancing_elevator
+Sampled Tracks:
+- wet_tapdancing
+---
+Track: snd_act_perform
+Duration: 0:01
+Referenced Tracks:
+- From Now On (Battle 2)
+---
+Track: snd_act_perform_better
+Duration: 0:02
+Referenced Tracks:
+- snd_act_perform
+---
+Track: snd_dograce_countdown
+Duration: 0:06
+---
+Track: snd_harmonize_act_b
+Duration: 0:04
+---
+Track: snd_me_2
+Duration: 0:08
+Referenced Tracks:
+- me
+Sampled Tracks:
+- me
+---
+Track: snd_me3
+Duration: 0:08
+Referenced Tracks:
+- me
+Sampled Tracks:
+- me
+---
+Track: snd_mike_reset
+Duration: 0:04
+Main Release: track:snd_grandpatemi
+---
+Track: snd_songpreview_knockdown
+Duration: 0:02
+Referenced Tracks:
+- Knock You Down!! (Rhythm Ver.)
+Sampled Tracks:
+- Knock You Down!! (Rhythm Ver.)
+---
+Track: snd_songpreview_tenna
+Duration: 0:03
+Referenced Tracks:
+- It’s TV Time!
+Sampled Tracks:
+- It’s TV Time!
+---
+Track: snd_songpreview_video
+Duration: 0:04
+Referenced Tracks:
+- Raise Up Your Bat
+Sampled Tracks:
+- Raise Up Your Bat
+---
+Track: snd_tem_sing_1
+Duration: 0:04
+Contributors:
+- Temmie Chang
+Duration: 
+Referenced Tracks:
+- Don't Forget
+Lyrics: |-
+    When the light is running low
+---
+Track: snd_tem_sing_2
+Duration: 0:04
+Contributors:
+- Temmie Chang
+Duration: 
+Referenced Tracks:
+- Don't Forget
+Lyrics: |-
+    And the shadows start to grow
+---
+Track: snd_tem_sing_3
+Duration: 0:04
+Contributors:
+- Temmie Chang
+Duration: 
+Referenced Tracks:
+- Don't Forget
+Lyrics: |-
+    And the places that you know
+---
+Track: snd_tem_sing_4
+Duration: 0:04
+Contributors:
+- Temmie Chang
+Duration: 
+Referenced Tracks:
+- Don't Forget
+Lyrics: |-
+    Seem like fantasy
+---
+Track: snd_tenna_room_enter
+Duration: 0:02
+Referenced Tracks:
+- Feature Presentation
+Sampled Tracks:
+- Feature Presentation
+---
+Track: snd_tenna_room_exit
+Duration: 0:02
+Referenced Tracks:
+- Feature Presentation
+Sampled Tracks:
+- Feature Presentation
+---
+Track: snd_textnoise
+Directory: snd_textnoise-deltarune
+Duration: 0:01
+Main Release: UNDERTALE
