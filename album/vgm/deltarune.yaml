@@ -920,3 +920,88 @@ Track: snd_textnoise
 Directory: snd_textnoise-deltarune
 Duration: 0:01
 Main Release: UNDERTALE
+---
+Section: DELTARUNE Chapter 5 (release)
+---
+Track: snd_churchbell
+Date First Released: June 24, 2026
+Duration: 0:09
+Main Release: track:mus_churchbell
+---
+Track: 4rd_sanctuary_noguit
+Date First Released: June 24, 2026
+Duration: 1:19
+Referenced Tracks:
+- 4rd Sanctuary
+---
+Track: asgore_serious_drum_only_flowery_version
+Date First Released: June 24, 2026
+Duration: 0:16
+Referenced Tracks:
+- asgore_serious_drum_only_low
+- ch5_intro_audio
+Sampled Tracks:
+- asgore_serious_drum_only_low
+- ch5_intro_audio
+---
+Track: asgore_serious_drum_only_low
+Date First Released: June 24, 2026
+Duration: 0:16
+Referenced Tracks:
+- Flower King
+---
+Track: castle_intro
+Date First Released: June 24, 2026
+Duration: 0:26
+Referenced Tracks:
+- Violet Tactics
+---
+Track: ch5_intro_audio
+Date First Released: June 24, 2026
+Duration: 0:30
+Referenced Tracks:
+- Your Dad's Best Friend
+---
+Track: ch5_inversion_lake_chant
+Date First Released: June 24, 2026
+Duration: 0:11
+Referenced Tracks:
+- Festival
+Sampled Tracks:
+- Festival
+---
+Track: ch5_weird_monologue
+Date First Released: June 24, 2026
+Duration: 1:04
+Referenced Tracks:
+- Flashback
+Sampled Tracks:
+- Flashback
+---
+Track: ch5_weird_monologue_deep
+Date First Released: June 24, 2026
+Duration: 1:29
+Referenced Tracks:
+- ch5_weird_monologue
+Sampled Tracks:
+- ch5_weird_monologue
+---
+Track: cliff_jump_ambience_nowind
+Date First Released: June 24, 2026
+Duration: 0:24
+Referenced Tracks:
+- Flying Feather
+---
+Track: cowboy_song
+Date First Released: June 24, 2026
+Duration: 0:07
+---
+Track: deltarune_piano_collections_by_trevor_alan_gomes
+Date First Released: June 24, 2026
+Artists:
+- Trevor Alan Gomes
+Duration: 1:02
+Referenced Tracks:
+- track:scarlet-forest-piano-collections
+Sampled Tracks:
+- track:scarlet-forest-piano-collections
