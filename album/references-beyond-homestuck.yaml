@@ -47,6 +47,15 @@ Lyrics: |-
     I could tell you (Wake up)
     I could tell you (Wake up)
 ---
+Track: Annoying Dog PS4 Theme
+Artists:
+- Toby Fox
+Duration: 0:55
+URLs:
+- https://undertale.wiki/images/Annoying_Dog_PS4_Theme_music.ogg
+Referenced Tracks:
+- Dogsong
+---
 Track: Aya and Serenata
 Artists:
 - Adrian "gravitygauntlet" Wahrer
@@ -5565,6 +5574,16 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=gOmwwgZzbyc
 ---
+Track: Mr. Monokuma's Lesson
+# Reference:
+#   https://vgmdb.net/album/23469
+Duration: 3:46
+Artists:
+- Danganronpa
+- Masafumi Takada
+URLs:
+- https://www.youtube.com/watch?v=Rq7PkSBaUG8
+---
 Track: Mt. Blaze
 # Reference:
 #   https://vgmdb.net/product/8562
@@ -6124,20 +6143,6 @@ Artists:
 Duration: 1:12 #one loop
 URLs:
 - https://www.youtube.com/watch?v=ZiHTUIi68rs
----
-Track: "Re: Mr. Monokuma's Lesson"
-Duration: 3:45
-# JP: Re: モノクマ先生の授業
-# Official release:
-#   SUPER DANGANRONPA 2 ORIGINAL SOUNDTRACK
-#   スーパーダンガンロンパ2 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/34314
-Artists:
-- Danganronpa
-- Masafumi Takada
-URLs:
-- https://www.youtube.com/watch?v=Rq7PkSBaUG8
 ---
 Track: Recruitment Theme
 # Official release has this track as a medley of other in-game BGM at the end of an album mostly comprising arrangements; duration is from timestamps 41:33 to 42:07 on the album as a whole.
@@ -7798,6 +7803,14 @@ Lyrics: |-
     Yеs I still regret
     But I can't forget
     I am lost
+---
+Track: Yoshi Games ##also to be immediately transferred over once i go full vgm
+Artists:
+- Yoshi
+- Kazumi Totaka
+Duration: 2:02
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/7405971c-7a69-4c16-901a-0760f19f11bb
 ---
 Track: You Lost (F-ZERO)
 Artists:
@@ -42546,6 +42559,18 @@ Lyrics: |-
     'Cause I'm out when I'm stakin'
     And the rings I am breaking
     Are making you a personal debt
+---
+Track: Scarlet Forest
+Directory: scarlet-forest-piano-collections
+Always Reference By Directory: true
+Artists:
+- Trevor Alan Gomes
+Duration: 5:23
+URLs:
+- https://trevorgomes.bandcamp.com/track/scarlet-forest
+- https://www.youtube.com/watch?v=5QXn1SAvFtw
+Referenced Tracks:
+- Scarlet Forest
 ---
 Track: Scary Monsters And Nice Sprites
 Artists:

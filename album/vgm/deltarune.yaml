@@ -461,12 +461,10 @@ Main Release: made up yume nikkis
 Track: me
 Duration: 0:06
 ---
-Track: mus_confession
+Track: Confession
+Directory: mus_confession
 Duration: 0:20
-Referenced Tracks:
-- track:confession
-Sampled Tracks:
-- track:confession
+Main Release: track:confession-undertale
 ---
 Track: mus_knightthought
 Duration: 0:04
@@ -718,7 +716,7 @@ Sampled Tracks:
 ---
 Track: snd_ftext_enter
 Duration: 0:02
-Main Release: track:snd_tenna_room_enter
+Main Release: snd_tenna_room_enter
 ---
 Track: snd_ftext_susiezilla
 Duration: 0:02
@@ -761,7 +759,7 @@ Referenced Tracks:
 Track: snd_nes_intro
 Duration: 0:03
 Referenced Tracks:
-- Board Clear
+- Board Clear!
 ---
 Track: snd_nes_nocontroller
 Duration: 0:01
@@ -839,7 +837,7 @@ Sampled Tracks:
 ---
 Track: snd_mike_reset
 Duration: 0:04
-Main Release: track:snd_grandpatemi
+Main Release: snd_grandpatemi
 ---
 Track: snd_songpreview_knockdown
 Duration: 0:02
@@ -866,7 +864,6 @@ Track: snd_tem_sing_1
 Duration: 0:04
 Contributors:
 - Temmie Chang (singing)
-Duration: 
 Referenced Tracks:
 - Don't Forget
 Lyrics: |-
@@ -876,7 +873,6 @@ Track: snd_tem_sing_2
 Duration: 0:04
 Contributors:
 - Temmie Chang (singing)
-Duration: 
 Referenced Tracks:
 - Don't Forget
 Lyrics: |-
@@ -886,7 +882,6 @@ Track: snd_tem_sing_3
 Duration: 0:04
 Contributors:
 - Temmie Chang (singing)
-Duration: 
 Referenced Tracks:
 - Don't Forget
 Lyrics: |-
@@ -896,7 +891,6 @@ Track: snd_tem_sing_4
 Duration: 0:04
 Contributors:
 - Temmie Chang (singing)
-Duration: 
 Referenced Tracks:
 - Don't Forget
 Lyrics: |-
@@ -926,7 +920,7 @@ Section: DELTARUNE Chapter 5 (release)
 Track: snd_churchbell
 Date First Released: June 24, 2026
 Duration: 0:09
-Main Release: track:mus_churchbell
+Main Release: mus_churchbell
 ---
 Track: 4rd_sanctuary_noguit
 Date First Released: June 24, 2026
@@ -1005,3 +999,146 @@ Referenced Tracks:
 - track:scarlet-forest-piano-collections
 Sampled Tracks:
 - track:scarlet-forest-piano-collections
+---
+Track: dog_balloon
+Date First Released: June 24, 2026
+Duration: 0:44
+Referenced Tracks:
+- Annoying Dog PS4 Theme
+- Yoshi Games
+---
+Track: dogroom
+Date First Released: June 24, 2026
+Duration: 0:36
+Main Release: mus_dogroom
+---
+Track: flowery_iog
+Date First Released: June 24, 2026
+Duration: 0:19
+#Referenced Tracks:
+#- Your Dad's Best Friend (and point "extended" Dreamwatchers to this track)
+---
+Track: happy_town
+Date First Released: June 24, 2026
+Duration: 2:13
+Referenced Tracks:
+- A Town Called Hometown
+---
+Track: inukuma_wip
+Date First Released: June 24, 2026
+Duration: 0:26
+Referenced Tracks:
+- Mr. Monokuma's Lesson
+- Dogsong
+---
+Track: kikky_upgrade
+Date First Released: June 24, 2026
+Duration: 0:15
+---
+Track: meeting_flower_orange_highpitch
+Date First Released: June 24, 2026
+Duration: 0:40
+Referenced Tracks:
+- I'm Telling!
+Sampled Tracks:
+- I'm Telling!
+---
+Track: meeting_flower_upbeat_drum
+Date First Released: June 24, 2026
+Duration: 0:45
+Referenced Tracks:
+- Who might you be?
+---
+Track: Dating Fight!
+Directory: mus_date_fight
+Date First Released: June 24, 2026
+Duration: 0:34
+Main Release: UNDERTALE Soundtrack
+---
+Track: Dating Tense!
+Directory: mus_date_tense
+Date First Released: June 24, 2026
+Duration: 0:26
+Main Release: UNDERTALE Soundtrack
+---
+Track: pink_theme_mad
+Date First Released: June 24, 2026
+Duration: 0:19
+Referenced Tracks:
+- Pink
+Sampled Tracks:
+- Pink
+---
+Track: rhythm_3rd_sanctuary_guit
+Date First Released: June 24, 2026
+Duration: 3:29
+Referenced Tracks:
+- rhythm_3rd_sanctuary_noguit
+Sampled Tracks:
+- rhythm_3rd_sanctuary_noguit
+---
+Track: rhythm_3rd_sanctuary_noguit
+Date First Released: June 24, 2026
+Duration: 3:29
+Referenced Tracks:
+- The Third Sanctuary
+Sampled Tracks:
+- The Third Sanctuary
+---
+Track: snd_feather_get
+Date First Released: June 24, 2026
+Duration: 0:04
+Referenced Tracks:
+- Sunset of Seven Suns
+---
+Track: snd_feather_get_secondpart
+Date First Released: June 24, 2026
+Duration: 0:07
+Referenced Tracks:
+- Flying Feather
+---
+Track: snd_flowery_joined
+Date First Released: June 24, 2026
+Duration: 0:04
+Referenced Tracks:
+- charjoined
+---
+Track: snd_ominous_hell
+Date First Released: June 24, 2026
+Duration: 0:02
+Referenced Tracks:
+- snd_ominous
+Sampled Tracks:
+- snd_ominous
+---
+Track: snd_ominous_hell_super
+Date First Released: June 24, 2026
+Duration: 0:05
+Referenced Tracks:
+- snd_ominous_hell
+Sampled Tracks:
+- snd_ominous_hell
+---
+Track: snd_pink_stretch_2_fixed
+Date First Released: June 24, 2026
+Duration: 0:31
+Referenced Tracks:
+- Cutie Mew Mew Magic
+Sampled Tracks:
+- Cutie Mew Mew Magic
+---
+Track: snd_pink_stretch_2_troubled
+Date First Released: June 24, 2026
+Duration: 0:31
+Referenced Tracks:
+- snd_pink_stretch_2_fixed
+Sampled Tracks:
+- snd_pink_stretch_2_fixed
+---
+Track: snd_songpreview_4rd
+Date First Released: June 24, 2026
+Duration: 0:03
+Referenced Tracks:
+- 4rd Sanctuary
+Sampled Tracks:
+- 4rd Sanctuary
