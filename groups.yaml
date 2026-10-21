@@ -1407,9 +1407,13 @@ Series:
   - Super Mario Bros.
   - Super Mario Bros. 2
   - Super Mario Bros. 3
+  - Super Mario World 2: Yoshi's Island
 - Name: Mario Kart
   Albums:
   - Super Mario Kart
+- Name: Other Super Mario games
+  Albums:
+  - Hotel Mario
 ---
 Group: Touhou Project
 Series:
@@ -1440,3 +1444,5 @@ Series:
 ---
 Group: More standalone video games
 Directory: more-vgm
+---
+Group: Yoshi

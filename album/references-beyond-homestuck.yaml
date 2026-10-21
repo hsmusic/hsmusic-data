@@ -2247,17 +2247,6 @@ Duration: 2:42
 URLs:
 - https://www.youtube.com/watch?v=uZEvlslq-kQ
 ---
-Track: "Athletic BGM (Super Mario World 2: Yoshi's Island)"
-Directory: athletic-bgm-yoshis-island
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 2:10
-URLs:
-- https://www.youtube.com/watch?v=oKJ2EZnnZRE
-- https://m.nintendo.com/shared/en-US/US/tracks/91372f53-f0f6-4114-a732-f2ec84d55aba
----
 Track: Awake
 Directory: awake-castlevania
 # Reference:
@@ -3909,18 +3898,6 @@ URLs:
 Referenced Tracks:
 - Meet the Flintstones
 ---
-Track: Flower Field BGM
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 2:53
-URLs:
-- https://www.youtube.com/watch?v=DTpksvCC-hg
-- https://m.nintendo.com/shared/en-US/US/tracks/b2cb2d99-5b44-4dc5-8e4f-0b7b8042f375
----
 Track: Forest World
 # Reference:
 #   https://vgmdb.net/album/6177
@@ -4259,19 +4236,6 @@ Artists:
 #URLs:
 #-
 ---
-Track: "Goal! (Super Mario World 2: Yoshi's Island)"
-Directory: goal-yoshis-island
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 0:49
-URLs:
-- https://www.youtube.com/watch?v=u1pHkjyuWKU
-- https://m.nintendo.com/shared/en-US/US/tracks/0436e7b2-9633-4888-a5c7-67fd69762080
----
 Track: Gobi's Valley
 # Reference:
 #   https://vgmdb.net/album/48423
@@ -4578,14 +4542,6 @@ Artists:
 Duration: 4:42
 URLs:
 - https://www.youtube.com/watch?v=gg7xUQWZU_o
----
-Track: Hotel Mario
-# No official release
-Artists:
-- Super Mario
-- Max Steiner
-URLs:
-- https://www.youtube.com/watch?v=28ZcsyOayLM
 ---
 Track: How to Play
 Directory: how-to-play-melee
@@ -6862,19 +6818,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=YGBJAmTDKYI
 ---
-Track: "Stage Start (Super Mario World 2: Yoshi's Island)"
-Directory: stage-start-yoshis-island
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 0:02
-URLs:
-- https://www.youtube.com/watch?v=CcTEpaL_GVc
-- https://m.nintendo.com/shared/en-US/US/tracks/0665ee1a-8876-4d35-b4b2-2797752f273e
----
 Track: Starker (Tower BGM)
 # Reference:
 #   https://vgmdb.net/album/12153
@@ -7391,19 +7334,6 @@ Artists:
 Duration: 1:59
 URLs:
 - https://www.youtube.com/watch?v=8SnXrTiynHM
----
-Track: "Underground BGM (Super Mario World 2: Yoshi's Island)"
-Directory: underground-bgm-yoshis-island
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 1:45
-URLs:
-- https://www.youtube.com/watch?v=tnYYq41fCjs
-- https://m.nintendo.com/shared/en-US/US/tracks/5fd7db93-8944-4443-8193-ecf28f0e6f09
 ---
 Track: Underworld Theme
 Artists:
