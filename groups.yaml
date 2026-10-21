@@ -240,7 +240,7 @@ Series:
   Albums:
   - Midnight Jungle - 『真夜中のジャングル』
   - 'MIDNIGHT JUNGLE TYPE 1.5: VERTIGO ZONE - 真夜中のジャングル『目眩ゾーン』'
-- Name: RAKKA
+- Name: PROJECT RAKKA
   Albums:
   - RAKKA Vol. 1 ALTIMINTAK
   - RAKKA Vol. 2 THE SURGES
@@ -778,6 +778,7 @@ Series:
   - The Greatest Living Show
   - DELTARUNE Chapters 3+4 OST
   - DELTARUNE Soundtrack
+  - DELTARUNE Chapter 5 OST
 - Name: Noted contributions
   Show Album Artists: all
   Albums:
@@ -814,6 +815,7 @@ Series:
   - Soul of Sovereignty Prelude OST
   - DELTARUNE Chapters 3+4 OST
   - DELTARUNE Soundtrack
+  - DELTARUNE Chapter 5 OST
 - Name: Fan-compiled soundtracks
   Albums:
   - Earthbound Halloween Hack
@@ -846,6 +848,7 @@ Series:
   - album:deltarune-ch3-status-update
   - album:deltarune-ch2-rejected-tracks
   - album:undertale-deltarune-newsletter-winter-2025
+  - album:deltarune-ch5-thoughts
 - Name: With Itoki Hana
   Show Album Artists: all
   Albums:
@@ -1216,6 +1219,26 @@ Description: |-
     <hr class="split">
     One of many webcomics drawing early inspiration from Homestuck and the MSPA format, Oceanfalls stands out for being a totally distinct story from the world of Homestuck and SBURB, and it has its own community of fan musicians and artists contributing to its album-spanning soundtrack!
 ---
+Group: PROJECT RAKKA
+URLs:
+- https://store.steampowered.com/curator/45653034
+- https://www.theparadoxmusicteam.com/rakka
+Description: |-
+    "A homage to the gritty fiction of the ’90s. “RAKKA: WAKE 01 - SOOT” unfolds as an episodic, linear visual novel that blends paper-cut style comics, animation, music and dialogue into a slow-burn mystery thriller that dares you to dig deeper — even when you really, really shouldn’t."
+    <hr class="split">
+    "Rakka distinguishes itself with its breadth of hand-drawn assets, detailed backgrounds, charming character art, and unique paper-cut style. Complimented by the art is the incredible original soundtrack; spearheaded by the minds behind [[group:the-paradox-music-team|The PMT]], it oozes indie charm. Both serve in tandem, dragging the player into the character and dialogue driven world of Rakka. Think you can make it to its thrilling conclusion?"
+    [Description via the official site.](https://www.theparadoxmusicteam.com/rakka)
+Series:
+- Name: Albums
+  Albums:
+  - RAKKA Vol. 1 ALTIMINTAK
+  - RAKKA Vol. 2 THE SURGES
+  - 'RAKKA: WAKE 01 - SOOT (Original Soundtrack)'
+- Name: Singles
+  Albums:
+  - 'RAKKA: SP1 - OUTSIDE 2'
+  - 'RAKKA: WAKE 01 Opening - ME!'
+---
 Group: Psycholonials
 URLs:
 - https://psycholonials.bandcamp.com/
@@ -1284,6 +1307,7 @@ Series:
   - DELTARUNE Chapter 1 OST
   - DELTARUNE Chapter 2 OST
   - DELTARUNE Chapters 3+4 OST
+  - DELTARUNE Chapter 5 OST
 - Name: Newsletter clippings
   Albums:
   - album:unused-undertale-songs
@@ -1292,7 +1316,7 @@ Series:
   - album:deltarune-ch2-rejected-tracks
   - album:undertale-deltarune-newsletter-winter-2025
 ---
-Category: VIDEO GAMES!!!
+Category: Video game franchises
 Exclude Groups From Other Group Album Summaries: true
 Color: '#f5fc8e'
 ---
