@@ -1335,6 +1335,15 @@ Group: Chrono
 Group: Dark Souls
 ---
 Group: Donkey Kong
+Series:
+- Name: Donkey Kong
+  Albums:
+  - Donkey Kong
+  - Donkey Kong Jr.
+#- Name: Donkey Kong Country
+#  Albums:
+#  - Donkey Kong Country
+#  - Donkey Kong Country 2: Diddy's Kong Quest
 ---
 Group: The Elder Scrolls
 ---
@@ -1436,6 +1445,10 @@ Series:
   Albums:
   - Hotel Mario
   - Mario's Super Picross
+- Name: Super Mario-related games
+  Albums:
+  - Donkey Kong
+  - Donkey Kong Jr.
 ---
 Group: Touhou Project
 Series:
