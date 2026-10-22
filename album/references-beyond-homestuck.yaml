@@ -7019,30 +7019,6 @@ Duration: 1:12
 URLs:
 - https://www.youtube.com/watch?v=weB1XprepU4
 ---
-Track: Title Theme (Humming) [Luigi's Mansion]
-# Reference:
-#   https://vgmdb.net/album/533
-Artists:
-- Super Mario
-- Kazumi Totaka
-Contributors:
-- Charles Martinet (voice)
-Duration: 1:59
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/fe90ccfc-c862-4059-a8e8-a3f33bdcc8fc
-- https://www.youtube.com/watch?v=dM3Swv9s2kQ
----
-Track: Title Theme (Luigi's Mansion)
-Artists:
-- Super Mario
-- Kazumi Totaka
-Duration: 0:25
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/e048fb04-a54d-41f6-a122-a2856209b84b
-- https://www.youtube.com/watch?v=nwiPbcLUsEg
-Referenced Tracks:
-- Title Theme (Humming) [Luigi's Mansion]
----
 Track: Title Theme (The Legend of Zelda)
 Artists:
 - The Legend of Zelda
@@ -7145,27 +7121,6 @@ URLs:
 - https://www.youtube.com/watch?v=QiKmvrLiu3Y
 Referenced Tracks:
 - Main Menu (Wii Fit)
----
-Track: 'Training Room: Second Half'
-Artists:
-- Super Mario
-- Kazumi Totaka
-Duration: 2:34
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/d95e079a-27c7-4582-b48f-c24ed2d19abd
-- https://www.youtube.com/watch?v=ttgQqiv72AY
-Crediting Sources: |-
-    <i>Quasar Nebula:</i> (wiki editor, 4/12/2025)
-
-    Originally credited on-wiki to both [[artist:kazumi-totaka]] and [[artist:shinobu-tanaka]] with an internal comment in the data file.
-
-    <i>ruby:</i> (wiki editor, data file internal comment, 2/6/2024)
-
-    [[artist:kazumi-totaka|Kazumi Totaka]] and [[artist:shinobu-tanaka|Shinobu Tanaka]] are both listed in the credits of Luigi's Mansion. It is unknown who made this track.
-
-    <i>ruby:</i> (wiki editor, [Nintendo Music fix-ups pull request](https://github.com/hsmusic/hsmusic-data/pull/732), 4/8/2025)
-
-    updated credits come from research into the game's sound banks, I could share a link later, when the full research's been shared somewhere
 ---
 Track: Treasure Trove Cove
 # Reference:
