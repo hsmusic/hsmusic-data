@@ -47,6 +47,15 @@ Lyrics: |-
     I could tell you (Wake up)
     I could tell you (Wake up)
 ---
+Track: Annoying Dog PS4 Theme
+Artists:
+- Toby Fox
+Duration: 0:55
+URLs:
+- https://undertale.wiki/images/Annoying_Dog_PS4_Theme_music.ogg
+Referenced Tracks:
+- Dogsong
+---
 Track: Aya and Serenata
 Artists:
 - Adrian "gravitygauntlet" Wahrer
@@ -86,15 +95,6 @@ Artists:
 Duration: 1:59
 URLs:
 - https://witchscadence.bandcamp.com/track/beneath-the-brambles
----
-Track: berdly_battle_heartbeat_true
-Artists:
-- Toby Fox
-Duration: 0:17
-URLs:
-- https://www.youtube.com/watch?v=wgpS6UzTIvU
-Referenced Tracks:
-- Smart Race
 ---
 Track: Beta Gym Theme
 Artists:
@@ -215,24 +215,6 @@ Commentary: |-
 
     Longer, more crystally. Tempo tricks, instrumentation at its best. Apocalyptic feeling too
 ---
-Track: cybercity_alt
-# No official release, duration is from the in-game audio loop.
-Artists:
-- Toby Fox
-Duration: 2:22
-URLs:
-- https://www.youtube.com/watch?v=WyPD3YMhwnQ
-Referenced Tracks:
-- WELCOME TO THE CITY
----
-Track: d
-Directory: d-deltarune
-Artists:
-- Toby Fox
-Duration: 0:06
-URLs:
-- https://www.youtube.com/watch?v=WyPD3YMhwnQ
----
 Track: DECEIT
 Artists:
 - GITGOT
@@ -315,17 +297,6 @@ Artists:
 - Caelan Kier
 URLs:
 - https://www.youtube.com/watch?v=2EY8orJRs14
----
-Track: Dog Check
-Artists:
-- Toby Fox
-Duration: 0:41
-URLs:
-- https://www.youtube.com/watch?v=bDDhYZCsdPo
-Referenced Tracks:
-- Dogsong
-- Once Upon a Time
-- Game Main Theme (Piano Sketch)
 ---
 Track: dream diary
 Additional Names:
@@ -449,14 +420,14 @@ Duration: 0:24
 URLs:
 - https://www.youtube.com/watch?v=cIvkdbhBnnc
 ---
-Track: findher
+Track: Flashback
 Artists:
 - Toby Fox
-Duration: 1:17
-URLs:
-- https://www.youtube.com/watch?v=HCPw6QftCCI
 Referenced Tracks:
-- Lost Girl
+- THE HOLY
+Commentary: |- ##its like some king of penumbra phantasm
+    <i>ruby:</i> (wiki editor, 10/20/2026)
+    this is a track that has been alluded to in DELTARUNE but hasn't been revealed itself yet. currently it is here for a chain of references but it is expected it will appear on the DELTARUNE soundtrack at some point.
 ---
 Track: Fly Away
 Duration: 3:18
@@ -580,18 +551,6 @@ Commentary: |-
     it's a proven working method, like how to summon [[artist:ryan-north|ryan north]] you need to go back in time and save the dinosaurs
 
     <small>#casual sex #bread makes you fat</small>
----
-Track: Gaster's Theme
-Artists:
-- Toby Fox
-Duration: 0:17
-URLs:
-- https://www.youtube.com/watch?v=IsOYJPZpHbw
-- https://undertale.wiki/w/File:Gaster's_Theme_music.ogg
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor, 8/24/2025)
-
-    Not released on any soundtrack album. This track name is from [the in-game sound test room](https://www.youtube.com/watch?v=8oaZF3K7QXg); in the game files it's <code class="filename">mus_st_him.ogg</code>.
 ---
 Track: girl you need a shot of b12
 Duration: 1:19
@@ -930,22 +889,6 @@ Commentary: |-
     I only had the idea for the intro of the song, but it didn't feel like it fit too well.<br>
     So I only made forty seconds of it.
 ---
-Track: kris_piano_last_prophecy
-Artists:
-- Toby Fox
-Duration: 0:58
-URLs:
-- https://www.youtube.com/watch?v=SZftxqEwZ6E
-Referenced Tracks:
-- The Legend
----
-Track: kris_piano_sevenfour
-Artists:
-- Toby Fox
-Duration: 1:06
-URLs:
-- https://www.youtube.com/watch?v=DqbzExv7wNI
----
 Track: Luigi Puzzle 1
 Additional Names:
 - LuigisPicross2 (original filename)
@@ -997,21 +940,6 @@ Directory: magnetize-astro-kid
 Always Reference By Directory: true
 Artists:
 - Riki Tsuji (as Astro Kid)
----
-Track: man
-Directory: man-deltarune
-Always Reference By Directory: true
-# No official release, duration is from the in-game audio loop.
-Artists:
-- Toby Fox
-Duration: 0:11
-URLs:
-- https://www.youtube.com/watch?v=lEJpVwvKq1g
-Referenced Tracks:
-- waltz of seccom masada
-Commentary: |-
-    <i>Niklink:</i> (wiki editor, 8/6/2023)
-    Originally shared in a 2012 Tumblr post as part of several [[album:made-up-yume-nikkis|"made up yume nikkis"]] snippets where it was known as [["waltz of seccom masada"]].
 ---
 Track: Michael Bowman Remix
 Artists:
@@ -1093,22 +1021,6 @@ URLs:
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 6/10/2024)
     Unofficial name. Short loop from [[flash:chelsea-examine-room]].
----
-Track: mus_smile
-# No official release, duration is from the in-game audio loop.
-Artists:
-- Toby Fox
-Duration: 1:19
-URLs:
-- https://www.youtube.com/watch?v=osUNwI2SiUQ
----
-Track: mus_star
-# No official release, duration is from the in-game audio loop.
-Artists:
-- Toby Fox
-Duration: 0:45
-URLs:
-- https://www.youtube.com/watch?v=sCOzuO2EsQQ
 ---
 Track: My Hibernation
 Directory: my-hibernation-original
@@ -1318,11 +1230,15 @@ Commentary: |-
     (Also the name was inspired by Bravely Default because that's what makes it a true JRPG song.)
 ---
 Track: pianpian
+Directory: pianpian-spamton-sweepstakes
+Name Detail: Spamton Sweepstakes
 Artists:
 - Toby Fox
 Duration: 0:41
 URLs:
 - https://www.youtube.com/watch?v=_aVeVBPeYAc
+Referenced Tracks:
+- track:pianpian
 ---
 Track: Production Line of the Holy Clown
 Artists:
@@ -1382,14 +1298,6 @@ Artists:
 Duration: 3:28
 URLs:
 - https://nightslights.bandcamp.com/track/refulgence-of-regality
----
-Track: Room of Dog
-# No official release, duration is from the in-game audio loop.
-Artists:
-- 'Toby Fox'
-Duration: 0:35
-URLs:
-- https://www.youtube.com/watch?v=grGnVeKCcvc
 ---
 Track: Seinfeld X
 Artists:
@@ -1461,6 +1369,18 @@ Referenced Tracks:
 URLs:
 - https://www.youtube.com/watch?v=EOA5M74kv5k
 - https://soundcloud.com/jamesroachmusic/spider-dance-from-undertale-but-its-ska-i-guess-yikes
+---
+Track: The Sunset of 7 Suns
+Artists:
+- Toby Fox
+URLs:
+- https://twitter.com/tobyfox/status/2068870200846676248
+- https://bsky.app/profile/undertale.com/post/3mottfwdwnc2o
+Commentary: |-
+    <i>Toby Fox:</i>
+    10 years ago I made a song that sounded like this.<br>
+    It's called "The Sunset of 7 Suns."<br>
+    This is the hope for Chapter 5 from 10 years ago.<br>
 ---
 Track: Super Killer Robot
 Artists:
@@ -1736,19 +1656,6 @@ URLs:
 Commentary: |-
     <i>Svix:</i> ([FurAffinity](https://www.furaffinity.net/view/4092044/))
     A fairly simple, pleasant piece to get me back into making music for the Summer. Hopefully if you liked [[track:the-fox-cub]] you should enjoy this. I wonder where that little fox has found himself now?
----
-Track: Wrong Number Song
-Artists:
-- Toby Fox
-Duration: 0:06
-URLs:
-- https://www.youtube.com/watch?v=Tuhv3w4BmS0
-- https://undertale.wiki/w/File:Wrong_number_song_music.ogg
-Lyrics: |-
-    Oh it's the wrong number! The wrong number song!
-    We're very very sorry that we got it wrong!
-    Oh it's the wrong number! The wrong number song!
-    We're very very sorry that we got it wrong!
 ---
 Track: Your Bed
 Artists:
@@ -5679,6 +5586,16 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=gOmwwgZzbyc
 ---
+Track: Mr. Monokuma's Lesson
+# Reference:
+#   https://vgmdb.net/album/23469
+Duration: 3:46
+Artists:
+- Danganronpa
+- Masafumi Takada
+URLs:
+- https://www.youtube.com/watch?v=Rq7PkSBaUG8
+---
 Track: Mt. Blaze
 # Reference:
 #   https://vgmdb.net/product/8562
@@ -6186,6 +6103,15 @@ Lyrics: |-
     Fire! Fire! Psycho Soldier
 
 ---
+Track: Puzzle Solved ##im gonna get rid of this one and move it to vgm on another branch anyways lmao
+Name Detail: The Legend of Zelda
+Artists:
+- The Legend of Zelda
+- Koji Kondo
+Duration: 0:03
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/a328d73d-6893-4c21-99d0-4316aaf2eb51
+---
 Track: Puzzles
 # JP: 謎
 # Official releases:
@@ -6229,20 +6155,6 @@ Artists:
 Duration: 1:12 #one loop
 URLs:
 - https://www.youtube.com/watch?v=ZiHTUIi68rs
----
-Track: "Re: Mr. Monokuma's Lesson"
-Duration: 3:45
-# JP: Re: モノクマ先生の授業
-# Official release:
-#   SUPER DANGANRONPA 2 ORIGINAL SOUNDTRACK
-#   スーパーダンガンロンパ2 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/34314
-Artists:
-- Danganronpa
-- Masafumi Takada
-URLs:
-- https://www.youtube.com/watch?v=Rq7PkSBaUG8
 ---
 Track: Recruitment Theme
 # Official release has this track as a medley of other in-game BGM at the end of an album mostly comprising arrangements; duration is from timestamps 41:33 to 42:07 on the album as a whole.
@@ -7903,6 +7815,14 @@ Lyrics: |-
     Yеs I still regret
     But I can't forget
     I am lost
+---
+Track: Yoshi Games ##also to be immediately transferred over once i go full vgm
+Artists:
+- Yoshi
+- Kazumi Totaka
+Duration: 2:02
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/7405971c-7a69-4c16-901a-0760f19f11bb
 ---
 Track: You Lost (F-ZERO)
 Artists:
@@ -16475,6 +16395,16 @@ Commentary: |-
     Original title is "山の音楽家" (lit. Mountain Musicians). The earliest known version was played on Japanese public broadcaster NHK from April-May 1964, however the URL is for a different cover of the song. The provided lyrics are for the linked version as well.
 ---
 Section: Other music originating outside Homestuck
+---
+Track: "【DELTARUNE】Rude Buster Keyboard Cover (60min Extended)"
+Directory: rude-buster-rakuichi-extended
+Artists:
+- rakuichi
+Duration: 59:54
+URLs:
+- https://www.youtube.com/watch?v=55mi11zAbUI
+Referenced Tracks:
+- track:rude-buster-rakuichi
 ---
 Track: '1-800-WORSHIP'
 Duration: 4:31
@@ -25797,6 +25727,50 @@ Lyrics: |-
     Fever when you hold me tight
     Fever (Fever, burn through) in the mornin'
     And fever all through the night
+---
+Track: Field of Hopes and Dreams
+Directory: field-of-hopes-and-dreams-insaneintherainmusic
+Always Reference By Directory: true
+Additional Names:
+- Name: >-
+    DELTARUNE: Field of Hopes and Dreams Jazz Cover
+  Annotation: >-
+    [YouTube](https://www.youtube.com/watch?v=kSU0w7KwRIw)
+Artists:
+- Carlos Eiene
+Duration: 6:41
+URLs:
+- https://www.youtube.com/watch?v=kSU0w7KwRIw
+- https://open.spotify.com/track/6xDKTSOVry6rqo0BAAONv3
+- https://music.apple.com/song/field-of-hopes-and-dreams/1482832168
+Referenced Tracks:
+- Field of Hopes and Dreams
+- Once Upon a Time
+Lyrics: |-
+    When the light is running low
+    And the shadows start to grow
+    And the places that you know
+    Seem like fantasy
+
+    There's a light inside your soul
+    That’s still shining in the cold
+    With the truth
+    The promise in our hearts
+
+    Don't forget
+    I'm with you in the dark
+---
+Track: Field of Hopes and Dreams
+Directory: field-of-hopes-and-dreams-piano-collections
+Always Reference By Directory: true
+Artists:
+- Trevor Alan Gomes
+Duration: 3:31
+URLs:
+- https://trevorgomes.bandcamp.com/track/field-of-hopes-and-dreams
+- https://www.youtube.com/watch?v=nRytdEYinYI
+Referenced Tracks:
+- Field of Hopes and Dreams
 ---
 Track: Field of Hopes and Dreams | DnB Remix
 Directory: field-of-hopes-and-dreams-dnb-spad3s
@@ -42194,6 +42168,16 @@ Lyrics: |-
 URLs:
 - https://www.youtube.com/watch?v=5JN2blqeUOQ
 ---
+Track: 'Rude Buster "Deltarune" Keyboard cover'
+Directory: rude-buster-rakuichi
+Artists:
+- rakuichi
+Duration: 1:47
+URLs:
+- https://www.youtube.com/watch?v=wGtv-NH2XTQ
+Referenced Tracks:
+- Rude Buster
+---
 Track: Run Away
 Artists:
 - SunStroke Project
@@ -42664,6 +42648,18 @@ Lyrics: |-
     'Cause I'm out when I'm stakin'
     And the rings I am breaking
     Are making you a personal debt
+---
+Track: Scarlet Forest
+Directory: scarlet-forest-piano-collections
+Always Reference By Directory: true
+Artists:
+- Trevor Alan Gomes
+Duration: 5:23
+URLs:
+- https://trevorgomes.bandcamp.com/track/scarlet-forest
+- https://www.youtube.com/watch?v=5QXn1SAvFtw
+Referenced Tracks:
+- Scarlet Forest
 ---
 Track: Scary Monsters And Nice Sprites
 Artists:
