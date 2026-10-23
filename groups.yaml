@@ -1258,7 +1258,7 @@ URLs:
 Description: |-
     <i>"A game where music is illegal - and you do crimes"</i>
     <hr class="split">
-    "Unbeatable is a stunning hand-drawn anime inspired rhythm adventure game. Experience what it means to be a band on the run - music is illegal in this world, but you won’t let that stop you."
+    "UNBEATABLE is a stunning hand-drawn anime inspired rhythm adventure game. Experience what it means to be a band on the run - music is illegal in this world, but you won’t let that stop you."
 Series:
 - Name: Albums
   Albums:
@@ -1266,11 +1266,14 @@ Series:
   - 'UNBEATABLE: OFF-BEATS'
   - ALBUM.
   - unbeatable [ost]
+  - BREAKOUT
+  #- The Jamie Paige Content Companion's Official Companion Content
 - Name: Singles
   Albums:
   - FUTURE PEOPLE
   - SLEEPING IN
   - IT'S TIME TO CRIME
+  - MOON CHILD
 ---
 Group: UNDERTALE & DELTARUNE
 URLs:
@@ -1363,6 +1366,8 @@ Group: The Legend of Zelda
 Group: Megami Tensei
 ---
 Group: Metal Gear
+---
+Group: Moon Child
 ---
 Group: Mother
 ---

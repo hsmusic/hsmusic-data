@@ -408,6 +408,8 @@ Artist: Albert Hague
 ---
 Artist: Alec Holowka
 ---
+Artist: Alejandro Espinosa
+---
 Artist: Alex Amlie-Wolf
 Aliases:
 - Nicholas Masso
@@ -3184,8 +3186,11 @@ URLs:
 ---
 Artist: Clara Loh
 ---
-Artist: Clara Maddux
+Artist: clara maddux
+Aliases:
+- postergirlxoxo
 URLs:
+- https://postergirlxoxo.bandcamp.com/
 - https://bsky.app/profile/postergirlxoxo.bsky.social
 - https://twitter.com/postergirlxoxo
 ---
@@ -3811,8 +3816,10 @@ Artist: The D
 Artist: D-CELL GAMES
 URLs:
 - https://bsky.app/profile/dcellgames.com
-- https://www.youtube.com/@DCELLSTUDIOS
+- https://www.youtube.com/@DCELLGAMES
 - https://twitter.com/dcellgames
+Dead URLs:
+- https://www.youtube.com/@DCELLSTUDIOS
 ---
 Artist: D-CELL SOUND TEAM
 Context Notes: |-
@@ -3821,6 +3828,8 @@ Context Notes: |-
     [[artist:rj-lake|rj lake]] - music direction, production, composition<br>
     [[artist:clara-maddux|clara maddux]] - composition, arrangement, lead performer<br>
     [[artist:vasily-nikolaev|vasily nikolaev]] - composition, arrangement, mastering
+URLs:
+- https://dcellgames.bandcamp.com/
 ---
 Artist: D. Crystal
 ---
@@ -4004,6 +4013,16 @@ URLs:
 - https://rufiozuko.tumblr.com/
 - https://www.youtube.com/@thedantebasco/
 - https://twitter.com/dantebasco
+---
+Artist: dante gofar
+Aliases:
+- SoundCirclet
+URLs:
+- https://www.soundcirclet.net/
+- https://soundcirclet.bandcamp.com/
+- https://www.youtube.com/channel/UC95Xopdv7f_L2AbfE-VMuxA
+- https://bsky.app/profile/soundcirclet.net
+- https://twitter.com/SoundCirclet
 ---
 Artist: Dap
 ---
@@ -11002,6 +11021,8 @@ URLs:
 - https://twitter.com/avasdemon
 - https://www.avasdemon.com/
 ---
+Artist: Michelle Ramos
+---
 Artist: Michiko Naruke
 ---
 Artist: Michio Nagaoka
@@ -12163,6 +12184,10 @@ Artist: Noriyuki Iwadare
 ---
 Artist: Norman Whitfield
 ---
+Artist: Northernlion
+URLs:
+- https://www.twitch.tv/northernlion
+---
 Artist: Not Eno
 Aliases:
 - Aradiawithgeese
@@ -12434,6 +12459,10 @@ URLs:
 - http://omo-cat.com/
 ---
 Artist: one-imperfect-rose
+---
+Artist: ONE MORE FINAL
+Context Notes: |-
+    fictional band in [[group:unbeatable]].
 ---
 Artist: The One Music Maniac
 URLs:
@@ -12859,7 +12888,8 @@ Artist: Peachy Petey
 ---
 Artist: peak divide
 Context Notes: |-
-    anime rock band starring [[artist:clara-maddux]] + [[artist:vasily-nikolaev]]
+    anime rock band making loud music and sounds for [[group:unbeatable|UNBEATABLE]] by [[artist:d-cell-games|D-CELL GAMES]]
+    starring [[artist:clara-maddux]] + [[artist:vasily-nikolaev]]
 URLs:
 - https://bsky.app/profile/peakdivide.bsky.social
 - https://linktr.ee/peakdivide
@@ -13524,11 +13554,12 @@ Dead URLs:
 ---
 Artist: Rachel Jost
 ---
-Artist: Rachel Lake
+Artist: rachel lake
 Aliases:
 - Rachel Lundin
 - Katsplanet # via SoundCloud
 URLs:
+- https://www.rklake.me/
 - https://soundcloud.com/katsplanet
 - https://bsky.app/profile/rachel.dcellgames.com
 - https://twitter.com/rachelklake
@@ -13652,6 +13683,10 @@ Artist: Ralph Tomlinson
 Artist: RAMGODD
 URLs:
 - https://ramgodd.tumblr.com/
+---
+Artist: Ramon Braumuller
+URLs:
+- https://bsky.app/profile/ramonbraumuller.eurosky.social
 ---
 Artist: Ran Bakudan
 URLs:
@@ -15853,14 +15888,6 @@ URLs:
 ---
 Artist: The Sound of Music
 ---
-Artist: SoundCirclet
-URLs:
-- https://www.soundcirclet.net/
-- https://soundcirclet.bandcamp.com/
-- https://www.youtube.com/channel/UC95Xopdv7f_L2AbfE-VMuxA
-- https://bsky.app/profile/soundcirclet.net
-- https://twitter.com/SoundCirclet
----
 Artist: Soyo Oka
 ---
 Artist: Sozzay
@@ -17786,7 +17813,7 @@ Dead URLs:
 ---
 Artist: Vasily Livanov
 ---
-Artist: Vasily Nikolaev
+Artist: vasily nikolaev
 URLs:
 - https://bsky.app/profile/vastonik.bsky.social
 ---
