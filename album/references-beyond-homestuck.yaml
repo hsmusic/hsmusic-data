@@ -2137,21 +2137,6 @@ Duration: 1:27
 URLs:
 - https://www.youtube.com/watch?v=5J8XqDENH1Y
 ---
-Track: Aquatic Ambiance
-# Official release:
-#   DK Jamz: The Original Donkey Kong Country Soundtrack
-# Reference:
-#   https://vgmdb.net/album/429
-#   https://www.youtube.com/watch?v=1XM8ReW9NvA
-Artists:
-- Donkey Kong
-- David Wise
-Duration: 3:28
-URLs:
-- https://www.youtube.com/watch?v=1XM8ReW9NvA
----
-Track: Aquatic Ambience
----
 Track: The Arch-Illager
 # Reference:
 #   https://vgmdb.net/album/100692
@@ -2246,17 +2231,6 @@ Artists:
 Duration: 2:42
 URLs:
 - https://www.youtube.com/watch?v=uZEvlslq-kQ
----
-Track: "Athletic BGM (Super Mario World 2: Yoshi's Island)"
-Directory: athletic-bgm-yoshis-island
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 2:10
-URLs:
-- https://www.youtube.com/watch?v=oKJ2EZnnZRE
-- https://m.nintendo.com/shared/en-US/US/tracks/91372f53-f0f6-4114-a732-f2ec84d55aba
 ---
 Track: Awake
 Directory: awake-castlevania
@@ -2520,20 +2494,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/527d01fb-a795-4206-a88e-69a263b2b137
 - https://www.youtube.com/watch?v=LHhjnJP0VCo
 ---
-Track: Big Boo's Haunt
-# JP: テレサのホラーハウス
-# Official release:
-#   スーパーマリオ64 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/137
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 3:05
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/540c9f9d-dcbc-4e56-8e5b-cfbe58c2b335
-- https://www.youtube.com/watch?v=Cur1UayJquw
----
 Track: Bloody Tears (Roads by Day BGM)
 # From Castlevania II: Simon's Quest
 # Released on the same album as Beginning, but it has its own dedicated track vs. Castlevania III's OST.
@@ -2548,20 +2508,6 @@ Artists:
 Duration: 1:05
 URLs:
 - https://www.youtube.com/watch?v=VP1nVVvi1Vw
----
-Track: Bolero of Fire
-# From THE LEGEND OF ZELDA OCARINA OF TIME 3D ORIGINAL SOUNDTRACK
-# JP: オカリナ「炎のボレロ」
-# Official release:
-#   ゼルダの伝説 時のオカリナ 3D オリジナル サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/26628
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:22
-URLs:
-- https://www.youtube.com/watch?v=zzxQZnj7sjU
 ---
 Track: Bomb Man Stage
 # Reference:
@@ -2597,17 +2543,6 @@ Duration: 4:53
 URLs:
 - https://www.youtube.com/watch?v=HH-PPX2s7dU
 ---
-Track: Bonus Room Blitz
-# Reference:
-#   https://vgmdb.net/album/429
-Artists:
-- Donkey Kong
-- David Wise
-Duration: 0:59
-URLs:
-- https://m.nintendo.com/shared/US/tracks/39b72ed5-f0b2-48bb-94da-785b672610eb
-- https://www.youtube.com/watch?v=zXJtgIwPLTA
----
 Track: Bonus Round Fanfare (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -2627,42 +2562,6 @@ Artists:
 Duration: 0:37
 URLs:
 - https://www.youtube.com/watch?v=fxlXY2LabAM
----
-Track: Boss Battle BGM (Ridley/Draygon)
-# Reference:
-#   https://vgmdb.net/album/883
-Artists:
-- Metroid
-- Minako Hamano
-Duration: 1:25
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/97e1d5eb-3412-43b1-b0a8-c8b1bcd898ee
-- https://www.youtube.com/watch?v=uI_oy3GMxMc
----
-Track: 'Boss Battle (Kirby: Squeak Squad)'
-# Better known as "Oncoming Peril", which appears to be
-# an unofficial name. This translation is unofficial.
-# JP: ボス戦
-# Reference:
-#   https://vgmdb.net/product/8354
-#   https://wikirby.com/wiki/User:Gigi/Kirby_music_names
-#   https://kirby.fandom.com/ja/wiki/任天堂モバイル
-#   https://kirby.fandom.com/ja/wiki/ボス戦_(星のカービィ_参上!_ドロッチェ団)
-Artists:
-- Kirby
-- Unknown Artist
-URLs:
-- https://www.youtube.com/watch?v=ZSsDM39aipk
-Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor, 4/13/2024)
-
-    This track isn't included on any official soundtrack release; ~~all artists~~ are credited for sound on Kirby: Squeak Squad. The title is a translation of its appearance on the Nintendo Mobile site, where it's called ボス戦 ([thanks to User:Gigi on WiKirby](https://wikirby.com/wiki/User:Gigi/Kirby_music_names)).
-
-    It's better known as "Oncoming Peril" or "Treasure Scuffle".
-
-    <i>Quasar Nebula:</i> (wiki editor, 10/25/2025)
-
-    We previously credited this track to all artists credited for sound in-game; it's just [[artist:unknown-artist]] now. Those artists are: [[artist:hirokazu-ando]], [[artist:jun-ishikawa]], [[artist:tadashi-ikegami]], [[artist:shogo-sakai]].
 ---
 Track: Boss Battle (Pokémon Typing Adventure)
 Directory: boss-battle-pokemon-typing-adventure
@@ -2738,23 +2637,6 @@ Lyrics: |-
     Break time! Breakfast time! Breakbreakbreakbreak breakfast time!
     Break time! Breakfast time! Break time! Breakfast time! (What?)
     Break time! Breakfast time! Breakbreakbreak brrrr-b-b-b-b—
----
-Track: Bright Spinning Planet
-# JP: 回る光はプラネット
-# Official release:
-#   星のカービィ ロボボプラネット オリジナルサウンドトラック
-#   Kirby: Planet Robobot Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/63000
-Artists:
-- Kirby
-- Hirokazu Ando
-Duration: 1:10
-Referenced Tracks:
-- Haltmann Works Co. Theme Song
-URLs:
-- https://www.youtube.com/watch?v=6Kb1WMZBG9k
-- https://open.spotify.com/track/48wfJa6hyfiXB0RZnzUKRJ
 ---
 Track: Brown Puffle Lab
 # No official release, durations and info taken from composer's website
@@ -2859,19 +2741,6 @@ Artists:
 Duration: 0:26
 URLs:
 - https://www.youtube.com/watch?v=HHvDsMhP8yE
----
-Track: The Castle Depths
-# Mario & Luigi: Bowser's Inside Story, no official release
-# Reference:
-#   Mario & Luigi: Bowser's Inside Story + Bowser Jr's Journey
-#     sound test - name
-#   Super Mario wiki - duration
-Artists:
-- Super Mario
-- Yoko Shimomura
-Duration: 1:08
-URLs:
-- https://www.youtube.com/watch?v=K-4Ku3eXgys
 ---
 Track: Cave
 Directory: cave-treasure-cove
@@ -3005,18 +2874,6 @@ Lyrics: |-
     And I’ll come to you without a second thought
     I’m here, I’m here
 ---
-Track: 'City Trial: City'
-# Reference:
-#   https://wikirby.com/wiki/City_Trial:_City#cite_note-dream_buffet-1
-#   https://vgmdb.net/album/33644
-Artists:
-- Kirby
-- Hirokazu Ando
-Duration: 2:13
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/c9b8e78b-ec22-4aaf-ba2d-bf20f1b3b210
-- https://www.youtube.com/watch?v=tDwELC-6bz8
----
 Track: Cog Building (Boss)
 # Toontown Online
 Artists:
@@ -3077,20 +2934,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/d2d73ead-8ca8-4d3f-8d11-662b880d5f70
 - https://www.youtube.com/watch?v=jjoE62d2qPY
 ---
-Track: Course Clear (Super Mario Bros. 3)
-# Reference:
-#   https://vgmdb.net/album/533
-Directory: course-clear-smb3
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 0:04
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/1f1c77c4-12eb-4005-80bb-bf8bbd397e70
-- https://www.youtube.com/watch?v=ZckpYymv7GU
-Referenced Tracks:
-- Ground BGM (Super Mario Bros. 3)
----
 Track: Crash Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -3110,17 +2953,6 @@ Artists:
 Duration: 0:02
 URLs:
 - https://www.youtube.com/watch?v=Mi9kqrNiRrc
----
-Track: Crocodile Cacophony (K. Rool's Theme)
-# Reference:
-#   https://vgmdb.net/album/1516
-Artists:
-- Donkey Kong
-- David Wise
-Duration: 1:28
-URLs:
-- https://m.nintendo.com/shared/US/tracks/61bfe2b1-6c10-4461-8b59-ea32db5815fe
-- https://www.youtube.com/watch?v=J9c4yIvVq3c
 ---
 Track: Cross Your Heart (Graveyard BGM)
 # Reference:
@@ -3254,17 +3086,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=TNfItV62gD8
 ---
-Track: Death Mountain Theme
-# Reference:
-#   https://vgmdb.net/album/1430
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:00
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/aef58bb6-c464-42fb-acf4-566132c94063
-- https://www.youtube.com/watch?v=_xAr2SO-Rsw
----
 Track: Death Wind
 # Reference:
 #   https://vgmdb.net/product/200
@@ -3276,19 +3097,6 @@ Duration: 2:23
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/e7e04053-2acb-4963-a0db-adccdf3ba086
 - https://www.youtube.com/watch?v=wi8SLiK_E6s
----
-Track: Delfino Plaza
-# JP: ドルピックタウン
-# Official releases:
-#  SUPER MARIO SOUND COLLECTION
-# Reference:
-#  https://vgmdb.net/album/1890 (as Dolphic Town)
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 2:58
-URLs:
-- https://www.youtube.com/watch?v=KYdRWC6MCgM
 ---
 Track: Demo BGM (Yūyūki)
 Directory: demo-bgm-yuyuki
@@ -3334,21 +3142,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/96536536-e718-4fb2-bd72-67d82ff79bff
 Referenced Tracks:
 - track:destiny-fire-emblem-awakening
----
-Track: Dire, Dire Docks
-# JP: ウォーターランド
-# Official release:
-#   スーパーマリオ64 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/137
-#   Nintendo Music
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 3:04
-URLs:
-- https://music.nintendo.com/shared/en-US/US/tracks/a411b361-1b04-447b-bb7f-b7c1e5a217ab/
-- https://www.youtube.com/watch?v=Zqa2mgjbOIM
 ---
 Track: Dissonance
 Directory: dissonance-quincy-pringle
@@ -3400,94 +3193,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/771d6a5e-5d30-40c6-9a30-8663f1f79e08
 - https://www.youtube.com/watch?v=fgM4b3pDXto
 ---
-Track: DK Rap
-# Duration is from the first musical (0:17) to the disc scratch (3:27) on the in-game music video
-Artists:
-- Donkey Kong
-- Grant Kirkhope
-Contributors:
-- George Andreas (lyrics, vocals)
-- Chris Sutherland (vocals)
-- Gregg Mayles (chorus)
-- Steve Mayles (chorus)
-- Ed Bryan (chorus)
-- Chris Peil (chorus)
-Duration: 3:10
-URLs:
-- https://www.youtube.com/watch?v=q-yZ7_enlWA
-Lyrics: |-
-    Here-here-here we go!
-
-    So they're finally here, performing for you
-    If you know the words, you can join in too
-    Put your hands together, if you want to clap
-    As we take you through, this monkey rap!
-
-    Huh!
-    D.K., Donkey Kong!
-
-    He's the leader of the bunch, you know him well
-    He's finally back to kick some tail
-    His Coconut Gun can fire in spurts
-    If he shoots ya, it's gonna hurt!
-    He's bigger, faster, and stronger too
-    He's the first member of the D.K. crew!
-
-    Huh!
-    D.K., Donkey Kong!
-    D.K., Donkey Kong is here!
-
-    This Kong's got style, so listen up dudes
-    She can shrink in size, to suit her mood
-    She's quick and nimble when she needs to be
-    She can float through the air and climb up trees!
-    If you choose her, you'll not choose wrong
-    With a skip and a hop, she's one cool Kong!
-
-    Huh!
-    D.K., Donkey Kong!
-
-    He has no style, he has no grace
-    Th-th-th-this Kong has a funny face
-    He can handstand when he needs to
-    And stretch his arms out, just for you
-    Inflate himself just like a balloon
-    This crazy Kong just digs this tune!
-
-    Huh!
-    D.K., Donkey Kong!
-    D.K., Donkey Kong is here!
-
-    He's back again and about time too
-    And this time he's in the mood
-    He can fly real high with his jetpack on
-    With his pistols out, he's one tough Kong!
-    He'll make you smile when he plays his tune
-    But Kremlings beware 'cause he's after you!
-
-    Huh!
-    D.K., Donkey Kong!
-    Huh!
-
-    Finally, he's here for you
-    It's the last member of the D.K. crew!
-    This Kong's so strong, it isn't funny
-    Can make a Kremling cry out for mummy
-    Can pick up a boulder with relative ease
-    Makes crushing rocks seem such a breeze
-    He may move slow, he can't jump high
-    But this Kong's one hell of a guy!
-
-    Huh!
-    (C'mon Cranky, take it to the fridge!)
-
-    W-w-w-walnuts, peanuts, pineapple smells
-    Grapes, melons, oranges and coconut shells!
-    Ahh yeah!
-    Walnuts, peanuts, pineapple smells
-    Grapes, melons, oranges and coconut shells!
-    Ahh yeah!
----
 Track: Doctor Frog
 # Track named in-game, no official releases
 Artists:
@@ -3528,21 +3233,6 @@ Artists:
 Duration: 2:45
 URLs:
 - https://www.youtube.com/watch?v=aTbfpkByIM8
----
-Track: Dragon Roost Island
-# JP: 竜の島
-# Official release:
-#   ゼルダの伝説 ～風のタクト～ オリジナル・サウンド・トラックス
-#   The Legend of Zelda ~The Wind Waker~ Original Sound Tracks
-# Reference:
-#   https://vgmdb.net/album/418
-Artists:
-- The Legend of Zelda
-- Kenta Nagata
-Duration: 3:01
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/8384e918-f824-4c79-88b2-f6547ce4287c
-- https://www.youtube.com/watch?v=s7fqllhtdHI
 ---
 Track: Drill Man Stage
 # Reference:
@@ -3713,27 +3403,6 @@ URLs:
 Referenced Tracks:
 - track:lost-in-thoughts-all-alone
 ---
-Track: Ending Theme (The Legend of Zelda)
-# Reference:
-#   https://vgmdb.net/album/1430
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:53
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/405e2721-72e6-497a-bda5-8d5a43db8912
-- https://www.youtube.com/watch?v=_2sQKNGcp2I
----
-Track: Epona's Song
-# Unreleased fragment of "LonLon Ranch" (or the other way around?), played in ocarina
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:08
-URLs:
-- https://m.nintendo.com/shared/US/tracks/2e1e68bc-79bb-457e-80f3-bcc3d6a379ec
-- https://www.youtube.com/watch?v=QfhraAQUokA
----
 Track: Eternal Recurrence
 # JP: 永劫回帰
 # Official release:
@@ -3746,14 +3415,6 @@ Artists:
 Duration: 2:12
 URLs:
 - https://www.youtube.com/watch?v=KTNfNzLiZBA
----
-Track: Eternal Star
-# Mario Party 1, no official release
-Artists:
-- Super Mario
-- Yasunori Mitsuda
-URLs:
-- https://www.youtube.com/watch?v=0ler6IQYfTs
 ---
 Track: Extend Music (Mappy)
 # Reference:
@@ -3797,37 +3458,6 @@ Duration: 2:42
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/a3f4be4e-b3a6-4bc8-a3f9-71180eac82fe
 - https://www.youtube.com/watch?v=s9G0SrydpUw
----
-Track: File Select (Super Mario 64)
-# JP: ファイルセレクト
-# Official release:
-#   スーパーマリオ64 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/137
-Directory: file-select-sm64
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 0:43
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/8588b676-9881-40f8-9354-5a3a470dd657
-- https://www.youtube.com/watch?v=hrJNgLGbYg0
----
-Track: The Final Battle (Super Mario 64)
-# JP: クッパ3号
-# Official release:
-#   スーパーマリオ64 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/137
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 2:50
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/ddbd8a8d-5e88-47fb-94fb-788b39bb587a
-- https://www.youtube.com/watch?v=SCrCmlrmHqg
-Referenced Tracks:
-- Toccata and Fugue in D minor
 ---
 Track: Fire Emblem Theme (Heroic Origins)
 # Reference:
@@ -3923,18 +3553,6 @@ URLs:
 Referenced Tracks:
 - Meet the Flintstones
 ---
-Track: Flower Field BGM
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 2:53
-URLs:
-- https://www.youtube.com/watch?v=DTpksvCC-hg
-- https://m.nintendo.com/shared/en-US/US/tracks/b2cb2d99-5b44-4dc5-8e4f-0b7b8042f375
----
 Track: Forest World
 # Reference:
 #   https://vgmdb.net/album/6177
@@ -3943,18 +3561,6 @@ Artists: #composer unknown
 Duration: 1:30
 URLs:
 - https://www.youtube.com/watch?v=tndPRfdxyws
----
-Track: Fortress Boss (Super Mario Bros. 3)
-# Reference:
-#   https://vgmdb.net/album/533
-Directory: fortress-boss-smb3
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 0:52
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/26e0758f-d4b7-4bc5-8b5b-e9743f74a5a3
-- https://www.youtube.com/watch?v=03gX-re5C9g
 ---
 Track: Freakshow
 # No official release or of the game's soundtrack at all.
@@ -3979,14 +3585,6 @@ Artists:
 Duration: 4:18
 URLs:
 - https://www.youtube.com/watch?v=fXxkjnizIMA
----
-Track: Full of Danger
-# Mario Party, no official release
-Artists:
-- Super Mario
-- Yasunori Mitsuda
-URLs:
-- https://www.youtube.com/watch?v=F1N86WNDMbM
 ---
 Track: Funk to the Top
 # Official release:
@@ -4021,14 +3619,6 @@ Artists:
 Duration: 2:37
 URLs:
 - https://www.youtube.com/watch?v=6fMhNdVwMCI
----
-Track: Galactic Nova
-# No official release of the in-game track (or Kirby Super Star's in-game soundtrack at all)
-Artists:
-- Kirby
-- Jun Ishikawa
-URLs:
-- https://www.youtube.com/watch?v=hPT77G3LGwA
 ---
 Track: Gallant Gunshot
 # Official release:
@@ -4076,17 +3666,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/192b4feb-fff6-4a65-87fd-b535e4d18d7f
 - https://www.youtube.com/watch?v=KwaIWYu8h2Q
 ---
-Track: Game Over (The Legend of Zelda)
-# Reference:
-#   https://vgmdb.net/album/1430
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:37
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/30c377c5-dda7-4801-925b-5b146c53f6ab
-- https://www.youtube.com/watch?v=8fMeA1V0_nc
----
 Track: GAME OVER YEAH! -SS Ver.-
 # Reference:
 #   https://vgmdb.net/album/142750
@@ -4097,31 +3676,6 @@ Duration: 0:08
 URLs:
 - https://www.youtube.com/watch?v=p_7H1PhF9F4
 ---
-Track: Game Start (Donkey Kong)
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Shigeru Miyamoto (composer)
-- Yukio Kaneoka
-Duration: 0:07
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/05dc44f2-cfd7-45d6-bfe8-a8225dedc11e
-- https://www.youtube.com/watch?v=VCQBtMlW0CM
----
-Track: Game Start (Donkey Kong Jr.)
-# Reference:
-#   https://vgmdb.net/product/10349
-#   https://vgmdb.net/album/1414
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:05
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/53bdea11-d3c8-45c0-8c23-d06fa934993f
-- https://www.youtube.com/watch?v=3xwryep6rN8
----
 Track: Game Start Sound (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -4131,28 +3685,6 @@ Artists:
 Duration: 0:02
 URLs:
 - https://www.youtube.com/watch?v=biZ-6T5fUEE
----
-Track: Gang-Plank Galleon
-# Reference:
-#   https://vgmdb.net/album/1516
-Artists:
-- Donkey Kong
-- David Wise
-Duration: 1:49
-URLs:
-- https://m.nintendo.com/shared/US/tracks/13915a51-50ee-4d6e-935f-3de500dbee92
-- https://www.youtube.com/watch?v=r5aeisPAzM4
----
-Track: Ganon Is Defeated
-# Reference:
-#   https://vgmdb.net/album/1430
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:04
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/914c7be7-6540-404f-8294-24f7186c13ad
-- https://www.youtube.com/watch?v=4cqOvdwL6PQ
 ---
 Track: Garden of Hope
 # Reference:
@@ -4285,19 +3817,6 @@ Artists:
 #URLs:
 #-
 ---
-Track: "Goal! (Super Mario World 2: Yoshi's Island)"
-Directory: goal-yoshis-island
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 0:49
-URLs:
-- https://www.youtube.com/watch?v=u1pHkjyuWKU
-- https://m.nintendo.com/shared/en-US/US/tracks/0436e7b2-9633-4888-a5c7-67fd69762080
----
 Track: Gobi's Valley
 # Reference:
 #   https://vgmdb.net/album/48423
@@ -4340,17 +3859,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/040923d7-115d-4d16-85a9-d90cf164904b
 - https://www.youtube.com/watch?v=PKS8EBHj9fc
 ---
-Track: Gourmet Race
-# No official release of the in-game track (or Kirby Super Star's in-game soundtrack at all)
-Artists:
-- Kirby
-- Jun Ishikawa
-URLs:
-- https://www.youtube.com/watch?v=Se1uh3PS78Y
-Commentary: |-
-    <i>Niklink:</i> (wiki editor, 8/18/2023)
-    Also known as 'Get Up and Go-urmet!' and 'Gourmet Go Go'.
----
 Track: Gravity Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -4360,42 +3868,6 @@ Artists:
 Duration: 2:44
 URLs:
 - https://www.youtube.com/watch?v=nPiKZ4AZR8A
----
-Track: The Greatest Warrior in the Galaxy
-# JP: 銀河最強の戦士
-# Official release:
-#   Kirby Ultra Super Deluxe Original Sound Track
-#   星のカービィ ウルトラスーパーデラックス オリジナルサウンドトラック
-# Note:
-#   It's unknown which of these two artists composed this track.
-#   They're both credited for Kirby Super Star Ultra's music.
-# Reference:
-#   https://vgmdb.net/album/10970
-#   https://wikirby.com/wiki/The_Greatest_Warrior_in_the_Galaxy
-Artists:
-- Kirby
-- Jun Ishikawa
-- Hirokazu Ando
-Duration: 1:47
-URLs:
-- https://www.youtube.com/watch?v=lxBldm9KfwQ
----
-Track: The Greatest Warrior In The Galaxy Ever
-# JP: 時巡る銀河最強の戦士
-# Official release:
-#   星のカービィ ロボボプラネット オリジナルサウンドトラック
-#   Kirby: Planet Robobot Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/63000
-# Wrongly translated by Siivagunner as "The Greatest Time Traveling Warrior In The Galaxy"
-Artists:
-- Kirby
-- Jun Ishikawa
-Duration: 1:41
-Referenced Tracks:
-- The Greatest Warrior in the Galaxy
-URLs:
-- https://www.youtube.com/watch?v=hUZKHOZAW9E
 ---
 Track: GRIP
 # Official release:
@@ -4410,51 +3882,6 @@ Artists:
 Duration: 8:15
 URLs:
 - https://www.youtube.com/watch?v=0GK6WbcyYOY
----
-Track: Gritzy Desert
-# Mario & Luigi: Partners in Time, no official release
-Artists:
-- Super Mario
-- Yoko Shimomura
-URLs:
-- https://www.youtube.com/watch?v=WKkvNimwv7I
----
-Track: Ground BGM (Super Mario Bros.)
-# SMB soundtrack was released on vinyl and cassette simultaneously, the cassette release (linked below) has an extra track (SMB Suite) but the first track is the same duration, at least.
-# Original release:
-#   スーパーマリオブラザーズ オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/3436
-#   https://vgmdb.net/album/507
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 3:07
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/efc61259-826b-401d-92ec-17fb452bd6c2
-- https://www.youtube.com/watch?v=O3q_hXrgp8w
----
-Track: Ground BGM (Super Mario Bros. 2)
-# Reference:
-#   https://vgmdb.net/album/54247
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 1:34
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/30c5c8d3-c22b-4a98-900e-38869ab77a14
-- https://www.youtube.com/watch?v=yBISfv-6hfo
----
-Track: Ground BGM (Super Mario Bros. 3)
-# Reference:
-#   https://vgmdb.net/album/54247
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 1:10
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/d3b2ef81-2215-4e05-9b00-67276c449fa8
-- https://www.youtube.com/watch?v=Q_saM7I20pY
 ---
 Track: Gruntilda's Lair
 # Reference:
@@ -4512,50 +3939,6 @@ Duration: 4:56
 URLs:
 - https://www.youtube.com/watch?v=Qw4YH3fNPWQ
 ---
-Track: Haltmann Works Co. HQ
-# JP: ハルトマンワークスカンパニーHQ
-# Official release:
-#   星のカービィ ロボボプラネット オリジナルサウンドトラック
-#   Kirby: Planet Robobot Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/63000
-Artists:
-- Kirby
-- Hirokazu Ando
-Duration: 2:46
-URLs:
-- https://www.youtube.com/watch?v=wmhFKDCP9a0
-- https://open.spotify.com/track/2HQS5vlZqlOV4QLYBKF550
-Referenced Tracks:
-- Haltmann Works Co. Theme Song
----
-Track: Haltmann Works Co. Theme Song
-# JP: ハルトマンワークスカンパニーのテーマ
-# Official release:
-#   星のカービィ ロボボプラネット オリジナルサウンドトラック
-#   Kirby: Planet Robobot Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/63000
-Artists:
-- Kirby
-- Hirokazu Ando
-Duration: 1:26
-URLs:
-- https://www.youtube.com/watch?v=RPLz7UIeQv8
-- https://open.spotify.com/track/4F9muAB4BFreVBPDW6mVVi
----
-Track: Hammer BGM (Donkey Kong)
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:26
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/2a356db0-f393-4f59-80c3-10eebc0d5171
-- https://www.youtube.com/watch?v=52ggVrnn-cI
----
 Track: Hard Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -4611,20 +3994,6 @@ Duration: 3:07
 URLs:
 - https://www.youtube.com/watch?v=0Z3odpfwCpE
 ---
-Track: Hazy Maze Cave
-# JP: どうくつ
-# Official release:
-#   スーパーマリオ64 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/137
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 3:44
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/80a7c7b0-7a40-465a-b067-e9192b893fa8
-- https://www.youtube.com/watch?v=fMb-WH2UYi0
----
 Track: Homicide
 Directory: homicide-danganronpa
 Always Reference By Directory: true
@@ -4641,14 +4010,6 @@ Artists:
 Duration: 4:42
 URLs:
 - https://www.youtube.com/watch?v=gg7xUQWZU_o
----
-Track: Hotel Mario
-# No official release
-Artists:
-- Super Mario
-- Max Steiner
-URLs:
-- https://www.youtube.com/watch?v=28ZcsyOayLM
 ---
 Track: How to Play
 Directory: how-to-play-melee
@@ -4671,18 +4032,6 @@ Artists:
 - Hideki Naganuma
 URLs:
 - https://www.youtube.com/watch?v=IJYK5tkgtvk
----
-Track: Hurry Up! (Donkey Kong)
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:23
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/06077d24-6b2a-4a4f-802d-8818725f387a
-- https://www.youtube.com/watch?v=N7OlOrJHLm4
 ---
 Track: Ice Man Stage
 # Reference:
@@ -4773,18 +4122,6 @@ URLs:
 - https://c418.bandcamp.com/track/intro
 - https://www.youtube.com/watch?v=y7sm01H0w9Y
 ---
-Track: Invincibility BGM (Super Mario Bros.)
-# Reference:
-#   https://vgmdb.net/album/533
-Directory: invincibility-bgm-smb
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 0:15
-URLs:
-- https://m.nintendo.com/shared/US/tracks/c88e8237-95e2-43bf-bfda-1df67efc0c4a
-- https://www.youtube.com/watch?v=RtrtgWHBZhk
----
 Track: Iron-Blue Intention (Stage 4 BGM · German Iron and Steel Factory)
 # Reference:
 #   https://vgmdb.net/album/2938
@@ -4794,131 +4131,6 @@ Artists:
 Duration: 1:57
 URLs:
 - https://www.youtube.com/watch?v=XoGCokTDSyA
----
-Track: Jump Up, Super Star!
-# Officially released as an iTunes single.
-# Reference:
-#   https://vgmdb.net/album/72172
-Artists:
-- Super Mario
-- Naoto Kubo (composer)
-- Yoichi Murata (arranger)
-- Nobuyoshi Suzuki (Japanese lyrics)
-- Rob Tunstall (English lyrics)
-Contributors:
-- Aimi Mukohara (Japanese vocals)
-- Kate Higgins (English vocals)
-- The Super Mario Players (performance)
-Duration: 4:07
-URLs:
-- https://m.nintendo.com/shared/US/tracks/b3e49b01-3a69-42d9-b25e-998817fd909f
-- https://www.youtube.com/watch?v=Pj_IqEMGJZ4
-# Sampled Tracks:
-# - super mario bros jump and coin collect sfx
-Lyrics: |-
-    Here we go, off the rails
-    Don't you know it's time to raise our sails?
-    It's freedom like you never knew
-
-    Don't need bags, or a pass
-    Say the word, I'll be there in a flash
-    You could say my hat is off to you
-
-    Oh, we can zoom all the way to the moon
-    From this great wide wacky world
-    Jump with me, grab coins with me
-    Oh, yeah!
-
-    It's time to jump up in the air (Jump up in the air)
-    Jump up, don't be scared (Jump up, don't be scared)
-    Jump up and your cares will soar away
-
-    And if the dark clouds start to swirl (Dark clouds start to swirl)
-    Don't fear, don't shed a tear, 'cause
-    I'll be your 1-UP girl
-
-    So let's all jump up super high (Jump up super high)
-    High up in the sky (High up in the sky)
-    There's no power-up like dancing
-
-    You know that you're my superstar (You're my superstar)
-    No one else can take me this far
-    I'm flipping the switch
-    Get ready for this
-    Oh, let's do the odyssey
-
-    Odyssey, ya see!
-    Odyssey, ya see!
-    Odyssey, ya see!
-    Odyssey, ya see!
-    Odyssey, ya see!
-    Odyssey, ya see!
-    Odyssey, ya see!
-    Odyssey, odyssey!
-
-    Spin the wheel, take a chance
-    Every journey starts a new romance
-    A new world's calling out to you
-
-    Take a turn, off the path
-    Find a new addition to the cast
-    You know that any captain needs a crew
-
-    Take it in stride as you move side-to-side
-    They're just different points of view
-    Jump with me, grab coins with me
-    Oh, yeah!
-
-    Come on and jump up in the air (Jump up in the air)
-    Jump without a care (Jump without a care)
-    Jump up 'cause you know that I'll be there
-
-    And if you find you're short on joy (Find you're short on joy)
-    Don't fret, just don't forget that
-    You're still our 1-UP boy
-
-    So go on, straighten up your cap (Straighten up your cap)
-    Let your toes begin to tap (Toes begin to tap)
-    This rhythm is a power shroom
-
-    Don't forget you're the superstar (You're the superstar)
-    No one else could make it this far
-    Put a comb through that 'stache
-    Now you've got panache
-    Oh, let's do the odyssey
-
-    It's time to jump up in the air (Jump up in the air)
-    Jump up, don't be scared (Jump up, don't be scared)
-    Jump up and your cares will soar away
-
-    And if the dark clouds start to swirl (Dark clouds start to swirl)
-    Don't fear, don't shed a tear, 'cause
-    I'll be your 1-UP girl
-
-    Now listen, all you boys and girls (All you boys and girls)
-    All around the world (All around the world)
-    Don't be afraid to get up and move
-
-    You know that we're all superstars (We're all superstars)
-    We're the ones who made it this far
-    Put a smile on that face
-    There's no time to waste
-    So, let's do the odyssey
-Commentary: |-
-    <i>Niklink:</i> (wiki editor, 1/4/2023)
-
-    While the lyrics here are from the (probably known to you) English version of the song, the Japanese version was the first version to be created (although both launched simultaneously).
----
-Track: K. Rool Returns (Title Theme)
-# Reference:
-#   https://vgmdb.net/album/1516
-Artists:
-- Donkey Kong
-- David Wise
-Duration: 0:40
-URLs:
-- https://m.nintendo.com/shared/US/tracks/4f3129f1-01bb-4096-8b55-86c4e4140707
-- https://www.youtube.com/watch?v=pUUUWxBu_zU
 ---
 Track: Karma (Electric Fountain)
 # Reference:
@@ -5014,17 +4226,6 @@ Artists:
 Duration: 1:09
 URLs:
 - https://www.youtube.com/watch?v=AQYdiY-tOZM
----
-Track: King of the Koopas
-# Reference:
-#   https://vgmdb.net/album/533
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 0:54
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/a364d2ac-bb86-4fb9-895a-b32e9bddaf77
-- https://www.youtube.com/watch?v=h-xih93YIwk
 ---
 Track: Kingdom of Uraya
 # Reference:
@@ -5161,16 +4362,6 @@ URLs:
 - https://www.youtube.com/watch?v=4fyiT77Jhnk
 #link is just gameplay recording, can't find any better unaltered rip of the ost
 ---
-Track: Library Piano
-Artists: ##Chad York, Darren Radtke, and Mike Peacock are credited for Music Composition in Luigi's Mansion: Dark Moon. It is unknown who did this track.
-- Super Mario
-- Chad York
-- Darren Radtke
-- Mike Peacock
-Duration: 1:24
-URLs:
-- https://www.youtube.com/watch?v=fGvZRNzagH0
----
 Track: Light Plane
 # Reference:
 #   https://vgmdb.net/album/2032
@@ -5305,20 +4496,6 @@ Duration: 2:45
 URLs:
 - https://www.youtube.com/watch?v=NPFNUNkgh8w
 ---
-Track: Lorule Castle
-# THE LEGEND OF ZELDA A LINK BETWEEN WORLDS SOUND SELECTION
-# JP: ロウラル城
-# Official release:
-#   ゼルダの伝説 神々のトライフォース2 サウンドセレクション
-# Reference:
-#   https://vgmdb.net/album/26628
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 7:27
-URLs:
-- https://www.youtube.com/watch?v=ZSeEk1TVQqk
----
 Track: Lost in Thoughts All Alone
 # Reference:
 #   https://vgmdb.net/album/57528
@@ -5426,17 +4603,6 @@ Duration: 2:15
 URLs:
 - https://www.youtube.com/watch?v=rzAMgBtpn8c
 ---
-Track: 'Main Theme (The Legend of Zelda: Tri Force Heroes)'
-# Reference:
-#   https://vgmdb.net/product/4214
-#   https://vgmdb.net/album/60670
-Artists:
-- The Legend of Zelda
-- Ryo Nagamatsu
-Duration: 2:42
-URLs:
-- https://www.youtube.com/watch?v=T6CK7ctyDz4
----
 Track: Main Theme (Wii Shop Channel)
 # Reference:
 #   Nintendo Music (name)
@@ -5447,17 +4613,6 @@ Duration: 2:06
 URLs:
 - https://m.nintendo.com/shared/US/tracks/6030eb13-b55b-41b4-8a23-27887eca363f
 - https://www.youtube.com/watch?v=yyjUmv1gJEg
----
-Track: Main Theme (Yoshi's New Island)
-# Reference:
-#   https://vgmdb.net/product/8628
-Artists:
-- Yoshi
-- CHAMY.Ishi
-Contributors:
-## Duration: '' ## no official release to source length from
-URLs:
-- https://www.youtube.com/watch?v=SzDmvY2pRJI
 ---
 Track: Main Title (Banjo-Kazooie)
 # Reference:
@@ -5516,19 +4671,6 @@ Duration: 3:56
 URLs:
 - https://www.youtube.com/watch?v=v3EaKN2I9Ig
 ---
-Track: Masked Dedede's Theme
-# Official release:
-#  The Masked King in Kirby's Dream Collection Special Edition Compilation Soundtrack
-# Reference:
-#  https://vgmdb.net/album/35271
-Artists:
-- Kirby
-- Jun Ishikawa
-Duration: 1:21
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/59094ce4-3339-4541-ac53-84fbe53681b0
-- https://www.youtube.com/watch?v=DCE1HizbnTU
----
 Track: Mayahem Temple
 # Reference:
 #   https://vgmdb.net/album/278
@@ -5585,28 +4727,6 @@ Artists:
 #URLs:
 #-
 ---
-Track: 'Milky Way Wishes: Staff Credits'
-# Reference:
-#   https://wikirby.com/wiki/Milky_Way_Wishes:_Staff_Credits
-#   https://vgmdb.net/album/888
-Artists:
-- Kirby
-- Jun Ishikawa
-Duration: 2:55
-URLs:
-- https://www.youtube.com/watch?v=Nj6pkTO9AEA
----
-Track: 'Miniboss Hideout I: Kraid'
-# Reference:
-#   https://vgmdb.net/album/883
-Artists:
-- Metroid
-- Hirokazu Tanaka
-Duration: 1:45
-URLs:
-- https://m.nintendo.com/shared/US/tracks/fff0e065-0c45-4de4-bb8f-18597f9bf003
-- https://www.youtube.com/watch?v=bz2_H5gizpQ
----
 Track: Miss (Duck Hunt)
 # Reference:
 #   https://vgmdb.net/album/1424
@@ -5617,17 +4737,6 @@ Duration: 0:03
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/59613349-d3ee-4c6c-9d79-ba257297dcb5
 - https://www.youtube.com/watch?v=7fkgjgBJKzk
----
-Track: Molgera Battle
-# Reference:
-#   https://vgmdb.net/album/418
-Artists: ## no one is credited for this song on the soundtrack, however the file name original version of the Molgera theme in the files of Wind Waker HD reveal that this song is by Hajime Wakai. The file name is P_Moldgera_CK.w.32.dspadpcm.bfstm. Nintendo composers are assigned letters that appear in a decent amount of file names for music in Nintendo games. Hajime Wakai's letter is "w", so P_Moldgera_CK.w.32.dspadpcm.bfstm is by Wakai. Another example from Wind Waker HD: 11_m_14_02.g.32.c4.dspadpcm.bfstm, g = Toru Minegishi. update: Wakai is also just credited on the Zelda for Guitar book lmao.
-- The Legend of Zelda
-- Hajime Wakai
-Duration: 2:35
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/53bab73f-6470-4e0a-bf1e-94664be7b81b
-- https://www.youtube.com/watch?v=wlF0-Qs2xkI
 ---
 Track: Monster Dance (By Night BGM)
 # Reference:
@@ -5794,17 +4903,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=PTQBFoM_cVw
 ---
-Track: A New Wind for Tomorrow
-# Reference
-# https://wikirby.com/wiki/A_New_Wind_for_Tomorrow
-Artists:
-- Kirby
-- Jun Ishikawa
-Duration: 1:36
-URLs:
-- https://m.nintendo.com/shared/US/tracks/dce2dfd1-3b78-42e0-802e-a9f730ba70f4
-- https://www.youtube.com/watch?v=IlgLQA416-4
----
 Track: NLCtown
 # No official release
 # Track name taken from ingame music file
@@ -5944,56 +5042,6 @@ Artists:
 Duration: 1:22
 URLs:
 - https://www.youtube.com/watch?v=5jh3B4TXNfw
----
-Track: Overworld Adventure Part 2
-# JP: 汽車フィールド その2(メインテーマ)
-# The Spirit Tracks soundtrack was never individually released.
-# Official release:
-#   The 30th Anniversary The Legend of Zelda Game Music Collection
-#   30周年記念盤 ゼルダの伝説 ゲーム音楽集
-# Reference:
-#   https://vgmdb.net/album/60670
-Artists:
-- The Legend of Zelda
-- Toru Minegishi
-Duration: 3:16
-URLs:
-- https://www.youtube.com/watch?v=lHO99vuOIWI
----
-Track: Overworld Theme (The Legend of Zelda)
-# Reference:
-#   https://vgmdb.net/album/1430
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:26
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/6ac85bbe-4b9b-463d-8d4c-cdf195efd4c1
-- https://www.youtube.com/watch?v=ncg72VswyTs
-Referenced Tracks:
-- Title Theme (The Legend of Zelda)
----
-Track: Palace Theme
-# Reference:
-#   https://vgmdb.net/album/12372
-Artists:
-- The Legend of Zelda
-- Akito Nakatsuka
-Duration: 3:18
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/958d4cb0-81ab-4d12-bba3-b3346d1b31e3
-- https://www.youtube.com/watch?v=W-VUVvvlQK8
----
-Track: Parasite Queen Battle
-# Reference:
-#   https://vgmdb.net/album/412
-Artists:
-- Metroid
-- Kenji Yamamoto
-Duration: 1:37
-URLs:
-- https://m.nintendo.com/shared/US/tracks/3ec0db74-6fc9-4632-a29e-c2c9dd5b6590
-- https://www.youtube.com/watch?v=TblxPu9JB2U
 ---
 Track: Parting Ways
 # Reference:
@@ -6200,16 +5248,6 @@ Duration: 1:54
 URLs:
 - https://www.youtube.com/watch?v=MRmLoq0aFcQ
 ---
-Track: Rainbow Road (Super Mario Kart)
-# No official release.
-Artists:
-- Super Mario
-- Soyo Oka
-Duration: 2:01
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/ffaf7598-87ae-41ee-b0f4-6265c1c16050
-- https://www.youtube.com/watch?v=kR7azqI6wik
----
 Track: Rainy Day
 # Reference:
 #   https://vgmdb.net/product/8603
@@ -6300,34 +5338,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/471b55e0-ff3c-41c3-8131-b4bcd07ee10d
 - https://www.youtube.com/watch?v=DL-q-HuyHYM
 ---
-Track: Rhythm Code
-# Vastly better known as "Puzzle Room"
-# JP: プログラリズム
-# Official release:
-#   星のカービィ ロボボプラネット オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/63000
-Artists:
-- Kirby
-- Hirokazu Ando
-Duration: 1:37
-URLs:
-- https://www.youtube.com/watch?v=Ji_MZrBB254
----
-Track: Ricco Harbor
-# Super Mario Sunshine
-# No full-game soundtrack release
-# Reference:
-#   https://vgmdb.net/album/1890
-#   https://vgmdb.net/album/54247
-# Also, from ruby: "the closest thing to a proper game soundtrack release for Super Mario Sunshine would be the music player in Super Mario 3D All-Stars. for Super Mario 64 and Super Mario Galaxy, it included the original CD releases those games' soundtracks had. Super Mario Sunshine has a similarly-presented in-game playable soundtrack, complete with clean versions of the cutscene music (without voices or sfx)."
-Duration: 4:00
-Artists:
-- Super Mario
-- Koji Kondo
-URLs:
-- https://www.youtube.com/watch?v=g54SRiv_0lc
----
 Track: Right-Hand Remix
 # (See Left-Hand Remix for release info)
 Artists:
@@ -6406,102 +5416,6 @@ Artists:
 Duration: 2:57
 URLs:
 - https://www.youtube.com/watch?v=KT45kiI5FYw
----
-Track: Round 1 and 2 Clear (Donkey Kong)
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:04
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/32afaae9-021d-4434-b1a2-6a23a8b7fe11
-- https://www.youtube.com/watch?v=0ns18p3dRH0
----
-Track: Round 1 BGM (Donkey Kong)
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:37
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/3d033b22-b6e2-4ae3-b1cd-af1a5e0360f3
-- https://www.youtube.com/watch?v=6K6PnejXNGw
----
-Track: Round 1 BGM (Donkey Kong Jr.)
-# Reference:
-#   https://vgmdb.net/product/10349
-#   https://vgmdb.net/album/1414
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:33
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/d9260727-c005-498b-947d-33a25a07d304
-- https://www.youtube.com/watch?v=YuY_MdhIxNE
----
-Track: Round 1 Clear (Donkey Kong Jr.)
-# Reference:
-#   https://vgmdb.net/product/10349
-#   https://vgmdb.net/album/1414
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:07
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/a9c749a2-bf14-4d18-990c-7ddf2cfef0e4
-- https://www.youtube.com/watch?v=oGj7KHKRzJg
----
-Track: Round 3 BGM (Donkey Kong)
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:18
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/4ff63f3e-3960-4e2c-99c4-4d9f01ecc24b
-- https://www.youtube.com/watch?v=SDIXlTPnu4g
----
-Track: Round 3 Clear (Donkey Kong)
-# Reference:
-#   https://vgmdb.net/product/10348
-#   https://vgmdb.net/album/1412
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:8
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/168b19fc-1445-4ef3-8b4a-d716772f7eeb
-- https://www.youtube.com/watch?v=lDrzvAzl9us
----
-Track: Round 4 BGM (Donkey Kong Jr.)
-# Reference:
-#   https://vgmdb.net/product/10349
-#   https://vgmdb.net/album/1414
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:37
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/eea94b72-1007-4c1d-8457-54bc2a4a463e
-- https://www.youtube.com/watch?v=I7ZiltwFZb0
----
-Track: Round 4 Clear (All Clear!) (Donkey Kong Jr.)
-# Reference:
-#   https://vgmdb.net/product/10349
-#   https://vgmdb.net/album/1414
-Artists:
-- Donkey Kong
-- Yukio Kaneoka
-Duration: 0:07
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/d895d2dd-94f0-4856-a583-730268aac5ac
-- https://www.youtube.com/watch?v=ztX2oasULws
 ---
 Track: Round Clear Music (Mappy)
 # Reference:
@@ -6685,29 +5599,6 @@ Duration: 1:42
 URLs:
 - https://www.youtube.com/watch?v=A-_vSfRz3wI
 ---
-Track: Showdown with Cackletta!
-# JP: ラスト・ゲラゲモーナ
-# Reference:
-#   https://vgmdb.net/album/14666
-#   Mario & Luigi: Superstar Saga + Bowser's Minions sound test
-Artists:
-- Super Mario
-- Yoko Shimomura
-Duration: 2:11
-URLs:
-- https://www.youtube.com/watch?v=kcdGeWw_pvY
----
-Track: Simian Segue
-# Reference:
-#   https://vgmdb.net/album/429
-Artists:
-- Donkey Kong
-- Eveline Fischer
-Duration: 1:52
-URLs:
-- https://m.nintendo.com/shared/US/tracks/1bf78585-61ea-4cea-b9a3-397396b79390
-- https://www.youtube.com/watch?v=nOcRCi7kuJ8
----
 Track: Simon's Theme
 Artists:
 - Blue Prince
@@ -6750,21 +5641,6 @@ URLs:
 - https://www.youtube.com/watch?v=JcZEJKbFm4w
 Referenced Tracks:
 - track:arms-grand-prix-official-theme-song
----
-Track: Slider
-Directory: slider-super-mario-64
-# JP: スライダー
-# Official release:
-#   スーパーマリオ64 オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/137
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 2:48
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/7e1af7a5-cca1-4f71-85cf-08d7da1a356f
-- https://www.youtube.com/watch?v=lc9B5GkWw94
 ---
 Track: Slums of Basset
 # JP: 戦艦スラム・バセット
@@ -6831,60 +5707,6 @@ Duration: 1:33
 URLs:
 - https://www.youtube.com/watch?v=ZqGLXispP08
 ---
-Track: Snakey Chantey (Rattle Battle)
-# Reference:
-#   https://vgmdb.net/album/1516
-Artists:
-- Donkey Kong
-- David Wise
-Duration: 1:34
-URLs:
-- https://m.nintendo.com/shared/US/tracks/000fbc34-341d-4fde-85b5-7b295ae79889
-- https://www.youtube.com/watch?v=Mr2cFY_3PT0
-Referenced Tracks:
-- track:gang-plank-galleon
----
-Track: Song of Storms
-# JP: オカリナ「嵐の歌」
-# Official release:
-#   ゼルダの伝説 時のオカリナ オリジナルサウンドトラック
-#   The Legend of Zelda: Ocarina of Time Original Sound Track
-# Note:
-#   This track shouldn't be confused with Windmill Hut. The internet has
-#   generally taken "Song of Storms" to be the canonical name for the full
-#   song, but on the soundtrack the only instance of "Song of Storms" is
-#   for this eight second track featuring just the partial motif played
-#   on the ocarina. Windmill Hut is the full song usually referred to as
-#   "Song of Storm" online.
-#   UPDATE 31-10-2024 2:30 AM CET
-#   The Nintendo Music app calls this song "Song of Storms"
-# Reference:
-#   https://vgmdb.net/album/293
-#   Nintendo Music (name)
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:07
-URLs:
-- https://m.nintendo.com/shared/US/tracks/037c8a8a-3510-47b9-9dae-e085d5a8be4c
-- https://www.youtube.com/watch?v=m86VCw2JqOE
----
-Track: Soul 0 System
-# JP: Soul 0 System～回歴スル追約ノ忘レ貝
-# Official release:
-#   星のカービィ ロボボプラネット オリジナルサウンドトラック
-#   Kirby: Planet Robobot Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/63000
-Artists:
-- Kirby
-- Hirokazu Ando
-Duration: 4:11
-URLs:
-- https://www.youtube.com/watch?v=QMXmQkfNpGs
-Referenced Tracks:
-- Galactic Nova
----
 Track: Spiral Mountain
 # Reference:
 #   https://vgmdb.net/album/48423
@@ -6947,30 +5769,6 @@ URLs:
 Referenced Tracks:
 - track:arms-grand-prix-official-theme-song
 ---
-Track: Stage 7 (Kirby's Block Ball)
-# No official release (nor official arrangements, even)
-# Reference:
-#   https://vgmdb.net/product/8348
-Artists:
-- Kirby
-- Sukezo Ouyama
-- Ryoue Takagi
-URLs:
-- https://www.youtube.com/watch?v=YGBJAmTDKYI
----
-Track: "Stage Start (Super Mario World 2: Yoshi's Island)"
-Directory: stage-start-yoshis-island
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 0:02
-URLs:
-- https://www.youtube.com/watch?v=CcTEpaL_GVc
-- https://m.nintendo.com/shared/en-US/US/tracks/0665ee1a-8876-4d35-b4b2-2797752f273e
----
 Track: Starker (Tower BGM)
 # Reference:
 #   https://vgmdb.net/album/12153
@@ -6990,33 +5788,6 @@ Artists:
 Duration: 0:08
 URLs:
 - https://www.youtube.com/watch?v=dM0K4PyF_vQ
----
-Track: Steam Gardens
-# JP: スチームガーデン
-# Official release:
-#   スーパーマリオ オデッセイ オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/73671
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 3:42
-URLs:
-- https://m.nintendo.com/shared/US/tracks/27030ac3-58e3-4972-877f-21907c0dd2af
-- https://www.youtube.com/watch?v=-rfoYSmx0rk
----
-Track: Stone Tower Temple
-# JP: ロックビルの神殿 (表)
-# Official release:
-#   ゼルダの伝説 ムジュラの仮面 オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/1678
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 2:00
-URLs:
-- https://www.youtube.com/watch?v=xHxiQ5xc9f0
 ---
 Track: Stormy Saxophone 2 (Yagami Team Theme)
 # Reference:
@@ -7040,17 +5811,6 @@ Artists:
 Duration: 1:58
 URLs:
 - https://www.youtube.com/watch?v=8pPd4UR1gno
----
-Track: Sun's Song
-# Reference:
-#   https://vgmdb.net/album/293
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:06
-URLs:
-- https://m.nintendo.com/shared/US/tracks/7b2b976c-0a1e-4fb1-bccd-e0968d44ce51
-- https://www.youtube.com/watch?v=oLOyVDP_ckQ
 ---
 Track: SYD Overdrive
 # Reference:
@@ -7096,19 +5856,6 @@ Duration: 2:49
 URLs:
 - https://www.youtube.com/watch?v=XuSTcFfGPwg
 ---
-Track: Termina Field
-# Reference:
-#   https://vgmdb.net/album/1678
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 1:32
-URLs:
-- https://www.youtube.com/watch?v=WRjHngGF2oc
-Referenced Tracks:
-- Sun's Song
-- Overworld Theme (The Legend of Zelda)
----
 Track: Theme from San Andreas
 # Official release:
 #   Grand Theft Auto: San Andreas Official Soundtrack
@@ -7131,16 +5878,6 @@ Duration: 3:17
 URLs:
 - https://www.youtube.com/watch?v=matq6G5jgyE
 ---
-Track: Theme of Super Metroid
-# Reference:
-#   https://vgmdb.net/album/883
-Artists:
-- Metroid
-- Kenji Yamamoto
-Duration: 3:28
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/5f639923-f559-4fbf-9b90-e0638ef6df4b
----
 Track: Theme of SYD
 # Reference:
 #   none! yay!
@@ -7149,14 +5886,6 @@ Artists: #composer unknown
 Duration: 3:14
 URLs:
 - https://www.youtube.com/watch?v=2nRERYlmKDE
----
-Track: Thwomp Volcano
-# Mario & Luigi: Partners in Time, no official release
-Artists:
-- Super Mario
-- Yoko Shimomura
-URLs:
-- https://www.youtube.com/watch?v=PMihi2Yhd6k
 ---
 Track: Tide Goes Out
 # Reference:
@@ -7277,39 +6006,6 @@ Duration: 1:12
 URLs:
 - https://www.youtube.com/watch?v=weB1XprepU4
 ---
-Track: Title Theme (Humming) [Luigi's Mansion]
-# Reference:
-#   https://vgmdb.net/album/533
-Artists:
-- Super Mario
-- Kazumi Totaka
-Contributors:
-- Charles Martinet (voice)
-Duration: 1:59
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/fe90ccfc-c862-4059-a8e8-a3f33bdcc8fc
-- https://www.youtube.com/watch?v=dM3Swv9s2kQ
----
-Track: Title Theme (Luigi's Mansion)
-Artists:
-- Super Mario
-- Kazumi Totaka
-Duration: 0:25
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/e048fb04-a54d-41f6-a122-a2856209b84b
-- https://www.youtube.com/watch?v=nwiPbcLUsEg
-Referenced Tracks:
-- Title Theme (Humming) [Luigi's Mansion]
----
-Track: Title Theme (The Legend of Zelda)
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 2:55
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/e4836022-d604-4ce5-8b21-9ee882fc0849
-- https://www.youtube.com/watch?v=-CPrdomMoA4
----
 Track: Title Theme (Wii Sports)
 # Reference:
 #   https://vgmdb.net/album/10379
@@ -7404,27 +6100,6 @@ URLs:
 Referenced Tracks:
 - Main Menu (Wii Fit)
 ---
-Track: 'Training Room: Second Half'
-Artists:
-- Super Mario
-- Kazumi Totaka
-Duration: 2:34
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/d95e079a-27c7-4582-b48f-c24ed2d19abd
-- https://www.youtube.com/watch?v=ttgQqiv72AY
-Crediting Sources: |-
-    <i>Quasar Nebula:</i> (wiki editor, 4/12/2025)
-
-    Originally credited on-wiki to both [[artist:kazumi-totaka]] and [[artist:shinobu-tanaka]] with an internal comment in the data file.
-
-    <i>ruby:</i> (wiki editor, data file internal comment, 2/6/2024)
-
-    [[artist:kazumi-totaka|Kazumi Totaka]] and [[artist:shinobu-tanaka|Shinobu Tanaka]] are both listed in the credits of Luigi's Mansion. It is unknown who made this track.
-
-    <i>ruby:</i> (wiki editor, [Nintendo Music fix-ups pull request](https://github.com/hsmusic/hsmusic-data/pull/732), 4/8/2025)
-
-    updated credits come from research into the game's sound banks, I could share a link later, when the full research's been shared somewhere
----
 Track: Treasure Trove Cove
 # Reference:
 #   https://vgmdb.net/album/48423
@@ -7461,23 +6136,6 @@ URLs:
 Referenced Tracks:
 - Korobeiniki
 ---
-Track: The Ultimate Show
-# Very few tracks from Super Paper Mario received an official release,
-# but this one did! Name seems to be an unofficial localization.
-# JP: サイコーのショー
-# Official release:
-#   THE YEAR OF LUIGI SOUND SELECTION
-#   ザ・イヤー・オブ・ルイージ サウンドセレクション
-# Reference:
-#   https://vgmdb.net/album/40433
-Duration: 2:56
-Artists:
-- Super Mario
-- Naoko Mitome
-- Chika Sekigawa
-URLs:
-- https://www.youtube.com/watch?v=fWN3SwGqs5s&t=1349
----
 Track: Under This Banner
 # Reference:
 #   https://vgmdb.net/album/4028
@@ -7487,28 +6145,6 @@ Artists:
 Duration: 1:59
 URLs:
 - https://www.youtube.com/watch?v=8SnXrTiynHM
----
-Track: "Underground BGM (Super Mario World 2: Yoshi's Island)"
-Directory: underground-bgm-yoshis-island
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 1:45
-URLs:
-- https://www.youtube.com/watch?v=tnYYq41fCjs
-- https://m.nintendo.com/shared/en-US/US/tracks/5fd7db93-8944-4443-8193-ecf28f0e6f09
----
-Track: Underworld Theme
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:54
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/1a185134-294d-4503-b8d0-4d2e68e994af
-- https://www.youtube.com/watch?v=IDp0Mu1E1Bw
 ---
 Track: The Universe is Before You
 # Official release:
@@ -7523,25 +6159,6 @@ Artists:
 URLs:
 - https://disasterpeace.bandcamp.com/track/the-universe-is-before-you
 - https://www.youtube.com/watch?v=ypzIiZAmghg
----
-Track: Vagrant Counting Song of Retrospection
-# JP: この一撃に桃球レボリューション
-# Official release:
-#   星のカービィ ロボボプラネット オリジナルサウンドトラック
-#   Kirby: Planet Robobot Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/63000
-Artists:
-- Kirby
-- Hirokazu Ando
-Duration: 3:07
-URLs:
-- https://www.youtube.com/watch?v=tK1_m7f1UhA
-- https://open.spotify.com/track/1NQNE28NAB4PFmF6NVwQzV
-Referenced Tracks:
-- Bright Spinning Planet
-- Soul 0 System
-- Haltmann Works Co. HQ
 ---
 Track: Vampire Killer (Castle Infiltration BGM)
 # Reference:
@@ -7575,23 +6192,6 @@ Artists:
 Duration: 1:49
 URLs:
 - https://www.youtube.com/watch?v=jfEiEjfTUys&t=1795
----
-Track: Venturing into the Mechanized World
-# JP: キカイのせかいのだいぼうけん
-# Official release:
-#   星のカービィ ロボボプラネット オリジナルサウンドトラック
-#   Kirby: Planet Robobot Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/63000
-Artists:
-- Kirby
-- Hirokazu Ando
-Duration: 1:36
-URLs:
-- https://www.youtube.com/watch?v=xVMSnXfJCxk
-- https://open.spotify.com/track/7jQt4d7Rv3YZkxEBuURgtA
-Referenced Tracks:
-- Haltmann Works Co. Theme Song
 ---
 Track: Vortal Combat
 # Official release:
@@ -7705,22 +6305,6 @@ URLs:
 - https://open.spotify.com/track/4AuZBIN4aeFL9egQldQfRn
 - https://music.apple.com/album/wake-up-get-up-get-out-there/1226945984
 ---
-Track: Waluigi Pinball / Wario Stadium
-# No official release
-Artists:
-- Super Mario
-- Shinobu Tanaka
-URLs:
-- https://www.youtube.com/watch?v=psIuCn2jVNk
----
-Track: Wario Puzzle 1
-# No official release
-Artists:
-- Super Mario
-- Toshiyuki Ueno
-URLs:
-- https://www.youtube.com/watch?v=vZ9G1n3FTCY
----
 Track: We Were a Small But Peaceful Community
 # "This was town music from "Me and Myself, Like the Sun and the Moon".
 #  The game was based on a 2009 art entry in the annual "Famicase" competition."
@@ -7793,29 +6377,6 @@ Duration: 2:07
 URLs:
 - https://www.youtube.com/watch?v=E7PFm7mrdVY
 ---
-Track: Windmill Hut
-# JP: 風車小屋
-# Official release:
-#   ゼルダの伝説 時のオカリナ オリジナルサウンドトラック
-#   The Legend of Zelda: Ocarina of Time Original Sound Track
-# Note:
-#   Generally referred to as "Song of Storms" online, this track is the
-#   full song which is typically remixed or referenced. Not to be confused
-#   with the partial motif played on ocarina, track:ocarina-song-of-storms.
-# Update 2024-12-18 21:14 CET
-#   this song is called "Windmill Hut" in Nintendo Music.
-# Reference:
-#   https://vgmdb.net/album/293
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:51
-URLs:
-- https://m.nintendo.com/shared/US/tracks/5f453aef-10c7-4b57-855a-d74839a1576c
-- https://www.youtube.com/watch?v=mQLBEJ-Nj3A
-Referenced Tracks:
-- Song of Storms
----
 Track: Women Village
 # Reference:
 #   none
@@ -7835,39 +6396,6 @@ Artists:
 Duration: 1:25
 URLs:
 - https://www.youtube.com/watch?v=WvAAOmoEftg
----
-Track: World 1 Map (Grass Land)
-# Reference:
-#   https://vgmdb.net/album/533
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 0:44
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/95356274-2d2d-4574-ac2a-4951861a18d0
-- https://www.youtube.com/watch?v=LI_mwl3QcYA
----
-Track: World 6 Map (Ice Land)
-# Reference:
-#   https://vgmdb.net/album/533
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 0:41
-URLs:
-- https://share.m.nintendo.com/en-US/US/tracks/ed1ddac9-7290-49b8-8604-ca98c7687e87
-- https://www.youtube.com/watch?v=c8LnHIODRMM
----
-Track: World 8 Map (Dark Land)
-# Reference:
-#   https://vgmdb.net/album/533
-Artists:
-- Super Mario
-- Koji Kondo
-Duration: 0:50
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/e51d34a3-6281-4f95-9436-7cfb5215ba34
-- https://www.youtube.com/watch?v=XA6xrfUb06E
 ---
 Track: Yearn to Bloom - Aeldra's Theme
 # Original release:

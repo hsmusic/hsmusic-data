@@ -1334,6 +1334,20 @@ Group: Chrono
 ---
 Group: Dark Souls
 ---
+Group: Donkey Kong
+Series:
+- Name: Donkey Kong
+  Albums:
+  - Donkey Kong
+  - Donkey Kong Jr.
+- Name: Donkey Kong Country
+  Albums:
+  - Donkey Kong Country
+  - "Donkey Kong Country 2: Diddy's Kong Quest"
+- Name: Other Donkey Kong games
+  Albums:
+  - Donkey Kong 64
+---
 Group: The Elder Scrolls
 ---
 Group: Final Fantasy
@@ -1358,11 +1372,15 @@ Group: Halo
 ---
 Group: Kingdom Hearts
 ---
+Group: Kirby
+---
 Group: The Legend of Zelda
 ---
 Group: Megami Tensei
 ---
 Group: Metal Gear
+---
+Group: Metroid
 ---
 Group: Mother
 ---
@@ -1400,6 +1418,45 @@ Group: Silent Hill
 ---
 Group: Sonic the Hedgehog
 ---
+Group: Super Mario
+Series:
+- Name: Super Mario
+  Albums:
+  - Super Mario Bros.
+  - Super Mario Bros. 2
+  - Super Mario Bros. 3
+  - "Super Mario World 2: Yoshi's Island"
+  - Super Mario 64
+  - Super Mario Sunshine
+  - Super Mario Odyssey
+- Name: Mario Kart
+  Albums:
+  - Super Mario Kart
+  - Mario Kart DS
+- Name: Mario Party
+  Albums:
+  - Mario Party
+- Name: Paper Mario
+  Albums:
+  - Super Paper Mario
+- Name: Mario & Luigi
+  Albums:
+  - 'Mario & Luigi: Superstar Saga'
+  - 'Mario & Luigi: Partners in Time'
+  - "Mario & Luigi: Bowser's Inside Story"
+- Name: Luigi's Mansion
+  Albums:
+  - Luigi's Mansion
+  - "Luigi's Mansion: Dark Moon"
+- Name: Other Super Mario games
+  Albums:
+  - Hotel Mario
+  - Mario's Super Picross
+- Name: Super Mario-related games
+  Albums:
+  - Donkey Kong
+  - Donkey Kong Jr.
+---
 Group: Touhou Project
 Series:
 - Name: In-game VGM
@@ -1429,3 +1486,5 @@ Series:
 ---
 Group: More standalone video games
 Directory: more-vgm
+---
+Group: Yoshi
