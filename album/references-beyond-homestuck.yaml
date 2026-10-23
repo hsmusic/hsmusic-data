@@ -2509,20 +2509,6 @@ Duration: 1:05
 URLs:
 - https://www.youtube.com/watch?v=VP1nVVvi1Vw
 ---
-Track: Bolero of Fire
-# From THE LEGEND OF ZELDA OCARINA OF TIME 3D ORIGINAL SOUNDTRACK
-# JP: オカリナ「炎のボレロ」
-# Official release:
-#   ゼルダの伝説 時のオカリナ 3D オリジナル サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/26628
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:22
-URLs:
-- https://www.youtube.com/watch?v=zzxQZnj7sjU
----
 Track: Bomb Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -3496,16 +3482,6 @@ URLs:
 - https://www.youtube.com/watch?v=RLZR1GdMJps
 Referenced Tracks:
 - track:lost-in-thoughts-all-alone
----
-Track: Epona's Song
-# Unreleased fragment of "LonLon Ranch" (or the other way around?), played in ocarina
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:08
-URLs:
-- https://m.nintendo.com/shared/US/tracks/2e1e68bc-79bb-457e-80f3-bcc3d6a379ec
-- https://www.youtube.com/watch?v=QfhraAQUokA
 ---
 Track: Eternal Recurrence
 # JP: 永劫回帰
@@ -6031,31 +6007,6 @@ Duration: 1:33
 URLs:
 - https://www.youtube.com/watch?v=ZqGLXispP08
 ---
-Track: Song of Storms
-# JP: オカリナ「嵐の歌」
-# Official release:
-#   ゼルダの伝説 時のオカリナ オリジナルサウンドトラック
-#   The Legend of Zelda: Ocarina of Time Original Sound Track
-# Note:
-#   This track shouldn't be confused with Windmill Hut. The internet has
-#   generally taken "Song of Storms" to be the canonical name for the full
-#   song, but on the soundtrack the only instance of "Song of Storms" is
-#   for this eight second track featuring just the partial motif played
-#   on the ocarina. Windmill Hut is the full song usually referred to as
-#   "Song of Storm" online.
-#   UPDATE 31-10-2024 2:30 AM CET
-#   The Nintendo Music app calls this song "Song of Storms"
-# Reference:
-#   https://vgmdb.net/album/293
-#   Nintendo Music (name)
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:07
-URLs:
-- https://m.nintendo.com/shared/US/tracks/037c8a8a-3510-47b9-9dae-e085d5a8be4c
-- https://www.youtube.com/watch?v=m86VCw2JqOE
----
 Track: Soul 0 System
 # JP: Soul 0 System～回歴スル追約ノ忘レ貝
 # Official release:
@@ -6200,17 +6151,6 @@ Artists:
 Duration: 1:58
 URLs:
 - https://www.youtube.com/watch?v=8pPd4UR1gno
----
-Track: Sun's Song
-# Reference:
-#   https://vgmdb.net/album/293
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:06
-URLs:
-- https://m.nintendo.com/shared/US/tracks/7b2b976c-0a1e-4fb1-bccd-e0968d44ce51
-- https://www.youtube.com/watch?v=oLOyVDP_ckQ
 ---
 Track: SYD Overdrive
 # Reference:
@@ -6835,29 +6775,6 @@ Artists:
 Duration: 2:07
 URLs:
 - https://www.youtube.com/watch?v=E7PFm7mrdVY
----
-Track: Windmill Hut
-# JP: 風車小屋
-# Official release:
-#   ゼルダの伝説 時のオカリナ オリジナルサウンドトラック
-#   The Legend of Zelda: Ocarina of Time Original Sound Track
-# Note:
-#   Generally referred to as "Song of Storms" online, this track is the
-#   full song which is typically remixed or referenced. Not to be confused
-#   with the partial motif played on ocarina, track:ocarina-song-of-storms.
-# Update 2024-12-18 21:14 CET
-#   this song is called "Windmill Hut" in Nintendo Music.
-# Reference:
-#   https://vgmdb.net/album/293
-Artists:
-- The Legend of Zelda
-- Koji Kondo
-Duration: 0:51
-URLs:
-- https://m.nintendo.com/shared/US/tracks/5f453aef-10c7-4b57-855a-d74839a1576c
-- https://www.youtube.com/watch?v=mQLBEJ-Nj3A
-Referenced Tracks:
-- Song of Storms
 ---
 Track: Women Village
 # Reference:
