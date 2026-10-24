@@ -1923,17 +1923,6 @@ URLs:
 - https://www.youtube.com/watch?v=k-scKkglR6M # official digital release
 - https://www.youtube.com/watch?v=yqfxgnaDc4s # bootleg upload of official music video
 ---
-Track: All American Badass
-# Official Bandcamp release
-# Reference:
-#   https://vgmdb.net/album/60634
-Artists:
-- LISA
-- Austin Jorgensen
-Duration: 1:57
-URLs:
-- https://marinahova.bandcamp.com/track/all-american-badass
----
 Track: Aloneness
 # Reference:
 #   https://vgmdb.net/album/71811
@@ -2083,20 +2072,6 @@ Duration: 1:32
 URLs:
 - https://www.youtube.com/watch?v=bgI58RrZbt8
 ---
-Track: Awakening
-# Official release:
-#   La-Mulana Original Sound Track Complete
-# Reference:
-#   https://nigoro.bandcamp.com/album/la-mulana-original-sound-track-complete
-Directory: awakening-la-mulana
-Always Reference By Directory: true
-Artists:
-- La-Mulana
-- Houryu Samejima
-Duration: 4:06
-URLs:
-- https://nigoro.bandcamp.com/track/awakening-2
----
 Track: B-Doing Woods (World 2-1)
 Additional Names:
 - Name: >-
@@ -2157,16 +2132,6 @@ URLs:
 Referenced Tracks:
 - track:bathing-nintendogs
 ---
-Track: Battle (Golden Sun)
-# Info from Nintendo Music
-Artists:
-- Golden Sun
-- Motoi Sakuraba
-Duration: 2:38
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/42ebcf97-cc31-44be-97bf-1f0a5fd4b7fa
-- https://www.youtube.com/watch?v=19ZdAZO9FvU
----
 Track: Battle Theme (Yūyūki)
 Directory: battle-theme-yuyuki
 # Reference:
@@ -2220,20 +2185,6 @@ Artists:
 Duration: 1:15
 URLs:
 - https://www.youtube.com/watch?v=OeBKwxAqpOg
----
-Track: A Bell is Tolling
-Directory: a-bell-is-tolling
-# JP: 八点鐘
-# Official release:
-#   聖剣伝説2 オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/721
-Artists:
-- Secret of Mana
-- Hiroki Kikuta
-Duration: 1:33
-URLs:
-- https://www.youtube.com/watch?v=gMrwcjyeIVE
 ---
 Track: Beneath the Mask
 # Reference:
@@ -2981,19 +2932,6 @@ Duration: 2:05
 URLs:
 - https://www.youtube.com/watch?v=6cuDFYZXw0c
 ---
-Track: The Dark One
-Directory: the-dark-one-scott-pilgrim
-# Official release:
-#   Scott Pilgrim vs. the World: The Game Original Videogame Soundtrack
-# Reference:
-#   https://vgmdb.net/album/20713
-Duration: 1:57
-Artists:
-- Scott Pilgrim
-- Anamanaguchi
-URLs:
-- https://www.youtube.com/watch?v=TNfItV62gD8
----
 Track: Death Mountain Theme
 # Reference:
 #   https://vgmdb.net/album/1430
@@ -3453,19 +3391,6 @@ URLs:
 - https://m.nintendo.com/shared/US/tracks/2e1e68bc-79bb-457e-80f3-bcc3d6a379ec
 - https://www.youtube.com/watch?v=QfhraAQUokA
 ---
-Track: Eternal Recurrence
-# JP: 永劫回帰
-# Official release:
-#   聖剣伝説2 オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/721
-Artists:
-- Secret of Mana
-- Hiroki Kikuta
-Duration: 2:12
-URLs:
-- https://www.youtube.com/watch?v=KTNfNzLiZBA
----
 Track: Eternal Star
 # Mario Party 1, no official release
 Artists:
@@ -3492,19 +3417,6 @@ Track: Famicom Disk System
 Duration: 0:10
 URLs:
 - https://www.youtube.com/watch?v=FzmH9nUXCiQ
----
-Track: Fear of the Heavens
-# JP: 天使の怖れ
-# Official release:
-#   聖剣伝説2 オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/721
-Artists:
-- Secret of Mana
-- Hiroki Kikuta
-Duration: 1:42
-URLs:
-- https://www.youtube.com/watch?v=xgM9f0CSFe8
 ---
 Track: Fight On, Heroes!
 # Reference:
@@ -3641,18 +3553,6 @@ URLs:
 - https://www.youtube.com/watch?v=U3-0w9eVENw
 Referenced Tracks:
 - Meet the Flintstones
----
-Track: Flower Field BGM
-# Reference:
-#   https://vgmdb.net/album/281
-Artists:
-- Super Mario
-- Yoshi
-- Koji Kondo
-Duration: 2:53
-URLs:
-- https://www.youtube.com/watch?v=DTpksvCC-hg
-- https://m.nintendo.com/shared/en-US/US/tracks/b2cb2d99-5b44-4dc5-8e4f-0b7b8042f375
 ---
 Track: Forest World
 # Reference:
@@ -3866,18 +3766,6 @@ Artists:
 Duration: 0:23
 URLs:
 - https://www.youtube.com/watch?v=Navl6mG8UkA
----
-Track: Giant's Cry
-# Official release:
-#   La-Mulana Original Sound Track Complete
-# Reference:
-#   https://nigoro.bandcamp.com/album/la-mulana-original-sound-track-complete
-Artists:
-- La-Mulana
-- Houryu Samejima
-Duration: 4:32
-URLs:
-- https://nigoro.bandcamp.com/track/giants-cry-2
 ---
 Track: Ginger Island
 # Original release:
@@ -4297,19 +4185,6 @@ Duration: 1:41 ##as on https://vgmdb.net/album/50394
 URLs:
 - https://www.youtube.com/watch?v=J4D4zJVR354
 ---
-Track: Humming the Bassline
-# Official release:
-#   JET SET RADIO ORIGINAL SOUND TRACKS
-#   ジェット・セット・ラジオ オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/291
-Duration: 2:55
-Artists:
-- Jet Set Radio
-- Hideki Naganuma
-URLs:
-- https://www.youtube.com/watch?v=IJYK5tkgtvk
----
 Track: Hurry Up! (Donkey Kong)
 # Reference:
 #   https://vgmdb.net/product/10348
@@ -4571,77 +4446,6 @@ Duration: 3:32
 URLs:
 - https://www.youtube.com/watch?v=6uQv-dihEcE
 ---
-Track: Katamari on the Rocks
-# JP: 塊オンザロック～メインテーマ
-# Official release:
-#   塊魂サウンドトラック「塊フォルテッシモ魂」
-# Reference:
-#   https://vgmdb.net/album/174
-Artists:
-- Katamari Damacy
-- Yuu Miyake
-- Keita Takahashi (lyrics)
-Contributors:
-- Masayuki Tanaka (vocals)
-- Tomomi Suzuki (vocals)
-- artist:satoru-kosaki (trumpet)
-Duration: 5:57
-URLs:
-- https://www.youtube.com/watch?v=iMH49ieL4es
-Lyrics: |-
-    Nana nananananana na nana na nanana
-    Nana nananananana na nana na nanana
-    Nana nananananana na nana na nanana
-    Nana nananananana na nana na nanana na na na na
-
-    Don't worry do your best! (Wow!)
-    Picnic kibun feel so good! (Huh!) (<i>This picnic feeling feels so good!</i>)
-    Suteki na afternoon! (<i>A wonderful afternoon!</i>)
-    Furachi na midnight yeah! (<i>An audacious midnight, yeah!</i>)
-
-    Katamete korogasu I love you itsudemo smile for you (<i>Clumping and rolling, I love you and I'll always smile for you</i>)
-    Kimi dake ni love moon hey so ganbaranakucha (<i>This love moon is just for you, hey so you gotta do your best</i>)
-    Compression, compression
-
-    Osoroi no t-shirt! (Hey!) (<i>Matching t-shirts!</i>)
-    Teami no mafira tou! (Oh yeah!) (<i>And hand knit scarves and such!</i>)
-    Heartwarming mejiro-oshi! (Go, go, go!) (<i>They're packed with heartwarmingness!</i>)
-    Hitare etsu say goodbye! (Bye-bye!) (<i>Soak up the jooy, say goodbye!</i>)
-
-    Minna katamete shimaimashou funpatsu shichaimasu (<i>Let's all roll together, I'm really working up a sweat</i>)
-    Konna hi wa utatte odorou shuyaku wa boku dakedo (<i>On a day like this we should dance and sing, though I'm the star of the show</i>)
-    It's my way, it's my way
-
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
-
-    (Go, go, go!)
-    (Wow!)
-    (Yeah yeah yeah!)
-
-    Katamari Damacy
-
-    Peace na kibun yoishirete! (Go!) (<i>Get drunk on a peaceful feeling!</i>)
-    Kagayaki heaven akogarete! (<i>Long for the twinkling heavens!</i>)
-    Suteki sa sono atama! (Go!) (<i>Your mind is wonderful!</i>)
-    Mou o-matsuri sawagi sa! (Yeah!) (<i>We're already making merry!</i>)
-
-    Sou suru koto ga maru de Big Bang anata-iro ni somemasu (<i>This is just like the Big Bang, I'm painting it your color</i>)
-    Nanika to riyuu wo mitsukete wa party ga shitai no desu (<i>If you're looking for a reason, it's because I wanna party</i>)
-    Katamate katamate (<i>Rolling on, rolling on</i>)
-
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
-
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
-    Nana nananananana na na Katamari Damacy
----
 Track: Kazuya Mishima, Devil Kazuya
 # Reference:
 #   https://vgmdb.net/album/49622
@@ -4734,39 +4538,6 @@ URLs:
 Referenced Tracks:
 - Landscape Under The Ghost -Kaminano
 ---
-Track: Layton's Theme
-# JP: レイトン教授のテーマ
-# Official release:
-#   レイトン教授メインテーマ トリロジーCD
-# Reference:
-#   https://vgmdb.net/album/10563
-Artists:
-- Professor Layton
-- Tomohito Nishiura
-Duration: 1:55
-URLs:
-- https://www.youtube.com/watch?v=oys0fnIcgt8
----
-Track: Left-Hand Remix
-# The Rhythm Heaven franchise has only had a couple soundtrack soundtrack releases, and none for Rhythm Heaven Megamix.
-Artists:
-- Rhythm Heaven
-- Mitsuo Terada
-- Shinji Ushiroda
-- Asuka Ito
-- Yumi Takahashi
-- Megumi Inoue
-URLs:
-- https://www.youtube.com/watch?v=2xNDTPbdO80
-Lyrics: |-
-    And pose!
-    Let's sit down!
-    P-p-p-punch!
-
-    Wubbadubbadubba 'zat true? (Yes.)
-    Whoa, you go big guy!
-    Pose for the fans!
----
 Track: Leftherian Archipelago
 # Reference:
 #   https://vgmdb.net/album/75751
@@ -4820,19 +4591,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3dc60965-31c5-4b92-9c81-a2b12ba2fdb4
 - https://www.youtube.com/watch?v=LBnHnog1TwI
 ---
-Track: The Little Sprite
-# JP: 妖精族のこども
-# Official release:
-#   聖剣伝説2 オリジナル・サウンド・ヴァージョン
-# Reference:
-#   https://vgmdb.net/album/721
-Artists:
-- Secret of Mana
-- Hiroki Kikuta
-Duration: 0:52
-URLs:
-- https://www.youtube.com/watch?v=UrA3yf_W_I4
----
 Track: The London March (Billy Kane)
 # Reference:
 #   https://vgmdb.net/album/2758
@@ -4854,80 +4612,6 @@ Artists: ##composer unknown
 Duration: 2:55
 URLs:
 - https://www.youtube.com/watch?v=EW1qLlDvn7k
----
-Track: Lonely Rolling Star
-# Official release:
-#   塊魂サウンドトラック「塊フォルテッシモ魂」
-# Reference:
-#   https://vgmdb.net/album/174
-Artists:
-- Katamari Damacy
-- Yoshihito Yano
-Contributors:
-- Saki Kabata (vocals)
-Duration: 5:44
-URLs:
-- https://www.youtube.com/watch?v=7_QydNXI_ok
-Referenced Tracks:
-- Katamari on the Rocks
-Lyrics: |-
-    Hidamari sansan (<i>Laying in the sun, brilliantly bright</i>)
-    Kokoro wa haremoyou (<i>My heart will swell and grow sunny</i>)
-    Futatsu no hitomi wa (<i>Those two eyes, right down to the pupils</i>)
-    Himawari no tane no you (<i>Are like sunflowers and their seeds</i>)
-
-    Katarai kasanari (<i>Chatting, piling up</i>)
-    Katamari karamari (<i>Katamari entangling</i>)
-    Issho ni iru koto (<i>Being together</i>)
-    Zettai hitsuzen (<i>Is absolutely necessary</i>)
-
-    Demo anata daiji na yume wo egaku (<i>Except you are drawing out your important dream</i>)
-    Owaru made wa zutto sou koko de matteiru (<i>Until you're finished, throughout it all, I'll be here waiting for you </i>)
-
-    Your lonely rolling star
-    Tachidomaranaide nee (<i>Come on, never stand still!</i>)
-    Your lonely rolling star
-    Saa mae wo muite yukou (<i>So, face forward and keep going!</i>)
-
-    Hoshizora kira kira (<i>A sky of stars sparkling and glittering</i>)
-    Konpei tou no you (<i>Like confetti waiting to congratulate you </i>)
-    Amakute setsunai (<i>It invites sweet</i>)
-    Omoi ga tsunoru no (<i>And painful thoughts</i>)
-
-    Dakishimeta omoi wa yozora wo mai (<i>The thoughts that I've embraced and dance in the night sky</i>)
-    Kyuukouka shite anata no moto e todoku kara (<i>All of a sudden I want to lend a hand, to deliver myself by your side</i>)
-
-    Your lonely rolling star
-    Akiramenaide yo nee (<i>Don't ever give up!</i>)
-    Your lonely rolling star
-    Tama ni wa denwa shite (<i>Don't forget to call sometimes!</i>)
-    Your lonely rolling star
-    Aitai yo ima sugu (<i>I want to come to you, right now!</i>)
-    Your lonely rolling star
-    Haa tameiki ga hitotsu koboreru (<i>Haa, a single sigh escapes</i>)
-
-    Lonely, lonely, lonely roller
-    Lonely, lonely, lonely roller
-    Lonely, lonely, lonely roller
-    Lonely, lonely, lonely roller
-    Roller
-
-    Lonely, lonely, lonely roller
-    Lonely, lonely, lonely roller
-    Lonely, lonely, lonely roller
-    Lonely, lonely, lonely roller
-    Roller
-
-    Raigetsu mata ano basho de machiawase shiyou ka (<i>Next month, shall we meet at that place? </i>)
-
-    Your lonely rolling star
-    Tachidomaranaide nee (<i>Come on, never stand still!</i>)
-    Your lonely rolling star
-    Omoidashite yo nee (<i>Remember me, okay?</i>)
-    Your lonely rolling star
-    Matterarenai no nee (<i>I can't keep on waiting!</i>)
-    Your lonely rolling star
-    Saa mae wo muite yukou (<i>So face forward and keep going!</i>)
 ---
 Track: The Long Goodbye
 # Reference:
@@ -5085,17 +4769,6 @@ Duration: 2:06
 URLs:
 - https://m.nintendo.com/shared/US/tracks/6030eb13-b55b-41b4-8a23-27887eca363f
 - https://www.youtube.com/watch?v=yyjUmv1gJEg
----
-Track: Main Theme (Yoshi's New Island)
-# Reference:
-#   https://vgmdb.net/product/8628
-Artists:
-- Yoshi
-- CHAMY.Ishi
-Contributors:
-## Duration: '' ## no official release to source length from
-URLs:
-- https://www.youtube.com/watch?v=SzDmvY2pRJI
 ---
 Track: Main Title (Banjo-Kazooie)
 # Reference:
@@ -5471,16 +5144,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3c418c40-b31f-4ccd-8e5d-e145e534aacf
 - https://www.youtube.com/watch?v=cLJiAWspUw4
 ---
-Track: Old Friends
-# Official release on Bandcamp
-Artists:
-- Transistor
-- Darren Korb
-Duration: 3:21
-URLs:
-- https://supergiantgames.bandcamp.com/track/old-friends
-- https://www.youtube.com/watch?v=ql8K3KJyWgY
----
 Track: Opening Animation Music (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -5786,21 +5449,6 @@ Lyrics: |-
 
     Fire! Fire! Psycho Soldier
     Fire! Fire! Psycho Soldier
-
----
-Track: Puzzles
-# JP: 謎
-# Official releases:
-#   レイトン教授と不思議な町 オリジナル・サウンドトラック
-#   Professor Layton and the Curious Village Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/10500
-Artists:
-- Professor Layton
-- Tomohito Nishiura
-Duration: 1:54
-URLs:
-- https://www.youtube.com/watch?v=MRmLoq0aFcQ
 ---
 Track: Rainbow Road (Super Mario Kart)
 # No official release.
@@ -5858,19 +5506,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3a653369-9c75-4c8d-bb28-618a3470b8f4
 - https://www.youtube.com/watch?v=tlSWNXSJM8o
 ---
-Track: The Refiner's Fire
-# Official release:
-#   Hyper Light Drifter
-# Reference:
-#   https://vgmdb.net/album/57966
-#   https://disasterpeace.bandcamp.com/track/the-refiners-fire
-Artists:
-- Hyper Light Drifter
-- Disasterpeace
-Duration: 6:07
-URLs:
-- https://disasterpeace.bandcamp.com/track/the-refiners-fire
----
 Track: report_Bobdyfound #[sic]
 Artists:
 - Among Us
@@ -5915,44 +5550,6 @@ Artists:
 - Koji Kondo
 URLs:
 - https://www.youtube.com/watch?v=g54SRiv_0lc
----
-Track: Right-Hand Remix
-# (See Left-Hand Remix for release info)
-Artists:
-- Rhythm Heaven
-- Mitsuo Terada
-- Shinji Ushiroda
-- Asuka Ito
-- Yumi Takahashi
-- Megumi Inoue
-URLs:
-- https://www.youtube.com/watch?v=I81rQxSXz-s
-Lyrics: |-
-    If only I could just conjure a spell
-    Kapow! Hocus hocus hocus!
-
-    Peck your beak
-    Peck your beak
-    Stretch out your neck!
-
-    Ready!
-    Three, go!
-
-    Two flipper rolls, one, two!
-
-    One! Two! Three!
-    One! Two! Three!
-    OK, it's on!
-    It's up to you!
-
-    Hey baby
-    How's it going?
-    This beat
-    Is non-stop!
-
-    Jab, jab, jab, jab
-    Go go go!
-    One two
 ---
 Track: RoboCop Gameboy Title Theme
 # No official release. Duration and name taken from oldest upload.
@@ -6120,119 +5717,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/bc4cfeb8-dabe-4b86-8f12-62c7f4764d91
 - https://www.youtube.com/watch?v=HBCobfFCmzI
 ---
-Track: Say "I Gotta Believe!"
-# Official release:
-#   パラッパラッパー2 ― オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/1511
-Artists:
-- PaRappa the Rapper
-- De La Soul
-- Takako Hirasawa
-Duration: 4:16
-URLs:
-- https://www.youtube.com/watch?v=vi8wcm6miHg
-Lyrics: |-
-    Say "Alright!" (Alright!)
-    Say "Oh yeah!" (Oh yeah!)
-    Whatcha gonna do?  (Whatcha gonna do!)
-    (I gotta believe!) I gotta believe!
-
-    If you thought your dreams were fulfilled before
-    You need to come on back, Jack
-    Look who walked in the door
-    It's Parappa The Rapper, and my name is Pos
-    I'm known to emcee for free or a cost
-    If you be at the mosque, synagogue, or church
-    Drop to your knees and pray for Parappa The Rapper
-    To save the day and make you scream hooray!
-    Just clap on time, 'cause it's time to play
-
-    I know you're slick and smooth, cool with an attitude
-    On the right track, leader of the pack
-    Kickin' back, never looking back
-    You know my words won't satisfy
-    What I have now, deep inside of me (Inside of me)
-    And all I need is much security
-
-    When you're needed for a mission, he got your back
-    Sure to have a cool time, man, that's a fact
-    Yo, he's a good friend, never ever a foe
-    So come on and let's go
-
-    We are the concentrated Vitamin D, with the title
-    Hookin' it up, speedy quick, like noodles to cup
-    It ain't nothin' for the one man
-    Buttin' to move somethin'
-    Runnin' par rappin' through laps
-    Hurdlin' raps
-    And just when you thought your game was dead
-    Well, we got you cookin' up rhymes all in your think kettle
-    Proceed and click the next level for fun, player (Oh, oh yeah)
-    Play ya game, player number one
-
-    True love that speaks the truth
-    You know it'll help me through
-    In the cold night
-    In the morning, all night
-    Or even in a fight
-    You know you should come home to me
-    We can have fun until the early morning light
-
-    Aw yeah
-    Aw yeah, oh
-    Oh, oh
-    Oh
-
-    Here to serve up a dish like Sunny Chan
-    You know I'm the man
-    Here to have fun
-    Wanna have a taste?
-    Here, have some
-    Servin' up O's by the oodles
-    Oh, I forgot
-    Parappa The Rapper, he don't like noodles
-    We like eating snapper that's red
-    Freestyle from the top of the head
-    Yo, Parappa got skill
-    Why don't you give it try, see what you can build
-    Tasty like fruit that's peeled
-    Watch your heels, you might slip and fall
-    And if you do, you know who to call (Who?)
-    It's Parappa the Rapper and De La, y'all
-
-    You and me can walk together
-    And down the road forever
-    And smell and touch the treasures of life
-    Every day
-    Love and hate are face to face
-    And good and bad are back to back
-    Every day, uh huh
-    Uh huh, uh huh, oh yeah, yay
-
-    Switch on your 36 inches
-    You in the boob tube, trapped deep
-    'Til the game watch you sleep
-    Overdosed on moves taught by the sensei
-    Your timing's all off, tiger
-    You in the little leagues
-    Striking out a De La joint
-    Book a session for the Plugs and PJ
-    To come train the camp, y'all
-    Mooselini, graffiti tag and plug dose (Dose, dose, dose)
-    Game over, I'm ghost (Ghost, ghost)
-
-    When you're needed for a mission, he got your back
-    Sure to have a cool time, man, that's a fact
-    Yo, he's a good friend, never ever a foe
-    Come on, everybody, saddle up and let's go
-
-    All my people say "Alright!" (Alright!)
-    Yeah, that was good, now let me hear you say "Oh yeah!" (Oh yeah!) (Oh yeah)
-    Now let me hear you say "Whatcha gonna do?" (Whatcha gonna do?)
-    Come on, y'all, let me hear you say "I gotta believe!" (I gotta believe!) (Believe...)
-    Oh yeah, oh yeah, oh yeah, oh yeah, yay
----
 Track: Seaskape
 # Reference:
 #   https://vgmdb.net/album/54591
@@ -6248,16 +5732,6 @@ Duration: 2:56
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/918c7bd9-473a-4fd0-b9c2-0b681308e529
 - https://www.youtube.com/watch?v=EGcDuLA36_k
----
-Track: Shapes
-# Reference
-#   https://vgmdb.net/album/66391
-Artists:
-- Night in the Woods
-- Alec Holowka
-Duration: 1:42
-URLs:
-- https://www.youtube.com/watch?v=A-_vSfRz3wI
 ---
 Track: Showdown with Cackletta!
 # JP: ラスト・ゲラゲモーナ
@@ -6339,20 +5813,6 @@ Duration: 2:48
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/7e1af7a5-cca1-4f71-85cf-08d7da1a356f
 - https://www.youtube.com/watch?v=lc9B5GkWw94
----
-Track: Slums of Basset
-# JP: 戦艦スラム・バセット
-# Official release:
-#   Solatorobo それからCODAへ　パーフェクトサウンドトラック
-#   Solatorobo Perfect Sound Track
-# Reference:
-#   https://vgmdb.net/album/35564
-Artists:
-- Solatorobo
-- Chikayo Fukuda
-Duration: 2:03
-URLs:
-- https://www.youtube.com/watch?v=2p9aPeTnXeI
 ---
 Track: Snake Eater
 # Reference:
@@ -6600,20 +6060,6 @@ Artists: #composer unknown
 Duration: 3:34
 URLs:
 - https://www.youtube.com/watch?v=84vPDrLutNo
----
-Track: Summer Jobs
-# Official release:
-#   Don't Starve Soundtrack
-# Reference:
-#   https://vgmdb.net/album/39583
-# Not included in original release, added to album on April 2 2014
-Artists:
-- Don't Starve
-- Vince de Vera
-- Jason Garner
-Duration: 1:58
-URLs:
-- https://www.youtube.com/watch?v=8pPd4UR1gno
 ---
 Track: Sun's Song
 # Reference:
@@ -6916,19 +6362,6 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor, 1/4/2023)
     While you may recognize this song as the Game Over theme from that one Russian Felix the Cat game (a bootleg Genesis port of the NES game), the music is actually plagiarized from the Genesis port of Uwol: Quest for Money, an original homebrew game first released for the ZX Spectrum. While you may remember the track being faster, it in fact was always this same speed but often mangled by running a PAL region game at NTSC speed (resulting in a 20% speedup).
 ---
-Track: To Make the End of Battle
-# JP: TO MAKE THE END OF BATTLE (タイトル)
-# Official release:
-#   ミュージック・フロム・イース II
-# Reference:
-#   https://vgmdb.net/album/1279
-Artists:
-- Ys
-- Yuzo Koshiro
-Duration: 2:15
-URLs:
-- https://www.youtube.com/watch?v=c2Wb5A-Tt3w
----
 Track: Top Man Stage
 # Reference:
 #   https://vgmdb.net/album/33749
@@ -6948,14 +6381,6 @@ URLs:
 Commentary: |-
     <i>Niklink:</i> (wiki editor, 12/7/2022)
     Originally found in Mario Paint and known as 'Mario Paint song', it was its discovery in Animal Crossing as a secret track you could only hear by requesting 'K.K. Song' from K.K. Slider that clued fans in as to its true nature, as the character is based on Nintendo composer Kazumi Totaka. Versions of this song have been hidden in almost every game he has been involved in, usually by idling in some specific part of the game for several minutes.
----
-Track: Toy Block Tower
-# Wario Land 4, no official release
-Artists:
-- Wario Land
-- Ryoji Yoshitomi
-URLs:
-- https://www.youtube.com/watch?v=ytuiy4O8Ik8
 ---
 Track: Toys on a Tear (Shrunk)
 # Reference:
@@ -7008,17 +6433,6 @@ Artists:
 Duration: 4:04
 URLs:
 - https://www.youtube.com/watch?v=ECMUo0tcf-c
----
-Track: A-Type
-Artists:
-- Tetris
-- Hirokazu Tanaka
-Duration: 1:33
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/7e232803-f559-4c72-a746-757988a06240
-- https://www.youtube.com/watch?v=NmCCQxVBfyM
-Referenced Tracks:
-- Korobeiniki
 ---
 Track: The Ultimate Show
 # Very few tracks from Super Paper Mario received an official release,
@@ -7470,42 +6884,6 @@ Duration: 0:04
 URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/43619f09-e7fd-4a0f-9bcb-61597de9dd0f
 - https://www.youtube.com/watch?v=yOAK2byXilo
----
-Track: Your Reality
-# Official release on Youtube
-# https://www.youtube.com/playlist?list=PLc5ZKngbAPXMG4yjq9ESGfqblQfL9g4-p
-Artists:
-- Doki Doki Literature Club!
-- Dan Salvato
-Contributors:
-- Jillian Ashcraft (vocals)
-Duration: 3:00
-URLs:
-- https://www.youtube.com/watch?v=Bf6b-TwhF3A
-Lyrics: |-
-    Every day, I imagine a future where I can be with you
-    In my hand is a pen that will write a poem of me and you
-    The ink flows down into a dark puddle
-    Just move your hand, write the way into his heart
-    But in this world of infinite choices
-    What will it take just to find that special day?
-    What will it take just to find that special day?
-
-    Have I found everybody a fun assignment to do today?
-    When you're here, everything that we do is fun for them anyway
-    When I can't even read my own feelings
-    What good are words when a smile says it all?
-    And if this world won't write me an ending
-    What will it take just for me to have it all?
-
-    Does my pen only write bitter words for those who are dear to me?
-    Is it love if I take you, or is it love if I set you free?
-    The ink flows down into a dark puddle
-    How can I write love into reality?
-    If I can't hear the sound of your heartbeat
-    What do you call love in your reality?
-    And in your reality, if I don't know how to love you
-    I'll leave you be
 ---
 Section: Music composed for movies, television, and other visual arts
 ---
