@@ -1,73 +1,15 @@
 Category: HSMusic
 Color: '#0088ff'
 ---
-Group: Official Discography
+Group: Official
+Exclude From Other Group Album Summaries: true
 Directory: official
-URLs:
-- https://homestuck.bandcamp.com/music
-Series:
-- Name: Numbered volumes
-  Albums:
-  - Homestuck Vol. 1
-  - Homestuck Vol. 2
-  - Homestuck Vol. 3
-  - Homestuck Vol. 4
-  - Homestuck Vol. 1-4
-  - Homestuck Vol. 5
-  - 'Homestuck Vol. 6: Heir Transparent'
-  - 'Homestuck Vol. 7: At the Price of Oblivion'
-  - Homestuck Vol. 8
-  - Homestuck Vol. 9
-  - Homestuck Vol. 10
-- Name: Team albums
-  Albums:
-  - 'Midnight Crew: Drawing Dead'
-  - Squiddles!
-  - The Felt
-  - AlterniaBound
-  - The Wanderers
-  - Cherubim
-- Name: Solo albums
-  Show Album Artists: all
-  Albums:
-  - Alternia
-  - Strife!
-  - Medium
-  - Mobius Trip and Hadron Kaleido
-  - Sburb
-  - Prospit & Derse
-  - Song of Skaia
-  - Symphony Impossible to Play
-  - One Year Older
-  - Genesis Frog
-- Name: coloUrs and mayhem
-  Albums:
-  - 'coloUrs and mayhem: Universe A'
-  - 'coloUrs and mayhem: Universe B'
-- Name: A6A6A6 and Act 7
-  Albums:
-  - '[S] Collide.'
-  - Act 7
-- Name: Hiveswap & Pesterquest
-  Albums:
-  - THE GRUBBLES
-  - Hiveswap Act 1 OST
-  - Hiveswap Friendsim
-  - Pesterquest Soundtrack
-  - 'HIVESWAP: ACT 2 Original Soundtrack'
-- Name: 'Homestuck: Beyond Canon'
-  Albums:
-  - Beyond Canon
-- Name: Requiem for a Homestuck
-  Albums:
-  - Requiem for a Homestuck
-  - FUNKSTUCK//24
 Description: |-
-    Homestuck's official music releases, comprising the canon foundational to and long inspiring its vibrant fan community.
-    <hr class="split">
-    Music was introduced into Homestuck soon after its 2009 launch, in contrast with previous MS Paint Adventures, and it rapidly became an iconic aspect of the story. Homestuck's music contributors flourished into a loose and diverse collective of artists, the Homestuck Music Team; official music albums were released via Bandcamp at a dizzying pace, whether in [[album:homestuck-vol-1|numbered volumes]], [[album:strife|solo efforts]], or [[album:alterniabound|themed compilations]]. Despite their cult success, the team fizzled out after the release of [[album:cherubim|Cherubim]] in 2013, with subsequent official releases mainly being concrete, contracted work for various spin-off efforts.
-
-    On October 25th 2019, the official Bandcamp page was thoroughly restructured without warning, with albums being haphazardly combined into compilations. Unique track artwork was discarded and many albums were left completely unavailable. Six years later and following a brief maintenance period, on September 26th 2025, nearly all these releases were restored, and the albums and artwork are available again in their longstanding form.
+    A group doesn't count if it's missing its group description. Oops!
+---
+Group: Affiliated   # Licensed, Endorsed, etc...
+Description: |-
+    A group doesn't count if it's missing its group description. Oops!
 ---
 Group: Fandom
 Exclude From Other Group Album Summaries: true
@@ -92,13 +34,191 @@ Description: |-
     Countless artists together made an early abode in the community around Homestuck, expanding their sound as they shared their music with other artists and listeners alike; many, in turn, would put their experience into works beyond the webcomic. Some began personal discographies; some scored games and other new projects, finding followings altogether anew; some joined together, collaboratively creating in a spirit inspired by the comic community's own fan-groups.
     Each of these musicians found roots in Homestuck, in time branching out beyond; the albums in this area of the wiki are a small selection of what they've gone on to create. We encourage you to delve in and explore; every album is its own unique work, and many familiar faces await within!
 ---
-Group: Additional Tracks
+Group: Additional
 Exclude From Other Group Album Summaries: true
 Description: |-
     Organizational "albums" for grouping tracks that have been referenced by other tracks or featured in flashes and games. Though these aren't real album releases, they contain lots of interesting music and media that have become part of Homestuck's musical landscape!
 ---
-Category: Fan-musician groups
+Category: MS Paint Adventures
+---
+Group: Homestuck
+Series:
+- Name: Numbered volumes
+  Albums:
+  - Homestuck Vol. 1
+  - Homestuck Vol. 2
+  - Homestuck Vol. 3
+  - Homestuck Vol. 4
+  - Homestuck Vol. 1-4
+  - Homestuck Vol. 5
+  - 'Homestuck Vol. 6: Heir Transparent'
+  - 'Homestuck Vol. 7: At the Price of Oblivion'
+  - Homestuck Vol. 8
+  - Homestuck Vol. 9
+  - Homestuck Vol. 10
+- Name: Themed albums
+  Show Album Artists: all
+  Albums:
+  - 'Midnight Crew: Drawing Dead'
+  - Squiddles!
+  - Alternia
+  - The Felt
+  - AlterniaBound
+  - Strife!
+  - Mobius Trip and Hadron Kaleido
+  - Sburb
+  - The Wanderers
+  - Prospit & Derse
+  - Song of Skaia
+  - Symphony Impossible to Play
+  - One Year Older
+  - Genesis Frog
+  - Cherubim
+- Name: A6A6A6 and Act 7
+  Albums:
+  - '[S] Collide.'
+  - Act 7
+- Name: coloUrs and mayhem
+  Albums:
+  - 'coloUrs and mayhem: Universe A'
+  - 'coloUrs and mayhem: Universe B'
+---
+Group: Hiveswap
+---
+Group: Psycholonials
+URLs:
+- https://psycholonials.bandcamp.com/
+- https://www.psycholonials.com/
+Description: |-
+    "While in communication with supernatural forces, two influencers launch a daring new social media brand." A visual novel by [[artist:andrew-hussie|Andrew Hussie]].
+
+    <hr class="split">
+
+    Heavily influenced by COVID-19 lockdowns, the George Floyd protests, and other controversies of mid-2020, Psycholonials is Andrew Hussie's first post-Homestuck original work, releasing from February 3rd to April 20th, 2021. It features music by [[artist:clark-powell|Clark Powell]], often repurposed from her [[group:clark-powell|previous independent efforts]].
+
+    Each of Psycholonials' 9 chapters was released alongside an EP album containing music featured in that chapter. On the game's third anniversary, coinciding with the game becoming free, the EPs were removed from Bandcamp, with the now heavily-discounted full soundtrack remaining available.
+---
+Group: 'Homestuck: Beyond Canon'  # ????
+---
+Category: Licensed fanworks
+---
+Group: Deconreconstruction  # more like vast error music team etc etc???
+Directory: deconrecon       # i.e. in 'team discographies' rather than here
+URLs:
+- https://vasterror.bandcamp.com/
+- https://twitter.com/Deconrecon_
+- https://www.deconreconstruction.com/
+Series:
+- Name: Numbered volumes
+  Albums:
+  - Vast Error Vol. 1
+  - Vast Error Vol. 2
+  - Vast Error Vol. 3
+  - Vast Error Vol. 1-3
+  - Vast Error Vol. 4
+  - 'Vast Error Vol. 5: Side 1'
+  - 'Vast Error Vol. 5: Side 2'
+  - Vast Error Vol. 6
+- Name: Team albums
+  Albums:
+  - Running For Eons
+  - Catch 322
+  - 'Dead Shufflers: Anything Goes'
+  - Corporate Holiday Hits
+  - 'Perils Of Probability: The Technicolor Terror From Beyond The Hyperthetical!'
+  - Magnum Opus
+  - In Medias Res
+- Name: Solo albums
+  Show Album Artists: all
+  Albums:
+  - Repiton
+  - Reminders Of You [Beta]
+  - Empyreal Rhapsody
+  - Faux Dramatica
+  - Fighting Further
+  - Duodenary
+- Name: Snowbound Blood
+  Albums:
+  - Snowbound Blood (Original Game Soundtrack)
+- Name: Sound tests
+  Albums:
+  - Sound Test I
+  - Sound Test II
+Description: |-
+    Studio consisting of many creators from the Homestuck fan community and beyond, responsible for [Vast Error](https://www.deconreconstruction.com/vasterror/1), [its spinoffs](https://deconreconstruction.itch.io/snowbound-blood), and other projects.
+    <hr class="split">
+    Vast Error is a fanventure from early 2013 that takes the Homestuck setting and inspiration from traditional fan-adventures to create its own storyline with original mechanics. Musicians and artists from past Homestuck fan albums and beyond have created many albums and works for it and its playable spinoff, Snowbound Blood.
+---
+Group: Desynced
+URLs:
+- https://mspfa.com/?s=28296
+- https://desynced.bandcamp.com/
+- https://twitter.com/_Desynced_
+Series:
+- Name: Numbered volumes
+  Albums:
+  - Desynced Vol. 1
+  - Desynced Vol. 2
+- Name: Numbered anthologies
+  Albums:
+  - Anthology I
+  - Anthology II
+- Name: Team albums
+  Albums:
+  - Election Season
+  - Nibiru
+  - Renew Your Rites
+- Name: Solo albums
+  Show Album Artists: all
+  Albums:
+  - Pantheon
+  - Noirscape
+  - Curtain Call - Maragi Radi
+  - incertain Calls - Nelrith Jynn
+Description: |-
+    A fanventure by a talented team of authors, artists and musicians, in the works since 2017 and updating since early 2020!
+---
+Category: Team discographies
 Color: '#ffec14'
+---
+Group: Homestuck Music Team
+Description: |-
+    A group doesn't count if it's missing its group description. Oops!
+Series:
+- Name: Team albums
+  Albums:
+  - 'Midnight Crew: Drawing Dead'
+  - Squiddles!
+  - The Felt
+  - AlterniaBound
+  - The Wanderers
+  - Cherubim
+- Name: Solo albums
+  Show Album Artists: all
+  Albums:
+  - Alternia
+  - Strife!
+  - Medium
+  - Mobius Trip and Hadron Kaleido
+  - Sburb
+  - Prospit & Derse
+  - Song of Skaia
+  - Symphony Impossible to Play
+  - One Year Older
+  - Genesis Frog
+---
+Group: More from Homestuck Bandcamp
+Description: |-
+    A group doesn't count if it's missing its group description. Oops!
+---
+Group: Organized community albums
+Description: |-
+    A group doesn't count if it's missing its group description. Oops!
+
+# ---
+# DIVIDER HERE
+# ---
+
 ---
 Group: Casual Sunday
 URLs:
@@ -987,82 +1107,6 @@ Description: |-
 
     [Description via Bandcamp.](https://cheezquest.bandcamp.com/)<br>
 ---
-Group: Deconreconstruction
-Directory: deconrecon
-URLs:
-- https://vasterror.bandcamp.com/
-- https://twitter.com/Deconrecon_
-- https://www.deconreconstruction.com/
-Series:
-- Name: Numbered volumes
-  Albums:
-  - Vast Error Vol. 1
-  - Vast Error Vol. 2
-  - Vast Error Vol. 3
-  - Vast Error Vol. 1-3
-  - Vast Error Vol. 4
-  - 'Vast Error Vol. 5: Side 1'
-  - 'Vast Error Vol. 5: Side 2'
-  - Vast Error Vol. 6
-- Name: Team albums
-  Albums:
-  - Running For Eons
-  - Catch 322
-  - 'Dead Shufflers: Anything Goes'
-  - Corporate Holiday Hits
-  - 'Perils Of Probability: The Technicolor Terror From Beyond The Hyperthetical!'
-  - Magnum Opus
-  - In Medias Res
-- Name: Solo albums
-  Show Album Artists: all
-  Albums:
-  - Repiton
-  - Reminders Of You [Beta]
-  - Empyreal Rhapsody
-  - Faux Dramatica
-  - Fighting Further
-  - Duodenary
-- Name: Snowbound Blood
-  Albums:
-  - Snowbound Blood (Original Game Soundtrack)
-- Name: Sound tests
-  Albums:
-  - Sound Test I
-  - Sound Test II
-Description: |-
-    Studio consisting of many creators from the Homestuck fan community and beyond, responsible for [Vast Error](https://www.deconreconstruction.com/vasterror/1), [its spinoffs](https://deconreconstruction.itch.io/snowbound-blood), and other projects.
-    <hr class="split">
-    Vast Error is a fanventure from early 2013 that takes the Homestuck setting and inspiration from traditional fan-adventures to create its own storyline with original mechanics. Musicians and artists from past Homestuck fan albums and beyond have created many albums and works for it and its playable spinoff, Snowbound Blood.
----
-Group: Desynced
-URLs:
-- https://mspfa.com/?s=28296
-- https://desynced.bandcamp.com/
-- https://twitter.com/_Desynced_
-Series:
-- Name: Numbered volumes
-  Albums:
-  - Desynced Vol. 1
-  - Desynced Vol. 2
-- Name: Numbered anthologies
-  Albums:
-  - Anthology I
-  - Anthology II
-- Name: Team albums
-  Albums:
-  - Election Season
-  - Nibiru
-  - Renew Your Rites
-- Name: Solo albums
-  Show Album Artists: all
-  Albums:
-  - Pantheon
-  - Noirscape
-  - Curtain Call - Maragi Radi
-  - incertain Calls - Nelrith Jynn
-Description: |-
-    A fanventure by a talented team of authors, artists and musicians, in the works since 2017 and updating since early 2020!
----
 Group: Freeroam
 URLs:
 - https://mspfa.com/?s=14778
@@ -1235,16 +1279,6 @@ Series:
   Albums:
   - 'RAKKA: SP1 - OUTSIDE 2'
   - 'RAKKA: WAKE 01 Opening - ME!'
----
-Group: Psycholonials
-URLs:
-- https://psycholonials.bandcamp.com/
-- https://www.psycholonials.com/
-Description: |-
-    "While in communication with supernatural forces, two influencers launch a daring new social media brand." A visual novel by [[artist:andrew-hussie|Andrew Hussie]].
-    <hr class="split">
-    Heavily influenced by COVID-19 lockdowns, the George Floyd protests, and other controversies of mid-2020, Psycholonials is Andrew Hussie's first post-Homestuck original work, releasing from February 3rd to April 20th, 2021. It features music by [[artist:clark-powell|Clark Powell]], often repurposed from her [[group:clark-powell|previous independent efforts]].
-    Each of Psycholonials' 9 chapters was released alongside an EP album containing music featured in that chapter. On the game's third anniversary, coinciding with the game becoming free, the EPs were removed from Bandcamp, with the now heavily-discounted full soundtrack remaining available.
 ---
 Group: UNBEATABLE
 Closely Linked Artists:
