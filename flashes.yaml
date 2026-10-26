@@ -5413,6 +5413,171 @@ Contributors:
 - Killian Ng
 - Eyes5
 ---
+Flash: Troubled Cosmos
+Directory: troubled-cosmos
+Date: February 17, 2026
+URLs:
+- https://mspaintadventures.itch.io/troubled-cosmos
+Contributors:
+- Andrew Hussie (script, assets)
+- EtchJetty (programming)
+- Fruzmig (GUI)
+Featured Tracks:
+- A Troubled's Cosmos
+- jafe (troubled cosmos mix)
+Crediting Sources: |-
+    @@ [Itch.io description](https://mspaintadventures.itch.io/troubled-cosmos)
+
+    TROUBLED COSMOS
+
+    \- A COLLECTION OF ORIGINAL CHARACTERS DEDICATED TO THE PUBLIC DOMAIN BY ANDREW HUSSIE -
+
+    [...]
+
+    SPECIAL THANKS TO
+
+    [[artist:etchjetty|EtchJetty]] (PROGRAMMING)<br>
+    [[artist:fruzmig|Fruz]] (GUI)<br>
+    FlaringK (EMOTIONAL SUPPORT)<br>
+    The Lukemeister, Fruz, Vibri, Ethan Clark, others (PLAYTESTING)
+
+    AND YOU
+
+    <img inline pixelate width="50" height="50" src="media/misc/tc-you.png">
+Commentary: |-
+    <i>EtchJetty:</i> (commentary.md)
+
+    hey everyone. etch here. when we were handed the script and the assets we werent given any music to go along with it, so i thought i'd do some writing about why i made the music choices that i made.
+
+    but before i get into that i'd like to give a quick shoutout to this commentary's sponsor, mspa-misc. mspa-misc is a great channel where you can be a weird little freak about troubled cosmos in such a way that vibri will be like "oh haha i was working on programming that game" and your friend will be like "Uhuh. Yeah. What Game ????" and vibri's like "oh this game" and posts art assets from it that nobody's ever seen before and everyone's just like THERE WAS A GAME??? and then your friend pings you while saying Hey Vibri If you Need a Programmer. check this guy out. and then you're like HI YES I CAN PROGRAM. and so then that's why this game got made.
+
+    anyway.
+
+    **SPACESHIP MUSIC**<br>
+    so this first track was meant to be a temp track. i got in contact with another friend who i trust to do really good music and she actually did make a good as fuck beta track after reading a little bit of the script, but unfortunately she was too busy to commit to like. y'know. scoring a shitpost visual novel that 5 people are going to play. eventually the temp track sort of stuck in my brain as "this is what this scene sounds like" so i kept it.
+
+    if you don't recognize it, you should go purchase Puyo Puyo Tetris (2014) and then play the story mode. there are lots of fun tracks in there! like the next two tracks I used for this game. dhgkdhdksj
+
+    this song is iirc used for the dialogue in the story mode? i like it a lot, it gives off the gormless happy go lucky vibe i want our titular troubled cosmonaut to embody.
+
+    i know this isn't a programming commentary but getting that background to loop was pretty awesome. i had practice getting backgrounds to loop from the train segment in my fangame pqr. a lot harder to get it to loop vertically for that segment later on though, that was just a fucking nightmare of pixel math shfkfhsjskd
+
+    **SPACESHIP MUSIC** (Copyright Free)<br>
+    i want you to be hit over the fucking head by this one. i want this one to punch you in the gut. welcome to five minute crafts hellworld, population you and your stream chat. to me a lot of the thesis of this game is that copyright infringement is ridiculous and thusly worth ridiculing, so i want the non-infringing version of the game to also be ridiculous.
+
+    it's not kevin macleod's fault. his music's great, it's just ludicrously overplayed lmao.
+
+    **CODEC SOUND**<br>
+    i found a 15 year old zip folder on reddit that my browser warned me against downloading but it had perfect quality gamerips of all of the mgs1 sound effects and stuff. i chose mgs sounds bc i hoped it'd have made andrew laugh. according to vibri who watched andrew play it this did work
+
+    **THEME OF HANK AND LAMBO**<br>
+    this is the spaceship dialogue music from puyo puyo tetris. it's got a more scifi vibe to it. but honestly i kinda think that the kevin macleod track i chose for this works better? oh well, too late to change now.
+
+    you might wonder: why do hank and lambo share a theme? ill leave this to discerning viewers to discuss amongst themselves.
+
+    **THEME OF HANK AND LAMBO** (Copyright Free)<br>
+    this is a Kevin Macleod track called Laserpack that i found on his website. it's pretty good honestly, i probably should have used a more overplayed track to keep the joke going
+
+    **BLASTOFF THEME**<br>
+    i think this is the default theme for battles in ppt? either way i did the animation with this song in mind. very "we're off on a new adventure." making this animation be Not Garbage was important bc at this point i was still interested in impressing upon vibri that Yes I Can Do This!!! so it's a little extra with the spline animation on the ship as it lands and such. shoutouts to star wars sfx archive, which is where i got all of the scifi sounds from.
+
+    **BLASTOFF THEME** (Copyright Free)<br>
+    i think this is a kevin macleod track called Adventures in Adventureland. really the only thing it had to do was match the animation, which i feel it did reasonably well.
+
+    **LEGO STAR WARS TRANSITION SFX**<br>
+    figured out how to do this wipe effect for an unrelated gag in pqr if you can believe it. but it's literally perfect here
+
+    **WALKAROUND THEME**<br>
+    it took me a long time to figure out what track this was. the horn bit was stuck in my head as i started working on this, and i knew it was in lego star wars. so i kept scouring the lego star wars ost over and over again trying to find it but it just wasn't there. i thought it was from the jundland wastes level, which i got extremely stuck on in the wii version of lego star wars as a kid? but it wasn't that! eventually i realized it was the ds version, but after adding the DS version to the game it missed the DAMN HORNS PART that was the WHOLE REASON i wanted the track 😭 so i just got the actual john williams music.
+
+    if we get copyright striked for this it's very funny and means troubled cosmos is more canon than the sequel trilogy
+
+    **WALKAROUND THEME** (Copyright Free)<br>
+    the kevin macleod music was added in a second pass to the game, but this song (in the copyrighted version) was like. the main reason lol. while i think it's _extremely_ funny to use just "fuck you it's john williams music" in the star wars shitpost game it's . definitely the most legally risky thing this game does LMFAO. like, obviously, andrew is releasing all of the assets for this game that she's _legally able to_ into the public domain. we are very obviously not _legally able to_ release john williams music into the public domain LMFAO. please don't kill us mr mouse.
+
+    anyway sneaky snitch is perfect for this scene in the copyrighted version bc it still fits the vibe while also being obnoxious 2014 minecraft music. kevin made good tracks
+
+    **WALKING SOUND EFFECT**<br>
+    this is from some indie game i think
+
+    **FREAKFEST THEME**<br>
+    stal was the only choice. you're investigating. it's seedy but comforting. you're gonna be here for a while as you talk to all the guys. but also, i want to make you laugh because the music choice is so stupid. plus it sort of brings the minecraft music gag into the copyright-infringement-playground version of the troubled cosmos experience
+
+    **FREAKFEST THEME** (Copyright Free)<br>
+    this song is literally called investigations
+
+    **DIAL-TONE MULTI-FREQUENCY SIGNALS**<br>
+    i had a fun day in audacity learning about how phones work.
+
+    i'm pretty proud of the keypad as a whole, honestly. i didn't look up anything beyond the ren'py documentation to get it to work, and it actually worked first try. so that's really cool. you'll also notice in the assets for the game that there isn't a second zoomed-in picture of this background, i just. punched really really close into the background for it.
+
+    also the "you got the wrong code" sound was harvested from the vriska helltier flash. if the hsbc team wants me to . like. replace that sound effect with one that isn't theirs then i will but i can't imagine that's a problem 😭😭😭😭😭
+
+    IM SORRY HSBC TEAM.... IM A PETTY THIEF...
+
+    **UMAMI HUNT THEME**<br>
+    this whole sequence is sort of a gag to me in the fact that it exists. why is there an entire playable "walkaround" segment with no npcs, no branching paths, just, a series of pictures with undertale run away sound effect playing? so i needed to use actual music youve never heard before to make you think this was going to be a whole thing.
+
+    what better song than the song from the walkaround that got me the gig lmfaooo. shoutouts to my buddy enderslime for asking me for help in making a [similar walkaround](https://mspfa.com/?s=45001&p=95) ages ago, because when i showed it to vibri she was like "oh yes this is perfect"! so since it helped me get the gig i figured it was the right song to use, as an homage to my own personal history of work in the fandom and to my friends.
+
+    as for this song i think it genuinely is in the public domain now with the release of this game. i asked ender to ask the composer if i could use it and if it was ok to be in a game that's considered "public domain to the legal extent possible" and the composer replied back in bold all caps "**I AM A COMMUNIST**" so. enjoy the music! shoutouts to carbontheconduit!!!!!!
+
+    **SWAMPY'S THEME**<br>
+    look at him. he's just a little guy. so what better track to use for him than the wrong star wars track for a specific group of little guys.
+
+    i absolutely had to use the lego star wars ds ii version of this track. for anyone who's ever played lego star wars ds ii you all KNOW this level is completely fucking broken. in an unfun nightmare fuckhell way. it's just. so terrible. in fact, my first ever experience with gamefaqs as a little kid was looking up a guide for lego star wars ds ii to try and figure out how the hell to beat this terrible awful level. i briefly thought of using the non-compressed version of this track but dismissed it immediately because it's extremely funny to see swampy for the first time as this totally ass music ruins your ears. it's cinema
+
+    **SWAMPY'S THEME** (Copyright Free)<br>
+    i don't even remember what i used here. (checks) oh my god? yeah okay. that's perfect. it's for swampy antics music.
+
+    **UNPOPULAR CREATURE'S THEME**<br>
+    you will never be unpopular to me, uc. i love you. sorry i killed you to death so horribly in this game (spoilers). but the script called for it.
+
+    anyway, i thought it was pretty funny to use The Force Theme for unpopular creature. i found a fan edit of this track that mixed it with a bunch of other instances of The Force Theme across star wars but i didnt wanna use a fellow fan's work without like crediting them or seeing something in their bio that said it was cool to use their fanedits. respect ur fellow indies... but it turns out that the full version of this track that goes into the kinda intense music is perfect for the tension between uc and swampy. it's like, damn, is he gonna get the umami paste? i hope so... umami paste shouldn't tear two wonderful troubled cosmonauts apart like that... they're both wonderful.. so wonderful...
+
+    **UNPOPULAR CREATURE'S THEME** (Copyright Free)<br>
+    i'm realizing that when i write "copyright free" in these headers i mean royalty free. maybe "copyright infringement free" since i do actually use the proper licensing in the credits? oh well.
+
+    anyway, this is just the generic angelic music that they always used in all of those minecraft machinimas when they found diamonds or butter or whatever. god i need to stop typing before i date myself more 😭
+
+    **THEME OF GREENY GUNPOINTER**<br>
+    i know i just said to respect your fellow indies but this fucking audio was so perfect that i couldnt not use it. oh my god. the way he keeps fucking reloading it's so funny 😭😭😭😭 god.
+
+    okay actually going on the original uploader's channel it looks like the intent was for people to download it and use it in their own projects? so i guess it's fine. if you see this, youtube user Gun Nut Productions, thank you for your work. you made this scene happen.
+
+    originally i was gonna have UC twitch in sync with every bullet fired but it'd have looked bad on laggy computers so i cut the effect. plus it would've taken forever
+
+    **PATALIE'S THEME**<br>
+    i literally looked up "natalie portman rap" on youtube and this was the first result and it was perfect. she even mentions jar jar binks and eating tide pods. part of my vision for the game is that since the script was written in the far-off peaceful year of 2021 i didnt want to reference stuff more recent than that, so. patalie rapping about eating tide pods and it being a "more recent reference" is so perfect for this vision.
+
+    apparently there's a homestuck fan parody of natalie's rap 1.0 called jane's rap. so really it all comes full circle here
+
+    **PATALIE'S THEME** (Copyright Free)<br>
+    pixel peeper polka :3 idk i just needed a track here and this was suitably ridiculous and upbeat
+
+    **CREDITS THEME**<br>
+    in the google doc with the script andrew wrote that the credits end by "blasting shitty music". i dont think this song is SHITTY, it was done by one-of-three-people-in-the-work-discord ethan clark. it does sort of sound like the simpsons theme from an alternate reality though and that's perfect for the "wtf did i just play" vibe i needed to get across. ask ethan if you want more commentary than that i didnt make this music asfdkgsjh
+
+    **MAIN MENU THEME**<br>
+    i think it's incredibly funny to use fortnite save the world lobby music here. just like. it's such a wrong choice.
+
+    **MAIN MENU THEME** (Copyright Free)<br>
+    i needed to not give away the goat here quite yet wrt the copyright music being obnoxiously the Wrong Choice but using the overplayed local weather station (elevator) track was pretty perfect as dipping your toes into that gag.
+
+    **A TROUBLED'S COSMOS**<br>
+    fruz wrote all of the lyrics and organized basically the entire thing, i'd ask her for commentary LMFAO. my only contribution was the phrase "troubled space" to fit the rhyme scheme + suggesting it at all bc i watched the newgen tribute video with a parody of An Under's Tale. shoutouts to the newgens and peepling creatures... this whole thing was only possible thanks to the hsod. <33
+
+    oh and also ethan clark did the instrumental which was awesome
+
+    **TROUBLED COSMOS INTRO SOUND** (Copyright Free)<br>
+    i recorded this on a bus from my home state back up to college. it was loud as hell and i had only a copy of audacity 3, an extremely slow wifi hotspot connection, and ffmpeg. i worked very hard on slowly enshittifying the intro itself (if you look far enough back in mspa-misc, you can see me openly posting the drafts lmao. least secret project ever) in terms of video while also keeping the audio shit enough that it's funny. but then i realized it STILL might get got in copyright mode, so i recorded it into these [really really shitty skullcandy earbuds](https://www.amazon.com/dp/B088NFS4T1) that flaringk got me as a birthday gift a few years ago because she was so sick of me playing youtube videos or games aloud on my laptop when on phone calls. im the echoer. im so sorry. also i do still literally use this pair for class and work LMAO. thank you flare... everyone say thank you flare...
+
+    anyway. it's extremely surreal that vinny played this game, and booted it up, with copyright mode on. it's extremely surreal that MY VOICE, my voice from a few months ago, captured from the bus ride to college, is forever on the vinesauce the full sauce channel. it is truly like. unbelievable to me. i never ever thought that would happen. what a worl (tommy wiseau voice)
+
+    \-\-
+
+    and that's it, i think! for additional commentary from other contributors, please check out [Ethan Clark's writeup](https://nuvobloggo.medium.com/monthly-blog-post-apr-y2026-53566a5e32d8) as well as [Fruzmig's writeup](https://fruz.quest/mspa/atroubledscosmos/). enjoy, all troubled cosmonauts 🫡
+---
 Side: Fan Adventures
 Color: '#ff7093'
 List Terminology: Flashes in this story
