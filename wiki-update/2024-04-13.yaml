@@ -370,7 +370,7 @@ Changes: |-
     - fixed [[track:harlecoaster-lame-and-old]] sampling [[track:harlecoaster]] instead of vice-versa, and moved references [[track:harlequin]] and [[track:rollercoaster-tycoon-theme]] from [[track:harlecoaster]] to [[track:harlecoaster-lame-and-old]] (thanks, Rosetta Leijonde!)
     - fixed [[track:tycoontime-lame-and-old]] sampling [[track:tycoontime]] instead of vice-versa, and moved references [[track:rollercoaster-tycoon-theme]] and [[track:showtime-piano-refrain]] from [[track:tycoontime]] to [[track:tycoontime-lame-and-old]] (thanks, Rosetta Leijonde!)
     - fixed [[track:its-megaman-except-the-song-is-homestuck-too]] not referencing [[track:title-mega-man-3]], [[track:doctor]], and [[track:explore]], and not sampling [[track:title-mega-man-3]] (thanks, Rosetta Leijonde, FF!)
-    - fixed [[track:carne-vale-fusion-collab]] sampling [[track:a-grand-new-era-ending]] instead of [[track:the-flintstones-the-rescue-of-dino-and-hoppy-title-theme-ending]] and not sampling [[track:floweys-laugh]]
+    - fixed [[track:carne-vale-fusion-collab]] sampling [[track:a-grand-new-era-ending]] instead of [[track:title-screen-ending-the-flintstones-the-rescue-of-dino-and-hoppy]] and not sampling [[track:floweys-laugh]]
     - fixed [[track:yule-and-new]] referencing [[track:song-of-storms]] instead of [[track:windmill-hut]]
     - fixed [[track:fighting-spirit-double-ascended-form]] referencing itself and not [[track:fighting-spirit-second-form]] (thx, Pyryte!)
     - fixed [[track:multi-track-drifting-last-stop]] referencing tracks it only samples (thanks, Rosetta Leijonde!)
@@ -672,7 +672,7 @@ Changes: |-
         - changed directory of [[track:cybercity-alt]] from <code>cybercityalt</code> to <code>cybercity-alt</code>
         - changed directory of [[track:mus-star]] from <code>musstar</code> to <code>mus-star</code>
         - changed directory of [[track:mus-smile]] from <code>mussmile</code> to <code>mus-smile</code>
-        - changed directory of [[track:the-flintstones-the-rescue-of-dino-and-hoppy-title-theme-ending]] from <code>the-flintstones-the-rescue-of-dino-and-hoppy-title-themeending</code> to <code>the-flintstones-the-rescue-of-dino-and-hoppy-title-theme-ending</code>
+        - changed directory of [[track:title-screen-ending-the-flintstones-the-rescue-of-dino-and-hoppy]] from <code>the-flintstones-the-rescue-of-dino-and-hoppy-title-themeending</code> to <code>the-flintstones-the-rescue-of-dino-and-hoppy-title-theme-ending</code>
         - changed directory of [[track:the-island-pt-ii-dusk]] from <code>the-island-ptii-dusk</code> to <code>the-island-pt-ii-dusk</code>
         - changed directory of [[track:the-same-digital-boy-reprise]] from <code>the-samedigital-boy-reprise</code> to <code>the-same-digital-boy-reprise</code>
         - changed directory of [[track:splash-free-50-percent-off-cover]] from <code>splash-free50-off-cover</code> to <code>splash-free-50-percent-off-cover</code>

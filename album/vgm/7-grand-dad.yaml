@@ -1,7 +1,8 @@
 Album: 'The Flintstones: The Rescue of Dino & Hoppy'
 Directory: 7-grand-dad
+Directory Suffix: the-flintstones-the-rescue-of-dino-and-hoppy
 Style: in-game vgm
-Date: December 1, 1991
+Date: December 1, 1991  # the month, not a specific date
 Color: '#d77800'
 Track Artists:
 - Yasuko Yamada
@@ -10,7 +11,9 @@ Groups:
 - group:more-vgm
 ---
 Track: Title Screen/Ending
-Duration: 3:00
+Name Detail: album
 Contributors:
 URLs:
 - https://www.youtube.com/watch?v=XfwbLy1RPhY
+Referenced Tracks:
+- Meet the Flintstones
