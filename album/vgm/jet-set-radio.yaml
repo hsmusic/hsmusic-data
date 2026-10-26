@@ -2,9 +2,7 @@ Album: Jet Set Radio
 Directory: jet-set-radio
 Style: in-game vgm
 Date: October 31, 2000
-Color: '#4f34a6'
-Track Artists:
-- Hideki Naganuma
+Color: '#8FBF57'
 Groups:
 - group:more-vgm
 ---
@@ -15,6 +13,8 @@ Track: Humming the Bassline
 # Reference:
 #   https://vgmdb.net/album/291
 Duration: 2:55
+Artists:
+- Hideki Naganuma
 URLs:
 - https://www.youtube.com/watch?v=IJYK5tkgtvk
 - https://open.spotify.com/track/1udnWT8KqEZbSUS9T7j7LQ
