@@ -2711,16 +2711,6 @@ Lyrics: |-
     Ha ha ha ha
     Ha ha ha ha
 ---
-Track: Capture (Deoxys' Shadow)
-# Reference
-#   https://vgmdb.net/album/22172
-Artists:
-- Pokémon
-- Shinji Miyazaki
-Duration: 4:02
-URLs:
-- https://www.youtube.com/watch?v=OPsdLKnCw7Y
----
 Track: Capture Music (Galaga)
 # Reference:
 #   https://vgmdb.net/album/15951
@@ -7200,6 +7190,16 @@ Artists:
 Duration: 2:14
 URLs:
 - https://www.youtube.com/watch?v=FY12nf1qDFM
+---
+Track: Capture (Deoxys' Shadow)
+# Reference
+#   https://vgmdb.net/album/22172
+Artists:
+- Pokémon
+- Shinji Miyazaki
+Duration: 4:02
+URLs:
+- https://www.youtube.com/watch?v=OPsdLKnCw7Y
 ---
 Track: Caravan
 Always Reference By Directory: true
