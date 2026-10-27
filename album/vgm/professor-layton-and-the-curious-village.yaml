@@ -2,18 +2,15 @@ Album: Professor Layton and the Curious Village
 Directory: professor-layton-and-the-curious-village
 Style: in-game vgm
 Date: February 15, 2007
-Color: '#572a17'
+# Reference:
+#   https://vgmdb.net/album/10500
+Color: '#ffe9a5'
 Track Artists:
 - Tomohito Nishiura
 Groups:
 - group:more-vgm
 ---
 Track: Professor Layton's Theme
-# JP: レイトン教授のテーマ
-# Official release:
-#   レイトン教授メインテーマ トリロジーCD
-# Reference:
-#   https://vgmdb.net/album/10563
 Duration: 2:11
 URLs:
 - https://www.youtube.com/watch?v=GYlpoteRT6o
@@ -21,16 +18,8 @@ URLs:
 - https://music.apple.com/song/professor-laytons-theme/1584821638
 ---
 Track: Puzzles
-# JP: 謎
-# Official releases:
-#   レイトン教授と不思議な町 オリジナル・サウンドトラック
-#   Professor Layton and the Curious Village Original Soundtrack
-# Reference:
-#   https://vgmdb.net/album/10500
 Duration: 1:54
 URLs:
 - https://www.youtube.com/watch?v=MRmLoq0aFcQ
 - https://open.spotify.com/track/2m76ScmuuPp1ydx8srQhV4
 - https://music.apple.com/song/puzzles/1584821857
-
-# Front Art (from MobyGames): https://cdn.mobygames.com/covers/4865902-professor-layton-and-the-curious-village-nintendo-ds-front-cover.jpg

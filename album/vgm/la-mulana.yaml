@@ -2,11 +2,21 @@ Album: La-Mulana
 Directory: la-mulana
 Style: in-game vgm
 Date: June 27, 2006
+# Reference:
+#   https://vgmdb.net/album/98138
+#   wikipedia lol
+# Notes:
+#   Basically the same game got released twice, 2006 (Windows, but fashioned
+#   as an MSX game) and 2011 (Wii and later other platforms, fashioned more
+#   '16-bit style' per Wikipedia). Basically the same soundtrack but tracks
+#   annotated 'SSCC version' on Bandcamp and the CD set represent how La-Mulana
+#   sounded in 2006, and that's our main reference for track durations and
+#   listening links.
 Color: '#8193b2'
 Cover Art File Extension: png
-Track Artists:
-- Takumi Naramura
-- Houryu Samejima
+# Track Artists:
+# - Takumi Naramura
+# - Houryu Samejima
 Groups:
 - group:more-vgm
 ---
@@ -14,14 +24,16 @@ Track: Awakening
 Suffix Directory: true
 Always Reference By Directory: true
 Duration: 4:09
+Artists:
+- Houryu Samejima
 URLs:
-# - https://nigoro.bandcamp.com/track/awakening-2
+- https://nigoro.bandcamp.com/track/awakening-sscc-version
 - https://www.youtube.com/watch?v=68jZpovCWu4
 ---
 Track: Giant's Cry
 Duration: 3:41
+Artists:
+- Houryu Samejima
 URLs:
-# - https://nigoro.bandcamp.com/track/giants-cry-2
+- https://nigoro.bandcamp.com/track/giants-cry-sscc-version
 - https://www.youtube.com/watch?v=jB97J5YAbIM
-
-# Front Art (from MobyGames): https://cdn.mobygames.com/covers/1587295-la-mulana-windows-front-cover.png
