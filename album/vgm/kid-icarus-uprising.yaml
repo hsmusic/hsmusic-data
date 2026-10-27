@@ -3,15 +3,22 @@ Directory: kid-icarus-uprising
 Style: in-game vgm
 Date: March 23, 2012
 Color: '#fdd851'
-Track Artists:
-- Motoi Sakuraba
 Groups:
 - Kid Icarus
 ---
-Track: Destroyed Skyworld (Ch. 20)
+Track: Destroyed Skyworld
 Duration: 3:38
+# Reference:
+#   https://vgmdb.net/album/33508/ - misc, track duration
+#   the blimmin' album booklet - track credits
+#   super smash bros via ruby - track name
+#   apparently nintendo of europe via vgmdb - track name
+Artists:
+- Yuzo Koshiro
+- Motoi Sakuraba
 Contributors:
-- Yuzo Koshiro (arranger)
+- Yuzo Koshiro (composition, arrangement)
+- Motoi Sakuraba (composition, arrangement)
 - Natsumi Kameoka (orchestration)
 URLs:
 - https://www.youtube.com/watch?v=rYeS39l3oC4

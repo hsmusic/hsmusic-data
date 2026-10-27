@@ -1,6 +1,7 @@
 Album: Intense Symphonic Metal Covers, Vol. 16
-Directory: intense-symphonic-metal-covers-vol-16
 Directory Suffix: falkkone
+Suffix Track Directories: true
+Reference Tracks By Directory: always
 Artists:
 - FalKKonE
 Date: February 28, 2019
@@ -19,8 +20,7 @@ Groups:
 Cover Art File Extension: jpg
 ---
 Track: 'Rex Duodecim Angelus (From "Homestuck: AlterniaBound")'
-Directory: rex-duodecim-angelus
-Suffix Directory: true
+Directory: rex-duodecim-angelus  # suffixed
 Duration: 6:49
 URLs:
 - https://www.youtube.com/watch?v=AWwBuzf1yAo
@@ -31,8 +31,7 @@ Referenced Tracks:
 - Rex Duodecim Angelus
 ---
 Track: 'BL1ND JUST1C3: 1NV3ST1G4T1ON !! (From "Homestuck: AlterniaBound")'
-Directory: bl1nd-just1c3-1nv3st1g4t1on
-Suffix Directory: true
+Directory: bl1nd-just1c3-1nv3st1g4t1on  # suffixed
 Additional Names:
 - Name: 'Blind Justice: Investigation !! (From "Homestuck: AlterniaBound")'
   Annotation: quirk-free
@@ -46,8 +45,7 @@ Referenced Tracks:
 - track:bl1nd-just1c3-1nv3st1g4t1on
 ---
 Track: 'Destroyed Skyworld (From "Kid Icarus: Uprising")'
-Directory: destroyed-skyworld
-Suffix Directory: true
+Directory: destroyed-skyworld  # suffixed
 Duration: 5:51
 URLs:
 - https://www.youtube.com/watch?v=mdgp2YYXv90
@@ -55,11 +53,10 @@ URLs:
 - https://music.apple.com/album/destroyed-skyworld-from-kid-icarus-uprising/1454688586?i=1454688595
 - https://music.amazon.com/tracks/B07P6TQ9C3
 Referenced Tracks:
-- 'Chapter 20: Destroyed Skyworld'
+- Destroyed Skyworld
 ---
 Track: Unfounded Revenge (From "Mother 3")
-Directory: unfounded-revenge
-Suffix Directory: true
+Directory: unfounded-revenge  # suffixed
 Duration: 3:43
 URLs:
 - https://www.youtube.com/watch?v=UL3CUZhoZjU
@@ -70,8 +67,7 @@ Referenced Tracks:
 - Unfounded Revenge
 ---
 Track: 'Nothing to Lose (From "Castlevania: Harmony of Despair")'
-Directory: nothing-to-lose
-Suffix Directory: true
+Directory: nothing-to-lose  # suffixed
 Duration: 3:37
 URLs:
 - https://www.youtube.com/watch?v=_BC4V1xObWQ
@@ -82,8 +78,7 @@ Referenced Tracks:
 - Nothing to Lose
 ---
 Track: 'Temple (From "Zelda II : The Adventure of Link")'
-Directory: temple
-Suffix Directory: true
+Directory: temple  # suffixed
 Duration: 4:06
 URLs:
 - https://www.youtube.com/watch?v=6CgnOIIODc4
@@ -94,8 +89,7 @@ Referenced Tracks:
 - Palace Theme
 ---
 Track: accelerated world (From "Accel World")
-Directory: accelerated-world
-Suffix Directory: true
+Directory: accelerated-world  # suffixed
 Duration: 6:58
 URLs:
 - https://www.youtube.com/watch?v=-EG9fn-IAOo
@@ -106,8 +100,7 @@ Referenced Tracks:
 - accelerated world (OST edit)
 ---
 Track: bugz (From "Accel World")
-Directory: bugz
-Suffix Directory: true
+Directory: bugz  # suffixed
 Duration: 6:35
 URLs:
 - https://www.youtube.com/watch?v=14pHeSJNE-s
@@ -118,9 +111,7 @@ Referenced Tracks:
 - bugz
 ---
 Track: No, Thank You (From "K-ON!!")
-Directory: no-thank-you
-Suffix Directory: true
-Always Reference By Directory: true
+Directory: no-thank-you  # suffixed
 Contributors:
 - Sainte Séïa (vocals)
 Duration: 4:18
@@ -221,8 +212,7 @@ Lyrics: |-
     But not yet…I want to hold back from it</i>)
 ---
 Track: Legend of the Eagle Bearer (Main Theme) [From "Assassin's Creed Odyssey"]
-Directory: legend-of-the-eagle-bearer-main-theme
-Suffix Directory: true
+Directory: legend-of-the-eagle-bearer-main-theme  # suffixed
 Duration: 3:49
 URLs:
 - https://www.youtube.com/watch?v=m6W5LJrN9FM
@@ -233,8 +223,7 @@ Referenced Tracks:
 - Legend of the Eagle Bearer (Main Theme)
 ---
 Track: Battle! Trainer (From "Pokémon Red / Green / Blue")
-Directory: battle-trainer-battle-pokemon-red-blue
-Suffix Directory: true
+Directory: battle-trainer-battle-pokemon-red-blue  # suffixed
 Duration: 4:46
 URLs:
 - https://www.youtube.com/watch?v=TJUf9k-w5FY
@@ -245,8 +234,7 @@ Referenced Tracks:
 - track:battle-trainer-battle-pokemon-red-blue
 ---
 Track: Battle! Regirock / Regice / Registeel (From "Pokémon Ruby and Sapphire")
-Directory: battle-regirock-regice-registeel-pokemon-ruby-sapphire
-Suffix Directory: true
+Directory: battle-regirock-regice-registeel-pokemon-ruby-sapphire  # suffixed
 Duration: 4:59
 URLs:
 - https://www.youtube.com/watch?v=WcDE_T8yUr0
@@ -257,8 +245,7 @@ Referenced Tracks:
 - track:battle-regirock-regice-registeel-pokemon-ruby-sapphire
 ---
 Track: Battle! Gym Leader (From " Pokémon Red / Green / Blue")
-Directory: battle-gym-leader-from-pokemon-red-green-blue
-Suffix Directory: true
+Directory: battle-gym-leader-from-pokemon-red-green-blue  # suffixed
 Duration: 2:44
 URLs:
 - https://www.youtube.com/watch?v=nR95iZDbdAQ
@@ -269,8 +256,7 @@ Referenced Tracks:
 - Battle! (Gym Leader Battle) (Pokémon Red & Pokémon Blue)
 ---
 Track: Kinjirareta Asobi (From "Rozen Maiden")
-Directory: kinjirareta-asobi
-Suffix Directory: true
+Directory: kinjirareta-asobi  # suffixed
 Duration: 4:22
 Contributors:
 - MamieMegu (vocals)
@@ -365,8 +351,7 @@ Lyrics: |-
     (<i>Say that you truly love me with a pure kiss!</i>)
 ---
 Track: Isaac's Battle Theme (From "Golden Sun")
-Directory: isaacs-battle-theme
-Suffix Directory: true
+Directory: isaacs-battle-theme  # suffixed
 Duration: 3:39
 URLs:
 - https://www.youtube.com/watch?v=S_ff94nus2M
@@ -377,9 +362,6 @@ Referenced Tracks:
 - Battle (Golden Sun)
 ---
 Track: Alice's Tango (You Will Be Mine)
-Directory: alices-tango-you-will-be-mine
-Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:22
 Contributors:
 - Sainte Séïa (vocals)
@@ -449,6 +431,7 @@ Lyrics: |-
     Mine
 ---
 Track: Alice's Tango (You Will Be Mine) [FR Version]
+Suffix Directory: false
 Duration: 3:22
 Contributors:
 - Sainte Séïa (vocals)
