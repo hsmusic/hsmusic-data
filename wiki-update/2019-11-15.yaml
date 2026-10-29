@@ -1,0 +1,34 @@
+Wiki Update: initial release
+Date: November 15, 2019
+---
+Section: initial release of the website
+Changes: |-
+    - published [on github](https://github.com/hsmusic/hsmusic.github.io/) with code under the GPL; hosted on hsmusic.github.io
+    - advertised exclusively [on reddit](https://www.reddit.com/r/homestuck/comments/dwtc4w/i_made_a_wiki_for_homestuck_albums_including/)
+    - (and maybe twitter but my account has long been deleted)
+---
+Section: homepage
+Changes: |-
+    - an intro message which has since been moved to [[static:about|About &amp; Credits]]
+    - a grid listing for the albums: all official releases, from [[album:midnight-crew-drawing-dead]] through [[album:hiveswap-friendsim]]
+---
+Section: album pages
+Changes: |-
+    - album name, release date, track listing, cover art &amp; art credits
+    - solo albums also show their artist
+---
+Section: track pages
+Changes: |-
+    - track name, release date, artists (musicians), cover art &amp; art credits
+    - links to listen to the track too (and code to convert URLs into human-readable site names, e.g. "YouTube" or "Bandcamp" or "(External)")
+    - rudimentary leitmotif reference credits in the form of "Contributors" list
+    - contributors list also contains credited collaborators on the track, e.g. producers, vocalists
+---
+Section: artist pages
+Changes: |-
+    - name, track and art credits
+    - artist pages look quite different from today but serve the same purpose of listing their contributions
+    - [[root:media/misc/changelog/old-artist-page.png|here's an example]]
+    - credits are all in one numbered list; most are just the name of the track contributed to and the album it's from
+    - for tracks where an artist made a specific contribution, that's mentioned too, e.g. "Sburban Countdown (arrangement)"
+    - if a musician's contribution is simply a track which was referenced, the line for that contribution is slightly dim (it still contributes to the counter)

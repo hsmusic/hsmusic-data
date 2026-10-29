@@ -1,7 +1,9 @@
 # Miscellaneous files
 
 Message: Sort artists alphabetically
-Sort Documents: artists.yaml
+Sort Documents:
+- artists/
+- artists.yaml
 By Properties: [name, directory]
 
 # Additional Tracks

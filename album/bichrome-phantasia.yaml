@@ -13,6 +13,7 @@ Wallpaper Style: |-
     opacity: 0.8;
 Wallpaper File Extension: png
 Cover Art File Extension: png
+Track Art File Extension: png
 Color: '#00ffa1'
 Groups:
 - Monckat
@@ -42,6 +43,8 @@ Referencing Sources: |-
 ---
 Track: nChrome
 Bandcamp Track ID: 3096484446
+Cover Artists:
+- Monckat
 Duration: 2:13
 URLs:
 - https://monckat.bandcamp.com/track/nchrome

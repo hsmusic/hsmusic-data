@@ -5,21 +5,6 @@ Group: Official Discography
 Directory: official
 URLs:
 - https://homestuck.bandcamp.com/music
-Carousel:
-  Tiles:
-  - Homestuck Vol. 1-4
-  - Homestuck Vol. 10
-  - Beyond Canon
-  - AlterniaBound
-  - Homestuck Vol. 8
-  - Hiveswap Act 1 OST
-
-  - 'coloUrs and mayhem: Universe A'
-  - The Wanderers
-  - Mobius Trip and Hadron Kaleido
-  - Strife!
-  - Genesis Frog
-  - One Year Older
 Series:
 - Name: Numbered volumes
   Albums:
@@ -87,21 +72,7 @@ Description: |-
 Group: Fandom
 Exclude From Other Group Album Summaries: true
 Divide Albums By Style: true
-Carousel:
-  Tiles:
-  - Land of Fans and Music 5 Act 2
-  - P[S]
-  - Vinculum Vitae
-  - Ophiuchus (Full Suite)
-  - Cool and New Greatest Hits
-  - album:jailbreak-vol-1
-
-  - Strife 2
-  - Vast Error Vol. 1-3
-  - Friendsim 2 - Volume 1
-  - Pantheon
-  - Land of Fans and Music
-  - Moons of Theseus
+Show Reveal All Warnings Control: false
 Description: |-
     Albums created by the Homestuck fan community, released independently.
     <hr class="split">
@@ -114,21 +85,7 @@ Description: |-
 Group: Beyond
 Exclude From Other Group Album Summaries: true
 Divide Albums By Style: true
-Carousel:
-  Tiles:
-  - Psycholonials
-  - Shortcuts
-  - '{ Oceanfalls } Vol.4'
-  - Qualia
-  - UNDERTALE Soundtrack
-  - Songs of Rivervale
-
-  - album:solar-sessions
-  - Namesake
-  - Gravity Makes The Flame Rise
-  - CYBER CITY SOUND PAK
-  - Paths
-  - Triassic Slump
+Show Reveal All Warnings Control: false
 Description: |-
     Albums from a musical landscape beyond Homestuck, by artists with roots in the comic's own community.
     <hr class="split">
@@ -209,6 +166,7 @@ Series:
   - Descent Into Madness
   - inpiscispere
   - HAROLDBOUND
+  - Agents of Eternal Recurrence
 - Name: Singles
   Albums:
   - '[NSFW] Ｐｅｎｕｍｂｒａ オーガズム：百万ドルリミックス（ Ｇｕｎｓｈｏｗ Ｓｉｎｇａｌｏｎｇ ）の小ローン'
@@ -282,12 +240,13 @@ Series:
   Albums:
   - Midnight Jungle - 『真夜中のジャングル』
   - 'MIDNIGHT JUNGLE TYPE 1.5: VERTIGO ZONE - 真夜中のジャングル『目眩ゾーン』'
-- Name: RAKKA
+- Name: PROJECT RAKKA
   Albums:
   - RAKKA Vol. 1 ALTIMINTAK
   - RAKKA Vol. 2 THE SURGES
   - 'RAKKA: SP1 - OUTSIDE 2'
   - 'RAKKA: WAKE 01 Opening - ME!'
+  - 'RAKKA: WAKE 01 - SOOT (Original Soundtrack)'
 - Name: Other albums
   Albums:
   - What's Your Favorite Song? - EarthBound 2019
@@ -398,10 +357,6 @@ Description: |-
 Group: Cristata
 Closely Linked Artists:
 - Cristata
-- Cozmia (alias)
-- FRUITYTEE (alias)
-- hexidecimal (alias)
-- hywell (alias)
 URLs:
 - https://cristata.bandcamp.com/
 Description: |-
@@ -533,7 +488,6 @@ Description: |-
 Group: Kalibration
 Closely Linked Artists:
 - Kalibration
-- Screamcatcher (alias)
 URLs:
 - https://kalibration.bandcamp.com/
 - https://www.youtube.com/kalibration
@@ -642,19 +596,15 @@ Closely Linked Artists:
 URLs:
 - https://potatoboss.bandcamp.com/
 Description: |-
-    PMT founder(?). Add more later
+    <img link="/group/pascal-van-den-bos/" src="media/misc/pascal.gif" width="225" height="124">
 Series:
 - Name: Homestuck
   Description: >-
-    Artist-credited releases only, in these lists. Most of Pascal's Homestuck music is in team albums from [[group:the-paradox-music-team]] and other groups!
+    Artist-credited releases only, in these lists. Much of Pascal's music is as part of [[group:the-paradox-music-team]], and in team albums there and in other groups!
   Albums:
   - The Strider Mixtape
   - Terminal (Mayonaka's Theme)
   - The Homestuck Strife Project Vol. 1 (Original Soundtrack)
-- Name: Original works
-  Albums:
-  - 'MIDNIGHT JUNGLE TYPE 1.5: VERTIGO ZONE - 真夜中のジャングル『目眩ゾーン』'
-  - 'RAKKA: WAKE 01 Opening - ME!'
 - Name: Personal discography
   Albums:
   - album:saturn-mission-to-saturn-single
@@ -954,9 +904,6 @@ Description: |-
 Group: Xszelor
 Closely Linked Artists:
 - Xszelor
-- Dvojka (alias)
-- Highblood (alias)
-- Realmite (alias)
 URLs:
 - https://thehighblood.bandcamp.com/
 - https://scorpan.bandcamp.com/music
@@ -1105,12 +1052,14 @@ Series:
   Albums:
   - Election Season
   - Nibiru
+  - Renew Your Rites
 - Name: Solo albums
   Show Album Artists: all
   Albums:
   - Pantheon
   - Noirscape
   - Curtain Call - Maragi Radi
+  - incertain Calls - Nelrith Jynn
 Description: |-
     A fanventure by a talented team of authors, artists and musicians, in the works since 2017 and updating since early 2020!
 ---
@@ -1267,6 +1216,26 @@ Description: |-
     <hr class="split">
     One of many webcomics drawing early inspiration from Homestuck and the MSPA format, Oceanfalls stands out for being a totally distinct story from the world of Homestuck and SBURB, and it has its own community of fan musicians and artists contributing to its album-spanning soundtrack!
 ---
+Group: PROJECT RAKKA
+URLs:
+- https://store.steampowered.com/curator/45653034
+- https://www.theparadoxmusicteam.com/rakka
+Description: |-
+    "A homage to the gritty fiction of the ’90s. “RAKKA: WAKE 01 - SOOT” unfolds as an episodic, linear visual novel that blends paper-cut style comics, animation, music and dialogue into a slow-burn mystery thriller that dares you to dig deeper — even when you really, really shouldn’t."
+    <hr class="split">
+    "Rakka distinguishes itself with its breadth of hand-drawn assets, detailed backgrounds, charming character art, and unique paper-cut style. Complimented by the art is the incredible original soundtrack; spearheaded by the minds behind [[group:the-paradox-music-team|The PMT]], it oozes indie charm. Both serve in tandem, dragging the player into the character and dialogue driven world of Rakka. Think you can make it to its thrilling conclusion?"
+    [Description via the official site.](https://www.theparadoxmusicteam.com/rakka)
+Series:
+- Name: Albums
+  Albums:
+  - RAKKA Vol. 1 ALTIMINTAK
+  - RAKKA Vol. 2 THE SURGES
+  - 'RAKKA: WAKE 01 - SOOT (Original Soundtrack)'
+- Name: Singles
+  Albums:
+  - 'RAKKA: SP1 - OUTSIDE 2'
+  - 'RAKKA: WAKE 01 Opening - ME!'
+---
 Group: Psycholonials
 URLs:
 - https://psycholonials.bandcamp.com/
@@ -1343,7 +1312,7 @@ Series:
   - album:deltarune-ch2-rejected-tracks
   - album:undertale-deltarune-newsletter-winter-2025
 ---
-Category: VIDEO GAMES!!!
+Category: Video game franchises
 Exclude Groups From Other Group Album Summaries: true
 Color: '#f5fc8e'
 ---
@@ -1363,7 +1332,13 @@ Group: Brandish
 ---
 Group: Chrono
 ---
+Group: Danganronpa
+---
 Group: Dark Souls
+---
+Group: Darkest Dungeon
+---
+Group: DonPachi
 ---
 Group: The Elder Scrolls
 ---
@@ -1380,9 +1355,8 @@ Series:
   - album:fnf-chaos-nightmare
   - album:fnf-nusky-skyverse-demo
   - album:fnf-hit-single
-- Name: More fanmusic
-  Albums:
-  - GAMEBREAKER
+  - album:fnf-party-week
+  - album:fnf-cerulean-symphony
 ---
 Group: Grand Theft Auto
 ---
@@ -1391,6 +1365,8 @@ Group: Halo
 Group: Kingdom Hearts
 ---
 Group: The Legend of Zelda
+---
+Group: Lethal League
 ---
 Group: Megami Tensei
 ---
@@ -1427,6 +1403,16 @@ Series:
 Group: Portal
 ---
 Group: Rayman
+---
+Group: Ridge Racer
+Series:
+- Name: In-game VGM
+  Albums:
+  - Ridge Racer 2
+  - 'R4: Ridge Racer Type 4'
+- Name: Other soundtracks
+  Albums:
+  - RIDGE LASER
 ---
 Group: Silent Hill
 ---

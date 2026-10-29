@@ -943,28 +943,23 @@ MIDI Project Files:
   Artists:
   - MarigoldMusicGal
   Description: >-
-    Isolated using [mvsep](https://mvsep.com/) and [Bertom Phantom Center](https://bertomaudio.com/phantom-center.html). Queries welcome via Discord (marigoldmusicgal) or email! (marigoldmusicgal@gmail.com)
+    Isolated using [mvsep](https://mvsep.com/).
   Folder: S_MSPAR_REMEMBER - MarigoldMusicGal (stems)
   Files:
-  - Bass noise (no penumbra I think).flac
-  - Explore thing.flac
+  - Explore.flac
   - MeGaLoVania.flac
-  - Noise (no penumbra).flac
-  - Noise2 (no penumbra).flac
-  - Penumbra Phantasm drums (includes other sample unfortunatley).flac
-  - Penumbra Phantasm glock and high piano (missing notes after drop).flac
-  - Penumbra Phantasm guitar.flac
-  - Penumbra Phantasm high piano extras (missing notes after drop).flac
-  - Penumbra Phantasm strings (strings, piano and explore noise).flac
+  - Penumbra Phantasm Stereo.flac
+  - Penumbra Phantasm Mono.flac
   - Rex Duodecim Angelus.flac
   - Unite Synchronization.flac
-- Title: FL Studio recreation
+- Title: Penumbra Phantasm FL Studio recreation
   Artists:
   - MarigoldMusicGal
   Folder: S_MSPAR_REMEMBER - MarigoldMusicGal (FL Studio)
   Files:
-  - Dependencies.txt
-  - S_MSPAR_REMEMBER Recreation.flp
+  - requirements.txt
+  - S_MSPAR_REMEMBER Penumbra Phantasm Recreation.flp
+  - S_MSPAR_REMEMBER Penumbra Phantasm Recreation.flac
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor, 8/8/2024)
 
@@ -1025,7 +1020,8 @@ Commentary: |-
 
     This was based off of [[track:normal-song-name|a track I did for Pesterquest]], but ended up changing quite a bit. What is it for? You will see... soon!
 
-    <i>James Roach:</i> ([Reddit](https://www.reddit.com/r/homestuck/comments/1dpcjhj/homestuck_beyond_canon_update_p_651655/lag3gc2/))
+    <i>James Roach:</i> ([Reddit](https://www.reddit.com/r/homestuck/comments/1dpcjhj/homestuck_beyond_canon_update_p_651655/lag3gc2/), 6/26/2024)
+
     excellent analysis actually, i did want it to represent "relevance" in the sort of roundabout way the characters whos themes i mixed in do. (the arpeggios from [[track:unite-synchronization|unite synchronization]], [[track:killed-by-br8k-spider|killed by br8k spider]])
 
     since it uses [[track:normal-song-name|a pesterquest song]] as a base and its mainly [[track:open-the-door|the hiveswap cherub/portal motif]], i thought it might give it that cross-property "relevance" as well.
@@ -1170,12 +1166,33 @@ Duration: '1:42'
 URLs:
 - https://www.youtube.com/watch?v=bUhyTnks3qo
 ---
+Track: Aggrievocation
+Name Detail: 8r8k edit
+Name Style: utility
+Artists:
+- Mark J. Hadley (original track)
+- James Roach (8r8k edit)
+Duration: '3:38'
+URLs:
+- https://media.hsmusic.wiki/misc/archive/716.mp3
+Referenced Tracks:
+- Aggrievocation
+- Cobalt Thief
+Sampled Tracks:
+- Aggrievocation
+---
 Track: UNIMPEACHABLE
 Artists:
 - Miles
 Duration: '1:59'
 URLs:
 - https://www.youtube.com/watch?v=trmdHWtUmog
+Commentary: |-
+    <i>Miles:</i> (Patreon: ["11-2025 Writer Commentary"](https://www.patreon.com/homestuck/posts/11-2025-writer-144917418), 12/2/2025)
+
+    Swiss’ Librarium section was really fun, for a number of reasons.  First of all, I got to do the music for it, so I wrote a song I called UNIMPEACHABLE.  Getting to join the Homestuck music canon was so sick, and if you can believe it I actually started learning to produce music JUST for HS:BC.  I spent a decent amount of time learning FL Studio (which I still always call Fruity Loops despite never having used it until this year) and I obviously still have a long way to go, because the song is pretty rough, but I was really, really proud of how it came out; Mr. President from the HS Official Discord actually helped me do some of the mixing on the song to get it sounding a little cleaner, which I appreciated as a newbie.  I saw someone on the HS Official Discord ask if Toby Fox did the music for this section, and that’s probably the single best compliment any song I ever make in my entire life is going to get.  Whoever said that, I remember.  It meant a lot to me.
+
+    I wanted to sort of emphasize Swiss’ affect of coolness with a slick, jazzy theme, and I had some shamisen plucks in there to emphasize the East Asian influences in Satyr society.  I’ve definitely come to think of saxophone as Swiss’ Signature Instrument, whereas shamisen is more of a satyrwide instrument, and the main sax-melody (which I still like A LOT) in this song as Swiss’ leitmotif, so I hope someday we can see that woven into future songs as the HS:BC musical canon evolves to take on a life of its own in that same self-referential way that Homestuck songs tend to be.  Having done one song, it really makes me wanna do a billion more, but I want to get a whole slew of other people into Homestuck first!  Maybe I can noodle a few more out for some future albums... :J
 ---
 Track: Purple
 Suffix Directory: section

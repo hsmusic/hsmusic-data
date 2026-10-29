@@ -1,0 +1,11 @@
+Wiki Update: 'post-finalization #4'
+Date: August 2, 2021
+---
+Section: data changes
+Changes: |-
+    - made "reasonpeason" an alias for [[artist:rebecca-peason]], updating art credits for [[track:chaotic-strength]] and [[track:science-seahorse]]
+    - added [[track:black-rose-green-sun]] to the reference list of [[track:orchid-horror]] (thanks, Celeste!)
+---
+Section: bug fixes
+Changes: |-
+    - fixed artist pages and chronology links always ordering artworks by a track's release date rather than accounting for later art additions (e.g. anthology projects for [[album:homestuck-vol-5]], [[album:alterniabound]], [[album:beyond-canon]])

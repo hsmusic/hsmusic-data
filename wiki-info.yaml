@@ -1,9 +1,13 @@
-Name: Homestuck Music Wiki
-Short Name: HSMusic Wiki
+Name: HSMusic Wiki
 Color: '#0088ff'
 
 Canonical Base: https://hsmusic.wiki/
 Canonical Media Base: https://media.hsmusic.wiki/
+
+Has Meta Wallpaper: true
+Meta Wallpaper File Extension: png
+Meta Wallpaper Style: |-
+    opacity: 0.3;
 
 Enable Flashes & Games: true
 Enable Listings: true

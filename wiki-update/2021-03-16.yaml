@@ -1,0 +1,6 @@
+Wiki Update: '"random" link fixes'
+Date: March 16, 2021
+---
+Section: bug fixes
+Changes: |-
+    - fixed "random" links (e.g. on album pages and [[listing:random|Random Pages]] listing) redirecting to "undefined" URLs instead of the appropriate type directory (track, group, etc)

@@ -1,0 +1,62 @@
+Wiki Update: recompose, refine
+Main Update: true
+Date: July 24, 2020
+---
+Section: new features
+Changes: |-
+    - two new albums archived, both from [Casual Sunday](https://casualsunday.bandcamp.com/) (a group of the artists behind countless homestuck tracks): [[album:shortcuts]] and [[album:p-s]]
+    - added durations to every track, and rough total sums to album and artist pages
+    - added keybindings (shift+N, shift+P, shift+R) for common navigation (respectively next, previous, random) on track, album, and flash pages
+    - six new listings:
+        - [[site:list/albums/by-duration/|Albums - by Duration]]
+        - [[site:list/artists/by-duration/|Artists - by Duration]]
+        - [[site:list/tracks/by-duration/|Tracks - by Duration]]
+        - [[site:list/tracks/by-duration-in-album/|Tracks - by Duration (in Album)]]
+        - [[site:list/tracks/in-flashes/by-album/|Tracks - in Flashes &amp; Games (by Album)]]
+        - [[site:list/tracks/in-flashes/by-flash/|Tracks - in Flashes &amp; Games (by First Feature)]]
+    - restructured the [[album:unreleased-tracks]] album to be broken into four reorganized sections
+---
+Section: data changes
+Changes: |-
+    - added the track [[Friendship Aneurysm]] to the [[album:squiddles]] album
+    - added some unreleased tracks by artists from the music team: Arisen Anew (Remaster), Cascade (Director's Cut)
+    - added a bunch of commentary for [[Narrative Command]]
+    - added lyrics for [[GameBro (Original 1990 Mix)]], [[GameGrl (Original 1993 Mix)]], [[Remember Me When I Am Gone Away]], [[Magical Hopalong Cassidy Station]], and [[An Apple Disaster!!]]
+    - renamed the track [[John Sleeps / Skaian Magicant]] (it used to contain a dash)
+    - renamed the track [[The Ultimate Showdown of Ultimate Destiny]] (there used to be a typo)
+    - added links to youtube pages for tracks, not just albums
+    - added playlist links for [[album:s-collide]] and [[album:prospit-and-derse]]
+    - added contribution credits to [[Buy NAK Sell DOOF]]
+    - tweaked the reference data for [[FIDUSPAWN, GO!]], [[The Blind Prophet]], [[Highland Thunder]], [[Irrelevance Event Horizon]], [[Hero's Growth]], and [[The Brave and the Bronze]] to show more referenced tracks
+    - fixed the bandcamp link for [[Another Jungle]] (it was previously linking to [Skaianet](https://homestuck.bandcamp.com/track/skaianet-2))
+    - fixed the commentary for [[Princess of Helium]] being attributed to Clark Powell instead of Tavia Morra
+    - fixed the commentary for [[Violet Mariner]] being attributed to... "Violet Mariner" instead of Willow Ascenzo
+    - fixed the commentary for [[Despot]] not showing up at all
+    - fixed the link formatting in [[album:one-year-older]] commentary, so that they are automatically color-coded
+    - fixed a typo in the commentary attribution for [[Another Chance]]
+    - fixed the flash [[flash:5308]] incorrectly referencing "G4M3BL0RG" instead of [[G4M38L0RG]]
+    - fixed the flash [[flash:5776]] incorrectly being named "[S] WHddddddEEEEE!" and referencing "A Very Trickster Mode Christmas (WHddddddEEEEE!)" instead of [[A Very Trickster Mode Christmas (WHEEEEEEEEEEE!)]]
+    - fixed the flash [[flash:7101]] incorrectly referencing [[Elevatorstuck]] and "with Meows" instead of [[Elevatorstuck, with Meows]]
+    - changed the playlist links for a few albums (to official or better organized playlists)
+    - changed existing youtube links to include the album playlist
+    - generally aimed to include links to as many official releases as possible, including making new playlists which include these and can be updated as more are found (feel free to drop [[static:feedback|a contact]]! much thanks to an emailer for helping out with this part of the update)
+    - changed the links of theese tracks to not be extended releases: [[108 Stars of Density]], [[Crab Waltz]], [[Darling Dolorosa]], [[Elevatorstuck, with Meows]], [[G4M38L0RG]], [[GameGlr]], [[Hero's Growth]], [[The Brave and the Bronze]]
+    - fixed the YouTube link for [[Trickster Mode (Blast Off)]] (it was linking to the video for [[Trickster Mode (Engage)]])
+---
+Section: miscellaneous
+Changes: |-
+    - reworked the way pages are generated to fix random buttons not working
+    - changed the date format from "YYYY-MM-DD" (e.g. 2009-04-13) to "day, month name, year" (13 April 2009), as i meant to last update
+    - changed the "and more to be added soon" text at the bottom of the fandom album list to "and more to be added at your request", and linked it to the feedback page
+    - made track links on the changelog page color-coded
+    - made album links <i>everywhere</i> color-coded, too
+    - tweaked some margin styling so grouped lists should look better all around the site
+---
+Section: (later-in-day patch)
+Changes: |-
+    - added two new flashes, both featuring [[Fear of the Heavens]]: [[flash:3952]] and [[flash:7086]]
+    - added another "flash", this one (indirectly) featuring [[Problem Sleuth Theme]]: [[flash:31]]
+    - added [[Nic Cage Romance]] to the list of tracks featured in [[flash:2792]]
+    - moved those last two tracks ([[Problem Sleuth Theme]], [[Nic Cage Romance]]) over to the "Tracks featured in Homestuck" section of [[album:unreleased-tracks]]
+    - added a new track [[Let's Start an Adventure]] to the list of tracks referenced in [[Secret ROM]]
+    - hid [[album:unreleased-tracks]] from the [[site:list/albums/by-date/|Albums - by Date]] and [[site:list/tracks/by-date/|Tracks - by Date]] listings
