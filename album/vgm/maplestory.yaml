@@ -1,0 +1,20 @@
+Album: MapleStory
+Directory: maplestory
+Style: in-game vgm
+Date: May 11, 2005
+# Reference:
+#   https://maplestory-music.github.io
+#   https://github.com/maplestory-music/maplebgm-db
+#   https://en.namu.wiki/w/스튜디오%20EIM
+Color: '#e24a21'
+Groups:
+- group:more-vgm
+---
+Track: 'New Leaf City: Town'
+Name Style: unofficial
+Additional Names:
+- NLCtown (in-game music file)
+Artists:
+- Studio EIM
+URLs:
+- https://www.youtube.com/watch?v=EXv5madDarI
