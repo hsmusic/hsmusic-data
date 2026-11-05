@@ -17,11 +17,16 @@ Enable News: true
 Enable Art Tag UI: true
 Enable Group UI: true
 
-Divide Track Lists By Groups:
+Divide Music By:
 - group:official
+- album:unreleased-tracks
+- album:more-from-the-music-team
 - group:fandom
+- album:more-homestuck-fandom
 - group:beyond
-- group:additional-tracks
+- album:references-beyond-homestuck
+- group:additional-tracks  # Relevant in contexts that don't divide by album
+- group-category:video-game-franchises
 
 Divide Flash Lists By Sides:
 - flash-side:s1 (Homestuck)
