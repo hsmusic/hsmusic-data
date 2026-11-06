@@ -98,6 +98,7 @@ Description: |-
     Organizational "albums" for grouping tracks that have been referenced by other tracks or featured in flashes and games. Though these aren't real album releases, they contain lots of interesting music and media that have become part of Homestuck's musical landscape!
 ---
 Category: Fanmusic Groups
+Collapse Groups In Album Sidebars: true
 Color: '#ffec14'
 ---
 Group: Casual Sunday
@@ -287,6 +288,7 @@ Series:
   - 『H☯MESTUCK VAP☯RWAVE 2016 RUH-RUH-RUH-ＲＥＭＩＸ』アンドレア・ヒューシー・グーグル翻訳
 ---
 Category: Solo Musicians
+Collapse Groups In Album Sidebars: true
 Exclude Groups From Other Group Album Summaries: true
 Color: '#fc9003'
 ---
@@ -942,6 +944,7 @@ Description: |-
 ---
 Category: Fandom Projects
 Use Groups For Dividing Reference Lists: true
+Collapse Groups In Album Sidebars: true
 Color: '#c466ff'
 ---
 Group: Act Omega
@@ -1186,6 +1189,7 @@ Description: |-
 ---
 Category: Projects Beyond Homestuck
 Use Groups For Dividing Reference Lists: true
+Collapse Groups In Album Sidebars: true
 Color: '#32c7fe'
 ---
 Group: Oceanfalls
@@ -1315,6 +1319,7 @@ Series:
 ---
 Category: Video Game Franchises
 Use Groups For Dividing Reference Lists: true
+Collapse Groups In Album Sidebars: true
 Exclude Groups From Other Group Album Summaries: true
 Color: '#f5fc8e'
 ---
