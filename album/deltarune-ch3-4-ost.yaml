@@ -388,7 +388,8 @@ URLs:
 - https://tobyfox.bandcamp.com/track/crickets
 - https://open.spotify.com/track/2LNqzBqxASFVG7UWASevnJ
 ---
-Section: Chapter 3 hidden tracks
+Aside Section: Hidden tracks
+Directory: ch3-hidden
 ---
 Track: Dump
 Main Release: DELTARUNE Soundtrack
@@ -682,7 +683,8 @@ URLs:
 - https://tobyfox.bandcamp.com/track/piano-that-may-not-be-played-that-well
 - https://open.spotify.com/track/5dH2YsWmbDhVgFrESQrMDk
 ---
-Section: Chapter 4 hidden track
+Aside Section: Hidden track
+Directory: ch4-hidden-1
 Color: '#3165ff'
 ---
 Track: Hammer of Justice
@@ -697,8 +699,7 @@ URLs:
 - https://www.youtube.com/watch?v=tBdLO8u-0L8
 - https://open.spotify.com/track/5A1CTzfzTz7h4FZo7zxa1A
 ---
-Section: 'Chapter 4'
-Color: '#3165ff'
+Close Aside Section: Hidden track
 ---
 Track: 12am
 Main Release: DELTARUNE Soundtrack
@@ -883,7 +884,8 @@ URLs:
 - https://tobyfox.bandcamp.com/track/with-hope-crossed-on-our-hearts
 - https://open.spotify.com/track/3TIvMJwLPjWkZmdNjO33iU
 ---
-Section: 'Chapter 4 hidden tracks'
+Aside Section: Hidden tracks
+Directory: ch4-hidden-2
 Color: '#3165ff'
 ---
 Track: Volume Adjustment
