@@ -33,8 +33,6 @@ Commentary: |-
     [[artist:sanxion7]]<br>
     [[artist:metawulf]]
 ---
-Section: Main album
----
 Track: Induction
 Main Release: Havoc
 Duration: 2:30
@@ -641,7 +639,7 @@ Duration: 2:56
 URLs:
 - https://svix.bandcamp.com/track/the-fox-cub-2
 ---
-Section: Download-only track
+Aside Section: Download-only track
 ---
 Track: Fin
 Suffix Directory: true
@@ -664,7 +662,7 @@ Commentary: |-
 
     This was incredibly fun to make, I used the VST VOPM to achieve the YM2612 chip sound and emulated various leads and basses from some of my favourite sonic zones, of which this is a homage to. Also I couldn't help but mix elements from Flying Battery zone in with [[track:fire-forget-induction|Fire + Forget]] since they seemed to work together so well!
 ---
-Section: Remixes
+Close Aside Section: Download-only track
 ---
 Track: Verisimilitude (Glaze Remix)
 Artists:
