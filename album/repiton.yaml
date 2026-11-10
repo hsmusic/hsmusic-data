@@ -28,8 +28,6 @@ Groups:
 - Deconreconstruction
 - Fandom
 ---
-Section: Main album
----
 Track: Methodology
 Suffix Directory: true
 Always Reference By Directory: true
@@ -248,7 +246,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/only-the-beginning
 - https://www.youtube.com/watch?v=yJZVKfDoK5s
 ---
-Section: Bonus track
+Aside Section: Bonus track
 ---
 Track: Where To Now?
 Additional Names:

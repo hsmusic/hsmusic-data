@@ -18,8 +18,6 @@ Groups:
 - Deconreconstruction
 - Fandom
 ---
-Section: Main album
----
 Track: Overlook
 Suffix Directory: true
 Always Reference By Directory: true
@@ -409,7 +407,7 @@ URLs:
 - https://www.youtube.com/watch?v=y56S-S9xJ0A
 - https://soundcloud.com/friendly-coy/pale-imitation
 ---
-Section: Bonus track
+Aside Section: Bonus track
 ---
 Track: DEAR PESKY SHUFFLERS
 Additional Names:

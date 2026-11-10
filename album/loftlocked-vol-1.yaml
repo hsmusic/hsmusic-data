@@ -37,8 +37,6 @@ Additional Files:
   Files:
   - banner.png
 ---
-Section: Main album
----
 Track: Prelude
 Suffix Directory: true
 Always Reference By Directory: true
@@ -300,7 +298,7 @@ Commentary: |-
    This song was tricky to nail, but when I got it, I ran with it, leaving its children and significant other behind in a flurry of musical excitement.<br>
    Do you hear those suspended cymbal rolls? DO YOU HEAR THEM???
 ---
-Section: Bonus tracks
+Aside Section: Bonus tracks
 ---
 Track: Clockwork Physician
 Artists:

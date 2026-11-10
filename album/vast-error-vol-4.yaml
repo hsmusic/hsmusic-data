@@ -26,8 +26,6 @@ Groups:
 - Deconreconstruction
 - Fandom
 ---
-Section: Main album
----
 Track: Nostalgia
 Suffix Directory: true
 Always Reference By Directory: true
@@ -763,7 +761,7 @@ URLs:
 Referenced Tracks:
 - Bittersweet [Demo]
 ---
-Section: Bonus tracks
+Aside Section: Bonus tracks
 ---
 Track: Nothing Special
 Additional Names:
@@ -813,7 +811,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/bonus-twelve-by-twelve
 - https://www.youtube.com/watch?v=OuTBY3_GdRc
 ---
-Section: Download-only tracks
+Aside Section: Download-only tracks
 ---
 Track: Distortion
 Artists:

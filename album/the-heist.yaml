@@ -59,8 +59,6 @@ Commentary: |-
 
     </details>
 ---
-Section: Main album
----
 Track: Boxtrot
 Suffix Directory: true
 Always Reference By Directory: true
@@ -117,7 +115,7 @@ URLs:
 - https://serialsymphony.bandcamp.com/track/showdown
 - https://soundcloud.com/serialsymphony/theshowdown
 ---
-Section: Bonus track
+Aside Section: Bonus track
 ---
 Track: Officially Canon
 Date First Released: September 21, 2014
@@ -134,7 +132,7 @@ Commentary: |-
 
     "Now don't **** this up, Slick."
 ---
-Section: Exclusive to SoundCloud
+Aside Section: Exclusive to SoundCloud
 Description: >-
     Additional track present on [the SoundCloud release](https://soundcloud.com/serialsymphony/sets/smooth-jazz-will-now-commence).
 ---

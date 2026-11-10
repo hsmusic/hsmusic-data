@@ -19,8 +19,6 @@ Commentary: |-
     
     The first album is chiptune, a fan-soundtrack for one of my favorite webcomics, [PROBLEM SLEUTH](http://mspaintadventures.com/?s=4). Free download includes looping versions of each song so you can seamlessly play any one of them for hours!
 ---
-Section: Main album
----
 Track: Compensation, Adequate
 Always Reference By Directory: true
 Suffix Directory: true
@@ -121,7 +119,7 @@ URLs:
 - https://curtislyon.bandcamp.com/track/epilogue-3
 - https://www.youtube.com/watch?v=GZjNo9rd6PM
 ---
-Section: Bonus looping tracks
+Aside Section: Bonus tracks
 ---
 Track: Compensation, Adequate (loop)
 Duration: 1:08
