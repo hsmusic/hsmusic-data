@@ -1895,24 +1895,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=8Ub9E1lAtNo
 ---
-Track: Ai No Uta
-# Song made for a pikmin commercial
-# Reference:
-#   https://vgmdb.net/album/2369
-#   https://www.youtube.com/watch?v=k-scKkglR6M
-#   https://www.pikminwiki.com/Strawberry_Flower
-#   https://www.pikminwiki.com/Ai_no_Uta
-Artists:
-- Pikmin
-- Strawberry Flower
-Contributors:
-- Tomoe Watanabe (vocals)
-- Takeshi Tomozuma
-Duration: 3:06
-URLs:
-- https://www.youtube.com/watch?v=k-scKkglR6M # official digital release
-- https://www.youtube.com/watch?v=yqfxgnaDc4s # bootleg upload of official music video
----
 Track: AIN'T NOTHIN' LIKE A FUNKY BEAT
 # Official release:
 #   Lethal League Blaze - The Original Soundtrack
@@ -4237,16 +4219,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/50d7cb23-07dd-4a44-a7f3-173a8cbb2478
 - https://www.youtube.com/watch?v=uNbDEs8wrW4
 ---
-Track: Main Theme (Pikmin)
-# Reference:
-#   https://vgmdb.net/album/2374
-Artists:
-- Pikmin
-- Hajime Wakai
-Duration: 2:15
-URLs:
-- https://www.youtube.com/watch?v=rzAMgBtpn8c
----
 Track: Main Theme (Wii Shop Channel)
 # Reference:
 #   Nintendo Music (name)
@@ -4297,23 +4269,6 @@ Lyrics: |-
 
     You gotta groove that sound
     You gotta say goodbye
----
-Track: Mamida ga Afureta
-# Official pikmin song
-# Reference:
-#   https://vgmdb.net/album/2369
-#   https://www.youtube.com/watch?v=v3EaKN2I9Ig
-#   https://www.pikminwiki.com/Namida_Ga_Afureta
-Artists:
-- Pikmin
-- Strawberry Flower
-Contributors:
-- Tomoe Watanabe (vocals)
-- Takeshi Tomozuma
-- Papa Daisuke (arrangement)
-Duration: 3:56
-URLs:
-- https://www.youtube.com/watch?v=v3EaKN2I9Ig
 ---
 Track: Mayahem Temple
 # Reference:
@@ -34566,6 +34521,24 @@ Lyrics: |-
     Check out, check, check out, check out, check out
     Check out, check, check out, check out, check out
     Check out, check, check out, check out, check out my melody
+---
+Track: Namida ga Afureta
+# song by Strawberry Flower, who did the commercial song for Pikmin
+# Reference:
+#   https://vgmdb.net/album/2369
+#   https://www.youtube.com/watch?v=v3EaKN2I9Ig
+#   https://www.pikminwiki.com/Namida_Ga_Afureta
+Artists:
+- Strawberry Flower
+Contributors:
+- Strawberry Flower (lyrics, music)
+- Papa Daisuke (arrangement)
+- Tomoe Watanabe (vocals)
+- Takeshi Tomozuma (guitar)
+Duration: 3:56
+URLs:
+- https://www.youtube.com/watch?v=v3EaKN2I9Ig
+- https://music.apple.com/song/mamida-ga-afureta/715709003 ##epic typo from Apple
 ---
 Track: Nattopet
 Artists:
