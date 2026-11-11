@@ -1,0 +1,50 @@
+Album: Fire Emblem Awakening
+Style: in-game vgm
+Date: April 19, 2012
+Color: '#FFFFFF'
+Cover Art File Extension: png
+Groups:
+- Fire Emblem
+---
+Track: Destiny
+Name Detail: album
+Always Reference By Directory: true
+Artists:
+- Rei Kondoh
+Duration: 5:17
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/2ce9fdd6-8135-476d-bd8f-ea9f7b3a53f6
+---
+Track: Destiny (Ablaze)
+Artists:
+- Rei Kondoh
+Duration: 5:17
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/96536536-e718-4fb2-bd72-67d82ff79bff
+Referenced Tracks:
+- track:destiny-fire-emblem-awakening
+---
+Track: Id (Purpose)
+Artists:
+- Hiroki Morishita
+Duration: 7:58
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/8851f93f-82ce-4839-a953-703f6e8c236a
+---
+Track: Prelude
+Name Detail: album
+Always Reference By Directory: true
+Artists:
+- Hiroki Morishita
+Duration: 5:18
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/becff267-b382-4567-8977-bbfb96b38f86
+---
+Track: Prelude (Ablaze)
+Artists:
+- Hiroki Morishita
+Duration: 5:18
+URLs:
+- https://m.nintendo.com/shared/en-US/US/tracks/c0be969a-54ad-4ed2-8e9d-4d019a1d22b4
+Referenced Tracks:
+- track:prelude-fire-emblem-awakening

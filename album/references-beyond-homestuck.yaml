@@ -3054,30 +3054,6 @@ Duration: 3:27
 URLs:
 - https://www.youtube.com/watch?v=QtcpQ_XRvKI
 ---
-Track: Destiny
-Directory: destiny-fire-emblem-awakening
-Always Reference By Directory: true
-# Reference:
-#   https://vgmdb.net/album/37510
-Artists:
-- Fire Emblem
-- Rei Kondoh
-Duration: 5:17
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/2ce9fdd6-8135-476d-bd8f-ea9f7b3a53f6
----
-Track: Destiny (Ablaze)
-# Reference:
-#   https://vgmdb.net/album/37510
-Artists:
-- Fire Emblem
-- Rei Kondoh
-Duration: 5:17
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/96536536-e718-4fb2-bd72-67d82ff79bff
-Referenced Tracks:
-- track:destiny-fire-emblem-awakening
----
 Track: Dissonance
 Directory: dissonance-quincy-pringle
 Always Reference By Directory: true
@@ -3954,16 +3930,6 @@ Artists:
 Duration: 1:22
 URLs:
 - https://www.youtube.com/watch?v=CUZlDht8iro
----
-Track: Id (Purpose)
-# Reference:
-#   https://vgmdb.net/album/37510
-Artists:
-- Fire Emblem
-- Hiroki Morishita
-Duration: 7:58
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/8851f93f-82ce-4839-a953-703f6e8c236a
 ---
 Track: I'll Face Myself
 # Reference:
@@ -4935,30 +4901,6 @@ Artists:
 Duration: 1:16
 URLs:
 - https://www.youtube.com/watch?v=RK0FO-Oe760
----
-Track: Prelude
-Directory: prelude-fire-emblem-awakening
-Always Reference By Directory: true
-# Reference:
-#   https://vgmdb.net/album/37510
-Artists:
-- Fire Emblem
-- Hiroki Morishita
-Duration: 5:18
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/becff267-b382-4567-8977-bbfb96b38f86
----
-Track: Prelude (Ablaze)
-# Reference:
-#   https://vgmdb.net/album/37510
-Artists:
-- Fire Emblem
-- Hiroki Morishita
-Duration: 5:18
-URLs:
-- https://m.nintendo.com/shared/en-US/US/tracks/c0be969a-54ad-4ed2-8e9d-4d019a1d22b4
-Referenced Tracks:
-- track:prelude-fire-emblem-awakening
 ---
 Track: Proto Man (Mega Man 3)
 # Reference:
