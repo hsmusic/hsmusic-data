@@ -1384,7 +1384,15 @@ Group: The Legend of Zelda
 ---
 Group: Megami Tensei
 ---
-Group: Metal Gear
+Group: METAL GEAR
+Series:
+- Name: Mainline games
+  Albums:
+  - 'METAL GEAR 2: Solid Snake'
+  - 'METAL GEAR SOLID 3: Snake Eater'
+- Name: Spinoffs
+  Albums:
+  - 'METAL GEAR RISING: REVENGEANCE'
 ---
 Group: Metroid
 ---
