@@ -2067,15 +2067,6 @@ URLs:
 - https://m.nintendo.com/shared/US/tracks/021bbef3-af43-49c1-b2c1-9f17225f885b
 - https://www.youtube.com/watch?v=NtuujEslrAE
 ---
-Track: Aquarius (Sunken City Stage)
-# Reference:
-#   https://vgmdb.net/album/114949
-Artists:
-- Castlevania
-Duration: 1:27
-URLs:
-- https://www.youtube.com/watch?v=5J8XqDENH1Y
----
 Track: The Arch-Illager
 # Reference:
 #   https://vgmdb.net/album/100692
@@ -2267,25 +2258,6 @@ Artists:
 Duration: 0:30
 URLs:
 - https://www.youtube.com/watch?v=F7EPGwU1lw0
----
-Track: Beginning (Church, Town, Graveyard Stage)
-Directory: beginning-castlevania-draculas-curse
-Always Reference By Directory: true
-# From Castlevania III: Dracula's Curse
-# The original official release combines this track with several others from the same game for its inclusion on the CD, so it doesn't have a "canonical" duration. But it starts at 2:46 and fades out ending at 4:30, which is what's used for the duration here.
-# Note that Castlevania III's NES release has a different rendition of the soundtrack from its original Famicom release, running on a different sound chip. They're essentially the same songs, but the Famicom original is what is listed here.
-# JP: [full track] 新たなる決意
-# JP: [subsection] Beginning (教会，町，墓場ステージ)
-# Official release:
-#   悪魔城ドラキュラ ファミコン・ベスト
-# Reference:
-#   https://vgmdb.net/album/121
-Artists:
-- Castlevania
-- Jun Funahashi
-Duration: 1:44
-URLs:
-- https://www.youtube.com/watch?v=zapJY3hm-dc&t=166
 ---
 Track: Behave Irrationally
 # Official release:

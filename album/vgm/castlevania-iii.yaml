@@ -1,0 +1,21 @@
+Album: "Castlevania III: Dracula's Curse"
+Directory: castlevania-iii
+Style: in-game vgm
+Date: December 22, 1989
+Color: '#EC7C23'
+Groups:
+- Castlevania
+---
+Track: Aquarius (Sunken City Stage)
+Duration: 1:27
+URLs:
+- https://www.youtube.com/watch?v=5J8XqDENH1Y
+---
+Track: Beginning (Church, Town, Graveyard Stage)
+Directory: beginning-castlevania-draculas-curse
+Always Reference By Directory: true
+Artists:
+- Jun Funahashi
+Duration: 1:44
+URLs:
+- https://www.youtube.com/watch?v=zapJY3hm-dc&t=166
