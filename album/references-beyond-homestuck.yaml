@@ -4040,16 +4040,6 @@ Artists:
 #URLs:
 #-
 ---
-Track: Out of Time (Clock Tower BGM)
-# Reference:
-#   https://vgmdb.net/album/12153
-Artists:
-- Castlevania
-- Satoe Terashima
-Duration: 1:22
-URLs:
-- https://www.youtube.com/watch?v=5jh3B4TXNfw
----
 Track: Parting Ways
 # Reference:
 #   none
@@ -4544,16 +4534,6 @@ URLs:
 Referenced Tracks:
 - track:arms-grand-prix-official-theme-song
 ---
-Track: Starker (Tower BGM)
-# Reference:
-#   https://vgmdb.net/album/12153
-Artists:
-- Castlevania
-- Satoe Terashima
-Duration: 1:15
-URLs:
-- https://www.youtube.com/watch?v=WW0fSo7P7CE
----
 Track: Stormy Saxophone 2 (Yagami Team Theme)
 # Reference:
 #   https://vgmdb.net/album/1567
@@ -4788,17 +4768,6 @@ URLs:
 - https://disasterpeace.bandcamp.com/track/the-universe-is-before-you
 - https://www.youtube.com/watch?v=ypzIiZAmghg
 ---
-Track: Vampire Killer (Castle Infiltration BGM)
-# Reference:
-#   overall info: https://vgmdb.net/album/114949
-#   composer: https://vgmdb.net/album/12153
-Artists:
-- Castlevania
-- Satoe Terashima
-Duration: 1:16
-URLs:
-- https://www.youtube.com/watch?v=btgi3TPL3AE
----
 Track: Vampire Killer (Castlevania Judgment)
 # Reference:
 #   https://vgmdb.net/album/10987
@@ -4961,16 +4930,6 @@ Lyrics: |-
     To the whole new world
     Shining like a pearl
     The whole new world
----
-Track: Wicked Child (Outdoors BGM)
-# Reference:
-#   https://vgmdb.net/album/12153
-Artists:
-- Castlevania
-- Kinuyo Yamashita
-Duration: 2:07
-URLs:
-- https://www.youtube.com/watch?v=E7PFm7mrdVY
 ---
 Track: Women Village
 # Reference:
@@ -19422,7 +19381,7 @@ Duration: 5:03
 URLs:
 - https://www.youtube.com/watch?v=Kc4pCZGji28
 Referenced Tracks:
-- Dan's Theme
+- "Dan's Theme (Street Fighter Alpha: Warriors' Dreams)"
 ---
 Track: Danger! High Voltage
 Artists:
