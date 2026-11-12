@@ -2695,18 +2695,6 @@ Duration: 3:32
 URLs:
 - https://www.youtube.com/watch?v=McKTbntEShA
 ---
-Track: DAN (OLD SKOOL MIX)
-# Reference:
-#   https://vgmdb.net/album/4918
-Artists:
-- Street Fighter
-- SPASM
-Duration: 5:03
-URLs:
-- https://www.youtube.com/watch?v=Kc4pCZGji28
-Referenced Tracks:
-- track:dans-theme-street-fighter-alpha-warriors-dreams
----
 Track: Dance of Gold
 # Reference:
 #   https://vgmdb.net/album/4772
@@ -19459,6 +19447,18 @@ Lyrics: |-
     (Your thingy)
 
     Give me your little thing
+---
+Track: DAN (OLD SKOOL MIX)
+# Reference:
+#   https://vgmdb.net/album/4918
+Artists:
+- Street Fighter
+- SPASM
+Duration: 5:03
+URLs:
+- https://www.youtube.com/watch?v=Kc4pCZGji28
+Referenced Tracks:
+- track:dans-theme-street-fighter-alpha-warriors-dreams
 ---
 Track: Danger! High Voltage
 Artists:
