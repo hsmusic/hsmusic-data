@@ -5,12 +5,7 @@ Date: November 10, 2099
 ---
 Section: site changes
 Changes: |-
-    - added basic support for styling albums as "singles"
-        - gets rid of the album page completely (which redirects to the first track)
-        - hides the track list, if the single only has one track, and cuts the "track list" heading if it has two or more
-        - hides the track name in the nav bar, if the single only has one track
-        - presents groups in their full view in the sidebar and nav bar
-        - essentially a custom presentation, so these are still treated like any other album within various parts of the wiki, pending progressively tighter integration
+    - added support for styling albums as singles, replacing the `/album/` page with a redirect to the first track; tuning presentation within the track pages, in [[listing:albums/by-tracks|"Albums - by Tracks"]] and [[listing:tracks/with-multiple-releases|"Tracks - with Multiple Releases"]], in "also released as a single" lines, and in search results; and marking singles filterable in the [[group-gallery:fandom]] and [[group-gallery:beyond]] gallery pages
     - added "music videos" feature, which covers music videos of course, with support also for lyric videos, live performances, etc; currently applied across [[group:michael-guy-bowman]] discography, [[group:canmt]] discography, community listening streams, album trailers, and various tracks all around the wiki
     - added "by series" view to group gallery pages, which presents albums within their series instead of a single chronological grid; "by date" remains the default view
     - added "previously featured tracks" field for flashes, which lists tracks that were at a previous time in the flash, but aren't any longer; generally used for removed and replaced material, like in [[flash:338]]
@@ -23,6 +18,10 @@ Changes: |-
         - added support for rotating tiles, which follow a sequence of album week by week, and randomized tiles, which randomly show a different album each week
         - at the moment split about half between team albums and solo releases; the album pool is set by hand, so it'll definitely vary with later updates
     - reworked [[update-index:-|the changelog]] to be one page per update, grouped per main update
+    - revised the presentation of groups on album and track pages:
+        - besides the main [[group:official]], [[group:fandom]], [[group:beyond]] groups, all groups now appear as a collapsed element in the sidebar, fully colorized to draw attention and shorter as to not take as much room and overcrowd the album's own individual presentation ([[media:misc/changelog/groups-in-album-sidebar-old.png|old]], [[media:misc/changelog/groups-in-album-sidebar-new.png|new]])
+        - clicking anywhere in the bar for the main group [[media:misc/changelog/group-in-album-sidebar-expanded.png|expands]] or collapses it as well as any attached series; expanded, these show the usual details, including description, visit links, and release chronology
+        - navigating between pages (besides the homepage) leaves expanded group boxes open, so it's easy to follow chronology or hop between albums and the group page
     - revised the presentation of credits on artist info pages:
         - annotations, meaning an artist's specific contribution, are now shown always at the end of the line, following a "—"
         - the "with other artists" stretch of text has been completely removed, since it typically just confused credited roles, and the most detailed information is always available on the track page
