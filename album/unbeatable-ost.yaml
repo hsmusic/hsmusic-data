@@ -11,6 +11,28 @@ Color: '#FF467F'
 #Date Added: August 21, 2025
 URLs:
 - https://dcellgames.bandcamp.com/album/unbeatable-ost
+Cover Artwork:
+- Date: July 27, 2026
+- Label: Digital distribution disc one
+  Directory: digital-distribution-disc-one
+  Attach Above: true
+  Date: July 27, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-one/6797390274)
+- Label: Digital distribution disc two
+  Directory: digital-distribution-disc-two
+  Date: July 27, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-two/6802425517)
+- Label: Digital distribution disc three
+  Directory: digital-distribution-disc-three
+  Date: July 27, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-three/6802088640)
+- Label: Original cover art
+  Directory: original
+  Artists:
+  - Andrew Tsai
 Groups:
 - UNBEATABLE
 - rj lake
@@ -21,13 +43,10 @@ Banner File Extension: png
 Banner Dimensions: 975x180
 Banner Style: |-
     --short-banner-alignment: 45%;
+Wallpaper File Extension: png
 Wallpaper Artists:
-- ruby (edits for wiki)
-Wallpaper Parts:
-- Asset: none
-  Style: |-
-    background-color: #FFFFFF;
-    opacity: 1;
+- Andrew Tsai
+- bit (edits for wiki)
 Commentary: |-
     @@ [Bandcamp about blurb](https://dcellgames.bandcamp.com/album/unbeatable-ost)
 
@@ -42,13 +61,24 @@ Commentary: |-
     [[artist:clara-maddux|clara maddux]] - composition, arrangement, lead performer<br>
     [[artist:vasily-nikolaev|vasily nikolaev]] - composition, arrangement, mastering
 
+    album art by [[artist:andrew-tsai|andrew tsai]]
+
     btw yes the game is out
+Crediting Sources: |-
+    <i>Andrew Tsai:</i> ([Bluesky](https://bsky.app/profile/pixelhavokk.dcellgames.com/post/3myfoeajym227), 10/21/2026)
+
+    > <i>[[artist:bit-uint32]]:</i> did [[artist:andrew-tsai|@pixelhavokk.dcellgames.com]] draw all of these covers too? on the bandcamp credits it says he did the covers but that's just album and ost disc one, but i was curious on who worked on the other two just in case it wasn't just him too
+
+    i did all of them!
 ---
 Track: MIC CHECK
 Bandcamp Track ID: 669817492
 Contributors:
 - rj lake (composition, arrangement)
 - clara maddux (composition, arrangement, guitars, bass, drums, mixing, mastering)
+Cover Artists:
+- Jesse Ebmeier
+Cover Art File Extension: png
 Duration: 3:20
 URLs:
 - https://dcellgames.bandcamp.com/track/mic-check
@@ -200,6 +230,9 @@ Contributors:
 - Katharina Kornmesser (vocals)
 - vasily nikolaev (composition, arrangement, lyrics, "mixing", "mastering")
 - rj lake (composition, arrangement, lyrics)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 1:39
 URLs:
 - https://dcellgames.bandcamp.com/track/plastic-hammer
@@ -264,6 +297,9 @@ Track: THE ADVENTURES OF CLEF THE GREAT
 Bandcamp Track ID: 3974000941
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 1:33
 URLs:
 - https://dcellgames.bandcamp.com/track/the-adventures-of-clef-the-great
@@ -337,6 +373,9 @@ Bandcamp Track ID: 1091204751
 Contributors:
 - Katharina Kornmesser (vocals)
 - vasily nikolaev (composition, arrangement, mixing, mastering)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 1:26
 URLs:
 - https://dcellgames.bandcamp.com/track/war-den
@@ -358,6 +397,9 @@ Track: DE_TASSEL
 Bandcamp Track ID: 1090350573
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
+Cover Artists:
+- Rei Lynn
+Cover Art File Extension: png
 Duration: 1:25
 URLs:
 - https://dcellgames.bandcamp.com/track/de-tassel
@@ -540,6 +582,9 @@ Bandcamp Track ID: 963360546
 Contributors:
 - clara maddux (composition, arrangement, mixing, mastering)
 - rj lake (scratching)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 3:55
 URLs:
 - https://dcellgames.bandcamp.com/track/bang
@@ -583,6 +628,9 @@ Bandcamp Track ID: 945366564
 Date First Released: June 7, 2025
 Contributors:
 - clara maddux (composition, arrangement, mixing, mastering)
+Cover Artists:
+- Eli
+Cover Art File Extension: png
 Duration: 1:40
 URLs:
 - https://dcellgames.bandcamp.com/track/call-home
@@ -877,6 +925,9 @@ Track: APB
 Bandcamp Track ID: 2438468194
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
+Cover Artists:
+- Jesse Ebmeier
+Cover Art File Extension: png
 Duration: 1:33
 URLs:
 - https://dcellgames.bandcamp.com/track/apb
@@ -903,6 +954,9 @@ Bandcamp Track ID: 394711488
 Date First Released: June 7, 2025
 Contributors:
 - rj lake (composition, arrangement, beatball arrangement, mixing, mastering)
+Cover Artists:
+- Jamie Lee (as yuzuyooja)
+Cover Art File Extension: png
 Duration: 2:04
 URLs:
 - https://dcellgames.bandcamp.com/track/its-whacktime
@@ -935,6 +989,9 @@ Contributors:
 - clara maddux (composition, arrangement, guitars, keys, mixing, mastering)
 - vasily nikolaev (composition, arrangement)
 - rj lake (beatball arrangement)
+Cover Artists:
+- Jamie Lee (as yuzuyooja)
+Cover Art File Extension: png
 Duration: 1:30
 URLs:
 - https://dcellgames.bandcamp.com/track/ball-is-infinite
@@ -1048,6 +1105,9 @@ Additional Names:
 - SWING. (normalized)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
+Cover Artists:
+- Z
+Cover Art File Extension: png
 Duration: 2:19
 URLs:
 - https://dcellgames.bandcamp.com/track/s-w-i-n-g-2
@@ -1088,6 +1148,9 @@ Bandcamp Track ID: 2799363231
 Contributors:
 - clara maddux (composition, arrangement, guitars, bass, drums, mixing, mastering)
 - vasily nikolaev (additional synths)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 1:38
 URLs:
 - https://dcellgames.bandcamp.com/track/cop-trauma
@@ -1156,6 +1219,9 @@ Suffix Directory: true
 Bandcamp Track ID: 2515390418
 Contributors:
 - rj lake (vocals, composition, arrangement, lyrics, mixing, mastering)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 1:29
 URLs:
 - https://dcellgames.bandcamp.com/track/go-figure
@@ -1393,7 +1459,7 @@ Track: eating is living ft. Anton Corazza
 Bandcamp Track ID: 640767902
 Track Text: >-
     eating is living ft. [[artist:anton-corazza|Anton Corazza]]
-Date First Released: June 12, 2025
+Date First Released: June 11, 2025
 Artists:
 - D-CELL SOUND TEAM
 - Anton Corazza (featuring)
@@ -1402,6 +1468,14 @@ Artist Text: >-
 Contributors:
 - Anton Corazza (lyrics, vocals)
 - vasily nikolaev (composition, arrangement, bass, mixing, mastering)
+Cover Artists:
+- Z
+Cover Art File Extension: png
+Music Videos:
+- Date: June 10, 2025
+  URL: https://www.youtube.com/watch?v=seGuJiaJQUE
+  Artist:
+  - D-CELL GAMES
 Duration: 2:16
 URLs:
 - https://dcellgames.bandcamp.com/track/eating-is-living-ft-anton-corazza
@@ -1552,6 +1626,9 @@ Track: HARM ASSAULT
 Bandcamp Track ID: 2246534187
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
+Cover Artists:
+- longiy
+Cover Art File Extension: png
 Duration: 6:37
 URLs:
 - https://dcellgames.bandcamp.com/track/harm-assault
@@ -1621,6 +1698,9 @@ Track: REST VS BEAT
 Bandcamp Track ID: 1254977511
 Contributors:
 - clara maddux (composition, arrangement, guitar, mixing, mastering)
+Cover Artists:
+- starapture
+Cover Art File Extension: png
 Duration: 2:30
 URLs:
 - https://dcellgames.bandcamp.com/track/rest-vs-beat
@@ -1774,6 +1854,9 @@ Track: SILENT SPIRAL
 Bandcamp Track ID: 3007239178
 Contributors:
 - clara maddux (vocals, composition, arrangement, mixing, mastering)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 2:58
 URLs:
 - https://dcellgames.bandcamp.com/track/silent-spiral
