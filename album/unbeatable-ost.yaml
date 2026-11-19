@@ -3,6 +3,8 @@ Directory: unbeatable-ost
 Directory Suffix: unbeatable
 Artists:
 - D-CELL SOUND TEAM
+Artist Text: >-
+    [[artist:d-cell-sound-team]]
 Date: December 21, 2025 00:00:00
 Cover Artists:
 - Andrew Tsai
@@ -16,23 +18,22 @@ Cover Artwork:
 - Label: Digital distribution disc one
   Directory: digital-distribution-disc-one
   Attach Above: true
-  Date: July 27, 2026
+  Date: August 3, 2026
   Source: >-
     [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-one/6797390274)
 - Label: Digital distribution disc two
   Directory: digital-distribution-disc-two
-  Date: July 27, 2026
+  Date: August 17, 2026
   Source: >-
     [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-two/6802425517)
 - Label: Digital distribution disc three
   Directory: digital-distribution-disc-three
-  Date: July 27, 2026
+  Date: August 17, 2026
   Source: >-
     [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-three/6802088640)
 - Label: Original cover art
   Directory: original
-  Artists:
-  - Andrew Tsai
+  Date: June 7, 2025
 Groups:
 - UNBEATABLE
 - rj lake
@@ -855,6 +856,8 @@ Contributors:
 Duration: 0:57
 URLs:
 - https://dcellgames.bandcamp.com/track/im-glad-i-met-you
+Referenced Tracks:
+- moment of silence (unused)
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/im-glad-i-met-you)
 
@@ -1790,11 +1793,201 @@ URLs:
 - https://dcellgames.bandcamp.com/track/dcub-999-fm
 # Sampled Tracks:
 # - Amen, Brother #the one starting at 6:05
+Referenced Tracks:
+- guitar center
+- chemex zone
+#- DOMA LOOP
+- AMATEUR HOUR
+#- GAME MUSIC METAL LOOP
+- Good Enough
+- liquid in 3
+#- FUNNY LOOP
+- vagabond
+#- DUM HOUSE LOOP
+- fair weathwer
+#- CITY_2
+- eh yeah whatever
+#- CITY_4
+#- CITY_5
+Sampled Tracks:
+- guitar center
+- chemex zone
+#- DOMA LOOP
+- AMATEUR HOUR
+#- GAME MUSIC METAL LOOP
+- Good Enough
+- liquid in 3
+#- FUNNY LOOP
+- vagabond
+#- DUM HOUSE LOOP
+- fair weathwer
+#- CITY_2
+- eh yeah whatever
+#- CITY_4
+#- CITY_5
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/dcub-999-fm)
 
     demo tracks by [[artist:rj-lake|rj lake]], [[artist:clara-maddux|clara maddux]], and [[artist:vasily-nikolaev|vasily nikolaev]]<br>
     sound design and soundtrack arrangement by [[artist:vasily-nikolaev|vasily nikolaev]]
+---
+Aside Section: DCUB 99.9 FM digital distribution
+Description: >-
+    The digital distrubition album unbeatable (ost) - DISC THREE had most of [[track:dcub-99-9-fm]] separated into separate tracks.
+Count Tracks In Album Duration: false
+Has Track Numbers: False
+---
+Track: DCUB 99.9 FM (short version)
+Duration: 4:22
+Contributors:
+- rj lake (demo tracks)
+- clara maddux (demo tracks)
+- vasily nikolaev (demo tracks)
+URLs:
+- https://open.spotify.com/track/4JEb7M6sdlDbBTAucxw6yT
+- https://music.apple.com/song/dcub-99-9-fm-short-version/6802088652
+Referenced Tracks:
+#- CITY_5
+#- DOMA LOOP
+#- GAME MUSIC METAL LOOP
+#- FUNNY LOOP
+#- DUM HOUSE LOOP
+#- CITY_2
+#- CITY_4
+Sampled Tracks:
+#- CITY_5
+#- DOMA LOOP
+#- GAME MUSIC METAL LOOP
+#- FUNNY LOOP
+#- DUM HOUSE LOOP
+#- CITY_2
+#- CITY_4
+---
+Track: guitar center
+Duration: 0:41
+Contributors:
+- clara maddux (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4SECqujfoE83qSBdFDADES
+- https://music.apple.com/song/guitar-center/6802088653
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/guitar-center/6802088653)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:clara-maddux|Clara Maddux]]<br>
+    Songwriter: [[artist:clara-maddux|Clara Maddux]]<br>
+    Producer: [[artist:clara-maddux|Clara Maddux]]
+---
+Track: chemex zone
+Duration: 0:44
+Contributors:
+- vasily nikolaev (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4FPhjsGWIyrx7EAWDakhap
+- https://music.apple.com/song/chemex-zone/6802088654
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/chemex-zone/6802088654)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Songwriter: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Producer: [[artist:vasily-nikolaev|Vasily Nikolaev]]
+---
+Track: AMATEUR HOUR
+Duration: 2:50
+Contributors:
+- rj lake (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4pMOCaqhDhu03FevYJoY7B
+- https://music.apple.com/song/amateur-hour/6802088655
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/amateur-hour/6802088655)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:rj-lake|rj lake]]<br>
+    Songwriter: [[artist:rj-lake|rj lake]]<br>
+    Producer: [[artist:rj-lake|rj lake]]
+---
+Track: liquid in 3
+Duration: 1:41
+Contributors:
+- vasily nikolaev (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/6CFHNcuSjVlEY1NpLYH7iT
+- https://music.apple.com/song/liquid-in-3/6802088656
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/liquid-in-3/6802088656)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Songwriter: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Producer: [[artist:vasily-nikolaev|Vasily Nikolaev]]
+---
+Track: vagabond
+Duration: 1:59
+Contributors:
+- vasily nikolaev (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/0VbY7ZkSqXrpyvAh7ag2IS
+- https://music.apple.com/song/vagabond/6802088657
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/vagabond/6802088657)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Songwriter: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Producer: [[artist:vasily-nikolaev|Vasily Nikolaev]]
+---
+Track: fair weather
+Duration: 1:07
+Contributors:
+- clara maddux (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/30JAUkoBc4lXlu6txsCApx
+- https://music.apple.com/song/fair-weather/6802088658
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/fair-weather/6802088658)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:clara-maddux|Clara Maddux]]<br>
+    Songwriter: [[artist:clara-maddux|Clara Maddux]]<br>
+    Producer: [[artist:clara-maddux|Clara Maddux]]
+---
+Track: eh yeah whatever
+Duration: 0:32
+Contributors:
+- clara maddux (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4zeMaMMc9b0tZbiuDrUw16
+- https://music.apple.com/song/eh-yeah-whatever/6802088659
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/eh-yeah-whatever/6802088659)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:clara-maddux|Clara Maddux]]<br>
+    Songwriter: [[artist:clara-maddux|Clara Maddux]]<br>
+    Producer: [[artist:clara-maddux|Clara Maddux]]
+---
+Track: Good Enough
+Duration: 3:31
+Artists:
+- D-CELL SOUND TEAM
+- rj lake
+- Polychromatic!
+Contributors:
+- rj lake (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4qRCqLUm1asiqZWvmbsGtE
+- https://music.apple.com/song/good-enough/6802088660
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/good-enough/6802088660)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]], [[artist:rj-lake|rj lake]], [[artist:polychromatic|Poly-Chromatic]]<br>
+    Other Instrument: [[artist:rj-lake|rj lake]]<br>
+    Songwriter: [[artist:rj-lake|rj lake]]<br>
+    Producer: [[artist:rj-lake|rj lake]]
+---
+Close Aside Section: DCUB 99.9 FM digital distribution
 ---
 Track: floating
 Suffix Directory: true
@@ -2005,3 +2198,42 @@ Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/at-the-center-of-it-all-extended-demo)
 
     composition, arrangement, guitar performed by clara maddux
+---
+Aside Section: Digital distribution additional bonus tracks
+Description: >-
+    Additional bonus tracks only included in the unbeatable (ost) - DISC THREE album on digital distribution.
+Count Tracks In Album Duration: false
+Start Counting From: 32
+---
+Track: under normal circumstances this would be out of my price range (extended mix)
+Date First Released: August 17, 2026
+Contributors:
+- rj lake (composition, arrangement, guitar)
+Duration: 1:47
+URLs:
+- https://open.spotify.com/track/2aS7URQXgzbyG45ccksorR
+- https://music.apple.com/song/under-normal-circumstances-this-would-be-out-of-my/6802088706
+Referenced Tracks:
+- under normal circumstances this would be out of my price range
+Sampled Tracks:
+- under normal circumstances this would be out of my price range
+Crediting Sources: |-
+    @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/under-normal-circumstances-this-would-be-out-of-my-price-range) for [[track:under-normal-circumstances-this-would-be-out-of-my-price-range]]
+
+    composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
+---
+Track: moment of silence (unused)
+Date First Released: August 17, 2026
+Contributors:
+- rj lake (songwriter, producer, other instrument)
+Duration: 2:55
+URLs:
+- https://open.spotify.com/track/7G0YMRyhYg2aTX7XLmlGGS
+- https://music.apple.com/song/moment-of-silence-unused/6802088707
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/under-normal-circumstances-this-would-be-out-of-my/6802088706)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:rj-lake|rj lake]]<br>
+    Songwriter: [[artist:rj-lake|rj lake]]<br>
+    Producer: [[artist:rj-lake|rj lake]]
