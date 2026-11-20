@@ -12,7 +12,7 @@ Groups:
 Commentary: |-
     @@ CD case back
 
-    All tracks written and recorded by [[artist:clara-maddux]], [[artist:vasily-nikolaev]], [[artist:rj-lake]], [[artist:rachel-lake]] with production by [[artist:clara-maddux]] and [[artist:vasily-nikolaev]] and mastering by [[artist:vasily-nikolaev]] except for track 1 (by [[artist:rj-lake]], featuring backup vocals by [[artist:rachel-lake]]), Track 3 (Remixed by [[artist:must-die]]. [[artist:must-die]] appears courtesy of Never Say Die Records), Track 5 (by [[artist:vasily-nikolaev]]), Track 6 (remixed by [[artist:lumena-tan]]) Track 8 (Remixed by [[artist:riki-tsuji|DOG NOISE]]), Track 9 (Remix by [[artist:rj-lake]]), Track 10 (by [[artist:clara-maddux]]), Track 11 (by [[artist:vasily-nikolaev]]), Track 13 (by [[artist:rj-lake]] and [[artist:vasily-nikolaev]]), Track 15 (remixed by [[artist:soundcirclet|Soundcirclet]]), Track 17 (remix by [[artist:rj-lake]]), and Track 18 (rearrangement by [[artist:clara-maddux]])<br>
+    All tracks written and recorded by [[artist:clara-maddux]], [[artist:vasily-nikolaev]], [[artist:rj-lake]], [[artist:rachel-lake]] with production by [[artist:clara-maddux]] and [[artist:vasily-nikolaev]] and mastering by [[artist:vasily-nikolaev]] except for track 1 (by [[artist:rj-lake]], featuring backup vocals by [[artist:rachel-lake]]), Track 3 (Remixed by [[artist:must-die]]. [[artist:must-die]] appears courtesy of Never Say Die Records), Track 5 (by [[artist:vasily-nikolaev]]), Track 6 (remixed by [[artist:lumena-tan]]) Track 8 (Remixed by [[artist:riki-tsuji|DOG NOISE]]), Track 9 (Remix by [[artist:rj-lake]]), Track 10 (by [[artist:clara-maddux]]), Track 11 (by [[artist:vasily-nikolaev]]), Track 13 (by [[artist:rj-lake]] and [[artist:vasily-nikolaev]]), Track 15 (remixed by [[artist:dante-gofar|Soundcirclet]]), Track 17 (remix by [[artist:rj-lake]]), and Track 18 (rearrangement by [[artist:clara-maddux]])<br>
     Mastered by [[artist:vasily-nikolaev]]. Art by [[artist:andrew-tsai]]<br>
     CD Mastering Assistance courtesy of Kiko Gillkott<br>
     UNBEATABLE appears courtesy of [[artist:d-cell-games|D-CELL]].
@@ -48,15 +48,16 @@ Track: FAMILIAR (original demo)
 Artists:
 - rj lake
 Contributors:
-- Rachel Lake (backup vocals)
+- rachel lake (backup vocals)
 Duration: 1:28
+Main Release: track:familiar-demo
 ---
 Track: PROPER RHYTHM (live)
 Artists:
 - peak divide
 Contributors:
-- Clara Maddux (guitar, drums)
-- Vasily Nikolaev (bass, keys)
+- clara maddux (guitar, drums)
+- vasily nikolaev (bass, keys)
 Duration: 2:29
 URLs:
 - https://www.youtube.com/watch?v=OnkdCbviP9Y&t=270
@@ -66,6 +67,9 @@ Referenced Tracks:
 Track: PROPER RHYTHM (MUST DIE! Remix)
 Artists:
 - MUST DIE!
+Cover Artists:
+- longiy
+Cover Art File Extension: png
 Duration: 3:19
 URLs:
 - https://www.youtube.com/watch?v=reODd9Z_mwM
@@ -75,11 +79,14 @@ Referenced Tracks:
 Track: WAITING (live)
 Artists:
 - peak divide
-- Rachel Lake
+- rachel lake
 Contributors:
-- Rachel Lake (vocals)
-- Clara Maddux (guitar, drums)
-- Vasily Nikolaev (bass, keys)
+- rachel lake (vocals)
+- clara maddux (guitar, drums)
+- vasily nikolaev (bass, keys)
+Cover Artists:
+- starapture
+Cover Art File Extension: png
 Duration: 3:28
 URLs:
 - https://www.youtube.com/watch?v=OnkdCbviP9Y&t=749
@@ -88,12 +95,20 @@ Referenced Tracks:
 ---
 Track: Neo Elsewhere
 Artists:
-- Vasily Nikolaev
+- vasily nikolaev
+Cover Artists:
+- longiy
+Cover Art File Extension: png
 Duration: 2:14
+URLs:
+- https://www.youtube.com/watch?v=g-aDJ285nsQ
 ---
 Track: WAITING (Lumena-tan [VRC6] Remix)
 Artists:
 - Lumena-tan
+Cover Artists:
+- Ritte
+Cover Art File Extension: png
 Duration: 2:19
 URLs:
 - https://www.youtube.com/watch?v=fiJvsTZYEsc
@@ -102,7 +117,7 @@ Referenced Tracks:
 ---
 Track: Finite Never
 Artists:
-- Vasily Nikolaev
+- vasily nikolaev
 Duration: 2:45
 Referenced Tracks:
 - homework salad
@@ -113,6 +128,9 @@ Sampled Tracks:
 Track: FOREVER NOW (DOG NOISE Remix)
 Artists:
 - Riki Tsuji (as DOG NOISE)
+Cover Artists:
+- longiy
+Cover Art File Extension: png
 Duration: 3:15
 URLs:
 - https://soundcloud.com/dog_noise/forever-now-remix
@@ -124,6 +142,9 @@ Sampled Tracks:
 Track: MALAPROPISM
 Artists:
 - rj lake
+Cover Artists:
+- Rei Lynn
+Cover Art File Extension: png
 Duration: 1:44
 Referenced Tracks:
 - PROPER RHYTHM
@@ -132,7 +153,7 @@ Sampled Tracks:
 ---
 Track: Back in My Day (ft. rj's cat)
 Artists:
-- Clara Maddux
+- clara maddux
 Duration: 2:17
 Referenced Tracks:
 - FOREVER NOW
@@ -140,17 +161,20 @@ Referenced Tracks:
 Track: Sandwiches
 Directory: sandwiches-unbeatable-off-beats # custom suffix
 Artists:
-- Vasily Nikolaev
+- vasily nikolaev
 Duration: 2:28
 ---
 Track: LONER (live)
 Artists:
 - peak divide
-- Rachel Lake
+- rachel lake
 Contributors:
-- Rachel Lake (vocals)
-- Clara Maddux (guitar, drums)
-- Vasily Nikolaev (bass, keys)
+- rachel lake (vocals)
+- clara maddux (guitar, drums)
+- vasily nikolaev (bass, keys)
+Cover Artists:
+- Jamie Lee (as yuzuyooja)
+Cover Art File Extension: png
 Duration: 2:27
 URLs:
 - https://www.youtube.com/watch?v=OnkdCbviP9Y&t=126
@@ -160,7 +184,7 @@ Referenced Tracks:
 Track: still relaxed...
 Artists:
 - rj lake
-- Vasily Nikolaev
+- vasily nikolaev
 Duration: 2:54
 Referenced Tracks:
 - PROPER RHYTHM
@@ -178,7 +202,10 @@ Suffix Directory: true
 Main Release: Empty Diary (SoundCirclet Remix)
 Bandcamp Track ID: 2954470953
 Artists:
-- SoundCirclet
+- dante gofar (as SoundCirclet)
+Cover Artists:
+- Camille Cee
+Cover Art File Extension: png
 Duration: 4:50
 URLs:
 - https://soundcirclet.bandcamp.com/track/empty-diary-soundcirclet-remix-2
@@ -187,11 +214,14 @@ URLs:
 Track: FAMILIAR (live)
 Artists:
 - peak divide
-- Rachel Lake
+- rachel lake
 Contributors:
-- Rachel Lake (vocals)
-- Clara Maddux (guitar, drums)
-- Vasily Nikolaev (bass, keys)
+- rachel lake (vocals)
+- clara maddux (guitar, drums)
+- vasily nikolaev (bass, keys)
+Cover Artists:
+- Dannica Doplayna
+Cover Art File Extension: png
 Duration: 1:56
 URLs:
 - https://www.youtube.com/watch?v=OnkdCbviP9Y&t=10
@@ -207,7 +237,7 @@ Referenced Tracks:
 ---
 Track: sleepy diary
 Artists:
-- Clara Maddux
+- clara maddux
 Duration: 1:58
 Referenced Tracks:
 - EMPTY DIARY
@@ -218,12 +248,11 @@ Track: Loner (original demo)
 Artists:
 - rj lake
 Duration: 2:57
-Referenced Tracks:
-- track:intimate-rhythm-doctor
 Referencing Sources: |-
     @@ [LONER final version Bandcamp credits](https://dcellgames.bandcamp.com/track/loner)
 
     based off of "[[track:intimate-rhythm-doctor|Intimate]]" by [[artist:fizzd|fizzd]]
+Main Release: track:loner-demo
 ---
 Track: '`'
 Directory: grave

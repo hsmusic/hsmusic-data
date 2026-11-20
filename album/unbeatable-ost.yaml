@@ -3,14 +3,37 @@ Directory: unbeatable-ost
 Directory Suffix: unbeatable
 Artists:
 - D-CELL SOUND TEAM
+Artist Text: >-
+    [[artist:d-cell-sound-team]]
 Date: December 21, 2025 00:00:00
 Cover Artists:
 - Andrew Tsai
 Cover Art File Extension: png
-Color: '#FF467F'
+Color: '#305996'
 #Date Added: August 21, 2025
 URLs:
 - https://dcellgames.bandcamp.com/album/unbeatable-ost
+Cover Artwork:
+- Date: July 27, 2026
+- Label: Digital distribution disc one
+  Directory: digital-distribution-disc-one
+  Attach Above: true
+  Date: August 3, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-one/6797390274)
+- Label: Digital distribution disc two
+  Directory: digital-distribution-disc-two
+  Date: August 17, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-two/6802425517)
+- Label: Digital distribution disc three
+  Directory: digital-distribution-disc-three
+  Date: August 17, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-three/6802088640)
+- Label: Original cover art
+  Directory: original
+  Date: June 7, 2025
 Groups:
 - UNBEATABLE
 - rj lake
@@ -21,13 +44,10 @@ Banner File Extension: png
 Banner Dimensions: 975x180
 Banner Style: |-
     --short-banner-alignment: 45%;
+Wallpaper File Extension: png
 Wallpaper Artists:
-- ruby (edits for wiki)
-Wallpaper Parts:
-- Asset: none
-  Style: |-
-    background-color: #FFFFFF;
-    opacity: 1;
+- Andrew Tsai
+- bit (edits for wiki)
 Commentary: |-
     @@ [Bandcamp about blurb](https://dcellgames.bandcamp.com/album/unbeatable-ost)
 
@@ -42,19 +62,28 @@ Commentary: |-
     [[artist:clara-maddux|clara maddux]] - composition, arrangement, lead performer<br>
     [[artist:vasily-nikolaev|vasily nikolaev]] - composition, arrangement, mastering
 
+    album art by [[artist:andrew-tsai|andrew tsai]]
+
     btw yes the game is out
+Crediting Sources: |-
+    <i>Andrew Tsai:</i> ([Bluesky](https://bsky.app/profile/pixelhavokk.dcellgames.com/post/3myfoeajym227), 10/21/2026)
+
+    > <i>[[artist:bit-uint32]]:</i> did [[artist:andrew-tsai|@pixelhavokk.dcellgames.com]] draw all of these covers too? on the bandcamp credits it says he did the covers but that's just album and ost disc one, but i was curious on who worked on the other two just in case it wasn't just him too
+
+    i did all of them!
 ---
 Track: MIC CHECK
 Bandcamp Track ID: 669817492
-Artists:
-- rj lake
-- Clara Maddux
 Contributors:
 - rj lake (composition, arrangement)
-- Clara Maddux (composition, arrangement, guitars, bass, drums, mixing, mastering)
-Duration: 3:11
+- clara maddux (composition, arrangement, guitars, bass, drums, mixing, mastering)
+Cover Artists:
+- Jesse Ebmeier
+Cover Art File Extension: png
+Duration: 3:20
 URLs:
 - https://dcellgames.bandcamp.com/track/mic-check
+- https://www.youtube.com/watch?v=vGHv1d-w-hQ
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/mic-check)
 
@@ -64,15 +93,15 @@ Crediting Sources: |-
 ---
 Track: BOOKEND [opening version]
 Artists:
-- rj lake
-- Clara Maddux
+- ONE MORE FINAL
 Contributors:
 - Rebecca LaChance (vocals)
 - rj lake (composition, arrangement, lyrics)
-- Clara Maddux (composition, arrangement, lyrics, guitar, mixing, mastering)
-Duration: 2:19
+- clara maddux (composition, arrangement, lyrics, guitar, mixing, mastering)
+Duration: 2:20
 URLs:
 - https://dcellgames.bandcamp.com/track/bookend-opening-version
+- https://www.youtube.com/watch?v=T_S6lghbXpg
 Lyrics: |-
     i heard it all again last night
     the shimmer in your eyes
@@ -99,33 +128,34 @@ Crediting Sources: |-
 ---
 Track: at the center of it all
 Bandcamp Track ID: 734546768
-Artists:
-- Clara Maddux
 Contributors:
 - Holly Earl (vocals)
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
-Duration: 0:47
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
+Duration: 0:38
 URLs:
 - https://dcellgames.bandcamp.com/track/at-the-center-of-it-all
+- https://www.youtube.com/watch?v=3Brvz6uTPwc
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/at-the-center-of-it-all)
 
     vocals performed by [[artist:holly-earl|Holly Earl]]<br>
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:clara-maddux|clara maddux]]
+Referenced Tracks:
+- at the center of it all [extended demo]
 ---
 Track: FORGETTER
 Bandcamp Track ID: 2046546114
 Artists:
-- rj lake
-- Clara Maddux
+- ONE MORE FINAL
 Contributors:
 - Rebecca LaChance (vocals)
 - rj lake (composition, arrangement, lyrics)
-- Clara Maddux (composition, arrangement, guitar)
-- Vasily Nikolaev (mixing, mastering)
-Duration: 3:10
+- clara maddux (composition, arrangement, guitar)
+- vasily nikolaev (mixing, mastering)
+Duration: 3:11
 URLs:
 - https://dcellgames.bandcamp.com/track/forgetter-2
+- https://www.youtube.com/watch?v=nE4GWzhDqhI
 Lyrics: |-
     there’s a nightmare that i got in my brain
     every night, where i get caught in a drain
@@ -176,13 +206,12 @@ Crediting Sources: |-
 Track: A GAME WHERE MUSIC IS ILLEGAL AND YOU DO CRIMES
 Bandcamp Track ID: 4025888402
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
-Duration: 1:12
+Duration: 1:13
 URLs:
 - https://dcellgames.bandcamp.com/track/a-game-where-music-is-illegal-and-you-do-crimes
+- https://www.youtube.com/watch?v=hVvRE8JnaaE
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/a-game-where-music-is-illegal-and-you-do-crimes)
 
@@ -191,13 +220,12 @@ Crediting Sources: |-
 Track: HARMONY AND RESONANCE MANAGEMENT
 Bandcamp Track ID: 1043790635
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
-Duration: 1:38
+Duration: 1:39
 URLs:
 - https://dcellgames.bandcamp.com/track/harmony-and-resonance-management
+- https://www.youtube.com/watch?v=cXUbm9siRFI
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/harmony-and-resonance-management)
 
@@ -205,16 +233,17 @@ Crediting Sources: |-
 ---
 Track: PLASTIC HAMMER
 Bandcamp Track ID: 1422859038
-Artists:
-- Vasily Nikolaev
-- rj lake
 Contributors:
 - Katharina Kornmesser (vocals)
-- Vasily Nikolaev (composition, arrangement, lyrics, "mixing", "mastering")
+- vasily nikolaev (composition, arrangement, lyrics, "mixing", "mastering")
 - rj lake (composition, arrangement, lyrics)
-Duration: 1:38
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
+Duration: 1:39
 URLs:
 - https://dcellgames.bandcamp.com/track/plastic-hammer
+- https://www.youtube.com/watch?v=Oxy3691Y2ek
 Lyrics: |-
     WOO!!!!!
 
@@ -262,27 +291,30 @@ Crediting Sources: |-
 ---
 Track: rest & rant
 Bandcamp Track ID: 19372329
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, whistling, mandolin, mixing, mastering)
-Duration: 1:38
+- vasily nikolaev (composition, arrangement, whistling, mandolin, mixing, mastering)
+Duration: 1:39
 URLs:
 - https://dcellgames.bandcamp.com/track/rest-rant
+- https://www.youtube.com/watch?v=LRV62ARACDo
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/rest-rant)
 
     composition, arrangement, whistling and mandolin performed by, mixed and mastered by [[artist:vasily-nikolaev|vasily nikolaev]]
 ---
 Track: THE ADVENTURES OF CLEF THE GREAT
+Additional Names:
+- THE ADVENTURES OF CLEF THE GREAT, THE COOLEST PERSON YOU’VE EVER MET IN YOUR ENTIRE LIFE, WHO YOU ARE ONLY A SPECK OF DUST NEXT TO IN THE GRAND SCHEME OF THINGS, FEATURING TREBLE SOMETIMES. AN-please, dear god, clef, this is not the final title... (digital distribution)
 Bandcamp Track ID: 3974000941
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
-Duration: 1:32
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
+Duration: 1:33
 URLs:
 - https://dcellgames.bandcamp.com/track/the-adventures-of-clef-the-great
+- https://www.youtube.com/watch?v=lXrnsCWrTYU
 Referenced Tracks:
 - PLASTIC HAMMER
 Sampled Tracks:
@@ -298,13 +330,12 @@ Referencing Sources: |-
 ---
 Track: ground rules
 Bandcamp Track ID: 3273621989
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
-Duration: 2:16
+Duration: 2:17
 URLs:
 - https://dcellgames.bandcamp.com/track/ground-rules
+- https://www.youtube.com/watch?v=aGKhg6w1Wyk
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/ground-rules)
 
@@ -316,13 +347,12 @@ Crediting Sources: |-
 ---
 Track: but not that hungry
 Bandcamp Track ID: 1489262543
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 0:55
+Duration: 0:56
 URLs:
 - https://dcellgames.bandcamp.com/track/but-not-that-hungry
+- https://www.youtube.com/watch?v=5DVONNJVGBc
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/but-not-that-hungry)
 
@@ -330,13 +360,12 @@ Crediting Sources: |-
 ---
 Track: NEARFIELD COPHASIC DAMPENER
 Bandcamp Track ID: 3060274369
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, scratching, mixing, mastering)
-Duration: 0:26
+Duration: 0:27
 URLs:
 - https://dcellgames.bandcamp.com/track/nearfield-cophasic-dampener
+- https://www.youtube.com/watch?v=jIIqRBFJio8
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/nearfield-cophasic-dampener)
 
@@ -344,13 +373,12 @@ Crediting Sources: |-
 ---
 Track: site 14
 Bandcamp Track ID: 3391393879
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 1:08
+Duration: 1:09
 URLs:
 - https://dcellgames.bandcamp.com/track/site-14
+- https://www.youtube.com/watch?v=OxXMPUVIVEs
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/site-14)
 
@@ -358,14 +386,16 @@ Crediting Sources: |-
 ---
 Track: WAR DEN
 Bandcamp Track ID: 1091204751
-Artists:
-- Vasily Nikolaev
 Contributors:
 - Katharina Kornmesser (vocals)
-- Vasily Nikolaev (composition, arrangement, mixing, mastering)
-Duration: 1:25
+- vasily nikolaev (composition, arrangement, mixing, mastering)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
+Duration: 1:26
 URLs:
 - https://dcellgames.bandcamp.com/track/war-den
+- https://www.youtube.com/watch?v=OxXMPUVIVEs
 Referenced Tracks:
 - PLASTIC HAMMER
 Sampled Tracks:
@@ -382,13 +412,15 @@ Referencing Sources: |-
 ---
 Track: DE_TASSEL
 Bandcamp Track ID: 1090350573
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
-Duration: 1:24
+Cover Artists:
+- Rei Lynn
+Cover Art File Extension: png
+Duration: 1:25
 URLs:
 - https://dcellgames.bandcamp.com/track/de-tassel
+- https://www.youtube.com/watch?v=5jMk0-XF150
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/de-tassel)
 
@@ -398,13 +430,12 @@ Track: attitude
 Suffix Directory: true
 Always Reference By Directory: true
 Bandcamp Track ID: 2486523627
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 1:24
+Duration: 1:25
 URLs:
 - https://dcellgames.bandcamp.com/track/attitude
+- https://www.youtube.com/watch?v=H61VrEkkwo8
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/attitude)
 
@@ -412,13 +443,12 @@ Crediting Sources: |-
 ---
 Track: '"GYM CLASS"'
 Bandcamp Track ID: 3439590193
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 2:31
+Duration: 2:32
 URLs:
 - https://dcellgames.bandcamp.com/track/gym-class
+- https://www.youtube.com/watch?v=PdhB0YvviUI
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/gym-class)
 
@@ -426,13 +456,12 @@ Crediting Sources: |-
 ---
 Track: prisonball
 Bandcamp Track ID: 1295415731
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 1:42
+Duration: 1:43
 URLs:
 - https://dcellgames.bandcamp.com/track/prisonball
+- https://www.youtube.com/watch?v=SDhBrM1i0NI
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/prisonball)
 
@@ -441,13 +470,12 @@ Crediting Sources: |-
 Track: HELD_UP
 Suffix Directory: true
 Bandcamp Track ID: 1653507189
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
-Duration: 2:23
+Duration: 2:24
 URLs:
 - https://dcellgames.bandcamp.com/track/held-up
+- https://www.youtube.com/watch?v=bc85QX8NzBQ
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/held-up)
 
@@ -455,13 +483,12 @@ Crediting Sources: |-
 ---
 Track: mandatory recreation
 Bandcamp Track ID: 2733544299
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 1:26
+Duration: 1:27
 URLs:
 - https://dcellgames.bandcamp.com/track/mandatory-recreation
+- https://www.youtube.com/watch?v=hmuXy8syVdo
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/mandatory-recreation)
 
@@ -469,14 +496,13 @@ Crediting Sources: |-
 ---
 Track: LOW PITCH
 Bandcamp Track ID: 2674884356
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, bass, mixing, mastering)
+- vasily nikolaev (composition, arrangement, bass, mixing, mastering)
 - rj lake (beatball arrangement, scratching)
-Duration: 2:23
+Duration: 2:24
 URLs:
 - https://dcellgames.bandcamp.com/track/low-pitch
+- https://www.youtube.com/watch?v=1Ranxh0Mgj4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/low-pitch)
 
@@ -485,15 +511,13 @@ Crediting Sources: |-
 ---
 Track: a paperweight made of bones
 Bandcamp Track ID: 3350278682
-Artists:
-- rj lake
-- Clara Maddux
 Contributors:
 - rj lake (composition, guitar, mixing, mastering)
-- Clara Maddux (soundtrack arrangement)
-Duration: 3:49
+- clara maddux (soundtrack arrangement)
+Duration: 3:50
 URLs:
 - https://dcellgames.bandcamp.com/track/a-paperweight-made-of-bones
+- https://www.youtube.com/watch?v=I2Cnxtfq7SU
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/a-paperweight-made-of-bones)
 
@@ -502,13 +526,12 @@ Crediting Sources: |-
 ---
 Track: DEAD_SUMMER
 Bandcamp Track ID: 3553744871
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 1:36
+Duration: 1:37
 URLs:
 - https://dcellgames.bandcamp.com/track/dead-summer
+- https://www.youtube.com/watch?v=gb1AHXSEV-c
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/dead-summer)
 
@@ -516,15 +539,14 @@ Crediting Sources: |-
 ---
 Track: DRASTIC HAMMER
 Bandcamp Track ID: 1571197889
-Artists:
-- Vasily Nikolaev
 Contributors:
 - Katharina Kornmesser (vocals)
 - rj lake (vocals)
-- Vasily Nikolaev (composition, arrangement, guitar, mixing, mastering)
-Duration: 1:50
+- vasily nikolaev (composition, arrangement, guitar, mixing, mastering)
+Duration: 1:51
 URLs:
 - https://dcellgames.bandcamp.com/track/drastic-hammer
+- https://www.youtube.com/watch?v=HDA5hijFyyc
 Referenced Tracks:
 - PLASTIC HAMMER
 Lyrics: |-
@@ -571,29 +593,32 @@ Referencing Sources: |-
 ---
 Track: THE ONLY IDEA
 Bandcamp Track ID: 3591062959
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
-Duration: 1:24
+Duration: 1:25
 URLs:
 - https://dcellgames.bandcamp.com/track/the-only-idea
+- https://www.youtube.com/watch?v=ZmQgTkhU01g
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/the-only-idea)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: BANG
+Track: BANG!
+Additional Names:
+- BANG (original title)
 Suffix Directory: true
 Bandcamp Track ID: 963360546
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
+- clara maddux (composition, arrangement, mixing, mastering)
 - rj lake (scratching)
-Duration: 3:54
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
+Duration: 3:55
 URLs:
 - https://dcellgames.bandcamp.com/track/bang
+- https://www.youtube.com/watch?v=Evnqhev3LuI
 # Sampled Tracks:
 # - Amen, Brother
 Crediting Sources: |-
@@ -604,14 +629,13 @@ Crediting Sources: |-
 ---
 Track: concrete halitosis
 Bandcamp Track ID: 795385333
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, mixing, mastering)
-- Clara Maddux (additional composition)
+- vasily nikolaev (composition, arrangement, mixing, mastering)
+- clara maddux (additional composition)
 Duration: 4:43
 URLs:
 - https://dcellgames.bandcamp.com/track/concrete-halitosis
+- https://www.youtube.com/watch?v=E-6zmY_rPpg
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/concrete-halitosis)
 
@@ -621,13 +645,12 @@ Crediting Sources: |-
 Track: forget her
 Bandcamp Track ID: 4238862148
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
-Duration: 1:56
+- clara maddux (composition, arrangement, mixing, mastering)
+Duration: 1:57
 URLs:
 - https://dcellgames.bandcamp.com/track/forget-her
+- https://www.youtube.com/watch?v=xceUZLwrDiE
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/forget-her)
 
@@ -636,13 +659,15 @@ Crediting Sources: |-
 Track: CALL_HOME
 Bandcamp Track ID: 945366564
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
+- clara maddux (composition, arrangement, mixing, mastering)
+Cover Artists:
+- Eli
+Cover Art File Extension: png
 Duration: 1:40
 URLs:
 - https://dcellgames.bandcamp.com/track/call-home
+- https://www.youtube.com/watch?v=OjUlcWeYLWg
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/call-home)
 
@@ -652,13 +677,12 @@ Track: morning.
 Suffix Directory: true
 Bandcamp Track ID: 3607642770
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 0:16
+Duration: 0:30
 URLs:
 - https://dcellgames.bandcamp.com/track/morning
+- https://www.youtube.com/watch?v=5oZqZCr5-YA
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/morning)
 
@@ -668,15 +692,13 @@ Track: '"bed"'
 Suffix Directory: true
 Bandcamp Track ID: 2872098558
 Date First Released: June 7, 2025
-Artists:
-- rj lake
-- Clara Maddux
 Contributors:
-- Clara Maddux (arrangement, guitar, mixing, mastering)
+- clara maddux (arrangement, guitar, mixing, mastering)
 - rj lake (composition)
-Duration: 2:01
+Duration: 2:02
 URLs:
 - https://dcellgames.bandcamp.com/track/bed
+- https://www.youtube.com/watch?v=X_54jIYvJFc
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/bed)
 
@@ -686,14 +708,13 @@ Crediting Sources: |-
 Track: homework soup
 Bandcamp Track ID: 355985082
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, guitars, bass, drums)
-- Vasily Nikolaev (mixing, mastering)
-Duration: 3:42
+- clara maddux (composition, arrangement, guitars, bass, drums)
+- vasily nikolaev (mixing, mastering)
+Duration: 3:43
 URLs:
 - https://dcellgames.bandcamp.com/track/homework-soup
+- https://www.youtube.com/watch?v=vD14TK5CTMk
 Referenced Tracks:
 - homework salad
 Crediting Sources: |-
@@ -709,13 +730,12 @@ Referencing Sources: |-
 Track: eating is living (instrumental)
 Bandcamp Track ID: 2666413521
 Date First Released: June 7, 2025
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, bass, mixing, mastering)
-Duration: 2:16
+- vasily nikolaev (composition, arrangement, bass, mixing, mastering)
+Duration: 2:17
 URLs:
 - https://dcellgames.bandcamp.com/track/eating-is-living-instrumental
+- https://www.youtube.com/watch?v=slNLbY4wD5c
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/eating-is-living-instrumental)
 
@@ -724,13 +744,12 @@ Crediting Sources: |-
 Track: (i luv it)
 Bandcamp Track ID: 1590916890
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
-Duration: 2:25
+- clara maddux (composition, arrangement, mixing, mastering)
+Duration: 2:26
 URLs:
 - https://dcellgames.bandcamp.com/track/i-luv-it
+- https://www.youtube.com/watch?v=eTNQvOKXUPg
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/i-luv-it)
 
@@ -743,13 +762,12 @@ Crediting Sources: |-
 Track: cross my heart
 Bandcamp Track ID: 1002036594
 Date First Released: June 7, 2025
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, mixing, mastering)
-Duration: 2:32
+- vasily nikolaev (composition, arrangement, mixing, mastering)
+Duration: 2:33
 URLs:
 - https://dcellgames.bandcamp.com/track/cross-my-heart
+- https://www.youtube.com/watch?v=mrceucsZnL0
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/cross-my-heart)
 
@@ -758,13 +776,12 @@ Crediting Sources: |-
 Track: where is everyone
 Bandcamp Track ID: 1283121413
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
-Duration: 2:18
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
+Duration: 2:19
 URLs:
 - https://dcellgames.bandcamp.com/track/where-is-everyone
+- https://www.youtube.com/watch?v=eeTABhuxE0U
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/where-is-everyone)
 
@@ -773,13 +790,12 @@ Crediting Sources: |-
 Track: Nostalgia. Bitters. Demerara.
 Bandcamp Track ID: 2534856828
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
-Duration: 1:33
+- clara maddux (composition, arrangement, mixing, mastering)
+Duration: 1:34
 URLs:
 - https://dcellgames.bandcamp.com/track/nostalgia-bitters-demerara
+- https://www.youtube.com/watch?v=82Iw8Zfnj_s
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/nostalgia-bitters-demerara)
 
@@ -787,13 +803,12 @@ Crediting Sources: |-
 ---
 Track: fragments from a forgotten sampler
 Bandcamp Track ID: 3582709165
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
-Duration: 1:08
+- clara maddux (composition, arrangement, mixing, mastering)
+Duration: 1:09
 URLs:
 - https://dcellgames.bandcamp.com/track/fragments-from-a-forgotten-sampler
+- https://www.youtube.com/watch?v=txjcx8-_sQ4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/fragments-from-a-forgotten-sampler)
 
@@ -802,13 +817,12 @@ Crediting Sources: |-
 Track: STOP AND FRISK
 Bandcamp Track ID: 2027277712
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 1:42
+Duration: 1:43
 URLs:
 - https://dcellgames.bandcamp.com/track/stop-and-frisk
+- https://www.youtube.com/watch?v=iec9Z_hY67I
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/stop-and-frisk)
 
@@ -817,13 +831,12 @@ Crediting Sources: |-
 Track: love you back
 Bandcamp Track ID: 2187439863
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
-Duration: 1:34
+- clara maddux (composition, arrangement, mixing, mastering)
+Duration: 1:35
 URLs:
 - https://dcellgames.bandcamp.com/track/love-you-back
+- https://www.youtube.com/watch?v=PPbUqUxgIU4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/love-you-back)
 
@@ -832,14 +845,13 @@ Crediting Sources: |-
 Track: homework salad
 Bandcamp Track ID: 6251755
 Date First Released: June 7, 2025
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, mixing, mastering)
-- Clara Maddux (additional guitar)
-Duration: 3:00
+- vasily nikolaev (composition, arrangement, mixing, mastering)
+- clara maddux (additional guitar)
+Duration: 3:01
 URLs:
 - https://dcellgames.bandcamp.com/track/homework-salad-2
+- https://www.youtube.com/watch?v=nrwAVkhizN0
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/homework-salad-2)
 
@@ -853,13 +865,12 @@ Crediting Sources: |-
 Track: ALTERNATIVE POLICING STRATEGY
 Bandcamp Track ID: 3875207912
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 1:46
+Duration: 1:47
 URLs:
 - https://dcellgames.bandcamp.com/track/alternative-policing-strategy
+- https://www.youtube.com/watch?v=W1IUTaz7yVU
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/alternative-policing-strategy)
 
@@ -868,13 +879,12 @@ Crediting Sources: |-
 Track: the needle stays ever still
 Bandcamp Track ID: 2190806192
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 0:54
+Duration: 0:55
 URLs:
 - https://dcellgames.bandcamp.com/track/the-needle-stays-ever-still
+- https://www.youtube.com/watch?v=YcT_LS3UZhs
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/the-needle-stays-ever-still)
 
@@ -883,14 +893,15 @@ Crediting Sources: |-
 Track: i'm glad i met you
 Bandcamp Track ID: 3392174917
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement)
+- clara maddux (composition, arrangement)
 - rj lake (mixing, mastering)
-Duration: 0:54
+Duration: 0:57
 URLs:
 - https://dcellgames.bandcamp.com/track/im-glad-i-met-you
+- https://www.youtube.com/watch?v=Zm4r1znz5bg
+Referenced Tracks:
+- moment of silence (unused)
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/im-glad-i-met-you)
 
@@ -900,13 +911,12 @@ Crediting Sources: |-
 Track: i barely even know her
 Bandcamp Track ID: 3798053270
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 3:16
 URLs:
 - https://dcellgames.bandcamp.com/track/i-barely-even-know-her
+- https://www.youtube.com/watch?v=Cv9IiK9RbyU
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/i-barely-even-know-her)
 
@@ -915,14 +925,13 @@ Crediting Sources: |-
 Track: coasting by day
 Bandcamp Track ID: 2133855198
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, guitars, bass, drums)
-- Vasily Nikolaev (mixing, mastering)
+- clara maddux (composition, arrangement, guitars, bass, drums)
+- vasily nikolaev (mixing, mastering)
 Duration: 2:46
 URLs:
 - https://dcellgames.bandcamp.com/track/coasting-by-day
+- https://www.youtube.com/watch?v=48L-XPRKuhc
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/coasting-by-day)
 
@@ -937,15 +946,13 @@ Crediting Sources: |-
 Track: cute melody, maybe something good
 Bandcamp Track ID: 4153081615
 Date First Released: June 7, 2025
-Artists:
-- Rachel Lake
-- Clara Maddux
 Contributors:
-- Rachel Lake (composition, vocals)
-- Clara Maddux (composition, arrangement, guitars, mixing, mastering)
+- rachel lake (composition, vocals)
+- clara maddux (composition, arrangement, guitars, mixing, mastering)
 Duration: 1:39
 URLs:
 - https://dcellgames.bandcamp.com/track/cute-melody-maybe-something-good
+- https://www.youtube.com/watch?v=6-n0Yok07jU
 Lyrics: |-
     now it's just a memory
     swaying by the sea
@@ -958,13 +965,12 @@ Crediting Sources: |-
 Track: '"""ambient calypso"""'
 Bandcamp Track ID: 3844959924
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 0:53
 URLs:
 - https://dcellgames.bandcamp.com/track/ambient-calypso
+- https://www.youtube.com/watch?v=0sngP3JOadI
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/ambient-calypso)
 
@@ -972,13 +978,15 @@ Crediting Sources: |-
 ---
 Track: APB
 Bandcamp Track ID: 2438468194
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
+Cover Artists:
+- Jesse Ebmeier
+Cover Art File Extension: png
 Duration: 1:33
 URLs:
 - https://dcellgames.bandcamp.com/track/apb
+- https://www.youtube.com/watch?v=nwhVtJ8f-AQ
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/apb)
 
@@ -987,13 +995,12 @@ Crediting Sources: |-
 Track: annie oakley
 Bandcamp Track ID: 2596943517
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, casio keys, mixing, mastering)
+- clara maddux (composition, arrangement, casio keys, mixing, mastering)
 Duration: 1:48
 URLs:
 - https://dcellgames.bandcamp.com/track/annie-oakley
+- https://www.youtube.com/watch?v=bnDFfW_eYBo
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/annie-oakley)
 
@@ -1002,13 +1009,15 @@ Crediting Sources: |-
 Track: It's Whacktime!
 Bandcamp Track ID: 394711488
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, beatball arrangement, mixing, mastering)
+Cover Artists:
+- Jamie Lee (as yuzuyooja)
+Cover Art File Extension: png
 Duration: 2:04
 URLs:
 - https://dcellgames.bandcamp.com/track/its-whacktime
+- https://www.youtube.com/watch?v=dT9tKYQHIw0
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/its-whacktime)
 
@@ -1017,16 +1026,14 @@ Crediting Sources: |-
 Track: might be overthinking this one
 Bandcamp Track ID: 2464137229
 Date First Released: June 7, 2025
-Artists:
-- rj lake
-- Clara Maddux
 Contributors:
-- Rachel Lake (vocals)
+- rachel lake (vocals)
 - rj lake (composition, arrangement)
-- Clara Maddux (composition, arrangement, guitars, mixing, mastering)
+- clara maddux (composition, arrangement, guitars, mixing, mastering)
 Duration: 1:58
 URLs:
 - https://dcellgames.bandcamp.com/track/might-be-overthinking-this-one
+- https://www.youtube.com/watch?v=gf7TnzPpfCU
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/might-be-overthinking-this-one)
 
@@ -1037,16 +1044,17 @@ Crediting Sources: |-
 Track: Ball is Infinite
 Bandcamp Track ID: 3305386108
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
-- Vasily Nikolaev
 Contributors:
-- Clara Maddux (composition, arrangement, guitars, keys, mixing, mastering)
-- Vasily Nikolaev (composition, arrangement)
+- clara maddux (composition, arrangement, guitars, keys, mixing, mastering)
+- vasily nikolaev (composition, arrangement)
 - rj lake (beatball arrangement)
+Cover Artists:
+- Jamie Lee (as yuzuyooja)
+Cover Art File Extension: png
 Duration: 1:30
 URLs:
 - https://dcellgames.bandcamp.com/track/ball-is-infinite
+- https://www.youtube.com/watch?v=_lftE4UAQm8
 Referenced Tracks:
 - Charge
 Commentary: |-
@@ -1063,13 +1071,12 @@ Track: CITATION NEEDED
 Suffix Directory: true
 Bandcamp Track ID: 1264176255
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:24
 URLs:
 - https://dcellgames.bandcamp.com/track/citation-needed
+- https://www.youtube.com/watch?v=MrPoX98t3Xw
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/citation-needed)
 
@@ -1078,13 +1085,12 @@ Crediting Sources: |-
 Track: coasting by night
 Bandcamp Track ID: 2315274687
 Date First Released: June 7, 2025
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (written by, mixing, mastering, additional guitar, auxiliary percussion, keys)
+- vasily nikolaev (written by, mixing, mastering, additional guitar, auxiliary percussion, keys)
 Duration: 3:18
 URLs:
 - https://dcellgames.bandcamp.com/track/coasting-by-night
+- https://www.youtube.com/watch?v=pD7xbbnpM_4
 Referenced Tracks:
 - coasting by day
 Sampled Tracks:
@@ -1103,13 +1109,12 @@ Referencing Sources: |-
 Track: no really where is everyone
 Bandcamp Track ID: 3771198284
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, keys, drums, mixing, mastering)
+- clara maddux (composition, arrangement, keys, drums, mixing, mastering)
 Duration: 1:41
 URLs:
 - https://dcellgames.bandcamp.com/track/no-really-where-is-everyone
+- https://www.youtube.com/watch?v=_h2zvbKqXi4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/coasting-by-night)
 
@@ -1118,13 +1123,12 @@ Crediting Sources: |-
 Track: arriving anywhere
 Bandcamp Track ID: 571849425
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
 Duration: 1:55
 URLs:
 - https://dcellgames.bandcamp.com/track/arriving-anywhere
+- https://www.youtube.com/watch?v=NLtGyumIGSg
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/arriving-anywhere)
 
@@ -1133,13 +1137,12 @@ Crediting Sources: |-
 Track: worrying me about worrying you (?) (maybe bridge is too much)
 Bandcamp Track ID: 577765377
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 2:06
 URLs:
 - https://dcellgames.bandcamp.com/track/worrying-me-about-worrying-you-maybe-bridge-is-too-much
+- https://www.youtube.com/watch?v=7Sf3jOux5t0
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/worrying-me-about-worrying-you-maybe-bridge-is-too-much)
 
@@ -1148,13 +1151,12 @@ Crediting Sources: |-
 Track: DEAD BALL
 Bandcamp Track ID: 644133932
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:16
 URLs:
 - https://dcellgames.bandcamp.com/track/dead-ball
+- https://www.youtube.com/watch?v=TF9fenfBwD8
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/dead-ball)
 
@@ -1167,13 +1169,15 @@ Bandcamp Track ID: 3751305161
 Date First Released: June 7, 2025
 Additional Names:
 - SWING. (normalized)
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
+Cover Artists:
+- Z
+Cover Art File Extension: png
 Duration: 2:19
 URLs:
 - https://dcellgames.bandcamp.com/track/s-w-i-n-g-2
+- https://www.youtube.com/watch?v=doJH8r_jYyw
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/s-w-i-n-g-2)
 
@@ -1182,13 +1186,12 @@ Crediting Sources: |-
 Track: nearly automatic
 Bandcamp Track ID: 4108143722
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:20
 URLs:
 - https://dcellgames.bandcamp.com/track/nearly-automatic
+- https://www.youtube.com/watch?v=hEEULN7e0N8
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/nearly-automatic)
 
@@ -1198,13 +1201,12 @@ Track: eventually
 Suffix Directory: true
 Always Reference By Directory: true
 Bandcamp Track ID: 1162397182
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
+- clara maddux (composition, arrangement, mixing, mastering)
 Duration: 2:15
 URLs:
 - https://dcellgames.bandcamp.com/track/eventually
+- https://www.youtube.com/watch?v=kzrimXaaO7E
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/eventually)
 
@@ -1212,14 +1214,16 @@ Crediting Sources: |-
 ---
 Track: COP TRAUMA
 Bandcamp Track ID: 2799363231
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, guitars, bass, drums, mixing, mastering)
-- Vasily Nikolaev (additional synths)
+- clara maddux (composition, arrangement, guitars, bass, drums, mixing, mastering)
+- vasily nikolaev (additional synths)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 1:38
 URLs:
 - https://dcellgames.bandcamp.com/track/cop-trauma
+- https://www.youtube.com/watch?v=SCpO_QmPTEY
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/cop-trauma)
 
@@ -1228,57 +1232,57 @@ Crediting Sources: |-
 ---
 Track: shut up until i'm done
 Bandcamp Track ID: 3278812244
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 2:47
 URLs:
 - https://dcellgames.bandcamp.com/track/shut-up-until-im-done
+- https://www.youtube.com/watch?v=80eg-_11ofQ
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/shut-up-until-im-done)
 
     composition, arrangement, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: noodlin
+Track: noodlin'
+Additional Names:
+- noodlin (original title)
 Suffix Directory: true
 Always Reference By Directory: true
 Bandcamp Track ID: 2711665910
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 1:36
 URLs:
 - https://dcellgames.bandcamp.com/track/noodlin
+- https://www.youtube.com/watch?v=fX8ELcB6LYg
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/noodlin)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: hideout
-Suffix Directory: true
-Always Reference By Directory: true
-Artists:
-- rj lake
+Track: under normal circumstances this would be out of my price range
+Additional Names:
+- hideout (original title)
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 0:43
 URLs:
 - https://dcellgames.bandcamp.com/track/hideout
+- https://www.youtube.com/watch?v=EJUJLiwasEA
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/hideout)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: gnarly day
-Artists:
-- rj lake
+Track: a little louder
+Additional Names:
+- gnarly day (original title)
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 2:10
 URLs:
 - https://dcellgames.bandcamp.com/track/gnarly-day
+- https://www.youtube.com/watch?v=B0fEJek4M7Q
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/gnarly-day)
 
@@ -1287,13 +1291,15 @@ Crediting Sources: |-
 Track: GO FIGURE
 Suffix Directory: true
 Bandcamp Track ID: 2515390418
-Artists:
-- rj lake
 Contributors:
 - rj lake (vocals, composition, arrangement, lyrics, mixing, mastering)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
 Duration: 1:29
 URLs:
 - https://dcellgames.bandcamp.com/track/go-figure
+- https://www.youtube.com/watch?v=luIrUU0aCrg
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/go-figure)
 
@@ -1302,13 +1308,12 @@ Crediting Sources: |-
 ---
 Track: THE FLOOR IS LAVA
 Bandcamp Track ID: 3058336648
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, scratching, mixing, mastering)
 Duration: 0:54
 URLs:
 - https://dcellgames.bandcamp.com/track/the-floor-is-lava
+- https://www.youtube.com/watch?v=RST1hHCUybQ
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/the-floor-is-lava)
 
@@ -1316,52 +1321,54 @@ Crediting Sources: |-
 ---
 Track: NOT LOSING
 Bandcamp Track ID: 2456371864
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, scratching, mixing, mastering)
 Duration: 1:25
 URLs:
 - https://dcellgames.bandcamp.com/track/not-losing
+- https://www.youtube.com/watch?v=-1uQhfGQjHk
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/not-losing)
 
     composition, arrangement, guitar and scratching performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: bart ender
-Artists:
-- rj lake
+Track: two of whatever
+Additional Names:
+- bart ender (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 0:50
 URLs:
 - https://dcellgames.bandcamp.com/track/bart-ender
+- https://www.youtube.com/watch?v=0R7BKFbIlxc
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/bart-ender)
 
     composition, arrangement, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: gnarly night
-Artists:
-- rj lake
+Track: and looser
+Additional Names:
+- gnarly night (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 0:56
 URLs:
 - https://dcellgames.bandcamp.com/track/gnarly-night
+- https://www.youtube.com/watch?v=z_1R-YlP0e8
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/gnarly-night)
 
     composition, arrangement, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: Penny's Theme
-Artists:
-- rj lake
+Track: sound logic
+Additional Names:
+- Penny's Theme (original title)
 Contributors:
 - rj lake (composition, arrangement, scratching, mixing, mastering)
 Duration: 1:23
 URLs:
 - https://dcellgames.bandcamp.com/track/pennys-theme
+- https://www.youtube.com/watch?v=ehIVi4JN_eU
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/pennys-theme)
 
@@ -1369,41 +1376,40 @@ Crediting Sources: |-
 ---
 Track: OLD_FEELING
 Bandcamp Track ID: 958668753
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
-Duration: 1:36
+Duration: 1:35
 URLs:
 - https://dcellgames.bandcamp.com/track/old-feeling
+- https://www.youtube.com/watch?v=8xCOrDeWFFE
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/old-feeling)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: foolin day
-Artists:
-- rj lake
+Track: ALL CAPS
+Additional Names:
+- foolin day (original title)
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 3:30
 URLs:
 - https://dcellgames.bandcamp.com/track/foolin-day
+- https://www.youtube.com/watch?v=bO_pgAtDKf8
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/foolin-day)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: arcade
-Suffix Directory: true
-Always Reference By Directory: true
-Artists:
-- rj lake
+Track: human-sized plastic ashtray
+Additional Names:
+- arcade (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 0:59
 URLs:
 - https://dcellgames.bandcamp.com/track/arcade
+- https://www.youtube.com/watch?v=NovunwOe7pY
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/arcade)
 
@@ -1412,13 +1418,12 @@ Crediting Sources: |-
 Track: sound test
 Bandcamp Track ID: 3818128512
 Date First Released: June 7, 2025
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:22
 URLs:
 - https://dcellgames.bandcamp.com/track/sound-test
+- https://www.youtube.com/watch?v=t-c6Kx42CGk
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/sound-test)
 
@@ -1428,16 +1433,14 @@ Track: RESULTS !
 Suffix Directory: true
 Bandcamp Track ID: 676376141
 Date First Released: June 7, 2025
-Artists:
-- Vasily Nikolaev
-- Clara Maddux
 Contributors:
-- Rachel Lake (vocals)
-- Vasily Nikolaev (composition, arrangement, mixing, mastering)
-- Clara Maddux (composition, arrangement)
+- rachel lake (vocals)
+- vasily nikolaev (composition, arrangement, mixing, mastering)
+- clara maddux (composition, arrangement)
 Duration: 2:00
 URLs:
 - https://dcellgames.bandcamp.com/track/results
+- https://www.youtube.com/watch?v=5t4cIHO4D9M
 # Sampled Tracks:
 # - Think (About It)
 Crediting Sources: |-
@@ -1449,53 +1452,54 @@ Crediting Sources: |-
 ---
 Track: READY STEADY
 Bandcamp Track ID: 2519617954
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 1:44
 URLs:
 - https://dcellgames.bandcamp.com/track/ready-steady
+- https://www.youtube.com/watch?v=rm_vHCulAx8
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/ready-steady)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: foolin night
-Artists:
-- rj lake
+Track: no caps
+Additional Names:
+- foolin night (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:26
 URLs:
 - https://dcellgames.bandcamp.com/track/foolin-night
+- https://www.youtube.com/watch?v=jRBA4-hr6oc
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/foolin-night)
 
     composition, arrangement, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: bustle day
-Artists:
-- rj lake
+Track: bustle
+Additional Names:
+- bustle day (original title)
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 1:46
 URLs:
 - https://dcellgames.bandcamp.com/track/bustle-day
+- https://www.youtube.com/watch?v=DN-nQePIxj4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/bustle-day)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: school
-Suffix Directory: true
-Artists:
-- rj lake
+Track: another story for another time
+Additional Names:
+- school (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:03
 URLs:
 - https://dcellgames.bandcamp.com/track/school
+- https://www.youtube.com/watch?v=1umOszxJgo8
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/school)
 
@@ -1503,40 +1507,41 @@ Crediting Sources: |-
 ---
 Track: get crossed
 Bandcamp Track ID: 3200186476
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, bass, mixing, mastering)
+- vasily nikolaev (composition, arrangement, bass, mixing, mastering)
 Duration: 1:44
 URLs:
 - https://dcellgames.bandcamp.com/track/get-crossed
+- https://www.youtube.com/watch?v=Y8TlRNEYub4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/get-crossed)
 
     composition, arrangement, bass performed by, mixed and mastered by [[artist:vasily-nikolaev|vasily nikolaev]]
 ---
-Track: EXCITED DELERIUM
+Track: EXCITED DELIRIUM
+Additional Names:
+- EXCITED DELERIUM (original title)
 Bandcamp Track ID: 223326851
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 1:42
 URLs:
 - https://dcellgames.bandcamp.com/track/excited-delerium
+- https://www.youtube.com/watch?v=-A-Stsk390M
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/excited-delerium)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: konbini
-Artists:
-- rj lake
+Track: blue flavor
+Additional Names:
+- konbini (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
-Duration: 1:42
+Duration: 1:02
 URLs:
 - https://dcellgames.bandcamp.com/track/konbini
+- https://www.youtube.com/watch?v=2GTSNbt-g6U
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/konbini)
 
@@ -1546,18 +1551,27 @@ Track: eating is living ft. Anton Corazza
 Bandcamp Track ID: 640767902
 Track Text: >-
     eating is living ft. [[artist:anton-corazza|Anton Corazza]]
-Date First Released: June 12, 2025
+Date First Released: June 11, 2025
 Artists:
-- Vasily Nikolaev
+- D-CELL SOUND TEAM
 - Anton Corazza (featuring)
 Artist Text: >-
-    [[artist:vasily-nikolaev]]
+    [[artist:d-cell-sound-team]]
 Contributors:
 - Anton Corazza (lyrics, vocals)
-- Vasily Nikolaev (composition, arrangement, bass, mixing, mastering)
+- vasily nikolaev (composition, arrangement, bass, mixing, mastering)
+Cover Artists:
+- Z
+Cover Art File Extension: png
+Music Videos:
+- Date: June 10, 2025
+  URL: https://www.youtube.com/watch?v=seGuJiaJQUE
+  Artists:
+  - D-CELL GAMES
 Duration: 2:16
 URLs:
 - https://dcellgames.bandcamp.com/track/eating-is-living-ft-anton-corazza
+- https://www.youtube.com/watch?v=xTib4nQDWrM
 Referenced Tracks:
 - eating is living (instrumental)
 Lyrics: |-
@@ -1585,42 +1599,43 @@ Crediting Sources: |-
     lyrics, vocals performed by [[artist:anton-corazza|Anton Corazza]]<br>
     composition, arrangement, bass performed by, mixed and mastered by [[artist:vasily-nikolaev|vasily nikolaev]]
 ---
-Track: rooftop
-Suffix Directory: true
-Always Reference By Directory: true
-Artists:
-- rj lake
+Track: a stupid question asked seriously
+Additional Names:
+- rooftop (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:13
 URLs:
 - https://dcellgames.bandcamp.com/track/rooftop
+- https://www.youtube.com/watch?v=_eRURT7_sCs
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/rooftop)
 
     composition, arrangement, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: bustle night
-Artists:
-- rj lake
+Track: hustle
+Additional Names:
+- bustle night (original title)
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 1:36
 URLs:
 - https://dcellgames.bandcamp.com/track/bustle-night
+- https://www.youtube.com/watch?v=U4S1pgNlgLE
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/bustle-night)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: DEMONGIRL
-Artists:
-- rj lake
+Track: ROPE AND TEAR
+Additional Names:
+- DEMONGIRL (original title)
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 1:36
 URLs:
 - https://dcellgames.bandcamp.com/track/demongirl
+- https://www.youtube.com/watch?v=vVIhXWK9BHg
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/demongirl)
 
@@ -1628,26 +1643,26 @@ Crediting Sources: |-
 ---
 Track: NEW_FORM
 Bandcamp Track ID: 3215102634
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 1:38
 URLs:
 - https://dcellgames.bandcamp.com/track/new-form
+- https://www.youtube.com/watch?v=9U-FtjOmV6k
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/new-form)
 
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: hustle day
-Artists:
-- rj lake
+Track: i feel wrong when things go right
+Additional Names:
+- hustle day (original title)
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
 Duration: 2:02
 URLs:
 - https://dcellgames.bandcamp.com/track/hustle-day
+- https://www.youtube.com/watch?v=jrc4oEMWAVU
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/hustle-day)
 
@@ -1655,26 +1670,26 @@ Crediting Sources: |-
 ---
 Track: VICIOUS SYNDICATE
 Bandcamp Track ID: 3844495806
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:28
 URLs:
 - https://dcellgames.bandcamp.com/track/vicious-syndicate
+- https://www.youtube.com/watch?v=HheIrMPLleI
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/vicious-syndicate)
 
     composition, arrangement, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: citybar
-Artists:
-- rj lake
+Track: another round?
+Additional Names:
+- citybar (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 0:52
 URLs:
 - https://dcellgames.bandcamp.com/track/citybar
+- https://www.youtube.com/watch?v=wAByMt7PaJo
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/citybar)
 
@@ -1684,26 +1699,26 @@ Track: upset
 Suffix Directory: true
 Always Reference By Directory: true
 Bandcamp Track ID: 2401309736
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 1:16
 URLs:
 - https://dcellgames.bandcamp.com/track/upset
+- https://www.youtube.com/watch?v=E9MhrkE-Sy4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/upset)
 
     composition, arrangement, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
-Track: hustle night
-Artists:
-- rj lake
+Track: because at least the wrong is known
+Additional Names:
+- hustle night (original title)
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 0:57
 URLs:
 - https://dcellgames.bandcamp.com/track/hustle-night
+- https://www.youtube.com/watch?v=XZzvRzYRwPs
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/hustle-night)
 
@@ -1711,13 +1726,15 @@ Crediting Sources: |-
 ---
 Track: HARM ASSAULT
 Bandcamp Track ID: 2246534187
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, guitar, mixing, mastering)
+Cover Artists:
+- longiy
+Cover Art File Extension: png
 Duration: 6:37
 URLs:
 - https://dcellgames.bandcamp.com/track/harm-assault
+- https://www.youtube.com/watch?v=87I7cB5G0-U
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/harm-assault)
 
@@ -1725,17 +1742,14 @@ Crediting Sources: |-
 ---
 Track: a window.
 Bandcamp Track ID: 1010223951
-Artists:
-- Vasily Nikolaev
-- Clara Maddux
-- rj lake
 Contributors:
-- Vasily Nikolaev (composition, modular synth)
-- Clara Maddux (composition, guitar)
+- vasily nikolaev (composition, modular synth)
+- clara maddux (composition, guitar)
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 2:24
 URLs:
 - https://dcellgames.bandcamp.com/track/a-window
+- https://www.youtube.com/watch?v=PkPM5uPbToo
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/a-window)
 
@@ -1745,13 +1759,12 @@ Crediting Sources: |-
 ---
 Track: nothing, something, and everything
 Bandcamp Track ID: 1623033468
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, piano, mixing, mastering)
+- vasily nikolaev (composition, arrangement, piano, mixing, mastering)
 Duration: 1:54
 URLs:
 - https://dcellgames.bandcamp.com/track/nothing-something-and-everything
+- https://www.youtube.com/watch?v=IP-uBnzBhK0
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/nothing-something-and-everything)
 
@@ -1759,31 +1772,29 @@ Crediting Sources: |-
 ---
 Track: ZERO MOMENT
 Bandcamp Track ID: 3673190905
-Artists:
-- Clara Maddux
-- Vasily Nikolaev
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
-- Vasily Nikolaev (composition, additional sound design)
+- clara maddux (composition, arrangement, mixing, mastering)
+- vasily nikolaev (composition, additional sound design)
 Duration: 3:11
 URLs:
 - https://dcellgames.bandcamp.com/track/zero-moment
+- https://www.youtube.com/watch?v=P7O4WbYYnrI
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/zero-moment)
 
     composition, arrangment, mixed and mastered by [[artist:clara-maddux|clara maddux]]<br>
     composition, additional sound design by [[artist:vasily-nikolaev|vasily nikolaev]]
 ---
-Track: rest vs beat prelude
-Artists:
-- Clara Maddux
-- rj lake
+Track: You shouldn't be here.
+Additional Names:
+- rest vs beat prelude (original title)
 Contributors:
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
 - rj lake (composition, additional guitar)
 Duration: 1:14
 URLs:
 - https://dcellgames.bandcamp.com/track/rest-vs-beat-prelude
+- https://www.youtube.com/watch?v=GrkzBJNdSLI
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/rest-vs-beat-prelude)
 
@@ -1792,13 +1803,15 @@ Crediting Sources: |-
 ---
 Track: REST VS BEAT
 Bandcamp Track ID: 1254977511
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
+Cover Artists:
+- starapture
+Cover Art File Extension: png
 Duration: 2:30
 URLs:
 - https://dcellgames.bandcamp.com/track/rest-vs-beat
+- https://www.youtube.com/watch?v=WS9l5zM4eLE
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/rest-vs-beat)
 
@@ -1806,15 +1819,13 @@ Crediting Sources: |-
 ---
 Track: luxury of ignorance
 Bandcamp Track ID: 2378544844
-Artists:
-- Clara Maddux
-- rj lake
 Contributors:
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
 - rj lake (composition, additional synths)
 Duration: 2:20
 URLs:
 - https://dcellgames.bandcamp.com/track/luxury-of-ignorance
+- https://www.youtube.com/watch?v=FzP9JToDDvM
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/luxury-of-ignorance)
 
@@ -1824,14 +1835,13 @@ Crediting Sources: |-
 Track: game over.
 Suffix Directory: true
 Bandcamp Track ID: 1716746894
-Artists:
-- rj lake
 Contributors:
 - Jesse Ebmeier (voice)
 - rj lake (sound design, mixing, mastering)
 Duration: 1:12
 URLs:
 - https://dcellgames.bandcamp.com/track/game-over
+- https://www.youtube.com/watch?v=kOnDP62Nqy4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/game-over)
 
@@ -1841,13 +1851,12 @@ Crediting Sources: |-
 Track: metro [blue line version]
 Bandcamp Track ID: 118475617
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
 Duration: 2:00
 URLs:
 - https://dcellgames.bandcamp.com/track/metro-blue-line-version
+- https://www.youtube.com/watch?v=XY6FxulVtco
 Referenced Tracks:
 - metro [pink line version]
 Crediting Sources: |-
@@ -1863,14 +1872,13 @@ Track: goddammit
 Suffix Directory: true
 Always Reference By Directory: true
 Bandcamp Track ID: 3277965055
-Artists:
-- rj lake
 Contributors:
-- Rachel Lake (voice)
+- rachel lake (voice)
 - rj lake (guitar, mixing, mastering)
 Duration: 0:29
 URLs:
 - https://dcellgames.bandcamp.com/track/goddammit
+- https://www.youtube.com/watch?v=peQ-kZTKZqw
 Referenced Tracks:
 - forever now # from this album, not FOREVER NOW from ALBUM.
 Crediting Sources: |-
@@ -1881,51 +1889,237 @@ Crediting Sources: |-
 ---
 Track: DCUB 99.9 FM
 Bandcamp Track ID: 1664174040
-Artists:
-- rj lake
-- Clara Maddux
-- Vasily Nikolaev
 Contributors:
 - rj lake (demo tracks)
-- Clara Maddux (demo tracks)
-- Vasily Nikolaev (demo tracks, sound design, soundtrack arrangement)
+- clara maddux (demo tracks)
+- vasily nikolaev (demo tracks, sound design, soundtrack arrangement)
 Duration: 17:06
 URLs:
 - https://dcellgames.bandcamp.com/track/dcub-999-fm
+- https://www.youtube.com/watch?v=WgDdSyz3cvg
 # Sampled Tracks:
 # - Amen, Brother #the one starting at 6:05
+Referenced Tracks:
+- guitar center
+- chemex zone
+- DOMA LOOP
+- AMATEUR HOUR
+- GAME MUSIC METAL LOOP
+- Good Enough
+- liquid in 3
+- FUNNY LOOP
+- vagabond
+- DUM HOUSE LOOP
+- fair weather
+- CITY_2
+- eh yeah whatever
+- CITY_4
+- CITY_5
+Sampled Tracks:
+- guitar center
+- chemex zone
+- DOMA LOOP
+- AMATEUR HOUR
+- GAME MUSIC METAL LOOP
+- Good Enough
+- liquid in 3
+- FUNNY LOOP
+- vagabond
+- DUM HOUSE LOOP
+- fair weather
+- CITY_2
+- eh yeah whatever
+- CITY_4
+- CITY_5
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/dcub-999-fm)
 
     demo tracks by [[artist:rj-lake|rj lake]], [[artist:clara-maddux|clara maddux]], and [[artist:vasily-nikolaev|vasily nikolaev]]<br>
     sound design and soundtrack arrangement by [[artist:vasily-nikolaev|vasily nikolaev]]
 ---
+Aside Section: DCUB 99.9 FM digital distribution
+Description: >-
+    The digital distrubition album unbeatable (ost) - DISC THREE had most of [[track:dcub-99-9-fm]] separated into separate tracks.
+Count Tracks In Album Duration: false
+Has Track Numbers: False
+---
+Track: DCUB 99.9 FM (short version)
+Duration: 4:22
+Contributors:
+- rj lake (demo tracks)
+- clara maddux (demo tracks)
+- vasily nikolaev (demo tracks)
+URLs:
+- https://open.spotify.com/track/4JEb7M6sdlDbBTAucxw6yT
+- https://music.apple.com/song/dcub-99-9-fm-short-version/6802088652
+Referenced Tracks:
+- CITY_5
+- DOMA LOOP
+- GAME MUSIC METAL LOOP
+- FUNNY LOOP
+- DUM HOUSE LOOP
+- CITY_2
+- CITY_4
+Sampled Tracks:
+- CITY_5
+- DOMA LOOP
+- GAME MUSIC METAL LOOP
+- FUNNY LOOP
+- DUM HOUSE LOOP
+- CITY_2
+- CITY_4
+---
+Track: guitar center
+Duration: 0:41
+Contributors:
+- clara maddux (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4SECqujfoE83qSBdFDADES
+- https://music.apple.com/song/guitar-center/6802088653
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/guitar-center/6802088653)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:clara-maddux|Clara Maddux]]<br>
+    Songwriter: [[artist:clara-maddux|Clara Maddux]]<br>
+    Producer: [[artist:clara-maddux|Clara Maddux]]
+---
+Track: chemex zone
+Duration: 0:44
+Contributors:
+- vasily nikolaev (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4FPhjsGWIyrx7EAWDakhap
+- https://music.apple.com/song/chemex-zone/6802088654
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/chemex-zone/6802088654)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Songwriter: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Producer: [[artist:vasily-nikolaev|Vasily Nikolaev]]
+---
+Track: AMATEUR HOUR
+Duration: 2:50
+Contributors:
+- rj lake (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4pMOCaqhDhu03FevYJoY7B
+- https://music.apple.com/song/amateur-hour/6802088655
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/amateur-hour/6802088655)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:rj-lake|rj lake]]<br>
+    Songwriter: [[artist:rj-lake|rj lake]]<br>
+    Producer: [[artist:rj-lake|rj lake]]
+---
+Track: liquid in 3
+Duration: 1:41
+Contributors:
+- vasily nikolaev (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/6CFHNcuSjVlEY1NpLYH7iT
+- https://music.apple.com/song/liquid-in-3/6802088656
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/liquid-in-3/6802088656)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Songwriter: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Producer: [[artist:vasily-nikolaev|Vasily Nikolaev]]
+---
+Track: vagabond
+Duration: 1:59
+Contributors:
+- vasily nikolaev (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/0VbY7ZkSqXrpyvAh7ag2IS
+- https://music.apple.com/song/vagabond/6802088657
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/vagabond/6802088657)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Songwriter: [[artist:vasily-nikolaev|Vasily Nikolaev]]<br>
+    Producer: [[artist:vasily-nikolaev|Vasily Nikolaev]]
+---
+Track: fair weather
+Duration: 1:07
+Contributors:
+- clara maddux (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/30JAUkoBc4lXlu6txsCApx
+- https://music.apple.com/song/fair-weather/6802088658
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/fair-weather/6802088658)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:clara-maddux|Clara Maddux]]<br>
+    Songwriter: [[artist:clara-maddux|Clara Maddux]]<br>
+    Producer: [[artist:clara-maddux|Clara Maddux]]
+---
+Track: eh yeah whatever
+Duration: 0:32
+Contributors:
+- clara maddux (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4zeMaMMc9b0tZbiuDrUw16
+- https://music.apple.com/song/eh-yeah-whatever/6802088659
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/eh-yeah-whatever/6802088659)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:clara-maddux|Clara Maddux]]<br>
+    Songwriter: [[artist:clara-maddux|Clara Maddux]]<br>
+    Producer: [[artist:clara-maddux|Clara Maddux]]
+---
+Track: Good Enough
+Duration: 3:31
+Artists:
+- D-CELL SOUND TEAM
+- rj lake
+- Polychromatic!
+Contributors:
+- rj lake (songwriter, producer, other instrument)
+URLs:
+- https://open.spotify.com/track/4qRCqLUm1asiqZWvmbsGtE
+- https://music.apple.com/song/good-enough/6802088660
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/good-enough/6802088660)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]], [[artist:rj-lake|rj lake]], [[artist:polychromatic|Poly-Chromatic]]<br>
+    Other Instrument: [[artist:rj-lake|rj lake]]<br>
+    Songwriter: [[artist:rj-lake|rj lake]]<br>
+    Producer: [[artist:rj-lake|rj lake]]
+---
+Close Aside Section: DCUB 99.9 FM digital distribution
+---
 Track: floating
 Suffix Directory: true
 Always Reference By Directory: true
 Bandcamp Track ID: 1578090628
-Artists:
-- rj lake
 Contributors:
+- Katharina Kornmesser (vocals)
 - rj lake (vocals, composition, arrangement, guitar, mixing, mastering)
 Duration: 2:04
 URLs:
 - https://dcellgames.bandcamp.com/track/floating
+- https://www.youtube.com/watch?v=9vqTWP-orIo
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/floating)
 
-    vocals performed by [[artist:rj-lake|rj lake]]<br>
+    vocals performed by [[artist:katharina-kornmesser|KatharinaKornmesser]] & [[artist:rj-lake|rj lake]]<br>
     composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
 ---
 Track: this isn't a love story
 Bandcamp Track ID: 3124620798
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 0:35
 URLs:
 - https://dcellgames.bandcamp.com/track/this-isnt-a-love-story
+- https://www.youtube.com/watch?v=78ty1xHwKAw
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/this-isnt-a-love-story)
 
@@ -1933,13 +2127,12 @@ Crediting Sources: |-
 ---
 Track: next to nothing
 Bandcamp Track ID: 1281541506
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, mixing, mastering)
+- clara maddux (composition, arrangement, mixing, mastering)
 Duration: 1:53
 URLs:
 - https://dcellgames.bandcamp.com/track/next-to-nothing
+- https://www.youtube.com/watch?v=vhQA4tbZKdQ
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/next-to-nothing)
 
@@ -1947,13 +2140,12 @@ Crediting Sources: |-
 ---
 Track: prison system
 Bandcamp Track ID: 2464691087
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Vasily Nikolaev (composition, arrangement, mixing, mastering)
+- vasily nikolaev (composition, arrangement, mixing, mastering)
 Duration: 0:52
 URLs:
 - https://dcellgames.bandcamp.com/track/prison-system
+- https://www.youtube.com/watch?v=H67sdbcbUqc
 Referenced Tracks:
 - ground rules
 Crediting Sources: |-
@@ -1967,13 +2159,15 @@ Referencing Sources: |-
 ---
 Track: SILENT SPIRAL
 Bandcamp Track ID: 3007239178
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (vocals, composition, arrangement, mixing, mastering)
-Duration: 0:52
+- clara maddux (vocals, composition, arrangement, mixing, mastering)
+Cover Artists:
+- Michelle Ramos
+Cover Art File Extension: png
+Duration: 2:58
 URLs:
 - https://dcellgames.bandcamp.com/track/silent-spiral
+- https://www.youtube.com/watch?v=VbygnFNDwk4
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/silent-spiral)
 
@@ -1982,14 +2176,13 @@ Crediting Sources: |-
 ---
 Track: PRONTO A MOLTO
 Bandcamp Track ID: 1656567843
-Artists:
-- Vasily Nikolaev
 Contributors:
-- Rachel Lake (vocals)
-- Vasily Nikolaev (composition, arrangement, guitar, mixing, mastering)
+- rachel lake (vocals)
+- vasily nikolaev (composition, arrangement, guitar, mixing, mastering)
 Duration: 4:37
 URLs:
 - https://dcellgames.bandcamp.com/track/pronto-a-molto
+- https://www.youtube.com/watch?v=Frg2YxO2Vtg
 Referenced Tracks:
 - (i luv it)
 Crediting Sources: |-
@@ -2004,13 +2197,12 @@ Referencing Sources: |-
 ---
 Track: INFINITY CHASE
 Bandcamp Track ID: 1659318156
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 3:35
 URLs:
 - https://dcellgames.bandcamp.com/track/infinity-chase
+- https://www.youtube.com/watch?v=DfvMTgq-C2c
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/infinity-chase)
 
@@ -2018,13 +2210,12 @@ Crediting Sources: |-
 ---
 Track: you're not that pretty
 Bandcamp Track ID: 2142235198
-Artists:
-- rj lake
 Contributors:
 - rj lake (composition, arrangement, mixing, mastering)
 Duration: 4:06
 URLs:
 - https://dcellgames.bandcamp.com/track/youre-not-that-pretty
+- https://www.youtube.com/watch?v=MSktl2NJaxM
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/youre-not-that-pretty)
 
@@ -2033,15 +2224,14 @@ Crediting Sources: |-
 Track: forever now
 Directory: forever-now-ost
 Bandcamp Track ID: 3596925991
-Artists:
-- Clara Maddux
 Contributors:
 - Jules de Jongh (vocals)
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
 - rj lake (lyrics)
 Duration: 1:11
 URLs:
 - https://dcellgames.bandcamp.com/track/forever-now-3
+- https://www.youtube.com/watch?v=e-_uM7Oj8Bs
 Lyrics: |-
     here’s a song i’ve written just for you
     to remember when you are alone
@@ -2064,13 +2254,12 @@ Crediting Sources: |-
 ---
 Track: seven years different
 Bandcamp Track ID: 1792473552
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (composition, arrangement, guitar, mixing, mastering)
+- clara maddux (composition, arrangement, guitar, mixing, mastering)
 Duration: 5:44
 URLs:
 - https://dcellgames.bandcamp.com/track/seven-years-different
+- https://www.youtube.com/watch?v=qw_yVZkc2mA
 Referenced Tracks:
 - forever now # from this album, not FOREVER NOW from ALBUM.
 Sampled Tracks:
@@ -2082,15 +2271,14 @@ Crediting Sources: |-
 ---
 Track: brain poison (demo)
 Bandcamp Track ID: 3547900342
-Artists:
-- rj lake
 Contributors:
 - Rebecca LaChance (vocals)
 - rj lake (composition, arrangement, lyrics, mixing, mastering)
-- Clara Maddux (mixing, mastering)
+- clara maddux (mixing, mastering)
 Duration: 0:19
 URLs:
 - https://dcellgames.bandcamp.com/track/brain-poison-demo
+- https://www.youtube.com/watch?v=9Gj5e7XLIrw
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/brain-poison-demo)
 
@@ -2101,13 +2289,12 @@ Crediting Sources: |-
 Track: metro [pink line version]
 Bandcamp Track ID: 3126976995
 Date First Released: June 7, 2025
-Artists:
-- Clara Maddux
 Contributors:
-- Clara Maddux (writing, guitar, mixing, mastering)
+- clara maddux (writing, guitar, mixing, mastering)
 Duration: 1:49
 URLs:
 - https://dcellgames.bandcamp.com/track/metro-pink-line-version
+- https://www.youtube.com/watch?v=90l7_g_rook
 Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/metro-pink-line-version)
 
@@ -2117,3 +2304,55 @@ Crediting Sources: |-
     @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/metro-blue-line-version) for [[track:metro-blue-line-version]]
 
     based on ""[[track:metro-pink-line-version|metro \[pink line version\]]]"" by [[artist:peak-divide|peak divide]]
+---
+Track: at the center of it all [extended demo]
+Date First Released: July 27, 2026 ##per "dateModified":"27 Jul 2026 20:39:21 GMT"
+Contributors:
+- clara maddux (composition, arrangement, guitar)
+Duration: 2:45
+URLs:
+- https://dcellgames.bandcamp.com/track/at-the-center-of-it-all-extended-demo
+- https://www.youtube.com/watch?v=RlUzEzZIMT8
+Crediting Sources: |-
+    @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/at-the-center-of-it-all-extended-demo)
+
+    composition, arrangement, guitar performed by clara maddux
+---
+Aside Section: Digital distribution additional bonus tracks
+Description: >-
+    Additional bonus tracks only included in the unbeatable (ost) - DISC THREE album on digital distribution.
+Count Tracks In Album Duration: false
+Start Counting From: 32
+---
+Track: under normal circumstances this would be out of my price range (extended mix)
+Date First Released: August 17, 2026
+Contributors:
+- rj lake (composition, arrangement, guitar)
+Duration: 1:47
+URLs:
+- https://open.spotify.com/track/2aS7URQXgzbyG45ccksorR
+- https://music.apple.com/song/under-normal-circumstances-this-would-be-out-of-my/6802088706
+Referenced Tracks:
+- under normal circumstances this would be out of my price range
+Sampled Tracks:
+- under normal circumstances this would be out of my price range
+Crediting Sources: |-
+    @@ [Bandcamp credits](https://dcellgames.bandcamp.com/track/under-normal-circumstances-this-would-be-out-of-my-price-range) for [[track:under-normal-circumstances-this-would-be-out-of-my-price-range]]
+
+    composition, arrangement, guitar performed by, mixed and mastered by [[artist:rj-lake|rj lake]]
+---
+Track: moment of silence (unused)
+Date First Released: August 17, 2026
+Contributors:
+- rj lake (songwriter, producer, other instrument)
+Duration: 2:55
+URLs:
+- https://open.spotify.com/track/7G0YMRyhYg2aTX7XLmlGGS
+- https://music.apple.com/song/moment-of-silence-unused/6802088707
+Crediting Sources: |-
+    @@ [Apple Music credits](https://music.apple.com/song/under-normal-circumstances-this-would-be-out-of-my/6802088706)
+
+    Artist: [[artist:d-cell-sound-team|D-CELL SOUND TEAM]]<br>
+    Other Instrument: [[artist:rj-lake|rj lake]]<br>
+    Songwriter: [[artist:rj-lake|rj lake]]<br>
+    Producer: [[artist:rj-lake|rj lake]]
